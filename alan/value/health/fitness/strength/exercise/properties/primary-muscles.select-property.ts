@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const primaryMuscles = {
   id: "01a0657e-2bc0-76e6-9024-ceadf74cf40b",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "primary-muscles",
   propertySlug: "primary-muscles",
   definition: "what the movement is meant to work",

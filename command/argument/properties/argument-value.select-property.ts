@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const argumentValue = {
   id: "01a093fd-34bc-7502-9460-0a9278a3c9c8",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "argument-value",
   propertySlug: "value",
   definition: "what an argument carries after the way that argument is spelled",

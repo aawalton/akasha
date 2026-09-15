@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const source = {
   id: "01a063de-2c60-701e-9aed-2067429a2664",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "source",
   propertySlug: "source",
   definition: "where a collection was imported from",

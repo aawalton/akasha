@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const controlledEntityKind = {
   id: "01a0673c-8e0e-7007-846b-f52757583f80",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "controlled-entity-kind",
   propertySlug: "controlled-entity-kind",
   definition: "how many characters the player has at once",

@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const connectionActivitySafety = {
   id: "01a0658e-c30e-73bb-985f-a37f0c4401b7",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "connection-activity-safety",
   propertySlug: "connection-activity-safety",
   definition: "the safety level he has to be at to get anything from it",

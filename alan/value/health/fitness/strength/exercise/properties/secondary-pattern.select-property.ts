@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const secondaryPattern = {
   id: "01a0657e-2bc0-7adf-acea-1bc5294c147f",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "secondary-pattern",
   propertySlug: "secondary-pattern",
   definition: "a second movement shape the exercise also trains",

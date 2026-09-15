@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const display = {
   id: "01a0658c-329a-7432-acf0-aada90a012ff",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "display",
   propertySlug: "display",
   definition: "which monitor it drives",

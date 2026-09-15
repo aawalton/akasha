@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const platform = {
   id: "01a06e4f-b737-758d-9fe7-576149259344",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "platform",
   propertySlug: "platform",
   definition: "the machine a player's account is played on",

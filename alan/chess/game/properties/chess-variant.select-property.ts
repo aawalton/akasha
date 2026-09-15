@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const chessVariant = {
   id: "01a06582-bd62-7e3d-b7b8-4f186da6875b",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "chess-variant",
   propertySlug: "variant",
   definition: "which chess a game was played as",

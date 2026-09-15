@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const narrowComparison = {
   id: "01a063ee-2a3b-7703-9869-e8ab3280d56f",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "narrow-comparison",
   propertySlug: "comparison",
   definition: "how one narrow weighs a page's value against what it names",

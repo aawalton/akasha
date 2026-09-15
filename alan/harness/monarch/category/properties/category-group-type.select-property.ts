@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const categoryGroupType = {
   id: "01a0680a-1a00-700b-a4e7-8b5d1c9f110b",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "category-group-type",
   propertySlug: "category-group-type",
   definition: "which way money runs through a category's group",

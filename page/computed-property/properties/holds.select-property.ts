@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const holds = {
   id: "01a06952-7a5c-7bad-8818-9124b8845f75",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "holds",
   propertySlug: "holds",
   definition: "the kind of value a calculation works out",

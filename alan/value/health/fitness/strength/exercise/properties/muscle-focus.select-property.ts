@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const muscleFocus = {
   id: "01a0657e-2bc0-7229-8e6a-9937d7e7b16e",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "muscle-focus",
   propertySlug: "muscle-focus",
   definition: "which day of the rotation the movement belongs to",

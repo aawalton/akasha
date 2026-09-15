@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const matchComparison = {
   id: "01a0680c-3c00-7001-a763-8d2f5b9e3102",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "match-comparison",
   propertySlug: "comparison",
   definition: "how a clause weighs what it tests against what it holds",

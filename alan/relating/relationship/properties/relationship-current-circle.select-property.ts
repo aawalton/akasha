@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const relationshipCurrentCircle = {
   id: "01a06594-c6e2-7657-a778-b726cb004ee3",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "relationship-current-circle",
   propertySlug: "relationship-current-circle",
   definition: "how close to Alan this person is now",

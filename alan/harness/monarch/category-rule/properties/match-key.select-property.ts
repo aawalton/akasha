@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const matchKey = {
   id: "01a0680c-3c00-7000-9b28-4e7a1d5c3101",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "match-key",
   propertySlug: "key",
   definition: "what about a transaction a clause tests",

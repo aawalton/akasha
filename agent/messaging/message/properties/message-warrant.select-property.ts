@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const messageWarrant = {
   id: "01a06818-107b-7002-8cb9-81d4d299a260",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "message-warrant",
   propertySlug: "warrant",
   definition: "what a message claims of the sender while it waits",

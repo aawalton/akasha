@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const emailRuleCodeFiling = {
   id: "01a06860-549f-7088-a74f-de255a1b5b39",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "email-rule-code-filing",
   propertySlug: "filing",
   definition: "whether a piece of mail the rule matches leaves the inbox",

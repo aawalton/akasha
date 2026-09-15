@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const lifeThemeStatus = {
   id: "01a06575-c2c0-7b91-a932-fc1cef6fd656",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "life-theme-status",
   propertySlug: "life-theme-status",
   definition: "how far along a life theme is",

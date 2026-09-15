@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const cpu = {
   id: "01a0658c-329a-7f4d-8196-79171c58a3a3",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "cpu",
   propertySlug: "cpu",
   definition: "which processor it runs",

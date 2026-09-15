@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const chessProgressStatus = {
   id: "01a06582-bd62-79d5-a108-e94ea6a69b8e",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "chess-progress-status",
   propertySlug: "status",
   definition: "how settled a part of Alan's chess is",

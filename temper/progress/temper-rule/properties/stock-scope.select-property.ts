@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const stockScope = {
   id: "01a05fd0-3aa6-791c-b6da-a96ebc31c770",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "stock-scope",
   propertySlug: "stock-scope",
   definition: "how widely a stocking rule counts what is already held",

@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const chessOutcome = {
   id: "01a06582-bd62-7dba-bf3d-2305634deb70",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "chess-outcome",
   propertySlug: "outcome",
   definition: "how a game went for Alan",

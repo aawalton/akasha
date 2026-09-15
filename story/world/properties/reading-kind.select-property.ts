@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const readingKind = {
   id: "01a063ce-6216-7005-95f1-cc6876e8a107",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "reading-kind",
   propertySlug: "reading-kind",
   definition: "what sort of thing a name in a world's text names",

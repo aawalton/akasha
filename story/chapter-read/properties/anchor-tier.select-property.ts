@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const anchorTier = {
   id: "01a0685e-ef8a-7c8d-8b8c-de6047bf0040",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "anchor-tier",
   propertySlug: "tier",
   definition: "how close an anchor pins the moment it dates",

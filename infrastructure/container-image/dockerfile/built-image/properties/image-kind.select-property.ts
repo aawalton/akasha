@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const imageKind = {
   id: "01a08193-7355-71ba-87d6-55a66969775c",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "image-kind",
   propertySlug: "kind",
   definition: "the sort of Dockerfile written for an image",

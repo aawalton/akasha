@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const about = {
   id: "01a0658a-739f-7163-8cca-6370b5500c7f",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "about",
   propertySlug: "about",
   definition: "what the statement is about",

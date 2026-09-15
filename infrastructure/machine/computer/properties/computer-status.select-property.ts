@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const computerStatus = {
   id: "01a0658c-329a-7a34-a07d-25a81f30954a",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "computer-status",
   propertySlug: "computer-status",
   definition: "where it is in Alan's hands",

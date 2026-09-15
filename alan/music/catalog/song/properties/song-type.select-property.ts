@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const songType = {
   id: "01a06243-144b-7007-a86b-aaf8bdbc945b",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "song-type",
   propertySlug: "song-type",
   definition: "whether a song is the artist's own composition or a reading of someone else's",

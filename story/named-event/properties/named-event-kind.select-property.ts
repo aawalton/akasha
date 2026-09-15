@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const namedEventKind = {
   id: "01a0658b-9f41-7310-9c24-db088c2b42b4",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "named-event-kind",
   propertySlug: "named-event-kind",
   definition: "what sort of happening it is",

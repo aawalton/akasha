@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const relationshipDepositSize = {
   id: "01a0658d-16bc-738e-9d2e-3534cd4e99e1",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "relationship-deposit-size",
   propertySlug: "relationship-deposit-size",
   definition: "how much it put in",

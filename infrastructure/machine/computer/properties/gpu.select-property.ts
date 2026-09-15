@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const gpu = {
   id: "01a0658c-329a-75c8-9044-3abbb33f0293",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "gpu",
   propertySlug: "gpu",
   definition: "which graphics card it runs",

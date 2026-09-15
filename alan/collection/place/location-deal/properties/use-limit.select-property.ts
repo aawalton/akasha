@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const useLimit = {
   id: "01a06585-5fc5-73dd-8b25-bb4b4eaf5918",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "use-limit",
   propertySlug: "use-limit",
   definition: "how many times the offer may be claimed",

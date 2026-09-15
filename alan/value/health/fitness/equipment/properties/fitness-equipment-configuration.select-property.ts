@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const fitnessEquipmentConfiguration = {
   id: "01a06865-7f45-7b38-8b71-89af2d19a5a6",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "fitness-equipment-configuration",
   propertySlug: "configuration",
   definition: "how many of a piece there are and whether its load moves",

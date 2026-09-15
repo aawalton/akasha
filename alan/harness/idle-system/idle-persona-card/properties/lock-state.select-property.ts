@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const lockState = {
   id: "01a06596-f0d5-700b-af22-da0e38963974",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "lock-state",
   propertySlug: "lock-state",
   definition: "whether a card has been opened yet",

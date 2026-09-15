@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const gpuSize = {
   id: "01a0658c-329a-7bea-9a01-26a5774ab8dc",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "gpu-size",
   propertySlug: "gpu-size",
   definition: "how much memory the graphics card carries",

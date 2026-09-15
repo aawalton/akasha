@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const anchorStanding = {
   id: "01a0685e-ef8a-7fef-b999-aae06d585ffb",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "anchor-standing",
   propertySlug: "standing",
   definition: "whether the story tells an anchor or a person in it says so",

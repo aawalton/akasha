@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const masteryLevel = {
   id: "01a06582-bd62-7187-be50-aa4e75fcf746",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "mastery-level",
   propertySlug: "mastery-level",
   definition: "how far a part of Alan's chess has come",

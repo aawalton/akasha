@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const saidAs = {
   id: "01a09483-5529-7998-ad2c-461a3f347977",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "said-as",
   propertySlug: "said-as",
   definition: "how a call fills an argument under one command",

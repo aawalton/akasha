@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const runStatus = {
   id: "01a06861-f664-743c-bf6b-31f5403c30b7",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "run-status",
   propertySlug: "run-status",
   definition: "how a pull ended",

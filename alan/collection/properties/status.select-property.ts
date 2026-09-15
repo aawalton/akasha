@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const status = {
   id: "01a063de-2c60-7011-92a6-0aefa2934d59",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "status",
   propertySlug: "status",
   definition: "how far a person has got with a collection",

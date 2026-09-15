@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const movementPattern = {
   id: "01a0657e-2bbf-7dea-b8cd-ef434268cd50",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "movement-pattern",
   propertySlug: "movement-pattern",
   definition: "the shape of the movement, which is what a session is balanced across",

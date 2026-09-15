@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const solverColor = {
   id: "01a06582-bd62-77f7-a5a9-76e438a7c6ff",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "solver-color",
   propertySlug: "solver-color",
   definition: "which side the solver moves",

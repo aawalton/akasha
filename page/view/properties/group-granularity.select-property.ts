@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const groupGranularity = {
   id: "01a0680d-4d00-7009-8c62-3f7a1d5b410a",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "group-granularity",
   propertySlug: "group-granularity",
   definition: "how wide a stretch of time one group of a view covers",

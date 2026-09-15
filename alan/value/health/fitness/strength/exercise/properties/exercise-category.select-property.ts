@@ -2,7 +2,7 @@ import type { SelectProperty } from "akasha/page/select-property/select-property
 
 export const exerciseCategory = {
   id: "01a0657e-2bbf-7a67-8e51-2974d08e36a8",
-  type: "select-property",
+  type: "page-type/select-property",
   slug: "exercise-category",
   propertySlug: "exercise-category",
   definition: "the broad training discipline the movement belongs to",
