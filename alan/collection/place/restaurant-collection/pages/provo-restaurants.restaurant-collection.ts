@@ -2,7 +2,7 @@ import type { RestaurantCollection } from "akasha/alan/collection/place/restaura
 
 export const provoRestaurants = {
   id: "01a06808-aeb8-7001-96d0-118189201a90",
-  type: "restaurant-collection",
+  type: "page-type/restaurant-collection",
   slug: "provo-restaurants",
   title: "Provo Restaurants",
   position: 0,
