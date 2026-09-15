@@ -2195,12 +2195,12 @@
 {"propertySlug":"invariant-kind","path":"command/pages/track/session/switch/track-session-switch.command.ts","id":"01a07979-7e5f-7249-9356-fdb1cc6b9acc"}
 {"propertySlug":"invariant-kind","path":"command/pages/track/weight/track-weight.command.ts","id":"01a07bfe-36da-7166-8f06-6fa75c6f8c29"}
 {"propertySlug":"invariant-kind","path":"command/properties/command-arguments.record-property.ts","id":"01a09409-2933-7981-8332-eb750e91e83b"}
+{"propertySlug":"invariant-kind","path":"command/properties/command-max-wall-seconds.number-property.ts","id":"01a0820f-feb2-79e4-8435-06a161f3c6ab"}
 {"propertySlug":"invariant-kind","path":"command/properties/entry-default.text-property.ts","id":"01a095ca-f469-7000-9627-eeb375edf870"}
 {"propertySlug":"invariant-kind","path":"command/properties/level-name.text-property.ts","id":"01a093f5-ae9f-72c3-876a-43c8d863335d"}
 {"propertySlug":"invariant-kind","path":"command/properties/not-with.relation-property.ts","id":"01a09483-7144-7d5c-a857-085af955734b"}
 {"propertySlug":"invariant-kind","path":"command/properties/one-of.relation-property.ts","id":"01a0954e-097d-7b5d-8207-3b3e29c78819"}
 {"propertySlug":"invariant-kind","path":"command/properties/said-as.select-property.ts","id":"01a09483-5529-7998-ad2c-461a3f347977"}
-{"propertySlug":"invariant-kind","path":"command/properties/timeout.number-property.ts","id":"01a0820f-feb2-79e4-8435-06a161f3c6ab"}
 {"propertySlug":"invariant-kind","path":"design/design.domain.ts","id":"01a05b55-a539-7a1c-9bdc-5a459722f028"}
 {"propertySlug":"invariant-kind","path":"design/interface/badge/modules/date-badge/date-badge.module.ts","id":"01a05b55-a539-773f-8b28-749123c7df39"}
 {"propertySlug":"invariant-kind","path":"design/interface/badge/modules/url-badge/url-badge.module.ts","id":"01a05b55-a539-7bc7-91a9-d5b91de4f605"}

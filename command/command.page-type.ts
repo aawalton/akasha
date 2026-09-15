@@ -102,7 +102,7 @@ export const command = {
     "namespace/talos",
     "namespace/temper",
     "namespace/track",
-    "number-property/timeout",
+    "number-property/command-max-wall-seconds",
     "page-type/argument",
     "page-type/namespace",
     "performance/landing-throughput",
@@ -116,7 +116,7 @@ export const command = {
   extends: ["page-type/module"],
   loadedBy: "module/calling",
   properties: [
-    { pageProperty: "number-property/timeout", required: false, many: false },
+    { pageProperty: "number-property/command-max-wall-seconds", required: false, many: false },
     { pageProperty: "text-property/level-name", required: false, many: false },
     {
       pageProperty: "record-property/command-arguments",

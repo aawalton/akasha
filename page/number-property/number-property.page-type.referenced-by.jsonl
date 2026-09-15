@@ -174,7 +174,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"code/module-property-group/properties/group-max-memory-mb.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"code/module-property-group/properties/group-max-wall-seconds.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"code/type-declaration/properties/source-version.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"command/properties/timeout.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"command/properties/command-max-wall-seconds.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"design/game/drive/properties/octalysis-number.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/cost.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/cpu-score.number-property.ts"}
