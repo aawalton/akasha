@@ -27,7 +27,7 @@ export const FILE_AT = "/file"
 
 const ORIGIN_NAMES: readonly string[] = ["PAGES_SERVICE_ORIGIN", "PAGE_STORE_ORIGIN"]
 
-const OVER_THE_TAILNET = "http://page-store.page-store.svc.cluster.local:8787"
+const OVER_THE_TAILNET = "http://page-forwarder.page-forwarder.svc.cluster.local:8787"
 
 const IN_A_BROWSER = "/api"
 

@@ -6,7 +6,7 @@ export type Reached<T> =
   | { readonly ok: true; readonly body: T }
   | { readonly ok: false; readonly why: string; readonly status?: number }
 
-const PAGE_STORE_ORIGIN = "http://page-store.page-store.svc.cluster.local:8787"
+const OVER_THE_TAILNET = "http://page-forwarder.page-forwarder.svc.cluster.local:8787"
 
 const PAGE_STORE_BROWSER_PREFIX = "/api"
 
@@ -61,7 +61,7 @@ export function pageStoreOrigin(): string {
   if (stated !== undefined) return stated.replace(/\/+$/, "")
   const origin = browserOrigin()
   if (origin !== null) return `${origin}${PAGE_STORE_BROWSER_PREFIX}`
-  return PAGE_STORE_ORIGIN
+  return OVER_THE_TAILNET
 }
 
 function refusalIn(body: unknown): string {
