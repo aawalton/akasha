@@ -2,7 +2,7 @@ import type { WorldCondition } from "akasha/story/world-mechanic/world-condition
 
 export const classLockMaleTorenRequired = {
   id: "01a0655a-7b7a-71cf-8a7b-4414e5d3cdac",
-  type: "world-condition",
+  type: "page-type/world-condition",
   slug: "class-lock-male-toren-required",
   title: "Class Lock: Male Toren required.",
   world: "world/the-wandering-inn",

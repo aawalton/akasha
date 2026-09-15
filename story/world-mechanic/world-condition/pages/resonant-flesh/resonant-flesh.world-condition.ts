@@ -2,7 +2,7 @@ import type { WorldCondition } from "akasha/story/world-mechanic/world-condition
 
 export const resonantFlesh = {
   id: "01a0655a-7b7b-7457-bc5a-fc7831925ce8",
-  type: "world-condition",
+  type: "page-type/world-condition",
   slug: "resonant-flesh",
   title: "Resonant Flesh",
   world: "world/the-wandering-inn",

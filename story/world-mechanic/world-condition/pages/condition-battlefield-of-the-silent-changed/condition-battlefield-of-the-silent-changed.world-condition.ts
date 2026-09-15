@@ -2,7 +2,7 @@ import type { WorldCondition } from "akasha/story/world-mechanic/world-condition
 
 export const conditionBattlefieldOfTheSilentChanged = {
   id: "01a0655a-7b7a-781c-98b6-29e218e07f99",
-  type: "world-condition",
+  type: "page-type/world-condition",
   slug: "condition-battlefield-of-the-silent-changed",
   title: "Condition – Battlefield of the Silent Changed.",
   world: "world/the-wandering-inn",

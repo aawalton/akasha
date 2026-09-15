@@ -2,7 +2,7 @@ import type { WorldCondition } from "akasha/story/world-mechanic/world-condition
 
 export const paralyzed = {
   id: "01a0655a-7b7b-7d03-b5b2-aab9db85129a",
-  type: "world-condition",
+  type: "page-type/world-condition",
   slug: "paralyzed",
   title: "Paralyzed",
   world: "world/the-wandering-inn",

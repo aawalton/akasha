@@ -2,7 +2,7 @@ import type { WorldCondition } from "akasha/story/world-mechanic/world-condition
 
 export const conditionEmberbody = {
   id: "01a0655a-7b7a-7f5e-8847-fd7ad049a7b1",
-  type: "world-condition",
+  type: "page-type/world-condition",
   slug: "condition-emberbody",
   title: "Condition: Emberbody",
   world: "world/the-wandering-inn",

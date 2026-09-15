@@ -2,7 +2,7 @@ import type { WorldCondition } from "akasha/story/world-mechanic/world-condition
 
 export const bodySolarStorage = {
   id: "01a0655a-7b7a-763d-b0b1-6f22f864408f",
-  type: "world-condition",
+  type: "page-type/world-condition",
   slug: "body-solar-storage",
   title: "Body: Solar Storage",
   world: "world/the-wandering-inn",

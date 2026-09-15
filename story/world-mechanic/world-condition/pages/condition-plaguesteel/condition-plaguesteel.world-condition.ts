@@ -2,7 +2,7 @@ import type { WorldCondition } from "akasha/story/world-mechanic/world-condition
 
 export const conditionPlaguesteel = {
   id: "01a0655a-7b7a-76a4-92de-b8b37306101a",
-  type: "world-condition",
+  type: "page-type/world-condition",
   slug: "condition-plaguesteel",
   title: "Condition – Plaguesteel",
   world: "world/the-wandering-inn",
