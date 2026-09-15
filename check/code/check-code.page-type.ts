@@ -22,6 +22,7 @@ export const checkCode = {
     "check-code/domain-is-named-by-a-parent",
     "check-code/email-address-is-well-formed",
     "check-code/extension-host-reaches-no-bun-code",
+    "check-code/file-is-owned-by-a-page",
     "check-code/file-length",
     "check-code/folder-matches-a-shape",
     "check-code/global-declared-once",
