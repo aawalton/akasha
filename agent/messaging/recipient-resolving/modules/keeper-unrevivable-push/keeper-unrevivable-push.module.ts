@@ -8,11 +8,11 @@ export const keeperUnrevivablePush = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A keeper the message is refused for is raised rather than passed over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The notification and the message state that nothing was restarted and the work is still waiting.",
     },
