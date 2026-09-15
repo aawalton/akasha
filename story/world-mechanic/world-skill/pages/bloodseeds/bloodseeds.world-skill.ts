@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bloodseeds = {
   id: "01a06575-97f6-7c24-bbeb-f71117ead429",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bloodseeds",
   title: "Bloodseeds",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const blueprintGearSystem = {
   id: "01a06575-97f6-7c93-a99a-a57adff039ce",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "blueprint-gear-system",
   title: "Blueprint: Gear System",
   world: "world/the-wandering-inn",

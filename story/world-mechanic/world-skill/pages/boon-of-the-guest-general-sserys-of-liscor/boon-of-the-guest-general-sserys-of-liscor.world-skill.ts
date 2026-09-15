@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const boonOfTheGuestGeneralSserysOfLiscor = {
   id: "01a06575-97f7-76fb-bcb3-bc3112e95ee2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "boon-of-the-guest-general-sserys-of-liscor",
   title: "Boon of the Guest: General Sserys of Liscor",
   world: "world/the-wandering-inn",

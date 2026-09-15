@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const blurDodge = {
   id: "01a06575-97f6-7ebd-aa06-7459b5cd753e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "blur-dodge",
   title: "Blur Dodge",
   world: "world/the-wandering-inn",

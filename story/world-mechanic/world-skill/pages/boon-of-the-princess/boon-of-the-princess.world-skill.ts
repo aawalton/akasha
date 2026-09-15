@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const boonOfThePrincess = {
   id: "01a06575-97f7-7fb6-8215-8d4b84d2f7ff",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "boon-of-the-princess",
   title: "Boon of the Princess",
   world: "world/the-wandering-inn",

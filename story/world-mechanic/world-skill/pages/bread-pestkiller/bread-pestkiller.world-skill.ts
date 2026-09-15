@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const breadPestkiller = {
   id: "01a06575-97f8-7535-bdee-50974ad67825",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bread-pestkiller",
   title: "Bread: Pestkiller",
   world: "world/the-wandering-inn",

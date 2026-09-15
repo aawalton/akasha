@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const battleWarcry = {
   id: "01a06575-97f4-76ce-815b-8ee0fae89ff9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "battle-warcry",
   title: "Battle Warcry",
   world: "world/the-wandering-inn",

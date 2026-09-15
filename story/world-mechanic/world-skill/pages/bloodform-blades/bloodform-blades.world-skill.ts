@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bloodformBlades = {
   id: "01a06575-97f6-740e-846b-efe7e393be1d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bloodform-blades",
   title: "Bloodform Blades",
   world: "world/the-wandering-inn",

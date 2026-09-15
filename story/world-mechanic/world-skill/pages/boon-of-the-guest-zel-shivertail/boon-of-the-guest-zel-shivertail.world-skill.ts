@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const boonOfTheGuestZelShivertail = {
   id: "01a06575-97f7-7d31-825e-e9ecf143621b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "boon-of-the-guest-zel-shivertail",
   title: "Boon of the Guest: Zel Shivertail",
   world: "world/the-wandering-inn",

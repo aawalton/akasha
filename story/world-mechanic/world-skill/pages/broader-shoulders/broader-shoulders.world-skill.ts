@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const broaderShoulders = {
   id: "01a06575-97f9-7ac8-b371-42d3025ea379",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "broader-shoulders",
   title: "Broader Shoulders",
   world: "world/the-wandering-inn",

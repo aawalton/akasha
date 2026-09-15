@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const boonOfPisces = {
   id: "01a06575-97f7-7743-bcc0-541dd3b1ecde",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "boon-of-pisces",
   title: "Boon of Pisces",
   world: "world/the-wandering-inn",

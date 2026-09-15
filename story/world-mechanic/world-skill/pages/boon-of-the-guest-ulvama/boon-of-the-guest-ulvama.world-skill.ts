@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const boonOfTheGuestUlvama = {
   id: "01a06575-97f7-74e9-be3d-c0b869c45823",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "boon-of-the-guest-ulvama",
   title: "Boon of the Guest: Ulvama",
   world: "world/the-wandering-inn",

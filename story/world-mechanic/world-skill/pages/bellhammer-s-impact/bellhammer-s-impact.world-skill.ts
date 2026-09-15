@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bellhammerSImpact = {
   id: "01a06575-97f5-7318-a051-6e8c28e96215",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bellhammer-s-impact",
   title: "Bellhammer’s Impact",
   world: "world/the-wandering-inn",

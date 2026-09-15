@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const beneficialTonic = {
   id: "01a06575-97f5-7b36-8e0e-a7f5da896496",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "beneficial-tonic",
   title: "Beneficial Tonic",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const beautifulStrollTheParadeOfSeasons = {
   id: "01a06575-97f4-7864-8a18-57c181090c87",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "beautiful-stroll-the-parade-of-seasons",
   title: "Beautiful Stroll: The Parade of Seasons",
   world: "world/the-wandering-inn",

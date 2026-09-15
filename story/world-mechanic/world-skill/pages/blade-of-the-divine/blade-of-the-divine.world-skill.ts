@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bladeOfTheDivine = {
   id: "01a06575-97f5-789f-93a9-f739fee23411",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "blade-of-the-divine",
   title: "Blade of the Divine",
   world: "world/the-wandering-inn",

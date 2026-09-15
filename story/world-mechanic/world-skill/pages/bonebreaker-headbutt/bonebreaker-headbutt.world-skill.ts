@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bonebreakerHeadbutt = {
   id: "01a06575-97f7-7bf2-af6c-077a835c3aec",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bonebreaker-headbutt",
   title: "Bonebreaker Headbutt",
   world: "world/the-wandering-inn",

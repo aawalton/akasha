@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bodyRestoreStamina = {
   id: "01a06575-97f7-78b2-b014-1deb4ee702fc",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "body-restore-stamina",
   title: "Body: Restore Stamina",
   world: "world/the-wandering-inn",

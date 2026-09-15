@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bodyFreshFlesh = {
   id: "01a06575-97f6-7800-b919-95b0e4efb504",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "body-fresh-flesh",
   title: "Body: Fresh Flesh",
   world: "world/the-wandering-inn",

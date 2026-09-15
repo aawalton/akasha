@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bladesOfGlory = {
   id: "01a06575-97f5-7527-a5fb-7577d10576b5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "blades-of-glory",
   title: "Blades of Glory",
   world: "world/the-wandering-inn",

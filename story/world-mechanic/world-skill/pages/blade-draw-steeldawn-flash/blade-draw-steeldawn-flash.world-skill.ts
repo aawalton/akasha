@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bladeDrawSteeldawnFlash = {
   id: "01a06575-97f5-7740-b407-064cafb0f8bb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "blade-draw-steeldawn-flash",
   title: "Blade Draw: Steeldawn Flash",
   world: "world/the-wandering-inn",

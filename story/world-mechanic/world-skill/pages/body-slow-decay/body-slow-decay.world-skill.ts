@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bodySlowDecay = {
   id: "01a06575-97f7-74cd-94c0-e41aa6cc41a6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "body-slow-decay",
   title: "Body: Slow Decay",
   world: "world/the-wandering-inn",

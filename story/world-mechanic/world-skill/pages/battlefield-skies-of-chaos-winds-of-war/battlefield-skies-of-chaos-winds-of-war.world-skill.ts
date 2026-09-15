@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const battlefieldSkiesOfChaosWindsOfWar = {
   id: "01a06575-97f4-7892-a0cd-5bbfca0f8ea7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "battlefield-skies-of-chaos-winds-of-war",
   title: "Battlefield: Skies of Chaos, Winds of War",
   world: "world/the-wandering-inn",

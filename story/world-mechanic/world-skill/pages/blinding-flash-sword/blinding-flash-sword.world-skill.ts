@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const blindingFlashSword = {
   id: "01a06575-97f6-709a-84cc-ca4f7d47838c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "blinding-flash-sword",
   title: "Blinding Flash (Sword)",
   world: "world/the-wandering-inn",

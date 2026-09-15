@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bodyRegulateTemperature = {
   id: "01a06575-97f7-7320-a315-f712367d3fe3",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "body-regulate-temperature",
   title: "Body: Regulate Temperature",
   world: "world/the-wandering-inn",

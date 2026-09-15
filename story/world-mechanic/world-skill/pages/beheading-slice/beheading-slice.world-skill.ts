@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const beheadingSlice = {
   id: "01a06575-97f4-7920-ac33-da47108f40fc",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "beheading-slice",
   title: "Beheading Slice",
   world: "world/the-wandering-inn",

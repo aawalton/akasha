@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bodyStaunchedBleeding = {
   id: "01a06575-97f7-727f-8a3a-46d1a9213c00",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "body-staunched-bleeding",
   title: "Body: Staunched Bleeding",
   world: "world/the-wandering-inn",

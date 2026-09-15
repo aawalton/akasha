@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const battlefieldFootholdsOfSteiStone = {
   id: "01a06575-97f4-7b62-b25f-52935a015f35",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "battlefield-footholds-of-stei-stone",
   title: "Battlefield: Footholds of Stei-Stone",
   world: "world/the-wandering-inn",

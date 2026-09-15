@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bellowOfForce = {
   id: "01a06575-97f5-7cca-8144-dfdc2218abfe",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bellow-of-force",
   title: "Bellow of Force",
   world: "world/the-wandering-inn",

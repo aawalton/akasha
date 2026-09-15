@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bloodlessFlow = {
   id: "01a06575-97f6-7215-a446-674dbbcda536",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bloodless-flow",
   title: "Bloodless Flow",
   world: "world/the-wandering-inn",

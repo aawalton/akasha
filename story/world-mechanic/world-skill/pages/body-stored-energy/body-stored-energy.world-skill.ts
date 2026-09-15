@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bodyStoredEnergy = {
   id: "01a06575-97f7-7ee6-aa44-3d78bc376f1a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "body-stored-energy",
   title: "Body: Stored Energy",
   world: "world/the-wandering-inn",

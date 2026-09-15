@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const benedictionOfHope = {
   id: "01a06575-97f5-7ec5-9622-b46092a79bdf",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "benediction-of-hope",
   title: "Benediction of Hope",
   world: "world/the-wandering-inn",

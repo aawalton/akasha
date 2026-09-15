@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const battlefieldEvenGround = {
   id: "01a06575-97f4-7ca9-a900-b56e47ab3a77",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "battlefield-even-ground",
   title: "Battlefield: Even Ground",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const briarPatch = {
   id: "01a06575-97f9-77e7-a95a-0c9e483794fb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "briar-patch",
   title: "Briar Patch",
   world: "world/the-wandering-inn",

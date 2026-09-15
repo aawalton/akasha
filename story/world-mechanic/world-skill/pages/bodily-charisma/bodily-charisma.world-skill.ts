@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bodilyCharisma = {
   id: "01a06575-97f6-7e5a-aaa9-005494d29bc2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bodily-charisma",
   title: "Bodily Charisma",
   world: "world/the-wandering-inn",

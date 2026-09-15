@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const beHealed = {
   id: "01a06575-97f4-76a0-98b2-ce025f176c07",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "be-healed",
   title: "Be Healed",
   world: "world/the-wandering-inn",

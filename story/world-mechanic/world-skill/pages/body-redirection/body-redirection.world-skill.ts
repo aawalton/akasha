@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bodyRedirection = {
   id: "01a06575-97f7-7531-8873-dd15bf974d4a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "body-redirection",
   title: "Body: Redirection",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const boostedMoraleUnit = {
   id: "01a06575-97f8-7928-8e66-d238942e60eb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "boosted-morale-unit",
   title: "Boosted Morale (Unit)",
   world: "world/the-wandering-inn",

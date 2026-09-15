@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bodyAspectOfSilver = {
   id: "01a06575-97f6-711f-b7f0-e406f8a50cb0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "body-aspect-of-silver",
   title: "Body: Aspect of Silver",
   world: "world/the-wandering-inn",

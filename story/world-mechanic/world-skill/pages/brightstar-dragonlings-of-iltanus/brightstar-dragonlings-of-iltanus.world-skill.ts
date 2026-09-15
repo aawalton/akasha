@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const brightstarDragonlingsOfIltanus = {
   id: "01a06575-97f9-7c47-8740-943e405d74ba",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "brightstar-dragonlings-of-iltanus",
   title: "Brightstar Dragonlings of Iltanus",
   world: "world/the-wandering-inn",

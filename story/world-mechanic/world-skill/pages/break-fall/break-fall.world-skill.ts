@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const breakFall = {
   id: "01a06575-97f8-7bdc-a832-ceefb5aeeab9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "break-fall",
   title: "Break Fall",
   world: "world/the-wandering-inn",

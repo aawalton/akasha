@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const battalionOfGlory = {
   id: "01a06575-97f4-7d09-8b5d-71861422bb5a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "battalion-of-glory",
   title: "Battalion of Glory",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bodyOfChangeAlterResistances = {
   id: "01a06575-97f7-781d-8b21-b86443d222a4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "body-of-change-alter-resistances",
   title: "Body of Change: Alter Resistances",
   world: "world/the-wandering-inn",

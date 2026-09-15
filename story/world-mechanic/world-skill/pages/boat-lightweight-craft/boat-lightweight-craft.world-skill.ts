@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const boatLightweightCraft = {
   id: "01a06575-97f6-7b3f-a52b-9dfe453c95c0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "boat-lightweight-craft",
   title: "Boat: Lightweight Craft",
   world: "world/the-wandering-inn",

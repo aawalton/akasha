@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bloodlinePactThaiyrOkost = {
   id: "01a06575-97f6-71d7-a813-d9da4efab7f2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bloodline-pact-thaiyr-okost",
   title: "Bloodline Pact: Thaiyr Okost",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const beastform = {
   id: "01a06575-97f4-7ad9-9fd9-b5fa62e2f30e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "beastform",
   title: "Beastform",
   world: "world/the-wandering-inn",

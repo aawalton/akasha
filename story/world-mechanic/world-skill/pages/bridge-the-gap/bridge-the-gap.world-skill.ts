@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bridgeTheGap = {
   id: "01a06575-97f9-7e5d-8bcd-5139ff23695c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bridge-the-gap",
   title: "Bridge the Gap",
   world: "world/the-wandering-inn",

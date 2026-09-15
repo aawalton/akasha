@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const boonOfNumbtongue = {
   id: "01a06575-97f7-776a-9e88-a3f3224a1cc2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "boon-of-numbtongue",
   title: "Boon of Numbtongue",
   world: "world/the-wandering-inn",

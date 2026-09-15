@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bladeArtExecutionOfDMinor = {
   id: "01a06575-97f5-771f-aeb6-300c7402386d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "blade-art-execution-of-d-minor",
   title: "Blade Art: Execution of D-Minor",
   world: "world/the-wandering-inn",

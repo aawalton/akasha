@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const battleStanceVowOfTheKnight = {
   id: "01a06575-97f4-73dc-aa22-b7b61f6f1a88",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "battle-stance-vow-of-the-knight",
   title: "Battle Stance: Vow of the Knight",
   world: "world/the-wandering-inn",

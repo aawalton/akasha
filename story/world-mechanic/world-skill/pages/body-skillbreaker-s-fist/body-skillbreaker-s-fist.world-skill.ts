@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bodySkillbreakerSFist = {
   id: "01a06575-97f7-7657-8605-7d2512b21dcc",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "body-skillbreaker-s-fist",
   title: "Body: Skillbreaker’s Fist",
   world: "world/the-wandering-inn",

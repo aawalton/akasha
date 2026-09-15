@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const bodyIronFists = {
   id: "01a06575-97f6-796a-b063-c38c6730d8db",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "body-iron-fists",
   title: "Body: Iron Fists",
   world: "world/the-wandering-inn",

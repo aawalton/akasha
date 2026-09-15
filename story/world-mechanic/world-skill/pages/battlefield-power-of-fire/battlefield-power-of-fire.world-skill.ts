@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const battlefieldPowerOfFire = {
   id: "01a06575-97f4-7f31-985d-5e93d28df3b4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "battlefield-power-of-fire",
   title: "Battlefield: Power of Fire",
   world: "world/the-wandering-inn",

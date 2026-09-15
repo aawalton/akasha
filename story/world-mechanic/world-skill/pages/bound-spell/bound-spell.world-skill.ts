@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const boundSpell = {
   id: "01a06575-97f8-7b2e-b3bc-b19a54694a8b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "bound-spell",
   title: "Bound Spell",
   world: "world/the-wandering-inn",

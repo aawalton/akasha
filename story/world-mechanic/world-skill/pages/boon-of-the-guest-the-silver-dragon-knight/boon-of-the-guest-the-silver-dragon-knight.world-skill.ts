@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const boonOfTheGuestTheSilverDragonKnight = {
   id: "01a06575-97f7-78cc-b7ef-384255cf1d32",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "boon-of-the-guest-the-silver-dragon-knight",
   title: "Boon of the Guest: The Silver Dragon-Knight",
   world: "world/the-wandering-inn",

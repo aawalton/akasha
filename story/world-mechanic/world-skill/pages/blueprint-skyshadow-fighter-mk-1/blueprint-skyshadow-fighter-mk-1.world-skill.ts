@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const blueprintSkyshadowFighterMk1 = {
   id: "01a06575-97f6-7796-9c86-fb150736292d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "blueprint-skyshadow-fighter-mk-1",
   title: "Blueprint: Skyshadow-Fighter Mk. 1",
   world: "world/the-wandering-inn",
