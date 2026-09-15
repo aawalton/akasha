@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonAllIEverWantedLongShot = {
   id: "01a0a5ae-c89d-7bbd-b720-7d1477cc6cbb",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-all-i-ever-wanted-long-shot",
   ownLength: 3.616216666666667,
   ownProgress: 0,

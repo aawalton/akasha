@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungsDeluxeEditionAddictedToLove = {
   id: "01a0a5cd-7832-7e2e-9e95-0f7388cc18f7",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-deluxe-edition-addicted-to-love",
   ownLength: 3.3231,
   ownProgress: 0,

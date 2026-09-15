@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungsDeluxeEditionBlinding = {
   id: "01a0a5cd-76d5-7246-93f0-1e18700eb1a7",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-deluxe-edition-blinding",
   ownLength: 4.592216666666666,
   ownProgress: 0,

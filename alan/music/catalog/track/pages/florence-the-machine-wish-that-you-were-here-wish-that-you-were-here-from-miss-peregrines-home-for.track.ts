@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineWishThatYouWereHereWishThatYouWereHereFromMissPeregrinesHomeFor = {
   id: "01a0a5cd-7e5d-78c4-b622-6fef4c58adf5",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-wish-that-you-were-here-wish-that-you-were-here-from-miss-peregrines-home-for",
   ownLength: 6.713283333333333,
   ownProgress: 0,

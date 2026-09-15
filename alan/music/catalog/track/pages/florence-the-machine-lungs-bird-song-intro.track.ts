@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungsBirdSongIntro = {
   id: "01a0a5cd-73c0-70d6-8bff-720e06f17b0a",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-bird-song-intro",
   ownLength: 1.3457666666666668,
   ownProgress: 0,

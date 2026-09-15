@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineSayMyNameRemixSayMyNameRemix = {
   id: "01a0a5cd-792a-7376-8ee6-ea4bde5d3802",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-say-my-name-remix-say-my-name-remix",
   ownLength: 2.8,
   ownProgress: 0,

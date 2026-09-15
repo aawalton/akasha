@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const izzyEscobarTheDevilWearsPrada2MusicFromTheMotionPictureWalkOfFameFeatBrittanyHoward = {
   id: "01a0a5ce-214f-7450-8204-5c1b841fe74b",
-  type: "track",
+  type: "page-type/track",
   slug: "izzy-escobar-the-devil-wears-prada-2-music-from-the-motion-picture-walk-of-fame-feat-brittany-howard",
   ownLength: 3.6263666666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHallGirlWithOneEyeBbc = {
   id: "01a0a5cd-4c66-74cf-9a60-964239c94ca9",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall-girl-with-one-eye-bbc",
   ownLength: 3.76205,
   ownProgress: 0,

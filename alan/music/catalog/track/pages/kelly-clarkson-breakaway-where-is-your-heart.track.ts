@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonBreakawayWhereIsYourHeart = {
   id: "01a0a5ae-cbef-73de-bcda-c26ec408f06b",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-breakaway-where-is-your-heart",
   ownLength: 4.65155,
   ownProgress: 0,

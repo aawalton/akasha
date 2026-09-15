@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineDeluxeVersionJacksonMtv = {
   id: "01a0a5cd-64dd-7846-9cee-8de23b3aa52a",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-mtv-presents-unplugged-florence-the-machine-deluxe-version-jackson-mtv",
   ownLength: 3.4448833333333333,
   ownProgress: 0,

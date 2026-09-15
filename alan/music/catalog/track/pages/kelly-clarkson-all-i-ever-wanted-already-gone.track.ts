@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonAllIEverWantedAlreadyGone = {
   id: "01a0a5ae-c822-7dd4-8bbe-7d12433da630",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-all-i-ever-wanted-already-gone",
   ownLength: 4.692666666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineSongsFromFinalFantasyXvStandByMe = {
   id: "01a0a5cd-7eb3-719e-bfc6-00445740a65a",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-songs-from-final-fantasy-xv-stand-by-me",
   ownLength: 4.096333333333333,
   ownProgress: 0,

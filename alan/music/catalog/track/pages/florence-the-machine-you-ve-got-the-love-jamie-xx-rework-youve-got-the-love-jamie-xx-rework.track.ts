@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineYouVeGotTheLoveJamieXxReworkYouveGotTheLoveJamieXxRework = {
   id: "01a0a5cd-81af-7a21-b9b0-0b07214d534d",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-you-ve-got-the-love-jamie-xx-rework-youve-got-the-love-jamie-xx-rework",
   ownLength: 5.7165,
   ownProgress: 0,

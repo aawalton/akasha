@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonBreakawayBeautifulDisasterLive = {
   id: "01a0a5ae-cc76-7087-b464-e235d3e14522",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-breakaway-beautiful-disaster-live",
   ownLength: 4.624883333333333,
   ownProgress: 0,

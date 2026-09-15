@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungsDeluxeEditionRabbitHeartRaiseItUp = {
   id: "01a0a5cd-74af-73b6-ada9-e78187b160cd",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-deluxe-edition-rabbit-heart-raise-it-up",
   ownLength: 3.8691,
   ownProgress: 0,

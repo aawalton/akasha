@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineSpectrumSayMyNameEpSpectrumSayMyNameTaitoTikaroAndFlavioZarza = {
   id: "01a0a5cd-80a5-79f6-9922-26afc56d3390",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-spectrum-say-my-name-ep-spectrum-say-my-name-taito-tikaro-and-flavio-zarza",
   ownLength: 7.433316666666666,
   ownProgress: 0,

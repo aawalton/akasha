@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const izzyEscobarTheseEyesTheseEyes = {
   id: "01a0a5ce-25ce-726f-af1f-dec5daeb700c",
-  type: "track",
+  type: "page-type/track",
   slug: "izzy-escobar-these-eyes-these-eyes",
   ownLength: 2.754016666666667,
   ownProgress: 0,

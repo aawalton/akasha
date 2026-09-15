@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const izzyEscobarSunnyInLondonAcousticTheseEyesAcoustic = {
   id: "01a0a5ce-2413-7149-970c-f0dbbc2fcdff",
-  type: "track",
+  type: "page-type/track",
   slug: "izzy-escobar-sunny-in-london-acoustic-these-eyes-acoustic",
   ownLength: 2.933333333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineWhatTheWaterGaveMeMtv = {
   id: "01a0a5cd-634a-78ed-81db-ef9b71cc7b80",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-mtv-presents-unplugged-florence-the-machine-what-the-water-gave-me-mtv",
   ownLength: 4.917766666666667,
   ownProgress: 0,

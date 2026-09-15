@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonBreakawayBehindTheseHazelEyes = {
   id: "01a0a5ae-cb83-7214-9bd0-30c8920edeaf",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-breakaway-behind-these-hazel-eyes",
   ownLength: 3.3162166666666666,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const izzyEscobarSunnyInLondonVendetta = {
   id: "01a0a5ce-24f2-7704-be40-5e1def47d35f",
-  type: "track",
+  type: "page-type/track",
   slug: "izzy-escobar-sunny-in-london-vendetta",
   ownLength: 3.1332333333333335,
   ownProgress: 0,

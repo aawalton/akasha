@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineSongsFromFinalFantasyXvTooMuchIsNeverEnough = {
   id: "01a0a5cd-7e8a-75da-87c8-cc63ce094a1d",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-songs-from-final-fantasy-xv-too-much-is-never-enough",
   ownLength: 5.805733333333333,
   ownProgress: 0,

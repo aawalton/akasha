@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineWhatKindOfManNicolasJaarRemixWhatKindOfManNicolasJaarRemix = {
   id: "01a0a5cd-7fd5-7aa9-b92a-983275fa18d4",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-what-kind-of-man-nicolas-jaar-remix-what-kind-of-man-nicolas-jaar-remix",
   ownLength: 12.360216666666666,
   ownProgress: 0,

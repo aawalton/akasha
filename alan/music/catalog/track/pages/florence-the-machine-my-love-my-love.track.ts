@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineMyLoveMyLove = {
   id: "01a0a5cd-7b32-74ee-950a-5d56f0d29b89",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-my-love-my-love",
   ownLength: 3.8568,
   ownProgress: 0,

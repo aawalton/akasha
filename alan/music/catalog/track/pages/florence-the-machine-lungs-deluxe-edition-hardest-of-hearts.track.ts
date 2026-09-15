@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungsDeluxeEditionHardestOfHearts = {
   id: "01a0a5cd-78b3-70d5-8ba3-05b1c00b98a2",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-deluxe-edition-hardest-of-hearts",
   ownLength: 3.4662166666666665,
   ownProgress: 0,

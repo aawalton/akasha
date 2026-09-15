@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineSpectrumSayMyNameEpSpectrumSayMyNameMayaJaneColesRemix = {
   id: "01a0a5cd-807d-7dc0-9cdb-4759e03b1182",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-spectrum-say-my-name-ep-spectrum-say-my-name-maya-jane-coles-remix",
   ownLength: 5.009533333333334,
   ownProgress: 0,

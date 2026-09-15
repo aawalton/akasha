@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineQueenOfPeaceHotChipRemixQueenOfPeaceHotChipRemix = {
   id: "01a0a5cd-7f7d-759d-923e-064f6ccb329c",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-queen-of-peace-hot-chip-remix-queen-of-peace-hot-chip-remix",
   ownLength: 6.422583333333334,
   ownProgress: 0,

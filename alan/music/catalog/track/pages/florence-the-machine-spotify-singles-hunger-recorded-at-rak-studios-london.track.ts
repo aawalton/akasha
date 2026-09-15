@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineSpotifySinglesHungerRecordedAtRakStudiosLondon = {
   id: "01a0a5cd-7d60-7243-9afd-d11795017ce4",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-spotify-singles-hunger-recorded-at-rak-studios-london",
   ownLength: 3.5791666666666666,
   ownProgress: 0,

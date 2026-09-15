@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineSpotifySinglesCornflakeGirlRecordedAtRakStudiosLondon = {
   id: "01a0a5cd-7d88-7f76-86a4-dda180677d59",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-spotify-singles-cornflake-girl-recorded-at-rak-studios-london",
   ownLength: 4.699333333333334,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineQueenOfPeaceRadioEditQueenOfPeaceRadioEdit = {
   id: "01a0a5cd-7fa6-79a9-85cd-35a7f0deb537",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-queen-of-peace-radio-edit-queen-of-peace-radio-edit",
   ownLength: 3.8201833333333335,
   ownProgress: 0,

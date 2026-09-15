@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungsImNotCallingYouALiar = {
   id: "01a0a5cd-719a-714c-8850-5c777cb63268",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-im-not-calling-you-a-liar",
   ownLength: 3.0888833333333334,
   ownProgress: 0,

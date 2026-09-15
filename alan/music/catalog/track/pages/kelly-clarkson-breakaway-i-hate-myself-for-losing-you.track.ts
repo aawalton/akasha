@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonBreakawayIHateMyselfForLosingYou = {
   id: "01a0a5ae-cc40-7efc-891e-69b91749a189",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-breakaway-i-hate-myself-for-losing-you",
   ownLength: 3.3411,
   ownProgress: 0,

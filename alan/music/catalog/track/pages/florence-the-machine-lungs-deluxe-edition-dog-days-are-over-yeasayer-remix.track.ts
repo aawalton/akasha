@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungsDeluxeEditionDogDaysAreOverYeasayerRemix = {
   id: "01a0a5cd-77bb-7f99-824c-51d1d9d94436",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-deluxe-edition-dog-days-are-over-yeasayer-remix",
   ownLength: 4.2584333333333335,
   ownProgress: 0,

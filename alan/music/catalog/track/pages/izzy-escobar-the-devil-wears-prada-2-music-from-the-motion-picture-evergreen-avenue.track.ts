@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const izzyEscobarTheDevilWearsPrada2MusicFromTheMotionPictureEvergreenAvenue = {
   id: "01a0a5ce-226b-7f03-87c8-6561ddf8de87",
-  type: "track",
+  type: "page-type/track",
   slug: "izzy-escobar-the-devil-wears-prada-2-music-from-the-motion-picture-evergreen-avenue",
   ownLength: 2.70555,
   ownProgress: 0,

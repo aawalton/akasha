@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineMermaidsMermaids = {
   id: "01a0a5cd-794c-7f34-886f-60df594cf794",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-mermaids-mermaids",
   ownLength: 4.58865,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineShakeItOutShakeItOutBennyBenassiRemixEdit = {
   id: "01a0a5cd-8162-77ab-82ed-fa65a18436a2",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-shake-it-out-shake-it-out-benny-benassi-remix-edit",
   ownLength: 3.382233333333333,
   ownProgress: 0,

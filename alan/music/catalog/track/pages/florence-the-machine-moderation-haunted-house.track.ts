@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineModerationHauntedHouse = {
   id: "01a0a5cd-7d39-7cb7-b7ab-26aa078a5b34",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-moderation-haunted-house",
   ownLength: 1.89655,
   ownProgress: 0,

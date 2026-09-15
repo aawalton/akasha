@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonBreakawayHearMe = {
   id: "01a0a5ae-cc5b-730d-9b42-0a7576f0c1dd",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-breakaway-hear-me",
   ownLength: 3.894433333333333,
   ownProgress: 0,

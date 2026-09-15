@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const izzyEscobarTheDevilWearsPrada2MusicFromTheMotionPictureNoOneNoticed = {
   id: "01a0a5ce-2293-7d04-a24c-e01f0540051d",
-  type: "track",
+  type: "page-type/track",
   slug: "izzy-escobar-the-devil-wears-prada-2-music-from-the-motion-picture-no-one-noticed",
   ownLength: 3.9484333333333335,
   ownProgress: 0,

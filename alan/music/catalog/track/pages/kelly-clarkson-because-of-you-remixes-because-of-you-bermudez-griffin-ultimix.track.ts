@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonBecauseOfYouRemixesBecauseOfYouBermudezGriffinUltimix = {
   id: "01a0a5ae-e48c-72b9-8cf3-472b062d7c44",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-because-of-you-remixes-because-of-you-bermudez-griffin-ultimix",
   ownLength: 5.3891,
   ownProgress: 0,

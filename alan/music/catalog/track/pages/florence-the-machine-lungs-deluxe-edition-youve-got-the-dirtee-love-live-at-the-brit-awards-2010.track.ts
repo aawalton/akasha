@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungsDeluxeEditionYouveGotTheDirteeLoveLiveAtTheBritAwards2010 = {
   id: "01a0a5cd-7793-738a-8afd-5579b0b2b811",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-deluxe-edition-youve-got-the-dirtee-love-live-at-the-brit-awards-2010",
   ownLength: 3.7006666666666668,
   ownProgress: 0,

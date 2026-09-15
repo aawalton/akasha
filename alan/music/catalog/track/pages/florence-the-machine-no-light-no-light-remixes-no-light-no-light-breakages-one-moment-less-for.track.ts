@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineNoLightNoLightRemixesNoLightNoLightBreakagesOneMomentLessFor = {
   id: "01a0a5cd-80cc-709e-a60c-cd6bbe5f88c0",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-no-light-no-light-remixes-no-light-no-light-breakages-one-moment-less-for",
   ownLength: 4.2371,
   ownProgress: 0,

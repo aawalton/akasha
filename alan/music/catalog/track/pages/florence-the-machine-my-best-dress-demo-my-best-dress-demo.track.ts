@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineMyBestDressDemoMyBestDressDemo = {
   id: "01a0a5cd-7bc9-7ed3-b22c-32b3f412436d",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-my-best-dress-demo-my-best-dress-demo",
   ownLength: 2.576433333333333,
   ownProgress: 0,

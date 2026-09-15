@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungsAreYouHurtingTheOneYouLove = {
   id: "01a0a5cd-7405-7475-9fba-d6285d548aa0",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-are-you-hurting-the-one-you-love",
   ownLength: 2.974666666666667,
   ownProgress: 0,

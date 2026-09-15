@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonAllIWantForChristmasIsYouAllIWantForChristmasIsYou = {
   id: "01a0a5ae-d2c1-736e-bd27-77016a2f1b71",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-all-i-want-for-christmas-is-you-all-i-want-for-christmas-is-you",
   ownLength: 3.7798833333333333,
   ownProgress: 0,

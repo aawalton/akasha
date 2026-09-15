@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineShakeItOutShakeItOut = {
   id: "01a0a5cd-8117-77a3-90aa-a7d137465f5e",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-shake-it-out-shake-it-out",
   ownLength: 4.646283333333334,
   ownProgress: 0,

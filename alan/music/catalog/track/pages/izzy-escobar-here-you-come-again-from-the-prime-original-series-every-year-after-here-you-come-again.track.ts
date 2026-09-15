@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const izzyEscobarHereYouComeAgainFromThePrimeOriginalSeriesEveryYearAfterHereYouComeAgain = {
   id: "01a0a5ce-234c-7d53-a474-e3ea4e423484",
-  type: "track",
+  type: "page-type/track",
   slug: "izzy-escobar-here-you-come-again-from-the-prime-original-series-every-year-after-here-you-come-again",
   ownLength: 3.44585,
   ownProgress: 0,

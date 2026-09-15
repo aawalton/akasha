@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonAllIEverWantedTheDayWeFellApart = {
   id: "01a0a5ae-c94e-7e48-8c3f-7bb641ce9d21",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-all-i-ever-wanted-the-day-we-fell-apart",
   ownLength: 4.050666666666666,
   ownProgress: 0,

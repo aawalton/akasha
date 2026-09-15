@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachinePatriciaAcousticPatriciaAcoustic = {
   id: "01a0a5cd-7db6-7aa4-9be2-66aa681a692a",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-patricia-acoustic-patricia-acoustic",
   ownLength: 4.4684333333333335,
   ownProgress: 0,

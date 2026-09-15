@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineDeluxeVersionDogDaysAreOver = {
   id: "01a0a5cd-652a-712e-b1ad-1a01f2c7e566",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-mtv-presents-unplugged-florence-the-machine-deluxe-version-dog-days-are-over",
   ownLength: 4.588666666666667,
   ownProgress: 0,

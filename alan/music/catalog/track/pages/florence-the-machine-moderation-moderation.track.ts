@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineModerationModeration = {
   id: "01a0a5cd-7d10-7b4b-a89a-b57a53e2d0a1",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-moderation-moderation",
   ownLength: 3.1435833333333334,
   ownProgress: 0,

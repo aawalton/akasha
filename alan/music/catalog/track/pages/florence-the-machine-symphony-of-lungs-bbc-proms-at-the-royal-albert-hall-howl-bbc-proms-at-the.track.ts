@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHallHowlBbcPromsAtThe = {
   id: "01a0a5cd-4c3b-7a79-9349-595877105240",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall-howl-bbc-proms-at-the",
   ownLength: 3.7795,
   ownProgress: 0,

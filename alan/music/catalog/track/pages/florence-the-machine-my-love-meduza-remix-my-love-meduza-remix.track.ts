@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineMyLoveMeduzaRemixMyLoveMeduzaRemix = {
   id: "01a0a5cd-7aa9-7b6a-9a5d-3db583e09a33",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-my-love-meduza-remix-my-love-meduza-remix",
   ownLength: 3.52,
   ownProgress: 0,

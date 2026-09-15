@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHallDogDaysAreOverBbc = {
   id: "01a0a5cd-4db3-7bff-ad2f-f49719b946ca",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall-dog-days-are-over-bbc",
   ownLength: 5.831,
   ownProgress: 0,

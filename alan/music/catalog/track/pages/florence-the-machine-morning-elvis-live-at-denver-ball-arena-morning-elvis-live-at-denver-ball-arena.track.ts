@@ -3,7 +3,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 export const florenceTheMachineMorningElvisLiveAtDenverBallArenaMorningElvisLiveAtDenverBallArena =
   {
     id: "01a0a5cd-7990-7274-979c-2363b26e00ef",
-    type: "track",
+    type: "page-type/track",
     slug: "florence-the-machine-morning-elvis-live-at-denver-ball-arena-morning-elvis-live-at-denver-ball-arena",
     ownLength: 4.26085,
     ownProgress: 0,

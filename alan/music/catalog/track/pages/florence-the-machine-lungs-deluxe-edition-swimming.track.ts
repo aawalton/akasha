@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const florenceTheMachineLungsDeluxeEditionSwimming = {
   id: "01a0a5cd-7727-7ccb-a78e-6930e45f059d",
-  type: "track",
+  type: "page-type/track",
   slug: "florence-the-machine-lungs-deluxe-edition-swimming",
   ownLength: 3.340883333333333,
   ownProgress: 0,
