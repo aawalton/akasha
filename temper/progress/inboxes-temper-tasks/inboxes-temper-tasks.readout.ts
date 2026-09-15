@@ -5,7 +5,6 @@ export const inboxesTemperTasks = {
   type: "page-type/readout",
   slug: "inboxes-temper-tasks",
   definition: "how many game tasks are waiting",
-  reading: {},
   label: "Temper tasks",
   unit: "tasks",
   place: 3,

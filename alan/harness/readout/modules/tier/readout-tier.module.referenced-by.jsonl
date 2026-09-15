@@ -19,5 +19,4 @@
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/sleep/readouts/upkeep-sleep/upkeep-sleep.readout.reading.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.reading.code.ts"}
-{"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"temper/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.reading.code.ts"}
 {"propertySlug":"parts","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
