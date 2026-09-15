@@ -12,7 +12,7 @@ import {
   CLUSTER_SERVICE_TYPE,
   codeBeside,
   MANIFEST_TYPE,
-  manifestSlugIn,
+  manifestSlugsIn,
   pathsNamed,
   type Workload,
   wantingIn,
@@ -79,7 +79,18 @@ export function servableNamed(root: string, slug: string): Read {
       refused: `${servicePath} states no kind, namespace and resource name together, so it names no workload`,
     }
   }
-  const wanted = manifestSlugIn(service)
+  const slugs = manifestSlugsIn(service)
+  if (slugs.length === 0) {
+    return {
+      refused: `${servicePath} names no manifest, so nothing says what the cluster is given for \`${slug}\``,
+    }
+  }
+  if (slugs.length > 1) {
+    return {
+      refused: `${servicePath} names ${slugs.length} manifests, and a workload is applied as one, so which is meant for \`${slug}\` is unsettled: ${slugs.join(", ")}`,
+    }
+  }
+  const wanted = slugs[0] as string
   const found = pathsNamed(root, MANIFEST_TYPE, wanted)
   if (found.length === 0) {
     return {

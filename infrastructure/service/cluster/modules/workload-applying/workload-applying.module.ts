@@ -36,6 +36,15 @@ export const workloadApplying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A cluster service naming no manifest is refused.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A cluster service naming more than one manifest is refused, a workload being one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A manifest page whose code file is not there is refused.",
     },
     {

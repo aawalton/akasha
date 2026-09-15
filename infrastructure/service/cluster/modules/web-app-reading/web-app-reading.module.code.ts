@@ -7,7 +7,6 @@ import {
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   numberAt,
-  slugAt,
   slugsIn,
   textAt,
   textsAt,
@@ -77,8 +76,8 @@ export function wantingIn(value: Value, keys: readonly string[]): readonly strin
   return keys.filter((one) => value[one] === undefined)
 }
 
-export function manifestSlugIn(service: Value): string {
-  return slugAt(service, MANIFEST) as string
+export function manifestSlugsIn(service: Value): readonly string[] {
+  return slugsIn(service[MANIFEST])
 }
 
 export function workloadIn(value: Value): Workload | null {
@@ -176,7 +175,18 @@ export function deployableNamed(root: string, slug: string): Read {
       refused: `${found} states no kind, namespace and resource name together, so it names no workload`,
     }
   }
-  const manifestPath = manifestFor(root, manifestSlugIn(service), found)
+  const manifestSlugs = manifestSlugsIn(service)
+  if (manifestSlugs.length === 0) {
+    return {
+      refused: `${found} names no manifest, so nothing says what the cluster is given for \`${slug}\``,
+    }
+  }
+  if (manifestSlugs.length > 1) {
+    return {
+      refused: `${found} names ${manifestSlugs.length} manifests, and a web app is put up as one, so which is meant for \`${slug}\` is unsettled: ${manifestSlugs.join(", ")}`,
+    }
+  }
+  const manifestPath = manifestFor(root, manifestSlugs[0] as string, found)
   if (typeof manifestPath !== "string") return manifestPath
   const synthPath = codeBeside(manifestPath)
   if (!existsSync(join(root, synthPath))) {

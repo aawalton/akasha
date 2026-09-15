@@ -49,6 +49,14 @@ export const webAppReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A cluster service naming no manifest is refused.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A cluster service naming more than one manifest is refused, a web app being one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page a value names is found by the slug alone, whatever page type names it.",
     },
     {

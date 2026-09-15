@@ -95,7 +95,7 @@ function clusterService(slug: string, at: number, name: string, appliedAs: strin
     image: "registry.example/bun:latest",
     replicas: 1,
     containerPort: 3000,
-    manifest: appliedAs,
+    manifest: [appliedAs],
   }
 }
 
