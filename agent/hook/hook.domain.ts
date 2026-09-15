@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const hook = {
   id: "01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f",
-  type: "domain",
+  type: "page-type/domain",
   slug: "hook",
   definition: "how a tool call is judged",
   parts: [

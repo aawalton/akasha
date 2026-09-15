@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const designInterfaceSystem = {
   id: "01a05c95-564a-7ba2-ab36-d818c559b389",
-  type: "domain",
+  type: "page-type/domain",
   slug: "design-interface-system",
   definition: "the look every product wears and the gallery showing what it is made of",
 

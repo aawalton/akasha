@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const auditAstUnused = {
   id: "01a0675b-16da-7bfd-8434-ddca9c15459f",
-  type: "domain",
+  type: "page-type/domain",
   slug: "audit-ast-unused",
   definition: "the entry globs reachability is worked out from",
   parts: ["ast-unused-config/every-workspace", "page-type/ast-unused-config"],

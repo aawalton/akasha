@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const studying = {
   id: "01a06574-0291-7001-9087-db957190cd32",
-  type: "domain",
+  type: "page-type/domain",
   slug: "studying",
   definition: "the courses Alan is taught by",
   parts: [

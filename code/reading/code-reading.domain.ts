@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const codeReading = {
   id: "01a09b3a-9daa-7aac-8778-f72dbc1e9b71",
-  type: "domain",
+  type: "page-type/domain",
   slug: "code-reading",
   definition: "a body read as TypeScript, and what that reading says its spellings mean",
   parts: [

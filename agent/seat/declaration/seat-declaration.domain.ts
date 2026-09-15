@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const seatDeclaration = {
   id: "01a0658d-c92f-7bc5-aac8-847d02086752",
-  type: "domain",
+  type: "page-type/domain",
   slug: "seat-declaration",
   definition: "what a seat has because somebody set it",
   parts: [

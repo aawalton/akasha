@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const stoplightRing = {
   id: "01a0655b-9cdd-7e6b-ab7d-6c730604d9f4",
-  type: "domain",
+  type: "page-type/domain",
   slug: "stoplight-ring",
   definition: "a stoplight drawn with its reading inside and its progress around",
   invariants: [

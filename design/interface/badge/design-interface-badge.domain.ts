@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const designInterfaceBadge = {
   id: "01a05b55-a539-766c-98d3-a4d3e2fc6c4b",
-  type: "domain",
+  type: "page-type/domain",
   slug: "design-interface-badge",
   definition: "the badges a browser draws a short value in",
   parts: [

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const seatSupervisor = {
   id: "01a08859-4c01-7bf5-9ebc-b39e6b3406fa",
-  type: "domain",
+  type: "page-type/domain",
   slug: "seat-supervisor",
   definition: "the supervisor keeping an agent alive in its seat",
   parts: [

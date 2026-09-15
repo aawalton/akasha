@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const changeAgentFileContent = {
   id: "01a07cc2-6223-7b0c-8d18-b219118df387",
-  type: "domain",
+  type: "page-type/domain",
   slug: "change-agent-file-content",
   definition: "a change an agent reaches acting on what a file has",
   parts: [

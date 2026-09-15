@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const googleEmail = {
   id: "01a05c0e-372c-7620-9bcc-082febbe3f5b",
-  type: "domain",
+  type: "page-type/domain",
   slug: "google-email",
   definition: "Alan's Gmail mailbox read, written to and kept in order",
   parts: [

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const alanHarnessAgentAnnoyance = {
   id: "01a0658a-e55d-7c76-83d2-3bedf4c9011c",
-  type: "domain",
+  type: "page-type/domain",
   slug: "alan-harness-agent-annoyance",
   definition: "what an agent does that annoys Alan",
   invariants: [

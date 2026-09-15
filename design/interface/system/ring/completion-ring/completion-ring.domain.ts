@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const completionRing = {
   id: "01a0655b-9cdd-7e64-82e6-36eae889890f",
-  type: "domain",
+  type: "page-type/domain",
   slug: "completion-ring",
   definition: "how near done a body of work is",
   invariants: [

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const messaging = {
   id: "01a08842-144e-783f-af6d-2e8a02ad5e8d",
-  type: "domain",
+  type: "page-type/domain",
   slug: "messaging",
   definition: "a message carried to the agent it names",
   parts: [

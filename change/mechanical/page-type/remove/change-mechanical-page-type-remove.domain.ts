@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const changeMechanicalPageTypeRemove = {
   id: "01a09c5f-90a2-75a0-9805-10fef574cff4",
-  type: "domain",
+  type: "page-type/domain",
   slug: "change-mechanical-page-type-remove",
   definition: "a mechanical change taking something away from one page type or from its pages",
   parts: [

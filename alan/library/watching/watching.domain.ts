@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const watching = {
   id: "01a06599-ee09-7000-a394-4351ebf86462",
-  type: "domain",
+  type: "page-type/domain",
   slug: "watching",
   definition: "the shows and films Alan watches",
   parts: [

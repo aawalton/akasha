@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const claudeCodeSession = {
   id: "01a065b0-2102-7c58-b7e0-4a3346b7301a",
-  type: "domain",
+  type: "page-type/domain",
   slug: "claude-code-session",
   definition: "one conversation Claude Code can pick up again",
   parts: [

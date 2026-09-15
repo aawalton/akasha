@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const emailWatch = {
   id: "01a06596-a92e-7000-b678-5d6232425a71",
-  type: "domain",
+  type: "page-type/domain",
   slug: "email-watch",
   definition: "what becomes of a message that arrives in Alan's inbox",
   parts: [

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const browserTestHarness = {
   id: "01a05ca9-d801-7799-a4a3-de2a41d35502",
-  type: "domain",
+  type: "page-type/domain",
   slug: "browser-test-harness",
   definition: "a chromium driven against a running app, signed in as a user it never writes",
   parts: [

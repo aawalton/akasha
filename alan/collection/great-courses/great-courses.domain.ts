@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const greatCourses = {
   id: "01a06579-f3d9-7008-be12-f37f13da607b",
-  type: "domain",
+  type: "page-type/domain",
   slug: "great-courses",
   definition: "the Great Courses catalogue, brought into the page store as a page for each course",
   parts: [

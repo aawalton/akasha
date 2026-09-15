@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const designLanguage = {
   id: "01a06600-0000-7000-8000-000000000003",
-  type: "domain",
+  type: "page-type/domain",
   slug: "design-language",
   definition: "how a language is shaped",
   parts: ["domain/lua-compiler"],

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const supervisorAccount = {
   id: "01a09c6e-0972-7d7e-a85f-aaec209ffd5b",
-  type: "domain",
+  type: "page-type/domain",
   slug: "supervisor-account",
   definition: "the account a seat runs under",
   parts: [

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const changeMechanicalPageTypeAdd = {
   id: "01a09c5c-dc1b-77e2-a464-b112c07559a1",
-  type: "domain",
+  type: "page-type/domain",
   slug: "change-mechanical-page-type-add",
   definition: "a mechanical change putting a key on one page type or on every page of it",
   parts: [

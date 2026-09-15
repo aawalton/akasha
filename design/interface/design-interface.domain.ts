@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const designInterface = {
   id: "01a08d8d-8ba8-7079-a696-0ed96689e240",
-  type: "domain",
+  type: "page-type/domain",
   slug: "design-interface",
   definition: "how a thing is drawn on a screen and worked by hand",
   parts: [

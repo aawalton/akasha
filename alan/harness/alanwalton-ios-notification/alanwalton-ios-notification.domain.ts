@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const alanwaltonIosNotification = {
   id: "01a0675b-16d5-73ec-b556-2248facf0650",
-  type: "domain",
+  type: "page-type/domain",
   slug: "alanwalton-ios-notification",
   definition: "a notification delivered to a phone by Apple's push service",
   parts: [

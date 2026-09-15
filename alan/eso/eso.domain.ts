@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const eso = {
   id: "01a0675b-16ea-77df-9153-bac46e026794",
-  type: "domain",
+  type: "page-type/domain",
   slug: "eso",
   definition: "Alan's play of The Elder Scrolls Online",
   parts: ["domain/eso-wallpaper"],

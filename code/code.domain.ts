@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const code = {
   id: "01a04a26-9105-7002-aa57-d2c5a03907ce",
-  type: "domain",
+  type: "page-type/domain",
   slug: "code",
   definition: "the code a machine runs",
 

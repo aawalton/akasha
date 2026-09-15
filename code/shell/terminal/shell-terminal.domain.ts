@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const shellTerminal = {
   id: "01a0884d-5f98-745e-bc9f-ced0318936eb",
-  type: "domain",
+  type: "page-type/domain",
   slug: "shell-terminal",
   definition: "the shell an editor terminal runs",
   parts: [

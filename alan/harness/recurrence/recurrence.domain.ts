@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const recurrence = {
   id: "01a05c6f-c7c2-7806-b684-baa6549863dc",
-  type: "domain",
+  type: "page-type/domain",
   slug: "recurrence",
   definition: "when a repeating thing next falls due",
   parts: ["module/recurrence-shape", "module/scheduling"],

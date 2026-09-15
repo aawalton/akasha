@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const dayBoundary = {
   id: "01a05c77-31e4-7f97-8fe6-c273915285af",
-  type: "domain",
+  type: "page-type/domain",
   slug: "day-boundary",
   definition: "which day an instant falls on, where a day does not start at midnight",
   parts: [

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const supervisorRestarting = {
   id: "01a09c71-bd3a-7e1d-80f8-17fd6319d823",
-  type: "domain",
+  type: "page-type/domain",
   slug: "supervisor-restarting",
   definition: "a restart held back until the session can take it",
   parts: [

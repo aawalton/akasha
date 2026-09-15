@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const plant = {
   id: "01a06221-d65f-739e-9acb-74d67bbe92da",
-  type: "domain",
+  type: "page-type/domain",
   slug: "plant",
   definition: "the whole plants Alan has eaten since he rose",
   parts: [

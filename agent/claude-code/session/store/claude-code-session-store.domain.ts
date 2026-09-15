@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const claudeCodeSessionStore = {
   id: "01a065b0-2103-7e19-a5cb-8f425124086c",
-  type: "domain",
+  type: "page-type/domain",
   slug: "claude-code-session-store",
   definition: "where session files are kept",
   invariants: [

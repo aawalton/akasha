@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const alanHarnessStoplight = {
   id: "01a0655b-9cdd-7169-bede-e916a8a6bd42",
-  type: "domain",
+  type: "page-type/domain",
   slug: "alan-harness-stoplight",
   definition: "how Alan knows what to do next",
   invariants: [

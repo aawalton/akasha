@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const domainChampion = {
   id: "01a0675b-16de-790e-8eea-52afc2046700",
-  type: "domain",
+  type: "page-type/domain",
   slug: "domain-champion",
   definition: "one persona answering for one domain",
   invariants: [

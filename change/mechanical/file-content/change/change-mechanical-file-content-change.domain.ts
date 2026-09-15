@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const changeMechanicalFileContentChange = {
   id: "01a07cbf-eb60-7d05-bc64-0485666cca0f",
-  type: "domain",
+  type: "page-type/domain",
   slug: "change-mechanical-file-content-change",
   definition: "a mechanical change restating what a file has",
   parts: [

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const seatName = {
   id: "01a09c43-0bf5-7991-a2dc-650268201505",
-  type: "domain",
+  type: "page-type/domain",
   slug: "seat-name",
   definition: "the name a seat goes by",
   parts: [

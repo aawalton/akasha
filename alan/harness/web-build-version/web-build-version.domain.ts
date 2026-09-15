@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const webBuildVersion = {
   id: "01a05c48-deeb-700d-9df1-fad9c81a0a32",
-  type: "domain",
+  type: "page-type/domain",
   slug: "web-build-version",
   definition: "the commit a running web build came from",
   parts: ["module/build-sha", "module/build-sha-define", "module/live-version"],

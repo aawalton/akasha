@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const rulesEngineField = {
   id: "01a06600-0000-7000-8000-000000000002",
-  type: "domain",
+  type: "page-type/domain",
   slug: "rules-engine-field",
   definition: "one property of what a rule set applies to, that a condition can name",
   invariants: [

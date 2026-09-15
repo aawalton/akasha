@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const context = {
   id: "01a04f50-2a7e-7000-a43d-22ce4657c379",
-  type: "domain",
+  type: "page-type/domain",
   slug: "context",
   definition: "what a change requires its writer to have read",
   parts: [

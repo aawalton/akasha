@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const claudeCode = {
   id: "01a065b0-2100-7a41-9c02-3e5197d4b91f",
-  type: "domain",
+  type: "page-type/domain",
   slug: "claude-code",
   definition: "the program an agent in this system runs inside",
   parts: ["domain/claude-code-session", "domain/claude-code-tool", "module/claude-launch-args"],

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const learnEverythingCommand = {
   id: "01a06862-5a9b-71d6-99e3-546a60266903",
-  type: "domain",
+  type: "page-type/domain",
   slug: "learn-everything-command",
   definition: "what an agent runs by name over how far Ali and Alan have got through the book",
   parts: [],

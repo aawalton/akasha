@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const cost = {
   id: "01a08b96-f6dd-7d5f-b99c-f87675def793",
-  type: "domain",
+  type: "page-type/domain",
   slug: "cost",
   definition: "what the stretch Alan is in costs him for each hour it runs",
   parts: [

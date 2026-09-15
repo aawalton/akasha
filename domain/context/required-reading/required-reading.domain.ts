@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const requiredReading = {
   id: "01a04d97-c600-78b8-b3eb-faf390b009ce",
-  type: "domain",
+  type: "page-type/domain",
   slug: "required-reading",
   definition: "the reading an agent cannot skip",
   invariants: [

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const attributeReadout = {
   id: "01a08bad-e763-7a0b-968c-2dfedc23ba69",
-  type: "domain",
+  type: "page-type/domain",
   slug: "attribute-readout",
   definition: "the reading each attribute's points are shown as",
   parts: [

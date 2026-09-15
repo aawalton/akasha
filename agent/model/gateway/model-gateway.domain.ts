@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const modelGateway = {
   id: "01a06227-7bc1-72a3-8056-41b5ba88f99d",
-  type: "domain",
+  type: "page-type/domain",
   slug: "model-gateway",
   definition: "what sits between an agent and the model it is asking",
   parts: [

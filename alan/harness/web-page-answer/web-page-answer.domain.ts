@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const webPageAnswer = {
   id: "01a0655a-b2a8-78a3-9dec-43e67b15bf10",
-  type: "domain",
+  type: "page-type/domain",
   slug: "web-page-answer",
   definition: "what a browser asking a site about pages and nav icons is answered with",
   parts: [

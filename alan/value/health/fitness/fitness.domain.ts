@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const fitness = {
   id: "01a06558-7000-7000-8000-000000000001",
-  type: "domain",
+  type: "page-type/domain",
   slug: "fitness",
   definition: "how Alan trains his body and what the training did",
   parts: [

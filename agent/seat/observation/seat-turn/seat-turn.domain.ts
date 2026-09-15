@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const seatTurn = {
   id: "01a0658d-c92f-7071-838b-e88aa8479137",
-  type: "domain",
+  type: "page-type/domain",
   slug: "seat-turn",
   definition: "whether an agent in a seat is working",
   parts: [

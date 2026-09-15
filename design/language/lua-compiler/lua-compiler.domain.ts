@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const luaCompiler = {
   id: "01a06759-2aa6-7004-8e68-88c34898e172",
-  type: "domain",
+  type: "page-type/domain",
   slug: "lua-compiler",
   definition: "the compiler turning TypeScript into Lua",
 

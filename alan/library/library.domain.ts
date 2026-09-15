@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const library = {
   id: "01a06574-0291-7000-bfeb-0932b2156cac",
-  type: "domain",
+  type: "page-type/domain",
   slug: "library",
   definition: "what Alan works through, and how far through it he has got",
   parts: [

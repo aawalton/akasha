@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const mobileCli = {
   id: "01a05cee-e560-7302-ad38-fd2e2a149eed",
-  type: "domain",
+  type: "page-type/domain",
   slug: "mobile-cli",
   definition: "the iOS work this workstation drives on a mac it reaches over ssh",
   parts: [

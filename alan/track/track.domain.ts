@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const track = {
   id: "01a062dc-1b7f-7bbe-a348-b71f1bbf4c9c",
-  type: "domain",
+  type: "page-type/domain",
   slug: "track",
   definition: "what is measured about Alan",
   parts: [

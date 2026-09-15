@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const supabaseAuth = {
   id: "01a05c6d-3507-7082-9e71-8c024f532b00",
-  type: "domain",
+  type: "page-type/domain",
   slug: "supabase-auth",
   definition: "signing in to Supabase, and who the signed-in user is",
 

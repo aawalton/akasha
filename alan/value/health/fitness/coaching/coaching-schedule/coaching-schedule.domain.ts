@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const coachingSchedule = {
   id: "01a09246-d96b-7ff6-ae74-578fb2f6c30a",
-  type: "domain",
+  type: "page-type/domain",
   slug: "coaching-schedule",
   definition: "the rotation Alan's training repeats on",
   parts: ["page-type/coaching-schedule-day"],

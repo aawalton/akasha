@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const domainParent = {
   id: "01a0675b-16df-7224-bb73-2d7ff8395955",
-  type: "domain",
+  type: "page-type/domain",
   slug: "domain-parent",
   definition: "the one domain a domain sits inside",
   invariants: [

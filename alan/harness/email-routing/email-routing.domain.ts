@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const emailRouting = {
   id: "01a0a134-8b3b-73ff-8e4a-6023f834c680",
-  type: "domain",
+  type: "page-type/domain",
   slug: "email-routing",
   definition: "the rules a mail provider carries for the addresses personas are written to",
   parts: [

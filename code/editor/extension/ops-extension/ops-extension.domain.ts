@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const opsExtension = {
   id: "01a0680b-7175-7002-8feb-84b86f70fc2f",
-  type: "domain",
+  type: "page-type/domain",
   slug: "ops-extension",
   definition: "the extension this repository gives the editor",
   parts: ["module/extension-entry"],
