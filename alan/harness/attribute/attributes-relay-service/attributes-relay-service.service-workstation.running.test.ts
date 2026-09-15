@@ -33,7 +33,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/alan/harness/attributes/relay-service/attributes-relay-service.service-workstation.running.code.ts"
+  "akasha/alan/harness/attribute/attributes-relay-service/attributes-relay-service.service-workstation.running.code.ts"
 )
 
 const ranAfresh = async (): Promise<undefined> => {

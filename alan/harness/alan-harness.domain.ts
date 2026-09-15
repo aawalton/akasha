@@ -10,7 +10,7 @@ export const alanHarness = {
     "domain/alan-harness-stoplight",
     "domain/alan-readout",
     "domain/alanwalton-ios-notification",
-    "domain/attributes",
+    "domain/alan-harness-attribute",
     "domain/capacity",
     "domain/code-editor",
     "domain/cost",

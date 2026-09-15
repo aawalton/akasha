@@ -6,7 +6,7 @@ import {
   type Day,
   daysCounted,
   totalOver,
-} from "akasha/alan/harness/attributes/modules/totalling/attributes-totalling.module.code.ts"
+} from "akasha/alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts"
 
 const AT_EASE_WITH_SOMEONE = {
   safetyLevel: "3",

@@ -13,8 +13,8 @@
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/model/gateway/modules/proxy-serving/proxy-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/model/gateway/modules/transport-log/transport-log.module.code.ts"}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"}
-{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/harness/attributes/modules/reading/attributes-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/harness/attributes/modules/totalling/attributes-totalling.module.code.ts"}
+{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts"}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/harness/inbox/modules/count-polling/inbox-count-polling.module.code.ts"}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/harness/inbox/modules/count-watch/inbox-count-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/harness/inbox/modules/reading/inbox-reading.module.code.ts"}

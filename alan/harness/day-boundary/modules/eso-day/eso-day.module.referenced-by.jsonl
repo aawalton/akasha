@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"agent/model/account/modules/pacing/model-account-pacing.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/attributes/modules/reading/attributes-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/day-boundary/modules/eso-day/eso-day.module.test.ts"}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/health-samples-access/modules/sample-upsert/sample-upsert.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/health-samples-day/modules/opening-window/opening-window.module.code.ts"}

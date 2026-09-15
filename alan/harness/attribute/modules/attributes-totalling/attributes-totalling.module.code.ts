@@ -13,7 +13,7 @@ import {
   spelledBack,
   type Taken,
   WISDOM_PAGE,
-} from "akasha/alan/harness/attributes/modules/reading/attributes-reading.module.code.ts"
+} from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"
 import { askingIn } from "akasha/alan/harness/plant/modules/plants-reading/plants-reading.module.code.ts"
 import { openedDayWindow } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { kebabisedRow } from "akasha/page/modules/akasha-page-values/akasha-page-values.module.code.ts"

@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/attribute/pages/charisma/charisma.attribute.code.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/attribute/pages/constitution/constitution.attribute.code.ts"}
-{"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/attributes/modules/reading/attributes-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/plant/modules/plants-reading/plants-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/readout/modules/asking/readout-asking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/readout/modules/asking/readout-asking.module.test.ts"}

@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const attributes = {
+export const alanHarnessAttribute = {
   id: "01a0687a-f498-76b9-9a54-205509f15f64",
   type: "domain",
-  slug: "attributes",
+  slug: "alan-harness-attribute",
   definition: "the points Alan's daily upkeep habits earned him on a day",
   parts: [
     "module/attributes-reading",

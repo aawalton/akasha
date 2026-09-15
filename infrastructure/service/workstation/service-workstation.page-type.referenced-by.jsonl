@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/alan-readout/day-readout-watch-service/day-readout-watch-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/alan-readout/workstation-load-sampler/workstation-load-sampler.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/attributes/relay-service/attributes-relay-service.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/attribute/attributes-relay-service/attributes-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/capacity/relay-service/capacity-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/cost/relay-service/cost-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/inbox/count-watch-service/inbox-count-watch-service.service-workstation.ts"}
