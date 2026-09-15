@@ -2,7 +2,7 @@ import type { TravelCollection } from "akasha/alan/collection/place/travel-colle
 
 export const unescoWorldHeritageSites = {
   id: "01a06808-caa5-7004-8cf5-318dad8c2d54",
-  type: "travel-collection",
+  type: "page-type/travel-collection",
   slug: "unesco-world-heritage-sites",
   title: "UNESCO World Heritage Sites",
   partOfCollections: ["travel-collection/travel"],

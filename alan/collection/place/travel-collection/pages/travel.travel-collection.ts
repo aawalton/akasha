@@ -2,7 +2,7 @@ import type { TravelCollection } from "akasha/alan/collection/place/travel-colle
 
 export const travel = {
   id: "01a06808-caa5-7003-9422-ffd1bdf740c4",
-  type: "travel-collection",
+  type: "page-type/travel-collection",
   slug: "travel",
   title: "Travel",
   position: 0,

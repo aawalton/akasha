@@ -2,7 +2,7 @@ import type { TravelCollection } from "akasha/alan/collection/place/travel-colle
 
 export const utahStateParks = {
   id: "01a06808-caa5-7007-bef8-db3dddd30f06",
-  type: "travel-collection",
+  type: "page-type/travel-collection",
   slug: "utah-state-parks",
   title: "Utah State Parks",
   partOfCollections: ["travel-collection/travel"],

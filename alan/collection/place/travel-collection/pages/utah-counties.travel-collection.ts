@@ -2,7 +2,7 @@ import type { TravelCollection } from "akasha/alan/collection/place/travel-colle
 
 export const utahCounties = {
   id: "01a06808-caa5-7006-b6fc-2b25ff9a71ce",
-  type: "travel-collection",
+  type: "page-type/travel-collection",
   slug: "utah-counties",
   title: "Utah Counties",
   partOfCollections: ["travel-collection/travel"],

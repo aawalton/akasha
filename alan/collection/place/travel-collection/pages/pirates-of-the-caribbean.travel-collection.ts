@@ -2,7 +2,7 @@ import type { TravelCollection } from "akasha/alan/collection/place/travel-colle
 
 export const piratesOfTheCaribbean = {
   id: "01a06808-caa5-7001-82e9-fd16e052f9fb",
-  type: "travel-collection",
+  type: "page-type/travel-collection",
   slug: "pirates-of-the-caribbean",
   title: "Pirates of the Caribbean",
   partOfCollections: ["fandom/pirates-of-the-caribbean-2"],
