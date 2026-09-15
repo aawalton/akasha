@@ -18,15 +18,28 @@ const TYPE_AT = "akasha/module.page-type.ts"
 
 const TYPE_ID = "01a04b79-0000-7000-8000-00000000000c"
 
-const AT_SLUGS = "page-type/page-type/slug"
+const PAGE_AT = "akasha/b.module.ts"
 
-const LISTED: readonly Child[] = [{ name: "module.jsonl", directory: false }]
+const PAGE_ID = "01a04b79-0000-7000-8000-00000000000b"
+
+const AT_TYPES = "page-type/page-type/slug"
+
+const AT_MODULES = "page-type/module/slug"
+
+const LISTED = new Map<string, readonly Child[]>([
+  [AT_TYPES, [{ name: "module.jsonl", directory: false }]],
+  [AT_MODULES, [{ name: "b.jsonl", directory: false }]],
+])
+
+const FILED = new Map<string, readonly string[]>([
+  [`${AT_TYPES}/module.jsonl`, [`{"path":"${TYPE_AT}","id":"${TYPE_ID}"}`]],
+  [`${AT_MODULES}/b.jsonl`, [`{"path":"${PAGE_AT}","id":"${PAGE_ID}"}`]],
+])
 
 const INDEXED: Reading = {
   holds: (at) => at === "",
-  listing: (at) => (at === AT_SLUGS ? LISTED : []),
-  lines: (at) =>
-    at === `${AT_SLUGS}/module.jsonl` ? [`{"path":"${TYPE_AT}","id":"${TYPE_ID}"}`] : [],
+  listing: (at) => LISTED.get(at) ?? [],
+  lines: (at) => FILED.get(at) ?? [],
   read: () => null,
 }
 
@@ -96,6 +109,12 @@ test("an import of a page's own file names that file rather than naming none", (
 
 test("an imported file belonging to no page files no line", () => {
   expect(importedFrom(INDEXED, 'import { x } from "./routes.ts"\n', CODE_AT, "")).toEqual([])
+})
+
+test("an imported file named for a page the index does not have files no line", () => {
+  const body = 'import type { One } from "./+types/b.module.code"\n'
+
+  expect(importedFrom(INDEXED, body, CODE_AT, "")).toEqual([])
 })
 
 test("a body that is no typescript files no import", () => {

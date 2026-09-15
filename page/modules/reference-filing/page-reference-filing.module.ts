@@ -27,6 +27,10 @@ export const pageReferenceFiling = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A line is filed only beside a page the index has.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A page naming the same page twice through one property files one line.",
     },
     {
@@ -44,10 +48,6 @@ export const pageReferenceFiling = {
     {
       invariantKind: "invariant-kind/absence",
       statement: "Only a body named `.ts` or `.tsx` files an import.",
-    },
-    {
-      invariantKind: "invariant-kind/gap",
-      statement: "An imported file belonging to no page files no line and is not reported.",
     },
   ],
 } as const satisfies Module
