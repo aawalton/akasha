@@ -1,7 +1,5 @@
 import {
-  followPages,
   offsetPageSchema,
-  type PageStep,
   spotifyGet,
   withQuery,
 } from "akasha/alan/music/spotify/modules/client/spotify-client.module.code.ts"
@@ -46,16 +44,6 @@ export type SearchResponse = z.infer<typeof searchResponseSchema>
 
 export type SearchItem = z.infer<typeof itemSchema>
 
-const SECTION_KEY = {
-  album: "albums",
-  artist: "artists",
-  playlist: "playlists",
-  track: "tracks",
-  show: "shows",
-  episode: "episodes",
-  audiobook: "audiobooks",
-} as const satisfies Record<SearchType, keyof SearchResponse>
-
 export type SearchParams = {
   readonly q: string
   readonly types: readonly SearchType[]
@@ -76,39 +64,4 @@ export function buildSearchPath(params: SearchParams): string {
 
 export function search(params: SearchParams): Promise<SearchResponse> {
   return spotifyGet(buildSearchPath(params), searchResponseSchema)
-}
-
-export type SearchPaginateOptions = {
-  readonly market?: string
-  readonly limit?: number
-  readonly max?: number
-}
-
-export function searchPaginate(
-  q: string,
-  type: SearchType,
-  options: SearchPaginateOptions = {}
-): Promise<SearchItem[]> {
-  const sectionKey = SECTION_KEY[type]
-  const firstPath = buildSearchPath({
-    q,
-    types: [type],
-    limit: options.limit,
-    market: options.market,
-  })
-  return followPages<SearchItem>(
-    firstPath,
-    async (path) => {
-      const page: SearchResponse = await spotifyGet(path, searchResponseSchema)
-      const section = page[sectionKey]
-      if (section == null) return null
-      const items: SearchItem[] = []
-      for (const item of section.items) {
-        if (item != null) items.push(item)
-      }
-      const step: PageStep<SearchItem> = { items, next: section.next }
-      return step
-    },
-    options
-  )
 }

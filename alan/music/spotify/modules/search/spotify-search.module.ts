@@ -24,10 +24,7 @@ export const spotifySearch = {
       invariantKind: "departure",
       statement: "Spotify puts a null in among the items of some sections.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A null item is dropped while paging.",
-    },
+
     {
       invariantKind: "absence",
       statement: "Nothing here ranks the results.",
