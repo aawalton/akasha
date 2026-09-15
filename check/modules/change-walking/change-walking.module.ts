@@ -196,6 +196,15 @@ export const changeWalking = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "The index answers those pages far sooner, and is asked for none of them.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "An audit judges the tree, so an audit reading the index cannot catch a wrong one.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "That search is made by ripgrep, which answers the paths git would answer.",
     },
     {
