@@ -5,7 +5,7 @@ export const attributeLuck = {
   type: "page-type/readout",
   slug: "attribute-luck",
   definition: "the points Alan earned on a day for the rejections he risked",
-  label: "LUK",
+  label: "LCK",
   unit: "points",
   place: 7,
   scale: "readout-scale/attribute-points",
