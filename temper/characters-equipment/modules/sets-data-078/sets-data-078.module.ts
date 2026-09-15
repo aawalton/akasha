@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData078 = {
   id: "01a061a3-6216-77da-8d53-24e844978166",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-078",
   definition: "part 078 of the gear set table, powerful-assault through queens-elegance",
   code: "ts",

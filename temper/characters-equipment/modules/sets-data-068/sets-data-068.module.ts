@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData068 = {
   id: "01a061a3-3084-7041-afe6-abf5bd6d67b1",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-068",
   definition:
     "part 068 of the gear set table, perfected-arms-of-relequen through perfected-cruel-flurry",

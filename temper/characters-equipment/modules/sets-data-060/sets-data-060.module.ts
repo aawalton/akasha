@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData060 = {
   id: "01a061a3-3082-73c9-b498-894bde4fd8f7",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-060",
   definition: "part 060 of the gear set table, naga-shaman through netchs-touch",
   code: "ts",

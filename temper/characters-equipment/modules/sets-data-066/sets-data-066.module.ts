@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData066 = {
   id: "01a061a3-3084-7fab-8972-0bbee2e65550",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-066",
   definition: "part 066 of the gear set table, orpheon-the-tactician through peace-and-serenity",
   code: "ts",

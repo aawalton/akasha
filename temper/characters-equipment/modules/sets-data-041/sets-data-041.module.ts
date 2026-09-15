@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData041 = {
   id: "01a061a3-0133-7ae2-8a8b-a2cbc3e18865",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-041",
   definition: "part 041 of the gear set table, heem-jas-retribution through hexos-ward",
   code: "ts",

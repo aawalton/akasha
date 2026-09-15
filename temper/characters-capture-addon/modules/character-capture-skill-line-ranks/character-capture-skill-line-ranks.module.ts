@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const characterCaptureSkillLineRanks = {
   id: "01a0616b-b903-7191-873a-e4fde46698f7",
-  type: "module",
+  type: "page-type/module",
   slug: "character-capture-skill-line-ranks",
   definition: "each skill line's place in a build hash, its top rank and its order",
   code: "ts",

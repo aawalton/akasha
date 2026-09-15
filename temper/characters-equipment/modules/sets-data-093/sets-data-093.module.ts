@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData093 = {
   id: "01a061a3-621a-743b-bcf3-563642ad2eb2",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-093",
   definition: "part 093 of the gear set table, snow-treaders through spectral-cloak",
   code: "ts",

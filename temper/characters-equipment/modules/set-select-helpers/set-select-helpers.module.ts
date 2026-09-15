@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setSelectHelpers = {
   id: "01a061a4-18b1-76bb-93ce-10eaed820121",
-  type: "module",
+  type: "page-type/module",
   slug: "set-select-helpers",
   definition:
     "the gear set picker's own list of choices, grouped by category and searchable by name",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData084 = {
   id: "01a061a3-6217-7d12-b9ef-4eaf90d2c56a",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-084",
   definition: "part 084 of the gear set table, roksa-the-warped through savage-werewolf",
   code: "ts",

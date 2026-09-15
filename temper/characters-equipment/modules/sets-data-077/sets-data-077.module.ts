@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData077 = {
   id: "01a061a3-6215-7b15-ab62-3e22a0ec8c01",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-077",
   definition: "part 077 of the gear set table, pillar-of-nirn through poisonous-serpent",
   code: "ts",

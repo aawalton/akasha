@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData045 = {
   id: "01a061a3-0134-72cd-b81a-08167b65434f",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-045",
   definition: "part 045 of the gear set table, ilambris through impregnable-armor",
   code: "ts",

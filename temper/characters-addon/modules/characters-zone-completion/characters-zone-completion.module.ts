@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersZoneCompletion = {
   id: "01a062e9-b6fe-7016-9471-6e0772ae8e4f",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-zone-completion",
   definition:
     "the zone story activities the character now played has finished, read into the saved table",

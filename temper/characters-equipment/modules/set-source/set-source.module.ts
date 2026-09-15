@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setSource = {
   id: "01a061a4-18b1-7a6e-bc9b-94150a72e67b",
-  type: "module",
+  type: "page-type/module",
   slug: "set-source",
   definition:
     "one effect source per gear set and piece count, scaled by the quality of the pieces worn",

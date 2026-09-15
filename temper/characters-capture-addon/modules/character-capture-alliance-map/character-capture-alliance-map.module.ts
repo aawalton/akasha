@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const characterCaptureAllianceMap = {
   id: "01a0616b-5a16-7e5f-b792-c43a0671a8d9",
-  type: "module",
+  type: "page-type/module",
   slug: "character-capture-alliance-map",
   definition: "each alliance's game id against its place in a build hash",
   code: "ts",

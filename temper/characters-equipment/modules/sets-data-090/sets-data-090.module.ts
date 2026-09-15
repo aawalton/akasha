@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData090 = {
   id: "01a061a3-6219-7366-a208-39f360a55cc4",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-090",
   definition: "part 090 of the gear set table, sheer-venom through shroud-of-the-lich",
   code: "ts",

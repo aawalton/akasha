@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData053 = {
   id: "01a061a3-3080-7f8d-9dc4-f28670e955bd",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-053",
   definition: "part 053 of the gear set table, leviathan through lucent-echoes",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData044 = {
   id: "01a061a3-0134-70db-b3e7-e7978f73bef2",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-044",
   definition: "part 044 of the gear set table, hrothgars-chill through icy-conjurer",
   code: "ts",

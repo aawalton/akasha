@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData083 = {
   id: "01a061a3-6217-75ea-87f4-2aed89e54530",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-083",
   definition:
     "part 083 of the gear set table, robes-of-alteration-mastery through robes-of-transmutation",

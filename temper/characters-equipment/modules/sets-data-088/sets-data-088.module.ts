@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData088 = {
   id: "01a061a3-6219-7419-906f-14895323268f",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-088",
   definition: "part 088 of the gear set table, shacklebreaker through shalidors-curse",
   code: "ts",

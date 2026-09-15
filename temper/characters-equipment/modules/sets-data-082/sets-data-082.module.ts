@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData082 = {
   id: "01a061a3-6217-723c-b78e-2769d172c606",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-082",
   definition: "part 082 of the gear set table, renalds-resolve through roaring-opportunist",
   code: "ts",

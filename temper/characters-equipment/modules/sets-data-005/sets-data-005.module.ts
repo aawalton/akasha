@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData005 = {
   id: "01a0619f-59e3-71a3-81ef-ed620b2f305a",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-005",
   definition: "part 005 of the gear set table, arkays-charity through armor-of-the-seducer",
   code: "ts",

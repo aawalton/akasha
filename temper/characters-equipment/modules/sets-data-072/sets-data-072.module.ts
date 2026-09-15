@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData072 = {
   id: "01a061a3-6213-7409-b2e8-6344b6487d1a",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-072",
   definition:
     "part 072 of the gear set table, perfected-pillagers-profit through perfected-roaring-opportunist",

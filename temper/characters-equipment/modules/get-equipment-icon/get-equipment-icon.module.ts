@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const getEquipmentIcon = {
   id: "01a0616f-8e18-78af-ac3b-8ddc65658dec",
-  type: "module",
+  type: "page-type/module",
   slug: "get-equipment-icon",
   definition: "which icon represents a gear set in a slot",
   code: "ts",

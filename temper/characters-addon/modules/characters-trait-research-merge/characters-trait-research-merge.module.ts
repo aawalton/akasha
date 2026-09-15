@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersTraitResearchMerge = {
   id: "01a062ea-5fc8-7fa6-8bc9-a25e8627b5b7",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-trait-research-merge",
   definition:
     "a stored trait research reading folded with a fresh one, a known trait staying known",

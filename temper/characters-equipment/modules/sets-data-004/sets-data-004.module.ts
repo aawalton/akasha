@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData004 = {
   id: "01a0619f-59e2-7a06-8a1a-8e9322b59c50",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-004",
   definition: "part 004 of the gear set table, ansuuls-torment through arkasiss-genius",
   code: "ts",

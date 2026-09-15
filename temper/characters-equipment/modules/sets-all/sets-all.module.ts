@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsAll = {
   id: "01a061a4-18b0-70f3-9811-f8f48f7e103b",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-all",
   definition: "every gear set the game holds, gathered from the numbered parts into one table",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const characterCaptureSkillLineMap = {
   id: "01a0616b-0b56-7a15-96fe-ccb28c313a6a",
-  type: "module",
+  type: "page-type/module",
   slug: "character-capture-skill-line-map",
   definition: "each skill line's place in a build hash, with its ranks and morphable abilities",
   code: "ts",

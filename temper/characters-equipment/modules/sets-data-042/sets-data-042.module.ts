@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setsData042 = {
   id: "01a061a3-0133-7cef-9ca5-5c06b9c8b2a6",
-  type: "module",
+  type: "page-type/module",
   slug: "sets-data-042",
   definition: "part 042 of the gear set table, hide-of-morihaus through hircines-veneer",
   code: "ts",
