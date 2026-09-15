@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonMenuDialogs = {
   id: "01a06100-0000-7000-8000-000000000003",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-menu-dialogs",
   definition: "the reset-to-defaults and reload-UI dialogs and the panel reopened after a reload",
   code: "ts",

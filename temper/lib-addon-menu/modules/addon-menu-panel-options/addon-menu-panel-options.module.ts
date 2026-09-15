@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonMenuPanelOptions = {
   id: "01a06100-0000-7000-8000-000000000006",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-menu-panel-options",
   definition:
     "the lifecycle of one addon's options panel from widget creation through open and close",

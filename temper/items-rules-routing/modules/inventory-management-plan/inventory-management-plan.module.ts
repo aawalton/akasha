@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryManagementPlan = {
   id: "01a06289-2676-70d1-b558-0f7f5fbd97de",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-management-plan",
   definition: "the whole errand list the rules come to, ordered by who does what next",
   code: "ts",

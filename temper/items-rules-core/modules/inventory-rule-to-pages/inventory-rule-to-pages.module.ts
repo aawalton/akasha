@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRuleToPages = {
   id: "01a072b6-0546-7d78-8e19-d3cb86901c69",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rule-to-pages",
   definition: "a rule a player has written out as a page and the entries beside it",
   code: "ts",

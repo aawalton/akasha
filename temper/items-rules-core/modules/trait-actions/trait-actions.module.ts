@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const traitActions = {
   id: "01a06100-3c00-7c60-a2f3-ea058876bbef",
-  type: "module",
+  type: "page-type/module",
   slug: "trait-actions",
   definition: "what becomes of an item carrying each trait, gathered from the rules naming traits",
   code: "ts",

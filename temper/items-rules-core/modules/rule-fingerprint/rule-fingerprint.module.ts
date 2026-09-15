@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const ruleFingerprint = {
   id: "01a06276-e3e7-7ec2-b97e-e6c2f4eafda8",
-  type: "module",
+  type: "page-type/module",
   slug: "rule-fingerprint",
   definition: "one string representing everything a rule matches on",
   code: "ts",

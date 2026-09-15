@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const canResearchFilter = {
   id: "01a06100-3be7-745e-96c2-26bc05aa5740",
-  type: "module",
+  type: "page-type/module",
   slug: "can-research-filter",
   definition: "the Can Research condition a rule may have, as the rule editor offers it",
   code: "ts",

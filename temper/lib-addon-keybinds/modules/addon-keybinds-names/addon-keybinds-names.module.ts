@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonKeybindsNames = {
   id: "01a0605a-051b-734e-b19d-eae3f2271dc7",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-keybinds-names",
   definition: "the global name, the version and the row type numbers the game's list uses",
   code: "ts",

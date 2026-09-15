@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryManagementPlanRouteSteps = {
   id: "01a06151-3709-7ab7-b5e0-b46be6326c2d",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-management-plan-route-steps",
   definition: "the steps for handing an item between characters or through shared storage",
   code: "ts",

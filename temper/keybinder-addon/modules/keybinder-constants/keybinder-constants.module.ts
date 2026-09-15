@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const keybinderConstants = {
   id: "01a06381-67c1-7b87-8d5c-6c7b5fcc569f",
-  type: "module",
+  type: "page-type/module",
   slug: "keybinder-constants",
   definition: "the add-on's names and the actions it shares across the account by default",
   code: "ts",

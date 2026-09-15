@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const itemFacts = {
   id: "01a06137-f96c-7332-b371-6a8536a60c01",
-  type: "module",
+  type: "page-type/module",
   slug: "item-facts",
   definition: "the per-item signals a compiled inventory rule is evaluated against",
   code: "ts",

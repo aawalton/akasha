@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonKeybindsCasts = {
   id: "01a0605a-051b-7355-a78a-16ba2dc843c5",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-keybinds-casts",
   definition: "what a value out of the game's untyped keybinding tables is read as",
   code: "ts",

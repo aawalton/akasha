@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const locationFilter = {
   id: "01a06100-3bf2-77cf-bcc7-b09945beb2f9",
-  type: "module",
+  type: "page-type/module",
   slug: "location-filter",
   definition: "the Location condition a rule may carry, as the rule editor offers it",
   code: "ts",

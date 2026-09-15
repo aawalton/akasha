@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const checkClassification = {
   id: "01a06137-f962-70e4-b657-15f603e5b645",
-  type: "module",
+  type: "page-type/module",
   slug: "check-classification",
   definition: "the condition check over an item's sellability, name, trait, and set source type",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonMenuWidgetColorpicker = {
   id: "01a06100-0000-7000-8000-000000000015",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-menu-widget-colorpicker",
   definition: "the color swatch widget of the settings panel",
   code: "ts",

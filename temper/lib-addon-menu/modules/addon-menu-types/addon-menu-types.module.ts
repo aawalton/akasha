@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonMenuTypes = {
   id: "01a06100-0000-7000-8000-000000000010",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-menu-types",
   definition: "the declared shape of every widget's data table and of the control it becomes",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryManagementPlanSimulation = {
   id: "01a0615a-a1dc-7109-83cd-300cf2753778",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-management-plan-simulation",
   definition: "one character's session run through in advance to see what each step leaves behind",
   code: "ts",

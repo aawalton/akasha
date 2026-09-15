@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const levelFilter = {
   id: "01a06100-3bf2-7955-aa20-b395eca80d9f",
-  type: "module",
+  type: "page-type/module",
   slug: "level-filter",
   definition: "the Level condition a rule may carry, as the rule editor offers it",
   code: "ts",

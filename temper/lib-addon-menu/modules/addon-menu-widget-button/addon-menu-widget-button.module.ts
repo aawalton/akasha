@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonMenuWidgetButton = {
   id: "01a06100-0000-7000-8000-000000000013",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-menu-widget-button",
   definition: "the clickable button widget, with an optional icon face",
   code: "ts",

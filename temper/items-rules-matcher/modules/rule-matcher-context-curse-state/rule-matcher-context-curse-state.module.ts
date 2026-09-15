@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const ruleMatcherContextCurseState = {
   id: "01a06151-370d-745a-96d3-e57c7a242777",
-  type: "module",
+  type: "page-type/module",
   slug: "rule-matcher-context-curse-state",
   definition:
     "which characters are vampires or werewolves, compiled into a reader the matcher calls",

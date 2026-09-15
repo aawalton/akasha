@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const reconstructedFilter = {
   id: "01a06100-3bf7-7546-86af-79fe6f2c3a83",
-  type: "module",
+  type: "page-type/module",
   slug: "reconstructed-filter",
   definition: "the Reconstructed Status condition a rule may carry, as the rule editor offers it",
   code: "ts",

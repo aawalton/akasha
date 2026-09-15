@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const checkPotionEffects = {
   id: "01a06137-f968-77cc-97d7-6adbf8f9ea1d",
-  type: "module",
+  type: "page-type/module",
   slug: "check-potion-effects",
   definition:
     "the condition check over a rule's required potion effects against the effects an item grants",

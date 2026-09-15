@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const equipmentSignatureCompiler = {
   id: "01a06276-e3e7-73dc-b7c5-e02a70f1c789",
-  type: "module",
+  type: "page-type/module",
   slug: "equipment-signature-compiler",
   definition: "a build's wanted gear written as the numbers the game states items by",
   code: "ts",

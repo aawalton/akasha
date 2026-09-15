@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonKeybindsListHooks = {
   id: "01a0605a-051a-7a69-a7a6-fba2eb79eefb",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-keybinds-list-hooks",
   definition: "the game's keybinding list filtered by which half of the split is chosen",
   code: "ts",

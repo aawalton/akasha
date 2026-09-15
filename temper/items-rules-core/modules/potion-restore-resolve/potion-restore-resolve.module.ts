@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const potionRestoreResolve = {
   id: "01a060d9-44cb-7685-bea5-8baa5a8a8943",
-  type: "module",
+  type: "page-type/module",
   slug: "potion-restore-resolve",
   definition:
     "which resources a potion restores, unpacked from its item link or read off its item id",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRuleControlled = {
   id: "01a06100-3bee-7018-bc06-5cbc76e051f4",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rule-controlled",
   definition:
     "the rules the automation settings write for the player rather than the player writing them",

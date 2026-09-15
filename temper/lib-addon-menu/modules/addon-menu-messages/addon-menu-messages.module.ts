@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonMenuMessages = {
   id: "01a06100-0000-7000-8000-000000000005",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-menu-messages",
   definition: "the queued chat output and the debug logger of the library",
   code: "ts",

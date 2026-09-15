@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const transmutedFilter = {
   id: "01a06100-3c00-7289-bd55-ca10e321d94e",
-  type: "module",
+  type: "page-type/module",
   slug: "transmuted-filter",
   definition: "the Transmuted Status condition a rule may carry, as the rule editor offers it",
   code: "ts",

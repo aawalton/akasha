@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRuleMatcherAllocators = {
   id: "01a06151-370c-7272-8296-63a93f40a850",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rule-matcher-allocators",
   definition: "how many of a matched item a rule takes, and what the allocation is charged against",
   code: "ts",

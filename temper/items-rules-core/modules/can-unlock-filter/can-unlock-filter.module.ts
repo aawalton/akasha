@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const canUnlockFilter = {
   id: "01a06100-3be8-751b-bf3a-5525027297a8",
-  type: "module",
+  type: "page-type/module",
   slug: "can-unlock-filter",
   definition: "the Can Unlock condition a rule may have, as the rule editor offers it",
   code: "ts",

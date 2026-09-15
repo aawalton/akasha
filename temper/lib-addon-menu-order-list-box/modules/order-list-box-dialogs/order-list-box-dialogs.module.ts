@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const orderListBoxDialogs = {
   id: "01a06207-bdf0-770d-80f0-db4744058c0a",
-  type: "module",
+  type: "page-type/module",
   slug: "order-list-box-dialogs",
   definition: "the dialog asking for a new entry and the dialog asking before a removal",
   code: "ts",

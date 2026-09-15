@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const keybinderScrollList = {
   id: "01a06381-67c1-733c-93c4-841be62e7306",
-  type: "module",
+  type: "page-type/module",
   slug: "keybinder-scroll-list",
   definition: "the account-wide checkbox added to every row of the key-bind list",
   code: "ts",

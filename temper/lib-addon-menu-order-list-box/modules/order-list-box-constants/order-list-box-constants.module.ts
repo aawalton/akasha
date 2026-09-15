@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const orderListBoxConstants = {
   id: "01a06207-bdef-7f81-9b52-c6df27e5e358",
-  type: "module",
+  type: "page-type/module",
   slug: "order-list-box-constants",
   definition: "the names, textures, sizes and translated words this widget uses",
   code: "ts",

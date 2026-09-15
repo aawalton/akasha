@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryItemOutcomes = {
   id: "01a09cdb-91fc-7a30-aff9-71b0686321f2",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-item-outcomes",
   definition: "the outcome each item held reaches over the whole rule chain",
   code: "ts",

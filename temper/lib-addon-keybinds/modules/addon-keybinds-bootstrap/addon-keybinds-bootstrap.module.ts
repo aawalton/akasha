@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const addonKeybindsBootstrap = {
   id: "01a0605a-0518-7c9d-94e2-4a1ec6390fe3",
-  type: "module",
+  type: "page-type/module",
   slug: "addon-keybinds-bootstrap",
   definition: "the library put on the globals and the wait for the game's keybinding screen",
   code: "ts",

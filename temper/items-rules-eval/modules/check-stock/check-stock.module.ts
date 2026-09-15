@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const checkStock = {
   id: "01a06137-f969-797a-9d04-179e4e9701ba",
-  type: "module",
+  type: "page-type/module",
   slug: "check-stock",
   definition:
     "the condition check over how much of a stock group characters and the bank already have",

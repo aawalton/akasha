@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const craftInference = {
   id: "01a06137-f96a-71d7-bd01-e8c7b488135a",
-  type: "module",
+  type: "page-type/module",
   slug: "craft-inference",
   definition:
     "the crafting type and trait name an equipment item implies, read off the item's type numbers",

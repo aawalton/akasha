@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const stolenFilter = {
   id: "01a06100-3bff-7782-8d27-8df8dd457040",
-  type: "module",
+  type: "page-type/module",
   slug: "stolen-filter",
   definition: "the Stolen Status condition a rule may carry, as the rule editor offers it",
   code: "ts",

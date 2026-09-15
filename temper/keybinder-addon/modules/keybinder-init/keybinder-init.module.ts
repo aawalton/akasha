@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const keybinderInit = {
   id: "01a06381-67c1-7c76-96e7-07ef878b098c",
-  type: "module",
+  type: "page-type/module",
   slug: "keybinder-init",
   definition: "the controls the add-on puts in the key-bind window and the events it waits on",
   code: "ts",

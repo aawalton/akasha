@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const keybinderEntry = {
   id: "01a06381-67c1-7f0e-893a-74e8c40fa512",
-  type: "module",
+  type: "page-type/module",
   slug: "keybinder-entry",
   definition: "the order the add-on's parts are set going in once the game has loaded it",
   code: "ts",

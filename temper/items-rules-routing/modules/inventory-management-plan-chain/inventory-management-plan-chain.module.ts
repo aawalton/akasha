@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryManagementPlanChain = {
   id: "01a0615a-a1da-742b-ae13-b527b4574811",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-management-plan-chain",
   definition: "one rule's items spread down a chain of destinations, tier by tier",
   code: "ts",

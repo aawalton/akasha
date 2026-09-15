@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const checkStackFullness = {
   id: "01a06137-f969-733b-bff3-0c5160949134",
-  type: "module",
+  type: "page-type/module",
   slug: "check-stack-fullness",
   definition:
     "the condition check over an item's stack count against the item's maximum stack size",

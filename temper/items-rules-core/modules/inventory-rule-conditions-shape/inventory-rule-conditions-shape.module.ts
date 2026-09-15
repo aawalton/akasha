@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRuleConditionsShape = {
   id: "01a0957a-420f-7000-8493-c2bb0c0ff5f8",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rule-conditions-shape",
   definition: "the shape a rule's conditions hold, stated once for every reader of a rule",
   code: "ts",

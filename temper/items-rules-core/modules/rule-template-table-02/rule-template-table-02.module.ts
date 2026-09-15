@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const ruleTemplateTable02 = {
   id: "01a06100-3bfd-794a-abcd-eb17b95c077c",
-  type: "module",
+  type: "page-type/module",
   slug: "rule-template-table-02",
   definition: "the last 24 rule templates, in the order the rules are tried in",
   code: "ts",

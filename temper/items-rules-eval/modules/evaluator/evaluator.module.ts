@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const evaluator = {
   id: "01a06137-f96c-78f9-8a21-1e325a4be527",
-  type: "module",
+  type: "page-type/module",
   slug: "evaluator",
   definition: "the first-match run of an ordered compiled rule list against one item's facts",
   code: "ts",

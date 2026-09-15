@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const comparisonOp = {
   id: "01a060d9-44ca-7638-bf00-7199306fb945",
-  type: "module",
+  type: "page-type/module",
   slug: "comparison-op",
   definition: "one numeric comparison carried out under the operator naming it",
   code: "ts",

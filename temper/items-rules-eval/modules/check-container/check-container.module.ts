@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const checkContainer = {
   id: "01a06137-f963-7bd7-a68f-851bd0289e6b",
-  type: "module",
+  type: "page-type/module",
   slug: "check-container",
   definition: "the condition check over a container's cooldown, currency cap, and reward ceiling",
   code: "ts",

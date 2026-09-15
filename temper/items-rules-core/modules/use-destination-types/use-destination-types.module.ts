@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const useDestinationTypes = {
   id: "01a060d9-44ce-76b7-8295-b4cd3f803801",
-  type: "module",
+  type: "page-type/module",
   slug: "use-destination-types",
   definition: "the identity of a character and the key of an item a character may learn from",
   code: "ts",

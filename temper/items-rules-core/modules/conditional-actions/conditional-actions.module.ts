@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const conditionalActions = {
   id: "01a06100-3be9-7bf7-90df-7f2075a39e68",
-  type: "module",
+  type: "page-type/module",
   slug: "conditional-actions",
   definition: "the actions the game addon takes only where a condition on the item holds",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const checkCrossCharacterCraft = {
   id: "01a06137-f964-7c61-843b-2d70fcb4ffe7",
-  type: "module",
+  type: "page-type/module",
   slug: "check-cross-character-craft",
   definition:
     "the condition check over whether any character can research a trait or gain crafting inspiration",

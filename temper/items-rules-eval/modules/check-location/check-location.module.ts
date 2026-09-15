@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const checkLocation = {
   id: "01a06137-f966-775e-b470-aec9815be083",
-  type: "module",
+  type: "page-type/module",
   slug: "check-location",
   definition:
     "the condition check over an item's inventory location against a rule's allowed locations",

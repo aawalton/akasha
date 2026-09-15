@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const orderListBoxDragMethods = {
   id: "01a06207-bdf2-7f90-8605-c3a58dfd8856",
-  type: "module",
+  type: "page-type/module",
   slug: "order-list-box-drag-methods",
   definition: "the methods a row's drag runs from mouse down through to mouse up",
   code: "ts",

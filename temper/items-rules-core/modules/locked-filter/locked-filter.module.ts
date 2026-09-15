@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const lockedFilter = {
   id: "01a06100-3bf2-73c8-8184-8789e0df7124",
-  type: "module",
+  type: "page-type/module",
   slug: "locked-filter",
   definition: "the Lock Status condition a rule may carry, as the rule editor offers it",
   code: "ts",

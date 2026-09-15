@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRuleCompilerTypes = {
   id: "01a06100-3bed-76ca-b6bf-8886acaea7ea",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rule-compiler-types",
   definition: "the shape a rule takes once compiled for the game addon and for the web matcher",
   code: "ts",

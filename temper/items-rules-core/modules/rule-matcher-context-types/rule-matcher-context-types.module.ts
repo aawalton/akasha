@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const ruleMatcherContextTypes = {
   id: "01a06100-3bfb-733c-9d6f-e271da93d557",
-  type: "module",
+  type: "page-type/module",
   slug: "rule-matcher-context-types",
   definition: "everything a matcher is given to read about the account before judging an item",
   code: "ts",

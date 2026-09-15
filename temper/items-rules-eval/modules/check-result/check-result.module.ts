@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const checkResult = {
   id: "01a06137-f968-771f-a84a-6b5df7704c70",
-  type: "module",
+  type: "page-type/module",
   slug: "check-result",
   definition:
     "the result kinds one condition checker may return, being the condition results plus skip",
