@@ -71,6 +71,10 @@ export const pageTree = {
       decisionKind: "decision-kind/absence",
       statement: "A run writes nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer is drawn from the repository root or from a reading of the index.",
+    },
   ],
   name: "tree",
   arguments: [],

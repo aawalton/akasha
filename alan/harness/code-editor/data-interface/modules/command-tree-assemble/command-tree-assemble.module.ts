@@ -63,5 +63,13 @@ export const commandTreeAssemble = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here draws a row.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader here takes the repository root or a reading of the index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every question one call asks is asked of one reading.",
+    },
   ],
 } as const satisfies Module

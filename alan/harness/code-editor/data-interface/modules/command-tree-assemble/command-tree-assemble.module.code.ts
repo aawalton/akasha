@@ -5,6 +5,7 @@ import {
   typeSlugById,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -39,8 +40,8 @@ type Node = {
   readonly children: readonly Node[]
 }
 
-function definitionsOf(root: string): ReadonlyMap<string, string> {
-  const reading = readingIn(root)
+function definitionsOf(given: string | Reading): ReadonlyMap<string, string> {
+  const reading = readingIn(given)
   const found = new Map<string, string>()
   for (const id of [COMMAND_TYPE, NAMESPACE_TYPE]) {
     const filed = typeSlugById(reading, id)
@@ -97,10 +98,11 @@ function commandNode(
   }
 }
 
-export function assembleCommandTree(root: string): CommandTree {
-  const rows = domainRowsIn(root)
+export function assembleCommandTree(given: string | Reading): CommandTree {
+  const reading = readingIn(given)
+  const rows = domainRowsIn(reading)
   const under = commandRoot(championTree(rows).roots)
-  const definitions = definitionsOf(root)
+  const definitions = definitionsOf(reading)
   const reached = new Set<string>()
   const roots =
     under === null

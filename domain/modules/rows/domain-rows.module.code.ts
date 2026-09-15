@@ -69,8 +69,8 @@ function partsIn(value: Value): readonly string[] {
   return said.filter((one): one is string => typeof one === "string")
 }
 
-export function kindsUnderDomain(root: string): ReadonlySet<string> {
-  return kindsUnder(DOMAIN, readingIn(root))
+export function kindsUnderDomain(given: string | Reading): ReadonlySet<string> {
+  return kindsUnder(DOMAIN, readingIn(given))
 }
 
 function couldBeChampioned(
@@ -97,12 +97,12 @@ function couldBeChampioned(
   return wanted
 }
 
-export function domainsDrawn(root: string): readonly DomainRow[] {
-  const reading = readingIn(root)
+export function domainsDrawn(given: string | Reading): readonly DomainRow[] {
+  const reading = readingIn(given)
   const personas = heldOfType(reading, PERSONA)
   const personaBy = personaSlugById(personas)
   const listed: Held[] = []
-  for (const kind of [...kindsUnderDomain(root)].sort()) {
+  for (const kind of [...kindsUnderDomain(reading)].sort()) {
     listed.push(...heldOfType(reading, kind))
   }
   const addressById = new Map<string, string>()
@@ -159,6 +159,6 @@ export function rowsFrom(drawn: readonly DomainRow[]): readonly PanelRow[] {
   }))
 }
 
-export function domainRowsIn(root: string): readonly PanelRow[] {
-  return rowsFrom(domainsDrawn(root))
+export function domainRowsIn(given: string | Reading): readonly PanelRow[] {
+  return rowsFrom(domainsDrawn(given))
 }

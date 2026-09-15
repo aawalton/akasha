@@ -108,5 +108,13 @@ export const domainRows = {
       decisionKind: "decision-kind/absence",
       statement: "Every page answered is a page the index named first.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader here takes the repository root or a reading of the index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every question one call asks is asked of one reading.",
+    },
   ],
 } as const satisfies Module

@@ -19,6 +19,7 @@ import {
   type Valued,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { AKASHA } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   slugAt,
@@ -249,8 +250,8 @@ export function answersFrom(
   return { types, properties: drawn, propertyTypes }
 }
 
-export function pageAnswers(root: string): Answers {
-  const reading = readingIn(root)
+export function pageAnswers(given: string | Reading): Answers {
+  const reading = readingIn(given)
   const pageTypes = valuesOfType(reading, PAGE_TYPE)
   const byType = new Map<string, Value>()
   for (const one of pageTypes) {
