@@ -2,7 +2,7 @@ import type { TemperEsoCompanionEquipmentConstant } from "akasha/temper/catalog/
 
 export const equipTypeEquipTypeNeck = {
   id: "01a05fcf-5922-7c1b-8239-cfc10a99ab63",
-  type: "temper-eso-companion-equipment-constant",
+  type: "page-type/temper-eso-companion-equipment-constant",
   slug: "equip-type-equip-type-neck",
   key: "equip-type:EQUIP_TYPE_NECK",
   title: "Equip Type Neck",

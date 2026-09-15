@@ -2,7 +2,7 @@ import type { TemperEsoCompanionEquipmentConstant } from "akasha/temper/catalog/
 
 export const qualityCompanionToEsoEpic = {
   id: "01a05fcf-5924-71da-94ac-9bc2c3983c3f",
-  type: "temper-eso-companion-equipment-constant",
+  type: "page-type/temper-eso-companion-equipment-constant",
   slug: "quality-companion-to-eso-epic",
   key: "quality-companion-to-eso:epic",
   title: "Epic → ESO 4",

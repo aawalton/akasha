@@ -2,7 +2,7 @@ import type { TemperEsoCompanionEquipmentConstant } from "akasha/temper/catalog/
 
 export const qualityCompanionToEsoLegendary = {
   id: "01a05fcf-5925-73ab-a955-173df9e0d6e0",
-  type: "temper-eso-companion-equipment-constant",
+  type: "page-type/temper-eso-companion-equipment-constant",
   slug: "quality-companion-to-eso-legendary",
   key: "quality-companion-to-eso:legendary",
   title: "Legendary → ESO 5",

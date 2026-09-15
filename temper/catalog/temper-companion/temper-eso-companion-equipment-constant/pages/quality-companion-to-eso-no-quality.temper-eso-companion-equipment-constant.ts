@@ -2,7 +2,7 @@ import type { TemperEsoCompanionEquipmentConstant } from "akasha/temper/catalog/
 
 export const qualityCompanionToEsoNoQuality = {
   id: "01a05fcf-5925-7694-b77d-fd2a23a2661a",
-  type: "temper-eso-companion-equipment-constant",
+  type: "page-type/temper-eso-companion-equipment-constant",
   slug: "quality-companion-to-eso-no-quality",
   key: "quality-companion-to-eso:no-quality",
   title: "No Quality → ESO 5",
