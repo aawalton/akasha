@@ -19,11 +19,6 @@ const BLANK = ""
 
 const BREAK = "\n"
 
-export type Named = {
-  readonly path: string
-  readonly propertySlug: string
-}
-
 const beside = heldEach((reading: Reading, pagePath: string): readonly Reference[] => {
   const at = referencesAt(pagePath)
   if (at === null) return []
@@ -41,15 +36,6 @@ export function referencesOf(given: string | Reading, id: string): readonly Refe
     const listed = listedById(reading, id)
     return listed === null ? [] : referencesFor(reading, listed.path)
   })
-}
-
-export function namersOf(given: string | Reading, id: string): readonly Named[] {
-  const found: Named[] = []
-  for (const one of referencesOf(given, id)) {
-    if (one.propertySlug === IMPORT) continue
-    found.push({ path: one.path, propertySlug: one.propertySlug })
-  }
-  return found
 }
 
 export function idsNaming(

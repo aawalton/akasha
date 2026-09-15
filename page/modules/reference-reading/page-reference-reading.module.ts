@@ -24,10 +24,7 @@ export const pageReferenceReading = {
       invariantKind: "departure",
       statement: "A page's references are read once for one reading and held.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An import is left out of what names a page through a property.",
-    },
+
     {
       invariantKind: "departure",
       statement: "An answer comes back in one order.",

@@ -3,7 +3,6 @@ import type { Reading } from "akasha/page/index/modules/shape/index-shape.module
 import {
   idsNaming,
   importersOf,
-  namersOf,
   referencesFor,
   referencesOf,
 } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
@@ -33,14 +32,6 @@ function worldOf(held: Record<string, string>): Reading {
     read: (path) => held[path] ?? null,
   }
 }
-
-test("what names a page is read from the file beside that page", () => {
-  expect(namersOf(worldOf(HELD), NAMED_ID)).toEqual([{ path: NAMER_AT, propertySlug: "parts" }])
-})
-
-test("an import is left out of what names a page through a property", () => {
-  expect(namersOf(worldOf(HELD), NAMED_ID).some((one) => one.propertySlug === "import")).toBe(false)
-})
 
 test("the pages naming a page through one property are answered by id", () => {
   expect(idsNaming(worldOf(HELD), NAMED_ID, "parts")).toEqual([NAMER_ID])
