@@ -8,15 +8,15 @@ export const sessionWatch = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A transcript is found whether or not an object store is configured.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A transcript found is recorded on the seat before anything is streamed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A transcript is streamed only where an object store is configured.",
     },
   ],
