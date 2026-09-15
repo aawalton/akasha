@@ -36,6 +36,7 @@ export type Watched = {
   readonly unbound: readonly string[]
   readonly worksWithinMs: number | null
   readonly workedAt: string | null
+  readonly told: boolean
 }
 
 export type Health = {
@@ -43,6 +44,7 @@ export type Health = {
   readonly unit: string
   readonly pagePath: string
   readonly broken: string | null
+  readonly told: boolean
 }
 
 function unboundAt(root: string, pagePath: string): readonly string[] {
@@ -67,6 +69,7 @@ export function watchedIn(root: string, services: readonly Service[]): readonly 
       unbound: unboundAt(root, one.pagePath),
       worksWithinMs: windowMsIn(one.service.worksWithinSeconds),
       workedAt: beatAt(root, one.pagePath),
+      told: one.service.told ?? true,
     })
   }
   return found
@@ -151,6 +154,7 @@ export function healthIn(
     unit: one.unit,
     pagePath: one.pagePath,
     broken: brokenIn(one, states.get(one.unit), now),
+    told: one.told,
   }))
 }
 

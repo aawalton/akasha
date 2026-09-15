@@ -24,6 +24,7 @@ const BROKE: Health = {
   unit: "held-service.service",
   pagePath: PAGE,
   broken: "held-service.service failed, and systemd says `exit-code`",
+  told: true,
 }
 
 const MENDED: Health = { ...BROKE, broken: null }
@@ -33,6 +34,7 @@ const WATCHING: Health = {
   unit: "held-watcher.service",
   pagePath: WATCHER,
   broken: null,
+  told: true,
 }
 
 function pageAt(root: string, path: string): undefined {

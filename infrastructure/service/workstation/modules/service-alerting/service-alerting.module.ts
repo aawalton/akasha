@@ -26,6 +26,14 @@ export const serviceAlerting = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A service stating it is not told is told to nobody.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A service stating it is not told is held by nothing.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement:
         "A telling carried to somebody else says who it was meant for and why nothing reached them.",
     },

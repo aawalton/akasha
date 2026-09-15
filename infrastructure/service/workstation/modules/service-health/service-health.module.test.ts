@@ -41,6 +41,7 @@ const RUNNING: Watched = {
   unbound: [],
   worksWithinMs: null,
   workedAt: null,
+  told: true,
 }
 
 const TIMED: Watched = { ...RUNNING, scheduled: true }
@@ -173,6 +174,16 @@ test("a unit systemd does not know is broken rather than well", () => {
 
 test("a service that is not to be running is watched by nothing", () => {
   expect(watchedIn(ROOT, [pageOf({ enabled: false })])).toEqual([])
+})
+
+test("a service stating nothing is told, and one stating false is not", () => {
+  expect(watchedIn(ROOT, [pageOf({})])[0]?.told).toBe(true)
+  expect(watchedIn(ROOT, [pageOf({ told: false })])[0]?.told).toBe(false)
+})
+
+test("whether a service is told is carried with that service's health", () => {
+  const watched = watchedIn(ROOT, [pageOf({ told: false })])
+  expect(healthIn(watched, statesIn(""))[0]?.told).toBe(false)
 })
 
 test("a service stating a schedule is watched as a scheduled one", () => {

@@ -72,7 +72,7 @@ export function deciding(given: {
   const keeping: Record<string, Outage> = {}
   const tell: Telling[] = []
   for (const one of given.health) {
-    if (one.broken === null) continue
+    if (one.broken === null || !one.told) continue
     const before = given.ledger[one.slug]
     const brokenSince = before?.brokenSince ?? given.now
     const toldAt = before?.toldAt ?? null

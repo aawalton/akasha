@@ -16,9 +16,12 @@ const BROKE: Health = {
   unit: "held-service.service",
   pagePath: "akasha/a.service-workstation.ts",
   broken: "held-service.service failed, and systemd says `exit-code`",
+  told: true,
 }
 
 const WELL: Health = { ...BROKE, broken: null }
+
+const UNTOLD: Health = { ...BROKE, told: false }
 
 const AT = "2026-09-08T00:00:00.000Z"
 
@@ -73,6 +76,12 @@ test("a service that came back and broke again is told again inside the cooling"
   expect(mended.keeping["held-service"]).toBe(undefined)
   const again = decided([BROKE], mended.keeping, later(5 * 60 * 1000))
   expect(again.tell.length).toBe(1)
+})
+
+test("a service stating it is not told is told to nobody and held by nothing", () => {
+  const said = decided([UNTOLD], {}, AT)
+  expect(said.tell).toEqual([])
+  expect(said.keeping).toEqual({})
 })
 
 test("a service that is well is kept by nothing", () => {

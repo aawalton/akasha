@@ -110,6 +110,14 @@ export const serviceHealth = {
       statement: "The page a service is stated on is carried with that service's health.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement: "Whether a service is told is carried with that service's health.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A service stating nothing is told.",
+    },
+    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes a unit or sends a message.",
     },
