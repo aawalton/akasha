@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const renamePage = {
   id: "01a07718-c9b6-7e8c-bc13-5927529ac249",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "rename-page",
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/file",

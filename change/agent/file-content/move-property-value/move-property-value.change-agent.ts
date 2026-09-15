@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const movePropertyValue = {
   id: "01a09523-3d2f-7e8b-885b-e4fc2e8a3222",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "move-property-value",
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/file-content",

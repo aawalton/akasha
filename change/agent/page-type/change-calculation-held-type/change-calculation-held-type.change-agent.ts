@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const changeCalculationHeldType = {
   id: "01a08e63-dd13-7d9c-b2c7-ac4d653ee737",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "change-calculation-held-type",
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page-type",

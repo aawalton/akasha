@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const qualifyRelationOnEveryPage = {
   id: "01a0a06e-3331-798c-81bc-0c45119e50c0",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "qualify-relation-on-every-page",
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page-type",

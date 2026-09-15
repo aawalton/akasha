@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const removePage = {
   id: "01a0776d-8d1e-7f93-a0e2-4c566d49f8fd",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "remove-page",
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file",

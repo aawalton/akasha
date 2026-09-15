@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const divideFileCode = {
   id: "01a09c47-b808-729b-93da-e1e57e0056a9",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "divide-file-code",
   changeMode: "change-mode/change-mode-divide",
   changeTargetType: "change-target-type/file",

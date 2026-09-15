@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const nestModules = {
   id: "01a095f8-a367-726d-98cb-052fe5052d45",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "nest-modules",
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/folder",

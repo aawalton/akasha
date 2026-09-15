@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const removeFolder = {
   id: "01a08281-d6e6-78ee-a0cc-ad533d8405ae",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "remove-folder",
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/folder",

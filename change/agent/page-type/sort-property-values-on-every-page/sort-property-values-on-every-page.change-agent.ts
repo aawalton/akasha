@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const sortPropertyValuesOnEveryPage = {
   id: "01a095a8-fcf7-7a63-8a11-80ee5c1a3025",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "sort-property-values-on-every-page",
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/page-type",

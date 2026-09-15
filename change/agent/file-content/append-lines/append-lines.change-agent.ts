@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const appendLines = {
   id: "01a08c38-a17c-70de-985a-a097e3dced7d",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "append-lines",
   changeMode: "change-mode/change-mode-append",
   changeTargetType: "change-target-type/file-content",

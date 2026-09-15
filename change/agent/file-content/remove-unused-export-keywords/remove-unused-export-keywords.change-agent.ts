@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const removeUnusedExportKeywords = {
   id: "01a095d5-f114-71cc-888d-338de89fc74b",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "remove-unused-export-keywords",
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file-content",

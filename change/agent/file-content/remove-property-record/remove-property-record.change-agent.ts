@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const removePropertyRecord = {
   id: "01a081ee-d2ea-7846-af0b-049ae0500371",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "remove-property-record",
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file-content",

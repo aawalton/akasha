@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const addBinaryFile = {
   id: "01a09116-8eac-7885-886c-17c41e842516",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "add-binary-file",
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",

@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const movePropertyOnEveryPage = {
   id: "01a0836c-9d39-76b7-bd18-59bab3a21e92",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "move-property-on-every-page",
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/page-type",

@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const changeProsePattern = {
   id: "01a0824b-a376-7b9f-a01a-c3a1e81c3286",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "change-prose-pattern",
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/prose",

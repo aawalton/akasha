@@ -2,7 +2,7 @@ import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.typ
 
 export const changePropertyOnPageType = {
   id: "01a09c79-ba1c-7e9b-9cd9-92761fe1627c",
-  type: "change-agent",
+  type: "page-type/change-agent",
   slug: "change-property-on-page-type",
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page-type",
