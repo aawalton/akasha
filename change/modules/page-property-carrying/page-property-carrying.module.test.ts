@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   carriedUnder,
   type Declared,
+  entriesBeside,
   filedUnder,
   typesDeclaring,
   withinOf,
@@ -17,6 +18,10 @@ const TWO_AT = "akasha/two/two.quoin.ts"
 const TALLIES_AT = "akasha/tallies.record-property.ts"
 
 const ROWS_AT = "akasha/months/one.month.tallies.jsonl"
+
+const PART_TWO_AT = "akasha/months/one.month.tallies.part2.jsonl"
+
+const UNCOMMITTED_AT = "akasha/months/one.month.tallies.uncommitted.jsonl"
 
 const MONTH_AT = "akasha/months/one.month.ts"
 
@@ -191,4 +196,32 @@ test("a shape whose page states no property slug reaches no file", () => {
   const world = worldIn({ bodies: {}, values: {}, declaring: BY_A_MONTH, paged: {} })
 
   expect(filedUnder(world, SHAPED)).toEqual([])
+})
+
+test("the entry files beside one page are the files that page's own value names", () => {
+  const world = shapeWorld({ [ROWS_AT]: '{"id":"a"}\n' })
+
+  expect(entriesBeside(world, MONTH_AT, "jsonl", "tallies")).toEqual([ROWS_AT])
+})
+
+test("a second part beside that page is answered after the first", () => {
+  const world = shapeWorld({ [ROWS_AT]: '{"id":"a"}\n', [PART_TWO_AT]: '{"id":"b"}\n' })
+
+  expect(entriesBeside(world, MONTH_AT, "jsonl", "tallies")).toEqual([ROWS_AT, PART_TWO_AT])
+})
+
+test("the files beside one page are the uncommitted files where the call says so", () => {
+  const world = shapeWorld({ [ROWS_AT]: '{"id":"a"}\n', [UNCOMMITTED_AT]: '{"id":"b"}\n' })
+
+  expect(entriesBeside(world, MONTH_AT, "jsonl", "tallies", true)).toEqual([UNCOMMITTED_AT])
+})
+
+test("a file beside one page the world holds no body for is left out", () => {
+  expect(entriesBeside(shapeWorld({}), MONTH_AT, "jsonl", "tallies")).toEqual([])
+})
+
+test("a page whose value under that key is no string is beside no file", () => {
+  const world = shapeWorld({ [ROWS_AT]: '{"id":"a"}\n' })
+
+  expect(entriesBeside(world, MONTH_AT, [], "tallies")).toEqual([])
 })

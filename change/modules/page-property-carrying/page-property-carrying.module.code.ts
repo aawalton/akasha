@@ -1,7 +1,10 @@
 import { pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { holdingIn, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
-import { partsOf } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
+import {
+  partsOf,
+  uncommittedPartsOf,
+} from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
 
 const PROPERTY_SLUG = "propertySlug"
 
@@ -68,16 +71,27 @@ export function withinOf(world: World, record: Declared, atMost: number | null):
   return { key, carrying: held.map((one) => one.path) }
 }
 
+export function entriesBeside(
+  world: World,
+  pagePath: string,
+  held: unknown,
+  propertySlug: string,
+  uncommitted = false
+): readonly string[] {
+  if (typeof held !== "string") return []
+  const holds = holdingIn(world)
+  const named = uncommitted
+    ? uncommittedPartsOf(pagePath, propertySlug, held, holds)
+    : partsOf(pagePath, propertySlug, held, holds)
+  return named.filter((at) => holds(at))
+}
+
 export function filedUnder(world: World, shape: Declared): readonly string[] {
   const slug = slugOfPage(world, shape.path)
   if (slug === null) return []
   const found: string[] = []
-  const holds = holdingIn(world)
   for (const one of carriedUnder(world, typesDeclaring(world, shape.id), exportedAs(slug), null)) {
-    if (typeof one.held !== "string") continue
-    for (const at of partsOf(one.path, slug, one.held, holds)) {
-      if (holds(at)) found.push(at)
-    }
+    found.push(...entriesBeside(world, one.path, one.held, slug))
   }
   return found
 }

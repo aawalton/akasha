@@ -57,6 +57,15 @@ export const pagePropertyCarrying = {
       statement: "Which page types declare a property is read from the index rather than a body.",
     },
     {
+      invariantKind: "invariant-kind/departure",
+      statement: "The files beside one page are answered without reaching any other page.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "The files beside a page are the uncommitted files where the caller asks for those.",
+    },
+    {
       invariantKind: "invariant-kind/absence",
       statement: "No page body is read here.",
     },
