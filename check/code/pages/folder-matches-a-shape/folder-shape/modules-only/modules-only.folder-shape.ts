@@ -4,14 +4,14 @@ export const modulesOnly = {
   id: "01a05f26-edf0-76fc-b2f1-9351eb172aee",
   type: "folder-shape",
   slug: "modules-only",
-  definition: "the shape of a folder with the module folders the page above it declares",
+  definition: "the shape of a folder of modules under the name React Router reads",
   code: "ts",
   test: "ts",
   enabled: true,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The folder is named `modules` or `.server`.",
+      statement: "The folder is named `.server`.",
     },
     {
       invariantKind: "invariant-kind/departure",

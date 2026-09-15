@@ -92,7 +92,18 @@ export type Shaping = {
   readonly above?: readonly string[]
 }
 
+const GATHERED_IN_TESTS = [
+  "modules",
+  "pages",
+  "properties",
+  "scripts",
+  "sections",
+  "service-workstations",
+  "test-fixtures",
+]
+
 const HELD_IN_TESTS = new Set<string>([
+  ...GATHERED_IN_TESTS,
   ...HELD_BY_A_WORKSTATION_SERVICE,
   ...HELD_BY_MODULES_ONLY,
   ...HELD_BY_PAGES_OF_THE_TYPE_ABOVE,

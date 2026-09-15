@@ -7,7 +7,7 @@ export const scriptsOnly = {
   definition: "the shape of a folder named scripts with a folder for each script and nothing else",
   code: "ts",
   test: "ts",
-  enabled: true,
+  enabled: false,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

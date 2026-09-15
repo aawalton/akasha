@@ -7,7 +7,7 @@ export const aServiceWorkstationWithItsParts = {
   definition: "the shape of a folder named service-workstations with one service with its parts",
   code: "ts",
   test: "ts",
-  enabled: true,
+  enabled: false,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

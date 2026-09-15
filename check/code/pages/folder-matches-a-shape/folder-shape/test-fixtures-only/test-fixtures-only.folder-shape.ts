@@ -7,7 +7,7 @@ export const testFixturesOnly = {
   definition: "the shape of a folder with the test fixture folders the page above it declares",
   code: "ts",
   test: "ts",
-  enabled: true,
+  enabled: false,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

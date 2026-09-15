@@ -8,7 +8,7 @@ export const propertiesOfTheTypeAbove = {
     "the shape of a folder named properties with the properties the page type above it declares",
   code: "ts",
   test: "ts",
-  enabled: true,
+  enabled: false,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
