@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const jackCampbell = {
   id: "01a06807-f091-7017-9dc0-1d2e03b59b6a",
-  type: "author",
+  type: "page-type/author",
   slug: "jack-campbell",
   title: "Jack Campbell",
   partOfCollections: ["author-collection/science-fiction-authors"],

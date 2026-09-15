@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const dennisETaylor = {
   id: "01a06807-f091-700c-b53a-f4b6ccccb66b",
-  type: "author",
+  type: "page-type/author",
   slug: "dennis-e-taylor",
   title: "Dennis E. Taylor",
   partOfCollections: ["author-collection/science-fiction-authors"],

@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const haroldBLee = {
   id: "01a06807-f091-7012-a9a2-441545651234",
-  type: "author",
+  type: "page-type/author",
   slug: "harold-b-lee",
   title: "Harold B. Lee",
   partOfCollections: ["author-collection/prophets"],

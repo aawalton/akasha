@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const arthurConanDoyle = {
   id: "01a06807-f090-7005-b5cc-fca9a588ec84",
-  type: "author",
+  type: "page-type/author",
   slug: "arthur-conan-doyle",
   title: "Arthur Conan Doyle",
   partOfCollections: ["author-collection/mystery-and-detective"],

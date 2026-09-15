@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const terryPratchett = {
   id: "01a06807-f091-702b-8b9a-1fd5b59e72b1",
-  type: "author",
+  type: "page-type/author",
   slug: "terry-pratchett",
   title: "Terry Pratchett",
   partOfCollections: ["author-collection/fantasy-authors"],

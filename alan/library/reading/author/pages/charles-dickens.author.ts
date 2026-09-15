@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const charlesDickens = {
   id: "01a06807-f091-7003-bb8e-3234bce0dbd5",
-  type: "author",
+  type: "page-type/author",
   slug: "charles-dickens",
   title: "Charles Dickens",
   partOfCollections: ["author-collection/classics-authors"],

@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const arthurCClarke = {
   id: "01a06807-f090-7004-88a9-50ef2bf0b4de",
-  type: "author",
+  type: "page-type/author",
   slug: "arthur-c-clarke",
   title: "Arthur C. Clarke",
   partOfCollections: ["author-collection/science-fiction-authors"],

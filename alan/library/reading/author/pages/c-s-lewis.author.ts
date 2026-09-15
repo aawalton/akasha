@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const cSLewis = {
   id: "01a06807-f091-7002-bfdd-29359cc03b97",
-  type: "author",
+  type: "page-type/author",
   slug: "c-s-lewis",
   title: "C. S. Lewis",
   partOfCollections: ["author-collection/faith-authors"],

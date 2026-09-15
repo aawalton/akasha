@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const tracyHickman = {
   id: "01a06807-f091-702d-8e28-eaedc449e259",
-  type: "author",
+  type: "page-type/author",
   slug: "tracy-hickman",
   title: "Tracy Hickman",
   partOfCollections: ["author-collection/fantasy-authors"],

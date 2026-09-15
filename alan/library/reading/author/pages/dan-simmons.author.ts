@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const danSimmons = {
   id: "01a06807-f091-7006-8c56-73887f171e9d",
-  type: "author",
+  type: "page-type/author",
   slug: "dan-simmons",
   title: "Dan Simmons",
   partOfCollections: ["author-collection/science-fiction-authors"],

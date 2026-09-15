@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const brighamYoung = {
   id: "01a06807-f091-7001-8395-48c8672e0fe5",
-  type: "author",
+  type: "page-type/author",
   slug: "brigham-young",
   title: "Brigham Young",
   partOfCollections: ["author-collection/prophets"],

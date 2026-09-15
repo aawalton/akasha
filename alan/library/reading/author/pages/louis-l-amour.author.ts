@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const louisLAmour = {
   id: "01a06807-f091-7025-baf3-08c7533348fa",
-  type: "author",
+  type: "page-type/author",
   slug: "louis-l-amour",
   title: "Louis L’Amour",
   partOfCollections: ["author-collection/westerns-authors"],

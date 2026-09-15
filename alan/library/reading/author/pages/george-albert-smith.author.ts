@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const georgeAlbertSmith = {
   id: "01a06807-f091-7010-9412-c44675c78f08",
-  type: "author",
+  type: "page-type/author",
   slug: "george-albert-smith",
   title: "George Albert Smith",
   partOfCollections: ["author-collection/prophets"],

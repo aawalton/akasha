@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const spencerWKimball = {
   id: "01a06807-f091-702a-9638-a6a227f4d686",
-  type: "author",
+  type: "page-type/author",
   slug: "spencer-w-kimball",
   title: "Spencer W. Kimball",
   partOfCollections: ["author-collection/prophets"],

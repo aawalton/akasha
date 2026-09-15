@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const josephFieldingSmith = {
   id: "01a06807-f091-701f-a7fe-dc109c242a7f",
-  type: "author",
+  type: "page-type/author",
   slug: "joseph-fielding-smith",
   title: "Joseph Fielding Smith",
   partOfCollections: ["author-collection/prophets"],

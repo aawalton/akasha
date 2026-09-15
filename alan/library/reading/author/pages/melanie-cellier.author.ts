@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const melanieCellier = {
   id: "01a06807-f091-7026-bb6d-58c52b07c138",
-  type: "author",
+  type: "page-type/author",
   slug: "melanie-cellier",
   title: "Melanie Cellier",
   partOfCollections: ["author-collection/fantasy-authors"],

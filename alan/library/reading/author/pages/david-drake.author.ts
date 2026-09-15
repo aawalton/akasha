@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const davidDrake = {
   id: "01a06807-f091-7008-8610-b42c748469ab",
-  type: "author",
+  type: "page-type/author",
   slug: "david-drake",
   title: "David Drake",
   partOfCollections: ["author-collection/science-fiction-authors"],

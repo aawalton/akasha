@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const robertHeinlein = {
   id: "01a06807-f091-7027-8d18-ab2da0936b58",
-  type: "author",
+  type: "page-type/author",
   slug: "robert-heinlein",
   title: "Robert Heinlein",
   partOfCollections: ["author-collection/science-fiction-authors"],

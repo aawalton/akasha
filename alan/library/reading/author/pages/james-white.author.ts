@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const jamesWhite = {
   id: "01a06807-f091-7019-b748-4b625ff43a47",
-  type: "author",
+  type: "page-type/author",
   slug: "james-white",
   title: "James White",
   partOfCollections: ["author-collection/science-fiction-authors"],

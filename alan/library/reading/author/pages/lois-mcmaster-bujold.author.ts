@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const loisMcmasterBujold = {
   id: "01a06807-f091-7023-8bce-3bd6062c49df",
-  type: "author",
+  type: "page-type/author",
   slug: "lois-mcmaster-bujold",
   title: "Lois McMaster Bujold",
   partOfCollections: ["author-collection/science-fiction-authors"],

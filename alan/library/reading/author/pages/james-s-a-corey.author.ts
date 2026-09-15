@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const jamesSACorey = {
   id: "01a06807-f091-7018-8619-b094696da82a",
-  type: "author",
+  type: "page-type/author",
   slug: "james-s-a-corey",
   title: "James S. A. Corey",
   partOfCollections: ["author-collection/science-fiction-authors"],

@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const danielSuarez = {
   id: "01a06807-f091-7007-8f00-f7de4bc45bb8",
-  type: "author",
+  type: "page-type/author",
   slug: "daniel-suarez",
   title: "Daniel Suarez",
   partOfCollections: ["author-collection/science-fiction-authors"],

@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const anneMccaffrey = {
   id: "01a06807-f090-7003-901f-8629ad273fa6",
-  type: "author",
+  type: "page-type/author",
   slug: "anne-mccaffrey",
   title: "Anne McCaffrey",
   partOfCollections: ["author-collection/science-fiction-authors"],

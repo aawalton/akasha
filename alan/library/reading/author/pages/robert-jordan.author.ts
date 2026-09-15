@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const robertJordan = {
   id: "01a06807-f091-7028-a510-dda867ed7ad3",
-  type: "author",
+  type: "page-type/author",
   slug: "robert-jordan",
   title: "Robert Jordan",
   partOfCollections: ["author-collection/fantasy-authors"],

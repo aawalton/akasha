@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const ezraTaftBenson = {
   id: "01a06807-f091-700e-befb-1cc3ee302c1d",
-  type: "author",
+  type: "page-type/author",
   slug: "ezra-taft-benson",
   title: "Ezra Taft Benson",
   partOfCollections: ["author-collection/prophets"],

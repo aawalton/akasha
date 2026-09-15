@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const johnGottman = {
   id: "01a06807-f091-701c-9b44-c72bb0c8bcff",
-  type: "author",
+  type: "page-type/author",
   slug: "john-gottman",
   title: "John Gottman",
   partOfCollections: ["author-collection/non-fiction-authors"],

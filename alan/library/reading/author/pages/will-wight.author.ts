@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const willWight = {
   id: "01a06807-f091-702f-9fce-bd7769cc18a4",
-  type: "author",
+  type: "page-type/author",
   slug: "will-wight",
   title: "Will Wight",
   partOfCollections: ["author-collection/fantasy-authors"],

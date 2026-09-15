@@ -2,7 +2,7 @@ import type { Author } from "akasha/alan/library/reading/author/author.page-type
 
 export const howardWHunter = {
   id: "01a06807-f091-7014-9b03-8e79f803fae6",
-  type: "author",
+  type: "page-type/author",
   slug: "howard-w-hunter",
   title: "Howard W. Hunter",
   partOfCollections: ["author-collection/prophets"],
