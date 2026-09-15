@@ -14,7 +14,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
-import { measureModelAccountUsage as page } from "akasha/command/pages/measure/model/account/usage/measure-model-account-usage.command.ts"
+import { measureModelAccountUsage as page } from "akasha/command/pages/measure/model-account/usage/measure-model-account-usage.command.ts"
 
 export async function measureModelAccountUsage(
   argv: readonly string[],

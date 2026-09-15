@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
-import { measureModelAccountUsage } from "akasha/command/pages/measure/model/account/usage/measure-model-account-usage.command.code.ts"
+import { measureModelAccountUsage } from "akasha/command/pages/measure/model-account/usage/measure-model-account-usage.command.code.ts"
 
 const NOWHERE = "/nowhere"
 

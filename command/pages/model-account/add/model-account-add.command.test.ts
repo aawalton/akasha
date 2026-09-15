@@ -10,12 +10,12 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import {
   type Asked,
   addressFor,
-  modelAccountAdd,
   filedBy,
+  modelAccountAdd,
   slotFrom,
   wrongIn,
-} from "akasha/command/pages/model/account/add/model-account-add.command.code.ts"
-import { modelAccountAdd as page } from "akasha/command/pages/model/account/add/model-account-add.command.ts"
+} from "akasha/command/pages/model-account/add/model-account-add.command.code.ts"
+import { modelAccountAdd as page } from "akasha/command/pages/model-account/add/model-account-add.command.ts"
 
 const ASKED: Asked = { account: "tempereso", email: "a@b.c", alias: null }
 

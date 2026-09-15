@@ -16,7 +16,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
-import { modelAccountAdd as page } from "akasha/command/pages/model/account/add/model-account-add.command.ts"
+import { modelAccountAdd as page } from "akasha/command/pages/model-account/add/model-account-add.command.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const ACCOUNT_SHAPE = /^[a-z][a-z0-9-]*$/

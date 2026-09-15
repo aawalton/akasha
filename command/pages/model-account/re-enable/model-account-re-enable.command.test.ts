@@ -4,8 +4,8 @@ import { account } from "akasha/command/argument/pages/account.argument.ts"
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { modelAccountReEnable } from "akasha/command/pages/model/account/re-enable/model-account-re-enable.command.code.ts"
-import { modelAccountReEnable as page } from "akasha/command/pages/model/account/re-enable/model-account-re-enable.command.ts"
+import { modelAccountReEnable } from "akasha/command/pages/model-account/re-enable/model-account-re-enable.command.code.ts"
+import { modelAccountReEnable as page } from "akasha/command/pages/model-account/re-enable/model-account-re-enable.command.ts"
 
 const CALLED_AS = "akasha model-account re-enable"
 
