@@ -10,6 +10,7 @@ export const modelProvider = {
     "model-provider/anthropic",
     "model-provider/deepseek",
     "module/model-provider-reading",
+    "text-property/provider-model",
     "url-property/api-base",
   ],
   invariants: [
@@ -31,6 +32,9 @@ export const modelProvider = {
     },
   ],
   types: "ts",
-  properties: [{ pageProperty: "url-property/api-base", required: true, many: false }],
+  properties: [
+    { pageProperty: "url-property/api-base", required: true, many: false },
+    { pageProperty: "text-property/provider-model", required: false, many: false },
+  ],
   schema: "jsonl",
 } as const satisfies PageType

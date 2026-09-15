@@ -166,6 +166,8 @@
 {"propertySlug":"invariant-kind","path":"agent/model/modules/vocab/model-vocab.module.ts","id":"01a06a01-258c-7517-820a-2362cf730b25"}
 {"propertySlug":"invariant-kind","path":"agent/model/provider/model-provider.page-type.ts","id":"01a0a20a-0678-73be-983a-777f3d76d8bb"}
 {"propertySlug":"invariant-kind","path":"agent/model/provider/modules/reading/model-provider-reading.module.ts","id":"01a0a534-b50b-7f9a-ac9b-140bd34880b7"}
+{"propertySlug":"invariant-kind","path":"agent/model/provider/pages/deepseek/deepseek.model-provider.ts","id":"01a0a21a-3c53-76c5-b51f-a92017d82a1d"}
+{"propertySlug":"invariant-kind","path":"agent/model/provider/properties/provider-model.text-property.ts","id":"01a0a58f-cc4a-7894-a509-4e7368942ded"}
 {"propertySlug":"invariant-kind","path":"agent/model/test/model-test.page-type.ts","id":"01a053eb-6b23-7825-ab5f-2b95d3bd1e95"}
 {"propertySlug":"invariant-kind","path":"agent/model/test/modules/running/model-test-running.module.ts","id":"01a0915e-d3cf-711b-b81e-034c2d603efa"}
 {"propertySlug":"invariant-kind","path":"agent/model/test/outcome/model-test-outcome.page-type.ts","id":"01a05905-af36-7e9e-b4a3-99f20936dd14"}

@@ -6,11 +6,20 @@ export const deepseek = {
   slug: "deepseek",
   definition: "the provider that serves DeepSeek's models",
   apiBase: "https://api.deepseek.com/anthropic",
+  providerModel: "deepseek-flash",
   invariants: [
     {
       invariantKind: "invariant-kind/constraint",
       statement:
         "A name opening `claude-opus` is served by deepseek-v4-pro and every other name by deepseek-flash.",
+    },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "A name of DeepSeek's own is served by that model rather than mapped to one.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Akasha asks DeepSeek for deepseek-flash and never for deepseek-v4-pro.",
     },
     {
       invariantKind: "invariant-kind/constraint",

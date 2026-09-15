@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/account/properties/subscription-disabled-reason.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/account/properties/subscription-type.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/family/properties/model-name.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/provider/properties/provider-model.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/test/properties/case-against.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/test/properties/case-asked.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/test/properties/case-page.text-property.ts"}
