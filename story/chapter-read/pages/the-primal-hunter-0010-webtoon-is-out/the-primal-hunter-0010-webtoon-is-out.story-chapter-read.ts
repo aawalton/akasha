@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0010WebtoonIsOut = {
   id: "01a06730-4dca-7e5d-bed5-fb92b6372ec2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0010-webtoon-is-out",
   title: "Webtoon Is Out!",
   story: "story-read/the-primal-hunter",

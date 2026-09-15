@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0032Chapter1160PerplexingPlotsAcrossTheMilkyWay = {
   id: "01a06730-4dda-712f-9a39-06c7a8584201",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0032-chapter-1160-perplexing-plots-across-the-milky-way",
   title: "Chapter 1160 - Perplexing Plots Across the Milky Way",
   story: "story-read/the-primal-hunter",

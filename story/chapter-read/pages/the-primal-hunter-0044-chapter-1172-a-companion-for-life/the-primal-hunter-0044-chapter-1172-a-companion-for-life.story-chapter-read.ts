@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0044Chapter1172ACompanionForLife = {
   id: "01a06730-4de2-77b1-af73-cabd6c0f435f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0044-chapter-1172-a-companion-for-life",
   title: "Chapter 1172 - A Companion For Life",
   story: "story-read/the-primal-hunter",

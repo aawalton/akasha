@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0048Chapter1176ADishToRemember = {
   id: "01a06730-4de4-7e92-b860-d3ae3aff068a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0048-chapter-1176-a-dish-to-remember",
   title: "Chapter 1176 - A Dish To Remember",
   story: "story-read/the-primal-hunter",

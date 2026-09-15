@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePathOfAscension0147ThePathOfAscensionChapter448 = {
   id: "01a06730-506f-7516-b1cd-2321c7169e8e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-path-of-ascension-0147-the-path-of-ascension-chapter-448",
   title: "The Path of Ascension Chapter 448",
   story: "story-read/the-path-of-ascension",

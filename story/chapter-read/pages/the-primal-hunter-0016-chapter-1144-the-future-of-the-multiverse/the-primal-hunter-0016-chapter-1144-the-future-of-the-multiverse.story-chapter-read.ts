@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0016Chapter1144TheFutureOfTheMultiverse = {
   id: "01a06730-4dce-72e5-8472-fcfcc98376ab",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0016-chapter-1144-the-future-of-the-multiverse",
   title: " Chapter 1144 - The Future of the Multiverse",
   story: "story-read/the-primal-hunter",

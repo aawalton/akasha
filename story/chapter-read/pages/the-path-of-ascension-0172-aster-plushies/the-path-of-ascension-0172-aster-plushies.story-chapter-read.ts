@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePathOfAscension0172AsterPlushies = {
   id: "01a06730-5088-729f-9e7c-183c962d2140",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-path-of-ascension-0172-aster-plushies",
   title: "Aster plushies!",
   story: "story-read/the-path-of-ascension",

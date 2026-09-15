@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0037Chapter1165ASuccessfulDiplomaticMission = {
   id: "01a06730-4ddd-78ec-b403-9f5efe3e096a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0037-chapter-1165-a-successful-diplomatic-mission",
   title: "Chapter 1165 - A Successful Diplomatic Mission",
   story: "story-read/the-primal-hunter",

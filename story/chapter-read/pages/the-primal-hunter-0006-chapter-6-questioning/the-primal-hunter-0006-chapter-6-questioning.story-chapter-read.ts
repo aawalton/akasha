@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0006Chapter6Questioning = {
   id: "01a06730-4dca-728a-892f-31664c28fda3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0006-chapter-6-questioning",
   title: "Chapter 6 - Questioning",
   story: "story-read/the-primal-hunter",

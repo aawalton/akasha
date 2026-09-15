@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0007Chapter7TrainingAndRest = {
   id: "01a06730-4dca-75e2-a7ea-33ad8fd5f43d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0007-chapter-7-training-and-rest",
   title: "Chapter 7 - Training & rest",
   story: "story-read/the-primal-hunter",

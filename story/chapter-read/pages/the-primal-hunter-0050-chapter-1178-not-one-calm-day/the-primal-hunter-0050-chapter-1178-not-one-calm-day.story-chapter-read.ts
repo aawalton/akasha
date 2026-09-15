@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePrimalHunter0050Chapter1178NotOneCalmDay = {
   id: "01a06730-4de5-7a4a-bbc4-d215c5e1456a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0050-chapter-1178-not-one-calm-day",
   title: "Chapter 1178 - Not One Calm Day",
   story: "story-read/the-primal-hunter",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const thePathOfAscension0111PoaNowHasALightNovelNotAChapter = {
   id: "01a06730-504e-7d80-89ed-7d024208a29e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-path-of-ascension-0111-poa-now-has-a-light-novel-not-a-chapter",
   title: "PoA now has a light novel! (Not a chapter)",
   story: "story-read/the-path-of-ascension",
