@@ -49,9 +49,16 @@ const HELD: Readonly<Record<string, string>> = {
     'import { gamma } from "../four/deep/gamma.module.code.ts"\n\nexport const outer = gamma + 1\n',
 }
 
-const UNDER: readonly string[] = Object.keys(HELD)
-  .filter((one) => one.startsWith(`${FROM}/`))
-  .sort()
+const BESIDE: readonly string[] = [
+  `${FROM}/alpha.module.referenced-by.jsonl`,
+  `${FROM}/beta.module.referenced-by.jsonl`,
+  `${FROM}/deep/gamma.module.referenced-by.jsonl`,
+]
+
+const UNDER: readonly string[] = [
+  ...Object.keys(HELD).filter((one) => one.startsWith(`${FROM}/`)),
+  ...BESIDE,
+].sort()
 
 const NOT_TEXT = "akasha/five/weights.onnx"
 
