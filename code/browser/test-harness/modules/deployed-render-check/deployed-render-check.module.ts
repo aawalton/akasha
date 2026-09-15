@@ -9,11 +9,11 @@ export const deployedRenderCheck = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A render nothing discriminating was asserted over fails.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A settle that timed out turns a failure into an indeterminate.",
     },
   ],

@@ -8,15 +8,15 @@ export const domGuardSetting = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The test runner preloads the module rather than a test importing the module.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A missing document throws and everything else passes through silently.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The module declares no name a test reaches for.",
     },
   ],

@@ -8,7 +8,7 @@ export const healthAnswer = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A health check is answered without reading anything the app depends on.",
     },
   ],

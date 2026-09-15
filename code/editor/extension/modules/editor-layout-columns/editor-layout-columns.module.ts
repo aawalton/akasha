@@ -8,11 +8,11 @@ export const editorLayoutColumns = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A group is placed by the column that group is in.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads the editor.",
     },
   ],

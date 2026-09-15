@@ -8,11 +8,11 @@ export const fontPreload = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A font is fetched without credentials.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The font a root preloads is the address handed in rather than one named here.",
     },
   ],

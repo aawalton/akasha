@@ -8,11 +8,11 @@ export const refusalText = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hole the body marks and no value fills refuses rather than printing the brace.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value handed over that the body marks no hole for refuses.",
     },
   ],

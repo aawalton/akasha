@@ -9,7 +9,7 @@ export const consoleCapture = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A capture has a bounded number of entries and counts the entries the capture dropped.",
     },

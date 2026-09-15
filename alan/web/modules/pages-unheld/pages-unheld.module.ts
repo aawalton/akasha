@@ -8,13 +8,16 @@ export const pagesUnheld = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A page type the pages system does not hold is refused rather than read as nothing.",
     },
-    { invariantKind: "departure", statement: "A refusal takes the shape its caller can carry." },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/departure",
+      statement: "A refusal takes the shape its caller can carry.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
       statement:
         "Nothing answers zero or null or the empty set for a page type the pages system cannot see.",
     },

@@ -8,7 +8,7 @@ export const readOnlyHarness = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Signing in as the protected user is refused unless the caller opted in deliberately.",
     },

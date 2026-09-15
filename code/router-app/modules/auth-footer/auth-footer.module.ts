@@ -8,11 +8,11 @@ export const authFooter = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Signing out is a form POST rather than a call the browser makes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collapsed sidebar shows the icon alone.",
     },
   ],

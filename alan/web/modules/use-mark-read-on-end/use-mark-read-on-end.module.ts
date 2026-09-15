@@ -8,11 +8,11 @@ export const useMarkReadOnEnd = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The native shell marks a chapter read exactly as the browser does.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A completion made with no network is not kept.",
     },
   ],

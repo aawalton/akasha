@@ -8,19 +8,19 @@ export const domRegistering = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The test runner preloads the module rather than a test importing the module.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The fetch the runtime came with is kept across the document being registered.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The components one test rendered are taken away before the next test runs.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The module declares no name a test reaches for.",
     },
   ],

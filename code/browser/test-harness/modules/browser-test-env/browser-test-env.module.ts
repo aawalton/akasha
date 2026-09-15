@@ -8,7 +8,7 @@ export const browserTestEnv = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An environment missing a name yields no environment rather than a partial environment.",
     },

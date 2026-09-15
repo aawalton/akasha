@@ -9,15 +9,15 @@ export const domGuarding = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A test naming itself a component test is the test this guards.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run that has a document is let through whatever the test is named.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A missing document is said as a boolean rather than thrown.",
     },
   ],

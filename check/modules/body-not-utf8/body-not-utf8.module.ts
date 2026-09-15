@@ -8,7 +8,7 @@ export const bodyNotUtf8 = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The refusal names the source the command read and how many bytes were there and the leading bytes.",
     },
