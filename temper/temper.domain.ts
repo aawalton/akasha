@@ -8,7 +8,6 @@ export const temper = {
   parts: [
     "domain/temper-addon-build",
     "domain/temper-addon-color",
-    "domain/temper-addon-init",
     "domain/temper-addon-library-type",
     "domain/temper-addon-log",
     "domain/temper-addons-resolve",
@@ -159,6 +158,7 @@ export const temper = {
     "eso-addon/temper-quests-addon",
     "eso-addon/temper-selector-addon",
     "eso-addon/temper-trading-addon",
+    "module/addon-init",
     "page-type/temper-thing",
     "router-app/temper-web",
     "rust-crate/watcher-tray",

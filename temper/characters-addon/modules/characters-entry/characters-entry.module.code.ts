@@ -1,6 +1,5 @@
 import "akasha/temper/characters-addon/modules/characters-public-api/characters-public-api.module.code.ts"
 
-import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
 import {
   finishPerfTrace,
   startPerfTrace,
@@ -49,6 +48,7 @@ import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
 } from "akasha/temper/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts"
+import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { collectMotifKnowledge } from "akasha/temper/player-completion-state/modules/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
 import {

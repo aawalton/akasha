@@ -28,7 +28,6 @@ import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import "akasha/temper/companions-addon/modules/companions-globals/companions-globals.module.code.ts"
 
-import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
 import {
   finishPerfTrace,
   startPerfTrace,
@@ -56,6 +55,7 @@ import {
 } from "akasha/temper/companions-addon/modules/companions-skills-panel/companions-skills-panel.module.code.ts"
 import { createCompanionSummaryPanel } from "akasha/temper/companions-addon/modules/companions-summary-panel/companions-summary-panel.module.code.ts"
 import { refreshCompanionSummaryPanel } from "akasha/temper/companions-addon/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"
+import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
 
 function registerCompanionSceneCallbacks(): undefined {
   const companionScenes = [

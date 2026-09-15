@@ -1,4 +1,4 @@
-import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"
+import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
 import "akasha/temper/events-addon/modules/events-addon-global/events-addon-global.module.code.ts"
 import { onAddOnLoaded } from "akasha/temper/events-addon/modules/events-addon-loaded/events-addon-loaded.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/events-addon/modules/events-addon-names/events-addon-names.module.code.ts"

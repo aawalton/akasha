@@ -9,6 +9,14 @@ export const addonInit = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "An add-on begins its work once the game says that add-on has loaded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An add-on hears the loading announcement once.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The loading announcement has the name of whichever add-on loaded.",
     },
     {

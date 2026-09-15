@@ -3208,8 +3208,6 @@
 {"propertySlug":"invariant-kind","path":"temper/addon-build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
 {"propertySlug":"invariant-kind","path":"temper/addon-color/modules/unpack-color/unpack-color.module.ts","id":"01a090aa-4938-7f89-a924-2a3c86c77dd2"}
 {"propertySlug":"invariant-kind","path":"temper/addon-color/temper-addon-color.domain.ts","id":"01a090aa-713f-7e38-a2a0-680e407092d0"}
-{"propertySlug":"invariant-kind","path":"temper/addon-init/modules/addon-init/addon-init.module.ts","id":"01a060ae-335f-75cf-867a-8b88bb3db05e"}
-{"propertySlug":"invariant-kind","path":"temper/addon-init/temper-addon-init.domain.ts","id":"01a060ae-335e-74c4-a05c-9d3c375de3b4"}
 {"propertySlug":"invariant-kind","path":"temper/addon-log/modules/addon-log/addon-log.module.ts","id":"01a08e26-c147-7c8e-baea-f2cad9ded7c8"}
 {"propertySlug":"invariant-kind","path":"temper/addon-log/modules/library-logger/library-logger.module.ts","id":"01a090e5-9062-788e-8317-a0e2f1dee9b7"}
 {"propertySlug":"invariant-kind","path":"temper/addon-log/temper-addon-log.domain.ts","id":"01a08e26-d48c-7a39-8610-6270e3e33c8f"}
@@ -4729,6 +4727,7 @@
 {"propertySlug":"invariant-kind","path":"temper/lua-runner/modules/persistent-vm/persistent-vm.module.ts","id":"01a06059-2492-704f-948b-8334eefba455"}
 {"propertySlug":"invariant-kind","path":"temper/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.ts","id":"01a06059-2493-7f9b-a205-1e78ff949f76"}
 {"propertySlug":"invariant-kind","path":"temper/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}
+{"propertySlug":"invariant-kind","path":"temper/modules/addon-init/addon-init.module.ts","id":"01a060ae-335f-75cf-867a-8b88bb3db05e"}
 {"propertySlug":"invariant-kind","path":"temper/narrow/modules/is-table/is-table.module.ts","id":"01a08e01-6b05-7023-a79d-f39cedee5996"}
 {"propertySlug":"invariant-kind","path":"temper/narrow/modules/parse-lua-capture/parse-lua-capture.module.ts","id":"01a08e0c-2af7-7ac7-841c-ccaa3d4ee31b"}
 {"propertySlug":"invariant-kind","path":"temper/narrow/modules/require-numeric-key/require-numeric-key.module.ts","id":"01a060b6-99a2-762f-9fd9-585495c025f4"}
