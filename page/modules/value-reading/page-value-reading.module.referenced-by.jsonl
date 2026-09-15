@@ -30,6 +30,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/monarch/modules/agreement/monarch-agreement.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/monarch/modules/files/monarch-files.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/monarch/modules/history/monarch-history.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.code.ts"}

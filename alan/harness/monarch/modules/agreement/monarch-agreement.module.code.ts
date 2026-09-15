@@ -7,6 +7,7 @@ import {
   readAllTransactions,
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
 import { UNCATEGORIZED } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export interface Reading {
   readonly what: string
@@ -53,7 +54,7 @@ async function mirrorCounts(): Promise<{
     needsReview: lines.filter((row) => row.needsReview === true).length,
     uncategorized: lines.filter((row) => {
       const slug = row.category
-      return slug === undefined || slug === uncategorized.slug
+      return slug === undefined || slugOf(slug) === uncategorized.slug
     }).length,
   }
 }
