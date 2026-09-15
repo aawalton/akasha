@@ -1,8 +1,5 @@
 [test]
-preload = [
-  "akasha/check/test/modules/dom-guard-setting/dom-guard-setting.module.code.ts",
-  "akasha/page/modules/test-run-marking/test-run-marking.module.code.ts",
-]
+preload = ["akasha/check/test/modules/dom-guard-setting/dom-guard-setting.module.code.ts"]
 
 [test.reporter]
 dots = true
