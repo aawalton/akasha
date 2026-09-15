@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const surveyAlchemy = {
   id: "01a05fcf-f840-7ff5-8c39-98b76154fcbe",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "survey-alchemy",
   title: "Alchemy",
   parent: "survey-reports",

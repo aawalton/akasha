@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const tabards = {
   id: "01a05fcf-f843-76c7-9753-908fcecd0e06",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "tabards",
   title: "Tabards",
   parent: "appearance",

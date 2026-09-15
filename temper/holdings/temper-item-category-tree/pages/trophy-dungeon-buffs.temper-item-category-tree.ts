@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const trophyDungeonBuffs = {
   id: "01a05fcf-f846-75b8-b1ae-c376746f9830",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "trophy-dungeon-buffs",
   title: "Dungeon Buff Ingredients",
   parent: "trophies",

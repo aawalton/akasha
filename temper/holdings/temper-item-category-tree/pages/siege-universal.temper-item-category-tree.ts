@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const siegeUniversal = {
   id: "01a05fcf-f83f-70f5-81ee-2b21fb9e3ab7",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "siege-universal",
   title: "Universal",
   parent: "siege-equipment",

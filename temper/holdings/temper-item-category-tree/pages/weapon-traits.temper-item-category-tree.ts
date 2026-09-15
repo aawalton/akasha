@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const weaponTraits = {
   id: "01a05fcf-f848-7c90-b064-4116216e4dd9",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "weapon-traits",
   title: "Weapon Traits",
   parent: "trait-items",

@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const twoHanded = {
   id: "01a05fcf-f848-7098-8e8e-f3a609a0f647",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "two-handed",
   title: "Two-Handed",
   parent: "weapons",

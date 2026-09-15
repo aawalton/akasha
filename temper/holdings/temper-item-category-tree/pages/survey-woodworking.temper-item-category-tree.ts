@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const surveyWoodworking = {
   id: "01a05fcf-f843-7978-a39b-79310c33764b",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "survey-woodworking",
   title: "Woodworking",
   parent: "survey-reports",

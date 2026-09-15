@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const stylePages = {
   id: "01a05fcf-f840-782c-94c9-6a98e6de9a77",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "style-pages",
   title: "Style Pages",
   parent: "knowledge",

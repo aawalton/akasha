@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const tributeClues = {
   id: "01a05fcf-f845-77da-bf92-6758186b7f63",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "tribute-clues",
   title: "Tribute Clues",
   parent: "knowledge-collectibles",

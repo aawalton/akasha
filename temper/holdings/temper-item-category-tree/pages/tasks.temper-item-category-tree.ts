@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const tasks = {
   id: "01a05fcf-f843-7379-84c1-941e01878caf",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "tasks",
   title: "Tasks",
   displayOrder: 3,

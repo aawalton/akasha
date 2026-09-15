@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const tools = {
   id: "01a05fcf-f844-7aa5-9763-04785479ddd2",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "tools",
   title: "Tools",
   parent: "miscellaneous",

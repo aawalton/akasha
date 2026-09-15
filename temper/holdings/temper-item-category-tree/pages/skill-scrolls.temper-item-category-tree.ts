@@ -2,7 +2,7 @@ import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-
 
 export const skillScrolls = {
   id: "01a05fcf-f83f-7dfa-90a1-0731f2897aa0",
-  type: "temper-item-category-tree",
+  type: "page-type/temper-item-category-tree",
   slug: "skill-scrolls",
   title: "Skill Scrolls",
   parent: "consumables",
