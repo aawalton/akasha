@@ -2,7 +2,7 @@ import type { StoryPlayed } from "akasha/story/played/story-played.page-type.typ
 
 export const dragonsAndDungeons = {
   id: "01a06425-4433-7ef5-b909-fc3115093731",
-  type: "story-played",
+  type: "page-type/story-played",
   slug: "dragons-and-dungeons",
   title: "Dragons & Dungeons",
   world: "world/personas",

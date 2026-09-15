@@ -2,7 +2,7 @@ import type { StoryPlayed } from "akasha/story/played/story-played.page-type.typ
 
 export const breathOfTheWild = {
   id: "01a06425-4433-7b40-bbb6-17c24f7a35ed",
-  type: "story-played",
+  type: "page-type/story-played",
   slug: "breath-of-the-wild",
   title: "Breath of the Wild: The Chronicle of Hyrule",
   world: "world/hyrule",
