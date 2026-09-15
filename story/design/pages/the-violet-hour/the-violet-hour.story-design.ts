@@ -2,7 +2,7 @@ import type { StoryDesign } from "akasha/story/design/story-design.page-type.typ
 
 export const theVioletHour = {
   id: "01a0657d-bb8e-7ad0-a154-2f2d8a670bbf",
-  type: "story-design",
+  type: "page-type/story-design",
   slug: "the-violet-hour",
   title: "The Violet Hour — story design",
   world: "world/personas",

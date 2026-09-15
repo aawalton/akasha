@@ -2,7 +2,7 @@ import type { StoryDesign } from "akasha/story/design/story-design.page-type.typ
 
 export const theIdleEpoch = {
   id: "01a0657d-bb8d-7b68-95ee-ac453535d922",
-  type: "story-design",
+  type: "page-type/story-design",
   slug: "the-idle-epoch",
   title: "The Idle Epoch — story design",
   world: "world/the-idle-epoch",

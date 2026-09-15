@@ -2,7 +2,7 @@ import type { StoryDesign } from "akasha/story/design/story-design.page-type.typ
 
 export const theTower = {
   id: "01a0657d-bb8e-764d-a24a-103a24ed8e84",
-  type: "story-design",
+  type: "page-type/story-design",
   slug: "the-tower",
   title: "The Tower — story design",
   world: "world/personas",

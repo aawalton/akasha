@@ -2,7 +2,7 @@ import type { StoryDesign } from "akasha/story/design/story-design.page-type.typ
 
 export const breathOfTheWild = {
   id: "01a0657d-bb8d-7cfd-8351-b0c78ba096f6",
-  type: "story-design",
+  type: "page-type/story-design",
   slug: "breath-of-the-wild",
   title: "Breath of the Wild: The Chronicle of Hyrule — story design",
   world: "world/hyrule",

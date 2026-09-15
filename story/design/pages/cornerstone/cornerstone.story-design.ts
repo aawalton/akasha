@@ -2,7 +2,7 @@ import type { StoryDesign } from "akasha/story/design/story-design.page-type.typ
 
 export const cornerstone = {
   id: "01a0657d-bb8d-7066-b242-19bc27c9bf8c",
-  type: "story-design",
+  type: "page-type/story-design",
   slug: "cornerstone",
   title: "Cornerstone — story design",
   world: "world/cornerstone",

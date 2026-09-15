@@ -2,7 +2,7 @@ import type { StoryDesign } from "akasha/story/design/story-design.page-type.typ
 
 export const bathhouseConfession = {
   id: "01a0657d-bb8c-7a01-9799-ae4eb11d383d",
-  type: "story-design",
+  type: "page-type/story-design",
   slug: "bathhouse-confession",
   title: "Bathhouse Confession — story design",
   world: "world/bathhouse-confession",

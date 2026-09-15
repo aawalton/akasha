@@ -2,7 +2,7 @@ import type { StoryDesign } from "akasha/story/design/story-design.page-type.typ
 
 export const thePlacesSheCarries = {
   id: "01a0657d-bb8e-7f49-9570-3db923301bf3",
-  type: "story-design",
+  type: "page-type/story-design",
   slug: "the-places-she-carries",
   title: "The Places She Carries — story design",
   world: "world/the-places-she-carries",

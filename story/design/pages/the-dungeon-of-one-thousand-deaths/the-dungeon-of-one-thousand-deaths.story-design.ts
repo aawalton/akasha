@@ -2,7 +2,7 @@ import type { StoryDesign } from "akasha/story/design/story-design.page-type.typ
 
 export const theDungeonOfOneThousandDeaths = {
   id: "01a0657d-bb8d-7ffc-b09c-d6f4c937653e",
-  type: "story-design",
+  type: "page-type/story-design",
   slug: "the-dungeon-of-one-thousand-deaths",
   title: "The Dungeon of One Thousand Deaths — story design",
   world: "world/the-dungeon-of-one-thousand-deaths",

@@ -2,7 +2,7 @@ import type { StoryDesign } from "akasha/story/design/story-design.page-type.typ
 
 export const towerOfNimue = {
   id: "01a0657d-bb8e-77a8-bafb-000d2b166210",
-  type: "story-design",
+  type: "page-type/story-design",
   slug: "tower-of-nimue",
   title: "The Tower of Nimue — story design",
   world: "world/tower-of-nimue",

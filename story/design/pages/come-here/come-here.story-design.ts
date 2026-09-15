@@ -2,7 +2,7 @@ import type { StoryDesign } from "akasha/story/design/story-design.page-type.typ
 
 export const comeHere = {
   id: "01a0657d-bb8d-72ba-b35c-47714272cbed",
-  type: "story-design",
+  type: "page-type/story-design",
   slug: "come-here",
   title: "Come Here — story design",
   world: "world/come-here",

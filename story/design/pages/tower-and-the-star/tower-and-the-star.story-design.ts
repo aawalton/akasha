@@ -2,7 +2,7 @@ import type { StoryDesign } from "akasha/story/design/story-design.page-type.typ
 
 export const towerAndTheStar = {
   id: "01a0657d-bb8e-732f-a331-29297b95d834",
-  type: "story-design",
+  type: "page-type/story-design",
   slug: "tower-and-the-star",
   title: "Tower And The Star — story design",
   world: "world/tower-and-the-star",
