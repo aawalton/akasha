@@ -7,7 +7,7 @@ import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.co
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import ts from "typescript"
 
-const CLASS = "class"
+export const CLASS = "class"
 
 const ERROR = "Error"
 

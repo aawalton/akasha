@@ -98,7 +98,7 @@ export const treeSearching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "How many threads a listing takes is the caller's to say.",
+      statement: "How many threads a search or a listing takes is the caller's to say.",
     },
     {
       decisionKind: "decision-kind/departure",

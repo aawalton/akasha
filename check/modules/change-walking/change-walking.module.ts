@@ -224,5 +224,17 @@ export const changeWalking = {
       decisionKind: "decision-kind/departure",
       statement: "Naming no type collects nothing, and asks for no search.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An audit over the texts holding a spelling is handed those texts by a search.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A text the search leaves out is never opened, so nothing reads or parses it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The spellings searched for are the ones without which the check refuses nothing.",
+    },
   ],
 } as const satisfies Module

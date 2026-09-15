@@ -2,7 +2,9 @@ import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   pathsListed,
+  pathsSearched,
   pathsTyped,
+  TYPED_KINDS,
 } from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
 import type {
   Judged,
@@ -347,6 +349,16 @@ export function overEveryBody(
   judge: (path: string, text: string) => readonly string[]
 ): readonly Judged[] {
   return overEveryNamed(root, bodyNamed, judge)
+}
+
+export function overEveryTextNaming(
+  root: string,
+  asked: readonly string[],
+  judge: (path: string, text: string) => readonly string[]
+): readonly Judged[] {
+  const both = onDisk(root)
+  const changed = pathsSearched(root, asked, TYPED_KINDS, ONE_THREAD).toSorted()
+  return overEveryIn({ root, changed, before: both, after: both }, textNamed, judge)
 }
 
 export async function overEveryTextAsync(

@@ -82,11 +82,13 @@ function bothWays(run: (said: readonly string[]) => readonly string[]): readonly
 export function pathsSearched(
   root: string,
   asked: readonly string[],
-  kinds: readonly string[]
+  kinds: readonly string[],
+  threads: number | null = null
 ): readonly string[] {
   if (asked.length === 0) return []
   const fed = BYTES.encode(`${asked.join(LINED)}${LINED}`)
-  return bothWays((said) => ranWith(root, [...SEARCHED, ...said], kinds, fed))
+  const held = [...SEARCHED, ...threading(threads)]
+  return bothWays((said) => ranWith(root, [...held, ...said], kinds, fed))
 }
 
 export function pathsListed(root: string, threads: number | null = null): readonly string[] {

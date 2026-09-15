@@ -12,6 +12,7 @@ import {
   overEveryBody,
   overEveryText,
   overEveryTextAsync,
+  overEveryTextNaming,
   PAGES,
   pagesTailed,
   type Selector,
@@ -285,6 +286,25 @@ test("a walk over every body reads a stylesheet as readily as a text, and no oth
   expect(every).toContain(CODE_AT)
   expect(every).toContain(style)
   expect(every).not.toContain(".gitignore")
+})
+
+test("a walk over the texts holding a spelling reads those texts and opens no other", () => {
+  const root = treeWorld()
+  const seen: string[] = []
+  const said = overEveryTextNaming(root, ["export const held"], (path, text) => {
+    seen.push(path)
+    return [`${path} says ${text.length}`]
+  })
+  expect(said.map((one) => one.path)).toEqual([CODE_AT, PAGE_AT])
+  expect(seen).not.toContain(STRAY_AT)
+})
+
+test("a walk over the texts holding a spelling takes a text git ignores but no commit holds", () => {
+  const root = treeWorld()
+  const kept = "akasha/checks-system/change-walking/held/held.module.uncommitted.ts"
+  writeFileSync(join(root, kept), "export const held = 1\n")
+  const every = overEveryTextNaming(root, ["export const held"], (path) => [path])
+  expect(every.map((one) => one.path)).toContain(kept)
 })
 
 test("a walk over every text awaits each judgement where the judge answers with a promise", async () => {
