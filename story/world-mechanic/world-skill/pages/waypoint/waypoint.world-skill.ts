@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const waypoint = {
   id: "01a0657d-032c-7d31-9641-3785990a497d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "waypoint",
   title: "Waypoint",
   world: "world/the-wandering-inn",

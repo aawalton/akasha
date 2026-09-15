@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const youGoLowILlGoHigh = {
   id: "01a0657d-0338-7a78-88cb-2b257400bbbb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "you-go-low-i-ll-go-high",
   title: "You Go Low, I’ll Go High",
   world: "world/the-wandering-inn",

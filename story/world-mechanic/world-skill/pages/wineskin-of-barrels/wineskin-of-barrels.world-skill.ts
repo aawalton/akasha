@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const wineskinOfBarrels = {
   id: "01a0657d-0336-709c-b792-b7c00a32d17d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "wineskin-of-barrels",
   title: "Wineskin of Barrels",
   world: "world/the-wandering-inn",

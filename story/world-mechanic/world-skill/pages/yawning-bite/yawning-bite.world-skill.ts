@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const yawningBite = {
   id: "01a0657d-0338-76c0-aa30-a6ebd94aba76",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "yawning-bite",
   title: "Yawning Bite",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const waterFromStone = {
   id: "01a0657d-032c-7018-b3d8-4532b4c4b43b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "water-from-stone",
   title: "Water From Stone",
   world: "world/the-wandering-inn",

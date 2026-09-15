@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const youCannotEscapeMySteps = {
   id: "01a0657d-0338-7eeb-962a-0c15a52f84c1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "you-cannot-escape-my-steps",
   title: "You Cannot Escape My Steps",
   world: "world/the-wandering-inn",

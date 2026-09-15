@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const wildcall = {
   id: "01a0657d-032e-72b9-8437-e45c39049aae",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "wildcall",
   title: "Wildcall",
   world: "world/the-wandering-inn",

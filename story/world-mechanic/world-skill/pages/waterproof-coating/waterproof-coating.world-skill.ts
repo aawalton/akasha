@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const waterproofCoating = {
   id: "01a0657d-032c-7677-a075-401c5341d9fc",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "waterproof-coating",
   title: "Waterproof Coating",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const weaveBlessedFabrics = {
   id: "01a0657d-032d-7699-9dae-2b2d5a9e5a35",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "weave-blessed-fabrics",
   title: "Weave Blessed Fabrics",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const weReAllEqualsOnTheGround = {
   id: "01a0657d-032d-7d4f-8ad4-6aac521c6a78",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "we-re-all-equals-on-the-ground",
   title: "We’re All Equals On the Ground",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const wheelsUnevenRolling = {
   id: "01a0657d-032d-7d88-98aa-c0bb2c646f79",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "wheels-uneven-rolling",
   title: "Wheels: Uneven Rolling",
   world: "world/the-wandering-inn",

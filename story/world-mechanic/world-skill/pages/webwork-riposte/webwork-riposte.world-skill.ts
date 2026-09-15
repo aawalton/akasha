@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const webworkRiposte = {
   id: "01a0657d-032d-7555-a9b3-c6fb30849c1d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "webwork-riposte",
   title: "Webwork Riposte",
   world: "world/the-wandering-inn",

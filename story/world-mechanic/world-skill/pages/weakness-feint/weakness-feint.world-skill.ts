@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const weaknessFeint = {
   id: "01a0657d-032d-76f1-90b6-1da90a1d122c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "weakness-feint",
   title: "Weakness Feint",
   world: "world/the-wandering-inn",

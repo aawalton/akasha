@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const wyvernhideFlight = {
   id: "01a0657d-0338-774d-ae26-febe2831e50b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "wyvernhide-flight",
   title: "Wyvernhide Flight",
   world: "world/the-wandering-inn",

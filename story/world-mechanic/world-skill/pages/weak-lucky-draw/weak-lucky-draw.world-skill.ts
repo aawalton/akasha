@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const weakLuckyDraw = {
   id: "01a0657d-032d-720d-a1cc-6474bc26eeb4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "weak-lucky-draw",
   title: "Weak Lucky Draw",
   world: "world/the-wandering-inn",

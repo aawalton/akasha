@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const waterRetainingSoil = {
   id: "01a0657d-032c-7e54-81a0-fbe493a7823d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "water-retaining-soil",
   title: "Water-Retaining Soil",
   world: "world/the-wandering-inn",

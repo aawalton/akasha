@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const wildCallHowlOfTheContinent = {
   id: "01a0657d-032e-70bd-9cab-5663f1bad8ec",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "wild-call-howl-of-the-continent",
   title: "Wild Call: Howl of the Continent",
   world: "world/the-wandering-inn",

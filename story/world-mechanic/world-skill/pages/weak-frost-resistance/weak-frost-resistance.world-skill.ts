@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const weakFrostResistance = {
   id: "01a0657d-032d-7d73-90d3-96c6d5781af1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "weak-frost-resistance",
   title: "Weak Frost Resistance",
   world: "world/the-wandering-inn",

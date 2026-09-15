@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const whenSheDrewHerBladeTimeFledHer = {
   id: "01a0657d-032d-7f2a-9845-f207b30f2dad",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "when-she-drew-her-blade-time-fled-her",
   title: "When She Drew Her Blade: Time Fled Her",
   world: "world/the-wandering-inn",

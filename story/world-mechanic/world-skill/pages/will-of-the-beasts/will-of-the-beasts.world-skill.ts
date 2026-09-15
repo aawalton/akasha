@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const willOfTheBeasts = {
   id: "01a0657d-0336-756f-91c6-9ee128c7c398",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "will-of-the-beasts",
   title: "Will of the Beasts",
   world: "world/the-wandering-inn",

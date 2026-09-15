@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const wildOnslaught = {
   id: "01a0657d-032e-7f1e-acb3-5f4cbcb5436d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "wild-onslaught",
   title: "Wild Onslaught",
   world: "world/the-wandering-inn",

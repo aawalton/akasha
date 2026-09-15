@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const willowSCounter = {
   id: "01a0657d-0336-7c4a-8616-487eae231bd6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "willow-s-counter",
   title: "Willow’s Counter",
   world: "world/the-wandering-inn",

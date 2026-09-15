@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const winebreathBlaster = {
   id: "01a0657d-0336-7359-a99a-327eac34464d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "winebreath-blaster",
   title: "Winebreath Blaster",
   world: "world/the-wandering-inn",
