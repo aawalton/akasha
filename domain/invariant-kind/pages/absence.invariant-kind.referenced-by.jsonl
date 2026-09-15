@@ -370,6 +370,9 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/notification-feed/properties/notifications.page-property-entry.ts","id":"019f4a1f-0ecc-7d45-8f43-7b424b5f0477"}
 {"propertySlug":"invariant-kind","path":"alan/harness/plant/modules/plants-reading/plants-reading.module.ts","id":"01a069bc-1aa2-7813-a0df-1f5eed5e0196"}
 {"propertySlug":"invariant-kind","path":"alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.ts","id":"01a06221-d65f-79f1-86c6-ac9568df5717"}
+{"propertySlug":"invariant-kind","path":"alan/harness/readout/group/pages/claude-usage/readouts/five-hour-back/five-hour-back.readout.ts","id":"01a063bd-a526-7d2a-b1f5-8375b86d19ff"}
+{"propertySlug":"invariant-kind","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-back/weekly-back.readout.ts","id":"01a063bd-a526-795d-b845-b6fb54c9ef34"}
+{"propertySlug":"invariant-kind","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-ends/weekly-ends.readout.ts","id":"01a063bd-a526-7623-8e91-2865d3976acc"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/asking/readout-asking.module.ts","id":"01a061c0-e7cc-7ec9-b512-033fcde733e7"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/body/readout-body.module.ts","id":"01a05e63-1c18-7baa-a113-890ebfb04463"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/credential/readout-credential.module.ts","id":"01a054d9-d41f-796f-a2ff-b2c0fa9863a0"}
@@ -384,10 +387,6 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/watching/readout-watching.module.ts","id":"01a08c0f-6f8d-71b1-8b17-155ca606cb6a"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.ts","id":"01a078a8-b96f-765d-99ff-5703d9b2edd3"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/widget-tap-link/widget-tap-link.module.ts","id":"01a078a5-b8d4-7914-bdf7-41f482a36806"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/five-hour-back/five-hour-back.readout.ts","id":"01a063bd-a526-7d2a-b1f5-8375b86d19ff"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/upkeep-surplus/upkeep-surplus.readout.ts","id":"01a05fc3-145a-78a6-902f-ea39b8165c39"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/weekly-back/weekly-back.readout.ts","id":"01a063bd-a526-795d-b845-b6fb54c9ef34"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/weekly-ends/weekly-ends.readout.ts","id":"01a063bd-a526-7623-8e91-2865d3976acc"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/weekly-usage/weekly-usage.readout.ts","id":"01a063bd-a526-7a12-97a4-531aa40ead14"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/workstation-memory/workstation-memory.readout.ts","id":"01a0a065-1fe2-7ef7-8efc-0759f66b9875"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/workstation-processor/workstation-processor.readout.ts","id":"01a0a065-0e31-7af0-bc57-e4bd83656aa1"}
@@ -417,6 +416,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/supabase-server/modules/throwaway-user/throwaway-user.module.ts","id":"01a06583-0030-7003-b7d9-21d45fedb867"}
 {"propertySlug":"invariant-kind","path":"alan/harness/supabase-server/supabase-server.domain.ts","id":"01a05c75-8718-772e-bcdb-e24fb342750c"}
 {"propertySlug":"invariant-kind","path":"alan/harness/surplus/modules/reading/surplus-reading.module.ts","id":"01a069bb-b921-759e-92f7-2095b2099a24"}
+{"propertySlug":"invariant-kind","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.ts","id":"01a05fc3-145a-78a6-902f-ea39b8165c39"}
 {"propertySlug":"invariant-kind","path":"alan/harness/voice-core/modules/estimate-marks/estimate-marks.module.ts","id":"01a05b55-e06e-753e-9209-b70e874274d3"}
 {"propertySlug":"invariant-kind","path":"alan/harness/voice-core/modules/speech/speech.module.ts","id":"01a05b55-e06e-713c-ae5c-d556cabac43e"}
 {"propertySlug":"invariant-kind","path":"alan/library/reading/book/properties/page-count.number-property.ts","id":"01a06741-dd0f-7005-b740-1e4345152777"}

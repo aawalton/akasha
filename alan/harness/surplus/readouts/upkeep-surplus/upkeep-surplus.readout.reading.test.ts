@@ -3,7 +3,7 @@ import {
   fallsPerHourIn,
   heldNothing,
   surplusIn,
-} from "akasha/alan/harness/readout/pages/upkeep-surplus/upkeep-surplus.readout.reading.code.ts"
+} from "akasha/alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.reading.code.ts"
 
 const stretch = (safety: string, difficulty: string, endTime?: string) => ({
   startTime: "2026-08-31T12:00:00.000Z",
