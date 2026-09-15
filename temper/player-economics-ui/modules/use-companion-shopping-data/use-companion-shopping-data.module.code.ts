@@ -14,6 +14,7 @@ import {
   computeAllGearNeeds,
 } from "akasha/temper/items-core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
 import { applyCompanionMetadata } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
+import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import {
   type BlendedPriceKey,
@@ -32,7 +33,6 @@ import {
   resolvePricingRegion,
   resolvePricingRegionNote,
 } from "akasha/temper/player-inventory-management-ui/modules/pricing-region/pricing-region.module.code.ts"
-import { usePlayer } from "akasha/temper/player-profile/modules/use-player/use-player.module.code.ts"
 import type { CompanionGearPriceResult } from "akasha/temper/trading-pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import type { PricingData } from "akasha/temper/trading-pricing/modules/pricing-types/pricing-types.module.code.ts"
 import { useMemo } from "react"

@@ -5503,6 +5503,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/use-player/use-player.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/narrow/modules/is-callback/is-callback.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/narrow/modules/is-table/is-table.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/narrow/modules/lua-string-contains/lua-string-contains.module.ts"}
@@ -6038,7 +6039,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player-profile/modules/use-player/use-player.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/quests-addon/modules/quests-auto-quest/quests-auto-quest.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/quests-addon/modules/quests-chatter-name-tables/quests-chatter-name-tables.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/quests-addon/modules/quests-chatter-names/quests-chatter-names.module.ts"}

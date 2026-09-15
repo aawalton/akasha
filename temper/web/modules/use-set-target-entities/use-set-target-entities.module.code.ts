@@ -19,8 +19,8 @@ import {
   extractCharacterMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
+import { usePlayer } from "akasha/temper/modules/use-player/use-player.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
-import { usePlayer } from "akasha/temper/player-profile/modules/use-player/use-player.module.code.ts"
 import type { SetTargetEntity } from "akasha/temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx"
 import { useMemo, useState, useTransition } from "react"
 
