@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sessionLeveling = {
   id: "01a06868-3956-7058-bd98-818618ad23cf",
-  type: "module",
+  type: "page-type/module",
   slug: "session-leveling",
   definition: "how safe a stretch was and how hard, read from a caller or from the activity pages",
   code: "ts",

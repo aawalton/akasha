@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const measureTabling = {
   id: "01a08e19-2530-7bd3-84d0-2994f36d9bda",
-  type: "module",
+  type: "page-type/module",
   slug: "measure-tabling",
   definition: "a label, a level and a total written as one table with its columns aligned",
   code: "ts",

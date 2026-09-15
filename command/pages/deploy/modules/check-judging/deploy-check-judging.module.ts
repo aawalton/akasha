@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployCheckJudging = {
   id: "01a091ac-1ea6-7af9-a725-96a51aaf0c5f",
-  type: "module",
+  type: "page-type/module",
   slug: "deploy-check-judging",
   definition: "the checks a deploy runs, over what changed since the last deploy that finished",
   code: "ts",

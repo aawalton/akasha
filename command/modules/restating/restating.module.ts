@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const restating = {
   id: "01a0725b-7254-78a0-805c-1e7767a3e280",
-  type: "module",
+  type: "page-type/module",
   slug: "restating",
   definition: "whether a change moves only the words a page states",
   code: "ts",

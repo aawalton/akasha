@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const unitLanding = {
   id: "01a09266-2700-7188-8dc0-348deb34b2d4",
-  type: "module",
+  type: "page-type/module",
   slug: "unit-landing",
   definition: "the workstation units kept as their pages state them",
   code: "ts",

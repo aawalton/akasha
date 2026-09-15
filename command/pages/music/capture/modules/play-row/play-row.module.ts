@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const playRow = {
   id: "01a063b0-cb34-7000-af1c-727892f4698a",
-  type: "module",
+  type: "page-type/module",
   slug: "play-row",
   definition: "the arithmetic turning one play of a track into the row that play is filed as",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployCommitRecording = {
   id: "01a0918e-3f40-7004-a4ca-adca97c45186",
-  type: "module",
+  type: "page-type/module",
   slug: "deploy-commit-recording",
   definition:
     "what a deploy put up, what it refused at and for, and when it ended, beside the service's page",

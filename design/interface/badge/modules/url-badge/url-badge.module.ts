@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const urlBadge = {
   id: "01a05b55-a539-7bc7-91a9-d5b91de4f605",
-  type: "module",
+  type: "page-type/module",
   slug: "url-badge",
   definition: "a badge showing a url's host as a link out",
   code: "tsx",

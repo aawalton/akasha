@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const longAnswering = {
   id: "01a0956d-dad6-7000-bca1-cb148c7ff3f1",
-  type: "module",
+  type: "page-type/module",
   slug: "long-answering",
   definition: "the run of lines a body too long for one answer hands back, and how far it reached",
   code: "ts",

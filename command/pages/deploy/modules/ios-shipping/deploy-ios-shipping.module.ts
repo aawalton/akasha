@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployIosShipping = {
   id: "01a060e7-5945-7fc8-aab7-2db66ca0967f",
-  type: "module",
+  type: "page-type/module",
   slug: "deploy-ios-shipping",
   definition: "an ios app built on the MacBook and handed to App Store Connect",
   code: "ts",

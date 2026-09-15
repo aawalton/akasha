@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployImagePushing = {
   id: "01a08df4-ab5c-7ba2-beb9-acbb8bf0d944",
-  type: "module",
+  type: "page-type/module",
   slug: "deploy-image-pushing",
   definition: "a container recipe built and put in the registry under the hash of its inputs",
   code: "ts",

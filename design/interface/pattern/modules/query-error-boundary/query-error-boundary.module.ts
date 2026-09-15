@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const queryErrorBoundary = {
   id: "01a061ed-653b-73ef-8556-969d798ee2a5",
-  type: "module",
+  type: "page-type/module",
   slug: "query-error-boundary",
   definition: "the boundary showing a failed query's error where its content would be",
   code: "tsx",

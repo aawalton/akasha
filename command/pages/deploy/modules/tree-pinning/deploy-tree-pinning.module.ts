@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployTreePinning = {
   id: "01a09240-5cd6-7be1-bda8-9fe3ca8d2fe3",
-  type: "module",
+  type: "page-type/module",
   slug: "deploy-tree-pinning",
   definition: "the tree a deploy of one kind is built from, pinned at that deploy's commit",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployHolding = {
   id: "01a0958d-5a26-70f4-b71a-0d770b87de98",
-  type: "module",
+  type: "page-type/module",
   slug: "deploy-holding",
   definition:
     "the hold one deploy takes over the thing it puts up, so no second deploy of that thing runs",

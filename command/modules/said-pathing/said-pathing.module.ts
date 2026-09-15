@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const saidPathing = {
   id: "01a07bc3-901c-773f-b288-daaf87e33d78",
-  type: "module",
+  type: "page-type/module",
   slug: "said-pathing",
   definition: "a path a command was handed, read against the repository root",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const bodyOwing = {
   id: "01a094da-202e-7f5c-9796-4cb998a655c5",
-  type: "module",
+  type: "page-type/module",
   slug: "body-owing",
   definition: "which of the files a read left over the agent still owes a body for",
   code: "ts",

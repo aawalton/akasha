@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const differing = {
   id: "01a04ebb-d762-7000-92c3-765835d1b7a3",
-  type: "module",
+  type: "page-type/module",
   slug: "differing",
   definition:
     "the body an object id names, and what moved between it and the body that is there now",

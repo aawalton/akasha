@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const selectDrawerGroups = {
   id: "01a05b82-8b9a-705c-ac33-89e3e10ce973",
-  type: "module",
+  type: "page-type/module",
   slug: "select-drawer-groups",
   definition: "which nav items fall into the more drawer, grouped",
   code: "ts",

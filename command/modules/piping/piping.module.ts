@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const piping = {
   id: "01a05f4d-3577-7280-96a6-982e5bab7445",
-  type: "module",
+  type: "page-type/module",
   slug: "piping",
   definition: "what a command is handed on standard input",
   code: "ts",

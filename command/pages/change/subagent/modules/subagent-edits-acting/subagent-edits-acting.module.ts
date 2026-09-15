@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subagentEditsActing = {
   id: "01a09c2d-66f4-7520-9106-1805b0650e05",
-  type: "module",
+  type: "page-type/module",
   slug: "subagent-edits-acting",
   definition: "the acts run over the records a seat keeps for the subagents under it",
   code: "ts",

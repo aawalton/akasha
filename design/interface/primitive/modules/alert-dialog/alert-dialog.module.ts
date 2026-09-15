@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const alertDialog = {
   id: "01a05be9-d4c2-786c-97a1-89c82d07e4a7",
-  type: "module",
+  type: "page-type/module",
   slug: "alert-dialog",
   definition: "a window over the page that closes only on a choice",
   code: "tsx",

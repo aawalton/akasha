@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployWebPuttingUp = {
   id: "01a05f90-94a7-7038-a602-193e6370fbac",
-  type: "module",
+  type: "page-type/module",
   slug: "deploy-web-putting-up",
   definition: "the web app a deploy names, put up onto the cluster its page describes",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const wanClipRendering = {
   id: "01a072fa-322d-7288-8757-5da45309b677",
-  type: "module",
+  type: "page-type/module",
   slug: "wan-clip-rendering",
   definition: "the clip a wan call has the model make",
   code: "ts",

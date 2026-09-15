@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatActCalling = {
   id: "01a0797a-9a3b-7327-8ca0-65c7360e1566",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-act-calling",
   definition: "a seat act run with what it finished writing named where the act is refused",
   code: "ts",

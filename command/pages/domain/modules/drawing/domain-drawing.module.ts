@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const domainDrawing = {
   id: "01a07c03-68a7-7fca-91e7-b541e1efa8cb",
-  type: "module",
+  type: "page-type/module",
   slug: "domain-drawing",
   definition: "the domains read off their pages, drawn as a tree or handed over whole",
   code: "ts",

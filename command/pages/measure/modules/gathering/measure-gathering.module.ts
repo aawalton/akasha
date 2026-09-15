@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const measureGathering = {
   id: "01a09ba7-053e-780b-83b0-83bbba287ce9",
-  type: "module",
+  type: "page-type/module",
   slug: "measure-gathering",
   definition: "the runs an entries file holds, gathered under what ran and weighed over a window",
   code: "ts",

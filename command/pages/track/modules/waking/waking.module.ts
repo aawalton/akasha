@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const waking = {
   id: "01a06c4c-15f1-7000-9fb5-6a33127258e9",
-  type: "module",
+  type: "page-type/module",
   slug: "waking",
   definition: "which day a sleep opens, and which day comes before another",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sessionRows = {
   id: "01a068da-a0ca-7689-b3e8-3d7a7d4c70b1",
-  type: "module",
+  type: "page-type/module",
   slug: "session-rows",
   definition: "the rows one of Alan's days is made of, read off the checkout and judged",
   code: "ts",

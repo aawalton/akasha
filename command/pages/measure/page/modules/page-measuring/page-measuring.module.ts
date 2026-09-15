@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageMeasuring = {
   id: "01a06d1e-b1fe-7d25-9a68-a0176409c125",
-  type: "module",
+  type: "page-type/module",
   slug: "page-measuring",
   definition:
     "how many pages and property files each page type holds, and how many lines each runs to",

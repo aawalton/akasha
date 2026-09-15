@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const liveGatewaySeat = {
   id: "01a07c0e-3845-7753-9dd0-c01a2d905a11",
-  type: "module",
+  type: "page-type/module",
   slug: "live-gateway-seat",
   definition: "the seats with a gateway process that still answers",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const collapsible = {
   id: "01a05be9-d4c2-7243-b508-6d1cb3b57192",
-  type: "module",
+  type: "page-type/module",
   slug: "collapsible",
   definition: "a section hidden and shown by its own trigger",
   code: "tsx",

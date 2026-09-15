@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inputBadge = {
   id: "01a05b55-a539-7aed-a659-82296e70c6b4",
-  type: "module",
+  type: "page-type/module",
   slug: "input-badge",
   definition: "a badge with a line of text being typed",
   code: "tsx",

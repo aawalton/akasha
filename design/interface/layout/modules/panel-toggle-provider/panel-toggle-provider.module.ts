@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const panelToggleProvider = {
   id: "01a05b82-8b99-71ea-8418-c319e661ecd8",
-  type: "module",
+  type: "page-type/module",
   slug: "panel-toggle-provider",
   definition: "the keystroke opening and closing every panel at once",
   code: "tsx",

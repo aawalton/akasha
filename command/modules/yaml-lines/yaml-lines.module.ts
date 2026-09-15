@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const yamlLines = {
   id: "01a07c5c-680a-740f-a3f1-a715427bd81a",
-  type: "module",
+  type: "page-type/module",
   slug: "yaml-lines",
   definition: "the lines a YAML body holds, with the blank lines at the end dropped",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const layoutContext = {
   id: "01a05b82-8b98-7688-b15e-69bd2cfa0488",
-  type: "module",
+  type: "page-type/module",
   slug: "layout-context",
   definition: "the column count the frame works out from its own width",
   code: "tsx",

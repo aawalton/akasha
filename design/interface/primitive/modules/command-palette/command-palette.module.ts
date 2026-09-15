@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const commandPalette = {
   id: "01a05be9-d4c2-7a60-bb20-12f071968480",
-  type: "module",
+  type: "page-type/module",
   slug: "command-palette",
   definition: "the overlay a reader opens to search every keyboard binding by name",
   code: "tsx",

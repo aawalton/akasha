@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const devServerRunning = {
   id: "01a09401-2596-7b81-9dc3-f483f18f9657",
-  type: "module",
+  type: "page-type/module",
   slug: "dev-server-running",
   definition: "one app's dev server spawned in a worktree, and ended again",
   code: "ts",
