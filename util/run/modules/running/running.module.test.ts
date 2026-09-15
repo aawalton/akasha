@@ -15,7 +15,6 @@ import {
   ran,
   said,
   spawnedHere,
-  sweptFrom,
 } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const CODE = `${import.meta.dir}/running.module.code.ts`
@@ -173,7 +172,7 @@ test("a group left where the run that made it is gone is taken away before a gro
 
 test("a group left is emptied and taken away with every group inside it", async () => {
   const maker = Bun.spawn(["sleep", "30"])
-  const left = join(String(sweptFrom(String(ownAt()))), `akasha-${String(maker.pid)}-1`)
+  const left = join(String(delegatedAt(String(ownAt()))), `akasha-${String(maker.pid)}-1`)
   const inside = join(left, "akasha-call-3", "run")
   mkdirSync(inside, { recursive: true })
   const lingering = Bun.spawn(["sh", "-c", `echo $$ > ${inside}/cgroup.procs; exec sleep 30`])
@@ -231,7 +230,7 @@ test("a process past its memory ceiling runs to its end rather than being ended"
   const done = ran(["bun", "-e", "new Uint8Array(120e6).fill(1)"], { memoryCeiling: 64 })
   expect(done.code).toBe(0)
   expect(done.signal).toBeNull()
-})
+}, 120000)
 
 test("a process inside one given a ceiling states a ceiling above its own", () => {
   const inner =

@@ -183,7 +183,7 @@ export const running = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Groups left are looked for from the topmost group this process may write in.",
+      statement: "Groups left are looked for in the group this process makes its own groups in.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -208,13 +208,16 @@ export const running = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "No group another container made is ever taken away as left.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement:
         "A group that cannot be taken away once its run is over is said aloud on the error stream.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "A group left goes at the next group made under the topmost group or at the reaper's next tick.",
+      statement: "A group left goes at the next group made beside it or at the reaper's next tick.",
     },
     {
       invariantKind: "invariant-kind/departure",

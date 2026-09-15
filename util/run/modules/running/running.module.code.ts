@@ -92,16 +92,6 @@ export function madePid(named: string): number | null {
   return DIGITS.test(digits) ? Number(digits) : null
 }
 
-export function sweptFrom(own: string): string | null {
-  let at = dirname(join(MOUNT, own))
-  let topmost: string | null = null
-  while (at.startsWith(MOUNT) && at !== MOUNT) {
-    if (holding(at)) topmost = at
-    at = dirname(at)
-  }
-  return holding(MOUNT) ? MOUNT : topmost
-}
-
 function groupIn(file: string): string | null {
   let text = ""
   try {
@@ -196,7 +186,7 @@ function leftSwept(root: string): undefined {
 export function leftSweptHere(): undefined {
   const own = ownAt()
   if (own === null) return
-  const root = sweptFrom(own)
+  const root = delegatedAt(own)
   if (root !== null) leftSwept(root)
 }
 
@@ -205,7 +195,7 @@ function budgetAt(): string | null {
   if (own === null) return null
   const parent = delegatedAt(own)
   if (parent === null) return null
-  leftSwept(sweptFrom(own) ?? parent)
+  leftSwept(parent)
   const at = join(parent, `${MADE}${String(process.pid)}${APART}${String(Bun.nanoseconds())}`)
   try {
     mkdirSync(at)
