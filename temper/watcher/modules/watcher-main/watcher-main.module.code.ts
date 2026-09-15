@@ -1,5 +1,6 @@
 import { existsSync, unwatchFile, watchFile } from "node:fs"
 import { basename } from "node:path"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
   buildConfig as buildConfigFromDisk,
   sourcePathFor,
@@ -34,7 +35,6 @@ import {
 } from "akasha/temper/watcher/modules/watcher-state/watcher-state.module.code.ts"
 import { resolveWatcherToken } from "akasha/temper/watcher/modules/watcher-token/watcher-token.module.code.ts"
 import { WATCHER_VERSION } from "akasha/temper/watcher/modules/watcher-version/watcher-version.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const POLL_INTERVAL_MS = 2000
 

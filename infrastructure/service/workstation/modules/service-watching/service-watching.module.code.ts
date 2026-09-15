@@ -1,6 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { writeMessage } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { domainsDrawn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import {
   championing,
@@ -16,7 +17,6 @@ import {
   healthFor,
 } from "akasha/infrastructure/service/workstation/modules/service-health/service-health.module.code.ts"
 import { looked } from "akasha/infrastructure/service/workstation/modules/service-wellness/service-wellness.module.code.ts"
-import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const LEDGER = ".local/state/workstation-services/service-outages.json"
 const FALLBACK = "alan"

@@ -1,5 +1,7 @@
 "use client"
 
+import { parseString } from "akasha/code/type/narrowing/modules/parse-string/parse-string.module.code.ts"
+import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
@@ -7,8 +9,6 @@ import { MentionChip } from "akasha/page/ui/markdown/modules/mention-chip/mentio
 import type { MentionResolver } from "akasha/page/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts"
 import { remarkMentions } from "akasha/page/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts"
 import { remarkSectionize } from "akasha/page/ui/markdown/modules/remark-sectionize/remark-sectionize.module.code.ts"
-import { parseString } from "akasha/util/narrow/modules/parse-string/parse-string.module.code.ts"
-import { stringIn } from "akasha/util/narrow/modules/string-in/string-in.module.code.ts"
 import type { ReactNode } from "react"
 import { useMemo } from "react"
 import type { Components } from "react-markdown"

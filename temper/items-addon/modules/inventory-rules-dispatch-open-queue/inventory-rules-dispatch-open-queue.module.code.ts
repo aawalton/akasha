@@ -1,3 +1,4 @@
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import { hasRoomAboveBuffer } from "akasha/temper/items-addon/modules/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
@@ -13,7 +14,6 @@ import {
 import { reportAction } from "akasha/temper/items-addon/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import { RESCAN_INVENTORY_HOLDER } from "akasha/temper/items-addon/modules/inventory-rules-rescan-ref/inventory-rules-rescan-ref.module.code.ts"
 import { evaluateScriptKnowledgeForOpen } from "akasha/temper/items-addon/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
-import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 export interface OpenQueueEntry {
   bagId: number
   slotIndex: number

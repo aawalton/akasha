@@ -29,8 +29,8 @@ import {
   THROWS,
   WEB_BUNFIG,
 } from "akasha/code/running/modules/code-tests/code-tests.module.test-fixtures.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const scratch = scratchWorld()
 

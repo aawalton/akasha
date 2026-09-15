@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type {
   BrowserRow,
   FixedLocationViewId,
@@ -11,7 +12,6 @@ import {
   getLocationDisplayName,
 } from "akasha/temper/items-core/modules/location-classify/location-classify.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items-core/modules/location-type-data/location-type-data.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const FIXED_LOCATION_VIEWS: readonly (readonly [FixedLocationViewId, string])[] = [
   ["all", "All"],

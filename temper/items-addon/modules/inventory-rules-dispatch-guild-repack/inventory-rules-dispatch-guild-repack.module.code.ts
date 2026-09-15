@@ -1,3 +1,5 @@
+import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import { moveItem } from "akasha/temper/items-addon/modules/inventory-move-item/inventory-move-item.module.code.ts"
 import { showConfirmDialog } from "akasha/temper/items-addon/modules/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.code.ts"
@@ -9,8 +11,6 @@ import {
   scanBackpackItems,
   scanGuildBankGroups,
 } from "akasha/temper/items-addon/modules/inventory-rules-dispatch-guild-repack-scan/inventory-rules-dispatch-guild-repack-scan.module.code.ts"
-import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
-import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 let repackRunning = false
 

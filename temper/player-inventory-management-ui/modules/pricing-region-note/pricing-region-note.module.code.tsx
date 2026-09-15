@@ -1,5 +1,6 @@
 "use client"
 
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { LayoutLink } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import {
@@ -7,7 +8,6 @@ import {
   DEFAULT_PRICING_SERVER,
   type PricingRegionNoteKind,
 } from "akasha/temper/player-inventory-management-ui/modules/pricing-region/pricing-region.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
 
 export function PricingRegionNote({

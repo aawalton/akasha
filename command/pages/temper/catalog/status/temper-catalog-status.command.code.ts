@@ -1,4 +1,5 @@
 import { existsSync, readFileSync } from "node:fs"
+import { saidBy as messageOf } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import { savedVariablesFile } from "akasha/command/argument/pages/saved-variables-file.argument.ts"
@@ -24,7 +25,6 @@ import {
   type AccountSummary,
   readAccountSummaries,
 } from "akasha/temper/modules/saved-variables-reader/saved-variables-reader.module.code.ts"
-import { saidBy as messageOf } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const NAMED = [json, sideFileArgument, savedVariablesFile]
 

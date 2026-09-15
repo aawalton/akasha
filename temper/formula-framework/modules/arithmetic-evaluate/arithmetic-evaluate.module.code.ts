@@ -1,8 +1,8 @@
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import type {
   ArithmeticNode,
   ConstantNode,
 } from "akasha/temper/formula-framework/modules/arithmetic-node/arithmetic-node.module.code.ts"
-import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 function isConstantNode<F>(node: ArithmeticNode<F> | F): node is ConstantNode {
   return typeof node === "object" && node !== null && "type" in node && node.type === "constant"

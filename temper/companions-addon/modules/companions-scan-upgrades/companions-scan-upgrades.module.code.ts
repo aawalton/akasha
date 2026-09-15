@@ -4,6 +4,7 @@ import "akasha/temper/eso-type/eso-functions-02/eso-functions-02.type-declaratio
 import "akasha/temper/eso-type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso-type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import {
   ARMOR_SLOTS,
   JEWELRY_SLOTS,
@@ -24,7 +25,6 @@ import {
   getQualityFromIndex,
   getWeaponTraitFromIndex,
 } from "akasha/temper/companions-addon/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"
-import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 export interface SlotUpgrade {
   bagSlot: number

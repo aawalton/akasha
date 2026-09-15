@@ -1,9 +1,9 @@
+import { upFrom } from "akasha/code/type/narrowing/modules/up-from/up-from.module.code.ts"
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { slugsIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { upFrom } from "akasha/util/narrow/modules/up-from/up-from.module.code.ts"
 
 const SCRIPT = "shell-script"
 

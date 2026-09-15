@@ -1,4 +1,4 @@
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 
 interface HookPayload {
   ref: string

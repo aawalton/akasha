@@ -1,3 +1,4 @@
+import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,
@@ -5,7 +6,6 @@ import {
 } from "akasha/temper/items-addon/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { isVendorCrossCharDestination } from "akasha/temper/items-addon/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
 import { postGuildStoreItem } from "akasha/temper/modules/guild-store-poster/guild-store-poster.module.code.ts"
-import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 export interface ListingCandidate {
   bagId: number
   slotIndex: number

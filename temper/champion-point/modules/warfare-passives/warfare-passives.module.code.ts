@@ -1,5 +1,5 @@
+import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import type { ChampionPointTemplate } from "akasha/temper/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
-import { createDataFile } from "akasha/util/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 const WARFARE_PASSIVE_CHAMPION_POINTS = {
   precision: {

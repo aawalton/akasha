@@ -1,5 +1,6 @@
 "use client"
 
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
@@ -11,7 +12,6 @@ import {
   type CliLinkFailure,
   describeCliLinkFailure,
 } from "akasha/temper/web/modules/cli-link-failure/cli-link-failure.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import { useCallback, useState } from "react"
 
 interface CliLinkContentProps {

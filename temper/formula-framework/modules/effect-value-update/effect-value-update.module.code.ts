@@ -1,5 +1,5 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type { MetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export function updateEffectValue<T extends MetricEffect>(
   effect: T,

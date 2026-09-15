@@ -1,5 +1,6 @@
 "use client"
 
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import {
   Card,
   CardContent,
@@ -11,7 +12,6 @@ import type {
   WatcherSyncSourceCounts,
   WatcherSyncSummary,
 } from "akasha/temper/web/modules/watcher-sync-status/watcher-sync-status.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { AlertTriangle, CheckCircle2, CircleDashed, Clock, FileUp } from "lucide-react"
 
 type Presentation = {

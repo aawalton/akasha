@@ -1,3 +1,5 @@
+import { isJson } from "akasha/code/type/narrowing/modules/is-json/is-json.module.code.ts"
+import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import {
   type CursorPayload,
   decodeCursor,
@@ -32,8 +34,6 @@ import type {
   Query,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import { isJson } from "akasha/util/narrow/modules/is-json/is-json.module.code.ts"
-import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 export type FileReadShape = {
   readonly pageTypeId: string

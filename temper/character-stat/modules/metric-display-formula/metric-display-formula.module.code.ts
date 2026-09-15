@@ -1,3 +1,5 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import {
   getAttributeEffects,
   getConditionalChanceEffects,
@@ -28,8 +30,6 @@ import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id
 import { formatDecimal } from "akasha/temper/formula-framework/modules/number-format/number-format.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 import { sourceCategories } from "akasha/temper/formula-framework/modules/source-category/source-category.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
-import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 function effectTypeToFormat(effectType: string): NumberFormat {
   switch (effectType) {

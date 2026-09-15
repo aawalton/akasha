@@ -1,11 +1,11 @@
 import { createPublicKey, verify as cryptoVerify } from "node:crypto"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { CONFIG } from "akasha/infrastructure/network/auth-proxy/modules/config/auth-proxy-config.module.code.ts"
 import { parseSupabaseCookieMatch } from "akasha/infrastructure/network/auth-proxy/modules/cookie-match-core/cookie-match-core.module.code.ts"
 import {
   hashKey,
   makeTTLCache,
 } from "akasha/infrastructure/network/auth-proxy/modules/ttl-cache/ttl-cache.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import { z } from "zod"
 
 export interface Identity {

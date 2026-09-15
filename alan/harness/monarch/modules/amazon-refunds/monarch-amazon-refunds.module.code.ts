@@ -30,7 +30,7 @@ import {
   liveTransaction,
   mayWriteNotes,
 } from "akasha/alan/harness/monarch/modules/notes-write/monarch-notes-write.module.code.ts"
-import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
+import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const GMAIL_QUERY = 'from:return@amazon.com subject:"refund issued"'
 

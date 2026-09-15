@@ -2,6 +2,7 @@ import { readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
 import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { landRemovals } from "akasha/change/modules/gated-landing/gated-landing.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { fileStemOf } from "akasha/page/identity/modules/file-page/file-page.module.code.ts"
 import { fileKeysAt } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -11,7 +12,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { firstCapture } from "akasha/util/narrow/modules/first-capture/first-capture.module.code.ts"
 
 const DEFAULT_KEEP_DAYS = 7
 

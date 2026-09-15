@@ -1,4 +1,5 @@
 import { resolve } from "node:path"
+import { wholeNumberIn } from "akasha/code/type/narrowing/modules/whole-number-in/whole-number-in.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { char as charArgument } from "akasha/command/argument/pages/char.argument.ts"
 import { charactersPath as charactersPathArgument } from "akasha/command/argument/pages/characters-path.argument.ts"
@@ -21,7 +22,6 @@ import {
 } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
-import { wholeNumberIn } from "akasha/util/narrow/modules/whole-number-in/whole-number-in.module.code.ts"
 
 const NAMED = [jsonArgument, charactersPathArgument, charArgument, itemKeyArgument]
 

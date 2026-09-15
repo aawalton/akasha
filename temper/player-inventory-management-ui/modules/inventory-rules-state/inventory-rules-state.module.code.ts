@@ -1,3 +1,4 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { migrateControlledRules } from "akasha/temper/items-rules-core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import { createDefaultRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
@@ -11,7 +12,6 @@ import {
   migrateRemoveScopesAndFilters,
   migrateValueFieldNames,
 } from "akasha/temper/player-inventory-management-ui/modules/inventory-rule-migrations/inventory-rule-migrations.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import { type RefObject, useCallback, useMemo, useRef } from "react"
 
 export function preserveLocked<T extends { id: string; locked?: boolean }>(

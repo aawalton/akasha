@@ -1,9 +1,9 @@
+import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import {
   namedChild,
   setLabelColor,
   type TooltipCarrier,
 } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
-import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 interface CpPassiveControl extends Control {
   discipline?: number

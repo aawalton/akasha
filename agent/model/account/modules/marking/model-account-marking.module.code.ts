@@ -4,6 +4,7 @@ import {
 } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
 import { computePacingDerivations } from "akasha/agent/model/account/modules/pacing/model-account-pacing.module.code.ts"
 import { accountPathIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import type { PageOf } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { typeSlugOf } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -16,7 +17,6 @@ import {
   propertiesOf,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 import { z } from "zod"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"

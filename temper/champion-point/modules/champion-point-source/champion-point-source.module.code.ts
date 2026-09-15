@@ -1,3 +1,4 @@
+import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import { craftPassives } from "akasha/temper/champion-point/modules/craft-passives/craft-passives.module.code.ts"
 import { craftSlottables } from "akasha/temper/champion-point/modules/craft-slottables/craft-slottables.module.code.ts"
 import { fitnessPassives } from "akasha/temper/champion-point/modules/fitness-passives/fitness-passives.module.code.ts"
@@ -6,7 +7,6 @@ import { warfarePassives } from "akasha/temper/champion-point/modules/warfare-pa
 import { warfareSlottables } from "akasha/temper/champion-point/modules/warfare-slottables/warfare-slottables.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
-import { createDataFile } from "akasha/util/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 type ChampionPointSubcategoryId =
   | "craft-passives"

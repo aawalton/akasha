@@ -1,5 +1,5 @@
-import { asRecord } from "akasha/util/narrow/modules/as-record/as-record.module.code.ts"
-import { parseNumber } from "akasha/util/narrow/modules/parse-number/parse-number.module.code.ts"
+import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
+import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 
 export function parseOpenCooldowns(raw: unknown): Record<string, number> | undefined {
   const obj = asRecord(raw)

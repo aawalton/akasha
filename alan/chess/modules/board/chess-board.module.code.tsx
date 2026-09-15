@@ -17,8 +17,8 @@ import {
   deriveSnapshot,
   stepToPly,
 } from "akasha/alan/chess/modules/state/chess-state.module.code.ts"
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { useChromeToggle } from "akasha/page/ui/component/modules/use-chrome-toggle/use-chrome-toggle.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { Chessground } from "chessground"
 import type { Api as CgApi } from "chessground/api"
 import type { Config as CgConfig } from "chessground/config"

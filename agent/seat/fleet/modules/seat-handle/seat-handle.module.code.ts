@@ -4,10 +4,10 @@ import {
   seatsStanding,
 } from "akasha/agent/seat/fleet/modules/seat-roster/seat-roster.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
-import { textIn } from "akasha/util/narrow/modules/text-in/text-in.module.code.ts"
 
 const UUID_HEX_LEN = 32
 

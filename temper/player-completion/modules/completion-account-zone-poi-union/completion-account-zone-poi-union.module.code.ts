@@ -1,3 +1,4 @@
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import {
   type PoiZoneCatalogEntry,
   tallyPoiZones,
@@ -10,7 +11,6 @@ import type {
   ZoneCompletionTypeProgress,
   ZoneCompletionZoneProgress,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
-import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 export interface AccountZoneCompletionUnionProgress {
   zones: readonly ZoneCompletionZoneProgress[]

@@ -1,4 +1,4 @@
-import { requireEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
+import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 
 export type SpotifyCredentials = {
   readonly clientId: string

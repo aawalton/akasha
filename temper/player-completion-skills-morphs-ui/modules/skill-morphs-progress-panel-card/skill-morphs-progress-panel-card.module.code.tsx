@@ -1,3 +1,4 @@
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { skillLineCategoriesSorted } from "akasha/temper/character-skill-line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
@@ -22,7 +23,6 @@ import type {
   MorphableSkillDetail,
 } from "akasha/temper/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
 import { morphableSkillLineIds } from "akasha/temper/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
-import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 interface SkillMorphsProgressPanelCardProps {
   id?: CharacterCardId

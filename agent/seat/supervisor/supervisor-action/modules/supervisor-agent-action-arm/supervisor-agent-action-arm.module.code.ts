@@ -5,7 +5,7 @@ import type {
   DeferredRestartWindows,
 } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { readProcessStartMs } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
-import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
+import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 export interface IdleGateConfig {
   interruptMessage: string | null

@@ -1,3 +1,5 @@
+import { deleteRecordKey } from "akasha/code/type/narrowing/modules/delete-record-key/delete-record-key.module.code.ts"
+import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,
@@ -11,8 +13,6 @@ import {
 import type { DailyWritStates } from "akasha/temper/player-completion-state/modules/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
 import type { SparseMotifKnowledge } from "akasha/temper/player-completion-state/modules/completion-motif-knowledge/completion-motif-knowledge.module.code.ts"
 import { charactersToPrune } from "akasha/temper/player-completion-state/modules/completion-prune-characters/completion-prune-characters.module.code.ts"
-import { deleteRecordKey } from "akasha/util/narrow/modules/delete-record-key/delete-record-key.module.code.ts"
-import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 export interface SavedNavigation {
   selectedTab: string

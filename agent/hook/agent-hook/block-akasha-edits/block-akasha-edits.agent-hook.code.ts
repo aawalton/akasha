@@ -7,14 +7,11 @@ import {
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { shownIn } from "akasha/agent/hook/modules/path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "akasha/agent/hook/modules/settling/settling.module.code.ts"
+import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
+import { stringAt } from "akasha/code/type/narrowing/modules/string-at/string-at.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { gitIn } from "akasha/file/modules/git-place/git-place.module.code.ts"
-import {
-  INDEX_AT,
-  indexIn,
-} from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { asRecord } from "akasha/util/narrow/modules/as-record/as-record.module.code.ts"
-import { stringAt } from "akasha/util/narrow/modules/string-at/string-at.module.code.ts"
+import { INDEX_AT, indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 
 const HOOK_NAME = "block-akasha-edits"
 

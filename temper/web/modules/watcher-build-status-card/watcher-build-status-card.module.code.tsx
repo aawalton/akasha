@@ -1,5 +1,6 @@
 "use client"
 
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import {
   Card,
   CardContent,
@@ -8,7 +9,6 @@ import { Heading } from "akasha/design/interface/primitive/modules/heading/headi
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { ago } from "akasha/temper/web/modules/format-time-ago/format-time-ago.module.code.ts"
 import type { WatcherBuildSummary } from "akasha/temper/web/modules/watcher-build-status/watcher-build-status.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { AlertTriangle, CheckCircle2, CircleDashed, HelpCircle, Wrench } from "lucide-react"
 
 type Presentation = {

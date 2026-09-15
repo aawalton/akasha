@@ -8,7 +8,7 @@ import type {
   BusyChildDetail,
   IdleRuleSource,
 } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
-import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
+import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const INFLIGHT_FETCH_TIMEOUT_MS = 1_000
 

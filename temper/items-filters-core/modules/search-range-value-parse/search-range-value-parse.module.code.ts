@@ -1,5 +1,5 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type { FilterRangeValue } from "akasha/temper/items-filters-core/modules/search-filter-types/search-filter-types.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 function isComparisonOp(raw: unknown): raw is FilterRangeValue["op"] {
   return raw === "<=" || raw === "<" || raw === ">=" || raw === ">" || raw === "=" || raw === "!="

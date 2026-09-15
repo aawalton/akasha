@@ -1,5 +1,6 @@
 "use client"
 
+import { getSubcategory } from "akasha/code/type/narrowing/modules/get-subcategory/get-subcategory.module.code.ts"
 import {
   type FoodOrDrinkId,
   type FoodOrDrinkSource,
@@ -11,7 +12,6 @@ import {
   FilterableSelectDialog,
   type FilterableSelectDialogConfig,
 } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
-import { getSubcategory } from "akasha/util/narrow/modules/get-subcategory/get-subcategory.module.code.ts"
 import { useMemo } from "react"
 
 interface FoodDrinkSelectDialogProps {

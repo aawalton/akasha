@@ -1,5 +1,6 @@
 "use client"
 
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
@@ -23,7 +24,6 @@ import { CompanionSuggestionsPanelCard } from "akasha/temper/web/modules/compani
 import { CompanionSurplusPanelCard } from "akasha/temper/web/modules/companion-surplus-panel-card/companion-surplus-panel-card.module.code.tsx"
 import { useCompanion } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
 import { useCompanionStats } from "akasha/temper/web/modules/use-companion-stats/use-companion-stats.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { type ReactNode, useMemo, useState } from "react"
 
 interface CompanionStatsPanelProps {

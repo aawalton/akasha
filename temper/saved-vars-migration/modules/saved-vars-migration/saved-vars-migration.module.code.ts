@@ -1,10 +1,10 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import {
   appendGlobalToTarget,
   renameGlobals,
 } from "akasha/temper/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export type SavedVarsIo = {
   readonly savedVarsDir: string

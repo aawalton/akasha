@@ -16,13 +16,13 @@ import {
 } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"
 import { askingIn } from "akasha/alan/harness/plant/modules/plants-reading/plants-reading.module.code.ts"
 import { openedDayWindow } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { kebabisedRow } from "akasha/page/modules/akasha-page-values/akasha-page-values.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const DAY_PAGE_TYPE = "day"
 

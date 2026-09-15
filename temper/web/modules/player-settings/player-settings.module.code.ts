@@ -1,5 +1,6 @@
 "use client"
 
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type { InventoryLoggingSettings } from "akasha/temper/items-core/modules/inventory-logging-types/inventory-logging-types.module.code.ts"
 import {
   ALL_DESTRUCTIVE_ACTIONS,
@@ -7,7 +8,6 @@ import {
 } from "akasha/temper/items-core/modules/inventory-safety-types/inventory-safety-types.module.code.ts"
 import { useSettingsBlob } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import type { ShoppingSettings } from "akasha/temper/shopping/modules/shopping-settings/shopping-settings.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import { useCallback } from "react"
 
 function isInventoryLoggingSettings(v: unknown): v is InventoryLoggingSettings {

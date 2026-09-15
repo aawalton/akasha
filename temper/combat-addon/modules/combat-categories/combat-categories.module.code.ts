@@ -1,10 +1,10 @@
+import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 import type {
   BaseAbilityValues,
   BasicValues,
   DamageCategory,
 } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import { isDamageCategory } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
-import { parseNumber } from "akasha/util/narrow/modules/parse-number/parse-number.module.code.ts"
 
 const inf = math.huge
 

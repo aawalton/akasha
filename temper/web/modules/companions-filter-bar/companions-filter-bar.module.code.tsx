@@ -1,5 +1,6 @@
 "use client"
 
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
@@ -17,7 +18,6 @@ import type {
 } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { targetArmor } from "akasha/temper/character-source/modules/target-armors/target-armors.module.code.ts"
 import { companions } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
-import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 import { useEffect, useState } from "react"
 
 export type SortField = "updated" | "name" | "score"

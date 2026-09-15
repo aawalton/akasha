@@ -5,8 +5,8 @@ import {
   type SubagentNode,
   type SubagentReading,
 } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
+import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
 
 const AGENT_ID = "agentId"
 

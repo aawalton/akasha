@@ -1,5 +1,6 @@
 "use client"
 
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { LayoutLink } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import {
@@ -20,7 +21,6 @@ import {
   type GuildBankListState,
   resolveGuildBankListState,
 } from "akasha/temper/web/modules/guild-bank-list-state/guild-bank-list-state.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { AlertCircle, Package } from "lucide-react"
 import { useMemo } from "react"
 

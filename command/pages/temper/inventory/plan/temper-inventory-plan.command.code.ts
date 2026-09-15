@@ -1,5 +1,6 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { charactersPath as charactersPathArgument } from "akasha/command/argument/pages/characters-path.argument.ts"
 import { inventoryPath as inventoryPathArgument } from "akasha/command/argument/pages/inventory-path.argument.ts"
@@ -55,7 +56,6 @@ import type {
   PlanItem,
   VenueStop,
 } from "akasha/temper/items-rules-routing-core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const NAMED = [
   jsonArgument,

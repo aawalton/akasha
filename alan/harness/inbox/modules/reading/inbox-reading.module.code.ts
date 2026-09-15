@@ -8,11 +8,11 @@ import { keepReading } from "akasha/alan/harness/readout/modules/reading/readout
 import { statedAt } from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const READOUT = "readout"
 

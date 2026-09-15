@@ -1,4 +1,5 @@
 import { createHash, randomBytes, timingSafeEqual } from "node:crypto"
+import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { upperUuid } from "akasha/page/name-format/pages/upper-uuid/upper-uuid.name-format.code.ts"
 import type { Test } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
@@ -13,7 +14,6 @@ import {
   hasDeviceSecretShape,
 } from "akasha/person/modules/device-secret-shape/device-secret-shape.module.code.ts"
 import { personSlugForAccount } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
-import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
 
 export const DEVICE_SECRET_PAGE_TYPE = "device-secret"
 

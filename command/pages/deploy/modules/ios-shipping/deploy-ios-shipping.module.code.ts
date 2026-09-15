@@ -13,6 +13,7 @@ import {
   shellRepoRoot,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { runTestflightCut } from "akasha/alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
   answeredWith,
   DATA,
@@ -22,7 +23,6 @@ import {
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import { pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export const CONFIGURATION = "Release"
 

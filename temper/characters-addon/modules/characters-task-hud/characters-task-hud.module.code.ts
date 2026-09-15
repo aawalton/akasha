@@ -1,3 +1,4 @@
+import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import { TEXT_TERTIARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { getActiveQuests } from "akasha/temper/characters-addon/modules/characters-active-quests/characters-active-quests.module.code.ts"
 import { getCharactersConfig } from "akasha/temper/characters-addon/modules/characters-config/characters-config.module.code.ts"
@@ -50,7 +51,6 @@ import {
   getSavedVariables,
   type TaskData,
 } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
-import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 function backpackBufferSlots(): number {
   if (globalThis.TemperInventory?.isSavedVariablesReady() !== true) {

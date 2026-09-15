@@ -1,3 +1,4 @@
+import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import { ALLIANCE_WAR_SKILL_LINES } from "akasha/temper/character-skill-line/modules/alliance-war-skill-lines/alliance-war-skill-lines.module.code.ts"
 import { CLASS_SKILL_LINES } from "akasha/temper/character-skill-line/modules/class-skill-lines/class-skill-lines.module.code.ts"
 import { COMPANION_SKILL_LINES } from "akasha/temper/character-skill-line/modules/companion-skill-lines/companion-skill-lines.module.code.ts"
@@ -6,7 +7,6 @@ import type { SkillLineTemplate } from "akasha/temper/character-skill-line/modul
 import { VENGEANCE_SKILL_LINES } from "akasha/temper/character-skill-line/modules/vengeance-skill-lines/vengeance-skill-lines.module.code.ts"
 import { WEAPON_AND_ARMOR_SKILL_LINES } from "akasha/temper/character-skill-line/modules/weapon-and-armor-skill-lines/weapon-and-armor-skill-lines.module.code.ts"
 import { WORLD_AND_GUILD_SKILL_LINES } from "akasha/temper/character-skill-line/modules/world-and-guild-skill-lines/world-and-guild-skill-lines.module.code.ts"
-import { createDataFile } from "akasha/util/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 const SKILL_LINES_DATA = {
   "no-skill-line": {

@@ -5,7 +5,7 @@ export const type = {
   type: "page-type/domain",
   slug: "type",
   definition: "the shape a value must have",
-  parts: ["domain/type-import"],
+  parts: ["domain/type-import", "domain/type-narrowing"],
   decisions: [
     {
       decisionKind: "decision-kind/constraint",

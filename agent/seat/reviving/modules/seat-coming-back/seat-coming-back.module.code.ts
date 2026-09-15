@@ -14,11 +14,11 @@ import {
   inputError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { landedMechanically } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import { akashaHere } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { textIn } from "akasha/util/narrow/modules/text-in/text-in.module.code.ts"
 
 const HEAD = "HEAD"
 

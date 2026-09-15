@@ -1,3 +1,4 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type { PageRow } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import type { PagesSyncController } from "akasha/page/ui-store/collection/modules/sync-controller/sync-controller.module.code.ts"
 import { emitStoreDiagnostic } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
@@ -6,7 +7,6 @@ import {
   foldSnapshotEntries,
   type SnapshotEntry,
 } from "akasha/page/ui-store/realtime/modules/snapshot-fold/snapshot-fold.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 export const FILE_BACKING_POLL_MS = 30_000
 

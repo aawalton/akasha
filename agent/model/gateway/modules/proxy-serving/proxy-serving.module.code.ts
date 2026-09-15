@@ -61,8 +61,8 @@ import {
   buildShutdownFlushRegistry,
   type TransportLogAt,
 } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 import type { Server } from "bun"
 
 const DEFAULT_LOG_PREFIX = "[oauth-proxy]"

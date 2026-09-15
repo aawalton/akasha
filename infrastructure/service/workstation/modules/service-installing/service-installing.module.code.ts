@@ -10,6 +10,7 @@ import {
 } from "node:fs"
 import { join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { STAGING } from "akasha/infrastructure/service/workstation/modules/service-loading/service-loading.module.code.ts"
 import {
   installedUnitName,
@@ -24,7 +25,6 @@ import {
   timerUnitText,
 } from "akasha/infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
-import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const SYSTEMD = ".config/systemd/user"
 const A_FILE = "file"

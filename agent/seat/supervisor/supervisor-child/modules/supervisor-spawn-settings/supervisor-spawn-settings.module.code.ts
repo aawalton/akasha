@@ -6,8 +6,8 @@ import {
   isSettingsDocumentFault,
 } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
 import { harnessSettingsAt } from "akasha/agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"
+import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
 
 const LOG = "[spawn-settings]"
 

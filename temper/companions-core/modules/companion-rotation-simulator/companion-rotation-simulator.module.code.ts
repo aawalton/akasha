@@ -1,3 +1,4 @@
+import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
 import { activateLightAttack } from "akasha/temper/companions-core/modules/companion-light-attack/companion-light-attack.module.code.ts"
 import {
   type CompanionMetricValue,
@@ -27,7 +28,6 @@ import {
   ULTIMATE_GENERATION_RATE,
 } from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
-import { requireGet } from "akasha/util/narrow/modules/require-get/require-get.module.code.ts"
 
 export function simulateCompanionRotation(
   skillIds: readonly CompanionSkillId[],

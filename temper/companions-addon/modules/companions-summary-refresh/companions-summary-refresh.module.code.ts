@@ -14,6 +14,7 @@ import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import { GREEN } from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
 import {
   TEXT_PRIMARY,
@@ -49,7 +50,6 @@ import {
   summaryState,
 } from "akasha/temper/companions-addon/modules/companions-summary-panel/companions-summary-panel.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/companions-addon/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
-import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 const COLOR_GREEN = GREEN
 const COLOR_GOLD: [number, number, number] = [0.98, 0.86, 0.24]

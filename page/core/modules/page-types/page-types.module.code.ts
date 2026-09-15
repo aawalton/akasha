@@ -1,5 +1,5 @@
+import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 export type Page = {
   id: string

@@ -1,4 +1,4 @@
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 
 export const OWNERSHIP_MARKER_FILE = "build-id.lua"
 

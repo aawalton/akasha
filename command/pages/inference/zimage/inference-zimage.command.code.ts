@@ -2,6 +2,7 @@ import { createHash } from "node:crypto"
 import { copyFile, mkdir, rename, stat, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
   type TakenFor,
   takenFor,
@@ -45,7 +46,6 @@ import {
   MODELS,
   toModelId,
 } from "akasha/infrastructure/inference/generation/zimage/modules/models/zimage-models.module.code.ts"
-import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const DEFAULT_PORT = "8678"
 

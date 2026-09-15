@@ -7,7 +7,7 @@ import {
   InputError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { requireMatchPositional } from "akasha/util/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
+import { requireMatchPositional } from "akasha/code/type/narrowing/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 
 const DRIVE_ID_RE = /^[A-Za-z0-9_-]{10,}$/

@@ -12,6 +12,7 @@ import type {
 } from "akasha/check/modules/judging/judging.module.code.ts"
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { sortedOnce } from "akasha/code/type/narrowing/modules/sorted-once/sorted-once.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { ENTRY_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
@@ -29,7 +30,6 @@ import {
   textsAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { isMissing } from "akasha/util/fs/modules/missing/missing.module.code.ts"
-import { sortedOnce } from "akasha/util/narrow/modules/sorted-once/sorted-once.module.code.ts"
 
 export type Body = {
   readonly root: string

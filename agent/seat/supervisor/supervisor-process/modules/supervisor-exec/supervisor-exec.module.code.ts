@@ -10,7 +10,7 @@ import {
   collapse,
   folds,
   refuses,
-} from "akasha/util/narrow/modules/collapse/collapse.module.code.ts"
+} from "akasha/code/type/narrowing/modules/collapse/collapse.module.code.ts"
 
 if (process.platform !== "linux") {
   throw new Error(`supervisor-exec only supports Linux (got ${process.platform}).`)

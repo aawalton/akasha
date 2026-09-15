@@ -1,10 +1,10 @@
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import {
   TEXT_PRIMARY,
   TEXT_SECONDARY,
 } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { createPlaceholderPanel } from "akasha/temper/characters-addon/modules/characters-placeholder-panel/characters-placeholder-panel.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
-import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 export interface TabControl extends Control {
   label: LabelControl

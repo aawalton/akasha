@@ -1,3 +1,5 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import type { ArmorItem } from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import { getInfusedArmorBonus } from "akasha/temper/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import { isLargeArmorEnchantSlot } from "akasha/temper/equipment-kind/modules/armor-types/armor-types.module.code.ts"
@@ -8,8 +10,6 @@ import {
 } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { MetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import { updateEffectValue } from "akasha/temper/formula-framework/modules/effect-value-update/effect-value-update.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
-import { createDataFile } from "akasha/util/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 const TEMPER_ARMOR_ENCHANTS_BY_ID = {
   "no-enchant": {

@@ -1,3 +1,4 @@
+import { sortedOnce } from "akasha/code/type/narrowing/modules/sorted-once/sorted-once.module.code.ts"
 import { companionBaseRoles } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { evaluate } from "akasha/temper/companions-core/modules/companion-optimizer/companion-optimizer.module.code.ts"
 import { calculateCompanionStats } from "akasha/temper/companions-core/modules/companion-stats-calculator/companion-stats-calculator.module.code.ts"
@@ -7,7 +8,6 @@ import {
   type CompanionId,
   companions,
 } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
-import { sortedOnce } from "akasha/util/narrow/modules/sorted-once/sorted-once.module.code.ts"
 
 export interface DecodedBuild {
   id: string

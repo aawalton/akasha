@@ -4,8 +4,8 @@ import {
   keepReading,
   readoutPage,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export const READOUT_SLUG = "monarch-unreviewed-transactions"
 

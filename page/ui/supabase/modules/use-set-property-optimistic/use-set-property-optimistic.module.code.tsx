@@ -1,12 +1,12 @@
 "use client"
 
+import { isJson } from "akasha/code/type/narrowing/modules/is-json/is-json.module.code.ts"
 import {
   type PatchPageArgs,
   patchPage,
 } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import type { InteractionToken } from "akasha/page/ui/modules/page-card-perf/page-card-perf.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
-import { isJson } from "akasha/util/narrow/modules/is-json/is-json.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 interface SetPropertyArgs {

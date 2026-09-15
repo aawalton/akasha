@@ -1,10 +1,10 @@
+import { escapeRegExp } from "akasha/code/type/narrowing/modules/escape-reg-exp/escape-reg-exp.module.code.ts"
 import { maskStringLiterals } from "akasha/temper/build-deploy-check/modules/addon-banned-symbols/addon-banned-symbols.module.code.ts"
 import {
   REMOVED_EXTERNAL_ADDON_GLOBALS,
   type RemovedAddonGlobal,
 } from "akasha/temper/build-deploy-check/modules/addon-removed-refs-manifest/addon-removed-refs-manifest.module.code.ts"
 import { scanningBundleFile } from "akasha/temper/build-deploy-check/modules/bundle-file-scan/bundle-file-scan.module.code.ts"
-import { escapeRegExp } from "akasha/util/narrow/modules/escape-reg-exp/escape-reg-exp.module.code.ts"
 import { z } from "zod"
 
 export interface RemovedRefIssue {

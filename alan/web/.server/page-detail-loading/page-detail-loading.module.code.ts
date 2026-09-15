@@ -9,6 +9,7 @@ import {
 import { resolveReaderNeighbors } from "akasha/alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"
 import { resolveMediaVariants } from "akasha/alan/web/modules/media-variants/media-variants.module.code.ts"
 import { resolveNextUnreadHref } from "akasha/alan/web/modules/next-unread/next-unread.module.code.ts"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import {
   getPage,
   getPageByIdSuffix,
@@ -27,7 +28,6 @@ import {
   parsePageHrefParam,
 } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import { data, type LoaderFunctionArgs } from "react-router"
 import { z } from "zod"
 

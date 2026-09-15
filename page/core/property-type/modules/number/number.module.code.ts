@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type {
   FilterConfig,
@@ -10,7 +11,6 @@ import {
   type NumberFormat,
   numberConfigSchema,
 } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export function toNumber(value: PropertyValue): number | null {
   if (value === null || value === undefined || value === "") return null

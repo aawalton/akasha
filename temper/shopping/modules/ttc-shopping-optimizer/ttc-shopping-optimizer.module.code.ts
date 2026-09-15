@@ -1,3 +1,4 @@
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import { computeItemBudget } from "akasha/temper/shopping/modules/ttc-budget-strategy/ttc-budget-strategy.module.code.ts"
 import type {
   ItemBudget,
@@ -13,7 +14,6 @@ import {
   type TTCListingEntry,
   type TTCListingSearchParams,
 } from "akasha/temper/trading-pricing/modules/ttc-listing-types/ttc-listing-types.module.code.ts"
-import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 interface ShoppingOptimizerOptions {
   ago?: (typeof TTC_AGO)[keyof typeof TTC_AGO]

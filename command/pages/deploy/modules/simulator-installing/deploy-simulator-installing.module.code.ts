@@ -6,6 +6,7 @@ import {
 } from "akasha/code/ios-app/modules/app-building/app-building.module.code.ts"
 import { quoted } from "akasha/code/shell/modules/quoting/quoting.module.code.ts"
 import { ran as spawned } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
   answeredWith,
   answering,
@@ -17,7 +18,6 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 import { z } from "zod"
 
 const HOST_ENV = "AKASHA_MAC_HOST"

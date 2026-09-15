@@ -1,3 +1,4 @@
+import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import {
   readFiles,
   readPages,
@@ -27,7 +28,6 @@ import {
   refreshedFor,
   type TaskFacts,
 } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
-import { asRecord } from "akasha/util/narrow/modules/as-record/as-record.module.code.ts"
 
 const CHARACTER_TYPE = "temper-account-character"
 

@@ -6,10 +6,10 @@ import {
   type Counted,
   dayPageAt,
 } from "akasha/alan/track/daily/modules/day-messages/day-messages.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { personasStanding } from "akasha/persona/modules/reading/persona-reading.module.code.ts"
-import { firstCapture } from "akasha/util/narrow/modules/first-capture/first-capture.module.code.ts"
-import { textIn } from "akasha/util/narrow/modules/text-in/text-in.module.code.ts"
 
 const PROJECTS = "projects"
 

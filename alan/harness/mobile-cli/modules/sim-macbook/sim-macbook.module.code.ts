@@ -7,7 +7,7 @@ import { SCRIPT_HEADER } from "akasha/alan/harness/mobile-cli/modules/foundation
 import { MACBOOK } from "akasha/alan/harness/mobile-cli/modules/macbook-target/macbook-target.module.code.ts"
 import { runSshCapture } from "akasha/alan/harness/mobile-cli/modules/mobile-ssh/mobile-ssh.module.code.ts"
 import { quoted } from "akasha/code/shell/modules/quoting/quoting.module.code.ts"
-import { requireMatchPositional } from "akasha/util/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
+import { requireMatchPositional } from "akasha/code/type/narrowing/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 
 const APPIUM_START_ATTEMPTS = 40

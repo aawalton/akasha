@@ -1,3 +1,5 @@
+import { bitsNeeded } from "akasha/code/type/narrowing/modules/bits-needed/bits-needed.module.code.ts"
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import { poisons } from "akasha/temper/alchemy/modules/poison-source/poison-source.module.code.ts"
 import { potions } from "akasha/temper/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { championPoints } from "akasha/temper/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
@@ -30,8 +32,6 @@ import { affixScripts } from "akasha/temper/skill-kind/modules/scribing-affix-sc
 import { focusScripts } from "akasha/temper/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import { signatureScripts } from "akasha/temper/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import { skillSlots } from "akasha/temper/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
-import { bitsNeeded } from "akasha/util/narrow/modules/bits-needed/bits-needed.module.code.ts"
-import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 const classIds = classes.ids
 const raceIds = races.ids

@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import {
   ESO_ITEMTYPE_CRAFTED_ABILITY_SCRIPT,
   ESO_ITEMTYPE_RECIPE,
@@ -18,7 +19,6 @@ import {
   type ItemKey,
   type UseDestinationContext,
 } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export function inventoryItemUseKey(
   item: InventoryItemData,

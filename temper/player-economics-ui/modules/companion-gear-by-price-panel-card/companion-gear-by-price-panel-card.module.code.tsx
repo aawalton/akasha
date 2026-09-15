@@ -1,5 +1,6 @@
 "use client"
 
+import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
 import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-row.module.code.tsx"
@@ -18,7 +19,6 @@ import {
 import type { ShoppingList } from "akasha/temper/player-economics-ui/modules/use-shopping-list/use-shopping-list.module.code.ts"
 import { needToShoppingKey } from "akasha/temper/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import type { PricingData } from "akasha/temper/trading-pricing/modules/pricing-types/pricing-types.module.code.ts"
-import { requireGet } from "akasha/util/narrow/modules/require-get/require-get.module.code.ts"
 import { useMemo, useState } from "react"
 
 interface PriceBucket {

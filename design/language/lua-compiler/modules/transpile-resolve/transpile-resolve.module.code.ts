@@ -1,5 +1,6 @@
 import * as fs from "node:fs"
 import * as path from "node:path"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type { CompilerOptions } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import {
   couldNotReadDependency,
@@ -34,7 +35,6 @@ import {
   replaceRequireInSourceMap,
 } from "akasha/design/language/lua-compiler/modules/transpile-resolve-require-replacement/transpile-resolve-require-replacement.module.code.ts"
 import { normalizeSlashes } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import * as resolve from "enhanced-resolve"
 import picomatch from "picomatch"
 import * as ts from "typescript"

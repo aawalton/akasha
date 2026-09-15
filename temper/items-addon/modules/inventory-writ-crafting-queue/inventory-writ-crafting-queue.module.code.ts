@@ -1,6 +1,6 @@
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/items-addon/modules/inventory-constants/inventory-constants.module.code.ts"
 import { getActionReportLevel } from "akasha/temper/items-addon/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
-import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 export interface WritCraftRequest {
   craftType: number
   questIndex: number

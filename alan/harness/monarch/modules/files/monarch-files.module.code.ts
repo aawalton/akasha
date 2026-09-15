@@ -1,5 +1,6 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
+import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import {
   slugsOfType,
   valuesOfType,
@@ -10,7 +11,6 @@ import {
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
 
 const roots = resolveRoots()
 

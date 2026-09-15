@@ -2,7 +2,7 @@ import {
   decideRemoteControl,
   type RemoteControlQuestion,
 } from "akasha/agent/seat/supervisor/supervisor-remote-control/modules/decide/supervisor-remote-control-decide.module.code.ts"
-import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
+import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const UNCLAIMED_SEAT = "unclaimed"
 

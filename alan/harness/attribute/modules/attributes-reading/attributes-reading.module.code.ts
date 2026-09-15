@@ -21,13 +21,13 @@ import {
 } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
 import { sessionsOfDay } from "akasha/alan/track/daily/modules/day-stretches/day-stretches.module.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const READOUTS = "alan/attribute/readout"
 

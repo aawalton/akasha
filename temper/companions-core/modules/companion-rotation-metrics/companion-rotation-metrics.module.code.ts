@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { targetArmor } from "akasha/temper/character-source/modules/target-armors/target-armors.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
@@ -10,7 +11,6 @@ import type { CompanionState } from "akasha/temper/companions-core/modules/compa
 import type { CompanionValueFormula } from "akasha/temper/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
 import type { RotationResult } from "akasha/temper/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export interface RotationMetricEntry {
   metricId: CompanionMetricId

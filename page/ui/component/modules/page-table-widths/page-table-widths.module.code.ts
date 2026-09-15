@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { formatTime12h } from "akasha/design/interface/form/modules/format-time/format-time.module.code.ts"
 import { formatRelativeTime } from "akasha/design/interface/primitive/modules/format-relative-time/format-relative-time.module.code.ts"
 import type {
@@ -27,7 +28,6 @@ import {
   TITLE_COLUMN_ID,
 } from "akasha/page/ui/component/modules/page-table-shared/page-table-shared.module.code.ts"
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const TIME_REGEX = /^([01]\d|2[0-3]):[0-5]\d$/
 

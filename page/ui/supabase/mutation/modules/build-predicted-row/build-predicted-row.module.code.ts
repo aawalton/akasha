@@ -1,6 +1,6 @@
+import { stringAt } from "akasha/code/type/narrowing/modules/string-at/string-at.module.code.ts"
 import { PROMOTED_COLUMN_KEYS } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import type { PageRow } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
-import { stringAt } from "akasha/util/narrow/modules/string-at/string-at.module.code.ts"
 
 export function buildPredictedRow(
   id: string,

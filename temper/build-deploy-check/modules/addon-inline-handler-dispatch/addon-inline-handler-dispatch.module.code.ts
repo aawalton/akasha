@@ -1,8 +1,8 @@
+import { escapeRegExp } from "akasha/code/type/narrowing/modules/escape-reg-exp/escape-reg-exp.module.code.ts"
 import {
   parseInlineHandlers,
   snippetOf,
 } from "akasha/temper/build-deploy-check/modules/addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts"
-import { escapeRegExp } from "akasha/util/narrow/modules/escape-reg-exp/escape-reg-exp.module.code.ts"
 
 export interface DispatchFinding {
   readonly xmlPath: string

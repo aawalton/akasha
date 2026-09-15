@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import {
   getMetricDisplayName,
   metrics,
@@ -11,7 +12,6 @@ import {
   type MetricEffect,
 } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import { formatPercent } from "akasha/temper/formula-framework/modules/number-format/number-format.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function resolveMetricName(metricId: string): string {
   return metrics.has(metricId) ? getMetricDisplayName(metricId) : metricId

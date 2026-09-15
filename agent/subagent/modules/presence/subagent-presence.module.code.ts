@@ -34,6 +34,8 @@ import {
   type Landing,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
+import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import {
@@ -47,8 +49,6 @@ import {
   uncommittedIn,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { asNumber } from "akasha/util/narrow/modules/as-number/as-number.module.code.ts"
-import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
 
 export const WRITING = "write"
 

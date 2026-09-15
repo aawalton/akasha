@@ -6,8 +6,8 @@ import {
 } from "akasha/agent/seat/page/modules/history/seat-page-history.module.code.ts"
 import { pageValuesOf } from "akasha/agent/seat/page/modules/values/seat-page-values.module.code.ts"
 import { sessionOf } from "akasha/agent/seat/session/seat-session.module.code.ts"
+import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
 
 const TITLE = "title"
 

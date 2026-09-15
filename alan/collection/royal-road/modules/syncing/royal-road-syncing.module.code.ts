@@ -13,6 +13,8 @@ import {
   type Asking,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { shortenedToWords } from "akasha/code/type/narrowing/modules/shortened-to-words/shortened-to-words.module.code.ts"
+import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -23,8 +25,6 @@ import {
   type Row,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import { shortenedToWords } from "akasha/util/narrow/modules/shortened-to-words/shortened-to-words.module.code.ts"
-import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
 
 const ROOT = akashaRoot()
 const STORY_PAGE_TYPE = "story-read"

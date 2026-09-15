@@ -17,6 +17,7 @@ import {
   relayReading,
   statedIn,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { leftWhereCodeMoved } from "akasha/infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"
 import {
   dirsOf,
@@ -29,7 +30,6 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export const SETTLE_MS = 250
 

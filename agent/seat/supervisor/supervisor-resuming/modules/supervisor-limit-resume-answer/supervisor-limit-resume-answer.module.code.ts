@@ -1,6 +1,6 @@
 import { SUPERVISOR_DECIDE_COMMAND } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
-import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
-import type { Infer } from "akasha/util/narrow/modules/shape-core/shape-core.module.code.ts"
+import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import type { Infer } from "akasha/code/type/narrowing/modules/shape-core/shape-core.module.code.ts"
 
 const LIMIT_RESUME_DECISION = "limitResume"
 

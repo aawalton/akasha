@@ -1,9 +1,9 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type {
   CharacterId,
   ItemKey,
   UseDestinationContext,
 } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export function hashItemKey(itemKey: ItemKey): string {
   switch (itemKey.kind) {

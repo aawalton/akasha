@@ -1,4 +1,5 @@
 import * as path from "node:path"
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import { parseConfigFileWithSystem } from "akasha/design/language/lua-compiler/modules/cli-tsconfig/cli-tsconfig.module.code.ts"
 import { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
@@ -22,7 +23,6 @@ import {
 import type { EmitHost } from "akasha/design/language/lua-compiler/modules/transpile-emit-host/transpile-emit-host.module.code.ts"
 import type { Plugin } from "akasha/design/language/lua-compiler/modules/transpile-plugins/transpile-plugins.module.code.ts"
 import { cast } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
-import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 import * as ts from "typescript"
 
 function isExportTable(node: luaCore.Node): node is luaExpressions.Identifier {

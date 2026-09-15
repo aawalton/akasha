@@ -1,7 +1,7 @@
 import { describe, expect, mock, test } from "bun:test"
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
-import { firstCapture } from "akasha/util/narrow/modules/first-capture/first-capture.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 
 const HERE = import.meta.dir
 

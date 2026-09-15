@@ -1,3 +1,4 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPageById } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { logError } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
@@ -8,7 +9,6 @@ import {
   type SyncOperation,
 } from "akasha/temper/watcher/modules/watcher-run-outcome/watcher-run-outcome.module.code.ts"
 import { WATCHER_VERSION } from "akasha/temper/watcher/modules/watcher-version/watcher-version.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 export const ENROLMENT_PAGE_TYPE_SLUG = "temper-watcher-enrolment"
 

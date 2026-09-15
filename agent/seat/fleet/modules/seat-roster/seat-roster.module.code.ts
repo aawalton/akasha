@@ -4,12 +4,12 @@ import type { SeatPresence } from "akasha/agent/seat/observation/modules/seat-pr
 import { akashaSeatsInHistory } from "akasha/agent/seat/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"
 import { akashaSeatsStated } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 import { sessionOf } from "akasha/agent/seat/session/seat-session.module.code.ts"
+import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
 
 const SESSION_KEY = "claude-code-session-uuid"
 

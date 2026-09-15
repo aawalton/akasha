@@ -1,3 +1,4 @@
+import { upFrom } from "akasha/code/type/narrowing/modules/up-from/up-from.module.code.ts"
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import {
   listedAt,
@@ -10,7 +11,6 @@ import {
   slugsIn,
   textAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { upFrom } from "akasha/util/narrow/modules/up-from/up-from.module.code.ts"
 
 const SCRIPT = "shell-script"
 

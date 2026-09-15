@@ -14,8 +14,8 @@ import {
   shellRepoRoot,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { buildTestflightDeployScript } from "akasha/alan/harness/mobile-cli/modules/testflight-deploy-script/testflight-deploy-script.module.code.ts"
+import { requireMatchPositional } from "akasha/code/type/narrowing/modules/require-match-positional/require-match-positional.module.code.ts"
 import { listedAt, readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { requireMatchPositional } from "akasha/util/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 
 const APP = resolveApp("alanwalton")

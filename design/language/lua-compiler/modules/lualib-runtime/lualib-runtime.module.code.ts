@@ -1,3 +1,4 @@
+import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
 import type { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
@@ -9,7 +10,6 @@ import {
   resolveRecursiveLualibFeatures,
 } from "akasha/design/language/lua-compiler/modules/lualib-features/lualib-features.module.code.ts"
 import type { EmitHost } from "akasha/design/language/lua-compiler/modules/transpile-emit-host/transpile-emit-host.module.code.ts"
-import { requireGet } from "akasha/util/narrow/modules/require-get/require-get.module.code.ts"
 import { z } from "zod"
 
 const LUALIB_LOCAL_MATCH_SCHEMA = z.tuple([z.string(), z.string(), z.string()]).rest(z.unknown())

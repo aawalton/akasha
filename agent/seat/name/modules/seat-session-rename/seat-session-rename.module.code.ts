@@ -1,5 +1,5 @@
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 
 const PATIENCE_MS = 5_000
 

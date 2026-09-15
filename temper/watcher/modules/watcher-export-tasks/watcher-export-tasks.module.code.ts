@@ -1,3 +1,4 @@
+import { stringAt } from "akasha/code/type/narrowing/modules/string-at/string-at.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
 import { patchPageById } from "akasha/page/access/modules/patch/patch.module.code.ts"
@@ -23,7 +24,6 @@ import {
   type SignedInReader,
   userIdFor,
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import { stringAt } from "akasha/util/narrow/modules/string-at/string-at.module.code.ts"
 
 export const TASK_PAGE_TYPE_SLUG = "temper-task"
 

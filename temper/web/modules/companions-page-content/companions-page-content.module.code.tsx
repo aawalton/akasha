@@ -1,5 +1,6 @@
 "use client"
 
+import { isSortDirection } from "akasha/code/type/narrowing/modules/is-sort-direction/is-sort-direction.module.code.ts"
 import { ListContentSkeleton } from "akasha/design/interface/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import {
   PageLayout,
@@ -33,7 +34,6 @@ import {
   isValidTargetHealth,
 } from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
 import { NewCompanionButton } from "akasha/temper/web/modules/new-companion-button/new-companion-button.module.code.tsx"
-import { isSortDirection } from "akasha/util/narrow/modules/is-sort-direction/is-sort-direction.module.code.ts"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"
 

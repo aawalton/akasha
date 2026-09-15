@@ -1,10 +1,10 @@
+import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
 import type { CompilerOptions } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import * as luaCore from "akasha/design/language/lua-compiler/modules/lua-ast-core/lua-ast-core.module.code.ts"
 import type * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import type * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import { shouldAllowUnicode } from "akasha/design/language/lua-compiler/modules/safe-names/safe-names.module.code.ts"
 import type { EmitHost } from "akasha/design/language/lua-compiler/modules/transpile-emit-host/transpile-emit-host.module.code.ts"
-import { requireGet } from "akasha/util/narrow/modules/require-get/require-get.module.code.ts"
 import type { SourceNode } from "source-map"
 import type * as ts from "typescript"
 

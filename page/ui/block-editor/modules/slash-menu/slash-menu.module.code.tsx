@@ -1,5 +1,6 @@
 "use client"
 
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import {
   Command,
   CommandEmpty,
@@ -16,7 +17,6 @@ import type {
   HeadingLevel,
   V1BlockType,
 } from "akasha/page/core/property-type/modules/rich-document-ops/rich-document-ops.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import {
   CheckSquare,
   ChevronRight,

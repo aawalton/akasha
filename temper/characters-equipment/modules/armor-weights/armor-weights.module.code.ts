@@ -1,3 +1,8 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import {
+  createDataFile,
+  type DataFile,
+} from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import {
   calculateNirnhonedValue,
   calculateReinforcedValue,
@@ -20,11 +25,6 @@ import {
   resolveQuality,
 } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { MetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
-import {
-  createDataFile,
-  type DataFile,
-} from "akasha/util/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 const TEMPER_ARMOR_WEIGHTS_BY_ID = {
   "heavy": {

@@ -1,3 +1,4 @@
+import { saidBy as messageOf } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { addonsDir as addonsDirArgument } from "akasha/command/argument/pages/addons-dir.argument.ts"
 import { codeRoot } from "akasha/command/argument/pages/code-root.argument.ts"
@@ -19,7 +20,6 @@ import {
 import { fetchCatalog } from "akasha/temper/community-addon/modules/esoui-catalog/esoui-catalog.module.code.ts"
 import { readInstalledAddons } from "akasha/temper/community-addon/modules/installed-addons/installed-addons.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { saidBy as messageOf } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const NAMED = [json, codeRoot, addonsDirArgument, outdated]
 

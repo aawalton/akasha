@@ -1,5 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
+import { saidBy as messageOf } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { all as allArgument } from "akasha/command/argument/pages/all.argument.ts"
 import { domain as domainArgument } from "akasha/command/argument/pages/domain.argument.ts"
@@ -22,7 +23,6 @@ import {
   parseSideFile,
   serializeSideFile,
 } from "akasha/temper/catalog-side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"
-import { saidBy as messageOf } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const NAMED = [json, sideFileArgument, allArgument, domainArgument]
 

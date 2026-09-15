@@ -1,4 +1,5 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { saidBy as messageOf } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { addonsDir as addonsDirArgument } from "akasha/command/argument/pages/addons-dir.argument.ts"
 import { codeRoot } from "akasha/command/argument/pages/code-root.argument.ts"
@@ -17,7 +18,6 @@ import { temperCommunityAddonInstall as page } from "akasha/command/pages/temper
 import { listDeployables } from "akasha/temper/addons-resolve/modules/deployable-addons/deployable-addons.module.code.ts"
 import { installNamedAddon } from "akasha/temper/community-addon/modules/install-named-addon/install-named-addon.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { saidBy as messageOf } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const NAMED = [json, codeRoot, addonsDirArgument, force, communityAddon]
 

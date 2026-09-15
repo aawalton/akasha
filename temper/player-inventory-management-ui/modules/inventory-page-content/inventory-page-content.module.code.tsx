@@ -1,5 +1,6 @@
 "use client"
 
+import { isSortDirection } from "akasha/code/type/narrowing/modules/is-sort-direction/is-sort-direction.module.code.ts"
 import { ListContentSkeleton } from "akasha/design/interface/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import {
   PageLayout,
@@ -37,7 +38,6 @@ import {
 import { InventoryLocationDataContent } from "akasha/temper/player-inventory-management-ui/modules/inventory-location-data-content/inventory-location-data-content.module.code.tsx"
 import { InventoryRulesTab } from "akasha/temper/player-inventory-management-ui/modules/inventory-rules-tab/inventory-rules-tab.module.code.tsx"
 import { InventoryTypeDataContent } from "akasha/temper/player-inventory-management-ui/modules/inventory-type-data-content/inventory-type-data-content.module.code.tsx"
-import { isSortDirection } from "akasha/util/narrow/modules/is-sort-direction/is-sort-direction.module.code.ts"
 import { LayoutList, MapPin, Scale } from "lucide-react"
 import { Suspense } from "react"
 

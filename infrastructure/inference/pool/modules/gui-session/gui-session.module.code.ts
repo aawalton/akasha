@@ -1,4 +1,4 @@
-import { requireMatchPositional } from "akasha/util/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
+import { requireMatchPositional } from "akasha/code/type/narrowing/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 
 const EXIT_CODE_CAPTURE = z.tuple([z.coerce.number().int()])

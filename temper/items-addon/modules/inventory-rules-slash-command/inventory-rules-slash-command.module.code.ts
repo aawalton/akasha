@@ -1,3 +1,4 @@
+import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import {
   PLAYER_ARMOR_ESO_TO_TRAIT,
   PLAYER_JEWELRY_ESO_TO_TRAIT,
@@ -34,7 +35,6 @@ import {
   evaluateRule,
   walkRules,
 } from "akasha/temper/items-rules-eval/modules/evaluator/evaluator.module.code.ts"
-import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 const PREFIX = "[TemperRules]"
 

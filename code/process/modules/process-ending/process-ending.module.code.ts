@@ -6,7 +6,7 @@ import {
   collapse,
   folds,
   refuses,
-} from "akasha/util/narrow/modules/collapse/collapse.module.code.ts"
+} from "akasha/code/type/narrowing/modules/collapse/collapse.module.code.ts"
 
 export type Sign = "SIGTERM" | "SIGKILL"
 

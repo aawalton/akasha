@@ -5,7 +5,7 @@ import {
   ASC_ISSUER_ID,
   ASC_KEY_ID,
 } from "akasha/alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"
-import { base64Url } from "akasha/util/narrow/modules/base64-url/base64-url.module.code.ts"
+import { base64Url } from "akasha/code/type/narrowing/modules/base64-url/base64-url.module.code.ts"
 import { z } from "zod"
 
 const ASC_KEY_LOCAL_PATH = `${homedir()}/.appstoreconnect/private_keys/AuthKey_${ASC_KEY_ID}.p8`

@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import type {
@@ -18,7 +19,6 @@ import { isArrayType } from "akasha/design/language/lua-compiler/modules/typescr
 import { transformFunctionLikeDeclaration } from "akasha/design/language/lua-compiler/modules/visit-function/visit-function.module.code.ts"
 import { transformIdentifierWithSymbol } from "akasha/design/language/lua-compiler/modules/visit-identifier/visit-identifier.module.code.ts"
 import { transformPropertyName } from "akasha/design/language/lua-compiler/modules/visit-property-name/visit-property-name.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
 export function createShorthandIdentifier(

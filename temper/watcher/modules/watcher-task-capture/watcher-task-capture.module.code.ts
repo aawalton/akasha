@@ -1,7 +1,7 @@
+import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import type { CharacterMark } from "akasha/temper/watcher/modules/watcher-task-rolling/watcher-task-rolling.module.code.ts"
-import { asRecord } from "akasha/util/narrow/modules/as-record/as-record.module.code.ts"
 
 const TASKS_GLOBAL_NAME = "TemperCharacters_SavedVariables"
 

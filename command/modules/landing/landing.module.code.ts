@@ -7,6 +7,7 @@ import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type { Judged, Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import { textIn, textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { DATA, INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   sweptOff,
@@ -25,7 +26,6 @@ import {
   type Drafting,
   draftedBy,
 } from "akasha/command/modules/draft-keeping/draft-keeping.module.code.ts"
-
 import {
   clearedUnder,
   isFolder,
@@ -79,7 +79,6 @@ import { said as gitIn } from "akasha/git/modules/running/git-running.module.cod
 import { valueByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export type Landed = Finished & {
   readonly base: string

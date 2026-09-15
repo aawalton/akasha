@@ -1,3 +1,5 @@
+import { isJson } from "akasha/code/type/narrowing/modules/is-json/is-json.module.code.ts"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import {
   defaultViewData,
   type ViewDataJSON,
@@ -15,8 +17,6 @@ import type {
   ViewRow,
 } from "akasha/page/core/view-state/modules/view-state-change/view-state-change.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
-import { isJson } from "akasha/util/narrow/modules/is-json/is-json.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 const NAV = "nav"
 

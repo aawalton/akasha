@@ -10,6 +10,7 @@ import {
   type Asking,
   landedMechanically,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
@@ -31,7 +32,6 @@ import {
   uncommittedIn,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const PUT = "change-mechanical-file/add-file"
 

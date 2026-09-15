@@ -1,5 +1,6 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import { wholeNumberIn } from "akasha/code/type/narrowing/modules/whole-number-in/whole-number-in.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { char as charArgument } from "akasha/command/argument/pages/char.argument.ts"
 import { charactersPath as charactersPathArgument } from "akasha/command/argument/pages/characters-path.argument.ts"
@@ -44,7 +45,6 @@ import {
   type RuleTraceRow,
   type TtcBreakdown,
 } from "akasha/temper/modules/explain-walk/explain-walk.module.code.ts"
-import { wholeNumberIn } from "akasha/util/narrow/modules/whole-number-in/whole-number-in.module.code.ts"
 
 const NAMED = [
   jsonArgument,

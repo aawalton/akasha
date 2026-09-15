@@ -3,7 +3,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 export const isObjectRecordAndIsRecordDifferOnlyOnArrays = {
   id: "01a05cb7-586b-7001-9b6e-14779448c85b",
   type: "page-type/finding",
-  domain: "domain/util-narrow",
+  domain: "domain/type-narrowing",
   slug: "is-object-record-and-is-record-differ-only-on-arrays",
   claim:
     "utils-narrow carries isObjectRecord and isRecord whose bodies differ only by excluding arrays. A private isRecord in web-app-building was the same rule as isObjectRecord rather than as the module sharing its name, so merging by name would have quietly made build-env parsing stricter. Anyone collapsing the two modules as duplicates changes that caller without seeing it.",

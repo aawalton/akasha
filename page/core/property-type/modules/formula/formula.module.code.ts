@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { BOOLEAN_OPS } from "akasha/page/core/property-type/modules/boolean/boolean.module.code.ts"
 import { DATE_OPS } from "akasha/page/core/property-type/modules/date/date.module.code.ts"
@@ -13,7 +14,6 @@ import type {
   PropertyValue,
 } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import { formulaConfigSchema } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export const FORMULA_OPS: PropertyTypeOps = {
   validate() {

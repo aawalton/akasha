@@ -1,4 +1,5 @@
 import * as path from "node:path"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import * as cliDiagnostics from "akasha/design/language/lua-compiler/modules/cli-diagnostics/cli-diagnostics.module.code.ts"
 import type { CompilerOptions } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import type { Visitors } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
@@ -10,7 +11,6 @@ import type {
   ProcessedFile,
 } from "akasha/design/language/lua-compiler/modules/transpile-emit-file/transpile-emit-file.module.code.ts"
 import type { EmitHost } from "akasha/design/language/lua-compiler/modules/transpile-emit-host/transpile-emit-host.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import * as resolve from "resolve"
 import type * as ts from "typescript"
 

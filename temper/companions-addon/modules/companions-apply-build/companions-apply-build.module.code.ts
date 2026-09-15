@@ -8,6 +8,7 @@ import "akasha/temper/eso-type/eso-functions-07/eso-functions-07.type-declaratio
 import "akasha/temper/eso-type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import {
   ARMOR_SLOTS,
   type CompanionBuildData,
@@ -35,7 +36,6 @@ import type {
   SlotUpgrade,
   UpgradeScanResult,
 } from "akasha/temper/companions-addon/modules/companions-scan-upgrades/companions-scan-upgrades.module.code.ts"
-import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 let APPLY_GENERATION = 0
 

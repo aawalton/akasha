@@ -2,11 +2,11 @@ import type {
   StreamClock,
   StreamObserver,
 } from "akasha/agent/model/gateway/modules/retry/retry.module.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
   type Queue,
   queueAt,
 } from "akasha/page/modules/entry-queue/page-entry-queue.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 import { z } from "zod"
 
 const TRANSPORT_PROPERTY_SLUG = "transport"

@@ -1,3 +1,4 @@
+import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 import {
   LOG_LEVEL_DEBUG,
   log,
@@ -32,7 +33,6 @@ import {
   getUiSelectionData,
   type UpdatableControl,
 } from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
-import { parseNumber } from "akasha/util/narrow/modules/parse-number/parse-number.module.code.ts"
 
 export const POWER_TYPE_LABELS: Record<number, string> = {
   [COMBAT_MECHANIC_FLAGS_MAGICKA]: "_MAGICKA",

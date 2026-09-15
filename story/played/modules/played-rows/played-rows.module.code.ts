@@ -1,3 +1,4 @@
+import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
@@ -9,7 +10,6 @@ import type {
   ClientStoryTurn,
 } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { composeSessionEnvelope } from "akasha/story/ui/modules/session-envelope/session-envelope.module.code.ts"
-import { asNumber } from "akasha/util/narrow/modules/as-number/as-number.module.code.ts"
 
 export const PLAYED_CHAPTER_PAGE_TYPE_SLUG = "story-chapter-played"
 

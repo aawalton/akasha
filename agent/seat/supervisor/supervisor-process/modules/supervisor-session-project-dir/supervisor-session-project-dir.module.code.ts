@@ -1,5 +1,5 @@
 import { realpathSync } from "node:fs"
-import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
+import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const CONFIG_DIR_ENV = shape.string().optional()
 

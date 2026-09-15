@@ -1,9 +1,9 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type { ClientBeat } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import { NewestDivider } from "akasha/story/ui/modules/newest-divider/newest-divider.module.code.tsx"
 import { SystemCard } from "akasha/story/ui/modules/system-card/system-card.module.code.tsx"
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
 import { SystemWindowCard } from "akasha/story/ui/modules/system-window-card/system-window-card.module.code.tsx"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import type { ReactNode, RefObject } from "react"
 
 type NarrativeClientBeat = Extract<ClientBeat, { type: "narrative" }>

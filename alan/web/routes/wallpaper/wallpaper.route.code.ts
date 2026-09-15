@@ -1,3 +1,4 @@
+import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
   askingFor,
@@ -7,7 +8,6 @@ import {
   orderedWallpaperSlugs,
   type WallpaperRow,
 } from "akasha/persona/modules/wallpaper-order/wallpaper-order.module.code.ts"
-import { stringIn } from "akasha/util/narrow/modules/string-in/string-in.module.code.ts"
 
 const PERSONA_PAGE_TYPE_SLUG = "persona"
 

@@ -1,5 +1,6 @@
 "use client"
 
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { LayoutLink } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import {
   Empty,
@@ -15,7 +16,6 @@ import {
   CardContent,
 } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import type { PlanEmptyState } from "akasha/temper/web/modules/characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { Gamepad2, Loader2 } from "lucide-react"
 
 const NO_CHARACTERS_DESCRIPTION =

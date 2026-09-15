@@ -1,5 +1,5 @@
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import type { Reach, Work } from "akasha/page/computed-property/computed-property.page-type.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export type Held = Record<string, unknown>
 

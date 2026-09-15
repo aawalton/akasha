@@ -1,5 +1,6 @@
 "use client"
 
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
 import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-row.module.code.tsx"
@@ -19,7 +20,6 @@ import type { PropertyValue } from "akasha/page/core/property-type/modules/prope
 import type { BadgeVariant } from "akasha/page/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import { useState } from "react"
 
 interface NarrowedEntry {

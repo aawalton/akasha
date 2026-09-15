@@ -1,3 +1,4 @@
+import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionMetricTemplate } from "akasha/temper/companions-core/modules/companion-metric-template/companion-metric-template.module.code.ts"
 import { COMPANION_METRICS_00 } from "akasha/temper/companions-core/modules/companion-metrics-00/companion-metrics-00.module.code.ts"
@@ -5,7 +6,6 @@ import { COMPANION_METRICS_01 } from "akasha/temper/companions-core/modules/comp
 import { COMPANION_METRICS_02 } from "akasha/temper/companions-core/modules/companion-metrics-02/companion-metrics-02.module.code.ts"
 import type { RatingSurplusInfo } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 import type { SourceCategoryId } from "akasha/temper/formula-framework/modules/source-category/source-category.module.code.ts"
-import { createDataFile } from "akasha/util/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 export const COMPANION_CATEGORIES: SourceCategoryId[] = [
   "companion-base",

@@ -1,3 +1,4 @@
+import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { upsertPage } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
 import {
   decodeBuild,
@@ -17,7 +18,6 @@ import {
   type SignedInReader,
   userIdFor,
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import { asRecord } from "akasha/util/narrow/modules/as-record/as-record.module.code.ts"
 
 const CHARACTERS_GLOBAL = "TemperCharacters_SavedVariables"
 const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"

@@ -1,10 +1,10 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import {
   COMPANION_ACTIONS,
   type CompanionAction,
 } from "akasha/temper/web/modules/companion-actions/companion-actions.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export function companionReducer(state: CompanionState, action: CompanionAction): CompanionState {
   switch (action.type) {

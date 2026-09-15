@@ -1,5 +1,5 @@
+import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
 import type { Skill } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
-import { requireGet } from "akasha/util/narrow/modules/require-get/require-get.module.code.ts"
 
 export interface MorphPair {
   baseName: string

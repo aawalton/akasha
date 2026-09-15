@@ -1,5 +1,6 @@
 "use client"
 
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import {
   Select,
@@ -16,7 +17,6 @@ import { CAN_RESEARCH_OPTIONS } from "akasha/temper/items-rules-core/modules/can
 import { CAN_UNLOCK_OPTIONS } from "akasha/temper/items-rules-core/modules/can-unlock-filter/can-unlock-filter.module.code.ts"
 import { FilterLock } from "akasha/temper/player-inventory-management-ui/modules/rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
 
 type RuleCardState = ReturnType<typeof useRuleCard>

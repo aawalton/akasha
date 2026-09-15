@@ -3,7 +3,7 @@ import type { GoogleOauthRefreshCredentials } from "akasha/alan/google/oauth/mod
 import {
   optionalEnv,
   requireEnv,
-} from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
+} from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 
 export const SHARED_TOKEN_VAR = "GOOGLE_OAUTH_REFRESH_TOKEN"
 

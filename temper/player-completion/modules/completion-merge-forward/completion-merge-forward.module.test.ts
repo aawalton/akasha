@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,
@@ -10,7 +11,6 @@ import {
   mergeCharacterCompletionForward,
   mergeCompanionCompletionForward,
 } from "akasha/temper/player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import fc from "fast-check"
 
 function makeSkillPoints(over: {

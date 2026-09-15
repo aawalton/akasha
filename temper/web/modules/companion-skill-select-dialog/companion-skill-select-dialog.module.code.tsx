@@ -1,5 +1,6 @@
 "use client"
 
+import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
 import { CommandItem } from "akasha/design/interface/primitive/modules/command/command.module.code.tsx"
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { isCompanionSkillAvailable } from "akasha/temper/companions-core/modules/companion-skill-line-queries/companion-skill-line-queries.module.code.ts"
@@ -21,7 +22,6 @@ import {
   type FilterableSelectDialogConfig,
   type FilterableSelectDialogItem,
 } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
-import { requireGet } from "akasha/util/narrow/modules/require-get/require-get.module.code.ts"
 import { useMemo } from "react"
 
 interface CompanionSkillItem extends FilterableSelectDialogItem {

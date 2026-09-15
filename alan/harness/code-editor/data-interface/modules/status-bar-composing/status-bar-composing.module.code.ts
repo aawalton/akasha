@@ -25,6 +25,7 @@ import {
   type WorkstationReading,
   workstationReadingOf,
 } from "akasha/code/editor/extension/modules/status-bar-workstation/status-bar-workstation.module.code.ts"
+import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import {
   typeSlugOf,
   valuesOfType,
@@ -34,7 +35,6 @@ import {
   slugOf,
   slugsIn,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
 
 const READOUT = "01a05446-e760-7cb2-848b-4fcfc7ed45d4"
 

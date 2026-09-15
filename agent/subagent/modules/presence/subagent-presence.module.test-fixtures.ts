@@ -18,6 +18,7 @@ import {
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import type { Landing } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { startedAt } from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
 import {
   holding,
@@ -33,7 +34,6 @@ import {
   writing,
 } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { keptAt } from "akasha/util/fs/test-fixtures/kept-scratch/kept-scratch.test-fixture.code.ts"
-import { firstCapture } from "akasha/util/narrow/modules/first-capture/first-capture.module.code.ts"
 
 const LANDED = { base: "", landed: [], formatted: [], said: [], wrong: [], commit: null }
 

@@ -11,6 +11,7 @@ import {
 } from "@dnd-kit/core"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext } from "@dnd-kit/sortable"
+import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
 import {
   letGo,
   tookHold,
@@ -37,7 +38,6 @@ import {
   PropertyRowGhost,
   SortablePropertyRow,
 } from "akasha/page/ui/component/modules/property-visibility-picker-rows/property-visibility-picker-rows.module.code.tsx"
-import { requireGet } from "akasha/util/narrow/modules/require-get/require-get.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from "react"
 
 interface PropertyVisibilityPickerProps {

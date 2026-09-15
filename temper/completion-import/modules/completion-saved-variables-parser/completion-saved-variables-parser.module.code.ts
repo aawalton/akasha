@@ -1,3 +1,8 @@
+import {
+  asRecord,
+  asRecordOrEmpty,
+} from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,
@@ -10,11 +15,6 @@ import {
 } from "akasha/temper/completion-import/modules/completion-input-schema/completion-input-schema.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
-import {
-  asRecord,
-  asRecordOrEmpty,
-} from "akasha/util/narrow/modules/as-record/as-record.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 export type AddonCharacterRecord = { name: string; priorityOrder?: number } & CharacterCompletion
 

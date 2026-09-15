@@ -1,5 +1,6 @@
 "use client"
 
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { leadingMarker } from "akasha/page/core/property-type/modules/block-markers/block-markers.module.code.ts"
 import {
   matchBlockShortcut,
@@ -7,7 +8,6 @@ import {
 } from "akasha/page/core/property-type/modules/block-shortcuts/block-shortcuts.module.code.ts"
 import { detectMarkdownShorthand } from "akasha/page/core/property-type/modules/markdown-shorthand/markdown-shorthand.module.code.ts"
 import type { BlockRowProps } from "akasha/page/ui/block-editor/modules/block-row/block-row.module.code.tsx"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { type Ref, useCallback, useRef } from "react"
 
 export interface TextareaInputApi {

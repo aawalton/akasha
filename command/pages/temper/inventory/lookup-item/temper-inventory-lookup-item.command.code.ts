@@ -1,5 +1,6 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import { wholeNumberIn } from "akasha/code/type/narrowing/modules/whole-number-in/whole-number-in.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { inventoryPath as inventoryPathArgument } from "akasha/command/argument/pages/inventory-path.argument.ts"
 import { item as itemArgument } from "akasha/command/argument/pages/item.argument.ts"
@@ -26,7 +27,6 @@ import { parseItemLink } from "akasha/temper/items-core/modules/item-link-parser
 import { parseMotifBookName } from "akasha/temper/items-core/modules/motif-name-parser/motif-name-parser.module.code.ts"
 import { getRecipeResultId } from "akasha/temper/items-core/modules/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items-core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
-import { wholeNumberIn } from "akasha/util/narrow/modules/whole-number-in/whole-number-in.module.code.ts"
 
 const NAMED = [jsonArgument, inventoryPathArgument, itemArgument]
 

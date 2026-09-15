@@ -3,6 +3,7 @@ import {
   buildTelnyxSendRequest,
   parseTelnyxSendResponse,
 } from "akasha/alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.code.ts"
+import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { baseUrl } from "akasha/command/argument/pages/base-url.argument.ts"
 import { fromNumber } from "akasha/command/argument/pages/from-number.argument.ts"
@@ -21,7 +22,6 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { smsSend as page } from "akasha/command/pages/sms/send/sms-send.command.ts"
-import { requireEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const KEY_NAMED = "TELNYX_API_KEY"
 

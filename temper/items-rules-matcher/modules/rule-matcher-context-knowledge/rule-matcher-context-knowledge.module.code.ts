@@ -1,3 +1,5 @@
+import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
+import { recordField } from "akasha/code/type/narrowing/modules/record-field/record-field.module.code.ts"
 import { potions } from "akasha/temper/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
@@ -11,8 +13,6 @@ import type {
   CompletionCharacterInput,
 } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { isNamedShape } from "akasha/temper/player-completion/modules/completion-named-shape/completion-named-shape.module.code.ts"
-import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
-import { recordField } from "akasha/util/narrow/modules/record-field/record-field.module.code.ts"
 
 type ExhaustiveRecipeList = { name: string; recipes: Record<string, { known: boolean }> }
 

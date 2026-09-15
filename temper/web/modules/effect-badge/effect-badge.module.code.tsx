@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import {
   formatCooldown,
@@ -18,7 +19,6 @@ import type {
   ArmorPieceCounts,
   BadgeVariant,
 } from "akasha/temper/web/modules/effect-badge-types/effect-badge-types.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 interface EffectBadgeProps {
   effect: CompanionEffect

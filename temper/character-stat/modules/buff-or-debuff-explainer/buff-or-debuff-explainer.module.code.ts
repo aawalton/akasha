@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type { PotionSource } from "akasha/temper/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { getBuffOrDebuffId } from "akasha/temper/character-stat/modules/buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
 import {
@@ -13,7 +14,6 @@ import {
 } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import type { SkillSource } from "akasha/temper/formula-framework/modules/skill-source/skill-source.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function isSkillSource(source: EffectSource): source is SkillSource {
   return source.categoryId === "skills"

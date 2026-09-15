@@ -1,4 +1,5 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import {
   landRow,
   mergeRow,
@@ -11,7 +12,6 @@ import type { InferenceRunRecord } from "akasha/infrastructure/inference/run/mod
 import { imageObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { coverUrl } from "akasha/page/url/modules/cover-url/cover-url.module.code.ts"
-import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 const IMAGE_PAGE_TYPE_SLUG = "image"
 

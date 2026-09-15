@@ -254,6 +254,7 @@
 {"propertySlug":"decision-kind","path":"code/rust-crate/rust-crate.page-type.ts","id":"01a0602d-6ad2-7a2e-8686-1b1cf565107a"}
 {"propertySlug":"decision-kind","path":"code/spawning/modules/running/running.module.ts","id":"01a05d20-8007-70bf-8ed6-29cc7dfb4687"}
 {"propertySlug":"decision-kind","path":"code/type-declaration/properties/ambient-types.file-property.ts","id":"01a0605a-98f3-7ddc-b839-afde87fe7bbf"}
+{"propertySlug":"decision-kind","path":"code/type/narrowing/modules/delete-record-key/delete-record-key.module.ts","id":"01a06057-367a-7da6-aab7-c707ebb15466"}
 {"propertySlug":"decision-kind","path":"code/type/type.domain.ts","id":"01a049e9-651c-7006-896c-2bffa71e2d0a"}
 {"propertySlug":"decision-kind","path":"code/workspace/modules/manifest-locking/manifest-locking.module.ts","id":"01a0628d-2f09-7f63-8d3a-27494e9ec287"}
 {"propertySlug":"decision-kind","path":"command/argument/modules/taking/argument-taking.module.ts","id":"01a09419-fb82-7d05-a756-3f0e001dff28"}
@@ -1405,5 +1406,4 @@
 {"propertySlug":"decision-kind","path":"temper/web/routes/temper-api-pages/temper-api-pages.route.ts","id":"01a0829a-13da-798a-a890-b765cf1dc3de"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/suggest-closest/suggest-closest.module.ts","id":"01a06287-7841-7b53-968b-a40343c7aebe"}
 {"propertySlug":"decision-kind","path":"util/fs/modules/atomic-write/atomic-write.module.ts","id":"01a05c4c-9441-7a1c-a7fc-dc1ab3914181"}
-{"propertySlug":"decision-kind","path":"util/narrow/modules/delete-record-key/delete-record-key.module.ts","id":"01a06057-367a-7da6-aab7-c707ebb15466"}
 {"propertySlug":"parts","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}

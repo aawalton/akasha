@@ -1,5 +1,6 @@
 "use client"
 
+import { isSortDirection } from "akasha/code/type/narrowing/modules/is-sort-direction/is-sort-direction.module.code.ts"
 import { ListContentSkeleton } from "akasha/design/interface/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import {
   PageLayout,
@@ -29,7 +30,6 @@ import {
   type SortField,
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
 import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
-import { isSortDirection } from "akasha/util/narrow/modules/is-sort-direction/is-sort-direction.module.code.ts"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"
 

@@ -1,10 +1,10 @@
 "use client"
 
+import { scalarText } from "akasha/code/type/narrowing/modules/scalar-text/scalar-text.module.code.ts"
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import { InputBadge } from "akasha/design/interface/badge/modules/input-badge/input-badge.module.code.tsx"
 import { hostIn } from "akasha/design/interface/badge/modules/url-badge/url-badge.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
-import { scalarText } from "akasha/util/narrow/modules/scalar-text/scalar-text.module.code.ts"
 import { ExternalLink } from "lucide-react"
 import { useEffect, useState } from "react"
 

@@ -31,6 +31,7 @@ import "akasha/temper/housing-addon/modules/housing-visit-cards-render/housing-v
 import "akasha/temper/housing-addon/modules/housing-visit-cards-view/housing-visit-cards-view.module.code.ts"
 import "akasha/temper/housing-addon/modules/housing-window-controls/housing-window-controls.module.code.ts"
 
+import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import { buildHouseTab } from "akasha/temper/housing-addon/modules/housing-build-house-tab/housing-build-house-tab.module.code.ts"
 import { buildLibraryTab } from "akasha/temper/housing-addon/modules/housing-build-library-tab/housing-build-library-tab.module.code.ts"
 import { buildMyHousesTab } from "akasha/temper/housing-addon/modules/housing-build-my-houses-tab/housing-build-my-houses-tab.module.code.ts"
@@ -44,7 +45,6 @@ import {
 import { portToFriend } from "akasha/temper/housing-addon/modules/housing-state/housing-state.module.code.ts"
 import type { SavedVars } from "akasha/temper/housing-addon/modules/housing-types/housing-types.module.code.ts"
 import { registerUiStrings } from "akasha/temper/housing-addon/modules/housing-ui-strings/housing-ui-strings.module.code.ts"
-import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 registerUiStrings()
 

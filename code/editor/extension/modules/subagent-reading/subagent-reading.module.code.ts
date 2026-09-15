@@ -19,7 +19,7 @@ import {
   foldTail,
   type Tail,
 } from "akasha/code/editor/extension/modules/tail-fold/tail-fold.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { z } from "zod"
 
 const TRANSCRIPT_RECORD = z.custom<Record<string, unknown>>(isRecord)

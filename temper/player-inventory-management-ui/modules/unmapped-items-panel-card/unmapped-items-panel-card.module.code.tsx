@@ -1,5 +1,6 @@
 "use client"
 
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-row.module.code.tsx"
 import { formatGold } from "akasha/design/interface/primitive/modules/format-gold/format-gold.module.code.ts"
@@ -11,7 +12,6 @@ import {
   type InventoryReadState,
   type UnmappedItemsPanelState,
 } from "akasha/temper/player-inventory-management-ui/modules/rules-tab-panel-states/rules-tab-panel-states.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { useMemo } from "react"
 
 interface UnmappedItemsPanelCardProps extends InventoryReadState {

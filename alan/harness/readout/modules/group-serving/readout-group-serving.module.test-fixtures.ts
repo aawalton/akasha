@@ -6,13 +6,13 @@ import {
   stoplightsInGroup,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import { readingValues } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import {
   slugsIn,
   textIn,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 export const GROUP = "a-group-named-only-in-this-test"
 

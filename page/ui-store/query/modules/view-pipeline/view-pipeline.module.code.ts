@@ -1,4 +1,6 @@
 import { type Collection, createLiveQueryCollection } from "@tanstack/db"
+import { instantIn } from "akasha/code/type/narrowing/modules/instant-in/instant-in.module.code.ts"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type {
   PageDataJSON,
   PropertyDefinition,
@@ -30,8 +32,6 @@ import {
   viewMatchesRow,
 } from "akasha/page/ui-store/query/modules/view-match/view-match.module.code.ts"
 import type { UseViewQueryOptions } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
-import { instantIn } from "akasha/util/narrow/modules/instant-in/instant-in.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 const LOCAL_VIEW_QUERY_LIMIT = 10_000
 const ALIAS = "p"

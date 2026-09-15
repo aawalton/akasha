@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import * as luaCore from "akasha/design/language/lua-compiler/modules/lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
@@ -12,7 +13,6 @@ import { cannotAssignToNodeOfKind } from "akasha/design/language/lua-compiler/mo
 import { isArrayLength } from "akasha/design/language/lua-compiler/modules/visit-array-length/visit-array-length.module.code.ts"
 import { transformAssignmentWithRightPrecedingStatements } from "akasha/design/language/lua-compiler/modules/visit-assignments/visit-assignments.module.code.ts"
 import { requireTransformBinaryOperation } from "akasha/design/language/lua-compiler/modules/visit-binary-operation-deps/visit-binary-operation-deps.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
 function isLuaExpressionWithSideEffect(expression: luaExpressions.Expression) {

@@ -1,3 +1,4 @@
+import { instantIn } from "akasha/code/type/narrowing/modules/instant-in/instant-in.module.code.ts"
 import {
   isPromotedKey,
   PROMOTED_COLUMN,
@@ -24,7 +25,6 @@ import {
   type PageRow,
 } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import { emitStoreDiagnostic } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
-import { instantIn } from "akasha/util/narrow/modules/instant-in/instant-in.module.code.ts"
 
 const warnedUnacquiredTargets = new Set<string>()
 

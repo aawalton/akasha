@@ -12,6 +12,7 @@ import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import { TEXT_TERTIARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import {
   ARMOR_SLOTS,
@@ -49,7 +50,6 @@ import {
   isSelectedCompanionActive,
 } from "akasha/temper/companions-addon/modules/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/companions-addon/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
-import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 function refreshEquipmentOptimalColumn(decoded: CompanionBuildData): undefined {
   if (!equipState) return

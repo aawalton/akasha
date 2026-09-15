@@ -1,5 +1,5 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { RESERVED_PROPERTY_IDS } from "akasha/page/ui/component/modules/card-property-columns/card-property-columns.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
 export const PAGE_TYPE_SLUG = "page-type"
 

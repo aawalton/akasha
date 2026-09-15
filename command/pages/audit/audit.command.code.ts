@@ -4,6 +4,7 @@ import { asked } from "akasha/check/modules/audit-asking/audit-asking.module.cod
 import { commitOf } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import type { Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
 import { checksAt, checksIn } from "akasha/check/modules/checking/checking.module.code.ts"
+import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { check } from "akasha/command/argument/pages/check.argument.ts"
 import { refusedBy } from "akasha/command/modules/answering/command-answering.module.code.ts"
@@ -16,7 +17,6 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { audit as page } from "akasha/command/pages/audit/audit.command.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
-import { requireEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const AUDIT = "audit"
 

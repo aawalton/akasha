@@ -1,3 +1,4 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
 import { parsePageSeq } from "akasha/page/access/modules/parse-page-seq/parse-page-seq.module.code.ts"
 import type { RawPageRow } from "akasha/page/access/modules/raw-page-row/raw-page-row.module.code.ts"
@@ -6,7 +7,6 @@ import {
   idOfFilePage,
   slugOfFilePage,
 } from "akasha/page/identity/modules/file-page/file-page.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import { camelizeKey } from "akasha/util/slug/modules/camelize-key/camelize-key.module.code.ts"
 import { dashBetweenWords } from "akasha/util/slug/modules/dash-between-words/dash-between-words.module.code.ts"
 import { z } from "zod"

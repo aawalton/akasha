@@ -6,6 +6,7 @@ import {
   WORKING_PAGE,
 } from "akasha/agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.test-fixtures.ts"
 import type { SeatTurnState } from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { turnState } from "akasha/command/argument/pages/turn-state.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { ROOT_NAMED } from "akasha/command/modules/rooting/rooting.module.code.ts"
@@ -16,7 +17,6 @@ import {
   statedAs,
   wrongIn,
 } from "akasha/command/pages/agent/turn-color-list/agent-turn-color-list.command.code.ts"
-import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 import { z } from "zod"
 
 const ROOT = "/nowhere"

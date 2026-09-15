@@ -1,8 +1,8 @@
+import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
   parseRouteMap,
   type RouteTarget,
 } from "akasha/infrastructure/network/auth-proxy/modules/route-map-core/route-map-core.module.code.ts"
-import { requireEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 import { z } from "zod"
 
 const SUPABASE_JWKS_URL = requireEnv("SUPABASE_JWKS_URL")

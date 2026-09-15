@@ -32,6 +32,7 @@ import {
   sparingOver,
 } from "akasha/check/modules/mortal-sparing/mortal-sparing.module.code.ts"
 import { refusalText } from "akasha/check/modules/refusal-text/refusal-text.module.code.ts"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { framesOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
   everyOfType,
@@ -45,7 +46,6 @@ import {
   shadowAsked,
   shadowFor,
 } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 export type Phase = "change" | "deploy" | "audit"
 

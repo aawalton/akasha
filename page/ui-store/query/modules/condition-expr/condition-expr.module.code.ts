@@ -12,13 +12,13 @@ import {
   not,
   or,
 } from "@tanstack/db"
+import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import {
   isPromotedKey,
   PROMOTED_COLUMN,
 } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import { isPropertyPath } from "akasha/page/core/filter/modules/property-path/property-path.module.code.ts"
 import type { PageConditionLike } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
-import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
 
 export type BoolExpr = IR.BasicExpression<boolean>
 

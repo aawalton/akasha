@@ -1,3 +1,4 @@
+import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player-completion/modules/completion-override/completion-override.module.code.ts"
 import type {
   CharactersConfigGlobal,
@@ -5,7 +6,6 @@ import type {
   TaskData,
 } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
-import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 export interface CharactersConfigView {
   characterPriority: SavedVariablesData["characterPriority"] | readonly string[]

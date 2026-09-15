@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import {
   healBlockMarker,
   isMarkerType,
@@ -20,7 +21,6 @@ import {
   replaceAtPath,
 } from "akasha/page/core/property-type/modules/rich-document-tree/rich-document-tree.module.code.ts"
 import { randomId } from "akasha/page/id/modules/random-id/random-id.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const V1_BLOCK_TYPES = [
   "paragraph",

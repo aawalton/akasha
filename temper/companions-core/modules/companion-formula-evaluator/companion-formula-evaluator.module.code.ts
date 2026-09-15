@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type { CompanionBaseRoleId } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionEffectSource } from "akasha/temper/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
@@ -5,7 +6,6 @@ import type { CompanionFormulaNode } from "akasha/temper/companions-core/modules
 import { companionMetrics } from "akasha/temper/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import { evaluateArithmeticNode } from "akasha/temper/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 interface CompanionFormulaContext {
   metricValues: Map<CompanionMetricId, number>

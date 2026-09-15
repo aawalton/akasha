@@ -11,6 +11,7 @@ import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import {
   TEXT_PRIMARY,
   TEXT_SECONDARY,
@@ -33,7 +34,6 @@ import {
   isSelectedCompanionActive,
 } from "akasha/temper/companions-addon/modules/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/companions-addon/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
-import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 const MINI_ICON_SIZE = 24
 const MINI_CARD_HEIGHT = 32

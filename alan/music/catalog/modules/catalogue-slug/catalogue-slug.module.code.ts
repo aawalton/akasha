@@ -1,8 +1,8 @@
+import { shortenedToWords } from "akasha/code/type/narrowing/modules/shortened-to-words/shortened-to-words.module.code.ts"
 import {
   pageStem,
   STEM_CEILING,
 } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
-import { shortenedToWords } from "akasha/util/narrow/modules/shortened-to-words/shortened-to-words.module.code.ts"
 
 const FALLBACK_NAME = "untitled"
 

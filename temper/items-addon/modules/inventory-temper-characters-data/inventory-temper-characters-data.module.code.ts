@@ -1,4 +1,4 @@
-import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
+import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 export function getTemperCharactersData(): Record<string, unknown> | undefined {
   const g: Record<string, unknown> = globalThis
   const tcSv = g["TemperCharacters_SavedVariables"]

@@ -7,7 +7,7 @@ import {
   LOG,
   REPO_ROOT,
 } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
+import { shape } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 export function resolveReExecArgv(): readonly string[] {
   const agentId = SELF_HEAL_STATE.currentAgentIdForSelfHeal

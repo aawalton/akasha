@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import {
   countArmorPiecesByWeight,
@@ -12,7 +13,6 @@ import type { SkillLineId } from "akasha/temper/character-skill-line/modules/ski
 import type { CurseState } from "akasha/temper/character-source/modules/curses/curses.module.code.ts"
 import type { TranslationContext } from "akasha/temper/character-stat/modules/pipeline-types/pipeline-types.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 export interface PassiveEligibilityContext {
   raceId: CharacterState["character"]["race"]

@@ -1,5 +1,6 @@
 "use client"
 
+import { noOp } from "akasha/code/type/narrowing/modules/no-op/no-op.module.code.ts"
 import { flattenRow } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import {
@@ -14,7 +15,6 @@ import {
   type ViewResult,
 } from "akasha/page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts"
 import type { UseViewQueryOptions } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
-import { noOp } from "akasha/util/narrow/modules/no-op/no-op.module.code.ts"
 import { useMemo } from "react"
 
 export type UseViewQueryResult = {

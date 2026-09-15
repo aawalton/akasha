@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { LuaTarget } from "akasha/design/language/lua-compiler/modules/compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "akasha/design/language/lua-compiler/modules/context-visitors/context-visitors.module.code.ts"
@@ -22,7 +23,6 @@ import {
 } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import { isMultiReturnCall } from "akasha/design/language/lua-compiler/modules/visit-extension-multi/visit-extension-multi.module.code.ts"
 import { isGlobalVarargConstant } from "akasha/design/language/lua-compiler/modules/visit-extension-vararg/visit-extension-vararg.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
 function isOptimizedVarArgSpread(

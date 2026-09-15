@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import {
   transformArrayConstructorCall,
   transformArrayProperty,
@@ -53,7 +54,6 @@ import {
   isStandardLibraryType,
   isStringType,
 } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 
 export function transformBuiltinPropertyAccessExpression(

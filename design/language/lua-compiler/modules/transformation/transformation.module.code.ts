@@ -1,3 +1,4 @@
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import { createTransformationContext } from "akasha/design/language/lua-compiler/modules/context-create-transformation-context/context-create-transformation-context.module.code.ts"
 import type {
   ObjectVisitor,
@@ -8,7 +9,6 @@ import * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-
 import { usingTransformer } from "akasha/design/language/lua-compiler/modules/transform-using-transformer/transform-using-transformer.module.code.ts"
 import { getOrUpdate } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import { standardVisitors } from "akasha/design/language/lua-compiler/modules/visitors-visitors/visitors-visitors.module.code.ts"
-import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 import * as ts from "typescript"
 
 function isSyntaxKind(value: number): value is ts.SyntaxKind {

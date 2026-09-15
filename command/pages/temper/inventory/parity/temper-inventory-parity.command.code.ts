@@ -1,5 +1,6 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { char as charArgument } from "akasha/command/argument/pages/char.argument.ts"
 import { charactersPath as charactersPathArgument } from "akasha/command/argument/pages/characters-path.argument.ts"
@@ -35,7 +36,6 @@ import type {
   WalkTrace,
 } from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const NAMED = [inventoryPathArgument, charactersPathArgument, charArgument, tracedItemIdArgument]
 

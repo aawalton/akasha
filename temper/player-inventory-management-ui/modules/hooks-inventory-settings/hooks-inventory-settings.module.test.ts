@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { heldFromRows } from "akasha/temper/items-rules-core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import {
   isRulesUnreadWrite,
@@ -10,7 +11,6 @@ import {
   useManagedGuildBanks,
   useSettingsBlob,
 } from "akasha/temper/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const A_ROW = {
   slug: "rule-one",

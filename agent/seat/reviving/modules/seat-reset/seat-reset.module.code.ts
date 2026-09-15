@@ -30,12 +30,12 @@ import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { textIn } from "akasha/util/narrow/modules/text-in/text-in.module.code.ts"
 
 interface Kept {
   readonly persona: string | null

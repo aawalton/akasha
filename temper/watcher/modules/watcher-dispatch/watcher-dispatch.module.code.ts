@@ -1,3 +1,4 @@
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
   buildConfig,
   sourcePathFor,
@@ -39,7 +40,6 @@ import {
   type SignedInReader,
   signedInUserId,
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
-import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
 const COMPLETION_TO_DO = "import this completion"
 

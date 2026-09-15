@@ -1,4 +1,5 @@
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
+import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import {
   type CompletionShape,
   completionShapeOf,
@@ -27,7 +28,6 @@ import { landTaskValues } from "akasha/temper/watcher/modules/watcher-task-landi
 import type { TaskFacts } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
 import { refreshTaskProgress } from "akasha/temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"
 import { tasksThatRoll } from "akasha/temper/watcher/modules/watcher-task-rolling/watcher-task-rolling.module.code.ts"
-import { textIn } from "akasha/util/narrow/modules/text-in/text-in.module.code.ts"
 
 const TASK_PAGE_TYPE_SLUG = "temper-task"
 

@@ -29,7 +29,7 @@ import type {
   GameState,
   Teammate,
 } from "akasha/alan/harness/idle-system/modules/idle-state/idle-state.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 
 export function trainCost(t: { readonly rate: number; readonly rank: number }): number {
   return Math.ceil(t.rate * TRAIN_COST_BASE * TRAIN_COST_GROWTH ** t.rank)

@@ -1,3 +1,4 @@
+import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import { getDb } from "akasha/temper/combat-addon/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type {
   LayoutControl,
@@ -9,7 +10,6 @@ import {
   isNonNullObject,
   namedChild,
 } from "akasha/temper/combat-addon/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
-import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 interface LiveBlockControl extends LayoutControl {
   blocksize?: number

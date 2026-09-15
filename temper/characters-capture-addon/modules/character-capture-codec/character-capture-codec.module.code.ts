@@ -13,6 +13,7 @@ import "akasha/temper/eso-type/eso-functions-04/eso-functions-04.type-declaratio
 import "akasha/temper/eso-type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import { getAllianceIndex } from "akasha/temper/characters-capture-addon/modules/character-capture-alliance-map/character-capture-alliance-map.module.code.ts"
 import { getBaseAbilityId } from "akasha/temper/characters-capture-addon/modules/character-capture-base-ability/character-capture-base-ability.module.code.ts"
 import { getChampionPointIndex } from "akasha/temper/characters-capture-addon/modules/character-capture-champion-point-map/character-capture-champion-point-map.module.code.ts"
@@ -47,7 +48,6 @@ import { getRaceIndex } from "akasha/temper/characters-capture-addon/modules/cha
 import { captureScribingData } from "akasha/temper/characters-capture-addon/modules/character-capture-scribing/character-capture-scribing.module.code.ts"
 import { getPlayerSkillLineIndex } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
 import { getPlayerSkillIndex } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-map/character-capture-skill-map.module.code.ts"
-import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"
 
 const CHARACTER_ARMOR_SLOTS = [
   EQUIP_SLOT_HEAD,

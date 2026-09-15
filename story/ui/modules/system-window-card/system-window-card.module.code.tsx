@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type {
@@ -12,7 +13,6 @@ import {
   type SubmitPlayerAction,
   SystemChoiceCard,
 } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function ReadoutGrid({ record }: { record: Record<string, number> }) {
   const entries = Object.entries(record)

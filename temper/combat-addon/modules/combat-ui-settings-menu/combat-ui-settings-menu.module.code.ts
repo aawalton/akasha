@@ -1,3 +1,4 @@
+import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import { calculateFight } from "akasha/temper/combat-addon/modules/combat-analysis/combat-analysis.module.code.ts"
 import type { CmxFight } from "akasha/temper/combat-addon/modules/combat-core-types/combat-core-types.module.code.ts"
 import { openSettings } from "akasha/temper/combat-addon/modules/combat-menu/combat-menu.module.code.ts"
@@ -23,7 +24,6 @@ import {
   getSelections,
 } from "akasha/temper/combat-addon/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import { updateReport } from "akasha/temper/combat-addon/modules/combat-ui-window/combat-ui-window.module.code.ts"
-import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 function toggleShowIds(this: void): undefined {
   const db = getDb()

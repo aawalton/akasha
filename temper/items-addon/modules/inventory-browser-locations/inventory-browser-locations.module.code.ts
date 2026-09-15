@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type {
   FixedLocationViewId,
   LocationViewKind,
@@ -5,7 +6,6 @@ import type {
 } from "akasha/temper/items-addon/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
 import { ESO_BAG_WORN } from "akasha/temper/items-core/modules/eso-bag-constants/eso-bag-constants.module.code.ts"
 import type { ItemLocationEntry } from "akasha/temper/items-core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function matchesFixed(
   entry: ItemLocationEntry,

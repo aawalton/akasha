@@ -1,9 +1,9 @@
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
   deviceTokensFor,
   dropDeviceToken,
 } from "akasha/person/modules/device-token-registration/device-token-registration.module.code.ts"
-import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const ON_THE_WORKSTATION = "http://127.0.0.1:8787"
 

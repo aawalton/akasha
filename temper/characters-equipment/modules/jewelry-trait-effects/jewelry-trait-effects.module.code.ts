@@ -1,3 +1,4 @@
+import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type { JewelryItem } from "akasha/temper/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import {
   JEWELRY_TRAIT_QUALITY_VALUES,
@@ -8,7 +9,6 @@ import {
   resolveQuality,
 } from "akasha/temper/equipment-kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { MetricEffect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 function calculateBloodthirstyValue(maxValue: number, targetHealth: number): number {
   const clampedHealth = Math.max(0, Math.min(1, targetHealth))

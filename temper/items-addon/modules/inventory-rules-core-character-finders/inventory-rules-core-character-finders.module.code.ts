@@ -1,3 +1,4 @@
+import { asObjectRecord } from "akasha/code/type/narrowing/modules/as-object-record/as-object-record.module.code.ts"
 import {
   knownChapterCountForStyleByCharData,
   knowsMotifByCharData,
@@ -10,7 +11,6 @@ import type {
   ItemKey,
   UseDestinationContext,
 } from "akasha/temper/items-rules-core/modules/use-destination-types/use-destination-types.module.code.ts"
-import { asObjectRecord } from "akasha/util/narrow/modules/as-object-record/as-object-record.module.code.ts"
 
 export function buildUnlockItemKey(itemLink: string, itemType: number): ItemKey | undefined {
   if (itemType === ITEMTYPE_RECIPE) {

@@ -1,3 +1,5 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import { joinPath } from "akasha/code/type/narrowing/modules/join-path/join-path.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,
@@ -13,8 +15,6 @@ import {
   type CompletionCharacterEntry,
   resolveNextCharacter,
 } from "akasha/temper/player-completion/modules/completion-next-character/completion-next-character.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
-import { joinPath } from "akasha/util/narrow/modules/join-path/join-path.module.code.ts"
 
 export type ScalarProgress = { current: number; total: number }
 

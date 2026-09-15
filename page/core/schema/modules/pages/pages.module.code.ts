@@ -1,9 +1,9 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { detailConfigSchema } from "akasha/page/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { listingConfigSchema } from "akasha/page/core/schema/modules/listing-config/listing-config.module.code.ts"
 import { mediaConfigSchema } from "akasha/page/core/schema/modules/media-config/media-config.module.code.ts"
 import { sequenceConfigSchema } from "akasha/page/core/schema/modules/sequence-config/sequence-config.module.code.ts"
-import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 import * as z from "zod"
 
 export type ReadonlyJSONValue =

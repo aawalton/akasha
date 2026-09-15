@@ -4,7 +4,7 @@ import {
   procEntries,
   statedIn,
 } from "akasha/code/process/modules/proc-reading/proc-reading.module.code.ts"
-import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 
 test("an environment variable is read off the block by its own name", () => {
   const block = "PATH=/usr/bin\0AGENT_ID=abc\0HOME=/root\0"
