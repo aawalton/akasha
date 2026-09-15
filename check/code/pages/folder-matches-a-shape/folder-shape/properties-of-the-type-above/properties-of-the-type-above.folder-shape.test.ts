@@ -6,7 +6,7 @@ import type {
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
 import { propertiesOfTheTypeAbove } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/properties-of-the-type-above/properties-of-the-type-above.folder-shape.code.ts"
 
-const ABOVE = "akasha/domains"
+const ABOVE = "akasha/domain"
 
 const FOLDER = `${ABOVE}/properties`
 
@@ -22,7 +22,6 @@ const EXTENDING = new Set<string>(["text-property", "relation-property", "record
 
 const DOMAIN: Declaring = {
   slug: "domain",
-  pluralSlug: "domains",
   propertySlugs: new Set<string>(["definition", "invariants", "invariant-kind", "statement"]),
 }
 

@@ -50,10 +50,7 @@ import {
   partedIn,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import {
-  textAt,
-  textsAt,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { textsAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const TS = "ts"
 
@@ -70,8 +67,6 @@ const ONE_OF_PROPERTY = "one-of-property"
 const MEMBERS = "members"
 
 const PROPERTIES = "properties"
-
-const PLURAL_SLUG = "pluralSlug"
 
 const PARTS = "parts"
 
@@ -170,11 +165,9 @@ function declaringOver(index: Answering, grouped: Grouped): (folder: string) => 
     const slug = slugs.length === 1 ? slugs[0] : undefined
     let made: Declaring | null = null
     if (slug !== undefined) {
-      const value = index.pageAt(PAGE_TYPE, slug)
       const declared = index.propertiesOf(slug).map((one) => one.pagePropertySlug)
       made = {
         slug,
-        pluralSlug: value === null ? null : textAt(value, PLURAL_SLUG),
         propertySlugs: new Set<string>([...declared, ...declaredBesideIn(index, grouped, folder)]),
       }
     }
@@ -239,9 +232,8 @@ export function holdingOver(
     let made = NOTHING
     if (page !== undefined && page.slug !== null && page.pageTypeSlug !== null) {
       const value = index.pageByPath(page.path)
-      const plural = value === null ? null : textAt(value, PLURAL_SLUG)
       made = {
-        names: plural === null ? [page.slug] : [page.slug, plural],
+        names: [page.slug],
         holds: [...identityOf(paired[0]), ...identityOf(paired[1])],
         declared: new Set<string>([
           ...(value === null ? [] : (textsAt(value, PARTS) ?? textsAt(value, PART_SLUGS) ?? [])),
