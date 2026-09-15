@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hotelCataloniaPasseigDeGracia = {
   id: "019f1aec-0e65-7358-a90e-5b872517c3c8",
-  type: "location",
+  type: "page-type/location",
   slug: "hotel-catalonia-passeig-de-gracia",
   title: "Hotel Catalonia Passeig de Gràcia",
   latitude: 41.3981762,

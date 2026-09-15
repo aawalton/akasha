@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const giovannisShrimpTruck = {
   id: "019f1b49-52d1-77ae-95e8-b2585690f6ea",
-  type: "location",
+  type: "page-type/location",
   slug: "giovannis-shrimp-truck",
   title: "Giovanni's Shrimp Truck",
   latitude: 21.677198,

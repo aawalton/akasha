@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const frigidarium = {
   id: "019f1aec-0d9c-7770-b9dc-c8f426b651b6",
-  type: "location",
+  type: "page-type/location",
   slug: "frigidarium",
   title: "Frigidarium",
   latitude: 41.8793886,

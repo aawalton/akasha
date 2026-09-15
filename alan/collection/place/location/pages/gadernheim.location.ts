@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const gadernheim = {
   id: "019f1b49-5625-744e-a047-4eb25db9034b",
-  type: "location",
+  type: "page-type/location",
   slug: "gadernheim",
   title: "Gadernheim",
   latitude: 50.041821,

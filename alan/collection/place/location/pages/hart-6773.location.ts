@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hart6773 = {
   id: "019f1aec-0d8c-78fb-814b-055363216773",
-  type: "location",
+  type: "page-type/location",
   slug: "hart-6773",
   title: "Hart",
   latitude: 55.6953043,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const jcwsUtahCounty = {
   id: "019f322c-98b6-778a-9411-40a9dfde725c",
-  type: "location",
+  type: "page-type/location",
   slug: "jcws-utah-county",
   title: "JCW's (Utah County)",
   address: "Utah County, UT",

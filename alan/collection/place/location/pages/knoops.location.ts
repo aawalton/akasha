@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const knoops = {
   id: "019f1aec-0e76-7ea8-826d-36d1e177721e",
-  type: "location",
+  type: "page-type/location",
   slug: "knoops",
   title: "Knoops",
   latitude: 51.5019338,

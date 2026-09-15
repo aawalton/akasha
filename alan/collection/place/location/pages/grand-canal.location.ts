@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const grandCanal = {
   id: "019f1aec-0e1b-7a54-aa94-312680396250",
-  type: "location",
+  type: "page-type/location",
   slug: "grand-canal",
   title: "Grand Canal",
   latitude: 45.437773,

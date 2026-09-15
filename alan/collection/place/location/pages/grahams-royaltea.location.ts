@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const grahamsRoyaltea = {
   id: "019f1b49-50ee-7aa4-9013-d5024b1f3600",
-  type: "location",
+  type: "page-type/location",
   slug: "grahams-royaltea",
   title: "Graham's RoyalTea",
   latitude: 40.7892567,

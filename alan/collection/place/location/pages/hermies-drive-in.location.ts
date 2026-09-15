@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hermiesDriveIn = {
   id: "019f1aec-0d13-7462-9566-d0647bf7431f",
-  type: "location",
+  type: "page-type/location",
   slug: "hermies-drive-in",
   title: "Hermie's Drive In",
   latitude: 37.6824509,

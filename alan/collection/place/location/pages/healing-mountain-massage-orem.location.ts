@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const healingMountainMassageOrem = {
   id: "019f322c-96ce-7892-a8b0-422646e59409",
-  type: "location",
+  type: "page-type/location",
   slug: "healing-mountain-massage-orem",
   title: "Healing Mountain Massage (Orem)",
   address: "Orem, UT",

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const laCaille = {
   id: "019f1aec-0d0e-792d-b3ad-c5396728d5db",
-  type: "location",
+  type: "page-type/location",
   slug: "la-caille",
   title: "La Caille",
   latitude: 45.1538009,

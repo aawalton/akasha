@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const lasRamblas = {
   id: "019f1aec-0e6b-7936-a4c9-0fec0f0150a4",
-  type: "location",
+  type: "page-type/location",
   slug: "las-ramblas",
   title: "Las Ramblas",
   latitude: 41.380051,

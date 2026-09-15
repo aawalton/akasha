@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hukilauCafe = {
   id: "019f1b49-52b4-787b-aede-4155b726c028",
-  type: "location",
+  type: "page-type/location",
   slug: "hukilau-cafe",
   title: "Hukilau Cafe",
   latitude: 19.118947,

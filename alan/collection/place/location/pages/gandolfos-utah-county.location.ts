@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const gandolfosUtahCounty = {
   id: "019f322c-9643-7b9a-be53-bcdc431e856f",
-  type: "location",
+  type: "page-type/location",
   slug: "gandolfos-utah-county",
   title: "Gandolfo's (Utah County)",
   address: "Utah County, UT",

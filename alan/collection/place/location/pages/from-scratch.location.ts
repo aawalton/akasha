@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const fromScratch = {
   id: "019f1aec-0cc4-7e43-a6bb-094727f5dd96",
-  type: "location",
+  type: "page-type/location",
   slug: "from-scratch",
   title: "From Scratch",
   latitude: 35.7012772,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const leGrenierAPain = {
   id: "019f1aec-0dd3-7990-bf36-6f8e822cec64",
-  type: "location",
+  type: "page-type/location",
   slug: "le-grenier-a-pain",
   title: "Le Grenier à Pain",
   latitude: 48.8475066,

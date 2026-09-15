@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hallstatt = {
   id: "019f1aec-0f1f-7ce3-9077-197a099c486a",
-  type: "location",
+  type: "page-type/location",
   slug: "hallstatt",
   title: "Hallstatt",
   latitude: 47.5347939,

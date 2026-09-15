@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const katyaAndJohnIvie = {
   id: "019f1aec-0f4b-7587-9f31-77d8b2560e7f",
-  type: "location",
+  type: "page-type/location",
   slug: "katya-and-john-ivie",
   title: "Katya and John Ivie",
   address: "450 600 W, Orem, UT 84058, USA",

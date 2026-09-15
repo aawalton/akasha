@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const ghirardelliSodaFountainChocolateShopDisneyland = {
   id: "019f1aec-0f5e-781f-8a90-a26a39fcc6a9",
-  type: "location",
+  type: "page-type/location",
   slug: "ghirardelli-soda-fountain-chocolate-shop-disneyland",
   title: "Ghirardelli Soda Fountain & Chocolate Shop (Disneyland)",
   latitude: 33.8059755,

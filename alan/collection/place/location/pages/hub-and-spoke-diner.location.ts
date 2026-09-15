@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hubAndSpokeDiner = {
   id: "019f1b49-54db-7093-9daa-7584e857feae",
-  type: "location",
+  type: "page-type/location",
   slug: "hub-and-spoke-diner",
   title: "Hub and Spoke Diner",
   latitude: 40.7417598,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const geirangerfjord = {
   id: "019f1aec-0ee9-70a1-89de-01383eaa75f6",
-  type: "location",
+  type: "page-type/location",
   slug: "geirangerfjord",
   title: "Geirangerfjord",
   latitude: 62.1031443,

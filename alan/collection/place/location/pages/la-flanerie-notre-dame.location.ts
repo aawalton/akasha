@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const laFlanerieNotreDame = {
   id: "019f1b49-540c-7fd7-b7bf-f808a337ed88",
-  type: "location",
+  type: "page-type/location",
   slug: "la-flanerie-notre-dame",
   title: "La Flânerie Notre-Dame",
   latitude: 48.6488394,

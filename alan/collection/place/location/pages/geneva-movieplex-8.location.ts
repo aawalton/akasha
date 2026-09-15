@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const genevaMovieplex8 = {
   id: "019f1aec-1038-709e-a7a4-e7466f58f319",
-  type: "location",
+  type: "page-type/location",
   slug: "geneva-movieplex-8",
   title: "Geneva Movieplex 8",
   address: "369 Hamilton St, Geneva, NY 14456, United States",

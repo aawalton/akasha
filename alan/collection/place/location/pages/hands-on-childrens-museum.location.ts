@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const handsOnChildrensMuseum = {
   id: "019f1aec-0c8f-7f40-ab8f-2f5520029a60",
-  type: "location",
+  type: "page-type/location",
   slug: "hands-on-childrens-museum",
   title: "Hands On Children's Museum",
   latitude: 47.0480125,

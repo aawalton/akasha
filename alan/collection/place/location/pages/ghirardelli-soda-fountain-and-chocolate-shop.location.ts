@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const ghirardelliSodaFountainAndChocolateShop = {
   id: "019f1b49-5772-7bc6-8c57-d9ef20ca5879",
-  type: "location",
+  type: "page-type/location",
   slug: "ghirardelli-soda-fountain-and-chocolate-shop",
   title: "Ghirardelli Soda Fountain and Chocolate Shop",
   latitude: 35.870661,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const groerTiergarten = {
   id: "019f1aec-0d5b-7395-b4c7-f6287b3cc60b",
-  type: "location",
+  type: "page-type/location",
   slug: "groer-tiergarten",
   title: "Großer Tiergarten",
   latitude: 52.5163027,

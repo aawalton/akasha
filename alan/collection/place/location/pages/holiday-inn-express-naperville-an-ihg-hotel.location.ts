@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const holidayInnExpressNapervilleAnIhgHotel = {
   id: "019f1b49-54ae-770e-bd3e-0955f4b10699",
-  type: "location",
+  type: "page-type/location",
   slug: "holiday-inn-express-naperville-an-ihg-hotel",
   title: "Holiday Inn Express Naperville, an IHG Hotel",
   latitude: 41.804989,

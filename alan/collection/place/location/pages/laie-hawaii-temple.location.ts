@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const laieHawaiiTemple = {
   id: "019f1b49-52db-74cd-8aa1-5d53e18f0e7a",
-  type: "location",
+  type: "page-type/location",
   slug: "laie-hawaii-temple",
   title: "Laie Hawaii Temple",
   latitude: 21.6472444,

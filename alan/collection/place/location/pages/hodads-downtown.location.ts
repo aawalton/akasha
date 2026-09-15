@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hodadsDowntown = {
   id: "019f1aec-0e60-71c8-a439-8ed90383ca93",
-  type: "location",
+  type: "page-type/location",
   slug: "hodads-downtown",
   title: "Hodad's Downtown",
   latitude: 32.7155106,

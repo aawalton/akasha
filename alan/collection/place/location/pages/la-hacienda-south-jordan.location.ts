@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const laHaciendaSouthJordan = {
   id: "019f1b49-5250-7667-8e8f-6561d8a9591f",
-  type: "location",
+  type: "page-type/location",
   slug: "la-hacienda-south-jordan",
   title: "La Hacienda South Jordan",
   latitude: 40.5633579,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const getoutGames = {
   id: "019f1aec-1027-7e80-815f-31373c15733a",
-  type: "location",
+  type: "page-type/location",
   slug: "getout-games",
   title: "Getout Games",
   address: "283 N University Ave, Provo, UT 84601, United States",

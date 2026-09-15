@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const jackOLanternCommentsJackOLanternPngFreeTransparentPngClipartImagesDownload = {
   id: "019f1b49-5666-7899-accb-a5f74fe654aa",
-  type: "location",
+  type: "page-type/location",
   slug: "jack-o-lantern-comments-jack-o-lantern-png-free-transparent-png-clipart-images-download",
   title:
     "Jack O Lantern Comments - Jack O Lantern Png - Free Transparent PNG Clipart \nImages Download",

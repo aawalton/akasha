@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const greenIguanaMexicanRestaurant = {
   id: "019f1b49-55fe-7fa0-9e4a-7c9ee46e6c5a",
-  type: "location",
+  type: "page-type/location",
   slug: "green-iguana-mexican-restaurant",
   title: "Green Iguana Mexican Restaurant",
   latitude: 38.0861852,

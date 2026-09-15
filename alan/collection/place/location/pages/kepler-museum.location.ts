@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const keplerMuseum = {
   id: "019f1b49-5622-75c6-9e2e-9463cf655df8",
-  type: "location",
+  type: "page-type/location",
   slug: "kepler-museum",
   title: "Kepler-Museum",
   latitude: 50.1106444,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const laSagradaFamilia = {
   id: "019f1aec-0e74-7696-954d-dcf28547771f",
-  type: "location",
+  type: "page-type/location",
   slug: "la-sagrada-familia",
   title: "La Sagrada Familia",
   latitude: 41.4044407,

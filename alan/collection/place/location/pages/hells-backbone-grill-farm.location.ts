@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hellsBackboneGrillFarm = {
   id: "019f1b49-5274-7cd8-ba6a-7aa7a141f209",
-  type: "location",
+  type: "page-type/location",
   slug: "hells-backbone-grill-farm",
   title: "Hell's Backbone Grill & Farm",
   latitude: 34.783666,

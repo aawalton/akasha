@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const garageGrillSaltFlatsBarHerriman = {
   id: "019f1b49-573e-74b3-9e5b-e444ece83596",
-  type: "location",
+  type: "page-type/location",
   slug: "garage-grill-salt-flats-bar-herriman",
   title: "Garage Grill & Salt Flats Bar Herriman",
   latitude: 40.691946,

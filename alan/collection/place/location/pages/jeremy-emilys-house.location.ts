@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const jeremyEmilysHouse = {
   id: "019f1aec-0f32-7153-8cd5-ef5aaedff1c8",
-  type: "location",
+  type: "page-type/location",
   slug: "jeremy-emilys-house",
   title: "Jeremy & Emily’s House",
   address: "499 N 1520 E, Lehi, UT 84043, United States",

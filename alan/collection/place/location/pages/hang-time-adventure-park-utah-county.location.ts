@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hangTimeAdventureParkUtahCounty = {
   id: "019f322c-96c7-74d8-998a-f100f596f540",
-  type: "location",
+  type: "page-type/location",
   slug: "hang-time-adventure-park-utah-county",
   title: "Hang Time Adventure Park (Utah County)",
   address: "Utah County, UT",

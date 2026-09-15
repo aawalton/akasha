@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const jambaJuiceWestJordan = {
   id: "019f322c-989a-734b-b4b2-3464b228f5e8",
-  type: "location",
+  type: "page-type/location",
   slug: "jamba-juice-west-jordan",
   title: "Jamba Juice (West Jordan)",
   address: "West Jordan, UT",

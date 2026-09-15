@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const kailuaBeachPark = {
   id: "019f1b49-52b0-7570-9495-9a67412028f8",
-  type: "location",
+  type: "page-type/location",
   slug: "kailua-beach-park",
   title: "Kailua Beach Park",
   latitude: 21.397232,

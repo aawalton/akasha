@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const jardinsArtigas = {
   id: "019f1aec-0e67-7d3a-8828-70a20dadf17c",
-  type: "location",
+  type: "page-type/location",
   slug: "jardins-artigas",
   title: "Jardins Artigas",
   latitude: 42.2529837,

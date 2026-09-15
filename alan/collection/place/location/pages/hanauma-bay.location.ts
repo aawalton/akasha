@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hanaumaBay = {
   id: "019f1b49-52d8-7819-bd3a-9f81378452e5",
-  type: "location",
+  type: "page-type/location",
   slug: "hanauma-bay",
   title: "Hanauma Bay",
   latitude: 30.08084,

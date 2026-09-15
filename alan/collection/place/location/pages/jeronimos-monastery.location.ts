@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const jeronimosMonastery = {
   id: "019f1aec-0ec8-7e11-8b4a-a078beedaf49",
-  type: "location",
+  type: "page-type/location",
   slug: "jeronimos-monastery",
   title: "Jerónimos Monastery",
   latitude: 38.6977531,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const gardnerVillage = {
   id: "019f1aec-0fde-7300-86f1-860f718f4a7f",
-  type: "location",
+  type: "page-type/location",
   slug: "gardner-village",
   title: "Gardner Village",
   address: "1100 W 7800 S, West Jordan, UT 84088, United States",

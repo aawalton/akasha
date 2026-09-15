@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const grootBijgaardenCastle = {
   id: "019f1b49-56f7-7f3c-a401-6ff9a09dde35",
-  type: "location",
+  type: "page-type/location",
   slug: "groot-bijgaarden-castle",
   title: "Groot-Bijgaarden Castle",
   latitude: 50.87134,

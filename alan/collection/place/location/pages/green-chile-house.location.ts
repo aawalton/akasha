@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const greenChileHouse = {
   id: "019f1b49-51b7-76ca-9bd3-87dfd983235d",
-  type: "location",
+  type: "page-type/location",
   slug: "green-chile-house",
   title: "Green Chile House",
   latitude: 22.4712803,

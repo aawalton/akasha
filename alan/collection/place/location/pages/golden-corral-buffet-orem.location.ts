@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const goldenCorralBuffetOrem = {
   id: "019f322c-96a3-70f7-9e67-2803f5be39b9",
-  type: "location",
+  type: "page-type/location",
   slug: "golden-corral-buffet-orem",
   title: "Golden Corral Buffet (Orem)",
   address: "Orem, UT",

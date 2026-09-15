@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const jiffyLubeUtahCounty = {
   id: "019f322c-9913-7a40-b9f2-5e4c13cd8cec",
-  type: "location",
+  type: "page-type/location",
   slug: "jiffy-lube-utah-county",
   title: "Jiffy Lube (Utah County)",
   address: "Utah County, UT",

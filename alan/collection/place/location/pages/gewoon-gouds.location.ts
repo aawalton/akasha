@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const gewoonGouds = {
   id: "019f1aec-0e22-7996-907f-63c624e8e24c",
-  type: "location",
+  type: "page-type/location",
   slug: "gewoon-gouds",
   title: "Gewoon Gouds",
   latitude: 52.012327,

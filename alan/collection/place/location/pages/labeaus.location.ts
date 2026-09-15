@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const labeaus = {
   id: "019f1b49-57ac-78e1-aeeb-3c6ba39d20a5",
-  type: "location",
+  type: "page-type/location",
   slug: "labeaus",
   title: "LaBeau's",
   latitude: 39.297962,

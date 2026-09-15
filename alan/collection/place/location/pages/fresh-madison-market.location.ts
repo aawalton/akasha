@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const freshMadisonMarket = {
   id: "019f1aec-0f70-7bae-8725-dccb8ee7a1b7",
-  type: "location",
+  type: "page-type/location",
   slug: "fresh-madison-market",
   title: "Fresh Madison Market",
   latitude: 43.072775,

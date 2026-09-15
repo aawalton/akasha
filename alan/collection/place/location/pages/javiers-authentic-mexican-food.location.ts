@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const javiersAuthenticMexicanFood = {
   id: "019f1b49-528d-7fc7-b6b7-5ce3ce11d965",
-  type: "location",
+  type: "page-type/location",
   slug: "javiers-authentic-mexican-food",
   title: "Javier's Authentic Mexican Food",
   latitude: 40.7913137,

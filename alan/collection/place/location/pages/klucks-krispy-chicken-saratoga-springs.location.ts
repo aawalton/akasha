@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const klucksKrispyChickenSaratogaSprings = {
   id: "019f322c-9969-70cd-af1e-3fbce1fc163b",
-  type: "location",
+  type: "page-type/location",
   slug: "klucks-krispy-chicken-saratoga-springs",
   title: "Klucks Krispy Chicken (Saratoga Springs)",
   address: "Saratoga Springs, UT",

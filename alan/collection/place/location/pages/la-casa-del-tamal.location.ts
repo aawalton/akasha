@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const laCasaDelTamal = {
   id: "019f1aec-0d2d-74c3-95b4-064467b050fc",
-  type: "location",
+  type: "page-type/location",
   slug: "la-casa-del-tamal",
   title: "La Casa Del Tamal",
   latitude: 40.7570353,

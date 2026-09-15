@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const leftForkGrill = {
   id: "019f1b49-54e8-7032-8a81-48caa9382b05",
-  type: "location",
+  type: "page-type/location",
   slug: "left-fork-grill",
   title: "Left Fork Grill",
   latitude: 39.58454,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const karaoke38UtahCounty = {
   id: "019f322c-9919-70a3-aba7-f3273a69ebd0",
-  type: "location",
+  type: "page-type/location",
   slug: "karaoke38-utah-county",
   title: "Karaoke38 (Utah County)",
   address: "Utah County, UT",

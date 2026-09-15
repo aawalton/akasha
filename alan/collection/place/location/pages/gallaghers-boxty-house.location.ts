@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const gallaghersBoxtyHouse = {
   id: "019f1b49-5318-7aa5-8d01-167570758d91",
-  type: "location",
+  type: "page-type/location",
   slug: "gallaghers-boxty-house",
   title: "Gallaghers Boxty House",
   latitude: 53.3456973,

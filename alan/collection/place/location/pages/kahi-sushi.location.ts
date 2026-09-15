@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const kahiSushi = {
   id: "019f1aec-0eec-76cd-9e3c-eed334782b16",
-  type: "location",
+  type: "page-type/location",
   slug: "kahi-sushi",
   title: "Kahi Sushi",
   latitude: 40.3784897,

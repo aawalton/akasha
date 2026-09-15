@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const gelateriaArtigianaleLaCorona = {
   id: "019f1b49-53c0-7234-9fed-7fad968dbec4",
-  type: "location",
+  type: "page-type/location",
   slug: "gelateria-artigianale-la-corona",
   title: 'Gelateria Artigianale "La Corona"',
   latitude: 43.13203,

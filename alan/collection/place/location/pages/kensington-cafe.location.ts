@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const kensingtonCafe = {
   id: "019f1aec-0e54-7675-afde-f98f7575dc7b",
-  type: "location",
+  type: "page-type/location",
   slug: "kensington-cafe",
   title: "Kensington Cafe",
   address: "4141 Adams Ave, San Diego, CA 92116, United States",

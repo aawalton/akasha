@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const legolandCalifornia = {
   id: "019f1aec-0f5a-78a4-8918-6d9e263df321",
-  type: "location",
+  type: "page-type/location",
   slug: "legoland-california",
   title: "LEGOLAND California",
   latitude: 33.1262316,

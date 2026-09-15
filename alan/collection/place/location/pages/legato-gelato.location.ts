@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const legatoGelato = {
   id: "019f1aec-0df9-76e2-bf26-b23abea9588b",
-  type: "location",
+  type: "page-type/location",
   slug: "legato-gelato",
   title: "Legato Gelato",
   latitude: 36.1429734,

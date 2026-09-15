@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const ikono = {
   id: "019f1aec-0d6b-77fc-ae13-ab6e42978261",
-  type: "location",
+  type: "page-type/location",
   slug: "ikono",
   title: "IKONO",
   latitude: 40.4089056,

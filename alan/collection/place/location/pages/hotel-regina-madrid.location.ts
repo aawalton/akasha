@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hotelReginaMadrid = {
   id: "019f1aec-0d67-7de6-bd43-e113c740f65e",
-  type: "location",
+  type: "page-type/location",
   slug: "hotel-regina-madrid",
   title: "Hotel Regina Madrid",
   latitude: 40.4179496,

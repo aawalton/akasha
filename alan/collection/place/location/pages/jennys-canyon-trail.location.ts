@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const jennysCanyonTrail = {
   id: "019f1b49-55f5-7844-81a6-9346e61aeb33",
-  type: "location",
+  type: "page-type/location",
   slug: "jennys-canyon-trail",
   title: "Jenny's Canyon Trail",
   latitude: -33.960833,

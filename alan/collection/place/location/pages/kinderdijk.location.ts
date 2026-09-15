@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const kinderdijk = {
   id: "019f1aec-0e26-75d2-a823-501fd1fdd5f8",
-  type: "location",
+  type: "page-type/location",
   slug: "kinderdijk",
   title: "Kinderdijk",
   latitude: 51.8886955,

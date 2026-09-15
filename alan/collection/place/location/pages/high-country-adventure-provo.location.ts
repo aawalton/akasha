@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const highCountryAdventureProvo = {
   id: "019f322c-9707-7dc2-967c-c575101ce223",
-  type: "location",
+  type: "page-type/location",
   slug: "high-country-adventure-provo",
   title: "High Country Adventure (Provo)",
   address: "Provo, UT",

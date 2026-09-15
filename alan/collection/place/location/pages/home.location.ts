@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const home = {
   id: "019f1aec-0f26-757d-a377-7800fd0b4f57",
-  type: "location",
+  type: "page-type/location",
   slug: "home",
   title: "Home",
   address: "1350 Apple Ave, Provo, UT 84604, United States",

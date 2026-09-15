@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hamptonInnSuitesDownersGroveChicago = {
   id: "019f1b49-54b1-7524-8f62-851b4050ef7b",
-  type: "location",
+  type: "page-type/location",
   slug: "hampton-inn-suites-downers-grove-chicago",
   title: "Hampton Inn & Suites Downers Grove Chicago",
   latitude: 41.8279,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const iolaniPalace = {
   id: "019f1b49-52b8-7c8f-9e38-f6a8f7ec0a0f",
-  type: "location",
+  type: "page-type/location",
   slug: "iolani-palace",
   title: "Iolani Palace",
   latitude: 21.31,

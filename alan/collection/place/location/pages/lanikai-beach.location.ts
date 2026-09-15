@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const lanikaiBeach = {
   id: "019f1b49-52ae-7eff-ab87-c8e934e9c317",
-  type: "location",
+  type: "page-type/location",
   slug: "lanikai-beach",
   title: "Lanikai Beach",
   latitude: 19.050612,

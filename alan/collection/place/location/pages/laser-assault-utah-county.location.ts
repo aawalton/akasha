@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const laserAssaultUtahCounty = {
   id: "019f322c-99df-759b-9ecc-311756962832",
-  type: "location",
+  type: "page-type/location",
   slug: "laser-assault-utah-county",
   title: "Laser Assault (Utah County)",
   address: "Utah County, UT",

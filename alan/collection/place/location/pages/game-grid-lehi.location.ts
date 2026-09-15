@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const gameGridLehi = {
   id: "019f322c-9602-795f-a410-e04ff402dbf4",
-  type: "location",
+  type: "page-type/location",
   slug: "game-grid-lehi",
   title: "Game Grid (Lehi)",
   address: "Lehi, UT",

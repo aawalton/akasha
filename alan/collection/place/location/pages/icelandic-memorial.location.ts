@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const icelandicMemorial = {
   id: "019f1b49-51a2-79df-86b9-27f2285e4ecd",
-  type: "location",
+  type: "page-type/location",
   slug: "icelandic-memorial",
   title: "Icelandic Memorial",
   latitude: 40.1046625,

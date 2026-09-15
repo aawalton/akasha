@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const laserManiaFamilyFunCenter = {
   id: "019f1aec-0e89-7b92-b47b-28a55f8f22b9",
-  type: "location",
+  type: "page-type/location",
   slug: "laser-mania-family-fun-center",
   title: "Laser Mania Family Fun Center",
   latitude: 37.1104466,

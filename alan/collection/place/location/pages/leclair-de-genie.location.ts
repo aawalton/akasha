@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const leclairDeGenie = {
   id: "019f1aec-0dd4-7eac-bebd-a95e81dd1ecd",
-  type: "location",
+  type: "page-type/location",
   slug: "leclair-de-genie",
   title: "L’Éclair de génie",
   latitude: 48.8815899,

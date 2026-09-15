@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hungryHawaiianUtahCounty = {
   id: "019f322c-9717-7023-993a-b478e1079e65",
-  type: "location",
+  type: "page-type/location",
   slug: "hungry-hawaiian-utah-county",
   title: "Hungry Hawaiian (Utah County)",
   address: "Utah County, UT",

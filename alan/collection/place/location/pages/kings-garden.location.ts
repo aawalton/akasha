@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const kingsGarden = {
   id: "019f1aec-0e0f-7a35-8532-d99610b6d471",
-  type: "location",
+  type: "page-type/location",
   slug: "kings-garden",
   title: "King's Garden",
   latitude: 59.3317431,

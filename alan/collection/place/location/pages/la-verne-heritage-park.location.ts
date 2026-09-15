@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const laVerneHeritagePark = {
   id: "019f1aec-0f67-792d-9811-0b3aba0f1b2b",
-  type: "location",
+  type: "page-type/location",
   slug: "la-verne-heritage-park",
   title: "La Verne Heritage Park",
   latitude: 34.1280071,

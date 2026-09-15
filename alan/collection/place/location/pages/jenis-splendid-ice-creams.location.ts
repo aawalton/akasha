@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const jenisSplendidIceCreams = {
   id: "019f1aec-0ddb-72e4-a4c3-55d6e494a3d4",
-  type: "location",
+  type: "page-type/location",
   slug: "jenis-splendid-ice-creams",
   title: "Jeni's Splendid Ice Creams",
   latitude: 36.1268847,

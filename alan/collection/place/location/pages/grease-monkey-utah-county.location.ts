@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const greaseMonkeyUtahCounty = {
   id: "019f322c-96ba-70da-8ad2-a9c05fe55b0a",
-  type: "location",
+  type: "page-type/location",
   slug: "grease-monkey-utah-county",
   title: "Grease Monkey (Utah County)",
   address: "Utah County, UT",

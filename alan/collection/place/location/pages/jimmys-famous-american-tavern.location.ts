@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const jimmysFamousAmericanTavern = {
   id: "019f1aec-0e53-7277-b736-b230fcc17fb4",
-  type: "location",
+  type: "page-type/location",
   slug: "jimmys-famous-american-tavern",
   title: "Jimmy's Famous American Tavern",
   latitude: 32.7250841,

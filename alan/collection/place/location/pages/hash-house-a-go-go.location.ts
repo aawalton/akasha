@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hashHouseAGoGo = {
   id: "019f1b49-55a7-75b5-9de8-517973eb5ea8",
-  type: "location",
+  type: "page-type/location",
   slug: "hash-house-a-go-go",
   title: "Hash House A Go Go",
   latitude: 36.118138,

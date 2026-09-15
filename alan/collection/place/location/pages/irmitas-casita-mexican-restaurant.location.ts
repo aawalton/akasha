@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const irmitasCasitaMexicanRestaurant = {
   id: "019f1b49-5601-792e-a365-141beed93af9",
-  type: "location",
+  type: "page-type/location",
   slug: "irmitas-casita-mexican-restaurant",
   title: "Irmita's Casita Mexican Restaurant",
   latitude: 31.8702598,

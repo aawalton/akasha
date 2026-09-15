@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const ganeshIndianCuisineUtahCounty = {
   id: "019f322c-964f-71eb-bcfe-296cdc0a3444",
-  type: "location",
+  type: "page-type/location",
   slug: "ganesh-indian-cuisine-utah-county",
   title: "Ganesh Indian Cuisine (Utah County)",
   address: "Utah County, UT",

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hallernesSmrrebrd = {
   id: "019f1aec-0d82-7ba1-b824-38f0974dfc19",
-  type: "location",
+  type: "page-type/location",
   slug: "hallernes-smrrebrd",
   title: "Hallernes Smørrebrød",
   latitude: 55.6799198,

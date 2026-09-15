@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hotelDaBaixa = {
   id: "019f1aec-0eb6-7c9f-82d2-7e6ee32fa37e",
-  type: "location",
+  type: "page-type/location",
   slug: "hotel-da-baixa",
   title: "Hotel da Baixa",
   latitude: 38.7121447,

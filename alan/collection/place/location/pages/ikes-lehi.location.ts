@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const ikesLehi = {
   id: "019f322c-971c-7669-a31f-c7d138aa512f",
-  type: "location",
+  type: "page-type/location",
   slug: "ikes-lehi",
   title: "Ike's (Lehi)",
   address: "Lehi, UT",

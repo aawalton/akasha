@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hatchFamilyChocolates = {
   id: "019f1aec-0d0c-7232-aac5-e589792e905e",
-  type: "location",
+  type: "page-type/location",
   slug: "hatch-family-chocolates",
   title: "Hatch Family Chocolates",
   latitude: 40.7782899,

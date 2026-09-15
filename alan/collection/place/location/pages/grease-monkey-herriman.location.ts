@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const greaseMonkeyHerriman = {
   id: "019f322c-96ae-7207-b7bc-643464e5dd34",
-  type: "location",
+  type: "page-type/location",
   slug: "grease-monkey-herriman",
   title: "Grease Monkey (Herriman)",
   address: "Herriman, UT",

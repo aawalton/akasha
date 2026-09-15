@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const laBrasiliana = {
   id: "019f1b49-5507-74f1-9205-3a044d9b612d",
-  type: "location",
+  type: "page-type/location",
   slug: "la-brasiliana",
   title: "La Brasiliana",
   latitude: 45.853742,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const ikeaCityStockholm = {
   id: "019f1aec-0e13-7977-8bd5-1a5a20bb1af1",
-  type: "location",
+  type: "page-type/location",
   slug: "ikea-city-stockholm",
   title: "IKEA City - Stockholm",
   latitude: 59.3303047,

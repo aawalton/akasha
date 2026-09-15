@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const greatHarvestBreadCoProvo = {
   id: "019f322c-96be-79e6-9df0-1347bf177846",
-  type: "location",
+  type: "page-type/location",
   slug: "great-harvest-bread-co-provo",
   title: "Great Harvest Bread Co. (Provo)",
   address: "Provo, UT",

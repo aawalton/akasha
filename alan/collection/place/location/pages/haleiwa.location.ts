@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const haleiwa = {
   id: "019f1b49-52aa-782c-bba7-ac6b4f94d607",
-  type: "location",
+  type: "page-type/location",
   slug: "haleiwa",
   title: "Haleiwa",
   latitude: 21.586206,

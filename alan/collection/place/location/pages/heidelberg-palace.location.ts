@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const heidelbergPalace = {
   id: "019f1b49-5623-7cc0-a690-5870d42860e5",
-  type: "location",
+  type: "page-type/location",
   slug: "heidelberg-palace",
   title: "Heidelberg Palace",
   latitude: 50.1106444,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const grandPlace = {
   id: "019f1aec-0ed3-7219-89d5-4309018672dc",
-  type: "location",
+  type: "page-type/location",
   slug: "grand-place",
   title: "Grand Place",
   latitude: 50.8467291,

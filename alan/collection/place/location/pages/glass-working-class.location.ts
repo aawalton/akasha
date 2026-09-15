@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const glassWorkingClass = {
   id: "019f1aec-0f34-7b03-82c6-d7cf3eea6dda",
-  type: "location",
+  type: "page-type/location",
   slug: "glass-working-class",
   title: "Glass Working Class",
   address: "Calle delle Ostreghe, 2442, 30124 Venezia VE, Italy",

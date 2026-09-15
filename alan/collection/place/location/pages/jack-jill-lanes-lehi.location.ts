@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const jackJillLanesLehi = {
   id: "019f322c-972a-7854-a343-387d6c9fc4ca",
-  type: "location",
+  type: "page-type/location",
   slug: "jack-jill-lanes-lehi",
   title: "Jack & Jill Lanes (Lehi)",
   address: "Lehi, UT",

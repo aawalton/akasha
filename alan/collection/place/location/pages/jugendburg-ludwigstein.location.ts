@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const jugendburgLudwigstein = {
   id: "019f1aec-0ef6-73d0-9aca-c9148a5178c5",
-  type: "location",
+  type: "page-type/location",
   slug: "jugendburg-ludwigstein",
   title: "Jugendburg Ludwigstein",
   latitude: 51.3217786,

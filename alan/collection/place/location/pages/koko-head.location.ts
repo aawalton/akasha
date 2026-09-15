@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const kokoHead = {
   id: "019f1b49-52be-78b2-8180-a561793315f3",
-  type: "location",
+  type: "page-type/location",
   slug: "koko-head",
   title: "Koko Head",
   latitude: 21.277741,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const laCocinaMexicanStreetFood = {
   id: "019f1b49-5603-7567-8c5f-f535cb753003",
-  type: "location",
+  type: "page-type/location",
   slug: "la-cocina-mexican-street-food",
   title: "La Cocina Mexican Street Food",
   latitude: 34.139256,

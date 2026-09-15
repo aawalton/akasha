@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const laSalsaPermanentlyClosed = {
   id: "019f1aec-0fef-7273-85eb-f57151c57b08",
-  type: "location",
+  type: "page-type/location",
   slug: "la-salsa-permanently-closed",
   title: "La Salsa - Permanently Closed",
   address: "1360 Orange Ave, Coronado, CA 92118, United States",

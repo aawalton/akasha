@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const gaudiHouseMuseum = {
   id: "019f1b49-55b8-7d9d-9566-7b558238e8b5",
-  type: "location",
+  type: "page-type/location",
   slug: "gaudi-house-museum",
   title: "Gaudí House Museum",
   latitude: 41.4098652,

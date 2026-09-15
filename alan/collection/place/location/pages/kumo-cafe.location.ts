@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const kumoCafe = {
   id: "019f1aec-0d17-722e-b063-51922ad9c738",
-  type: "location",
+  type: "page-type/location",
   slug: "kumo-cafe",
   title: "Kumo Cafe",
   latitude: 47.5020332,

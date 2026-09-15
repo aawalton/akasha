@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const hyttefadet = {
   id: "019f1aec-0d79-70a4-b012-9f16c7f8413a",
-  type: "location",
+  type: "page-type/location",
   slug: "hyttefadet",
   title: "Hyttefadet",
   latitude: 57.0242213,

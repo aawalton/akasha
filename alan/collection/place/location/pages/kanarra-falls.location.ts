@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const kanarraFalls = {
   id: "019f1b49-5660-7609-acdf-8cca94423dc6",
-  type: "location",
+  type: "page-type/location",
   slug: "kanarra-falls",
   title: "Kanarra Falls",
   latitude: 37.693327,

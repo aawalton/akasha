@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const grandOleOpry = {
   id: "019f1aec-0df3-7100-abc9-27be2b270972",
-  type: "location",
+  type: "page-type/location",
   slug: "grand-ole-opry",
   title: "Grand Ole Opry",
   latitude: 36.2069577,

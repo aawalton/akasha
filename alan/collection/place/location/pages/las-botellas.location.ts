@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const lasBotellas = {
   id: "019f1aec-0d1c-70cf-a541-9af23d226135",
-  type: "location",
+  type: "page-type/location",
   slug: "las-botellas",
   title: "Las Botellas",
   latitude: 8.6691218,

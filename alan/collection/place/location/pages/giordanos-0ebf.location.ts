@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const giordanos0ebf = {
   id: "019f1aec-0eae-7d6a-9415-a65eccd20ebf",
-  type: "location",
+  type: "page-type/location",
   slug: "giordanos-0ebf",
   title: "Giordano's",
   latitude: 41.8919214,
