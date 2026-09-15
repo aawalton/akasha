@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const turnStates = {
   id: "01a06828-cb99-70d4-bcad-c28091bb8c4c",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "turn-states",
   propertySlug: "turn-states",
   definition: "what an element was at, turn by turn",

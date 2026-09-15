@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const gateDimensions = {
   id: "01a06590-c57a-7c46-a898-fce1098205be",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "gate-dimensions",
   propertySlug: "gate-dimensions",
   definition: "what a turn is judged on before the turn is published",

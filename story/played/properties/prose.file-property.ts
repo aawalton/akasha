@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const prose = {
   id: "01a06424-329c-73d2-a881-67d728085a28",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "prose",
   propertySlug: "prose",
   definition: "the text a page carries, however long the text runs",

@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const foodEntryNote = {
   id: "01a065a3-6e8b-7a46-8d82-d17125d32225",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "food-entry-note",
   propertySlug: "note",
   definition: "what was eaten and how a food entry's figures were worked out",

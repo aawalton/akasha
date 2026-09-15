@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const webEntry = {
   id: "01a05934-fe0f-72e8-849f-599ed322020e",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "web-entry",
   propertySlug: "web-entry",
   definition: "the page a shell boots before it reaches its site",

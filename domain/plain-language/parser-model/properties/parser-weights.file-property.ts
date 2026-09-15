@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const parserWeights = {
   id: "01a06d3b-743e-7a19-bfa1-9abb1cb17381",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "parser-weights",
   propertySlug: "parser-weights",
   definition: "the trained graph saying which word a word hangs off",

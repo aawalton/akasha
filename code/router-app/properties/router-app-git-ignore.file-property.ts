@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const routerAppGitIgnore = {
   id: "01a081a4-e893-7a14-b7ba-c4f6c5977a3b",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "router-app-git-ignore",
   propertySlug: "git-ignore",
   definition: "what a build and an install leave behind that git does not keep",

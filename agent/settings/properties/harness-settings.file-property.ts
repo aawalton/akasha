@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const harnessSettings = {
   id: "01a0657b-ad40-7560-a9d3-d510dfab3cf8",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "harness-settings",
   propertySlug: "harness-settings",
   definition: "what an agent harness is told before the harness starts",

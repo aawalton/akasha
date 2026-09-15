@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const dockerIgnore = {
   id: "01a06cd1-f990-7f38-95fd-d574435778e7",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "docker-ignore",
   propertySlug: "docker-ignore",
   definition: "the paths a container build leaves out",

@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const stopGates = {
   id: "01a09b0a-a031-7f2c-928a-bfbf7e56eb21",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "stop-gates",
   propertySlug: "stop-gates",
   definition: "how far a hook got before it let a turn end, one line appended as that run ends",

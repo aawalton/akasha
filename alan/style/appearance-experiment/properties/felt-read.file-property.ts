@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const feltRead = {
   id: "01a0685d-b81f-75fb-859d-dbff41d461c4",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "felt-read",
   propertySlug: "felt-read",
   definition: "how the try landed on Alan wearing it",

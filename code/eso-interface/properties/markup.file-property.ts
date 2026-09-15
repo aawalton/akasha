@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const markup = {
   id: "01a06036-9b76-717b-a048-8886a8382f29",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "markup",
   propertySlug: "markup",
   definition: "the XML a page is",

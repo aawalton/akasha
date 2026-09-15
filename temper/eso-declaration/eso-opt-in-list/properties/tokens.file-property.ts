@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const tokens = {
   id: "01a081b0-82e6-75b2-91dd-dc777765ee0b",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "tokens",
   propertySlug: "tokens",
   definition: "the eso api token names a list holds, grouped by the kind of token",

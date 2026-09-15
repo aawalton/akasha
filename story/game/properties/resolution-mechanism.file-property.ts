@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const resolutionMechanism = {
   id: "01a0673c-8e0e-7013-ae6f-047f588f0390",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "resolution-mechanism",
   propertySlug: "resolution-mechanism",
   definition: "the machinery a game settles an action with",

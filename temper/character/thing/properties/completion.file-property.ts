@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const completion = {
   id: "01a05fc7-243a-7845-a43d-fcbdc7c24ce0",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "completion",
   propertySlug: "completion",
   definition: "what the game says has been finished, as the game handed it over",

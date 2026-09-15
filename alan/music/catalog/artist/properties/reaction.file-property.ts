@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const reaction = {
   id: "01a06243-144b-7011-8f74-d30df7a6c48b",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "reaction",
   propertySlug: "reaction",
   definition: "what Alan said about an artist when he read them",

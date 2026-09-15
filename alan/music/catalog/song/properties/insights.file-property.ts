@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const insights = {
   id: "01a06243-144b-700e-a1ca-924ff3e3afdf",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "insights",
   propertySlug: "insights",
   definition: "what Alan found in a song when he read it",

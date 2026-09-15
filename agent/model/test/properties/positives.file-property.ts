@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const positives = {
   id: "01a09b6d-4cdf-710e-83a5-07fa06d93f60",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "positives",
   propertySlug: "positives",
   definition: "a turn a test answered yes on, one line appended as that turn is judged",

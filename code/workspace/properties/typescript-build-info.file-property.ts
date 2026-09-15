@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const typescriptBuildInfo = {
   id: "01a06dd5-7342-74de-8e60-7a85c3deef6e",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "typescript-build-info",
   propertySlug: "typescript-build-info",
   definition: "what TypeScript already worked out about this tree, kept between runs",

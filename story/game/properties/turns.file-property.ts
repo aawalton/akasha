@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const turns = {
   id: "01a0673c-8e0e-7014-8deb-3231aa6c6114",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "turns",
   propertySlug: "turns",
   definition: "every turn a game has been played through",

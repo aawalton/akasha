@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const subagentReads = {
   id: "01a09cff-814a-7077-9e1f-fcf98a8e0100",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "subagent-reads",
   propertySlug: "subagent-reads",
   definition: "the readings a subagent under a seat had made when its page went",

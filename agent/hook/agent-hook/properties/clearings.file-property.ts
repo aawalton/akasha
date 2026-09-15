@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const clearings = {
   id: "01a09c42-2954-7ac4-b9bf-76a533d55823",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "clearings",
   propertySlug: "clearings",
   definition: "the contexts a hook cleared, one line for each",

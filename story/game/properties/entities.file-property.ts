@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const entities = {
   id: "01a0673c-8e0e-7015-a3a2-7c0b31e1cbde",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "entities",
   propertySlug: "entities",
   definition: "everyone and everything in a game's world",

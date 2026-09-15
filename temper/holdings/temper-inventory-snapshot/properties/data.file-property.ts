@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const data = {
   id: "01a0675d-04be-72a0-82d2-910e3f2f80d3",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "data",
   propertySlug: "data",
   definition: "the bytes one whole reading was written as",

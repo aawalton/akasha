@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const arcStructure = {
   id: "01a06577-f385-7d82-9322-ca4e27181d96",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "arc-structure",
   propertySlug: "arc-structure",
   definition: "the arcs a story is planned to run through",

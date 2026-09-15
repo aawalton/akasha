@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const shapes = {
   id: "01a0a224-fc4d-76d4-8d8e-0b56c5ae19fd",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "shapes",
   propertySlug: "shapes",
   definition: "what every page property of a page type is, one line to a property",

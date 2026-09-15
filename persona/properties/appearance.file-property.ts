@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const appearance = {
   id: "01a0658c-fbfe-7000-a50a-efaa762bf9d7",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "appearance",
   propertySlug: "appearance",
   definition: "what a persona looks like, written in her own voice",

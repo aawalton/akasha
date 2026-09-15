@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const writing = {
   id: "01a0657d-b91d-7400-8d2e-61275a1db1c9",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "writing",
   propertySlug: "writing",
   definition: "the markdown a page carries, however long the markdown runs",

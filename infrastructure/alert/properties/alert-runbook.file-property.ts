@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const alertRunbook = {
   id: "01a06755-0778-7275-8076-4aec6002693b",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "alert-runbook",
   propertySlug: "runbook",
   definition: "what to check once an alert is raised",

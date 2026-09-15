@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const reads = {
   id: "01a09c31-c3c6-74f8-9064-94c903e1ba85",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "reads",
   propertySlug: "reads",
   definition: "the bodies an agent has read, one line for each reading",

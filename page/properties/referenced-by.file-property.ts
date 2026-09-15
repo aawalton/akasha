@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const referencedBy = {
   id: "01a0a2e9-c513-7eed-aa47-3b272814218c",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "referenced-by",
   propertySlug: "referenced-by",
   definition: "what names this page or imports a file beside it, one line to a reference",

@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const styles = {
   id: "01a05b01-48b2-7b95-9b72-f48b799f4e5c",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "styles",
   propertySlug: "styles",
   definition: "the rules a browser dresses a thing by",

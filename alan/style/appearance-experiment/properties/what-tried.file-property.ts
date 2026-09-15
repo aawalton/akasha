@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const whatTried = {
   id: "01a0685d-b81f-7f8e-8a19-41a2bcc1be19",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "what-tried",
   propertySlug: "what-tried",
   definition: "the thing put on and what it was put on with",

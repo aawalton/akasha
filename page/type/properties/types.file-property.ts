@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const types = {
   id: "01a0879f-af02-7fcb-8c36-cd34429f89ab",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "types",
   propertySlug: "types",
   definition: "the type with a page type's stored keys beside its calculations",

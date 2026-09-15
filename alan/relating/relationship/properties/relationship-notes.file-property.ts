@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const relationshipNotes = {
   id: "01a06594-c6e2-7d44-a549-fae292dd4009",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "relationship-notes",
   propertySlug: "relationship-notes",
   definition: "what Alan keeps written about this person",

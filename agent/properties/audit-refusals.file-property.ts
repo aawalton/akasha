@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const auditRefusals = {
   id: "01a094bd-e107-7176-9d08-3acf8ccb369a",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "audit-refusals",
   propertySlug: "audit-refusals",
   definition: "what the last audit an agent ran refused",

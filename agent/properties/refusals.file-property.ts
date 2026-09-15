@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const refusals = {
   id: "01a08164-c068-734a-9643-dbd686a4e3cc",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "refusals",
   propertySlug: "refusals",
   definition: "why the landing an agent last tried was refused",

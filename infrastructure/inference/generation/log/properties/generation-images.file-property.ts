@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const generationImages = {
   id: "01a0685d-b81f-7a4b-bdfb-f1daf8fbfda4",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "generation-images",
   propertySlug: "images",
   definition: "every picture the runs in this log have made",

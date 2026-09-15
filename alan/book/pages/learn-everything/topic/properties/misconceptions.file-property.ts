@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const misconceptions = {
   id: "01a0659f-93da-700b-bde5-fd5dba638d0b",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "misconceptions",
   propertySlug: "misconceptions",
   definition: "the wrong models of a topic surfaced and corrected",

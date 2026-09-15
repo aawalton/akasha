@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const entitlements = {
   id: "01a05901-26b4-700d-b414-a3f259d1d170",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "entitlements",
   propertySlug: "entitlements",
   definition: "the capabilities a signed target is granted",

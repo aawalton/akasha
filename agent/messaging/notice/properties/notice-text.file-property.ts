@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const noticeText = {
   id: "01a06861-e7cd-7340-b6d9-e2011e270d0f",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "notice-text",
   propertySlug: "text",
   definition: "the words a notice hands to the seat the notice reaches",

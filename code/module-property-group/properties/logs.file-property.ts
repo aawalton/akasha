@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const logs = {
   id: "01a08bdc-91a1-7741-9e53-895095f3712f",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "logs",
   propertySlug: "logs",
   definition: "the cost of each run of a group's code, appended a line at a time",

@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const trims = {
   id: "01a0659e-e27e-78a9-bf4d-aa931e9a9cf8",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "trims",
   propertySlug: "trims",
   definition: "every trim of every model year the make sells",

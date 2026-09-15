@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const lines = {
   id: "01a0657c-cb14-7d57-b8ba-4bd082337746",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "lines",
   propertySlug: "lines",
   definition: "the console lines a source wrote for one seat on one day",

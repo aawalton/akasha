@@ -2,7 +2,7 @@ import type { FileProperty } from "akasha/page/file-property/file-property.page-
 
 export const statement = {
   id: "01a06575-c2ac-775e-b2b7-7612c1f4de2d",
-  type: "file-property",
+  type: "page-type/file-property",
   slug: "statement",
   propertySlug: "statement",
   definition: "what a proposition says, written out",
