@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theHeroWithAThousandFaces = {
   id: "019db533-f39d-7edf-955f-da21087c9ab3",
-  type: "book",
+  type: "page-type/book",
   slug: "the-hero-with-a-thousand-faces",
   title: "The Hero with a Thousand Faces",
   status: "not-started",

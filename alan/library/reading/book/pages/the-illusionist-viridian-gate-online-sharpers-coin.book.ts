@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theIllusionistViridianGateOnlineSharpersCoin = {
   id: "019db533-f38a-7341-87de-d2f5492e1b22",
-  type: "book",
+  type: "page-type/book",
   slug: "the-illusionist-viridian-gate-online-sharpers-coin",
   title: "The Illusionist: Viridian Gate Online: Sharper's Coin",
   status: "not-started",

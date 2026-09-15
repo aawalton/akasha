@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGoodGuysOfSlicingMen = {
   id: "019db533-f391-7943-ac5f-b17fdff21d45",
-  type: "book",
+  type: "page-type/book",
   slug: "the-good-guys-of-slicing-men",
   title: "The Good Guys: Of Slicing Men",
   status: "not-started",

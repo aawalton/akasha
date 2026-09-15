@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theLostFleetRelentless = {
   id: "019db533-f39a-78f0-b041-caa5fefd323f",
-  type: "book",
+  type: "page-type/book",
   slug: "the-lost-fleet-relentless",
   title: "The Lost Fleet: Relentless",
   status: "not-started",

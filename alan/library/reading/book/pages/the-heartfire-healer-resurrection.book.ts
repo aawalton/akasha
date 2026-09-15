@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theHeartfireHealerResurrection = {
   id: "019db533-f38a-730e-bf63-49e2953eec70",
-  type: "book",
+  type: "page-type/book",
   slug: "the-heartfire-healer-resurrection",
   title: "The Heartfire Healer: Resurrection",
   status: "not-started",

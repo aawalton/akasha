@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theLegendOfRandidlyGhosthound8 = {
   id: "019db533-f391-79da-9401-1da508f4b91e",
-  type: "book",
+  type: "page-type/book",
   slug: "the-legend-of-randidly-ghosthound-8",
   title: "The Legend of Randidly Ghosthound 8",
   status: "completed",

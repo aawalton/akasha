@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const thePoetryOfRobertFrost = {
   id: "019db533-f39d-759e-a12b-936d126a1844",
-  type: "book",
+  type: "page-type/book",
   slug: "the-poetry-of-robert-frost",
   title: "The Poetry of Robert Frost",
   status: "paused",

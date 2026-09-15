@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theScienceOfTrust = {
   id: "019db533-f39d-7f6b-9140-56bd69fcd686",
-  type: "book",
+  type: "page-type/book",
   slug: "the-science-of-trust",
   title: "The Science of Trust",
   status: "completed",

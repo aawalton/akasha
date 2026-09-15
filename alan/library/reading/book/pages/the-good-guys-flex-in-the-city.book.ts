@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGoodGuysFlexInTheCity = {
   id: "019db533-f391-7927-a77c-7497703df31e",
-  type: "book",
+  type: "page-type/book",
   slug: "the-good-guys-flex-in-the-city",
   title: "The Good Guys: Flex in the City",
   status: "not-started",

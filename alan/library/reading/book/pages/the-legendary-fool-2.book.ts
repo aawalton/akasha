@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theLegendaryFool2 = {
   id: "019db533-f391-7a11-82dd-cc2c7a7d89e0",
-  type: "book",
+  type: "page-type/book",
   slug: "the-legendary-fool-2",
   title: "The Legendary Fool 2",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theRelationshipCure = {
   id: "019db533-f39d-7e66-8fff-e08af2d7ee64",
-  type: "book",
+  type: "page-type/book",
   slug: "the-relationship-cure",
   title: "The Relationship Cure",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGreatBooksOfTheWesternWorld14Tacitus = {
   id: "019db533-f39d-7906-9f6a-7b88578df4a5",
-  type: "book",
+  type: "page-type/book",
   slug: "the-great-books-of-the-western-world-14-tacitus",
   title: "The Great Books of the Western World 14: Tacitus",
   status: "not-started",

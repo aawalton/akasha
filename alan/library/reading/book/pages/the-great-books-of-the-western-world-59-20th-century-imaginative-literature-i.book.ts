@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGreatBooksOfTheWesternWorld5920thCenturyImaginativeLiteratureI = {
   id: "019db533-f39d-77bb-97c8-60e300c5d26a",
-  type: "book",
+  type: "page-type/book",
   slug: "the-great-books-of-the-western-world-59-20th-century-imaginative-literature-i",
   title: "The Great Books of the Western World 59: 20th Century Imaginative Literature I",
   status: "not-started",

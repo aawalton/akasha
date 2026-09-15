@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGreatBooksOfTheWesternWorld49Darwin = {
   id: "019db533-f39d-767d-bae9-bc882fcd51b9",
-  type: "book",
+  type: "page-type/book",
   slug: "the-great-books-of-the-western-world-49-darwin",
   title: "The Great Books of the Western World 49: Darwin",
   status: "not-started",

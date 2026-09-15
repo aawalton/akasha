@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGreatBooksOfTheWesternWorld15PtolemyCopernicusKepler = {
   id: "019db533-f39d-77f1-b944-04e46324cb64",
-  type: "book",
+  type: "page-type/book",
   slug: "the-great-books-of-the-western-world-15-ptolemy-copernicus-kepler",
   title: "The Great Books of the Western World 15: Ptolemy, Copernicus, Kepler",
   status: "not-started",

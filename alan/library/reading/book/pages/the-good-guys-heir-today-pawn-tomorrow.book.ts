@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGoodGuysHeirTodayPawnTomorrow = {
   id: "019db533-f391-7974-8924-c050a2883e34",
-  type: "book",
+  type: "page-type/book",
   slug: "the-good-guys-heir-today-pawn-tomorrow",
   title: "The Good Guys: Heir Today, Pawn Tomorrow",
   status: "completed",

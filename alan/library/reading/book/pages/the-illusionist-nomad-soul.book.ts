@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theIllusionistNomadSoul = {
   id: "019db533-f38a-7359-a1bd-8231315cac3a",
-  type: "book",
+  type: "page-type/book",
   slug: "the-illusionist-nomad-soul",
   title: "The Illusionist: Nomad Soul",
   status: "completed",

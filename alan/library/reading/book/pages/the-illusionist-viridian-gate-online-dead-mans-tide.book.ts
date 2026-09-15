@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theIllusionistViridianGateOnlineDeadMansTide = {
   id: "019db533-f38a-7302-9d7a-b1529f7d52e9",
-  type: "book",
+  type: "page-type/book",
   slug: "the-illusionist-viridian-gate-online-dead-mans-tide",
   title: "The Illusionist: Viridian Gate Online: Dead Man's Tide",
   status: "completed",

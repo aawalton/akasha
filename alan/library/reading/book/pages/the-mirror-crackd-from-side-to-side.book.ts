@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theMirrorCrackdFromSideToSide = {
   id: "019db533-f399-7bb5-aed6-e97d0176b240",
-  type: "book",
+  type: "page-type/book",
   slug: "the-mirror-crackd-from-side-to-side",
   title: "The Mirror Crack'd from Side to Side",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const thePoemsOfRobertBrowning = {
   id: "019db533-f39d-75ee-bcb9-619efda5a0df",
-  type: "book",
+  type: "page-type/book",
   slug: "the-poems-of-robert-browning",
   title: "The Poems of Robert Browning",
   status: "not-started",

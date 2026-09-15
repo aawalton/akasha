@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theIllusionistViridianGateOnlineInquisitorsFoil = {
   id: "019db533-f38a-731a-8cf5-e442845f4d22",
-  type: "book",
+  type: "page-type/book",
   slug: "the-illusionist-viridian-gate-online-inquisitors-foil",
   title: "The Illusionist: Viridian Gate Online: Inquisitor's Foil",
   status: "completed",

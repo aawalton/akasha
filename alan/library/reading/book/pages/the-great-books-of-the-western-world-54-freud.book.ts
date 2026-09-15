@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGreatBooksOfTheWesternWorld54Freud = {
   id: "019db533-f39d-77e2-b72f-76e3c479d1ef",
-  type: "book",
+  type: "page-type/book",
   slug: "the-great-books-of-the-western-world-54-freud",
   title: "The Great Books of the Western World 54: Freud",
   status: "not-started",

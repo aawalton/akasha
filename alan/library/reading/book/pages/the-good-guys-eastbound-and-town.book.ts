@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGoodGuysEastboundAndTown = {
   id: "019db533-f391-7954-a627-e0f676cd5236",
-  type: "book",
+  type: "page-type/book",
   slug: "the-good-guys-eastbound-and-town",
   title: "The Good Guys: Eastbound and Town",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theMovingFinger = {
   id: "019db533-f399-7c4a-847f-5ac2c2baa8df",
-  type: "book",
+  type: "page-type/book",
   slug: "the-moving-finger",
   title: "The Moving Finger",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGoodGuysOneMoreLastTime = {
   id: "019db533-f391-796c-9de0-437457d86a7d",
-  type: "book",
+  type: "page-type/book",
   slug: "the-good-guys-one-more-last-time",
   title: "The Good Guys: One More Last Time",
   status: "completed",

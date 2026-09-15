@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const thePathOfAscension6 = {
   id: "019db533-f391-737e-8660-3d0aea8dfecf",
-  type: "book",
+  type: "page-type/book",
   slug: "the-path-of-ascension-6",
   title: "The Path of Ascension 6",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGreatBooksOfTheWesternWorld35MontesquieuRousseau = {
   id: "019db533-f39d-76ef-9088-69462deb10d8",
-  type: "book",
+  type: "page-type/book",
   slug: "the-great-books-of-the-western-world-35-montesquieu-rousseau",
   title: "The Great Books of the Western World 35: Montesquieu, Rousseau",
   status: "not-started",

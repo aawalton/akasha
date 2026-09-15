@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theFoundersConstitutionVolume4 = {
   id: "019db533-f39d-72f8-89a7-4b708fbcb106",
-  type: "book",
+  type: "page-type/book",
   slug: "the-founders-constitution-volume-4",
   title: "The Founders Constitution Volume 4",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theLostEdgeEdgeOfTheWoods = {
   id: "019db533-f38a-73c5-a6fe-2b1065785b97",
-  type: "book",
+  type: "page-type/book",
   slug: "the-lost-edge-edge-of-the-woods",
   title: "The Lost Edge: Edge of the Woods",
   status: "not-started",

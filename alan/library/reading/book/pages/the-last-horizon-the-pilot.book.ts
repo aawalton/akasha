@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theLastHorizonThePilot = {
   id: "019db533-f38a-7ebf-ad91-577a22947daf",
-  type: "book",
+  type: "page-type/book",
   slug: "the-last-horizon-the-pilot",
   title: "The Last Horizon: The Pilot",
   status: "not-started",

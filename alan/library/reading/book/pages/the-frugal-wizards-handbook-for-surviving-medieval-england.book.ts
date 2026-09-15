@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theFrugalWizardsHandbookForSurvivingMedievalEngland = {
   id: "019db533-f39d-727a-8930-c085885d6434",
-  type: "book",
+  type: "page-type/book",
   slug: "the-frugal-wizards-handbook-for-surviving-medieval-england",
   title: "The Frugal Wizard's Handbook for Surviving Medieval England",
   status: "not-started",

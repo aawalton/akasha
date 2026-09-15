@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theRithmatist = {
   id: "019db533-f39d-7273-80b0-eb874d10a945",
-  type: "book",
+  type: "page-type/book",
   slug: "the-rithmatist",
   title: "The Rithmatist",
   status: "not-started",

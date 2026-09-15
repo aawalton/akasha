@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGam3SacrificialPieces = {
   id: "019db533-f391-78ec-ab72-ea7b7b261162",
-  type: "book",
+  type: "page-type/book",
   slug: "the-gam3-sacrificial-pieces",
   title: "The Gam3: Sacrificial Pieces",
   status: "completed",

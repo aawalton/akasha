@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGreatBooksOfTheWesternWorld10EuclidArchimedesNicomachus = {
   id: "019db533-f39d-793a-843b-657e9670d509",
-  type: "book",
+  type: "page-type/book",
   slug: "the-great-books-of-the-western-world-10-euclid-archimedes-nicomachus",
   title: "The Great Books of the Western World 10: Euclid, Archimedes, Nicomachus",
   status: "paused",

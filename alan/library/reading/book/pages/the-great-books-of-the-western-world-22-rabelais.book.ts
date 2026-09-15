@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGreatBooksOfTheWesternWorld22Rabelais = {
   id: "019db533-f39d-784e-a86c-80aa490be40c",
-  type: "book",
+  type: "page-type/book",
   slug: "the-great-books-of-the-western-world-22-rabelais",
   title: "The Great Books of the Western World 22: Rabelais",
   status: "not-started",

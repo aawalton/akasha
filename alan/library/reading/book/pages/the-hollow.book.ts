@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theHollow = {
   id: "019db533-f399-7cf5-bccf-2a3f0e8b52e4",
-  type: "book",
+  type: "page-type/book",
   slug: "the-hollow",
   title: "The Hollow",
   status: "not-started",

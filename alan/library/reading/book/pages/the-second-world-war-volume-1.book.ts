@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theSecondWorldWarVolume1 = {
   id: "019db533-f39d-7386-b157-c2622cb29897",
-  type: "book",
+  type: "page-type/book",
   slug: "the-second-world-war-volume-1",
   title: "The Second World War Volume 1",
   status: "not-started",

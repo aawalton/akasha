@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGreatBooksOfTheWesternWorld7AristotleI = {
   id: "019db533-f39d-77d3-bc62-06077de205bd",
-  type: "book",
+  type: "page-type/book",
   slug: "the-great-books-of-the-western-world-7-aristotle-i",
   title: "The Great Books of the Western World 7: Aristotle I",
   status: "not-started",

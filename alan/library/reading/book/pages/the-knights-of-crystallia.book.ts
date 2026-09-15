@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theKnightsOfCrystallia = {
   id: "019db533-f39d-7206-a727-51eca1aae853",
-  type: "book",
+  type: "page-type/book",
   slug: "the-knights-of-crystallia",
   title: "The Knights of Crystallia",
   status: "completed",

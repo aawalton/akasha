@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theMarriageClinic = {
   id: "019db533-f38a-71f7-ad41-c69feaadee3e",
-  type: "book",
+  type: "page-type/book",
   slug: "the-marriage-clinic",
   title: "The Marriage Clinic",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGreatBooksOfTheWesternWorld17AquinasI = {
   id: "019db533-f39d-786d-8b8c-949714899326",
-  type: "book",
+  type: "page-type/book",
   slug: "the-great-books-of-the-western-world-17-aquinas-i",
   title: "The Great Books of the Western World 17: Aquinas I",
   status: "not-started",

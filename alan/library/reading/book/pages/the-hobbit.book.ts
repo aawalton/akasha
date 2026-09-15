@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theHobbit = {
   id: "019db533-f38a-7e89-a09e-98dea9b2e539",
-  type: "book",
+  type: "page-type/book",
   slug: "the-hobbit",
   title: "The Hobbit",
   status: "completed",

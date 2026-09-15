@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theLostFleetValiant = {
   id: "019db533-f39a-7974-a525-b216044eeaee",
-  type: "book",
+  type: "page-type/book",
   slug: "the-lost-fleet-valiant",
   title: "The Lost Fleet: Valiant",
   status: "not-started",

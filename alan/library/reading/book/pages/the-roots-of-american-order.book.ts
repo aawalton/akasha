@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theRootsOfAmericanOrder = {
   id: "019db533-f39d-75c0-9ff6-b056ccf14261",
-  type: "book",
+  type: "page-type/book",
   slug: "the-roots-of-american-order",
   title: "The Roots of American Order",
   status: "not-started",

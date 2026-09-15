@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGreatBooksOfTheWesternWorld3Homer = {
   id: "019db533-f39d-782f-a7f6-cf4a81ac03b6",
-  type: "book",
+  type: "page-type/book",
   slug: "the-great-books-of-the-western-world-3-homer",
   title: "The Great Books of the Western World 3: Homer",
   status: "completed",

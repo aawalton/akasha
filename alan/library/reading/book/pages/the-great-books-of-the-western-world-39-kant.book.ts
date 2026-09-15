@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGreatBooksOfTheWesternWorld39Kant = {
   id: "019db533-f39d-770d-82ca-eaead1490ee2",
-  type: "book",
+  type: "page-type/book",
   slug: "the-great-books-of-the-western-world-39-kant",
   title: "The Great Books of the Western World 39: Kant",
   status: "not-started",

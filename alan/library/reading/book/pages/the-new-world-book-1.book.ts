@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theNewWorldBook1 = {
   id: "019db533-f391-7a21-8be1-a339ff7d95c0",
-  type: "book",
+  type: "page-type/book",
   slug: "the-new-world-book-1",
   title: "The New World",
   status: "completed",

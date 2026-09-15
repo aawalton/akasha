@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theMurderOnTheLinks = {
   id: "019db533-f399-7c80-af2c-3446f93fdefb",
-  type: "book",
+  type: "page-type/book",
   slug: "the-murder-on-the-links",
   title: "The Murder on the Links",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theRobotIRobot = {
   id: "019db533-f38b-7159-957e-961814603d32",
-  type: "book",
+  type: "page-type/book",
   slug: "the-robot-i-robot",
   title: "The Robot: I, Robot",
   status: "not-started",

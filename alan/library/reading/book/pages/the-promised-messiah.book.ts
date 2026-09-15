@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const thePromisedMessiah = {
   id: "019db533-f39d-7039-bb20-1ba4797291dd",
-  type: "book",
+  type: "page-type/book",
   slug: "the-promised-messiah",
   title: "The Promised Messiah",
   status: "paused",

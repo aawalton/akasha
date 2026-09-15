@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const thePromiseOfDiscipleship = {
   id: "019db533-f39d-70a3-bf90-5a956a4fe5ff",
-  type: "book",
+  type: "page-type/book",
   slug: "the-promise-of-discipleship",
   title: "The Promise of Discipleship",
   status: "completed",

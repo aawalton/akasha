@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGoodGuysWildWildQuest = {
   id: "019db533-f391-790d-9bf1-4a6631dc5118",
-  type: "book",
+  type: "page-type/book",
   slug: "the-good-guys-wild-wild-quest",
   title: "The Good Guys: Wild Wild Quest",
   status: "not-started",

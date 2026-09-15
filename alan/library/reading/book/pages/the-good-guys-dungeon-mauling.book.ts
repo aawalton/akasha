@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGoodGuysDungeonMauling = {
   id: "019db533-f391-7985-85a1-b1540cbcd8b1",
-  type: "book",
+  type: "page-type/book",
   slug: "the-good-guys-dungeon-mauling",
   title: "The Good Guys: Dungeon Mauling",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theGoodGuysKillingThemAwfully = {
   id: "019db533-f391-791d-b0ad-66b67bbbe13e",
-  type: "book",
+  type: "page-type/book",
   slug: "the-good-guys-killing-them-awfully",
   title: "The Good Guys: Killing Them Awfully",
   status: "not-started",
