@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const chessReviewSession = {
   id: "019f1e54-024f-7c0b-9c78-d44a2a2e9f2e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "chess-review-session",
   definition: "one game stepped through move by move with the coach",
   extends: ["page-type/page"],

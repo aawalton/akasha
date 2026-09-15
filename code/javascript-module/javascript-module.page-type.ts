@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const javascriptModule = {
   id: "01a06954-f7db-7006-ba1c-605a60e17fab",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "javascript-module",
   definition: "code in the JavaScript language",
   parts: ["code-file-property/javascript"],

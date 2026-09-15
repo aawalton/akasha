@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const modelAccount = {
   id: "01a054d8-1d38-788f-a073-7cf3603acd3f",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "model-account",
   definition: "one account a provider serves calls on",
   extends: ["page-type/page"],

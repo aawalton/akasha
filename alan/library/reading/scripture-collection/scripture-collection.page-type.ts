@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const scriptureCollection = {
   id: "01a06807-be66-7003-aba8-347b1f0d9f84",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "scripture-collection",
   definition: "a book of scripture Alan reads chapters of",
   extends: ["page-type/collection-external"],

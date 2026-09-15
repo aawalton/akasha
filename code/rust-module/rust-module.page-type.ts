@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const rustModule = {
   id: "01a0602d-6acf-7594-86e8-07b54a35a700",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "rust-module",
   definition: "code a Rust crate is built from",
   parts: ["code-file-property/rust", "text-property/rust-module-name"],

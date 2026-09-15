@@ -29,7 +29,7 @@ export type Marking = (text: string, path: string) => boolean
 
 export const syntaxRule = {
   id: "01a0500d-738b-79f3-8932-7d947cd9b51b",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "syntax-rule",
   definition: "a pattern a source file may not carry",
   parts: [

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const idlePersonaCard = {
   id: "01a06596-f0d5-700c-a792-6d23205f3082",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "idle-persona-card",
   definition: "one persona as one player holds her in the idle game",
   extends: ["page-type/page"],

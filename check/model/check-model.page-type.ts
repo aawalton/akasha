@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const checkModel = {
   id: "01a05911-aa15-776e-9726-ed4131cd6b51",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "check-model",
   definition: "a check judging a change by putting prompts to a model",
   parts: [

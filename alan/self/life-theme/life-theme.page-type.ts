@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const lifeTheme = {
   id: "01a06575-c2c0-7479-ae1f-92956ac3d48e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "life-theme",
   definition: "a stretch of Alan's life given over to one of his values",
   extends: ["page-type/page"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const categoryRuleAgent = {
   id: "01a0680c-3c00-7009-b845-2f7c9a1e310a",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "category-rule-agent",
   definition: "a category rule an agent carries out",
   extends: ["page-type/category-rule"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const locationDeal = {
   id: "01a06585-5fc5-715e-850c-9b88e5597728",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "location-deal",
   definition: "an offer redeemable at places on the map",
   extends: ["page-type/page"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const categoryRule = {
   id: "01a0680c-3c00-7007-a659-3e8d1c4f3108",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "category-rule",
   definition: "a written rule deciding what a transaction counts as",
   extends: ["page-type/page"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const unit = {
   id: "01a063de-2c60-7014-9620-56bbc19efcd1",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "unit",
   definition: "what a length is counted in",
   parts: [

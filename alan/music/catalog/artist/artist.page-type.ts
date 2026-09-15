@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const artist = {
   id: "01a06243-144b-7013-99b2-e1b52805e43b",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "artist",
   definition: "a musician whose work Alan keeps",
   extends: ["page-type/collection-external"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const workspace = {
   id: "01a06cbb-60a1-7163-bbdd-7ba51e6b3ed6",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "workspace",
   definition: "the tree a package manager installs every package in at once",
   parts: [

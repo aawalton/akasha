@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const franchise = {
   id: "01a06599-ee09-7001-9283-02195311fb0e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "franchise",
   definition: "the shows and films that share one world",
   extends: ["page-type/collection-external"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const sessionActivity = {
   id: "01a06589-d117-759e-b934-fd346ffba4fd",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "session-activity",
   definition: "a kind of thing Alan spends his time on",
   extends: ["page-type/page"],

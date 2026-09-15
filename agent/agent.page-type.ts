@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const agent = {
   id: "01a06257-7813-710a-a637-a50b6dd747d9",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "agent",
   definition: "one an agent id names, working from a seat or under one",
   extends: ["page-type/page"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const luaModule = {
   id: "01a06036-9b74-79ba-9f54-27289400cf14",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "lua-module",
   definition: "Lua the game loads without compiling it",
   parts: ["code-file-property/lua"],

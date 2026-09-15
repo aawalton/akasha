@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const routerApp = {
   id: "01a063f3-c2ab-765b-9c87-954f96167da7",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "router-app",
   definition: "what serves the routes its own table declares",
   parts: [

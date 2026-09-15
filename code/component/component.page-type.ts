@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const component = {
   id: "01a071cb-913c-7e3f-9698-f5f4a5019a9c",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "component",
   definition: "code drawing something for a browser",
   parts: [

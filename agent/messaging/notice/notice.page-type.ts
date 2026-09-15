@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const notice = {
   id: "019ffe7f-d49d-7000-ba76-13378b883aa0",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "notice",
   definition: "message text written ahead of time and asked for by name",
 

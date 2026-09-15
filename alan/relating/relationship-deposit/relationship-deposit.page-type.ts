@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const relationshipDeposit = {
   id: "01a0658d-16bc-7759-82e4-2d059f33ac84",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "relationship-deposit",
   definition: "one thing Alan did that put something into a relationship",
   extends: ["page-type/page"],

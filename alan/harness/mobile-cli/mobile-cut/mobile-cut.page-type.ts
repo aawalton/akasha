@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const mobileCut = {
   id: "019f5141-c410-7cd1-b491-d017f10e568d",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "mobile-cut",
   definition: "one build of an app, and the state of the tree it was built from",
   extends: ["page-type/page"],

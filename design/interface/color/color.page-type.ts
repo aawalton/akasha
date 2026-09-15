@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const color = {
   id: "01a06575-c2a9-766f-8f09-da30cc969637",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "color",
   definition: "one color anything can be drawn in",
   extends: ["page-type/page"],

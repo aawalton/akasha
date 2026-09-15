@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const modelProvider = {
   id: "01a0a20a-0678-73be-983a-777f3d76d8bb",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "model-provider",
   definition: "an outside system that serves models",
   extends: ["page-type/domain"],

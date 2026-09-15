@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const movie = {
   id: "01a06599-ee09-7005-82e2-c1f83dc51c09",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "movie",
   definition: "a story told in one sitting",
   extends: ["page-type/collection-external"],

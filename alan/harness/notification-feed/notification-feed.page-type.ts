@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const notificationFeed = {
   id: "01a06861-e7cd-7f8b-a674-034ea5efe956",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "notification-feed",
   definition: "everything this system has pushed at one person",
   extends: ["page-type/page"],

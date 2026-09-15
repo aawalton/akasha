@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const monarchDirection = {
   id: "01a0680a-1a00-7019-8e94-6c1d5b7f1119",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "monarch-direction",
   definition: "what an agent settling a transaction is told to weigh, and where it applies",
   extends: ["page-type/monarch-record"],

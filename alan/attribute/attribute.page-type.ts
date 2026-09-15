@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const attribute = {
   id: "01a06841-a0fd-7d6d-83ba-fed205a8f26a",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "attribute",
   definition: "a capacity Alan builds through a daily habit",
   extends: ["page-type/domain"],

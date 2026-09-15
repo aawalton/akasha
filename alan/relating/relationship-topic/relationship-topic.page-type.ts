@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const relationshipTopic = {
   id: "01a0658a-170f-73cd-a458-8f98d995452e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "relationship-topic",
   definition: "one subject Alan and another person have to work through together",
   extends: ["page-type/page"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const changeMechanicalPageType = {
   id: "01a09205-7229-7608-86d7-25634926ac24",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "change-mechanical-page-type",
   definition: "a mechanical change acting on a page type and on every page filed under it",
   extends: ["page-type/change-mechanical"],

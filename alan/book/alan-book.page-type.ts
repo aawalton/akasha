@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const alanBook = {
   id: "01a06d23-26a9-7d50-bca7-7aa5849e1c17",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "alan-book",
   definition: "one book Alan writes",
   extends: ["page-type/collection", "page-type/domain"],

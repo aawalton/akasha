@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const seatLogDay = {
   id: "01a0657c-cb14-7b5b-a206-18059a84a88a",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "seat-log-day",
   definition: "what one source wrote for one seat on one day",
   extends: ["page-type/page"],

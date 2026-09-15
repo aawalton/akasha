@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const agentHook = {
   id: "01a04e0a-f8fa-7fb8-a730-0e27c83701be",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "agent-hook",
   definition: "a module the agent harness runs at the events it names",
 

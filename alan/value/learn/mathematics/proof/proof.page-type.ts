@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const proof = {
   id: "01a0657f-5da8-7d50-9da8-5ad4177c9541",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "proof",
   definition: "one attempt at deriving a proposition in the formal system",
   extends: ["page-type/page"],

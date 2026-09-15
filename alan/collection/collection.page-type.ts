@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const collection = {
   id: "01a063de-2c60-7006-8395-50a12e499f8e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "collection",
   definition: "something for a person to experience",
   parts: [

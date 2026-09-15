@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const greatCoursesCollection = {
   id: "01a06574-0291-7004-9508-74c1258e02c0",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "great-courses-collection",
   definition: "one shelf the whole Great Courses catalogue is reached through",
   extends: ["page-type/collection-external"],

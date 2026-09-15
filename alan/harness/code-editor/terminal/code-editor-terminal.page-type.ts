@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const codeEditorTerminal = {
   id: "01a06826-92e5-7481-a7d4-68af91528f0b",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "code-editor-terminal",
   definition: "a terminal the editor is running",
   extends: ["page-type/page"],

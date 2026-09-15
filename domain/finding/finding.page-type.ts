@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const finding = {
   id: "01a04bc5-f8c3-758c-b460-da70df03bb96",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "finding",
   definition: "something noticed about a domain, written down before anyone judges what it means",
   parts: ["text-property/claim", "text-property/evidence"],

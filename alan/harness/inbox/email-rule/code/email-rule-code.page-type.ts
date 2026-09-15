@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const emailRuleCode = {
   id: "01a06828-59d3-7d52-bae3-818debc51db7",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "email-rule-code",
   definition: "an email rule its own clauses carry out",
   extends: ["page-type/email-rule"],

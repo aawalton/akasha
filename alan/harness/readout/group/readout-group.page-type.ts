@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const readoutGroup = {
   id: "01a05446-e75e-7657-acda-566edc2b182e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "readout-group",
   definition: "the readings drawn together",
   parts: [

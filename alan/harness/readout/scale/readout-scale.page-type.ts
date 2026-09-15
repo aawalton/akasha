@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const readoutScale = {
   id: "01a05446-e75f-756a-b8d9-4288a350957f",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "readout-scale",
   definition: "what turns a reading into a color",
   parts: [

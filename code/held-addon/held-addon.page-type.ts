@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const heldAddon = {
   id: "01a0819e-eab2-7732-96da-90412118ff10",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "held-addon",
   definition: "an addon the temper port has taken over",
   extends: ["page-type/page"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const strengthExerciseImplement = {
   id: "01a09412-00c5-7bbd-ba9c-61f0608a646c",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "strength-exercise-implement",
   definition: "a class of kit a movement is loaded with",
   extends: ["page-type/domain"],

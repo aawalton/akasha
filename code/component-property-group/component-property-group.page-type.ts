@@ -4,7 +4,7 @@ export type ComponentPropertyGroupStated = Record<string, never>
 
 export const componentPropertyGroup = {
   id: "01a09c84-34f2-7b18-839c-48ef7ff084e7",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "component-property-group",
   definition: "a file property group held in a component's code",
   extends: ["page-type/file-property-group"],

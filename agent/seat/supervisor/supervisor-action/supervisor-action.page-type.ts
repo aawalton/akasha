@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const supervisorAction = {
   id: "01a05ecf-9a12-7710-b385-fd3a09307d1d",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "supervisor-action",
   definition: "one thing a supervisor can be asked to do",
 

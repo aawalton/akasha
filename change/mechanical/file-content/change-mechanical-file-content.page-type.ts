@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const changeMechanicalFileContent = {
   id: "01a07c97-c872-71a7-8e77-3ba5f2f974e0",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "change-mechanical-file-content",
   definition: "a mechanical change acting on what a file holds under no narrower reading",
   parts: [

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const gbwwReading = {
   id: "01a0659f-93da-7019-b3d4-198e7acfbd4c",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "gbww-reading",
   definition: "one reading on the Great Books of the Western World ten-year plan",
   extends: ["page-type/collection"],

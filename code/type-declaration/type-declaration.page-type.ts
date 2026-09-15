@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const typeDeclaration = {
   id: "01a0605a-98f4-7c54-8030-4fec48465bda",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "type-declaration",
   definition: "types a compiler reads and emits nothing from",
   parts: [

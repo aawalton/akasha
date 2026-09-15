@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const track = {
   id: "01a0a57b-23fe-7c3a-92e1-06b28a781b17",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "track",
   definition: "one recording as a release carries it",
   extends: ["page-type/collection-external"],

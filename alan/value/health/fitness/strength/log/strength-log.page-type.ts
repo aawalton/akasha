@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const strengthLog = {
   id: "01a06580-66fc-7e15-9138-eda9b0267961",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "strength-log",
   definition: "one set Alan performed, as it was recorded",
   extends: ["page-type/page"],

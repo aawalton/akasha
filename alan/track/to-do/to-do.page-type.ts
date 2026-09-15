@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const toDo = {
   id: "01a065a1-49b4-7e7c-8b95-ed10df98898c",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "to-do",
   definition: "something a person intends to do",
   extends: ["page-type/page"],

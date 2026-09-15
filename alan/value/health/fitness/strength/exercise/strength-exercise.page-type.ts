@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const strengthExercise = {
   id: "01a0657e-2bbf-7c1f-a05c-77af77f54cbf",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "strength-exercise",
   definition: "one movement Alan can be programmed to perform",
   extends: ["page-type/page"],

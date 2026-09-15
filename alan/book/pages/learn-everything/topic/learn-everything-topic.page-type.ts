@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const learnEverythingTopic = {
   id: "01a0659f-93da-7011-b26e-605cb6f32b8f",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "learn-everything-topic",
   definition: "one subject in the map of all there is to know",
   extends: ["page-type/page"],

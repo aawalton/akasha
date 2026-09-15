@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const luaRuntimeLibrary = {
   id: "01a06759-2aa6-7000-9523-2fbcc69fd891",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "lua-runtime-library",
   definition: "TypeScript a compiler turns into the Lua a game loads",
   parts: ["file-property/lua50-config", "file-property/universal-config"],

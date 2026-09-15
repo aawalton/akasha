@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const chessProgress = {
   id: "01a06582-bd62-702f-92a4-3fd313251ee2",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "chess-progress",
   definition: "how far one part of Alan's chess has come",
   extends: ["page-type/page"],

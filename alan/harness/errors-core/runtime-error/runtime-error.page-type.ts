@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const runtimeError = {
   id: "01a05f3f-e3df-76da-ba22-9282e49c2d98",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "runtime-error",
   definition: "one fault a client met, gathered under the fingerprint the fault hashes to",
   extends: ["page-type/page"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const monarchMonth = {
   id: "01a0680b-2b00-7012-a659-4d8f2c7e2113",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "monarch-month",
   definition: "one calendar month of the household's money",
   extends: ["page-type/monarch-record"],

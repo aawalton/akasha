@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const change = {
   id: "01a05df1-e261-76a1-ad1e-0db3d857450e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "change",
   definition: "one change to the repository, reached by name",
   extends: ["page-type/module"],

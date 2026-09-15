@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const selectionPolicy = {
   id: "01a06838-7a9d-7d0a-8e41-674ebea29caf",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "selection-policy",
   definition: "the numbers the coach picks and bounds a session by",
   extends: ["page-type/page"],

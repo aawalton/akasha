@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const fitnessCoachingNote = {
   id: "01a08181-f205-7092-900f-58e2075a7529",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "fitness-coaching-note",
   definition: "a limit, a cue or a thing noticed that the coach programs by",
   parts: [

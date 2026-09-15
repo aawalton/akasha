@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const location = {
   id: "01a06583-acfb-78cd-80a3-4b5b464dc8ff",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "location",
   definition: "a place on the map somebody kept",
   extends: ["page-type/page"],

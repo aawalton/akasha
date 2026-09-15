@@ -38,7 +38,7 @@ export const domain = {
     "text-property/linked-at",
     "text-property/name",
   ],
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "domain",
   definition: "a bounded area of concern",
   extends: ["page-type/page"],

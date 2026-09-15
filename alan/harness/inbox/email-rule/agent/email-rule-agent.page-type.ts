@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const emailRuleAgent = {
   id: "01a06828-59d3-7dd3-b9b9-fa6dda8d02d4",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "email-rule-agent",
   definition: "an email rule an agent carries out",
   extends: ["page-type/email-rule"],

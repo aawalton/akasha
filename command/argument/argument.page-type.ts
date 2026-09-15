@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const argument = {
   id: "01a093fd-9102-76e8-958e-03d34cd41e25",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "argument",
   definition: "one thing a command is told on the command line",
   extends: ["page-type/page"],
