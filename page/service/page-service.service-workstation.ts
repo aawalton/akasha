@@ -120,7 +120,7 @@ export const pageService = {
     },
   ],
   parts: [
-    "manifest/page-store",
+    "manifest/page-forwarder",
     "module/call-reading",
     "module/file-answering",
     "module/kinds-gathering",

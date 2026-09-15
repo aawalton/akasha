@@ -11,7 +11,7 @@ export const pageForwarder = {
   image: "alpine/socat:1.8.0.3",
   replicas: 1,
   containerPort: 8787,
-  manifest: "manifest/page-store",
+  manifest: "manifest/page-forwarder",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
