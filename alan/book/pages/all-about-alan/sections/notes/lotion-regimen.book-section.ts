@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const lotionRegimen = {
   id: "01a06594-c67a-701a-9e3c-29d2d89e2c7a",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "lotion-regimen",
   title: "Lotion regimen",
   sectionOf: "alan-book/all-about-alan",

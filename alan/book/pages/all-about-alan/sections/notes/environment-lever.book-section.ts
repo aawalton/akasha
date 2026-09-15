@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const environmentLever = {
   id: "01a06594-c679-7003-a078-d52c615e5c15",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "environment-lever",
   title: "The environment lever",
   sectionOf: "alan-book/all-about-alan",

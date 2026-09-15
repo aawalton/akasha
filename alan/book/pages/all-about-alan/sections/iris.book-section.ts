@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const iris = {
   id: "01a06594-c687-7001-97e9-ee5793a8fd85",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "iris",
   title: "Iris",
   sectionOf: "alan-book/all-about-alan",

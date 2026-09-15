@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const identityAsTapestry = {
   id: "01a06594-c675-700b-bf23-fb9814c65660",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "identity-as-tapestry",
   title: "Identity, duty, and partiality",
   sectionOf: "alan-book/all-about-alan",

@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const jenMarriage = {
   id: "01a06594-c676-7003-a220-80dbfc3f9cbe",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "jen-marriage",
   title: "The marriage conflict mechanics",
   sectionOf: "alan-book/all-about-alan",

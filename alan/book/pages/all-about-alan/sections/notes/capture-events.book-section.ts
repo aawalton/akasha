@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const captureEvents = {
   id: "01a06594-c675-7017-9548-1bb0feb01ce6",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "capture-events",
   title: "Capture events",
   sectionOf: "alan-book/all-about-alan",

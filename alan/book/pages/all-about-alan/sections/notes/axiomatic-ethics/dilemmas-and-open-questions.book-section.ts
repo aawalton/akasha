@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const dilemmasAndOpenQuestions = {
   id: "01a06594-c675-700a-b209-cb630f20a485",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "dilemmas-and-open-questions",
   title: "Dilemmas, settled dials, and open questions",
   sectionOf: "alan-book/all-about-alan",

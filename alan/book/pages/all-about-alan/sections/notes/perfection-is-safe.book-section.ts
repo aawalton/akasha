@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const perfectionIsSafe = {
   id: "01a06594-c67c-7000-abb1-7fec74def8d3",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "perfection-is-safe",
   title: "Only perfection is safe",
   sectionOf: "alan-book/all-about-alan",

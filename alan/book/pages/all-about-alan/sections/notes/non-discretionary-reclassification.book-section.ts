@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const nonDiscretionaryReclassification = {
   id: "01a06594-c67b-700f-b148-53cff72cd9e1",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "non-discretionary-reclassification",
   title: "Non-discretionary reclassification",
   sectionOf: "alan-book/all-about-alan",

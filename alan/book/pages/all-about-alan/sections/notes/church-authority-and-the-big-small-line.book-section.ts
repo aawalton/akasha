@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const churchAuthorityAndTheBigSmallLine = {
   id: "01a06594-c676-700a-8a7d-67301110c0e5",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "church-authority-and-the-big-small-line",
   title: "Church authority and the big/small line",
   sectionOf: "alan-book/all-about-alan",

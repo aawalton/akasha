@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const autismDiagnosticArc = {
   id: "01a06594-c675-7006-ae68-273efaa44170",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "autism-diagnostic-arc",
   title: "Diagnostic arc",
   sectionOf: "alan-book/all-about-alan",

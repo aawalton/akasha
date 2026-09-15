@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const beingUnderstood = {
   id: "01a06594-c675-7018-b098-306ad2b42771",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "being-understood",
   title: "Being understood — the alignment ladder and the accepted gap",
   sectionOf: "alan-book/all-about-alan",

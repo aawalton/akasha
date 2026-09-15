@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const cultivatingLocalRelationships = {
   id: "01a06594-c677-700c-b78f-38667baeb8e1",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "cultivating-local-relationships",
   title: "Cultivating local B-tier relationships",
   sectionOf: "alan-book/all-about-alan",

@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const harnessAttention = {
   id: "01a06594-c67a-7003-9cf5-4412f5923d6e",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "harness-attention",
   title: "Harness attention",
   sectionOf: "alan-book/all-about-alan",

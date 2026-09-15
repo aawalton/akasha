@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const identityRecoveryAnchor = {
   id: "01a06594-c67a-700c-a7d7-a68719ada239",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "identity-recovery-anchor",
   title: "Identity-recovery anchor",
   sectionOf: "alan-book/all-about-alan",

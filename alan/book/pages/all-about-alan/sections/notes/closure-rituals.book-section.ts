@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const closureRituals = {
   id: "01a06594-c676-700c-8c03-66fd5227f4b1",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "closure-rituals",
   title: "Closure rituals",
   sectionOf: "alan-book/all-about-alan",

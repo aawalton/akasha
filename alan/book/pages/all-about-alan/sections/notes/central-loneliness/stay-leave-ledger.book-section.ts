@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const stayLeaveLedger = {
   id: "01a06594-c676-7006-aeb8-32cd1f7ee82e",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "stay-leave-ledger",
   title: "The stay-or-leave ledger",
   sectionOf: "alan-book/all-about-alan",

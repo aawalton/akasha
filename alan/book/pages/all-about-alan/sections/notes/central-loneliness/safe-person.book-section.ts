@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const safePerson = {
   id: "01a06594-c676-7005-88d1-37d8429e9208",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "safe-person",
   title: "The safe person and the broken covenant",
   sectionOf: "alan-book/all-about-alan",

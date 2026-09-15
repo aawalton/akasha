@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const nervousSystemResiliency = {
   id: "01a06594-c67b-700c-9ab6-be1cb1ecae71",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "nervous-system-resiliency",
   title: "Nervous-system resiliency — the natural experiment",
   sectionOf: "alan-book/all-about-alan",

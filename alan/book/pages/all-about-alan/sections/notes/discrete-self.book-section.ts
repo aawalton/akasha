@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const discreteSelf = {
   id: "01a06594-c677-700f-a810-305f138cd48c",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "discrete-self",
   title: "The discrete self",
   sectionOf: "alan-book/all-about-alan",

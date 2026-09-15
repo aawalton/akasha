@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const conversationAsExposure = {
   id: "01a06594-c677-7005-8124-767ef60ea2cf",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "conversation-as-exposure",
   title: "Conversation as exposure",
   sectionOf: "alan-book/all-about-alan",

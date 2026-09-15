@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const genderDysphoriaMechanism = {
   id: "01a06594-c679-7014-851a-4270d5ad97f3",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "gender-dysphoria-mechanism",
   title: "Alan's model of gender",
   sectionOf: "alan-book/all-about-alan",

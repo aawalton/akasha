@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const attractionTwoChannels = {
   id: "01a06594-c675-7000-bdea-d0440118929c",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "attraction-two-channels",
   title: "Attraction as two channels",
   sectionOf: "alan-book/all-about-alan",

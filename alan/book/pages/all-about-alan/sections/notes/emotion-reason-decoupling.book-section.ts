@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const emotionReasonDecoupling = {
   id: "01a06594-c677-7017-8ea3-f50fba26e2ab",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "emotion-reason-decoupling",
   title: "Emotion and reason are decoupled",
   sectionOf: "alan-book/all-about-alan",

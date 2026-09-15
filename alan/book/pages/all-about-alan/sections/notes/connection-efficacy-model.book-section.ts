@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const connectionEfficacyModel = {
   id: "01a06594-c677-7002-9077-3aa8340269c0",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "connection-efficacy-model",
   title: "Connection efficacy model",
   sectionOf: "alan-book/all-about-alan",

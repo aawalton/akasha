@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const faithFeltChannel = {
   id: "01a06594-c679-7009-8bf9-4c85eebf0036",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "faith-felt-channel",
   title: "The felt channel of faith",
   sectionOf: "alan-book/all-about-alan",

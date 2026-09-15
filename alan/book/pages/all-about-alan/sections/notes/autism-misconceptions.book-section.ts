@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const autismMisconceptions = {
   id: "01a06594-c675-7007-af4b-78f71ea519f5",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "autism-misconceptions",
   title: "What common autism descriptions get wrong about Alan",
   sectionOf: "alan-book/all-about-alan",

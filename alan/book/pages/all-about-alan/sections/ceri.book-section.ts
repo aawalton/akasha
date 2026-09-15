@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const ceri = {
   id: "01a06594-c686-700f-a52c-05cb7cebb8ba",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "ceri",
   title: "Ceri",
   sectionOf: "alan-book/all-about-alan",

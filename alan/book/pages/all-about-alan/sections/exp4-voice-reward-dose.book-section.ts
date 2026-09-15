@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const exp4VoiceRewardDose = {
   id: "01a08861-6e09-711f-94d8-2f2ee1dd41e5",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "exp4-voice-reward-dose",
   title: "Exp 4 — voice-reward dose test",
   sectionOf: "book-section/all-about-alan/experiments",

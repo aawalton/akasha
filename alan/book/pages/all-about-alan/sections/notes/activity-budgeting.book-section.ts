@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const activityBudgeting = {
   id: "01a06594-c674-7006-9d0e-eef1d7b06c64",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "activity-budgeting",
   title: "Activity budgeting",
   sectionOf: "alan-book/all-about-alan",

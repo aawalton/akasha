@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const energyAccounting = {
   id: "01a06594-c679-7001-9f74-f60c64b33845",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "energy-accounting",
   title: "Energy accounting practice",
   sectionOf: "alan-book/all-about-alan",

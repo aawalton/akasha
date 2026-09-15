@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const fourResourceModel = {
   id: "01a06594-c679-7012-b334-499424114e96",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "four-resource-model",
   title: "Four-resource model",
   sectionOf: "alan-book/all-about-alan",

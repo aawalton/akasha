@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const enshittification = {
   id: "01a06594-c679-7002-87e4-f0f7fa3ea27a",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "enshittification",
   title: "Enshittification",
   sectionOf: "alan-book/all-about-alan",

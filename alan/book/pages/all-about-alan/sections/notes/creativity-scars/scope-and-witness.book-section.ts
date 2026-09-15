@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const scopeAndWitness = {
   id: "01a06594-c677-7007-8218-e2baa6e00d77",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "scope-and-witness",
   title: "Creativity scars — scope and the witness confound",
   sectionOf: "alan-book/all-about-alan",

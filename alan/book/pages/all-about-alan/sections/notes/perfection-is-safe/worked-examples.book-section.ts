@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const workedExamples = {
   id: "01a06594-c67b-7016-bdaf-16bdfe0b59e2",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "worked-examples",
   title: "The worked-examples wall",
   sectionOf: "alan-book/all-about-alan",

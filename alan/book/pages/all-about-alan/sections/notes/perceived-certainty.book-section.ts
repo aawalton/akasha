@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const perceivedCertainty = {
   id: "01a06594-c67b-7014-a6b9-ba7717089902",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "perceived-certainty",
   title: "Perceived certainty gap",
   sectionOf: "alan-book/all-about-alan",

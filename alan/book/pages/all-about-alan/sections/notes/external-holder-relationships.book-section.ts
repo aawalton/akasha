@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const externalHolderRelationships = {
   id: "01a06594-c679-7006-ad41-fb5163e34da9",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "external-holder-relationships",
   title: "Relationships held from the outside",
   sectionOf: "alan-book/all-about-alan",

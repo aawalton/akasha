@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const conceptualCognition = {
   id: "01a06594-c676-7012-8f1d-87e941f558a4",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "conceptual-cognition",
   title: "Conceptual cognition",
   sectionOf: "alan-book/all-about-alan",

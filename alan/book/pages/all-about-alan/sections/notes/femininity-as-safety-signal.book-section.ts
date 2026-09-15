@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const femininityAsSafetySignal = {
   id: "01a06594-c679-700c-9e3c-04e6f4fedd29",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "femininity-as-safety-signal",
   title: "Femininity as a Safety-raising signal",
   sectionOf: "alan-book/all-about-alan",

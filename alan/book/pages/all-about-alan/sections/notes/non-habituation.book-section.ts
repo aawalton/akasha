@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const nonHabituation = {
   id: "01a06594-c67b-7010-9732-c0d900bf1927",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "non-habituation",
   title: "Mechanism root: non-habituation",
   sectionOf: "alan-book/all-about-alan",

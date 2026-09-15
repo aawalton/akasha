@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const auditorySensitivityBundle = {
   id: "01a06594-c675-7002-ae05-68dd11ad7be0",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "auditory-sensitivity-bundle",
   title: "Auditory-sensitivity bundle",
   sectionOf: "alan-book/all-about-alan",

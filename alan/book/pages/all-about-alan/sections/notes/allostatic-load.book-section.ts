@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const allostaticLoad = {
   id: "01a06594-c674-700a-998e-2883f03a79a8",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "allostatic-load",
   title: "Allostatic load",
   sectionOf: "alan-book/all-about-alan",

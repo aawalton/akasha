@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const recoveryEconomics = {
   id: "01a06594-c67c-700b-b2a4-139f2d95de63",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "recovery-economics",
   title: "The economics of recovery",
   sectionOf: "alan-book/all-about-alan",

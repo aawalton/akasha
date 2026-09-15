@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const failureModeAndGuard = {
   id: "01a06594-c676-700e-8376-e523af9c5507",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "failure-mode-and-guard",
   title: "Compression epistemology — failure mode and guard",
   sectionOf: "alan-book/all-about-alan",

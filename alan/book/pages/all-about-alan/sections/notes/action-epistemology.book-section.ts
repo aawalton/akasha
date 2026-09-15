@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const actionEpistemology = {
   id: "01a06594-c674-7005-a8ed-657f74660753",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "action-epistemology",
   title: "Action as the epistemic engine",
   sectionOf: "alan-book/all-about-alan",

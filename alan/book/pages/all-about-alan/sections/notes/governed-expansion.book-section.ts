@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const governedExpansion = {
   id: "01a06594-c679-7015-acbd-8ca35271a0bf",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "governed-expansion",
   title: "The Level-5 tell and governed expansion",
   sectionOf: "alan-book/all-about-alan",

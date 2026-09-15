@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const valueQuantities = {
   id: "01a06594-c675-700d-ae17-8225d3dfddda",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "value-quantities",
   title: "Value quantities — state value, action value, and Sentience Weight",
   sectionOf: "alan-book/all-about-alan",

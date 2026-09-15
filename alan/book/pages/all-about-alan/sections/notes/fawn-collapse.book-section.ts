@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const fawnCollapse = {
   id: "01a06594-c679-700a-a98f-4c2e9ccfbbde",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "fawn-collapse",
   title: "The fawn collapse — Upholder to Rebel at ~age 20",
   sectionOf: "alan-book/all-about-alan",

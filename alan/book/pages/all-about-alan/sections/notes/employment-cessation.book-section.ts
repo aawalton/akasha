@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const employmentCessation = {
   id: "01a06594-c678-7002-8fe4-14db949ab0df",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "employment-cessation",
   title: "Employment cessation",
   sectionOf: "alan-book/all-about-alan",

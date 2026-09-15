@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const symmetricalAnxiety = {
   id: "01a06594-c676-7007-a73c-642f250bbdd4",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "symmetrical-anxiety",
   title: "The symmetrical anxiety",
   sectionOf: "alan-book/all-about-alan",

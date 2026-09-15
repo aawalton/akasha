@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const encodingMechanism = {
   id: "01a06594-c679-7000-9e70-9037a1e4b979",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "encoding-mechanism",
   title: "Encoding mechanism",
   sectionOf: "alan-book/all-about-alan",

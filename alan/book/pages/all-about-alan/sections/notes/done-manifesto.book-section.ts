@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const doneManifesto = {
   id: "01a06594-c677-7012-9799-c272cd22068e",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "done-manifesto",
   title: "The Done Manifesto",
   sectionOf: "alan-book/all-about-alan",

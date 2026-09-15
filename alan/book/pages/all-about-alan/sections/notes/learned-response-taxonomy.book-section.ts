@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const learnedResponseTaxonomy = {
   id: "01a06594-c67a-7017-8351-28082b9998bf",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "learned-response-taxonomy",
   title: "Learned-response taxonomy",
   sectionOf: "alan-book/all-about-alan",

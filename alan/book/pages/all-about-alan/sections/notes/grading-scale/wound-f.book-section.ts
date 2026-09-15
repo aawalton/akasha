@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const woundF = {
   id: "01a06594-c67a-7001-8ff3-6a08e29c2db0",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "wound-f",
   title: "The wound-F — stress of connection as a standing cost",
   sectionOf: "alan-book/all-about-alan",

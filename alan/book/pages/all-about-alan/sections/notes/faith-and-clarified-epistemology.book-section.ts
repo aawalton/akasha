@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const faithAndClarifiedEpistemology = {
   id: "01a06594-c679-7007-9297-b87a7e335fbe",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "faith-and-clarified-epistemology",
   title: "Faith and the clarified epistemology",
   sectionOf: "alan-book/all-about-alan",

@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const medicalSocialIsolation = {
   id: "01a06594-c67b-7005-89cd-f098e3f70066",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "medical-social-isolation",
   title: "Medical social isolation",
   sectionOf: "alan-book/all-about-alan",
