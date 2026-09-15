@@ -2,7 +2,7 @@ import type { TemperCompanionEquipmentQuality } from "akasha/temper/catalog/temp
 
 export const normal = {
   id: "01a05fcd-ea6c-7631-9744-b79d007bfe5c",
-  type: "temper-companion-equipment-quality",
+  type: "page-type/temper-companion-equipment-quality",
   slug: "normal",
   key: "normal",
   title: "Normal",
