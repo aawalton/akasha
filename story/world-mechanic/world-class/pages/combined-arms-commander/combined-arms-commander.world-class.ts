@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const combinedArmsCommander = {
   id: "01a0657e-01c8-71e0-acd5-1cde19c7d66e",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "combined-arms-commander",
   title: "Combined-Arms Commander",
   world: "world/the-wandering-inn",

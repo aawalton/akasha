@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const charcoalBurner = {
   id: "01a0657e-1347-7f53-ab7e-6a192f09099b",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "charcoal-burner",
   title: "Charcoal Burner",
   world: "world/the-wandering-inn",

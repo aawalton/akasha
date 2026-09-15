@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const classRelicGuardian = {
   id: "01a0658b-0668-7789-bc3a-318a684034ac",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "class-relic-guardian",
   title: "Class – Relic Guardian",
   world: "world/the-wandering-inn",

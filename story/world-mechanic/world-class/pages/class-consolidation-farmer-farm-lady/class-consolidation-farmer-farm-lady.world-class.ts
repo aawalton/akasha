@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const classConsolidationFarmerFarmLady = {
   id: "01a0657e-134a-7304-8c15-88d6363367ef",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "class-consolidation-farmer-farm-lady",
   title: "Class Consolidation: Farmer → Farm Lady!",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const cityWatch = {
   id: "01a0657e-134a-7508-930f-3e99ce42fb41",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "city-watch",
   title: "City Watch",
   world: "world/the-wandering-inn",

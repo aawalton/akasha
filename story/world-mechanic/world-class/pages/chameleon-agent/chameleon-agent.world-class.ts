@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const chameleonAgent = {
   id: "01a0657e-1347-794e-853b-35621760e7fa",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "chameleon-agent",
   title: "Chameleon Agent",
   world: "world/the-wandering-inn",

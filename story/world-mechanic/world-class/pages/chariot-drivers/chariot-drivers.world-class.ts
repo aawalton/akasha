@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const chariotDrivers = {
   id: "01a0657e-01c4-7a0e-a37c-7ee490ea4c6b",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "chariot-drivers",
   title: "Chariot Drivers",
   world: "world/the-wandering-inn",

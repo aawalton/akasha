@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const clandestineChieftainOfTheArrow = {
   id: "01a0657e-134a-7d5f-b323-6eef24abea5b",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "clandestine-chieftain-of-the-arrow",
   title: "Clandestine Chieftain of the Arrow",
   world: "world/the-wandering-inn",
