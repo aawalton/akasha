@@ -61,10 +61,6 @@ export const pageNamedAsStated = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "An index that cannot say which properties a file holds refuses the run.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement:
         "The name the page's value is bound to is judged against the export name its slug makes.",
     },
