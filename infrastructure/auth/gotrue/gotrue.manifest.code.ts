@@ -4,15 +4,16 @@ import {
   colocationAffinityPreferred,
 } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { synthNamespaceServiceDeployment } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { gotrue } from "akasha/infrastructure/service/cluster/pages/gotrue/gotrue.service-cluster.ts"
 
-const NAMESPACE = "gotrue"
-const APP_NAME = "gotrue"
-const INSTANCE_NAME = "gotrue"
+const NAMESPACE = gotrue.namespace
+const APP_NAME = gotrue.resourceName
+const INSTANCE_NAME = gotrue.resourceName
 const COMPONENT = "auth"
-const PART_OF = "gotrue"
+const PART_OF = gotrue.slug
 const MANAGED_BY = "bootstrap"
-const GOTRUE_IMAGE = "supabase/auth:v2.188.1"
-const HTTP_PORT = 9999
+const GOTRUE_IMAGE = gotrue.image
+const HTTP_PORT = gotrue.containerPort
 
 const RESOURCE_LABELS = {
   app: APP_NAME,
@@ -38,7 +39,7 @@ function serviceYaml(): string {
     apiVersion: "v1",
     kind: "Service",
     metadata: {
-      name: "gotrue",
+      name: gotrue.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
@@ -62,12 +63,12 @@ function deploymentYaml(): string {
     apiVersion: "apps/v1",
     kind: "Deployment",
     metadata: {
-      name: "gotrue",
+      name: gotrue.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: gotrue.replicas,
       strategy: {
         type: "RollingUpdate",
         rollingUpdate: {
@@ -94,7 +95,7 @@ function deploymentYaml(): string {
               ],
               env: [
                 { name: "GOTRUE_API_HOST", value: "0.0.0.0" },
-                { name: "GOTRUE_API_PORT", value: "9999" },
+                { name: "GOTRUE_API_PORT", value: `${HTTP_PORT}` },
                 {
                   name: "GOTRUE_API_EXTERNAL_URL",
                   value: "https://supabase.alanwalton.com",
