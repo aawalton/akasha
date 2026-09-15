@@ -2,7 +2,7 @@ import type { WorldMiracle } from "akasha/story/world-mechanic/world-miracle/wor
 
 export const returnVengeanceToThee = {
   id: "01a0655a-7b7c-7df8-b1fb-33db8a84fb6e",
-  type: "world-miracle",
+  type: "page-type/world-miracle",
   slug: "return-vengeance-to-thee",
   title: "Return Vengeance to Thee",
   world: "world/the-wandering-inn",

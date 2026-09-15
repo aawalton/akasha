@@ -2,7 +2,7 @@ import type { WorldMiracle } from "akasha/story/world-mechanic/world-miracle/wor
 
 export const summonHeavenSGuardians = {
   id: "01a0655a-7b7c-7296-9823-fad461b1bdc5",
-  type: "world-miracle",
+  type: "page-type/world-miracle",
   slug: "summon-heaven-s-guardians",
   title: "Summon Heaven’s Guardians",
   world: "world/the-wandering-inn",

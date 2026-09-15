@@ -2,7 +2,7 @@ import type { WorldMiracle } from "akasha/story/world-mechanic/world-miracle/wor
 
 export const holyBarrier = {
   id: "01a0655a-7b7c-74cd-ba0e-ba16f862a836",
-  type: "world-miracle",
+  type: "page-type/world-miracle",
   slug: "holy-barrier",
   title: "Holy Barrier",
   world: "world/the-wandering-inn",

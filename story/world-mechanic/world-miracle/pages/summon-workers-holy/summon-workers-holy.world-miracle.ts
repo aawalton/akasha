@@ -2,7 +2,7 @@ import type { WorldMiracle } from "akasha/story/world-mechanic/world-miracle/wor
 
 export const summonWorkersHoly = {
   id: "01a0655a-7b7c-7a07-9ad0-4659361cec24",
-  type: "world-miracle",
+  type: "page-type/world-miracle",
   slug: "summon-workers-holy",
   title: "Summon Workers (Holy)",
   world: "world/the-wandering-inn",

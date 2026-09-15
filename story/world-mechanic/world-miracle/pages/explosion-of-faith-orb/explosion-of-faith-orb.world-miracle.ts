@@ -2,7 +2,7 @@ import type { WorldMiracle } from "akasha/story/world-mechanic/world-miracle/wor
 
 export const explosionOfFaithOrb = {
   id: "01a0655a-7b7c-7c46-99ae-11e147102b60",
-  type: "world-miracle",
+  type: "page-type/world-miracle",
   slug: "explosion-of-faith-orb",
   title: "Explosion of Faith (Orb)",
   world: "world/the-wandering-inn",

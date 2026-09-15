@@ -2,7 +2,7 @@ import type { WorldMiracle } from "akasha/story/world-mechanic/world-miracle/wor
 
 export const amassTheFaithfulSWill = {
   id: "01a0655a-7b7b-7bce-9dc4-cec597c138ce",
-  type: "world-miracle",
+  type: "page-type/world-miracle",
   slug: "amass-the-faithful-s-will",
   title: "Amass the Faithful’s Will",
   world: "world/the-wandering-inn",

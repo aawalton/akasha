@@ -2,7 +2,7 @@ import type { WorldMiracle } from "akasha/story/world-mechanic/world-miracle/wor
 
 export const baneOfLuck = {
   id: "01a0655a-7b7c-7a47-8969-d7026b2d3c98",
-  type: "world-miracle",
+  type: "page-type/world-miracle",
   slug: "bane-of-luck",
   title: "Bane of Luck",
   world: "world/the-wandering-inn",
