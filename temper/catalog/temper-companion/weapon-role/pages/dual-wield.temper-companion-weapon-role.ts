@@ -2,7 +2,7 @@ import type { TemperCompanionWeaponRole } from "akasha/temper/catalog/temper-com
 
 export const dualWield = {
   id: "01a05fcd-ea70-79c4-aaa6-56e61e68b51a",
-  type: "temper-companion-weapon-role",
+  type: "page-type/temper-companion-weapon-role",
   slug: "dual-wield",
   key: "dual-wield",
   title: "Dual Wield",

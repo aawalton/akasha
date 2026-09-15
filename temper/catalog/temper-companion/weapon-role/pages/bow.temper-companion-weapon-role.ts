@@ -2,7 +2,7 @@ import type { TemperCompanionWeaponRole } from "akasha/temper/catalog/temper-com
 
 export const bow = {
   id: "01a05fcd-ea70-7e3e-9094-42c56509ff53",
-  type: "temper-companion-weapon-role",
+  type: "page-type/temper-companion-weapon-role",
   slug: "bow",
   key: "bow",
   title: "Bow",

@@ -2,7 +2,7 @@ import type { TemperCompanionWeaponRole } from "akasha/temper/catalog/temper-com
 
 export const oneHandAndShield = {
   id: "01a05fcd-ea72-7bb9-926c-f2d5fe1acf40",
-  type: "temper-companion-weapon-role",
+  type: "page-type/temper-companion-weapon-role",
   slug: "one-hand-and-shield",
   key: "one-hand-and-shield",
   title: "One Hand and Shield",
