@@ -26,11 +26,6 @@ export const rynFileStructure = {
         "No slug is held by both a domain page and a page type any more, so the eighteen are landed, and temper-watcher and page-service with them. 62 of the 482 domains still wrap exactly one page, about 45 of those a domain over a single `modules/<one>` folder and the rest a domain over one domain, as `domain/text` sits over `domain/quote`. Four wrap a service-cluster and wait on the registry intent below: git-transport, eso-rig, auth-proxy and postgres-annual-dump.\n",
     },
     {
-      statement: "A property page sits under the page type declaring that property.",
-      workingMemory:
-        "About 140 of the 220 stray part edges are this shape. A page type in a subfolder names a property page sitting in the parent domain's `properties` folder, so the property sits beside the page type rather than under it. `page-type/temper-skill` at temper/catalog/temper-skill/temper-skills names `boolean-property/is-morph` at temper/catalog/temper-skill/properties. The whole temper catalog is built that way, and so are `page-type/argument` and `page-type/number-property`.",
-    },
-    {
       statement:
         "A page sits under the page naming it a part rather than in a registry of its own kind.",
       workingMemory:
