@@ -31,6 +31,7 @@ export type Carrying = {
   readonly targetPageTypeSlug: string | null
   readonly fileName: string | null
   readonly folderName: string | null
+  readonly sorted: boolean
 }
 
 export function schemaAt(pageTypePath: string): string | null {
@@ -56,6 +57,7 @@ export function carryingOf(one: Carried, shape: Shape | undefined): Carrying {
     targetPageTypeSlug: shape?.targetPageTypeSlug ?? null,
     fileName: shape?.fileName ?? null,
     folderName: shape?.folderName ?? null,
+    sorted: shape?.sorted ?? false,
   }
 }
 
@@ -101,6 +103,7 @@ export function carryingIn(line: string): Carrying | null {
     targetPageTypeSlug: textAt(held, "targetPageTypeSlug"),
     fileName: textAt(held, "fileName"),
     folderName: textAt(held, "folderName"),
+    sorted: held.sorted === true,
   }
 }
 

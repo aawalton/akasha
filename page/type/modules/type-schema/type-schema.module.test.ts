@@ -63,13 +63,16 @@ test("a path that is no TypeScript file has nothing beside it", () => {
 })
 
 test("a line carries what the property's own page says", () => {
-  const one = carryingOf(HOLDER, SHAPE)
+  const one = carryingOf(HOLDER, { ...SHAPE, sorted: true })
   expect(one.targetPageTypeSlug).toBe("person")
   expect(one.fileName).toBeNull()
+  expect(one.sorted).toBe(true)
 })
 
 test("a property the shapes do not name carries nothing of that property's own page", () => {
-  expect(carryingOf(SLUG, undefined).targetPageTypeSlug).toBeNull()
+  const one = carryingOf(SLUG, undefined)
+  expect(one.targetPageTypeSlug).toBeNull()
+  expect(one.sorted).toBe(false)
 })
 
 test("a line carries what the declaration says", () => {

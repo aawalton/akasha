@@ -25,7 +25,8 @@ export const schema = {
     },
     {
       invariantKind: "departure",
-      statement: "A line holds what the declaration says and what the property's own page says.",
+      statement:
+        "A line holds everything the declaration says and everything the property's own page says.",
     },
     {
       invariantKind: "departure",
