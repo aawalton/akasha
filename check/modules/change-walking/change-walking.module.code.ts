@@ -184,20 +184,24 @@ function pagedInside(path: string, shadow: Shadow): boolean {
   return pageNamed(path, pageTypesFor(shadow))
 }
 
-export const PAGES: Selector<Paged> = {
-  named: "pages",
-  isInput: pagedInside,
-  from: (change, shadow) => {
-    const found: Paged[] = []
-    for (const path of change.changed) {
-      if (!pagedInside(path, shadow)) continue
-      const text = textIn(change, path)
-      if (text === null) continue
-      found.push({ root: change.root, path, value: loadedFrom(text) })
-    }
-    return found
-  },
+export function pagesBy(named: string, taken: Input): Selector<Paged> {
+  return {
+    named,
+    isInput: (path, shadow) => pagedInside(path, shadow) && taken(path, shadow),
+    from: (change, shadow) => {
+      const found: Paged[] = []
+      for (const path of change.changed) {
+        if (!pagedInside(path, shadow) || !taken(path, shadow)) continue
+        const text = textIn(change, path)
+        if (text === null) continue
+        found.push({ root: change.root, path, value: loadedFrom(text) })
+      }
+      return found
+    },
+  }
 }
+
+export const PAGES: Selector<Paged> = pagesBy("pages", () => true)
 
 const ROWED = new WeakMap<Shadow, ReadonlySet<string>>()
 
@@ -233,11 +237,7 @@ export const PAGES_WITH_ROWS: Selector<Paged> = {
 
 export function pagesTailed(slug: string): Selector<Paged> {
   const tailed = (path: string): boolean => partedIn(path)?.pageType === slug
-  return {
-    named: `pages tailed ${slug}`,
-    isInput: (path, shadow) => PAGES.isInput(path, shadow) && tailed(path),
-    from: (change, shadow) => PAGES.from(change, shadow).filter((one) => tailed(one.path)),
-  }
+  return pagesBy(`pages tailed ${slug}`, (path) => tailed(path))
 }
 
 export function judgingEach<T extends { readonly path: string }>(

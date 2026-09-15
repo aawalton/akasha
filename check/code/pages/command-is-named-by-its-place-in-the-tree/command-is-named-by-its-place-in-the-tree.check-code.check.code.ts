@@ -17,6 +17,7 @@ import type {
 import {
   input,
   PAGES,
+  pagesBy,
   textIn,
   textNamed,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
@@ -49,10 +50,11 @@ function bodied(path: string): boolean {
 }
 
 const OURS: Selector<Paged> = {
-  named:
+  ...pagesBy(
     "the pages and the TypeScript under `command/`, and commands and namespaces wherever they sit",
+    ours
+  ),
   isInput: (path, shadow) => (PAGES.isInput(path, shadow) && ours(path, shadow)) || bodied(path),
-  from: (change, shadow) => PAGES.from(change, shadow).filter((one) => ours(one.path, shadow)),
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
