@@ -21,11 +21,6 @@ export const personaPoint = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "A change to a persona's green day points rescores her history as far as her stored days reach.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "A persona's daily points and her running total read the same source.",
     },
     {

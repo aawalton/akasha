@@ -8,7 +8,6 @@ import type { Appearance } from "akasha/persona/properties/appearance.file-prope
 import type { ChampionedDomain } from "akasha/persona/properties/championed-domain.relation-property.types.ts"
 import type { DesktopWallpaper } from "akasha/persona/properties/desktop-wallpaper.file-property.types.ts"
 import type { EmailAddress } from "akasha/persona/properties/email-address.email-address-property.types.ts"
-import type { GreenDayPoints } from "akasha/persona/properties/green-day-points.number-property.types.ts"
 import type { History } from "akasha/persona/properties/history.text-property.types.ts"
 import type { LastMessagedAt } from "akasha/persona/properties/last-messaged-at.text-property.types.ts"
 import type { MobileWallpaper } from "akasha/persona/properties/mobile-wallpaper.file-property.types.ts"
@@ -32,7 +31,6 @@ export type Persona = Domain & {
   championedDomain?: ChampionedDomain
   voiceInstruction?: VoiceInstruction
   voiceReferenceSha256?: VoiceReferenceSha256
-  greenDayPoints?: GreenDayPoints
   pointsBeforeToday?: PointsBeforeToday
   pointsToday?: PointsToday
   pointsTotal?: PointsTotal

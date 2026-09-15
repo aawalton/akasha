@@ -26,7 +26,6 @@ export const persona = {
     "module/persona-targets",
     "module/voice-spec",
     "module/wallpaper-order",
-    "number-property/green-day-points",
     "page-type/closeness-level",
     "page-type/origin-kind",
     "page-type/persona-anchor-image",
@@ -100,7 +99,6 @@ export const persona = {
     { pageProperty: "relation-property/championed-domain", required: false, many: false },
     { pageProperty: "text-property/voice-instruction", required: false, many: false },
     { pageProperty: "text-property/voice-reference-sha256", required: false, many: false },
-    { pageProperty: "number-property/green-day-points", required: false, many: false },
     {
       pageProperty: "number-property/points-before-today",
       required: false,

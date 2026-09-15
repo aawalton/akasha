@@ -220,7 +220,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/craft-day/properties/green-day.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/craft-day/properties/improvement-count.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/craft-day/properties/new-persona-count.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/properties/green-day-points.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/properties/threshold.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/properties/cells-cleared.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/properties/craters.number-property.ts"}
