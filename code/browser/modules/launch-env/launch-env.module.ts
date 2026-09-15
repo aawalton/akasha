@@ -8,6 +8,10 @@ export const launchEnv = {
   code: "ts",
   invariants: [
     {
+      invariantKind: "absence",
+      statement: "Nothing here starts a browser.",
+    },
+    {
       invariantKind: "departure",
       statement: "A name outside the allowlist is dropped rather than passed on.",
     },

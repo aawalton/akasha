@@ -5,5 +5,5 @@ export const browser = {
   type: "domain",
   slug: "browser",
   definition: "a browser driven from code, and what is kept of a run",
-  parts: ["domain/browser-command", "domain/browser-launch-env", "domain/browser-test-harness"],
+  parts: ["domain/browser-command", "domain/browser-test-harness", "module/launch-env"],
 } as const satisfies Domain

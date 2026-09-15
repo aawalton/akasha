@@ -291,7 +291,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/body/code-body.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/browser/browser.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/browser/command/browser-command.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/browser/launch-env/browser-launch-env.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/browser/test-harness/browser-test-harness.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/code.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/component/component.page-type.types.ts"}

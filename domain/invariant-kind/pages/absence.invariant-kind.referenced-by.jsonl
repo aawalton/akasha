@@ -785,7 +785,7 @@
 {"propertySlug":"invariant-kind","path":"code/body/modules/utf8-body/utf8-body.module.ts","id":"01a06553-a9b5-76cc-b4e6-e4e42b4a0f0d"}
 {"propertySlug":"invariant-kind","path":"code/browser/command/browser-command.domain.ts","id":"01a06862-06c8-7000-8f27-5543118e4614"}
 {"propertySlug":"invariant-kind","path":"code/browser/command/modules/verify-render-plan/verify-render-plan.module.ts","id":"01a0691b-4f64-7cae-bd86-446992c33c41"}
-{"propertySlug":"invariant-kind","path":"code/browser/launch-env/browser-launch-env.domain.ts","id":"01a05c48-deeb-7003-a5da-3a33a507b7c8"}
+{"propertySlug":"invariant-kind","path":"code/browser/modules/launch-env/launch-env.module.ts","id":"01a05c48-deeb-7004-ae00-696bc1c422ae"}
 {"propertySlug":"invariant-kind","path":"code/browser/test-harness/browser-test-harness.domain.ts","id":"01a05ca9-d801-7799-a4a3-de2a41d35502"}
 {"propertySlug":"invariant-kind","path":"code/browser/test-harness/modules/storage-state-reading/storage-state-reading.module.ts","id":"01a0659d-b1ba-7002-af95-6de723e71593"}
 {"propertySlug":"invariant-kind","path":"code/container-recipe/container-recipe.page-type.ts","id":"01a06815-9efd-7003-8c8e-4c03b44672b2"}
