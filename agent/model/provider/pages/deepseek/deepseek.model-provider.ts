@@ -8,29 +8,29 @@ export const deepseek = {
   apiBase: "https://api.deepseek.com/anthropic",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A name opening `claude-opus` is served by deepseek-v4-pro and every other name by deepseek-flash.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A request carries one key in an `x-api-key` header rather than an oauth pair.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "`cache_control` is taken and ignored, so a prompt is paid for whole every turn.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A document block, a thinking budget and `top_k` are taken and ignored.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Requests in flight are capped at 500 for deepseek-v4-pro and 2500 for deepseek-flash.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An account is prepaid, so a spent balance refuses every request.",
     },
   ],
