@@ -122,8 +122,8 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"collection","unique":null,"uniquePropertySlug":null,"slug":"section-of","propertySlug":"section-of","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"sent-from","propertySlug":"from","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"sent-to","propertySlug":"to","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"manifest","unique":null,"uniquePropertySlug":null,"slug":"service-cluster-manifest","propertySlug":"manifest","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"service-cluster","unique":null,"uniquePropertySlug":null,"slug":"service-clusters","propertySlug":"service-clusters","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"manifest","unique":null,"uniquePropertySlug":null,"slug":"service-manifest","propertySlug":"manifest","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"session-persona","propertySlug":"persona","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-special-effect-type","unique":null,"uniquePropertySlug":null,"slug":"special-effect","propertySlug":"special-effect","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"identity-statement","unique":null,"uniquePropertySlug":null,"slug":"sub-statements","propertySlug":"sub-statements","fileName":null,"folderName":null,"sorted":false}

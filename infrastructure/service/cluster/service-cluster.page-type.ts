@@ -19,7 +19,7 @@ export const serviceCluster = {
     "number-property/container-port",
     "number-property/replicas",
     "relation-property/secrets",
-    "relation-property/service-cluster-manifest",
+    "relation-property/service-manifest",
     "service-cluster/alanwalton-atlas",
     "service-cluster/alanwalton-web",
     "service-cluster/archive-of-worlds-web",
@@ -85,7 +85,7 @@ export const serviceCluster = {
     { pageProperty: "number-property/replicas", required: false, many: false },
     { pageProperty: "number-property/container-port", required: false, many: false },
     { pageProperty: "text-property/service-cluster-schedule", required: false, many: false },
-    { pageProperty: "relation-property/service-cluster-manifest", required: true, many: false },
+    { pageProperty: "relation-property/service-manifest", required: true, many: false },
     { pageProperty: "file-property/service-cluster-config", required: false, many: false },
     {
       pageProperty: "relation-property/secrets",

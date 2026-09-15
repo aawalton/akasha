@@ -1,2 +1,2 @@
 {"propertySlug":"parts","path":"infrastructure/storage/database/database.domain.ts","id":"01a0658b-0f02-739d-a425-d0d2ab58c103"}
-{"propertySlug":"service-cluster-manifest","path":"infrastructure/service/cluster/pages/pgbouncer/pgbouncer.service-cluster.ts","id":"01a06812-2380-75cf-80e3-e1ea919cfaca"}
+{"propertySlug":"service-manifest","path":"infrastructure/service/cluster/pages/pgbouncer/pgbouncer.service-cluster.ts","id":"01a06812-2380-75cf-80e3-e1ea919cfaca"}

@@ -1,2 +1,2 @@
 {"propertySlug":"parts","path":"infrastructure/seaweedfs/seaweedfs.domain.ts","id":"01a06816-68b1-73dc-970e-be70fec533a1"}
-{"propertySlug":"service-cluster-manifest","path":"infrastructure/service/cluster/pages/seaweedfs-prune-sessions/seaweedfs-prune-sessions.service-cluster.ts","id":"01a06816-68b2-782e-bab4-94b6543bc420"}
+{"propertySlug":"service-manifest","path":"infrastructure/service/cluster/pages/seaweedfs-prune-sessions/seaweedfs-prune-sessions.service-cluster.ts","id":"01a06816-68b2-782e-bab4-94b6543bc420"}
