@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0454ChapterFourHundredAndFortyModernDraconic = {
   id: "01a0672c-eb21-700f-9fb2-022dd8203777",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0454-chapter-four-hundred-and-forty-modern-draconic",
   title: "Chapter Four Hundred and Forty - Modern Draconic Monetary Theory",
   story: "story-read/cinnamon-bun",

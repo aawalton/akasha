@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0481ChapterFourHundredAndSixtySevenBrightThe = {
   id: "01a0672c-eb23-7001-b4aa-a5506fb6f3fb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0481-chapter-four-hundred-and-sixty-seven-bright-the",
   title: "Chapter Four Hundred and Sixty-Seven - Bright the Next Morning, With Noisy Commotion",
   story: "story-read/cinnamon-bun",

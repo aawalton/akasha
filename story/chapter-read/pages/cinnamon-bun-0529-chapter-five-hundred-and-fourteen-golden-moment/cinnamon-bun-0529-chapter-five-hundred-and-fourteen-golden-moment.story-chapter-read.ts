@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0529ChapterFiveHundredAndFourteenGoldenMoment = {
   id: "01a0672c-eb26-7002-b400-a42096ec9904",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0529-chapter-five-hundred-and-fourteen-golden-moment",
   title: "Chapter Five Hundred and Fourteen - Golden Moment",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0565ChapterFiveHundredAndFiftySlowOnTheUptake = {
   id: "01a0672c-eb27-700d-8328-52c0a13ed1ec",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0565-chapter-five-hundred-and-fifty-slow-on-the-uptake",
   title: "Chapter Five Hundred and Fifty - Slow on the Uptake",
   story: "story-read/cinnamon-bun",

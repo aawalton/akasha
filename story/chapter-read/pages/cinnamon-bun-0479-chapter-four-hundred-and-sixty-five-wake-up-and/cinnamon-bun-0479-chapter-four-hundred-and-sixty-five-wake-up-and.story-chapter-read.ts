@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0479ChapterFourHundredAndSixtyFiveWakeUpAnd = {
   id: "01a0672c-eb22-7017-a860-fdea56f7ba8e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0479-chapter-four-hundred-and-sixty-five-wake-up-and",
   title: "Chapter Four Hundred and Sixty-Five - Wake Up and Smell the Eggs",
   story: "story-read/cinnamon-bun",

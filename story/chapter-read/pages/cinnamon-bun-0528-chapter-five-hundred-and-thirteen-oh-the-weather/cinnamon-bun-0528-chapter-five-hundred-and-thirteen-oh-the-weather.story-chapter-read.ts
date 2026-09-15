@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0528ChapterFiveHundredAndThirteenOhTheWeather = {
   id: "01a0672c-eb26-7001-8899-e1ff8f2a8340",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0528-chapter-five-hundred-and-thirteen-oh-the-weather",
   title: "Chapter Five Hundred and Thirteen - Oh, the Weather Outside is Frightful",
   story: "story-read/cinnamon-bun",

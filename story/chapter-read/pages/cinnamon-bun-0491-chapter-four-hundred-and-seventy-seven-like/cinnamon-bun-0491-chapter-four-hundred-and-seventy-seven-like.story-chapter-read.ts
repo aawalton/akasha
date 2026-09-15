@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0491ChapterFourHundredAndSeventySevenLike = {
   id: "01a0672c-eb23-700b-bc9f-f7e0bbce83f4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0491-chapter-four-hundred-and-seventy-seven-like",
   title: "Chapter Four Hundred and Seventy-Seven - Like Shooting Fish with a Dragon",
   story: "story-read/cinnamon-bun",

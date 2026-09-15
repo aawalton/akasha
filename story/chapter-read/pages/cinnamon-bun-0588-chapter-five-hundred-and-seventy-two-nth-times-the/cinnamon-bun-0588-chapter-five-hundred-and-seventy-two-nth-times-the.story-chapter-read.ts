@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0588ChapterFiveHundredAndSeventyTwoNthTimesThe = {
   id: "01a0672c-eb28-700c-ac24-a6607bca3e70",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0588-chapter-five-hundred-and-seventy-two-nth-times-the",
   title: "Chapter Five Hundred and Seventy-Two - Nth Time's the Charm",
   story: "story-read/cinnamon-bun",

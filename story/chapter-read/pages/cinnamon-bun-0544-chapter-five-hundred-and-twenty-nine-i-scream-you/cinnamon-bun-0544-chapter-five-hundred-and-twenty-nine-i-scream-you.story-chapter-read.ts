@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0544ChapterFiveHundredAndTwentyNineIScreamYou = {
   id: "01a0672c-eb26-7011-b251-06c3401e7c97",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0544-chapter-five-hundred-and-twenty-nine-i-scream-you",
   title: "Chapter Five Hundred and Twenty-Nine - I Scream, You Scream, We All Scream, For Poutine",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0469ChapterFourHundredAndFiftyFiveChargeOfThe = {
   id: "01a0672c-eb22-700d-a067-fe9a3351a11b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0469-chapter-four-hundred-and-fifty-five-charge-of-the",
   title: "Chapter Four Hundred and Fifty-Five - Charge of the Bun's Brigade",
   story: "story-read/cinnamon-bun",

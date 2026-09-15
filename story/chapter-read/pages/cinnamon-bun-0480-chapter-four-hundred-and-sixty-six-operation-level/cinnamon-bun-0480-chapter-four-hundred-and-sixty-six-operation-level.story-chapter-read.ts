@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0480ChapterFourHundredAndSixtySixOperationLevel = {
   id: "01a0672c-eb23-7000-8a17-a2059c653a19",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0480-chapter-four-hundred-and-sixty-six-operation-level",
   title: "Chapter Four Hundred and Sixty-Six - Operation Level-Up",
   story: "story-read/cinnamon-bun",

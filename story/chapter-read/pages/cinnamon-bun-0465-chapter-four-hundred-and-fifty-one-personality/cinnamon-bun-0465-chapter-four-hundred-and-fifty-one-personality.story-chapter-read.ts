@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0465ChapterFourHundredAndFiftyOnePersonality = {
   id: "01a0672c-eb22-7009-9e9f-b4319cec40da",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0465-chapter-four-hundred-and-fifty-one-personality",
   title: "Chapter Four Hundred and Fifty-One - Personality Quiz",
   story: "story-read/cinnamon-bun",

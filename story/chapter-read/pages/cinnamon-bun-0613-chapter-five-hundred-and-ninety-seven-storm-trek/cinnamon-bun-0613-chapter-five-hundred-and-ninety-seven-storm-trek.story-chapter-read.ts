@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0613ChapterFiveHundredAndNinetySevenStormTrek = {
   id: "01a0672c-eb29-700d-a2fd-5f43913ba333",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0613-chapter-five-hundred-and-ninety-seven-storm-trek",
   title: "Chapter Five Hundred and Ninety-Seven - Storm Trek Nemesis",
   story: "story-read/cinnamon-bun",

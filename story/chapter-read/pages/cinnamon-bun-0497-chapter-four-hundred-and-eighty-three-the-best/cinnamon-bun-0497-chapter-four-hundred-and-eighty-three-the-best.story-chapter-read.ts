@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0497ChapterFourHundredAndEightyThreeTheBest = {
   id: "01a0672c-eb23-7011-9a34-1c9ae6f858a6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0497-chapter-four-hundred-and-eighty-three-the-best",
   title: "Chapter Four Hundred and Eighty-Three - The Best Laid Plans of Mice and Buns",
   story: "story-read/cinnamon-bun",

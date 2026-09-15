@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0475ChapterFourHundredAndSixtyOneMotivating = {
   id: "01a0672c-eb22-7013-8f92-9505098fd98e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0475-chapter-four-hundred-and-sixty-one-motivating",
   title: "Chapter Four Hundred and Sixty-One - Motivating Factors",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0508ChapterFourHundredAndNinetyFourTheBinding = {
   id: "01a0672c-eb24-7006-ad03-b032811f53e0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0508-chapter-four-hundred-and-ninety-four-the-binding",
   title: "Chapter Four Hundred and Ninety-Four - The Binding of Aberrforth",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0596ChapterFiveHundredAndEightyBelowTheHorizon = {
   id: "01a0672c-eb28-7014-b57f-3eba9598ddc1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0596-chapter-five-hundred-and-eighty-below-the-horizon",
   title: "Chapter Five Hundred and Eighty - Below the Horizon",
   story: "story-read/cinnamon-bun",

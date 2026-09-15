@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0608ChapterFiveHundredAndNinetyTwoTheWorldIsnt = {
   id: "01a0672c-eb29-7008-84c7-5143e7520740",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0608-chapter-five-hundred-and-ninety-two-the-world-isnt",
   title: "Chapter Five Hundred and Ninety-Two - The World Isn't the Boss of Me",
   story: "story-read/cinnamon-bun",

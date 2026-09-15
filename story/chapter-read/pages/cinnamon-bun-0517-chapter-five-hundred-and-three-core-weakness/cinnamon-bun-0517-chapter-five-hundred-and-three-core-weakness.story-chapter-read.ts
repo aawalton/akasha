@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0517ChapterFiveHundredAndThreeCoreWeakness = {
   id: "01a0672c-eb25-7002-84ae-18218d121970",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0517-chapter-five-hundred-and-three-core-weakness",
   title: "Chapter Five Hundred and Three - Core Weakness",
   story: "story-read/cinnamon-bun",

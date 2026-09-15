@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0509ChapterFourHundredAndNinetyFiveLoveIsBeing = {
   id: "01a0672c-eb24-7007-8eca-a1af50edd804",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0509-chapter-four-hundred-and-ninety-five-love-is-being",
   title: "Chapter Four Hundred and Ninety-Five - Love is Being Stupid",
   story: "story-read/cinnamon-bun",
