@@ -2,7 +2,7 @@ import type { Unit } from "akasha/alan/collection/unit/unit.page-type.types.ts"
 
 export const seconds = {
   id: "01a063de-2c60-7019-8d47-ef61c6043e5d",
-  type: "unit",
+  type: "page-type/unit",
   slug: "seconds",
   definition: "a length counted in seconds of time",
   words: 4.1667,
