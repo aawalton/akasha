@@ -15,6 +15,7 @@ export const code = {
     "domain/code-running",
     "domain/editor",
     "domain/shell",
+    "domain/type",
     "page-type/app-routes",
     "page-type/component",
     "page-type/component-property-group",

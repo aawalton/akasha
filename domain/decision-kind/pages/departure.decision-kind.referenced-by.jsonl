@@ -1814,6 +1814,8 @@
 {"propertySlug":"decision-kind","path":"code/type-declaration/properties/source-version.number-property.ts","id":"01a08234-f12b-7ac2-bfbb-0dd5515b7b36"}
 {"propertySlug":"decision-kind","path":"code/type-declaration/properties/written-by.text-property.ts","id":"01a08234-d8ba-7bb5-9be6-95a087589e12"}
 {"propertySlug":"decision-kind","path":"code/type-declaration/type-declaration.page-type.ts","id":"01a0605a-98f4-7c54-8030-4fec48465bda"}
+{"propertySlug":"decision-kind","path":"code/type/import/type-import.domain.ts","id":"01a049e9-651c-7007-8abb-675c750009bb"}
+{"propertySlug":"decision-kind","path":"code/type/type.domain.ts","id":"01a049e9-651c-7006-896c-2bffa71e2d0a"}
 {"propertySlug":"decision-kind","path":"code/workspace/modules/manifest-finding/manifest-finding.module.ts","id":"01a0a04a-15a8-7799-bdf2-4db67b297cd0"}
 {"propertySlug":"decision-kind","path":"code/workspace/modules/manifest-locking/manifest-locking.module.ts","id":"01a0628d-2f09-7f63-8d3a-27494e9ec287"}
 {"propertySlug":"decision-kind","path":"code/workspace/modules/package-manifest/package-manifest.module.ts","id":"01a05ae4-fc70-7000-89a5-77bf2b9786ae"}
@@ -5236,8 +5238,6 @@
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-pricing-snapshot/api-watcher-upsert-pricing-snapshot.route.ts","id":"01a082fe-7dee-72e6-89a1-b20f7230159b"}
 {"propertySlug":"decision-kind","path":"temper/web/test-fixtures/resource-loader-args-test-utils/resource-loader-args-test-utils.test-fixture.ts","id":"01a08ee4-41a2-7873-81b7-b181807acb88"}
 {"propertySlug":"decision-kind","path":"text/quote/quote.domain.ts","id":"01a06815-ceaf-7d64-bb5e-3b8a0ff93c0f"}
-{"propertySlug":"decision-kind","path":"type/import/type-import.domain.ts","id":"01a049e9-651c-7007-8abb-675c750009bb"}
-{"propertySlug":"decision-kind","path":"type/type.domain.ts","id":"01a049e9-651c-7006-896c-2bffa71e2d0a"}
 {"propertySlug":"decision-kind","path":"util/fs/modules/anything-there/anything-there.module.ts","id":"01a08e16-6dcf-7030-a111-e379d16e22f5"}
 {"propertySlug":"decision-kind","path":"util/fs/modules/atomic-write/atomic-write.module.ts","id":"01a05c4c-9441-7a1c-a7fc-dc1ab3914181"}
 {"propertySlug":"decision-kind","path":"util/fs/modules/file-size/file-size.module.ts","id":"01a08182-0997-7171-8a4f-afaacaf31310"}

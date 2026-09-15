@@ -313,6 +313,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/shell/terminal/shell-terminal.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/stylesheet/stylesheet.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/type-declaration/type-declaration.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/type/import/type-import.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/type/type.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/workspace/workspace.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"command/namespace/namespace.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/design.domain.ts"}
@@ -598,8 +600,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/upstream-data/temper-upstream-data.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/quote/quote.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/text.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"type/import/type-import.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"type/type.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/fs/util-fs.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/narrow/util-narrow.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/process/util-process.domain.ts"}

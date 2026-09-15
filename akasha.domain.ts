@@ -18,7 +18,6 @@ export const akasha = {
     "domain/story",
     "domain/temper",
     "domain/text",
-    "domain/type",
     "domain/util",
     "domain/verdict",
     "page-type/agent",
