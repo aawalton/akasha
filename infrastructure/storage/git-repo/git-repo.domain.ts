@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const gitRepos = {
+export const gitRepo = {
   id: "01a0658b-0f02-7b81-b4eb-10d0287c3fed",
   type: "domain",
-  slug: "git-repos",
+  slug: "git-repo",
   definition: "the versioned text stores",
   parts: ["domain/dirty", "page-type/repo"],
   invariants: [

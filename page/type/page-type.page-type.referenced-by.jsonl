@@ -240,7 +240,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/vendored-workload/vendored-workload.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/web-app/web-app.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/workstation/service-workstation.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/storage/git-repos/repo/repo.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/storage/git-repo/repo/repo.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/telemetry/dashboard/dashboard.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/action-button-property/action-button-property.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/address-kind/page-address-kind.page-type.ts"}

@@ -10,7 +10,7 @@ export const storage = {
     "domain/container-registry",
     "domain/database",
     "domain/disk-store",
-    "domain/git-repos",
+    "domain/git-repo",
     "domain/object-store",
   ],
   invariants: [

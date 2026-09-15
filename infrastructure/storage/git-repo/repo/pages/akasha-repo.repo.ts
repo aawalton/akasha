@@ -1,4 +1,4 @@
-import type { Repo } from "akasha/infrastructure/storage/git-repos/repo/repo.page-type.types.ts"
+import type { Repo } from "akasha/infrastructure/storage/git-repo/repo/repo.page-type.types.ts"
 
 export const akashaRepo = {
   id: "01a06975-df76-7185-a7d4-ff026aece45c",

@@ -2711,9 +2711,9 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/storage/database/postgrest/postgrest.manifest.ts","id":"01a07388-0aab-752f-88b5-67dfc8f38a5c"}
 {"propertySlug":"invariant-kind","path":"infrastructure/storage/database/supabase-realtime/supabase-realtime.manifest.ts","id":"01a0738d-641f-71ab-93b6-38e0f40a9f92"}
 {"propertySlug":"invariant-kind","path":"infrastructure/storage/disk-store/disk-store.domain.ts","id":"01a0658b-0f02-7435-bfcf-e778c41f839f"}
-{"propertySlug":"invariant-kind","path":"infrastructure/storage/git-repos/git-repos.domain.ts","id":"01a0658b-0f02-7b81-b4eb-10d0287c3fed"}
-{"propertySlug":"invariant-kind","path":"infrastructure/storage/git-repos/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
-{"propertySlug":"invariant-kind","path":"infrastructure/storage/git-repos/repo/repo.page-type.ts","id":"01a06835-e289-7ce5-b198-71205e81f789"}
+{"propertySlug":"invariant-kind","path":"infrastructure/storage/git-repo/git-repo.domain.ts","id":"01a0658b-0f02-7b81-b4eb-10d0287c3fed"}
+{"propertySlug":"invariant-kind","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
+{"propertySlug":"invariant-kind","path":"infrastructure/storage/git-repo/repo/repo.page-type.ts","id":"01a06835-e289-7ce5-b198-71205e81f789"}
 {"propertySlug":"invariant-kind","path":"infrastructure/storage/object-store/object-store.domain.ts","id":"01a05cbb-139c-75e2-a97e-d9467fae14ce"}
 {"propertySlug":"invariant-kind","path":"infrastructure/storage/storage.domain.ts","id":"01a0658b-0f02-7644-863a-eb9b17536f55"}
 {"propertySlug":"invariant-kind","path":"infrastructure/telemetry/dashboard/dashboard.page-type.ts","id":"01a07c67-a724-7337-8adc-5a5e3a393057"}
