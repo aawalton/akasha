@@ -1,7 +1,7 @@
 import type { Carried } from "akasha/check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { filedIn } from "akasha/page/index/modules/identities/index-identities.module.code.ts"
 import { keyFor } from "akasha/page/index/modules/identifying/index-identifying.module.code.ts"
+import { filedIn } from "akasha/page/index/modules/identities/index-identities.module.code.ts"
 import type { Listed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Identifying } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
