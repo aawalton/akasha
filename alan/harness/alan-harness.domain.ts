@@ -8,7 +8,7 @@ export const alanHarness = {
   parts: [
     "domain/alan-harness-agents",
     "domain/alan-harness-stoplight",
-    "domain/alan-readouts",
+    "domain/alan-readout",
     "domain/alanwalton-ios-notification",
     "domain/attributes",
     "domain/capacity",

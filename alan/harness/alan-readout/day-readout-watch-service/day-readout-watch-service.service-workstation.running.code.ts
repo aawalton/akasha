@@ -1,7 +1,7 @@
 import {
   sayOnTheConsole,
   watchDayReadings,
-} from "akasha/alan/harness/alan-readouts/modules/day-readout-watching/day-readout-watching.module.code.ts"
+} from "akasha/alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts"
 
 export async function runService(): Promise<never> {
   const ending = Promise.withResolvers<never>()

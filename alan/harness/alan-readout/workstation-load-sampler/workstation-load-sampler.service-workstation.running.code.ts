@@ -1,4 +1,4 @@
-import { sampleLoad } from "akasha/alan/harness/alan-readouts/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts"
+import { sampleLoad } from "akasha/alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts"
 
 export async function runService(): Promise<never> {
   const ending = Promise.withResolvers<never>()

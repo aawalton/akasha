@@ -4,7 +4,7 @@ import {
   type Sample,
   takerOf,
   wholePercent,
-} from "akasha/alan/harness/alan-readouts/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts"
+} from "akasha/alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts"
 
 const ROOT = "/nowhere"
 

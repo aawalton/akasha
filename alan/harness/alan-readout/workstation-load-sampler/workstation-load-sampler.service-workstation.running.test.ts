@@ -7,11 +7,11 @@ const RAN: string[] = []
 let ends: (thrown: unknown) => undefined = (): undefined => undefined
 
 const sampling = await import(
-  "akasha/alan/harness/alan-readouts/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts"
+  "akasha/alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts"
 )
 
 mock.module(
-  "akasha/alan/harness/alan-readouts/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts",
+  "akasha/alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts",
   () => ({
     ...sampling,
     sampleLoad: (ended: (thrown: unknown) => undefined): (() => undefined) => {
@@ -23,7 +23,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/alan/harness/alan-readouts/workstation-load-sampler/workstation-load-sampler.service-workstation.running.code.ts"
+  "akasha/alan/harness/alan-readout/workstation-load-sampler/workstation-load-sampler.service-workstation.running.code.ts"
 )
 
 function afterWaiting(run: Promise<never>, ms: number): Promise<string> {
@@ -62,7 +62,7 @@ test("a loop that ends carries out what ended it, so the unit fails rather than 
 
 test("a loop that could not start is carried out rather than swallowed, so a failed start is a failed unit", async () => {
   mock.module(
-    "akasha/alan/harness/alan-readouts/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts",
+    "akasha/alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts",
     () => ({
       ...sampling,
       sampleLoad: (): (() => undefined) => {
