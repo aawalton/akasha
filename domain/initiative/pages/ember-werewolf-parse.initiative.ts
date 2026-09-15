@@ -9,12 +9,6 @@ export const emberWerewolfParse = {
   intentStack: [
     {
       statement:
-        "Three-Color Stalker's five Savage Werewolf pieces are reconstructed gold in the parse traits.",
-      workingMemory:
-        "A transmute station takes the Arm Cops in Divines, the Necklace and Ring in Infused, and two Maces in Charged. The 15 September account capture puts Savage Werewolf at 13 of 22 slots, with Arm Cops, Necklace, Ring and Mace unlocked and every other one-handed type locked, so both weapons are Maces and no Moon Hunter Keep run is owed. Every trait on every crafting line is researched. Gold takes a Rubedo Leather Dressing, two Rubedite Tempers and Chromium Plating.",
-    },
-    {
-      statement:
         "Three-Color Stalker's five Order's Wrath Light body pieces are crafted gold in Divines.",
       workingMemory:
         "The chest, hands, waist, legs and feet are Ancestor Silk at CP160 in Divines, crafted at the Steadfast Hammer and Saw on High Isle and improved with Dreugh Wax. No Light Order's Wrath piece is on the account, and every Order's Wrath armour piece held is a Medium head or shoulder, so all five are made from nothing.",
