@@ -2,7 +2,7 @@ import type { RecipeCollection } from "akasha/alan/collection/recipe-collection/
 
 export const breakfast = {
   id: "01a06808-ddb3-7000-8cea-e1e015b167bc",
-  type: "recipe-collection",
+  type: "page-type/recipe-collection",
   slug: "breakfast",
   title: "Breakfast",
   partOfCollections: ["recipe-collection/recipes"],
