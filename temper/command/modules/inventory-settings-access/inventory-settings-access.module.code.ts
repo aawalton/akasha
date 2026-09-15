@@ -177,7 +177,10 @@ export function besidePages(
   kept: Record<string, unknown>,
   next: InventoryRuleSettings
 ): Record<string, unknown> {
-  const out: Record<string, unknown> = { ...kept }
+  const out: Record<string, unknown> = {}
+  for (const [key, value] of Object.entries(kept)) {
+    if (key !== RULES) out[key] = value
+  }
   for (const [key, value] of Object.entries(next)) {
     if (key === RULES) continue
     if (value !== undefined) out[key] = value

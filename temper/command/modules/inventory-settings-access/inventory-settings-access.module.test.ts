@@ -29,12 +29,13 @@ test("the rules the write carries are left out, because a rule is a page", () =>
   expect(out).toEqual({ version: 2 })
 })
 
-test("the rules the blob already keeps are left as they were", () => {
+test("the rules an earlier write left in the blob are taken out", () => {
   const out = besidePages(
     { version: 2, rules: [{ id: "stale", categoryId: "armor", action: "nothing" }] },
     { version: 2, rules: [CATEGORY_RULE] }
   )
-  expect(out.rules).toEqual([{ id: "stale", categoryId: "armor", action: "nothing" }])
+  expect(Object.hasOwn(out, "rules")).toBe(false)
+  expect(out).toEqual({ version: 2 })
 })
 
 test("an item rule the write carries lands in the blob", () => {

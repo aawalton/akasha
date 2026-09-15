@@ -42,6 +42,10 @@ export const inventorySettingsAccess = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A write takes out of that blob the rules an earlier write left there.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The automation settings live under one settings key.",
     },
     {
