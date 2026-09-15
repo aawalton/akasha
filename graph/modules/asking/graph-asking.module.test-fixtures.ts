@@ -220,6 +220,7 @@ export function relationWorld(lines: number, pagesExist = true): string {
   })
   filed(root, `path/${TARGET_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
   filed(root, `path/${SIDECAR_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
+  filed(root, `identity/page/id/${TARGET_ID}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
   if (lines > 0) {
     filedAll(
       root,
@@ -304,6 +305,7 @@ export function loaderWorld(names = true): string {
     code: "ts",
   })
   filed(root, `path/${LOADER_AT}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
+  filed(root, `identity/page/id/${LOADER_ID}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
   paged(root, MODULE_TYPE_AT, {
     id: MODULE_TYPE_ID,
     pageTypeSlug: PAGE_TYPE,
