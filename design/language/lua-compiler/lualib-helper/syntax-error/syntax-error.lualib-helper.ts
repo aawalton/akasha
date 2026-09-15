@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const syntaxError = {
   id: "01a081c0-fa43-7ec5-b77d-512453fbfd7a",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "syntax-error",
   definition: "the error type source the parser refuses is",
   code: "ts",

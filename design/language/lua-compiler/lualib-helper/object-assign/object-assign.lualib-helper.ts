@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const objectAssign = {
   id: "01a081f7-142d-7cab-93ed-0e2ad7aa0f74",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "object-assign",
   definition: "the object other objects' properties have been written onto",
   code: "ts",

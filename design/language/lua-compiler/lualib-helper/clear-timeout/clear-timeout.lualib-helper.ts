@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const clearTimeout = {
   id: "01a081d0-6ee0-7c98-98ce-5974b65ef70b",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "clear-timeout",
   definition: "the cancelling a delayed call is given by its handle",
   code: "ts",

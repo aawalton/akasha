@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const stringCharAt = {
   id: "01a081ed-ab46-7754-a8f3-22f0685ead07",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "string-char-at",
   definition: "the character text holds at a position, or empty text where there is none",
   code: "ts",

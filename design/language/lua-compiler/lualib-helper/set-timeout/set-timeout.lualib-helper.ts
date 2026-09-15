@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const setTimeout = {
   id: "01a081d0-3e45-749c-b407-d15c7e134ff9",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "set-timeout",
   definition: "the handle a call made once after a delay is known by",
   code: "ts",

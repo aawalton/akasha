@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const objectEntries = {
   id: "01a081f7-142d-7eec-a5b8-88d709d096bb",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "object-entries",
   definition: "the array of an object's key and value pairs",
   code: "ts",

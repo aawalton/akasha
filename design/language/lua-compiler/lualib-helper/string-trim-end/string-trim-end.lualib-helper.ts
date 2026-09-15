@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const stringTrimEnd = {
   id: "01a081ed-ab46-7c64-80b0-7dbaa3e6a3ad",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "string-trim-end",
   definition: "the text left once the whitespace at its end is taken away",
   code: "ts",

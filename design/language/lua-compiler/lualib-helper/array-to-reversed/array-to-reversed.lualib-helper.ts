@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arrayToReversed = {
   id: "01a081ed-ab46-7ec8-aeaf-6eb0c7270e84",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-to-reversed",
   definition: "the copy of an array with its elements in the opposite order",
   code: "ts",

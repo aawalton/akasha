@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const generator = {
   id: "01a08c60-0bbc-7a1f-9177-19ccc0e3ec16",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "generator",
   definition: "a function that yields, run as a coroutine",
   code: "ts",

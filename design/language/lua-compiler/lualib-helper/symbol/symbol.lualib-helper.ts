@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const symbol = {
   id: "01a081da-fded-7aea-81c2-ae80a9f08265",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "symbol",
   definition: "the unique value a description is wrapped into",
   code: "ts",

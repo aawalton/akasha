@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arrayUnshift = {
   id: "01a081ed-ab46-73af-8e27-0e82ce0b9291",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-unshift",
   definition: "the length an array reaches once items are added to its front",
   code: "ts",

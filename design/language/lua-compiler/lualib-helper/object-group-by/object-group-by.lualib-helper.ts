@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const objectGroupBy = {
   id: "01a081f7-142d-7459-b18f-c91dd4ff0bad",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "object-group-by",
   definition: "the object holding items under the key each item is chosen by",
   code: "ts",

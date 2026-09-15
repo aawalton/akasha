@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const match = {
   id: "01a08c49-3797-73d9-806a-55f3cdc5bfe9",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "match",
   definition: "the captures a Lua pattern takes from a string, or the whole match where none",
   code: "ts",

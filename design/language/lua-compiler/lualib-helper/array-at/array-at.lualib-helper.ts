@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arrayAt = {
   id: "01a08192-f89b-7ad0-9aaf-f96bcd61a6be",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-at",
   definition: "the element an index counted from either end of an array reaches",
   code: "ts",

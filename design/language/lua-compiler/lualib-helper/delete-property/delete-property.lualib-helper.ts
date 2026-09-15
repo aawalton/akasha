@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const deleteProperty = {
   id: "01a08c43-7bf9-72e5-8169-d37d3c935c44",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "delete-property",
   definition: "a property taken off a target, refused where the descriptor is not configurable",
   code: "ts",

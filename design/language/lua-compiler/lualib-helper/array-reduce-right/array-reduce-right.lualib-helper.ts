@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arrayReduceRight = {
   id: "01a08c5d-7e26-7bb8-abac-05805fff764f",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-reduce-right",
   definition: "an array folded from its end into one value",
   code: "ts",

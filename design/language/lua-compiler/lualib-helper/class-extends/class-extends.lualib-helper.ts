@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const classExtends = {
   id: "01a08202-0fa9-7428-b852-01082e7e80e5",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "class-extends",
   definition: "the metatables tying a class to the class it descends from",
   code: "ts",

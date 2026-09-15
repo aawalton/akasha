@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arrayJoin = {
   id: "01a081ed-ab46-74e9-a87b-d64376149421",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-join",
   definition: "the text an array's elements make with a separator between them",
   code: "ts",

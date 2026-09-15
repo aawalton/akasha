@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arrayPush = {
   id: "01a081dd-f309-7cf2-ba7f-c67c0ddec8a9",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-push",
   definition: "the length an array reaches once items are added to its end",
   code: "ts",

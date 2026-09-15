@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const objectValues = {
   id: "01a081f7-142d-751c-ba1a-47223deeb6f3",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "object-values",
   definition: "the array of the values an object has",
   code: "ts",

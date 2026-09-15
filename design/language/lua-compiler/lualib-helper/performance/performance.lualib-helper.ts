@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const performance = {
   id: "01a081f7-142d-7159-badc-22c250452723",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "performance",
   definition: "the clock a program reads the milliseconds since the game started from",
   code: "ts",

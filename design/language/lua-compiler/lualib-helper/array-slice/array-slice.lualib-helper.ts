@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arraySlice = {
   id: "01a081ed-ab46-73dd-ae99-208996ea044b",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-slice",
   definition: "the array of an array's elements between two indexes",
   code: "ts",

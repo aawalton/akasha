@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const wellKnownSymbols = {
   id: "01a081db-2ced-7614-92db-92bfeaaf71f8",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "well-known-symbols",
   definition: "the symbols the language itself names",
   code: "ts",

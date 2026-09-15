@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const numberToFixed = {
   id: "01a08202-0fa9-795e-99f1-aa3a8b43c20d",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "number-to-fixed",
   definition: "the text a number takes with a stated count of fraction digits",
   code: "ts",

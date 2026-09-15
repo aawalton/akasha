@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const mathAtan2 = {
   id: "01a081f7-142d-7408-b2d4-7a1080f3be01",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "math-atan2",
   definition: "the arc tangent Lua answers for two numbers, under whichever name it carries",
   code: "ts",

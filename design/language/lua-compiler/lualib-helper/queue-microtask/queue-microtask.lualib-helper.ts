@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const queueMicrotask = {
   id: "01a081d1-2285-75ce-b055-c42140dc668d",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "queue-microtask",
   definition: "the call a callback is made on with no delay",
   code: "ts",

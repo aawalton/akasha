@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const stringSlice = {
   id: "01a081f7-142d-797b-a071-2a09fc798b47",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "string-slice",
   definition: "the text between two indexes of other text",
   code: "ts",

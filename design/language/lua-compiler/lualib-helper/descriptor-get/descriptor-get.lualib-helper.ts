@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const descriptorGet = {
   id: "01a08c45-34c5-7c22-8349-2a7674ac0fc6",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "descriptor-get",
   definition: "the value a key reaches, walking the metatables for a raw field or a getter",
   code: "ts",

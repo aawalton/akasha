@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const sparseArraySpread = {
   id: "01a08202-0fa9-7d98-8154-8cf67a486f1c",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "sparse-array-spread",
   definition: "the many values a sparse array is opened out into, holes and all",
   code: "ts",

@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arrayFlat = {
   id: "01a081e7-49c9-7570-867a-1c0a57761a6d",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-flat",
   definition: "the array an array's nested arrays are lifted into, down to a depth",
   code: "ts",

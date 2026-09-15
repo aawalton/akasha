@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const stringPadStart = {
   id: "01a081f7-142d-7a13-8bc8-1291865192a2",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "string-pad-start",
   definition: "the text filled out to a length with other text added at its front",
   code: "ts",

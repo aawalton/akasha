@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const promiseAllSettled = {
   id: "01a08c58-f256-740f-adb3-d7598ffc807a",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "promise-all-settled",
   definition: "one promise answering how each of many turned out",
   code: "ts",

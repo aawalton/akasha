@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const stringPadEnd = {
   id: "01a081f7-142d-7ea1-9f10-fca4909eb0ba",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "string-pad-end",
   definition: "the text filled out to a length with other text added at its end",
   code: "ts",

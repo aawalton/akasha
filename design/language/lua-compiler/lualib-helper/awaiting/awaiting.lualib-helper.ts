@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const awaiting = {
   id: "01a081c8-3b7c-70de-af0f-be32ed7a811e",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "awaiting",
   definition: "the yield an await expression becomes",
   code: "ts",

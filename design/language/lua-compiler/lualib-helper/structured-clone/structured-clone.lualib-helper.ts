@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const structuredClone = {
   id: "01a08c41-35bc-7c86-a2bb-34c5375cbfd8",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "structured-clone",
   definition: "a deep copy of a value, where a reference held twice is copied once",
   code: "ts",

@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const usingAsync = {
   id: "01a08c41-078a-7bfe-abd3-af93139d0cb2",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "using-async",
   definition: "a call whose disposable arguments are disposed of, awaiting the asynchronous ones",
   code: "ts",

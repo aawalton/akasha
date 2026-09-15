@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const setInterval = {
   id: "01a081d0-bc4d-77d2-8ca5-978dfe0e9f35",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "set-interval",
   definition: "the handle a call repeated on an interval is known by",
   code: "ts",

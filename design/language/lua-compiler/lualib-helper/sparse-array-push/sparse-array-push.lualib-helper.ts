@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const sparseArrayPush = {
   id: "01a08c5d-e1bd-78e5-99e7-c557a225efa6",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "sparse-array-push",
   definition: "arguments added to the end of a sparse array, holes and all",
   code: "ts",

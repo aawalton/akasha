@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const objectGetOwnPropertyDescriptors = {
   id: "01a08c43-53c5-75eb-8555-d0523cfdafb3",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "object-get-own-property-descriptors",
   definition: "every descriptor an object's own metatable holds",
   code: "ts",

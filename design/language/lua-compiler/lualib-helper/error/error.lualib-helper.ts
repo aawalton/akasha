@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const error = {
   id: "01a081c0-77ff-7fd1-9c22-66755319e3b9",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "error",
   definition: "the error type a thrown value is",
   code: "ts",

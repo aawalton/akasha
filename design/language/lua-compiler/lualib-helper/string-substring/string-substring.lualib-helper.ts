@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const stringSubstring = {
   id: "01a081f7-142d-7eed-bf68-b7da58f25b14",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "string-substring",
   definition: "the text between two indexes of other text, the lower index first",
   code: "ts",

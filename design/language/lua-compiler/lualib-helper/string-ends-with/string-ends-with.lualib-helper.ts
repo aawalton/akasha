@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const stringEndsWith = {
   id: "01a081f7-142d-792b-9e9c-fc28d820ba0e",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "string-ends-with",
   definition: "the answer whether text ends with other text at a position",
   code: "ts",

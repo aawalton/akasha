@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const number = {
   id: "01a08c40-ddab-77a8-a233-17540bb11717",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "number",
   definition: "the number a value of any type converts to",
   code: "ts",

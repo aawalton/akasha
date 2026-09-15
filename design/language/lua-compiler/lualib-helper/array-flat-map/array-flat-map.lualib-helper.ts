@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arrayFlatMap = {
   id: "01a081e7-49c9-7e9c-914a-335e8a957083",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-flat-map",
   definition: "the array a mapping over an array is lifted into",
   code: "ts",

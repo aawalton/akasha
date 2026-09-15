@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const objectDefineProperty = {
   id: "01a08c45-bcc0-7a35-b253-8832b0efd5c7",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "object-define-property",
   definition: "a property defined on an object from a descriptor, with a numeric key shifted",
   code: "ts",

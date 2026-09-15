@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const sparseArrayNew = {
   id: "01a08c5d-b671-7825-8ff7-d2db4de03ac1",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "sparse-array-new",
   definition: "a sparse array built from arguments, holes and all",
   code: "ts",

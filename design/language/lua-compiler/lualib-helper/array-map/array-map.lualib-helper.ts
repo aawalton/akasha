@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arrayMap = {
   id: "01a081ed-ab46-7502-8502-018e9fb2f53c",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-map",
   definition: "the array a function's answer for each element of an array makes",
   code: "ts",

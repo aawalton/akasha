@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const symbolRegistry = {
   id: "01a081d2-d753-79c0-bd5c-d2bff1c1ed5d",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "symbol-registry",
   definition: "the symbols a key reaches, shared by the two registry calls",
   code: "ts",

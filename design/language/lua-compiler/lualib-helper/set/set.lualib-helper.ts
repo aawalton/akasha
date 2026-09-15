@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const set = {
   id: "01a08c55-1674-7152-9977-f51d1fd1793d",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "set",
   definition: "values each held once, in the order they arrived",
   code: "ts",

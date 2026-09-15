@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const parseFloat = {
   id: "01a08c49-a2d3-7b2e-a31b-b2e49c0ab21d",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "parse-float",
   definition: "the number a string opens with, or NaN where it opens with none",
   code: "ts",

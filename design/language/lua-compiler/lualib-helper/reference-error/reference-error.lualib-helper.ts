@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const referenceError = {
   id: "01a081c0-cd99-742a-abe0-4add7789e920",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "reference-error",
   definition: "the error type a name reaching nothing is",
   code: "ts",

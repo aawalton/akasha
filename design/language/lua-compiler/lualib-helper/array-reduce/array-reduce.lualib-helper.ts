@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arrayReduce = {
   id: "01a08c5d-474b-71b6-9162-53f4eafc4ae4",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-reduce",
   definition: "an array folded from its start into one value",
   code: "ts",

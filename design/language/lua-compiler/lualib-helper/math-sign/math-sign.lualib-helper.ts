@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const mathSign = {
   id: "01a08c43-2cd8-7e1e-a5c8-b9d839026043",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "math-sign",
   definition: "minus one, zero or one, as a number is negative, zero or positive",
   code: "ts",

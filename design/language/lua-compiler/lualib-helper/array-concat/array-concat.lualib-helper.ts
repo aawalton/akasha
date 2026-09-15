@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arrayConcat = {
   id: "01a081de-4bc1-7a16-9d86-9ac50836fbc3",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-concat",
   definition: "the array an array and further items are joined into",
   code: "ts",

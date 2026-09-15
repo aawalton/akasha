@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arrayIndexOf = {
   id: "01a081ed-ab46-73fe-acfc-50f42a5e0313",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-index-of",
   definition: "the index an array first has a value at, from an index onward",
   code: "ts",

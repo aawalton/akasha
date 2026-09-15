@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arraySetLength = {
   id: "01a081ed-ab46-7a25-b234-05b1e5225bb2",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-set-length",
   definition: "the length an array is set to, the elements past it dropped",
   code: "ts",

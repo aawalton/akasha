@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const arrayIsArray = {
   id: "01a081dd-c59d-70d7-88c8-5724f5705343",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "array-is-array",
   definition: "the answer whether a value is an array",
   code: "ts",

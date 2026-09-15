@@ -2,7 +2,7 @@ import type { LualibHelper } from "akasha/design/language/lua-compiler/lualib-he
 
 export const classTable = {
   id: "01a08c40-9ab5-7019-9f24-03c398ac463b",
-  type: "lualib-helper",
+  type: "page-type/lualib-helper",
   slug: "class-table",
   definition: "the table a class is, with its prototype pointed at itself",
   code: "ts",
