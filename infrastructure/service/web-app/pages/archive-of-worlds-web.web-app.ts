@@ -2,7 +2,7 @@ import type { WebApp } from "akasha/infrastructure/service/web-app/web-app.page-
 
 export const archiveOfWorldsWeb = {
   id: "01a05b26-f8b6-7c8b-8ab2-75fb9e885c54",
-  type: "web-app",
+  type: "page-type/web-app",
   slug: "archive-of-worlds-web",
   definition: "the site published original stories are read on",
   sourceDirectory: "product/archive-of-worlds/web",

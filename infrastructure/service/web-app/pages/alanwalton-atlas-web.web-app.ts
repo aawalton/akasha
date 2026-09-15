@@ -2,7 +2,7 @@ import type { WebApp } from "akasha/infrastructure/service/web-app/web-app.page-
 
 export const alanwaltonAtlasWeb = {
   id: "01a05b26-f8b6-728b-8cfa-601811ce0f90",
-  type: "web-app",
+  type: "page-type/web-app",
   slug: "alanwalton-atlas-web",
   definition: "the website drawing Alan's map and taking in the locations his phone sends",
   sourceDirectory: "alan/atlas-web",

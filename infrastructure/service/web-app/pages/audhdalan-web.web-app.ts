@@ -2,7 +2,7 @@ import type { WebApp } from "akasha/infrastructure/service/web-app/web-app.page-
 
 export const audhdalanWeb = {
   id: "01a05b26-f8b6-779c-b687-646b4c535258",
-  type: "web-app",
+  type: "page-type/web-app",
   slug: "audhdalan-web",
   definition: "the site Alan's neurodiversity writing is published on",
   sourceDirectory: "product/audhdalan/web",

@@ -2,7 +2,7 @@ import type { WebApp } from "akasha/infrastructure/service/web-app/web-app.page-
 
 export const alanwaltonWeb = {
   id: "01a05b26-f8b6-7f72-b1d5-6cc786250efe",
-  type: "web-app",
+  type: "page-type/web-app",
   slug: "alanwalton-web",
   definition: "Alan's command center on the web",
   sourceDirectory: "alan/web",
