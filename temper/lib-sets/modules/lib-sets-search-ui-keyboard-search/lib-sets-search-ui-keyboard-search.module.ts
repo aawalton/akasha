@@ -7,6 +7,9 @@ export const libSetsSearchUiKeyboardSearch = {
   definition: "the search terms gathered from the keyboard window's dropdowns and text boxes",
   code: "ts",
   invariants: [
-    { invariantKind: "constraint", statement: "Item ids matter only when a gear filter is set." },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "Item ids matter only when a gear filter is set.",
+    },
   ],
 } as const satisfies Module

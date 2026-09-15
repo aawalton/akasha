@@ -8,11 +8,11 @@ export const libSetsSearchUiKeyboardUi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The window's place and size are kept in the saved variables under searchUI.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A saved size is never below the window's minimum width and height.",
     },
   ],

@@ -8,7 +8,7 @@ export const lorebooksBookData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The runs are gathered in the order the whole table names.",
     },
   ],

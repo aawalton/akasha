@@ -8,7 +8,7 @@ export const libSetsTipDropMechanicGroupSelect = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A member with neither a mechanic name nor a location name is left out.",
     },
   ],

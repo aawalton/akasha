@@ -8,16 +8,16 @@ export const libSetsTipSettingsLam = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Nothing is built here on console or in gamepad mode.",
     },
-    { invariantKind: "constraint", statement: "The panel is built at most once." },
+    { invariantKind: "invariant-kind/constraint", statement: "The panel is built at most once." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Turning a custom pattern on greys out every stock tooltip row.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The traits needed setting shares its row with the reconstruction cost setting.",
     },
   ],

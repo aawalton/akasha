@@ -8,15 +8,15 @@ export const shifterBoxCursorLabel = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One top level control carries the label for every shifter box.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The label is sized to the wider of the two texts a dragged entry has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hidden label is emptied and drawn at the lowest tier.",
     },
   ],

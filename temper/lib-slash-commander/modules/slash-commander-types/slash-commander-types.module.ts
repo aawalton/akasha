@@ -8,15 +8,15 @@ export const slashCommanderTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A class and the instances of that class are shaped apart.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command has its subcommands in a set and its aliases in a map.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Finding the command for a token answers the command beside the token.",
     },
   ],

@@ -8,11 +8,11 @@ export const lorebooksBookData53 = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "These records are one unbroken run of the whole table's order.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This run is the add-on's own source rather than anything akasha derives.",
     },
   ],

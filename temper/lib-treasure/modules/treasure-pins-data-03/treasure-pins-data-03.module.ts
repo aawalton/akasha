@@ -8,7 +8,7 @@ export const treasurePinsData03 = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "These rows are the rows upstream LibTreasure v24 states.",
     },
   ],

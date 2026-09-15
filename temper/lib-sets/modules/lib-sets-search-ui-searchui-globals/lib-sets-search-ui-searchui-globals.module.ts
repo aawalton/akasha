@@ -8,7 +8,7 @@ export const libSetsSearchUiSearchuiGlobals = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A window is reached through a global string key rather than an import.",
     },
   ],

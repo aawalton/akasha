@@ -7,9 +7,12 @@ export const libSetsSearchUiListBuild = {
   definition: "the row each set becomes in the result list",
   code: "ts",
   invariants: [
-    { invariantKind: "constraint", statement: "At most five drop locations are shown in one row." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/constraint",
+      statement: "At most five drop locations are shown in one row.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The setting can append a set's English name to the set's own name.",
     },
   ],

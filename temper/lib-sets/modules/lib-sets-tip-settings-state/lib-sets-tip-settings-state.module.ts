@@ -8,7 +8,7 @@ export const libSetsTipSettingsState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The built flag is kept per input mode in a two-key map.",
     },
   ],

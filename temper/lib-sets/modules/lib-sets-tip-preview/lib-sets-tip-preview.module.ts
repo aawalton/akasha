@@ -8,15 +8,15 @@ export const libSetsTipPreview = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The slash commands here are only created when LibSlashCommander is absent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The search for an item loosens its criteria twice before giving up.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A set is found by name with spaces treated as a middle dot.",
     },
   ],

@@ -8,7 +8,7 @@ export const libSetsTipCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tooltip control is probed for its methods rather than typed.",
     },
   ],

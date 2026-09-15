@@ -8,11 +8,11 @@ export const slashCommanderEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bundle the transpiler writes starts here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every part of the library is loaded before the chat entry is hooked.",
     },
   ],

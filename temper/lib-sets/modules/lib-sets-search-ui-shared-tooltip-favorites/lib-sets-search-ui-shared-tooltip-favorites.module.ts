@@ -8,7 +8,7 @@ export const libSetsSearchUiSharedTooltipFavorites = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A set's saved favourite categories are added and removed here too.",
     },
   ],

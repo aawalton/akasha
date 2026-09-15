@@ -8,11 +8,11 @@ export const zoneNamesData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each language has the zone names of that language alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The Japanese and Polish fall back to English once the library loads.",
     },
   ],

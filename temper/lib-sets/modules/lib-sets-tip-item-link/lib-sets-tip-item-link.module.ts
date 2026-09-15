@@ -8,12 +8,15 @@ export const libSetsTipItemLink = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The control is recognised by its name for each game window handled.",
     },
-    { invariantKind: "departure", statement: "Another addon's row control is reached by name." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
+      statement: "Another addon's row control is reached by name.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A craftable set node yields a link built from the set's first item id.",
     },
   ],

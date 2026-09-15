@@ -8,16 +8,16 @@ export const libSetsTipHeader = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The custom pattern is a string of numbered placeholders between double angle brackets.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which placeholders the pattern has is remembered as flags in the shared state.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A pattern with no numbered placeholder is not read as a custom tooltip.",
     },
   ],

@@ -8,11 +8,11 @@ export const libSetsTipTooltipsIndex = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The order these modules are loaded in is the order their effects happen.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The hook module loads after every module whose slots the hook module reads.",
     },
   ],

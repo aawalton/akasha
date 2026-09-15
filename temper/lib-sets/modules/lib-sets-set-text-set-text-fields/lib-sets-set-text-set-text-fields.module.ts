@@ -8,12 +8,12 @@ export const libSetsSetTextSetTextFields = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A piece is skipped when neither the settings nor the pattern asks for that piece.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Drop text identical to the set type text is emptied out.",
     },
   ],

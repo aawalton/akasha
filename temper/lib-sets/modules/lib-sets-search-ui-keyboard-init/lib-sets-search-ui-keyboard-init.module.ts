@@ -8,11 +8,11 @@ export const libSetsSearchUiKeyboardInit = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A keystroke in a search box starts a new search 500 milliseconds later.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The window adds itself to the game's keyboard systems under the search UI name.",
     },
   ],

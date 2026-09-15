@@ -8,19 +8,19 @@ export const slashCommanderDescriptions = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A built-in command's description is written here rather than read from the game.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An emote is described by the display name the game gives that emote.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A channel switch whose name changes is described by a call rather than a string.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every command the game has is put into a kind.",
     },
   ],

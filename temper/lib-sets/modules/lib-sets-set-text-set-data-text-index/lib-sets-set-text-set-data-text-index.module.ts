@@ -8,11 +8,11 @@ export const libSetsSetTextSetDataTextIndex = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The parts breakdown is only filled when the text is not for a tooltip.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A set with no set id yields nothing but a complaint in the chat.",
     },
   ],

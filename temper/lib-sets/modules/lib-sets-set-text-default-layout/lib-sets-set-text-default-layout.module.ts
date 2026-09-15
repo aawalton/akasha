@@ -8,11 +8,11 @@ export const libSetsSetTextDefaultLayout = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Traits needed and reconstruction cost share the bracket after the set type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The drop text takes a coloured prefix naming whichever single part is switched on.",
     },

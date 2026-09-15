@@ -8,7 +8,7 @@ export const treasureApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The lore book lookup answers nothing for any book.",
     },
   ],

@@ -8,11 +8,11 @@ export const libSetsTipVeteranBreakdown = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The breakdown only appears when the pieces do not all agree.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A slot with no veteran flag recorded is shown as a question mark.",
     },
   ],

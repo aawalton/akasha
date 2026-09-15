@@ -7,9 +7,9 @@ export const libSetsSearchUiKeyboardSearchHandlers = {
   definition: "the keyboard top-level window's answers to being created, moved and resized",
   code: "ts",
   invariants: [
-    { invariantKind: "constraint", statement: "Each published name is fixed." },
+    { invariantKind: "invariant-kind/constraint", statement: "Each published name is fixed." },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The window object is made once on the first initialize event.",
     },
   ],

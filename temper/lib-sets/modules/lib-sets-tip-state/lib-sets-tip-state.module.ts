@@ -8,11 +8,11 @@ export const libSetsTipState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One shared object has the state for every tooltip the library touches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The scratch tables are cleared and refilled for each set rather than made fresh.",
     },
   ],

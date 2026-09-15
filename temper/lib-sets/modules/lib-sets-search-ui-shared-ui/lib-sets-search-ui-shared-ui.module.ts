@@ -8,7 +8,7 @@ export const libSetsSearchUiSharedUi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Showing the window announces itself through a named callback.",
     },
   ],

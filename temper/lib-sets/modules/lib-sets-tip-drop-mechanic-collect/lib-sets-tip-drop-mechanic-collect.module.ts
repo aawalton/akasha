@@ -8,15 +8,15 @@ export const libSetsTipDropMechanicCollect = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Zone ids repeated within one set are gathered into groups keyed by zone id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A named list of set ids is exempt from the missing-zone-data complaint.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The computed grouping is written back onto the given set data.",
     },
   ],

@@ -8,11 +8,11 @@ export const libSetsTipHelpers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each text is built once with icons and once without.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Favourite categories show as icons alone with no words.",
     },
   ],

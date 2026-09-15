@@ -8,7 +8,7 @@ export const libSetsSearchUiSearchuiIndex = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The order these modules are loaded in is the order their effects happen.",
     },
   ],

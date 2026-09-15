@@ -8,11 +8,11 @@ export const zoneCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here checks a value at run time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The slash-command library is reached off the global table rather than by its name.",
     },

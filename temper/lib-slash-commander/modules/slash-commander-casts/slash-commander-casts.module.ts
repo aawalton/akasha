@@ -8,11 +8,11 @@ export const slashCommanderCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A cast is made only after the library has checked the value's kind.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here checks a value at run time.",
     },
   ],

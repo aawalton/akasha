@@ -8,7 +8,7 @@ export const zoneNamesRu02 = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "These rows are the rows upstream LibZone v8.98 states.",
     },
   ],

@@ -8,11 +8,11 @@ export const tableFunctionCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A helper takes an unknown so a caller in Lua may hand in anything.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here checks a value at run time.",
     },
   ],

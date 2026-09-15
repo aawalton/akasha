@@ -8,10 +8,13 @@ export const libSetsTipSetDataTextCustom = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A placeholder whose part is empty is cut out of the pattern along with its break.",
     },
-    { invariantKind: "departure", statement: "The literal <br> in the pattern becomes a newline." },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The literal <br> in the pattern becomes a newline.",
+    },
   ],
 } as const satisfies Module

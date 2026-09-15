@@ -8,11 +8,11 @@ export const libSetsSearchUiSharedState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every favourite icon is formatted at 24 by 24 pixels.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A set is taken to have twelve bonus lines at the most.",
     },
   ],

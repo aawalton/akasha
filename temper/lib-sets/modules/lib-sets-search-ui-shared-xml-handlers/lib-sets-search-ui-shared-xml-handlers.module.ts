@@ -7,9 +7,9 @@ export const libSetsSearchUiSharedXmlHandlers = {
   definition: "the mouse and tooltip handlers the search window's markup calls",
   code: "ts",
   invariants: [
-    { invariantKind: "constraint", statement: "Each published name is fixed." },
+    { invariantKind: "invariant-kind/constraint", statement: "Each published name is fixed." },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Each handler picks the gamepad window or the keyboard window by the current mode.",
     },

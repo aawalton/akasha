@@ -8,7 +8,7 @@ export const libSetsSearchUiSharedRowmenu = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The menu does not open unless LibScrollableMenu is present.",
     },
   ],

@@ -8,7 +8,7 @@ export const libSetsSearchUiListClass = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The class is placed on the game global LibSets_SearchUI_List by assignment.",
     },
   ],

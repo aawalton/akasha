@@ -8,10 +8,10 @@ export const libSetsTipDropMechanicRenderPart = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Which pieces appear follows the tooltip settings unless the text is not for a tooltip.",
     },
-    { invariantKind: "departure", statement: "The zone name is tinted grey." },
+    { invariantKind: "invariant-kind/departure", statement: "The zone name is tinted grey." },
   ],
 } as const satisfies Module

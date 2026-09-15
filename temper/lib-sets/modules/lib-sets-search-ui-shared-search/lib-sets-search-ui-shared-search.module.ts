@@ -8,11 +8,11 @@ export const libSetsSearchUiSharedSearch = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A term after a minus sign excludes any set the term matches.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A colon in a bonus term limits the match to that bonus line.",
     },
   ],

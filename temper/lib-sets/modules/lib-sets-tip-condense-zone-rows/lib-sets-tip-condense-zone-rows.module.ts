@@ -8,7 +8,7 @@ export const libSetsTipCondenseZoneRows = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row counts as a duplicate only when every name field matches.",
     },
   ],

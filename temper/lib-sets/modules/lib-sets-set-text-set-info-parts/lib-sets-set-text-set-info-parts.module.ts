@@ -8,7 +8,7 @@ export const libSetsSetTextSetInfoParts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each part has a flag saying whether the part has content.",
     },
   ],

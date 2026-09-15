@@ -8,7 +8,7 @@ export const libSetsSearchUiXmlApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The markup reaches XMLGetDynamicWidth on the library global.",
     },
   ],

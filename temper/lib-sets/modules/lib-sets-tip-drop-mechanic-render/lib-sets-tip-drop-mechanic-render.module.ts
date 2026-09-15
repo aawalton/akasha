@@ -8,15 +8,15 @@ export const libSetsTipDropMechanicRender = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The dungeon name follows the parent zone name in square brackets.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A set whose zones are identical is treated as a single zone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every text is built once with textures and once plain.",
     },
   ],

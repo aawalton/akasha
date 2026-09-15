@@ -8,7 +8,7 @@ export const libSetsSearchUiSharedClass = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The parent methods are handed out as a second plainly typed view of the class.",
     },
   ],

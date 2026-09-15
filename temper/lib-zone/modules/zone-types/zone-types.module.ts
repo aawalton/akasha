@@ -8,7 +8,7 @@ export const zoneTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The slash-command library is shaped here rather than in the shared game declarations.",
     },

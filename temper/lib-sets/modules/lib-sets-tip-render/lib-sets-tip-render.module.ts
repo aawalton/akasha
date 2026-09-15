@@ -8,11 +8,11 @@ export const libSetsTipRender = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A gamepad tooltip gets its own section with a LibSets heading.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Nothing is added when the built text comes back empty.",
     },
   ],

@@ -8,23 +8,23 @@ export const slashCommanderProviders = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A provider answers only where the token opens with the provider's prefix.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A result is keyed by the alias in lower case and shown as a label.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A label differing from its alias is kept in a lookup back to the alias.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The slash provider offers the game's commands and the channel switches together.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The subcommand provider offers the aliases beneath one command.",
     },
   ],
