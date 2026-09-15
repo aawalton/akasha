@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleHolidayWritsBank = {
   id: "01a0728b-4fbc-78e7-9225-32778a10dad0",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-holiday-writs-bank",
   title: "Bank holiday writs",
   description:

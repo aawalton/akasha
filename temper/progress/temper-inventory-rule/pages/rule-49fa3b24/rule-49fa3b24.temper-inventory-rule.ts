@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const rule49fa3b24 = {
   id: "01a0728a-f56c-71f5-bd7c-37738ebdef31",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-49fa3b24",
   title: "Toys → destroy",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",

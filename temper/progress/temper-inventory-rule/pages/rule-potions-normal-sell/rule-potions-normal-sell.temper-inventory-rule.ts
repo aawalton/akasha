@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const rulePotionsNormalSell = {
   id: "01a0728b-6d6e-7dd3-a9e3-450646599b73",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-potions-normal-sell",
   title: "Sell basic potions",
   description:

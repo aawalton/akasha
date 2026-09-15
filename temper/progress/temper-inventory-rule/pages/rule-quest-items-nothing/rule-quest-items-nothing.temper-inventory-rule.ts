@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleQuestItemsNothing = {
   id: "01a0728b-6d6e-7c82-a363-ba9229c0e24f",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-quest-items-nothing",
   title: "Protect quest items",
   description:

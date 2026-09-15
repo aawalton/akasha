@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const rule8d1e1c96 = {
   id: "01a0728a-f56e-7462-a38f-17f4dc5f24ef",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-8d1e1c96",
   title: "Sell known motif chapters",
   description: "Disposal spine step 5. Closes gap A4.",

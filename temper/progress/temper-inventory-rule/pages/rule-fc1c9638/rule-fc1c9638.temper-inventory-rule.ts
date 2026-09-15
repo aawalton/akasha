@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleFc1c9638 = {
   id: "01a0728b-2e7d-7b22-add5-e5717834cb9f",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-fc1c9638",
   title: "List known valuable recipes on guild store",
   description:

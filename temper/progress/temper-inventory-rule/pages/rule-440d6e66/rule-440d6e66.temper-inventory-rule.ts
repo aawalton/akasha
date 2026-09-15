@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const rule440d6e66 = {
   id: "01a0728a-f56b-71da-9bee-014f902d1b5a",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-440d6e66",
   title: "Counterfeit Pardon Edict → stock 10/char (justice WIP)",
   conditions: "jsonl",

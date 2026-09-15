@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const rule72039e8e = {
   id: "01a0728a-f56d-716e-8bf1-69a08e33dabb",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-72039e8e",
   title: "All stolen scrolls → launder",
   conditions: "jsonl",

@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleB2aa4438 = {
   id: "01a0728b-10d0-7563-b284-a2617536dffc",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-b2aa4438",
   title: "Store quality potions",
   description:

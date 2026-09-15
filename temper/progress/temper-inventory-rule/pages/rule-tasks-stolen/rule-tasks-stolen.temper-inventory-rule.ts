@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleTasksStolen = {
   id: "01a0728b-6d6f-72d7-9a3d-426fdaf75e61",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-tasks-stolen",
   title: "Launder stolen task items",
   description:

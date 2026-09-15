@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleTreasuresSell = {
   id: "01a0728b-8ec1-76a0-b421-1147ce64b46f",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-treasures-sell",
   title: "Sell common treasures",
   description:

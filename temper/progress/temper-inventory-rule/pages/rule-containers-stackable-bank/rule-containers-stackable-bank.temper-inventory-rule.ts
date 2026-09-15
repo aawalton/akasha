@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleContainersStackableBank = {
   id: "01a0728b-10d1-77a7-85d4-209b05b2a2af",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-containers-stackable-bank",
   title: "Bank stackable containers",
   description:

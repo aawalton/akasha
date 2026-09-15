@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleCraftedConsumablesNothing = {
   id: "01a0728b-10d1-7ba5-a83a-c81be228c4b8",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-crafted-consumables-nothing",
   title: "Protect crafted consumables",
   description:

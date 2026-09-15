@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const rule8f35e006 = {
   id: "01a0728a-f56e-7d26-a297-78f312730d8e",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-8f35e006",
   title: "Crown tri-pots stay banked",
   description:

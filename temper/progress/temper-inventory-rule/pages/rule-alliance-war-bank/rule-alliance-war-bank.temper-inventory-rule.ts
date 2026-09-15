@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleAllianceWarBank = {
   id: "01a0728b-10d0-7dba-bd15-daddc405eed9",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-alliance-war-bank",
   title: "Bank Alliance War items",
   description:

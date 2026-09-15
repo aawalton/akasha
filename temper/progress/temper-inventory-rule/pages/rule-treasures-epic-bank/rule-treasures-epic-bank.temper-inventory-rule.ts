@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleTreasuresEpicBank = {
   id: "01a0728b-8ec0-751b-8b72-78d2913de4d2",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-treasures-epic-bank",
   title: "Bank epic+ treasures",
   description: "Banks epic quality or higher treasures for safekeeping or later sale.",

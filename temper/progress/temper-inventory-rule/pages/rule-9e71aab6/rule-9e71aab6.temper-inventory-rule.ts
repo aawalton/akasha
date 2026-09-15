@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const rule9e71aab6 = {
   id: "01a0728b-10cf-7cd4-96db-c2ffc79ae069",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-9e71aab6",
   destination: "house-storage:4677",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",

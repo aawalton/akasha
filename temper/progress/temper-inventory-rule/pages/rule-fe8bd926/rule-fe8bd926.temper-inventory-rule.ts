@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleFe8bd926 = {
   id: "01a09b35-1009-766e-b44a-af6c836cd45a",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-fe8bd926",
   title: "Experience commendations → Bank",
   conditions: "jsonl",

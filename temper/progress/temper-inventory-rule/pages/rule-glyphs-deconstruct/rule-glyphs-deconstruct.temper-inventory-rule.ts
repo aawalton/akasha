@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleGlyphsDeconstruct = {
   id: "01a0728b-4fbc-77ff-8a3c-78b19009ed0e",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-glyphs-deconstruct",
   title: "Deconstruct glyphs",
   description:

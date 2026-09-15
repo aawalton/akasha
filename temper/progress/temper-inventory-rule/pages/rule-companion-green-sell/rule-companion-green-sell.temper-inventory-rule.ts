@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleCompanionGreenSell = {
   id: "01a0728b-10d1-72a5-b4a8-e21e1d27654a",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-companion-green-sell",
   title: "Sell low-quality companion gear",
   description:

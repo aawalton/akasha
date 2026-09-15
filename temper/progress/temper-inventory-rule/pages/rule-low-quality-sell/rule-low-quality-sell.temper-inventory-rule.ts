@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleLowQualitySell = {
   id: "01a0728b-4fbd-73c3-94ce-4ab4d817fb29",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-low-quality-sell",
   title: "Vendor-sell sub-5000g non-legendary items",
   description:

@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleUnlockByPriority = {
   id: "01a0728b-8ec1-746f-bd66-65142a6da18b",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-unlock-by-priority",
   title: "Use unlockables",
   description:

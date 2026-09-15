@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleToolsBank = {
   id: "01a0728b-6d6f-721e-a2cd-e61cc89fdac5",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-tools-bank",
   title: "Stock tools",
   description: "Deposits tools (lockpicks, repair kits, etc.) in the bank for safekeeping.",

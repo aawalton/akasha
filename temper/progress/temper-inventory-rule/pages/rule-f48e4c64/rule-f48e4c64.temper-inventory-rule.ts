@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleF48e4c64 = {
   id: "01a0728b-2e7d-7785-8700-5b97ccef538d",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-f48e4c64",
   title: "Store quality poisons",
   description:

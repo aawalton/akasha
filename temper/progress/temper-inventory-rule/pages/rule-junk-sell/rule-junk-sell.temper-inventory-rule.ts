@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleJunkSell = {
   id: "01a0728b-4fbd-7bca-897f-6a7664af3476",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-junk-sell",
   title: "Sell junk",
   description: "Sells items in the junk category at a merchant.",

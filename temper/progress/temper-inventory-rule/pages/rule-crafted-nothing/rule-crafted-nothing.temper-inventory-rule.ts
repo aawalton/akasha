@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleCraftedNothing = {
   id: "01a0728b-10d1-7e0b-baf2-a208264ffd33",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-crafted-nothing",
   title: "Protect crafted gear",
   description:

@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleMuseumPiecesNothing = {
   id: "01a0728b-4fbd-7048-8c55-e0eb6494b565",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-museum-pieces-nothing",
   title: "Protect museum pieces",
   description:

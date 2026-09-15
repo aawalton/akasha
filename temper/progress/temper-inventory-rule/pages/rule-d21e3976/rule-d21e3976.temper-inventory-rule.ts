@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleD21e3976 = {
   id: "01a0728b-2e7c-700a-b579-0c6a247a52ef",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-d21e3976",
   title: "Store quality drink",
   description:

@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const rule52020b3f = {
   id: "01a0728a-f56c-72a8-b208-019bf4973519",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-52020b3f",
   title: "Scrolls",
   conditions: "jsonl",

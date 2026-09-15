@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleInspireCurrent = {
   id: "01a0728b-4fbc-7ce7-9c17-ef3af0f7a966",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-inspire-current",
   title: "Deconstruct for inspiration",
   description:

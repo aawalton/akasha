@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleInspireStolen = {
   id: "01a0728b-4fbd-795a-8639-2dab20ad7664",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-inspire-stolen",
   title: "Launder stolen inspiration",
   description:

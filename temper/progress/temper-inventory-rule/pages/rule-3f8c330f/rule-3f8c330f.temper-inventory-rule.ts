@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const rule3f8c330f = {
   id: "01a0728a-d6ff-7440-9ba6-d96a6162ad73",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-3f8c330f",
   title: "Full container stacks → Walton Mountain",
   description:

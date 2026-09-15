@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const rule311cfd8b = {
   id: "01a0728a-d6fe-766d-b105-5e1fd0a0333d",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-311cfd8b",
   title: "Skill scrolls to Trophies",
   description:

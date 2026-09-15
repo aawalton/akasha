@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleD5eaa312 = {
   id: "01a0728b-2e7c-76da-9bb6-376fb646b10a",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-d5eaa312",
   title: "Destroy unsellable low drinks",
   description:

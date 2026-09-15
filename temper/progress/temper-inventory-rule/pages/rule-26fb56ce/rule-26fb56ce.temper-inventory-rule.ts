@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const rule26fb56ce = {
   id: "01a0728a-d6fe-7f39-a8dd-344d5c83df85",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-26fb56ce",
   title: "Launder stolen lockpicks",
   description: "Launders stolen lockpicks so they can be banked or used instead of fence-sold.",

@@ -2,7 +2,7 @@ import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventor
 
 export const ruleContainersOpen = {
   id: "01a0728b-10d1-7698-84e8-76571fa43054",
-  type: "temper-inventory-rule",
+  type: "page-type/temper-inventory-rule",
   slug: "rule-containers-open",
   title: "Open containers",
   description:
