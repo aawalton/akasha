@@ -5,6 +5,7 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedWhole } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { shapesAmong } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
+import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
@@ -125,7 +126,8 @@ export function aProperty(id: string, slug: string, shape: string, rest: Held = 
 }
 
 export function thePage(value: Held): Named {
-  return [`${String(value.slug)}.${String(value.pageTypeSlug ?? value.type)}.ts`, value]
+  const said = String(value.pageTypeSlug ?? value.type)
+  return [`${String(value.slug)}.${slugIn(said) ?? said}.ts`, value]
 }
 
 export const IDENTIFIERS: readonly Named[] = [
