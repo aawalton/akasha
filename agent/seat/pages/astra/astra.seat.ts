@@ -5,7 +5,7 @@ export const astra = {
   type: "page-type/seat",
   slug: "astra",
   persona: "persona/astra",
-  assignmentSlug: "initiative/astra-index-cleanup",
+  assignmentSlug: "page-type/index",
   role: "role/definer",
   person: "person/alan",
   startMode: "interactive",
