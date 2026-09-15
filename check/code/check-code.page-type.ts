@@ -190,6 +190,37 @@ export const checkCode = {
       invariantKind: "invariant-kind/departure",
       statement: "The overlay's listing is reached from the shadow a check is handed.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A check reaches every path in the checkout through the shadow that check is handed.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A reach past that shadow answers from the tree git left rather than the tree the change leaves.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A path the change writes is missing from a reach made past the shadow.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A path the change takes away is still answered by a reach made past the shadow.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "The shadow's listing, its holding and its page reading are the reaches a check may make.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An audit reads the checkout to make the change an overlay is laid over.",
+    },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "A check's decision is handed the shadow wherever that decision lists.",
+    },
   ],
   directives: [
     {

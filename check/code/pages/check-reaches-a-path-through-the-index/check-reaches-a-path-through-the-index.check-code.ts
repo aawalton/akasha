@@ -25,24 +25,6 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A check reaches every path in the checkout through the shadow that check is handed.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A reach past that shadow answers from the tree git left rather than the tree the change leaves.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path the change writes is missing from a reach made past the shadow.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path the change takes away is still answered by a reach made past the shadow.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A call the checkout's root flows into is a reach at the checkout.",
     },
     {
@@ -53,11 +35,6 @@ export const checkReachesAPathThroughTheIndex = {
     {
       invariantKind: "departure",
       statement: "A call taking a root outside the checkout reaches no path this check judges.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The shadow's listing, its holding and its page reading are the reaches a check may make.",
     },
     {
       invariantKind: "departure",
@@ -370,10 +347,6 @@ export const checkReachesAPathThroughTheIndex = {
       statement: "A reach under a folder the search holds apart is judged by nothing here.",
     },
     {
-      invariantKind: "departure",
-      statement: "An audit reads the checkout to make the change an overlay is laid over.",
-    },
-    {
       invariantKind: "absence",
       statement: "A file named for a check's audit is judged by nothing here.",
     },
@@ -400,15 +373,7 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "gap",
-      statement: "Every check listing a folder lists it through the shadow.",
-    },
-    {
-      invariantKind: "gap",
       statement: "The shadow lists the folders sitting in a folder.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A check's decision is handed the shadow wherever that decision lists.",
     },
     {
       invariantKind: "gap",
