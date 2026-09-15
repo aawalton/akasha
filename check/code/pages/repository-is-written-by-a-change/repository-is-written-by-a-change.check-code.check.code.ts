@@ -2,12 +2,7 @@ import {
   outsideBy,
   reasonsOf,
 } from "akasha/check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.decision.code.ts"
-import {
-  input,
-  type Selector,
-  TEXTS,
-  type Text,
-} from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { input, textsBy } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
@@ -21,12 +16,7 @@ function outsideFor(shadow: Shadow): (path: string) => boolean {
   return made
 }
 
-const OUTSIDE: Selector<Text> = {
-  named: "the code outside the changes",
-  isInput: (path, shadow) => outsideFor(shadow)(path),
-  from: (change, shadow) =>
-    TEXTS.from(change, shadow).filter((one) => outsideFor(shadow)(one.path)),
-}
+const OUTSIDE = textsBy("the code outside the changes", (path, shadow) => outsideFor(shadow)(path))
 
 export const repositoryIsWrittenByAChange = input(OUTSIDE, (change, shadow) => {
   const reasons = reasonsOf(change, shadow)
