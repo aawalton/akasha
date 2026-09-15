@@ -1,11 +1,12 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { synthNamespaceCronjob } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { ddnsHeadscale } from "akasha/infrastructure/service/cluster/pages/ddns-headscale/ddns-headscale.service-cluster.ts"
 
-const NAMESPACE = "ddns-headscale"
-const APP_NAME = "ddns-headscale"
+const NAMESPACE = ddnsHeadscale.namespace
+const APP_NAME = ddnsHeadscale.resourceName
 const COMPONENT = "ddns"
 const MANAGED_BY = "deploy-script"
-const DDNS_IMAGE = "registry.registry.svc.cluster.local:5000/cluster/ci:latest"
+const DDNS_IMAGE = ddnsHeadscale.image
 
 const NAMESPACE_LABELS = {
   "app.kubernetes.io/name": APP_NAME,
@@ -90,7 +91,7 @@ function cronjobYaml(): string {
     apiVersion: "batch/v1",
     kind: "CronJob",
     metadata: {
-      name: "ddns-headscale",
+      name: ddnsHeadscale.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
