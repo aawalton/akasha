@@ -4,6 +4,7 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
+  slugAt,
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -29,7 +30,7 @@ function heldIn(root: string): readonly DomainRead[] {
       }
       if (value === null) continue
       const slug = textAt(value, "slug")
-      const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+      const pageTypeSlug = slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
       if (slug === null || pageTypeSlug === null) continue
       found.push({ relPath: page.path, slug, address: `${pageTypeSlug}/${slug}` })
     }
