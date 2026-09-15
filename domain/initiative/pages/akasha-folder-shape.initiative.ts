@@ -10,7 +10,7 @@ export const akashaFolderShape = {
     {
       statement: "Every relation value in akasha is a page address of one of the three kinds.",
       workingMemory:
-        "91776 values are qualified, 582 scoped, 103 bare over 4 pairs. `seat.persona`, `.role` and `.person` wait on the running supervisors taking up the mended writer, which reverts them meanwhile. `message.to` waits on 32 messages addressed to seats a sweep took. A reader is made tolerant with `slugOf` and lands first; a writer and a `where` match the stored value, so each lands beside the data. A page's own `type` key is left bare, and 35678 values inside record properties are unmeasured here.\n",
+        "Every relation a page states outside a record is an address. What is left is `invariants.invariantKind`, which the act reaches through its `field` argument, on `module`, `page-type` and `domain` pages. A tolerant reader lands first; a writer and a `where` match the stored value, so each lands beside the data. Qualifying adds fifteen bytes an invariant, which tips a page near the byte ceiling over it and surfaces any statement past its length. A page's own `type` is left bare.\n",
     },
     {
       statement: "The folder shapes are the fewest patterns that allow every folder in akasha.",
