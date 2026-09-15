@@ -6,14 +6,15 @@ import {
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
 import { authProxy as authProxyImage } from "akasha/infrastructure/container-image/dockerfile/built-image/auth-proxy/auth-proxy.built-image.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
+import { authProxy } from "akasha/infrastructure/service/cluster/pages/auth-proxy/auth-proxy.service-cluster.ts"
 
-const NAMESPACE = "auth-proxy"
-const APP_NAME = "auth-proxy"
-const INSTANCE_NAME = "auth-proxy"
+const NAMESPACE = authProxy.namespace
+const APP_NAME = authProxy.resourceName
+const INSTANCE_NAME = authProxy.resourceName
 const COMPONENT = "auth"
-const PART_OF = "auth-proxy"
+const PART_OF = authProxy.slug
 const MANAGED_BY = "bootstrap"
-const PORT = 3080
+const PORT = authProxy.containerPort
 
 const NAMESPACE_LABELS = {
   "app.kubernetes.io/name": APP_NAME,
@@ -89,19 +90,19 @@ const PATH_ROUTES: readonly PathRoute[] = [
     stub: { body: "[]" },
   },
   {
-    host: "auth-proxy.auth-proxy.svc.cluster.local:3080",
+    host: `${APP_NAME}.${NAMESPACE}.svc.cluster.local:${PORT}`,
     prefix: "/rest/v1",
     target: "http://postgrest.postgrest.svc.cluster.local:3000",
     stripPrefix: true,
   },
   {
-    host: "auth-proxy.auth-proxy.svc.cluster.local:3080",
+    host: `${APP_NAME}.${NAMESPACE}.svc.cluster.local:${PORT}`,
     prefix: "/auth/v1",
     target: "http://gotrue.gotrue.svc.cluster.local:9999",
     stripPrefix: true,
   },
   {
-    host: "auth-proxy.auth-proxy.svc.cluster.local:3080",
+    host: `${APP_NAME}.${NAMESPACE}.svc.cluster.local:${PORT}`,
     prefix: "/realtime/v1",
     target: "ws://realtime.supabase-realtime.svc.cluster.local:4000/socket",
     stripPrefix: true,
@@ -137,7 +138,7 @@ function deploymentYaml(): string {
       labels: RESOURCE_LABELS,
     },
     spec: {
-      replicas: 2,
+      replicas: authProxy.replicas,
       strategy: {
         type: "RollingUpdate",
         rollingUpdate: {
