@@ -61,6 +61,14 @@ export const workTreePanel = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "Assigning an initiative is answered by the assigning module the panel registers.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An assignment says its words on the same channel a drop says on.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A deletion says its words on the same channel a drop says on.",
     },
     {

@@ -6,6 +6,7 @@ import {
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import { describedAs } from "akasha/code/editor/extension/modules/tree-description/tree-description.module.code.ts"
+import { assigningInitiative } from "akasha/code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.code.ts"
 import {
   deletingInitiative,
   deletingIntent,
@@ -26,6 +27,7 @@ import {
   settledOver,
 } from "akasha/code/editor/extension/modules/work-tree-holding/work-tree-holding.module.code.ts"
 import {
+  ASSIGN_COMMAND,
   DELETE_INITIATIVE_COMMAND,
   DELETE_INTENT_COMMAND,
   REFRESH_COMMAND,
@@ -190,6 +192,9 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     ),
     vscode.commands.registerCommand(DELETE_INITIATIVE_COMMAND, (row?: WorkTreeRow) =>
       deletingInitiative(vscode, said, deleting)(row)
+    ),
+    vscode.commands.registerCommand(ASSIGN_COMMAND, (row?: WorkTreeRow) =>
+      assigningInitiative(vscode, said)(row)
     )
   )
   return undefined

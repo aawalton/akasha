@@ -89,6 +89,7 @@ export const extension = {
     "module/tree-filter",
     "module/turn-color-scheme",
     "module/window-identity",
+    "module/work-tree-assigning",
     "module/work-tree-deleting",
     "module/work-tree-dragging",
     "module/work-tree-holding",

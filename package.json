@@ -57,7 +57,8 @@
       { "command": "opsAgentTree.enterInSeatTerminal", "category": "Ops Agents", "title": "Submit In Seat Terminal" },
       { "command": "opsAgentTree.openLineInSeatTerminal", "category": "Ops Agents", "title": "Open Line In Seat Terminal" },
       { "command": "opsWorkTree.deleteIntent", "category": "Ops Work", "title": "Delete" },
-      { "command": "opsWorkTree.deleteInitiative", "category": "Ops Work", "title": "Delete" }
+      { "command": "opsWorkTree.deleteInitiative", "category": "Ops Work", "title": "Delete" },
+      { "command": "opsWorkTree.assign", "category": "Ops Work", "title": "Assign" }
     ],
     "keybindings": [
       {
@@ -123,6 +124,11 @@
           "command": "opsWorkTree.deleteInitiative",
           "when": "view == opsWorkTree && viewItem == initiative",
           "group": "7_modification@1"
+        },
+        {
+          "command": "opsWorkTree.assign",
+          "when": "view == opsWorkTree && viewItem == initiative",
+          "group": "2_run@1"
         }
       ],
       "editor/title/context/replace": [

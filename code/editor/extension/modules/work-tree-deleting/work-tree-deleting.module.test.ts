@@ -12,25 +12,14 @@ import {
   intentGoneOf,
   type WorkDeleteWatch,
 } from "akasha/code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.code.ts"
+import {
+  callingWith,
+  type Said,
+} from "akasha/code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.test-fixtures.ts"
 import { rowOf } from "akasha/code/editor/extension/modules/work-tree-holding/work-tree-holding.module.test-fixtures.ts"
 import { PUT_BACK } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 
 const INTENT = rowOf("intent", "held#2", "A thing is so.")
-
-type Said = { module: string; exported: string; args: readonly string[]; timeout: number }
-
-function callingWith(answer: string | Error, kept: Said[]) {
-  return async (
-    module: string,
-    exported: string,
-    args: readonly string[],
-    options: { readonly timeout: number }
-  ): Promise<string> => {
-    kept.push({ module, exported, args, timeout: options.timeout })
-    if (answer instanceof Error) throw answer
-    return answer
-  }
-}
 
 type Asked = { said: string; detail: string; confirm: string }
 

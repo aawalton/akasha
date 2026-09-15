@@ -1633,6 +1633,7 @@
 {"propertySlug":"invariant-kind","path":"code/editor/extension/modules/tree-filter/tree-filter.module.ts","id":"01a064d3-f9f9-789e-ad63-cd6848c691b2"}
 {"propertySlug":"invariant-kind","path":"code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.ts","id":"01a0680b-7175-7000-bad0-dd03b18ea236"}
 {"propertySlug":"invariant-kind","path":"code/editor/extension/modules/window-identity/window-identity.module.ts","id":"01a064e4-627c-7ce5-80a9-ec7e71522da3"}
+{"propertySlug":"invariant-kind","path":"code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.ts","id":"01a0a582-5ba1-718f-b298-f2395686421a"}
 {"propertySlug":"invariant-kind","path":"code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.ts","id":"01a08c50-69e1-76f0-a610-90ebd835ef29"}
 {"propertySlug":"invariant-kind","path":"code/editor/extension/modules/work-tree-dragging/work-tree-dragging.module.ts","id":"01a081e8-84f4-78f4-89ef-3f3d801114cb"}
 {"propertySlug":"invariant-kind","path":"code/editor/extension/modules/work-tree-holding/work-tree-holding.module.ts","id":"01a08c6d-8191-7d5c-b5f6-f8cb8476d6e0"}

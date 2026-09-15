@@ -7,10 +7,15 @@ export const workTreeDeleting = {
   definition: "the row Alan deletes in the work tree named to the command that deletes it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
       statement: "A row is deleted from the menu the editor draws over that row.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every test of a row's menu hands in the harness call written beside this page.",
     },
     {
       invariantKind: "invariant-kind/departure",

@@ -1072,6 +1072,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/tree-filter/tree-filter.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/window-identity/window-identity.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/work-tree-dragging/work-tree-dragging.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/work-tree-holding/work-tree-holding.module.ts"}
