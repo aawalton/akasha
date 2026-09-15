@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const passiveAggressiveReversePortalInvasionLitrpg = {
   id: "01a0657d-ada4-79fa-beb3-ef8fb1c75ef8",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg",
   title: "Passive Aggressive [Reverse portal invasion LitRPG with a broken build]",
   world: "world/passive-aggressive-reverse-portal-invasion-litrpg",

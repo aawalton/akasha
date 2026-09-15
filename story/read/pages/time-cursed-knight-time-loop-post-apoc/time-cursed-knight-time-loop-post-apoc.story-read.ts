@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const timeCursedKnightTimeLoopPostApoc = {
   id: "01a0657d-ada5-78d3-ab0b-bcbe51c8c383",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "time-cursed-knight-time-loop-post-apoc",
   title: "Time Cursed Knight [Time Loop • Post Apoc]",
   world: "world/time-cursed-knight-time-loop-post-apoc",

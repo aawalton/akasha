@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const pathToProsperityLitrpgVol12Stubbed = {
   id: "01a0657d-ada4-701b-b6c8-586025a9f761",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "path-to-prosperity-litrpg-vol-12-stubbed",
   title: "Path to Prosperity [LitRPG] (Vol 1,2 stubbed)",
   world: "world/path-to-prosperity-litrpg-vol-12-stubbed",

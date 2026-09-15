@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const cinnamonBun = {
   id: "01a0657d-ada1-7e7b-99b2-0326e6474fb8",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "cinnamon-bun",
   ownProgress: 746879,
   rank: "C",

@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const delve = {
   id: "01a0657d-ada1-7905-9a2c-47bf2e18b947",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "delve",
   rank: "C",
   unit: "unit/words",

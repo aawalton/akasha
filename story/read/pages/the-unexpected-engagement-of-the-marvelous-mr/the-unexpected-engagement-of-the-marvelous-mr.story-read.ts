@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const theUnexpectedEngagementOfTheMarvelousMr = {
   id: "01a0657d-ada5-7a3e-918a-1c4fffdfd56c",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr",
   title: "The Unexpected Engagement of the Marvelous Mr. Penn",
   world: "world/the-unexpected-engagement-of-the-marvelous-mr",

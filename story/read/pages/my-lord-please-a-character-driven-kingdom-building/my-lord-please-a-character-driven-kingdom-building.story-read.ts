@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const myLordPleaseACharacterDrivenKingdomBuilding = {
   id: "01a0657d-ada3-772b-b457-0c8e0068b87b",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "my-lord-please-a-character-driven-kingdom-building",
   title: "My Lord! Please! (A Character Driven Kingdom Building Novel)",
   world: "world/my-lord-please-a-character-driven-kingdom-building",

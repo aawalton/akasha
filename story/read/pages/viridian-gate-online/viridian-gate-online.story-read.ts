@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const viridianGateOnline = {
   id: "01a0657d-ada7-7bd7-aecf-b0083773f56b",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "viridian-gate-online",
   title: "Viridian Gate Online",
   world: "world/viridian-gate-online",

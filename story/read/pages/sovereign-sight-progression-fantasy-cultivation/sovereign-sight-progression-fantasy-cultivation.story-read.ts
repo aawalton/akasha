@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const sovereignSightProgressionFantasyCultivation = {
   id: "01a0657d-ada5-7474-a802-880e15762d90",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "sovereign-sight-progression-fantasy-cultivation",
   title:
     "Sovereign Sight [Progression Fantasy, Cultivation, Clever Strategist, High Perception MC]",

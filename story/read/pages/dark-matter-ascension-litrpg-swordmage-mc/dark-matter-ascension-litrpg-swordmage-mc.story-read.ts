@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const darkMatterAscensionLitrpgSwordmageMc = {
   id: "01a0657d-ada1-7886-8712-9a06036377da",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "dark-matter-ascension-litrpg-swordmage-mc",
   title: "Dark Matter Ascension",
   world: "world/dark-matter-ascension-litrpg-swordmage-mc",

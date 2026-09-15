@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const speedrunningTheMultiverseComplete = {
   id: "01a0657d-ada5-7d4a-8aec-c485a2f57807",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "speedrunning-the-multiverse-complete",
   title: "Speedrunning the Multiverse [COMPLETE]",
   world: "world/speedrunning-the-multiverse-complete",

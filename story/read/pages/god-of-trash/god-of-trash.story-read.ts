@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const godOfTrash = {
   id: "01a0657d-ada2-773d-bba6-8d871ec80893",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "god-of-trash",
   ownProgress: 23215,
   rank: "C",

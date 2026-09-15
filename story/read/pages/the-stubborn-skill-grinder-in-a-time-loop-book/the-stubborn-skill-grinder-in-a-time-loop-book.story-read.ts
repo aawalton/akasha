@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const theStubbornSkillGrinderInATimeLoopBook = {
   id: "01a0657d-ada5-78ba-988f-9f42baf78384",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book",
   title: "The Stubborn Skill-Grinder In A Time Loop (Book 4 Stubbed)",
   world: "world/the-stubborn-skill-grinder-in-a-time-loop-book",

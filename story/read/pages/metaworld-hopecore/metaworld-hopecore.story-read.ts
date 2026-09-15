@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const metaworldHopecore = {
   id: "01a0657d-ada3-7a67-aa3f-d781b58e9ddc",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "metaworld-hopecore",
   title: "Metaworld HopeCore",
   world: "world/metaworld-hopecore",

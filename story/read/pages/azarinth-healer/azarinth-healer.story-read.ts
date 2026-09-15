@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const azarinthHealer = {
   id: "01a0657d-ada0-76ba-b944-621496feac0f",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "azarinth-healer",
   title: "Azarinth Healer",
   world: "world/azarinth-healer",

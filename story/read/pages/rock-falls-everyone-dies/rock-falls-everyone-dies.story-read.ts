@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const rockFallsEveryoneDies = {
   id: "01a0657d-ada4-7fe6-8f1d-97fe8b1d6dd5",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "rock-falls-everyone-dies",
   title: "Rock falls, everyone dies",
   world: "world/rock-falls-everyone-dies",

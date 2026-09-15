@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const delverDungeonDivingAndMagicLitrpg = {
   id: "01a0657d-ada2-7e55-ae8b-3245ee80e3c2",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "delver-dungeon-diving-and-magic-litrpg",
   title: "Delver [Dungeon Diving and Magic LitRPG]",
   world: "world/delver-dungeon-diving-and-magic-litrpg",

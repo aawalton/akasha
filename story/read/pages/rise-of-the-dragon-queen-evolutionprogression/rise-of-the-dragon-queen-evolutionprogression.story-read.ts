@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const riseOfTheDragonQueenEvolutionprogression = {
   id: "01a0657d-ada4-7e7a-a51b-1604c98b0bc9",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression",
   title: "Rise Of The Dragon Queen",
   world: "world/rise-of-the-dragon-queen-evolutionprogression",

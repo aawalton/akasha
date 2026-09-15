@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const vuldranni = {
   id: "01a0657d-ada7-7d71-ad0b-51fd429b078e",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "vuldranni",
   title: "Vuldranni",
   world: "world/vuldranni",

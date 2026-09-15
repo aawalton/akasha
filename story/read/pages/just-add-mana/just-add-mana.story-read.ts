@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const justAddMana = {
   id: "01a0657d-ada3-7ae9-aaf6-42aa2d3f44aa",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "just-add-mana",
   title: "Just Add Mana",
   world: "world/just-add-mana",

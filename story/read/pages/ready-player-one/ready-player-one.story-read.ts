@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const readyPlayerOne = {
   id: "01a0657d-ada7-75e3-b5b5-19088b5dc940",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "ready-player-one",
   title: "Ready Player One",
   world: "world/ready-player-one",

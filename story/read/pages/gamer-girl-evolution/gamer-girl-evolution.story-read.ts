@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const gamerGirlEvolution = {
   id: "01a0657d-ada2-7e1e-bdef-efe3c17eb718",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "gamer-girl-evolution",
   title: "Gamer Girl Evolution",
   world: "world/gamer-girl-evolution",

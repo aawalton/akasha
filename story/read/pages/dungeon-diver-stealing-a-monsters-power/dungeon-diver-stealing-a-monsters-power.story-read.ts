@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const dungeonDiverStealingAMonstersPower = {
   id: "01a0657d-ada2-75ab-a38a-67c94e81fc08",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "dungeon-diver-stealing-a-monsters-power",
   title: "Dungeon Diver: Stealing A Monster’s Power",
   world: "world/dungeon-diver-stealing-a-monsters-power",

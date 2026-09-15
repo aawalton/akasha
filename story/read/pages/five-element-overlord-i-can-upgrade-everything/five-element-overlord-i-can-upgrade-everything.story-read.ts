@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const fiveElementOverlordICanUpgradeEverything = {
   id: "01a0657d-ada2-734c-96bb-5d18356d9eb4",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "five-element-overlord-i-can-upgrade-everything",
   title: "Five Element Overlord: I Can Upgrade Everything!",
   world: "world/five-element-overlord-i-can-upgrade-everything",

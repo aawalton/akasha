@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse = {
   id: "01a0657d-ada5-75f9-9a2a-f3f4715d70bb",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "system-change-system-universe",
   title: "System Change (System Universe)",
   world: "world/system-change-system-universe",

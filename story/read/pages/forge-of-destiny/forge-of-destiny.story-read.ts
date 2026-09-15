@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const forgeOfDestiny = {
   id: "01a0657d-ada2-78c7-aa02-6301de124020",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "forge-of-destiny",
   title: "Forge of Destiny",
   world: "world/forge-of-destiny",

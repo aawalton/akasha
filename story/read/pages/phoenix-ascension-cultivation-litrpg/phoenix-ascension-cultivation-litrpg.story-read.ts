@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const phoenixAscensionCultivationLitrpg = {
   id: "01a0657d-ada4-766d-995d-5c6bf82373eb",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "phoenix-ascension-cultivation-litrpg",
   rank: "C",
   unit: "unit/words",

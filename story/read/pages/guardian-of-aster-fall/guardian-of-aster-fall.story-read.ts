@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const guardianOfAsterFall = {
   id: "01a0657d-ada7-7b3c-945d-18b61143e3a7",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "guardian-of-aster-fall",
   title: "Guardian of Aster Fall",
   world: "world/guardian-of-aster-fall",

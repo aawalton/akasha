@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete = {
   id: "01a0657d-ada5-7e14-b064-1bbffd4bb65a",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   title: "The Legendary Fool",
   world: "world/the-legendary-fool-a-deckbuilding-litrpg-b2-complete",

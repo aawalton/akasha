@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const underworldBreadMageYuriProgfanSliceOfLife = {
   id: "01a0657d-ada6-7d02-a100-be8daecc6e4f",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life",
   title: "Underworld Bread Mage [Yuri, Progfan, Slice of Life]",
   world: "world/underworld-bread-mage-yuri-progfan-slice-of-life",

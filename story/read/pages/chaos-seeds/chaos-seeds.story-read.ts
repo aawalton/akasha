@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const chaosSeeds = {
   id: "01a0657d-ada7-7480-9cc1-ea6f4ce3d95a",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "chaos-seeds",
   title: "Chaos Seeds",
   world: "world/chaos-seeds",

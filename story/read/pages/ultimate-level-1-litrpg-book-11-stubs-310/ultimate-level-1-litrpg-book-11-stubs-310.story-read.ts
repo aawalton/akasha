@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const ultimateLevel1LitrpgBook11Stubs310 = {
   id: "01a0657d-ada6-7688-a820-da530cde65e7",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310",
   title: "Ultimate Level 1 LitRPG - Book 11 Stubs 3/10",
   world: "world/ultimate-level-1-litrpg-book-11-stubs-310",

@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg = {
   id: "01a0657d-ada5-7118-90a5-c56286b50e57",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   rank: "C",
   unit: "unit/words",

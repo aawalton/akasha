@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg = {
   id: "01a0657d-ada0-7423-8301-320e9d75f193",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   title: "12 Steps to Transcendence: A Skill-Grinding LitRPG",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",

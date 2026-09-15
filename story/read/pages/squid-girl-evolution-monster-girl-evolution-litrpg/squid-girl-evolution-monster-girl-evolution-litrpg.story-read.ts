@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const squidGirlEvolutionMonsterGirlEvolutionLitrpg = {
   id: "01a0657d-ada5-7a7e-ad52-38f360b0c118",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg",
   title: "Squid Girl Evolution",
   world: "world/squid-girl-evolution-monster-girl-evolution-litrpg",

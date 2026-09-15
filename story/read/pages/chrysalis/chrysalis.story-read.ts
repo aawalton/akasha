@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const chrysalis = {
   id: "01a0657d-ada1-781d-8fa4-06246a43c533",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "chrysalis",
   title: "Chrysalis",
   world: "world/chrysalis",

@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const beneathTheDragoneyeMoons = {
   id: "01a0657d-ada1-79fc-b862-dced705ba492",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "beneath-the-dragoneye-moons",
   title: "Beneath the Dragoneye Moons",
   world: "world/beneath-the-dragoneye-moons",

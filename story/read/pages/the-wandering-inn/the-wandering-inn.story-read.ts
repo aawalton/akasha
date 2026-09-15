@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const theWanderingInn = {
   id: "01a0657d-ada7-783d-a3df-0d4d06ca98ab",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "the-wandering-inn",
   title: "The Wandering Inn",
   world: "world/the-wandering-inn",

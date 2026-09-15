@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const theWayOfTheShaman = {
   id: "01a0657d-ada7-7c8f-b53d-d9bddc43275c",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "the-way-of-the-shaman",
   title: "The Way of the Shaman",
   world: "world/the-way-of-the-shaman",

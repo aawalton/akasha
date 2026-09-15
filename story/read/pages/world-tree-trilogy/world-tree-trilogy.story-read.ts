@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const worldTreeTrilogy = {
   id: "01a0657d-ada7-7171-8db8-753e7cf13e71",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "world-tree-trilogy",
   title: "World-Tree Trilogy",
   world: "world/world-tree-trilogy",

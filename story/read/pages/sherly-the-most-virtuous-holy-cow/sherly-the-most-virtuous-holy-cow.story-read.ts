@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const sherlyTheMostVirtuousHolyCow = {
   id: "01a0657d-ada4-7e3e-aa3d-da841a4f2b28",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "sherly-the-most-virtuous-holy-cow",
   title: "Sherly",
   world: "world/sherly-the-most-virtuous-holy-cow",

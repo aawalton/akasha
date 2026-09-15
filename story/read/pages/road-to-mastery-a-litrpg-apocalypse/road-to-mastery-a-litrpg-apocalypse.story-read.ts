@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const roadToMasteryALitrpgApocalypse = {
   id: "01a0657d-ada4-783e-9560-786c933fc500",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "road-to-mastery-a-litrpg-apocalypse",
   title: "Road to Mastery: A LitRPG Apocalypse",
   world: "world/road-to-mastery-a-litrpg-apocalypse",

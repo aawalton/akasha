@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const theSpeedOfLightMonsterEvolutionLitrpg = {
   id: "01a0657d-ada5-7ed8-a74c-9aadcdad8819",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "the-speed-of-light-monster-evolution-litrpg",
   title: "The Speed of Light",
   world: "world/the-speed-of-light-monster-evolution-litrpg",

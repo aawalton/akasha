@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const disgardium = {
   id: "01a0657d-ada7-78a6-bab6-e43c7a8999e1",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "disgardium",
   title: "Disgardium",
   world: "world/disgardium",

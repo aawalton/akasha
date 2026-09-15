@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg = {
   id: "01a0657d-ada0-796c-a819-952701a30928",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   rank: "C",
   unit: "unit/words",

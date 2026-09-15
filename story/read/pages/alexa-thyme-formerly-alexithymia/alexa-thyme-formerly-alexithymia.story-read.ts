@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const alexaThymeFormerlyAlexithymia = {
   id: "01a0657d-ada0-79d6-bb86-4104d800b1b3",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "alexa-thyme-formerly-alexithymia",
   title: "Alexa Thyme (Formerly ALEXiThymiA)",
   world: "world/alexa-thyme-formerly-alexithymia",

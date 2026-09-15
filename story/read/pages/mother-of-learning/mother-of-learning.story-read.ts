@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const motherOfLearning = {
   id: "01a0657d-ada3-7c5a-8f04-35fd3ddd00f4",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "mother-of-learning",
   title: "Mother of Learning",
   world: "world/mother-of-learning",

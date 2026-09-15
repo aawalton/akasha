@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const anOutcastInAnotherWorld = {
   id: "01a0657d-ada7-75bb-a34f-e55053b0c740",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "an-outcast-in-another-world",
   title: "An Outcast In Another World",
   world: "world/an-outcast-in-another-world",

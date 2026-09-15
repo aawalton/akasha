@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const theCalamitousBobStubbed = {
   id: "01a0657d-ada5-7aa1-a19d-bf644f86b49a",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "the-calamitous-bob-stubbed",
   title: "The Calamitous Bob (stubbed)",
   world: "world/the-calamitous-bob-stubbed",

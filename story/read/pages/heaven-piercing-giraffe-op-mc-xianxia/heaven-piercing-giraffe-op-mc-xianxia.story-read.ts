@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const heavenPiercingGiraffeOpMcXianxia = {
   id: "01a0657d-ada2-72a0-a027-2a0e3ac88d8e",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia",
   title: "Heaven-Piercing Giraffe",
   world: "world/heaven-piercing-giraffe-op-mc-xianxia",

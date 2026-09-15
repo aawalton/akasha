@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const superSupportive = {
   id: "01a0657d-ada5-7cc6-80ff-4b827d0d4403",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "super-supportive",
   title: "Super Supportive",
   world: "world/super-supportive",

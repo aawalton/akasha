@@ -2,7 +2,7 @@ import type { StoryRead } from "akasha/story/read/story-read.page-type.types.ts"
 
 export const phoenixHealer = {
   id: "01a0657d-ada4-7230-9158-208883dda232",
-  type: "story-read",
+  type: "page-type/story-read",
   slug: "phoenix-healer",
   title: "Phoenix Healer",
   world: "world/phoenix-healer",
