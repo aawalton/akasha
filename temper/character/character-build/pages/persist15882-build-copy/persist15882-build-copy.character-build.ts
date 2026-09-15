@@ -2,7 +2,7 @@ import type { CharacterBuild } from "akasha/temper/character/character-build/cha
 
 export const persist15882BuildCopy = {
   id: "01a06862-a02e-714e-a48d-9228f7194ab1",
-  type: "character-build",
+  type: "page-type/character-build",
   slug: "persist15882-build-copy",
   title: "Persist15882 Build (Copy)",
   buildHash:

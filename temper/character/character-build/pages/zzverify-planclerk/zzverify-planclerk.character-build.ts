@@ -2,7 +2,7 @@ import type { CharacterBuild } from "akasha/temper/character/character-build/cha
 
 export const zzverifyPlanclerk = {
   id: "019f99ae-d807-7680-b897-022f01e94ff4",
-  type: "character-build",
+  type: "page-type/character-build",
   slug: "zzverify-planclerk",
   title: "Zzverify Planclerk",
   buildHash:

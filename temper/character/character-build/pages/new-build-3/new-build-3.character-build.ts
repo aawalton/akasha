@@ -2,7 +2,7 @@ import type { CharacterBuild } from "akasha/temper/character/character-build/cha
 
 export const newBuild3 = {
   id: "019f9683-7089-7fe4-b267-6e4279d4f00b",
-  type: "character-build",
+  type: "page-type/character-build",
   slug: "new-build-3",
   title: "New Build",
   buildHash:

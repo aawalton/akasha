@@ -2,7 +2,7 @@ import type { CharacterBuild } from "akasha/temper/character/character-build/cha
 
 export const sweepTestCharCopy = {
   id: "01a06862-a02e-7ea9-a3e7-a7b8453d8632",
-  type: "character-build",
+  type: "page-type/character-build",
   slug: "sweep-test-char-copy",
   title: "sweep-test-char (Copy)",
   buildHash:
