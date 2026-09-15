@@ -156,7 +156,7 @@ function repoWorld(held: Readonly<Record<string, string>>): World {
 }
 
 test("a passage on a file a group writes is refused rather than dropped", async () => {
-  const said = await changeFileCommand(repoWorld({}), {
+  const said = await changeFileCommand(repoWorld({ [PAIR.beside]: "one two\n" }), {
     at: PAIR.written,
     old: "two",
     new: "four",
