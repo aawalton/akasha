@@ -11,7 +11,6 @@ export const codeEditor = {
     "page-type/code-editor-group",
     "page-type/code-editor-terminal",
     "page-type/code-editor-window",
-    "repo/code-editor-repo",
   ],
   invariants: [
     {
@@ -214,6 +213,22 @@ export const codeEditor = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "An intent opens the page of the initiative with that intent.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An initiative is assigned to the seat its name begins with from the work panel.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "That seat takes the initiative only where the seat has a page and is running.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An initiative that seat already answers to is no reason to refuse.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The item is offered on every initiative and refuses where the seat is away.",
     },
     {
       invariantKind: "invariant-kind/gap",
