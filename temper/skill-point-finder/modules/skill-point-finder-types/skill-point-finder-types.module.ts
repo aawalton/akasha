@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skillPointFinderTypes = {
   id: "01a060ec-584d-78d8-941c-a8b43c987a6c",
-  type: "module",
+  type: "page-type/module",
   slug: "skill-point-finder-types",
   definition: "the shapes the skill point window has while the game runs",
   code: "ts",

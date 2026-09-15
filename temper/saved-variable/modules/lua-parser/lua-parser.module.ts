@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const luaParser = {
   id: "01a06053-3635-710f-8f31-18095cf8a395",
-  type: "module",
+  type: "page-type/module",
   slug: "lua-parser",
   definition: "the text of a saved-variables file read into plain data",
   code: "ts",

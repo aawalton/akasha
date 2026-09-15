@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skyshardsData3 = {
   id: "01a061a8-9c64-7084-a3ab-9f45e86c6e59",
-  type: "module",
+  type: "page-type/module",
   slug: "skyshards-data-3",
   definition: "one run of the zones of the skyshard table, gathered from the runs its maps sit in",
   code: "ts",

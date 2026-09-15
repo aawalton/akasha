@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const luaSerializer = {
   id: "01a06053-3635-7645-b6ba-ffae9f98d01e",
-  type: "module",
+  type: "page-type/module",
   slug: "lua-serializer",
   definition: "one keyed entry of a Lua table written out as the lines of a file",
   code: "ts",

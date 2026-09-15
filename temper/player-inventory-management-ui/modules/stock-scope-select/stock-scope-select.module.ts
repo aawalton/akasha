@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const stockScopeSelect = {
   id: "01a0636c-5da1-709a-aeb3-f652e1390060",
-  type: "module",
+  type: "page-type/module",
   slug: "stock-scope-select",
   definition: "the select naming how much of an item a rule keeps",
   code: "tsx",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const bundleMemberSavedVars = {
   id: "01a06072-5abd-75b9-b1b8-07150462637e",
-  type: "module",
+  type: "page-type/module",
   slug: "bundle-member-saved-vars",
   definition: "one addon's saved variables lifted back out of the bundle file with them",
   code: "ts",

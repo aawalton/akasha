@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const shoppingSettings = {
   id: "01a060cf-b0b1-75a2-8041-f9ae780018d3",
-  type: "module",
+  type: "page-type/module",
   slug: "shopping-settings",
   definition: "what a shopper has settled about a shopping run before the run",
   code: "ts",

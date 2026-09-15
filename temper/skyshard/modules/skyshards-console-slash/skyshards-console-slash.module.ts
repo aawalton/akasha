@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skyshardsConsoleSlash = {
   id: "01a061a8-9c62-78e5-91ec-72c7e0cd50ec",
-  type: "module",
+  type: "page-type/module",
   slug: "skyshards-console-slash",
   definition: "the slash command that prints where the player is",
   code: "ts",

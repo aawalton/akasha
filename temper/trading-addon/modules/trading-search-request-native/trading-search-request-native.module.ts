@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const tradingSearchRequestNative = {
   id: "01a06160-2a5c-7131-9d9b-e1b27ea4e7cd",
-  type: "module",
+  type: "page-type/module",
   slug: "trading-search-request-native",
   definition: "handing a collected filter set to the game's own guild store search",
   code: "ts",

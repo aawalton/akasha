@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const selectorAddonManager = {
   id: "01a061ef-c8a5-7cfb-8274-8a9896bd3526",
-  type: "module",
+  type: "page-type/module",
   slug: "selector-addon-manager",
   definition: "the game's add-on manager read as a list of add-ons and their on-off state",
   code: "ts",

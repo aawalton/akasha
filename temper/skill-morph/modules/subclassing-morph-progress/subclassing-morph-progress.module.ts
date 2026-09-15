@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subclassingMorphProgress = {
   id: "01a061c7-0738-791e-aabc-02013883afef",
-  type: "module",
+  type: "page-type/module",
   slug: "subclassing-morph-progress",
   definition: "how far a character has morphed the class skills every class line offers",
   code: "ts",

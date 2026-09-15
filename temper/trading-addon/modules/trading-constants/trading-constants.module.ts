@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const tradingConstants = {
   id: "01a06160-2a5a-7eb0-829f-642f1db7b6b9",
-  type: "module",
+  type: "page-type/module",
   slug: "trading-constants",
   definition: "the add-on's name and the key its saved variables answer to",
   code: "ts",

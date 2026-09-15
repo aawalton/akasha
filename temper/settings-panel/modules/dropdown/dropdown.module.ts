@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dropdown = {
   id: "01a06053-3637-7cbf-af2a-2b25ec6eea55",
-  type: "module",
+  type: "page-type/module",
   slug: "dropdown",
   definition: "a choice among named options, described for the add-on menu library",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skillTypes = {
   id: "01a060db-b2bd-709e-998c-884a585cd251",
-  type: "module",
+  type: "page-type/module",
   slug: "skill-types",
   definition: "the three kinds a skill ability is, active or ultimate or passive",
   code: "ts",

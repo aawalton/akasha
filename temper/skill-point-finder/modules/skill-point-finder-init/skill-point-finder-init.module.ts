@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skillPointFinderInit = {
   id: "01a060ec-583f-7888-8310-d8e1bd2eff77",
-  type: "module",
+  type: "page-type/module",
   slug: "skill-point-finder-init",
   definition: "the skill point window starting up with the add-on that has it",
   code: "ts",

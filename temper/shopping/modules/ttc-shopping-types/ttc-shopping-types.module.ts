@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const ttcShoppingTypes = {
   id: "01a060cf-b0af-7126-9b58-710f57b008b6",
-  type: "module",
+  type: "page-type/module",
   slug: "ttc-shopping-types",
   definition: "the shapes a shopping plan and the parts of a shopping plan take",
   code: "ts",

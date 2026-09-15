@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const questsTraceBuffer = {
   id: "01a0635f-391c-740a-af70-4aa092d380b2",
-  type: "module",
+  type: "page-type/module",
   slug: "quests-trace-buffer",
   definition: "how many trace entries are kept, and which one goes when a new one arrives",
   code: "ts",

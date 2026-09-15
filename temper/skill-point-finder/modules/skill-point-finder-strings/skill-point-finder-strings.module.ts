@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skillPointFinderStrings = {
   id: "01a060ec-584a-7f5b-b12f-d6e8a9b8eb2b",
-  type: "module",
+  type: "page-type/module",
   slug: "skill-point-finder-strings",
   definition: "the wording the skill point window shows",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const savedVarsMigration = {
   id: "01a06072-5abc-78bd-a40d-4a0c330f4651",
-  type: "module",
+  type: "page-type/module",
   slug: "saved-vars-migration",
   definition: "a player's saved variables carried to the file the folded-together addon reads",
   code: "ts",

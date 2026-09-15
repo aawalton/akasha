@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skillPointFinderSavedState = {
   id: "01a060ec-5841-70ce-a022-116830ebd04a",
-  type: "module",
+  type: "page-type/module",
   slug: "skill-point-finder-saved-state",
   definition: "the skill point window's own saved variables, read forward from older shapes",
   code: "ts",

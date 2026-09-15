@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skyshardsPart4 = {
   id: "01a061a8-9c68-7ab9-a9df-2e4e77710832",
-  type: "module",
+  type: "page-type/module",
   slug: "skyshards-part-4",
   definition:
     "one run of the skyshard placement table, in the order the whole table names its maps",

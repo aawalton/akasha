@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skillsSource = {
   id: "01a060db-b2bd-7cac-b225-3c571e3a7ff7",
-  type: "module",
+  type: "page-type/module",
   slug: "skills-source",
   definition: "the skill source shape, which is the shared source shape narrowed to a skill type",
   code: "ts",

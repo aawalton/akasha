@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skyshardsGlobal = {
   id: "01a061a8-9c65-7eb2-8892-234022bc7664",
-  type: "module",
+  type: "page-type/module",
   slug: "skyshards-global",
   definition: "the add-on's name and version, put where another add-on can read them",
   code: "ts",

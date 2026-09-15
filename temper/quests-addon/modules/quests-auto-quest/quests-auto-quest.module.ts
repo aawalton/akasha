@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const questsAutoQuest = {
   id: "01a0635f-391c-7561-9ad8-9f05904aa99c",
-  type: "module",
+  type: "page-type/module",
   slug: "quests-auto-quest",
   definition: "the game's dialogue read into a snapshot, and the decision carried back to the game",
   code: "ts",

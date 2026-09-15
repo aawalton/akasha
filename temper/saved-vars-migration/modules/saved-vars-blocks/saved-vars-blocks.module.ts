@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const savedVarsBlocks = {
   id: "01a06072-5abc-7ca4-972f-214d6d6ef964",
-  type: "module",
+  type: "page-type/module",
   slug: "saved-vars-blocks",
   definition: "one global's assignment lifted whole out of a saved variables file",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const questsSavedVariables = {
   id: "01a0635f-391c-721c-be7d-e4fb741328a6",
-  type: "module",
+  type: "page-type/module",
   slug: "quests-saved-variables",
   definition: "what the addon keeps between sessions, and how the old addon's settings arrive",
   code: "ts",

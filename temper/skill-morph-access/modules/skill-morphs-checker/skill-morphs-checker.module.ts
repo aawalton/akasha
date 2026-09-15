@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const skillMorphsChecker = {
   id: "01a061e2-5e38-77dc-9add-14ce77dbae86",
-  type: "module",
+  type: "page-type/module",
   slug: "skill-morphs-checker",
   definition: "whether a character has every morph of every line that character can use",
   code: "ts",
