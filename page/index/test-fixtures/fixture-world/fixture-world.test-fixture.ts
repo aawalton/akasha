@@ -33,7 +33,12 @@ export const fixtureWorld = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A shapes file the world wrote is written again as each further page arrives.",
+      statement: "A page arriving beside a shapes file already there has its own shape merged in.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement:
+        "A shape no page arriving carries is left, so a shape a settle took away stays away.",
     },
     {
       invariantKind: "invariant-kind/departure",

@@ -8,10 +8,21 @@ import { shapesAmong } from "akasha/page/index/modules/property-shaping/property
 import { BUILT_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
-import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  textAt,
+  typeIn,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
+import {
+  shapedIn,
+  bodyOf as shapesBodyOf,
+  shapesFiledAt,
+  shapesIn,
+} from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 import { keptAt, scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
 export type Held = Record<string, unknown>
 
@@ -39,7 +50,27 @@ export const scratch = scratchWorld()
 
 const SHAPED = new Map<string, Map<string, Value>>()
 
-const WROTE = new Map<string, Set<string>>()
+const PAGE_TYPE = "page-type"
+
+function besideFor(held: ReadonlyMap<string, Value>, kind: string): string | null {
+  for (const [path, one] of held) {
+    if (typeIn(one) !== PAGE_TYPE || textAt(one, "slug") !== kind) continue
+    return shapesFiledAt(path)
+  }
+  return null
+}
+
+function shapesMerged(tree: string, held: ReadonlyMap<string, Value>, value: Value): undefined {
+  const shape = shapedIn(value)
+  if (shape === null) return
+  const beside = besideFor(held, shape.pageTypeSlug)
+  if (beside === null) return
+  const to = join(tree, beside)
+  const was = textThere(to)
+  if (was === null) return
+  const kept = shapesIn(was).filter((one) => one.slug !== shape.slug)
+  writeFileSync(to, shapesBodyOf([...kept, shape]))
+}
 
 function shapesPut(tree: string, at: string, body: string): undefined {
   if (!at.endsWith(".ts")) return
@@ -48,16 +79,14 @@ function shapesPut(tree: string, at: string, body: string): undefined {
   const held = SHAPED.get(tree) ?? new Map<string, Value>()
   SHAPED.set(tree, held)
   held.set(at, value)
-  const wrote = WROTE.get(tree) ?? new Set<string>()
-  WROTE.set(tree, wrote)
   const among = [...held].map(([path, one]) => ({ path, value: one }))
   for (const [beside, whole] of shapesAmong(among)) {
     const to = join(tree, beside)
-    if (existsSync(to) && !wrote.has(to)) continue
+    if (existsSync(to)) continue
     mkdirSync(dirname(to), { recursive: true })
     writeFileSync(to, whole)
-    wrote.add(to)
   }
+  shapesMerged(tree, held, value)
 }
 
 export function put(tree: string, at: string, body: string): string {

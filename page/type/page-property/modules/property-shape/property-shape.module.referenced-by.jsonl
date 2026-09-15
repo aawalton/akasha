@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"property-shape.module.code.ts","path":"page/index/modules/property-shaping/property-shaping.module.code.ts"}
 {"propertySlug":"import","fileName":"property-shape.module.code.ts","path":"page/index/modules/reading/index-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"property-shape.module.code.ts","path":"page/index/modules/reading/index-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"property-shape.module.code.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"property-shape.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.test.ts"}
 {"propertySlug":"import","fileName":"property-shape.module.code.ts","path":"page/type/page-property/modules/property-shape/property-shape.module.test.ts"}
 {"propertySlug":"import","fileName":"property-shape.module.code.ts","path":"page/type/page-type.page-type.type-generator.ts"}
