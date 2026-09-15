@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0184V5c74TheCycleContinuesEndOfBook5 = {
   id: "01a06731-adb3-7000-b901-2a78c146c64f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0184-v5c74-the-cycle-continues-end-of-book-5",
   title: "v5c74: The Cycle Continues—End of Book 5",
   story: "story-read/beware-of-chicken",

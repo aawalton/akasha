@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0169V5c62TheHeavensConverge = {
   id: "01a06731-adab-7002-9286-dc2984594d25",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0169-v5c62-the-heavens-converge",
   title: "v5c62: The Heavens Converge",
   story: "story-read/beware-of-chicken",

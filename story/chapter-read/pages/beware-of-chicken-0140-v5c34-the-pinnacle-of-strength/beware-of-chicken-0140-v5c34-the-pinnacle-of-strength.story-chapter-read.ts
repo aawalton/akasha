@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0140V5c34ThePinnacleOfStrength = {
   id: "01a06731-ad9b-7001-b8af-24ac6d475d46",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0140-v5c34-the-pinnacle-of-strength",
   title: "v5c34: The Pinnacle of Strength",
   story: "story-read/beware-of-chicken",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0077V4c62TheTournamentArcCurse = {
   id: "01a06731-ad82-7005-9856-803760e6b89e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0077-v4c62-the-tournament-arc-curse",
   title: "v4c62: The Tournament Arc Curse",
   story: "story-read/beware-of-chicken",

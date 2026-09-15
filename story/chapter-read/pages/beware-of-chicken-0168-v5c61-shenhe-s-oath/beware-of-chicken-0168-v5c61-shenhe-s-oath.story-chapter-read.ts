@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0168V5c61ShenheSOath = {
   id: "01a06731-adab-7001-8880-35cc0a938c30",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0168-v5c61-shenhe-s-oath",
   title: "v5c61: Shenhe's Oath",
   story: "story-read/beware-of-chicken",

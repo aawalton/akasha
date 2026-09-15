@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0145V5c39ChariotOfTheEarthPrinceOfTheHeavens = {
   id: "01a06731-ad9c-7004-be70-04114779b4cf",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0145-v5c39-chariot-of-the-earth-prince-of-the-heavens",
   title: "v5c39: Chariot of the Earth, Prince of the Heavens",
   story: "story-read/beware-of-chicken",

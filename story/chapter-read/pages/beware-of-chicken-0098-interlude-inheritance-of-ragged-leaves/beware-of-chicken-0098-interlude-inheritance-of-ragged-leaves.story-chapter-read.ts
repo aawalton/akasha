@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0098InterludeInheritanceOfRaggedLeaves = {
   id: "01a06731-ad89-7007-800d-38764bfd8a77",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0098-interlude-inheritance-of-ragged-leaves",
   title: "Interlude: Inheritance of Ragged Leaves",
   story: "story-read/beware-of-chicken",

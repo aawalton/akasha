@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0097InterludeTheManOfIronAndStone = {
   id: "01a06731-ad89-7006-9d1e-636d50b92ba6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0097-interlude-the-man-of-iron-and-stone",
   title: "Interlude: The Man of Iron and Stone",
   story: "story-read/beware-of-chicken",

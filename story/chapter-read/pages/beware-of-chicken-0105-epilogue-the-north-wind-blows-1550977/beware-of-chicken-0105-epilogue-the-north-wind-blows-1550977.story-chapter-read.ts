@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0105EpilogueTheNorthWindBlows1550977 = {
   id: "01a08397-188e-7e2c-85d2-f2f75fb77227",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0105-epilogue-the-north-wind-blows-1550977",
   story: "story-read/beware-of-chicken",
   position: 105,

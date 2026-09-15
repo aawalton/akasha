@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0100V4c80TheWheelKeepsTurning = {
   id: "01a06731-ad89-7009-81b9-cc4dffacdc16",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0100-v4c80-the-wheel-keeps-turning",
   title: "v4c80: The Wheel Keeps Turning",
   story: "story-read/beware-of-chicken",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0078V4c63CelestialBody = {
   id: "01a06731-ad82-7006-81db-315aece98dd9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0078-v4c63-celestial-body",
   title: "v4c63: Celestial Body",
   story: "story-read/beware-of-chicken",
