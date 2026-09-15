@@ -2,7 +2,7 @@ import type { TemperRotationBreakdownRow } from "akasha/temper/progress/temper-r
 
 export const hpc = {
   id: "019e5d79-3e59-73fb-a873-ffcb44523624",
-  type: "temper-rotation-breakdown-row",
+  type: "page-type/temper-rotation-breakdown-row",
   slug: "hpc",
   title: "HPC",
   key: "hpc",

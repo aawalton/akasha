@@ -2,7 +2,7 @@ import type { TemperRotationBreakdownRow } from "akasha/temper/progress/temper-r
 
 export const casts = {
   id: "019e5d79-3e5a-75c8-be5d-d7cf27860199",
-  type: "temper-rotation-breakdown-row",
+  type: "page-type/temper-rotation-breakdown-row",
   slug: "casts",
   title: "Casts",
   key: "casts",

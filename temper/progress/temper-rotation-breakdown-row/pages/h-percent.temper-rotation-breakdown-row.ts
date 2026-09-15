@@ -2,7 +2,7 @@ import type { TemperRotationBreakdownRow } from "akasha/temper/progress/temper-r
 
 export const hPercent = {
   id: "019e5d79-3e54-78c0-b893-72660306e8e2",
-  type: "temper-rotation-breakdown-row",
+  type: "page-type/temper-rotation-breakdown-row",
   slug: "h-percent",
   title: "H %",
   key: "h-percent",
