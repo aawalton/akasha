@@ -2,7 +2,7 @@ import type { NameFormat } from "akasha/page/name-format/name-format.page-type.t
 
 export const lowerCamelCase = {
   id: "01a04eba-7459-7514-a7a9-88538edfa887",
-  type: "name-format",
+  type: "page-type/name-format",
   slug: "lower-camel-case",
   definition:
     "a name format joining words with nothing between, every word but the first starting capital",

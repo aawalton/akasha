@@ -2,7 +2,7 @@ import type { NameFormat } from "akasha/page/name-format/name-format.page-type.t
 
 export const upperUuid = {
   id: "01a04eba-7459-7c0d-8dee-2a96140424a2",
-  type: "name-format",
+  type: "page-type/name-format",
   slug: "upper-uuid",
   definition: "a name format joining hex groups with hyphens, all letters capital",
   code: "ts",

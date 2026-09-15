@@ -2,7 +2,7 @@ import type { NameFormat } from "akasha/page/name-format/name-format.page-type.t
 
 export const upperCamelCase = {
   id: "01a04eba-7459-7eca-8601-1a20dbb5a53c",
-  type: "name-format",
+  type: "page-type/name-format",
   slug: "upper-camel-case",
   definition: "a name format joining words with nothing between, every word starting capital",
   code: "ts",

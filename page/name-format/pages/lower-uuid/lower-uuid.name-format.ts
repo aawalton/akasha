@@ -2,7 +2,7 @@ import type { NameFormat } from "akasha/page/name-format/name-format.page-type.t
 
 export const lowerUuid = {
   id: "01a04eba-7459-7836-ab9f-30dd5c70d710",
-  type: "name-format",
+  type: "page-type/name-format",
   slug: "lower-uuid",
   definition: "a name format joining hex groups with hyphens, all letters lower",
   code: "ts",

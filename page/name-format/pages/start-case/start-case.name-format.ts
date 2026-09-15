@@ -2,7 +2,7 @@ import type { NameFormat } from "akasha/page/name-format/name-format.page-type.t
 
 export const startCase = {
   id: "01a04fa6-4826-7edc-8fd9-a295ef73a31a",
-  type: "name-format",
+  type: "page-type/name-format",
   slug: "start-case",
   definition: "a name format separating words with spaces, every word starting capital",
   code: "ts",

@@ -2,7 +2,7 @@ import type { NameFormat } from "akasha/page/name-format/name-format.page-type.t
 
 export const sentenceCase = {
   id: "01a04eba-7459-7eaf-808c-edc6d257bb1c",
-  type: "name-format",
+  type: "page-type/name-format",
   slug: "sentence-case",
   definition: "a name format separating words with spaces, capitalized as a sentence is",
   code: "ts",
