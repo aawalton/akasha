@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchPotionEffectsFilter = {
   id: "01a0613a-e0ab-720b-94a5-6dafe7b134f2",
-  type: "module",
+  type: "page-type/module",
   slug: "search-potion-effects-filter",
   definition:
     "the effects a potion carries, narrowed by a multiselect of health, magicka, and stamina restore",

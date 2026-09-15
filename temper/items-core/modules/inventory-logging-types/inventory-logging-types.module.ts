@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryLoggingTypes = {
   id: "01a060c5-3c21-7930-9244-0d69af603da1",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-logging-types",
   definition: "how much an inventory run writes about what it did",
   code: "ts",

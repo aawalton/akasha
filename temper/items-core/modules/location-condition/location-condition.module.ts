@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const locationCondition = {
   id: "01a060d9-498c-7978-b6f9-1baeddcf9e33",
-  type: "module",
+  type: "page-type/module",
   slug: "location-condition",
   definition: "the place a rule tests against, read off a location key and a bag number",
   code: "ts",

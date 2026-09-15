@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const buyRuleTypes = {
   id: "01a060d9-44c9-749c-9acb-57edbe6a08a9",
-  type: "module",
+  type: "page-type/module",
   slug: "buy-rule-types",
   definition: "the shape of a rule saying how many of one item to keep bought",
   code: "ts",

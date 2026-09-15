@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const buyRuleEval = {
   id: "01a060d9-44c8-7b58-864b-b81a0c27cbac",
-  type: "module",
+  type: "page-type/module",
   slug: "buy-rule-eval",
   definition: "how far short of its target quantity each buy rule falls",
   code: "ts",

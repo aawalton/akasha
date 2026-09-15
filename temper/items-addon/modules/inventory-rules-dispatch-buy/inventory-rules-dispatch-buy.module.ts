@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRulesDispatchBuy = {
   id: "01a06258-b531-7fee-9693-0454e9110b2d",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rules-dispatch-buy",
   definition: "buying items at a store by rule, up to the target quantity",
   code: "ts",

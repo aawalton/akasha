@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchTraitFilter = {
   id: "01a0613a-e0b1-71f5-bbae-52bb501cef6f",
-  type: "module",
+  type: "page-type/module",
   slug: "search-trait-filter",
   definition:
     "the item trait, narrowed by a multiselect of weapon, armor, jewelry, and companion traits",

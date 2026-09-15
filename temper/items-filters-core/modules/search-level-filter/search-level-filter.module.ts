@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchLevelFilter = {
   id: "01a0613a-e0aa-710f-896f-f9ee4858ec8c",
-  type: "module",
+  type: "page-type/module",
   slug: "search-level-filter",
   definition: "the item level, narrowed by a range from 1 to 66 with a comparison operator",
   code: "ts",

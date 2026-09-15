@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventorySessionTracking = {
   id: "01a06258-b534-7bdd-8779-42f18e316fcb",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-session-tracking",
   definition: "the net-worth change over the session and the burst shown when it moves",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryQuestAnnotations = {
   id: "01a06258-b52e-7489-8c9a-a72b0b2902a1",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-quest-annotations",
   definition: "remembering which container came from which quest, so cooldowns can be judged",
   code: "ts",

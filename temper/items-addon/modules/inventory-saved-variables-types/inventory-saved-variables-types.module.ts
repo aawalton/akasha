@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventorySavedVariablesTypes = {
   id: "01a06258-b535-744c-872a-c449d4371f51",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-saved-variables-types",
   definition: "the shapes of the saved database, the diagnostics and the settings",
   code: "ts",

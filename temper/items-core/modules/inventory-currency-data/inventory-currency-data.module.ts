@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryCurrencyData = {
   id: "01a060d9-498b-782c-aa63-7f9ef5125ebe",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-currency-data",
   definition: "every kind of money an account has an amount of",
   code: "ts",

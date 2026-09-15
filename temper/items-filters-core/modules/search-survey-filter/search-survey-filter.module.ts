@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchSurveyFilter = {
   id: "01a0613a-e0b0-7b63-86a0-4e084089702c",
-  type: "module",
+  type: "page-type/module",
   slug: "search-survey-filter",
   definition: "whether an item is a survey report, narrowed by an include or exclude toggle",
   code: "ts",

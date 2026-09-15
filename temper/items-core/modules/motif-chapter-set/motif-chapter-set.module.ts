@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const motifChapterSet = {
   id: "01a060c5-3c25-71a5-8ae6-6300f17e08b1",
-  type: "module",
+  type: "page-type/module",
   slug: "motif-chapter-set",
   definition: "the motif chapters each style has, read off the lore library",
   code: "ts",

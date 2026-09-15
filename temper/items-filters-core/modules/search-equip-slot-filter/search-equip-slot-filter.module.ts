@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchEquipSlotFilter = {
   id: "01a0613a-e0a7-7f9d-b9bd-ff1e3517930d",
-  type: "module",
+  type: "page-type/module",
   slug: "search-equip-slot-filter",
   definition: "the equip slot an item occupies, narrowed by a multiselect of thirteen slot numbers",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const motifNameParser = {
   id: "01a060c5-3c25-7155-a3ae-66701313f4b7",
-  type: "module",
+  type: "page-type/module",
   slug: "motif-name-parser",
   definition: "the style and chapter a motif book's name carries",
   code: "ts",

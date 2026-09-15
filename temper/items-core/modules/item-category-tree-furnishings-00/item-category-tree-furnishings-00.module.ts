@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const itemCategoryTreeFurnishings00 = {
   id: "01a060e4-b743-70f8-9d3d-ee3ac97ea940",
-  type: "module",
+  type: "page-type/module",
   slug: "item-category-tree-furnishings-00",
   definition: "the first nine branches under furnishings in the item category tree",
   code: "ts",

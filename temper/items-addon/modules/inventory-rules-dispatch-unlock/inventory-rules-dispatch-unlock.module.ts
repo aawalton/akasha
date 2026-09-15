@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRulesDispatchUnlock = {
   id: "01a06258-b532-7714-b357-acf120212222",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rules-dispatch-unlock",
   definition: "unlocking collectibles and styles by rule",
   code: "ts",

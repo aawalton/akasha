@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRulesClassify = {
   id: "01a06258-b52e-709d-91d8-2b27e61971b0",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rules-classify",
   definition: "the category an item falls under, from the signals the game reports about it",
   code: "ts",

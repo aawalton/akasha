@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchTreasureMapFilter = {
   id: "01a0613a-e0b2-781d-8d0c-4d7734b29a2b",
-  type: "module",
+  type: "page-type/module",
   slug: "search-treasure-map-filter",
   definition: "whether an item is a treasure map, narrowed by an include or exclude toggle",
   code: "ts",

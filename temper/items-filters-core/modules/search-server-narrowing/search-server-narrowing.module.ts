@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchServerNarrowing = {
   id: "01a0613a-e0ae-75b0-9cbe-58f1edfb2323",
-  type: "module",
+  type: "page-type/module",
   slug: "search-server-narrowing",
   definition:
     "the conversion of filter-bar selections into the exact terms and bands a trader search takes",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchToggleValueParse = {
   id: "01a0613a-e0b0-794d-988b-86cd2476f0a7",
-  type: "module",
+  type: "page-type/module",
   slug: "search-toggle-value-parse",
   definition:
     "an include-or-exclude toggle value read out of whatever a saved search or an editor handed in",

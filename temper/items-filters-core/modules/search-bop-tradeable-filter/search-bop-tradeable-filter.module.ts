@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchBopTradeableFilter = {
   id: "01a0613a-e0a5-79e4-a256-cff1d3e55d05",
-  type: "module",
+  type: "page-type/module",
   slug: "search-bop-tradeable-filter",
   definition: "whether a bound item is still tradeable, narrowed by an include or exclude toggle",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const buyRuleSettings = {
   id: "01a06100-3be3-78c1-9ab2-bfad6e349dd6",
-  type: "module",
+  type: "page-type/module",
   slug: "buy-rule-settings",
   definition:
     "each way an agent adds, changes, locks, copies or takes away a buy rule in the saved set",

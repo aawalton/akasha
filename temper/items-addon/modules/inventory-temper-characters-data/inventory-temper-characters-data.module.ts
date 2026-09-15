@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryTemperCharactersData = {
   id: "01a06258-b534-75d4-879d-e12689eb4c8a",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-temper-characters-data",
   definition: "the characters add-on's saved data, read when it is present",
   code: "ts",

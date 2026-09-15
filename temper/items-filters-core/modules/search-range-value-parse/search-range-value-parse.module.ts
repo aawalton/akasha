@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchRangeValueParse = {
   id: "01a0613a-e0ac-785c-a9b6-1aa6dca2564d",
-  type: "module",
+  type: "page-type/module",
   slug: "search-range-value-parse",
   definition:
     "the narrowing of an unknown saved value into a number with an optional comparison operator",

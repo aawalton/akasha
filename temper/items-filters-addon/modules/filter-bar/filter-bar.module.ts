@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const filterBar = {
   id: "01a0614b-6735-71b0-b1bb-6d698f3b387d",
-  type: "module",
+  type: "page-type/module",
   slug: "filter-bar",
   definition: "the movable panel a player adds filter rows to while the inventory is open",
   code: "ts",

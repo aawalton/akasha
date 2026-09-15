@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const canOpenFilter = {
   id: "01a06100-3be7-790f-abc4-c36218af0bc4",
-  type: "module",
+  type: "page-type/module",
   slug: "can-open-filter",
   definition: "the Can Open condition a rule may have, as the rule editor offers it",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryTally = {
   id: "01a06267-2a3a-7e86-bcfd-aac945c961f0",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-tally",
   definition: "adding a count to one key of a running tally",
   code: "ts",

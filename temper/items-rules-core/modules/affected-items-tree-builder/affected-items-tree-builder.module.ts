@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const affectedItemsTreeBuilder = {
   id: "01a06276-e3e7-7896-a7ba-97936d3ea281",
-  type: "module",
+  type: "page-type/module",
   slug: "affected-items-tree-builder",
   definition: "the items a rule reaches, folded into a tree by type or by where they sit",
   code: "ts",

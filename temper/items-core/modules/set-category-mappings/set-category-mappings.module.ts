@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const setCategoryMappings = {
   id: "01a060e4-b744-7689-8dd5-166277409fcb",
-  type: "module",
+  type: "page-type/module",
   slug: "set-category-mappings",
   definition: "every gear set number the game gives, under the source a set is had from",
   code: "ts",

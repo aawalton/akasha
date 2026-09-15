@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchRecipeSubtypeFilter = {
   id: "01a0613a-e0ad-73d1-95f0-27bb2a879d89",
-  type: "module",
+  type: "page-type/module",
   slug: "search-recipe-subtype-filter",
   definition:
     "the specialized item type of a recipe, narrowed by a multiselect of nine recipe subtypes",

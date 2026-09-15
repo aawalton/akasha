@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const locationTypeData = {
   id: "01a060d9-4989-7621-819f-d8c567133ec6",
-  type: "module",
+  type: "page-type/module",
   slug: "location-type-data",
   definition: "the kinds of place an inventory reading has items in",
   code: "ts",

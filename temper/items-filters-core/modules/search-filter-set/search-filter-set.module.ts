@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchFilterSet = {
   id: "01a0613a-e0a8-7cbc-ab1f-cfa2b3fa4abb",
-  type: "module",
+  type: "page-type/module",
   slug: "search-filter-set",
   definition: "the conjunction of the active filter values, run against one item's facts",
   code: "ts",

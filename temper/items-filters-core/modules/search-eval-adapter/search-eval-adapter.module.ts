@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchEvalAdapter = {
   id: "01a0613a-e0a7-755c-8441-e2bc847bee09",
-  type: "module",
+  type: "page-type/module",
   slug: "search-eval-adapter",
   definition:
     "the synthetic rule and empty environment that let a filter reuse a rule-editor condition checker",

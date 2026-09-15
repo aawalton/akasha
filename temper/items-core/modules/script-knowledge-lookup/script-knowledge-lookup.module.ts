@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scriptKnowledgeLookup = {
   id: "01a060e6-c3e6-7bba-973c-033c3a1970b5",
-  type: "module",
+  type: "page-type/module",
   slug: "script-knowledge-lookup",
   definition: "the item number a scribing script is known by, found from the name of the script",
   code: "ts",

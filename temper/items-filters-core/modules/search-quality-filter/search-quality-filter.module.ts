@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const searchQualityFilter = {
   id: "01a0613a-e0ab-7528-b275-c36c451d9da6",
-  type: "module",
+  type: "page-type/module",
   slug: "search-quality-filter",
   definition: "the item quality, narrowed by a multiselect of the six quality tiers",
   code: "ts",

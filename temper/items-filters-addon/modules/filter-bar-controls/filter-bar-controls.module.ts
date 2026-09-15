@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const filterBarControls = {
   id: "01a0614b-6736-7575-aaa0-1766a1adf1a8",
-  type: "module",
+  type: "page-type/module",
   slug: "filter-bar-controls",
   definition: "one drawn editor per filter editor kind, laid out left to right",
   code: "ts",

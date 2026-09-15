@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryTemperLockCore = {
   id: "01a06258-b534-7c10-a22d-7d1a59e430a4",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-temper-lock-core",
   definition: "which lock keys are valid, which should be seeded, and which are stale",
   code: "ts",

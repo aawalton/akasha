@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRulesDispatchBankPaced = {
   id: "01a06258-b530-7ef5-9ff0-40428a6c5232",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rules-dispatch-bank-paced",
   definition: "sending a visit's bank moves inside the stack-move limit the game enforces",
   code: "ts",

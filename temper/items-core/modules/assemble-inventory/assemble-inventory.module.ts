@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const assembleInventory = {
   id: "01a060c5-3c1c-7a77-9224-6e18bed0f40c",
-  type: "module",
+  type: "page-type/module",
   slug: "assemble-inventory",
   definition: "an inventory built from the rows a capture wrote",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryRulesDispatchBankCurrency = {
   id: "01a06258-b530-7071-8594-c5738a71f54c",
-  type: "module",
+  type: "page-type/module",
   slug: "inventory-rules-dispatch-bank-currency",
   definition: "depositing and withdrawing currencies at the bank by rule",
   code: "ts",
