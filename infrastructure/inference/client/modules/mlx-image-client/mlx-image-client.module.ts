@@ -8,23 +8,23 @@ export const mlxImageClient = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A size is stated as `WxH` and is at fault stated any other way.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A generation size is between 256 and 4096 and falls on a multiple of 16.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A guidance scale or a step count the caller left unsaid is left off the body.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The image is answered as the first `b64_json` datum the service carried back.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A timeout says the pool serves one request at a time so the wait counts the queue.",
     },

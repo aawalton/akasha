@@ -9,11 +9,11 @@ export const configChecksum = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The hash is worked out from the config rather than asked of the cluster.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The order the keys are written in leaves the hash the same hash.",
     },
   ],

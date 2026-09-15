@@ -8,12 +8,12 @@ export const backupInfo = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A file missing any field the reader needs is an error rather than a partial read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A line with no equals sign is passed over.",
     },
   ],

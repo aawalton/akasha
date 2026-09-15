@@ -8,11 +8,11 @@ export const generatedFile = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A generated file sits in a `generated` folder beside its synth file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file already with the bytes that would be written is left alone.",
     },
   ],

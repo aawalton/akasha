@@ -8,11 +8,11 @@ export const serviceCheckout = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The checkout is the one the environment a unit states names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A run the environment names no checkout for works under the directory that run started in.",
     },

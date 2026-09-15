@@ -9,24 +9,24 @@ export const memoryReaperProcScan = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A process this module cannot read is passed over rather than refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A flag naming a credential has its value withheld as redacted.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A value under a flag that is not known safe is withheld as unclassified rather than shown.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command line longer than the cap is cut and says how many tokens were dropped.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A process in a rootless-podman cgroup is a container rather than a fleet process.",
     },

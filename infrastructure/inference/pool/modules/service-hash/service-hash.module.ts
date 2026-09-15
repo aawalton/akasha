@@ -8,7 +8,7 @@ export const serviceHash = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A changed command or port or working directory changes the hash even where no source file changed.",
     },

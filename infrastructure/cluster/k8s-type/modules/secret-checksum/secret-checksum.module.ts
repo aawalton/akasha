@@ -8,7 +8,7 @@ export const secretChecksum = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dot in a key names the key rather than a field under a field.",
     },
   ],

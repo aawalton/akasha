@@ -5,6 +5,8 @@ export const buildPatch = {
   type: "module",
   slug: "build-patch",
   definition: "a node and its cluster turned into a Talos machine-config patch",
-  invariants: [{ invariantKind: "departure", statement: "Every node admits a user namespace." }],
+  invariants: [
+    { invariantKind: "invariant-kind/departure", statement: "Every node admits a user namespace." },
+  ],
   code: "ts",
 } as const satisfies Module

@@ -10,23 +10,23 @@ export const memoryReaperLegs = {
   testFixtures: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A process is over its ceiling on resident memory rather than on shared memory.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tree is weighed on the proportional memory its whole subtree has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A supervisor sitting under another supervisor is no tree root of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Memory a per-process kill already reclaims is left out of its tree's total.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A leg says why that leg decided as that leg did whether or not that leg decided to kill.",
     },

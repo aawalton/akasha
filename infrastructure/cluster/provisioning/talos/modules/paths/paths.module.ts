@@ -8,7 +8,7 @@ export const paths = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The repository root is read from the checkout rather than climbed to.",
     },
   ],

@@ -8,11 +8,11 @@ export const fileNarrow = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A narrow on a path holds where some value that path reaches holds it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A narrow on a path is weighed here rather than asked of the service.",
     },
   ],

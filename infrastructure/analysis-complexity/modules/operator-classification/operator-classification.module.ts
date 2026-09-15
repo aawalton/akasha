@@ -8,11 +8,11 @@ export const operatorClassification = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A token is an operator or an operand or uncounted.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Trivia and the end of a file are counted as neither an operator nor an operand.",
     },
   ],

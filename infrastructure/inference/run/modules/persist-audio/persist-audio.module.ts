@@ -8,20 +8,20 @@ export const persistAudio = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a voice-design or voice-clone or music run lands audio.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A music run is recorded as made by ace-step whatever service ran that run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An object store the environment has not configured is raised rather than skipped.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The object put is pushed into the caller's `done`.",
     },
   ],

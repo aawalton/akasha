@@ -8,11 +8,11 @@ export const synthManifests = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checkout root is the folder the lockfile is in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pass either writes or checks.",
     },
   ],

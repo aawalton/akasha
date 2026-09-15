@@ -8,20 +8,20 @@ export const sessionIdentity = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A failed check is remembered for a shorter time than a successful check.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A token is remembered no longer than the token itself lasts.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A signing key the proxy does not have is fetched once more before the token fails.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here asks the auth server about a token.",
     },
   ],

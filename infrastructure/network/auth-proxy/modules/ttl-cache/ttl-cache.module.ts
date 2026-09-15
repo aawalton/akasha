@@ -8,11 +8,11 @@ export const ttlCache = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reading an entry makes the entry the newest.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry past its time reads as nothing and is dropped at the reading.",
     },
   ],

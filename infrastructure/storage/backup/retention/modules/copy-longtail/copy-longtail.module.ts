@@ -8,24 +8,24 @@ export const copyLongtail = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The hasher is proved on bytes of a known hash before any unit is copied.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A unit is complete only once a marker naming the unit's contents is written into that unit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A unit already complete is passed over rather than copied again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run past its share of the disk reports that even where the copies went well.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Importing the module starts nothing.",
     },
   ],

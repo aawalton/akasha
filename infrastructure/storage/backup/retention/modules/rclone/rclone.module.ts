@@ -8,15 +8,15 @@ export const rclone = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command that exits non-zero is an error carrying the text the command said.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A copy of named files leaves behind no list of those names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The same commands reach a remote store and a local path.",
     },
   ],

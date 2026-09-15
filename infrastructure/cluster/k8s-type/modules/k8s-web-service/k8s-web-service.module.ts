@@ -8,15 +8,15 @@ export const k8sWebService = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A web app is reached inside the cluster rather than from outside it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every web app answers on one port, named once here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The labels a Service selects on are handed in beside the labels it carries.",
     },
   ],

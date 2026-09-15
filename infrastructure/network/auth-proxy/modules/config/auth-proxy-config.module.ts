@@ -8,15 +8,15 @@ export const authProxyConfig = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Loading this module reads the environment once and never again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A setting the environment does not name takes a stated default.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A setting the environment spells wrongly stops the proxy from starting.",
     },
   ],

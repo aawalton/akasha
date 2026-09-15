@@ -8,11 +8,11 @@ export const keepDecision = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A keep marking is nokeep or standalone or full.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A disagreement names one backup or one period with no backup.",
     },
   ],

@@ -9,15 +9,15 @@ export const sops = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A decrypted file is written only under `/var/tmp` at mode 0600.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An encrypt that wrote the bundle names that write before the mode is set.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "What sops is spawned for and what is written are handed in, so a test drives neither.",
     },

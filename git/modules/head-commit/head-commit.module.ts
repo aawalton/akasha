@@ -9,11 +9,11 @@ export const headCommit = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The commit at HEAD is read from git rather than carried by a caller.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The commit is answered as the hash naming it.",
     },
   ],

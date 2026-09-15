@@ -9,11 +9,11 @@ export const inferenceRunServices = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every service names the versions that service ran.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service that pins nothing names an empty set.",
     },
   ],

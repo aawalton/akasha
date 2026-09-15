@@ -9,7 +9,7 @@ export const dockerfileServices = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image's extensions file is named from the root rather than from its folder.",
     },
   ],

@@ -8,15 +8,15 @@ export const copFetch = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The request has a deadline of its own rather than the runtime's.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The runtime's own idle timeout is turned off.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A slow cold model load is waited out.",
     },
   ],

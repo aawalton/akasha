@@ -8,24 +8,24 @@ export const inferenceSsh = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A script reaches the host on standard input rather than as an argument.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A directory is synced as one stream rather than file by file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A missing ssh or scp on the path is raised as an operational failure rather than a crash.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A script refused for its exit carries what the host printed before that exit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run asked for no output carries none, having none to carry.",
     },
   ],

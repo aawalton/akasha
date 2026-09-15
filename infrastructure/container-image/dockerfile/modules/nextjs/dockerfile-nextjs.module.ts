@@ -8,7 +8,7 @@ export const dockerfileNextjs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The source folders copied in are the ones the app's entry files reach.",
     },
   ],

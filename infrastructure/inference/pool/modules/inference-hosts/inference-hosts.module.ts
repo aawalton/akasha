@@ -8,7 +8,7 @@ export const inferenceHosts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A host asked for by a name nothing declares raises rather than answering.",
     },
   ],

@@ -8,7 +8,7 @@ export const toolchainManifest = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A binary is fetched at a pinned version rather than latest.",
     },
   ],

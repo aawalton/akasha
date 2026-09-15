@@ -8,7 +8,7 @@ export const deleting = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A removal takes the page's file rather than raising a flag on that page.",
     },
   ],

@@ -8,11 +8,11 @@ export const walkFunctions = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A function nested inside another is walked as a function of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A function with no name of its own is named by where that function is.",
     },
   ],

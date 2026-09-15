@@ -8,11 +8,11 @@ export const comfyGraph = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A node is reached by the key the graph has that node under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A link is the node that link comes from paired with the slot that link comes out of.",
     },

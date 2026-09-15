@@ -8,20 +8,20 @@ export const inferenceSeed = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seed the caller told is answered back unchanged.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A drawn seed is taken from the platform's random bytes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A drawn seed is narrowed to a positive signed 32-bit integer so every service takes that seed.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches a service or reads the bytes a service made of the seed.",
     },
   ],

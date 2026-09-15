@@ -9,30 +9,30 @@ export const gitPushing = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A checkout with no remote has nothing to push to and a missing remote is no failure.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The remote is the remote the branch tracks or the first remote the checkout names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A HEAD that is on no branch has nothing to push that HEAD as.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A push that fails says the write is already durable locally and only the second copy is missing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A push that fails tells the caller not to run the command again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A push is given the time carrying objects takes rather than the time a query takes.",
     },

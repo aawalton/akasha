@@ -8,19 +8,19 @@ export const zimageExploreBatch = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A graph is posted straight at the daemon rather than through the command line.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A prompt file names the image the render of that file lands as.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The seed a render was drawn with is written beside the image.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A render answering no image before the deadline ends the batch.",
     },
   ],

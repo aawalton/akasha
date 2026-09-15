@@ -9,27 +9,27 @@ export const memoryReaperGlobal = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The headroom leg trips only where swap is drained as well as memory.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A host with no swap at all counts as a host whose swap is drained.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The largest supervisor tree goes before any single process is taken.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The largest single process is taken only where no tree has anything.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing else is killed until the recovery window after a kill has elapsed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The window resets the moment the leg reads clear rather than when that window expires.",
     },

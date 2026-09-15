@@ -8,11 +8,11 @@ export const barman = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command that exits non-zero is an error carrying the words the command said.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A marking is read back from the store rather than assumed from the command.",
     },
   ],

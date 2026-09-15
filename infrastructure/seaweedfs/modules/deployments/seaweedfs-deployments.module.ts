@@ -8,15 +8,15 @@ export const seaweedfsDeployments = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The S3 gateway's pod template carries the hash of the seaweedfs-creds secret.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The key hashed from the seaweedfs-creds secret is s3-config.json.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The S3 gateway mounts only s3-config.json from that secret.",
     },
   ],

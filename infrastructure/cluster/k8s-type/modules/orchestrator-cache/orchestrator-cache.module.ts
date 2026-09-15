@@ -8,15 +8,15 @@ export const orchestratorCache = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The checkout is fetched and reset hard to `origin/main` at every pod start.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file written into that checkout inside the pod goes at the next pod start.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A writer in the pod that must keep what it writes reaches the pages service over HTTP.",
     },

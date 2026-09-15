@@ -8,7 +8,7 @@ export const cookieMatchCore = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name with no chunk number is the first chunk.",
     },
   ],

@@ -8,11 +8,11 @@ export const backupAttestation = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hasher reporting nothing for a file of known bytes fails the run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every file of a copied unit has a hash line of its own.",
     },
   ],

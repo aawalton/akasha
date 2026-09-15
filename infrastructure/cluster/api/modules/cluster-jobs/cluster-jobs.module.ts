@@ -8,19 +8,19 @@ export const clusterJobs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A job is watched by polling rather than by a stream.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A job neither done nor failed within the ceiling is answered as a timeout.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A job's log is read from the first pod that job made.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A job that made no pod has an empty log.",
     },
   ],

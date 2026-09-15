@@ -8,16 +8,16 @@ export const orphanSweepNotice = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sweep that found nothing says nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A sweep that could not run is a failed run rather than a message saying nothing drifted.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every orphan is named with the deploy that manages that orphan.",
     },
   ],

@@ -9,20 +9,20 @@ export const imageInputs = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The inputs are what the Dockerfile copies out of the context.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The inputs are read at the head of the folder handed in rather than off its working files.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path a second stage copies is no input, because an earlier stage made it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A copied path is named from the root rather than from the folder the build is handed.",
     },

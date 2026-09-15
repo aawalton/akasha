@@ -8,11 +8,11 @@ export const synthDrift = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A generated file not on disk drifts rather than matching.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A drift names the first line the two differ at.",
     },
   ],

@@ -8,11 +8,11 @@ export const retentionEnv = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every setting has the cluster's own value as its default.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run is a rehearsal only where the environment says so outright.",
     },
   ],

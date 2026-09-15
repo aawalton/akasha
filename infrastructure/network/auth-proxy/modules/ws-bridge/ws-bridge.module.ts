@@ -8,12 +8,12 @@ export const wsBridge = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The messages the caller sends before the target answers are held and sent on after.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Either side closing closes the far side.",
     },
   ],

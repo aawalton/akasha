@@ -8,19 +8,19 @@ export const memoryReaperConfig = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every ceiling is stated in gibibytes and held in kibibytes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every ceiling the environment states as no positive finite number is a default.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A ceiling is read once at load rather than read again each tick.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The reaper says every ceiling that reaper is running under before its first tick.",
     },

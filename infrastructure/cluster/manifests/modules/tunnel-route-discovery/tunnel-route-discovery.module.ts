@@ -8,11 +8,11 @@ export const tunnelRouteDiscovery = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A routes file is the file of a page stating the routes property.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No name for that file is spelled here.",
     },
   ],

@@ -9,11 +9,11 @@ export const memoryReaperOwner = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat is read off a command line rather than looked up anywhere.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent id that is no uuid names no seat.",
     },
   ],

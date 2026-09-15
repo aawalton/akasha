@@ -8,7 +8,7 @@ export const promtailManifests = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pod template carries the hash of the promtail-config configmap.",
     },
   ],

@@ -8,11 +8,11 @@ export const cors = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A preflight is answered here rather than by the target behind the proxy.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A preflight echoes back the headers the request asked about.",
     },
   ],

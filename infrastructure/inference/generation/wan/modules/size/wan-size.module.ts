@@ -9,11 +9,11 @@ export const wanSize = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A size is two whole positive numbers parted by an x.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A size that does not read answers as nothing rather than raising.",
     },
   ],

@@ -8,15 +8,15 @@ export const shapeReading = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A shape is found in the index rather than by walking the pages.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A shape Alan has not decided reads as nothing rather than as false.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A shape that will not load refuses the read.",
     },
   ],

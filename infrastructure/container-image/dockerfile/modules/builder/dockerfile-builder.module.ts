@@ -9,11 +9,11 @@ export const dockerfileBuilder = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The image installs against the root manifest the checkout carries.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A manifest is copied once.",
     },
   ],

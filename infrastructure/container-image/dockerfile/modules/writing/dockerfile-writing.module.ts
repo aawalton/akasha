@@ -9,11 +9,11 @@ export const dockerfileWriting = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image stating no extensions adds nothing to the Dockerfile written for it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image stating extensions its file is not there for is refused.",
     },
   ],

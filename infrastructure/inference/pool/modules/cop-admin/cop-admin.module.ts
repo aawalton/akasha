@@ -8,16 +8,16 @@ export const copAdmin = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The admin port is reached from the host over ssh rather than across the network.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A cop that answers something other than the expected answer is raised as an operational failure.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An activate posted is named before its answer is read, since that read can fail.",
     },
   ],

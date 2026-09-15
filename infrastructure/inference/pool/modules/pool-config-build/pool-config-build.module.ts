@@ -7,21 +7,24 @@ export const poolConfigBuild = {
   definition: "the pool file the traffic cop reads, built from the declared services",
   code: "ts",
   invariants: [
-    { invariantKind: "departure", statement: "Only a pool service reaches the pool file." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
+      statement: "Only a pool service reaches the pool file.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A pool service missing an internal port raises rather than reaching the file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service is fronted on every address the host answers at.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pool file folds into the traffic cop's hash.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Changing the pool file re-provisions the traffic cop.",
     },
   ],

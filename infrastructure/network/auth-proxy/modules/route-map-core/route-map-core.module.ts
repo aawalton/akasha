@@ -8,11 +8,11 @@ export const routeMapCore = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A target written as a bare address means no proxy behind the address.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Text the proxy cannot read as a map stops the proxy from starting.",
     },
   ],

@@ -8,20 +8,20 @@ export const memoryReaperRead = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A process this module cannot read is passed over rather than refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A process whose proportional memory cannot be read is weighed by its resident memory instead.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A ceiling the environment states as no positive finite number is the default.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The host's free memory is read from the memory guard rather than read again.",
     },
   ],

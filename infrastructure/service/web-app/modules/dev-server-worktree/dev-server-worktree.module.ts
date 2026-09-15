@@ -8,11 +8,11 @@ export const devServerWorktree = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change number with no worktree is refused with why.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here makes a worktree.",
     },
   ],

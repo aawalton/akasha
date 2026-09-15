@@ -8,16 +8,16 @@ export const upscaleWorkstation = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The scripts are reached at their pages' path rather than where the scripts were once installed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The stack is brought up before an image is written into that stack.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A script that reports success while producing nothing readable is raised as a failure.",
     },

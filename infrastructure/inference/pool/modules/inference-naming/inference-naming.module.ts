@@ -8,7 +8,7 @@ export const inferenceNaming = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A name is made into a label and an environment and a path here rather than at each caller.",
     },

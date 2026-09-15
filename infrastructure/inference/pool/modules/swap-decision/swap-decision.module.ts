@@ -8,11 +8,11 @@ export const swapDecision = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service already resident is not started again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A warm service is evicted only for another service that is not warm.",
     },
   ],

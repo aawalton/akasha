@@ -9,23 +9,23 @@ export const upscaleServingJob = {
   allowsTmpPaths: true,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The job runs on a node with at least the stated usable video memory.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The job is never retried.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A failure is read rather than hidden by a second attempt.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The weights are cached on the node rather than fetched for each job.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The image comes in and goes out through the object store rather than through the job's arguments.",
     },

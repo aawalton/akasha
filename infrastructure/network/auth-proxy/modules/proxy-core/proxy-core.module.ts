@@ -8,11 +8,11 @@ export const proxyCore = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An upstream that cannot be reached is answered as a bad gateway.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The failure is reported to the caller of the fetch rather than to the client.",
     },
   ],

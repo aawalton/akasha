@@ -8,11 +8,11 @@ export const barmanOutput = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Output that does not parse is an error rather than an empty listing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A field barman adds that this package does not read is carried through untouched.",
     },

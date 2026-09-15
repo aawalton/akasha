@@ -9,15 +9,15 @@ export const imageRef = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tag is the hash of what the image was built from.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An image the cluster pulls is named the same way it was pushed.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here builds or pushes an image.",
     },
   ],

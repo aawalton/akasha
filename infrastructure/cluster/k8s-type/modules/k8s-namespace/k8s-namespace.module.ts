@@ -8,11 +8,11 @@ export const k8sNamespace = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A namespace is rendered from the name and the labels handed in.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here names a namespace of its own.",
     },
   ],

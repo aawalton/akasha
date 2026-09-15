@@ -8,11 +8,11 @@ export const transportNaming = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name is spelled here once and every resource takes the name from here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pod carries labels beyond the labels that pod is selected by.",
     },
   ],

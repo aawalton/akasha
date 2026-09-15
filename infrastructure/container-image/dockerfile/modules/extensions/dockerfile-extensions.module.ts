@@ -8,12 +8,12 @@ export const dockerfileExtensions = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "No reader here reaches `text-at`, because each answers undefined rather than nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reader here keeps empty text as empty text.",
     },
   ],

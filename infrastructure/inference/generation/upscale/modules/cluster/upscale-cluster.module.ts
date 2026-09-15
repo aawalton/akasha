@@ -8,13 +8,16 @@ export const upscaleCluster = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Credentials the environment lacks are named in the refusal rather than left to fail at the store.",
     },
-    { invariantKind: "departure", statement: "The input is stored before the job is created." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
+      statement: "The input is stored before the job is created.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A job that does not succeed is raised with the tail of its pod's log.",
     },
   ],

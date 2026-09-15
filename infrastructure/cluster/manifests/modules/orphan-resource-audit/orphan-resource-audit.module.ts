@@ -8,20 +8,20 @@ export const orphanResourceAudit = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checkout with no synth source at all is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A synth source that will not synthesise ends the sweep rather than being passed over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a resource a deploy says that deploy manages can be an orphan.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A resource is known by its kind and its namespace and its name together.",
     },
   ],

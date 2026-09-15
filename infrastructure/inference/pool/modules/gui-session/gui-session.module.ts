@@ -8,11 +8,11 @@ export const guiSession = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A probe that emits no marker line reads as no session rather than as a session.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A marker with no exit code reads as no session.",
     },
   ],

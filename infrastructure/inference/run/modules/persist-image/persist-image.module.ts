@@ -8,19 +8,19 @@ export const persistImage = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a generate or edit or upscale run lands an image.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The engine is read from the operation first and from the service second.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The cover is set after the bytes are stored rather than before.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The object put and the cover set are each pushed into the caller's `done`.",
     },
   ],

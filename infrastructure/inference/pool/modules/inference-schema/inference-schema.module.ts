@@ -8,7 +8,7 @@ export const inferenceSchema = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here shapes a service, which a page type shapes instead.",
     },
   ],

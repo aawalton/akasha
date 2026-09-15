@@ -8,15 +8,15 @@ export const transportRepos = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A repository is named by one word rather than by the path of its store.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A repository that mirrors nowhere states so rather than leaving the mirror out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name no repository carries throws rather than answering nothing.",
     },
   ],

@@ -8,20 +8,20 @@ export const fileBackedRoster = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Which page types are backed by files is the page types `@akasha/page-service` lists.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A browser reads that roster from the route its own app answers page types on.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "That roster is asked once and held for a minute rather than per page read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A roster with no page type refuses rather than reading as no page being a file.",
     },
   ],
