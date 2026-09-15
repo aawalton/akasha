@@ -2,7 +2,7 @@ import type { Stylesheet } from "akasha/code/stylesheet/stylesheet.page-type.typ
 
 export const alanWebLook = {
   id: "01a0655e-d39b-7ade-ae47-a077fedc5319",
-  type: "stylesheet",
+  type: "page-type/stylesheet",
   slug: "alan-web-look",
   definition: "the look Alan's browser app wears, and the trees its utilities are read from",
   styles: "css",
