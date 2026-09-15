@@ -1,8 +1,8 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const claudeCodeTools = {
+export const claudeCodeTool = {
   id: "01a065b0-2101-7bd6-8f34-c21a86eb89e4",
   type: "domain",
-  slug: "claude-code-tools",
+  slug: "claude-code-tool",
   definition: "the Tools built into Claude Code rather than served to it",
 } as const satisfies Domain
