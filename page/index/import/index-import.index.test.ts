@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { edgesIn, importIn } from "akasha/page/index/import/index-import.index.code.ts"
+import { importIn } from "akasha/page/index/import/index-import.index.code.ts"
 
 const READING = "akasha/pages-system/index/index-reading/index-reading.module.code.ts"
 
@@ -51,13 +51,6 @@ test("a package specifier the naming holds nothing for files no edge", () => {
   const body = 'import { pagesSystem } from "@akasha/pages"\n'
 
   expect(importIn(body, "akasha/a.module.code.ts", "/repo", NAMING)).toEqual([])
-})
-
-test("the edges a body makes are read against the naming handed in", () => {
-  const body = 'import { readingIn } from "@akasha/index"\nimport { y } from "./two.ts"\n'
-
-  expect(edgesIn(body, "akasha/a.module.code.ts")).toEqual(["akasha/two.ts"])
-  expect(edgesIn(body, "akasha/a.module.code.ts", NAMING)).toEqual([READING, "akasha/two.ts"])
 })
 
 test("a specifier reaching above the repository root files no edge", () => {

@@ -6,6 +6,7 @@ export const codeReading = {
   slug: "code-reading",
   definition: "a body read as TypeScript, and what that reading says its spellings mean",
   parts: [
+    "module/code-importing",
     "module/code-naming",
     "module/code-rule",
     "module/code-source",

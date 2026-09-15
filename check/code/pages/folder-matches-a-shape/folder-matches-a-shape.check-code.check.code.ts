@@ -12,11 +12,11 @@ import {
   textNamed,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import { importsIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
 import {
   NAMING_NONE,
   type Naming,
 } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
-import { edgesIn } from "akasha/page/index/import/index-import.index.code.ts"
 import { reachingOf } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import {
   facingOn,
@@ -34,7 +34,7 @@ export function edgesOf(
   naming: Naming = NAMING_NONE
 ): ReadonlySet<string> {
   if (bytes === null || !textNamed(path)) return new Set<string>()
-  return new Set<string>(edgesIn(bodyOf({ root, path, bytes }), path, naming))
+  return new Set<string>(importsIn(bodyOf({ root, path, bytes }), path, naming))
 }
 
 function foldersAbove(change: Change): ReadonlySet<string> {

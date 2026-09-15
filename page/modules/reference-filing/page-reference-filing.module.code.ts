@@ -1,9 +1,9 @@
+import { importsIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
 import {
   NAMING_NONE,
   type Naming as Specifying,
 } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
-import { edgesIn } from "akasha/page/index/import/index-import.index.code.ts"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
@@ -90,7 +90,7 @@ export function importedFrom(
   if (!typed(from)) return []
   const found: Entry[] = []
   const already = new Set<string>()
-  for (const landed of edgesIn(body, from, naming)) {
+  for (const landed of importsIn(body, from, naming)) {
     const owner = ownerOf(landed)
     if (owner === null) continue
     const at = referencesAt(owner)
