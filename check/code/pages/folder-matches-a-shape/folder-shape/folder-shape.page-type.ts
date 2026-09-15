@@ -46,7 +46,6 @@ export const folderShape = {
     "folder-shape/modules-only",
     "folder-shape/pages-of-the-type-above",
     "folder-shape/parts-under-their-plural",
-    "folder-shape/sections-of-the-book-above",
     "folder-shape/sections-of-the-section-beside",
   ],
   extends: ["page-type/module"],

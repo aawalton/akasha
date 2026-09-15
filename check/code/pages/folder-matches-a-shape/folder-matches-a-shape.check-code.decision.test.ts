@@ -10,12 +10,13 @@ import {
 import {
   folderFrom,
   GENERATED_AT,
+  gatheringFrom,
   MANIFEST_AT,
   MY_MATH_AT,
   segmented,
   segmentedLater,
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
-import { sectionsOfTheBookAbove } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
+import { collectionPartsUnderTheirPlural } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/collection-parts-under-their-plural/collection-parts-under-their-plural.folder-shape.code.ts"
 import type { FoldersBy } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { type Held, heldIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -112,17 +113,18 @@ const sectionsFolder = folderFrom({
   extending: (pageTypeSlug, wanted) => pageTypeSlug === wanted,
   holds: (at) => (at === MY_STRATEGY ? ["alan-book/my-strategy"] : []),
   partOf: scopedPartOf,
+  gathered: gatheringFrom({ sections: ["book-section"] }),
 })
 
 test("the sections shape takes a folder whose sections the index reaches by path", () => {
-  const said = sectionsOfTheBookAbove(
+  const said = collectionPartsUnderTheirPlural(
     sectionsFolder(["beginnings.book-section.ts", "two.book-section.ts"])
   )
   expect(said).toEqual([])
 })
 
 test("that shape still refuses a section the index cannot reach by path", () => {
-  const said = sectionsOfTheBookAbove(
+  const said = collectionPartsUnderTheirPlural(
     sectionsFolder(["beginnings.book-section.ts", "stray.book-section.ts"])
   )
   expect(said).toHaveLength(1)
