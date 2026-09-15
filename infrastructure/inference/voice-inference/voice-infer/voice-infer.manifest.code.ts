@@ -3,12 +3,13 @@ import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { voiceInferImage } from "akasha/infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts"
+import { voiceInfer } from "akasha/infrastructure/service/cluster/pages/voice-infer/voice-infer.service-cluster.ts"
 
-const NAMESPACE = "voice"
-const APP_NAME = "voice-infer"
-const INSTANCE_NAME = "voice-infer"
+const NAMESPACE = voiceInfer.namespace
+const APP_NAME = voiceInfer.resourceName
+const INSTANCE_NAME = voiceInfer.resourceName
 const COMPONENT = "inference"
-const PART_OF = "voice"
+const PART_OF = voiceInfer.namespace
 const MANAGED_BY = "bootstrap"
 
 const NODE = "node-02"
@@ -16,8 +17,8 @@ const NODE = "node-02"
 const S3_CREDS_NAME = "voice-infer-s3-creds"
 const S3_CREDS_KEYS = ["access_key", "secret_key"]
 
-const SERVICE_NAME = "voice-infer"
-const PORT = 8080
+const SERVICE_NAME = voiceInfer.resourceName
+const PORT = voiceInfer.containerPort
 
 const RESOURCE_LABELS = {
   app: APP_NAME,
@@ -41,12 +42,12 @@ function deploymentYaml(): string {
     apiVersion: "apps/v1",
     kind: "Deployment",
     metadata: {
-      name: "voice-infer",
+      name: voiceInfer.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: voiceInfer.replicas,
       strategy: { type: "Recreate" },
       selector: { matchLabels: SELECTOR_LABELS },
       template: {
