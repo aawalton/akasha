@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedWieldSoulHealing = {
   id: "019e6471-15f8-761d-8644-82b002f8cb86",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-wield-soul-healing",
   title: "Healing Soul",
   key: "scribed-wield-soul-healing",

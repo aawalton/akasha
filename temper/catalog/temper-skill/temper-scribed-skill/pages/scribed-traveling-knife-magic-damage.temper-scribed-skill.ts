@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTravelingKnifeMagicDamage = {
   id: "019e6471-15de-774d-9e18-6de0b4540e13",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-traveling-knife-magic-damage",
   title: "Magic Knife",
   key: "scribed-traveling-knife-magic-damage",

@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedUlfsildsContingencyKnockback = {
   id: "019e6471-15e9-7e6a-906e-d1ca3aa09f67",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-ulfsilds-contingency-knockback",
   title: "Repelling Contingency",
   key: "scribed-ulfsilds-contingency-knockback",

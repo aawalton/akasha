@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedUlfsildsContingencyMagicDamage = {
   id: "019e6471-15ea-7cd5-8416-881cddc7705b",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-ulfsilds-contingency-magic-damage",
   title: "Magical Contingency",
   key: "scribed-ulfsilds-contingency-magic-damage",

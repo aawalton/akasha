@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedSoulBurstPull = {
   id: "019e6471-15cb-7739-bb78-95e8311f0e04",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-soul-burst-pull",
   title: "Leashing Burst",
   key: "scribed-soul-burst-pull",

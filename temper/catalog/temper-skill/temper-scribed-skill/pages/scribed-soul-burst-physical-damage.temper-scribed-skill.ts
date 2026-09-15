@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedSoulBurstPhysicalDamage = {
   id: "019e6471-15ca-77cf-8414-54c4f1ecbd9a",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-soul-burst-physical-damage",
   title: "Sundering Burst",
   key: "scribed-soul-burst-physical-damage",

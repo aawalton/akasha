@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedBannerBearerMagicDamage = {
   id: "019e6471-1597-7bbe-bd05-657fd2905a91",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-banner-bearer-magic-damage",
   title: "Magical Banner",
   key: "scribed-banner-bearer-magic-damage",

@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedVaultFlameDamage = {
   id: "019e6471-15ee-7a37-b038-957bc4b4bb8b",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-vault-flame-damage",
   title: "Fiery Vault",
   key: "scribed-vault-flame-damage",

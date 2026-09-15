@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedElementalExplosionDispel = {
   id: "019e6471-15a2-73dc-b5c8-edd4e0508113",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-elemental-explosion-dispel",
   title: "Dispelling Explosion",
   key: "scribed-elemental-explosion-dispel",

@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTrampleStun = {
   id: "019e6471-15da-7b44-8ea3-aa025185089e",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-trample-stun",
   title: "Dazing Trample",
   key: "scribed-trample-stun",

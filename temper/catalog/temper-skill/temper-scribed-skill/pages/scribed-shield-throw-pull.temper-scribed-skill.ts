@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedShieldThrowPull = {
   id: "019e6471-15b9-7250-bfc8-4eba81eef89d",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-shield-throw-pull",
   title: "Leashing Throw",
   key: "scribed-shield-throw-pull",

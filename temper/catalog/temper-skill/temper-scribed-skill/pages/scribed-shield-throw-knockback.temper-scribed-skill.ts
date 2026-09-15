@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedShieldThrowKnockback = {
   id: "019e6471-15b5-77bb-b55e-7dc36b952f33",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-shield-throw-knockback",
   title: "Repelling Throw",
   key: "scribed-shield-throw-knockback",

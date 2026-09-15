@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTorchbearerHealing = {
   id: "019e6471-15d1-7354-9eac-080b61ce74b7",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-torchbearer-healing",
   title: "Healing Torch",
   key: "scribed-torchbearer-healing",

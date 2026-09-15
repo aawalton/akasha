@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTrampleMagicDamage = {
   id: "019e6471-15d8-7c0e-902b-942f9adc9ad6",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-trample-magic-damage",
   title: "Magical Trample",
   key: "scribed-trample-magic-damage",

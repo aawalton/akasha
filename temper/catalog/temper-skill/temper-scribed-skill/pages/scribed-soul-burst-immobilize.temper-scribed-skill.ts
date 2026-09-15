@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedSoulBurstImmobilize = {
   id: "019e6471-15c8-79f2-b18b-83fab0cc8bfa",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-soul-burst-immobilize",
   title: "Binding Burst",
   key: "scribed-soul-burst-immobilize",

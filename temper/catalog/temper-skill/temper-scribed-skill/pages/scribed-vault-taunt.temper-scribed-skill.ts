@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedVaultTaunt = {
   id: "019e6471-15f2-7ff2-bfbd-1577e214d57f",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-vault-taunt",
   title: "Goading Vault",
   key: "scribed-vault-taunt",

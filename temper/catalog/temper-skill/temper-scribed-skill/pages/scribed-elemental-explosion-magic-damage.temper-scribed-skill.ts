@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedElementalExplosionMagicDamage = {
   id: "019e6471-15a7-7ecc-81c0-e8f719a44989",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-elemental-explosion-magic-damage",
   title: "Magical Explosion",
   key: "scribed-elemental-explosion-magic-damage",

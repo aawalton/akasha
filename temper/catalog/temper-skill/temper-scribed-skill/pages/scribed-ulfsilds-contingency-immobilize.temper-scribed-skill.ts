@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedUlfsildsContingencyImmobilize = {
   id: "019e6471-15e8-7ffd-b9dc-cb84443835ba",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-ulfsilds-contingency-immobilize",
   title: "Binding Contingency",
   key: "scribed-ulfsilds-contingency-immobilize",

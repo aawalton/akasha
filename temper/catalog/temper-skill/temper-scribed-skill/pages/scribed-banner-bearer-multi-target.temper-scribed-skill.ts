@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedBannerBearerMultiTarget = {
   id: "019e6471-159b-78eb-bd7b-bee179530341",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-banner-bearer-multi-target",
   title: "Shattering Banner",
   key: "scribed-banner-bearer-multi-target",

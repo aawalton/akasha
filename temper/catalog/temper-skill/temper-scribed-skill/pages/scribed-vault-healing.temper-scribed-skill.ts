@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedVaultHealing = {
   id: "019e6471-15ef-783e-8bc6-1a165a48e037",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-vault-healing",
   title: "Healing Vault",
   key: "scribed-vault-healing",

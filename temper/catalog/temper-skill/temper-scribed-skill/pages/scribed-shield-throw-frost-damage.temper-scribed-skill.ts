@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedShieldThrowFrostDamage = {
   id: "019e6471-15b3-78b3-8b93-79ca196a7080",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-shield-throw-frost-damage",
   title: "Chilling Throw",
   key: "scribed-shield-throw-frost-damage",

@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedSoulBurstDiseaseDamage = {
   id: "019e6471-15c4-7ec0-8e41-4206c141d937",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-soul-burst-disease-damage",
   title: "Pestilent Burst",
   key: "scribed-soul-burst-disease-damage",

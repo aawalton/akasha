@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedTravelingKnifePoisonDamage = {
   id: "019e6471-15e1-7592-997b-0d4aeb5252ad",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-traveling-knife-poison-damage",
   title: "Venomous Knife",
   key: "scribed-traveling-knife-poison-damage",

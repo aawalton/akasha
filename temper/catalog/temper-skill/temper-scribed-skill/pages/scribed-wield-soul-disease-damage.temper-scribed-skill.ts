@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedWieldSoulDiseaseDamage = {
   id: "019e6471-15f5-7c97-8c12-f6e1517d6186",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-wield-soul-disease-damage",
   title: "Pestilent Soul",
   key: "scribed-wield-soul-disease-damage",

@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedUlfsildsContingencyHealing = {
   id: "019e6471-15e8-7187-aec1-1eefbdceea36",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-ulfsilds-contingency-healing",
   title: "Healing Contingency",
   key: "scribed-ulfsilds-contingency-healing",

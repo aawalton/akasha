@@ -2,7 +2,7 @@ import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temp
 
 export const scribedSmashKnockback = {
   id: "019e6471-15bd-7b4c-9df9-0944efb9528d",
-  type: "temper-scribed-skill",
+  type: "page-type/temper-scribed-skill",
   slug: "scribed-smash-knockback",
   title: "Repelling Smash",
   key: "scribed-smash-knockback",
