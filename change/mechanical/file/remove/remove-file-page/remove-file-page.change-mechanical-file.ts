@@ -77,6 +77,14 @@ export const removeFilePage = {
       decisionKind: "decision-kind/departure",
       statement: "A parent naming the page bare rather than qualified is dropped just the same.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which files in the act import which is answered by the graph.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The order those files go in is worked out here rather than in the graph.",
+    },
   ],
   changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFile

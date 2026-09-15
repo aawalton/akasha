@@ -28,6 +28,7 @@ import {
   pageOf,
   scratch,
   textIn,
+  thePage,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
@@ -100,6 +101,35 @@ const CHILD = pageOf({
   definition: "a page its parent names in parts",
 })
 
+const graphId = (one: string): string => `01a04a4a-0003-7000-8000-00000000000${one}`
+
+const GRAPHED: Readonly<Record<string, string>> = Object.fromEntries(
+  [
+    aType(graphId("1"), "graph-attribute", ["page-type/page"]),
+    aType(graphId("2"), "graph-edge", ["page-type/page"], ["attributes"]),
+    aProperty(graphId("3"), "attributes", "relation-property", {
+      targetPageType: "graph-attribute",
+    }),
+    thePage({
+      id: graphId("4"),
+      pageTypeSlug: "graph-attribute",
+      slug: "known",
+      definition: "how an edge between two files was found",
+    }),
+    thePage({
+      id: graphId("5"),
+      pageTypeSlug: "graph-edge",
+      slug: "import-edge",
+      definition: "one file naming another in its own body",
+      attributes: ["graph-attribute/known"],
+    }),
+  ].map(([at, value]) => [`akasha/${at}`, bodyOf(value)])
+)
+
+function graphedRepo(named: Readonly<Record<string, string>> = {}): string {
+  return indexedRepo({ ...GRAPHED, ...named })
+}
+
 function worldIn(root: string, reaching: Reaching = running): World {
   return worldAt(root, textIn(root), reaching)
 }
@@ -115,7 +145,7 @@ function noting(slug: string, id: string, named: string): string {
 }
 
 function keptRepo(): string {
-  return indexedRepo({
+  return graphedRepo({
     ...SPARE,
     [`akasha/${NOTES[0]}`]: bodyOf(NOTES[1]),
     [KEPT_TYPE]: bodyOf({
@@ -165,7 +195,7 @@ const DECLARING: Readonly<Record<string, string>> = {
 }
 
 function familyRepo(named: Readonly<Record<string, string>>): string {
-  return indexedRepo({ ...DECLARING, [CHILD_PAGE]: CHILD, ...named })
+  return graphedRepo({ ...DECLARING, [CHILD_PAGE]: CHILD, ...named })
 }
 
 function bodiesOf(said: Answer, world: World): ReadonlyMap<string, string | null> {
@@ -177,7 +207,7 @@ function tookAway(path: string): Answer {
 }
 
 test("a page and the file beside that page are taken away together", async () => {
-  const root = indexedRepo(SPARE)
+  const root = graphedRepo(SPARE)
   const world = worldIn(root)
 
   const said = await runChange(world, { at: NAMER_PAGE })
@@ -190,7 +220,7 @@ test("a page and the file beside that page are taken away together", async () =>
 })
 
 test("a path beside a page is refused", async () => {
-  const root = indexedRepo()
+  const root = graphedRepo()
 
   const said = await runChange(worldIn(root), { at: HELD_CODE })
 
@@ -199,7 +229,7 @@ test("a path beside a page is refused", async () => {
 })
 
 test("a path the world names no page at is refused", async () => {
-  const root = indexedRepo()
+  const root = graphedRepo()
 
   const said = await runChange(worldIn(root), { at: MISSING })
 
@@ -208,7 +238,7 @@ test("a path the world names no page at is refused", async () => {
 })
 
 test("a page holding no body is refused by the removal of its own file", async () => {
-  const root = indexedRepo(SPARE)
+  const root = graphedRepo(SPARE)
   const was = textIn(root)
   const reading = (path: string): string | null => (path === NAMER_PAGE ? null : was(path))
 
@@ -228,7 +258,7 @@ test("a file beside the page git does not track is taken away too", async () => 
 })
 
 test("a page an earlier change in the same answer took away is no page here", async () => {
-  const root = indexedRepo(SPARE)
+  const root = graphedRepo(SPARE)
   const world = worldOver(worldIn(root), tookAway(NAMER_PAGE))
 
   const said = await runChange(world, { at: NAMER_PAGE })
@@ -296,7 +326,7 @@ test("a page two parents name loses its entry in both", async () => {
 import { ledgerAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 test("a page taken away over a ledger is answered rather than answered twice", async () => {
-  const root = indexedRepo()
+  const root = graphedRepo()
 
   const said = await runChange(ledgerAt(root, textIn(root), running), { at: NAMER_PAGE })
 
@@ -323,7 +353,7 @@ test("a page a relation outside parts names loses no entry in that relation", as
 })
 
 test("a file importing a second file going in the same act goes before that file", () => {
-  const root = indexedRepo(PAIR)
+  const root = graphedRepo(PAIR)
 
   const order = importersFirst(worldIn(root), [PAIR_PAGE, PAIR_CODE, PAIR_TEST])
 
@@ -331,7 +361,7 @@ test("a file importing a second file going in the same act goes before that file
 })
 
 test("a file importing a file outside the act keeps the order the act was given in", () => {
-  const root = indexedRepo(SPARE)
+  const root = graphedRepo(SPARE)
 
   const order = importersFirst(worldIn(root), [HELD_PAGE, HELD_CODE])
 
@@ -339,7 +369,7 @@ test("a file importing a file outside the act keeps the order the act was given 
 })
 
 test("a page whose test imports the code beside that page is taken away whole", async () => {
-  const root = indexedRepo(PAIR)
+  const root = graphedRepo(PAIR)
 
   const said = await runChange(worldIn(root), { at: PAIR_PAGE })
 

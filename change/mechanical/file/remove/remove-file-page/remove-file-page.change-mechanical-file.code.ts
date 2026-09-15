@@ -14,6 +14,8 @@ import {
   type World,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { valueRemoved } from "akasha/change/modules/value-removing/value-removing.module.code.ts"
+import { takenIn } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { importers } from "akasha/graph/predicate/pages/importers.graph-predicate.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Named } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 
@@ -39,14 +41,19 @@ function addressFor(at: string): typeof REMOVE_FILE_CODE | typeof REMOVE_FILE {
 
 export function importersFirst(world: World, many: readonly string[]): readonly string[] {
   const held = new Set(many)
+  const taken = takenIn(importers, many, { index: world.index, through: (one) => held.has(one) })
+  const importing = new Map<string, string[]>()
+  for (const edge of taken.edges) {
+    const found = importing.get(edge.to)
+    if (found === undefined) importing.set(edge.to, [edge.from])
+    else found.push(edge.from)
+  }
   const seen = new Set<string>()
   const order: string[] = []
   function put(one: string): undefined {
     if (seen.has(one)) return undefined
     seen.add(one)
-    for (const importer of world.index.importersOf(one)) {
-      if (held.has(importer)) put(importer)
-    }
+    for (const importer of importing.get(one) ?? []) put(importer)
     order.push(one)
     return undefined
   }
