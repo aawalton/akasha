@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const charactersPath = {
   id: "01a094b5-2848-74a3-8049-e0e3f4b0739e",
-  type: "argument",
+  type: "page-type/argument",
   slug: "characters-path",
   said: "--characters-path",
   takes: "the saved-variables file the characters are read from",

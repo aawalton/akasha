@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const full = {
   id: "01a09510-464d-7116-ad57-b21b89ff2e25",
-  type: "argument",
+  type: "page-type/argument",
   slug: "full",
   said: "--full",
   takes: "the whole body, whatever your record holds",

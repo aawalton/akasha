@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const item = {
   id: "01a094c6-e184-7846-a75c-e39a7efec743",
-  type: "argument",
+  type: "page-type/argument",
   slug: "item",
   said: "--item",
   takes: "the item acted on, as a bare item id or as a game item link",

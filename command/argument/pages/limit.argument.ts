@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const limit = {
   id: "01a094bf-1b90-7e50-b635-aa265f90bc41",
-  type: "argument",
+  type: "page-type/argument",
   slug: "limit",
   said: "--limit",
   takes: "the most rows the answer carries",

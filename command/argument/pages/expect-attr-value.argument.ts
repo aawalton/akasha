@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const expectAttrValue = {
   id: "01a094ce-8f23-7e07-8229-c90e189c6db8",
-  type: "argument",
+  type: "page-type/argument",
   slug: "expect-attr-value",
   said: "--expect-attr-value",
   takes: "the value that attribute is to carry",

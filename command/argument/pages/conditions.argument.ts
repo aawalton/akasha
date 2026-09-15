@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const conditions = {
   id: "01a094bd-4eee-7bbb-9bbe-14b4245a9c56",
-  type: "argument",
+  type: "page-type/argument",
   slug: "conditions",
   said: "--conditions",
   takes: "the conditions narrowing which items the rule reaches",

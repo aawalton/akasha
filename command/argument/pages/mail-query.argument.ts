@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const mailQuery = {
   id: "01a094e6-0fe8-7557-972f-ff9be8c04582",
-  type: "argument",
+  type: "page-type/argument",
   slug: "mail-query",
   said: "--query",
   takes: "Gmail search syntax a listing is matched against",

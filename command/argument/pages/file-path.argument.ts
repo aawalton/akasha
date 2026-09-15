@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const filePath = {
   id: "01a094ba-2be7-705c-a07a-55efaeb8526f",
-  type: "argument",
+  type: "page-type/argument",
   slug: "file-path",
   said: "--file-path",
   takes: "a file in the repository, said from the repository root",

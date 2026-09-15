@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const lyricsFile = {
   id: "01a094db-3307-73ad-878c-29095f289a48",
-  type: "argument",
+  type: "page-type/argument",
   slug: "lyrics-file",
   said: "--lyrics-file",
   takes: "the file the lyrics are read from, or `-` for standard input",

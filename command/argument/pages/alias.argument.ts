@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const alias = {
   id: "01a094ea-a8cc-7bbc-8b51-ed58a8767599",
-  type: "argument",
+  type: "page-type/argument",
   slug: "alias",
   said: "--alias",
   takes: "the alias slot to take, where the next free one is not wanted",

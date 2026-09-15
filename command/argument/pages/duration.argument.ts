@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const duration = {
   id: "01a094d6-8a65-704e-82db-62361fbb0956",
-  type: "argument",
+  type: "page-type/argument",
   slug: "duration",
   said: "--duration",
   takes: "how many seconds the song runs for",

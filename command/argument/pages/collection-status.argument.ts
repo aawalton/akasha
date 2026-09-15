@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const collectionStatus = {
   id: "01a09b87-8def-7251-abce-feb38b078d1e",
-  type: "argument",
+  type: "page-type/argument",
   slug: "collection-status",
   said: "--status",
   takes: "the one status to list, of the seven a collection states",

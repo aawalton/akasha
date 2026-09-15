@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const id = {
   id: "01a094de-daf7-793c-af98-8cd44a8bdb67",
-  type: "argument",
+  type: "page-type/argument",
   slug: "id",
   said: "--id",
   takes: "the stretch to act on, named by the id that stretch carries",

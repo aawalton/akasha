@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const cutoutOut = {
   id: "01a0950d-0dd6-7376-b203-a05ae692dbfb",
-  type: "argument",
+  type: "page-type/argument",
   slug: "cutout-out",
   said: "--cutout-out",
   takes: "where that cutout is written",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const newFrames = {
   id: "01a094d3-31f6-785c-8671-012f796cfb7d",
-  type: "argument",
+  type: "page-type/argument",
   slug: "new-frames",
   said: "--new-frames",
   takes: "how many frames this asks to generate",

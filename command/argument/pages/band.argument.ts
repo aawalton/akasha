@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const band = {
   id: "01a0a03c-1bef-7e09-8ae3-6cfacd67a153",
-  type: "argument",
+  type: "page-type/argument",
   slug: "band",
   said: "--band",
   takes: "the rating band the model plays at",

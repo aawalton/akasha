@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const date = {
   id: "01a094e1-a438-76ce-9640-19750d323a1b",
-  type: "argument",
+  type: "page-type/argument",
   slug: "date",
   said: "--date",
   takes: "the Mountain calendar date the act is filed under",

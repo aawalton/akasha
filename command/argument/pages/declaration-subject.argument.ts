@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const declarationSubject = {
   id: "01a094f4-66b6-79a6-9bd8-613b62a8c8ad",
-  type: "argument",
+  type: "page-type/argument",
   slug: "declaration-subject",
   said: "--subject",
   takes: "`domains` or `personas` alone, where both would be said",

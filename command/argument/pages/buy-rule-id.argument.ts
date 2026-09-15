@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const buyRuleId = {
   id: "01a094c4-6b93-75d0-82e2-450d321ef6b5",
-  type: "argument",
+  type: "page-type/argument",
   slug: "buy-rule-id",
   said: "--buy-rule-id",
   takes: "the id of the buy rule acted on",

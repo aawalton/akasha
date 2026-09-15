@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const floor = {
   id: "01a094d2-3b5b-7134-84ce-000850a60cee",
-  type: "argument",
+  type: "page-type/argument",
   slug: "floor",
   said: "--floor",
   takes: "the cosine at or above which a frame is the same identity",

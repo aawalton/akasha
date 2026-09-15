@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const device = {
   id: "01a09501-6289-7ad7-be99-4fc8d528a64f",
-  type: "argument",
+  type: "page-type/argument",
   slug: "device",
   said: "--device",
   takes: "install an ios app on the phone its page names rather than hand it to Apple",

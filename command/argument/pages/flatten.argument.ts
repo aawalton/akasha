@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const flatten = {
   id: "01a0950d-72cd-786c-aa36-e64cebf562c9",
-  type: "argument",
+  type: "page-type/argument",
   slug: "flatten",
   said: "--flatten",
   takes:

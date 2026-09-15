@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const cursor = {
   id: "01a094ec-a64a-74ff-9210-971931060f39",
-  type: "argument",
+  type: "page-type/argument",
   slug: "cursor",
   said: "--cursor",
   takes: "the cursor a previous answer stated, reaching the page before it",

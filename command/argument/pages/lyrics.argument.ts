@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const lyrics = {
   id: "01a094e9-e965-7336-a0b7-66b6196bc533",
-  type: "argument",
+  type: "page-type/argument",
   slug: "lyrics",
   said: "--lyrics",
   takes: "the words the song sings",

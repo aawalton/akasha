@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const model = {
   id: "01a094d8-9719-7122-b2ac-75ba01434278",
-  type: "argument",
+  type: "page-type/argument",
   slug: "model",
   said: "--model",
   takes: "the registered checkpoint the render goes through",

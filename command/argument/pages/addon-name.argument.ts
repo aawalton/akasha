@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const addonName = {
   id: "01a094c8-7fcd-791f-91d7-b42fd00d4f12",
-  type: "argument",
+  type: "page-type/argument",
   slug: "addon-name",
   said: "--addon-name",
   takes: "the name resolved: a canonical name, a flat directory leaf or a nested parent domain",

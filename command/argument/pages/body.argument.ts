@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const body = {
   id: "01a094ee-f2bf-762f-b826-3f394c8693fe",
-  type: "argument",
+  type: "page-type/argument",
   slug: "body",
   said: "--body",
   takes: "the plain-text body",

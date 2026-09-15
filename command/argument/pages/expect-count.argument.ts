@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const expectCount = {
   id: "01a094ce-542c-783c-b1f8-7cc98a0368a6",
-  type: "argument",
+  type: "page-type/argument",
   slug: "expect-count",
   said: "--expect-count",
   takes: "how many of those elements are to be there",

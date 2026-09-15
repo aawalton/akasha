@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const label = {
   id: "01a094e6-ba1e-70a9-93b8-8515d2f3e833",
-  type: "argument",
+  type: "page-type/argument",
   slug: "label",
   said: "--label",
   takes: "a label id a listing is held to, said again for each",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const measured = {
   id: "01a09500-ea1b-7533-8a00-621e47a42ae5",
-  type: "argument",
+  type: "page-type/argument",
   slug: "measured",
   said: "--measured",
   takes: "run the whole deploy under no ceiling, so what it cost is recorded",

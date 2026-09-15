@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const goal = {
   id: "01a094b2-f3fb-7053-addd-f1ad476584d3",
-  type: "argument",
+  type: "page-type/argument",
   slug: "goal",
   said: "--goal",
   takes: "a goal label the web shows",

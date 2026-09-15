@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const last = {
   id: "01a094e0-b146-735c-bd24-e7384eddc88a",
-  type: "argument",
+  type: "page-type/argument",
   slug: "last",
   said: "--last",
   takes: "the stretch to act on, which is the one that ended last",

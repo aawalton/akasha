@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const noSignIn = {
   id: "01a094cc-04da-77c3-b0e9-58945ba5e825",
-  type: "argument",
+  type: "page-type/argument",
   slug: "no-sign-in",
   said: "--no-sign-in",
   takes: "look as nobody rather than signing in",

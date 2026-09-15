@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const all = {
   id: "01a094d0-0938-7b98-b99d-f76ddddf45fa",
-  type: "argument",
+  type: "page-type/argument",
   slug: "all",
   said: "--all",
   takes: "collect every catalog domain again",

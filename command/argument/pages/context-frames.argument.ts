@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const contextFrames = {
   id: "01a094d3-1e6e-782a-8ae6-64649068a476",
-  type: "argument",
+  type: "page-type/argument",
   slug: "context-frames",
   said: "--context-frames",
   takes: "how many of the clip's own frames the window holds",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const commitMessage = {
   id: "01a094e4-0037-7a96-9c88-5894ceea3151",
-  type: "argument",
+  type: "page-type/argument",
   slug: "commit-message",
   said: "--message",
   takes: "what the commit is for",

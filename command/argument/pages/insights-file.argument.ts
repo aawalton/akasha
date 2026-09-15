@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const insightsFile = {
   id: "01a094e5-cf0d-7679-bfe0-da2e4cbf8138",
-  type: "argument",
+  type: "page-type/argument",
   slug: "insights-file",
   said: "--insights-file",
   takes: "the file the insights are read from",

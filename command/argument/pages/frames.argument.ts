@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const frames = {
   id: "01a09484-3090-7ef6-a37d-c62677bf87df",
-  type: "argument",
+  type: "page-type/argument",
   slug: "frames",
   said: "--frames",
   takes: "how many frames are sampled out of the ones there are",

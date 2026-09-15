@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const everySeat = {
   id: "01a094ec-8243-7efa-a544-75790179ec02",
-  type: "argument",
+  type: "page-type/argument",
   slug: "every-seat",
   said: "--all",
   takes: "every seat akasha carries, which is the only reach a restart has",

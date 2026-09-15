@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const esoRoot = {
   id: "01a094a4-3859-7270-ba32-fb61b1be955b",
-  type: "argument",
+  type: "page-type/argument",
   slug: "eso-root",
   said: "--eso-root",
   takes: "the game's Lua source root, the `~/esoui` clone where none is said",

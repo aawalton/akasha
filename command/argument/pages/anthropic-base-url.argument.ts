@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const anthropicBaseUrl = {
   id: "01a094eb-87ae-71d8-aced-8478581cc755",
-  type: "argument",
+  type: "page-type/argument",
   slug: "anthropic-base-url",
   said: "--anthropic-base-url",
   takes: "the base address the seat launched here calls",

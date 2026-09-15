@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const album = {
   id: "01a094dc-d46d-7fbd-99ac-6d3404361ed8",
-  type: "argument",
+  type: "page-type/argument",
   slug: "album",
   said: "--url",
   takes: "the album to fetch, said as its share URL",

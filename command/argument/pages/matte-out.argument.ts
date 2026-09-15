@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const matteOut = {
   id: "01a0950c-49c2-70ae-87c9-53b1d7e6c4bf",
-  type: "argument",
+  type: "page-type/argument",
   slug: "matte-out",
   said: "--matte-out",
   takes: "where the eight-bit alpha matte is written",

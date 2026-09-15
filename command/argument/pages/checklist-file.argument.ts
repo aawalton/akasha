@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const checklistFile = {
   id: "01a09484-1d01-7e32-aadb-035586cab4b5",
-  type: "argument",
+  type: "page-type/argument",
   slug: "checklist-file",
   said: "--checklist-file",
   takes: "the file that question is read from, or `-` for standard input",

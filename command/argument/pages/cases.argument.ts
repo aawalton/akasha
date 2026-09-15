@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const cases = {
   id: "01a094f9-636e-78a1-bd7d-2529e54b309b",
-  type: "argument",
+  type: "page-type/argument",
   slug: "cases",
   said: "--cases",
   takes: "the model test whose cases are used, its own by default",

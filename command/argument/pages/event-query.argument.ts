@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const eventQuery = {
   id: "01a094eb-ca07-79de-985e-ff18335b13fe",
-  type: "argument",
+  type: "page-type/argument",
   slug: "event-query",
   said: "--query",
   takes: "the text an event is kept for",

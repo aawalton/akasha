@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const aspectRatio = {
   id: "01a094d5-487f-7a1d-b975-584389997505",
-  type: "argument",
+  type: "page-type/argument",
   slug: "aspect-ratio",
   said: "--aspect-ratio",
   takes: "the shape the output is fixed to",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const fromFile = {
   id: "01a094e5-211d-7a7d-9282-aa4fff006a29",
-  type: "argument",
+  type: "page-type/argument",
   slug: "from-file",
   said: "--from-file",
   takes: "the file the day's lines are read from, or `-` for standard input",

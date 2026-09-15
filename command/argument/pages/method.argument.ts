@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const method = {
   id: "01a094e9-b4a6-7047-9b86-692ec0ad1a56",
-  type: "argument",
+  type: "page-type/argument",
   slug: "method",
   said: "--method",
   takes: "how the host hands over, `auto` where none is said",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const image = {
   id: "01a094b9-fec8-7912-a390-96fba7a519bf",
-  type: "argument",
+  type: "page-type/argument",
   slug: "image",
   said: "--image",
   takes: "the image read in",

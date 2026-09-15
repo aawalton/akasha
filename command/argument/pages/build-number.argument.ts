@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const buildNumber = {
   id: "01a094c8-458c-7c0e-9216-cc6f49cce14d",
-  type: "argument",
+  type: "page-type/argument",
   slug: "build-number",
   said: "--build-number",
   takes: "the number App Store Connect gave the build",

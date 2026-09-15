@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const guidance = {
   id: "01a094bb-0c19-7d2f-b552-103f75fe616f",
-  type: "argument",
+  type: "page-type/argument",
   slug: "guidance",
   said: "--guidance",
   takes: "how far the sampler is pushed toward the prompt",

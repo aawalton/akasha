@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const counts = {
   id: "01a094ee-70c6-7543-af9d-9ef4d365ab15",
-  type: "argument",
+  type: "page-type/argument",
   slug: "counts",
   said: "--counts",
   takes: "how many initiatives and how many intents the tree holds",

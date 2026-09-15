@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const mend = {
   id: "01a094e3-7a6a-78aa-a07c-710c5a8099dc",
-  type: "argument",
+  type: "page-type/argument",
   slug: "mend",
   said: "--mend",
   takes: "close the gap a dropped stretch leaves behind",

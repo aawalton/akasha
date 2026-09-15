@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const loraScales = {
   id: "01a094d9-0583-716c-bf9e-dac70819139c",
-  type: "argument",
+  type: "page-type/argument",
   slug: "lora-scales",
   said: "--lora-scales",
   takes: "how strongly that checkpoint is mixed in",

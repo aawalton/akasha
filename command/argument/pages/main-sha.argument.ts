@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const mainSha = {
   id: "01a094c8-7882-7be9-b0d2-7169c5ecae92",
-  type: "argument",
+  type: "page-type/argument",
   slug: "main-sha",
   said: "--main-sha",
   takes: "the code-repo commit the cut was taken at",

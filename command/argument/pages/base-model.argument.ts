@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const baseModel = {
   id: "01a094d8-ac3c-7f10-bb7a-d9864db32fe1",
-  type: "argument",
+  type: "page-type/argument",
   slug: "base-model",
   said: "--base-model",
   takes: "the selector mflux takes here, which is passed over",

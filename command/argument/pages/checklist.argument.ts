@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const checklist = {
   id: "01a09484-092d-7a5b-8474-9cc27b72b3c9",
-  type: "argument",
+  type: "page-type/argument",
   slug: "checklist",
   said: "--checklist",
   takes: "what the model is asked to look for",

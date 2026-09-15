@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const attendees = {
   id: "01a094d8-04a3-761e-a6a8-e3f059a7be9b",
-  type: "argument",
+  type: "page-type/argument",
   slug: "attendees",
   said: "--attendees",
   takes: "who attends, parted by commas",

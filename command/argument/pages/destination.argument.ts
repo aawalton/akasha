@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const destination = {
   id: "01a094b6-e847-7975-a992-89143e28f753",
-  type: "argument",
+  type: "page-type/argument",
   slug: "destination",
   said: "--destination",
   takes: "where the item goes, for the actions that move it",

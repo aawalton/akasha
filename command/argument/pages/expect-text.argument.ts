@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const expectText = {
   id: "01a094ce-1b31-7d4c-a70a-abf794452c46",
-  type: "argument",
+  type: "page-type/argument",
   slug: "expect-text",
   said: "--expect-text",
   takes: "text the rendered body is to hold",

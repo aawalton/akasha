@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const keep = {
   id: "01a094fe-7e7c-7804-aee7-fde3c29293d6",
-  type: "argument",
+  type: "page-type/argument",
   slug: "keep",
   said: "--keep",
   takes: "leave the gateway running and say the process id to stop it by",

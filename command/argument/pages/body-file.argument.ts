@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const bodyFile = {
   id: "01a094e3-5fae-7680-82b6-55f4d63533b2",
-  type: "argument",
+  type: "page-type/argument",
   slug: "body-file",
   said: "--body-file",
   takes: "the file the body is read from, or `-` for standard input",

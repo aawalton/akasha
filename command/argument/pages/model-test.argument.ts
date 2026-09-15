@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const modelTest = {
   id: "01a094f8-d52b-7549-a196-fde55248c83d",
-  type: "argument",
+  type: "page-type/argument",
   slug: "model-test",
   said: "--test",
   takes: "the model test whose prompt is put to the model",

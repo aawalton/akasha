@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const account = {
   id: "01a094e9-14d6-78a3-a639-4fec8033b086",
-  type: "argument",
+  type: "page-type/argument",
   slug: "account",
   said: "--account",
   takes: "the name a model account is reached by",

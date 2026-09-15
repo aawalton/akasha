@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const bodyweight = {
   id: "01a094e5-8f0c-7209-a286-e38af1d0e4e9",
-  type: "argument",
+  type: "page-type/argument",
   slug: "bodyweight",
   said: "--bodyweight",
   takes: "what Alan's body weighed, in pounds",

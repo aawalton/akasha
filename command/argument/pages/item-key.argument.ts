@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const itemKey = {
   id: "01a094d3-8654-7323-bc0b-39470daf4ff6",
-  type: "argument",
+  type: "page-type/argument",
   slug: "item-key",
   said: "--item-key",
   takes: "ask instead whether each character knows one recipe, motif or script",

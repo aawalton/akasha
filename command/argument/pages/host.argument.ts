@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const host = {
   id: "01a094d0-8287-7d0d-be5c-e374fa79fa5e",
-  type: "argument",
+  type: "page-type/argument",
   slug: "host",
   said: "--host",
   takes: "which GPU the work runs on",

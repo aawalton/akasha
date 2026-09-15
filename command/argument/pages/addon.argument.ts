@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const addon = {
   id: "01a094a5-1fd8-797a-b9ad-46cfe9ce8357",
-  type: "argument",
+  type: "page-type/argument",
   slug: "addon",
   said: "--addon",
   takes: "the addon acted on, as the roster names it",

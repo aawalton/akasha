@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const gatewayPort = {
   id: "01a094fd-2959-7908-b243-c680fc00dc1a",
-  type: "argument",
+  type: "page-type/argument",
   slug: "gateway-port",
   said: "--port",
   takes: "the port to ask for, 0 for any free one",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const errorsPath = {
   id: "01a094d0-c7f9-7d85-aa2f-80cb2cd54852",
-  type: "argument",
+  type: "page-type/argument",
   slug: "errors-path",
   said: "--errors-path",
   takes: "the saved-variables file the errors are read from",

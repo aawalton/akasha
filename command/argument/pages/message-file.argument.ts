@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const messageFile = {
   id: "01a094e4-c803-7da2-8da8-4b63ff944755",
-  type: "argument",
+  type: "page-type/argument",
   slug: "message-file",
   said: "--message-file",
   takes: "the file the commit message is read from",

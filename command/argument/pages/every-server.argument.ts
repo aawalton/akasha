@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const everyServer = {
   id: "01a094ee-d568-7826-b487-afe7f1c064ba",
-  type: "argument",
+  type: "page-type/argument",
   slug: "every-server",
   said: "--all",
   takes: "every server a state file tracks, in place of naming one",

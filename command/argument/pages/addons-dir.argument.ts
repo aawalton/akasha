@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const addonsDir = {
   id: "01a094a2-dcee-75d8-8610-2fb1b35cc8d9",
-  type: "argument",
+  type: "page-type/argument",
   slug: "addons-dir",
   said: "--addons-dir",
   takes: "the game's addon directory read and written",

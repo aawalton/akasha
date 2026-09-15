@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const noUpload = {
   id: "01a094ff-fd4f-7303-83f9-cbdfc9bf71b8",
-  type: "argument",
+  type: "page-type/argument",
   slug: "no-upload",
   said: "--no-upload",
   takes: "build and validate an ios app without uploading it",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const macbookFile = {
   id: "01a094e3-2570-7c3a-a100-1fe8d00a2405",
-  type: "argument",
+  type: "page-type/argument",
   slug: "macbook-file",
   said: "--file-path",
   takes: "the macbook path to an export zip or to an unpacked export.xml",

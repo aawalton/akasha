@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const endImage = {
   id: "01a094d4-49e3-7131-b7cb-4a70711ed333",
-  type: "argument",
+  type: "page-type/argument",
   slug: "end-image",
   said: "--end-image",
   takes: "the last frame the clip is conditioned on",

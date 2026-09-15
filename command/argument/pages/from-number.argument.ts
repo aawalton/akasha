@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const fromNumber = {
   id: "01a094ec-efaf-7edc-a626-5120e802c93b",
-  type: "argument",
+  type: "page-type/argument",
   slug: "from-number",
   said: "--from",
   takes: "the number to send from, written in E.164",

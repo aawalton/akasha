@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const kbDebug = {
   id: "01a094c6-be38-7ad6-9dde-84bef5e94c8a",
-  type: "argument",
+  type: "page-type/argument",
   slug: "kb-debug",
   said: "--kb-debug",
   takes: "mount the keyboard-geometry readout over the block editor",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const height = {
   id: "01a094d8-daac-7370-b174-0e5cd87649e2",
-  type: "argument",
+  type: "page-type/argument",
   slug: "height",
   said: "--height",
   takes: "how tall the image is rendered",

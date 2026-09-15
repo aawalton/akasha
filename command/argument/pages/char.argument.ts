@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const char = {
   id: "01a094b7-ce0d-768c-87c5-139d751a51b0",
-  type: "argument",
+  type: "page-type/argument",
   slug: "char",
   said: "--char",
   takes: "the character the answer is scoped to, as the capture names that character",

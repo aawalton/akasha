@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const fleet = {
   id: "01a094fb-03cf-727d-92ca-7d151cd9f49c",
-  type: "argument",
+  type: "page-type/argument",
   slug: "fleet",
   said: "--fleet",
   takes: "every live seat in turn rather than one named",

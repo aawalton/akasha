@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const messageQuery = {
   id: "01a094e4-ed10-7e2d-a4ea-25d7563eaa55",
-  type: "argument",
+  type: "page-type/argument",
   slug: "message-query",
   said: "--query",
   takes: "the run of characters a message's text must hold",

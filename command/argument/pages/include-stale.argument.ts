@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const includeStale = {
   id: "01a094d1-276e-7042-a449-305d9d78dd4b",
-  type: "argument",
+  type: "page-type/argument",
   slug: "include-stale",
   said: "--include-stale",
   takes: "show the entries left behind by an older session too",

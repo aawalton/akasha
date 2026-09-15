@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const force = {
   id: "01a094a7-cd7d-7f4e-a42f-d49cc0c00c5b",
-  type: "argument",
+  type: "page-type/argument",
   slug: "force",
   said: "--force",
   takes: "go on past what would otherwise hold the act back",

@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const event = {
   id: "01a094bc-189e-7f6e-b003-a99753dcfbbc",
-  type: "argument",
+  type: "page-type/argument",
   slug: "event",
   said: "--event",
   takes: "the event acted on, said as the id its calendar gives it",

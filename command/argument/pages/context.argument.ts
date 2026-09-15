@@ -2,7 +2,7 @@ import type { Argument } from "akasha/command/argument/argument.page-type.types.
 
 export const context = {
   id: "01a094d2-f6ce-70e8-9457-4e23ee45dc87",
-  type: "argument",
+  type: "page-type/argument",
   slug: "context",
   said: "--context",
   takes: "the clip the conditioning window is taken from",
