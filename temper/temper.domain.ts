@@ -15,7 +15,7 @@ export const temper = {
     "domain/temper-alchemy",
     "domain/temper-bit-codec",
     "domain/temper-build-codec",
-    "domain/temper-build-deploy-checks",
+    "domain/temper-build-deploy-check",
     "domain/temper-build-hash",
     "domain/temper-build-metadata",
     "domain/temper-build-support",

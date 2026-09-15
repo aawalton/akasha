@@ -406,8 +406,8 @@
 {"propertySlug":"invariant-kind","path":"temper/addon-build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
 {"propertySlug":"invariant-kind","path":"temper/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
 {"propertySlug":"invariant-kind","path":"temper/alchemy/modules/potions-crafted/potions-crafted.module.ts","id":"01a06076-1b6a-7cba-9441-c81e409dbcd4"}
-{"propertySlug":"invariant-kind","path":"temper/build-deploy-checks/modules/eso-sandbox-manifest/eso-sandbox-manifest.module.ts","id":"01a06365-e827-7000-b4e8-c281707e413b"}
-{"propertySlug":"invariant-kind","path":"temper/build-deploy-checks/temper-build-deploy-checks.domain.ts","id":"01a06287-7841-7e04-b566-2bb1b434877d"}
+{"propertySlug":"invariant-kind","path":"temper/build-deploy-check/modules/eso-sandbox-manifest/eso-sandbox-manifest.module.ts","id":"01a06365-e827-7000-b4e8-c281707e413b"}
+{"propertySlug":"invariant-kind","path":"temper/build-deploy-check/temper-build-deploy-check.domain.ts","id":"01a06287-7841-7e04-b566-2bb1b434877d"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-companions/temper-companion-trait/properties/metric-id.text-property.ts","id":"01a05fb0-3ced-7636-a899-431b497b3f1f"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-gear/temper-eso-trait-map/properties/trait-id.text-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-gear/temper-jewelry-slot/properties/jewelry-type-id.text-property.ts","id":"01a05fd1-d43c-7d49-81c6-a1c0aa409075"}

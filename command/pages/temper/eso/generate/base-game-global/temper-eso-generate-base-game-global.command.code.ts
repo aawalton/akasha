@@ -23,7 +23,7 @@ import {
 } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateBaseGameGlobal as page } from "akasha/command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/modules/eso-doc-api-version/eso-doc-api-version.module.code.ts"
+import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-check/modules/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import {
   extractGlobalNames,
   extractStringIdNames,

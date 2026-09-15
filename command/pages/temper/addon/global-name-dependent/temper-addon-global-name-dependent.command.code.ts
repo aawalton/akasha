@@ -21,7 +21,7 @@ import {
 import { addonManifestSchema } from "akasha/temper/addons-resolve/modules/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
-import { collectGlobalWritesFromSource } from "akasha/temper/build-deploy-checks/modules/addon-global-ownership/addon-global-ownership.module.code.ts"
+import { collectGlobalWritesFromSource } from "akasha/temper/build-deploy-check/modules/addon-global-ownership/addon-global-ownership.module.code.ts"
 
 const NAMED = [codeRootArgument, globalArgument, json]
 
