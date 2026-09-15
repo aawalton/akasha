@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const lualibCall = {
   id: "01a06758-8e91-7000-b783-451792225b27",
-  type: "module",
+  type: "page-type/module",
   slug: "lualib-call",
   definition: "the __TS__-prefixed call to a lualib feature",
   code: "ts",

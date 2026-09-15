@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const lualibRuntime = {
   id: "01a06758-8e5f-7000-91ee-714a2cfab1a4",
-  type: "module",
+  type: "page-type/module",
   slug: "lualib-runtime",
   definition: "lualib features resolved to the Lua code or require statements a file needs",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const luaPrinter = {
   id: "01a06758-8e5b-7000-abc1-dcc410a21334",
-  type: "module",
+  type: "page-type/module",
   slug: "lua-printer",
   definition: "a Lua file printed to code with its source map",
   code: "ts",

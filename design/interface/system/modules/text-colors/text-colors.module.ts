@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const textColors = {
   id: "01a05c95-5648-7220-8d6b-a832eeaaa689",
-  type: "module",
+  type: "page-type/module",
   slug: "text-colors",
   definition: "the panel showing the three text colors and their swatches",
   code: "tsx",

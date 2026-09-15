@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const triggerSafeNode = {
   id: "01a05be9-d4c6-7f46-863b-e52ebf95e729",
-  type: "module",
+  type: "page-type/module",
   slug: "trigger-safe-node",
   definition: "a node marked as safe to place inside a trigger",
   code: "ts",

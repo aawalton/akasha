@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const visitExport = {
   id: "01a06758-8ebf-7000-ab19-cf697fedc1ef",
-  type: "module",
+  type: "page-type/module",
   slug: "visit-export",
   definition: "the exports-table assignments an export declaration or assignment becomes",
   code: "ts",

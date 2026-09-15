@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const visitBlock = {
   id: "01a06758-8ea0-7000-908e-471816dba7f8",
-  type: "module",
+  type: "page-type/module",
   slug: "visit-block",
   definition: "the do statement a block becomes",
   code: "ts",

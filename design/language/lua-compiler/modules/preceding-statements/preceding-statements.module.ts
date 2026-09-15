@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const precedingStatements = {
   id: "01a06758-8e91-7002-8068-78c858cb2c17",
-  type: "module",
+  type: "page-type/module",
   slug: "preceding-statements",
   definition: "the statements a transformation emits ahead of its own result",
   code: "ts",

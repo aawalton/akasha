@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const builtinConsole = {
   id: "01a06758-8eca-7001-a45d-f12af3293438",
-  type: "module",
+  type: "page-type/module",
   slug: "builtin-console",
   definition: "the Lua a console method call becomes",
   code: "ts",

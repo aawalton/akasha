@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const tokenSwatch = {
   id: "01a05c95-5648-7ab7-b07d-a29624b55765",
-  type: "module",
+  type: "page-type/module",
   slug: "token-swatch",
   definition: "the block drawing one token's color beside the name it is read by",
   code: "tsx",

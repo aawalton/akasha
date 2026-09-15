@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const useNumberDraft = {
   id: "01a08e03-e1bc-73b8-a5dc-0d022694948e",
-  type: "module",
+  type: "page-type/module",
   slug: "use-number-draft",
   definition: "the text a number is edited as, and whether it is being edited",
   code: "ts",

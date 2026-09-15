@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const visitSourceFile = {
   id: "01a06758-8ec4-7000-9fc1-2260a6ef8b23",
-  type: "module",
+  type: "page-type/module",
   slug: "visit-source-file",
   definition: "the Lua file a source file becomes",
   code: "ts",

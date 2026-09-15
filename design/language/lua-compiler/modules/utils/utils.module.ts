@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const utils = {
   id: "01a06758-8e62-7000-865d-c82851535c01",
-  type: "module",
+  type: "page-type/module",
   slug: "utils",
   definition: "assorted small operations over arrays, paths, maps and diagnostics",
   code: "ts",

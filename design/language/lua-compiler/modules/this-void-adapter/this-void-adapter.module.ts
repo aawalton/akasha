@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const thisVoidAdapter = {
   id: "01a06758-8e95-7002-a49e-fc6db8a3b011",
-  type: "module",
+  type: "page-type/module",
   slug: "this-void-adapter",
   definition:
     "the wrapper function expression a 'this: void' function becomes in a self-ful position",

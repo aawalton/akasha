@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const contextVisitors = {
   id: "01a06758-8e71-7000-82af-3ef0932fe5e4",
-  type: "module",
+  type: "page-type/module",
   slug: "context-visitors",
   definition: "the visitor function and map types keyed by TypeScript syntax kind",
   code: "ts",

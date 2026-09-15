@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const visitSpread = {
   id: "01a06758-8ec4-7001-a87e-81a6e292f57d",
-  type: "module",
+  type: "page-type/module",
   slug: "visit-spread",
   definition: "the unpack, dots, or spread call a spread element becomes",
   code: "ts",

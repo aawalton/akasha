@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const builtinObject = {
   id: "01a06758-8ece-7001-9d37-f2a889d02b30",
-  type: "module",
+  type: "page-type/module",
   slug: "builtin-object",
   definition: "the Lua an Object built-in call becomes",
   code: "ts",

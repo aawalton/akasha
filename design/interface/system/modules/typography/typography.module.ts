@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const typography = {
   id: "01a05c95-5648-779c-8b29-475a006d75ff",
-  type: "module",
+  type: "page-type/module",
   slug: "typography",
   definition: "the panel showing the faces, sizes and weights type is set in",
   code: "tsx",

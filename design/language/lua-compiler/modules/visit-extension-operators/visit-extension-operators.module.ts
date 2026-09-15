@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const visitExtensionOperators = {
   id: "01a06758-8eb9-7001-b512-716af84e5fe4",
-  type: "module",
+  type: "page-type/module",
   slug: "visit-extension-operators",
   definition: "the native Lua operator an operator extension call becomes",
   code: "ts",

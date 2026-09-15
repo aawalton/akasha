@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const surfaceElevation = {
   id: "01a05c95-5648-71f3-9039-cfe7da9fa18b",
-  type: "module",
+  type: "page-type/module",
   slug: "surface-elevation",
   definition: "the panel showing the five surfaces and how they stack",
   code: "tsx",

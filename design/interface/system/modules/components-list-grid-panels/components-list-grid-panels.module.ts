@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const componentsListGridPanels = {
   id: "01a05c95-5649-7d76-a2af-89003bc59ab0",
-  type: "module",
+  type: "page-type/module",
   slug: "components-list-grid-panels",
   definition: "the panels showing the card grid and the button that loads more",
   code: "tsx",
