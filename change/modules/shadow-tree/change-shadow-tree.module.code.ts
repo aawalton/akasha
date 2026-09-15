@@ -9,11 +9,7 @@ import {
   type Paging,
   pagingOf,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
-import {
-  filesIn,
-  foldersIn,
-  walkedUnder,
-} from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
+import { walkedUnder } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
 import { VENDOR_ROOT } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   partedIn,
@@ -150,8 +146,6 @@ function underOver(had: readonly string[], said: Answer, folder: string): readon
   return [...found].filter((one) => beneath(folder, one)).sort()
 }
 
-export type Holding = (folder: string) => boolean
-
 function laidOver(edits: readonly FileChange[]): ReadonlyMap<string, boolean> {
   const found = new Map<string, boolean>()
   for (const one of edits) {
@@ -179,25 +173,6 @@ function aboveIn(laid: ReadonlyMap<string, boolean>): ReadonlySet<string> {
 
 function offRepo(folder: string): boolean {
   return folder === "" || folder.startsWith(UNDER) || folder.split(UNDER).includes(OUTSIDE)
-}
-
-export function holdingOver(root: string, edits: readonly FileChange[]): Holding {
-  const laid = laidOver(edits)
-  const above = aboveIn(laid)
-  const held = new Map<string, boolean>()
-  const asked: Holding = (folder) => {
-    if (above.has(folder)) return true
-    if (offRepo(folder)) return false
-    const found = held.get(folder)
-    if (found !== undefined) return found
-    held.set(folder, false)
-    const said =
-      filesIn(root, folder).some((one) => laid.get(one) !== false) ||
-      foldersIn(root, folder).some((one) => asked(one))
-    held.set(folder, said)
-    return said
-  }
-  return asked
 }
 
 export type Naming = (path: string) => boolean
