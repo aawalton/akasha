@@ -14,6 +14,7 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -28,6 +29,7 @@ import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.t
 const ROOT = akashaRoot()
 const STORY_PAGE_TYPE = "story-read"
 const CHAPTER_PAGE_TYPE = "story-chapter-read"
+const PAGE_TYPE = "page-type"
 const SOURCE = "royal-road"
 const PUT = "change-mechanical/add-file-of-any-kind"
 const RESTATE = "change-mechanical-file/add-if-not-present-file"
@@ -201,7 +203,7 @@ export function filedChapter(
     : stem
   taken.add(slug)
   const values: Value = {
-    type: CHAPTER_PAGE_TYPE,
+    type: namedAs(PAGE_TYPE, CHAPTER_PAGE_TYPE, null),
     slug,
     title: chapter.title,
     [STORY]: `${OPENS_WITH}${story.slug}`,
