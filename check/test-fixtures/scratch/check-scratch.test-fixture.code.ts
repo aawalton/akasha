@@ -5,6 +5,7 @@ import type { Judged, Running } from "akasha/check/modules/judging/judging.modul
 import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
+  idFiled,
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
@@ -58,6 +59,7 @@ export function typed(
 ): undefined {
   const path = `${TYPES_AT}/${slug}.${PAGE_TYPE}.ts`
   listedFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
+  idFiled(root, `id-${slug}`, [{ path, id: `id-${slug}` }])
   mkdirSync(join(root, TYPES_AT), { recursive: true })
   const said = above === null ? "[]" : JSON.stringify([`${PAGE_TYPE}/${above}`])
   const loader = loadedBy === null ? "" : ` loadedBy: ${JSON.stringify(loadedBy)},`
@@ -128,6 +130,7 @@ export function founded(root: string): undefined {
 
 export function filing(root: string, kind: string, slug: string, id: string): undefined {
   listedFiled(root, kind, slug, [{ path: pathFor(kind, slug), id }])
+  idFiled(root, id, [{ path: pathFor(kind, slug), id }])
 }
 
 export function carrying(
@@ -155,6 +158,7 @@ export function claiming(root: string, page: string, id: string): undefined {
   const said = partedIn(page)
   if (said === null) return
   listedFiled(root, said.pageType, said.slug, [{ path: page, id }])
+  idFiled(root, id, [{ path: page, id }])
   if (existsSync(join(root, page))) return
   mkdirSync(join(root, dirname(page)), { recursive: true })
   writeFileSync(

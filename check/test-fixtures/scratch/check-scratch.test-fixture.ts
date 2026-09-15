@@ -71,6 +71,10 @@ export const checkScratch = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A page filed here is filed by its id as well as by its type.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A page whose body is already written is left as that body is.",
     },
 
