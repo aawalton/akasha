@@ -12,11 +12,6 @@ export const emberWerewolfParse = {
       workingMemory:
         "The best parse so far is 128,713 over 2:43 on the 21 million Iron Atronach. Rampage held 61 percent and carries 15 percent damage done, so raising it is most of the gap. Rampage is gated on Fury, which comes from Feral Carnage's ticks, double from Hircine's Rage, and from light attacks, of which that parse landed 113 where a clean weave lands nearer 145. Food is Braised Rabbit with Spring Vegetables. The potion is Essence of Stamina for its Minor Heroism, the skills carrying Major Savagery.\n",
     },
-    {
-      statement: "An inventory capture reaches akasha again.",
-      workingMemory:
-        "The newest inventory snapshot page is at-2026-08-29-20-59-15, and no capture has landed in the seventeen days since, so nothing in akasha shows what a character wears now. Why captures stopped is not yet found. Equipment reaches akasha only through these snapshots: there is no per-character equipment page type, and worn items are the bag 0 rows of a snapshot's stacks file.",
-    },
   ],
   constraints: [
     "Update 50 is live, and Update 51 lands on 28 September 2026 repricing every werewolf ability, so this build shifts under the work.",
