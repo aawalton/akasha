@@ -18,6 +18,7 @@ import {
   withAiTag,
 } from "akasha/alan/harness/monarch/modules/notes-write/monarch-notes-write.module.code.ts"
 import { object, str } from "akasha/alan/harness/monarch/modules/shape/monarch-shape.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const UPDATE_TRANSACTION = `mutation Web_TransactionDrawerUpdateTransaction($input: UpdateTransactionMutationInput!) {
   updateTransaction(input: $input) {
@@ -108,7 +109,7 @@ export async function setCategory(
     new Map([[transactionMonarchId, patch]]),
     `monarch: transaction ${transactionMonarchId} categorized as ${categorySlug}`
   )
-  if (touched.length === 0 && placed.line.category !== categorySlug) {
+  if (touched.length === 0 && slugOf(placed.line.category ?? "") !== categorySlug) {
     throw new Error(
       `Monarch took the category for transaction ${transactionMonarchId} and no month file ` +
         "moved, so the two now disagree until the next sync"
