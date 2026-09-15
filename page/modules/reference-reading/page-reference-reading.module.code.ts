@@ -27,11 +27,11 @@ const beside = heldEach((reading: Reading, pagePath: string): readonly Reference
   return referencesEach(body.split(BREAK).filter((one) => one !== BLANK))
 })
 
-export function referencesFor(given: string | Reading, pagePath: string): readonly Reference[] {
+function referencesFor(given: string | Reading, pagePath: string): readonly Reference[] {
   return beside(given, pagePath)
 }
 
-export function referencesOf(given: string | Reading, id: string): readonly Reference[] {
+function referencesOf(given: string | Reading, id: string): readonly Reference[] {
   return answered(given, ROOT, `what references \`${id}\``, (reading) => {
     const listed = listedById(reading, id)
     return listed === null ? [] : referencesFor(reading, listed.path)

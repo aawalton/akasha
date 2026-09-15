@@ -3,8 +3,6 @@ import type { Reading } from "akasha/page/index/modules/shape/index-shape.module
 import {
   idsNaming,
   importersOf,
-  referencesFor,
-  referencesOf,
 } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 
 const NAMED_AT = "akasha/b.domain.ts"
@@ -47,11 +45,11 @@ test("a file nothing imports answers nothing, though its page is referenced", ()
 })
 
 test("a page no id reaches is referenced by nothing", () => {
-  expect(referencesOf(worldOf(HELD), NAMER_ID)).toEqual([])
+  expect(idsNaming(worldOf(HELD), NAMER_ID, "parts")).toEqual([])
 })
 
 test("a page whose file is missing is referenced by nothing", () => {
-  expect(referencesFor(worldOf(HELD), NAMER_AT)).toEqual([])
+  expect(importersOf(worldOf(HELD), "akasha/a.module.code.ts")).toEqual([])
 })
 
 test("a path that is no page file belongs to no page", () => {
