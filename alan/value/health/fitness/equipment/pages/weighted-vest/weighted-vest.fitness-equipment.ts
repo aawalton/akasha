@@ -2,7 +2,7 @@ import type { FitnessEquipment } from "akasha/alan/value/health/fitness/equipmen
 
 export const weightedVest = {
   id: "019f01e1-b319-7702-9a89-953151f9dbf5",
-  type: "fitness-equipment",
+  type: "page-type/fitness-equipment",
   slug: "weighted-vest",
   title: "Weighted Vest",
   category: "vest",

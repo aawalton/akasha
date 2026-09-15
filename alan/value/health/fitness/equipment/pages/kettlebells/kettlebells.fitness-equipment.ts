@@ -2,7 +2,7 @@ import type { FitnessEquipment } from "akasha/alan/value/health/fitness/equipmen
 
 export const kettlebells = {
   id: "019f01e1-b168-7b90-ad55-91681ce407a8",
-  type: "fitness-equipment",
+  type: "page-type/fitness-equipment",
   slug: "kettlebells",
   title: "Kettlebells",
   category: "kettlebells",
