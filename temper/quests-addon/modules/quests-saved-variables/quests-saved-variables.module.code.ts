@@ -1,8 +1,8 @@
+import type { AutoQuestTraceEntry } from "akasha/temper/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 import {
   SAVED_VARIABLES_NAME,
   SAVED_VARIABLES_VERSION,
 } from "akasha/temper/quests-addon/modules/quests-constants/quests-constants.module.code.ts"
-import type { AutoQuestTraceEntry } from "akasha/temper/quests-trace/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 export interface SavedVariablesData {

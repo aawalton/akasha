@@ -5493,6 +5493,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/addon-init/addon-init.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/auto-quest-trace/auto-quest-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/build-metadata/build-metadata.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/character-class/character-class.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts"}
@@ -6051,7 +6052,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/quests-addon/modules/quests-slash-command/quests-slash-command.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/quests-addon/modules/quests-trace-buffer/quests-trace-buffer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/quests-addon/modules/quests-trace/quests-trace.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/quests-trace/modules/auto-quest-trace/auto-quest-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variable/modules/account-wide/account-wide.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variable/modules/lua-array/lua-array.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variable/modules/lua-parser/lua-parser.module.ts"}

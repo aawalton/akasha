@@ -10,6 +10,14 @@ export const autoQuestTrace = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A trace is read here outside the game rather than inside the game.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No game function is called here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An entry declares its kind before anything else in that entry is read.",
     },
     {

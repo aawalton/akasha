@@ -1776,6 +1776,7 @@
 {"propertySlug":"invariant-kind","path":"temper/lua-runner/modules/lua-marshal/lua-marshal.module.ts","id":"01a06059-2491-7221-94a1-8905cd719a95"}
 {"propertySlug":"invariant-kind","path":"temper/lua-runner/modules/lua-protocol/lua-protocol.module.ts","id":"01a06059-2491-7831-9607-9a067a9a884b"}
 {"propertySlug":"invariant-kind","path":"temper/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}
+{"propertySlug":"invariant-kind","path":"temper/modules/auto-quest-trace/auto-quest-trace.module.ts","id":"01a06098-98a3-7c4d-b67f-e657dc450ff5"}
 {"propertySlug":"invariant-kind","path":"temper/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
 {"propertySlug":"invariant-kind","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts","id":"01a090b3-cd34-73db-8728-72f922749cda"}
 {"propertySlug":"invariant-kind","path":"temper/modules/descriptor/descriptor.module.ts","id":"01a06053-3638-7cb5-b297-d04869965330"}
@@ -1814,8 +1815,6 @@
 {"propertySlug":"invariant-kind","path":"temper/progress/temper-rule-goal/temper-rule-goal.page-type.ts","id":"01a071f5-62e6-7b98-ab84-2e3e9f91b5e3"}
 {"propertySlug":"invariant-kind","path":"temper/quests-addon/modules/quests-chatter-name-tables/quests-chatter-name-tables.module.ts","id":"01a0635f-391c-79f3-87e1-6c303b4a5402"}
 {"propertySlug":"invariant-kind","path":"temper/quests-addon/modules/quests-decide/quests-decide.module.ts","id":"01a0635f-391c-78a5-84e9-0cc44f22b3f1"}
-{"propertySlug":"invariant-kind","path":"temper/quests-trace/modules/auto-quest-trace/auto-quest-trace.module.ts","id":"01a06098-98a3-7c4d-b67f-e657dc450ff5"}
-{"propertySlug":"invariant-kind","path":"temper/quests-trace/temper-quests-trace.domain.ts","id":"01a06098-98a2-7c25-8f77-066842973eb3"}
 {"propertySlug":"invariant-kind","path":"temper/saved-variable/modules/lua-serializer/lua-serializer.module.ts","id":"01a06053-3635-7645-b6ba-ffae9f98d01e"}
 {"propertySlug":"invariant-kind","path":"temper/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.ts","id":"01a06072-5abd-75b9-b1b8-07150462637e"}
 {"propertySlug":"invariant-kind","path":"temper/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.ts","id":"01a06072-5abc-7ca4-972f-214d6d6ef964"}

@@ -590,7 +590,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-economics-ui/temper-player-economics-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/player-inventory-management-ui/temper-player-inventory-management-ui.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/progress/temper-progress.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/quests-trace/temper-quests-trace.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/saved-variable/temper-saved-variable.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/saved-vars-migration/temper-saved-vars-migration.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/settings-panel/temper-settings-panel.domain.ts"}
