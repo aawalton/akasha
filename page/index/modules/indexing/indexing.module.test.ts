@@ -50,7 +50,7 @@ import {
   wrotePages,
   wroteText,
 } from "akasha/page/index/modules/indexing/indexing.module.test-fixtures.ts"
-import { builtThere } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
+import { builtThere } from "akasha/page/index/modules/keeping/index-keeping.module.test-fixtures.ts"
 import {
   aProperty,
   aType,

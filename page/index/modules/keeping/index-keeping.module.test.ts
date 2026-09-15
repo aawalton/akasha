@@ -3,7 +3,6 @@ import { existsSync, readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import {
   bodiesFrom,
-  builtThere,
   filedUnder,
   keepBuilt,
   keepDelta,
@@ -11,6 +10,7 @@ import {
   takenAway,
   wholeOf,
 } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
+import { builtThere } from "akasha/page/index/modules/keeping/index-keeping.module.test-fixtures.ts"
 import {
   BUILT_AT,
   BUILT_SAID,

@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/indexing/indexing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/keeping/index-keeping.module.code.ts"}
+{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/keeping/index-keeping.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/keeping/index-keeping.module.test.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/package-reaching/package-reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/property-shaping/property-shaping.module.test.ts"}

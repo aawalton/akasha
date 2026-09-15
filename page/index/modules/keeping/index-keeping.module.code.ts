@@ -138,10 +138,6 @@ export function reconcile(
   return { added: added.sort(), changed: changed.sort() }
 }
 
-export function builtThere(root: string): boolean {
-  return existsSync(join(root, BUILT_AT))
-}
-
 export function keepBuilt(root: string): undefined {
   mkdirSync(root, { recursive: true })
   const near = join(root, `${BUILT_AT}.${process.pid}.part`)

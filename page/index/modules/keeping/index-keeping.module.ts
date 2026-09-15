@@ -7,6 +7,7 @@ export const indexKeeping = {
   definition: "the index reconciled against what the pages say, file by file",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
