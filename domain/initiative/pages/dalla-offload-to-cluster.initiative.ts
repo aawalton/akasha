@@ -16,7 +16,7 @@ export const dallaOffloadToCluster = {
     { statement: "Every manifest is part of one service." },
     {
       statement:
-        "A service has a namespace named for that service, holding every resource that service is.",
+        "A namespace is named for one service and holds that service with the satellites of that service.",
     },
     {
       statement:
