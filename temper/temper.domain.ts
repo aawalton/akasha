@@ -9,7 +9,7 @@ export const temper = {
     "domain/temper-addon-build",
     "domain/temper-addon-color",
     "domain/temper-addon-init",
-    "domain/temper-addon-library-types",
+    "domain/temper-addon-library-type",
     "domain/temper-addon-log",
     "domain/temper-addons-resolve",
     "domain/temper-alchemy",

@@ -1,4 +1,4 @@
-import "akasha/temper/addon-library-types/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
+import "akasha/temper/addon-library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-chat/eso-chat.type-declaration.d.ts"

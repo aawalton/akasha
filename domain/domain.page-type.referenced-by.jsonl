@@ -523,7 +523,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-build/temper-addon-build.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-color/temper-addon-color.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-init/temper-addon-init.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-library-types/temper-addon-library-types.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-library-type/temper-addon-library-type.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-log/temper-addon-log.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addons-resolve/temper-addons-resolve.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/alchemy/temper-alchemy.domain.ts"}

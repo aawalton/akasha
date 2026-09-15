@@ -1,4 +1,4 @@
-import "akasha/temper/addon-library-types/temper-inventory-global/temper-inventory-global.type-declaration.d.ts"
+import "akasha/temper/addon-library-type/temper-inventory-global/temper-inventory-global.type-declaration.d.ts"
 
 import { toggleInventoryBrowser } from "akasha/temper/items-addon/modules/inventory-browser/inventory-browser.module.code.ts"
 import { getInventoryActionSummary } from "akasha/temper/items-addon/modules/inventory-plan/inventory-plan.module.code.ts"
