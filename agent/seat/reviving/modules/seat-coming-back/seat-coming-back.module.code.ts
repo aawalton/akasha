@@ -22,11 +22,8 @@ import { textIn } from "akasha/util/narrow/modules/text-in/text-in.module.code.t
 
 const HEAD = "HEAD"
 
-const TAIL = ".seat.ts"
-
 export interface Held {
   readonly at: string
-  readonly from: string
   readonly commit: string
   readonly body: string
 }
@@ -38,42 +35,27 @@ export type StatingSeat = (
   landing?: Landing
 ) => Promise<Stating>
 
-function seatFileNamed(name: string): string {
-  return `${name}${TAIL}`
-}
-
 export function tookAway(root: string, name: string): string | null {
-  const glob = `*/${seatFileNamed(name)}`
-  const at = told(root, ["log", "--format=%H", "--diff-filter=D", "-1", HEAD, "--", glob])
+  const at = told(root, [
+    "log",
+    "--format=%H",
+    "--diff-filter=D",
+    "-1",
+    HEAD,
+    "--",
+    seatPathForName(name),
+  ])
   const one = at === null ? "" : at.trim()
   return one === "" ? null : one
 }
 
-function pathTakenIn(root: string, commit: string, name: string): string | null {
-  const said = told(root, [
-    "diff-tree",
-    "-r",
-    "--no-commit-id",
-    "--name-only",
-    "--diff-filter=D",
-    commit,
-  ])
-  if (said === null) return null
-  const tail = `/${seatFileNamed(name)}`
-  for (const line of said.split("\n")) {
-    if (line.endsWith(tail)) return line
-  }
-  return null
-}
-
 export function heldBefore(root: string, name: string): Held | null {
+  const at = seatPathForName(name)
   const commit = tookAway(root, name)
   if (commit === null) return null
-  const from = pathTakenIn(root, commit, name)
-  if (from === null) return null
-  const body = told(root, ["show", `${commit}^:${from}`])
+  const body = told(root, ["show", `${commit}^:${at}`])
   if (body === null || body === "") return null
-  return { at: seatPathForName(name), from, commit, body }
+  return { at, commit, body }
 }
 
 export function saidOfBack(name: string, commit: string): string {

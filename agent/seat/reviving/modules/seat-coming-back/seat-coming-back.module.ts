@@ -38,12 +38,11 @@ export const seatComingBack = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "A seat is found in history by the file its page is rather than by that file's folder.",
+      statement: "A seat is looked for in history at the one path a seat page has now.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "A page comes back to where seat pages sit now rather than to where it sat.",
+      invariantKind: "invariant-kind/absence",
+      statement: "A page taken away from any other path brings nothing back.",
     },
     {
       invariantKind: "invariant-kind/departure",

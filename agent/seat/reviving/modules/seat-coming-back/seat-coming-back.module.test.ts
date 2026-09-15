@@ -24,7 +24,7 @@ const SESSION = "0324cc21-a726-49d2-b021-97c14526d4ec"
 
 const AT = seatPathForName(NAME)
 
-const WAS = `seat-system/seats/pages/${NAME}/${NAME}.seat.ts`
+const ELSEWHERE = `seat-system/seats/pages/${NAME}/${NAME}.seat.ts`
 
 const BODY = [
   'import type { Seat } from "akasha/seat-system/seats/seat.page-type.types.ts"',
@@ -83,19 +83,19 @@ test("a seat comes back as the commit that took its page away left that page", (
     const root = world.rootFor("seat-coming-back-")
     const took = stoppedAt(root, AT)
     expect(tookAway(root, NAME)).toBe(took)
-    expect(heldBefore(root, NAME)).toEqual({ at: AT, from: AT, commit: took, body: BODY })
+    expect(heldBefore(root, NAME)).toEqual({ at: AT, commit: took, body: BODY })
   } finally {
     world.sweep()
   }
 })
 
-test("a seat comes back though its page sat in a folder seats have left", () => {
+test("a page taken away from another folder brings nothing back", () => {
   const world = scratchWorld()
   try {
     const root = world.rootFor("seat-coming-back-")
-    const took = stoppedAt(root, WAS)
-    expect(tookAway(root, NAME)).toBe(took)
-    expect(heldBefore(root, NAME)).toEqual({ at: AT, from: WAS, commit: took, body: BODY })
+    stoppedAt(root, ELSEWHERE)
+    expect(tookAway(root, NAME)).toBeNull()
+    expect(heldBefore(root, NAME)).toBeNull()
   } finally {
     world.sweep()
   }
@@ -125,7 +125,7 @@ test("the seat is composed again from what its page said rather than written bac
   const world = scratchWorld()
   try {
     const root = world.rootFor("seat-coming-back-")
-    const took = stoppedAt(root, WAS)
+    const took = stoppedAt(root, AT)
     const taken: SeatStated[] = []
     const names: string[] = []
     const stating: StatingSeat = (_root, whole, seatName) => {
