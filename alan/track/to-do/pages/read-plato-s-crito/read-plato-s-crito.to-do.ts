@@ -2,7 +2,7 @@ import type { ToDo } from "akasha/alan/track/to-do/to-do.page-type.types.ts"
 
 export const readPlatoSCrito = {
   id: "019f06e6-a2c4-72af-acbd-bcebe6856503",
-  type: "to-do",
+  type: "page-type/to-do",
   slug: "read-plato-s-crito",
   title: "Read Plato's Crito",
   link: "https://alanwalton.com/story-chapter/crito-48d5dc8b",

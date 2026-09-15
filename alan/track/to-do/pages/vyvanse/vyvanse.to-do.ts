@@ -2,7 +2,7 @@ import type { ToDo } from "akasha/alan/track/to-do/to-do.page-type.types.ts"
 
 export const vyvanse = {
   id: "019ee9e5-849b-77fd-afca-ec414c6fbbfb",
-  type: "to-do",
+  type: "page-type/to-do",
   slug: "vyvanse",
   title: "Vyvanse",
   difficulty: "trivial",

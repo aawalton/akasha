@@ -2,7 +2,7 @@ import type { ToDo } from "akasha/alan/track/to-do/to-do.page-type.types.ts"
 
 export const proteinDrinkCreatine = {
   id: "019f0091-bc70-79e9-9315-ab68c93fc301",
-  type: "to-do",
+  type: "page-type/to-do",
   slug: "protein-drink-creatine",
   title: "Protein drink + creatine",
   toDoCategory: "health",

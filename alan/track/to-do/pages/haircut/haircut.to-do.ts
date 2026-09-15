@@ -2,7 +2,7 @@ import type { ToDo } from "akasha/alan/track/to-do/to-do.page-type.types.ts"
 
 export const haircut = {
   id: "019db533-f381-76c9-b024-858f4cbd828c",
-  type: "to-do",
+  type: "page-type/to-do",
   slug: "haircut",
   title: "Haircut",
   toDoCategory: "health",

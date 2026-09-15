@@ -2,7 +2,7 @@ import type { ToDo } from "akasha/alan/track/to-do/to-do.page-type.types.ts"
 
 export const laundryPutAway = {
   id: "019db533-f381-7a7c-bebf-ada866310acc",
-  type: "to-do",
+  type: "page-type/to-do",
   slug: "laundry-put-away",
   title: "Laundry - Put Away",
   toDoCategory: "health",

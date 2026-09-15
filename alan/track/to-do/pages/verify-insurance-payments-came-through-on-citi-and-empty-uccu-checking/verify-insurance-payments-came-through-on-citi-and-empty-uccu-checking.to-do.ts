@@ -2,7 +2,7 @@ import type { ToDo } from "akasha/alan/track/to-do/to-do.page-type.types.ts"
 
 export const verifyInsurancePaymentsCameThroughOnCitiAndEmptyUccuChecking = {
   id: "019db533-f381-7d66-bb3d-ea4078fc9725",
-  type: "to-do",
+  type: "page-type/to-do",
   slug: "verify-insurance-payments-came-through-on-citi-and-empty-uccu-checking",
   title: "Verify insurance payments came through on Citi and empty UCCU checking",
   toDoCategory: "wealth",

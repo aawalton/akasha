@@ -2,7 +2,7 @@ import type { ToDo } from "akasha/alan/track/to-do/to-do.page-type.types.ts"
 
 export const restockWater = {
   id: "019db533-f381-7b83-a8a2-902051bf09df",
-  type: "to-do",
+  type: "page-type/to-do",
   slug: "restock-water",
   title: "Restock water",
   toDoCategory: "health",

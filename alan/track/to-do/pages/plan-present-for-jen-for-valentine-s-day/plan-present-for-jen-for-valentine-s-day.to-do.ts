@@ -2,7 +2,7 @@ import type { ToDo } from "akasha/alan/track/to-do/to-do.page-type.types.ts"
 
 export const planPresentForJenForValentineSDay = {
   id: "019db533-f381-7d20-98c8-88b1e85ba9ad",
-  type: "to-do",
+  type: "page-type/to-do",
   slug: "plan-present-for-jen-for-valentine-s-day",
   title: "Plan present for Jen for Valentine's Day",
   toDoCategory: "love",

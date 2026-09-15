@@ -2,7 +2,7 @@ import type { ToDo } from "akasha/alan/track/to-do/to-do.page-type.types.ts"
 
 export const trimToenails = {
   id: "019db533-f381-7a8d-9269-95dadd19784e",
-  type: "to-do",
+  type: "page-type/to-do",
   slug: "trim-toenails",
   title: "Trim Toenails",
   toDoCategory: "health",

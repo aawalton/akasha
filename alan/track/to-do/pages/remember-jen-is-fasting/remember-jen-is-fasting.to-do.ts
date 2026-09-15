@@ -2,7 +2,7 @@ import type { ToDo } from "akasha/alan/track/to-do/to-do.page-type.types.ts"
 
 export const rememberJenIsFasting = {
   id: "019db533-f381-7d79-bdb7-cffbef47d403",
-  type: "to-do",
+  type: "page-type/to-do",
   slug: "remember-jen-is-fasting",
   title: "Remember Jen is fasting",
   toDoCategory: "love",

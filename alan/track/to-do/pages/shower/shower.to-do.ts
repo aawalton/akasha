@@ -2,7 +2,7 @@ import type { ToDo } from "akasha/alan/track/to-do/to-do.page-type.types.ts"
 
 export const shower = {
   id: "019db533-f381-770f-82fe-2cde8c153ec6",
-  type: "to-do",
+  type: "page-type/to-do",
   slug: "shower",
   title: "Shower",
   toDoAnchoredFromCompletion: true,
