@@ -20,7 +20,6 @@ import {
   checksAt,
   checksIn,
   type Gathered,
-  judgingBy,
   takesAny,
 } from "akasha/check/modules/checking/checking.module.code.ts"
 import { costSpawned, recordCost } from "akasha/check/modules/cost/check-cost.module.code.ts"
@@ -132,9 +131,6 @@ export type Told = {
   readonly refused: readonly string[]
 }
 
-export const running: Running = async (one, change) =>
-  await judgingBy([one], AUDIT, one.root).over(change)
-
 export function childAt(root: string): string {
   const page = listedAt(root, MODULE, CHILD)[0]
   const at = page === undefined ? null : besideAt(page.path, CODE, TS)
@@ -194,6 +190,7 @@ export const spawning: Running = async (one) => {
     const began = Date.now()
     const done = spawnedHere([BUN, childAt(one.root), one.root, one.slug, at], {
       cwd: one.root,
+      metered: true,
       ...(cpu === null ? {} : { cpuCeiling: cpu }),
       ...(memory === null ? {} : { memoryCeiling: memory }),
     })

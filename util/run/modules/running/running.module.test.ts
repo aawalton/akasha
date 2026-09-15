@@ -8,6 +8,7 @@ import {
 import {
   bytes,
   delegatedAt,
+  grouped,
   heldHere,
   madePid,
   NO_CODE,
@@ -18,6 +19,8 @@ import {
 } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const CODE = `${import.meta.dir}/running.module.code.ts`
+
+const MEASURED = { metered: true }
 
 const COSTLY = ["sh", "-c", "i=0; while [ $i -lt 5000 ]; do i=$((i+1)); done"]
 
@@ -128,23 +131,35 @@ test("a process is answered with the processor seconds that process and its own 
   expect(idle).toBeLessThan(busy)
 })
 
-test("a process is answered with the peak memory that process reached", () => {
-  const small = ran(["bun", "-e", ""]).peakBytes
-  const large = ran(["bun", "-e", "new Uint8Array(80e6).fill(1)"]).peakBytes
+test("a process asked to be measured is answered with the peak memory that process reached", () => {
+  const small = ran(["bun", "-e", ""], MEASURED).peakBytes
+  const large = ran(["bun", "-e", "new Uint8Array(80e6).fill(1)"], MEASURED).peakBytes
   expect(small).toBeGreaterThan(0)
   expect(large - small).toBeGreaterThan(60e6)
 })
 
 test("a process run after a bigger one is answered its own peak rather than the bigger one", () => {
-  const large = ran(["bun", "-e", "new Uint8Array(80e6).fill(1)"]).peakBytes
-  const small = ran(["true"]).peakBytes
+  const large = ran(["bun", "-e", "new Uint8Array(80e6).fill(1)"], MEASURED).peakBytes
+  const small = ran(["true"], MEASURED).peakBytes
   expect(large).toBeGreaterThan(60e6)
   expect(small).toBeLessThan(large / 4)
 })
 
 test("a caller is answered whether the peak answered was measured", () => {
-  expect(ran(["true"]).peakMeasured).toBe(true)
-  expect(spawnedHere(["true"]).peakMeasured).toBe(true)
+  expect(ran(["true"], MEASURED).peakMeasured).toBe(true)
+  expect(spawnedHere(["true"], MEASURED).peakMeasured).toBe(true)
+})
+
+test("a process nobody asked to measure is answered as having reached no peak", () => {
+  expect(spawnedHere(["true"]).peakBytes).toBe(0)
+  expect(spawnedHere(["true"]).peakMeasured).toBe(false)
+})
+
+test("a ceiling asks for the group a measure asks for", () => {
+  expect(grouped({})).toBe(false)
+  expect(grouped({ metered: true })).toBe(true)
+  expect(grouped({ cpuCeiling: 1 })).toBe(true)
+  expect(grouped({ memoryCeiling: 1 })).toBe(true)
 })
 
 test("a program no path names raises rather than being answered", () => {
@@ -166,7 +181,7 @@ test("a group left where the run that made it is gone is taken away before a gro
   const left = join(String(parent), `akasha-${gone}-1`)
   mkdirSync(left)
   expect(existsSync(left)).toBe(true)
-  ran(["true"])
+  ran(["true"], MEASURED)
   expect(existsSync(left)).toBe(false)
 })
 
@@ -182,7 +197,7 @@ test("a group left is emptied and taken away with every group inside it", async 
   }
   maker.kill()
   await maker.exited
-  ran(["true"])
+  ran(["true"], MEASURED)
   await lingering.exited
   expect(lingering.signalCode).toBe("SIGKILL")
   expect(existsSync(left)).toBe(false)
@@ -190,18 +205,21 @@ test("a group left is emptied and taken away with every group inside it", async 
 
 test("a group that cannot be taken away once its run is over is said aloud", () => {
   const inner = `import { spawnedHere } from ${JSON.stringify(CODE)}; `
-  const run = 'spawnedHere(["sh", "-c", "sleep 2 >/dev/null 2>&1 &"])'
+  const run = 'spawnedHere(["sh", "-c", "sleep 2 >/dev/null 2>&1 &"], { metered: true })'
   expect(ran(["bun", "-e", inner + run]).err).toMatch(/a group was left at .* 1 processes/)
 })
 
 test("a run relayed is answered the peak a run made here is answered", () => {
   const argv = ["bun", "-e", "new Uint8Array(80e6).fill(1)"]
-  const here = spawnedHere(argv).peakBytes
-  const there = relayed(argv).peakBytes
+  const here = spawnedHere(argv, MEASURED).peakBytes
+  const there = relayed(argv, MEASURED).peakBytes
   expect(Math.abs(there - here)).toBeLessThan(here / 2)
 })
 
 test("a run relayed says its peak was measured as a run made here does", () => {
+  expect(relayed(["true"], MEASURED).peakMeasured).toBe(
+    spawnedHere(["true"], MEASURED).peakMeasured
+  )
   expect(relayed(["true"]).peakMeasured).toBe(spawnedHere(["true"]).peakMeasured)
 })
 
@@ -223,7 +241,7 @@ test("a process is given the memory ceiling its caller stated", () => {
 })
 
 test("a process given no memory ceiling is held to none", () => {
-  expect(ran(["sh", "-c", `cat ${WEIGHING}/memory.high`]).out.trim()).toBe("max")
+  expect(ran(["sh", "-c", `cat ${WEIGHING}/memory.high`], MEASURED).out.trim()).toBe("max")
 })
 
 test("a process past its memory ceiling runs to its end rather than being ended", () => {
@@ -265,7 +283,7 @@ test("what a run held carries what a run started inside it held", () => {
   const inner =
     `import { ran } from ${JSON.stringify(CODE)}; ` +
     'ran(["bun", "-e", "new Uint8Array(80e6).fill(1)"])'
-  expect(ran(["bun", "-e", inner]).peakBytes).toBeGreaterThan(60e6)
+  expect(ran(["bun", "-e", inner], MEASURED).peakBytes).toBeGreaterThan(60e6)
 })
 
 test("the seconds answered carry a child the run never reaped, bounded or not", () => {
@@ -273,7 +291,7 @@ test("the seconds answered carry a child the run never reaped, bounded or not", 
     "const child = Bun.spawn(['bun', '-e', 'let x = 0; for (let i = 0; i < 3e8; i++) x += i'])\n" +
     "child.unref()\n" +
     "Bun.sleepSync(1200)\n"
-  expect(ran(["bun", "-e", inner]).cpuSeconds).toBeGreaterThan(0.2)
+  expect(ran(["bun", "-e", inner], MEASURED).cpuSeconds).toBeGreaterThan(0.2)
   expect(ran(["bun", "-e", inner], { cpuCeiling: 30 }).cpuSeconds).toBeGreaterThan(0.2)
 })
 

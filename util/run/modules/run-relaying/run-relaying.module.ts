@@ -105,6 +105,10 @@ export const runRelaying = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "An ask to measure a run goes over to the server with that run.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The peak memory a relayed run reached comes back with that run's answer.",
     },
     {

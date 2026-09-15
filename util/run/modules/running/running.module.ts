@@ -145,7 +145,20 @@ export const running = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Every process run here runs in a control group made for that one run.",
+      statement: "A caller may ask that a process be measured.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A process asked to be measured, or given a ceiling, runs in a control group made for that one run.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every other process runs in the group its caller is already in.",
+    },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "Making a group and taking it away costs several times what a short run costs.",
     },
     {
       invariantKind: "invariant-kind/departure",

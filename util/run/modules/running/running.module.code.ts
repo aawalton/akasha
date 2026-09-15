@@ -342,13 +342,20 @@ export type Asked = {
   readonly timeout?: number
   readonly cpuCeiling?: number
   readonly memoryCeiling?: number
+  readonly metered?: boolean
+}
+
+export function grouped(asked: Asked): boolean {
+  return (
+    asked.metered === true || asked.cpuCeiling !== undefined || asked.memoryCeiling !== undefined
+  )
 }
 
 export function spawnedHere(argv: readonly string[], asked: Asked = {}): Held {
   const ceiling = asked.cpuCeiling
   const held = asked.memoryCeiling
   const found = foundFor(argv, asked)
-  const at = found === null ? null : budgetAt()
+  const at = found === null || !grouped(asked) ? null : budgetAt()
   if (at !== null && held !== undefined) throttled(at, held)
   const watch =
     at === null || ceiling === undefined
