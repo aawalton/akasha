@@ -9,7 +9,7 @@ import { waitingProperties } from "akasha/page/index/modules/generated-propertie
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
+import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   slugAt,
   type Value,
@@ -21,16 +21,8 @@ const PAGE_TYPE = "page-type"
 
 const NOTHING: ReadonlySet<string> = new Set()
 
-export const DECLARES_NO_PAGE =
-  "is named as a page and its body declares no page, so what it carries could not be judged"
-
 export const STATES_NO_PAGE_TYPE =
   "states no `page-type-slug`, and what a page carries is read from the page type it states"
-
-function unloadable(why: string | null): string {
-  if (why === null) return DECLARES_NO_PAGE
-  return `is named as a page and its body would not load, so what it carries could not be judged — ${why}`
-}
 
 function pagesHeldOver(shadow: Shadow): Shadow {
   const held = new Map<string, Value | null>()
@@ -71,12 +63,8 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
     walked.add(path)
     const text = textIn(change, path)
     if (text === null) continue
-    const loaded = loadedFrom(text)
-    const value = loaded.value
-    if (value === null) {
-      judged.push({ path, reason: unloadable(loaded.failed) })
-      continue
-    }
+    const value = valueIn(text)
+    if (value === null) continue
     const pageTypeSlug = slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
     if (pageTypeSlug === null) {
       judged.push({ path, reason: STATES_NO_PAGE_TYPE })

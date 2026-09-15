@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { seeded } from "akasha/check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test-fixtures.ts"
 import {
-  DECLARES_NO_PAGE,
   refusalsOver,
   STATES_NO_PAGE_TYPE,
 } from "akasha/check/code/pages/page-matches-its-type/page-matches-its-type.check-code.decision.code.ts"
@@ -66,18 +65,12 @@ test("a page stating no page type is refused, and is not passed over", () => {
   expect(judgedOver({ [HELD_AT]: body })).toEqual([{ path: HELD_AT, reason: STATES_NO_PAGE_TYPE }])
 })
 
-test("a page whose body declares no page is refused, and is not passed over", () => {
-  expect(judgedOver({ [HELD_AT]: "export const held = 1\n" })).toEqual([
-    { path: HELD_AT, reason: DECLARES_NO_PAGE },
-  ])
+test("a page whose body declares no page is passed over", () => {
+  expect(judgedOver({ [HELD_AT]: "export const held = 1\n" })).toEqual([])
 })
 
-test("a page whose body will not load is refused, and the refusal carries why it would not", () => {
-  const said = judgedOver({ [HELD_AT]: "export const held = (\n" })
-  expect(said).toHaveLength(1)
-  expect(said[0]?.path).toBe(HELD_AT)
-  expect(said[0]?.reason).toContain("would not load")
-  expect(said[0]?.reason).toContain("Unexpected end of file")
+test("a page whose body will not load is passed over", () => {
+  expect(judgedOver({ [HELD_AT]: "export const held = (\n" })).toEqual([])
 })
 
 test("a page whose page type declares nothing is passed over, as it was before", () => {

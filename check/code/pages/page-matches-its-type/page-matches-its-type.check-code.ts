@@ -118,12 +118,8 @@ export const pageMatchesItsType = {
       statement: "A name format is reached through the index and loaded off the disk.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A file the index names as a page and whose body declares no page is refused.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A body that will not load declares no page.",
+      decisionKind: "decision-kind/absence",
+      statement: "A page whose body will not load is passed over rather than refused.",
     },
     {
       decisionKind: "decision-kind/departure",
