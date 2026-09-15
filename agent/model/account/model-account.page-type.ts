@@ -206,7 +206,19 @@ export const modelAccount = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Every account holds the whole fleet's work in turn.",
+      statement: "Every account akasha holds with a provider is a model-account.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An account states the provider serving it, and its credential sits beside it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A reader wanting one provider's accounts asks for that provider by name.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every Anthropic account holds the whole fleet's work in turn.",
     },
     {
       invariantKind: "invariant-kind/absence",
