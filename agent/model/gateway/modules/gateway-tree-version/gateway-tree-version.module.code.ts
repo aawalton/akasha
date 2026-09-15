@@ -1,10 +1,13 @@
 import { createHash } from "node:crypto"
 import { readFileSync, statSync } from "node:fs"
-import { dirname, join, relative, resolve } from "node:path"
+import { join, relative } from "node:path"
+import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
+import { reachingOutOf } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
+import type { Body } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { canonicalize } from "akasha/page/modules/repo-path/repo-path.module.code.ts"
+import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const MODULE = "module"
 
@@ -14,9 +17,7 @@ const CODE = "code"
 
 const TS = "ts"
 
-const SPECIFIER = /(?:\bfrom\s*|^[^\S\n]*import\s*)["']([^"'\n]+)["']/gm
-
-const OWN = "akasha/"
+const IMPORT = importEdge.slug
 
 export function modelGatewayEntrypoint(): string {
   const root = ownRepoRoot()
@@ -28,24 +29,6 @@ export function modelGatewayEntrypoint(): string {
   return join(root, at)
 }
 
-function isFollowed(specifier: string): boolean {
-  return specifier.startsWith("./") || specifier.startsWith("../") || specifier.startsWith(OWN)
-}
-
-function readSource(absolute: string, reachedFrom: string | null): string {
-  try {
-    if (!statSync(absolute).isFile()) throw new Error("not a file")
-    return readFileSync(absolute, "utf8")
-  } catch {
-    const via = reachedFrom === null ? "the entrypoint" : `imported by ${reachedFrom}`
-    throw new Error(
-      `model-gateway-tree-version: ${absolute} (${via}) is not a readable file. The version ` +
-        "stamp is what tells a supervisor its gateway changed, so a member of the closure that " +
-        "cannot be read leaves the hash and its edits stop respawning anything."
-    )
-  }
-}
-
 function isFileAt(absolute: string): boolean {
   try {
     return statSync(absolute).isFile()
@@ -54,40 +37,25 @@ function isFileAt(absolute: string): boolean {
   }
 }
 
-function resolveImport(root: string, specifier: string, fromAbsolute: string): string {
-  const at = specifier.startsWith(OWN)
-    ? resolve(root, specifier.slice(OWN.length))
-    : resolve(dirname(fromAbsolute), specifier)
-  for (const candidate of [at, `${at}.ts`, `${at}/index.ts`]) {
-    if (isFileAt(candidate)) return canonicalize(candidate)
+function bodiesUnder(root: string): Body {
+  return (path) => {
+    const at = join(root, path)
+    return isFileAt(at) ? readFileSync(at, "utf8") : null
   }
-  throw new Error(
-    `model-gateway-tree-version: ${relative(root, fromAbsolute)} imports "${specifier}", which ` +
-      "names no file as written, with `.ts` on it, or as a directory holding `index.ts`. This walk " +
-      "resolves nothing further, so such an import would leave the hash without a word — teach " +
-      "this module the resolution it needs."
-  )
 }
 
 function collectVersionTreeFilesFrom(root: string, entrypoint: string): readonly string[] {
-  const seen = new Set<string>()
-  const queue: { absolute: string; reachedFrom: string | null }[] = [
-    { absolute: entrypoint, reachedFrom: null },
-  ]
-  while (queue.length > 0) {
-    const next = queue.shift()
-    if (next === undefined || seen.has(next.absolute)) continue
-    seen.add(next.absolute)
-    const source = readSource(next.absolute, next.reachedFrom)
-    const here = relative(root, next.absolute)
-    for (const match of source.matchAll(SPECIFIER)) {
-      const specifier = match[1]
-      if (specifier === undefined || !isFollowed(specifier)) continue
-      const absolute = resolveImport(root, specifier, next.absolute)
-      if (!seen.has(absolute)) queue.push({ absolute, reachedFrom: here })
-    }
+  const seed = relative(root, entrypoint)
+  const found = reachingOutOf([seed], [IMPORT], shadowAt(root).index, bodiesUnder(root))
+  for (const one of found) {
+    if (isFileAt(join(root, one))) continue
+    throw new Error(
+      `model-gateway-tree-version: ${one} is no readable file. The version stamp is what tells ` +
+        "a supervisor its gateway changed, so a member of the closure that cannot be read " +
+        "leaves the hash and its edits stop respawning anything."
+    )
   }
-  return [...seen].map((absolute) => relative(root, absolute)).toSorted()
+  return found
 }
 
 function computeVersionTreeHashFrom(root: string, entrypoint: string): string {

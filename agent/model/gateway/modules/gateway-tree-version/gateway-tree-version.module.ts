@@ -10,19 +10,7 @@ export const gatewayTreeVersion = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A specifier is read from a bare import and from what follows `from`.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A specifier quoted inside a body is no import.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A specifier is read from one line rather than from a run of them.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A specifier opening `akasha/` resolves against the repository root.",
+      statement: "A file is reached by asking the graph what that file reaches.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -30,20 +18,11 @@ export const gatewayTreeVersion = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A member that cannot be read stops the walk rather than shortening the hash.",
+      statement: "A member that cannot be read refuses the hash rather than shortening it.",
     },
     {
       invariantKind: "invariant-kind/departure",
       statement: "Every path the hash names is relative to the repository root.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "A relative specifier resolves as written and then with `.ts` and then as a directory.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A specifier that resolves nowhere is refused.",
     },
     {
       invariantKind: "invariant-kind/absence",
