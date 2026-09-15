@@ -20,7 +20,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/service/workstation/pages/maintain-seat-pending/maintain-seat-pending.service-workstation.running.code.ts"
+  "akasha/agent/seat/service-workstations/maintain-seat-pending/maintain-seat-pending.service-workstation.running.code.ts"
 )
 
 function outcomeOf(run: Promise<never>, ms: number): Promise<string> {
