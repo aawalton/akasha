@@ -2,7 +2,7 @@ import type { ChangeMechanical } from "akasha/change/mechanical/change-mechanica
 
 export const addFileOfAnyKind = {
   id: "01a081bf-3f33-77ca-96cc-29ff7017f563",
-  type: "change-mechanical",
+  type: "page-type/change-mechanical",
   slug: "add-file-of-any-kind",
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",

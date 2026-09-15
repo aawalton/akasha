@@ -2,7 +2,7 @@ import type { ChangeMechanical } from "akasha/change/mechanical/change-mechanica
 
 export const changeProsePattern = {
   id: "01a09c40-46df-7fc1-aa5e-e1da32da2123",
-  type: "change-mechanical",
+  type: "page-type/change-mechanical",
   slug: "change-prose-pattern",
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/prose",

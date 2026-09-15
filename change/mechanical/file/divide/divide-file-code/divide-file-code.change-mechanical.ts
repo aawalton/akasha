@@ -2,7 +2,7 @@ import type { ChangeMechanical } from "akasha/change/mechanical/change-mechanica
 
 export const divideFileCode = {
   id: "01a09c43-477b-70bb-8ac6-1c63e5ab3632",
-  type: "change-mechanical",
+  type: "page-type/change-mechanical",
   slug: "divide-file-code",
   changeMode: "change-mode/change-mode-divide",
   changeTargetType: "change-target-type/file",

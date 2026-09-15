@@ -2,7 +2,7 @@ import type { ChangeMechanical } from "akasha/change/mechanical/change-mechanica
 
 export const removeFileCode = {
   id: "01a07987-afc1-73bf-8a8e-9ba1cc6c5248",
-  type: "change-mechanical",
+  type: "page-type/change-mechanical",
   slug: "remove-file-code",
   changeMode: "change-mode/change-mode-remove",
   changeTargetType: "change-target-type/file",
