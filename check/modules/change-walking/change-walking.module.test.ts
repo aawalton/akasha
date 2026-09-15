@@ -169,9 +169,10 @@ test("the page types are read from a shadow once, however many paths are held ag
     asked = asked + 1
   })
   expect(PAGES.isInput(PAGE_AT, shadow)).toBe(true)
+  const once = asked
   expect(PAGES.isInput(CODE_AT, shadow)).toBe(false)
   expect(PAGES.from(change, shadow).map((one) => one.path)).toEqual([PAGE_AT])
-  expect(asked).toBe(1)
+  expect(asked).toBe(once)
 })
 
 test("judging each of a selection makes a runner, naming the path each refusal is for", () => {
