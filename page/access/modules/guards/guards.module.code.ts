@@ -1,5 +1,4 @@
 import { isFileBacked } from "akasha/page/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
-import { isReadOnlyKey } from "akasha/page/access/modules/universal-keys/universal-keys.module.code.ts"
 
 class PageTypeNotFileBacked extends Error {
   readonly slug: string
@@ -15,22 +14,6 @@ class PageTypeNotFileBacked extends Error {
 export async function requireFileBacked(op: string, slug: string): Promise<undefined> {
   if (await isFileBacked(slug)) return
   throw new PageTypeNotFileBacked(op, slug)
-}
-
-class ReservedKeyError extends Error {
-  readonly kind = "read-only" as const
-  readonly key: string
-  constructor(op: string, key: string) {
-    super(`${op}: key "${key}" is system-managed (read-only) and cannot be written`)
-    this.name = "ReservedKeyError"
-    this.key = key
-  }
-}
-
-export function rejectReadOnlyKeys(op: string, properties: Record<string, unknown>): undefined {
-  for (const key of Object.keys(properties)) {
-    if (isReadOnlyKey(key)) throw new ReservedKeyError(op, key)
-  }
 }
 
 const TAGS_KEY = "tags"

@@ -1,9 +1,6 @@
 import { upsertFilePage } from "akasha/page/access/modules/file-write/file-write.module.code.ts"
 import { upsertFilePages } from "akasha/page/access/modules/file-write-many/file-write-many.module.code.ts"
-import {
-  rejectReadOnlyKeys,
-  requireFileBacked,
-} from "akasha/page/access/modules/guards/guards.module.code.ts"
+import { requireFileBacked } from "akasha/page/access/modules/guards/guards.module.code.ts"
 import {
   asPageList,
   overServer,
@@ -47,7 +44,6 @@ export type BulkUpsertPagesArgs<T extends Record<string, unknown> = Record<strin
 export async function upsertPage<T extends Record<string, unknown> = Record<string, Json>>(
   args: UpsertPageArgs<T>
 ): Promise<Page> {
-  rejectReadOnlyKeys("upsertPage", args.set)
   await requireFileBacked("upsertPage", args.pageTypeSlug)
   if (writesOverServer()) return asPage(await overServer("upsertPage", args))
   const { page } = await upsertFilePage({
@@ -64,7 +60,6 @@ export async function upsertPage<T extends Record<string, unknown> = Record<stri
 export async function upsertPages<T extends Record<string, unknown> = Record<string, Json>>(
   args: UpsertPagesArgs<T>
 ): Promise<readonly Page[]> {
-  for (const item of args.items) rejectReadOnlyKeys("upsertPages", item.set)
   await requireFileBacked("upsertPages", args.pageTypeSlug)
   if (writesOverServer()) return asPageList(await overServer("upsertPages", args))
   return await upsertFilePages({
@@ -77,7 +72,6 @@ export async function upsertPages<T extends Record<string, unknown> = Record<str
 export async function bulkUpsertPages<T extends Record<string, unknown> = Record<string, Json>>(
   args: BulkUpsertPagesArgs<T>
 ): Promise<readonly Page[]> {
-  for (const item of args.items) rejectReadOnlyKeys("bulkUpsertPages", item)
   await requireFileBacked("bulkUpsertPages", args.pageTypeSlug)
   if (writesOverServer()) return asPageList(await overServer("bulkUpsertPages", args))
   const landed: Page[] = []

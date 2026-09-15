@@ -41,7 +41,6 @@ export const pageAccess = {
     "module/routing-core",
     "module/sentinels",
     "module/types",
-    "module/universal-keys",
     "module/upsert",
   ],
   invariants: [

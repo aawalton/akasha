@@ -2,10 +2,7 @@ import {
   createFilePage,
   upsertFilePage,
 } from "akasha/page/access/modules/file-write/file-write.module.code.ts"
-import {
-  rejectReadOnlyKeys,
-  requireFileBacked,
-} from "akasha/page/access/modules/guards/guards.module.code.ts"
+import { requireFileBacked } from "akasha/page/access/modules/guards/guards.module.code.ts"
 import {
   overServer,
   writesOverServer,
@@ -32,7 +29,6 @@ export type CreatePageArgs<T extends Record<string, unknown> = Record<string, Js
 export async function createPage<T extends Record<string, unknown> = Record<string, Json>>(
   args: CreatePageArgs<T>
 ): Promise<Page> {
-  rejectReadOnlyKeys("createPage", args.properties)
   await requireFileBacked("createPage", args.pageTypeSlug)
   if (writesOverServer()) return asPage(await overServer("createPage", args))
   return createFilePage({
@@ -60,7 +56,6 @@ const CREATED_OVER_SERVER = z.looseObject({ page: z.unknown(), created: z.boolea
 export async function createPageIfAbsent<T extends Record<string, unknown> = Record<string, Json>>(
   args: CreatePageIfAbsentArgs<T>
 ): Promise<CreatePageIfAbsentResult> {
-  rejectReadOnlyKeys("createPageIfAbsent", args.properties)
   await requireFileBacked("createPageIfAbsent", args.pageTypeSlug)
   if (writesOverServer()) {
     const over = CREATED_OVER_SERVER.parse(await overServer("createPageIfAbsent", args))

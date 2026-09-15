@@ -3,7 +3,6 @@ import {
   refuseJsonPatch,
 } from "akasha/page/access/modules/file-write/file-write.module.code.ts"
 import {
-  rejectReadOnlyKeys,
   rejectWholesaleTagsSet,
   requireFileBacked,
 } from "akasha/page/access/modules/guards/guards.module.code.ts"
@@ -38,7 +37,6 @@ async function callPagePatch<T extends Record<string, unknown> = Record<string, 
   args: PatchPageArgs<T>,
   atMostOne = false
 ): Promise<readonly Page[]> {
-  rejectReadOnlyKeys("patchPage", args.set)
   rejectWholesaleTagsSet("patchPage", args.set)
   await requireFileBacked("patchPage", args.pageTypeSlug)
   refuseJsonPatch("patchPage", args.pageTypeSlug, args.patch)
@@ -88,7 +86,6 @@ export type PatchPageByIdArgs<T extends Record<string, unknown> = Record<string,
 export async function patchPageById<T extends Record<string, unknown> = Record<string, Json>>(
   args: PatchPageByIdArgs<T>
 ): Promise<Page | null> {
-  rejectReadOnlyKeys("patchPageById", args.set)
   rejectWholesaleTagsSet("patchPageById", args.set)
   await requireFileBacked("patchPageById", args.pageTypeSlug)
   refuseJsonPatch("patchPageById", args.pageTypeSlug, args.patch)
