@@ -12,6 +12,7 @@ import {
   slugAt,
   slugsIn,
   textAt,
+  typeIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
@@ -351,7 +352,7 @@ function schemaAmong(schemas: ReadonlyMap<string, Shape>, said: string): Shape |
 export function sourceAmong(values: readonly Value[], source: Source): Source {
   const types = new Map<string, Value>()
   for (const value of values) {
-    if ((textAt(value, "type") ?? textAt(value, "pageTypeSlug")) !== PAGE_TYPE) continue
+    if (typeIn(value) !== PAGE_TYPE) continue
     const slug = textAt(value, "slug")
     if (slug !== null) types.set(slug, value)
   }
