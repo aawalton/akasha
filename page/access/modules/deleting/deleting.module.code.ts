@@ -1,5 +1,5 @@
 import { removeFilePages } from "akasha/page/access/modules/file-write/file-write.module.code.ts"
-import { requireFileBacked } from "akasha/page/access/modules/guards/guards.module.code.ts"
+
 import {
   asPageList,
   overServer,
@@ -32,7 +32,6 @@ export type DeletePageByIdsArgs = {
 
 async function runBulk(args: DeletePageArgs, atMostOne = false): Promise<readonly Page[]> {
   const named = atMostOne ? "deletePage" : "deletePages"
-  await requireFileBacked(named, args.pageTypeSlug)
   if (writesOverServer()) {
     if (atMostOne) {
       const one = await overServer("deletePage", args)
@@ -62,7 +61,6 @@ export function deletePages(args: DeletePageArgs): Promise<readonly Page[]> {
 
 export async function deletePageById(args: DeletePageByIdArgs): Promise<Page | null> {
   const named = "deletePageById"
-  await requireFileBacked(named, args.pageTypeSlug)
   if (writesOverServer()) {
     const one = await overServer(named, args)
     return one === null ? null : asPage(one)
@@ -81,7 +79,6 @@ export async function deletePageById(args: DeletePageByIdArgs): Promise<Page | n
 
 export async function deletePageByIds(args: DeletePageByIdsArgs): Promise<readonly Page[]> {
   const named = "deletePageByIds"
-  await requireFileBacked(named, args.pageTypeSlug)
   if (writesOverServer()) return asPageList(await overServer(named, args))
   return removeFilePages(
     {
