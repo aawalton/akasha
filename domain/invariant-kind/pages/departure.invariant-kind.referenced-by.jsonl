@@ -3473,6 +3473,10 @@
 {"propertySlug":"invariant-kind","path":"temper/character-source/modules/target-armors/target-armors.module.ts","id":"01a060ea-ac64-73f9-9faf-71788fd4b609"}
 {"propertySlug":"invariant-kind","path":"temper/character-source/modules/vampire-stages/vampire-stages.module.ts","id":"01a060ea-ac65-780c-876f-8ff34a264cc4"}
 {"propertySlug":"invariant-kind","path":"temper/character-source/temper-character-source.domain.ts","id":"01a060ea-ac66-7120-a995-b58614b651f2"}
+{"propertySlug":"invariant-kind","path":"temper/character-stat/modules/metric-tree-data-01/metric-tree-data-01.module.ts","id":"01a06133-5f06-736a-899a-cc2c7e589cc2"}
+{"propertySlug":"invariant-kind","path":"temper/character-stat/modules/metric-tree-data-02/metric-tree-data-02.module.ts","id":"01a06133-5f07-74ca-9149-2488b2a8aad9"}
+{"propertySlug":"invariant-kind","path":"temper/character-stat/modules/metric-tree-data/metric-tree-data.module.ts","id":"01a06133-5f08-7ca8-bc0d-02aa20d2f63c"}
+{"propertySlug":"invariant-kind","path":"temper/character-stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}
 {"propertySlug":"invariant-kind","path":"temper/character/character-build/character-build.page-type.ts","id":"01a06835-fae8-7243-8c39-219aa5e07daf"}
 {"propertySlug":"invariant-kind","path":"temper/character/character-build/properties/build-correlation-id.text-property.ts","id":"01a06862-c4ee-7eb3-a4f2-21c62306945a"}
 {"propertySlug":"invariant-kind","path":"temper/character/character-build/properties/build-visibility.select-property.ts","id":"01a06862-c4ee-7a6d-886a-f9af2859fd5f"}
@@ -3519,10 +3523,6 @@
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.ts","id":"01a0616f-8e18-7979-89eb-61f1621f3cdb"}
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
 {"propertySlug":"invariant-kind","path":"temper/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts","id":"01a062ff-2792-7da8-8bfd-3a48ace9bf53"}
-{"propertySlug":"invariant-kind","path":"temper/characters-stats/modules/metric-tree-data-01/metric-tree-data-01.module.ts","id":"01a06133-5f06-736a-899a-cc2c7e589cc2"}
-{"propertySlug":"invariant-kind","path":"temper/characters-stats/modules/metric-tree-data-02/metric-tree-data-02.module.ts","id":"01a06133-5f07-74ca-9149-2488b2a8aad9"}
-{"propertySlug":"invariant-kind","path":"temper/characters-stats/modules/metric-tree-data/metric-tree-data.module.ts","id":"01a06133-5f08-7ca8-bc0d-02aa20d2f63c"}
-{"propertySlug":"invariant-kind","path":"temper/characters-stats/temper-characters-stats.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}
 {"propertySlug":"invariant-kind","path":"temper/chat-entry/modules/chat-entry-text/chat-entry-text.module.ts","id":"01a090b3-cd34-73db-8728-72f922749cda"}
 {"propertySlug":"invariant-kind","path":"temper/chat-entry/temper-chat-entry.domain.ts","id":"01a090b3-e1dd-7d60-8166-34e88a0496b5"}
 {"propertySlug":"invariant-kind","path":"temper/collections-addon/item-browser-layout/item-browser-layout.eso-interface.ts","id":"01a0624c-a660-7557-96b8-3a4e90b786d8"}

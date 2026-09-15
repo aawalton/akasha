@@ -1,0 +1,10 @@
+{"propertySlug":"import","fileName":"skill-slots.module.code.ts","path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
+{"propertySlug":"import","fileName":"skill-slots.module.code.ts","path":"temper/character-build/modules/build-types/build-types.module.code.ts"}
+{"propertySlug":"import","fileName":"skill-slots.module.code.ts","path":"temper/character-skills/modules/passive-queries/passive-queries.module.code.ts"}
+{"propertySlug":"import","fileName":"skill-slots.module.code.ts","path":"temper/character-skills/modules/query-shapes/query-shapes.module.code.ts"}
+{"propertySlug":"import","fileName":"skill-slots.module.code.ts","path":"temper/character-skills/modules/skill-line-queries/skill-line-queries.module.code.ts"}
+{"propertySlug":"import","fileName":"skill-slots.module.code.ts","path":"temper/character-stat/modules/extract-skills/extract-skills.module.code.ts"}
+{"propertySlug":"import","fileName":"skill-slots.module.code.ts","path":"temper/web/modules/skill-bar-panel-card/skill-bar-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"skill-slots.module.code.ts","path":"temper/web/modules/skills-panel/skills-panel.module.code.tsx"}
+{"propertySlug":"import","fileName":"skill-slots.module.code.ts","path":"temper/web/modules/use-skill-bars/use-skill-bars.module.code.ts"}
+{"propertySlug":"parts","path":"temper/skill-kinds/temper-skill-kinds.domain.ts","id":"01a060db-b2bf-75cc-8809-206da241df83"}

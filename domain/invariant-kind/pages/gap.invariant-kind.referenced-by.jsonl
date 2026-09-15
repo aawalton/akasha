@@ -538,6 +538,8 @@
 {"propertySlug":"invariant-kind","path":"temper/character-source/modules/food-or-drink-source/food-or-drink-source.module.ts","id":"01a060ea-ac63-7f87-bbe2-20c3ae760481"}
 {"propertySlug":"invariant-kind","path":"temper/character-source/modules/mundus-source/mundus-source.module.ts","id":"01a061a7-9bb1-778e-b38f-f397e2f754ea"}
 {"propertySlug":"invariant-kind","path":"temper/character-source/modules/vampire-stages/vampire-stages.module.ts","id":"01a060ea-ac65-780c-876f-8ff34a264cc4"}
+{"propertySlug":"invariant-kind","path":"temper/character-stat/modules/metric-tree-data/metric-tree-data.module.ts","id":"01a06133-5f08-7ca8-bc0d-02aa20d2f63c"}
+{"propertySlug":"invariant-kind","path":"temper/character-stat/modules/metrics/metrics.module.ts","id":"01a06131-abb7-7c5f-81a0-69154a33d704"}
 {"propertySlug":"invariant-kind","path":"temper/character/temper-build-version/properties/build.text-property.ts","id":"01a0685d-89aa-749c-b7bc-b0f638217233"}
 {"propertySlug":"invariant-kind","path":"temper/character/temper-build-version/temper-build-version.page-type.ts","id":"019dbb6c-51c0-7b3c-b483-0a739f32d9fb"}
 {"propertySlug":"invariant-kind","path":"temper/characters-addon/modules/characters-scribing-sources/characters-scribing-sources.module.ts","id":"01a062ed-39c9-700c-9df3-7f4288c3c504"}
@@ -672,8 +674,6 @@
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/sets-data-123/sets-data-123.module.ts","id":"01a061a4-18b0-7f37-89cc-e3646ca45a3c"}
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.ts","id":"01a0616f-8e18-7979-89eb-61f1621f3cdb"}
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
-{"propertySlug":"invariant-kind","path":"temper/characters-stats/modules/metric-tree-data/metric-tree-data.module.ts","id":"01a06133-5f08-7ca8-bc0d-02aa20d2f63c"}
-{"propertySlug":"invariant-kind","path":"temper/characters-stats/modules/metrics/metrics.module.ts","id":"01a06131-abb7-7c5f-81a0-69154a33d704"}
 {"propertySlug":"invariant-kind","path":"temper/classes/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
 {"propertySlug":"invariant-kind","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.ts","id":"01a068e2-226d-7781-8c70-c328fa164cff"}
 {"propertySlug":"invariant-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}

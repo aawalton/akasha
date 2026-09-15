@@ -3,8 +3,8 @@ import {
   type CategoryNode,
   isMetricNode,
   isSubcategoryNode,
-} from "akasha/temper/characters-stats/modules/metric-tree-types/metric-tree-types.module.code.ts"
-import type { MetricValue } from "akasha/temper/characters-stats/modules/metric-value/metric-value.module.code.ts"
+} from "akasha/temper/character-stat/modules/metric-tree-types/metric-tree-types.module.code.ts"
+import type { MetricValue } from "akasha/temper/character-stat/modules/metric-value/metric-value.module.code.ts"
 import {
   hasVisibleMetricRows,
   MetricTreeRenderer,

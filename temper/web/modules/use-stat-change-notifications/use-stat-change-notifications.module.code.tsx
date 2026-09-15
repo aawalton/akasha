@@ -1,17 +1,17 @@
 "use client"
 
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import { buildStateToEffectSources } from "akasha/temper/characters-stats/modules/build-state-adapter/build-state-adapter.module.code.ts"
+import { buildStateToEffectSources } from "akasha/temper/character-stat/modules/build-state-adapter/build-state-adapter.module.code.ts"
 import {
   compareMetricValuesUnfiltered,
   filterByAffectedMetrics,
-} from "akasha/temper/characters-stats/modules/compare-stats/compare-stats.module.code.ts"
+} from "akasha/temper/character-stat/modules/compare-stats/compare-stats.module.code.ts"
 import {
   diffEffectSources,
   summarizeEffectChanges,
-} from "akasha/temper/characters-stats/modules/diff-effect-sources/diff-effect-sources.module.code.ts"
-import { calculateBuildStatsByBar } from "akasha/temper/characters-stats/modules/metric-calculator/metric-calculator.module.code.ts"
-import type { MetricValue } from "akasha/temper/characters-stats/modules/metric-value/metric-value.module.code.ts"
+} from "akasha/temper/character-stat/modules/diff-effect-sources/diff-effect-sources.module.code.ts"
+import { calculateBuildStatsByBar } from "akasha/temper/character-stat/modules/metric-calculator/metric-calculator.module.code.ts"
+import type { MetricValue } from "akasha/temper/character-stat/modules/metric-value/metric-value.module.code.ts"
 import type { EffectSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "akasha/temper/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import {

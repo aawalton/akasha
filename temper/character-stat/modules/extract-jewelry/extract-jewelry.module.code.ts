@@ -1,0 +1,13 @@
+import type { PipelineStage } from "akasha/temper/character-stat/modules/pipeline-types/pipeline-types.module.code.ts"
+import { createJewelrySource } from "akasha/temper/characters-equipment/modules/jewelry-source/jewelry-source.module.code.ts"
+import { valuesOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
+
+export const extractJewelry: PipelineStage = (build, _context) => {
+  const targetHealth = build.target.health
+  const jewelryItems = valuesOf(build.equipment.jewelry)
+  return jewelryItems
+    .filter((item) => item.itemType === "jewelry")
+    .map((item) => {
+      return createJewelrySource(item.data, targetHealth)
+    })
+}

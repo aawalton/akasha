@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts"}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/character-build/modules/build-types/build-types.module.code.ts"}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/character-source/modules/target-source/target-source.module.code.ts"}
-{"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/characters-stats/modules/extract-target/extract-target.module.code.ts"}
+{"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/character-stat/modules/extract-target/extract-target.module.code.ts"}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/companions-core/modules/companion-rotation-metrics/companion-rotation-metrics.module.code.ts"}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/companions-core/modules/companion-stats-calculator-impl/companion-stats-calculator-impl.module.code.ts"}

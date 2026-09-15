@@ -14,13 +14,13 @@ import {
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import { METRIC_TREE } from "akasha/temper/characters-stats/modules/metric-tree-data/metric-tree-data.module.code.ts"
+import { METRIC_TREE } from "akasha/temper/character-stat/modules/metric-tree-data/metric-tree-data.module.code.ts"
 import {
   isMetricNode,
   isSubcategoryNode,
   type MetricTreeNode,
-} from "akasha/temper/characters-stats/modules/metric-tree-types/metric-tree-types.module.code.ts"
-import { getMetricDisplayName } from "akasha/temper/characters-stats/modules/metrics/metrics.module.code.ts"
+} from "akasha/temper/character-stat/modules/metric-tree-types/metric-tree-types.module.code.ts"
+import { getMetricDisplayName } from "akasha/temper/character-stat/modules/metrics/metrics.module.code.ts"
 import { isNamedSource } from "akasha/temper/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import { BuffOrDebuffExplanationDialog } from "akasha/temper/web/modules/buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx"
 import { EffectsPanelCard } from "akasha/temper/web/modules/effects-panel-card/effects-panel-card.module.code.tsx"
