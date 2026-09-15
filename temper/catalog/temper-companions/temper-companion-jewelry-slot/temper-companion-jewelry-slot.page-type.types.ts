@@ -1,5 +1,5 @@
+import type { SlotCategory } from "akasha/temper/catalog/temper-companions/temper-companion-jewelry-slot/properties/slot-category.text-property.types.ts"
 import type { EquipType } from "akasha/temper/catalog/temper-companions/temper-companion-thing/properties/equip-type.number-property.types.ts"
-import type { SlotCategory } from "akasha/temper/catalog/temper-companions/temper-companion-thing/properties/slot-category.text-property.types.ts"
 import type { TemperCompanionThing } from "akasha/temper/catalog/temper-companions/temper-companion-thing/temper-companion-thing.page-type.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
 
