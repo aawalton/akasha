@@ -17,9 +17,10 @@ import {
   BUN_RUNTIME_IMAGE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { archiveOfWorldsWeb } from "akasha/infrastructure/service/cluster/pages/archive-of-worlds-web/archive-of-worlds-web.service-cluster.ts"
 
-const NAMESPACE = "archive-of-worlds"
-const APP_NAME = "web"
+const NAMESPACE = archiveOfWorldsWeb.namespace
+const APP_NAME = archiveOfWorldsWeb.resourceName
 const SECRET_NAME = "archive-of-worlds-secrets"
 
 const RESOURCE_LABELS = {
@@ -46,7 +47,7 @@ function webDeploymentYaml(): string {
     kind: "Deployment",
     metadata: { name: APP_NAME, namespace: NAMESPACE, labels: RESOURCE_LABELS },
     spec: {
-      replicas: 1,
+      replicas: archiveOfWorldsWeb.replicas,
       strategy: {
         type: "RollingUpdate",
         rollingUpdate: { maxSurge: 1, maxUnavailable: 0 },
@@ -71,13 +72,13 @@ function webDeploymentYaml(): string {
               imagePullPolicy: "IfNotPresent",
               workingDir: orchestratorCacheEntrypointPath("product/archive-of-worlds/web"),
               command: ["bun", "run", "server.ts"],
-              ports: [{ containerPort: 3000, protocol: "TCP" }],
+              ports: [{ containerPort: archiveOfWorldsWeb.containerPort, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],
               env: [
                 { name: "NODE_ENV", value: "production" },
                 { name: "AKASHA_ROOT", value: ORCHESTRATOR_CACHE_REPO_PATH },
                 { name: "HOST", value: "0.0.0.0" },
-                { name: "PORT", value: "3000" },
+                { name: "PORT", value: `${archiveOfWorldsWeb.containerPort}` },
                 { name: "PAGE_WRITER", value: "archive-of-worlds-web" },
                 { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
                 { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".archiveofworlds.app" },
@@ -95,14 +96,14 @@ function webDeploymentYaml(): string {
                 capabilities: { drop: ["ALL"] },
               },
               livenessProbe: {
-                httpGet: { path: "/api/health", port: 3000 },
+                httpGet: { path: "/api/health", port: archiveOfWorldsWeb.containerPort },
                 initialDelaySeconds: 15,
                 periodSeconds: 10,
                 failureThreshold: 6,
                 timeoutSeconds: 5,
               },
               readinessProbe: {
-                httpGet: { path: "/api/health", port: 3000 },
+                httpGet: { path: "/api/health", port: archiveOfWorldsWeb.containerPort },
                 initialDelaySeconds: 5,
                 periodSeconds: 5,
                 failureThreshold: 12,
