@@ -98,7 +98,38 @@ export const treeSearching = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "How many threads a listing takes is the caller's to say.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A caller saying nothing is answered as fast as the machine allows.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A caller held to a processor ceiling says one thread, spending less of what it is held to.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A listing names no kind, and a file the repository ignores is left unlisted.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A listing narrowed to kinds leaves out a file the repository ignores all the same.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A kind is named to such a listing as a type rather than as a glob.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A glob would take precedence over what the repository ignores, and a type does not.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A listing narrowed to no kind lists nothing rather than everything.",
     },
     {
       invariantKind: "invariant-kind/absence",

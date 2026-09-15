@@ -32,6 +32,12 @@ const SEARCHED: readonly string[] = [
 
 const LISTED: readonly string[] = ["--files", ...TAKEN]
 
+const THREADED = "--threads"
+
+function threading(threads: number | null): readonly string[] {
+  return threads === null ? [] : [THREADED, String(threads)]
+}
+
 const APART: readonly string[] = [".git", "node_modules", indexNamed()]
 
 export const TYPED_KINDS: readonly string[] = ["*.ts", "*.tsx"]
@@ -83,8 +89,39 @@ export function pathsSearched(
   return bothWays((said) => ranWith(root, [...SEARCHED, ...said], kinds, fed))
 }
 
-export function pathsListed(root: string): readonly string[] {
-  return bothWays((said) => ranWith(root, [...LISTED, ...said], EVERY_KIND, null)).toSorted()
+export function pathsListed(root: string, threads: number | null = null): readonly string[] {
+  const held = [...LISTED, ...threading(threads)]
+  return bothWays((said) => ranWith(root, [...held, ...said], EVERY_KIND, null)).toSorted()
+}
+
+const TYPED = "--type-add"
+
+const OF_KIND = "collected"
+
+function typing(kinds: readonly string[]): readonly string[] {
+  const said: string[] = []
+  for (const one of kinds) said.push(TYPED, `${OF_KIND}:${one}`)
+  for (const one of APART) said.push(GLOBBED, `!**/${one}/`)
+  return [...said, "-t", OF_KIND]
+}
+
+function ranTyped(
+  root: string,
+  taking: readonly string[],
+  kinds: readonly string[]
+): readonly string[] {
+  const done = ran([rgPath, ...taking, ...typing(kinds), root])
+  return foundIn(done.out, done.code, done.err, root)
+}
+
+export function pathsTyped(
+  root: string,
+  kinds: readonly string[],
+  threads: number | null = null
+): readonly string[] {
+  if (kinds.length === 0) return []
+  const held = [...LISTED, ...threading(threads)]
+  return bothWays((said) => ranTyped(root, [...held, ...said], kinds)).toSorted()
 }
 
 function overlaid(over: Answer, found: readonly string[]): readonly string[] {

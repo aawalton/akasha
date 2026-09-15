@@ -200,6 +200,15 @@ export const changeWalking = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A search a check makes takes one thread, spending no more than one processor.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A search over threads ends sooner and spends more, and a ceiling counts what is spent.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A search finding no page answers no path rather than refusing.",
     },
     {

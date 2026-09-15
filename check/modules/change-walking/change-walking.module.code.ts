@@ -1,6 +1,9 @@
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { pathsListed } from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
+import {
+  pathsListed,
+  pathsTyped,
+} from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
 import type {
   Judged,
   Running,
@@ -22,7 +25,6 @@ import {
   textsAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { isMissing } from "akasha/util/fs/modules/missing/missing.module.code.ts"
-import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 
 export type Body = {
   readonly root: string
@@ -364,7 +366,7 @@ export async function overEveryTextAsync(
 
 export function everythingIn(root: string): Change {
   const both = onDisk(root)
-  const changed = pathsListed(root)
+  const changed = pathsListed(root, ONE_THREAD)
   if (changed.length === 0) {
     throw new Error(`the tree at ${root} could not be walked — no file sits under it`)
   }
@@ -376,22 +378,12 @@ export function nothingIn(root: string): Change {
   return { root, changed: [], before: both, after: both }
 }
 
-const FOUND_NOTHING = 1
-
-function pathsTypedIn(root: string, types: ReadonlySet<string>): readonly string[] {
-  if (types.size === 0) return []
-  const globs = [...types].flatMap((one) => ["--glob", `*.${one}${TS}`])
-  const done = ran(["rg", "--files", "--null", ...globs], { cwd: root })
-  if (done.code === FOUND_NOTHING) return []
-  if (done.code !== 0) {
-    throw new Error(`the tree at ${root} could not be searched — ${done.err.trim()}`)
-  }
-  return done.out.split("\0").filter((one) => one !== "")
-}
+const ONE_THREAD = 1
 
 export function pagesTypedIn(root: string, types: ReadonlySet<string>): Change {
   const both = onDisk(root)
-  return { root, changed: pathsTypedIn(root, types), before: both, after: both }
+  const kinds = [...types].map((one) => `*.${one}${TS}`)
+  return { root, changed: pathsTyped(root, kinds, ONE_THREAD), before: both, after: both }
 }
 
 function isFolder(thrown: unknown): boolean {
