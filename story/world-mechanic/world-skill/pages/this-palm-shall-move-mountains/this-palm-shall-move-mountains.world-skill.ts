@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const thisPalmShallMoveMountains = {
   id: "01a0657d-0313-771f-96df-88ad160620e9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "this-palm-shall-move-mountains",
   title: "This Palm Shall Move Mountains",
   world: "world/the-wandering-inn",

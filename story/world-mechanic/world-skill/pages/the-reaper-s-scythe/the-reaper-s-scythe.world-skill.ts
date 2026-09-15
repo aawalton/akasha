@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theReaperSScythe = {
   id: "01a0657d-0312-7e9b-801a-522143f8b387",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-reaper-s-scythe",
   title: "The Reaper’s Scythe",
   world: "world/the-wandering-inn",

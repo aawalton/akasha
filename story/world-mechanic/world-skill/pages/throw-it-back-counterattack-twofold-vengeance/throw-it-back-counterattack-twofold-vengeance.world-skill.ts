@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const throwItBackCounterattackTwofoldVengeance = {
   id: "01a0657d-0315-7f59-b670-967b09826995",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "throw-it-back-counterattack-twofold-vengeance",
   title: "Throw It Back: Counterattack, Twofold Vengeance",
   world: "world/the-wandering-inn",

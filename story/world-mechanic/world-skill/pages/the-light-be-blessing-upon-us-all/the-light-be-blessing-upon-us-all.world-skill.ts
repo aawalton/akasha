@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theLightBeBlessingUponUsAll = {
   id: "01a0657d-0312-774a-8bda-85e04bb8c32e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-light-be-blessing-upon-us-all",
   title: "The Light Be Blessing Upon Us All",
   world: "world/the-wandering-inn",

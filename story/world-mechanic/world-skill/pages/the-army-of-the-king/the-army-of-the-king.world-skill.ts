@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theArmyOfTheKing = {
   id: "01a0657d-0311-793e-ae42-4d43c3162194",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-army-of-the-king",
   title: "The Army of the King",
   world: "world/the-wandering-inn",

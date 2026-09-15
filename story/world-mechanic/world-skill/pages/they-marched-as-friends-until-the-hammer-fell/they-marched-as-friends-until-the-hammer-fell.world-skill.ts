@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theyMarchedAsFriendsUntilTheHammerFell = {
   id: "01a0657d-0313-748a-af3f-9ef8f4782ae8",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "they-marched-as-friends-until-the-hammer-fell",
   title: "They Marched as Friends, Until the Hammer Fell",
   world: "world/the-wandering-inn",

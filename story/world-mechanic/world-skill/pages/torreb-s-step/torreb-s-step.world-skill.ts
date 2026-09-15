@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const torrebSStep = {
   id: "01a0657d-0315-7b80-840e-425a618b8d6a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "torreb-s-step",
   title: "Torreb’s Step",
   world: "world/the-wandering-inn",

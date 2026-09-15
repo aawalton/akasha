@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const telekineticGrip = {
   id: "01a0657d-0311-70a2-bc13-40b0c665bafa",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "telekinetic-grip",
   title: "Telekinetic Grip",
   world: "world/the-wandering-inn",

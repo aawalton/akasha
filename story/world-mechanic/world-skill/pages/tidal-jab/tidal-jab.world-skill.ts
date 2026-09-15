@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const tidalJab = {
   id: "01a0657d-0315-75ef-8c9c-5949cd77b0b6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "tidal-jab",
   title: "Tidal Jab",
   world: "world/the-wandering-inn",

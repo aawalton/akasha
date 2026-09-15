@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const threadOfFate = {
   id: "01a0657d-0315-7628-8d30-247194be1c8c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "thread-of-fate",
   title: "Thread of Fate",
   world: "world/the-wandering-inn",

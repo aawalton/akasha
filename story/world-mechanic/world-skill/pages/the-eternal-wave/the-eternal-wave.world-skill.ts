@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theEternalWave = {
   id: "01a0657d-0311-7fbb-8c08-a1877c2ce234",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-eternal-wave",
   title: "The Eternal Wave",
   world: "world/the-wandering-inn",

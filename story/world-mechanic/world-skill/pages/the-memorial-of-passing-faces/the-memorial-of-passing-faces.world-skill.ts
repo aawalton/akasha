@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theMemorialOfPassingFaces = {
   id: "01a0657d-0312-78f7-9c1d-97ce376c369f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-memorial-of-passing-faces",
   title: "The Memorial of Passing Faces",
   world: "world/the-wandering-inn",

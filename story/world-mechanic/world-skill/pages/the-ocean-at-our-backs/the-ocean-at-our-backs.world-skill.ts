@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theOceanAtOurBacks = {
   id: "01a0657d-0312-7834-be17-d2d54322ccf1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-ocean-at-our-backs",
   title: "The Ocean At Our Backs",
   world: "world/the-wandering-inn",

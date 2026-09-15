@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theMessengerSShortcut = {
   id: "01a0657d-0312-7e13-8b91-b651810d1d62",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-messenger-s-shortcut",
   title: "The Messenger’s Shortcut",
   world: "world/the-wandering-inn",

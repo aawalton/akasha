@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const thickGlassAlchemy = {
   id: "01a0657d-0313-737f-9328-cab4ccbc6709",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "thick-glass-alchemy",
   title: "Thick Glass (Alchemy)",
   world: "world/the-wandering-inn",

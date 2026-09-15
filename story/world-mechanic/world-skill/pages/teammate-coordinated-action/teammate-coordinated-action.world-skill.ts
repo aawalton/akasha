@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const teammateCoordinatedAction = {
   id: "01a0657d-0311-7500-97c0-e94d41f161f0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "teammate-coordinated-action",
   title: "Teammate: Coordinated Action",
   world: "world/the-wandering-inn",

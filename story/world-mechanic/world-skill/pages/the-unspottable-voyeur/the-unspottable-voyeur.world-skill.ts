@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theUnspottableVoyeur = {
   id: "01a0657d-0312-7537-877c-5f40e4dadd11",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-unspottable-voyeur",
   title: "The Unspottable Voyeur",
   world: "world/the-wandering-inn",

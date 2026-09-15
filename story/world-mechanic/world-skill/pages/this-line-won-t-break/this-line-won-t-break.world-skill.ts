@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const thisLineWonTBreak = {
   id: "01a0657d-0313-783e-84d6-5b47c8ee3a84",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "this-line-won-t-break",
   title: "This Line Won’t Break",
   world: "world/the-wandering-inn",

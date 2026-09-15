@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const thePlayMustGoOn = {
   id: "01a0657d-0312-74d4-9a1d-0bc324a17acb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-play-must-go-on",
   title: "The Play Must Go On",
   world: "world/the-wandering-inn",

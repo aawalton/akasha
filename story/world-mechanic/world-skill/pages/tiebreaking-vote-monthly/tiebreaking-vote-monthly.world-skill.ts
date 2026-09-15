@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const tiebreakingVoteMonthly = {
   id: "01a0657d-0315-7333-a4b6-d127cc037caa",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "tiebreaking-vote-monthly",
   title: "Tiebreaking Vote (Monthly)",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theWorldIsMyCanvas = {
   id: "01a0657d-0312-7975-9762-4caf39c4cf28",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-world-is-my-canvas",
   title: "The World is My Canvas",
   world: "world/the-wandering-inn",

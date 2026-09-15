@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const timedActivation = {
   id: "01a0657d-0315-7bb4-b2d6-901be6026a11",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "timed-activation",
   title: "Timed Activation",
   world: "world/the-wandering-inn",

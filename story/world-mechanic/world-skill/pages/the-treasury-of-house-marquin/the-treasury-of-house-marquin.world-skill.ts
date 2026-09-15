@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theTreasuryOfHouseMarquin = {
   id: "01a0657d-0312-708f-a539-dff2a2628577",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-treasury-of-house-marquin",
   title: "The Treasury of House Marquin",
   world: "world/the-wandering-inn",

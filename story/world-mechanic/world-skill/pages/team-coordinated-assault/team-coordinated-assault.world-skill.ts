@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const teamCoordinatedAssault = {
   id: "01a0657d-0310-780d-a9a3-6b01d24c1c6f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "team-coordinated-assault",
   title: "Team: Coordinated Assault",
   world: "world/the-wandering-inn",

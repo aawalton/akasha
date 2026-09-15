@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const threatForecast = {
   id: "01a0657d-0315-73a4-90ce-d0f299b6d609",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "threat-forecast",
   title: "Threat Forecast",
   world: "world/the-wandering-inn",

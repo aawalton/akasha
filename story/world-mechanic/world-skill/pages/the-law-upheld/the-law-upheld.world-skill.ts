@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theLawUpheld = {
   id: "01a0657d-0312-799f-b229-c774ba17d3b9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-law-upheld",
   title: "The Law Upheld",
   world: "world/the-wandering-inn",

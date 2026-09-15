@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const totalImmunityShame = {
   id: "01a0657d-0315-7cde-b8fd-808f26323929",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "total-immunity-shame",
   title: "Total Immunity: Shame",
   world: "world/the-wandering-inn",

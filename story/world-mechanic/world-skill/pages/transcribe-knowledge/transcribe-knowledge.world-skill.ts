@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const transcribeKnowledge = {
   id: "01a0657d-0316-719c-8aeb-d8b7063b3530",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "transcribe-knowledge",
   title: "Transcribe Knowledge",
   world: "world/the-wandering-inn",

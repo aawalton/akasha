@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theCourierSLastRoad = {
   id: "01a0657d-0311-7e1b-90d5-afc81f6be237",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-courier-s-last-road",
   title: "The Courier’s Last Road",
   world: "world/the-wandering-inn",

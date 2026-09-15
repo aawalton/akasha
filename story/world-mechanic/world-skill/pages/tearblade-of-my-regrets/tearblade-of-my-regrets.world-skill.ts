@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const tearbladeOfMyRegrets = {
   id: "01a0657d-0311-7986-84f8-f541d475dca5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "tearblade-of-my-regrets",
   title: "Tearblade of My Regrets",
   world: "world/the-wandering-inn",

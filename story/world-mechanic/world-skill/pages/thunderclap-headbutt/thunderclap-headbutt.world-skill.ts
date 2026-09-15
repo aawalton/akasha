@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const thunderclapHeadbutt = {
   id: "01a0657d-0315-7473-bb5e-1f20e5184dca",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "thunderclap-headbutt",
   title: "Thunderclap Headbutt",
   world: "world/the-wandering-inn",

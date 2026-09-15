@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const thickScales = {
   id: "01a0657d-0313-7fde-921a-92c8f5410bf5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "thick-scales",
   title: "Thick Scales",
   world: "world/the-wandering-inn",

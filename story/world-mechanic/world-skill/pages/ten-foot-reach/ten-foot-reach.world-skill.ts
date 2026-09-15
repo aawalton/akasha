@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const tenFootReach = {
   id: "01a0657d-0311-741d-8a27-736ebe72994b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ten-foot-reach",
   title: "Ten-foot Reach",
   world: "world/the-wandering-inn",

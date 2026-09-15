@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const tempestImpaler = {
   id: "01a0657d-0311-739b-b016-487da1b47360",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "tempest-impaler",
   title: "Tempest Impaler",
   world: "world/the-wandering-inn",

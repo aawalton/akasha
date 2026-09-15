@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const timeOfTheArcher = {
   id: "01a0657d-0315-78b4-a954-0d0ec204de40",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "time-of-the-archer",
   title: "Time of the Archer",
   world: "world/the-wandering-inn",

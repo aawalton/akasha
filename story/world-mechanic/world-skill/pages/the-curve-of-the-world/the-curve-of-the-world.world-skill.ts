@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theCurveOfTheWorld = {
   id: "01a0657d-0311-7bb0-aa54-0a01aa9c7ed7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-curve-of-the-world",
   title: "The Curve of the World",
   world: "world/the-wandering-inn",

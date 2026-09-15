@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const toughMouth = {
   id: "01a0657d-0316-738a-8df8-9e6e57906b8a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "tough-mouth",
   title: "Tough Mouth",
   world: "world/the-wandering-inn",

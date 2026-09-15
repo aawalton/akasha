@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theBindingOfHouseReinhart = {
   id: "01a0657d-0311-77b9-ae3e-c3537a674b5b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-binding-of-house-reinhart",
   title: "The Binding of House Reinhart",
   world: "world/the-wandering-inn",

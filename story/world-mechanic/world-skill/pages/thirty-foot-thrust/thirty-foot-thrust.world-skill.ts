@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const thirtyFootThrust = {
   id: "01a0657d-0313-7d30-a631-687f899b9ec9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "thirty-foot-thrust",
   title: "Thirty-Foot Thrust",
   world: "world/the-wandering-inn",

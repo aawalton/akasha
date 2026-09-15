@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theSniperSSecond = {
   id: "01a0657d-0312-79a4-be1a-f58f046a3d2f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-sniper-s-second",
   title: "The Sniper’s Second",
   world: "world/the-wandering-inn",

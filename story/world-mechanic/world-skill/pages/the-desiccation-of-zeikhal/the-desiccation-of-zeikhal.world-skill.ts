@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const theDesiccationOfZeikhal = {
   id: "01a0657d-0311-738c-ad8b-22b128bd3821",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "the-desiccation-of-zeikhal",
   title: "The Desiccation of Zeikhal",
   world: "world/the-wandering-inn",

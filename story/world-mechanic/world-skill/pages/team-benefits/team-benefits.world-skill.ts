@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const teamBenefits = {
   id: "01a0657d-0310-70bb-89f3-484aa22dd521",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "team-benefits",
   title: "Team Benefits",
   world: "world/the-wandering-inn",
