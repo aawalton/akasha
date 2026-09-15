@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning006363TheMarchOfDays = {
   id: "01a06731-b080-7000-bb94-5df68ebe4348",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0063-63-the-march-of-days",
   title: "63. The March of Days",
   story: "story-read/mother-of-learning",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0159Chapter654EskauOfWar = {
   id: "01a06731-ae4a-7000-85db-6747028e73d5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0159-chapter-654-eskau-of-war",
   title: "Chapter: 654 - Eskau of War",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

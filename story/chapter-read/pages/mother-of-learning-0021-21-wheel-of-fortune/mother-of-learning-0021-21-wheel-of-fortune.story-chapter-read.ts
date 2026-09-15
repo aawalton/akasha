@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning002121WheelOfFortune = {
   id: "01a06731-b041-7000-9561-5be1e07e8703",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0021-21-wheel-of-fortune",
   title: "21. Wheel of Fortune",
   story: "story-read/mother-of-learning",

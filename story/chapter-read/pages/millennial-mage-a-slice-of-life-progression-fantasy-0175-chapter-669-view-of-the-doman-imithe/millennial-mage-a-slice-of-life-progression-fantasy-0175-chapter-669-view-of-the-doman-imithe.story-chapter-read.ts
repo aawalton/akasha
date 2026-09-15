@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0175Chapter669ViewOfTheDomanImithe = {
   id: "01a06731-ae67-7000-8baa-ffd8ff619034",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0175-chapter-669-view-of-the-doman-imithe",
   title: "Chapter: 669 - View of the Doman-Imithe",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

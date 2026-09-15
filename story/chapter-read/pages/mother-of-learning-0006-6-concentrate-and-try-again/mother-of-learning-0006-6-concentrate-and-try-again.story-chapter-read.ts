@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning00066ConcentrateAndTryAgain = {
   id: "01a06731-b02b-7000-b776-50b1bc7079a8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0006-6-concentrate-and-try-again",
   title: "6. Concentrate and Try Again",
   story: "story-read/mother-of-learning",

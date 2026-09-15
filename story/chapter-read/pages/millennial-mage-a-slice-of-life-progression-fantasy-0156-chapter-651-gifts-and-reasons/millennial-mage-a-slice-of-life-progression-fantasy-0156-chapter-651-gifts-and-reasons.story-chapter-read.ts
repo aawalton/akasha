@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0156Chapter651GiftsAndReasons = {
   id: "01a06731-ae46-7001-b52f-996582992c94",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0156-chapter-651-gifts-and-reasons",
   title: "Chapter: 651 - Gifts and Reasons",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

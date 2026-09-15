@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning004141MyriadClashingMotives = {
   id: "01a06731-b05e-7000-9271-d8b0b77f29c7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0041-41-myriad-clashing-motives",
   title: "41. Myriad Clashing Motives",
   story: "story-read/mother-of-learning",

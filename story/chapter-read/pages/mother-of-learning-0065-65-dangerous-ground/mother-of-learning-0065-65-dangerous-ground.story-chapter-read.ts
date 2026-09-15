@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning006565DangerousGround = {
   id: "01a06731-b084-7000-8b12-e5df561422e7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0065-65-dangerous-ground",
   title: "65. Dangerous Ground",
   story: "story-read/mother-of-learning",

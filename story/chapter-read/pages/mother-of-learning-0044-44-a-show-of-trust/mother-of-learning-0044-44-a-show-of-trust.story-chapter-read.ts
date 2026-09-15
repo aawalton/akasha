@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning004444AShowOfTrust = {
   id: "01a06731-b062-7000-8ad5-ac373879d8fc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0044-44-a-show-of-trust",
   title: "44. A Show of Trust",
   story: "story-read/mother-of-learning",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0223Chapter714MomentsAndTimesOfImport = {
   id: "01a06743-b3db-7000-8677-e80153daf653",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0223-chapter-714-moments-and-times-of-import",
   title: "Chapter: 714 - Moments and Times of Import",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

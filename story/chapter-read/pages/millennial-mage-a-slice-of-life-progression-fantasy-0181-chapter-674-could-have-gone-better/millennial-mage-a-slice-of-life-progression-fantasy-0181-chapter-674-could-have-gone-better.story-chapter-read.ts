@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0181Chapter674CouldHaveGoneBetter = {
   id: "01a06731-ae6f-7000-844a-32483e0c9892",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0181-chapter-674-could-have-gone-better",
   title: "Chapter: 674 - Could Have Gone Better",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

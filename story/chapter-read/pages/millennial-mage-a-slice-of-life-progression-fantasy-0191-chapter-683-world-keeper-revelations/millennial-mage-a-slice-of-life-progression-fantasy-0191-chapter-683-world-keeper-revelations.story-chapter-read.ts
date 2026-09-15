@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0191Chapter683WorldKeeperRevelations = {
   id: "01a06731-ae80-7000-abc3-7c03a7375d60",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0191-chapter-683-world-keeper-revelations",
   title: "Chapter: 683 - World Keeper Revelations",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0199Chapter691ThePlanIsChosen = {
   id: "01a06731-ae87-7001-a5c6-7ebf3e11dc4f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0199-chapter-691-the-plan-is-chosen",
   title: "Chapter: 691 - The Plan Is Chosen",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

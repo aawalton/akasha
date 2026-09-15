@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0211Chapter703RoughnessAndEnding = {
   id: "01a06743-b3cb-7000-9a49-d9e14a805930",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0211-chapter-703-roughness-and-ending",
   title: "Chapter: 703 - Roughness and Ending",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

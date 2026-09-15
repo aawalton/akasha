@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning005454TheGateIsBarred = {
   id: "01a06731-b071-7000-b716-96ead3a53b41",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0054-54-the-gate-is-barred",
   title: "54. The Gate Is Barred",
   story: "story-read/mother-of-learning",

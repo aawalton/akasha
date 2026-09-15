@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning001818ThePactIsSealed = {
   id: "01a06731-b03d-7000-a3b8-5f364cb77628",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0018-18-the-pact-is-sealed",
   title: "18. The Pact is Sealed",
   story: "story-read/mother-of-learning",

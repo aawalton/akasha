@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0197Chapter689DelaysAndTiming = {
   id: "01a06731-ae86-7000-8f2e-56386c3f0755",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0197-chapter-689-delays-and-timing",
   title: "Chapter: 689 - Delays and Timing",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

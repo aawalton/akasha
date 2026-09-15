@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning003939SuspiciousCoincidences = {
   id: "01a06731-b058-7000-b658-de38bb4d2799",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0039-39-suspicious-coincidences",
   title: "39. Suspicious Coincidences",
   story: "story-read/mother-of-learning",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning008585CriticalMass = {
   id: "01a06731-b0a0-7000-964a-cc8d0575ca3b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0085-85-critical-mass",
   title: "85. Critical Mass",
   story: "story-read/mother-of-learning",

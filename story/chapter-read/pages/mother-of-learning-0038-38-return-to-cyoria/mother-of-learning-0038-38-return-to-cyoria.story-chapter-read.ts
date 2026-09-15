@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const motherOfLearning003838ReturnToCyoria = {
   id: "01a06731-b056-7000-b8ef-d30f78542524",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mother-of-learning-0038-38-return-to-cyoria",
   title: "38. Return to Cyoria",
   story: "story-read/mother-of-learning",
