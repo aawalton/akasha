@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatTheMooreMethodGaveMe = {
   id: "01a077e2-fc04-7a4d-aae6-6e11dc6dc04f",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-the-moore-method-gave-me",
   topic: "all-about-alan-topic/being-an-inventor-not-a-coder",
   ask: "What did the Moore method give me, and does the Moore method show up in how I build now?",

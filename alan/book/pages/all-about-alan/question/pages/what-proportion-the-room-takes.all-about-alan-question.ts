@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatProportionTheRoomTakes = {
   id: "01a077eb-778b-7f6f-b325-5a0a95cc5dd2",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-proportion-the-room-takes",
   topic: "all-about-alan-topic/how-much-attention-i-have",
   ask: "What proportion of my attention does the room take, measured against a known total rather than read by feel?",

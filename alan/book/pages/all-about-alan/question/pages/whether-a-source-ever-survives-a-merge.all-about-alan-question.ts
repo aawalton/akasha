@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherASourceEverSurvivesAMerge = {
   id: "01a077e6-eeb8-76be-bca1-ef83ab7a7566",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-a-source-ever-survives-a-merge",
   topic: "all-about-alan-topic/believing-things-i-cannot-trace",
   ask: "Does a source ever survive a merge at all, or does the often in my claim only mark the cases I happened to notice?",

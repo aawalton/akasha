@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatToLookForInANewCharter = {
   id: "01a077ee-d27a-7df9-8f3f-1b9dff3c040e",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-to-look-for-in-a-new-charter",
   topic: "all-about-alan-topic/when-a-company-changes-hands",
   ask: "What should I actually look for in a new charter or mission statement at the moment a company changes hands?",

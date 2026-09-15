@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatMyFathersDeclineAndMyMothersYearsHold = {
   id: "01a077f0-3313-7e22-89a9-9f2bd3b5c0d8",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-my-fathers-decline-and-my-mothers-years-hold",
   topic: "all-about-alan-topic/the-years-with-my-parents",
   ask: "What is there to write about the run nowhere written down: my father's decline and death, the eighteen months I cared for him, and the eight years my mother lived with us?",

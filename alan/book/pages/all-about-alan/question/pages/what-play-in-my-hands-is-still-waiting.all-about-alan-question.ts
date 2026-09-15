@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatPlayInMyHandsIsStillWaiting = {
   id: "01a077ee-840e-79ae-8391-f317c02172ec",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-play-in-my-hands-is-still-waiting",
   topic: "all-about-alan-topic/playing-again",
   ask: "Every kind of play that came back to me lives through a screen. What about the play still waiting, the kind that is in my hands?",

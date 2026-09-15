@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatTellsImpossibleToExitFromExpensiveToExit = {
   id: "01a077e1-ff90-7a8e-9aa8-9cada87bba13",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-tells-impossible-to-exit-from-expensive-to-exit",
   topic: "all-about-alan-topic/getting-out-from-under-a-dependency",
   ask: "What tells impossible to exit apart from expensive to exit, given that the difference decides whether I leave or pay?",

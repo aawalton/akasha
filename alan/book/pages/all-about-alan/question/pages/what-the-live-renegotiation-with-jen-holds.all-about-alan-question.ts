@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatTheLiveRenegotiationWithJenHolds = {
   id: "01a077eb-e696-73f9-8c63-956bf20dba11",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-the-live-renegotiation-with-jen-holds",
   topic: "all-about-alan-topic/singing-out-loud",
   ask: "The renegotiation with Jen is live and undocumented. What does that renegotiation hold?",

@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whereKeepingQuietBackfires = {
   id: "01a077e7-aae2-7cdf-b6f8-be2bc02d8548",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "where-keeping-quiet-backfires",
   topic: "all-about-alan-topic/keeping-my-own-volume-down",
   ask: "Where does keeping my volume down backfire, with the quiet read as nothing there at all, and are family and work the places it happens?",

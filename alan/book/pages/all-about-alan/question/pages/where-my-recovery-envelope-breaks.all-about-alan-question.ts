@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whereMyRecoveryEnvelopeBreaks = {
   id: "01a077e8-d486-784c-89ac-e5248e57ca85",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "where-my-recovery-envelope-breaks",
   topic: "all-about-alan-topic/how-far-back-i-expect-to-come",
   ask: "Where does my envelope break: which stressors would put me back into deficit, and how far back?",

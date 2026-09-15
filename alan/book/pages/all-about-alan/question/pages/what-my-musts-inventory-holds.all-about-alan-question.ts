@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatMyMustsInventoryHolds = {
   id: "01a077e7-a79e-73d6-8f76-9794eb021c85",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-my-musts-inventory-holds",
   topic: "all-about-alan-topic/the-things-i-never-weigh",
   ask: "What have I already refiled, what is still filed as a must and could move, and what is correctly a must?",

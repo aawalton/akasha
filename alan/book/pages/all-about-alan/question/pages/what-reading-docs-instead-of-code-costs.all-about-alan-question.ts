@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatReadingDocsInsteadOfCodeCosts = {
   id: "01a077ed-808b-7dc8-9a58-c17bc8a3d02e",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-reading-docs-instead-of-code-costs",
   topic: "all-about-alan-topic/not-reading-code-any-more",
   ask: "I have only said I do not miss coding. What does reading docs instead of code cost me, if anything?",

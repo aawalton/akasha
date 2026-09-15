@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whereNotForkingAPretendSelfClosesAMethod = {
   id: "01a077e7-d87c-7d02-8acd-eabe4b045b8c",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "where-not-forking-a-pretend-self-closes-a-method",
   topic: "all-about-alan-topic/building-a-people-skill-by-hand",
   ask: "I cannot fork a pretend self off the one map I am living. Where else does that close a method for me, beyond rehearsing a conversation?",

@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatTheWidgetShowsForAMissedCheckIn = {
   id: "01a077ea-b510-7c00-8803-eda863206a6d",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-the-widget-shows-for-a-missed-check-in",
   topic: "all-about-alan-topic/showing-jen-where-i-am",
   ask: "What does the display show for a check-in I missed, rather than for one I answered low?",

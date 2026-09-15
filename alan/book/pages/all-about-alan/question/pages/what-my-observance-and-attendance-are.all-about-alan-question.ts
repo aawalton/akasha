@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatMyObservanceAndAttendanceAre = {
   id: "01a077e7-85d6-7894-bdb5-adbc39cb235f",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-my-observance-and-attendance-are",
   topic: "all-about-alan-topic/how-i-practise-my-faith",
   ask: "What are my observance and my attendance at present?",

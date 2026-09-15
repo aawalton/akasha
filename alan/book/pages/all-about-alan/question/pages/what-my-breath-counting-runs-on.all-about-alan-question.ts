@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatMyBreathCountingRunsOn = {
   id: "01a077ea-34fb-72fb-a2e7-22a17f86674e",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-my-breath-counting-runs-on",
   topic: "all-about-alan-topic/how-i-actually-breathe",
   ask: "What does my counting run on, with nothing to see and nothing to hear?",

@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatMyCravingToKnowOthersIsAbout = {
   id: "01a077e8-436b-7482-b630-977f1a74f759",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-my-craving-to-know-others-is-about",
   topic: "all-about-alan-topic/the-four-things-i-need-from-people",
   ask: "Is my craving to know others about new minds, about depth, or about reaching experience I cannot generate myself?",

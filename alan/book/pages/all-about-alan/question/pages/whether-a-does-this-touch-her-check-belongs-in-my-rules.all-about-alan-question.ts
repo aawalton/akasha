@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherADoesThisTouchHerCheckBelongsInMyRules = {
   id: "01a077ed-363f-7168-bc7c-8f253552b871",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-a-does-this-touch-her-check-belongs-in-my-rules",
   topic: "all-about-alan-topic/noticing-what-she-needs",
   ask: "Does a does-this-touch-her check belong in my decision rules, as the trigger my asking needs?",

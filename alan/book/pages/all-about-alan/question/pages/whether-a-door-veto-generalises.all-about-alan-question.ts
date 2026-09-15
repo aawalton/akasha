@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherADoorVetoGeneralises = {
   id: "01a077ea-fd54-7928-a1a4-96fbed8ff813",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-a-door-veto-generalises",
   topic: "all-about-alan-topic/what-it-takes-to-break-me",
   ask: "A door can be vetoed for producing what I am escaping. Does that veto generalise?",

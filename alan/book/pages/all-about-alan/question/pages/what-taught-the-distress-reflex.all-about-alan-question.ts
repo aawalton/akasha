@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatTaughtTheDistressReflex = {
   id: "01a077ed-f629-7511-83dd-98a1359c2948",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-taught-the-distress-reflex",
   topic: "all-about-alan-topic/why-someone-elses-distress-alarms-me",
   ask: "The reflex was in place by six and nothing about the training is recoverable. Could family accounts or the shape of the schedule recover what taught the reflex?",

@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whatTimeConstantsLinkStressLevelAndCapacity = {
   id: "01a077ef-53a9-7b0f-b00d-8cbf252ca9cd",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "what-time-constants-link-stress-level-and-capacity",
   topic: "all-about-alan-topic/stress-level",
   ask: "What are the time constants between my stress level and my stress capacity, and what does an intervention do to either?",

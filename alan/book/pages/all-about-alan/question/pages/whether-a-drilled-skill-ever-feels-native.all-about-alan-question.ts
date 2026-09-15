@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherADrilledSkillEverFeelsNative = {
   id: "01a077e7-d87b-7682-907f-2bd4cf212eef",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-a-drilled-skill-ever-feels-native",
   topic: "all-about-alan-topic/building-a-people-skill-by-hand",
   ask: "Does enough drilling ever make a closeness skill feel native, or does that skill stay a thing I run by hand forever?",

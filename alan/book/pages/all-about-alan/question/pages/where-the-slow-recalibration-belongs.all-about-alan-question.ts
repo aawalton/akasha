@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whereTheSlowRecalibrationBelongs = {
   id: "01a077ee-c88f-71ee-951e-4126d583bef2",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "where-the-slow-recalibration-belongs",
   topic: "all-about-alan-topic/stress-capacity",
   ask: "Repeated exposure is meant to lower my setpoint over weeks, apart from what each exposure does on the day. Where does that slower recalibration belong?",

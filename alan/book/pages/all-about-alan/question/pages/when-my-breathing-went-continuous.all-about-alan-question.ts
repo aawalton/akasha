@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whenMyBreathingWentContinuous = {
   id: "01a077ea-34fb-7465-a621-e4da970208cd",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "when-my-breathing-went-continuous",
   topic: "all-about-alan-topic/how-i-actually-breathe",
   ask: "My breathing started with a phone call from Germany and is now most of my waking day, twenty years on. When did the cadence settle, and when did it go continuous?",
