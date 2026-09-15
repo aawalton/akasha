@@ -2,7 +2,7 @@ import type { WorldSpecies } from "akasha/story/world-mechanic/world-species/wor
 
 export const halfElf = {
   id: "01a0655a-0687-75e4-b42e-cc53cafcc644",
-  type: "world-species",
+  type: "page-type/world-species",
   slug: "half-elf",
   title: "Half-Elf",
   world: "world/the-wandering-inn",

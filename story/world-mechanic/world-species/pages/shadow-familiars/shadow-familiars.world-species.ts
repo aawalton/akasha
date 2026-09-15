@@ -2,7 +2,7 @@ import type { WorldSpecies } from "akasha/story/world-mechanic/world-species/wor
 
 export const shadowFamiliars = {
   id: "01a0655a-0687-7323-ad17-017b1d2ea8b2",
-  type: "world-species",
+  type: "page-type/world-species",
   slug: "shadow-familiars",
   title: "Shadow Familiars",
   world: "world/the-wandering-inn",
