@@ -32,12 +32,12 @@ test("a name the page above is named leaves nothing, so no name is worked out", 
 test("a folder wanting a name that cannot be worked out still wants a name", () => {
   const naming = namingOver(
     holding({
-      "akasha/temper-skill": ["temper-skill"],
-      "akasha/temper-skill/held": ["temper-skill"],
+      "akasha/temper-skills": ["temper-skills", "temper-skills"],
+      "akasha/temper-skills/skills": ["temper-skill", "temper-skills"],
     }),
     HELD
   )
-  expect(naming("akasha/temper-skill/held")).toEqual({ name: null, gives: "temper-skill" })
+  expect(naming("akasha/temper-skills/skills")).toEqual({ name: null, gives: "temper-skills" })
 })
 
 test("a name the folder does not carry yet is asked against the page above the same way", () => {

@@ -1,7 +1,0 @@
-{"path":"agent/hook/modules/links/hook-links.module.code.ts"}
-{"path":"agent/hook/modules/links/hook-links.module.test.ts"}
-{"path":"check/code/pages/tests-pass/tests-pass.check-code.decision.code.ts"}
-{"path":"code/running/modules/code-format/code-format.module.code.ts"}
-{"path":"code/running/modules/code-tests/code-tests.module.code.ts"}
-{"path":"code/running/modules/test-overlay/test-overlay.module.test.ts"}
-{"path":"infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"}

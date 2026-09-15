@@ -1,5 +1,0 @@
-{"path":"temper/build-deploy-checks/modules/check-addon-dependency-cycle/check-addon-dependency-cycle.module.code.ts"}
-{"path":"temper/build-deploy-checks/modules/check-addon-dependency-floor/check-addon-dependency-floor.module.code.ts"}
-{"path":"temper/build-deploy-checks/modules/check-addon-hook-eager-capture/check-addon-hook-eager-capture.module.code.ts"}
-{"path":"temper/build-deploy-checks/modules/check-addon-inline-handler-dispatch/check-addon-inline-handler-dispatch.module.code.ts"}
-{"path":"temper/build-deploy-checks/modules/check-addon-orphan-xml-handler/check-addon-orphan-xml-handler.module.code.ts"}

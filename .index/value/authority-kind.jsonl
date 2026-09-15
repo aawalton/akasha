@@ -1,5 +1,0 @@
-{"path":"person/authority-kind/pages/domain.authority-kind.ts","value":{"id":"01a0542d-4b9e-77fa-a4e8-805866c6f329","type":"authority-kind","slug":"domain","definition":"what a domain states of itself and of what is beneath it"}}
-{"path":"person/authority-kind/pages/feature-approval.authority-kind.ts","value":{"id":"01a0542d-4b9e-79f1-a980-5b85fffc94cd","type":"authority-kind","slug":"feature-approval","definition":"settling that work asked for is done"}}
-{"path":"person/authority-kind/pages/feature-request.authority-kind.ts","value":{"id":"01a0542d-4b9e-7b88-a0ce-733a68237a2b","type":"authority-kind","slug":"feature-request","definition":"asking for work the system does not do yet"}}
-{"path":"person/authority-kind/pages/page-data.authority-kind.ts","value":{"id":"01a0542d-4b9f-7079-9e11-326d273cc5e5","type":"authority-kind","slug":"page-data","definition":"the values the pages of a type carry"}}
-{"path":"person/authority-kind/pages/page-schema.authority-kind.ts","value":{"id":"01a0542d-4b9f-7665-84e4-7b82e5460719","type":"authority-kind","slug":"page-schema","definition":"the shape a page type has its pages to"}}

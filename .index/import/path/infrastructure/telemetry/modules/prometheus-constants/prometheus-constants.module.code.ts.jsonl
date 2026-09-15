@@ -1,7 +1,0 @@
-{"path":"infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.code.ts"}
-{"path":"infrastructure/telemetry/kube-state-metrics/modules/manifests/kube-state-metrics-manifests.module.code.ts"}
-{"path":"infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.code.ts"}
-{"path":"infrastructure/telemetry/pgbouncer-exporter/modules/manifests/pgbouncer-exporter-manifests.module.code.ts"}
-{"path":"infrastructure/telemetry/postgres-exporter/modules/manifests/postgres-exporter-manifests.module.code.ts"}
-{"path":"infrastructure/telemetry/prometheus/modules/manifests/prometheus-manifests.module.code.ts"}
-{"path":"infrastructure/telemetry/prometheus/prometheus.manifest.code.ts"}

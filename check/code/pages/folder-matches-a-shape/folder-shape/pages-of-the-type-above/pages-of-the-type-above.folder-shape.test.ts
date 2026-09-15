@@ -6,13 +6,17 @@ import type {
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
 import { pagesOfTheTypeAbove } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/pages-of-the-type-above/pages-of-the-type-above.folder-shape.code.ts"
 
-const ABOVE = "akasha/check-code"
+const ABOVE = "akasha/code-checks"
 
 const FOLDER = `${ABOVE}/pages`
 
 const PAGE_TYPES = new Set<string>(["page-type", "check-code", "check-model"])
 
-const CHECK_CODE: Declaring = { slug: "check-code", propertySlugs: new Set<string>() }
+const CHECK_CODE: Declaring = {
+  slug: "check-code",
+  pluralSlug: "code-checks",
+  propertySlugs: new Set<string>(),
+}
 
 function over(deep: readonly string[]): (names: readonly string[]) => Standing {
   return folderFrom({

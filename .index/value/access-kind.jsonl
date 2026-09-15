@@ -1,4 +1,0 @@
-{"path":"person/access-kind/pages/database-row.access-kind.ts","value":{"id":"01a0542d-4b9b-7def-a5a9-90a85c3618b7","type":"access-kind","slug":"database-row","definition":"a row in a table of the database"}}
-{"path":"person/access-kind/pages/domain.access-kind.ts","value":{"id":"01a0542d-4b9c-7d57-8deb-e792aaff9c5d","type":"access-kind","slug":"domain","definition":"an area of concern, and everything beneath it"}}
-{"path":"person/access-kind/pages/page-type.access-kind.ts","value":{"id":"01a0542d-4b9d-7680-b74a-818e4ddb54ff","type":"access-kind","slug":"page-type","definition":"a kind of page, and every page that is one"}}
-{"path":"person/access-kind/pages/route.access-kind.ts","value":{"id":"01a0542d-4b9d-74e1-98b8-4892e4ed15b5","type":"access-kind","slug":"route","definition":"a path the web answers a request on"}}

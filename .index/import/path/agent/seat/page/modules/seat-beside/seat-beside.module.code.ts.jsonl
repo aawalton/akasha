@@ -1,7 +1,0 @@
-{"path":"agent/seat/oauth-proxy/modules/seat-proxy-state/seat-proxy-state.module.code.ts"}
-{"path":"agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"}
-{"path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"}
-{"path":"agent/seat/page/modules/seat-beside/seat-beside.module.test.ts"}
-{"path":"agent/seat/page/modules/seat-record/seat-record.module.code.ts"}
-{"path":"agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts"}
-{"path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}

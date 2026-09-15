@@ -1,8 +1,0 @@
-{"path":"agent/claude-code/session/modules/session-watch/session-watch.module.code.ts"}
-{"path":"agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"}
-{"path":"agent/seat/fleet/modules/seat-roster/seat-roster.module.code.ts"}
-{"path":"agent/seat/page/modules/beat/seat-page-beat.module.code.ts"}
-{"path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"}
-{"path":"agent/seat/session/modules/resolve/seat-session-resolve.module.code.ts"}
-{"path":"agent/seat/session/modules/seat-rotated-session/seat-rotated-session.module.code.ts"}
-{"path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}

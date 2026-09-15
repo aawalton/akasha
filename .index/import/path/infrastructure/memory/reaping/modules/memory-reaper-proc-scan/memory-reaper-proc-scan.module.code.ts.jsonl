@@ -1,7 +1,0 @@
-{"path":"infrastructure/memory/reaping/modules/memory-reaper-global/memory-reaper-global.module.code.ts"}
-{"path":"infrastructure/memory/reaping/modules/memory-reaper-legs/memory-reaper-legs.module.code.ts"}
-{"path":"infrastructure/memory/reaping/modules/memory-reaper-legs/memory-reaper-legs.module.test-fixtures.ts"}
-{"path":"infrastructure/memory/reaping/modules/memory-reaper-plan/memory-reaper-plan.module.code.ts"}
-{"path":"infrastructure/memory/reaping/modules/memory-reaper-proc-scan/memory-reaper-proc-scan.module.test.ts"}
-{"path":"infrastructure/memory/reaping/modules/memory-reaper-read/memory-reaper-read.module.code.ts"}
-{"path":"infrastructure/memory/reaping/modules/memory-reaper-tick/memory-reaper-tick.module.code.ts"}

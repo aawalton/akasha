@@ -14,7 +14,11 @@ const TYPES = new Set<string>(["page-type"])
 
 const DECLARED = new Set<string>(["page-type/model-humming", "module/model-asking"])
 
-const DECLARING: Declaring = { slug: "model", propertySlugs: new Set<string>() }
+const DECLARING: Declaring = {
+  slug: "model",
+  pluralSlug: "models",
+  propertySlugs: new Set<string>(),
+}
 
 function judgedBy(
   deep: readonly string[],
@@ -103,6 +107,12 @@ test("a subfolder named scripts is a part", () => {
   expect(
     judged(["scripts/build-humming/build-humming.shell-script.ts"], ["model.page-type.ts"])
   ).toEqual([])
+})
+
+test("a domain slugged the page type's plural slug is a second page and is refused", () => {
+  const said = judgedBy([], ["model.page-type.ts", "models.domain.ts"], DECLARING)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("2 pages rather than one")
 })
 
 const DEEP = "deploy/dockerfile-extensions.json"

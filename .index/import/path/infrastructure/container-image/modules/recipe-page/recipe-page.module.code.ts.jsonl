@@ -1,9 +1,0 @@
-{"path":"infrastructure/container-image/dockerfiles/built-image/auth-proxy/auth-proxy.built-image.extending.code.ts"}
-{"path":"infrastructure/container-image/dockerfiles/built-image/gfs-promoter/gfs-promoter.built-image.extending.code.ts"}
-{"path":"infrastructure/eso-rig/image/eso-rig-image.container-recipe.composing.code.ts"}
-{"path":"infrastructure/inference/generation/upscale/cluster-image/upscale-cluster-image.container-recipe.composing.code.ts"}
-{"path":"infrastructure/inference/generation/upscale/image/upscale-image.container-recipe.composing.code.ts"}
-{"path":"infrastructure/inference/generation/wan/image/wan-image.container-recipe.composing.code.ts"}
-{"path":"infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.composing.code.ts"}
-{"path":"infrastructure/postgres-annual-dump/image/postgres-annual-dump-image.container-recipe.composing.code.ts"}
-{"path":"temper/watcher/image/temper-watcher-image.container-recipe.composing.code.ts"}

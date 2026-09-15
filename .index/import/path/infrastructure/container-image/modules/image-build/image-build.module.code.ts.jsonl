@@ -1,8 +1,0 @@
-{"path":"command/pages/deploy/modules/image-pushing/deploy-image-pushing.module.code.ts"}
-{"path":"infrastructure/container-image/modules/image-build/image-build.module.test.ts"}
-{"path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.code.ts"}
-{"path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.test.ts"}
-{"path":"infrastructure/container-image/modules/image-publishing/image-publishing.module.code.ts"}
-{"path":"infrastructure/container-image/modules/image-publishing/image-publishing.module.test.ts"}
-{"path":"infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"}
-{"path":"infrastructure/container-image/modules/image-ref/image-ref.module.test.ts"}

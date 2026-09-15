@@ -1,7 +1,0 @@
-{"path":"agent/seat/declaration/modules/seat-answering/seat-answering.module.code.ts"}
-{"path":"agent/seat/declaration/modules/seat-defaults/seat-defaults.module.code.ts"}
-{"path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"}
-{"path":"agent/seat/declaration/modules/seat-stated-identity/seat-stated-identity.module.code.ts"}
-{"path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts"}
-{"path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"}
-{"path":"agent/seat/supervisor/supervisor-child/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"}

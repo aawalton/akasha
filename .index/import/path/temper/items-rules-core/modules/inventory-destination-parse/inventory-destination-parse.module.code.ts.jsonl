@@ -1,7 +1,0 @@
-{"path":"command/pages/temper/inventory/item-rule/create/temper-inventory-item-rule-create.command.code.ts"}
-{"path":"command/pages/temper/inventory/item-rule/update/temper-inventory-item-rule-update.command.code.ts"}
-{"path":"temper/command/modules/inventory-parity-routing/inventory-parity-routing.module.code.ts"}
-{"path":"temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"}
-{"path":"temper/items-rules-routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"}
-{"path":"temper/items-rules-routing/modules/inventory-management-plan-collect/inventory-management-plan-collect.module.code.ts"}
-{"path":"temper/items-rules-routing/modules/inventory-management-plan-use-destinations/inventory-management-plan-use-destinations.module.code.ts"}

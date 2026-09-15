@@ -29,6 +29,10 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A folder's name never opens with the plural slug of the page above that folder.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A folder opening with that name is refused whatever shape the folder would match.",
     },

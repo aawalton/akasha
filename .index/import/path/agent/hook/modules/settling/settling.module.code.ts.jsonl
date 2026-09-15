@@ -1,7 +1,0 @@
-{"path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"}
-{"path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.test.ts"}
-{"path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.code.ts"}
-{"path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts"}
-{"path":"agent/hook/agent-hook/block-memory-writes/block-memory-writes.agent-hook.code.ts"}
-{"path":"agent/hook/modules/path-showing/path-showing.module.code.ts"}
-{"path":"agent/hook/modules/settling/settling.module.test.ts"}

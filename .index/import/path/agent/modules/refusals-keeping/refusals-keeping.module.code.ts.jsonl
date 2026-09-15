@@ -1,8 +1,0 @@
-{"path":"agent/modules/refusals-keeping/refusals-keeping.module.test.ts"}
-{"path":"agent/subagent/modules/presence/subagent-presence.module.test.ts"}
-{"path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts"}
-{"path":"agent/subagent/modules/recovering/subagent-recovering.module.test.ts"}
-{"path":"command/modules/applying/applying.module.code.ts"}
-{"path":"command/modules/audit-answering/audit-answering.module.code.ts"}
-{"path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
-{"path":"command/pages/audit/audit.command.code.ts"}
