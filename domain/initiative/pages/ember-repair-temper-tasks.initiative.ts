@@ -8,11 +8,6 @@ export const emberRepairTemperTasks = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "A refusal from the pages names the file that refusal is about.",
-      workingMemory:
-        "page-calling names the status, the byte count and the parser's message. landedIn appends the paths a write had. An oversized entry value now names the file it was bound for, in entry-writing and in entry-landing. keepWhole has moved to index-keeping, which is short and carries no comment, so that blocker is gone. Left: rowsOver passes over an entry file it cannot parse without a word, so the index drops those references in silence; indexing already carries a `refused` list to name them in.",
-    },
-    {
       statement: "The watcher updates itself to the source revision it is told to run.",
       workingMemory:
         "The served target is b8f20f229df857590e8c51accd468fcd3f52be79, which is in neither this checkout nor the 2026-09-02 backup, so the flatten orphaned it and no fetch brings it. The watcher reads its own HEAD right, logging ve3eda7280a at 19:06:36Z. That target is version.txt baked into the watcher image at /build and copied in by temper-web's init container, so it names the commit that image was built at. The run carries on either way, so this is noise rather than an outage.",
