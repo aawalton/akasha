@@ -6,17 +6,7 @@ export const util = {
   slug: "util",
   definition: "the pieces every domain reaches for and no domain claims",
 
-  parts: [
-    "domain/util-fs",
-    "domain/util-narrow",
-    "domain/util-slug",
-    "domain/util-sync",
-    "module/armed-timer",
-    "module/during-call",
-    "module/pad-two",
-    "module/sha256-hex",
-    "module/thread-pause",
-  ],
+  parts: ["domain/util-fs", "domain/util-narrow", "domain/util-slug"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

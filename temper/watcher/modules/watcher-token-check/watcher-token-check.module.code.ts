@@ -1,7 +1,7 @@
 import { timingSafeEqual } from "node:crypto"
+import { sha256Hex } from "akasha/code/body/modules/sha256-hex/sha256-hex.module.code.ts"
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPageById } from "akasha/page/access/modules/patch/patch.module.code.ts"
-import { sha256Hex } from "akasha/util/modules/sha256-hex/sha256-hex.module.code.ts"
 
 export const TEMPER_WATCHER_ENROLMENT_SLUG = "temper-watcher-enrolment"
 

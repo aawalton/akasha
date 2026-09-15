@@ -983,6 +983,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/body/modules/body-text/body-text.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/body/modules/carried-file/carried-file.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/body/modules/file-kind/file-kind.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/body/modules/sha256-hex/sha256-hex.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/body/modules/utf8-body/utf8-body.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/command/modules/verify-render-plan/verify-render-plan.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/browser/modules/launch-env/launch-env.module.ts"}
@@ -1090,6 +1091,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/ios-component/pages/spacing/modules/stepping/spacing-stepping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/module-property-group/modules/group-writing/group-writing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/module/modules/name-series/name-series.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/modules/armed-timer/armed-timer.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/modules/thread-pause/thread-pause.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/path/modules/between/code-path-between.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/path/modules/code-runtime-path/code-runtime-path.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/path/modules/folder-spelling/folder-spelling.module.ts"}
@@ -1166,6 +1169,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/complexity-rowing/complexity-rowing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/declaring/command-declaring.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/draft-keeping/draft-keeping.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/during-call/during-call.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/editor-state-landing/editor-state-landing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/edits-landing/edits-landing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/failing/command-failing.module.ts"}
@@ -6589,9 +6593,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/counted/counted.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/name-drawing/name-drawing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/one-line/one-line.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/pad-two/pad-two.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/seconds/seconds.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/shortened/shortened.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/suggest-closest/suggest-closest.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/today/today.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/fs/modules/anything-there/anything-there.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/fs/modules/atomic-write/atomic-write.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/fs/modules/expand-tilde/expand-tilde.module.ts"}
@@ -6602,11 +6608,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/fs/modules/text-on-disk/text-on-disk.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/fs/modules/text-there/text-there.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/fs/modules/whole-writing/whole-writing.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/modules/armed-timer/armed-timer.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/modules/during-call/during-call.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/modules/pad-two/pad-two.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/modules/sha256-hex/sha256-hex.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/modules/thread-pause/thread-pause.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/narrow/modules/as-boolean/as-boolean.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/narrow/modules/as-instant/as-instant.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/narrow/modules/as-number/as-number.module.ts"}
@@ -6670,8 +6671,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/slug/modules/dash-between-words/dash-between-words.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/slug/modules/dash-each-capital/dash-each-capital.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/slug/modules/slug-of/slug-of.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/sync/modules/page-type-props/page-type-props.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/sync/modules/today/today.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"verdict/modules/reading-channel/reading-channel.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"verdict/modules/shape/verdict-shape.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"verdict/modules/text/verdict-text.module.ts"}

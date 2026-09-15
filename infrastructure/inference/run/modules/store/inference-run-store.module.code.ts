@@ -1,3 +1,4 @@
+import { sha256Hex } from "akasha/code/body/modules/sha256-hex/sha256-hex.module.code.ts"
 import {
   generationLogSlug,
   landRow,
@@ -19,7 +20,6 @@ import {
   type InferenceRunRecord,
 } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 import { INFERENCE_RUN_PAGE_TYPE_SLUG } from "akasha/infrastructure/inference/run/modules/services/inference-run-services.module.code.ts"
-import { sha256Hex } from "akasha/util/modules/sha256-hex/sha256-hex.module.code.ts"
 import { JsonSchema } from "akasha/util/narrow/modules/json-schema/json-schema.module.code.ts"
 import { z } from "zod"
 

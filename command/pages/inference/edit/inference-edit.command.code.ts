@@ -1,4 +1,5 @@
 import { readFile, writeFile } from "node:fs/promises"
+import { sha256Hex } from "akasha/code/body/modules/sha256-hex/sha256-hex.module.code.ts"
 import {
   type TakenFor,
   takenFor,
@@ -34,7 +35,6 @@ import {
 import { wroteTo } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
-import { sha256Hex } from "akasha/util/modules/sha256-hex/sha256-hex.module.code.ts"
 import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const PAGES = [

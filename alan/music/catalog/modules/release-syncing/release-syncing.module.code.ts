@@ -40,7 +40,10 @@ import {
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import type { Source } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { recordingRun } from "akasha/story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"
-import { daysAgoYYYYMMDD, todayYYYYMMDD } from "akasha/util/sync/modules/today/today.module.code.ts"
+import {
+  daysAgoYYYYMMDD,
+  todayYYYYMMDD,
+} from "akasha/text/writing/modules/today/today.module.code.ts"
 
 export const SOURCE = "spotify"
 

@@ -12,7 +12,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
-import { padTwo } from "akasha/util/modules/pad-two/pad-two.module.code.ts"
+import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.module.code.ts"
 import { CalendarDays } from "lucide-react"
 import { useState } from "react"
 

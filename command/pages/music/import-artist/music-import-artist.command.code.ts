@@ -71,7 +71,7 @@ import {
   propertiesIfNamed,
   type Source,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import { todayYYYYMMDD } from "akasha/util/sync/modules/today/today.module.code.ts"
+import { todayYYYYMMDD } from "akasha/text/writing/modules/today/today.module.code.ts"
 
 const ARTIST = "artist"
 

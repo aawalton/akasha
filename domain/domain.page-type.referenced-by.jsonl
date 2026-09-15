@@ -607,7 +607,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/fs/util-fs.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/narrow/util-narrow.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/slug/util-slug.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/sync/util-sync.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/util.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"verdict/verdict.domain.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-finding-argues-against-a-mend-on-a-premise-that-has-since-gone.finding.ts","id":"01a09666-130a-75d7-a5dc-4b6d6c0e42e3"}

@@ -18,6 +18,8 @@ export const code = {
     "domain/editor",
     "domain/shell",
     "domain/type",
+    "module/armed-timer",
+    "module/thread-pause",
     "page-type/app-routes",
     "page-type/component",
     "page-type/component-property-group",

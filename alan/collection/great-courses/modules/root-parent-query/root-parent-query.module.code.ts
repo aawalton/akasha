@@ -8,7 +8,10 @@ import {
   logError,
   toError,
 } from "akasha/alan/collection/great-courses/modules/sync-outcome/sync-outcome.module.code.ts"
-import { daysAgoYYYYMMDD, todayYYYYMMDD } from "akasha/util/sync/modules/today/today.module.code.ts"
+import {
+  daysAgoYYYYMMDD,
+  todayYYYYMMDD,
+} from "akasha/text/writing/modules/today/today.module.code.ts"
 
 const GREAT_COURSES_COLLECTION_SLUG = "great-courses-collection"
 const ROOT_TIMER_TITLE = "The Great Courses"

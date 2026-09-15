@@ -10,8 +10,8 @@ import { module } from "akasha/code/module/module.page-type.ts"
 import { command } from "akasha/command/command.page-type.ts"
 import { sayAnswer } from "akasha/command/modules/answer-bytes/answer-bytes.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { duringOneCall } from "akasha/command/modules/during-call/during-call.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { duringOneCall } from "akasha/util/modules/during-call/during-call.module.code.ts"
 
 const HERE = import.meta.path
 

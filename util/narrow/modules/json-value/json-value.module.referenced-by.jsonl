@@ -40,5 +40,4 @@
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"util/narrow/modules/is-json/is-json.module.code.ts"}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"util/narrow/modules/json-schema/json-schema.module.code.ts"}
-{"propertySlug":"import","fileName":"json-value.module.code.ts","path":"util/sync/modules/page-type-props/page-type-props.module.code.ts"}
 {"propertySlug":"parts","path":"util/narrow/util-narrow.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

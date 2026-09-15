@@ -10,8 +10,10 @@ export const textWriting = {
     "module/counted",
     "module/name-drawing",
     "module/one-line",
+    "module/pad-two",
     "module/seconds",
     "module/shortened",
     "module/suggest-closest",
+    "module/today",
   ],
 } as const satisfies Domain

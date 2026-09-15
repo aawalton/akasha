@@ -1,6 +1,7 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
+import { sha256Hex } from "akasha/code/body/modules/sha256-hex/sha256-hex.module.code.ts"
 import { negativePrompt as negativePromptArgument } from "akasha/command/argument/pages/negative-prompt.argument.ts"
 import { renderPrompt as promptArgument } from "akasha/command/argument/pages/render-prompt.argument.ts"
 import {
@@ -28,7 +29,6 @@ import {
   runComfyGraph,
 } from "akasha/infrastructure/inference/client/modules/comfy-client/comfy-client.module.code.ts"
 import { drawSeed } from "akasha/infrastructure/inference/client/modules/inference-seed/inference-seed.module.code.ts"
-
 import {
   WAN_DEFAULT_NEGATIVE_PROMPT,
   WAN_FPS,
@@ -46,7 +46,6 @@ import { buildI2vGraph } from "akasha/infrastructure/inference/generation/wan/mo
 import { parseSizeOrNull } from "akasha/infrastructure/inference/generation/wan/modules/size/wan-size.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
-import { sha256Hex } from "akasha/util/modules/sha256-hex/sha256-hex.module.code.ts"
 
 const SERVICE = "wan-i2v"
 
