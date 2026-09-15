@@ -2,7 +2,7 @@ import type { Proposition } from "akasha/alan/value/learn/mathematics/propositio
 
 export const syntaxOfL = {
   id: "019f0edc-7797-7e41-8158-12a744341f98",
-  type: "proposition",
+  type: "page-type/proposition",
   slug: "syntax-of-l",
   title: "Syntax of L",
   propositionKind: "definition",
