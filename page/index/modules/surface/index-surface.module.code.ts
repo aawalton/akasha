@@ -144,10 +144,6 @@ export function readingNone(): Reading {
   }
 }
 
-export function readingOf(given: string | Reading, repo: string | null = null): Reading {
-  return typeof given === "string" ? readingAt(given, repo) : given
-}
-
 export function beneath(at: string, name: string): string {
   return at === "" ? name : `${at}${SLASH}${name}`
 }
