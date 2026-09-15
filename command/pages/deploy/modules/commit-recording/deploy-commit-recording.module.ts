@@ -48,8 +48,28 @@ export const deployCommitRecording = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "Which kind a deploy puts up settles where that deploy's commit is kept.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A workstation service's commit is kept beside its page in the checkout.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A workstation service's commit is read back from beside its page.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "Nothing a workstation service's deploy keeps or reads here reaches a service.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A write beside the page that threw is answered as what went wrong.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement:
-        "The commit is kept by a write handed to the pages rather than by writing the tree.",
+        "Every other kind's commit is kept by a write handed to the pages rather than by writing the tree.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -57,7 +77,8 @@ export const deployCommitRecording = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The commit is read back by asking the pages for the page's values.",
+      statement:
+        "Every other kind's commit is read back by asking the pages for the page's values.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -66,10 +87,6 @@ export const deployCommitRecording = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "A moment a deploy kept is read back the way the commit is.",
-    },
-    {
-      invariantKind: "invariant-kind/absence",
-      statement: "Nothing here reads a file in the checkout.",
     },
   ],
 } as const satisfies Module

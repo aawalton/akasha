@@ -1,6 +1,7 @@
 import { join } from "node:path"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
+  keepingFor,
   recordedEnding,
   recordedRefusal,
 } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
@@ -120,9 +121,10 @@ export async function endingKept(
 ): Promise<readonly string[]> {
   const subject = subjectsOf(root, kind).find((one) => one.slug === slug)
   if (subject === undefined) return []
+  const keeping = keepingFor(root, kind)
   return [
-    ...(await recordedRefusal(slug, subject.pagePath, commit)),
-    ...(await recordedEnding(slug, subject.pagePath, true)),
+    ...(await recordedRefusal(slug, subject.pagePath, commit, keeping)),
+    ...(await recordedEnding(slug, subject.pagePath, true, new Date(), keeping)),
   ]
 }
 

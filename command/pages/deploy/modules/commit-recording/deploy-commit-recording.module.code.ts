@@ -1,5 +1,10 @@
 import { authorIn } from "akasha/command/modules/commit-author/commit-author.module.code.ts"
+import { WORKSTATION_SERVICE } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  mergeUncommitted,
+  uncommittedIn,
+} from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   askingFor,
@@ -16,18 +21,34 @@ const DEPLOY_ENDED_AT = "deployEndedAt"
 
 const DEPLOY_REFUSED_AT = "deployRefusedAt"
 
+export type Keeping =
+  | { readonly beside: string }
+  | { readonly through: Fetcher | undefined; readonly naps: Sleeper | undefined }
+
+export const THROUGH_THE_PAGES: Keeping = { through: undefined, naps: undefined }
+
+export function keepingFor(root: string, kind: string, fetcher?: Fetcher, naps?: Sleeper): Keeping {
+  if (kind === WORKSTATION_SERVICE) return { beside: root }
+  return { through: fetcher, naps }
+}
+
+function besideThePage(root: string, pagePath: string, key: string): string | null {
+  const held = uncommittedIn(root, pagePath)
+  return held === null ? null : textAt({ ...held }, key)
+}
+
 export async function commitKeptIn(
   pagePath: string,
   key: string,
-  fetcher?: Fetcher,
-  naps?: Sleeper
+  keeping: Keeping = THROUGH_THE_PAGES
 ): Promise<string | null> {
+  if ("beside" in keeping) return besideThePage(keeping.beside, pagePath, key)
   const named = partedIn(pagePath)
   if (named === null) return null
   const asked = await askingFor(
     { pageTypeSlug: named.pageType, where: { slug: { is: named.slug } } },
-    fetcher,
-    naps
+    keeping.through,
+    keeping.naps
   )
   if ("refused" in asked) return null
   const kept = asked.rows[0]
@@ -36,10 +57,9 @@ export async function commitKeptIn(
 
 export async function commitRecordedIn(
   pagePath: string,
-  fetcher?: Fetcher,
-  naps?: Sleeper
+  keeping: Keeping = THROUGH_THE_PAGES
 ): Promise<string | null> {
-  return await commitKeptIn(pagePath, DEPLOYED_COMMIT, fetcher, naps)
+  return await commitKeptIn(pagePath, DEPLOYED_COMMIT, keeping)
 }
 
 export function saidOfNoRecord(slug: string, commit: string, wrong: readonly string[]): string {
@@ -50,22 +70,31 @@ export function saidOfNoRefusal(slug: string, commit: string, wrong: readonly st
   return `\`${slug}\` refused at ${commit}, and that commit was not kept beside its page, so a loop would try that same commit again: ${wrong.join("\n")}`
 }
 
+function keptBeside(root: string, pagePath: string, key: string, said: string): readonly string[] {
+  try {
+    mergeUncommitted(root, pagePath, { [key]: said })
+    return []
+  } catch (thrown) {
+    return [thrown instanceof Error ? thrown.message : String(thrown)]
+  }
+}
+
 async function wroteUnder(
   pagePath: string,
   key: string,
   commit: string,
-  fetcher?: Fetcher,
-  naps?: Sleeper
+  keeping: Keeping = THROUGH_THE_PAGES
 ): Promise<readonly string[]> {
-  if ((await commitKeptIn(pagePath, key, fetcher, naps)) === commit) return []
+  if ((await commitKeptIn(pagePath, key, keeping)) === commit) return []
+  if ("beside" in keeping) return keptBeside(keeping.beside, pagePath, key, commit)
   const wrote = await writingFor(
     {
       writer: authorIn(),
       message: `a deploy keeps ${key} beside ${pagePath}`,
       kept: [{ path: pagePath, values: { [key]: commit } }],
     },
-    fetcher,
-    naps
+    keeping.through,
+    keeping.naps
   )
   return "refused" in wrote ? [wrote.refused] : []
 }
@@ -73,10 +102,9 @@ async function wroteUnder(
 async function momentIn(
   pagePath: string,
   key: string,
-  fetcher?: Fetcher,
-  naps?: Sleeper
+  keeping: Keeping = THROUGH_THE_PAGES
 ): Promise<number | null> {
-  const said = await commitKeptIn(pagePath, key, fetcher, naps)
+  const said = await commitKeptIn(pagePath, key, keeping)
   if (said === null) return null
   const at = Date.parse(said)
   return Number.isFinite(at) ? at : null
@@ -84,18 +112,16 @@ async function momentIn(
 
 export async function endedIn(
   pagePath: string,
-  fetcher?: Fetcher,
-  naps?: Sleeper
+  keeping: Keeping = THROUGH_THE_PAGES
 ): Promise<number | null> {
-  return await momentIn(pagePath, DEPLOY_ENDED_AT, fetcher, naps)
+  return await momentIn(pagePath, DEPLOY_ENDED_AT, keeping)
 }
 
 export async function refusedAtIn(
   pagePath: string,
-  fetcher?: Fetcher,
-  naps?: Sleeper
+  keeping: Keeping = THROUGH_THE_PAGES
 ): Promise<number | null> {
-  return await momentIn(pagePath, DEPLOY_REFUSED_AT, fetcher, naps)
+  return await momentIn(pagePath, DEPLOY_REFUSED_AT, keeping)
 }
 
 function saidOfNoEnding(slug: string, wrong: readonly string[]): string {
@@ -107,13 +133,12 @@ export async function recordedEnding(
   pagePath: string,
   refused: boolean = false,
   at: Date = new Date(),
-  fetcher?: Fetcher,
-  naps?: Sleeper
+  keeping: Keeping = THROUGH_THE_PAGES
 ): Promise<readonly string[]> {
   const said = at.toISOString()
   const wrong = [
-    ...(await wroteUnder(pagePath, DEPLOY_ENDED_AT, said, fetcher, naps)),
-    ...(refused ? await wroteUnder(pagePath, DEPLOY_REFUSED_AT, said, fetcher, naps) : []),
+    ...(await wroteUnder(pagePath, DEPLOY_ENDED_AT, said, keeping)),
+    ...(refused ? await wroteUnder(pagePath, DEPLOY_REFUSED_AT, said, keeping) : []),
   ]
   return wrong.length === 0 ? [] : [saidOfNoEnding(slug, wrong)]
 }
@@ -122,10 +147,9 @@ export async function recordedCommit(
   slug: string,
   pagePath: string,
   commit: string,
-  fetcher?: Fetcher,
-  naps?: Sleeper
+  keeping: Keeping = THROUGH_THE_PAGES
 ): Promise<readonly string[]> {
-  const wrong = await wroteUnder(pagePath, DEPLOYED_COMMIT, commit, fetcher, naps)
+  const wrong = await wroteUnder(pagePath, DEPLOYED_COMMIT, commit, keeping)
   return wrong.length === 0 ? [] : [saidOfNoRecord(slug, commit, wrong)]
 }
 
@@ -133,9 +157,8 @@ export async function recordedRefusal(
   slug: string,
   pagePath: string,
   commit: string,
-  fetcher?: Fetcher,
-  naps?: Sleeper
+  keeping: Keeping = THROUGH_THE_PAGES
 ): Promise<readonly string[]> {
-  const wrong = await wroteUnder(pagePath, REFUSED_COMMIT, commit, fetcher, naps)
+  const wrong = await wroteUnder(pagePath, REFUSED_COMMIT, commit, keeping)
   return wrong.length === 0 ? [] : [saidOfNoRefusal(slug, commit, wrong)]
 }

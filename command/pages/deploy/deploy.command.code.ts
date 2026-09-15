@@ -35,6 +35,7 @@ import {
 } from "akasha/command/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
 import {
   commitRecordedIn,
+  keepingFor,
   recordedCommit,
   recordedEnding,
   recordedRefusal,
@@ -264,9 +265,10 @@ async function deployHeld(
 ): Promise<Answer> {
   const commit = commitAt(given.root, wanted.ref)
   if (commit === null) return refused(saidOfNoCommit(wanted.ref ?? AT_HEAD), INPUT)
+  const keeping = keepingFor(given.root, read.kind, recording)
   const closures = read.every === true ? closuresOf(given.root, read.kind, commit) : null
   const built = closures === null ? closureFor(given.root, slug, read, commit) : unionOf(closures)
-  const was = sinceCommit(given.root, await commitRecordedIn(read.pagePath, recording))
+  const was = sinceCommit(given.root, await commitRecordedIn(read.pagePath, keeping))
   const moved = was === null ? null : changedBetween(given.root, was, commit)
   const restarting = closures === null ? null : touchedIn(closures, moved)
   const proving =
@@ -279,8 +281,8 @@ async function deployHeld(
       ? [saidOfUnproven(unproven)]
       : await judgedOnDeploy(given.root, slug, was, commit, built, proving)
   const noting = async (): Promise<readonly string[]> => [
-    ...(await recordedRefusal(slug, read.pagePath, commit, recording)),
-    ...(await recordedEnding(slug, read.pagePath, true, new Date(), recording)),
+    ...(await recordedRefusal(slug, read.pagePath, commit, keeping)),
+    ...(await recordedEnding(slug, read.pagePath, true, new Date(), keeping)),
   ]
   if (unjudged.length > 0) {
     return answeredWith([`commit\t${commit}`], [...unjudged, ...(await noting())], DATA)
@@ -306,8 +308,8 @@ async function deployHeld(
     )
   }
   const wrong = [
-    ...(await recordedCommit(slug, read.pagePath, commit, recording)),
-    ...(await recordedEnding(slug, read.pagePath, false, new Date(), recording)),
+    ...(await recordedCommit(slug, read.pagePath, commit, keeping)),
+    ...(await recordedEnding(slug, read.pagePath, false, new Date(), keeping)),
   ]
   if (wrong.length > 0) return answeredWith(lines, wrong, OPERATIONAL)
   return told([...lines, `recorded\t${slug}\t${commit}`])

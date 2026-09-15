@@ -5,6 +5,7 @@ import {
 import {
   commitRecordedIn,
   endedIn,
+  keepingFor,
   refusedAtIn,
 } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
 import {
@@ -79,7 +80,8 @@ export async function wantingIn(
   const changing = changingIn(root, commit)
   const since = new Map<string, string | null>()
   for (const [slug, one] of subjects) {
-    since.set(slug, sinceCommit(root, await commitRecordedIn(one.pagePath)))
+    const keeping = keepingFor(root, one.kind)
+    since.set(slug, sinceCommit(root, await commitRecordedIn(one.pagePath, keeping)))
   }
   const held = new Map<string, boolean>()
   return (one) => {
@@ -98,13 +100,14 @@ async function candidateFor(
   subject: Subject,
   deploying: boolean = false
 ): Promise<Candidate> {
-  const was = sinceCommit(root, await commitRecordedIn(subject.pagePath))
+  const keeping = keepingFor(root, subject.kind)
+  const was = sinceCommit(root, await commitRecordedIn(subject.pagePath, keeping))
   return {
     slug: subject.slug,
     deploying,
     deployedAt: was === null ? null : committedAt(root, was),
-    deployEndedAt: await endedIn(subject.pagePath),
-    refusedAt: await refusedAtIn(subject.pagePath),
+    deployEndedAt: await endedIn(subject.pagePath, keeping),
+    refusedAt: await refusedAtIn(subject.pagePath, keeping),
     cooldownSeconds: subject.cooldownSeconds,
     dependsOn: subject.deploysAfter,
   }

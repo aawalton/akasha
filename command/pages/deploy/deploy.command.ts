@@ -86,6 +86,19 @@ export const deploy = {
       invariantKind: "invariant-kind/departure",
       statement: "A deploy that refused keeps the commit it refused at under its own key.",
     },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "A workstation service is put up without reaching any service to do it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A workstation service's deploy keeps and reads that commit on disk beside the page.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A deploy of every other kind keeps and reads that commit through the pages.",
+    },
 
     {
       invariantKind: "invariant-kind/departure",
