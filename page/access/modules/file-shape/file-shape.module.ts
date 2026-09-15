@@ -9,20 +9,7 @@ export const fileShape = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A page type's slug is found by asking `@akasha/page-service` for the type carrying an id.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A slug once found is answered again without asking.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A question the pages refuse is dropped rather than held as the answer.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page type with no such id is answered as nothing and that answer is kept.",
     },
     {
       invariantKind: "gap",
