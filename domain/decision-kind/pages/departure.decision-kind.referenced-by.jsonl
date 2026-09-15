@@ -448,6 +448,7 @@
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/constitution/constitution.attribute.ts","id":"01a06841-a158-76c3-9089-9842c06dc7c0"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/endurance/endurance.attribute.ts","id":"01a06841-a16e-7bcb-a31a-fba64ce8de69"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/intelligence/intelligence.attribute.ts","id":"01a06841-a185-7471-8155-9b91e3f40e35"}
+{"propertySlug":"decision-kind","path":"alan/attribute/pages/luck/luck.attribute.ts","id":"01a06841-a19b-775f-8183-8af74871a217"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/strength/strength.attribute.ts","id":"01a06841-a1b4-731f-8d52-fe93c3564922"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/wisdom/wisdom.attribute.ts","id":"01a06841-a1cb-7072-8aa0-eb11c0a4258b"}
 {"propertySlug":"decision-kind","path":"alan/attribute/properties/attribute-level.computed-property.ts","id":"01a081cc-5b79-71ea-9492-1757bb05214d"}
@@ -457,6 +458,7 @@
 {"propertySlug":"decision-kind","path":"alan/attribute/readout/attribute-constitution/attribute-constitution.readout.ts","id":"01a06838-9486-7039-a5b5-f3b864bb2160"}
 {"propertySlug":"decision-kind","path":"alan/attribute/readout/attribute-endurance/attribute-endurance.readout.ts","id":"01a06838-945f-7ac6-b3a4-411fa111e195"}
 {"propertySlug":"decision-kind","path":"alan/attribute/readout/attribute-intelligence/attribute-intelligence.readout.ts","id":"01a06838-94d9-7c36-b921-4351c8db6033"}
+{"propertySlug":"decision-kind","path":"alan/attribute/readout/attribute-luck/attribute-luck.readout.ts","id":"01a0a6a4-999a-78a0-b884-c0e9a6de0787"}
 {"propertySlug":"decision-kind","path":"alan/attribute/readout/attribute-strength/attribute-strength.readout.ts","id":"01a06838-9421-7f89-932a-569d681c18a4"}
 {"propertySlug":"decision-kind","path":"alan/attribute/readout/attribute-wisdom/attribute-wisdom.readout.ts","id":"01a06838-94ae-75cc-850c-98f366cb8269"}
 {"propertySlug":"decision-kind","path":"alan/authoring/authoring.domain.ts","id":"01a0657d-b91d-7000-a1e5-8f2537828ffb"}

@@ -1,0 +1,7 @@
+{"definition":"the service carrying the seven attribute points to the site that shows them"}
+{"enabled":true}
+{"id":"01a0687a-f498-78ce-a19b-36b6b2217113"}
+{"needsSecrets":true}
+{"slug":"attributes-relay-service"}
+{"systemd":{"schedule":"*:2/5","jitterSeconds":30,"startTimeoutSeconds":120,"catchUp":false}}
+{"type":"page-type/service-workstation"}

@@ -2,6 +2,7 @@ import { charismaIn } from "akasha/alan/attribute/pages/charisma/charisma.attrib
 import { fetchConstitutionPoints } from "akasha/alan/attribute/pages/constitution/constitution.attribute.code.ts"
 import { enduranceIn } from "akasha/alan/attribute/pages/endurance/endurance.attribute.code.ts"
 import { intelligenceIn } from "akasha/alan/attribute/pages/intelligence/intelligence.attribute.code.ts"
+import { fetchLuckPoints } from "akasha/alan/attribute/pages/luck/luck.attribute.code.ts"
 import { strengthIn } from "akasha/alan/attribute/pages/strength/strength.attribute.code.ts"
 import { wisdomIn } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.code.ts"
 import {
@@ -9,12 +10,14 @@ import {
   CONSTITUTION_PAGE,
   ENDURANCE_PAGE,
   INTELLIGENCE_PAGE,
+  LUCK_PAGE,
   STRENGTH_PAGE,
   spelledBack,
   type Taken,
   WISDOM_PAGE,
 } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"
 import { askingIn } from "akasha/alan/harness/plant/modules/plants-reading/plants-reading.module.code.ts"
+import type { Asking } from "akasha/alan/harness/readout/modules/asking/readout-asking.module.code.ts"
 import { openedDayWindow } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { kebabisedRow } from "akasha/page/modules/akasha-page-values/akasha-page-values.module.code.ts"
@@ -40,11 +43,11 @@ const DAY_KEYS = [
 ]
 
 const NO_DAY_TRACKED =
-  "no day on or after the day the counting begins is tracked, so the span the plants are counted " +
+  "no day on or after the day the counting begins is tracked, so the span the entries are counted " +
   "over is unknown rather than empty"
 
 const NO_CHECKOUT =
-  "no akasha checkout exists here, so the plants Alan ate are unknown rather than none"
+  "no akasha checkout exists here, so the entries Alan wrote down are unknown rather than none"
 
 const NOTHING_COUNTED = "no day Alan tracked carries what this attribute counts"
 
@@ -113,12 +116,19 @@ function spanTracked(days: readonly Day[]): { readonly from: string; readonly to
   }
 }
 
-async function constitutionOver(days: readonly Day[]): Promise<number> {
+type Fetching = (ask: Asking, from: string, to: string) => Promise<number>
+
+async function entriesOver(days: readonly Day[], fetch: Fetching): Promise<number> {
   const span = spanTracked(days)
   const checkout = resolveRoots()[AKASHA]
   if (checkout === undefined || checkout === "") throw new Error(NO_CHECKOUT)
-  return fetchConstitutionPoints(askingIn(checkout), span.from, span.to)
+  return fetch(askingIn(checkout), span.from, span.to)
 }
+
+const OVER_THE_SPAN: readonly { readonly page: string; readonly fetch: Fetching }[] = [
+  { page: CONSTITUTION_PAGE, fetch: fetchConstitutionPoints },
+  { page: LUCK_PAGE, fetch: fetchLuckPoints },
+]
 
 export async function totalAttributes(root: string, before?: string): Promise<Taken> {
   const kept: Record<string, number> = {}
@@ -129,7 +139,7 @@ export async function totalAttributes(root: string, before?: string): Promise<Ta
     days = daysTracked(root)
   } catch (thrown) {
     for (const summing of OVER_THE_DAYS) unread.push(`${summing.page} — ${saidBy(thrown)}`)
-    unread.push(`${CONSTITUTION_PAGE} — ${saidBy(thrown)}`)
+    for (const spanning of OVER_THE_SPAN) unread.push(`${spanning.page} — ${saidBy(thrown)}`)
     return { kept, unread }
   }
 
@@ -141,9 +151,15 @@ export async function totalAttributes(root: string, before?: string): Promise<Ta
     else kept[summing.page] = total
   }
 
-  const [constitution] = await Promise.allSettled([constitutionOver(counted)])
-  if (constitution.status === "fulfilled") kept[CONSTITUTION_PAGE] = constitution.value
-  else unread.push(`${CONSTITUTION_PAGE} — ${saidBy(constitution.reason)}`)
+  const spanned = await Promise.allSettled(
+    OVER_THE_SPAN.map((spanning) => entriesOver(counted, spanning.fetch))
+  )
+  for (const [at, spanning] of OVER_THE_SPAN.entries()) {
+    const total = spanned[at]
+    if (total === undefined) continue
+    if (total.status === "fulfilled") kept[spanning.page] = total.value
+    else unread.push(`${spanning.page} — ${saidBy(total.reason)}`)
+  }
 
   return { kept, unread }
 }

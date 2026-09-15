@@ -10,6 +10,7 @@ const POINTS = [
   "readout/attribute-wisdom",
   "readout/attribute-intelligence",
   "readout/attribute-charisma",
+  "readout/attribute-luck",
 ]
 
 const HANDED: Carry[] = []
@@ -52,7 +53,7 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run names all six attribute points, each against the site that shows them", async () => {
+test("a run names all seven attribute points, each against the site that shows them", async () => {
   await ranAfresh()
   expect(HANDED).toEqual(POINTS.map((point) => ({ point, to: SHOWN_AT })))
 })

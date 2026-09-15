@@ -7,6 +7,7 @@ const CARRIES = [
   { point: "readout/attribute-wisdom", to: "https://alanwalton.com" },
   { point: "readout/attribute-intelligence", to: "https://alanwalton.com" },
   { point: "readout/attribute-charisma", to: "https://alanwalton.com" },
+  { point: "readout/attribute-luck", to: "https://alanwalton.com" },
 ]
 
 export async function runService(): Promise<void> {

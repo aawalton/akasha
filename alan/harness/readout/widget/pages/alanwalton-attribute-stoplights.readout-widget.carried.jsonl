@@ -1,0 +1,14 @@
+{"app":"ios-app/alanwalton"}
+{"component":"ios-component/alanwalton-attribute-stoplights-widget"}
+{"definition":"the tile on Alan's phone showing what each of his attributes earned today"}
+{"families":["small"]}
+{"feed":"https://alanwalton.com/api/attribute-stoplights"}
+{"galleryDescription":"Your seven attribute stoplights, at a glance."}
+{"galleryName":"Attributes"}
+{"groups":["readout-group/attributes"]}
+{"id":"01a06858-8cfa-7178-8e79-50dece17aecf"}
+{"kind":"AttributeStoplightsWidget"}
+{"opens":"capacitor://localhost/nav/attributes-970234ac?tab=01a07cd7-2bb6-7d40-acb4-895746f0208f#widget=alanwalton-attribute-stoplights"}
+{"place":11}
+{"slug":"alanwalton-attribute-stoplights"}
+{"type":"page-type/readout-widget"}

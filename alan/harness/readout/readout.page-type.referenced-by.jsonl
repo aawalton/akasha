@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-constitution/attribute-constitution.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-endurance/attribute-endurance.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-intelligence/attribute-intelligence.readout.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-luck/attribute-luck.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-strength/attribute-strength.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-wisdom/attribute-wisdom.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.ts"}

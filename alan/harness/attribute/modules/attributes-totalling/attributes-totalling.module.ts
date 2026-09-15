@@ -66,6 +66,10 @@ export const attributesTotalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The rejections are counted over that same span.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The span opens where the first counted day opens.",
     },
     {
@@ -74,7 +78,8 @@ export const attributesTotalling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A span reaching no counted day at all leaves the plants unread rather than zero.",
+      statement:
+        "A span reaching no counted day at all leaves the entries unread rather than zero.",
     },
     {
       decisionKind: "decision-kind/departure",

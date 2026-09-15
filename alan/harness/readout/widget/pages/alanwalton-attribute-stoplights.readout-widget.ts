@@ -11,7 +11,7 @@ export const alanwaltonAttributeStoplights = {
   families: ["small"],
   feed: "https://alanwalton.com/api/attribute-stoplights",
   galleryName: "Attributes",
-  galleryDescription: "Your six attribute stoplights, at a glance.",
+  galleryDescription: "Your seven attribute stoplights, at a glance.",
   opens:
     "capacitor://localhost/nav/attributes-970234ac?tab=01a07cd7-2bb6-7d40-acb4-895746f0208f#widget=alanwalton-attribute-stoplights",
   groups: ["readout-group/attributes"],

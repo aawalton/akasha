@@ -10,6 +10,7 @@ export const attributeReadout = {
     "readout/attribute-constitution",
     "readout/attribute-endurance",
     "readout/attribute-intelligence",
+    "readout/attribute-luck",
     "readout/attribute-strength",
     "readout/attribute-wisdom",
   ],

@@ -3,12 +3,14 @@ import { charismaIn } from "akasha/alan/attribute/pages/charisma/charisma.attrib
 import { fetchConstitutionPoints } from "akasha/alan/attribute/pages/constitution/constitution.attribute.code.ts"
 import { enduranceIn } from "akasha/alan/attribute/pages/endurance/endurance.attribute.code.ts"
 import { intelligenceIn } from "akasha/alan/attribute/pages/intelligence/intelligence.attribute.code.ts"
+import { fetchLuckPoints } from "akasha/alan/attribute/pages/luck/luck.attribute.code.ts"
 import { strengthIn } from "akasha/alan/attribute/pages/strength/strength.attribute.code.ts"
 import { wisdomIn } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.code.ts"
 import { attributeCharisma } from "akasha/alan/attribute/readout/attribute-charisma/attribute-charisma.readout.ts"
 import { attributeConstitution } from "akasha/alan/attribute/readout/attribute-constitution/attribute-constitution.readout.ts"
 import { attributeEndurance } from "akasha/alan/attribute/readout/attribute-endurance/attribute-endurance.readout.ts"
 import { attributeIntelligence } from "akasha/alan/attribute/readout/attribute-intelligence/attribute-intelligence.readout.ts"
+import { attributeLuck } from "akasha/alan/attribute/readout/attribute-luck/attribute-luck.readout.ts"
 import { attributeStrength } from "akasha/alan/attribute/readout/attribute-strength/attribute-strength.readout.ts"
 import { attributeWisdom } from "akasha/alan/attribute/readout/attribute-wisdom/attribute-wisdom.readout.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
@@ -42,6 +44,8 @@ export const WISDOM_PAGE = `${READOUTS}/attribute-wisdom/attribute-wisdom.readou
 export const INTELLIGENCE_PAGE = `${READOUTS}/attribute-intelligence/attribute-intelligence.readout.ts`
 
 export const CHARISMA_PAGE = `${READOUTS}/attribute-charisma/attribute-charisma.readout.ts`
+
+export const LUCK_PAGE = `${READOUTS}/attribute-luck/attribute-luck.readout.ts`
 
 const ID = "id"
 
@@ -89,16 +93,30 @@ async function charismaOf(day: Readonly<Record<string, unknown>>): Promise<numbe
   return charismaIn(stretches.map(spelledBack))
 }
 
-async function constitutionOf(now: Date): Promise<number> {
+type Window = { readonly checkout: string; readonly from: string; readonly to: string }
+
+function windowOpened(now: Date, unknown: string): Window {
   const here = resolveRoots()
   const window = openedDayWindow(here, openedDayOf(here, now))
   const checkout = here[AKASHA]
-  if (checkout === undefined || checkout === "") {
-    throw new Error(
-      "no akasha checkout exists here, so the plants Alan ate are unknown rather than none"
-    )
-  }
-  return fetchConstitutionPoints(askingIn(checkout), window.from, window.to)
+  if (checkout === undefined || checkout === "") throw new Error(unknown)
+  return { checkout, from: window.from, to: window.to }
+}
+
+async function constitutionOf(now: Date): Promise<number> {
+  const at = windowOpened(
+    now,
+    "no akasha checkout exists here, so the plants Alan ate are unknown rather than none"
+  )
+  return fetchConstitutionPoints(askingIn(at.checkout), at.from, at.to)
+}
+
+async function luckOf(now: Date): Promise<number> {
+  const at = windowOpened(
+    now,
+    "no akasha checkout exists here, so the rejections Alan risked are unknown rather than none"
+  )
+  return fetchLuckPoints(askingIn(at.checkout), at.from, at.to)
 }
 
 export const ATTRIBUTE_OF: Readonly<Record<string, string>> = {
@@ -108,6 +126,7 @@ export const ATTRIBUTE_OF: Readonly<Record<string, string>> = {
   [WISDOM_PAGE]: slugOf(attributeWisdom.attribute),
   [INTELLIGENCE_PAGE]: slugOf(attributeIntelligence.attribute),
   [CHARISMA_PAGE]: slugOf(attributeCharisma.attribute),
+  [LUCK_PAGE]: slugOf(attributeLuck.attribute),
 }
 
 const OFF_THE_DAY = [
@@ -132,13 +151,17 @@ async function readAttributes(now: Date = new Date()): Promise<Taken> {
     return undefined
   }
 
-  const [day, constitution] = await Promise.allSettled([
+  const [day, constitution, luck] = await Promise.allSettled([
     trackedDay(getEsoDayStr(now)),
     constitutionOf(now),
+    luckOf(now),
   ])
 
   if (constitution.status === "fulfilled") keep(CONSTITUTION_PAGE, constitution.value)
   else unread.push(`${CONSTITUTION_PAGE} — ${saidBy(constitution.reason)}`)
+
+  if (luck.status === "fulfilled") keep(LUCK_PAGE, luck.value)
+  else unread.push(`${LUCK_PAGE} — ${saidBy(luck.reason)}`)
 
   if (day.status === "rejected") {
     for (const page of OFF_THE_DAY) unread.push(`${page} — ${saidBy(day.reason)}`)

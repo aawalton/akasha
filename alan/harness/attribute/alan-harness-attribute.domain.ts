@@ -31,6 +31,14 @@ export const alanHarnessAttribute = {
       decisionKind: "decision-kind/departure",
       statement: "The constitution counts food entries rather than reading a figure off the day.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The luck counts rejections rather than reading a figure off the day.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rejection that came back as a no counts twice over one Alan only risked.",
+    },
 
     {
       decisionKind: "decision-kind/departure",

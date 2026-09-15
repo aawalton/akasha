@@ -1,1 +1,5 @@
+{"propertySlug":"attribute","path":"alan/attribute/readout/attribute-luck/attribute-luck.readout.ts","id":"01a0a6a4-999a-78a0-b884-c0e9a6de0787"}
+{"propertySlug":"import","fileName":"luck.attribute.code.ts","path":"alan/attribute/pages/luck/luck.attribute.test.ts"}
+{"propertySlug":"import","fileName":"luck.attribute.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"luck.attribute.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts"}
 {"propertySlug":"parts","path":"alan/attribute/attribute.page-type.ts","id":"01a06841-a0fd-7d6d-83ba-fed205a8f26a"}

@@ -4,7 +4,7 @@ export const attributesReading = {
   id: "01a069bc-1aa3-790c-bb5e-db2397ad19ed",
   type: "page-type/module",
   slug: "attributes-reading",
-  definition: "the six attribute points Alan earned today, read and kept on their own readouts",
+  definition: "the seven attribute points Alan earned today, read and kept on their own readouts",
   code: "ts",
   decisions: [
     {
@@ -47,6 +47,14 @@ export const attributesReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The rejections the luck counts are asked for through that same module.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The constitution and the luck are counted over the window the day opened.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A source's throws are carried by that source's promise rather than raised at the call.",
     },
@@ -82,7 +90,7 @@ export const attributesReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run of this file takes the six readings.",
+      statement: "A run of this file takes the seven readings.",
     },
     {
       decisionKind: "decision-kind/departure",
