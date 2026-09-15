@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaUnstoppableR3habRemixUnstoppableR3habRemix = {
   id: "01a0a59c-277a-74d7-864a-0d486bb0da51",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-unstoppable-r3hab-remix-unstoppable-r3hab-remix",
   ownLength: 2.7058666666666666,
   ownProgress: 0,

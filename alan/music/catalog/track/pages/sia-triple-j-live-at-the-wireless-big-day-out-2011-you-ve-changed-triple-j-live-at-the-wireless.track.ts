@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaTripleJLiveAtTheWirelessBigDayOut2011YouVeChangedTripleJLiveAtTheWireless = {
   id: "01a0a59c-309b-7d58-97c7-6624c3cae3e4",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-triple-j-live-at-the-wireless-big-day-out-2011-you-ve-changed-triple-j-live-at-the-wireless",
   ownLength: 3.2051166666666666,
   ownProgress: 0,

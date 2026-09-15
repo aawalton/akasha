@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaWeAreBornBringNight = {
   id: "01a0a59c-0a81-7a7c-8cb3-2593322280b0",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-we-are-born-bring-night",
   ownLength: 2.958666666666667,
   ownProgress: 0,

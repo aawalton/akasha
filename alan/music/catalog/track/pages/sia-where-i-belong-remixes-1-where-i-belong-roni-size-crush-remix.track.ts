@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaWhereIBelongRemixes1WhereIBelongRoniSizeCrushRemix = {
   id: "01a0a59c-42d8-759d-956d-ed502a7afe35",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-where-i-belong-remixes-1-where-i-belong-roni-size-crush-remix",
   ownLength: 5.577766666666666,
   ownProgress: 0,

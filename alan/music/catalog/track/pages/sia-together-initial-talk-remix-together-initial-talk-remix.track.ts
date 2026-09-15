@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaTogetherInitialTalkRemixTogetherInitialTalkRemix = {
   id: "01a0a59c-2f38-71e3-9947-1be4e96c8c5d",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-together-initial-talk-remix-together-initial-talk-remix",
   ownLength: 3.3018833333333335,
   ownProgress: 0,

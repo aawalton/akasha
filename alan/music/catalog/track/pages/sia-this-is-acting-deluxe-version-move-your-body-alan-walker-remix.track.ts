@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActingDeluxeVersionMoveYourBodyAlanWalkerRemix = {
   id: "01a0a59c-0743-7c23-9e5e-9a0b5aaa2b5c",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-deluxe-version-move-your-body-alan-walker-remix",
   ownLength: 3.6317666666666666,
   ownProgress: 0,

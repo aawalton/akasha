@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaWeAreBornClapYourHands = {
   id: "01a0a59c-0a07-73ed-a1ae-fe8210127cdb",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-we-are-born-clap-your-hands",
   ownLength: 3.9744333333333333,
   ownProgress: 0,

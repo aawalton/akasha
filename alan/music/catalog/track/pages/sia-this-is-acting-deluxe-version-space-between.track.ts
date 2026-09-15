@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActingDeluxeVersionSpaceBetween = {
   id: "01a0a59c-06ce-7369-be7e-d038dedf2705",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-deluxe-version-space-between",
   ownLength: 4.80155,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActing10thAnniversaryEditionTheGreatest = {
   id: "01a0a59b-f4e3-74fd-878e-b67fe2b739bd",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-10th-anniversary-edition-the-greatest",
   ownLength: 3.5151,
   ownProgress: 0,

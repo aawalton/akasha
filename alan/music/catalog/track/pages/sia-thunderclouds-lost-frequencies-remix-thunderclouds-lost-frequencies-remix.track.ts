@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThundercloudsLostFrequenciesRemixThundercloudsLostFrequenciesRemix = {
   id: "01a0a59c-3181-71b0-b61c-0c39a32a04db",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-thunderclouds-lost-frequencies-remix-thunderclouds-lost-frequencies-remix",
   ownLength: 3.3082166666666666,
   ownProgress: 0,

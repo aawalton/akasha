@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaUnderTheMilkyWayUnderTheMilkyWay = {
   id: "01a0a59c-3d14-7640-bae2-eef208d270d8",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-under-the-milky-way-under-the-milky-way",
   ownLength: 3.58155,
   ownProgress: 0,

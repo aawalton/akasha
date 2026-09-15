@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaUnstoppableClarenceClarityRemixUnstoppableClarenceClarityRemix = {
   id: "01a0a59c-2760-78c4-b312-de1a988b1c5e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-unstoppable-clarence-clarity-remix-unstoppable-clarence-clarity-remix",
   ownLength: 3.7965666666666666,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActingDeluxeVersionMoveYourBody = {
   id: "01a0a59c-05d4-7419-9b9e-7d6ad4a3f13b",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-deluxe-version-move-your-body",
   ownLength: 4.120216666666667,
   ownProgress: 0,

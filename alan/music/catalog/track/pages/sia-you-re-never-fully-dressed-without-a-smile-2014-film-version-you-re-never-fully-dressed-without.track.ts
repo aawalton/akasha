@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaYouReNeverFullyDressedWithoutASmile2014FilmVersionYouReNeverFullyDressedWithout = {
   id: "01a0a59c-3b6e-794b-88df-5bbd3083efd2",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-you-re-never-fully-dressed-without-a-smile-2014-film-version-you-re-never-fully-dressed-without",
   ownLength: 3.1728833333333335,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActingDeluxeVersionHouseOnFire = {
   id: "01a0a59c-064f-72aa-ac14-0cab6604b22d",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-deluxe-version-house-on-fire",
   ownLength: 4.018666666666666,
   ownProgress: 0,

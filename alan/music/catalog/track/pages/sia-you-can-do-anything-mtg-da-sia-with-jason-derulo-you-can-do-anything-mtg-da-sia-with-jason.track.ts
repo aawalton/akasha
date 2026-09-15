@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaYouCanDoAnythingMtgDaSiaWithJasonDeruloYouCanDoAnythingMtgDaSiaWithJason = {
   id: "01a0a59c-1cc0-79f2-8ce4-282296d19930",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-you-can-do-anything-mtg-da-sia-with-jason-derulo-you-can-do-anything-mtg-da-sia-with-jason",
   ownLength: 2.029533333333333,
   ownProgress: 0,

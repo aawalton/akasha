@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActingDeluxeVersionReaper = {
   id: "01a0a59c-0631-7baa-aae4-0e4d0a5c7aa6",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-deluxe-version-reaper",
   ownLength: 3.6628833333333333,
   ownProgress: 0,

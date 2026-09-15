@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThrowItAllAwayThrowItAllAway = {
   id: "01a0a59c-40a7-78bf-88e1-92a7b332f64e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-throw-it-all-away-throw-it-all-away",
   ownLength: 4.026,
   ownProgress: 0,

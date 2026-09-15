@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaTogetherF9RemixesTogether = {
   id: "01a0a59c-2fd3-7b3b-acbf-be9d006d9b7a",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-together-f9-remixes-together",
   ownLength: 3.4201166666666665,
   ownProgress: 0,

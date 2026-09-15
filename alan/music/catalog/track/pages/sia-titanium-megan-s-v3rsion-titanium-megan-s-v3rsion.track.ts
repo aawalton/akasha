@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaTitaniumMeganSV3rsionTitaniumMeganSV3rsion = {
   id: "01a0a59c-2685-71c7-9f81-11f8e5a5dec1",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-titanium-megan-s-v3rsion-titanium-megan-s-v3rsion",
   ownLength: 4.054433333333333,
   ownProgress: 0,

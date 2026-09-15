@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaUnstoppableTheRemixesUnstoppableSlowedReverb = {
   id: "01a0a59c-26f2-7b41-a5af-e0a3f434c7f7",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-unstoppable-the-remixes-unstoppable-slowed-reverb",
   ownLength: 4.2125,
   ownProgress: 0,

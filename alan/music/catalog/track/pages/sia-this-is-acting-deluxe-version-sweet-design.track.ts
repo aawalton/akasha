@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActingDeluxeVersionSweetDesign = {
   id: "01a0a59c-068b-7605-8a7c-f1df2cd6a520",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-deluxe-version-sweet-design",
   ownLength: 2.4266666666666667,
   ownProgress: 0,

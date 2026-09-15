@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaWeAreBornStopTrying = {
   id: "01a0a59c-0a22-79a3-b9b7-5a3670ac9477",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-we-are-born-stop-trying",
   ownLength: 2.673766666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActingDeluxeVersionOneMillionBullets = {
   id: "01a0a59c-05b6-74de-967d-6d21a964251a",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-deluxe-version-one-million-bullets",
   ownLength: 4.2011,
   ownProgress: 0,

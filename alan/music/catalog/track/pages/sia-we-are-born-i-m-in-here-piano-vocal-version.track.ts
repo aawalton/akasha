@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaWeAreBornIMInHerePianoVocalVersion = {
   id: "01a0a59c-0b64-7e02-9396-b1eb4b6a25d6",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-we-are-born-i-m-in-here-piano-vocal-version",
   ownLength: 3.783333333333333,
   ownProgress: 0,

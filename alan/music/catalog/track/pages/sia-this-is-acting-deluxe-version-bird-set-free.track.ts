@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActingDeluxeVersionBirdSetFree = {
   id: "01a0a59c-057b-73f0-a283-808c825deb47",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-deluxe-version-bird-set-free",
   ownLength: 4.207333333333334,
   ownProgress: 0,

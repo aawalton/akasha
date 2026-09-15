@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActingDeluxeVersionJesusWept = {
   id: "01a0a59c-0780-7b82-8777-e5e874285511",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-deluxe-version-jesus-wept",
   ownLength: 5.48955,
   ownProgress: 0,

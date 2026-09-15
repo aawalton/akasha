@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaWaterfallWaterfall = {
   id: "01a0a59c-354d-746b-8857-89dd776e235c",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-waterfall-waterfall",
   ownLength: 3.333816666666667,
   ownProgress: 0,

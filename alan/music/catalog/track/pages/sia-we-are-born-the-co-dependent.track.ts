@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaWeAreBornTheCoDependent = {
   id: "01a0a59c-0b18-7aaa-80be-fc78ba94cb11",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-we-are-born-the-co-dependent",
   ownLength: 2.92355,
   ownProgress: 0,

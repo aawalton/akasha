@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActingDeluxeVersionFootprints = {
   id: "01a0a59c-066d-76ac-915b-1e6a741d4dea",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-deluxe-version-footprints",
   ownLength: 3.2188833333333333,
   ownProgress: 0,

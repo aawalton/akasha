@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActing10thAnniversaryEditionTheGreatestFeatKendrickLamar = {
   id: "01a0a59b-f46a-7aed-9969-c5fafa35e722",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-10th-anniversary-edition-the-greatest-feat-kendrick-lamar",
   ownLength: 3.5037666666666665,
   ownProgress: 0,

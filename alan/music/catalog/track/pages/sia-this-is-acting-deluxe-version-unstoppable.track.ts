@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaThisIsActingDeluxeVersionUnstoppable = {
   id: "01a0a59c-05f3-77c6-8ad2-dff434a8d203",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-this-is-acting-deluxe-version-unstoppable",
   ownLength: 3.6291,
   ownProgress: 0,
