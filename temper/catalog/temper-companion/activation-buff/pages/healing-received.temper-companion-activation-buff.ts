@@ -2,7 +2,7 @@ import type { TemperCompanionActivationBuff } from "akasha/temper/catalog/temper
 
 export const healingReceived = {
   id: "01a05fcd-70f5-7eb0-b7e1-df350f09b29d",
-  type: "temper-companion-activation-buff",
+  type: "page-type/temper-companion-activation-buff",
   slug: "healing-received",
   key: "healing-received",
   title: "Healing Received",

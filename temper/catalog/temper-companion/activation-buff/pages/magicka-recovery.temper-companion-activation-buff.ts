@@ -2,7 +2,7 @@ import type { TemperCompanionActivationBuff } from "akasha/temper/catalog/temper
 
 export const magickaRecovery = {
   id: "01a05fcd-70f6-775f-8d68-b2e535291476",
-  type: "temper-companion-activation-buff",
+  type: "page-type/temper-companion-activation-buff",
   slug: "magicka-recovery",
   key: "magicka-recovery",
   title: "Magicka Recovery",

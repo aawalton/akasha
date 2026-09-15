@@ -2,7 +2,7 @@ import type { TemperCompanionActivationBuff } from "akasha/temper/catalog/temper
 
 export const flatResistance = {
   id: "01a05fcd-70f4-75a4-8cfc-fa91c36f1319",
-  type: "temper-companion-activation-buff",
+  type: "page-type/temper-companion-activation-buff",
   slug: "flat-resistance",
   key: "flat-resistance",
   title: "Resistance",
