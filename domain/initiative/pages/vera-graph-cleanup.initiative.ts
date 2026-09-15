@@ -11,7 +11,7 @@ export const veraGraphCleanup = {
       statement:
         "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
       workingMemory:
-        "Not met. Five closures read an import edge for themselves. Three go through the graph now: `dockerfile-imports` at `ab84af48094`, `supervisor-file-version` at `03682a4c641`, `remove-file-page` at `c98fae9a35e`. Two are held: the graph counts a type-only import, erased before anything runs, so `no-import-cycle` would refuse 38 cycles over 387 files that never loop. `no-refused-syntax` is a loader, no import reader. Fourteen more close over `extends`, seven over `parts`.\n",
+        "Not met. Three closures go through the graph: `dockerfile-imports` at `ab84af48094`, `supervisor-file-version` at `03682a4c641`, `remove-file-page` at `c98fae9a35e`. Two wait on a predicate following only code: an out edge says `names` type or code at `97004ede965`, and nothing reads it yet, so `no-import-cycle` would refuse 38 cycles over 387 files that never loop. `no-refused-syntax` is a loader, no import reader. Fourteen more close over `extends`, seven over `parts`.",
     },
     {
       statement: "Every closure the graph answers is correct.",
@@ -27,7 +27,7 @@ export const veraGraphCleanup = {
     {
       statement: "What a closure costs is measured by a command, as a change and a check are.",
       workingMemory:
-        "Alan asked for `akasha measure` to take a predicate closure, beside `measure change`, `measure check`, `measure audit` and `measure deploy`. Today the only measurement is `graph/closure/answer-cost`, a performance page run by hand.",
+        "Met. `akasha measure closure <slug> <seed>...` landed at `20c4d0f1f50`, answering seeds, nodes, edges, processor seconds, wall seconds and memory, in the shape `measure change` and `measure check` answer in. It reads cost through `check-cost` and units through `check-measuring`, so the three read alike. `graph/closure/answer-cost` is what it replaces and is still there.",
     },
     {
       statement: "Every closure the graph answers is quick enough to ask on every landing.",
