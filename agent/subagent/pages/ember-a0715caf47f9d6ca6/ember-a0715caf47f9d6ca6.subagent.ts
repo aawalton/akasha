@@ -2,7 +2,7 @@ import type { Subagent } from "akasha/agent/subagent/subagent.page-type.types.ts
 
 export const emberA0715caf47f9d6ca6 = {
   id: "01a0a62f-50e1-7854-8606-47830b52087d",
-  type: "subagent",
+  type: "page-type/subagent",
   slug: "ember-a0715caf47f9d6ca6",
   principalSeatName: "seat/ember",
   assignmentSlug: "initiative/ember-werewolf-parse",

@@ -2,7 +2,7 @@ import type { Subagent } from "akasha/agent/subagent/subagent.page-type.types.ts
 
 export const veraAb40ed1a599f8a288 = {
   id: "01a0a630-571f-7769-b905-99aa65fc9eae",
-  type: "subagent",
+  type: "page-type/subagent",
   slug: "vera-ab40ed1a599f8a288",
   principalSeatName: "seat/vera",
   assignmentSlug: "initiative/vera-graph-cleanup",
