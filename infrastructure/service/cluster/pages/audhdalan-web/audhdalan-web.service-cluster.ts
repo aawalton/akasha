@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const audhdalanWeb = {
   id: "01a05b26-f8b6-702c-863b-08d754492dee",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "audhdalan-web",
   definition: "what serves the site Alan's neurodiversity writing is published on",
   resourceKind: "Deployment",

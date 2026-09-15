@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const buildkitPrune = {
   id: "01a06812-237f-75a4-8884-ae6155609bc3",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "buildkit-prune",
   definition: "the job that clears build cache the builder is no longer using",
   resourceKind: "CronJob",

@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const temperWeb = {
   id: "01a05b26-f8b6-7b51-a3bf-3c4d1128e7e8",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "temper-web",
   definition: "what serves the parts of Temper that run in a browser",
   resourceKind: "Deployment",

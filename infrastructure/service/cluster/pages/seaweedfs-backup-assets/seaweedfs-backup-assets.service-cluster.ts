@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const seaweedfsBackupAssets = {
   id: "01a06816-68b2-7119-9839-b6f8439a8555",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "seaweedfs-backup-assets",
   definition: "what copies the stored assets off to separate storage",
   resourceKind: "CronJob",

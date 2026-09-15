@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const postgresExporter = {
   id: "01a06812-2380-7259-8296-16b643a8bc64",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "postgres-exporter",
   definition: "the server that publishes the database's state as metrics",
   resourceKind: "Deployment",

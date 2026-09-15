@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const pgbouncer = {
   id: "01a06812-2380-75cf-80e3-e1ea919cfaca",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "pgbouncer",
   definition: "the pooler that holds the database connections callers are handed",
   resourceKind: "Deployment",

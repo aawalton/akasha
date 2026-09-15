@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const gitTransportJanitor = {
   id: "01a07c78-6dec-7595-bde9-99656b98280f",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "git-transport-janitor",
   definition: "the job packing away what a push leaves in the repositories",
   resourceKind: "CronJob",

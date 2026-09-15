@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const postgresAnnualDump = {
   id: "01a06865-c012-7a1d-b102-3faf8416b98f",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "postgres-annual-dump",
   definition: "what writes a whole copy of the database once a year",
   resourceKind: "CronJob",

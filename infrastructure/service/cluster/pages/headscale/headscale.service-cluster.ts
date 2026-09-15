@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const headscale = {
   id: "01a06812-2380-7204-bb6c-c05c012bbf72",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "headscale",
   definition:
     "the server admitting a machine to the private network and telling it where the others are",

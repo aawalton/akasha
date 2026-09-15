@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const nodeExporterDaemonset = {
   id: "01a06812-2380-745d-b472-9c01fc3c6797",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "node-exporter-daemonset",
   definition: "the daemon publishing each node's processor, memory, disk and network as metrics",
   resourceKind: "DaemonSet",

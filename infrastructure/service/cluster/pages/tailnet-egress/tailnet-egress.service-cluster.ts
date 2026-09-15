@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const tailnetEgress = {
   id: "01a06812-2381-7f3f-ab43-4484649e98c0",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "tailnet-egress",
   definition: "the proxy that carries a workload's traffic out over the private network",
   resourceKind: "Deployment",

@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const seaweedfsS3Gateway = {
   id: "01a06816-68b2-74df-a01e-80d84ed05948",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "seaweedfs-s3-gateway",
   definition: "what serves the stored files over the S3 interface",
   resourceKind: "Deployment",

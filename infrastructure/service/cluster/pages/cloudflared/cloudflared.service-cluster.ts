@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const cloudflared = {
   id: "01a06812-2380-7f97-866f-639c805cd645",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "cloudflared",
   definition: "the daemon holding the tunnel traffic reaches the cluster over",
   resourceKind: "Deployment",

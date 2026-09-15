@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const nvidiaDevicePlugin = {
   id: "01a06812-2380-7ce6-b001-50deac244107",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "nvidia-device-plugin",
   definition: "the daemon offering a node's graphics cards to the cluster as a resource",
   resourceKind: "DaemonSet",

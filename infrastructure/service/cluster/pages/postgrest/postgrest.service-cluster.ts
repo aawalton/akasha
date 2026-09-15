@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const postgrest = {
   id: "01a06812-2380-7ab2-8db6-0870f27286e6",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "postgrest",
   definition: "the server that serves the database's tables as an HTTP interface",
   resourceKind: "Deployment",

@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const voiceInfer = {
   id: "01a06815-9efd-701d-91e7-8ab2fb023fc4",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "voice-infer",
   definition: "the workload turning speech into text and text into speech",
   resourceKind: "Deployment",

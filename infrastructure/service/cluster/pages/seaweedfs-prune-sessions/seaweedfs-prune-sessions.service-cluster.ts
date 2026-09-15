@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const seaweedfsPruneSessions = {
   id: "01a06816-68b2-782e-bab4-94b6543bc420",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "seaweedfs-prune-sessions",
   definition: "the sweep that removes stored agent sessions past their age",
   resourceKind: "CronJob",

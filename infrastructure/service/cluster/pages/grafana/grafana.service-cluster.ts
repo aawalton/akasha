@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const grafana = {
   id: "01a06812-2380-7fff-8630-86902909325b",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "grafana",
   definition: "the server that draws recorded metrics and logs as charts",
   resourceKind: "Deployment",

@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const gfsPromoter = {
   id: "01a06863-74e0-71ff-9c5e-43490fca32e3",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "gfs-promoter",
   definition: "what decides which Postgres backups are kept and which are released",
   resourceKind: "CronJob",

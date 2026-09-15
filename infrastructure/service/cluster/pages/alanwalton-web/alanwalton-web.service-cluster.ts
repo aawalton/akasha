@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const alanwaltonWeb = {
   id: "01a05b26-f8b6-7a67-91f5-db8495f03998",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "alanwalton-web",
   definition: "what runs Alan's command center in the cluster",
   resourceKind: "Deployment",

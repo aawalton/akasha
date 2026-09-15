@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const esoRig = {
   id: "01a06866-58f8-774b-9824-ef1ea3f4ea3d",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "eso-rig",
   definition: "what runs the Elder Scrolls Online client with nobody at a keyboard",
   resourceKind: "Deployment",

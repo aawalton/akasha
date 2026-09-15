@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const supabaseStudio = {
   id: "01a06812-2381-7a04-b2a9-03ddb9048a47",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "supabase-studio",
   definition: "the interface the database is read and edited through",
   resourceKind: "Deployment",

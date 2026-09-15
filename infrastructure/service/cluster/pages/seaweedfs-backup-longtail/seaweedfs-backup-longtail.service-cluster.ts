@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const seaweedfsBackupLongtail = {
   id: "01a06863-74e1-724d-a15e-66c67cb38571",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "seaweedfs-backup-longtail",
   definition: "what copies the oldest backups on to slower storage",
   resourceKind: "CronJob",

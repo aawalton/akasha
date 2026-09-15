@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const prometheus = {
   id: "01a06812-2380-7ad2-b1c3-165a11cded21",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "prometheus",
   definition: "the server collecting the metrics every part publishes and keeping them over time",
   resourceKind: "Deployment",

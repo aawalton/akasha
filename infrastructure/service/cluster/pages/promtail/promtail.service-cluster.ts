@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const promtail = {
   id: "01a06816-68b2-76ca-9850-ba1ff8ecee13",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "promtail",
   definition: "what collects the logs written on a node and ships them to the store",
   resourceKind: "DaemonSet",

@@ -2,7 +2,7 @@ import type { ServiceCluster } from "akasha/infrastructure/service/cluster/servi
 
 export const seaweedfsEtcdSnapshot = {
   id: "01a06816-68b2-7704-91dc-308b6f1e9d35",
-  type: "service-cluster",
+  type: "page-type/service-cluster",
   slug: "seaweedfs-etcd-snapshot",
   definition: "what writes a copy of the cluster's own key store",
   resourceKind: "CronJob",
