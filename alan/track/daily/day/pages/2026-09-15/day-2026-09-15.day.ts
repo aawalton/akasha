@@ -2,7 +2,7 @@ import type { Day } from "akasha/alan/track/daily/day/day.page-type.types.ts"
 
 export const day20260915 = {
   id: "01a0a482-5a11-7000-a0f0-d6b285472c91",
-  type: "page-type/day",
+  type: "day",
   slug: "day-2026-09-15",
   title: "@date:2026-09-15",
   date: "2026-09-15",
@@ -12,7 +12,7 @@ export const day20260915 = {
   intelligenceTopics: 0,
   inboxTasks: 10,
   inboxTasksClearedToday: false,
-  inboxTemperTasks: 16,
+  inboxTemperTasks: 15,
   inboxTemperTasksClearedToday: false,
   sessions: "jsonl",
   lowestEmailInboxCount: 1,
