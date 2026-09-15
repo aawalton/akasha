@@ -48,7 +48,7 @@ export type Seating = (root: string, name: string) => Seated | null
 
 export type Reached = { readonly name: string; readonly at: string } | { readonly refused: string }
 
-export function noInitiative(slug: string): string {
+function noInitiative(slug: string): string {
   return `\`${slug}\` names no initiative, so there is nothing to assign`
 }
 
@@ -76,7 +76,7 @@ export function saidFor(name: string, slug: string, commit: string | null): read
   return commit === null ? [now] : [now, commit]
 }
 
-export function seatedIn(root: string, name: string): Seated | null {
+function seatedIn(root: string, name: string): Seated | null {
   const one = listedAt(root, SEAT, name)[0]
   if (one === undefined) return null
   const running = statedProcessPresence(akashaHolderProcessOf(one.id)) === PRESENT
@@ -116,11 +116,7 @@ async function handed(
   return await stated(done, root, reached, slug, given)
 }
 
-export async function handedBy(
-  slug: string,
-  given: Given,
-  seating: Seating = seatedIn
-): Promise<Answer> {
+async function handedBy(slug: string, given: Given, seating: Seating = seatedIn): Promise<Answer> {
   return await answering(async (done) => await handed(done, slug, given, seating))
 }
 
