@@ -2,7 +2,7 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuit/te
 
 export const blacksmithingMace = {
   id: "01a0616b-2ce0-7001-9f73-504670347adf",
-  type: "temper-research-line",
+  type: "page-type/temper-research-line",
   slug: "blacksmithing-mace",
   title: "Mace",
   displayOrder: 2,

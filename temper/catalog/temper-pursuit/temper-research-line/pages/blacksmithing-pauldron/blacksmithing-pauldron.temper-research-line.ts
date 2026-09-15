@@ -2,7 +2,7 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuit/te
 
 export const blacksmithingPauldron = {
   id: "01a0616b-2ce0-700c-bc93-3c695ca8a50f",
-  type: "temper-research-line",
+  type: "page-type/temper-research-line",
   slug: "blacksmithing-pauldron",
   title: "Pauldron",
   displayOrder: 13,

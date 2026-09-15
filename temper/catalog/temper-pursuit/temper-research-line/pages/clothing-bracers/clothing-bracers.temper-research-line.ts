@@ -2,7 +2,7 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuit/te
 
 export const clothingBracers = {
   id: "01a0616b-2ce1-7003-8ab7-7f94f4362ca6",
-  type: "temper-research-line",
+  type: "page-type/temper-research-line",
   slug: "clothing-bracers",
   title: "Bracers",
   displayOrder: 10,

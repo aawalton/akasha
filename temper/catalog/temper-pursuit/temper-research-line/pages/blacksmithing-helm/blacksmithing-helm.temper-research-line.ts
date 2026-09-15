@@ -2,7 +2,7 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuit/te
 
 export const blacksmithingHelm = {
   id: "01a0616b-2ce0-700a-b278-b8242fb15337",
-  type: "temper-research-line",
+  type: "page-type/temper-research-line",
   slug: "blacksmithing-helm",
   title: "Helm",
   displayOrder: 11,

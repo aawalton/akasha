@@ -2,7 +2,7 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuit/te
 
 export const clothingHat = {
   id: "01a0616b-2ce0-7012-8e2c-25ebc7168177",
-  type: "temper-research-line",
+  type: "page-type/temper-research-line",
   slug: "clothing-hat",
   title: "Hat",
   displayOrder: 4,

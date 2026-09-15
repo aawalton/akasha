@@ -2,7 +2,7 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuit/te
 
 export const blacksmithingCuirass = {
   id: "01a0616b-2ce0-7007-b25a-243b4d2c7144",
-  type: "temper-research-line",
+  type: "page-type/temper-research-line",
   slug: "blacksmithing-cuirass",
   title: "Cuirass",
   displayOrder: 8,

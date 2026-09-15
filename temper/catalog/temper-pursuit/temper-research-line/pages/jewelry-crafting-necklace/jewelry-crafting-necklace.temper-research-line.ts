@@ -2,7 +2,7 @@ import type { TemperResearchLine } from "akasha/temper/catalog/temper-pursuit/te
 
 export const jewelryCraftingNecklace = {
   id: "01a0616b-2ce1-7011-a0d5-eb01ff722779",
-  type: "temper-research-line",
+  type: "page-type/temper-research-line",
   slug: "jewelry-crafting-necklace",
   title: "Necklace",
   displayOrder: 2,
