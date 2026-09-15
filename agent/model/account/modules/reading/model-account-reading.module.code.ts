@@ -156,11 +156,6 @@ export function accountPathIn(given: string | Reading, slug: string): string | n
   return listedAt(given, accountTypeIn(given), slug)[0]?.path ?? null
 }
 
-export function accountValuesIn(root: string, slug: string): Value | null {
-  const page = accountPathIn(root, slug)
-  return page === null ? null : valueAt(page, root)
-}
-
 export function accountBesideIn(root: string, slug: string): Value | null {
   const page = accountPathIn(root, slug)
   if (page === null) return null

@@ -7,7 +7,6 @@ import {
   accountPathIn,
   accountStateIn,
   accountUuidsIn,
-  accountValuesIn,
   aliasIndexesIn,
   apiKeyIn,
   credentialFrom,
@@ -160,7 +159,6 @@ function counting(root: string): { readonly reading: Reading; readonly seen: str
 test("one account is read by its slug", () => {
   const root = worldMade()
   expect(accountPathIn(root, "aine")).toBe(pageAt("aine"))
-  expect(accountValuesIn(root, "aine")?.["email"]).toBe("aine@example.test")
   const state = accountStateIn(root, "aine")
   expect(state?.slug).toBe("aine")
   expect(state?.fiveHourPercentUsed).toBe(12)
@@ -181,7 +179,6 @@ test("an account with no file beside its page carries no readings", () => {
 test("an account no page is filed for is answered as absent", () => {
   const root = worldMade()
   expect(accountPathIn(root, "nobody")).toBe(null)
-  expect(accountValuesIn(root, "nobody")).toBe(null)
   expect(accountBesideIn(root, "nobody")).toBe(null)
   expect(accountStateIn(root, "nobody")).toBe(null)
   const held = credentialIn(root, "nobody", secretsFake)

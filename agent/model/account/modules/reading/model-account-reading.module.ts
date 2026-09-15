@@ -8,7 +8,7 @@ export const modelAccountReading = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  pageBodyReaders: ["accountValuesIn"],
+
   decisions: [
     {
       decisionKind: "decision-kind/departure",
