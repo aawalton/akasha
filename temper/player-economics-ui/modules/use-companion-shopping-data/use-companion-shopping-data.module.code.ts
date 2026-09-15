@@ -80,7 +80,7 @@ export function useCompanionShoppingData(userId: string | null): CompanionShoppi
   const buildMap = useMemo(() => {
     const map = new Map<string, { buildData: CompanionState | null }>()
     for (const build of builds) {
-      if (build.userId !== userId) continue
+      if (build.accountPage !== userId) continue
       const decoded = build.buildHash !== "" ? decodeCompanion(toBuildHash(build.buildHash)) : null
       const buildData =
         decoded && build.buildMetadata ? applyCompanionMetadata(decoded, build.buildMetadata) : null

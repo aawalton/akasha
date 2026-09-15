@@ -4,7 +4,7 @@ import { stringIn } from "akasha/util/narrow/modules/string-in/string-in.module.
 
 export interface BuildRow<Metadata> {
   id: string
-  userId: string
+  accountPage: string
   buildHash: string
   buildMetadata: Metadata | null
   visibility: string
@@ -15,13 +15,13 @@ export interface BuildRow<Metadata> {
 
 export function mapBuildRow<Metadata>(
   row: Record<string, unknown>,
-  parseMetadata: (value: unknown) => Metadata | null
+  metadataOf: (row: Record<string, unknown>) => Metadata | null
 ): BuildRow<Metadata> {
   return {
     id: parseString(row.id),
-    userId: parseString(row.userId),
+    accountPage: parseString(row.accountPage),
     buildHash: parseString(row.buildHash),
-    buildMetadata: parseMetadata(row.buildMetadata),
+    buildMetadata: metadataOf(row),
     visibility: parseString(row.visibility, "private"),
     correlationId: stringIn(row.correlationId),
     createdAt: parseTimestamp(row.createdAt),

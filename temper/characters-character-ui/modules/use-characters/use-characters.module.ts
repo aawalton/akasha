@@ -13,7 +13,7 @@ export const useCharacters = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Build metadata that does not parse reads as null.",
+      statement: "Build metadata is read off the keys the build page declares.",
     },
     {
       invariantKind: "invariant-kind/absence",

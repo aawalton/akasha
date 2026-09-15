@@ -92,7 +92,6 @@ export function CompanionProvider({
       name: zeroBuildMetadata?.name ?? build.name,
       description: zeroBuildMetadata?.description ?? build.description,
       baseRoles: zeroBuildMetadata?.baseRoles ?? build.companion.baseRoles,
-      roleId: zeroBuildMetadata?.roleId,
       targetCount: zeroBuildMetadata?.targetCount ?? build.target.targetCount,
     }),
     [zeroBuildMetadata]

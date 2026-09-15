@@ -28,6 +28,7 @@ import {
   extractCharacterMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
+import { parseString } from "akasha/util/narrow/modules/parse-string/parse-string.module.code.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"
 
@@ -35,39 +36,28 @@ const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"
 
 export type CharacterBuildRow = BuildRow<CharacterBuildMetadata>
 
-function parseBuildMetadata(value: unknown): CharacterBuildMetadata | null {
-  if (value === null || typeof value !== "object" || Array.isArray(value)) return null
-  const obj: Record<string, unknown> = { ...value }
-  const { name, description, characterName, baseRoles, targetCount } = obj
-  if (
-    typeof name !== "string" ||
-    typeof description !== "string" ||
-    typeof characterName !== "string"
-  ) {
-    return null
-  }
+function buildMetadataOf(row: Record<string, unknown>): CharacterBuildMetadata {
   const validRoleIds = new Set<string>(roles.ids)
-  const validatedRoles = Array.isArray(baseRoles)
-    ? baseRoles.filter((r): r is RoleId => typeof r === "string" && validRoleIds.has(r))
+  const validatedRoles = Array.isArray(row.roles)
+    ? row.roles.filter((r): r is RoleId => typeof r === "string" && validRoleIds.has(r))
     : undefined
   return {
-    name,
-    description,
-    characterName,
+    name: parseString(row.title),
+    description: parseString(row.description),
+    characterName: parseString(row.characterName),
     ...(validatedRoles ? { baseRoles: validatedRoles } : {}),
-    ...(typeof targetCount === "number" ? { targetCount } : {}),
+    ...(typeof row.targetCount === "number" ? { targetCount: row.targetCount } : {}),
   }
 }
 
-function buildMetadataToJson(meta: CharacterBuildMetadata): Json {
-  const json: Json = {
-    name: meta.name,
+function buildMetadataProperties(meta: CharacterBuildMetadata): Record<string, Json> {
+  return {
+    title: meta.name,
     description: meta.description,
     characterName: meta.characterName,
-    ...(meta.baseRoles ? { baseRoles: [...meta.baseRoles] } : {}),
+    ...(meta.baseRoles ? { roles: [...meta.baseRoles] } : {}),
     ...(meta.targetCount != null ? { targetCount: meta.targetCount } : {}),
   }
-  return json
 }
 
 export function useCharacterList() {
@@ -84,7 +74,7 @@ export function useCharacterList() {
 
   const builds = useMemo<CharacterBuildRow[]>(() => {
     if (userId == null) return []
-    return rows.map((row) => mapBuildRow(row, parseBuildMetadata))
+    return rows.map((row) => mapBuildRow(row, buildMetadataOf))
   }, [rows, userId])
 
   return {
@@ -110,7 +100,7 @@ export function useCharacter(buildId: string) {
   const build = useMemo<CharacterBuildRow | undefined>(() => {
     const row = rows[0]
     if (!row) return undefined
-    return mapBuildRow(row, parseBuildMetadata)
+    return mapBuildRow(row, buildMetadataOf)
   }, [rows])
 
   const updateBuild = async (buildHash: string, buildMetadata: CharacterBuildMetadata) => {
@@ -119,7 +109,7 @@ export function useCharacter(buildId: string) {
       where: [{ key: "id", eq: buildId }],
       set: {
         buildHash,
-        buildMetadata: buildMetadataToJson(buildMetadata),
+        ...buildMetadataProperties(buildMetadata),
       },
     })
   }
@@ -140,7 +130,7 @@ export function useCharacter(buildId: string) {
     await runPatch({
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       where: [{ key: "id", eq: buildId }],
-      set: { buildMetadata: buildMetadataToJson(next) },
+      set: buildMetadataProperties(next),
     })
   }
 
@@ -191,10 +181,9 @@ export function useCharacterLifecycle() {
       id: args.id,
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        userId: args.userId,
         accountPage: args.userId,
         buildHash: args.buildHash,
-        buildMetadata: buildMetadataToJson(args.buildMetadata),
+        ...buildMetadataProperties(args.buildMetadata),
         visibility: "private",
         correlationId: args.id,
       },
@@ -212,10 +201,9 @@ export function useCharacterLifecycle() {
       id: args.newId,
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        userId,
         accountPage: userId,
         buildHash: args.newBuildHash,
-        buildMetadata: buildMetadataToJson(args.newBuildMetadata),
+        ...buildMetadataProperties(args.newBuildMetadata),
         visibility: "private",
         correlationId: args.newId,
       },
@@ -236,10 +224,9 @@ export function useCharacterLifecycle() {
     const created = await runCreate({
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        userId,
         accountPage: userId,
         buildHash: args.buildHash,
-        buildMetadata: buildMetadataToJson(args.buildMetadata),
+        ...buildMetadataProperties(args.buildMetadata),
         visibility: "live",
         correlationId: args.id,
       },
@@ -267,10 +254,9 @@ export function useCharacterLifecycle() {
     await runCreate({
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        userId,
         accountPage: userId,
         buildHash: args.buildHash,
-        buildMetadata: buildMetadataToJson(args.buildMetadata),
+        ...buildMetadataProperties(args.buildMetadata),
         visibility: "target",
         correlationId: args.newBuildId,
       },
@@ -293,17 +279,16 @@ export function useCharacterLifecycle() {
         where: [{ key: "id", eq: args.updateExistingTargetId }],
         set: {
           buildHash: args.buildHash,
-          buildMetadata: buildMetadataToJson(args.buildMetadata),
+          ...buildMetadataProperties(args.buildMetadata),
         },
       })
     } else if (args.newBuildId != null) {
       const created = await runCreate({
         pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
         properties: {
-          userId,
           accountPage: userId,
           buildHash: args.buildHash,
-          buildMetadata: buildMetadataToJson(args.buildMetadata),
+          ...buildMetadataProperties(args.buildMetadata),
           visibility: "target",
           correlationId: args.newBuildId,
         },
@@ -375,8 +360,8 @@ export function useAllCharacterList(userId: string | null) {
 
   const isLoading = userRead.isLoading || publicRead.isLoading
 
-  const userBuilds = userRead.rows.map((row) => mapBuildRow(row, parseBuildMetadata))
-  const publicBuilds = publicRead.rows.map((row) => mapBuildRow(row, parseBuildMetadata))
+  const userBuilds = userRead.rows.map((row) => mapBuildRow(row, buildMetadataOf))
+  const publicBuilds = publicRead.rows.map((row) => mapBuildRow(row, buildMetadataOf))
   const userBuildIds = new Set(userBuilds.map((b) => b.id))
   const merged = [...userBuilds, ...publicBuilds.filter((b) => !userBuildIds.has(b.id))]
   return { builds: merged, isLoading }

@@ -122,7 +122,7 @@ export function CompanionsDataContent({
       const buildData = decoded && metadata ? applyCompanionMetadata(decoded, metadata) : null
       return {
         id: build.id,
-        userId: build.userId ?? "",
+        userId: build.accountPage,
         visibility: build.visibility,
         createdAt: build.createdAt,
         updatedAt: build.updatedAt,

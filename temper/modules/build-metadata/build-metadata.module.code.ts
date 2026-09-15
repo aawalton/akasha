@@ -1,7 +1,7 @@
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import type { RoleId } from "akasha/temper/character-source/modules/character-roles/character-roles.module.code.ts"
 import type { CompanionBaseRoleId } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
-import type { CompanionRoleId } from "akasha/temper/companions-core/modules/companion-roles/companion-roles.module.code.ts"
+
 import type { CompanionState } from "akasha/temper/companions-core/modules/companion-types/companion-types.module.code.ts"
 
 export interface CharacterBuildMetadata {
@@ -16,7 +16,6 @@ export interface CompanionBuildMetadata {
   name: string
   description: string
   baseRoles?: readonly CompanionBaseRoleId[]
-  roleId?: CompanionRoleId
   targetCount?: number
 }
 

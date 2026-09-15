@@ -22,16 +22,13 @@ import {
   companionBaseRoles,
 } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { createNewCompanion } from "akasha/temper/companions-core/modules/companion-factory/companion-factory.module.code.ts"
-import {
-  type CompanionRoleId,
-  companionRoles,
-} from "akasha/temper/companions-core/modules/companion-roles/companion-roles.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   type CompanionBuildMetadata,
   extractCompanionMetadata,
 } from "akasha/temper/modules/build-metadata/build-metadata.module.code.ts"
 import type { Json } from "akasha/util/narrow/modules/json-value/json-value.module.code.ts"
+import { parseString } from "akasha/util/narrow/modules/parse-string/parse-string.module.code.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"
 
@@ -40,43 +37,30 @@ const COMPANION_BUILD_PAGE_TYPE_SLUG = "companion-build"
 export type CompanionBuildRow = BuildRow<CompanionBuildMetadata>
 
 const VALID_BASE_ROLE_IDS = new Set<string>(companionBaseRoles.ids)
-const VALID_ROLE_IDS = new Set<string>(companionRoles.ids)
 
 function isCompanionBaseRoleId(value: unknown): value is CompanionBaseRoleId {
   return typeof value === "string" && VALID_BASE_ROLE_IDS.has(value)
 }
 
-function isCompanionRoleId(value: unknown): value is CompanionRoleId {
-  return typeof value === "string" && VALID_ROLE_IDS.has(value)
-}
-
-function parseBuildMetadata(value: unknown): CompanionBuildMetadata | null {
-  if (value === null || typeof value !== "object" || Array.isArray(value)) return null
-  const obj: Record<string, unknown> = { ...value }
-  const { name, description, baseRoles, roleId, targetCount } = obj
-  if (typeof name !== "string" || typeof description !== "string") return null
-  const validatedBaseRoles = Array.isArray(baseRoles)
-    ? baseRoles.filter(isCompanionBaseRoleId)
+function buildMetadataOf(row: Record<string, unknown>): CompanionBuildMetadata {
+  const validatedBaseRoles = Array.isArray(row.baseRoles)
+    ? row.baseRoles.filter(isCompanionBaseRoleId)
     : undefined
-  const validatedRoleId = isCompanionRoleId(roleId) ? roleId : undefined
   return {
-    name,
-    description,
+    name: parseString(row.title),
+    description: parseString(row.description),
     ...(validatedBaseRoles != null ? { baseRoles: validatedBaseRoles } : {}),
-    ...(validatedRoleId != null ? { roleId: validatedRoleId } : {}),
-    ...(typeof targetCount === "number" ? { targetCount } : {}),
+    ...(typeof row.targetCount === "number" ? { targetCount: row.targetCount } : {}),
   }
 }
 
-function buildMetadataToJson(meta: CompanionBuildMetadata): Json {
-  const json: Json = {
-    name: meta.name,
+function buildMetadataProperties(meta: CompanionBuildMetadata): Record<string, Json> {
+  return {
+    title: meta.name,
     description: meta.description,
     ...(meta.baseRoles != null ? { baseRoles: [...meta.baseRoles] } : {}),
-    ...(meta.roleId != null ? { roleId: meta.roleId } : {}),
     ...(meta.targetCount != null ? { targetCount: meta.targetCount } : {}),
   }
-  return json
 }
 
 export function useCompanionList() {
@@ -93,7 +77,7 @@ export function useCompanionList() {
 
   const builds = useMemo<CompanionBuildRow[]>(() => {
     if (userId == null) return []
-    return rows.map((row) => mapBuildRow(row, parseBuildMetadata))
+    return rows.map((row) => mapBuildRow(row, buildMetadataOf))
   }, [rows, userId])
 
   return {
@@ -119,7 +103,7 @@ export function useCompanion(buildId: string) {
   const build = useMemo<CompanionBuildRow | undefined>(() => {
     const row = rows[0]
     if (!row) return undefined
-    return mapBuildRow(row, parseBuildMetadata)
+    return mapBuildRow(row, buildMetadataOf)
   }, [rows])
 
   const updateBuild = async (buildHash: string, buildMetadata: CompanionBuildMetadata) => {
@@ -128,7 +112,7 @@ export function useCompanion(buildId: string) {
       where: [{ key: "id", eq: buildId }],
       set: {
         buildHash,
-        buildMetadata: buildMetadataToJson(buildMetadata),
+        ...buildMetadataProperties(buildMetadata),
       },
     })
   }
@@ -144,7 +128,7 @@ export function useCompanion(buildId: string) {
     await runPatch({
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       where: [{ key: "id", eq: buildId }],
-      set: { buildMetadata: buildMetadataToJson(next) },
+      set: buildMetadataProperties(next),
     })
   }
 
@@ -195,10 +179,9 @@ export function useCompanionLifecycle() {
       id: args.id,
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        userId: args.userId,
         accountPage: args.userId,
         buildHash: args.buildHash,
-        buildMetadata: buildMetadataToJson(args.buildMetadata),
+        ...buildMetadataProperties(args.buildMetadata),
         visibility: "private",
         correlationId: args.id,
       },
@@ -216,10 +199,9 @@ export function useCompanionLifecycle() {
       id: args.newId,
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        userId,
         accountPage: userId,
         buildHash: args.newBuildHash,
-        buildMetadata: buildMetadataToJson(args.newBuildMetadata),
+        ...buildMetadataProperties(args.newBuildMetadata),
         visibility: "private",
         correlationId: args.newId,
       },
@@ -240,10 +222,9 @@ export function useCompanionLifecycle() {
     const created = await runCreate({
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        userId,
         accountPage: userId,
         buildHash: args.buildHash,
-        buildMetadata: buildMetadataToJson(args.buildMetadata),
+        ...buildMetadataProperties(args.buildMetadata),
         visibility: "live",
         correlationId: args.id,
       },
@@ -271,10 +252,9 @@ export function useCompanionLifecycle() {
     await runCreate({
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        userId,
         accountPage: userId,
         buildHash: args.buildHash,
-        buildMetadata: buildMetadataToJson(args.buildMetadata),
+        ...buildMetadataProperties(args.buildMetadata),
         visibility: "target",
         correlationId: args.newBuildId,
       },
@@ -297,17 +277,16 @@ export function useCompanionLifecycle() {
         where: [{ key: "id", eq: args.updateExistingTargetId }],
         set: {
           buildHash: args.buildHash,
-          buildMetadata: buildMetadataToJson(args.buildMetadata),
+          ...buildMetadataProperties(args.buildMetadata),
         },
       })
     } else if (args.newBuildId != null) {
       const created = await runCreate({
         pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
         properties: {
-          userId,
           accountPage: userId,
           buildHash: args.buildHash,
-          buildMetadata: buildMetadataToJson(args.buildMetadata),
+          ...buildMetadataProperties(args.buildMetadata),
           visibility: "target",
           correlationId: args.newBuildId,
         },
@@ -379,8 +358,8 @@ export function useAllCompanionList(userId: string | null) {
 
   const isLoading = userRead.isLoading || publicRead.isLoading
 
-  const userBuilds = userRead.rows.map((row) => mapBuildRow(row, parseBuildMetadata))
-  const publicBuilds = publicRead.rows.map((row) => mapBuildRow(row, parseBuildMetadata))
+  const userBuilds = userRead.rows.map((row) => mapBuildRow(row, buildMetadataOf))
+  const publicBuilds = publicRead.rows.map((row) => mapBuildRow(row, buildMetadataOf))
   const userBuildIds = new Set(userBuilds.map((b) => b.id))
   const merged = [...userBuilds, ...publicBuilds.filter((b) => !userBuildIds.has(b.id))]
   return { builds: merged, isLoading }
