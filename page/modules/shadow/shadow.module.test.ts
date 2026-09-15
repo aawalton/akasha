@@ -159,7 +159,7 @@ test("an audit leaves everything as it is, so nothing is worked out and no body 
   expect(everythingRead(cast.reading)).toEqual(everythingRead(readingIn(repo)))
 })
 
-test("an index line that will not read is refused rather than answered from the committed index", () => {
+test("a change whose tree could not be worked out is refused rather than judged against the committed one", () => {
   const repo = scratch.rootFor("akasha-broken-")
   listedUnreadableFiled(repo, "page-type", "domain")
   const cast = shadowFor(changeOver(repo, [aChange("b.domain.ts", { id: idOf("b") })]))
