@@ -1,13 +1,13 @@
-import { mkdirSync, readFileSync, rmSync, symlinkSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, rmSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
 import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
-import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import {
   type Indexing,
   indexingAt,
   refreshedFrom,
 } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { shapesAt } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
+import { listedById } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { settlingOver } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import { readingAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
@@ -23,6 +23,7 @@ import {
   thePage,
   VOCABULARY,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { referencesAt } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 
@@ -108,15 +109,34 @@ export const idFile = (root: string, id: string): string =>
 export const slugFile = (root: string, type: string, slug: string): string =>
   join(root, `identity/page-type/${type}/slug/${slug}.jsonl`)
 
-export const edgeFile = (root: string, target: string, property: string, source: string): string =>
-  join(root, indexEdge.name, "page", "id", target, property, `${source}.jsonl`)
-
 export const linesIn = (at: string): readonly string[] =>
   readFileSync(at, "utf8")
     .split("\n")
     .filter((one) => one !== "")
 
 export const said = (at: string): unknown => JSON.parse(linesIn(at)[0] ?? "")
+
+export const namesIn = (
+  root: string,
+  tree: string,
+  target: string,
+  property: string,
+  source: string
+): readonly string[] => {
+  const listed = listedById(readingAt(root, tree), target)
+  if (listed === null) return []
+  const at = referencesAt(listed.path)
+  if (at === null || !existsSync(join(tree, at))) return []
+  return linesIn(join(tree, at)).flatMap((one) => {
+    const read = JSON.parse(one) as {
+      propertySlug?: string
+      id?: string
+      path?: string
+    }
+    const wanted = read.propertySlug === property && read.id === source
+    return wanted && typeof read.path === "string" ? [read.path] : []
+  })
+}
 
 export const shapeFiled = (
   root: string,
@@ -214,18 +234,17 @@ export const NAMES_C_BY_SLUG: Held = {
 
 export const NAMES_C_BY_ID: Held = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: [C] }
 
-const BLOCKED_AT = join(indexEdge.name, "page", "id", B, "part-slugs", `${A}.jsonl`)
+const BLOCKED_AT = join("deep", "a.module.referenced-by.jsonl")
 
-export function pathBlocked(root: string): undefined {
-  const blocked = join(root, BLOCKED_AT)
-  rmSync(root, { recursive: true, force: true })
+function blockedInPlace(tree: string): undefined {
+  const blocked = join(tree, BLOCKED_AT)
+  rmSync(blocked, { recursive: true, force: true })
   mkdirSync(join(blocked, "inside"), { recursive: true })
 }
 
-function blockedInPlace(root: string): undefined {
-  const blocked = join(root, BLOCKED_AT)
-  rmSync(blocked, { force: true })
-  mkdirSync(join(blocked, "inside"), { recursive: true })
+export function pathBlocked(root: string, tree: string): undefined {
+  rmSync(root, { recursive: true, force: true })
+  blockedInPlace(tree)
 }
 
 export function aWorldWithAnEdge(): Pair {
@@ -240,7 +259,7 @@ export function aRefreshedWorld(): Pair {
 
 export function aRefreshBlocked(): Pair {
   const held = aRefreshedWorld()
-  blockedInPlace(held.root)
+  blockedInPlace(held.tree)
   return held
 }
 

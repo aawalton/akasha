@@ -1,4 +1,3 @@
-import { edgeIn, NOTHING_FILED } from "akasha/page/index/edge/index-edge.index.code.ts"
 import { identityIn } from "akasha/page/index/identity/index-identity.index.code.ts"
 import {
   idsUnnamed,
@@ -242,31 +241,6 @@ export function settlingOver(
   const rebound = pagesNaming(reading, idsUnnamed(identity), carriedAt)
   const already = new Set(relating.map((one) => one.path))
   const refiling = [...relating, ...rebound.filter((one) => !already.has(one.path))]
-  const was = [
-    ...held.map((one) =>
-      one.was === null
-        ? NOTHING_FILED
-        : edgeIn(one.was, one.path, wasKnown, repo, rowsFor(one.path, one.was, wasKnown, wasBody))
-    ),
-    ...refiling.map((one) =>
-      edgeIn(one.value, one.path, wasKnown, repo, rowsFor(one.path, one.value, wasKnown, wasBody))
-    ),
-  ]
-  const now = [
-    ...held.map((one) =>
-      one.now === null
-        ? NOTHING_FILED
-        : edgeIn(one.now, one.path, known, repo, rowsFor(one.path, one.now, known, nowBody))
-    ),
-    ...refiling.map((one) =>
-      edgeIn(one.value, one.path, known, repo, rowsFor(one.path, one.value, known, nowBody))
-    ),
-  ]
-  const edge = filingOf(
-    was.flatMap((one) => one.entries),
-    now.flatMap((one) => one.entries)
-  )
-
   const referencedWas = [
     ...held.map((one) =>
       one.was === null
@@ -351,7 +325,7 @@ export function settlingOver(
     ].filter((one) => !vacated.has(one.at))
   )
 
-  const filings = [...identity, ...edge]
+  const filings = [...identity]
   return {
     reading: shapesLaidOn(
       overlaidOn(
@@ -365,7 +339,7 @@ export function settlingOver(
     references,
     beside: bodied,
     noted,
-    refusedBefore: was.flatMap((one) => one.refused),
-    refused: now.flatMap((one) => one.refused),
+    refusedBefore: referencedWas.flatMap((one) => one.refused),
+    refused: referencedNow.flatMap((one) => one.refused),
   }
 }

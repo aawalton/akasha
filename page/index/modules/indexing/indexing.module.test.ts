@@ -23,13 +23,13 @@ import {
   bare,
   C,
   D,
-  edgeFile,
   grounded,
   idFile,
   linesIn,
   NAMES_C_BY_ID,
   NAMES_C_BY_SLUG,
   NOTE,
+  namesIn,
   namingAType,
   noteShaped,
   pathBlocked,
@@ -125,7 +125,7 @@ test("a value naming its page type is filed under the target's id", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
   const at = settled(root, tree, "a.domain.ts", value, null)
 
-  expect(said(edgeFile(root, B, "part-slugs", A))).toEqual({ path: relative(tree, at) })
+  expect(namesIn(root, tree, B, "part-slugs", A)).toEqual([relative(tree, at)])
 })
 
 test("a name reaching a page type the settle adds is filed, then and later", () => {
@@ -133,7 +133,7 @@ test("a name reaching a page type the settle adds is filed, then and later", () 
   wrotePages(root, tree, [TYPE_SLUG])
 
   expect(wrotePages(root, tree, [aType(D, "probe", ["page"]), namingAType("probe")])).toEqual([])
-  expect(existsSync(edgeFile(root, D, "type-slug", A))).toBe(true)
+  expect(namesIn(root, tree, D, "type-slug", A)).not.toEqual([])
   expect(wrotePages(root, tree, [namingAType("probe")])).toEqual([])
   expect(wrotePages(root, tree, [namingAType("gone")]).join(" ")).toMatch(/slug `gone`/)
 })
@@ -142,7 +142,7 @@ test("a bare value reaches a page type extending the one its property names", ()
   const { tree, root } = grounded()
   settled(root, tree, "a.domain.ts", NAMES_C_BY_SLUG, null)
 
-  expect(existsSync(edgeFile(root, C, "part-slugs", A))).toBe(true)
+  expect(namesIn(root, tree, C, "part-slugs", A)).not.toEqual([])
 })
 
 test("a retargeted value withdraws the edge it left", () => {
@@ -151,33 +151,31 @@ test("a retargeted value withdraws the edge it left", () => {
   settled(root, tree, "a.domain.ts", was, null)
   settled(root, tree, "a.domain.ts", NAMES_C_BY_ID, was)
 
-  expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
-  expect(existsSync(edgeFile(root, C, "part-slugs", A))).toBe(true)
+  expect(namesIn(root, tree, B, "part-slugs", A)).toEqual([])
+  expect(namesIn(root, tree, C, "part-slugs", A)).not.toEqual([])
 })
 
 test("renaming a page and the page naming it by slug leaves no line for where it was", () => {
   const { tree, root } = grounded()
   expect(wrotePages(root, tree, [aTarget("was"), aSource("from", "was")])).toEqual([])
-  const edge = edgeFile(root, D, "part-slugs", A)
-  expect(linesIn(edge)).toEqual(['{"path":"from.domain.ts"}'])
+  expect(namesIn(root, tree, D, "part-slugs", A)).toEqual(["from.domain.ts"])
 
   renamed(root, tree, [
     ["was.domain.ts", aTarget("now")],
     ["from.domain.ts", aSource("to", "now")],
   ])
 
-  expect(linesIn(edge)).toEqual(['{"path":"to.domain.ts"}'])
+  expect(namesIn(root, tree, D, "part-slugs", A)).toEqual(["to.domain.ts"])
 })
 
 test("a page moved on its own keeps one edge naming where it moved to", () => {
   const { tree, root } = grounded()
   expect(wrotePages(root, tree, [aSource("from", "b")])).toEqual([])
-  const edge = edgeFile(root, B, "part-slugs", A)
-  expect(linesIn(edge)).toEqual(['{"path":"from.domain.ts"}'])
+  expect(namesIn(root, tree, B, "part-slugs", A)).toEqual(["from.domain.ts"])
 
   expect(renamed(root, tree, [["from.domain.ts", aSource("to", "b")]])).toEqual([])
 
-  expect(linesIn(edge)).toEqual(['{"path":"to.domain.ts"}'])
+  expect(namesIn(root, tree, B, "part-slugs", A)).toEqual(["to.domain.ts"])
 })
 
 test("a value the change withdraws that would not resolve before it is reported", () => {
@@ -193,12 +191,11 @@ test("a page type renamed in the same change withdraws the edge a bare value lef
   const { tree, root } = grounded()
   const d = thePage({ id: D, pageTypeSlug: "domain", slug: "d", domainSlug: "c" })
   expect(wrotePages(root, tree, [d])).toEqual([])
-  const edge = edgeFile(root, C, "domain-slug", D)
-  expect(linesIn(edge)).toEqual(['{"path":"d.domain.ts"}'])
+  expect(namesIn(root, tree, C, "domain-slug", D)).toEqual(["d.domain.ts"])
 
   retyped(root, tree, "module.page-type.ts", "unit.page-type.ts", ["d.domain.ts"])
 
-  expect(existsSync(edge)).toBe(false)
+  expect(namesIn(root, tree, C, "domain-slug", D)).toEqual([])
 })
 
 test("a bare value narrowing to more than one page is refused rather than resolved", () => {
@@ -209,12 +206,12 @@ test("a bare value narrowing to more than one page is refused rather than resolv
   indexing.wrote(put(tree, "a.domain.ts", bodyOf(value)), bodyOf(value), null)
 
   expect(indexing.settle().join(" ")).toMatch(/narrows to 2 pages/)
-  expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
+  expect(namesIn(root, tree, B, "part-slugs", A)).toEqual([])
 })
 
 test("a refresh from the pages agrees with the index a write left", () => {
-  const { landed, rebuilt } = worldsApart()
-  expect(existsSync(edgeFile(landed, B, "part-slugs", A))).toBe(true)
+  const { landed, rebuilt, tree } = worldsApart()
+  expect(namesIn(landed, tree, B, "part-slugs", A)).not.toEqual([])
   expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everyFileUnder(landed)))
 })
 
@@ -236,13 +233,13 @@ test("a world carrying a page and declaring no property at all is refused", () =
 
 test("a refresh that threw names the stages it finished and the file it had in hand", () => {
   const { tree, root } = aWorldWithAnEdge()
-  pathBlocked(root)
+  pathBlocked(root, tree)
   const done: string[] = []
 
   expect(() => refreshedFrom(tree, root, tree, true, done)).toThrow()
 
   expect(done[0] ?? "").toMatch(/^identity — \d+ files? written$/)
-  expect(done[done.length - 1] ?? "").toMatch(/^edge — \d+ files? written, `\S+` in hand$/)
+  expect(done[done.length - 1] ?? "").toMatch(/^deep — \d+ files? written, `\S+` in hand$/)
 })
 
 test("a refresh passes over a file gone before its body is read", () => {

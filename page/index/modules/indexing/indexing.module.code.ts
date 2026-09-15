@@ -1,7 +1,6 @@
 import { existsSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
-import { edgeIn } from "akasha/page/index/edge/index-edge.index.code.ts"
 import { identityIn } from "akasha/page/index/identity/index-identity.index.code.ts"
 import {
   type Entry,
@@ -139,17 +138,6 @@ export function refreshedFrom(
   const reading = readingAt(root, repo)
   const known = knownIn(reading, (path) => valueAt(path, repo))
   const beside = bodiesAt(repo)
-  const filed = held.map((one) =>
-    edgeIn(
-      one.value,
-      one.path,
-      known,
-      repo,
-      rowsOver(under(repo, one.path), one.value, known.entriedIn(one.value), beside)
-    )
-  )
-  const edge = filed.flatMap((one) => one.entries)
-  drift.push(reconcile(edge, root, put, done))
   const naming = reachingBuilt(held, repo, fileProperties, filedBy)
   const walked = bodiesUnder(tree)
   const referenced = held.map((one) =>
@@ -167,12 +155,11 @@ export function refreshedFrom(
   ]
   drift.push(reconcile(references, repo, put, done))
   const stale = referencesStale(references, tree, repo, put)
-  const every = [...identity, ...edge]
-  const went = [...takenAway(every, root, put, done), ...stale]
+  const went = [...takenAway(identity, root, put, done), ...stale]
   return {
     pages: held.length,
-    entries: identity.length + edge.length,
-    refused: filed.flatMap((one) => one.refused),
+    entries: identity.length + references.length,
+    refused: referenced.flatMap((one) => one.refused),
     drift: drifting(drift, went),
     beside: shaped,
   }

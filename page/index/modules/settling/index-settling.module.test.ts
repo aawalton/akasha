@@ -2,7 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
-import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import {
   type Indexing,
   indexingAt,
@@ -113,8 +112,13 @@ const notePointing = (target: string): string =>
     targetPageType: target,
   })
 
-const edgeAt = (root: string, property: string): string =>
-  join(root, indexEdge.name, "page", "id", TARGET_ID, property, `${SOURCE_ID}.jsonl`)
+const NAMED_BESIDE = "b.domain.referenced-by.jsonl"
+
+const namedAt = (tree: string, property: string): boolean => {
+  const at = join(tree, NAMED_BESIDE)
+  if (!existsSync(at)) return false
+  return readFileSync(at, "utf8").includes(`"propertySlug":"${property}"`)
+}
 
 function wrote(indexing: Indexing, tree: string, named: readonly Named[]): undefined {
   for (const [at, value] of named) {
@@ -129,7 +133,7 @@ test("a refresh from the pages agrees with the index a turned relation name left
   const first = indexingAt(root, tree)
   wrote(first, tree, [...IDENTIFIERS, NAMING, CARRIER, TARGET_PAGE, SOURCE_PAGE])
   expect(first.settle()).toEqual([])
-  expect(existsSync(edgeAt(root, "part-slugs"))).toBe(true)
+  expect(namedAt(tree, "part-slugs")).toBe(true)
 
   const second = indexingAt(root, tree)
   const gone = join(tree, NAMING[0])
@@ -144,8 +148,8 @@ test("a refresh from the pages agrees with the index a turned relation name left
   const rebuilt = heldAt()
   refreshedFrom(tree, rebuilt, tree)
 
-  expect(existsSync(edgeAt(root, "piece-slugs"))).toBe(true)
-  expect(existsSync(edgeAt(root, "part-slugs"))).toBe(false)
+  expect(namedAt(tree, "piece-slugs")).toBe(true)
+  expect(namedAt(tree, "part-slugs")).toBe(false)
   expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
 })
 
@@ -183,12 +187,12 @@ test("a relation an entry row states files an edge from the row's page", () => {
   indexing.wrote(put(tree, ROW_PAGE[0], body), body, null)
 
   expect(indexing.settle()).toEqual([])
-  expect(existsSync(edgeAt(root, "case-page"))).toBe(true)
+  expect(namedAt(tree, "case-page")).toBe(true)
 
   const rebuilt = heldAt()
   refreshedFrom(tree, rebuilt, tree)
 
-  expect(existsSync(edgeAt(rebuilt, "case-page"))).toBe(true)
+  expect(namedAt(tree, "case-page")).toBe(true)
   expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
 })
 
@@ -223,7 +227,7 @@ test("a refresh agrees with the index a page taken from under a name left", () =
   const first = indexingAt(root, tree)
   wrote(first, tree, [...IDENTIFIERS, NAMING, CARRIER, TARGET_PAGE, SOURCE_PAGE])
   expect(first.settle()).toEqual([])
-  expect(existsSync(edgeAt(root, "part-slugs"))).toBe(true)
+  expect(namedAt(tree, "part-slugs")).toBe(true)
 
   const second = indexingAt(root, tree)
   const gone = join(tree, TARGET_PAGE[0])
@@ -234,7 +238,7 @@ test("a refresh agrees with the index a page taken from under a name left", () =
   const rebuilt = heldAt()
   refreshedFrom(tree, rebuilt, tree)
 
-  expect(existsSync(edgeAt(root, "part-slugs"))).toBe(false)
+  expect(namedAt(tree, "part-slugs")).toBe(false)
   expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
 })
 
