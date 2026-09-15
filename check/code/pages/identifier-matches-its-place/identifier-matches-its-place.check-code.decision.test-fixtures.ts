@@ -47,7 +47,7 @@ const FORMATS: readonly Formatted[] = [
   },
 ]
 
-export const FIXED_AT = "akasha/lualibs/at.lualib-helper.code.ts"
+export const FIXED_AT = "akasha/lualib-helper/at.lualib-helper.code.ts"
 
 export const FIXED_BODY = "export function __TS__ArrayAt() {}\n"
 
