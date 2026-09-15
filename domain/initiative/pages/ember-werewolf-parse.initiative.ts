@@ -10,7 +10,7 @@ export const emberWerewolfParse = {
     {
       statement: "Three-Color Stalker's parse gear is enchanted.",
       workingMemory:
-        "The seven armour pieces each take a gold Glyph of Stamina. The Savage Werewolf necklace and ring each take a gold Glyph of Increase Physical Harm. The main-hand mace takes a Glyph of Poison and the off-hand mace a Glyph of Flame. The Shattered Paths Signet is a mythic in Triune and is worn as it is.",
+        "The seven armour pieces each take a gold Glyph of Stamina. All three jewellery slots take a gold Glyph of Increase Physical Harm, the Shattered Paths Signet included, which ships with a Reduce Prismatic Cost enchantment worth overwriting. The main-hand mace takes a Glyph of Poison and the off-hand mace a Glyph of Flame.\n",
     },
     {
       statement: "Three-Color Stalker wears the full Update 50 Savage Werewolf parse setup.",
