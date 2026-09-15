@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const doubleCastSteelthornSpray = {
   id: "01a06572-95be-7375-82ea-242a3f63bc03",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "double-cast-steelthorn-spray",
   title: "Double Cast: Steelthorn Spray",
   world: "world/the-wandering-inn",

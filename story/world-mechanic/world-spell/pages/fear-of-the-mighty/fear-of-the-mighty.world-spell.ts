@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fearOfTheMighty = {
   id: "01a06572-95c0-7fa5-a3a5-946d7a203277",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "fear-of-the-mighty",
   title: "Fear of the Mighty",
   world: "world/the-wandering-inn",

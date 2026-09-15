@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fireWall = {
   id: "01a06572-95c0-7641-95d3-c60be632630b",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "fire-wall",
   title: "Fire Wall",
   world: "world/the-wandering-inn",

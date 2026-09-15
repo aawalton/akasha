@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fingerOfGigantism = {
   id: "01a06572-95c0-73b3-9670-380f8ecbdd09",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "finger-of-gigantism",
   title: "Finger of Gigantism",
   world: "world/the-wandering-inn",

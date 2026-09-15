@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const enhanceSpellParalysis = {
   id: "01a06572-95bf-7dad-bc57-6fae518dd8d1",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "enhance-spell-paralysis",
   title: "Enhance Spell: Paralysis",
   world: "world/the-wandering-inn",

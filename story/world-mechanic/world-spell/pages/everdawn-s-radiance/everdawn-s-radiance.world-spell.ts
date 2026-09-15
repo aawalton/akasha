@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const everdawnSRadiance = {
   id: "01a06572-95bf-7980-a435-a1868eec8d6a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "everdawn-s-radiance",
   title: "Everdawn’s Radiance",
   world: "world/the-wandering-inn",

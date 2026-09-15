@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fieldOfDeepestSlumber = {
   id: "01a06572-95c0-7b38-991c-68494afa8138",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "field-of-deepest-slumber",
   title: "Field of Deepest Slumber",
   world: "world/the-wandering-inn",

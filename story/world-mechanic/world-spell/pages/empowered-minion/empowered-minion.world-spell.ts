@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const empoweredMinion = {
   id: "01a06572-95bf-74c1-8265-e9fbd72322f4",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "empowered-minion",
   title: "Empowered Minion",
   world: "world/the-wandering-inn",

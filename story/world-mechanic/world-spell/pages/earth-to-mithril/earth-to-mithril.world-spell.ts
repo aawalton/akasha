@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const earthToMithril = {
   id: "01a06572-95be-74d1-a623-f1a50673be9c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "earth-to-mithril",
   title: "Earth to Mithril",
   world: "world/the-wandering-inn",

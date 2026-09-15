@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const everburningBlaze = {
   id: "01a06572-95bf-7ecd-a73c-e91b055c8328",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "everburning-blaze",
   title: "Everburning Blaze",
   world: "world/the-wandering-inn",

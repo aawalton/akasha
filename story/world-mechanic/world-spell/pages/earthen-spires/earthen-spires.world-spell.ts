@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const earthenSpires = {
   id: "01a06572-95bf-735f-bbc0-582516f6ed40",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "earthen-spires",
   title: "Earthen Spires",
   world: "world/the-wandering-inn",

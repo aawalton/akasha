@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const familiar = {
   id: "01a06572-95bf-764c-9be1-de3bf148f6a5",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "familiar",
   title: "Familiar",
   world: "world/the-wandering-inn",

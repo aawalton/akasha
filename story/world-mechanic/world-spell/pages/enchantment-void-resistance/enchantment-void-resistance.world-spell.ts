@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const enchantmentVoidResistance = {
   id: "01a06572-95bf-73b5-9dc6-af707fadeb47",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "enchantment-void-resistance",
   title: "Enchantment: Void Resistance",
   world: "world/the-wandering-inn",

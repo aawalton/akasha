@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const empoweredSpellDragonlingSparkDance = {
   id: "01a06572-95bf-7d59-ad6f-21bfc202a571",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "empowered-spell-dragonling-spark-dance",
   title: "Empowered Spell: Dragonling Spark Dance",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const domeOfTheTwistedVine = {
   id: "01a06572-95be-7323-a6e8-9249cc6122c3",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "dome-of-the-twisted-vine",
   title: "Dome of the Twisted Vine",
   world: "world/the-wandering-inn",

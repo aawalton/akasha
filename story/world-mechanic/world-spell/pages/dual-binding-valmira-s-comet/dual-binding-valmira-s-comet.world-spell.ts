@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const dualBindingValmiraSComet = {
   id: "01a06572-95be-7345-b644-e72fb57cd5ed",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "dual-binding-valmira-s-comet",
   title: "Dual Binding: Valmira’s Comet",
   world: "world/the-wandering-inn",

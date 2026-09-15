@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const earbreakSiren = {
   id: "01a06572-95be-7d2e-aa78-f323dfa52d74",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "earbreak-siren",
   title: "Earbreak Siren",
   world: "world/the-wandering-inn",

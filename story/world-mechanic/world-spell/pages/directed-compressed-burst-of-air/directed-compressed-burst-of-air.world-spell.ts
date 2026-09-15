@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const directedCompressedBurstOfAir = {
   id: "01a06572-95bd-7f68-8d22-c3d54a5beded",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "directed-compressed-burst-of-air",
   title: "Directed Compressed Burst of Air",
   world: "world/the-wandering-inn",

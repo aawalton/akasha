@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const dismissSpecter = {
   id: "01a06572-95bd-7cd4-ae76-3edb58ca6f7a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "dismiss-specter",
   title: "Dismiss Specter",
   world: "world/the-wandering-inn",

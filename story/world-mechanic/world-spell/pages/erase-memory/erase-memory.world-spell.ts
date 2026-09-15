@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const eraseMemory = {
   id: "01a06572-95bf-7392-a446-334b202f5e2e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "erase-memory",
   title: "Erase Memory",
   world: "world/the-wandering-inn",

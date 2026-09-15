@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fawningApplause = {
   id: "01a06572-95c0-74a0-8d0b-60a15834c908",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "fawning-applause",
   title: "Fawning Applause",
   world: "world/the-wandering-inn",

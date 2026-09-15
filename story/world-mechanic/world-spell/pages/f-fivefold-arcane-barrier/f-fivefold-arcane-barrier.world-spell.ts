@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fFivefoldArcaneBarrier = {
   id: "01a06572-95bf-7bf1-afbb-0cd6dac26681",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "f-fivefold-arcane-barrier",
   title: "F-Fivefold Arcane Barrier",
   world: "world/the-wandering-inn",

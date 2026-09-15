@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const dualCastGrandLightning = {
   id: "01a06572-95be-7973-825f-b625b48f2bcc",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "dual-cast-grand-lightning",
   title: "Dual Cast: Grand Lightning",
   world: "world/the-wandering-inn",

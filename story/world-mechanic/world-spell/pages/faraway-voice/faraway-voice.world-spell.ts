@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const farawayVoice = {
   id: "01a06572-95c0-7095-b0cd-94aae1ac0131",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "faraway-voice",
   title: "Faraway Voice",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fireBolt = {
   id: "01a06572-95c0-764c-b1b1-341874792c5f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "fire-bolt",
   title: "Fire Bolt",
   world: "world/the-wandering-inn",

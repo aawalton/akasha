@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const enhancedSpellMageArmor = {
   id: "01a06572-95bf-7d27-a5ca-b7e50e772e6b",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "enhanced-spell-mage-armor",
   title: "Enhanced Spell: Mage Armor",
   world: "world/the-wandering-inn",

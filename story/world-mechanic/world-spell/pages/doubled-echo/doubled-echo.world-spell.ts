@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const doubledEcho = {
   id: "01a06572-95be-7328-9a66-ada1bfc61b76",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "doubled-echo",
   title: "Doubled Echo",
   world: "world/the-wandering-inn",

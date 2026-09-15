@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const durability = {
   id: "01a06572-95be-7cba-ad36-fb7ece9f87af",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "durability",
   title: "Durability",
   world: "world/the-wandering-inn",

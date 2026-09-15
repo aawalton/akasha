@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const disjunctSpell = {
   id: "01a06572-95bd-70a1-8b40-8a1da042e021",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "disjunct-spell",
   title: "Disjunct Spell",
   world: "world/the-wandering-inn",

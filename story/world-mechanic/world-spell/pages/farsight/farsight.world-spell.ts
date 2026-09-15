@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const farsight = {
   id: "01a06572-95c0-7b2e-a4d6-d4a2011675d9",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "farsight",
   title: "Farsight",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const earthshiftStoneFlowsThroughMe = {
   id: "01a06572-95bf-7ff2-b101-ebe4f6ef93ff",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "earthshift-stone-flows-through-me",
   title: "Earthshift: Stone Flows Through Me",
   world: "world/the-wandering-inn",

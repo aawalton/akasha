@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const eyesOfClarity = {
   id: "01a06572-95bf-711e-a21f-328814cb282a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "eyes-of-clarity",
   title: "Eyes of Clarity",
   world: "world/the-wandering-inn",

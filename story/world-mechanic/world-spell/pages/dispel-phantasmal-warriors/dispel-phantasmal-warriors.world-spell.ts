@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const dispelPhantasmalWarriors = {
   id: "01a06572-95be-716f-8f6c-fc60706c698f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "dispel-phantasmal-warriors",
   title: "Dispel Phantasmal Warriors",
   world: "world/the-wandering-inn",

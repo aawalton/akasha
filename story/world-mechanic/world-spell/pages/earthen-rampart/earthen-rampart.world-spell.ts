@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const earthenRampart = {
   id: "01a06572-95be-7121-831e-d56fd1e5d86a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "earthen-rampart",
   title: "Earthen Rampart",
   world: "world/the-wandering-inn",

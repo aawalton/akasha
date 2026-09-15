@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const eyeOfRevelations = {
   id: "01a06572-95bf-7901-bf91-fe1763e0e001",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "eye-of-revelations",
   title: "Eye of Revelations",
   world: "world/the-wandering-inn",

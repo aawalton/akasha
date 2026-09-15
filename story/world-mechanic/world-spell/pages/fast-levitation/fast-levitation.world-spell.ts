@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fastLevitation = {
   id: "01a06572-95c0-7f79-a1a9-9b152dafd8b0",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "fast-levitation",
   title: "Fast Levitation",
   world: "world/the-wandering-inn",

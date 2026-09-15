@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const disintegrationOrbBeamDispersal = {
   id: "01a06572-95bd-7eb8-986f-1bf6be5eb4da",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "disintegration-orb-beam-dispersal",
   title: "Disintegration Orb, Beam Dispersal",
   world: "world/the-wandering-inn",

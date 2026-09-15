@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const diamondheart = {
   id: "01a06572-95bd-7509-b860-770b62fac209",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "diamondheart",
   title: "Diamondheart",
   world: "world/the-wandering-inn",

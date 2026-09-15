@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fiveAlchemiesAnchorage = {
   id: "01a06572-95c3-77a5-bc64-236a5877265a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "five-alchemies-anchorage",
   title: "Five Alchemies: Anchorage",
   world: "world/the-wandering-inn",

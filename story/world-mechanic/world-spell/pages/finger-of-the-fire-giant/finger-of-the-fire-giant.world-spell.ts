@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fingerOfTheFireGiant = {
   id: "01a06572-95c0-7d97-9b09-0d0ad841638d",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "finger-of-the-fire-giant",
   title: "Finger of the Fire Giant",
   world: "world/the-wandering-inn",

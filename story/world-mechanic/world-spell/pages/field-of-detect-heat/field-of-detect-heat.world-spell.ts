@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fieldOfDetectHeat = {
   id: "01a06572-95c0-7a93-ac30-1f40e92165d2",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "field-of-detect-heat",
   title: "Field of Detect Heat",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const explosiveWords = {
   id: "01a06572-95bf-7cee-af06-ea9052fbca82",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "explosive-words",
   title: "Explosive Words",
   world: "world/the-wandering-inn",

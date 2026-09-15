@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const earOfTheBat = {
   id: "01a06572-95be-71d1-8c94-6162cbcc2f88",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "ear-of-the-bat",
   title: "Ear of the Bat",
   world: "world/the-wandering-inn",

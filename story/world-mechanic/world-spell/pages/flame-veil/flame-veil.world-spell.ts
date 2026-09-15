@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const flameVeil = {
   id: "01a06572-95c3-715c-95d1-9c1282a83eec",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "flame-veil",
   title: "Flame Veil",
   world: "world/the-wandering-inn",

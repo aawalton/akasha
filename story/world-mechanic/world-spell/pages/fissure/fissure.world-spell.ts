@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const fissure = {
   id: "01a06572-95c3-741f-85f6-4b03a5ca76b6",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "fissure",
   title: "Fissure",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const doppelganger = {
   id: "01a06572-95be-703c-b47c-8e36590e9b5b",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "doppelganger",
   title: "Doppelganger",
   world: "world/the-wandering-inn",

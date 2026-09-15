@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const detoxin = {
   id: "01a06572-95bd-7920-aad9-b86922f5effc",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "detoxin",
   title: "Detoxin",
   world: "world/the-wandering-inn",

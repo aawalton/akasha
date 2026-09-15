@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const drainEmotion = {
   id: "01a06572-95be-7cb7-b5e3-8d1ded25df02",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "drain-emotion",
   title: "Drain Emot—",
   world: "world/the-wandering-inn",

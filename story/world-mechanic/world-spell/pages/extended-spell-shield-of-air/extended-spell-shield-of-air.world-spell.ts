@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const extendedSpellShieldOfAir = {
   id: "01a06572-95bf-7244-8278-5442ca56c342",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "extended-spell-shield-of-air",
   title: "Extended Spell: Shield of Air",
   world: "world/the-wandering-inn",
