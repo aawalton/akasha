@@ -2,7 +2,7 @@ import type { Value } from "akasha/alan/value/value.page-type.types.ts"
 
 export const wealth = {
   id: "019eb7d1-032b-73d1-bb88-07b4625d5fb9",
-  type: "value",
+  type: "page-type/value",
   slug: "wealth",
   definition: "Alan's personal sovereignty: the capacity to hold the systems his life runs on",
   label: "Wealth",
