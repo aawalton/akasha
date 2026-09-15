@@ -11,6 +11,7 @@ import {
   scanTimestampOf,
   summaryLines,
 } from "akasha/temper/watcher/modules/watcher-import-inventory/watcher-import-inventory.module.code.ts"
+import type { SnapshotValues } from "akasha/temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.code.ts"
 import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const COUNTS = { locationCount: 3, itemCount: 47 }
@@ -23,9 +24,7 @@ const NO_MARKET_PRICE =
   "WARNING: this scan ran with no market-price source — no item carries a market price, so the " +
   "total above is vendor-value-only and far below the real worth."
 
-const NOT_FILED =
-  "were not filed: a scan is kept in akasha as one line per slot rather than as sharded JSON, " +
-  "and nothing here turns a scan into those lines yet."
+const SCAN_FILED = async () => ({ outcome: "landed" as const, at: "def5678" })
 
 const NET_WORTH: NetWorthResult = {
   itemValue: 500,
@@ -147,13 +146,14 @@ test("the summary matches what the legacy import wrote where nothing was set asi
   expect(summaryLines(counts, TOTAL_VALUE, NET_WORTH, []).join("\n")).toBe(legacy)
 })
 
-test("the closing report matches what the legacy import wrote once the reading was filed", () => {
-  const legacy = [
+test("the closing report names the hour page and the scan page each filing landed on", () => {
+  const said = [
     "\n  Net worth filed on `hour-2026-07-25-06` (landed at abc1234).",
-    `  temper-inventory-snapshot/at-2026-07-25-06-28-27 and its 2 chunk(s) ${NOT_FILED}`,
+    "  Scan filed on `temper-inventory-snapshot/at-2026-07-25-06-28-27` (landed at def5678).",
   ].join("\n")
   const filing = { outcome: "landed", at: "abc1234" }
-  expect(filedLines(CAPTURED_AT, filing, "2026-07-25-06-28-27", 2).join("\n")).toBe(legacy)
+  const filed = { outcome: "landed", at: "def5678" }
+  expect(filedLines(CAPTURED_AT, filing, "at-2026-07-25-06-28-27", filed).join("\n")).toBe(said)
 })
 
 test("a whole import writes what the legacy import wrote over the same scan", async () => {
@@ -181,7 +181,7 @@ test("a whole import writes what the legacy import wrote over the same scan", as
     "    Alan — 0 gold (guild bank)",
     "",
     "  Net worth filed on `hour-2025-07-25-06` (landed at abc1234).",
-    `  temper-inventory-snapshot/at-2025-07-25-06-35-07 and its 1 chunk(s) ${NOT_FILED}`,
+    "  Scan filed on `temper-inventory-snapshot/at-2025-07-25-06-35-07` (landed at def5678).",
   ].join("\n")
   const said: string[] = []
   await runImportInventory(
@@ -196,9 +196,55 @@ test("a whole import writes what the legacy import wrote over the same scan", as
       mint: () => "id-1",
       ask: async () => ({ rows: [{ settings: {} }], n: 1 }),
       land: async () => ({ outcome: "landed" as const, at: "abc1234" }),
+      file: SCAN_FILED,
     }
   )
   expect(said.join("\n")).toBe(legacy)
+})
+
+test("the scan handed over carries the account, the slug, the scanned value and the scan", async () => {
+  let handed: SnapshotValues | undefined
+  await runImportInventory(
+    ONE_LOCATION_LUA,
+    ACCOUNT_UNASKED,
+    { userId: "account-1" },
+    {
+      say: () => undefined,
+      now: () => 0,
+      mint: () => "id-1",
+      ask: async () => ({ rows: [{ settings: {} }], n: 1 }),
+      land: async () => ({ outcome: "landed" as const, at: "abc1234" }),
+      file: async (values) => {
+        handed = values
+        return { outcome: "landed" as const, at: "def5678" }
+      },
+    }
+  )
+  expect(handed?.slug).toBe("at-2025-07-25-06-35-07")
+  expect(handed?.accountPage).toBe("account-1")
+  expect(handed?.capturedAt).toBe("2025-07-25T06:35:07.000Z")
+  expect(handed?.totalValue).toBe(0)
+  expect(handed?.chunkCount).toBe(1)
+  expect(handed?.inventory.meta.displayName).toBe("@alan")
+})
+
+test("a scan the store would not take ends the import and names the page it was for", async () => {
+  const run = runImportInventory(
+    ONE_LOCATION_LUA,
+    ACCOUNT_UNASKED,
+    { userId: "account-1" },
+    {
+      say: () => undefined,
+      now: () => 0,
+      mint: () => "id-1",
+      ask: async () => ({ rows: [{ settings: {} }], n: 1 }),
+      land: async () => ({ outcome: "landed" as const, at: "abc1234" }),
+      file: async () => ({ outcome: "refused" as const, why: "the store would not take it" }),
+    }
+  )
+  await expect(run).rejects.toThrow(
+    "this scan did not land on `temper-inventory-snapshot/at-2025-07-25-06-35-07` — the store would not take it"
+  )
 })
 
 test("the reading handed over carries the account, the moment, and every part of net worth", async () => {
@@ -216,6 +262,7 @@ test("the reading handed over carries the account, the moment, and every part of
         handed = values
         return { outcome: "landed" as const, at: "abc1234" }
       },
+      file: SCAN_FILED,
     }
   )
   expect(handed).toEqual({

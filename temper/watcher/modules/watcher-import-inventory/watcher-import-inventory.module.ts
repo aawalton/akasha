@@ -47,8 +47,8 @@ export const watcherImportInventory = {
       statement: "A filing refused ends the import rather than being reported.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The snapshot and its chunks are counted and reported unfiled.",
+      decisionKind: "decision-kind/departure",
+      statement: "A scan is filed as its own page as well as counted toward net worth.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -18,6 +18,10 @@ import type {
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { computeInventoryTotalValue } from "akasha/temper/items-core/modules/inventory-value/inventory-value.module.code.ts"
 import { shardInventoryJson } from "akasha/temper/items-core/modules/shard-inventory/shard-inventory.module.code.ts"
+import {
+  landInventorySnapshot,
+  type SnapshotValues,
+} from "akasha/temper/watcher/modules/watcher-inventory-snapshot-landing/watcher-inventory-snapshot-landing.module.code.ts"
 import { inventorySnapshotName } from "akasha/temper/watcher/modules/watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.code.ts"
 import {
   capturedAtOf,
@@ -33,10 +37,6 @@ import {
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
-
-const NO_SNAPSHOT =
-  "a scan is kept in akasha as one line per slot rather than as sharded JSON, and nothing here " +
-  "turns a scan into those lines yet"
 
 const NO_REPLACEMENT_PRICING =
   "No crown consumable pricing available — skipping replacement cost enrichment."
@@ -77,12 +77,15 @@ export type LandedReading =
 
 export type LandReading = (values: ReadingValues, minted: () => string) => Promise<LandedReading>
 
+export type FileScan = (values: SnapshotValues, minted: () => string) => Promise<LandedReading>
+
 export interface ImportInventoryTools {
   readonly say?: (line: string) => void
   readonly now?: () => number
   readonly mint?: () => string
   readonly ask?: AskForPages
   readonly land?: LandReading
+  readonly file?: FileScan
 }
 
 export function countInventory(inventory: InventoryDatabase): InventoryCounts {
@@ -162,15 +165,15 @@ export function summaryLines(
 export function filedLines(
   capturedAt: string,
   filing: Filing,
-  snapshotName: string,
-  chunkCount: number
+  snapshotSlug: string,
+  filed: Filing
 ): readonly string[] {
   const hour = netWorthHourSlug(capturedAt)
   return [
     "",
     `  Net worth filed on \`${hour}\` (${filing.outcome} at ${filing.at}).`,
-    `  ${INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG}/at-${snapshotName} and its ${chunkCount} chunk(s) ` +
-      `were not filed: ${NO_SNAPSHOT}.`,
+    `  Scan filed on \`${INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG}/${snapshotSlug}\` ` +
+      `(${filed.outcome} at ${filed.at}).`,
   ]
 }
 
@@ -187,6 +190,9 @@ export async function runImportInventory(
   const land =
     tools.land ??
     ((values: ReadingValues, minted: () => string) => landNetWorthReading(values, minted))
+  const file =
+    tools.file ??
+    ((values: SnapshotValues, minted: () => string) => landInventorySnapshot(values, minted))
 
   const userId = await userIdFor(supabase, options.userId, "file this inventory scan")
 
@@ -235,6 +241,16 @@ export async function runImportInventory(
     )
   }
 
-  const snapshotName = inventorySnapshotName(capturedAt)
-  for (const line of filedLines(capturedAt, landed, snapshotName, chunkCount)) say(line)
+  const snapshotSlug = `at-${inventorySnapshotName(capturedAt)}`
+  const filed = await file(
+    { slug: snapshotSlug, accountPage: userId, capturedAt, totalValue, chunkCount, inventory },
+    mint
+  )
+  if (filed.outcome === "refused") {
+    throw new Error(
+      `this scan did not land on \`${INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG}/${snapshotSlug}\` — ${filed.why}`
+    )
+  }
+
+  for (const line of filedLines(capturedAt, landed, snapshotSlug, filed)) say(line)
 }
