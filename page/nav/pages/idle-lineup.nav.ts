@@ -2,7 +2,7 @@ import type { Nav } from "akasha/page/nav/nav.page-type.types.ts"
 
 export const idleLineup = {
   id: "01a06577-2613-700f-8b82-8ec2f3e086b1",
-  type: "nav",
+  type: "page-type/nav",
   slug: "idle-lineup",
   title: "Lineup",
   icon: "swords",
