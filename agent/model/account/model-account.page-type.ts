@@ -4,7 +4,7 @@ export const modelAccount = {
   id: "01a054d8-1d38-788f-a073-7cf3603acd3f",
   type: "page-type",
   slug: "model-account",
-  definition: "one Anthropic subscription that calls are made on",
+  definition: "one account a provider serves calls on",
   extends: ["page-type/page"],
   parts: [
     "computed-property-module/five-hour-reset",
@@ -51,6 +51,7 @@ export const modelAccount = {
     "service-workstation/model-account-upkeep-stall",
     "text-property/access-token",
     "text-property/account-uuid",
+    "text-property/api-key",
     "text-property/rate-limit-tier",
     "text-property/refresh-token",
     "text-property/rescued-access-token",
@@ -67,8 +68,9 @@ export const modelAccount = {
     { pageProperty: "text-property/rate-limit-tier", required: false, many: false },
     { pageProperty: "number-property/renewal-day", required: false, many: false },
     { pageProperty: "text-property/scopes", required: false, many: true, maxCount: null },
-    { pageProperty: "text-property/access-token", required: true, many: false, secret: true },
-    { pageProperty: "text-property/refresh-token", required: true, many: false, secret: true },
+    { pageProperty: "text-property/access-token", required: false, many: false, secret: true },
+    { pageProperty: "text-property/refresh-token", required: false, many: false, secret: true },
+    { pageProperty: "text-property/api-key", required: false, many: false, secret: true },
     {
       pageProperty: "instant-property/access-token-expires-at",
       required: false,

@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/messaging/notice/properties/notice-warrant.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/account/properties/access-token.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/account/properties/account-uuid.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/account/properties/api-key.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/account/properties/rate-limit-tier.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/account/properties/refresh-token.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/account/properties/rescued-access-token.text-property.ts"}
@@ -16,7 +17,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/account/properties/subscription-disabled-reason.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/account/properties/subscription-type.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/family/properties/model-name.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/provider/properties/api-key.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/test/properties/case-against.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/test/properties/case-asked.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/test/properties/case-page.text-property.ts"}

@@ -2,6 +2,7 @@ import type { AccessToken } from "akasha/agent/model/account/properties/access-t
 import type { AccessTokenExpiresAt } from "akasha/agent/model/account/properties/access-token-expires-at.instant-property.types.ts"
 import type { AccountUuid } from "akasha/agent/model/account/properties/account-uuid.text-property.types.ts"
 import type { AliasIndex } from "akasha/agent/model/account/properties/alias-index.number-property.types.ts"
+import type { ApiKey } from "akasha/agent/model/account/properties/api-key.text-property.types.ts"
 import type { EffectiveFiveHourResetsAt } from "akasha/agent/model/account/properties/effective-five-hour-resets-at.computed-property.types.ts"
 import type { EffectiveFiveHourUsage } from "akasha/agent/model/account/properties/effective-five-hour-usage.computed-property.types.ts"
 import type { EffectiveSevenDayUsage } from "akasha/agent/model/account/properties/effective-seven-day-usage.computed-property.types.ts"
@@ -37,6 +38,7 @@ export type ModelAccount = Page & {
   scopes?: Scopes
   accessToken?: AccessToken
   refreshToken?: RefreshToken
+  apiKey?: ApiKey
   accessTokenExpiresAt?: AccessTokenExpiresAt
   fiveHourPercentUsed?: FiveHourPercentUsed
   sevenDayPercentUsed?: SevenDayPercentUsed
