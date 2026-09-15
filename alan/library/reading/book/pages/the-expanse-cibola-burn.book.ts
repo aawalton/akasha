@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theExpanseCibolaBurn = {
   id: "019db533-f39b-7274-9a50-71fc68e2077c",
-  type: "book",
+  type: "page-type/book",
   slug: "the-expanse-cibola-burn",
   title: "The Expanse: Cibola Burn",
   status: "not-started",

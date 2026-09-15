@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const teachingsOfHowardWHunter = {
   id: "019db533-f39d-7a89-97d5-d8e9472890ad",
-  type: "book",
+  type: "page-type/book",
   slug: "teachings-of-howard-w-hunter",
   title: "Teachings of Howard W. Hunter",
   status: "not-started",

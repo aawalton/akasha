@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theEmperorOfAllMaladies = {
   id: "019db533-f39d-7def-9ac5-fb3e8dc58ce2",
-  type: "book",
+  type: "page-type/book",
   slug: "the-emperor-of-all-maladies",
   title: "The Emperor of All Maladies",
   status: "completed",

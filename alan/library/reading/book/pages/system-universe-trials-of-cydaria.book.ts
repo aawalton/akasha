@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const systemUniverseTrialsOfCydaria = {
   id: "019db533-f391-7765-90a6-67e1eb70b979",
-  type: "book",
+  type: "page-type/book",
   slug: "system-universe-trials-of-cydaria",
   title: "System Universe: Trials of Cydaria",
   status: "completed",

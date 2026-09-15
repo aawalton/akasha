@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theBadGuysHighGloom = {
   id: "019db533-f391-77bd-8a3d-37271e229d6a",
-  type: "book",
+  type: "page-type/book",
   slug: "the-bad-guys-high-gloom",
   title: "The Bad Guys: High Gloom",
   status: "completed",

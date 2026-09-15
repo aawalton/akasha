@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theCalamitousBobBlackManaGambit = {
   id: "019db533-f391-7802-8173-866e1764bc98",
-  type: "book",
+  type: "page-type/book",
   slug: "the-calamitous-bob-black-mana-gambit",
   title: "The Calamitous Bob: Black Mana Gambit",
   status: "completed",

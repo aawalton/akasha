@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const teachingsOfJosephSmith = {
   id: "019db533-f39d-7933-8f26-0b20a6d2dea2",
-  type: "book",
+  type: "page-type/book",
   slug: "teachings-of-joseph-smith",
   title: "Teachings of Joseph Smith",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theBadGuysSeasTheDay = {
   id: "019db533-f391-77b5-85a7-b25fc5363c95",
-  type: "book",
+  type: "page-type/book",
   slug: "the-bad-guys-seas-the-day",
   title: "The Bad Guys: Seas the Day",
   status: "completed",

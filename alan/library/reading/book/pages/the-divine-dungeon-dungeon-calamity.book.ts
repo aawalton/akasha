@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theDivineDungeonDungeonCalamity = {
   id: "019db533-f391-78cb-bd1b-db0fbe660081",
-  type: "book",
+  type: "page-type/book",
   slug: "the-divine-dungeon-dungeon-calamity",
   title: "The Divine Dungeon: Dungeon Calamity",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const sylNucleus = {
   id: "019db533-f391-7744-8622-598fb16cc40c",
-  type: "book",
+  type: "page-type/book",
   slug: "syl-nucleus",
   title: "Syl: Nucleus",
   status: "completed",

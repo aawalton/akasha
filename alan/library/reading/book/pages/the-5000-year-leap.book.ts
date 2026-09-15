@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const the5000YearLeap = {
   id: "019db533-f39d-78ee-85aa-65b7c8c280b0",
-  type: "book",
+  type: "page-type/book",
   slug: "the-5000-year-leap",
   title: "The 5000 Year Leap",
   status: "not-started",

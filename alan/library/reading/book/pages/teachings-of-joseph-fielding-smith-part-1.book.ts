@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const teachingsOfJosephFieldingSmithPart1 = {
   id: "019db533-f39d-7327-b6cf-b3410fe63452",
-  type: "book",
+  type: "page-type/book",
   slug: "teachings-of-joseph-fielding-smith-part-1",
   title: "Teachings of Joseph Fielding Smith Part 1",
   status: "not-started",

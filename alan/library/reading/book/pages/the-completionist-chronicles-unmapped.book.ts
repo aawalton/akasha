@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theCompletionistChroniclesUnmapped = {
   id: "019db533-f386-7b1c-86ea-a9621b662811",
-  type: "book",
+  type: "page-type/book",
   slug: "the-completionist-chronicles-unmapped",
   title: "The Completionist Chronicles: Unmapped",
   status: "not-started",

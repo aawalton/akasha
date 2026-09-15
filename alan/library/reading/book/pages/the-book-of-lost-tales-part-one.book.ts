@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theBookOfLostTalesPartOne = {
   id: "019db533-f38a-7dde-83d2-551b65914cd3",
-  type: "book",
+  type: "page-type/book",
   slug: "the-book-of-lost-tales-part-one",
   title: "The Book of Lost Tales, Part One",
   status: "not-started",

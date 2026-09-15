@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const sylOsmosis = {
   id: "019db533-f391-7722-9b5c-bbdc8bb2c3e4",
-  type: "book",
+  type: "page-type/book",
   slug: "syl-osmosis",
   title: "Syl: Osmosis",
   status: "completed",

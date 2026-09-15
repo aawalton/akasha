@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const stonehavenLeagueTempleOfSorrow = {
   id: "019db533-f391-76a5-9bce-74cb744858cd",
-  type: "book",
+  type: "page-type/book",
   slug: "stonehaven-league-temple-of-sorrow",
   title: "Stonehaven League: Temple of Sorrow",
   status: "completed",

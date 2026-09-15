@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theAlchemicWeaponeerViridianGateOnline = {
   id: "019db533-f38a-72d4-92ec-8953639b2237",
-  type: "book",
+  type: "page-type/book",
   slug: "the-alchemic-weaponeer-viridian-gate-online",
   title: "The Alchemic Weaponeer: Viridian Gate Online",
   status: "completed",

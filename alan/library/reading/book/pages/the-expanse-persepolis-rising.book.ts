@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theExpansePersepolisRising = {
   id: "019db533-f39a-7c20-b914-8b7c7465432d",
-  type: "book",
+  type: "page-type/book",
   slug: "the-expanse-persepolis-rising",
   title: "The Expanse: Persepolis Rising",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theExpanseLeviathanFalls = {
   id: "019db533-f39a-7e29-b254-dae8ba22f6c6",
-  type: "book",
+  type: "page-type/book",
   slug: "the-expanse-leviathan-falls",
   title: "The Expanse: Leviathan Falls",
   status: "not-started",

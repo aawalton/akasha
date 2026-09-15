@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const swordArtOnlineAlternativeCloversRegret3 = {
   id: "019db533-f38b-72bd-a5e9-7328224aac5b",
-  type: "book",
+  type: "page-type/book",
   slug: "sword-art-online-alternative-clovers-regret-3",
   title: "Sword Art Online Alternative Clover's Regret",
   status: "not-started",

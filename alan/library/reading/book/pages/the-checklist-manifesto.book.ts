@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theChecklistManifesto = {
   id: "019db533-f39d-7e96-852e-18961bb77d31",
-  type: "book",
+  type: "page-type/book",
   slug: "the-checklist-manifesto",
   title: "The Checklist Manifesto",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theConnectedSystemWarbreakersRage = {
   id: "019db533-f391-78b2-9e77-ccc23ce699cf",
-  type: "book",
+  type: "page-type/book",
   slug: "the-connected-system-warbreakers-rage",
   title: "The Connected System: Warbreaker's Rage",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theExpanseBabylonsAshes = {
   id: "019db533-f39b-7246-918b-22d792696315",
-  type: "book",
+  type: "page-type/book",
   slug: "the-expanse-babylons-ashes",
   title: "The Expanse: Babylon's Ashes",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theBodyInTheLibrary = {
   id: "019db533-f399-7cb5-9a01-9ff320b5c7f6",
-  type: "book",
+  type: "page-type/book",
   slug: "the-body-in-the-library",
   title: "The Body in the Library",
   status: "not-started",

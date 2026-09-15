@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const teachingsOfHaroldBLee = {
   id: "019db533-f39d-7a3a-bc7b-04400b1ca9a3",
-  type: "book",
+  type: "page-type/book",
   slug: "teachings-of-harold-b-lee",
   title: "Teachings of Harold B. Lee",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theFellowshipOfTheRing = {
   id: "019db533-f38a-7e22-92aa-fc4d8e6cd85b",
-  type: "book",
+  type: "page-type/book",
   slug: "the-fellowship-of-the-ring",
   title: "The Fellowship of the Ring",
   status: "completed",

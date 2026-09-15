@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theFederalist = {
   id: "019db533-f39d-78cf-8ee5-37c911a5eb2d",
-  type: "book",
+  type: "page-type/book",
   slug: "the-federalist",
   title: "The Federalist",
   status: "not-started",

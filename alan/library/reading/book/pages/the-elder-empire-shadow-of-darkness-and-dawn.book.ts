@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theElderEmpireShadowOfDarknessAndDawn = {
   id: "019db533-f39a-7dff-a67b-df2bb465d934",
-  type: "book",
+  type: "page-type/book",
   slug: "the-elder-empire-shadow-of-darkness-and-dawn",
   title: "The Elder Empire - Shadow: Of Darkness and Dawn",
   status: "not-started",

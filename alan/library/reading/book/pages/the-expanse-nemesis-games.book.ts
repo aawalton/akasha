@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theExpanseNemesisGames = {
   id: "019db533-f39a-7d73-b713-f31bc04d0d82",
-  type: "book",
+  type: "page-type/book",
   slug: "the-expanse-nemesis-games",
   title: "The Expanse: Nemesis Games",
   status: "not-started",

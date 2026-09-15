@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const systemUniverseSystemClash = {
   id: "019db533-f388-7f07-a95d-b1b3d9e44566",
-  type: "book",
+  type: "page-type/book",
   slug: "system-universe-system-clash",
   title: "System Universe: System Clash",
   status: "completed",

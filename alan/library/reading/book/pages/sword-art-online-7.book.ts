@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const swordArtOnline7 = {
   id: "019db533-f38b-7361-9bd4-21c367ba6b11",
-  type: "book",
+  type: "page-type/book",
   slug: "sword-art-online-7",
   title: "Sword Art Online 7",
   status: "not-started",

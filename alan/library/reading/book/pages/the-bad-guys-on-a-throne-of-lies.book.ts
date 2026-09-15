@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theBadGuysOnAThroneOfLies = {
   id: "019db533-f391-776d-ab4e-8a4e2401fe5a",
-  type: "book",
+  type: "page-type/book",
   slug: "the-bad-guys-on-a-throne-of-lies",
   title: "The Bad Guys: On a Throne of Lies",
   status: "not-started",

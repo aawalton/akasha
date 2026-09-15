@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const teachingsOfBrighamYoung = {
   id: "019db533-f39d-7a0b-80fd-af7e7ee58762",
-  type: "book",
+  type: "page-type/book",
   slug: "teachings-of-brigham-young",
   title: "Teachings of Brigham Young",
   status: "not-started",

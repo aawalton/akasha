@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theBodyKeepsTheScore = {
   id: "019db533-f39d-7e6e-b65e-be009fd367dc",
-  type: "book",
+  type: "page-type/book",
   slug: "the-body-keeps-the-score",
   title: "The Body Keeps the Score",
   status: "completed",

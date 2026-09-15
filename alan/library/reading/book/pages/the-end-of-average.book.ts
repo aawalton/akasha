@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theEndOfAverage = {
   id: "019db533-f39d-7ed8-9cd4-cdbaa0af0984",
-  type: "book",
+  type: "page-type/book",
   slug: "the-end-of-average",
   title: "The End of Average",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theClocks = {
   id: "019db533-f399-7d00-8065-005db4c0c792",
-  type: "book",
+  type: "page-type/book",
   slug: "the-clocks",
   title: "The Clocks",
   status: "not-started",

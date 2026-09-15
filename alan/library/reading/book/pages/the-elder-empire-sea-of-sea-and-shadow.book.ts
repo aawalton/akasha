@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theElderEmpireSeaOfSeaAndShadow = {
   id: "019db533-f39a-7dde-a5cf-b5c7abe1fd22",
-  type: "book",
+  type: "page-type/book",
   slug: "the-elder-empire-sea-of-sea-and-shadow",
   title: "The Elder Empire - Sea: Of Sea and Shadow",
   status: "not-started",

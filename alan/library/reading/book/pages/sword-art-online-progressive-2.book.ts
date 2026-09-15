@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const swordArtOnlineProgressive2 = {
   id: "019db533-f391-772a-b548-04b17a6f4896",
-  type: "book",
+  type: "page-type/book",
   slug: "sword-art-online-progressive-2",
   title: "Sword Art Online Progressive 2",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theAntidote = {
   id: "019db533-f39d-7fa7-92f8-53937235a01f",
-  type: "book",
+  type: "page-type/book",
   slug: "the-antidote",
   title: "The Antidote",
   status: "not-started",

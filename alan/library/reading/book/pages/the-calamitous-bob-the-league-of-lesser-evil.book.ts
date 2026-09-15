@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theCalamitousBobTheLeagueOfLesserEvil = {
   id: "019db533-f391-77f1-b937-4023f725cd39",
-  type: "book",
+  type: "page-type/book",
   slug: "the-calamitous-bob-the-league-of-lesser-evil",
   title: "The Calamitous Bob: The League of Lesser Evil",
   status: "completed",

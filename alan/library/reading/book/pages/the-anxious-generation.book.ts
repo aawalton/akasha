@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theAnxiousGeneration = {
   id: "019db533-f39e-706f-83c8-c07638353629",
-  type: "book",
+  type: "page-type/book",
   slug: "the-anxious-generation",
   title: "The Anxious Generation",
   status: "not-started",

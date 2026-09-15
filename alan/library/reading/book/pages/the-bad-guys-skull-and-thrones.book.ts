@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theBadGuysSkullAndThrones = {
   id: "019db533-f391-77c7-92ce-eb030d8a83b3",
-  type: "book",
+  type: "page-type/book",
   slug: "the-bad-guys-skull-and-thrones",
   title: "The Bad Guys: Skull and Thrones",
   status: "completed",

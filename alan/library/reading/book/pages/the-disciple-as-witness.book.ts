@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theDiscipleAsWitness = {
   id: "019db533-f39d-7924-a5be-bf21e1b1f543",
-  type: "book",
+  type: "page-type/book",
   slug: "the-disciple-as-witness",
   title: "The Disciple as Witness",
   status: "not-started",

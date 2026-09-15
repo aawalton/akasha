@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const systemUniverseSavannah = {
   id: "019db533-f391-778b-9034-26f737dd3b3c",
-  type: "book",
+  type: "page-type/book",
   slug: "system-universe-savannah",
   title: "System Universe: Savannah",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const stonehavenLeagueCavernOfSpirits = {
   id: "019db533-f391-76c0-ba8c-15ae84ecbc14",
-  type: "book",
+  type: "page-type/book",
   slug: "stonehaven-league-cavern-of-spirits",
   title: "Stonehaven League: Cavern of Spirits",
   status: "completed",

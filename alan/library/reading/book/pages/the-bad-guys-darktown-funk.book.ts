@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theBadGuysDarktownFunk = {
   id: "019db533-f391-7793-81c4-9780b53dc82f",
-  type: "book",
+  type: "page-type/book",
   slug: "the-bad-guys-darktown-funk",
   title: "The Bad Guys: Darktown Funk",
   status: "not-started",

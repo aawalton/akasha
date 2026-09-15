@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theAmericanRepublicPrimarySources = {
   id: "019db533-f39d-790d-854e-a9d5151efa91",
-  type: "book",
+  type: "page-type/book",
   slug: "the-american-republic-primary-sources",
   title: "The American Republic: Primary Sources",
   status: "paused",

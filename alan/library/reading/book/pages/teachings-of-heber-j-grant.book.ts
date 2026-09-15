@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const teachingsOfHeberJGrant = {
   id: "019db533-f39d-7977-a982-e7488a4b983e",
-  type: "book",
+  type: "page-type/book",
   slug: "teachings-of-heber-j-grant",
   title: "Teachings of Heber J. Grant",
   status: "not-started",

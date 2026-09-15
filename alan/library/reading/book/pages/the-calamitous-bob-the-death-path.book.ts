@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theCalamitousBobTheDeathPath = {
   id: "019db533-f391-780b-b918-bb11311b3337",
-  type: "book",
+  type: "page-type/book",
   slug: "the-calamitous-bob-the-death-path",
   title: "The Calamitous Bob: The Death Path",
   status: "completed",

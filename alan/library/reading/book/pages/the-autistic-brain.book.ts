@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theAutisticBrain = {
   id: "019db533-f39e-707f-a2b8-13fcf7358e56",
-  type: "book",
+  type: "page-type/book",
   slug: "the-autistic-brain",
   title: "The Autistic Brain",
   status: "not-started",

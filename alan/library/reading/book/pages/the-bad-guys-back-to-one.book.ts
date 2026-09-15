@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theBadGuysBackToOne = {
   id: "019db533-f391-779b-8ac8-6e8544ad6615",
-  type: "book",
+  type: "page-type/book",
   slug: "the-bad-guys-back-to-one",
   title: "The Bad Guys: Back to One",
   status: "not-started",

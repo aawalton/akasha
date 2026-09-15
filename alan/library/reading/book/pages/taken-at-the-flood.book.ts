@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const takenAtTheFlood = {
   id: "019db533-f399-7cc0-8f01-c135e73c68cb",
-  type: "book",
+  type: "page-type/book",
   slug: "taken-at-the-flood",
   title: "Taken at the Flood",
   status: "not-started",

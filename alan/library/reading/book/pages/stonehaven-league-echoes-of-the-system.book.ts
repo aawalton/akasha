@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const stonehavenLeagueEchoesOfTheSystem = {
   id: "019db533-f391-7687-9d61-b85a7d270f19",
-  type: "book",
+  type: "page-type/book",
   slug: "stonehaven-league-echoes-of-the-system",
   title: "Stonehaven League: Echoes of the System",
   status: "completed",

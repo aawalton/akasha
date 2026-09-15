@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theCompletionistChroniclesThunderplump = {
   id: "019db533-f391-783b-8e59-fecf61241853",
-  type: "book",
+  type: "page-type/book",
   slug: "the-completionist-chronicles-thunderplump",
   title: "The Completionist Chronicles: Thunderplump",
   status: "not-started",

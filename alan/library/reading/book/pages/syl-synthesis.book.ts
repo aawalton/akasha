@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const sylSynthesis = {
   id: "019db533-f387-7ce2-9c29-cb1adf446c5a",
-  type: "book",
+  type: "page-type/book",
   slug: "syl-synthesis",
   title: "Syl: Synthesis",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theBadGuysScampsAndScoundrels = {
   id: "019db533-f391-77d8-a847-714dc992214c",
-  type: "book",
+  type: "page-type/book",
   slug: "the-bad-guys-scamps-and-scoundrels",
   title: "The Bad Guys: Scamps & Scoundrels",
   status: "completed",

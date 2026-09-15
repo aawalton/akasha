@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const strayCatStrut5 = {
   id: "019db533-f391-76ad-b056-fa620a99b5f9",
-  type: "book",
+  type: "page-type/book",
   slug: "stray-cat-strut-5",
   title: "Stray Cat Strut 5",
   status: "not-started",

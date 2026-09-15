@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theBurnoutGeneration = {
   id: "019db533-f39d-7f54-86da-4af9be2c8cd9",
-  type: "book",
+  type: "page-type/book",
   slug: "the-burnout-generation",
   title: "The Burnout Generation",
   status: "not-started",

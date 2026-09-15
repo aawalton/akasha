@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const thatYeMayBelieve = {
   id: "019db533-f39d-726c-808b-b49039cd1d3c",
-  type: "book",
+  type: "page-type/book",
   slug: "that-ye-may-believe",
   title: "That Ye May Believe",
   status: "completed",

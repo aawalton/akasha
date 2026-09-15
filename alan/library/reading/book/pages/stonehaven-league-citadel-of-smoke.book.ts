@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const stonehavenLeagueCitadelOfSmoke = {
   id: "019db533-f391-769e-b4b1-8067672e8dad",
-  type: "book",
+  type: "page-type/book",
   slug: "stonehaven-league-citadel-of-smoke",
   title: "Stonehaven League: Citadel of Smoke",
   status: "completed",

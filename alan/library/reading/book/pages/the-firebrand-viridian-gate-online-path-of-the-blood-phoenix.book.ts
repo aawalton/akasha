@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theFirebrandViridianGateOnlinePathOfTheBloodPhoenix = {
   id: "019db533-f38a-72f8-bcdc-4b56fae30bc2",
-  type: "book",
+  type: "page-type/book",
   slug: "the-firebrand-viridian-gate-online-path-of-the-blood-phoenix",
   title: "The Firebrand: Viridian Gate Online: Path of the Blood Phoenix",
   status: "completed",

@@ -2,7 +2,7 @@ import type { Book } from "akasha/alan/library/reading/book/book.page-type.types
 
 export const theCharismaMyth = {
   id: "019db533-f39d-7e8f-80e3-a8ba3ee4bbce",
-  type: "book",
+  type: "page-type/book",
   slug: "the-charisma-myth",
   title: "The Charisma Myth",
   status: "not-started",
