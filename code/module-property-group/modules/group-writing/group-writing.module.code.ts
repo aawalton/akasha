@@ -37,7 +37,7 @@ export type Writing = (given: string | Reading) => string
 
 export type Reached = { readonly writing: Writing } | { readonly missing: string }
 
-export type Reaching = (root: string, at: string, body: string | null) => Reached
+export type Reaching = (change: Change, at: string, body: string | null) => Reached
 
 export type Group = {
   readonly slug: string
@@ -86,10 +86,10 @@ export function groupAt(page: string, slug: string): string | null {
   return besideAt(page, slug + ENDING + CODE, HOLDS)
 }
 
-export function writingIn(root: string, at: string, body: string | null = null): Reached {
+export function writingIn(change: Change, at: string, body: string | null = null): Reached {
   let held: Held
   try {
-    held = heldOver(root, at, body)
+    held = heldOver(change, at, body)
   } catch (thrown) {
     return { missing: thrown instanceof Error ? thrown.message : String(thrown) }
   }
@@ -152,7 +152,7 @@ function over(
       )
       continue
     }
-    const reached = reaching(change.root, at, bodyFor(change, beside))
+    const reached = reaching(change, at, bodyFor(change, beside))
     if ("missing" in reached) {
       said.push("`" + slug + kept + ", and `" + beside + "` gave none — " + reached.missing)
       continue

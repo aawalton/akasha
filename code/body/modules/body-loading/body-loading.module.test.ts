@@ -24,15 +24,28 @@ const OVER = `export function heldIn(): string {\n  return ${JSON.stringify(MARK
 
 const AGAIN = `export function heldIn(): string {\n  return ${JSON.stringify(OTHER)}\n}\n`
 
+const IMPORTED = `export function heldIn(): string {\n  return ${JSON.stringify(OTHER)}\n}\n`
+
+const IMPORTING =
+  'import { heldIn as said } from "./body-loading.module.code.ts"\n' +
+  "export function heldIn(): string {\n  return said()\n}\n"
+
 const BYTES = new TextEncoder()
 
-function changeTurning(at: string, body: string): Change {
+function changing(held: Readonly<Record<string, string>>): Change {
   return {
     root: ROOT,
-    changed: [at],
+    changed: Object.keys(held),
     before: () => null,
-    after: (path) => (path === at ? BYTES.encode(body) : null),
+    after: (path) => {
+      const body = held[path]
+      return body === undefined ? null : BYTES.encode(body)
+    },
   }
+}
+
+function changeTurning(at: string, body: string): Change {
+  return changing({ [at]: body })
 }
 
 function saidBy(held: Record<string, unknown>, key: string): string | null {
@@ -52,15 +65,20 @@ describe("the body a change leaves at a path", () => {
 
 describe("the code loaded at a module path", () => {
   test("a body handed in is the code loaded rather than the checkout's", () => {
-    expect(saidBy(heldOver(ROOT, AT, OVER), "heldIn")).toBe(MARKER)
+    expect(saidBy(heldOver(changeTurning(AT, OVER), AT, OVER), "heldIn")).toBe(MARKER)
   })
 
   test("a body handed in twice is loaded twice rather than answered from the cache", () => {
-    expect(saidBy(heldOver(ROOT, AT, AGAIN), "heldIn")).toBe(OTHER)
+    expect(saidBy(heldOver(changeTurning(AT, AGAIN), AT, AGAIN), "heldIn")).toBe(OTHER)
+  })
+
+  test("a module the code imports is loaded from the body the change leaves there", () => {
+    const change = changing({ [AT]: IMPORTING, [BESIDE]: IMPORTED })
+    expect(saidBy(heldOver(change, AT, IMPORTING), "heldIn")).toBe(OTHER)
   })
 
   test("the checkout's code is loaded at that path once the body is gone", () => {
-    const held = heldOver(ROOT, AT, null)
+    const held = heldOver(changing({}), AT, null)
     expect(held.bodyLoading).toBeDefined()
     expect(held.heldIn).toBeUndefined()
   })

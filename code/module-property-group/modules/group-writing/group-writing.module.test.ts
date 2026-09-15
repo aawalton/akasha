@@ -59,9 +59,16 @@ describe("the groups a file property names", () => {
   })
 })
 
+const NOTHING: Change = {
+  root: ROOT,
+  changed: [],
+  before: () => null,
+  after: () => null,
+}
+
 describe("reaching a group", () => {
   test("a group at no path is said rather than thrown", () => {
-    expect("missing" in writingIn(ROOT, GROUP)).toBe(true)
+    expect("missing" in writingIn(NOTHING, GROUP)).toBe(true)
   })
 
   test("every group beside a page answers the one function a group answers", () => {
@@ -71,7 +78,7 @@ describe("reaching a group", () => {
         for (const listed of INDEX.everyOfType(pageTypeSlug)) {
           const beside = groupAt(listed.path, group.slug)
           if (beside === null || !existsSync(join(ROOT, beside))) continue
-          if ("missing" in writingIn(ROOT, beside)) gone.push(beside)
+          if ("missing" in writingIn(NOTHING, beside)) gone.push(beside)
         }
       }
     }
@@ -110,16 +117,16 @@ function changeTurning(at: string, body: string): Change {
   }
 }
 
-const HANDED: Reaching = (_root, _at, body) => ({ writing: () => body ?? OFF_DISK })
+const HANDED: Reaching = (_change, _at, body) => ({ writing: () => body ?? OFF_DISK })
 
 describe("the body a group's code is loaded from", () => {
   test("a group is run off the body the change leaves", () => {
-    const reached = writingIn(ROOT, ONE, TURNED)
+    const reached = writingIn(changeTurning(ONE, TURNED), ONE, TURNED)
     expect("writing" in reached ? reached.writing(ROOT) : reached.missing).toBe(MARKER)
   })
 
   test("a group is run off the checkout again once that body is loaded", () => {
-    const reached = writingIn(ROOT, ONE)
+    const reached = writingIn(NOTHING, ONE)
     expect("writing" in reached ? reached.writing(ROOT) : reached.missing).not.toBe(MARKER)
   })
 })

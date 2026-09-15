@@ -207,7 +207,7 @@ test("a generator is handed the body the change leaves at that generator's path"
   typedOver(
     changeOver(new Map([[GENERATOR, LEFT]])),
     shadowOf(only(STATED)),
-    (_root, _at, body) => {
+    (_change, _at, body) => {
       handed.push(body)
       return { generating: () => [] }
     }
@@ -217,7 +217,7 @@ test("a generator is handed the body the change leaves at that generator's path"
 
 test("a generator the change leaves alone is handed no body", () => {
   const handed: (string | null)[] = []
-  typedOver(changeOver(new Map()), shadowOf(only(STATED)), (_root, _at, body) => {
+  typedOver(changeOver(new Map()), shadowOf(only(STATED)), (_change, _at, body) => {
     handed.push(body)
     return { generating: () => [] }
   })
@@ -232,7 +232,7 @@ test("what a change could turn is asked of the body the change leaves", () => {
     before: () => null,
     after: (path) => (path === GENERATOR ? BYTES.encode(LEFT) : null),
   }
-  turnsFor(change, (_root, _at, body) => {
+  turnsFor(change, (_change, _at, body) => {
     handed.push(body)
     return { generating: () => [] }
   })

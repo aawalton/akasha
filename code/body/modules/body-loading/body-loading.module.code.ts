@@ -8,6 +8,8 @@ const LOADER = "ts"
 
 const SPECIAL = /[.*+?^${}()|[\]\\]/g
 
+const CODE = /\.tsx?$/
+
 const NO_PLUGIN =
   "a body the change leaves is loaded with `Bun.plugin`, which only bun carries, and this runtime " +
   "holds no `Bun` global"
@@ -19,6 +21,8 @@ const bodyHeld = new Map<string, string>()
 const claimed = new Set<string>()
 
 const CHANGED = new WeakMap<Change, ReadonlySet<string>>()
+
+const BODIES = new WeakMap<Change, ReadonlyMap<string, string>>()
 
 export type Held = Record<string, unknown>
 
@@ -34,8 +38,28 @@ export function bodyFor(change: Change, at: string): string | null {
   return changedIn(change).has(at) ? textOf(change.after(at)) : null
 }
 
+export function bodiesIn(change: Change): ReadonlyMap<string, string> {
+  const found = BODIES.get(change)
+  if (found !== undefined) return found
+  const made = new Map<string, string>()
+  for (const at of change.changed) {
+    if (!CODE.test(at)) continue
+    const body = textOf(change.after(at))
+    if (body !== null) made.set(join(change.root, at), body)
+  }
+  BODIES.set(change, made)
+  return made
+}
+
 function forgotten(full: string): undefined {
   delete loadFrom.cache[full]
+}
+
+function forgottenUnder(root: string): undefined {
+  const under = `${root}/`
+  for (const full of Object.keys(loadFrom.cache)) {
+    if (full.startsWith(under)) forgotten(full)
+  }
 }
 
 function claiming(full: string): undefined {
@@ -53,20 +77,25 @@ function claiming(full: string): undefined {
   })
 }
 
-function loadedOver(full: string, body: string): Held {
+function loadedOver(root: string, full: string, bodies: ReadonlyMap<string, string>): Held {
   if (typeof Bun === "undefined") throw new Error(NO_PLUGIN)
-  bodyHeld.set(full, body)
-  claiming(full)
-  forgotten(full)
+  for (const [path, body] of bodies) {
+    bodyHeld.set(path, body)
+    claiming(path)
+  }
+  forgottenUnder(root)
   try {
     return loadFrom(full) as Held
   } finally {
-    bodyHeld.delete(full)
-    forgotten(full)
+    for (const path of bodies.keys()) bodyHeld.delete(path)
+    forgottenUnder(root)
   }
 }
 
-export function heldOver(root: string, at: string, body: string | null): Held {
-  const full = join(root, at)
-  return body === null ? (loadFrom(full) as Held) : loadedOver(full, body)
+export function heldOver(change: Change, at: string, body: string | null): Held {
+  const full = join(change.root, at)
+  const bodies = new Map(bodiesIn(change))
+  if (body !== null) bodies.set(full, body)
+  if (bodies.size === 0) return loadFrom(full) as Held
+  return loadedOver(change.root, full, bodies)
 }

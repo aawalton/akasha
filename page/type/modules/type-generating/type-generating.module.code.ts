@@ -39,7 +39,7 @@ export type Reached =
   | { readonly generating: Generating; readonly turning?: Turning }
   | { readonly missing: string }
 
-export type Reaching = (root: string, at: string, body: string | null) => Reached
+export type Reaching = (change: Change, at: string, body: string | null) => Reached
 
 export type Typed = {
   readonly edits: readonly (Adding | Replacing)[]
@@ -52,10 +52,10 @@ export function generatorAt(pageTypePath: string): string | null {
   return besideAt(pageTypePath, GENERATOR, HOLDS)
 }
 
-function generatingIn(root: string, at: string, body: string | null = null): Reached {
+function generatingIn(change: Change, at: string, body: string | null = null): Reached {
   let held: Held
   try {
-    held = heldOver(root, at, body)
+    held = heldOver(change, at, body)
   } catch (thrown) {
     return { missing: thrown instanceof Error ? thrown.message : String(thrown) }
   }
@@ -97,7 +97,7 @@ export function typedOver(
       said.push(`\`${slug}\` states a type generator, and \`${beside}\` is at no path to load`)
       continue
     }
-    const reached = reaching(change.root, at, bodyFor(change, beside))
+    const reached = reaching(change, at, bodyFor(change, beside))
     if ("missing" in reached) {
       said.push(
         `\`${slug}\` states a type generator, and \`${beside}\` gave none — ${reached.missing}`
@@ -131,7 +131,7 @@ export function typedOver(
 function askedOf(change: Change, reaching: Reaching, path: string): boolean {
   const beside = generatorAt(path)
   if (beside === null) return false
-  const reached = reaching(change.root, beside, bodyFor(change, beside))
+  const reached = reaching(change, beside, bodyFor(change, beside))
   if ("missing" in reached) return true
   const turning = reached.turning
   return turning === undefined || turning(change)

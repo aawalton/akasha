@@ -28,6 +28,19 @@ export const bodyLoading = {
     },
     {
       invariantKind: "departure",
+      statement: "Every code file a change carries is loaded from the body that change leaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A module the code loaded here imports is loaded from the change where the change carries it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the change carries no code for is loaded off the checkout.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That body is claimed at the one path rather than over a run of paths.",
     },
     {
@@ -40,7 +53,16 @@ export const bodyLoading = {
     },
     {
       invariantKind: "departure",
-      statement: "The module cache entry at that path is dropped before and after that load.",
+      statement:
+        "Every module cached under the repository is dropped before and after a load from a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module holding a stale import is dropped whether or not the change carries it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A change carrying no code file drops a cached module.",
     },
     {
       invariantKind: "departure",
@@ -58,10 +80,6 @@ export const bodyLoading = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads what the code loaded answers to.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A module the code loaded here imports is loaded as the checkout has that module.",
     },
   ],
 } as const satisfies Module
