@@ -2,14 +2,15 @@ import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-s
 import { configChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { synthNamespaceConfigmapDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { buildkit } from "akasha/infrastructure/service/cluster/pages/buildkit/buildkit.service-cluster.ts"
 
-const NAMESPACE = "buildkit"
-const APP_NAME = "buildkit"
+const NAMESPACE = buildkit.namespace
+const APP_NAME = buildkit.resourceName
 const INSTANCE_NAME = "infra"
-const COMPONENT = "buildkit"
+const COMPONENT = buildkit.slug
 const PART_OF = "infra"
 const MANAGED_BY = "deploy-script"
-const BUILDKIT_IMAGE = "moby/buildkit:v0.28.0"
+const BUILDKIT_IMAGE = buildkit.image
 
 const BUILDKIT_MEMORY_LIMIT_GIB = 20
 const BUILDKIT_MEMORY_RESERVE_GIB = 8
@@ -82,11 +83,11 @@ function deploymentYaml(): string {
     apiVersion: "apps/v1",
     kind: "Deployment",
     metadata: {
-      name: "buildkit",
+      name: buildkit.resourceName,
       labels: RESOURCE_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: buildkit.replicas,
       strategy: { type: "Recreate" },
       selector: { matchLabels: SELECTOR_LABELS },
       template: {
@@ -102,11 +103,16 @@ function deploymentYaml(): string {
             {
               name: "buildkit",
               image: BUILDKIT_IMAGE,
-              args: ["--addr", "tcp://0.0.0.0:1234", "--debugaddr", BUILDKIT_DEBUG_ADDR],
+              args: [
+                "--addr",
+                `tcp://0.0.0.0:${buildkit.containerPort}`,
+                "--debugaddr",
+                BUILDKIT_DEBUG_ADDR,
+              ],
               env: [{ name: "GOMEMLIMIT", value: `${BUILDKIT_GOMEMLIMIT_GIB}GiB` }],
-              ports: [{ containerPort: 1234, protocol: "TCP" }],
+              ports: [{ containerPort: buildkit.containerPort, protocol: "TCP" }],
               readinessProbe: {
-                tcpSocket: { port: 1234 },
+                tcpSocket: { port: buildkit.containerPort },
                 initialDelaySeconds: 3,
                 periodSeconds: 5,
               },
@@ -147,7 +153,7 @@ function serviceYaml(): string {
     apiVersion: "v1",
     kind: "Service",
     metadata: {
-      name: "buildkit",
+      name: buildkit.resourceName,
       labels: RESOURCE_LABELS,
     },
     spec: {
@@ -155,8 +161,8 @@ function serviceYaml(): string {
       selector: SELECTOR_LABELS,
       ports: [
         {
-          port: 1234,
-          targetPort: 1234,
+          port: buildkit.containerPort,
+          targetPort: buildkit.containerPort,
           protocol: "TCP",
         },
       ],
