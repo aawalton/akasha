@@ -37,7 +37,7 @@ export const typeTurning = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "Which bodies import that path is read from the index before the change rather than the shadow.",
+        "Which bodies import that path is read beside the page before the change rather than the shadow.",
     },
     {
       invariantKind: "invariant-kind/departure",

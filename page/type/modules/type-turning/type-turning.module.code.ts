@@ -3,13 +3,11 @@ import {
   facingOn,
   generatedIn,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
-import {
-  importersIn,
-  readingIn,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { importersOf } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 
 const HOLDS = "ts"
 
@@ -20,7 +18,7 @@ const GENERATOR = "type-generator"
 const TYPES = "types"
 
 function generatedReader(facing: Facing, reading: Reading, path: string): boolean {
-  for (const one of importersIn(reading, path)) {
+  for (const one of importersOf(reading, path)) {
     if (generatedIn(facing, one)) return true
   }
   return false

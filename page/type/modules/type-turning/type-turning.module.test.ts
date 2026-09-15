@@ -55,6 +55,10 @@ const CARRIES_TYPES = idOf("2")
 
 const A_THING = idOf("3")
 
+const TEXT_PROPERTY = idOf("4")
+
+const TEXT_PROPERTY_TYPE_AT = "akasha/text-property.page-type.ts"
+
 const THING_TYPE_AT = "akasha/thing.page-type.ts"
 
 const CARRIES_TYPES_AT = "akasha/types.file-property.ts"
@@ -102,6 +106,7 @@ function rootWhereTypesAreGenerated(importer: string): string {
     generated: true,
   })
   relationFiled(root, CARRIES_TYPES, "page-property", THING, [{ path: THING_TYPE_AT }])
+  filedAt(root, "page-type", "text-property", TEXT_PROPERTY_TYPE_AT, TEXT_PROPERTY)
   importFiled(root, GONE, [{ path: importer }])
   return root
 }
