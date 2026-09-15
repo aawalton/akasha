@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0039ChapterThirtySixIJustWantToSetTheWorldOn = {
   id: "01a0672c-eb04-7001-86e9-d4b8e07256b2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0039-chapter-thirty-six-i-just-want-to-set-the-world-on",
   title: "Chapter Thirty-Six - I Just Want to Set the World on Fire",
   story: "story-read/cinnamon-bun",

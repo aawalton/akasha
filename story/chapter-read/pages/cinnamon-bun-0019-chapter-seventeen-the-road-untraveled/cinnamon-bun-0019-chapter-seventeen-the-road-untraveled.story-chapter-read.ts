@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0019ChapterSeventeenTheRoadUntraveled = {
   id: "01a0672c-eb02-7009-87af-d8d73c29d6ff",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0019-chapter-seventeen-the-road-untraveled",
   title: "Chapter Seventeen - The Road Untraveled",
   story: "story-read/cinnamon-bun",

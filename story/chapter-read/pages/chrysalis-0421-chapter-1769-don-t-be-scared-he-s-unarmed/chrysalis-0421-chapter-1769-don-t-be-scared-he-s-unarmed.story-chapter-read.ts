@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0421Chapter1769DonTBeScaredHeSUnarmed = {
   id: "01a0672c-eb6a-7000-8922-3792f0563d1e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0421-chapter-1769-don-t-be-scared-he-s-unarmed",
   title: "Chapter 1769 - Don’t Be Scared, He’s Unarmed",
   story: "story-read/chrysalis",

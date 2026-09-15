@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0483Chapter1829WorldOfDarknessVampiresNotIncluded = {
   id: "01a0672c-eb6c-7004-9638-96bfd164e904",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0483-chapter-1829-world-of-darkness-vampires-not-included",
   title: "Chapter 1829 -  World of Darkness (Vampires not included)",
   story: "story-read/chrysalis",

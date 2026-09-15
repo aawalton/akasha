@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0383Chapter1731TheGreatCommercialEmpireOfOurTime = {
   id: "01a0672c-eb68-700f-bbd3-c9475477a635",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0383-chapter-1731-the-great-commercial-empire-of-our-time",
   title: "Chapter 1731 - The Great Commercial Empire of Our Time",
   story: "story-read/chrysalis",

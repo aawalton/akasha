@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0510Chapter1855GrubOutOfMind = {
   id: "01a0672c-eb6d-7002-affa-58699a9345df",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0510-chapter-1855-grub-out-of-mind",
   title: "Chapter 1855 - Grub Out of Mind",
   story: "story-read/chrysalis",

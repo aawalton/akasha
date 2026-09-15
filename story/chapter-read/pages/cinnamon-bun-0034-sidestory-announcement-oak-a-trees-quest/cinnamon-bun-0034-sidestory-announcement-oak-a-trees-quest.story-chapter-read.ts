@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0034SidestoryAnnouncementOakATreesQuest = {
   id: "01a0672c-eb03-700a-9a9d-5b96e7af21ee",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0034-sidestory-announcement-oak-a-trees-quest",
   title: "Sidestory Announcement - Oak: A Tree's Quest",
   story: "story-read/cinnamon-bun",

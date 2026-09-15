@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0396Chapter1744EscapingResponsibilityIsKindOfMyThing = {
   id: "01a0672c-eb69-7003-8595-99b2642d98f1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0396-chapter-1744-escaping-responsibility-is-kind-of-my-thing",
   title: "Chapter 1744 - Escaping Responsibility Is… Kind of My Thing",
   story: "story-read/chrysalis",

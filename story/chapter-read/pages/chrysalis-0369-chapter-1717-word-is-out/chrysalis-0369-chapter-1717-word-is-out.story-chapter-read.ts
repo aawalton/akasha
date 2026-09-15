@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const chrysalis0369Chapter1717WordIsOut = {
   id: "01a0672c-eb68-7001-86cc-a8f40e7b4dd0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "chrysalis-0369-chapter-1717-word-is-out",
   title: "Chapter 1717 - Word is Out",
   story: "story-read/chrysalis",
