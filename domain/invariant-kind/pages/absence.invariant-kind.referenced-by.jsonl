@@ -1483,6 +1483,7 @@
 {"propertySlug":"invariant-kind","path":"page/service/modules/page-reading/page-reading.module.ts","id":"01a05b1e-1347-77b8-9b46-d0b4f449e698"}
 {"propertySlug":"invariant-kind","path":"page/service/modules/page-serving/page-serving.module.ts","id":"01a05a0c-e821-77b9-8798-ffe359e087ba"}
 {"propertySlug":"invariant-kind","path":"page/service/modules/page-writing/page-writing.module.ts","id":"01a05abd-fe05-794d-8493-811846971bf6"}
+{"propertySlug":"invariant-kind","path":"page/service/modules/pages-foldered/pages-foldered.module.ts","id":"01a0a5a9-545f-783d-8733-5a27ccc6ba98"}
 {"propertySlug":"invariant-kind","path":"page/service/modules/where-testing/where-testing.module.ts","id":"01a05bdd-d54c-7989-aac7-52cb42d778c4"}
 {"propertySlug":"invariant-kind","path":"page/service/page-service.service-workstation.ts","id":"01a05a43-5afa-7d0d-8d60-dbd3c3498f99"}
 {"propertySlug":"invariant-kind","path":"page/type/modules/declared-properties/declared-properties.module.ts","id":"01a053f6-7bab-764e-b69d-af9ebf0f1558"}

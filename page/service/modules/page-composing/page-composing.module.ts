@@ -86,6 +86,18 @@ export const pageComposing = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A new page whose folder holds its pages in folders takes a folder of its own.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page whose type asks for a folder takes one whatever that folder holds.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page the index already has is left where that page sits.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A property the root `page` type declares is no reason for a folder of its own.",
     },
     {

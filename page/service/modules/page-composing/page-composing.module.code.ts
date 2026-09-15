@@ -17,6 +17,7 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { STEM_CEILING } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
+import { foldersHere } from "akasha/page/service/modules/pages-foldered/pages-foldered.module.code.ts"
 import {
   type Carried,
   propertiesFrom,
@@ -250,7 +251,9 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   const held = listed.length === 1 ? listed[0]?.path : undefined
   const typing = valueAt(typeAt, root) ?? {}
   const typesAt = textAt(typing, TYPES) === HOLDS ? besideAt(typeAt, TYPES, HOLDS) : null
-  const beside = held === undefined && besideItsPage(root, carried)
+  const beside =
+    held === undefined &&
+    (besideItsPage(root, carried) || foldersHere(root, pagesUnder(typeAt), named.pageTypeSlug))
   const at = held ?? pathFor(typeAt, named.pageTypeSlug, named.slug, beside)
   const was = held === undefined ? null : valueAt(held, root)
   const already: Value = named.merge === true && was !== null ? was : {}
