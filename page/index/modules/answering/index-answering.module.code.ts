@@ -29,7 +29,6 @@ import {
   listedById,
   listedNamed,
   listedWithin,
-  type Named,
   slugsOfType,
   typeSlugById,
   typeSlugOf,
@@ -42,6 +41,7 @@ import type {
 import {
   idsNaming,
   importersOf,
+  type Named,
   namersOf,
 } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"

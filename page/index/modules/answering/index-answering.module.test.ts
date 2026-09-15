@@ -21,7 +21,6 @@ import {
   listedAt,
   listedById,
   listedNamed,
-  namersOf,
   readingIn,
   typeSlugById,
   typeSlugOf,
@@ -33,6 +32,7 @@ import {
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { namersOf } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   carriedIn,
@@ -149,6 +149,7 @@ test("every question answers what the reader beneath it answers with the reading
     listedNamed(reading, PAGE_TYPE, MODULE, SLUG, "held")
   )
   expect(index.namersOf(TYPE_ID)).toEqual(namersOf(reading, TYPE_ID))
+  expect(index.namersOf(TYPE_ID).length).toBeGreaterThan(0)
   expect(index.pageAt(MODULE, "held")).toEqual(pageAt(reading, MODULE, "held", pageOf))
   expect(index.pageTypesIn()).toEqual(pageTypesIn(reading))
   expect(index.propertiesOf(MODULE)).toEqual(propertiesOf(MODULE, reading, pageOf))

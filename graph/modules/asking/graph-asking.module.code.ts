@@ -4,7 +4,7 @@ import {
   claimantOf,
   type Paging,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
-import type { Named } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Named } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import {
   slugOf,
   textAt,

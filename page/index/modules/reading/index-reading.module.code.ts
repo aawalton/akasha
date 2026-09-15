@@ -3,7 +3,6 @@ import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import type { Reading, Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
-  beneath,
   INDEX_AT,
   indexIn,
   readFrom,
@@ -373,32 +372,4 @@ export function typeSlugOf(given: string | Reading, id: string): string {
     throw new Error(`no page carries the id \`${id}\`, so nothing says which pages are of its type`)
   }
   return said
-}
-
-export type Named = {
-  readonly path: string
-  readonly propertySlug: string
-}
-
-export function namersOf(
-  given: string | Reading,
-  id: string,
-  indexName: string = EDGE
-): readonly Named[] {
-  return answered(given, ROOT, `which pages name \`${id}\``, (reading) => {
-    const dir = join(indexName, PAGE, ID, id)
-    const found: Named[] = []
-    for (const property of reading.listing(dir)) {
-      if (!property.directory) continue
-      const at = beneath(dir, property.name)
-      for (const one of reading.listing(at)) {
-        for (const line of reading.lines(beneath(at, one.name))) {
-          const said = JSON.parse(line) as { readonly path?: unknown }
-          if (typeof said.path !== "string") continue
-          found.push({ path: said.path, propertySlug: property.name })
-        }
-      }
-    }
-    return found
-  })
 }

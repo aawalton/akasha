@@ -13,11 +13,11 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { initiativeDelete as page } from "akasha/command/pages/initiative/delete/initiative-delete.command.ts"
 import { initiativesDrawn } from "akasha/domain/modules/work-initiatives/work-initiatives.module.code.ts"
+import { valueByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   type Named,
-  valueByPath,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { namersOf } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
+  namersOf,
+} from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const ID = "id"

@@ -78,11 +78,8 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/track/daily/modules/day-messages-totalling/day-messages-totalling.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"change/agent/file-content/change-file/change-file.change-agent.test.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"change/modules/page-knowing/page-knowing.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"change/modules/tree-searching/tree-searching.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"change/modules/tree-searching/tree-searching.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.audit.code.ts"}
@@ -197,7 +194,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"domain/plain-language/modules/onnx-parsing/onnx-parsing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"git/modules/commit-reading/commit-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"git/modules/holding/holding.module.test.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"graph/modules/asking/graph-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"graph/modules/asking/graph-asking.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/cluster/manifests/modules/tunnel-config/tunnel-config.module.code.ts"}

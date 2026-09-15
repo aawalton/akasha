@@ -1,3 +1,6 @@
+{"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"}
+{"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"change/modules/page-knowing/page-knowing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.test.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"command/modules/calling/calling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts"}
@@ -5,7 +8,9 @@
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"domain/context/warrant/file-domain/file-domain.context-warrant.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"domain/modules/rows/domain-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"domain/modules/work-initiatives/work-initiatives.module.code.ts"}
+{"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"graph/modules/asking/graph-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/index/modules/answering/index-answering.module.code.ts"}
+{"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/index/modules/beside-turning/beside-turning.module.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/index/modules/package-reaching/package-reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/index/modules/path-naming/path-naming.module.code.ts"}

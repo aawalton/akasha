@@ -3,7 +3,6 @@ import {
   answered,
   heldEach,
   listedById,
-  type Named,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
@@ -13,6 +12,11 @@ import {
   referencesAt,
   referencesEach,
 } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
+
+export type Named = {
+  readonly path: string
+  readonly propertySlug: string
+}
 
 const ROOT = ""
 
