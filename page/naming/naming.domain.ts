@@ -5,7 +5,7 @@ export const naming = {
   type: "domain",
   slug: "naming",
   definition: "how one idea's name is chosen",
-  parts: ["domain/named-for"],
+  parts: ["domain/named-for", "module/folder-named"],
   invariants: [
     {
       invariantKind: "departure",

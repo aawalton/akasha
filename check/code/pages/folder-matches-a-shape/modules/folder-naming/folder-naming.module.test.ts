@@ -9,9 +9,11 @@ import {
   namedUnder,
   namingFolderOf,
   namingOver,
+} from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.code.ts"
+import {
   openingWith,
   strippedOf,
-} from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.code.ts"
+} from "akasha/page/naming/modules/folder-named/folder-named.module.code.ts"
 
 const HELD = new Set<string>(["modules", "pages", "properties", "scripts"])
 

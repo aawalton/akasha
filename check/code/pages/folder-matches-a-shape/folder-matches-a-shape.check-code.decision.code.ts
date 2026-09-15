@@ -14,7 +14,6 @@ import {
   heldFolder,
   namingFolderOf,
   namingOver,
-  openingWith,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.code.ts"
 import {
   judgedBy,
@@ -51,6 +50,7 @@ import {
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { textsAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { openingWith } from "akasha/page/naming/modules/folder-named/folder-named.module.code.ts"
 
 const TS = "ts"
 

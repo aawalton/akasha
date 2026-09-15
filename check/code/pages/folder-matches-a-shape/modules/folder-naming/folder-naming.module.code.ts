@@ -2,6 +2,7 @@ import { basename } from "node:path"
 import type { Wanted } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
 import type { Grouped } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
 import { folderOf } from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
+import { strippedOf } from "akasha/page/naming/modules/folder-named/folder-named.module.code.ts"
 
 export type Holding = {
   readonly names: readonly string[]
@@ -12,20 +13,6 @@ export type Holding = {
 export type Holds = (folder: string) => Holding
 
 const ROOT = ""
-
-export function openingWith(named: string, above: readonly string[]): string | null {
-  for (const one of above) {
-    if (named === one || named.startsWith(`${one}-`)) return one
-  }
-  return null
-}
-
-export function strippedOf(named: string, above: readonly string[]): string | null {
-  const one = openingWith(named, above)
-  if (one === null) return named
-  if (named === one) return null
-  return strippedOf(named.slice(one.length + 1), above)
-}
 
 export function heldFolder(at: string, holds: Holds, held: ReadonlySet<string>): boolean {
   const named = basename(at)
