@@ -61,3 +61,7 @@ export function getAlbum(albumId: string): Promise<AlbumWithTracks> {
 export function albumMinutes(album: AlbumWithTracks): number {
   return album.tracks.items.reduce((was, one) => was + one.duration_ms, 0) / MS_A_MINUTE
 }
+
+export function trackMinutes(track: AlbumTrack): number {
+  return track.duration_ms / MS_A_MINUTE
+}

@@ -114,10 +114,10 @@ async function settling(source: string, startedAt: string, set: Stated): Promise
   )
 }
 
-export async function recordingRun(
+export async function recordingRun<Counted extends RunCounts>(
   source: string,
-  sync: () => Promise<RunCounts>
-): Promise<RunCounts> {
+  sync: () => Promise<Counted>
+): Promise<Counted> {
   const startedAtMs = Date.now()
   const startedAt = new Date(startedAtMs).toISOString()
 
@@ -159,7 +159,7 @@ export async function recordingRun(
   process.once("SIGINT", onSigint)
 
   try {
-    let counts: RunCounts
+    let counts: Counted
     try {
       counts = await sync()
     } catch (thrown) {

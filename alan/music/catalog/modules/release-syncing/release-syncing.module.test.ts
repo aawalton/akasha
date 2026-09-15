@@ -12,6 +12,7 @@ import {
   sweepingIn,
   taken,
   titleKey,
+  trackValues,
   unfiledIn,
 } from "akasha/alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"
 import type {
@@ -119,6 +120,57 @@ test("the progress and the grade a person gave a release outlive the sweep", () 
   expect(values["status"]).toBe("completed")
   expect(values["ownProgress"]).toBe(3.5)
   expect(values["rank"]).toBe("A")
+})
+
+test("a track arrives started by nobody and heard for none of its length", () => {
+  const values = trackValues({
+    releaseSlug: "sylvia-daley-pixie",
+    slug: "sylvia-daley-pixie-elf",
+    track: {
+      id: "t7",
+      name: "Elf",
+      duration_ms: 90_000,
+      track_number: 3,
+      external_urls: { spotify: "https://open.spotify.com/track/t7" },
+    },
+    was: {},
+    today: TODAY,
+  })
+  expect(values["title"]).toBe("Elf")
+  expect(values["partOfCollections"]).toEqual(["release/sylvia-daley-pixie"])
+  expect(values["position"]).toBe(3)
+  expect(values["ownLength"]).toBe(1.5)
+  expect(values["unit"]).toBe("unit/minutes")
+  expect(values["status"]).toBe("not-started")
+  expect(values["ownProgress"]).toBe(0)
+  expect(values["type"]).toBe("track")
+  expect(values["externalIdentity"]).toEqual([
+    {
+      source: "spotify",
+      externalId: "t7",
+      externalLink: "https://open.spotify.com/track/t7",
+      lastSyncedAt: TODAY,
+    },
+  ])
+})
+
+test("the progress and the grade a person gave a track outlive the sweep", () => {
+  const values = trackValues({
+    releaseSlug: "sylvia-daley-pixie",
+    slug: "sylvia-daley-pixie-elf",
+    track: {
+      id: "t7",
+      name: "Elf",
+      duration_ms: 90_000,
+      track_number: 3,
+      external_urls: { spotify: "https://open.spotify.com/track/t7" },
+    },
+    was: { status: "completed", ownProgress: 1.5, rank: "S" },
+    today: TODAY,
+  })
+  expect(values["status"]).toBe("completed")
+  expect(values["ownProgress"]).toBe(1.5)
+  expect(values["rank"]).toBe("S")
 })
 
 test("a release states the day only where Spotify gives a whole day", () => {

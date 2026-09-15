@@ -78,6 +78,30 @@ export const releaseSyncing = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "Every track a release carries is filed as a page of its own.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A track names the release carrying it as an address.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A track is filed from the album read the release itself is filed from.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The progress and the grade a person gave a track outlive every sweep.",
+    },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "Spotify answers an album read with the first fifty tracks that album carries.",
+    },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "A release of more than fifty tracks is filed with every track it carries.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "One artist's releases land as one commit, after that artist's own is stamped.",
     },
     {
