@@ -12,9 +12,9 @@ import {
 import {
   idFiled,
   listedFiled,
+  namedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { namedFiled } from "akasha/page/index/modules/filing/index-filing.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const ROOT = rootOf(import.meta.path)

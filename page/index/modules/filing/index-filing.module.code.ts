@@ -1,9 +1,10 @@
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { appendFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { indexShapes } from "akasha/page/index/shapes/index-shapes.index.ts"
 
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -19,6 +20,8 @@ const PAGE = "page"
 
 const PAGE_TYPE = "page-type"
 
+const PAGE_PROPERTY = "page-property"
+
 const NO_SCOPE = ""
 
 const ID = "id"
@@ -32,15 +35,21 @@ type Carried = {
   readonly value?: Readonly<Record<string, unknown>>
 }
 
+type Writing = (path: string, body: string) => void
+
 function bodyOf(lines: readonly unknown[]): string {
   return lines.map((one) => `${JSON.stringify(one)}\n`).join("")
 }
 
-function written(root: string, at: string, lines: readonly unknown[]): undefined {
+function filed(root: string, at: string, lines: readonly unknown[], writing: Writing): undefined {
   const path = join(indexIn(root), `${at}${ENDING}`)
   mkdirSync(dirname(path), { recursive: true })
-  writeFileSync(path, bodyOf(lines))
+  writing(path, bodyOf(lines))
   keepBuilt(indexIn(root))
+}
+
+function written(root: string, at: string, lines: readonly unknown[]): undefined {
+  filed(root, at, lines, writeFileSync)
 }
 
 function identityFiled(
@@ -97,11 +106,8 @@ function idFor(path: string, value: Readonly<Record<string, unknown>>): string {
 }
 
 function onceWritten(root: string, at: string, lines: readonly unknown[]): undefined {
-  const path = join(indexIn(root), `${at}${ENDING}`)
-  if (existsSync(path)) return
-  mkdirSync(dirname(path), { recursive: true })
-  writeFileSync(path, bodyOf(lines))
-  keepBuilt(indexIn(root))
+  if (existsSync(join(indexIn(root), `${at}${ENDING}`))) return
+  written(root, at, lines)
 }
 
 function slugFor(path: string, value: Readonly<Record<string, unknown>>): string | null {
@@ -172,4 +178,29 @@ export function valueAlsoFiled(
     listedAlso(root, pageTypeSlug, path, value)
     edgedAlso(root, pageTypeSlug, path, value)
   }
+}
+
+export function namedFiled(
+  root: string,
+  id: string,
+  propertySlug: string,
+  naming: string,
+  lines: readonly unknown[]
+): undefined {
+  filed(root, join(indexEdge.name, PAGE, ID, id, propertySlug, naming), lines, writeFileSync)
+}
+
+export function shapeAlsoFiled(
+  root: string,
+  pageTypeSlug: string,
+  lines: readonly unknown[]
+): undefined {
+  filed(root, join(indexShapes.name, PAGE_PROPERTY, pageTypeSlug), lines, appendFileSync)
+}
+
+export function lineFiled(root: string, at: string, line: string): undefined {
+  const path = join(root, at)
+  mkdirSync(dirname(path), { recursive: true })
+  writeFileSync(path, `${line}\n`)
+  keepBuilt(root)
 }

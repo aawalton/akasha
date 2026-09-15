@@ -11,9 +11,9 @@ import type { Entry } from "akasha/page/index/modules/entries/index-entries.modu
 import {
   idFiled,
   listedFiled,
+  shapeAlsoFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { shapeAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.test-fixtures.ts"
 import { refreshedFrom } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import {

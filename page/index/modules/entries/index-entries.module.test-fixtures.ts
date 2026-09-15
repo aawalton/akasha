@@ -4,7 +4,7 @@ import type {
   FilePropertiesBy,
   UncommittedBy,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
-import { lineFiled } from "akasha/page/index/modules/filing/index-filing.module.test-fixtures.ts"
+import { lineFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import {
   claimsOf,
