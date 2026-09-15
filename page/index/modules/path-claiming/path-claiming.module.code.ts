@@ -412,20 +412,3 @@ export function claimantOf(
     folder = folderOf(folder)
   }
 }
-
-export function pageClaimsOf(
-  value: Value,
-  path: string,
-  repo: string,
-  fileProperties: FilePropertiesBy,
-  sidecars: SidecarsBy,
-  withheld?: UncommittedBy,
-  there?: IsThere,
-  folders?: FoldersBy
-): readonly string[] {
-  const id = textAt(value, "id")
-  const slug = textAt(value, "slug")
-  const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
-  if (id === null || slug === null || pageTypeSlug === null) return []
-  return claimsOf(value, path, repo, fileProperties, sidecars, withheld, there, folders)
-}

@@ -11,7 +11,6 @@ import {
   type Beside,
   claimsOf,
   type IsThere,
-  pageClaimsOf,
   pathsOf,
   type SidecarsBy,
   sidecarsIn,
@@ -319,31 +318,35 @@ const BESIDE_THERE: IsThere = (at) => at === "a.domain.uncommitted.ts"
 
 const PATCH_THERE: IsThere = (at) => at === "a.domain.patch.diff"
 
-test("a value carrying no id is filed here for nothing", () => {
-  expect(pageClaimsOf({ pageTypeSlug: "domain", slug: "a" }, AT, REPO, NO_FILES, NONE)).toEqual([])
+test("a value carrying no id claims its own path as a value carrying one does", () => {
+  expect(claimsOf({ pageTypeSlug: "domain", slug: "a" }, AT, REPO, NO_FILES, NONE)).toEqual([
+    "a.domain.ts",
+  ])
 })
 
-test("a value carrying no slug is filed here for nothing", () => {
-  expect(pageClaimsOf({ id: A, pageTypeSlug: "domain" }, AT, REPO, NO_FILES, NONE)).toEqual([])
+test("a value carrying no slug claims its own path as a value carrying one does", () => {
+  expect(claimsOf({ id: A, pageTypeSlug: "domain" }, AT, REPO, NO_FILES, NONE)).toEqual([
+    "a.domain.ts",
+  ])
 })
 
 test("a page whose type declares a secret claims no sops file while that file is not there", () => {
-  expect(pageClaimsOf(VALUE, AT, REPO, NO_FILES, SECRET)).toEqual(["a.domain.ts"])
+  expect(claimsOf(VALUE, AT, REPO, NO_FILES, SECRET)).toEqual(["a.domain.ts"])
 })
 
 test("that same page's claims carry the sops file as soon as that file is there", () => {
-  expect(pageClaimsOf(VALUE, AT, REPO, NO_FILES, SECRET, undefined, SOPS_THERE)).toEqual([
+  expect(claimsOf(VALUE, AT, REPO, NO_FILES, SECRET, undefined, SOPS_THERE)).toEqual([
     "a.domain.ts",
     "a.domain.sops.yaml",
   ])
 })
 
 test("a page whose type declares an uncommitted value claims no file that is not there", () => {
-  expect(pageClaimsOf(VALUE, AT, REPO, NO_FILES, UNCOMMITTED)).toEqual(["a.domain.ts"])
+  expect(claimsOf(VALUE, AT, REPO, NO_FILES, UNCOMMITTED)).toEqual(["a.domain.ts"])
 })
 
 test("that same page claims the file beside it as soon as that file is there", () => {
-  expect(pageClaimsOf(VALUE, AT, REPO, NO_FILES, UNCOMMITTED, undefined, BESIDE_THERE)).toEqual([
+  expect(claimsOf(VALUE, AT, REPO, NO_FILES, UNCOMMITTED, undefined, BESIDE_THERE)).toEqual([
     "a.domain.ts",
     "a.domain.uncommitted.ts",
   ])
@@ -363,8 +366,8 @@ const DRAFTING: SidecarsBy = new Map([
 const PATCH_FILED: FilePropertiesBy = new Map([["domain", new Map([["patch", null]])]])
 
 test("a page whose type gives a file property a default claims no file that is not there", () => {
-  expect(pageClaimsOf(VALUE, AT, REPO, PATCH_FILED, DRAFTING)).toEqual(["a.domain.ts"])
-  expect(pageClaimsOf(VALUE, AT, REPO, PATCH_FILED, DRAFTING, undefined, PATCH_THERE)).toEqual([
+  expect(claimsOf(VALUE, AT, REPO, PATCH_FILED, DRAFTING)).toEqual(["a.domain.ts"])
+  expect(claimsOf(VALUE, AT, REPO, PATCH_FILED, DRAFTING, undefined, PATCH_THERE)).toEqual([
     "a.domain.ts",
     "a.domain.patch.diff",
   ])
@@ -383,7 +386,7 @@ test("a page stating the property its type defaults claims that file once", () =
     ],
   ])
 
-  expect(pageClaimsOf(stating, AT, REPO, PATCH_FILED, held)).toEqual([
+  expect(claimsOf(stating, AT, REPO, PATCH_FILED, held)).toEqual([
     "a.domain.ts",
     "a.domain.patch.diff",
   ])
@@ -401,7 +404,7 @@ test("an uncommitted value held in no file claims no file beside the page", () =
     ],
   ])
 
-  expect(pageClaimsOf(VALUE, AT, REPO, NO_FILES, held, undefined, BESIDE_THERE)).toEqual([
+  expect(claimsOf(VALUE, AT, REPO, NO_FILES, held, undefined, BESIDE_THERE)).toEqual([
     "a.domain.ts",
     "a.domain.uncommitted.ts",
   ])
@@ -420,7 +423,7 @@ test("a property naming its file outright claims no uncommitted file beside it",
   ])
   const filed: FilePropertiesBy = new Map([["domain", new Map([["manifest", "package.json"]])]])
 
-  expect(pageClaimsOf(VALUE, AT, REPO, filed, held)).toEqual(["a.domain.ts"])
+  expect(claimsOf(VALUE, AT, REPO, filed, held)).toEqual(["a.domain.ts"])
 })
 
 test("a file a page property holds is claimed under its own path", () => {
@@ -435,7 +438,7 @@ test("a file a page property holds is claimed under its own path", () => {
     ],
   ])
 
-  expect(pageClaimsOf(value, "/repo/deep/a.module.ts", REPO, filed, NONE)).toEqual([
+  expect(claimsOf(value, "/repo/deep/a.module.ts", REPO, filed, NONE)).toEqual([
     "deep/a.module.ts",
     "deep/a.module.code.ts",
     "deep/a.module.test.ts",
