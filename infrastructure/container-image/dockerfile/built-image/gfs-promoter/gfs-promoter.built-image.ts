@@ -2,7 +2,7 @@ import type { BuiltImage } from "akasha/infrastructure/container-image/dockerfil
 
 export const gfsPromoter = {
   id: "01a08194-6715-7c46-9a2d-7b4740d6ca3d",
-  type: "built-image",
+  type: "page-type/built-image",
   slug: "gfs-promoter",
   definition: "the image the backup promoter runs in",
   kind: "bun-service",
