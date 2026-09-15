@@ -18,7 +18,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/service/workstation/pages/persona-points-rebuilding/persona-points-rebuilding.service-workstation.running.code.ts"
+  "akasha/alan/harness/service-workstations/persona-points-rebuilding/persona-points-rebuilding.service-workstation.running.code.ts"
 )
 
 test("the run can be called with nothing, which is how the unit's command line calls it", () => {

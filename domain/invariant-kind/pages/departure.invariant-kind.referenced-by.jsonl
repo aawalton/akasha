@@ -632,6 +632,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/email-routing/modules/email-rule-planning/email-rule-planning.module.ts","id":"01a0a13e-68ba-75e1-9530-f6b30bf6b3c0"}
 {"propertySlug":"invariant-kind","path":"alan/harness/email-routing/modules/email-zone-reaching/email-zone-reaching.module.ts","id":"01a0a141-1f7c-70b6-9fb7-3e8b9fc5baba"}
 {"propertySlug":"invariant-kind","path":"alan/harness/email-routing/modules/persona-routing-run/persona-routing-run.module.ts","id":"01a0a145-492c-7088-9b18-a9912de34fe6"}
+{"propertySlug":"invariant-kind","path":"alan/harness/email-routing/service-workstations/persona-email-routing/persona-email-routing.service-workstation.ts","id":"01a0a147-4f53-7e7e-8fb1-00a3014534b0"}
 {"propertySlug":"invariant-kind","path":"alan/harness/email-watch/email-watch.domain.ts","id":"01a06596-a92e-7000-b678-5d6232425a71"}
 {"propertySlug":"invariant-kind","path":"alan/harness/email-watch/modules/email-rule-deciding/email-rule-deciding.module.ts","id":"01a06871-54e5-7002-a44f-3d96cfa5d667"}
 {"propertySlug":"invariant-kind","path":"alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.ts","id":"01a06871-54e5-7001-a2eb-d37372c1e8a3"}
@@ -920,6 +921,8 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/rules-engine/rules-engine.domain.ts","id":"01a0657b-9adc-7003-a1af-d02c5457d479"}
 {"propertySlug":"invariant-kind","path":"alan/harness/safety/modules/reading/safety-reading.module.ts","id":"01a069bc-9375-7eee-b662-6f844c8880b6"}
 {"propertySlug":"invariant-kind","path":"alan/harness/safety/safety.domain.ts","id":"01a05f42-92f5-7005-9a61-d2ed59cb2fac"}
+{"propertySlug":"invariant-kind","path":"alan/harness/service-workstations/overdue-rolling/overdue-rolling.service-workstation.ts","id":"01a07959-e7b3-7474-b7d6-6b2d76b1b642"}
+{"propertySlug":"invariant-kind","path":"alan/harness/service-workstations/persona-points-rebuilding/persona-points-rebuilding.service-workstation.ts","id":"01a082eb-b037-7fe2-b2ad-f45181c80cb2"}
 {"propertySlug":"invariant-kind","path":"alan/harness/sleep/modules/reading/sleep-reading.module.ts","id":"01a069b3-8f5a-7bff-bb12-ccc087280c99"}
 {"propertySlug":"invariant-kind","path":"alan/harness/sleep/sleep.domain.ts","id":"01a06220-ef8c-735b-b8a1-1cb4507d71b0"}
 {"propertySlug":"invariant-kind","path":"alan/harness/sms-core/modules/acting-account/acting-account.module.ts","id":"01a05b6f-999c-79d6-962f-62b580eda479"}
@@ -2380,6 +2383,7 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/manifest/modules/orphan-sweep-notice/orphan-sweep-notice.module.ts","id":"01a0686c-fd2c-7006-a6f7-7aad69fb8bd6"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/manifest/modules/orphan-sweeping/orphan-sweeping.module.ts","id":"01a0686a-7a57-75d7-a420-ed74ca10393d"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.ts","id":"01a06810-1262-7570-bae6-93d030d82053"}
+{"propertySlug":"invariant-kind","path":"infrastructure/cluster/manifest/service-workstations/orphaned-resources-sweep/orphaned-resources-sweep.service-workstation.ts","id":"01a06829-0194-7184-8190-2c4c599798bd"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/operation/deploy-functions/deploy-functions.shell-script.ts","id":"01a06887-6590-7ef6-b6f5-49959a7c99f2"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/provisioning/bootstrap-layer/bootstrap-layer.domain.ts","id":"01a0675b-16d6-7813-8ade-362de2107d1b"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/provisioning/cluster-provisioning.domain.ts","id":"01a0675b-16d9-7eab-a110-f106ca00dad1"}
@@ -2636,10 +2640,6 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/eso-addon-deploying/eso-addon-deploying.service-workstation.ts","id":"01a095be-957a-70aa-93ff-0845e49c8f73"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/inference-deploying/inference-deploying.service-workstation.ts","id":"01a09b0e-376c-70a6-9838-96e1f3f656a1"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/ios-app-deploying/ios-app-deploying.service-workstation.ts","id":"01a09b1a-31fc-7f84-8e3c-2b931fe57d4e"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/orphaned-resources-sweep/orphaned-resources-sweep.service-workstation.ts","id":"01a06829-0194-7184-8190-2c4c599798bd"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/overdue-rolling/overdue-rolling.service-workstation.ts","id":"01a07959-e7b3-7474-b7d6-6b2d76b1b642"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/persona-email-routing/persona-email-routing.service-workstation.ts","id":"01a0a147-4f53-7e7e-8fb1-00a3014534b0"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/persona-points-rebuilding/persona-points-rebuilding.service-workstation.ts","id":"01a082eb-b037-7fe2-b2ad-f45181c80cb2"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.ts","id":"01a06829-0194-7c17-9a07-d06e04099921"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/spotify-sync/spotify-sync.service-workstation.ts","id":"01a09c84-8cd1-758c-8c48-b28856aa0770"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/surplus-fall-notifier/surplus-fall-notifier.service-workstation.ts","id":"01a06829-0194-7754-b17a-14e66866bd98"}
