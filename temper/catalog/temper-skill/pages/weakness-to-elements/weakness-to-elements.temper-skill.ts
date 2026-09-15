@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const weaknessToElements = {
   id: "019e6f53-a9dd-7aaa-804e-25e64ca348eb",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "weakness-to-elements",
   title: "Weakness to Elements",
   key: "weakness-to-elements",

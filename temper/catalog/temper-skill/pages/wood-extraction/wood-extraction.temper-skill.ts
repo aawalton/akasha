@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const woodExtraction = {
   id: "019e6224-ccb6-7168-a599-fce5e9cada0c",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "wood-extraction",
   title: "Wood Extraction",
   key: "wood-extraction",

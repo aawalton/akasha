@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const werewolfTransformation = {
   id: "019e6f53-a9e6-7d95-b33c-2d80ea034466",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "werewolf-transformation",
   title: "Werewolf Transformation",
   key: "werewolf-transformation",

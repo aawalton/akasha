@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const volley = {
   id: "019e6f53-a9d0-7dce-82d9-c21bffbc39e1",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "volley",
   title: "Volley",
   key: "volley",

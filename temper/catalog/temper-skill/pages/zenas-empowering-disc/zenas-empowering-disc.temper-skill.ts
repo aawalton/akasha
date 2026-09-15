@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const zenasEmpoweringDisc = {
   id: "019e6245-a772-7f0f-b8cd-6c78b0bcec0a",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "zenas-empowering-disc",
   title: "Zenas' Empowering Disc",
   key: "zenas-empowering-disc",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const werewolfBerserker39076 = {
   id: "019e6f53-a9e5-750a-a40e-92e4951adfc4",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "werewolf-berserker-39076",
   title: "Werewolf Berserker",
   key: "werewolf-berserker-39076",
