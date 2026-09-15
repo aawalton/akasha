@@ -18,9 +18,6 @@ export const aineResourceManagement = {
         "Fifty-five of the sixty-six audit code files call `everythingIn` or an `overEvery` runner themselves, so the tree is walked once for the round and again for each check, about 1.5s each. For `phone-number-is-e164` the case set is 726 paths, which `rg --files` globbed to the five carrying page types answers in 0.135s against 285,471 paths in 0.482s. Ripgrep skips ignored files, and `everyFileInside` adds back the ignored-but-held ones `heldThough` keeps.",
     },
     {
-      statement: "`page-property-has-its-file` runs under a processor ceiling matched to its cost.",
-    },
-    {
       statement:
         "`email-address-is-well-formed` runs under a processor ceiling matched to its cost.",
     },

@@ -70,6 +70,6 @@ export const pagePropertyHasItsFile = {
       statement: "A page the change takes away is passed over.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 3 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode
