@@ -9,7 +9,7 @@ export const inference = {
     "domain/comfy",
     "domain/generation",
     "domain/inference-clients",
-    "domain/inference-commands",
+    "domain/inference-command",
     "domain/inference-pool",
     "domain/voice-inference",
     "page-type/inference-run",
