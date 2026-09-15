@@ -1,7 +1,7 @@
 import type { ItemId } from "akasha/temper/catalog/thing/properties/item-id.number-property.types.ts"
-import type { ItemName } from "akasha/temper/character/temper-mine/properties/item-name.text-property.types.ts"
 import type { BuyerName } from "akasha/temper/holdings/temper-sale/properties/buyer-name.text-property.types.ts"
 import type { GuildName } from "akasha/temper/holdings/temper-sale/properties/guild-name.text-property.types.ts"
+import type { ItemName } from "akasha/temper/holdings/temper-sale/properties/item-name.text-property.types.ts"
 import type { NetPayout } from "akasha/temper/holdings/temper-sale/properties/net-payout.number-property.types.ts"
 import type { SaleId } from "akasha/temper/holdings/temper-sale/properties/sale-id.text-property.types.ts"
 import type { SalePrice } from "akasha/temper/holdings/temper-sale/properties/sale-price.number-property.types.ts"
