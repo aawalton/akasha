@@ -44,6 +44,18 @@ export const slugRenaming = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A value the page states that is the slug the page carried is restated too.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The id, the page type and the name are left alone where a value echoes that way.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Such a value is looked for in the page's own body and nowhere else.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The export is spelled anew over the bodies the restating leaves.",
     },
     {

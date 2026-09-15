@@ -40,6 +40,8 @@ const ID = "id"
 
 const NAME = "name"
 
+const ECHOES_NOT = new Set([SLUG, PAGE_TYPE, PAGE_TYPE_SLUG, ID, NAME])
+
 export type Asked = {
   readonly at: string
   readonly to: string
@@ -148,6 +150,10 @@ export function slugRenamed(world: World, given: Asked): Said {
   put(given.at, [restatedAt(source, slug, given.to)])
   if (name !== undefined && given.name !== undefined && given.name !== name.text) {
     put(given.at, [restatedAt(source, name, given.name)])
+  }
+  for (const [key, held] of said) {
+    if (ECHOES_NOT.has(key) || held.text !== slug.text) continue
+    put(given.at, [restatedAt(source, held, given.to)])
   }
   for (const [path, slugs] of namingIn(namers)) {
     let body = texts.get(path)

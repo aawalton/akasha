@@ -131,6 +131,22 @@ test("an index naming no other page restates the slug over the page's own body",
   expect(bodyAfter(said, world, PAGE)).toContain(`slug: "${KEPT}"`)
 })
 
+test("a value the page states that is its own slug is restated with the slug", () => {
+  const body = WHOLE.replace(`  slug: "held",\n`, `  slug: "held",\n  resourceName: "held",\n`)
+  const world = worldIn(scratch.rootFor("slug-renaming-"), holding(body))
+  const said = slugRenamed(world, { at: PAGE, to: KEPT })
+  expect(said.refused).toBe(null)
+  expect(bodyAfter(said, world, PAGE)).toContain(`resourceName: "${KEPT}"`)
+})
+
+test("the page type a page states is left alone where its own slug spells the same", () => {
+  const body = WHOLE.replace(`  pageTypeSlug: "module",\n`, `  pageTypeSlug: "held",\n`)
+  const world = worldIn(scratch.rootFor("slug-renaming-"), holding(body))
+  const said = slugRenamed(world, { at: PAGE, to: KEPT })
+  expect(said.refused).toBe(null)
+  expect(bodyAfter(said, world, PAGE)).toContain(`pageTypeSlug: "${HELD_SLUG}"`)
+})
+
 test("a slug a page of that page type carries already is refused", () => {
   const root = indexedRepo()
   const said = slugRenamed(worldIn(root, textIn(root)), { at: HELD_PAGE, to: "namer" })
