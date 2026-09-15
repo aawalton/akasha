@@ -59,6 +59,14 @@ export function carryingOf(one: Carried, shape: Shape | undefined): Carrying {
   }
 }
 
+export function carriedOf(one: Carrying): Carried {
+  return {
+    ...one,
+    uniquePropertySlug: one.uniquePropertySlug ?? undefined,
+    fixed: one.fixed ?? undefined,
+  }
+}
+
 export function carryingIn(line: string): Carrying | null {
   let said: unknown
   try {

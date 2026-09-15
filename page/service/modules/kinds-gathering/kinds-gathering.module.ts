@@ -28,6 +28,14 @@ export const kindsGathering = {
     },
     {
       invariantKind: "departure",
+      statement: "What a page type carries is read from the file beside that page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type with no such file beside it has what it carries worked out here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A calculation is read from that page type's own declarations.",
     },
     {

@@ -3,6 +3,7 @@ import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.c
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import {
   bodyOf,
+  carriedOf,
   carryingEach,
   carryingIn,
   carryingOf,
@@ -81,6 +82,14 @@ test("a line carries what the declaration says", () => {
 test("a line written here is the line read back here", () => {
   const one = carryingOf(HOLDER, SHAPE)
   expect(carryingIn(JSON.stringify(one))).toEqual(one)
+})
+
+test("a line read back is a property the page type carries", () => {
+  const one = carriedOf(carryingOf(SLUG, undefined))
+  expect(one.key).toBe("slug")
+  expect(one.unique).toBe("page-type")
+  expect(one.uniquePropertySlug).toBeUndefined()
+  expect(one.fixed).toBeUndefined()
 })
 
 test("a page type carrying nothing has a body with no line", () => {

@@ -9,7 +9,6 @@ import {
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import { carriedOf, carriedOfType } from "akasha/page/index/shapes/index-shapes.index.code.ts"
 import {
   type TextOf,
   workIn,
@@ -37,6 +36,11 @@ import {
   sourceIn,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
+import {
+  carriedOf,
+  carryingEach,
+  schemaAt,
+} from "akasha/page/type/modules/type-schema/type-schema.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -56,10 +60,19 @@ function sourceFor(given: string | Reading): Source {
   )
 }
 
+function schemaFiled(reading: Reading, pageTypeSlug: string): string | null {
+  const listed = listedAt(reading, PAGE_TYPE, pageTypeSlug)
+  const one = listed.length === 1 ? listed[0] : undefined
+  if (one === undefined) return null
+  const at = schemaAt(one.path)
+  return at === null ? null : reading.read(at)
+}
+
 export function carriedFor(given: string | Reading, pageTypeSlug: string): readonly Carried[] {
-  const filed = carriedOfType(given, pageTypeSlug)
-  if (filed.length === 0) return propertiesFrom(pageTypeSlug, sourceFor(given))
-  return filed.map(carriedOf)
+  const reading = readingIn(given)
+  const body = schemaFiled(reading, pageTypeSlug)
+  if (body === null) return propertiesFrom(pageTypeSlug, sourceFor(given))
+  return carryingEach(body.split("\n")).map(carriedOf)
 }
 
 export function pagesOfType(
