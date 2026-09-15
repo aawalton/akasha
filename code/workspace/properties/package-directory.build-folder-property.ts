@@ -2,7 +2,7 @@ import type { BuildFolderProperty } from "akasha/page/build-folder-property/buil
 
 export const packageDirectory = {
   id: "01a081f6-dac2-707f-b072-c50aa44dd090",
-  type: "build-folder-property",
+  type: "page-type/build-folder-property",
   slug: "package-directory",
   propertySlug: "package-directory",
   definition: "the packages a package manager installs into a workspace",

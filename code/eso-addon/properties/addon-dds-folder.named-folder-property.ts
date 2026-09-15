@@ -2,7 +2,7 @@ import type { NamedFolderProperty } from "akasha/page/named-folder-property/name
 
 export const addonDdsFolder = {
   id: "01a0912b-050b-7d70-937b-978aad350dae",
-  type: "named-folder-property",
+  type: "page-type/named-folder-property",
   slug: "addon-dds-folder",
   propertySlug: "addon-dds-folder",
   definition: "the textures an add-on keeps in a folder named DDS",

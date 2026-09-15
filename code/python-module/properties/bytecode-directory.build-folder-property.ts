@@ -2,7 +2,7 @@ import type { BuildFolderProperty } from "akasha/page/build-folder-property/buil
 
 export const bytecodeDirectory = {
   id: "01a081f6-1ea7-7c91-b3f0-88c8dfea6c77",
-  type: "build-folder-property",
+  type: "page-type/build-folder-property",
   slug: "bytecode-directory",
   propertySlug: "bytecode-directory",
   definition: "the bytecode Python writes for a module",

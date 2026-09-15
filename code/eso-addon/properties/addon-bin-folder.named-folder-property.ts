@@ -2,7 +2,7 @@ import type { NamedFolderProperty } from "akasha/page/named-folder-property/name
 
 export const addonBinFolder = {
   id: "01a0912b-3b04-79e0-b715-2decfbfcdc83",
-  type: "named-folder-property",
+  type: "page-type/named-folder-property",
   slug: "addon-bin-folder",
   propertySlug: "addon-bin-folder",
   definition: "the textures an add-on keeps under a folder named bin",
