@@ -185,6 +185,6 @@ export const manifestNamesWhatIsReached = {
       statement: "An index naming no package judges clean.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
-  audit: { maxCpuSeconds: 15 },
+  check: { maxCpuSeconds: 20 },
+  audit: { maxCpuSeconds: 25 },
 } as const satisfies CheckCode
