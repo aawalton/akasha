@@ -17,7 +17,7 @@ export const astraIndexCleanup = {
       statement:
         "The edge and import indexes go, what references a page being read from the file beside it.",
       workingMemory:
-        "The import index is gone whole, and the edge index has no reader left. What remains: its writers in `index-settling` and `indexing`, `relationFiled` in the reading fixtures, `index/index-edge` in this page type's parts, four invariants here written about the import index, and the `index` property on `graph-edge` with the three invariants around it. `.index/edge/` is 108,664 tracked files and 12.4 MB of paths against a 2 MB argument ceiling, so no change can land its removal.\n",
+        "Both are gone whole, page and code and folder, and every reader asks `page-reference-reading` for the file beside the page. Alan cleared the last of the edge index and parted identity into three indexes at `c4eb59de45a`. What is left is debris: four invariants on this page type written about the import index, the `index` property on `graph-edge` with three invariants, the `edgeFiledAt` fixture in `graph-asking`, and an import edge still labelled as known from an index.\n",
     },
   ],
 } as const satisfies Initiative
