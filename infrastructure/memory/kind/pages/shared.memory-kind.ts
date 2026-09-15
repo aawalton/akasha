@@ -2,7 +2,7 @@ import type { MemoryKind } from "akasha/infrastructure/memory/kind/memory-kind.p
 
 export const shared = {
   id: "01a09131-8c78-705b-99a3-05d0c905efa6",
-  type: "memory-kind",
+  type: "page-type/memory-kind",
   slug: "shared",
   definition: "memory more than one process holds at once",
   invariants: [

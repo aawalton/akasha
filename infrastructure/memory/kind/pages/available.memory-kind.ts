@@ -2,7 +2,7 @@ import type { MemoryKind } from "akasha/infrastructure/memory/kind/memory-kind.p
 
 export const available = {
   id: "01a09131-bee0-7f6e-ba6c-4fc1a8e6466b",
-  type: "memory-kind",
+  type: "page-type/memory-kind",
   slug: "available",
   definition: "memory a program could take without anything being swapped",
   invariants: [

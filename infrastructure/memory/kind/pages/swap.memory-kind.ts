@@ -2,7 +2,7 @@ import type { MemoryKind } from "akasha/infrastructure/memory/kind/memory-kind.p
 
 export const swap = {
   id: "01a09131-faa7-77ff-af26-eb9b9e2b59a6",
-  type: "memory-kind",
+  type: "page-type/memory-kind",
   slug: "swap",
   definition: "disk a host holds a process's memory in while that process is not reaching it",
   invariants: [

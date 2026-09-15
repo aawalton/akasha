@@ -2,7 +2,7 @@ import type { MemoryKind } from "akasha/infrastructure/memory/kind/memory-kind.p
 
 export const cached = {
   id: "01a09131-dd70-72b2-8889-db292bf387cf",
-  type: "memory-kind",
+  type: "page-type/memory-kind",
   slug: "cached",
   definition: "memory holding what was read from disk, kept until something else wants it",
   invariants: [
