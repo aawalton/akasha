@@ -2,7 +2,7 @@ import { potions } from "akasha/temper/alchemy/modules/potion-source/potion-sour
 import { decodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { resolveCharacterToggles } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
-import { foodOrDrink } from "akasha/temper/character-sources/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
+import { foodOrDrink } from "akasha/temper/character-source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items-core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"

@@ -5,7 +5,7 @@ import {
   type MundusId,
   type MundusSource,
   mundus,
-} from "akasha/temper/character-sources/modules/mundus-source/mundus-source.module.code.ts"
+} from "akasha/temper/character-source/modules/mundus-source/mundus-source.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
   FilterableSelectDialog,

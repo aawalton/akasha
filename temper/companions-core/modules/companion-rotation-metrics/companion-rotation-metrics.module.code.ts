@@ -1,4 +1,4 @@
-import { targetArmor } from "akasha/temper/character-sources/modules/target-armors/target-armors.module.code.ts"
+import { targetArmor } from "akasha/temper/character-source/modules/target-armors/target-armors.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
   type CompanionMetricValue,

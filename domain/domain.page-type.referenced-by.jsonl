@@ -554,7 +554,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/champion-points/temper-champion-points.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-build/temper-character-build.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-skills/temper-character-skills.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-sources/temper-character-sources.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-source/temper-character-source.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character/temper-character.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/characters-capture-addon/temper-characters-capture-addon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/characters-character-ui/temper-characters-character-ui.domain.ts"}

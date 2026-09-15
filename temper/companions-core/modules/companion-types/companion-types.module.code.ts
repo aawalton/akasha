@@ -1,4 +1,4 @@
-import type { TargetArmorId } from "akasha/temper/character-sources/modules/target-armors/target-armors.module.code.ts"
+import type { TargetArmorId } from "akasha/temper/character-source/modules/target-armors/target-armors.module.code.ts"
 import type { CompanionArmorSlotId } from "akasha/temper/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import type { CompanionArmorWeight } from "akasha/temper/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import type { CompanionBaseRoleId } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"

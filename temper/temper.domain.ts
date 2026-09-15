@@ -36,7 +36,7 @@ export const temper = {
     "domain/temper-character",
     "domain/temper-character-build",
     "domain/temper-character-skills",
-    "domain/temper-character-sources",
+    "domain/temper-character-source",
     "domain/temper-characters-capture-addon",
     "domain/temper-characters-character-ui",
     "domain/temper-characters-equipment",

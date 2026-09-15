@@ -15,7 +15,7 @@ import {
   CardContent,
 } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import { getRoleName } from "akasha/temper/character-sources/modules/character-roles/character-roles.module.code.ts"
+import { getRoleName } from "akasha/temper/character-source/modules/character-roles/character-roles.module.code.ts"
 import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
 import { CharacterListCardWithHandle } from "akasha/temper/web/modules/character-list-card-with-handle/character-list-card-with-handle.module.code.tsx"
 import {

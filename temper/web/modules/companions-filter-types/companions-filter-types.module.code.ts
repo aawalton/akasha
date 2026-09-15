@@ -3,7 +3,7 @@ import type { SortDirection } from "akasha/design/interfaces/patterns/modules/so
 import {
   type TargetArmorId,
   targetArmor,
-} from "akasha/temper/character-sources/modules/target-armors/target-armors.module.code.ts"
+} from "akasha/temper/character-source/modules/target-armors/target-armors.module.code.ts"
 import { companionBaseRoles } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type CompanionId,

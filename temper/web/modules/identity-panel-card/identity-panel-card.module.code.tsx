@@ -12,11 +12,11 @@ import { getRaceSourceById } from "akasha/temper/character-build/modules/race-so
 import {
   type CurseState,
   curses,
-} from "akasha/temper/character-sources/modules/curses/curses.module.code.ts"
+} from "akasha/temper/character-source/modules/curses/curses.module.code.ts"
 import {
   type VampireStageId,
   vampireStages,
-} from "akasha/temper/character-sources/modules/vampire-stages/vampire-stages.module.code.ts"
+} from "akasha/temper/character-source/modules/vampire-stages/vampire-stages.module.code.ts"
 import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import type { RaceId } from "akasha/temper/races/modules/races/races.module.code.ts"
