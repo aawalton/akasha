@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const yaelokreNeathTheGroveIsAHeart = {
   id: "01a0676a-d725-7043-9726-080c0147292a",
-  type: "release",
+  type: "page-type/release",
   slug: "yaelokre-neath-the-grove-is-a-heart",
   title: "Neath the grove is a heart",
   partOfCollections: ["artist/yaelokre"],

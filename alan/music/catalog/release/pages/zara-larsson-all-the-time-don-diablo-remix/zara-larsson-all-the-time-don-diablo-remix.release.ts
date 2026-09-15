@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonAllTheTimeDonDiabloRemix = {
   id: "01a0676a-d716-7026-8b1a-b9e44752cb76",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-all-the-time-don-diablo-remix",
   title: "All the Time (Don Diablo Remix)",
   partOfCollections: ["artist/zara-larsson"],

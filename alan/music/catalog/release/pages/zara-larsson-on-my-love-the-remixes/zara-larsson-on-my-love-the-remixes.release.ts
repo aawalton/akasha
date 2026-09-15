@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonOnMyLoveTheRemixes = {
   id: "01a0676a-d726-7022-930b-4f57d3a8e45a",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-on-my-love-the-remixes",
   title: "On My Love (The Remixes)",
   partOfCollections: ["artist/zara-larsson"],

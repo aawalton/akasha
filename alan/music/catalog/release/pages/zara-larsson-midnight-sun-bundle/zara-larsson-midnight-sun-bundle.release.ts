@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonMidnightSunBundle = {
   id: "01a0676a-d724-7064-9e17-4cf141a1a649",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-midnight-sun-bundle",
   title: "Midnight Sun (Bundle)",
   partOfCollections: ["artist/zara-larsson"],

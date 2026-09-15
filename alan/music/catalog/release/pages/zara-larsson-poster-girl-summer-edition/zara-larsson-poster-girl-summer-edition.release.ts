@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonPosterGirlSummerEdition = {
   id: "01a0676a-d727-7010-b030-7452f85faab8",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-poster-girl-summer-edition",
   title: "Poster Girl (Summer Edition)",
   partOfCollections: ["artist/zara-larsson"],

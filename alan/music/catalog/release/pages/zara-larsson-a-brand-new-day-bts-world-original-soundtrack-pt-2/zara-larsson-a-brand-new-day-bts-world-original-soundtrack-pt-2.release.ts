@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonABrandNewDayBtsWorldOriginalSoundtrackPt2 = {
   id: "01a0676a-d715-701b-b5e7-167e1c04ed2f",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-a-brand-new-day-bts-world-original-soundtrack-pt-2",
   title: "A Brand New Day (BTS World Original Soundtrack) (Pt. 2)",
   partOfCollections: ["artist/zara-larsson"],

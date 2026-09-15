@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonCanTTameHerTheRemixes = {
   id: "01a0676a-d719-705c-b3f2-8a6fc217928c",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-can-t-tame-her-the-remixes",
   title: "Can't Tame Her (The Remixes)",
   partOfCollections: ["artist/zara-larsson"],

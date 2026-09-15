@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonCanTTameHerAcoustic = {
   id: "01a0676a-d719-705a-9920-1e17fb6d0ec1",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-can-t-tame-her-acoustic",
   title: "Can't Tame Her (Acoustic)",
   partOfCollections: ["artist/zara-larsson"],

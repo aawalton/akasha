@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonBadBoysTodayRemix = {
   id: "01a0676a-d718-7006-87ad-e8012eaa096d",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-bad-boys-today-remix",
   title: "Bad Boys (Today Remix)",
   partOfCollections: ["artist/zara-larsson"],

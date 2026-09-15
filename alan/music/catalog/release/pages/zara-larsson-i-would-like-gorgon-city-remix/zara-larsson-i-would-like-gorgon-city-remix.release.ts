@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonIWouldLikeGorgonCityRemix = {
   id: "01a0676a-d721-7049-bb8d-e2370d97d059",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-i-would-like-gorgon-city-remix",
   title: "I Would Like (Gorgon City Remix)",
   partOfCollections: ["artist/zara-larsson"],

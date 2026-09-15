@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonInvisibleEndTitleFromKlaus = {
   id: "01a0676a-d721-7081-bc60-89fdaa7498a5",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-invisible-end-title-from-klaus",
   title: "Invisible (End Title from Klaus)",
   partOfCollections: ["artist/zara-larsson"],

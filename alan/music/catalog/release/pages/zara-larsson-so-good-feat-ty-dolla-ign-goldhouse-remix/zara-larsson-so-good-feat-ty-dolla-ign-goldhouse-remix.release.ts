@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonSoGoodFeatTyDollaIgnGoldhouseRemix = {
   id: "01a0676a-d729-7044-8652-6ca573faf0aa",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-so-good-feat-ty-dolla-ign-goldhouse-remix",
   title: "So Good (feat. Ty Dolla $ign) [GOLDHOUSE Remix]",
   partOfCollections: ["artist/zara-larsson"],

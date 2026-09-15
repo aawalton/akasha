@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonEndOfTimeKungsRemix = {
   id: "01a0676a-d71d-7011-b334-40071606799e",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-end-of-time-kungs-remix",
   title: "End Of Time (Kungs Remix)",
   partOfCollections: ["artist/zara-larsson"],

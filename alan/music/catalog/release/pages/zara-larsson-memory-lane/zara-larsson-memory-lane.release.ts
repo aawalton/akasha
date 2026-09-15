@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonMemoryLane = {
   id: "01a0676a-d724-704a-b3af-a23f4e2841dd",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-memory-lane",
   title: "Memory Lane",
   partOfCollections: ["artist/zara-larsson"],

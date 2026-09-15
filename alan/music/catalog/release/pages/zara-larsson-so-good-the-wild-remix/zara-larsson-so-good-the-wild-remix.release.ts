@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonSoGoodTheWildRemix = {
   id: "01a0676a-d729-7045-be20-85d0a16476cf",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-so-good-the-wild-remix",
   title: "So Good (The Wild Remix)",
   partOfCollections: ["artist/zara-larsson"],

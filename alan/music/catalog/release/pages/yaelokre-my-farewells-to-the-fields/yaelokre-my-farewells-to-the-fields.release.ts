@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const yaelokreMyFarewellsToTheFields = {
   id: "01a0676a-d725-7028-9119-0ba002cd0eda",
-  type: "release",
+  type: "page-type/release",
   slug: "yaelokre-my-farewells-to-the-fields",
   title: "My farewells to the fields",
   partOfCollections: ["artist/yaelokre"],

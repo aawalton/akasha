@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonBadBoys = {
   id: "01a0676a-d718-7005-a9d7-fe3408d4c299",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-bad-boys",
   title: "Bad Boys",
   partOfCollections: ["artist/zara-larsson"],

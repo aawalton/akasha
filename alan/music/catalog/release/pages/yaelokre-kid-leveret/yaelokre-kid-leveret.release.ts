@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const yaelokreKidLeveret = {
   id: "01a0676a-d722-703d-b7ea-0e72093f9795",
-  type: "release",
+  type: "page-type/release",
   slug: "yaelokre-kid-leveret",
   title: "Kid & Leveret",
   partOfCollections: ["artist/yaelokre"],

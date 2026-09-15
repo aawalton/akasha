@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonLushLifeRetroVersion = {
   id: "01a0676a-d724-701c-8787-2dfcb718eb17",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-lush-life-retro-version",
   title: "Lush Life (Retro Version)",
   partOfCollections: ["artist/zara-larsson"],

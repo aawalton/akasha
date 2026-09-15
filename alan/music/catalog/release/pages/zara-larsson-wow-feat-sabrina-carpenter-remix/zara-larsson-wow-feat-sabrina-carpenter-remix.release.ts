@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const zaraLarssonWowFeatSabrinaCarpenterRemix = {
   id: "01a0676a-d731-703a-b9b4-b9e1a21f7ac2",
-  type: "release",
+  type: "page-type/release",
   slug: "zara-larsson-wow-feat-sabrina-carpenter-remix",
   title: "WOW (feat. Sabrina Carpenter) [Remix]",
   partOfCollections: ["artist/zara-larsson"],
