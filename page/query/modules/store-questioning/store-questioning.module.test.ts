@@ -249,12 +249,10 @@ test("the store standing on this workstation answers a composed query", async ()
     const asked = await askComposed({
       "page-type": "page-type",
       where: { slug: { is: "finding" } },
-      keys: ["slug", "pluralSlug"],
+      keys: ["slug", "mortal"],
     })
     if (!asked.ok) throw new Error(asked.why)
-    expect(asked.answer.rows.map((one) => one.values)).toEqual([
-      { slug: "finding", pluralSlug: "findings" },
-    ])
+    expect(asked.answer.rows.map((one) => one.values)).toEqual([{ slug: "finding", mortal: true }])
   } finally {
     if (held === undefined) delete process.env.PAGE_STORE_ORIGIN
     else process.env.PAGE_STORE_ORIGIN = held

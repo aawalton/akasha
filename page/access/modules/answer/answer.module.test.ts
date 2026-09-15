@@ -46,7 +46,7 @@ function rowFor(slug: string | null): Parameters<typeof withDefinitions>[0][numb
     seq: null,
     title: null,
     icon: null,
-    attributes: { pluralSlug: "to-dos" },
+    attributes: { displayName: "To Do" },
     page_type_slug: "page-type",
     unique_key: null,
     status: null,
@@ -63,7 +63,7 @@ const DEFINED: readonly PropertyDefinition[] = [
 
 test("a page type's row carries the property definitions that page type declares", async () => {
   const rows = await withDefinitions([rowFor("to-do")], async () => DEFINED)
-  expect(rows[0]?.attributes).toEqual({ pluralSlug: "to-dos", propertyDefinitions: DEFINED })
+  expect(rows[0]?.attributes).toEqual({ displayName: "To Do", propertyDefinitions: DEFINED })
 })
 
 test("a row naming no page type carries no definition rather than asking for none", async () => {
@@ -73,7 +73,7 @@ test("a row naming no page type carries no definition rather than asking for non
     return DEFINED
   })
   expect(asked).toBe(0)
-  expect(rows[0]?.attributes).toEqual({ pluralSlug: "to-dos", propertyDefinitions: [] })
+  expect(rows[0]?.attributes).toEqual({ displayName: "To Do", propertyDefinitions: [] })
 })
 
 test("a page type whose properties went unread carries none rather than refusing", async () => {
@@ -81,8 +81,8 @@ test("a page type whose properties went unread carries none rather than refusing
     if (slug === "to-do") throw new Error("the pages answered no shape")
     return DEFINED
   })
-  expect(rows[0]?.attributes).toEqual({ pluralSlug: "to-dos" })
-  expect(rows[1]?.attributes).toEqual({ pluralSlug: "to-dos", propertyDefinitions: DEFINED })
+  expect(rows[0]?.attributes).toEqual({ displayName: "To Do" })
+  expect(rows[1]?.attributes).toEqual({ displayName: "To Do", propertyDefinitions: DEFINED })
 })
 
 test("every row is carried however many rows run past one batch", async () => {
