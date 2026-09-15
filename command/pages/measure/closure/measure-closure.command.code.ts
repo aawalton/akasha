@@ -27,7 +27,7 @@ import {
   valuedAt,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 
 const PREDICATE = "graph-predicate"
 

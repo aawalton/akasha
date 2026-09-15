@@ -5,9 +5,9 @@ import {
 } from "akasha/agent/seat/fleet/modules/seat-roster/seat-roster.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
+import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
+import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 import { textIn } from "akasha/util/narrow/modules/text-in/text-in.module.code.ts"
-import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
-import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const UUID_HEX_LEN = 32
 
@@ -120,16 +120,6 @@ export async function resolveSeatTargetCli(input: string): Promise<string> {
   const found = resolveSeatTarget(input)
   if ("error" in found) throw inputError(found.error)
   return found.id
-}
-
-export async function resolveSeatTargetFromFlagOrEnv(
-  flagValue: string | undefined
-): Promise<string> {
-  const candidate = flagValue ?? fromEnv()
-  if (candidate === undefined) {
-    throw inputError(NONE_NAMED)
-  }
-  return resolveSeatTargetCli(candidate)
 }
 
 export async function resolveOptionalSeatId(flagValue: string | undefined): Promise<string | null> {

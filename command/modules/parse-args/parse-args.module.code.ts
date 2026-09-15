@@ -7,9 +7,9 @@ import type {
   CommandHelp,
   HelpFlag,
 } from "akasha/command/modules/declaring/command-declaring.module.code.ts"
+import { suggestClosest } from "akasha/text/writing/modules/suggest-closest/suggest-closest.module.code.ts"
 import { expandTilde } from "akasha/util/fs/modules/expand-tilde/expand-tilde.module.code.ts"
 import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
-import { suggestClosest } from "akasha/util/text/modules/suggest-closest/suggest-closest.module.code.ts"
 
 export interface ParsedArgs {
   string: (name: string) => string | undefined

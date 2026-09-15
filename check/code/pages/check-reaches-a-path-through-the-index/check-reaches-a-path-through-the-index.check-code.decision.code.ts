@@ -14,7 +14,7 @@ import {
   uncommittedHeld,
   uncommittedSpelled,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { shortened } from "akasha/util/text/modules/shortened/shortened.module.code.ts"
+import { shortened } from "akasha/text/writing/modules/shortened/shortened.module.code.ts"
 import ts from "typescript"
 
 const CODE = "code"

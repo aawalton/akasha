@@ -1,4 +1,4 @@
-import { seconds } from "akasha/util/text/modules/seconds/seconds.module.code.ts"
+import { seconds } from "akasha/text/writing/modules/seconds/seconds.module.code.ts"
 
 export const ELIGIBILITY_HOLD_MS = 60_000
 

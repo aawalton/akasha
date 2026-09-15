@@ -5249,6 +5249,12 @@
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-pricing-snapshot/api-watcher-upsert-pricing-snapshot.route.ts","id":"01a082fe-7dee-72e6-89a1-b20f7230159b"}
 {"propertySlug":"decision-kind","path":"temper/web/test-fixtures/resource-loader-args-test-utils/resource-loader-args-test-utils.test-fixture.ts","id":"01a08ee4-41a2-7873-81b7-b181807acb88"}
 {"propertySlug":"decision-kind","path":"text/quote/quote.domain.ts","id":"01a06815-ceaf-7d64-bb5e-3b8a0ff93c0f"}
+{"propertySlug":"decision-kind","path":"text/writing/modules/counted/counted.module.ts","id":"01a08ccc-aca8-7215-b4dd-560d25d104b5"}
+{"propertySlug":"decision-kind","path":"text/writing/modules/name-drawing/name-drawing.module.ts","id":"01a08206-a5c1-75c9-8635-b646938fd3ac"}
+{"propertySlug":"decision-kind","path":"text/writing/modules/one-line/one-line.module.ts","id":"01a095bb-4f52-7988-950f-f29155dd9bb0"}
+{"propertySlug":"decision-kind","path":"text/writing/modules/seconds/seconds.module.ts","id":"01a08e0e-2679-7975-bc1c-012c263cbfd2"}
+{"propertySlug":"decision-kind","path":"text/writing/modules/shortened/shortened.module.ts","id":"01a0908e-2225-73cf-ab78-93caf2062757"}
+{"propertySlug":"decision-kind","path":"text/writing/modules/suggest-closest/suggest-closest.module.ts","id":"01a06287-7841-7b53-968b-a40343c7aebe"}
 {"propertySlug":"decision-kind","path":"util/fs/modules/anything-there/anything-there.module.ts","id":"01a08e16-6dcf-7030-a111-e379d16e22f5"}
 {"propertySlug":"decision-kind","path":"util/fs/modules/atomic-write/atomic-write.module.ts","id":"01a05c4c-9441-7a1c-a7fc-dc1ab3914181"}
 {"propertySlug":"decision-kind","path":"util/fs/modules/file-size/file-size.module.ts","id":"01a08182-0997-7171-8a4f-afaacaf31310"}
@@ -5290,12 +5296,6 @@
 {"propertySlug":"decision-kind","path":"util/slug/modules/dash-each-capital/dash-each-capital.module.ts","id":"01a08e73-15cb-748d-bb35-86c2741dbde0"}
 {"propertySlug":"decision-kind","path":"util/slug/util-slug.domain.ts","id":"01a08e6f-55be-71c8-8946-b4047f5a9d4c"}
 {"propertySlug":"decision-kind","path":"util/sync/modules/page-type-props/page-type-props.module.ts","id":"01a05c6a-2bb4-735e-bfca-90ad75728a5e"}
-{"propertySlug":"decision-kind","path":"util/text/modules/counted/counted.module.ts","id":"01a08ccc-aca8-7215-b4dd-560d25d104b5"}
-{"propertySlug":"decision-kind","path":"util/text/modules/name-drawing/name-drawing.module.ts","id":"01a08206-a5c1-75c9-8635-b646938fd3ac"}
-{"propertySlug":"decision-kind","path":"util/text/modules/one-line/one-line.module.ts","id":"01a095bb-4f52-7988-950f-f29155dd9bb0"}
-{"propertySlug":"decision-kind","path":"util/text/modules/seconds/seconds.module.ts","id":"01a08e0e-2679-7975-bc1c-012c263cbfd2"}
-{"propertySlug":"decision-kind","path":"util/text/modules/shortened/shortened.module.ts","id":"01a0908e-2225-73cf-ab78-93caf2062757"}
-{"propertySlug":"decision-kind","path":"util/text/modules/suggest-closest/suggest-closest.module.ts","id":"01a06287-7841-7b53-968b-a40343c7aebe"}
 {"propertySlug":"decision-kind","path":"util/util.domain.ts","id":"01a0827a-166b-7a7c-9b60-e90209b46c46"}
 {"propertySlug":"decision-kind","path":"verdict/modules/reading-channel/reading-channel.module.ts","id":"01a0657e-795b-7000-9fd2-c341fb16005c"}
 {"propertySlug":"decision-kind","path":"verdict/modules/text/verdict-text.module.ts","id":"01a05c87-a162-7009-8991-e7d36b476492"}

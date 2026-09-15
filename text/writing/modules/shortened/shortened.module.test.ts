@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { shortened } from "akasha/util/text/modules/shortened/shortened.module.code.ts"
+import { shortened } from "akasha/text/writing/modules/shortened/shortened.module.code.ts"
 
 const SIXTY = "0123456789".repeat(6)
 

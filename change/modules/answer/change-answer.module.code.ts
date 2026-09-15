@@ -13,7 +13,7 @@ import type {
   Said,
   Splice,
 } from "akasha/change/modules/answer/change-answer.module.types.ts"
-import { meantSaid } from "akasha/util/text/modules/suggest-closest/suggest-closest.module.code.ts"
+import { meantSaid } from "akasha/text/writing/modules/suggest-closest/suggest-closest.module.code.ts"
 
 const NOT_TEXT_SAID = "is not text, so no passage in it is changed"
 

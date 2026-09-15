@@ -13,7 +13,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 
-import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 
 export const SENDING = "--send-updates"
 

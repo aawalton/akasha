@@ -1902,6 +1902,9 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-filter-types/companions-filter-types.module.ts","id":"01a06421-2527-72cf-81cf-35554408ce56"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/format-time-ago/format-time-ago.module.ts","id":"01a06432-b190-70c7-9a7e-6b7554e6dccf"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/watcher-build-status/watcher-build-status.module.ts","id":"01a0640f-8510-74a0-a7e6-a020f4b468ed"}
+{"propertySlug":"decision-kind","path":"text/writing/modules/counted/counted.module.ts","id":"01a08ccc-aca8-7215-b4dd-560d25d104b5"}
+{"propertySlug":"decision-kind","path":"text/writing/modules/name-drawing/name-drawing.module.ts","id":"01a08206-a5c1-75c9-8635-b646938fd3ac"}
+{"propertySlug":"decision-kind","path":"text/writing/modules/one-line/one-line.module.ts","id":"01a095bb-4f52-7988-950f-f29155dd9bb0"}
 {"propertySlug":"decision-kind","path":"util/fs/modules/expand-tilde/expand-tilde.module.ts","id":"01a05c4c-9442-70c2-948c-b1d7ad5a033f"}
 {"propertySlug":"decision-kind","path":"util/fs/modules/file-size/file-size.module.ts","id":"01a08182-0997-7171-8a4f-afaacaf31310"}
 {"propertySlug":"decision-kind","path":"util/fs/modules/whole-writing/whole-writing.module.ts","id":"01a09429-a77b-7673-8ae4-d384444c7b7a"}
@@ -1917,9 +1920,6 @@
 {"propertySlug":"decision-kind","path":"util/slug/modules/dash-each-capital/dash-each-capital.module.ts","id":"01a08e73-15cb-748d-bb35-86c2741dbde0"}
 {"propertySlug":"decision-kind","path":"util/slug/util-slug.domain.ts","id":"01a08e6f-55be-71c8-8946-b4047f5a9d4c"}
 {"propertySlug":"decision-kind","path":"util/sync/modules/page-type-props/page-type-props.module.ts","id":"01a05c6a-2bb4-735e-bfca-90ad75728a5e"}
-{"propertySlug":"decision-kind","path":"util/text/modules/counted/counted.module.ts","id":"01a08ccc-aca8-7215-b4dd-560d25d104b5"}
-{"propertySlug":"decision-kind","path":"util/text/modules/name-drawing/name-drawing.module.ts","id":"01a08206-a5c1-75c9-8635-b646938fd3ac"}
-{"propertySlug":"decision-kind","path":"util/text/modules/one-line/one-line.module.ts","id":"01a095bb-4f52-7988-950f-f29155dd9bb0"}
 {"propertySlug":"decision-kind","path":"verdict/modules/shape/verdict-shape.module.ts","id":"01a05c87-a161-78d7-afb2-6becb8d2161f"}
 {"propertySlug":"decision-kind","path":"verdict/verdict.domain.ts","id":"01a05c87-a15f-79e8-9268-c8bf1735c3e6"}
 {"propertySlug":"parts","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}

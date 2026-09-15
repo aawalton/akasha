@@ -16,7 +16,7 @@ import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.c
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { commitSaid } from "akasha/command/modules/landing-saying/landing-saying.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
-import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 
 export const DAYS_AT = "alan/track/daily/day/pages/"
 

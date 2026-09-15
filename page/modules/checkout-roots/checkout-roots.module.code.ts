@@ -4,7 +4,7 @@ import { dirOfModule } from "akasha/code/path/modules/module-directory/module-di
 import type { Repo } from "akasha/page/modules/markdown-document/markdown-document.module.code.ts"
 import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-at.module.code.ts"
 import { canonicalize } from "akasha/page/modules/repo-path/repo-path.module.code.ts"
-import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 
 export const AKASHA = "akasha"
 

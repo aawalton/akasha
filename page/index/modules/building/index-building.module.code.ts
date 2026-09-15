@@ -1,8 +1,8 @@
 import { resolve } from "node:path"
 import { refreshedWhole } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { checkoutHere } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
-import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
 
 const FAULT = 1
 

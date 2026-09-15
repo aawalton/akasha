@@ -28,7 +28,7 @@ import {
 } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
-import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
+import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
 const DOMAIN_AT = "akasha.domain.ts"
 

@@ -17,7 +17,7 @@ import {
   generatedIn,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import { quotedIn } from "akasha/page/index/modules/quote-holding/quote-holding.module.code.ts"
-import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 
 const OUTSIDE = ".."
 

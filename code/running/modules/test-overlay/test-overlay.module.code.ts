@@ -2,8 +2,8 @@ import { existsSync, mkdirSync, mkdtempSync, rmSync, symlinkSync, writeFileSync 
 import { homedir } from "node:os"
 import { dirname, isAbsolute, join, normalize } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
-import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
 
 export const HOLD = "/var/tmp"
 

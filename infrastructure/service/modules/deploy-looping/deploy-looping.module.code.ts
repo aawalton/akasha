@@ -45,7 +45,7 @@ import {
   type Ran,
   systemctl,
 } from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
-import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
+import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
 export const SCOPE_LEAD = "akasha-deploy-"
 

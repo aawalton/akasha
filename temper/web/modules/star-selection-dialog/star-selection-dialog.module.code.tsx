@@ -7,8 +7,8 @@ import {
 } from "akasha/temper/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import type { FilterableSelectDialogConfig } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { FilterableSelectDialog } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"
 import { getSubcategory } from "akasha/util/narrow/modules/get-subcategory/get-subcategory.module.code.ts"
-import { capitalize } from "akasha/util/text/modules/capitalize/capitalize.module.code.ts"
 import { Hammer, Shield, Swords } from "lucide-react"
 import { useMemo, useState } from "react"
 

@@ -2,7 +2,7 @@ import { writeFileSync } from "node:fs"
 import { nothingIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import { checkIn, judgingBy } from "akasha/check/modules/checking/checking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
+import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
 const AUDIT = "audit"
 

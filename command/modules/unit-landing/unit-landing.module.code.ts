@@ -18,7 +18,7 @@ import {
   everyService,
   SERVICE_PAGE_TYPE,
 } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
-import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
+import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
 const A_UNIT = "unit"
 

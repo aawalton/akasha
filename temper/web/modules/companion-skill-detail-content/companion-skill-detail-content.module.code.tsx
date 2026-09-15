@@ -22,7 +22,7 @@ import {
   TargetingBadge,
 } from "akasha/temper/web/modules/targeting-badges/targeting-badges.module.code.tsx"
 import { TimingBadges } from "akasha/temper/web/modules/timing-badges/timing-badges.module.code.tsx"
-import { capitalize } from "akasha/util/text/modules/capitalize/capitalize.module.code.ts"
+import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"
 
 const SKILL_DETAIL_WIDTH = COLUMN_WIDTH
 

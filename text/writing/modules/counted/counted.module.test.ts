@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
+import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
 test("a count of one is said with the singular", () => {
   expect(counted(1, "file")).toBe("1 file")

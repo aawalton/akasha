@@ -6585,6 +6585,13 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/weapon-card/weapon-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/zone-completion-progress-panel-card/zone-completion-progress-panel-card.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/capitalize/capitalize.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/counted/counted.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/name-drawing/name-drawing.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/one-line/one-line.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/seconds/seconds.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/shortened/shortened.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/suggest-closest/suggest-closest.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/fs/modules/anything-there/anything-there.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/fs/modules/atomic-write/atomic-write.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/fs/modules/expand-tilde/expand-tilde.module.ts"}
@@ -6665,13 +6672,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/slug/modules/slug-of/slug-of.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/sync/modules/page-type-props/page-type-props.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/sync/modules/today/today.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/text/modules/capitalize/capitalize.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/text/modules/counted/counted.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/text/modules/name-drawing/name-drawing.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/text/modules/one-line/one-line.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/text/modules/seconds/seconds.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/text/modules/shortened/shortened.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/text/modules/suggest-closest/suggest-closest.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"verdict/modules/reading-channel/reading-channel.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"verdict/modules/shape/verdict-shape.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"verdict/modules/text/verdict-text.module.ts"}

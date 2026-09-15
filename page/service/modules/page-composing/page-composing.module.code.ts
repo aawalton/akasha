@@ -25,7 +25,7 @@ import {
   type Source,
   sourceIn,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

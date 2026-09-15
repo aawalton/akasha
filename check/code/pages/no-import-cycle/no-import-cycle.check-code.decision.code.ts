@@ -11,7 +11,7 @@ import {
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { landingOf } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 import ts from "typescript"
 
 const SHOWN = 3
