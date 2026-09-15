@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const slashCommanderDescriptions = {
   id: "01a06066-8402-71ee-9ab5-3255338fdd7a",
-  type: "module",
+  type: "page-type/module",
   slug: "slash-commander-descriptions",
   definition: "what each slash command the game itself carries is described and colored as",
   code: "ts",

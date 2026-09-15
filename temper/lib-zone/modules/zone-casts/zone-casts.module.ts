@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const zoneCasts = {
   id: "01a061e7-92f2-790e-b9b3-5b0d9a77cf73",
-  type: "module",
+  type: "page-type/module",
   slug: "zone-casts",
   definition: "what an untyped table the game hands over is taken to be",
   code: "ts",

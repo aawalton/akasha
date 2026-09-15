@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const slashCommanderCasts = {
   id: "01a06066-8403-7a32-b1b3-df88bb610cb2",
-  type: "module",
+  type: "page-type/module",
   slug: "slash-commander-casts",
   definition: "what a value out of the game's chat tables or a caller's hand is read as",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsTipSettingsState = {
   id: "01a0623c-2df6-79c8-86f2-4a92326c6cf2",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-tip-settings-state",
   definition: "the settings menu handle and the flag saying it has been built",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const zoneNamesDe01 = {
   id: "01a061e7-9306-7587-b4d0-0d0f7f9ff42a",
-  type: "module",
+  type: "page-type/module",
   slug: "zone-names-de-01",
   definition: "part 01 of every zone's name in de",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const zoneGeoData02 = {
   id: "01a061e7-92fa-7256-936b-19fed12a2146",
-  type: "module",
+  type: "page-type/module",
   slug: "zone-geo-data-02",
   definition: "part 02 of which point of interest reaches a zone from its geographical parent",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsTipState = {
   id: "01a06231-8f1e-7f5a-b604-b1c73086938c",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-tip-state",
   definition: "the mutable tooltip state holding setting flags and per-set scratch tables",
   code: "ts",

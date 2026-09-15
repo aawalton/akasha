@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsTipTooltipsIndex = {
   id: "01a0623c-2df7-7095-810c-642dbebff290",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-tip-tooltips-index",
   definition: "the order the tooltip modules are loaded in",
   code: "ts",

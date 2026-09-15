@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const slashCommanderMessages = {
   id: "01a06066-8403-7611-aa81-51c10a7f7f77",
-  type: "module",
+  type: "page-type/module",
   slug: "slash-commander-messages",
   definition: "what a misuse of the library is said to be, and the color of each command kind",
   code: "ts",

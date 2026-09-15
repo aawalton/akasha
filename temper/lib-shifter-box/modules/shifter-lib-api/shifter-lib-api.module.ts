@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const shifterLibApi = {
   id: "01a06187-364c-70cd-ab74-6d1f38cb4fdc",
-  type: "module",
+  type: "page-type/module",
   slug: "shifter-lib-api",
   definition: "the callable form of the library that builds a shifter box",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const treasureApi = {
   id: "01a061d5-d0c0-73e1-8312-b0bc2d8d34a1",
-  type: "module",
+  type: "page-type/module",
   slug: "treasure-api",
   definition: "what an addon asks the library about a treasure map or a survey",
   code: "ts",

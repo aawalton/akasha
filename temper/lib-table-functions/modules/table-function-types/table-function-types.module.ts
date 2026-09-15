@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const tableFunctionTypes = {
   id: "01a06052-2ca5-7438-a4c4-749daaf6f554",
-  type: "module",
+  type: "page-type/module",
   slug: "table-function-types",
   definition: "the shape of the table helpers the game global carries",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const shifterHelpers = {
   id: "01a06187-3648-76ec-904d-fccef521de91",
-  type: "module",
+  type: "page-type/module",
   slug: "shifter-helpers",
   definition: "the cloning, callback and filtering helpers the rest of the library shares",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const tableFunctionCasts = {
   id: "01a06052-2ca5-78e3-9cd6-62ac3cdd5bed",
-  type: "module",
+  type: "page-type/module",
   slug: "table-function-casts",
   definition: "what an unknown handed to a table helper is read as",
   code: "ts",

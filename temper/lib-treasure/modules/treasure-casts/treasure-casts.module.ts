@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const treasureCasts = {
   id: "01a061d5-d0b3-779c-a12e-41bcbf143e5d",
-  type: "module",
+  type: "page-type/module",
   slug: "treasure-casts",
   definition: "what an untyped table the game hands over is taken to be",
   code: "ts",

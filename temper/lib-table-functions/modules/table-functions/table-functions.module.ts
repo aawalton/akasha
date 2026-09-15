@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const tableFunctions = {
   id: "01a06052-2ca4-7874-a41d-3892986d9cdd",
-  type: "module",
+  type: "page-type/module",
   slug: "table-functions",
   definition: "searching, copying, printing, sorting and resetting a Lua table",
   code: "ts",

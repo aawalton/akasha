@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const slashCommand = {
   id: "01a06066-8401-7395-abd7-61fa46d501e7",
-  type: "module",
+  type: "page-type/module",
   slug: "slash-command",
   definition: "one slash command, its aliases, its callback and the commands beneath it",
   code: "ts",
