@@ -3,7 +3,7 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import {
-  textAt,
+  slugAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -88,7 +88,7 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
     if (!pageNamed(path, pageTypes)) continue
     const value = shadow.pageOf(path)
     if (value === null) continue
-    const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+    const pageTypeSlug = slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
     if (pageTypeSlug === null) continue
     const keyed = keyedBy(pageTypeSlug)
     if (keyed.size === 0) continue
