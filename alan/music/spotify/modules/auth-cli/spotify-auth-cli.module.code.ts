@@ -7,6 +7,7 @@ import {
   postToken,
 } from "akasha/alan/music/spotify/modules/auth/spotify-auth.module.code.ts"
 import { getCredentials } from "akasha/alan/music/spotify/modules/credentials/spotify-credentials.module.code.ts"
+import type { Fetching } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import {
   readPkce,
   removePkce,
@@ -72,7 +73,7 @@ function generate(): undefined {
   )
 }
 
-async function exchange(args: readonly string[]): Promise<void> {
+async function exchange(args: readonly string[], over?: Fetching): Promise<void> {
   const code = readCodeFlag(args)
   const handoff = readPkce()
   if (handoff == null) {
@@ -85,7 +86,8 @@ async function exchange(args: readonly string[]): Promise<void> {
       code,
       redirect_uri: redirectUri,
       code_verifier: handoff.verifier,
-    })
+    }),
+    over
   )
   const data = await parseTokenResponse(response)
   persistTokenResponse(data, undefined, SPOTIFY_SCOPES)
@@ -93,9 +95,9 @@ async function exchange(args: readonly string[]): Promise<void> {
   console.log("Step 2 — the Spotify tokens are saved.")
 }
 
-export async function runAuthCli(args: readonly string[]): Promise<void> {
+export async function runAuthCli(args: readonly string[], over?: Fetching): Promise<void> {
   if (args[0] === "exchange") {
-    await exchange(args.slice(1))
+    await exchange(args.slice(1), over)
     return
   }
   generate()
