@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const servedTlsCertStale = {
   id: "01a087cb-1b19-7002-b28a-25d4ab8d634e",
-  type: "alert",
+  type: "page-type/alert",
   slug: "served-tls-cert-stale",
   title: "Served TLS cert stale",
   definition: "a listener serves a certificate older than the one cert-manager has issued",

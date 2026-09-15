@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const seaweedfsVolumeHeartbeatStalled = {
   id: "01a06755-62fb-7283-91e9-456e08ff1935",
-  type: "alert",
+  type: "page-type/alert",
   slug: "seaweedfs-volume-heartbeat-stalled",
   title: "SeaweedFS volume heartbeat stalled",
   definition: "a SeaweedFS volume server has stopped reporting itself alive",

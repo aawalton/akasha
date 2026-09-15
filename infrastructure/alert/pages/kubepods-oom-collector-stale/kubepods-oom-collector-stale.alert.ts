@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const kubepodsOomCollectorStale = {
   id: "01a06755-62fa-704d-9db0-1eed16a3bda8",
-  type: "alert",
+  type: "page-type/alert",
   slug: "kubepods-oom-collector-stale",
   title: "Kubepods OOM collector stale",
   definition:

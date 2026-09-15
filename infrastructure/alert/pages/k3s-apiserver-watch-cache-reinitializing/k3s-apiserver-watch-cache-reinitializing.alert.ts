@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const k3sApiserverWatchCacheReinitializing = {
   id: "01a06755-62fa-7cad-916c-cccd22a19c37",
-  type: "alert",
+  type: "page-type/alert",
   slug: "k3s-apiserver-watch-cache-reinitializing",
   title: "K3s apiserver watch cache reinitializing",
   definition: "the k3s apiserver is rebuilding the cache it serves watches from",

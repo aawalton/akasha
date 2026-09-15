@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const nodeCpuPressureHigh = {
   id: "01a06755-62fa-701d-b94b-ae150b97de31",
-  type: "alert",
+  type: "page-type/alert",
   slug: "node-cpu-pressure-high",
   title: "Node CPU pressure high",
   definition: "work on a node is spending a large share of its time waiting for CPU",

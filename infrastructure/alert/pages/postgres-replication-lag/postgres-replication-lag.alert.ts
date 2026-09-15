@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const postgresReplicationLag = {
   id: "01a06755-62fb-73a2-a2fb-eea6379bcf60",
-  type: "alert",
+  type: "page-type/alert",
   slug: "postgres-replication-lag",
   title: "Postgres replication lag",
   definition: "a Postgres replica has fallen behind its primary",

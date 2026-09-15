@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const supersedeCycle = {
   id: "01a06755-62fb-7f7f-a95d-62600889e3ec",
-  type: "alert",
+  type: "page-type/alert",
   slug: "supersede-cycle",
   title: "Supersede loop",
   definition:

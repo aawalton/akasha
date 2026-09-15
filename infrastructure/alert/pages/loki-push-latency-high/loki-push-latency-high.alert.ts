@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const lokiPushLatencyHigh = {
   id: "01a06755-62fa-7ae7-bdf6-d55591a04cae",
-  type: "alert",
+  type: "page-type/alert",
   slug: "loki-push-latency-high",
   title: "Loki push latency high",
   definition: "Loki is taking a long time to accept the logs pushed to it",

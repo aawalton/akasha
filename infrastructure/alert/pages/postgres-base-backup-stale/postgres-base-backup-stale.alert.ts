@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const postgresBaseBackupStale = {
   id: "01a06755-62fa-7f5f-9575-b8816c5392a8",
-  type: "alert",
+  type: "page-type/alert",
   slug: "postgres-base-backup-stale",
   title: "Postgres base backup stale",
   definition: "no Postgres base backup has completed for longer than is allowed",

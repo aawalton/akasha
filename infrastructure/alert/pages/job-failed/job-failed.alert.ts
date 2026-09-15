@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const jobFailed = {
   id: "01a06755-62fa-72bc-bd95-dd17149f5f38",
-  type: "alert",
+  type: "page-type/alert",
   slug: "job-failed",
   title: "Job failed",
   definition: "a job finished without succeeding",

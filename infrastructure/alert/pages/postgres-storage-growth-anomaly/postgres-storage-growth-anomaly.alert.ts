@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const postgresStorageGrowthAnomaly = {
   id: "01a06755-62fb-7e54-93df-01d88f7d9d33",
-  type: "alert",
+  type: "page-type/alert",
   slug: "postgres-storage-growth-anomaly",
   title: "Postgres storage growth anomaly",
   definition: "Postgres is growing on disk faster than it usually does",

@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const certManagerCertExpiringCritical = {
   id: "01a06755-62f9-78f1-bb5d-b36683699dc0",
-  type: "alert",
+  type: "page-type/alert",
   slug: "cert-manager-cert-expiring-critical",
   title: "Cert manager cert expiring critical",
   definition:

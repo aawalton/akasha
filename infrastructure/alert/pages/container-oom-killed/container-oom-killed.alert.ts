@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const containerOomKilled = {
   id: "01a06755-62f9-7fe2-97ef-3a5b58a994c5",
-  type: "alert",
+  type: "page-type/alert",
   slug: "container-oom-killed",
   title: "Container OOM killed",
   definition: "a container was killed for running out of memory",

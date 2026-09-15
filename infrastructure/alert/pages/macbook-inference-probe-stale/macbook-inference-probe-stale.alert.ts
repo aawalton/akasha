@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const macbookInferenceProbeStale = {
   id: "01a06755-62fa-7222-9915-b6b5a1364ae3",
-  type: "alert",
+  type: "page-type/alert",
   slug: "macbook-inference-probe-stale",
   title: "MacBook inference probe stale",
   definition:

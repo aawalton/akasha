@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const postgresWalArchivingFailing = {
   id: "01a06755-62fb-73ec-a1ab-c77b37446884",
-  type: "alert",
+  type: "page-type/alert",
   slug: "postgres-wal-archiving-failing",
   title: "Postgres WAL archiving failing",
   definition: "Postgres is failing to archive its write-ahead log",

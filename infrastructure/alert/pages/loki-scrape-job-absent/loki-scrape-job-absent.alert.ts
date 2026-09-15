@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const lokiScrapeJobAbsent = {
   id: "01a06755-62fa-70b8-8b67-12316c66ad5c",
-  type: "alert",
+  type: "page-type/alert",
   slug: "loki-scrape-job-absent",
   title: "Loki scrape job absent",
   definition: "Prometheus has no Loki job to scrape",

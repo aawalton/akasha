@@ -2,7 +2,7 @@ import type { Alert } from "akasha/infrastructure/alert/alert.page-type.types.ts
 
 export const gitMirrorMetricAbsent = {
   id: "01a06755-62f9-7398-aa41-cb26528ba164",
-  type: "alert",
+  type: "page-type/alert",
   slug: "git-mirror-metric-absent",
   title: "Git mirror metric absent",
   definition: "nothing is reporting whether the repositories are mirrored",
