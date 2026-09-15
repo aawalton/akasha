@@ -350,6 +350,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/modules/path-moving/path-moving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/modules/value-minting/value-minting.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"command/pages/measure/call/measure-call.command.test.ts"}

@@ -4,7 +4,6 @@ import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.te
 import { admitting } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
-import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import {
   idFiled,
@@ -271,7 +270,6 @@ export function relationFiled(
   from: string,
   lines: readonly unknown[]
 ): undefined {
-  filing(root, join(indexEdge.name, PAGE, ID, id, propertySlug, from), lines)
   const named = listedById(readingIn(root), id)
   if (named === null) return
   besideAdded(

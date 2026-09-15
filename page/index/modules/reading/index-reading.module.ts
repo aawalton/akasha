@@ -226,11 +226,11 @@ export const indexReading = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A fixture files a relation beside the page named as well as in the index.",
+      statement: "A fixture files a relation beside the page named.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The naming page's id in that line is the one the index path is keyed by.",
+      statement: "The naming page's id is the id that line carries.",
     },
   ],
 } as const satisfies Module

@@ -12,9 +12,9 @@ import {
 import {
   idFiled,
   listedFiled,
-  namedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { relationFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const ROOT = rootOf(import.meta.path)
@@ -103,7 +103,7 @@ function typed(root: string, slug: string, above: readonly string[]): undefined 
   valueAlsoFiled(root, "page-type", [
     { path, value: { id, pageTypeSlug: "page-type", slug, extends: named } },
   ])
-  for (const one of above) namedFiled(root, `id-${one}`, "extends-type", id, [{ path }])
+  for (const one of above) relationFiled(root, `id-${one}`, "extends-type", id, [{ path }])
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })
   writeFileSync(

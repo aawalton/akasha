@@ -21,12 +21,8 @@ export const indexFiling = {
       statement: "A line is written closed by a line end.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "A page naming a page is filed under the named page's id and the property slug.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
-      statement: "A line is read back only to reach the id a slug is already filed under.",
+      statement: "A line is read back only to reach the path a slug is already filed under.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -63,11 +59,6 @@ export const indexFiling = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "A roster line already at that path is left as the caller wrote it.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "A page type value naming a type above it files the edge that descent is walked down.",
     },
     {
       invariantKind: "invariant-kind/departure",
