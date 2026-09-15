@@ -37,7 +37,6 @@ export const domain = {
     "standard-agent-english-property/warrant",
     "text-property/linked-at",
     "text-property/name",
-    "text-property/plural-slug",
   ],
   type: "page-type",
   slug: "domain",
@@ -45,7 +44,6 @@ export const domain = {
   extends: ["page-type/page"],
   properties: [
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
-    { pageProperty: "text-property/plural-slug", required: false, many: false },
     { pageProperty: "record-property/invariants", required: false, many: true, maxCount: null },
     { pageProperty: "record-property/directives", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/expands", required: false, many: false },

@@ -5,14 +5,12 @@ import type { Invariants } from "akasha/domain/properties/invariants.record-prop
 import type { LinkedAt } from "akasha/domain/properties/linked-at.text-property.types.ts"
 import type { OutputDirectory } from "akasha/domain/properties/output-directory.build-folder-property.types.ts"
 import type { Parts } from "akasha/domain/properties/parts.relation-property.types.ts"
-import type { PluralSlug } from "akasha/domain/properties/plural-slug.text-property.types.ts"
 import type { TunnelRoutes } from "akasha/domain/properties/tunnel-routes.code-file-property.types.ts"
 import type { TypescriptConfig } from "akasha/domain/properties/typescript-config.file-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
 
 export type Domain = Page & {
   definition: Definition
-  pluralSlug?: PluralSlug
   invariants?: Invariants
   directives?: Directives
   expands?: Expands
