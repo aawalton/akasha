@@ -18,7 +18,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/service/workstation/pages/apns-push-notifier/apns-push-notifier.service-workstation.running.code.ts"
+  "akasha/alan/harness/alanwalton-ios-notification/service-workstations/apns-push-notifier/apns-push-notifier.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {

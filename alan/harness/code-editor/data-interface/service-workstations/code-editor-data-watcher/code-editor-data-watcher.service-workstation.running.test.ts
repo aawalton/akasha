@@ -20,7 +20,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/service/workstation/pages/code-editor-data-watcher/code-editor-data-watcher.service-workstation.running.code.ts"
+  "akasha/alan/harness/code-editor/data-interface/service-workstations/code-editor-data-watcher/code-editor-data-watcher.service-workstation.running.code.ts"
 )
 
 function outcomeOf(run: Promise<never>, ms: number): Promise<string> {

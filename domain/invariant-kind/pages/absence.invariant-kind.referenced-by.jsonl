@@ -251,6 +251,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/alanwalton-ios-notification/modules/push-notifier-tick/push-notifier-tick.module.ts","id":"01a069b6-bb6b-79e0-abb9-81217fe400a3"}
 {"propertySlug":"invariant-kind","path":"alan/harness/alanwalton-ios-notification/modules/push-notifying/push-notifying.module.ts","id":"01a0686a-7a57-739f-880c-5afe3034b05a"}
 {"propertySlug":"invariant-kind","path":"alan/harness/alanwalton-ios-notification/modules/push-payload/push-payload.module.ts","id":"01a069b6-bb6b-7ff9-a785-a069880a2e41"}
+{"propertySlug":"invariant-kind","path":"alan/harness/alanwalton-ios-notification/service-workstations/apns-push-notifier/apns-push-notifier.service-workstation.ts","id":"01a06829-0193-7bb7-858d-8cb22b1eb62d"}
 {"propertySlug":"invariant-kind","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts","id":"01a069bc-1aa3-790c-bb5e-db2397ad19ed"}
 {"propertySlug":"invariant-kind","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.ts","id":"01a07899-c5db-720d-b555-089ffd6bae07"}
 {"propertySlug":"invariant-kind","path":"alan/harness/capacity/modules/reading/capacity-reading.module.ts","id":"01a069ba-b018-7b6b-b9a6-18cd82bd54b3"}
@@ -1369,7 +1370,6 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/modules/tick-ratchet/tick-ratchet.module.ts","id":"01a06885-0bab-7001-9235-a701e25dd098"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.ts","id":"01a0686a-7a57-7c23-b825-02e6e8625bad"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.ts","id":"01a05a56-b9f1-77a4-8a3d-6e0424952002"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/apns-push-notifier/apns-push-notifier.service-workstation.ts","id":"01a06829-0193-7bb7-858d-8cb22b1eb62d"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/inference-deploying/inference-deploying.service-workstation.ts","id":"01a09b0e-376c-70a6-9838-96e1f3f656a1"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/persona-email-routing/persona-email-routing.service-workstation.ts","id":"01a0a147-4f53-7e7e-8fb1-00a3014534b0"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/sweep-stray-processes/sweep-stray-processes.service-workstation.ts","id":"01a09cee-2585-7d35-b95e-24ea1f6ace82"}

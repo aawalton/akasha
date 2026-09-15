@@ -1,7 +1,9 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/alan-readout/day-readout-watch-service/day-readout-watch-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/alan-readout/workstation-load-sampler/workstation-load-sampler.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/alanwalton-ios-notification/service-workstations/apns-push-notifier/apns-push-notifier.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/attribute/attributes-relay-service/attributes-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/capacity/relay-service/capacity-relay-service.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/code-editor/data-interface/service-workstations/code-editor-data-watcher/code-editor-data-watcher.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/cost/relay-service/cost-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/email-watch/service-workstations/alan-email-worker/alan-email-worker.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/inbox/count-watch-service/inbox-count-watch-service.service-workstation.ts"}
@@ -14,13 +16,10 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/surplus/relay-service/surplus-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/track/daily/active-calories-service/active-calories-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/track/daily/topic-words-service/topic-words-service.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/apns-push-notifier/apns-push-notifier.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/audit-running/audit-running.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/cluster-deploying/cluster-deploying.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/code-editor-data-watcher/code-editor-data-watcher.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/container-recipe-deploying/container-recipe-deploying.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/dcgm-exporter/dcgm-exporter.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/desktop-wallpaper-setting/desktop-wallpaper-setting.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/eso-addon-deploying/eso-addon-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/great-courses-sync/great-courses-sync.service-workstation.ts"}
@@ -55,6 +54,7 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/wandering-inn-sync/wandering-inn-sync.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/web-app-deploying/web-app-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/workstation-deploying/workstation-deploying.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/telemetry/service-workstations/dcgm-exporter/dcgm-exporter.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"page/service/page-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"temper/watcher/temper-watcher.service-workstation.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-crash-looping-watch-service-reads-as-well.finding.ts","id":"01a08c17-7cf9-77b1-a8f1-3e8340b26b38"}
