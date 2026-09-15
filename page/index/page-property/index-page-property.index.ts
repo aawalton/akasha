@@ -18,7 +18,7 @@ export const indexPageProperty = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "A file is found by the page type, the scoping property and its value, then the property then the value.",
+        "A file is found by the page type, the scoping property and its value, then the property and value.",
     },
     {
       invariantKind: "invariant-kind/departure",
