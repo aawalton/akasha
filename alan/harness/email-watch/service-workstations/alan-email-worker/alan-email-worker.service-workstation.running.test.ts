@@ -19,7 +19,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/service/workstation/pages/alan-email-worker/alan-email-worker.service-workstation.running.code.ts"
+  "akasha/alan/harness/email-watch/service-workstations/alan-email-worker/alan-email-worker.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
