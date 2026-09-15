@@ -2,7 +2,7 @@ import type { PythonModule } from "akasha/code/python-module/python-module.page-
 
 export const esoRigProbe = {
   id: "01a06866-58f8-770f-b723-c2388b0115da",
-  type: "python-module",
+  type: "page-type/python-module",
   slug: "eso-rig-probe",
   definition: "the measurements the rig's acceptance cannot make in shell",
   python: "py",

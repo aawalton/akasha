@@ -2,7 +2,7 @@ import type { PythonModule } from "akasha/code/python-module/python-module.page-
 
 export const voiceSpeechMp3 = {
   id: "01a06815-9efd-7019-8ed2-fb4251b994b0",
-  type: "python-module",
+  type: "page-type/python-module",
   slug: "voice-speech-mp3",
   definition: "a whole rendition encoded as one mp3",
   python: "py",
