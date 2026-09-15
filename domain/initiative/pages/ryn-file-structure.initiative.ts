@@ -8,9 +8,6 @@ export const rynFileStructure = {
   persona: "persona/ryn",
   intentStack: [
     {
-      statement: "A folder is named in the singular.",
-    },
-    {
       statement:
         "A page sits under the page naming it a part rather than in a registry of its own kind.",
       workingMemory:
