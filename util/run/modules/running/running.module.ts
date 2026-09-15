@@ -291,37 +291,7 @@ export const running = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A run is relayed only where a run made here is measured to cost more seconds than a run should.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The first run made here is the run measured.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run under a ceiling is never the run measured.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A relay that will not start leaves every run to be made here.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Whether the relay will start is settled before a run is sent rather than after.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A run the relay answered on is never made a second time here.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A raise the relay sends back says nothing of whether the run was made.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A relayed run goes to a server outliving the run but not the process that started the server.",
+      statement: "Every run is made in the process asking for it.",
     },
     {
       decisionKind: "decision-kind/absence",

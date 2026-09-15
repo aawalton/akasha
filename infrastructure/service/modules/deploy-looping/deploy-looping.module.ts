@@ -122,10 +122,6 @@ export const deployLooping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The deploy runs free of the mark saying a process sits under a run relay.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
         "A deploy a tick starts runs under no ceiling, since nobody is waiting on that call.",
     },

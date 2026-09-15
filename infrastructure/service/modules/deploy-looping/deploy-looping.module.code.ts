@@ -44,7 +44,6 @@ import {
   type Ran,
   systemctl,
 } from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
-import { SERVING_MARKER } from "akasha/util/run/modules/run-relaying/run-relaying.module.code.ts"
 import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
 
@@ -88,7 +87,6 @@ export function deployArgv(root: string, tree: string, slug: string): readonly s
     "--quiet",
     `--unit=${scopeFor(slug)}`,
     RUNTIME_MAX,
-    `--setenv=${SERVING_MARKER}=`,
     "--",
     run.runner,
     join(tree, run.path),

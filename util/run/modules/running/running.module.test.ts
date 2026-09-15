@@ -2,10 +2,6 @@ import { expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
-  relayed,
-  SERVING_MARKER,
-} from "akasha/util/run/modules/run-relaying/run-relaying.module.code.ts"
-import {
   bytes,
   delegatedAt,
   grouped,
@@ -15,52 +11,11 @@ import {
   ownAt,
   ran,
   said,
-  spawnedHere,
 } from "akasha/util/run/modules/running/running.module.code.ts"
 
 const CODE = `${import.meta.dir}/running.module.code.ts`
 
 const MEASURED = { metered: true }
-
-const COSTLY = ["sh", "-c", "i=0; while [ $i -lt 5000 ]; do i=$((i+1)); done"]
-
-const CLEAN = { ...process.env, [SERVING_MARKER]: undefined }
-
-const MARKED = { ...process.env, [SERVING_MARKER]: "1" }
-
-const WHERE = ["sh", "-c", `printf %s "$${SERVING_MARKER}"`]
-
-const SEEING = `
-function servers() {
-  const own = String(process.pid)
-  let seen = 0
-  for (const name of readdirSync("/proc")) {
-    let stat = ""
-    let cmd = ""
-    try {
-      stat = readFileSync("/proc/" + name + "/stat", "utf8")
-      cmd = readFileSync("/proc/" + name + "/cmdline", "utf8")
-    } catch {
-      continue
-    }
-    const after = stat.slice(stat.lastIndexOf(")") + 2).split(" ")
-    if (after[1] === own && cmd.includes("run-serving")) seen += 1
-  }
-  console.log("servers " + String(seen))
-}
-`
-
-const AFTER_COSTLY =
-  `bytes(${JSON.stringify(COSTLY)})\n` +
-  'const done = bytes(["printf", "hi"])\n' +
-  'console.log("said " + new TextDecoder().decode(done.out) + " " + String(done.code))\n'
-
-function childSaying(body: string, env: Record<string, string | undefined> = CLEAN): string {
-  const source =
-    'import { readdirSync, readFileSync } from "node:fs"\n' +
-    `import { bytes } from ${JSON.stringify(CODE)}\n${SEEING}\n${body}servers()\n`
-  return said(["bun", "-e", source], { env }).trim()
-}
 
 test("a command exiting zero is answered as zero and what it printed", () => {
   expect(ran(["sh", "-c", "printf hello"])).toMatchObject({
@@ -147,12 +102,12 @@ test("a process run after a bigger one is answered its own peak rather than the 
 
 test("a caller is answered whether the peak answered was measured", () => {
   expect(ran(["true"], MEASURED).peakMeasured).toBe(true)
-  expect(spawnedHere(["true"], MEASURED).peakMeasured).toBe(true)
+  expect(bytes(["true"], MEASURED).peakMeasured).toBe(true)
 })
 
 test("a process nobody asked to measure is answered as having reached no peak", () => {
-  expect(spawnedHere(["true"]).peakBytes).toBe(0)
-  expect(spawnedHere(["true"]).peakMeasured).toBe(false)
+  expect(bytes(["true"]).peakBytes).toBe(0)
+  expect(bytes(["true"]).peakMeasured).toBe(false)
 })
 
 test("a ceiling asks for the group a measure asks for", () => {
@@ -163,7 +118,7 @@ test("a ceiling asks for the group a measure asks for", () => {
 })
 
 test("a program no path names raises rather than being answered", () => {
-  expect(() => spawnedHere(["no-such-program-on-any-path"])).toThrow(/no-such-program/)
+  expect(() => bytes(["no-such-program-on-any-path"])).toThrow(/no-such-program/)
 })
 
 test("the run that made a group is named in the group's name", () => {
@@ -204,23 +159,9 @@ test("a group left is emptied and taken away with every group inside it", async 
 })
 
 test("a group that cannot be taken away once its run is over is said aloud", () => {
-  const inner = `import { spawnedHere } from ${JSON.stringify(CODE)}; `
-  const run = 'spawnedHere(["sh", "-c", "sleep 2 >/dev/null 2>&1 &"], { metered: true })'
+  const inner = `import { bytes } from ${JSON.stringify(CODE)}; `
+  const run = 'bytes(["sh", "-c", "sleep 2 >/dev/null 2>&1 &"], { metered: true })'
   expect(ran(["bun", "-e", inner + run]).err).toMatch(/a group was left at .* 1 processes/)
-})
-
-test("a run relayed is answered the peak a run made here is answered", () => {
-  const argv = ["bun", "-e", "new Uint8Array(80e6).fill(1)"]
-  const here = spawnedHere(argv, MEASURED).peakBytes
-  const there = relayed(argv, MEASURED).peakBytes
-  expect(Math.abs(there - here)).toBeLessThan(here / 2)
-})
-
-test("a run relayed says its peak was measured as a run made here does", () => {
-  expect(relayed(["true"], MEASURED).peakMeasured).toBe(
-    spawnedHere(["true"], MEASURED).peakMeasured
-  )
-  expect(relayed(["true"]).peakMeasured).toBe(spawnedHere(["true"]).peakMeasured)
 })
 
 test("a process given a ceiling is ended at that many processor seconds", () => {
@@ -316,58 +257,6 @@ test("what a process says on its output stream comes back as the bytes it wrote"
 test("bytes a reader could not read as text come back whole", () => {
   const done = bytes(["printf", "\\377\\376"])
   expect([...done.out]).toEqual([255, 254])
-})
-
-test("a run measured to cost no more than a run should leaves the runs after it here", () => {
-  expect(childSaying('bytes(["true"])\nbytes(["true"])\nbytes(["true"])\n')).toBe("servers 0")
-})
-
-test("a run measured to cost more than a run should sends the runs after it to a server", () => {
-  expect(childSaying(AFTER_COSTLY)).toBe("said hi 0\nservers 1")
-})
-
-test("a run relayed is answered as the same run made here is", () => {
-  const runs = [
-    ["sh", "-c", "printf out; printf err 1>&2; exit 3"],
-    ["sh", "-c", "kill -KILL $$"],
-    ["printf", "\\377\\376"],
-  ]
-  for (const argv of runs) {
-    const here = spawnedHere(argv)
-    const there = relayed(argv)
-    expect(there.code).toBe(here.code)
-    expect(there.signal).toBe(here.signal)
-    expect([...there.out]).toEqual([...here.out])
-    expect(there.err).toBe(here.err)
-  }
-})
-
-test("a run under a ceiling is never the run the roads are measured by", () => {
-  const body =
-    `bytes(${JSON.stringify(COSTLY)}, { cpuCeiling: 30 })\n` + 'bytes(["true"])\nbytes(["true"])\n'
-  expect(childSaying(body)).toBe("servers 0")
-})
-
-test("a process marked as the server itself makes every run here and starts no server", () => {
-  expect(childSaying(AFTER_COSTLY, MARKED)).toBe("said hi 0\nservers 0")
-})
-
-test("a run the server raises on is raised rather than made a second time here", () => {
-  const body =
-    `bytes(${JSON.stringify(COSTLY)})\n` +
-    'try { bytes(["no-such-program-on-any-path"]) } catch { console.log("raised") }\n' +
-    `const done = bytes(${JSON.stringify(WHERE)})\n` +
-    'console.log("where " + new TextDecoder().decode(done.out))\n'
-  expect(childSaying(body)).toBe("raised\nwhere 1\nservers 1")
-})
-
-test("a raise the server sends back says the run may already have been made", () => {
-  const body =
-    `bytes(${JSON.stringify(COSTLY)})\n` +
-    'try { bytes(["no-such-program-on-any-path"]) } catch (raised) {\n' +
-    '  console.log("why " + String(raised.message.includes("may already have been made")))\n' +
-    "}\n"
-  expect(childSaying(body)).toBe("why true\nservers 1")
 })
 
 const ROOM = 4096

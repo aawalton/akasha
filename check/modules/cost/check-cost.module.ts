@@ -58,35 +58,11 @@ export const checkCost = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run relayed to a server is no child.",
+      statement: "Every run a process makes is a child of that process.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The kernel counts nothing of that run here.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The seconds such a run burned are read from the module that relayed the run.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The server a run is relayed to is itself a live child.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The seconds counted of that server are its own rather than the runs it relayed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The three are added.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The kernel's seconds count only the runs the relaying module cannot see.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The relaying module's seconds count only the runs the kernel cannot see.",
+      statement: "The reaped seconds and the live ones are added.",
     },
     {
       decisionKind: "decision-kind/departure",

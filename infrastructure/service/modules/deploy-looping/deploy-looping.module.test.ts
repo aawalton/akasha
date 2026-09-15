@@ -16,7 +16,6 @@ import {
   scopeLoaded,
 } from "akasha/infrastructure/service/modules/deploy-looping/deploy-looping.module.code.ts"
 import type { Running } from "akasha/infrastructure/service/workstation/modules/service-asking/service-asking.module.code.ts"
-import { SERVING_MARKER } from "akasha/util/run/modules/run-relaying/run-relaying.module.code.ts"
 
 function candidate(slug: string): Candidate {
   return {
@@ -38,7 +37,6 @@ test("a deploy is run from the tree, under a scope of its own", () => {
   const argv = deployArgv(process.cwd(), "/tree", "temper-web")
   expect(argv).not.toHaveProperty("refused")
   const words = argv as readonly string[]
-  expect(words).toContain(`--setenv=${SERVING_MARKER}=`)
   expect(words).toContain("--scope")
   expect(words).toContain(`--unit=${scopeFor("temper-web")}`)
   expect(words).toContain("deploy")

@@ -6,7 +6,6 @@ import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.m
 import { uncommittedPartAt } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
 import { sizeOnDisk } from "akasha/util/fs/modules/file-size/file-size.module.code.ts"
 import { textOnDisk } from "akasha/util/fs/modules/text-on-disk/text-on-disk.module.code.ts"
-import { spentRelaying } from "akasha/util/run/modules/run-relaying/run-relaying.module.code.ts"
 
 const ENTRIES = "entries"
 
@@ -146,7 +145,7 @@ function childSeconds(): number {
     const before = reapedSeconds()
     const live = liveSeconds()
     const after = reapedSeconds()
-    if (before === after || readings >= READINGS_AT_MOST) return after + live + spentRelaying()
+    if (before === after || readings >= READINGS_AT_MOST) return after + live
   }
 }
 

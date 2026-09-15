@@ -10,12 +10,6 @@ import {
 } from "node:fs"
 import { dirname, join } from "node:path"
 import { pidAliveOrAssumeAlive } from "akasha/util/process/modules/pid-signal/pid-signal.module.code.ts"
-import {
-  parseServingMarker,
-  relayed,
-  relayOpened,
-  SERVING_MARKER,
-} from "akasha/util/run/modules/run-relaying/run-relaying.module.code.ts"
 
 export const NO_CODE = -1
 
@@ -351,7 +345,7 @@ export function grouped(asked: Asked): boolean {
   )
 }
 
-export function spawnedHere(argv: readonly string[], asked: Asked = {}): Held {
+export function bytes(argv: readonly string[], asked: Asked = {}): Held {
   const ceiling = asked.cpuCeiling
   const held = asked.memoryCeiling
   const found = foundFor(argv, asked)
@@ -386,26 +380,6 @@ export function spawnedHere(argv: readonly string[], asked: Asked = {}): Held {
     watch?.kill()
     if (at !== null) swept(at)
   }
-}
-
-const TOLL = 0.002
-
-let relaying = false
-
-let measured = false
-
-export function bytes(argv: readonly string[], asked: Asked = {}): Held {
-  if (relaying) {
-    if (relayOpened()) return relayed(argv, asked)
-    relaying = false
-    return spawnedHere(argv, asked)
-  }
-  const done = spawnedHere(argv, asked)
-  if (!measured && asked.cpuCeiling === undefined) {
-    measured = true
-    relaying = done.cpuSeconds > TOLL && !parseServingMarker(process.env[SERVING_MARKER])
-  }
-  return done
 }
 
 export function endingOf(code: number, signal: string | null): string {

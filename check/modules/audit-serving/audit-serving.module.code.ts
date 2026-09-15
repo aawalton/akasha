@@ -44,11 +44,7 @@ import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.modul
 import { textOnDisk } from "akasha/util/fs/modules/text-on-disk/text-on-disk.module.code.ts"
 import { requireEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
-import {
-  endingOf,
-  type Held,
-  spawnedHere,
-} from "akasha/util/run/modules/running/running.module.code.ts"
+import { bytes, endingOf, type Held } from "akasha/util/run/modules/running/running.module.code.ts"
 import { waitedForRoom } from "akasha/util/system/modules/landing-admission/landing-admission.module.code.ts"
 import { counted } from "akasha/util/text/modules/counted/counted.module.code.ts"
 
@@ -188,7 +184,7 @@ export const spawning: Running = async (one) => {
     const cpu = one.auditCeiling ?? null
     const memory = one.auditMemoryMb ?? null
     const began = Date.now()
-    const done = spawnedHere([BUN, childAt(one.root), one.root, one.slug, at], {
+    const done = bytes([BUN, childAt(one.root), one.root, one.slug, at], {
       cwd: one.root,
       metered: true,
       ...(cpu === null ? {} : { cpuCeiling: cpu }),
