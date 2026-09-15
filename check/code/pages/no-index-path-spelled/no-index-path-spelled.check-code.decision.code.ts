@@ -11,6 +11,20 @@ const INDEX = "index"
 
 const AT = indexNamed()
 
+const NAMED = /[A-Za-z0-9._-]$/
+
+const PARTED_BY = "/"
+
+function pathInto(text: string): boolean {
+  for (let at = text.indexOf(AT); at !== -1; at = text.indexOf(AT, at + 1)) {
+    if (NAMED.test(text.slice(0, at))) continue
+    const after = text[at + AT.length]
+    if (after !== undefined && after !== PARTED_BY) continue
+    return true
+  }
+  return false
+}
+
 const SAID = "where the index sits is said by `index-reading`, and asked of it rather than spelt"
 
 export function found(
@@ -23,7 +37,7 @@ export function found(
   if (pageNamed(path, pageTypes)) return []
   const said: string[] = []
   for (const one of spelledIn(path, text)) {
-    if (!one.text.includes(AT)) continue
+    if (!pathInto(one.text)) continue
     said.push(`\`${shortened(one.text)}\` spells a path into the index — ${SAID}`)
   }
   return said

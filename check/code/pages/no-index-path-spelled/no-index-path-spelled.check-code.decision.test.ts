@@ -46,6 +46,16 @@ test("a long string carrying the path is shortened where the refusal names it", 
   expect(said[0]).toContain("…")
 })
 
+test("a name the index folder's name only ends is no path into the index", () => {
+  const body = `const at = "akasha/page/index/identity/index-identity${AT}.code.ts"\n`
+  expect(reasonsIn(HELD, body)).toEqual([])
+})
+
+test("a name carrying the index folder's name inside a word is no path into the index", () => {
+  const body = `const kind = "application/vnd.oci.image${AT}.v1+json"\n`
+  expect(reasonsIn(HELD, body)).toEqual([])
+})
+
 test("a page asks the index nothing, so a page is passed over", () => {
   const body = `export const held = {\n  evidence: "measured at ${AT}/identity/module/slug",\n}\n`
   expect(reasonsIn(PAGE, body)).toEqual([])

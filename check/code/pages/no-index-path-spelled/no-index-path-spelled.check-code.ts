@@ -4,8 +4,7 @@ export const noIndexPathSpelled = {
   id: "01a05350-50b5-76df-9760-b09c77c2ee7c",
   type: "check-code",
   slug: "no-index-path-spelled",
-  definition:
-    "the check refusing code outside the index folder that spells a path into the index",
+  definition: "the check refusing code outside the index folder that spells a path into the index",
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -37,6 +36,15 @@ export const noIndexPathSpelled = {
     {
       invariantKind: "departure",
       statement: "Every string a body has is read rather than the specifiers alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index folder's name counts only where it is a whole path segment.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A name the index folder's name only ends, as an `index` page's file does, is not seen.",
     },
     {
       invariantKind: "absence",
