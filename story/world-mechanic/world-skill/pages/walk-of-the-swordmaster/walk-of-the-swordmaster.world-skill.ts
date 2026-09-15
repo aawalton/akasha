@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const walkOfTheSwordmaster = {
   id: "01a0657d-032c-762c-afef-044e628f29eb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "walk-of-the-swordmaster",
   title: "Walk of the Swordmaster",
   world: "world/the-wandering-inn",

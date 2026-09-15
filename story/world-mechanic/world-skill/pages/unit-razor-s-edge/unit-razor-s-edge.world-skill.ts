@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const unitRazorSEdge = {
   id: "01a0657d-031f-7c66-802b-8c454f7d3728",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "unit-razor-s-edge",
   title: "Unit: Razor’s Edge",
   world: "world/the-wandering-inn",

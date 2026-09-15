@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const tribeFleetFoot = {
   id: "01a0657d-0316-77bc-8471-10388b2fa404",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "tribe-fleet-foot",
   title: "Tribe: Fleet Foot",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const untraceableAssailant = {
   id: "01a0657d-0320-70ba-a204-3e9fdbc8dfb0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "untraceable-assailant",
   title: "Untraceable Assailant",
   world: "world/the-wandering-inn",

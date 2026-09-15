@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const universalFaith = {
   id: "01a0657d-031f-734c-ae9e-3360b94e2e0b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "universal-faith",
   title: "Universal Faith",
   world: "world/the-wandering-inn",

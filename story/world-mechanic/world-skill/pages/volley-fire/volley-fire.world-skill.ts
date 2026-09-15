@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const volleyFire = {
   id: "01a0657d-032b-7bbc-a9d2-63ed7f9ec729",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "volley-fire",
   title: "Volley Fire",
   world: "world/the-wandering-inn",

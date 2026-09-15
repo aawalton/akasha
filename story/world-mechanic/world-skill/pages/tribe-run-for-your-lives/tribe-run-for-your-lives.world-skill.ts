@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const tribeRunForYourLives = {
   id: "01a0657d-0316-7b31-b2e1-c35f6d3ed8ff",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "tribe-run-for-your-lives",
   title: "Tribe: Run For Your Lives",
   world: "world/the-wandering-inn",

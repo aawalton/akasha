@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const unpredictableInsight = {
   id: "01a0657d-031f-7787-861d-c1e59cf7f978",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "unpredictable-insight",
   title: "Unpredictable Insight",
   world: "world/the-wandering-inn",

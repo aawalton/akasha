@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const trickleChargeWalking = {
   id: "01a0657d-0317-7675-9abe-a96f421fbfd6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "trickle-charge-walking",
   title: "Trickle Charge: Walking",
   world: "world/the-wandering-inn",

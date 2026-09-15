@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const vanguardCleavingArcs = {
   id: "01a0657d-0320-7d22-9f99-c6661b4cb49b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "vanguard-cleaving-arcs",
   title: "Vanguard: Cleaving Arcs",
   world: "world/the-wandering-inn",

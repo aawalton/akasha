@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const wagerSet = {
   id: "01a0657d-032c-723f-b496-c1335bacae1a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "wager-set",
   title: "Wager Set",
   world: "world/the-wandering-inn",

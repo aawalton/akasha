@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const ultimateMordhau = {
   id: "01a0657d-031e-782b-a8ed-07d62ea5efed",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ultimate-mordhau",
   title: "Ultimate Mordhau",
   world: "world/the-wandering-inn",

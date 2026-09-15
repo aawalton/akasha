@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const unstoppableAdvance = {
   id: "01a0657d-031f-7686-89d4-e62578dc39b8",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "unstoppable-advance",
   title: "Unstoppable Advance",
   world: "world/the-wandering-inn",

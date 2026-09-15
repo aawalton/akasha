@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const unimpedingAccoutrements = {
   id: "01a0657d-031e-7547-8e7b-83356cb7b7b2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "unimpeding-accoutrements",
   title: "Unimpeding Accoutrements",
   world: "world/the-wandering-inn",

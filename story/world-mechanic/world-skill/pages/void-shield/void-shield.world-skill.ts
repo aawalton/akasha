@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const voidShield = {
   id: "01a0657d-0321-73c2-89b4-2dd2335fa94c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "void-shield",
   title: "Void Shield",
   world: "world/the-wandering-inn",

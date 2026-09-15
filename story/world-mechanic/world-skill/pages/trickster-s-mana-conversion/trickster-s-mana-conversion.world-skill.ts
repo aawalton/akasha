@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const tricksterSManaConversion = {
   id: "01a0657d-0317-7431-a081-4385817a315d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "trickster-s-mana-conversion",
   title: "Trickster’s Mana Conversion",
   world: "world/the-wandering-inn",

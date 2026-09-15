@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const unitasisNetwork = {
   id: "01a0657d-031f-708f-b1a5-22beac1287f3",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "unitasis-network",
   title: "Unitasis Network",
   world: "world/the-wandering-inn",

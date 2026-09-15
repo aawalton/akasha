@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const unstoppableHalfGiantSPush = {
   id: "01a0657d-031f-75ab-a214-5a55adc5fea3",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "unstoppable-half-giant-s-push",
   title: "Unstoppable Half-Giant’s Push",
   world: "world/the-wandering-inn",

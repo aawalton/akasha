@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const visionOfADream = {
   id: "01a0657d-0320-7ee2-96c2-adf92a962419",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "vision-of-a-dream",
   title: "Vision of a Dream",
   world: "world/the-wandering-inn",

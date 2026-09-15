@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const unitIncendiaryProvocation = {
   id: "01a0657d-031f-75f2-9a5d-df223185c5f4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "unit-incendiary-provocation",
   title: "Unit: Incendiary Provocation",
   world: "world/the-wandering-inn",

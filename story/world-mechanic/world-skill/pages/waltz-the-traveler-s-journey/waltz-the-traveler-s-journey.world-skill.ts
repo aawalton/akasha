@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const waltzTheTravelerSJourney = {
   id: "01a0657d-032c-7e4a-b611-6bbd3a1d2631",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "waltz-the-traveler-s-journey",
   title: "Waltz: The Traveler’s Journey",
   world: "world/the-wandering-inn",

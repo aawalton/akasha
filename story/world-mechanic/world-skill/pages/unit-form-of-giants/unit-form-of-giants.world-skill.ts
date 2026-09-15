@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const unitFormOfGiants = {
   id: "01a0657d-031f-7b7a-b3eb-a5d5f4546192",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "unit-form-of-giants",
   title: "Unit: Form of Giants",
   world: "world/the-wandering-inn",

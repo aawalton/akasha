@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const vesselOfAlchemy = {
   id: "01a0657d-0320-7ed1-9c25-6552984e2e85",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "vessel-of-alchemy",
   title: "Vessel of Alchemy",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const tribeRapidReload = {
   id: "01a0657d-0316-71c1-abe0-2744d4921bbf",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "tribe-rapid-reload",
   title: "Tribe: Rapid Reload",
   world: "world/the-wandering-inn",

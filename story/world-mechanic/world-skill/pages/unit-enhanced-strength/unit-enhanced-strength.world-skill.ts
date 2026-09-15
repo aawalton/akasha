@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const unitEnhancedStrength = {
   id: "01a0657d-031f-7d17-bf14-bc59741a35cc",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "unit-enhanced-strength",
   title: "Unit: Enhanced Strength",
   world: "world/the-wandering-inn",

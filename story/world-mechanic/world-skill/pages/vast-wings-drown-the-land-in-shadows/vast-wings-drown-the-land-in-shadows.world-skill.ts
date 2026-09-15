@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const vastWingsDrownTheLandInShadows = {
   id: "01a0657d-0320-7d9e-a61a-61e62239a154",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "vast-wings-drown-the-land-in-shadows",
   title: "Vast Wings Drown the Land in Shadows",
   world: "world/the-wandering-inn",

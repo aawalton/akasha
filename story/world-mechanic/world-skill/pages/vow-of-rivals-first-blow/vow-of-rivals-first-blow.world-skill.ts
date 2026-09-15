@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const vowOfRivalsFirstBlow = {
   id: "01a0657d-032c-7889-b412-e0d7001676a6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "vow-of-rivals-first-blow",
   title: "Vow of Rivals: First Blow",
   world: "world/the-wandering-inn",

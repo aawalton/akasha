@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const unitasisSharedSkillFlawlessShot = {
   id: "01a0657d-031f-743b-af47-1ac025d12ffb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "unitasis-shared-skill-flawless-shot",
   title: "Unitasis Shared Skill: Flawless Shot",
   world: "world/the-wandering-inn",

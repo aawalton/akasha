@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const tripleSlash = {
   id: "01a0657d-0317-7bda-a6f9-0a1fe47ba707",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "triple-slash",
   title: "Triple Slash",
   world: "world/the-wandering-inn",

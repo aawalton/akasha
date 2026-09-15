@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const visualizeStatisticFavorability = {
   id: "01a0657d-0320-759f-807f-43775c3ee588",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "visualize-statistic-favorability",
   title: "Visualize Statistic: Favorability",
   world: "world/the-wandering-inn",

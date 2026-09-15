@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const wardOfRepulsion = {
   id: "01a0657d-032c-7399-8ad2-0a4776b74170",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ward-of-repulsion",
   title: "Ward of Repulsion",
   world: "world/the-wandering-inn",

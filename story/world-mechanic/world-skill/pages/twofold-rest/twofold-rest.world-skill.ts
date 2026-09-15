@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const twofoldRest = {
   id: "01a0657d-031e-7367-8198-c0b8465d0d56",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "twofold-rest",
   title: "Twofold Rest",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const vesselOfOneself = {
   id: "01a0657d-0320-7ac4-bb8c-5c014d1511f6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "vessel-of-oneself",
   title: "Vessel of Oneself",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const unitTailorFreshAttire = {
   id: "01a0657d-031f-7e37-8604-2e089aa8e3e9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "unit-tailor-fresh-attire",
   title: "Unit: Tailor-Fresh Attire",
   world: "world/the-wandering-inn",

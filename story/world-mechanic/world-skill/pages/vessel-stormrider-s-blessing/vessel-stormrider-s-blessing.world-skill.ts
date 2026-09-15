@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const vesselStormriderSBlessing = {
   id: "01a0657d-0320-7039-a493-a055a59bcc95",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "vessel-stormrider-s-blessing",
   title: "Vessel: Stormrider’s Blessing",
   world: "world/the-wandering-inn",

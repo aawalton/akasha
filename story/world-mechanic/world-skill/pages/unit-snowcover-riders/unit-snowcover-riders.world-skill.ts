@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const unitSnowcoverRiders = {
   id: "01a0657d-031f-7f60-8bc2-a5c0ddcb7782",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "unit-snowcover-riders",
   title: "Unit: Snowcover Riders",
   world: "world/the-wandering-inn",
