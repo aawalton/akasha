@@ -2,7 +2,7 @@ import type { BannedTerm } from "akasha/domain/standard-agent-english/term/banne
 
 export const holdInside = {
   id: "01a081fe-3ea9-770a-9afd-6d05c8f610b6",
-  type: "banned-term",
+  type: "page-type/banned-term",
   slug: "hold-inside",
   spelling: "hold",
   variants: ["holds", "holding", "held"],
