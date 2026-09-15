@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0294TwoHundredNinetyTwoWhenWishingWasHavingIii = {
   id: "01a06730-4f2d-7013-a318-61c8731fde92",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0294-two-hundred-ninety-two-when-wishing-was-having-iii",
   title: "TWO HUNDRED NINETY-TWO: When Wishing Was Having III",
   story: "story-read/super-supportive",

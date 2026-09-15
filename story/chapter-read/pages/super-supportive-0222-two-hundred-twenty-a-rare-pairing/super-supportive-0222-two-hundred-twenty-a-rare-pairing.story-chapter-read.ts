@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0222TwoHundredTwentyARarePairing = {
   id: "01a06730-4efe-744e-b4be-4c8ad9c14536",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0222-two-hundred-twenty-a-rare-pairing",
   title: "TWO HUNDRED TWENTY: A Rare Pairing",
   story: "story-read/super-supportive",

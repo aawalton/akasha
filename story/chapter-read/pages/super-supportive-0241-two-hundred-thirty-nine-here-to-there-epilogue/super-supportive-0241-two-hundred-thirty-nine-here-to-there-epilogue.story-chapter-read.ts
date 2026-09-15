@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0241TwoHundredThirtyNineHereToThereEpilogue = {
   id: "01a06730-4f08-7818-aaef-2b5c7953fbb9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0241-two-hundred-thirty-nine-here-to-there-epilogue",
   title: "TWO HUNDRED THIRTY-NINE: Here-to-There Epilogue",
   story: "story-read/super-supportive",

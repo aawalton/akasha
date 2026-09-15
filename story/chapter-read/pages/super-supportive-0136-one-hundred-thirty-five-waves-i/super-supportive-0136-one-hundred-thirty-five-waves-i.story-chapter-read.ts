@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0136OneHundredThirtyFiveWavesI = {
   id: "01a06730-4eae-732c-9495-d9d14e8f2b72",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0136-one-hundred-thirty-five-waves-i",
   title: "ONE HUNDRED THIRTY-FIVE: Waves I",
   story: "story-read/super-supportive",

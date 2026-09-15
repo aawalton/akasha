@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0301TwoHundredNinetyNineBonusPointsForTheStraightforward = {
   id: "01a06730-4f31-763a-a187-39fb4e857b72",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0301-two-hundred-ninety-nine-bonus-points-for-the-straightforward",
   title: "TWO HUNDRED NINETY-NINE: Bonus Points for the Straightforward",
   story: "story-read/super-supportive",

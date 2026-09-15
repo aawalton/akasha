@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0281TwoHundredSeventyNineCareening = {
   id: "01a06730-4f20-711c-b693-e676d8fcd60d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0281-two-hundred-seventy-nine-careening",
   title: "TWO HUNDRED SEVENTY-NINE: Careening",
   story: "story-read/super-supportive",
