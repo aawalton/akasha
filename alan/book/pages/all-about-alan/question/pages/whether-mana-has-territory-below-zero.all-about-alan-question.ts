@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherManaHasTerritoryBelowZero = {
   id: "01a077ea-8987-7e52-b3e1-9e73274d256c",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-mana-has-territory-below-zero",
   topic: "all-about-alan-topic/mana-bar",
   ask: "Nothing below zero has surfaced for mana. Is there no territory below zero, is there territory I have not reached, or have I reached it and the stoplight is too coarse to show it?",

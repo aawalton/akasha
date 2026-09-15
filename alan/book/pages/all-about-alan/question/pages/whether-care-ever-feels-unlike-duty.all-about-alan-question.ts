@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherCareEverFeelsUnlikeDuty = {
   id: "01a077e3-3643-779b-8fa5-a066fda5a9ed",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-care-ever-feels-unlike-duty",
   topic: "all-about-alan-topic/reading-myself-before-the-words",
   ask: "When an emotion word comes up I either read a tell in myself or match the word to its definition. Do generosity and forward-going care ever feel different from cold duty?",

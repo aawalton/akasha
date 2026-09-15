@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherDanceClassesBeganMyBodyControl = {
   id: "01a077f0-9abd-770b-a199-7f87a63b712b",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-dance-classes-began-my-body-control",
   topic: "all-about-alan-topic/the-best-three-years",
   ask: "Are the dance classes I took in those three years the start of my body-control arc?",

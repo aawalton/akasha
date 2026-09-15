@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherEffortPerUpdateStaysConstant = {
   id: "01a077e9-010a-72a4-bfe4-c5e7082f704b",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-effort-per-update-stays-constant",
   topic: "all-about-alan-topic/what-it-costs-someone-to-know-me",
   ask: "Does the effort per update stay constant, or change as the model someone already holds of me gets richer?",

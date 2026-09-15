@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherComprehensionStillDoesMyRegulation = {
   id: "01a077ed-80dc-74e0-969f-6b5a20682d48",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-comprehension-still-does-my-regulation",
   topic: "all-about-alan-topic/why-settling-a-question-steadies-me",
   ask: "Is comprehension still doing my regulation now, or only where it started, and is the route from foundations into safety a second route or the same one arriving twice?",

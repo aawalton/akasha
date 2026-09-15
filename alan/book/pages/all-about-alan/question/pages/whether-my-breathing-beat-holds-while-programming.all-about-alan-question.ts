@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherMyBreathingBeatHoldsWhileProgramming = {
   id: "01a077ea-34fa-752b-8daa-576f823ec937",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-my-breathing-beat-holds-while-programming",
   topic: "all-about-alan-topic/how-i-actually-breathe",
   ask: "Does my one-second beat hold through programming as well as it holds through walking?",

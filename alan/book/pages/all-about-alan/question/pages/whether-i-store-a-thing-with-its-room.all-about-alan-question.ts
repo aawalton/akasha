@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherIStoreAThingWithItsRoom = {
   id: "01a077da-697b-7d23-b996-4e0b2f380452",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-i-store-a-thing-with-its-room",
   topic: "all-about-alan-topic/how-i-remember-anything",
   ask: "Most people store a thing together with the room they learned it in and I do not. Does that absence reach past skills and imagery?",

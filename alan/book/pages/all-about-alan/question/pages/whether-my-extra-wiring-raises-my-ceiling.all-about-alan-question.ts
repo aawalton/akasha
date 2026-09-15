@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherMyExtraWiringRaisesMyCeiling = {
   id: "01a077ef-d2c0-74d6-bc52-245a852818c6",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-my-extra-wiring-raises-my-ceiling",
   topic: "all-about-alan-topic/why-too-much-and-too-little-swap-over",
   ask: "Does the extra wiring raise my ceiling too, so more attention is available when the metering holds, or does the wiring only change what I draw at rest?",

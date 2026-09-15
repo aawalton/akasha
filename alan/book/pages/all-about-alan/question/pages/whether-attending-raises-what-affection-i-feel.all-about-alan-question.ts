@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherAttendingRaisesWhatAffectionIFeel = {
   id: "01a077ed-59a1-7496-b61e-e7d44e14d1cf",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-attending-raises-what-affection-i-feel",
   topic: "all-about-alan-topic/feeling-affection",
   ask: "Does deliberately attending during affectionate moments raise what I feel, the way a quiet room raises a body signal, or does attention over-amplify a quiet signal?",

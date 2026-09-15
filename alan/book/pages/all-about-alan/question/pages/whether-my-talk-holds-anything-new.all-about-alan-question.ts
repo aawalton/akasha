@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherMyTalkHoldsAnythingNew = {
   id: "01a077e9-0816-7a6d-8224-4cefb58b08e4",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-my-talk-holds-anything-new",
   topic: "all-about-alan-topic/how-i-read-myself",
   ask: "Does the talk I gave this year, my fullest outside statement on reading myself, hold anything new?",

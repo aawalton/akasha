@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherEmptyingIsWorkOrAState = {
   id: "01a077e6-4efb-767e-9da0-bcb3cac40568",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-emptying-is-work-or-a-state",
   topic: "all-about-alan-topic/what-praying-does-for-me",
   ask: "Is emptying and observing work I do, or a state I already sit in?",

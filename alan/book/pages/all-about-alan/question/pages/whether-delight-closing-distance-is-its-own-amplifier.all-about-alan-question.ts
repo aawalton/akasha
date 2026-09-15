@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherDelightClosingDistanceIsItsOwnAmplifier = {
   id: "01a077e5-103c-7e4f-857f-ca645f2ed7b8",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-delight-closing-distance-is-its-own-amplifier",
   topic: "all-about-alan-topic/being-met",
   ask: "Is delight closing distance a separate amplifier on top of plain orientation, or the most legible form of plain orientation?",

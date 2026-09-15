@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherMyMapCanLoseCompression = {
   id: "01a077e9-9e09-7085-bcd5-bc3bf62c5c7a",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-my-map-can-lose-compression",
   topic: "all-about-alan-topic/what-i-think-truth-is",
   ask: "Can my map ever lose compression, and what does an old truth-claim mean once the map moves?",

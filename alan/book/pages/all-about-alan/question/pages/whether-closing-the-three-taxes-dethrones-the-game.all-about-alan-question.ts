@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherClosingTheThreeTaxesDethronesTheGame = {
   id: "01a077ed-083c-7fa2-93a3-5645ecf33b67",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-closing-the-three-taxes-dethrones-the-game",
   topic: "all-about-alan-topic/the-version-of-me-i-have-never-met",
   ask: "Real life pays three taxes the game does not: the numbers' meaning drifts, I build every piece myself, and part needs technology that does not exist. Would closing the taxes dethrone the game?",

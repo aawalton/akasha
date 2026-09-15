@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherMySocialCadenceOutrunsRecovery = {
   id: "01a07813-be06-7800-9cc1-27ffdbcb47c7",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-my-social-cadence-outruns-recovery",
   topic: "all-about-alan-topic/sleep",
   ask: "Recovery from a social evening takes a few days and I have social in at least twice a week. Does the next evening land before I have recovered from the one before?",

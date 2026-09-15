@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherMadeOfRelationReachesTheSeed = {
   id: "01a077eb-ea0f-70bd-b12a-21fa5ede049a",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-made-of-relation-reaches-the-seed",
   topic: "all-about-alan-topic/what-kind-of-thing-a-self-is",
   ask: "Does made-of-relation reach the seed underneath, or is a fourth kind of object needed?",

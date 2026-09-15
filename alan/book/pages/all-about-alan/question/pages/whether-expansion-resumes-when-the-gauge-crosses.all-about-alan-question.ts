@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherExpansionResumesWhenTheGaugeCrosses = {
   id: "01a077e6-06ef-7aa2-8f82-85a13d24bd82",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-expansion-resumes-when-the-gauge-crosses",
   topic: "all-about-alan-topic/waiting-until-i-can-afford-people",
   ask: "A calibrated hold and an avoidance built out of masking look the same from outside. Does my expansion actually resume once the gauge crosses?",

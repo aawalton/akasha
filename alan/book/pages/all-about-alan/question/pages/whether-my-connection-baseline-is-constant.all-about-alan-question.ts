@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherMyConnectionBaselineIsConstant = {
   id: "01a077e9-191f-7062-b413-351619aa03f6",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-my-connection-baseline-is-constant",
   topic: "all-about-alan-topic/how-far-behind-i-am-on-people",
   ask: "Is my daily baseline of connection debt constant, or does it scale with my state and with how long since my last hour with someone?",

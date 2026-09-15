@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherEachSafetyStepUnlocksItsClass = {
   id: "01a077ea-3d29-7b84-941f-018d41659e19",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-each-safety-step-unlocks-its-class",
   topic: "all-about-alan-topic/where-safety-has-got-to",
   ask: "Read as recovery milestones rather than numbers, does each step in the one-sigma low unlock its named class: conflict bearable at 4, criticism bearable at 5, conflict recurringly initiate-able at 4?",

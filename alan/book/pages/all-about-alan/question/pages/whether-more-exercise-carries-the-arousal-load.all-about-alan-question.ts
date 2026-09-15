@@ -2,7 +2,7 @@ import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan
 
 export const whetherMoreExerciseCarriesTheArousalLoad = {
   id: "01a077e9-eb8a-74c4-a969-d19881f16498",
-  type: "all-about-alan-question",
+  type: "page-type/all-about-alan-question",
   slug: "whether-more-exercise-carries-the-arousal-load",
   topic: "all-about-alan-topic/what-calms-me-down",
   ask: "Arousal runs the same up-then-down as exercise and returns more per dose. Could far more exercise carry that load instead?",
