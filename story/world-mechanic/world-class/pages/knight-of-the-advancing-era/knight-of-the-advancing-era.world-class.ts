@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const knightOfTheAdvancingEra = {
   id: "01a0657e-137d-7b40-a3c8-5740812c046d",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "knight-of-the-advancing-era",
   title: "Knight of the Advancing Era",
   world: "world/the-wandering-inn",

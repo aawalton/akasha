@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const lineHammerSmiths = {
   id: "01a0657e-138e-77cf-a612-1c47aa1bf9c1",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "line-hammer-smiths",
   title: "Line Hammer-Smiths",
   world: "world/the-wandering-inn",

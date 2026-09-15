@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const knifemasterGangLeader = {
   id: "01a0657e-137c-7511-9c77-012226a9fc70",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "knifemaster-gang-leader",
   title: "Knifemaster Gang Leader",
   world: "world/the-wandering-inn",

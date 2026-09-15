@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const level22SurvivorOfFates = {
   id: "01a0657e-138d-7552-86f2-6bbfd457d2e2",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "level-22-survivor-of-fates",
   title: "Level 22 Survivor of Fates!",
   world: "world/the-wandering-inn",

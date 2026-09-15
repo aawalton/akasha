@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const level33StreetwiseGuardswoman = {
   id: "01a0657e-138d-791e-9d1e-240b95ed3b10",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "level-33-streetwise-guardswoman",
   title: "Level 33 Streetwise Guardswoman!",
   world: "world/the-wandering-inn",

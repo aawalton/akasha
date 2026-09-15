@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const knifeEdgeSlicer = {
   id: "01a0657e-020c-776f-90d9-47883b75f422",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "knife-edge-slicer",
   title: "Knife-edge Slicer",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const knightsOfTheSummer = {
   id: "01a0657e-137d-7b05-9f09-9ee0c3cc6e03",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "knights-of-the-summer",
   title: "Knights of the Summer",
   world: "world/the-wandering-inn",
