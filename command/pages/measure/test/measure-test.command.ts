@@ -118,6 +118,10 @@ export const measureTest = {
       invariantKind: "invariant-kind/departure",
       statement: "An argument this command does not take is refused.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every test file is drawn with the one ceiling every test file is held to.",
+    },
   ],
   name: "test",
   arguments: [{ argument: "argument/run-window" }],

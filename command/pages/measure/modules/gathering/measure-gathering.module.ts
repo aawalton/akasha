@@ -65,5 +65,9 @@ export const measureGathering = {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here draws a table.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every row is drawn with the ceiling the caller hands over.",
+    },
   ],
 } as const satisfies Module

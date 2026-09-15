@@ -5,7 +5,9 @@ import {
   type Chosen,
   type Costs,
   costOf,
+  type Limits,
   latestOf,
+  NO_LIMITS,
   partsIn,
   type Run,
   rankedOf,
@@ -54,14 +56,15 @@ export function costsOf(
   gathered: Gathered,
   now: number,
   chosen: Chosen,
-  keeping: (one: Run) => boolean
+  keeping: (one: Run) => boolean,
+  limits: Limits = NO_LIMITS
 ): Costs {
   const held = gathered.runs.filter(keeping)
   const within =
     chosen.by === "period"
       ? withinOf(held, now, chosen.ms)
       : runningOf(held, rankedOf(latestOf(held), chosen.runs))
-  const rows = [...underRan(within)].map(([ran, runs]) => costOf(ran, runs))
+  const rows = [...underRan(within)].map(([ran, runs]) => costOf(ran, runs, limits))
   return {
     checks: [...rows].sort(byCpu),
     total: totalOf(within),

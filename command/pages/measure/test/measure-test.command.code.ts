@@ -1,6 +1,11 @@
 import { readdirSync } from "node:fs"
 import { join } from "node:path"
-import { linesOf, windowOf } from "akasha/check/modules/measuring/check-measuring.module.code.ts"
+import {
+  type Limits,
+  linesOf,
+  windowOf,
+} from "akasha/check/modules/measuring/check-measuring.module.code.ts"
+import { test as testFile } from "akasha/code/module/properties/test.code-file-property.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { runWindow } from "akasha/command/argument/pages/run-window.argument.ts"
 import { told } from "akasha/command/modules/answering/command-answering.module.code.ts"
@@ -21,6 +26,8 @@ const WALKED_PAST: ReadonlySet<string> = new Set(["node_modules", "dist", "targe
 const UNDER = "/"
 
 const ROOT = ""
+
+const ALLOWED: Limits = { cpu: testFile.maxCpuSeconds, wall: null, mem: testFile.maxMemoryMb }
 
 function rowFilesIn(root: string): readonly string[] {
   const found: string[] = []
@@ -51,6 +58,6 @@ export function measureTest(argv: readonly string[], given: Given): Answer {
   const chose = windowOf(read.taken.runWindow)
   if (chose.chosen === null) return mistaking(chose.refusals)
   const gathered = readIn(given.root, rowFilesIn(given.root))
-  const costs = costsOf(gathered, Date.now(), chose.chosen, (one) => one.phase === TEST)
+  const costs = costsOf(gathered, Date.now(), chose.chosen, (one) => one.phase === TEST, ALLOWED)
   return told([...linesOf(costs, TEST)])
 }
