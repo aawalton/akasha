@@ -17,7 +17,9 @@ import {
   running,
 } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
+  carriedPage,
   HELD_CODE,
+  idOf,
   indexedRepo,
   NAMER_CODE,
   scratch,
@@ -29,6 +31,11 @@ afterAll(scratch.sweep)
 const KEPT = "akasha/one/kept.module.code.ts"
 
 const CARRIED = "akasha/one/carried.module.code.ts"
+
+const PAGES: Readonly<Record<string, string>> = {
+  "akasha/one/kept.module.ts": carriedPage("kept", idOf("d")),
+  "akasha/one/carried.module.ts": carriedPage("carried", idOf("e")),
+}
 
 function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, running)
@@ -106,7 +113,7 @@ test("the path taken away is answered as the move the body arrives by", async ()
 })
 
 test("a move off a path the move before it made reads that path and its importers", async () => {
-  const root = indexedRepo()
+  const root = indexedRepo(PAGES)
   const text = textIn(root)
   const world = worldIn(root, text)
   const first = await runChange(world, { from: HELD_CODE, to: KEPT })
