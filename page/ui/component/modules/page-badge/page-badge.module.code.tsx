@@ -1,6 +1,6 @@
 "use client"
 
-import type { BadgeVariant } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+import type { BadgeVariant } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
 import {
   type PageTypeForInheritance,
   pageTypeChain,

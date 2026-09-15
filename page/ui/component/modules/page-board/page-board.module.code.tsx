@@ -11,7 +11,7 @@ import {
   useSensors,
 } from "@dnd-kit/core"
 import { restrictToHorizontalAxis } from "@dnd-kit/modifiers"
-import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
 import { LoadMoreButton } from "akasha/design/interfaces/layout/modules/load-more-button/load-more-button.module.code.tsx"
 import {
   letGo,

@@ -6,7 +6,7 @@ export const designInterfaces = {
   slug: "design-interfaces",
   definition: "how a thing is drawn on a screen and worked by hand",
   parts: [
-    "domain/design-interfaces-badges",
+    "domain/design-interface-badge",
     "domain/design-interfaces-forms",
     "domain/design-interfaces-layout",
     "domain/design-interfaces-patterns",

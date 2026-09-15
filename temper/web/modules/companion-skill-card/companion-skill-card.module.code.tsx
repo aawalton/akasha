@@ -1,6 +1,6 @@
 "use client"
 
-import { BadgeRow } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+import { BadgeRow } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"

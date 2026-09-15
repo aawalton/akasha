@@ -1,12 +1,12 @@
 import {
   Badge,
   IconBadge,
-} from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+} from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
-} from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { NumberBadge } from "akasha/design/interfaces/badges/modules/number-badge/number-badge.module.code.tsx"
+} from "akasha/design/interfaces/design-interface-badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { NumberBadge } from "akasha/design/interfaces/design-interface-badge/modules/number-badge/number-badge.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"

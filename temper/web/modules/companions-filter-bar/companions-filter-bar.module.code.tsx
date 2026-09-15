@@ -3,7 +3,7 @@
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
-} from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+} from "akasha/design/interfaces/design-interface-badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { AddFilterButton } from "akasha/design/interfaces/patterns/modules/add-filter-button/add-filter-button.module.code.tsx"
 import { addFilterId } from "akasha/design/interfaces/patterns/modules/add-filter-id/add-filter-id.module.code.ts"
 import { FilterButton } from "akasha/design/interfaces/patterns/modules/filter-button/filter-button.module.code.tsx"

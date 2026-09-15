@@ -2213,9 +2213,9 @@
 {"propertySlug":"invariant-kind","path":"command/properties/takes.text-property.ts","id":"01a05027-c468-7573-9eec-f4d1ecd0bced"}
 {"propertySlug":"invariant-kind","path":"command/properties/timeout.number-property.ts","id":"01a0820f-feb2-79e4-8435-06a161f3c6ab"}
 {"propertySlug":"invariant-kind","path":"design/design.domain.ts","id":"01a05b55-a539-7a1c-9bdc-5a459722f028"}
-{"propertySlug":"invariant-kind","path":"design/interfaces/badges/modules/date-badge/date-badge.module.ts","id":"01a05b55-a539-773f-8b28-749123c7df39"}
-{"propertySlug":"invariant-kind","path":"design/interfaces/badges/modules/url-badge/url-badge.module.ts","id":"01a05b55-a539-7bc7-91a9-d5b91de4f605"}
 {"propertySlug":"invariant-kind","path":"design/interfaces/color/color.page-type.ts","id":"01a06575-c2a9-766f-8f09-da30cc969637"}
+{"propertySlug":"invariant-kind","path":"design/interfaces/design-interface-badge/modules/date-badge/date-badge.module.ts","id":"01a05b55-a539-773f-8b28-749123c7df39"}
+{"propertySlug":"invariant-kind","path":"design/interfaces/design-interface-badge/modules/url-badge/url-badge.module.ts","id":"01a05b55-a539-7bc7-91a9-d5b91de4f605"}
 {"propertySlug":"invariant-kind","path":"design/interfaces/design-interfaces.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
 {"propertySlug":"invariant-kind","path":"design/interfaces/layout/modules/app-shell-sidebar/app-shell-sidebar.module.ts","id":"01a05b82-8b98-7341-a3de-18953237e37f"}
 {"propertySlug":"invariant-kind","path":"design/interfaces/patterns/modules/drag-hold/drag-hold.module.ts","id":"01a09093-a35f-7798-8306-75a6528275cb"}

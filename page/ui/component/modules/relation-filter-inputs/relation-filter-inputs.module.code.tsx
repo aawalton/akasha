@@ -1,6 +1,6 @@
 "use client"
 
-import { InputBadge } from "akasha/design/interfaces/badges/modules/input-badge/input-badge.module.code.tsx"
+import { InputBadge } from "akasha/design/interfaces/design-interface-badge/modules/input-badge/input-badge.module.code.tsx"
 import {
   SearchMultiSelect,
   type SearchMultiSelectItem,

@@ -1,4 +1,4 @@
-import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
 import {
   formatCooldown,
   formatDamageType,

@@ -3,8 +3,8 @@
 import {
   Badge,
   BadgeRow,
-} from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
-import { BadgeLayoutProvider } from "akasha/design/interfaces/badges/modules/badge-layout-context/badge-layout-context.module.code.tsx"
+} from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
+import { BadgeLayoutProvider } from "akasha/design/interfaces/design-interface-badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"

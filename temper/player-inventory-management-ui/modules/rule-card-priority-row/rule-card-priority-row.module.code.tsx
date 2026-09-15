@@ -1,8 +1,8 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
-import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badge/button-badge.module.code.tsx"
-import { NumberBadge } from "akasha/design/interfaces/badges/modules/number-badge/number-badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/interfaces/design-interface-badge/modules/button-badge/button-badge.module.code.tsx"
+import { NumberBadge } from "akasha/design/interfaces/design-interface-badge/modules/number-badge/number-badge.module.code.tsx"
 import { LayoutLink } from "akasha/design/interfaces/layout/modules/router-context/router-context.module.code.tsx"
 import {
   Select,

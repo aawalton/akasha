@@ -3,8 +3,8 @@
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
-} from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { ButtonBadge } from "akasha/design/interfaces/badges/modules/button-badge/button-badge.module.code.tsx"
+} from "akasha/design/interfaces/design-interface-badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { ButtonBadge } from "akasha/design/interfaces/design-interface-badge/modules/button-badge/button-badge.module.code.tsx"
 import {
   Popover,
   PopoverContent,

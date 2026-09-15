@@ -318,7 +318,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/design.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/game/design-game.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/game/drive/drive.page-type.types.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/interfaces/badges/design-interfaces-badges.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/interfaces/design-interface-badge/design-interface-badge.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/interfaces/design-interfaces.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/interfaces/forms/design-interfaces-forms.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/interfaces/layout/design-interfaces-layout.domain.ts"}

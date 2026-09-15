@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
 import { formatSmartDate } from "akasha/page/core/view/modules/format-smart-date/format-smart-date.module.code.ts"
 import type {
   MentionResolver,

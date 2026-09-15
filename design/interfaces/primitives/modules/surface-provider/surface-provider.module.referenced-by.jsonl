@@ -7,7 +7,7 @@
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"alan/web/modules/reveal-host/reveal-host.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"alan/web/modules/roster-gallery/roster-gallery.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"alan/web/root.tsx"}
-{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interfaces/badges/modules/badge/badge.module.code.tsx"}
+{"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interfaces/forms/modules/calendar/calendar.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interfaces/forms/modules/inline-editable-text/inline-editable-text.module.code.tsx"}
 {"propertySlug":"import","fileName":"surface-provider.module.code.tsx","path":"design/interfaces/forms/modules/input-group/input-group.module.code.tsx"}

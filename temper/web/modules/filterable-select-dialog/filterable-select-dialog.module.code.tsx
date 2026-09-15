@@ -1,10 +1,10 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
-} from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+} from "akasha/design/interfaces/design-interface-badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { ItemCard } from "akasha/design/interfaces/patterns/modules/item-card/item-card.module.code.tsx"
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import {

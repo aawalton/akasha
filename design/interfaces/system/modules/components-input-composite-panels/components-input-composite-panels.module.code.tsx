@@ -1,6 +1,6 @@
 "use client"
 
-import { NumberBadge } from "akasha/design/interfaces/badges/modules/number-badge/number-badge.module.code.tsx"
+import { NumberBadge } from "akasha/design/interfaces/design-interface-badge/modules/number-badge/number-badge.module.code.tsx"
 import { InlineEditableText } from "akasha/design/interfaces/forms/modules/inline-editable-text/inline-editable-text.module.code.tsx"
 import {
   InputGroup,

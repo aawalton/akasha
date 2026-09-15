@@ -3,7 +3,7 @@
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
-} from "akasha/design/interfaces/badges/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+} from "akasha/design/interfaces/design-interface-badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { inventoryRuleGoals } from "akasha/temper/items-rules-core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"
 import {
   type ActiveStatusFilter,
