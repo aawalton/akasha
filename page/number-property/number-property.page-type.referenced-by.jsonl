@@ -266,9 +266,9 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-companion/temper-eso-companion-equipment-constant/properties/value-num.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-companion/temper-eso-companion/properties/eso-companion-id.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-companion/thing/properties/equip-type.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-effects/temper-curse/properties/eso-curse-ids.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-effects/temper-target-armor/properties/armor.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-effects/temper-vampire-stage/properties/eso-vampire-stage-id.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-effect/temper-curse/properties/eso-curse-ids.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-effect/temper-target-armor/properties/armor.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-effect/temper-vampire-stage/properties/eso-vampire-stage-id.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-gear/temper-armor-type/properties/armor-multiplier.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-gear/temper-armor-weight/properties/armor-base-value.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/temper-gear/temper-eso-player-equipment-constant/properties/eso-num.number-property.ts"}

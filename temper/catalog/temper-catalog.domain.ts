@@ -7,7 +7,7 @@ export const temperCatalog = {
   definition: "what The Elder Scrolls Online itself has, mirrored",
   parts: [
     "domain/temper-companion",
-    "domain/temper-effects",
+    "domain/temper-effect",
     "domain/temper-gear",
     "domain/temper-pursuits",
     "domain/temper-world",

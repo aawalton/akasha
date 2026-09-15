@@ -1,0 +1,11 @@
+import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effect/temper-buff-major/temper-buff-major.page-type.types.ts"
+
+export const majorCourage = {
+  id: "01a05fc5-f6b7-7291-83b4-ba4d122d59f4",
+  type: "temper-buff-major",
+  slug: "major-courage",
+  title: "Major Courage",
+  key: "major-courage",
+  description: "Increases Weapon and Spell Damage by 430",
+  effects: "jsonl",
+} as const satisfies TemperBuffMajor

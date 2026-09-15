@@ -3,8 +3,8 @@
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-companion/skill-line/temper-companion-skill-line.page-type.types.ts"}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-companion/temper-eso-companion-equipment-constant/temper-eso-companion-equipment-constant.page-type.types.ts"}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-companion/weapon-type/temper-companion-weapon-type.page-type.types.ts"}
-{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-effects/temper-curse/temper-curse.page-type.types.ts"}
-{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-effects/temper-vampire-stage/temper-vampire-stage.page-type.types.ts"}
+{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-effect/temper-curse/temper-curse.page-type.types.ts"}
+{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-effect/temper-vampire-stage/temper-vampire-stage.page-type.types.ts"}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-gear/temper-armor-enchant/temper-armor-enchant.page-type.types.ts"}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-gear/temper-armor-slot/temper-armor-slot.page-type.types.ts"}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/temper-gear/temper-armor-trait/temper-armor-trait.page-type.types.ts"}
@@ -42,8 +42,8 @@
 {"propertySlug":"page-property","path":"temper/catalog/temper-companion/skill-line/temper-companion-skill-line.page-type.ts","id":"01a05fce-1854-7d72-872a-0e22ce5c84c5"}
 {"propertySlug":"page-property","path":"temper/catalog/temper-companion/temper-eso-companion-equipment-constant/temper-eso-companion-equipment-constant.page-type.ts","id":"01a05fcf-2469-71b2-b9b1-9c8803c95d71"}
 {"propertySlug":"page-property","path":"temper/catalog/temper-companion/weapon-type/temper-companion-weapon-type.page-type.ts","id":"01a05fcd-aed1-71b0-8b8c-2b74e9a2d662"}
-{"propertySlug":"page-property","path":"temper/catalog/temper-effects/temper-curse/temper-curse.page-type.ts","id":"01a05fc5-94d2-7b6d-ac6a-2a3a21b68f41"}
-{"propertySlug":"page-property","path":"temper/catalog/temper-effects/temper-vampire-stage/temper-vampire-stage.page-type.ts","id":"01a05fc5-94d2-7de5-8850-22656966472e"}
+{"propertySlug":"page-property","path":"temper/catalog/temper-effect/temper-curse/temper-curse.page-type.ts","id":"01a05fc5-94d2-7b6d-ac6a-2a3a21b68f41"}
+{"propertySlug":"page-property","path":"temper/catalog/temper-effect/temper-vampire-stage/temper-vampire-stage.page-type.ts","id":"01a05fc5-94d2-7de5-8850-22656966472e"}
 {"propertySlug":"page-property","path":"temper/catalog/temper-gear/temper-armor-enchant/temper-armor-enchant.page-type.ts","id":"01a05fd1-d42e-7a0a-9e97-561c71aeccd4"}
 {"propertySlug":"page-property","path":"temper/catalog/temper-gear/temper-armor-slot/temper-armor-slot.page-type.ts","id":"01a05fd1-d430-78b6-bef0-e0208b62ccf9"}
 {"propertySlug":"page-property","path":"temper/catalog/temper-gear/temper-armor-trait/temper-armor-trait.page-type.ts","id":"01a05fb0-3ceb-7229-9089-127418274d52"}
