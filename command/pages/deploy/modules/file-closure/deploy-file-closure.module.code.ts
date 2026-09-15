@@ -8,8 +8,8 @@ import {
 } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { bodyAt as bodyInCommit } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
-import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
-import { reachingOutOf } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
+import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { imports } from "akasha/graph/predicate/pages/imports.graph-predicate.ts"
 import { deployableNamed } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 import { runnerCodeIn } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
@@ -20,8 +20,6 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-
-const IMPORT = importEdge.slug
 
 const APART = "\0"
 
@@ -62,7 +60,7 @@ export function readingOver(tracked: readonly string[], bodyAt: Body, index: Ans
     over: (seeds) => {
       const seeded = new Set(seeds)
       const through = (one: string): boolean => seeded.has(one) || every.has(one)
-      return new Set(reachingOutOf(seeds, [IMPORT], index, bodies, through))
+      return new Set(closureOf(imports, seeds, { index, bodyAt: bodies, through }))
     },
   }
 }

@@ -12,6 +12,7 @@ import {
   APART_AT,
   BY_DECLARATION,
   BY_REFERENCE,
+  bodiesIn,
   EDGE_AT,
   EDGE_ID,
   edgeFiledAt,
@@ -22,6 +23,8 @@ import {
   importsBeside,
   importsFiled,
   importWorld,
+  indexOf,
+  indexOver,
   KNOWN,
   LOADED_AT,
   LOADED_BY,
@@ -46,15 +49,7 @@ import {
   THIRD_AT,
   TYPE_AT,
 } from "akasha/graph/modules/asking/graph-asking.module.test-fixtures.ts"
-import {
-  type Answering,
-  answeringOver,
-  type PageOf,
-} from "akasha/page/index/modules/answering/index-answering.module.code.ts"
-import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { readingLaidOver } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
 
@@ -63,18 +58,6 @@ const NAMED = relative(REPO_AT, import.meta.path).replace(".module.test.ts", ".m
 const ENDING = ".ts"
 
 afterAll(scratch.sweep)
-
-function bodiesIn(root: string): PageOf {
-  return (path) => valueAt(path, root)
-}
-
-function indexOver(reading: Reading, pageOf: PageOf): Answering {
-  return answeringOver(reading, pageOf)
-}
-
-function indexOf(root: string): Answering {
-  return indexOver(readingIn(root), bodiesIn(root))
-}
 
 test("an empty kind list answers nothing", () => {
   expect(edgesInto(NAMED, [], indexOf(REPO_AT))).toEqual([])

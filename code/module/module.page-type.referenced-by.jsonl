@@ -1624,6 +1624,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/running/git-running.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/store-sweeping/git-store-sweeping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"graph/modules/asking/graph-asking.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/analysis-complexity/modules/complexity-rows/complexity-rows.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/analysis-complexity/modules/cyclomatic/cyclomatic.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/analysis-complexity/modules/file-discovery/file-discovery.module.ts"}

@@ -21,8 +21,8 @@ import {
   servedOf,
 } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { reachesIn } from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
-import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
-import { reachingInto } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
+import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { importers } from "akasha/graph/predicate/pages/importers.graph-predicate.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { waitingKeys } from "akasha/page/index/modules/generated-properties/generated-properties.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -30,8 +30,6 @@ import { namedUnder, pageNamed } from "akasha/page/modules/file-name/page-file-n
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import ts from "typescript"
 import { API } from "typescript-7/unstable/async"
-
-const IMPORT = importEdge.slug
 
 const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
 
@@ -92,7 +90,7 @@ function landingsIn(change: Change): readonly string[] {
 
 export function reachedBy(change: Change, index: Answering): readonly string[] {
   const seeds = [...change.changed, ...landingsIn(change)]
-  return reachingInto(seeds, [IMPORT], index, compiled)
+  return closureOf(importers, seeds, { index, through: compiled })
 }
 
 export function reachesTypegen(path: string, text: string): boolean {
@@ -113,7 +111,7 @@ export function rootsOf(change: Change, index: Answering): readonly string[] {
 export function orphanedIn(change: Change, index: Answering): readonly string[] {
   const gone = change.changed.filter((one) => compiled(one) && change.after(one) === null)
   if (gone.length === 0) return []
-  const held = reachingInto(gone, [IMPORT], index, compiled)
+  const held = closureOf(importers, gone, { index, through: compiled })
   return held.some((one) => change.after(one) !== null) ? [] : gone
 }
 

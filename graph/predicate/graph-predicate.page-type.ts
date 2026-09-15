@@ -9,6 +9,7 @@ export const graphPredicate = {
   parts: [
     "graph-predicate/importers",
     "graph-predicate/imports",
+    "module/graph-predicate-closure",
     "relation-property/edges",
     "text-property/direction",
   ],

@@ -199,6 +199,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"domain/modules/rows/domain-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"graph/modules/asking/graph-asking.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/container-image/modules/image-build/image-build.module.code.ts"}

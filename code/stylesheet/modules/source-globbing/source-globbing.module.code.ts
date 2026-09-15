@@ -3,15 +3,13 @@ import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
-import { reachingOutOf } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
+import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { imports } from "akasha/graph/predicate/pages/imports.graph-predicate.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const MANIFEST = "package.json"
-
-const IMPORT = importEdge.slug
 
 const STYLESHEET = "stylesheet"
 
@@ -145,7 +143,11 @@ function globbedOver(change: Change): Globbed {
     const app = appFor(at, roots)
     if (app === null) continue
     const seeds = every.filter((one) => typeScripted(one) && one.startsWith(`${app}/`))
-    const reached = reachingOutOf(seeds, [IMPORT], index, bodyAt, (one) => known.has(one))
+    const reached = closureOf(imports, seeds, {
+      index,
+      bodyAt,
+      through: (one) => known.has(one),
+    })
     const block = blockFor(at, app, new Set(reached))
     const body = bodyWith(css, block)
     if (body === css) continue

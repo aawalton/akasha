@@ -1,8 +1,8 @@
 import { createHash } from "node:crypto"
 import { readFileSync, statSync } from "node:fs"
 import { join, relative } from "node:path"
-import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
-import { reachingOutOf } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
+import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { imports } from "akasha/graph/predicate/pages/imports.graph-predicate.ts"
 import type { Body } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -16,8 +16,6 @@ const ENTRYPOINT = "proxy-entry"
 const CODE = "code"
 
 const TS = "ts"
-
-const IMPORT = importEdge.slug
 
 export function modelGatewayEntrypoint(): string {
   const root = ownRepoRoot()
@@ -46,7 +44,10 @@ function bodiesUnder(root: string): Body {
 
 function collectVersionTreeFilesFrom(root: string, entrypoint: string): readonly string[] {
   const seed = relative(root, entrypoint)
-  const found = reachingOutOf([seed], [IMPORT], shadowAt(root).index, bodiesUnder(root))
+  const found = closureOf(imports, [seed], {
+    index: shadowAt(root).index,
+    bodyAt: bodiesUnder(root),
+  })
   for (const one of found) {
     if (isFileAt(join(root, one))) continue
     throw new Error(
@@ -58,8 +59,8 @@ function collectVersionTreeFilesFrom(root: string, entrypoint: string): readonly
   return found
 }
 
-function computeVersionTreeHashFrom(root: string, entrypoint: string): string {
-  const perFileLines = collectVersionTreeFilesFrom(root, entrypoint).map((rel) => {
+function hashedOver(root: string, reached: readonly string[]): string {
+  const perFileLines = reached.map((rel) => {
     const hash = createHash("sha256")
       .update(readFileSync(join(root, rel)))
       .digest("hex")
@@ -75,5 +76,5 @@ export function modelGatewayTreeFiles(): readonly string[] {
 }
 
 export function computeModelGatewayTreeVersion(): string {
-  return computeVersionTreeHashFrom(ownRepoRoot(), modelGatewayEntrypoint())
+  return hashedOver(ownRepoRoot(), modelGatewayTreeFiles())
 }

@@ -1,16 +1,12 @@
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
-import {
-  reachingInto,
-  reachingOutOf,
-} from "akasha/graph/modules/asking/graph-asking.module.code.ts"
+import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { importers } from "akasha/graph/predicate/pages/importers.graph-predicate.ts"
+import { imports } from "akasha/graph/predicate/pages/imports.graph-predicate.ts"
 import type { Body } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-
-const IMPORT = importEdge.slug
 
 const MODULE = "module"
 
@@ -59,9 +55,13 @@ export function measured(from: string): readonly string[] {
   for (const slug of SEEDED) {
     const seed = codeIn(from, slug)
     held.push(
-      timedOver(`out ${slug}`, () => reachingOutOf([seed], [IMPORT], shadowAt(from).index, bodyAt))
+      timedOver(`out ${slug}`, () =>
+        closureOf(imports, [seed], { index: shadowAt(from).index, bodyAt })
+      )
     )
-    held.push(timedOver(`in ${slug}`, () => reachingInto([seed], [IMPORT], shadowAt(from).index)))
+    held.push(
+      timedOver(`in ${slug}`, () => closureOf(importers, [seed], { index: shadowAt(from).index }))
+    )
   }
   return linesFor(held)
 }

@@ -1,9 +1,5 @@
-{"propertySlug":"import","fileName":"graph-asking.module.code.ts","path":"agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"}
-{"propertySlug":"import","fileName":"graph-asking.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"graph-asking.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"}
-{"propertySlug":"import","fileName":"graph-asking.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.test.ts"}
-{"propertySlug":"import","fileName":"graph-asking.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
-{"propertySlug":"import","fileName":"graph-asking.module.code.ts","path":"graph/closure/answer-cost/answer-cost.performance.code.ts"}
 {"propertySlug":"import","fileName":"graph-asking.module.code.ts","path":"graph/modules/asking/graph-asking.module.test.ts"}
+{"propertySlug":"import","fileName":"graph-asking.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"graph-asking.module.test-fixtures.ts","path":"graph/modules/asking/graph-asking.module.test.ts"}
+{"propertySlug":"import","fileName":"graph-asking.module.test-fixtures.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts"}
 {"propertySlug":"parts","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}

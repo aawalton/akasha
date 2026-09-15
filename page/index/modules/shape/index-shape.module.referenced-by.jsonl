@@ -36,7 +36,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"code/shell-script/pages/statusline/statusline.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"domain/modules/rows/domain-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"graph/modules/asking/graph-asking.module.test.ts"}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operation/bootstrap-namespace/bootstrap-namespace.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operation/create-tunnel/create-tunnel.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operation/deploy-functions/deploy-functions.shell-script.scripting.code.ts"}

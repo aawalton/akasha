@@ -1,15 +1,23 @@
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import {
+  type Answering,
+  answeringOver,
+  type PageOf,
+} from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { claimantIn } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   besideAdded,
   linesFiled,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   fileNameOf,
   type Reference,
   referencesAt,
 } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { bodyOf } from "akasha/page/modules/referencing/page-referencing.module.test-fixtures.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const GRAPH_EDGE = "graph-edge"
@@ -308,4 +316,16 @@ export function loaderWorld(names = true): string {
     ])
   }
   return root
+}
+
+export function bodiesIn(root: string): PageOf {
+  return (path) => valueAt(path, root)
+}
+
+export function indexOver(reading: Reading, pageOf: PageOf): Answering {
+  return answeringOver(reading, pageOf)
+}
+
+export function indexOf(root: string): Answering {
+  return indexOver(readingIn(root), bodiesIn(root))
 }
