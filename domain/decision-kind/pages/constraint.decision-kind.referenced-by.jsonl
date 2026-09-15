@@ -162,7 +162,6 @@
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/releases/spotify-releases.module.ts","id":"01a09c6f-017f-70b7-a662-48904bec6460"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/tracks/spotify-tracks.module.ts","id":"01a06261-dc1d-700a-bfca-ad92b08a3e74"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/spotify.domain.ts","id":"01a06261-dc1d-7000-8f39-acf6360f39b5"}
-{"propertySlug":"decision-kind","path":"alan/track/daily/modules/akasha-day/akasha-day.module.ts","id":"01a069d3-579d-7fa0-9114-43050587d24b"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/modules/day-active-calories/day-active-calories.module.ts","id":"01a06972-ba96-7000-9539-60cc6079f306"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/modules/day-entry-keys/day-entry-keys.module.ts","id":"01a072fc-7da3-7248-a22d-918364c535de"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/modules/day-messages-totalling/day-messages-totalling.module.ts","id":"01a082e7-25cd-7547-840c-7cd58dad9c8c"}

@@ -4,7 +4,7 @@ export const akashaDay = {
   id: "01a069d3-579d-7fa0-9114-43050587d24b",
   type: "page-type/module",
   slug: "akasha-day",
-  definition: "how a day page and the rows beside it are landed into the akasha page store",
+  definition: "how a day page is landed into the akasha page store",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,51 +26,15 @@ export const akashaDay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A row beside a day states its keys in camel.",
-    },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "Keys written in camel keep a row readable rather than making that row right.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A row file is judged line by line against the properties its entry declares.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A day that has not been written is not a day that is empty.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A row sits beside a day page only where that day page is there.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A patch is composed from the page there merged with the values the caller gave.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A row file is read whole and written whole.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An amendment amends the row already there rather than adding a second row.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A day's row file has tens of rows rather than thousands.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A day page declares the property its row file is held under.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That declaration lands in the commit with the rows.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A session is the one row kind written here.",
+      decisionKind: "decision-kind/absence",
+      statement: "No row beside a day page is landed here.",
     },
   ],
 } as const satisfies Module
