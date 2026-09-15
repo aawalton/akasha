@@ -286,7 +286,6 @@ export function relationFiled(
 }
 
 export function importFiled(root: string, path: string, lines: readonly unknown[]): undefined {
-  filing(root, join(indexImport.name, AT_PATH, path), lines)
   const owner = claimantIn(root, path)
   if (owner === null) return
   besideAdded(
