@@ -20,7 +20,7 @@ import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/vie
 import { deriveShellEmptyState } from "akasha/page/ui/component/modules/page-system-shell-helpers/page-system-shell-helpers.module.code.ts"
 import type { ViewTabItem } from "akasha/page/ui/component/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx"
 import { ViewTabs } from "akasha/page/ui/component/modules/view-tabs/view-tabs.module.code.tsx"
-import type { ViewCallbacks } from "akasha/page/ui/mutator/modules/view-callbacks/view-callbacks.module.code.ts"
+import type { ViewCallbacks } from "akasha/page/ui/modules/view-callbacks/view-callbacks.module.code.ts"
 import type { ReactNode } from "react"
 import { useMemo } from "react"
 

@@ -2390,7 +2390,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/navigation-context/navigation-context.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/option-create-context/option-create-context.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/use-user-id/use-user-id.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/mutator/modules/view-callbacks/view-callbacks.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/view-callbacks/view-callbacks.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/perf/modules/page-card-perf/page-card-perf.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/reorder-verb/modules/reorder-verb-registry/reorder-verb-registry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/modules/apply-client-view-filters/apply-client-view-filters.module.ts"}

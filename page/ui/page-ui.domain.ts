@@ -15,7 +15,6 @@ export const pageUi = {
     "domain/page-ui-frame",
     "domain/page-ui-markdown",
     "domain/page-ui-media",
-    "domain/page-ui-mutator",
     "domain/page-ui-perf",
     "domain/page-ui-reorder-verb",
     "domain/page-ui-supabase",
@@ -24,5 +23,6 @@ export const pageUi = {
     "module/navigation-context",
     "module/option-create-context",
     "module/use-user-id",
+    "module/view-callbacks",
   ],
 } as const satisfies Domain

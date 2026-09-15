@@ -47,7 +47,7 @@
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/view-tabs/view-tabs.module.code.tsx"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/view-engine/modules/generate-group-definitions/generate-group-definitions.module.code.ts"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/view-engine/modules/use-page-view/use-page-view.module.code.ts"}
-{"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/mutator/modules/view-callbacks/view-callbacks.module.code.ts"}
+{"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/modules/view-callbacks/view-callbacks.module.code.ts"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/supabase/modules/apply-client-view-filters/apply-client-view-filters.module.code.ts"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"}
