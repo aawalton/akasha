@@ -2,7 +2,7 @@ import type { ChangeKind } from "akasha/change/kind/change-kind.page-type.types.
 
 export const changeChecked = {
   id: "01a0725c-56f6-7761-b210-d08f0ff70c22",
-  type: "change-kind",
+  type: "page-type/change-kind",
   slug: "change-checked",
   definition: "a change a program composed and the checks judge",
   runsChecks: true,
