@@ -26,5 +26,8 @@ export const veraGraphCleanup = {
         "The seam is already there: `graph-asking` reads every body through the `Answering` index handed in rather than off the working tree, and the typecheck decision hands it an index laid over a change. Deploy's closure cannot do this — `bodyInCommit` at `deploy-file-closure.module.code.ts:35-41` reads out of a commit, so no uncommitted edit is visible to it. `folder-matches-a-shape` lays a pending change over the import edge by hand because no layer beneath it will.",
     },
   ],
-  constraints: ["Alan approves every new caching mechanism before it is built."],
+  constraints: [
+    "Alan approves every new caching mechanism before it is built.",
+    "Alan approves every new node kind, edge kind and attribute before it is built.",
+  ],
 } as const satisfies Initiative
