@@ -2389,10 +2389,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/capability-hosts/capability-hosts.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/navigation-context/navigation-context.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/option-create-context/option-create-context.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/page-card-perf/page-card-perf.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/reorder-verb-registry/reorder-verb-registry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/use-user-id/use-user-id.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/view-callbacks/view-callbacks.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/perf/modules/page-card-perf/page-card-perf.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/modules/apply-client-view-filters/apply-client-view-filters.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/modules/collect-related-ids/collect-related-ids.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/supabase/modules/compose-content-tier-page/compose-content-tier-page.module.ts"}

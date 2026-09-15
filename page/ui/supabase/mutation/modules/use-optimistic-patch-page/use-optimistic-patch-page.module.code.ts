@@ -1,6 +1,6 @@
 import type { PatchPageArgs } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import type { InteractionToken } from "akasha/page/ui/perf/modules/page-card-perf/page-card-perf.module.code.ts"
+import type { InteractionToken } from "akasha/page/ui/modules/page-card-perf/page-card-perf.module.code.ts"
 import { runOptimisticMutation } from "akasha/page/ui/supabase/mutation/modules/apply-prediction/apply-prediction.module.code.ts"
 import {
   buildOverlay,

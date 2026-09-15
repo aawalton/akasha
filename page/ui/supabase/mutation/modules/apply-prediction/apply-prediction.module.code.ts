@@ -3,7 +3,7 @@ import {
   recordPglitePersisted,
   recordRoundTripSettled,
   recordVisibleUpdate,
-} from "akasha/page/ui/perf/modules/page-card-perf/page-card-perf.module.code.ts"
+} from "akasha/page/ui/modules/page-card-perf/page-card-perf.module.code.ts"
 import { getPagesStore } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import { runPagesOptimisticMutation } from "akasha/page/ui-store/optimistic/modules/optimistic-mutation/optimistic-mutation.module.code.ts"
 import type { PagesMutationPlan } from "akasha/page/ui-store/optimistic/modules/plan/plan.module.code.ts"
