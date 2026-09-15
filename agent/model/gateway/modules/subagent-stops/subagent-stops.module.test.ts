@@ -7,7 +7,6 @@ import {
   ownOf,
   stoppedOwnIdsIn,
 } from "akasha/agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"
-import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
@@ -21,8 +20,6 @@ const PAGE = "agent/subagent/pages/amy-a70d67f8ee96115ae/amy-a70d67f8ee96115ae.s
 
 const SETTLE_MS = 20
 
-const SUBAGENT = "subagent"
-
 function pageBody(agentId: string | null): string {
   const stated = agentId === null ? "" : `, agentId: "${agentId}"`
   return `export const page = { type: "subagent", slug: "amy-a70d67f8ee96115ae"${stated} } as const\n`
@@ -33,18 +30,6 @@ function rootWith(agentId: string | null): string {
   mkdirSync(dirname(join(root, PAGE)), { recursive: true })
   writeFileSync(join(root, PAGE), pageBody(agentId))
   return root
-}
-
-function midRefreshThrown(): Error {
-  const bare = mkdtempSync(join(SCRATCH_AT, "amy-subagent-stops-bare-"))
-  try {
-    everyOfType(bare, SUBAGENT)
-  } catch (thrown) {
-    return thrown as Error
-  } finally {
-    rmSync(bare, { recursive: true, force: true })
-  }
-  throw new Error("a root holding no index answered rather than refusing")
 }
 
 function settled(): Promise<undefined> {
@@ -157,33 +142,6 @@ test("a stopped subagent stays held after its page goes", () => {
     expect(fresh.has(OWN)).toBe(false)
     expect(stops.has(OWN)).toBe(true)
     fresh.stop()
-  } finally {
-    stops.stop()
-    rmSync(root, { recursive: true, force: true })
-  }
-})
-
-test("a change read while the index is mid-refresh leaves the set as it was", async () => {
-  const root = rootWith(`${SEAT}--${OWN}`)
-  mergeUncommitted(root, PAGE, { stopped: true })
-  const mid = midRefreshThrown()
-  let refreshing = false
-  const stops = followingStops(
-    root,
-    SEAT,
-    () => {
-      if (refreshing) throw mid
-      return [PAGE]
-    },
-    SETTLE_MS,
-    () => undefined
-  )
-  try {
-    expect(stops.has(OWN)).toBe(true)
-    refreshing = true
-    writeFileSync(join(root, PAGE), pageBody(`${SEAT}--${OWN}`))
-    await settled()
-    expect(stops.has(OWN)).toBe(true)
   } finally {
     stops.stop()
     rmSync(root, { recursive: true, force: true })

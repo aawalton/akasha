@@ -20,7 +20,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/test/modules/running/model-test-running.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/modules/page-reading/agent-page-reading.module.code.ts"}
@@ -28,7 +27,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-role-on-call/seat-role-on-call.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/launching/modules/seat-conditions-reading/seat-conditions-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/log-day/modules/log-day-sweeping/log-day-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.code.ts"}
@@ -39,7 +37,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/agent-hook-registration/agent-hook-registration.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-tooling/modules/mcp-registry/mcp-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"}

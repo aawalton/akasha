@@ -5,12 +5,7 @@ import {
   agentSettings,
   isSettingsDocumentFault,
 } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
-import { sayingWith } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-saying/supervisor-saying.module.code.ts"
 import { harnessSettingsAt } from "akasha/agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"
-import {
-  midRefresh,
-  REFRESH_WAITED_AT_MOST_MS,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
 
@@ -77,52 +72,6 @@ export function readAgentSettingsBase(
   return Promise.resolve(checkAgentSettings(document))
 }
 
-const ASKING_AGAIN_MS = 1_000
-
-const REFRESHING = "the index is part way through a refresh, so the agent settings are read again"
-
-export type SpawnSettingsSaying = (text: string) => undefined
-
-export type SpawnSettingsWait = {
-  readonly askingAgainMs?: number
-  readonly waitingAtMostMs?: number
-  readonly now?: () => number
-  readonly say?: SpawnSettingsSaying
-}
-
-function asked(ms: number): Promise<void> {
-  return new Promise((resolve) => {
-    setTimeout(resolve, ms)
-  })
-}
-
-export async function settingsPastRefresh(
-  ask: AskAgentSettings = agentSettings,
-  wait: SpawnSettingsWait = {}
-): Promise<SpawnSettingsBase> {
-  const askingAgainMs = wait.askingAgainMs ?? ASKING_AGAIN_MS
-  const waitingAtMostMs = wait.waitingAtMostMs ?? REFRESH_WAITED_AT_MOST_MS
-  const now = wait.now ?? Date.now
-  const say = wait.say ?? sayingWith(LOG)
-  const waitedSeconds = Math.round(waitingAtMostMs / 1_000)
-  let waitingSince: number | null = null
-  while (true) {
-    const base = await readAgentSettingsBase(ask)
-    if (base.kind !== "refused" || !midRefresh(base.cause)) return base
-    if (waitingSince === null) {
-      waitingSince = now()
-      say(REFRESHING)
-    } else if (now() - waitingSince >= waitingAtMostMs) {
-      const gaveUp =
-        `the index stayed part way through a refresh for ${waitedSeconds}s, so the settings a ` +
-        "seat spawns on went unread"
-      say(gaveUp)
-      return { kind: "refused", reason: gaveUp, cause: base.cause }
-    }
-    await asked(askingAgainMs)
-  }
-}
-
 function composeSpawnSettings(
   base: Record<string, unknown> | null,
   overrides: SpawnSettingsOverrides
@@ -152,10 +101,9 @@ export async function materializeSpawnSettings(
   opts?: {
     readonly ask?: AskAgentSettings
     readonly tmpDir?: string
-    readonly wait?: SpawnSettingsWait
   }
 ): Promise<string> {
-  const base = await settingsPastRefresh(opts?.ask ?? agentSettings, opts?.wait)
+  const base = await readAgentSettingsBase(opts?.ask ?? agentSettings)
   if (base.kind === "refused") throw new Error(refusalOf(base.reason))
   if (base.kind === "absent") warnAbsent(base.reason)
 

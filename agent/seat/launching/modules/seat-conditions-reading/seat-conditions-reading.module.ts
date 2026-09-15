@@ -6,28 +6,14 @@ export const seatConditionsReading = {
   slug: "seat-conditions-reading",
   definition: "what a seat runs under, read off the one seat-conditions page as text and flags",
   code: "ts",
-  test: "ts",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "An index part way through a refresh leaves the conditions unread rather than refused.",
+      statement: "The conditions are read afresh at each ask rather than held from an earlier one.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A wait on such an index is said once as it opens rather than on every ask.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A wait running past its ceiling says it gave up and refuses the read.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "That refusal names the refresh rather than the conditions being unstated.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A throw that is no refresh reaches whoever asked without waiting.",
+      statement: "A read that refuses reaches whoever asked rather than being waited out here.",
     },
   ],
 } as const satisfies Module

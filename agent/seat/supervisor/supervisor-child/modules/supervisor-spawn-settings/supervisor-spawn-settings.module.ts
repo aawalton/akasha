@@ -32,20 +32,7 @@ export const supervisorSpawnSettings = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "An index part way through a refresh leaves the settings unread rather than refused.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A wait on such an index is said once as it opens rather than on every ask.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A wait running past its ceiling says it gave up and refuses the spawn.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "That refusal names the refresh rather than the settings being missing.",
+      statement: "The settings are read once for a spawn rather than asked for until they answer.",
     },
   ],
 } as const satisfies Module

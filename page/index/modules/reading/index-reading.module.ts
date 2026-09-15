@@ -73,11 +73,6 @@ export const indexReading = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "How long a reader waits on a refresh part way through is said here for every reader.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
         "A folder with no file is a population with no members rather than an unwritten index.",
     },
     {
