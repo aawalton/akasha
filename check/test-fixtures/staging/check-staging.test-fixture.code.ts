@@ -12,10 +12,8 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { importedFrom } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
-import {
-  bodyOf,
-  referencesEach,
-} from "akasha/page/modules/referencing/page-referencing.module.code.ts"
+import { referencesEach } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
+import { bodyOf } from "akasha/page/modules/referencing/page-referencing.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 

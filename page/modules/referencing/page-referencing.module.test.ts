@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
 import {
-  bodyOf,
   IMPORT,
   type Reference,
   referenceIn,
   referencesAt,
   referencesEach,
 } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
+import { bodyOf } from "akasha/page/modules/referencing/page-referencing.module.test-fixtures.ts"
 
 const NAMED: Reference = {
   propertySlug: "parts",

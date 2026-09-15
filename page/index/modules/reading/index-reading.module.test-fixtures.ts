@@ -27,7 +27,6 @@ import {
   overlaidOn,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
-  bodyOf,
   fileNameOf,
   IMPORT,
   ownerOf,
@@ -35,6 +34,7 @@ import {
   referencesAt,
   referencesEach,
 } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
+import { bodyOf } from "akasha/page/modules/referencing/page-referencing.module.test-fixtures.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 

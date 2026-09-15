@@ -7,6 +7,7 @@ export const pageReferencing = {
   definition: "the file beside a page saying what references that page, composed and read",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

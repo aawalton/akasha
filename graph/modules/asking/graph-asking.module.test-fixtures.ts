@@ -4,12 +4,12 @@ import {
   linesFiled,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
-  bodyOf,
   fileNameOf,
   ownerOf,
   type Reference,
   referencesAt,
 } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
+import { bodyOf } from "akasha/page/modules/referencing/page-referencing.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const GRAPH_EDGE = "graph-edge"
