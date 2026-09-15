@@ -4,7 +4,7 @@ export const minedItemRows = {
   id: "01a0640f-8510-7325-9208-0be4870d37e6",
   type: "module",
   slug: "mined-item-rows",
-  definition: "a mined item read out of a stored row and written back into one",
+  definition: "a mined item read out of a stored row",
   code: "ts",
   test: "ts",
   invariants: [

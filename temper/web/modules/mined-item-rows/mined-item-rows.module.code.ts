@@ -105,10 +105,3 @@ export function rowToSearchResult(row: MinedItemRow): MinedItemSearchResult {
     setName: typeof row.setName === "string" ? row.setName : null,
   }
 }
-
-export function minedItemRowOf(
-  item: Readonly<Record<string, unknown>> & { readonly itemId: number; readonly name: string }
-): Record<string, unknown> {
-  const { name, itemId, ...rest } = item
-  return { ...rest, slug: String(itemId), itemId, title: name, name }
-}
