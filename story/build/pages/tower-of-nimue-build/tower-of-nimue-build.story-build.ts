@@ -2,7 +2,7 @@ import type { StoryBuild } from "akasha/story/build/story-build.page-type.types.
 
 export const towerOfNimueBuild = {
   id: "01a0657d-bb97-767c-b1d8-0ccc25878fec",
-  type: "story-build",
+  type: "page-type/story-build",
   slug: "tower-of-nimue-build",
   title: "Nimue — Build",
   world: "world/tower-of-nimue",

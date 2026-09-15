@@ -2,7 +2,7 @@ import type { StoryBuild } from "akasha/story/build/story-build.page-type.types.
 
 export const cornerstoneBuild = {
   id: "01a0657d-bb95-73af-a144-74c52923eaa7",
-  type: "story-build",
+  type: "page-type/story-build",
   slug: "cornerstone-build",
   title: "Cornerstone — Build",
   world: "world/cornerstone",
