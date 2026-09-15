@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const walk = {
   id: "01a0593e-da44-76a7-923f-2616b6699101",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "walk",
   pattern: "(?<!const )(?<!return )\\bwalk\\b(?!\\s*[(=)])",
   tabooSenses: [

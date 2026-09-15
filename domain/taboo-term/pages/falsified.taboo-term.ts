@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const falsified = {
   id: "01a0593e-da2a-7f4f-9150-3a203377fc97",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "falsified",
   pattern: "\\bfalsified\\b",
   tabooSenses: [{ sense: "made untrue by a change you landed", instead: "made untrue" }],

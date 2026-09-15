@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const identity = {
   id: "01a0593e-da2e-7138-980e-60713a5f4dca",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "identity",
   pattern: '(?<![-.])\\bidentity\\b(?![/"])',
   tabooSenses: [

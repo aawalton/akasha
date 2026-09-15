@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const pass = {
   id: "01a0593e-da32-7d50-9393-19dee6f5ef0d",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "pass",
   pattern: '(?<!\\d )\\bpass\\b(?!")',
   tabooSenses: [{ sense: "one run of a task by one seat", instead: "run or reading" }],

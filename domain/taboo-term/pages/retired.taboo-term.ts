@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const retired = {
   id: "01a0593e-da3a-78b1-b825-2a2926c225fc",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "retired",
   pattern: "\\bretired\\b",
   tabooSenses: [

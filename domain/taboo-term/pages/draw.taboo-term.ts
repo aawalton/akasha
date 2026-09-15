@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const draw = {
   id: "01a0593e-da28-7579-854b-d07e8fac8f41",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "draw",
   pattern: "\\bdraw\\b",
   tabooSenses: [

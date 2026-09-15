@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const slice = {
   id: "01a0593e-da3d-7d48-bf25-2812983bde12",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "slice",
   pattern: "(?<!\\.)\\bslice\\b",
   tabooSenses: [

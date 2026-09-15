@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const researcher = {
   id: "01a0593e-da39-7c74-a5c2-57653e309e4f",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "researcher",
   pattern: "\\bresearcher\\b",
   tabooSenses: [

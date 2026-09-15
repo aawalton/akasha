@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const schema = {
   id: "01a0593e-da3b-78e0-ac32-b8866f1f8ed9",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "schema",
   pattern: '(?<![-.])\\bschema\\b(?![-/"])',
   tabooSenses: [

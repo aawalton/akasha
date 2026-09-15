@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const stand = {
   id: "01a05cfe-1cad-7674-ab61-e3865ae14bae",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "stand",
   pattern: "(?<![a-z])(stands?|standing|stood)(?![a-z])",
   tabooSenses: [

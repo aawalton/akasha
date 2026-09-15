@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const floor = {
   id: "01a0593e-da2b-79fb-9141-ba72e466156a",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "floor",
   pattern: "(?<!\\.)\\bfloor\\b",
   tabooSenses: [{ sense: "an attribute's value where nobody states one", instead: "its default" }],

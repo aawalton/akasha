@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const cut = {
   id: "01a0593e-da25-7703-adb2-91b00f924fc7",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "cut",
   pattern: "\\bcut\\b(?!\\s*[-(=<+,)])",
   tabooSenses: [{ sense: "creating anything", instead: "create" }],

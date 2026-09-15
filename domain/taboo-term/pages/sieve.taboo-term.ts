@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const sieve = {
   id: "01a0593e-da3c-74c4-9ded-44bfa71ce19b",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "sieve",
   pattern: "\\bsieve\\b",
   tabooSenses: [

@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const crossing = {
   id: "01a0593e-da24-7507-89fe-fb1e3c808198",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "crossing",
   pattern: "\\bcrossing\\b",
   tabooSenses: [

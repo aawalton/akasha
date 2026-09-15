@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const corpus = {
   id: "01a0593e-da23-7013-9d2c-4b84b9e42d34",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "corpus",
   pattern: "\\bcorpus\\b",
   tabooSenses: [

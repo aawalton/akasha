@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const pin = {
   id: "01a0593e-da35-7884-bd93-cff8c3174eb1",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "pin",
   pattern: "\\bpin\\b",
   tabooSenses: [

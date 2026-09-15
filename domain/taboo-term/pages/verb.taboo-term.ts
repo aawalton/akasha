@@ -2,7 +2,7 @@ import type { TabooTerm } from "akasha/domain/taboo-term/taboo-term.page-type.ty
 
 export const verb = {
   id: "01a0593e-da42-7dfa-8095-c94687e5ffae",
-  type: "taboo-term",
+  type: "page-type/taboo-term",
   slug: "verb",
   pattern: "(?<!\\.)\\bverb\\b(?!:)",
   tabooSenses: [{ sense: "an `ops` subcommand", instead: "command" }],
