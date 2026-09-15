@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
 import {
   besideThe,
-  closureOver,
   codeBodies,
   kindSeeds,
+  readingOver,
   underFolder,
 } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
@@ -47,25 +47,25 @@ test("a folder handed in answers the tracked files under that folder", () => {
 })
 
 test("a file beside the page that is no code is one the deploy is built from", () => {
-  expect(closureOver(TRACKED, SEEDS, bodyAt).has("apps/one/logo.png")).toBe(true)
+  expect(readingOver(TRACKED, bodyAt).over(SEEDS).has("apps/one/logo.png")).toBe(true)
 })
 
 test("a file the code beside the page imports is one the deploy is built from", () => {
-  expect(closureOver(TRACKED, SEEDS, bodyAt).has("shared/helper.ts")).toBe(true)
+  expect(readingOver(TRACKED, bodyAt).over(SEEDS).has("shared/helper.ts")).toBe(true)
 })
 
 test("a file reached through another file reached is reached too", () => {
-  expect(closureOver(TRACKED, SEEDS, bodyAt).has("shared/gone.ts")).toBe(true)
+  expect(readingOver(TRACKED, bodyAt).over(SEEDS).has("shared/gone.ts")).toBe(true)
 })
 
 test("a file nothing beside the page reaches is no file the deploy is built from", () => {
-  const found = closureOver(TRACKED, SEEDS, bodyAt)
+  const found = readingOver(TRACKED, bodyAt).over(SEEDS)
   expect(found.has("shared/apart.ts")).toBe(false)
   expect(found.has("apps/two/two.web-app.ts")).toBe(false)
 })
 
 test("a path git does not track is reached by nothing", () => {
-  const found = closureOver([PAGE, "apps/one/main.ts"], SEEDS, bodyAt)
+  const found = readingOver([PAGE, "apps/one/main.ts"], bodyAt).over(SEEDS)
   expect(found.has("shared/helper.ts")).toBe(false)
 })
 

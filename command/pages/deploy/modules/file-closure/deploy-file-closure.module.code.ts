@@ -60,7 +60,7 @@ export type Reading = {
   readonly over: (seeds: readonly string[]) => ReadonlySet<string>
 }
 
-function readingOver(tracked: readonly string[], bodyAt: Body): Reading {
+export function readingOver(tracked: readonly string[], bodyAt: Body): Reading {
   const bodies = memoized(bodyAt)
   const naming = reachingOf(manifestsAmong(tracked, MANIFEST), bodies)
   const code = codeBodies(bodies)
@@ -134,14 +134,6 @@ function seedsFor(
   if (read.kind === WEB_APP) return [...beside, ...webSeeds(root, slug, tracked)]
   if (read.kind === IOS_APP) return [...beside, ...iosSeeds(root)]
   return beside
-}
-
-export function closureOver(
-  tracked: readonly string[],
-  seeds: readonly string[],
-  bodyAt: Body
-): ReadonlySet<string> {
-  return readingOver(tracked, bodyAt).over(seeds)
 }
 
 export function closureIn(
