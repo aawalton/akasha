@@ -2,7 +2,7 @@ import type { PersonaCraftDay } from "akasha/persona/craft-day/persona-craft-day
 
 export const sophia20260627 = {
   id: "019f15d6-b179-79eb-9342-8ed712cd7ff3",
-  type: "persona-craft-day",
+  type: "page-type/persona-craft-day",
   slug: "sophia-2026-06-27",
   title: "Sophia — 2026-06-27",
   persona: "persona/sophia",
