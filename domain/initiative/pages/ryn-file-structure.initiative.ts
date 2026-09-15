@@ -11,11 +11,6 @@ export const rynFileStructure = {
       statement: "A folder is named in the singular.",
     },
     {
-      statement: "No domain or page type slug is plural.",
-      workingMemory:
-        "Alan narrowed this to the pages that own a structural folder; the 1513 module slugs ending in `s` stay. These read as singular already and stay: mathematics, talos, seaweedfs, util-fs, great-courses, visual-arts, book-series, ki-book-series, world-species, temper-holdings. Renaming a domain renames its folder, so this intent and the folder one land in one motion. Only cluster-manifests is left, and its rename and its folder move refuse apart and refuse together.\n",
-    },
-    {
       statement:
         "A page sits under the page naming it a part rather than in a registry of its own kind.",
       workingMemory:
