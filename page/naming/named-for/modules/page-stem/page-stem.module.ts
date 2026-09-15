@@ -4,7 +4,7 @@ export const pageStem = {
   id: "01a05c53-bc6b-7dba-8a4d-0388f0ff1db2",
   type: "module",
   slug: "page-stem",
-  definition: "free text cut down to the part of a file name a page is found by",
+  definition: "free text folded into the part of a file name a page is found by",
   code: "ts",
   invariants: [
     {
@@ -20,12 +20,16 @@ export const pageStem = {
       statement: "A run of anything else becomes one dash.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
-      statement: "A stem runs to a hundred characters.",
+      invariantKind: "invariant-kind/departure",
+      statement: "A stem carries no dash at either end.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A stem cut to length loses the dash the cut left at its end.",
+      statement: "The hundred characters a page's slug holds is named here for every minter.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "Nothing here shortens a stem, which is done where the stem is minted.",
     },
   ],
 } as const satisfies Module

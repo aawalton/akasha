@@ -308,7 +308,6 @@
 {"propertySlug":"invariant-kind","path":"page/name-format/pages/title-case/title-case.name-format.ts","id":"01a04eba-7459-7314-a8c6-dc565526fb11"}
 {"propertySlug":"invariant-kind","path":"page/name-format/pages/upper-camel-case/upper-camel-case.name-format.ts","id":"01a04eba-7459-7eca-8601-1a20dbb5a53c"}
 {"propertySlug":"invariant-kind","path":"page/named-folder-property/named-folder-property.page-type.ts","id":"01a081cc-8980-7180-b875-7b4681fea93d"}
-{"propertySlug":"invariant-kind","path":"page/naming/named-for/modules/page-stem/page-stem.module.ts","id":"01a05c53-bc6b-7dba-8a4d-0388f0ff1db2"}
 {"propertySlug":"invariant-kind","path":"page/properties/slug.text-property.ts","id":"01a049b9-856c-7187-96e0-518b0a8c72cb"}
 {"propertySlug":"invariant-kind","path":"page/service/modules/file-answering/file-answering.module.ts","id":"01a0784a-085f-7c1d-aec3-7e04a398f007"}
 {"propertySlug":"invariant-kind","path":"page/service/modules/page-composing/page-composing.module.ts","id":"01a05de9-57a4-7810-8d1f-402752b1598b"}

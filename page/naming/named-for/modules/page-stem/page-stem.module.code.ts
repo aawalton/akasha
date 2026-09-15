@@ -9,12 +9,11 @@ const EDGE_DASHES = /^-+|-+$/g
 export const STEM_CEILING = 100
 
 export function pageStem(text: string): string {
-  const stem = text
+  return text
     .normalize("NFKD")
     .replace(DIACRITICS, "")
     .replace(APOSTROPHES, "")
     .replace(NOT_ALPHANUMERIC, "-")
     .replace(EDGE_DASHES, "")
     .toLowerCase()
-  return stem.length <= STEM_CEILING ? stem : stem.slice(0, STEM_CEILING).replace(EDGE_DASHES, "")
 }
