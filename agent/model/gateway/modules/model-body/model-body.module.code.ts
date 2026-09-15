@@ -4,7 +4,7 @@ const MODEL_BODY = z.looseObject({ model: z.string().optional() })
 
 export type ModelBody = z.infer<typeof MODEL_BODY>
 
-export function bodyRead(bodyBuffer: ArrayBuffer): ModelBody | null {
+function bodyRead(bodyBuffer: ArrayBuffer): ModelBody | null {
   try {
     const parsed = MODEL_BODY.safeParse(JSON.parse(new TextDecoder().decode(bodyBuffer)))
     return parsed.success ? parsed.data : null
