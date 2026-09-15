@@ -2,7 +2,7 @@ import type { LuaModule } from "akasha/code/lua-module/lua-module.page-type.type
 
 export const catalogConfigFile = {
   id: "01a063ba-94e5-7985-98c9-01225f7eeb33",
-  type: "lua-module",
+  type: "page-type/lua-module",
   slug: "catalog-config-file",
   definition: "the one name the catalog add-on's side file is read back into",
   lua: "lua",
