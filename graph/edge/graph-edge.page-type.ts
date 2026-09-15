@@ -5,15 +5,9 @@ export const graphEdge = {
   type: "page-type",
   slug: "graph-edge",
   definition: "a way one thing reaches another",
-  parts: [
-    "graph-edge/import-edge",
-    "graph-edge/relation",
-    "relation-property/attributes",
-    "relation-property/index",
-  ],
+  parts: ["graph-edge/import-edge", "graph-edge/relation", "relation-property/attributes"],
   extends: ["page-type/domain"],
   properties: [
-    { pageProperty: "relation-property/index", required: false, many: false },
     {
       pageProperty: "relation-property/attributes",
       required: false,
@@ -22,19 +16,6 @@ export const graphEdge = {
     },
   ],
   invariants: [
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "An edge kind names the index that answers the edge kind or the graph derives the edge kind here.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "An edge kind may name an index and be derived here as well.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "An edge kind named by an index and derived here says which way each edge came.",
-    },
     {
       invariantKind: "invariant-kind/departure",
       statement: "An edge kind names the attributes that edge kind has.",
