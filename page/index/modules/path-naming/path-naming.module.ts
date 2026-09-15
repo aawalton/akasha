@@ -14,6 +14,10 @@ export const pathNaming = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "An index naming no importer of a path that moves leaves that path none.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A file moving in the same act is no importer of the paths that move.",
     },
     {

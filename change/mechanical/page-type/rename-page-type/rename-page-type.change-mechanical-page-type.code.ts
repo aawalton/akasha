@@ -126,10 +126,9 @@ function renamedOver(world: World, spellings: readonly Spelling[]): Answer {
   let seen = world
   const answers: Answer[] = []
   for (const one of spellings) {
-    const reading = importingOf(seen.index, new Map([[one.at, one.at]]))
-    if ("unread" in reading) return refusing(reading.unread)
+    const importers = importingOf(seen.index, new Map([[one.at, one.at]]))
     const placed = placingOver(pathsIn(seen.over), seen.textOf)
-    const over = [one.at, ...reading.importers]
+    const over = [one.at, ...importers]
     const said = exportRenamed(seen.root, one.at, over, one.of, one.to, seen.textOf, placed)
     if (said.refused !== null) return said
     answers.push(said)

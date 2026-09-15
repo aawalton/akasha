@@ -367,9 +367,7 @@ export function pageRenamed(world: World, given: Asked): Answer {
     if (folded.refused !== null) return folded
     seen = carrying(seen, said)
     for (const one of spellingsIn(seen.textOf, lands, held.said, held.slug, given.to)) {
-      const reading = importingOf(seen.index, new Map([[one.at, one.at]]))
-      if ("unread" in reading) return refusing(reading.unread)
-      const over = [one.at, ...reading.importers]
+      const over = [one.at, ...importingOf(seen.index, new Map([[one.at, one.at]]))]
       const placed = placingOver(pathsIn(seen.over), seen.textOf)
       const spelled = exportRenamed(seen.root, one.at, over, one.of, one.to, seen.textOf, placed)
       if (spelled.refused !== null) return spelled

@@ -5,8 +5,6 @@ import { importersOf } from "akasha/page/modules/reference-reading/page-referenc
 
 const UNDER = "/"
 
-export type Reading = { readonly importers: readonly string[] } | { readonly unread: string }
-
 function importedBy(given: string | Answering, from: string): readonly string[] {
   return typeof given === "string" ? importersOf(given, from) : given.importersOf(from)
 }
@@ -14,22 +12,15 @@ function importedBy(given: string | Answering, from: string): readonly string[] 
 export function importingOf(
   given: string | Answering,
   moved: ReadonlyMap<string, string>
-): Reading {
+): readonly string[] {
   const found = new Set<string>()
   for (const from of moved.keys()) {
-    let said: readonly string[]
-    try {
-      said = importedBy(given, from)
-    } catch (cause) {
-      const why = cause instanceof Error ? cause.message : String(cause)
-      return { unread: `${why}, so none were repointed` }
-    }
-    for (const one of said) {
+    for (const one of importedBy(given, from)) {
       if (moved.has(one)) continue
       found.add(one)
     }
   }
-  return { importers: [...found].sort() }
+  return [...found].sort()
 }
 
 export function namesFor(moved: ReadonlyMap<string, string>): readonly string[] {

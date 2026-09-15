@@ -21,8 +21,12 @@ function unindexed(): string {
   return scratch.rootFor("path-naming-")
 }
 
+test("an index naming no importer of a path that moves leaves that path none", () => {
+  expect(importingOf(unindexed(), MOVING)).toEqual([])
+})
+
 test("a caller naming nothing moved reads no importer at all", () => {
-  expect(importingOf(unindexed(), new Map())).toEqual({ importers: [] })
+  expect(importingOf(unindexed(), new Map())).toEqual([])
 })
 
 test("a path the caller already knows about is left out of the search", () => {

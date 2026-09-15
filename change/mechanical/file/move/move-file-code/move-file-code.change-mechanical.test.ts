@@ -76,13 +76,13 @@ test("a body already at the path it would move to is refused", async () => {
   expect(said.refused).toBe(`\`${NAMER_CODE}\` is a body already`)
 })
 
-test("an index that cannot answer refuses rather than narrowing the reach", async () => {
+test("an index naming no importer moves the file and repoints nothing", async () => {
   const held = (path: string): string | null =>
     path === HELD_CODE ? "export const kept = 1\n" : null
   const world = worldIn(scratch.rootFor("move-file-code-"), held)
   const said = await runChange(world, { from: HELD_CODE, to: KEPT })
-  expect(said.edits).toEqual([])
-  expect(said.refused).toContain("so none were repointed")
+  expect(said.refused).toBe(null)
+  expect(said.edits).toEqual([{ kind: "move", pathFrom: HELD_CODE, pathTo: KEPT }])
 })
 
 test("a path that moves carries its importer with it", async () => {

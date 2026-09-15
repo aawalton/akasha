@@ -108,10 +108,13 @@ test("a name past the length a page's slug holds is refused", () => {
   )
 })
 
-test("a name at that length is refused for nothing to do with its length", () => {
+test("a name at that length is taken, so the ceiling is the length past it", () => {
   const at = `kept-${"a".repeat(95)}`
   expect(at.length).toBe(100)
-  expect(whyOf(PAGE, at, holding(WHOLE))).toContain("so no slug was restated")
+  const world = worldIn(scratch.rootFor("slug-renaming-"), holding(WHOLE))
+  const said = slugRenamed(world, { at: PAGE, to: at })
+  expect(said.refused).toBe(null)
+  expect(bodyAfter(said, world, PAGE)).toContain(`slug: "${at}"`)
 })
 
 test("the slug it already carries is refused", () => {
@@ -120,8 +123,12 @@ test("the slug it already carries is refused", () => {
   )
 })
 
-test("an index that cannot answer refuses rather than narrowing the reach", () => {
-  expect(whyOf(PAGE, KEPT, holding(WHOLE))).toContain("so no slug was restated")
+test("an index naming no other page restates the slug over the page's own body", () => {
+  const world = worldIn(scratch.rootFor("slug-renaming-"), holding(WHOLE))
+  const said = slugRenamed(world, { at: PAGE, to: KEPT })
+  expect(said.refused).toBe(null)
+  expect([...bodiesOf(said, world).keys()]).toEqual([PAGE])
+  expect(bodyAfter(said, world, PAGE)).toContain(`slug: "${KEPT}"`)
 })
 
 test("a slug a page of that page type carries already is refused", () => {

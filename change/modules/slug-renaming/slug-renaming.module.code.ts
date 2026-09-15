@@ -180,15 +180,14 @@ export function slugRenamed(world: World, given: Asked): Said {
   for (const [path, held] of spots) {
     restating.push(...splicedIn(path, texts.get(path) ?? "", held))
   }
-  const reading = importingOf(world.index, new Map([[given.at, given.at]]))
-  if ("unread" in reading) return refusing(reading.unread)
+  const importers = importingOf(world.index, new Map([[given.at, given.at]]))
   const before = stating(restating)
   const seen = carrying(world, before)
   const placed = placingOver(pathsIn(seen.over), seen.textOf)
   const spelled = exportRenamed(
     seen.root,
     given.at,
-    [given.at, ...reading.importers],
+    [given.at, ...importers],
     bound,
     exportedAs(given.to),
     seen.textOf,

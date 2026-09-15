@@ -78,8 +78,8 @@ test("a page's own export is refused, since a page's export is its slug", async 
 test("a type a page's file declares is read rather than refused as a page", async () => {
   const world = heldIn(scratch.rootFor("token-"), PAGE, PAGE_TYPE_BODY)
   const said = await renameCodeToken(world, { at: PAGE, of: "Kept", to: "Carried" })
-  expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain("so none were repointed")
+  expect(said.refused).toBe(null)
+  expect(bodiesIn(said, world.base).get(PAGE)).toBe(PAGE_TYPE_BODY.replace("Kept", "Carried"))
 })
 
 test("a path beside no page is refused", async () => {
@@ -92,8 +92,8 @@ test("a path beside no page is refused", async () => {
 test("a file beside a page holding types is read rather than refused as a page", async () => {
   const world = heldIn(scratch.rootFor("token-"), TYPES, TYPES_BODY)
   const said = await renameCodeToken(world, { at: TYPES, of: "Kept", to: CARRIED })
-  expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain("so none were repointed")
+  expect(said.refused).toBe(null)
+  expect(bodiesIn(said, world.base).get(TYPES)).toBe(TYPES_BODY.replace("Kept", CARRIED))
 })
 
 test("a name no body could carry is refused", async () => {
@@ -110,11 +110,12 @@ test("the name it already carries is refused", async () => {
   expect(said.refused).toBe("`held` is the name it already carries")
 })
 
-test("an index that cannot answer refuses rather than narrowing the reach", async () => {
+test("an index naming no importer renames the export over that body alone", async () => {
   const world = heldIn(scratch.rootFor("token-"), LOCAL, BODY)
   const said = await renameCodeToken(world, { at: LOCAL, of: "held", to: CARRIED })
-  expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain("so none were repointed")
+  expect(said.refused).toBe(null)
+  expect([...new Set(pathsIn(said))]).toEqual([LOCAL])
+  expect(bodiesIn(said, world.base).get(LOCAL)).toBe(BODY.replace("held", CARRIED))
 })
 
 test("an exported name is renamed through every importer", async () => {

@@ -62,8 +62,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   }
   const moved = renamedInto(world, said.pageType, type.slug, beside)
   if (typeof moved === "string") return refusing(moved)
-  const reading = importingOf(world.index, moved)
-  if ("unread" in reading) return refusing(reading.unread)
+  const importers = importingOf(world.index, moved)
   if (!moved.has(given.at)) return refusing(`\`${given.at}\` names no file the page type moves`)
   const movedOver = Object.fromEntries(moved)
   const carried: Answer[] = []
@@ -88,7 +87,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     carried.push(answer)
     over = carrying(over, answer)
   }
-  for (const path of reading.importers) {
+  for (const path of importers) {
     if (moved.has(path)) continue
     if (over.textOf(path) === null) {
       return refusing(`\`${path}\` names a path that moved and could not be read`)

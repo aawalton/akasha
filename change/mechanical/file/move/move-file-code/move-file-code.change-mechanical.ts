@@ -45,7 +45,7 @@ export const moveFileCode = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "An index that cannot answer which bodies import the file refuses the move.",
+      statement: "An index naming no importer of the file moves that file and repoints nothing.",
     },
     {
       invariantKind: "invariant-kind/absence",

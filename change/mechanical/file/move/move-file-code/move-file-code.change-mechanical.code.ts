@@ -23,8 +23,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (text === null) return refusing(`\`${given.from}\` could not be read`)
   if (world.textOf(given.to) !== null) return refusing(`\`${given.to}\` is a body already`)
   const moved = { [given.from]: given.to }
-  const reading = importingOf(world.index, new Map(Object.entries(moved)))
-  if ("unread" in reading) return refusing(reading.unread)
+  const importers = importingOf(world.index, new Map(Object.entries(moved)))
   const going = await reach(world, MOVE_FILE, { from: given.from, to: given.to })
   if (going.said.refused !== null) return going.said
   const seen = going.world
@@ -32,7 +31,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const carried = repointed(seen, { was: given.from, now: given.to, moved })
   if (carried.refused !== null) return carried
   made.push(...carried.edits)
-  for (const path of reading.importers) {
+  for (const path of importers) {
     if (seen.textOf(path) === null) {
       return refusing(`\`${path}\` names what moved and could not be read`)
     }

@@ -19,12 +19,8 @@ export function movesOf(moved: ReadonlyMap<string, string>): readonly FileChange
   return said
 }
 
-export function importersOf(
-  world: World,
-  moved: ReadonlyMap<string, string>
-): readonly string[] | string {
-  const reading = importingOf(world.index, moved)
-  return "unread" in reading ? reading.unread : reading.importers
+export function importersOf(world: World, moved: ReadonlyMap<string, string>): readonly string[] {
+  return importingOf(world.index, moved)
 }
 
 export function repointedOver(
@@ -51,7 +47,6 @@ export function carriedBy(
   moved: ReadonlyMap<string, string>
 ): readonly FileChange[] | string {
   const importers = importersOf(world, moved)
-  if (typeof importers === "string") return importers
   const bodies = repointedOver(world, moved, [...moved.keys(), ...importers])
   if (typeof bodies === "string") return bodies
   return [...movesOf(moved), ...bodies]

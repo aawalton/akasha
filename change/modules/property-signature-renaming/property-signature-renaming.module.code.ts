@@ -114,9 +114,7 @@ export function signatureRespelled(world: World, given: Signing): Said {
   const address = addressOf(given.of)
   const why = whyNot(given, address)
   if (why !== null || address === null) return refusing(why ?? given.of)
-  const reading = importingOf(world.index, new Map([[given.at, given.at]]))
-  if ("unread" in reading) return refusing(reading.unread)
-  const over = [given.at, ...reading.importers]
+  const over = [given.at, ...importingOf(world.index, new Map([[given.at, given.at]]))]
   const placed = placingOver(pathsIn(world.over), world.textOf)
   const typing = typingOver(world.root, over, readingOf(world.root, world.textOf, placed), placed)
   const any = address.type === ANY

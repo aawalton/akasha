@@ -122,9 +122,8 @@ async function spelling(
 }
 
 async function exported(world: World, given: RenameCodeTokenAsked): Promise<Answer> {
-  const reading = importingOf(world.index, new Map([[given.at, given.at]]))
-  if ("unread" in reading) return refusing(reading.unread)
-  return await spelling(world, given, [given.at, ...reading.importers])
+  const importers = importingOf(world.index, new Map([[given.at, given.at]]))
+  return await spelling(world, given, [given.at, ...importers])
 }
 
 export async function renameCodeToken(world: World, given: RenameCodeTokenAsked): Promise<Answer> {
