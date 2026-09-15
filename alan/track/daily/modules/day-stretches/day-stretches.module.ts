@@ -67,23 +67,7 @@ export const dayStretches = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A short read of every stretch is refused here rather than by each caller.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The store's own count is handed back beside the rows.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "Every stretch is handed back as a whole row rather than as a page.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "What a stretch may have is asked of the `sessions` entry property.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A property the `sessions` entry declares nothing for sums to 0 from every row.",
     },
   ],
 } as const satisfies Module

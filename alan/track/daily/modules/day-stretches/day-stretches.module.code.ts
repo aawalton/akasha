@@ -9,7 +9,6 @@ import {
   checkoutRoot,
   DAILY_TRACKING,
   DAY_PAGE_TYPE,
-  SESSION_TRACKING,
 } from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
 import { pageOf } from "akasha/alan/track/daily/modules/track-pages/track-pages.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
@@ -145,31 +144,5 @@ export function sessionsOfDay(dailyId: string, keys?: readonly string[]): Promis
       ...(keys === undefined ? {} : { keys }),
     }),
     "listing the sessions of a day"
-  )
-}
-
-export interface AllSessions {
-  readonly n: number
-  readonly rows: readonly AnsweredRow[]
-}
-
-export async function allSessions(): Promise<AllSessions> {
-  const answer = await askSessions({})
-  if (!answer.ok) throw dataError(`reading every ${SESSION_TRACKING} row: ${answer.why}`)
-  if (answer.rows.length !== answer.n) {
-    throw dataError(
-      `the ${SESSION_TRACKING} read came back with ${answer.rows.length} of ${answer.n} row(s), ` +
-        "so any total summed from it would be low"
-    )
-  }
-  return { n: answer.n, rows: answer.rows }
-}
-
-export function sessionPropertyUndeclared(propertyKey: string): Promise<string | null> {
-  const declared = entryKeysDeclared(checkoutRoot(), SESSIONS, "a stretch of Alan's day")
-  if (declared.has(camelizeKey(propertyKey))) return Promise.resolve(null)
-  return Promise.resolve(
-    `the \`${SESSIONS}\` entry declares no \`${propertyKey}\`, so every stretch scores 0 and ` +
-      "any total written from it would state an instrument's silence as a measurement"
   )
 }
