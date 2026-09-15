@@ -29,7 +29,7 @@ export function numberAt(value: Value, key: string): number | null {
 }
 
 export function typeIn(value: Value): string | null {
-  return textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+  return slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
 }
 
 export function slugAt(value: Value, key: string): string | null {
