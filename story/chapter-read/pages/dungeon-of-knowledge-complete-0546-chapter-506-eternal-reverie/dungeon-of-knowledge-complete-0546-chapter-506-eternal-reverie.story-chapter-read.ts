@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0546Chapter506EternalReverie = {
   id: "01a0672c-ec3a-7001-9307-241e9e5ecf81",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0546-chapter-506-eternal-reverie",
   title: "Chapter 506: Eternal Reverie",
   story: "story-read/dungeon-of-knowledge-complete",

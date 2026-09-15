@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0532Chapter493FrozenStormArmor = {
   id: "01a0672c-ec33-7000-8a3f-7a57a217a063",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0532-chapter-493-frozen-storm-armor",
   title: "Chapter 493: Frozen Storm Armor",
   story: "story-read/dungeon-of-knowledge-complete",

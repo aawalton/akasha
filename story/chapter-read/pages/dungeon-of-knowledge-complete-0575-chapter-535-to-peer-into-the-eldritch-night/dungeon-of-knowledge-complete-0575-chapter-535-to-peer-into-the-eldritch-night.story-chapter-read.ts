@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0575Chapter535ToPeerIntoTheEldritchNight = {
   id: "01a0672c-ec4e-7000-bbf6-483ad755c1dc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0575-chapter-535-to-peer-into-the-eldritch-night",
   title: "Chapter 535: To Peer into the Eldritch Night",
   story: "story-read/dungeon-of-knowledge-complete",

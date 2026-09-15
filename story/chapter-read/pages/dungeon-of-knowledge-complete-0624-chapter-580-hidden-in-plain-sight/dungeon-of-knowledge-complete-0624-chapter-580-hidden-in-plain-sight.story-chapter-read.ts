@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0624Chapter580HiddenInPlainSight = {
   id: "01a0672c-ec68-7000-b186-5aad1851b44a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0624-chapter-580-hidden-in-plain-sight",
   title: "Chapter 580: Hidden in Plain Sight",
   story: "story-read/dungeon-of-knowledge-complete",

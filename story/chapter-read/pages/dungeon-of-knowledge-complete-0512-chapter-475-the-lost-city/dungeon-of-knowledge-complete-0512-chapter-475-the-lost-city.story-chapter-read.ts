@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0512Chapter475TheLostCity = {
   id: "01a0672c-ec29-7002-9edd-b4145c782baa",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0512-chapter-475-the-lost-city",
   title: "Chapter 475: The Lost City",
   story: "story-read/dungeon-of-knowledge-complete",

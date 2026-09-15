@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0506Chapter469AnvilOfTheEmberforge = {
   id: "01a0672c-ec24-7002-96d8-ef6ccb9754a2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0506-chapter-469-anvil-of-the-emberforge",
   title: "Chapter 469: Anvil of the Emberforge",
   story: "story-read/dungeon-of-knowledge-complete",

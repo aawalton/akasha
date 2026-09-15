@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0611Chapter567GodMaker = {
   id: "01a0672c-ec64-7001-8c82-6d377ed0a5ec",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0611-chapter-567-god-maker",
   title: "Chapter 567: God Maker",
   story: "story-read/dungeon-of-knowledge-complete",

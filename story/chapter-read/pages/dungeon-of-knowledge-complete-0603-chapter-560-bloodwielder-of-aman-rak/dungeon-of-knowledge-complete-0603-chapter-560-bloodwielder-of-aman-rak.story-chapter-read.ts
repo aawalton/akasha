@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0603Chapter560BloodwielderOfAmanRak = {
   id: "01a0672c-ec61-7002-b089-d39c552a7b5d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0603-chapter-560-bloodwielder-of-aman-rak",
   title: "Chapter 560: Bloodwielder of Aman Rak",
   story: "story-read/dungeon-of-knowledge-complete",

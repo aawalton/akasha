@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0555Chapter515Synchronization = {
   id: "01a0672c-ec3f-7003-a83b-10cdce7355f0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0555-chapter-515-synchronization",
   title: "Chapter 515: Synchronization",
   story: "story-read/dungeon-of-knowledge-complete",

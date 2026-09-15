@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0590Chapter549TierThree = {
   id: "01a0672c-ec5a-7001-9bb3-6b2d65ed7bd5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0590-chapter-549-tier-three",
   title: "Chapter 549: Tier Three",
   story: "story-read/dungeon-of-knowledge-complete",

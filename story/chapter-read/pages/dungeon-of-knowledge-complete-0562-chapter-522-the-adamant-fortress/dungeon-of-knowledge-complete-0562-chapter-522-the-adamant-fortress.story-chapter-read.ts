@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0562Chapter522TheAdamantFortress = {
   id: "01a0672c-ec42-7001-bcf8-1f11b9301bb9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0562-chapter-522-the-adamant-fortress",
   title: "Chapter 522: The Adamant Fortress",
   story: "story-read/dungeon-of-knowledge-complete",

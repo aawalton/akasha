@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0547Chapter507IntoTheDangerZone = {
   id: "01a0672c-ec3b-7000-b943-084d450d6f7d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0547-chapter-507-into-the-danger-zone",
   title: "Chapter 507: Into the Danger Zone",
   story: "story-read/dungeon-of-knowledge-complete",

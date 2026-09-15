@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0588Chapter548DungeonsAndDemigods = {
   id: "01a0672c-ec59-7000-aa85-adef9ce492b1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0588-chapter-548-dungeons-and-demigods",
   title: "Chapter 548: Dungeons and Demigods",
   story: "story-read/dungeon-of-knowledge-complete",

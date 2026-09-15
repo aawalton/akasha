@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0502Chapter465TheScoutSChoice = {
   id: "01a0672c-ec23-7000-85a6-602bb90cf455",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0502-chapter-465-the-scout-s-choice",
   title: "Chapter 465: The Scout’s Choice",
   story: "story-read/dungeon-of-knowledge-complete",

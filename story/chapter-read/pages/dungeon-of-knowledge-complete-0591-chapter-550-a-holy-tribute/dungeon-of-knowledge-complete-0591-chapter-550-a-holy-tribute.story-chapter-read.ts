@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0591Chapter550AHolyTribute = {
   id: "01a0672c-ec5b-7000-ade0-d7c786981654",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0591-chapter-550-a-holy-tribute",
   title: "Chapter 550: A Holy Tribute",
   story: "story-read/dungeon-of-knowledge-complete",

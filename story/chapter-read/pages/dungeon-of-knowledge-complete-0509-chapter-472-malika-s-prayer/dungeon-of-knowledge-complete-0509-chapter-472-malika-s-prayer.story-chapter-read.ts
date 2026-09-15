@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0509Chapter472MalikaSPrayer = {
   id: "01a0672c-ec28-7000-8f1d-f5f3e1720227",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0509-chapter-472-malika-s-prayer",
   title: "Chapter 472: Malika’s Prayer",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0569Chapter529TheInnerRing = {
   id: "01a0672c-ec48-7000-8638-739193572793",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0569-chapter-529-the-inner-ring",
   title: "Chapter 529: The Inner Ring",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0500Chapter463ShadowsAndVoid = {
   id: "01a0672c-ec22-7005-b2cc-7fc4e3df5834",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0500-chapter-463-shadows-and-void",
   title: "Chapter 463: Shadows and Void",
   story: "story-read/dungeon-of-knowledge-complete",

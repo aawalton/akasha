@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0574Chapter534AJourneyWithAnUncertainDestination = {
   id: "01a0672c-ec4d-7000-9c8a-bc694225e218",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0574-chapter-534-a-journey-with-an-uncertain-destination",
   title: "Chapter 534: A Journey with an Uncertain Destination",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0530Chapter491ABrushWithDeath = {
   id: "01a0672c-ec31-7000-87ee-925ba284c31c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0530-chapter-491-a-brush-with-death",
   title: "Chapter 491: A Brush with Death",
   story: "story-read/dungeon-of-knowledge-complete",

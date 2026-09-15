@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0525Chapter486CursedRunes = {
   id: "01a0672c-ec2e-7001-af86-5075ab9d586c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0525-chapter-486-cursed-runes",
   title: "Chapter 486: Cursed Runes",
   story: "story-read/dungeon-of-knowledge-complete",

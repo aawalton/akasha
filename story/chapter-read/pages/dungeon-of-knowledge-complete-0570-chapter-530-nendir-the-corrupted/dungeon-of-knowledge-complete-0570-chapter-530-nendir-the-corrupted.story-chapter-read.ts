@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0570Chapter530NendirTheCorrupted = {
   id: "01a0672c-ec49-7000-beec-ac93972432c0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0570-chapter-530-nendir-the-corrupted",
   title: "Chapter 530: Nendir, The Corrupted",
   story: "story-read/dungeon-of-knowledge-complete",

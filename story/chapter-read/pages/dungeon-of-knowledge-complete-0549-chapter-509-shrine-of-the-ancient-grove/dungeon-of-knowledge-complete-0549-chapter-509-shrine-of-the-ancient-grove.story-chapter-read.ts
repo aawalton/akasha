@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0549Chapter509ShrineOfTheAncientGrove = {
   id: "01a0672c-ec3c-7001-a7e6-77e5266047f7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0549-chapter-509-shrine-of-the-ancient-grove",
   title: "Chapter 509: Shrine of the Ancient Grove",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0518Chapter480Rule4ThePowerOfPreparation = {
   id: "01a0672c-ec2b-7000-b02b-89ac0881324f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0518-chapter-480-rule-4-the-power-of-preparation",
   title: "Chapter 480: Rule 4, The Power of Preparation.",
   story: "story-read/dungeon-of-knowledge-complete",

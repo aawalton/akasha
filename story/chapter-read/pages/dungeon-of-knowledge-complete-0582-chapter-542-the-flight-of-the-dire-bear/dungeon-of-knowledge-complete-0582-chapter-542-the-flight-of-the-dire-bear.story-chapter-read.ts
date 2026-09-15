@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0582Chapter542TheFlightOfTheDireBear = {
   id: "01a0672c-ec52-7000-b772-29e84df6fe68",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0582-chapter-542-the-flight-of-the-dire-bear",
   title: "Chapter 542: The Flight of the Dire Bear",
   story: "story-read/dungeon-of-knowledge-complete",

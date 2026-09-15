@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0626Chapter582TheLichSPhylactery = {
   id: "01a0672c-ec69-7000-9f9d-9ad8abaab833",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0626-chapter-582-the-lich-s-phylactery",
   title: "Chapter 582: The Lich’s Phylactery",
   story: "story-read/dungeon-of-knowledge-complete",

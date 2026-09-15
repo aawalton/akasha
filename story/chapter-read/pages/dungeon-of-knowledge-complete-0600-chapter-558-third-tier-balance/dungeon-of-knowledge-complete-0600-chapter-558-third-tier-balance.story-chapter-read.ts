@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0600Chapter558ThirdTierBalance = {
   id: "01a0672c-ec60-7002-b6a4-3ef900964750",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0600-chapter-558-third-tier-balance",
   title: "Chapter 558: Third Tier Balance",
   story: "story-read/dungeon-of-knowledge-complete",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const dungeonOfKnowledgeComplete0594Chapter553TheAuthorityOfTheLiving = {
   id: "01a0672c-ec5c-7000-ba56-3019fd7ba50c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0594-chapter-553-the-authority-of-the-living",
   title: "Chapter 553: The Authority of the Living",
   story: "story-read/dungeon-of-knowledge-complete",
