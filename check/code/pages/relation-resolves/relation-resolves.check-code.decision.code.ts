@@ -25,7 +25,7 @@ import {
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
-  textAt,
+  slugAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -143,7 +143,7 @@ export function danglingIn(
   mortal: Mortality,
   rowing: readonly Rowing[]
 ): readonly Judged[] {
-  const own = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+  const own = slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
   if (own !== null && mortal.stated(own)) return []
   const said: Judged[] = []
   const seen = new Set<string>()
