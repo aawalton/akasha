@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibAsync = {
   id: "01a0606a-1c52-7326-b2c4-11a5a0c5c3fa",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-async",
   definition: "a shared scheduler running other addons' work a slice at a time across frames",
 

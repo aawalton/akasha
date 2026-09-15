@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperHudAddon = {
   id: "01a061c5-18dd-7011-a8e7-8f6d488e9b03",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-hud-addon",
   definition:
     "the add-on holding the status bar and the slash command every Temper add-on adds a subcommand to",

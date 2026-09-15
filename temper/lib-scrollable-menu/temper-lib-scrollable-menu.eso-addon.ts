@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibScrollableMenu = {
   id: "01a06275-c44a-71b2-a8e1-108e1c1dfd4b",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-scrollable-menu",
   definition: "an addon library giving a combobox a scrollable menu with nested submenus",
 

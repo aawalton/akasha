@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibCharacterKnowledge = {
   id: "01a061fa-8034-72e8-8175-6440e4c91a6d",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-character-knowledge",
   definition: "what every character on every account knows how to make",
 

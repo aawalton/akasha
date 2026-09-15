@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibDataEncode = {
   id: "01a06061-969c-79fe-8013-c5a31045b336",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-data-encode",
   definition: "an arbitrary Lua table packed into text the game may carry and read back",
 

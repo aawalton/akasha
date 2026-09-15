@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperEventsAddon = {
   id: "01a06157-835b-787b-bc13-9bd25c3742cd",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-events-addon",
   definition: "the add-on counting down world content the game gates behind a timer",
 

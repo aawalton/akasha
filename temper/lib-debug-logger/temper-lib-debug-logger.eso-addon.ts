@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibDebugLogger = {
   id: "01a06061-408b-7657-add9-d2dfd959f9b9",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-debug-logger",
   definition: "the in-game log every other addon writes to and the errors the client raises",
 

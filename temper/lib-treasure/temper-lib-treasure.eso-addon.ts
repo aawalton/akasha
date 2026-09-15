@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibTreasure = {
   id: "01a061d5-d0c3-7a12-a5dc-1ab43add5958",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-treasure",
   definition: "where every treasure map, survey report and clue is buried",
 

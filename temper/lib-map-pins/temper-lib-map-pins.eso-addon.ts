@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibMapPins = {
   id: "01a06062-57dc-7eeb-bb3d-6badd05f9bf5",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-map-pins",
   definition: "an addon library adding custom pins and their filter checkboxes to the world map",
 

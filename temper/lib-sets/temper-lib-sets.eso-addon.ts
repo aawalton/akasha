@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibSets = {
   id: "01a0617b-4b72-7c64-bc02-7f49e4f6ee46",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-sets",
   definition: "an addon library naming every gear set in the game and saying where each one drops",
 

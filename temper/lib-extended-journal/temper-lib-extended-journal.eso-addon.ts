@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibExtendedJournal = {
   id: "01a0617d-5454-7d6e-a26b-24878ddb747f",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-extended-journal",
   definition: "a window other add-ons hang a tab in, built like the game's own journal",
 

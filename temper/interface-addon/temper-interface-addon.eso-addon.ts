@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperInterfaceAddon = {
   id: "01a060e7-1bea-7ec8-9343-b0e442437b98",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-interface-addon",
   definition: "the add-on holding the interface tweaks that no other add-on has a home for",
 

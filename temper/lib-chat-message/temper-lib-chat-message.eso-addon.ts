@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibChatMessage = {
   id: "01a06060-0d13-746b-9617-c8f4b7d288ce",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-chat-message",
   definition: "an addon library printing tagged chat messages and restoring chat across sessions",
 

@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibZone = {
   id: "01a061e7-9339-786d-9b8b-dd5d2b7a609c",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-zone",
   definition: "every zone and subzone the game holds, named in each language",
 

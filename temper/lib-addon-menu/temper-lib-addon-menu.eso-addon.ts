@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibAddonMenu = {
   id: "01a06292-8851-701c-9273-a19fa38175bb",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-addon-menu",
   definition: "the settings panel other add-ons declare their options to",
 

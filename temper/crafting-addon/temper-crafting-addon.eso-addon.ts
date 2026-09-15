@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperCraftingAddon = {
   id: "01a061c7-e8c6-7757-820f-c90f8d327b2e",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-crafting-addon",
   definition: "the add-on that answers what a character can craft, learn and study",
 

@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibAlchemyStation = {
   id: "01a06054-98ba-7687-a7df-a99c3188320b",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-alchemy-station",
   definition: "the tabs other addons add to the game's alchemy crafting station",
 

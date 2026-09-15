@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibAddonKeybinds = {
   id: "01a0605a-0518-757d-8157-8586eaf48429",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-addon-keybinds",
   definition: "the split of the game's keybindings menu into standard keybinds and addon keybinds",
 

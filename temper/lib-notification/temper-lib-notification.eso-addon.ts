@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibNotification = {
   id: "01a0605a-0514-797f-9f36-a01b055a56fc",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-notification",
   definition: "the rows an addon adds to the game's notifications panel",
 

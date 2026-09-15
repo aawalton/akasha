@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperCompanionsAddon = {
   id: "01a0611d-84e6-7be5-8c8a-4c6082779c87",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-companions-addon",
   definition: "the add-on a player reads a companion's gear and skills from and aims at a build",
 

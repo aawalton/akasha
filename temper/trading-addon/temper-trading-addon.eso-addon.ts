@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperTradingAddon = {
   id: "01a06160-2a58-7de9-8f4a-dbca3806b485",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-trading-addon",
   definition: "the add-on a player browses guild store listings from and prices a sale by",
 

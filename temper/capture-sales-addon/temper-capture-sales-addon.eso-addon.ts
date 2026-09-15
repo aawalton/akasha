@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperCaptureSalesAddon = {
   id: "01a060e2-3181-7c02-be71-c63b5b648d5b",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-capture-sales-addon",
   definition: "the add-on capturing the player's own guild store sales for a host to read",
 

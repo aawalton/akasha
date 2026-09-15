@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperErrorsAddon = {
   id: "01a060d8-091b-75bc-9d03-8347c2e81d2f",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-errors-addon",
   definition: "the add-on that records every Lua error the game raises into saved variables",
 

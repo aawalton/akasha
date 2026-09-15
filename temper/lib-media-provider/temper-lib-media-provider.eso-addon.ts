@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibMediaProvider = {
   id: "01a06069-f8c0-7024-bde1-26d49b2a6bff",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-media-provider",
   definition: "the fonts, textures and sounds addons share with each other",
 

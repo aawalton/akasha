@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibPrice = {
   id: "01a0615d-c21d-7961-8564-2c0c9e040e08",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-price",
   definition: "what an item is worth, gathered from every trading add-on the player has",
 

@@ -2,7 +2,7 @@ import type { EsoAddon } from "akasha/code/eso-addon/eso-addon.page-type.types.t
 
 export const temperLibSlashCommander = {
   id: "01a06066-8400-790c-a2ed-5c212c9cdab7",
-  type: "eso-addon",
+  type: "page-type/eso-addon",
   slug: "temper-lib-slash-commander",
   definition: "a slash command another addon registers, and the chat completion offering it",
 
