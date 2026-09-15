@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const mediaVariantAxis = {
   id: "01a062b8-8775-7005-bf65-1446f2feb5d3",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "media-variant-axis",
   propertySlug: "variant-axis",
   definition: "what a page's audio is rendered once per, so one page has several renditions",

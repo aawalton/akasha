@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const fromPattern = {
   id: "01a0822d-8673-7397-8503-1c02923906e6",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "from-pattern",
   propertySlug: "from-pattern",
   definition: "a construction a banned term is written in",

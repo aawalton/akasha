@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const perceiving = {
   id: "01a06828-cb92-72da-b8dd-283125f0a0f9",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "perceiving",
   propertySlug: "perceiving",
   definition: "what an element takes in",

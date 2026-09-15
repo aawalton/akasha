@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const alertDomain = {
   id: "01a06755-0778-78ee-bf36-f7fd5ffa5619",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "alert-domain",
   propertySlug: "domain",
   definition: "the area a raised alert is owed to",

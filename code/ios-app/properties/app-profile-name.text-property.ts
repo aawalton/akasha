@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const appProfileName = {
   id: "01a068c9-394b-790f-b603-363f17400f93",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "app-profile-name",
   propertySlug: "app-profile-name",
   definition: "the App Store profile an app is signed with",

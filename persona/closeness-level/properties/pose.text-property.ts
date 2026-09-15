@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const pose = {
   id: "01a0540e-5114-7d4b-aa95-09eb8964df65",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "pose",
   propertySlug: "pose",
   definition: "how a persona is posed and framed at a rung",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const knowing = {
   id: "01a06828-cb93-7f9c-89f9-65e57b1e1b0f",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "knowing",
   propertySlug: "knowing",
   definition: "what an element has as so",

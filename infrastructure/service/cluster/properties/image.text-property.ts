@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const image = {
   id: "01a05b26-f8b6-73e6-aedb-75b88fac6b4b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "image",
   propertySlug: "image",
   definition: "the container image a workload's pods run",

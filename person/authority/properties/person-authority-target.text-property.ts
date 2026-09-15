@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const personAuthorityTarget = {
   id: "01a05430-c0f0-78db-bb0e-ea07c84713f0",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "person-authority-target",
   propertySlug: "target",
   definition: "the area the authority covers",

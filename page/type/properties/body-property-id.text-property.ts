@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const bodyPropertyId = {
   id: "01a0683a-620a-7bd1-9f9f-26882ff5531b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "body-property-id",
   propertySlug: "body-property-id",
   definition: "the key of the property a page's body is read from",

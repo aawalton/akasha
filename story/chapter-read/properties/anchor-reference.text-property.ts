@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const anchorReference = {
   id: "01a0685e-ef8a-76f9-a66e-01a05c60c791",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "anchor-reference",
   propertySlug: "reference",
   definition: "what an anchor is read against",

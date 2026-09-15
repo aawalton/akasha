@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const schedule = {
   id: "01a05a3f-b42e-78d1-a00b-e982e5830c5c",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "schedule",
   propertySlug: "schedule",
   definition: "the times a unit is started at",

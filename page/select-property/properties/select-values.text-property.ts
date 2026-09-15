@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const selectValues = {
   id: "01a063de-2c60-7002-b5a6-6a0c7363e4f6",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "select-values",
   propertySlug: "values",
   definition: "one value a select property admits",

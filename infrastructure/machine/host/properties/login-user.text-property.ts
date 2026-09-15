@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const loginUser = {
   id: "01a07c91-865a-7319-9007-975934b929e4",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "login-user",
   propertySlug: "login-user",
   definition: "the account a script signs in to the host as",

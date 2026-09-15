@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const octalysisName = {
   id: "01a06756-f63f-763c-97cb-c93cfa22c0a7",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "octalysis-name",
   propertySlug: "name",
   definition: "what Chou calls a drive",

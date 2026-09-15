@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const inferenceHost = {
   id: "01a09094-7525-73c0-bc06-d3cdd15b053b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "inference-host",
   propertySlug: "host",
   definition: "the machine outside the cluster a service runs on",

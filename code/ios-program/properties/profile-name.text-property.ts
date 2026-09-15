@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const profileName = {
   id: "01a059b4-7acb-714e-a535-bcc8e1972c6a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "profile-name",
   propertySlug: "profile-name",
   definition: "the profile Apple signs a program against",

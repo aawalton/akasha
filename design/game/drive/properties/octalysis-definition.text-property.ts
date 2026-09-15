@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const octalysisDefinition = {
   id: "01a06756-f65a-72fb-a0c1-4ae3bcfb2665",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "octalysis-definition",
   propertySlug: "definition",
   definition: "how Chou defines a drive",

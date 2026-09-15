@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const buildCommand = {
   id: "01a05b26-f8b6-7600-9b5a-4fed2b228f2b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "build-command",
   propertySlug: "build-command",
   definition: "the command run in a web app's source folder to make its build",

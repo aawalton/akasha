@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const deviceSecretDeviceId = {
   id: "01a05b39-f50c-7066-918d-6a9ab1940531",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "device-secret-device-id",
   propertySlug: "device-id",
   definition: "the device a secret was minted onto",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const fixedValue = {
   id: "01a08834-233c-7012-b368-59193396cdb4",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "fixed-value",
   propertySlug: "fixed",
   definition: "the value every page of a type has for a property, stated by none of them",

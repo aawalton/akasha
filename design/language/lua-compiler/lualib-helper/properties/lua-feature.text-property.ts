@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const luaFeature = {
   id: "01a081d9-0177-760b-bdf9-9a8231cf9177",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "lua-feature",
   propertySlug: "lua-feature",
   definition: "the lualib feature a helper is emitted as",

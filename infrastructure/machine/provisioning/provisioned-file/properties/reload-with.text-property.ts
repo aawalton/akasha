@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const reloadWith = {
   id: "01a06861-49aa-76f2-affd-b68bc4f6045a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "reload-with",
   propertySlug: "reload-with",
   definition: "what is run after the body is placed so the placing takes effect",

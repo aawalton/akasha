@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const argumentDefault = {
   id: "01a09525-5796-7b0c-81b0-2d1c6a0c8eb9",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "argument-default",
   propertySlug: "default",
   definition: "what an argument carries where no call says it",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const purpose = {
   id: "01a05333-723a-7ec2-85ad-b5aa0b77a8af",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "purpose",
   propertySlug: "purpose",
   definition: "what a persona is for",

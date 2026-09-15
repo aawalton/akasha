@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const alertRoleSlug = {
   id: "01a06935-977a-7e91-ae12-88623e6a23ba",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "alert-role-slug",
   propertySlug: "role-slug",
   definition: "the role an alert is for",

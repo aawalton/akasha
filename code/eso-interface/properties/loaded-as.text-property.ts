@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const loadedAs = {
   id: "01a061c5-760e-7c2b-8bed-7804c4b4226d",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "loaded-as",
   propertySlug: "loaded-as",
   definition: "the name an addon's manifest loads this file by",

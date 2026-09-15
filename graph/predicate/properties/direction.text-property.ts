@@ -4,7 +4,7 @@ export type Direction = "in" | "out"
 
 export const direction = {
   id: "01a0a5e2-270a-7e0a-8a1d-0d7ae58c26f5",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "direction",
   propertySlug: "direction",
   definition: "the way along an edge a predicate follows that edge",

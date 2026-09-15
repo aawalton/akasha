@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const lastMessagedAt = {
   id: "01a05398-caad-7428-b9a6-ec3a8f09470c",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "last-messaged-at",
   propertySlug: "last-messaged-at",
   definition: "when Alan last wrote to a persona",

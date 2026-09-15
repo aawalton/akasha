@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const sequenceGroupBy = {
   id: "01a062de-2001-7001-8470-331eaddff9ce",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "sequence-group-by",
   propertySlug: "group-by",
   definition: "the key whose value gathers a page type's pages into one run",

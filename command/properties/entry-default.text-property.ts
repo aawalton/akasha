@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const entryDefault = {
   id: "01a095ca-f469-7000-9627-eeb375edf870",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "entry-default",
   propertySlug: "default",
   definition: "what an argument carries under one command where no call says it",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const workdir = {
   id: "01a09094-f218-7ee2-9944-4b448087ad58",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "workdir",
   propertySlug: "workdir",
   definition: "the folder a service's command runs in",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const sessionSlug = {
   id: "01a06580-66fd-7412-a20a-d678614e0121",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "session-slug",
   propertySlug: "session-slug",
   definition: "the bout of training the set belonged to",

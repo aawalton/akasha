@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const description = {
   id: "01a05fac-7583-7834-bf07-5cbbd0603ee2",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "description",
   propertySlug: "description",
   definition: "what a thing is, said for a reader",

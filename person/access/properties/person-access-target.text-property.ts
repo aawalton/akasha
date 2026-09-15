@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const personAccessTarget = {
   id: "01a05430-c0ee-7f62-a8b7-74d97d845e28",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "person-access-target",
   propertySlug: "target",
   definition: "the one thing of that kind the access reaches, or `all`",

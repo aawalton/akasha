@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const pattern = {
   id: "01a05950-57fe-7e42-81cf-987da9b05f9e",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "pattern",
   propertySlug: "pattern",
   definition: "the regular expression that finds a taboo term in changed text",

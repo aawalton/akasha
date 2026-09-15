@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const imageRepository = {
   id: "01a08d9f-90c7-73d8-85fa-29e1f90a26a9",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "image-repository",
   propertySlug: "repository",
   definition: "the path an image is pushed to in the cluster's registry",

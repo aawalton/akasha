@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const addonName = {
   id: "01a0819c-d367-7e7f-bd2f-562afd223044",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "addon-name",
   propertySlug: "addon-name",
   definition: "the name the game loads an addon under",

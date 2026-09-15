@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const storyTone = {
   id: "01a06577-f385-77c5-8044-fa6dc0c5d353",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "story-tone",
   propertySlug: "tone",
   definition: "how a story is meant to feel as it is read",

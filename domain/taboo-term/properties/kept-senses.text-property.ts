@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const keptSenses = {
   id: "01a05d78-f343-7862-8bea-66d8b696dedb",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "kept-senses",
   propertySlug: "kept-senses",
   definition: "the meanings a word is written in",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const childRelation = {
   id: "01a0683a-620a-74d3-99e4-844f9991c615",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "child-relation",
   propertySlug: "child-relation",
   definition: "the key by which a gathered page names the page gathering it",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const toolReached = {
   id: "01a08244-d443-73d4-a3ac-7e9977467048",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "tool-reached",
   propertySlug: "tool-reached",
   definition: "a dependency a tool reaches rather than a body importing it",

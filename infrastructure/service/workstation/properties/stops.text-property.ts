@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const stops = {
   id: "01a06738-9f12-776d-8c5e-1f8340434ace",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "stops",
   propertySlug: "stops",
   definition: "a command line a unit runs to bring down what it started",

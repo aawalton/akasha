@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const extensions = {
   id: "01a08e1f-408a-7ae7-a4d9-21cdd5a19500",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "extensions",
   propertySlug: "extensions",
   definition: "the endings a page names this property's file with",

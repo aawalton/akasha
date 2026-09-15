@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const refusedCommit = {
   id: "01a09205-5959-7884-8c62-22e66c54cad9",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "refused-commit",
   propertySlug: "refused-commit",
   definition: "the commit the last deploy that refused was made at",

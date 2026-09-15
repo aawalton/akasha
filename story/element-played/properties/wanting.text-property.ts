@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const wanting = {
   id: "01a06828-cb95-75d6-bded-037a8040ab95",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "wanting",
   propertySlug: "wanting",
   definition: "what an element is after",

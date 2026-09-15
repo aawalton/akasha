@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const gameSystem = {
   id: "01a06577-f385-7913-8218-84f47eaafa5d",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "game-system",
   propertySlug: "game-system",
   definition: "the rules a build is read against, said in full",

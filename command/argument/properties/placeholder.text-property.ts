@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const placeholder = {
   id: "01a093fd-6bbc-77a2-ba27-0fc290cf93b0",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "placeholder",
   propertySlug: "placeholder",
   definition: "the word naming what an argument's value is, where that argument is shown",

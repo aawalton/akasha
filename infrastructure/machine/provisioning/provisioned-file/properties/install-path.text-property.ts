@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const installPath = {
   id: "01a06861-49aa-732d-b17a-0d0fb92dccad",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "install-path",
   propertySlug: "install-path",
   definition: "where outside akasha the body is put so the thing reading it finds it",

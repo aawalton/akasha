@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const deployedCommit = {
   id: "01a09189-f956-77a0-ba59-fe66d243fae8",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "deployed-commit",
   propertySlug: "deployed-commit",
   definition: "the commit the last deploy that finished put up",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const visibleProperties = {
   id: "01a0680d-4d00-700a-b249-6c8e4a3f410b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "visible-properties",
   propertySlug: "visible-properties",
   definition: "the properties a view draws",

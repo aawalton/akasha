@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const writtenBy = {
   id: "01a08234-d8ba-7bb5-9be6-95a087589e12",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "written-by",
   propertySlug: "written-by",
   definition: "the command a generated declaration is written again by",

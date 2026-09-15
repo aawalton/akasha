@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const variants = {
   id: "01a08249-f82c-7f1b-8203-9dcefa386e51",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "variants",
   propertySlug: "variants",
   definition: "another spelling of a term, differing from the plainest only by grammar",

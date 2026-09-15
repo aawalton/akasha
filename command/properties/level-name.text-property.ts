@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const levelName = {
   id: "01a093f5-ae9f-72c3-876a-43c8d863335d",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "level-name",
   propertySlug: "name",
   definition: "the word or words one level of the command tree is reached by",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const alertSummary = {
   id: "01a06755-0778-707f-9e4a-5ccb7cd1e5a0",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "alert-summary",
   propertySlug: "summary",
   definition: "the line shown when an alert is raised",

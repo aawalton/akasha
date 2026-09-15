@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const linkedAt = {
   id: "01a08e0e-63aa-73e3-9073-68366457ff76",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "linked-at",
   propertySlug: "linked-at",
   definition: "where outside akasha a link reaches the folder a page owns",

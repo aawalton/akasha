@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const galleryCoverSource = {
   id: "01a0680d-4d00-7010-a534-3c8b5e9d4111",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "gallery-cover-source",
   propertySlug: "gallery-cover-source",
   definition: "the property a gallery takes its picture from",

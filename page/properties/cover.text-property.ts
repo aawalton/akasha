@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const cover = {
   id: "01a0539d-94a2-71f8-83d3-2c8cd1f8db2e",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "cover",
   propertySlug: "cover",
   definition: "the image that represents a page",

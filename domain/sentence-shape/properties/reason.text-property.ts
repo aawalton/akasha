@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const reason = {
   id: "01a05da1-60fe-7007-b28f-f863cb3deabf",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "reason",
   propertySlug: "reason",
   definition: "the fact a sentence shape is refused on",

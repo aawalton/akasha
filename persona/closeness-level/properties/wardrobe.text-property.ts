@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const wardrobe = {
   id: "01a0540e-5114-7d84-a429-e283fe90a3de",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "wardrobe",
   propertySlug: "wardrobe",
   definition: "what a persona wears at a rung",

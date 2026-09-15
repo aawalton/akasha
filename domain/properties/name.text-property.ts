@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const name = {
   id: "01a049e7-9b73-7000-af6e-b06a64bcd1c1",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "name",
   propertySlug: "name",
   definition: "what a directive is called",

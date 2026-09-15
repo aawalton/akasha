@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const lifecycle = {
   id: "01a09095-243b-7ce0-9a35-68fd9e450733",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "lifecycle",
   propertySlug: "lifecycle",
   definition: "how a service is held on its host",

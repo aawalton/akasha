@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const voiceInstruction = {
   id: "01a0536a-42f1-75a1-9d17-e1d2e7827f6a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "voice-instruction",
   propertySlug: "voice-instruction",
   definition: "the description a persona's voice was built from",

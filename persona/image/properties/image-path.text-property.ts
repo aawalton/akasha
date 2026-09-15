@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const imagePath = {
   id: "01a0655b-4a9b-7000-be1d-ee856388970b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "image-path",
   propertySlug: "image-path",
   definition: "where a picture is, read against the root it names",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const gbwwReadings = {
   id: "01a06577-f385-7702-a611-a508ed1f473c",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "gbww-readings",
   propertySlug: "gbww-readings",
   definition: "the Great Books readings a story is set against",

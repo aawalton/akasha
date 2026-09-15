@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const bundleId = {
   id: "01a0597a-8eac-7076-83c7-0a77ea71e29b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "bundle-id",
   propertySlug: "bundle-id",
   definition: "the name a phone knows an app by",

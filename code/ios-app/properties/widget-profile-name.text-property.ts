@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const widgetProfileName = {
   id: "01a068c9-394b-7587-af7d-e66c162badae",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "widget-profile-name",
   propertySlug: "widget-profile-name",
   definition: "the App Store profile an app's widgets are signed with",

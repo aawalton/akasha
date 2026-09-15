@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const designSystem = {
   id: "01a06577-f385-706d-b2ec-adb7723daede",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "design-system",
   propertySlug: "system",
   definition: "the rules a story's world runs on",

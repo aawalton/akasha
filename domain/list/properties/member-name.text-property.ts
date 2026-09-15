@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const memberName = {
   id: "01a06838-7a9e-70f2-8639-14c82d25d28a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "member-name",
   propertySlug: "member-name",
   definition: "what one member of a list is called",

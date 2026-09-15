@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const mediaSourcePropertyId = {
   id: "01a062b8-8775-7004-96c1-c6b300535f4e",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "media-source-property-id",
   propertySlug: "source-property-id",
   definition: "the key of the property a page's audio is rendered from",

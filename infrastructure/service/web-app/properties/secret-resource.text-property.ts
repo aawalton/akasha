@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const secretResource = {
   id: "01a08cfa-dafb-7b31-884e-718e64f5308b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "secret-resource",
   propertySlug: "secret-resource",
   definition: "the cluster resource a web app's secret values are placed in",

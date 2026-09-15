@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const hiddenPropertiesOrder = {
   id: "01a0680d-4d00-700c-a856-2e9f4b7d410d",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "hidden-properties-order",
   propertySlug: "hidden-properties-order",
   definition: "the properties a view hides, in the order a person would reach them",

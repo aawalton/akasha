@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const lengthPropertyId = {
   id: "01a0683a-620a-7c9f-8c62-ed7e2e10a9ca",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "length-property-id",
   propertySlug: "length-property-id",
   definition: "the key of the property holding how long a page is",

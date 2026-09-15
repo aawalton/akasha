@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const recipeRepository = {
   id: "01a08de4-9042-7962-b887-9de3467bd20b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "recipe-repository",
   propertySlug: "repository",
   definition: "the name an image is held under in the registry it is pushed to",

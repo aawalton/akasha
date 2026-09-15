@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const luaExport = {
   id: "01a08168-a789-7c4b-8c96-68f15749213a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "lua-export",
   propertySlug: "lua-export",
   definition: "the name a compiled helper is reached by in Lua",

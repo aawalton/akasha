@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const said = {
   id: "01a05027-c468-7aba-9ec6-e02a71e9af84",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "said",
   propertySlug: "said",
   definition: "how one thing a command takes is spelled on the command line",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const defaultValue = {
   id: "01a05a49-22f2-722f-8e3e-acd6d81b5c28",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "default-value",
   propertySlug: "default",
   definition: "the value a writer states for a property when it is told none",

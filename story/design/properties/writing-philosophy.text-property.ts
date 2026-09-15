@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const writingPhilosophy = {
   id: "01a06577-f385-70a0-ae6c-ca7b892cbd3b",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "writing-philosophy",
   propertySlug: "writing-philosophy",
   definition: "the rules the writing of a story has itself to",

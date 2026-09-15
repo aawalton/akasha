@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const takes = {
   id: "01a05027-c468-7573-9eec-f4d1ecd0bced",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "takes",
   propertySlug: "takes",
   definition: "what one thing a command takes is for",

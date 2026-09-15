@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const structure = {
   id: "01a06577-f385-74b8-a41f-28866d09f90a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "structure",
   propertySlug: "structure",
   definition: "how a story's parts are arranged",

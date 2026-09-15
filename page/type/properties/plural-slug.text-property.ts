@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const pluralSlug = {
   id: "01a0a5ae-a36e-7000-b147-642bd48aac2a",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "plural-slug",
   propertySlug: "plural-slug",
   definition: "the name many pages of a page type are gathered under",

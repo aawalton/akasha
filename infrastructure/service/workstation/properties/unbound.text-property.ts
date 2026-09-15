@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const unbound = {
   id: "01a08ca8-6bf9-7831-8200-c579ad49fb3c",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "unbound",
   propertySlug: "unbound",
   definition: "a host name a service states and is not listening on",

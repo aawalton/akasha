@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const loadScroll = {
   id: "01a0683a-620a-720b-9442-1f4e5f29ea33",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "load-scroll",
   propertySlug: "load-scroll",
   definition: "the place in a page the reader is put at as the page opens",

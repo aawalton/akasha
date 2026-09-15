@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const timelineDistribution = {
   id: "01a06577-f385-767b-aafb-1378cb399f58",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "timeline-distribution",
   propertySlug: "timeline-distribution",
   definition: "how a story's events are spread across its time",

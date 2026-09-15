@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const indexName = {
   id: "01a04ef3-160f-7845-bc55-4507fdef6109",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "index-name",
   propertySlug: "name",
   definition: "the name an index's answers are filed under",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const developmentTeam = {
   id: "01a059b4-7aca-79c5-9a64-6da2aeab51bd",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "development-team",
   propertySlug: "development-team",
   definition: "the Apple team an app is built for",

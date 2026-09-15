@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const note = {
   id: "01a06580-66fd-779f-a536-de00d810a18d",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "note",
   propertySlug: "note",
   definition: "what Alan said about the set as he logged it",

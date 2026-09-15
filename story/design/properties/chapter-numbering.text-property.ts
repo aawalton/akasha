@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const chapterNumbering = {
   id: "01a06577-f385-7bac-a762-2ea3397788a0",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "chapter-numbering",
   propertySlug: "chapter-numbering",
   definition: "how a story's chapters are counted",

@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const reachedByPath = {
   id: "01a0a1f2-dd68-73f4-8512-622bc33a65ca",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "reached-by-path",
   propertySlug: "reached-by-path",
   definition: "the name a module exports that something reaches by spelling this file's path",

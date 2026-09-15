@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const folderName = {
   id: "01a081cc-3144-7cd7-8de6-3cc3911adc06",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "folder-name",
   propertySlug: "folder-name",
   definition: "the name a property's folder is under",

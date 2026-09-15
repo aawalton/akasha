@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const sense = {
   id: "01a0592c-2737-7657-8471-7540e289ef9d",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "sense",
   propertySlug: "sense",
   definition: "the meaning a word is never written in",

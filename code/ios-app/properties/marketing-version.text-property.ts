@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const marketingVersion = {
   id: "01a05f96-1925-7984-9108-b4d5346476fc",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "marketing-version",
   propertySlug: "marketing-version",
   definition: "the version of an app a person reads on the App Store",

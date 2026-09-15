@@ -2,7 +2,7 @@ import type { TextProperty } from "akasha/page/text-property/text-property.page-
 
 export const anchorLexeme = {
   id: "01a0685e-ef8a-7012-99bf-937f4b87f963",
-  type: "text-property",
+  type: "page-type/text-property",
   slug: "anchor-lexeme",
   propertySlug: "lexeme",
   definition: "the words in the chapter that do the dating",
