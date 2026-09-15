@@ -136,7 +136,7 @@ describe("validateWatcherToken grants access", () => {
 
   test("still grants access when recording the use throws, and reports the failure", async () => {
     enrolment = enrolled(TOKEN_SHA256)
-    patchFails = new Error("PageTypeNotFileBacked: patchPageById temper-watcher-enrolment")
+    patchFails = new Error("patchPageById temper-watcher-enrolment: the write did not land")
 
     const { got, said } = await reporting(async () => validateWatcherToken(TOKEN))
     expect(got).toEqual({ accountPageId: ACCOUNT_PAGE })
