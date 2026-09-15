@@ -2335,6 +2335,8 @@
 {"propertySlug":"invariant-kind","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
 {"propertySlug":"invariant-kind","path":"graph/modules/asking/graph-asking.module.ts","id":"01a04ff4-320c-7689-9d79-b3b0caa05ab1"}
 {"propertySlug":"invariant-kind","path":"graph/node/graph-node.page-type.ts","id":"01a04fe8-cebb-7a08-ad56-e698e175e03b"}
+{"propertySlug":"invariant-kind","path":"graph/predicate/graph-predicate.page-type.ts","id":"01a0a5ba-8fb1-7bbb-ae4e-1c26277c3a4e"}
+{"propertySlug":"invariant-kind","path":"graph/predicate/properties/direction.text-property.ts","id":"01a0a5e2-270a-7e0a-8a1d-0d7ae58c26f5"}
 {"propertySlug":"invariant-kind","path":"infrastructure/alert/alert.page-type.ts","id":"01a06755-0778-7804-96f1-949fc3c68e4f"}
 {"propertySlug":"invariant-kind","path":"infrastructure/alert/properties/alert-domain.text-property.ts","id":"01a06755-0778-78ee-bf36-f7fd5ffa5619"}
 {"propertySlug":"invariant-kind","path":"infrastructure/alert/properties/alert-runbook.file-property.ts","id":"01a06755-0778-7275-8076-4aec6002693b"}
