@@ -1,9 +1,0 @@
-import type { Domain } from "akasha/domain/domain.page-type.types.ts"
-
-export const changeMechanicalFolderMove = {
-  id: "01a0822c-3027-7333-baae-fac9c7412202",
-  type: "domain",
-  slug: "change-mechanical-folder-move",
-  definition: "a mechanical change moving a folder to another path",
-  parts: ["change-mechanical-folder/move-folder"],
-} as const satisfies Domain

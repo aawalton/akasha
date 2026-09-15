@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { runChange } from "akasha/change/mechanical/folder/move/move-folder/move-folder.change-mechanical-folder.code.ts"
+import { runChange } from "akasha/change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.code.ts"
 import { pathsIn, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
