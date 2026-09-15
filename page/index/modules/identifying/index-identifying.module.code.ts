@@ -60,10 +60,7 @@ export function identifiedIn(
   return { pageTypeSlug, stated }
 }
 
-export function statedOf(
-  held: Identified,
-  uniqueKind: string
-): readonly Stated[] {
+export function statedOf(held: Identified, uniqueKind: string): readonly Stated[] {
   return held.stated.filter((one) => one.uniqueKind === uniqueKind)
 }
 
