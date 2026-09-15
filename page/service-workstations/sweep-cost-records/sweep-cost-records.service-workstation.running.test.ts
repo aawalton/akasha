@@ -13,7 +13,7 @@ mock.module("akasha/page/modules/record-sweeping/record-sweeping.module.code.ts"
 }))
 
 const running = await import(
-  "akasha/infrastructure/service/workstation/pages/sweep-cost-records/sweep-cost-records.service-workstation.running.code.ts"
+  "akasha/page/service-workstations/sweep-cost-records/sweep-cost-records.service-workstation.running.code.ts"
 )
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {

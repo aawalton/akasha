@@ -20,7 +20,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/service/workstation/pages/spotify-sync/spotify-sync.service-workstation.running.code.ts"
+  "akasha/alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.running.code.ts"
 )
 
 afterEach(() => {

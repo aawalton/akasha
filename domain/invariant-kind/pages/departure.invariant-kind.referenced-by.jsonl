@@ -958,6 +958,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.ts","id":"01a0697e-ded3-7147-92a2-3c8650eaf635"}
 {"propertySlug":"invariant-kind","path":"alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.ts","id":"01a0697e-ded3-7adb-9d6e-f852cfc9ffd7"}
 {"propertySlug":"invariant-kind","path":"alan/harness/surplus/modules/reading/surplus-reading.module.ts","id":"01a069bb-b921-759e-92f7-2095b2099a24"}
+{"propertySlug":"invariant-kind","path":"alan/harness/surplus/service-workstations/fall-notifier/surplus-fall-notifier.service-workstation.ts","id":"01a06829-0194-7754-b17a-14e66866bd98"}
 {"propertySlug":"invariant-kind","path":"alan/harness/surplus/surplus.domain.ts","id":"01a05fc3-145a-7fb1-9715-e7a44e378f74"}
 {"propertySlug":"invariant-kind","path":"alan/harness/voice-core/modules/estimate-marks/estimate-marks.module.ts","id":"01a05b55-e06e-753e-9209-b70e874274d3"}
 {"propertySlug":"invariant-kind","path":"alan/harness/voice-core/modules/infer-endpoint/infer-endpoint.module.ts","id":"01a05b55-e06e-7111-b593-e60ae5994db1"}
@@ -1018,6 +1019,7 @@
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.ts","id":"01a0a593-09e4-757b-a4e7-c505b16e801a"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/music-catalog.domain.ts","id":"01a06238-8d2c-7f24-81f1-c8b7232268d3"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/release/release.page-type.ts","id":"01a06769-ed1a-7000-825b-b75cf6badf16"}
+{"propertySlug":"invariant-kind","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.ts","id":"01a09c84-8cd1-758c-8c48-b28856aa0770"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/song/properties/singability.rank-property.ts","id":"01a06243-144b-700b-83e8-f1b91786511f"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/song/song.page-type.ts","id":"01a06243-144b-7012-9da5-a570a8174672"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/track/properties/disc-number.number-property.ts","id":"01a0a5df-ff89-7f60-a3a6-f27b5e02d970"}
@@ -2641,8 +2643,6 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/eso-addon-deploying/eso-addon-deploying.service-workstation.ts","id":"01a095be-957a-70aa-93ff-0845e49c8f73"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/inference-deploying/inference-deploying.service-workstation.ts","id":"01a09b0e-376c-70a6-9838-96e1f3f656a1"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/ios-app-deploying/ios-app-deploying.service-workstation.ts","id":"01a09b1a-31fc-7f84-8e3c-2b931fe57d4e"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/spotify-sync/spotify-sync.service-workstation.ts","id":"01a09c84-8cd1-758c-8c48-b28856aa0770"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/surplus-fall-notifier/surplus-fall-notifier.service-workstation.ts","id":"01a06829-0194-7754-b17a-14e66866bd98"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/sweep-stray-processes/sweep-stray-processes.service-workstation.ts","id":"01a09cee-2585-7d35-b95e-24ea1f6ace82"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/sweep-subagent-pages/sweep-subagent-pages.service-workstation.ts","id":"01a0a017-3fac-72e3-8c1a-7fdf616e1b16"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/sweep-window-pages/sweep-window-pages.service-workstation.ts","id":"01a0a166-9b55-7e8f-89b6-fccdbd5cda2d"}

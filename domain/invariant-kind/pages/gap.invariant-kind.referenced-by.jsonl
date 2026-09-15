@@ -138,6 +138,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/surplus/modules/fall-notifying/surplus-fall-notifying.module.ts","id":"01a0686a-7a57-7e6e-8a26-5e4ca27ca43d"}
 {"propertySlug":"invariant-kind","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.ts","id":"01a0697e-ded3-77d5-9cd4-07afe269931b"}
 {"propertySlug":"invariant-kind","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.ts","id":"01a0697e-ded3-7147-92a2-3c8650eaf635"}
+{"propertySlug":"invariant-kind","path":"alan/harness/surplus/service-workstations/fall-notifier/surplus-fall-notifier.service-workstation.ts","id":"01a06829-0194-7754-b17a-14e66866bd98"}
 {"propertySlug":"invariant-kind","path":"alan/library/reading/modules/offline-reading/offline-reading.module.ts","id":"01a0657b-06ac-7293-a09b-01ff92f25730"}
 {"propertySlug":"invariant-kind","path":"alan/library/reading/scripture-passage/scripture-passage.page-type.ts","id":"01a0658d-fe50-7005-97df-2bbcb319b080"}
 {"propertySlug":"invariant-kind","path":"alan/library/watching/episode/properties/episode-type.select-property.ts","id":"01a06599-ee09-700b-b9c1-3c28e65e2b56"}
@@ -324,7 +325,6 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/modules/service-loading/service-loading.module.ts","id":"01a09fef-e3b8-7987-8115-0f845edec368"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/modules/service-watching/service-watching.module.ts","id":"01a0821e-fce6-7373-89a1-600a7260bb4f"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/modules/service-wellness/service-wellness.module.ts","id":"01a08c77-e4ed-7a27-8a82-acaacd3068bd"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/surplus-fall-notifier/surplus-fall-notifier.service-workstation.ts","id":"01a06829-0194-7754-b17a-14e66866bd98"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/sweep-subagent-pages/sweep-subagent-pages.service-workstation.ts","id":"01a0a017-3fac-72e3-8c1a-7fdf616e1b16"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}
 {"propertySlug":"invariant-kind","path":"infrastructure/storage/database/database.domain.ts","id":"01a0658b-0f02-739d-a425-d0d2ab58c103"}

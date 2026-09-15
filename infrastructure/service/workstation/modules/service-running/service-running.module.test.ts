@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
+import { runService } from "akasha/agent/seat/service-workstations/sweep-log-days/sweep-log-days.service-workstation.running.code.ts"
 import {
   noService,
   provingFor,
   reachedFor,
   runNamedService,
 } from "akasha/infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"
-import { runService } from "akasha/infrastructure/service/workstation/pages/sweep-log-days/sweep-log-days.service-workstation.running.code.ts"
 import { checkoutHere } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const ROOT = process.cwd()

@@ -151,6 +151,7 @@
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/modules/lrclib-client/lrclib-client.module.ts","id":"01a06262-ff4c-7004-99a6-b15f63fddbd0"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/modules/musicbrainz-client/musicbrainz-client.module.ts","id":"01a06262-ff4c-7000-b193-5ca094701486"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.ts","id":"01a09c80-78b1-747b-b16d-c003ab8e4aa7"}
+{"propertySlug":"invariant-kind","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.ts","id":"01a09c84-8cd1-758c-8c48-b28856aa0770"}
 {"propertySlug":"invariant-kind","path":"alan/music/music.domain.ts","id":"01a06222-4d01-78f8-8ed6-e3f5ec16f8a3"}
 {"propertySlug":"invariant-kind","path":"alan/music/spotify/modules/fetching/spotify-fetching.module.ts","id":"01a06261-dc1d-700f-a5c9-3bfc9c2b5371"}
 {"propertySlug":"invariant-kind","path":"alan/music/spotify/modules/releases/spotify-releases.module.ts","id":"01a09c6f-017f-70b7-a662-48904bec6460"}
@@ -293,7 +294,6 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/service/secret/modules/saying/secret-saying.module.ts","id":"01a07667-e09b-7f6e-bc84-5a76ea3566f4"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/secret/secret.page-type.ts","id":"01a0684a-7d55-7000-bf3d-deee6d805174"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/modules/service-loading/service-loading.module.ts","id":"01a09fef-e3b8-7987-8115-0f845edec368"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/spotify-sync/spotify-sync.service-workstation.ts","id":"01a09c84-8cd1-758c-8c48-b28856aa0770"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/sweep-stray-processes/sweep-stray-processes.service-workstation.ts","id":"01a09cee-2585-7d35-b95e-24ea1f6ace82"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/sweep-subagent-pages/sweep-subagent-pages.service-workstation.ts","id":"01a0a017-3fac-72e3-8c1a-7fdf616e1b16"}
 {"propertySlug":"invariant-kind","path":"infrastructure/storage/container-registry/container-registry.domain.ts","id":"01a0658b-0f02-7e11-9293-61be7a832920"}
