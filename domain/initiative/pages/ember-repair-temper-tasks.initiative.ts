@@ -8,11 +8,6 @@ export const emberRepairTemperTasks = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "Reading one page costs bytes in proportion to that page.",
-      workingMemory:
-        "The narrowing is landed. `entriedValue` takes the keys a question wants, `gatheredFor` threads them, and `page-asking` works them out from `keys`, `where` and `sortBy`, falling back to every key where a question names none or the page type carries a calculation. Measured over the 162 inventory snapshots: unnarrowed is 429,315,981 bytes, 914 ms and 1805 MB resident; asking three keys is 17,054 bytes, 15 ms and 83 MB. Left: the callers still asking for whole snapshots.",
-    },
-    {
       statement: "A refusal from the pages names the file that refusal is about.",
       workingMemory:
         "page-calling now names the status, the byte count and the parser's own message on a body it cannot read. landedIn now appends the paths a write had. The file-property guard names the page type, the character count, the opening of the body and the 255-byte ceiling. The entry that could not be opened is still unnamed, because keepWhole sits in indexing.module.code.ts, which is 15,810 bytes against a 15,000 ceiling and has comments the no-code-comments check refuses.",
