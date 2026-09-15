@@ -1,0 +1,11 @@
+import type { Message } from "akasha/agent/messaging/message/message.page-type.types.ts"
+
+export const messageCe2036536bab = {
+  id: "01a0a699-bf02-7000-9096-ce2036536bab",
+  type: "page-type/message",
+  slug: "message-ce2036536bab",
+  to: "seat/alan",
+  from: "audit-running",
+  warrant: "announce",
+  body: "the audit at c6ad4802b1121662434cb2bc998bbdd9f0d6bcb6 found 1 check newly refusing.\n`typecheck` refused 76 times:\n  product/archive-of-worlds/web/.react-router/types/+routes.ts — line 7: TS2717: Subsequent property declarations must have the same type. Property 'pages' must be of type 'Pages', but here has type 'Pages'. — the akasha folder does not compi... (27 characters more)\n  product/archive-of-worlds/web/.react-router/types/+routes.ts — line 8: TS2717: Subsequent property declarations must have the same type. Property 'routeFiles' must be of type 'RouteFiles', but here has type 'RouteFiles'. — the akasha folder... (42 characters more)\n  product/archive-of-worlds/web/.react-router/types/+routes.ts — line 9: TS2717: Subsequent property declarations must have the same type. Property 'routeModules' must be of type 'RouteModules', but here has type 'RouteModules'. — the akasha ... (48 characters more)\n  product/archive-of-worlds/web/.react-router/types/+routes.ts — line 128: TS2307: Cannot find module './/root.tsx' or its corresponding type declarations. — the akasha folder does not compile as this change leaves it\n  product/archive-of-worlds/web/.react-router/types/+routes.ts — line 129: TS2307: Cannot find module './/routes/_app-layout.tsx' or its corresponding type declarations. — the akasha folder does not compile as this change leaves it\nwhat each of them answered is on the newest row of the audit log beside that check's page. This was meant for `thea`, whom nothing could reach: the editor's pictures of the pages were not written — alan/harness/code-editor/data-interface/modules/state-writing/state-writing.module.code.ts answers to no `statesLanded` the editor's pictures are written by\nthis stopped part way. What it had done by then is this: commit 62aa7224cc992be78be1d40c77246e3e10fc0d59. Nothing after that ran.\n",
+} as const satisfies Message
