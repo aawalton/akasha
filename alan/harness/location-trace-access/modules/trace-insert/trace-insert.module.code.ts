@@ -1,4 +1,4 @@
-import type { LocationTraceInsert } from "akasha/alan/harness/location-traces-access/modules/trace-shape/trace-shape.module.code.ts"
+import type { LocationTraceInsert } from "akasha/alan/harness/location-trace-access/modules/trace-shape/trace-shape.module.code.ts"
 
 const NOTHING_KEPT =
   "nothing has ever kept a location trace, and the finding " +

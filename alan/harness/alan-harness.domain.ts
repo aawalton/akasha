@@ -27,7 +27,7 @@ export const alanHarness = {
     "domain/idle-system",
     "domain/imessage",
     "domain/inbox",
-    "domain/location-traces-access",
+    "domain/location-trace-access",
     "domain/mobile-cli",
     "domain/monarch",
     "domain/money",

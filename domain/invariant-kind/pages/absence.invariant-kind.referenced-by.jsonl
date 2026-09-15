@@ -307,9 +307,9 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/inbox/modules/count-watch/inbox-count-watch.module.ts","id":"01a079de-6d8f-7a3c-b51f-9a53ca155b81"}
 {"propertySlug":"invariant-kind","path":"alan/harness/inbox/modules/keys/inbox-keys.module.ts","id":"01a069b6-bb6b-72d1-9b42-d54723ee2e36"}
 {"propertySlug":"invariant-kind","path":"alan/harness/inbox/modules/reading/inbox-reading.module.ts","id":"01a069bf-3919-77bc-a8a7-66b02d4185bf"}
-{"propertySlug":"invariant-kind","path":"alan/harness/location-traces-access/location-traces-access.domain.ts","id":"01a05bc7-9129-700a-81c5-e2dfa20709ec"}
-{"propertySlug":"invariant-kind","path":"alan/harness/location-traces-access/modules/trace-insert/trace-insert.module.ts","id":"01a05bc7-9129-700d-9b3a-ba23544a6e88"}
-{"propertySlug":"invariant-kind","path":"alan/harness/location-traces-access/modules/trace-shape/trace-shape.module.ts","id":"01a05bc7-9129-700b-ba7b-804847cebb2b"}
+{"propertySlug":"invariant-kind","path":"alan/harness/location-trace-access/location-trace-access.domain.ts","id":"01a05bc7-9129-700a-81c5-e2dfa20709ec"}
+{"propertySlug":"invariant-kind","path":"alan/harness/location-trace-access/modules/trace-insert/trace-insert.module.ts","id":"01a05bc7-9129-700d-9b3a-ba23544a6e88"}
+{"propertySlug":"invariant-kind","path":"alan/harness/location-trace-access/modules/trace-shape/trace-shape.module.ts","id":"01a05bc7-9129-700b-ba7b-804847cebb2b"}
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/mobile-cli.domain.ts","id":"01a05cee-e560-7302-ad38-fd2e2a149eed"}
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/modules/build-input-sources/build-input-sources.module.ts","id":"01a05cee-e560-7116-bb78-4e76e90508fe"}
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.ts","id":"01a05fab-665d-7f4c-bb6b-46467c1b1df8"}

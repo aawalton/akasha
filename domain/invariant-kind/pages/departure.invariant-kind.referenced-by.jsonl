@@ -707,8 +707,8 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/inbox/modules/keys/inbox-keys.module.ts","id":"01a069b6-bb6b-72d1-9b42-d54723ee2e36"}
 {"propertySlug":"invariant-kind","path":"alan/harness/inbox/modules/reading/inbox-reading.module.ts","id":"01a069bf-3919-77bc-a8a7-66b02d4185bf"}
 {"propertySlug":"invariant-kind","path":"alan/harness/inbox/modules/tracking-polling/inbox-tracking-polling.module.ts","id":"01a0686a-7a57-72a3-bd0e-04ddd401bb78"}
-{"propertySlug":"invariant-kind","path":"alan/harness/location-traces-access/modules/trace-insert/trace-insert.module.ts","id":"01a05bc7-9129-700d-9b3a-ba23544a6e88"}
-{"propertySlug":"invariant-kind","path":"alan/harness/location-traces-access/modules/trace-shape/trace-shape.module.ts","id":"01a05bc7-9129-700b-ba7b-804847cebb2b"}
+{"propertySlug":"invariant-kind","path":"alan/harness/location-trace-access/modules/trace-insert/trace-insert.module.ts","id":"01a05bc7-9129-700d-9b3a-ba23544a6e88"}
+{"propertySlug":"invariant-kind","path":"alan/harness/location-trace-access/modules/trace-shape/trace-shape.module.ts","id":"01a05bc7-9129-700b-ba7b-804847cebb2b"}
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/mobile-cli.domain.ts","id":"01a05cee-e560-7302-ad38-fd2e2a149eed"}
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.ts","id":"019f5141-c410-7cd1-b491-d017f10e568d"}
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/mobile-cut/properties/build-input-tree-hash.text-property.ts","id":"01a0685d-b81f-7f70-8ae2-8933a7780ba3"}

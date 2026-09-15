@@ -569,8 +569,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/inbox/modules/keys/inbox-keys.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/inbox/modules/reading/inbox-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/inbox/modules/tracking-polling/inbox-tracking-polling.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/location-traces-access/modules/trace-insert/trace-insert.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/location-traces-access/modules/trace-shape/trace-shape.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/location-trace-access/modules/trace-insert/trace-insert.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/location-trace-access/modules/trace-shape/trace-shape.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/altool/altool.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/appium-client/appium-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/asc-client/asc-client.module.ts"}

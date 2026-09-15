@@ -179,7 +179,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/idle-system/idle-system.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/imessage/imessage.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/inbox/inbox.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/location-traces-access/location-traces-access.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/location-trace-access/location-trace-access.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/mobile-cli/mobile-cli.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/monarch/eval/monarch-eval.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/monarch/monarch.domain.ts"}
