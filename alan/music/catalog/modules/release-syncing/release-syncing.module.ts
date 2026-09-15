@@ -78,19 +78,7 @@ export const releaseSyncing = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Every track a release carries is filed as a page of its own.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A track names the release carrying it as an address.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "A track is filed from the album read the release itself is filed from.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The progress and the grade a person gave a track outlive every sweep.",
     },
     {
       invariantKind: "invariant-kind/constraint",
@@ -99,6 +87,27 @@ export const releaseSyncing = {
     {
       invariantKind: "invariant-kind/gap",
       statement: "A release of more than fifty tracks is filed with every track it carries.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A release filed before this sweep carried tracks is read once for its tracks.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A release whose tracks are filed is not read again for them.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A release is backfilled only on the day the artist that release belongs to is swept.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every release Alan follows an artist for is backfilled within thirty days.",
+    },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "A release Spotify answers with no track is read again on every later sweep.",
     },
     {
       invariantKind: "invariant-kind/departure",

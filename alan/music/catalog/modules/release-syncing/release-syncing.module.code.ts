@@ -10,13 +10,16 @@ import {
   slugifyName,
 } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import {
+  type Tracked,
+  trackEdits,
+  tracksFiledIn,
+} from "akasha/alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"
+import {
   type Album,
-  type AlbumTrack,
   type AlbumWithTracks,
   albumMinutes,
   getAlbum,
   getArtistAlbums,
-  trackMinutes,
 } from "akasha/alan/music/spotify/modules/releases/spotify-releases.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
@@ -46,8 +49,6 @@ export const WRITE = "change-mechanical/add-file-of-any-kind"
 const ARTIST = "artist"
 
 const RELEASE = "release"
-
-const TRACK = "track"
 
 const FOLLOWING = "following"
 
@@ -82,6 +83,7 @@ export type Counts = {
   readonly updated: number
   readonly skipped: number
   readonly tracked: number
+  readonly backfilled: number
   readonly failed: number
 }
 
@@ -102,11 +104,6 @@ export type Asked = {
   readonly album: Album
   readonly slug: string
   readonly was: Value
-}
-
-export type Tracked = {
-  readonly names: CatalogueNames
-  readonly held: ReadonlyMap<string, Value>
 }
 
 export type Taken = {
@@ -185,45 +182,6 @@ export function filedIn(root: string): Filed {
   return { names: catalogueNamesFrom(rows), held, byTitle }
 }
 
-export function tracksFiledIn(root: string): Tracked {
-  const rows: { readonly slug: string; readonly externalId: string | null }[] = []
-  const held = new Map<string, Value>()
-  for (const one of valuesOfType(root, TRACK)) {
-    const slug = textIn(one.value, "slug")
-    if (slug === null) continue
-    rows.push({ slug, externalId: idFrom(one.value[IDENTITY], SOURCE) })
-    held.set(slug, one.value)
-  }
-  return { names: catalogueNamesFrom(rows), held }
-}
-
-export function trackValues(args: {
-  readonly releaseSlug: string
-  readonly slug: string
-  readonly track: AlbumTrack
-  readonly was: Value
-  readonly today: string
-}): Value {
-  return {
-    ...args.was,
-    ...(args.was["status"] === undefined ? { status: NOT_STARTED } : {}),
-    ...(args.was["ownProgress"] === undefined ? { ownProgress: 0 } : {}),
-    title: args.track.name,
-    partOfCollections: [`${RELEASE}/${args.releaseSlug}`],
-    position: args.track.track_number,
-    ownLength: trackMinutes(args.track),
-    unit: MINUTES,
-    externalIdentity: identitiesWith(args.was[IDENTITY], {
-      source: SOURCE,
-      externalId: args.track.id,
-      externalLink: args.track.external_urls.spotify,
-      lastSyncedAt: args.today,
-    }),
-    type: TRACK,
-    slug: args.slug,
-  }
-}
-
 export function slugFor(filed: Filed, artistSlug: string, album: Album): string {
   const byId = filed.names.filed.get(album.id)
   if (byId !== undefined) return byId
@@ -237,20 +195,24 @@ export function unfiledIn(
   artistSlug: string,
   albums: readonly Album[],
   room: number | null
-): { readonly asked: readonly Asked[]; readonly skipped: number } {
+): {
+  readonly asked: readonly Asked[]
+  readonly settled: readonly Asked[]
+  readonly skipped: number
+} {
   const asked: Asked[] = []
-  let skipped = 0
+  const settled: Asked[] = []
   for (const album of albums) {
     const slug = slugFor(filed, artistSlug, album)
     const was = filed.held.get(slug)
     if (was !== undefined && idFrom(was[IDENTITY], SOURCE) === album.id) {
-      skipped += 1
+      settled.push({ album, slug, was })
       continue
     }
     if (room !== null && asked.length >= room) break
     asked.push({ album, slug, was: was ?? {} })
   }
-  return { asked, skipped }
+  return { asked, settled, skipped: settled.length }
 }
 
 export function publishedDayOf(album: Album): string | null {
@@ -342,12 +304,15 @@ export async function syncReleases(
     throw new Error(`\`--only\` names \`${held.only}\`, and no followed artist is filed under it`)
   }
   const filed = filedIn(root)
-  const tracks = tracksFiledIn(root)
+  const tracks: Tracked = tracksFiledIn(root)
   const source = sourceFor(root)
+  const editing = (pageTypeSlug: string, slug: string, values: Value): Asking =>
+    composedEdit(root, pageTypeSlug, slug, values, source)
   let created = 0
   let updated = 0
   let skipped = 0
   let tracked = 0
+  let backfilled = 0
   let failed = 0
   for (const one of sweeping) {
     const room = held.limit === null ? null : held.limit - created
@@ -376,32 +341,39 @@ export async function syncReleases(
             source
           )
         )
-        for (const track of whole.tracks.items) {
-          const slug = catalogueSlugFor(tracks.names, asked.slug, track.name, track.id)
-          changes.push(
-            composedEdit(
-              root,
-              TRACK,
-              slug,
-              trackValues({
-                releaseSlug: asked.slug,
-                slug,
-                track,
-                was: tracks.held.get(slug) ?? {},
-                today,
-              }),
-              source
-            )
-          )
-          filing += 1
-        }
+        const edits = trackEdits({
+          releaseSlug: asked.slug,
+          album: whole,
+          tracks,
+          today,
+          edit: editing,
+        })
+        changes.push(...edits)
+        filing += edits.length
+      }
+      let filling = 0
+      for (const behind of unfiled.settled) {
+        if (tracks.byRelease.has(behind.slug)) continue
+        const left = held.limit === null ? null : held.limit - backfilled - filling
+        if (left !== null && left <= 0) break
+        const whole = await reach.getAlbum(behind.album.id)
+        const edits = trackEdits({
+          releaseSlug: behind.slug,
+          album: whole,
+          tracks,
+          today,
+          edit: editing,
+        })
+        changes.push(...edits)
+        filing += edits.length
+        filling += 1
       }
       if (landing !== null) {
         const landed = await landing(
           [],
           root,
           changes,
-          `file ${unfiled.asked.length} spotify release(s) and ${filing} track(s) for ${one.title}`
+          `file ${unfiled.asked.length} spotify release(s), backfill ${filling}, and file ${filing} track(s) for ${one.title}`
         )
         const wrong = refusalsIn(landed)
         if (wrong.length > 0) throw new Error(wrong.join("; "))
@@ -410,12 +382,13 @@ export async function syncReleases(
       updated += unfiled.asked.filter((each) => Object.keys(each.was).length > 0).length
       skipped += unfiled.skipped
       tracked += filing
+      backfilled += filling
     } catch (thrown) {
       failed += 1
       console.error(`${SAID} ${one.slug}:`, thrown instanceof Error ? thrown.message : thrown)
     }
   }
-  return { created, updated, skipped, tracked, failed }
+  return { created, updated, skipped, tracked, backfilled, failed }
 }
 
 export async function main(argv: readonly string[]): Promise<number> {
@@ -432,7 +405,7 @@ export async function main(argv: readonly string[]): Promise<number> {
     )
   const counts = held.dryRun ? await running() : await recordingRun(SOURCE, running)
   console.log(
-    `${SAID} swept ${counts.created + counts.updated + counts.skipped} release(s) · filed ${counts.created} · restamped ${counts.updated} · already filed ${counts.skipped} · tracks ${counts.tracked} · failed ${counts.failed}`
+    `${SAID} swept ${counts.created + counts.updated + counts.skipped} release(s) · filed ${counts.created} · restamped ${counts.updated} · already filed ${counts.skipped} · backfilled ${counts.backfilled} · tracks ${counts.tracked} · failed ${counts.failed}`
   )
   return counts.failed > 0 ? 1 : 0
 }
