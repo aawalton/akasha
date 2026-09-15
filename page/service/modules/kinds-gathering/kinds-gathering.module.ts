@@ -82,7 +82,7 @@ export const kindsGathering = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Which pages name a page under one property is read from the edge index.",
+      statement: "Which pages name a page under one property is read from beside that page.",
     },
     {
       invariantKind: "invariant-kind/departure",

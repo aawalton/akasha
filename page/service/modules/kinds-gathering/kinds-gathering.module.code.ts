@@ -1,7 +1,6 @@
 import { readFileSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import {
-  idsNaming,
   listedAt,
   listedById,
   readingIn,
@@ -23,6 +22,7 @@ import {
 import { entriedValue } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import { filedValue } from "akasha/page/modules/file-body/page-file-body.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { wholeValue } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import {
   textAt,

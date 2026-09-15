@@ -48,10 +48,14 @@ function typed(
   above: readonly string[],
   properties: readonly Declaring[]
 ): undefined {
-  filed(root, "page-type", slug, {
+  const path = filed(root, "page-type", slug, {
     extends: above.map((one) => `page-type/${one}`),
     properties,
   })
+  const id = `id-page-type-${slug}`
+  for (const one of above) {
+    relationFiled(root, `id-page-type-${one}`, "extends-type", id, [{ path }])
+  }
 }
 
 const KINDED = new Set<string>()
