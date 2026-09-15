@@ -4,14 +4,21 @@ import {
   idFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { listedById } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   listedAlsoFiled,
-  relationFiled,
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import {
+  lineOf,
+  referencesAt,
+} from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { writing as wrote } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
+import {
+  bodyAt,
+  writing as wrote,
+} from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 export const A = "akasha/t/a.note.ts"
 
@@ -131,7 +138,12 @@ export function naming(
   id: string,
   path: string
 ): undefined {
-  relationFiled(root, target, propertySlug, id, [{ path }])
+  const listed = listedById(root, target)
+  if (listed === null) return
+  const at = referencesAt(listed.path)
+  if (at === null) return
+  const line = lineOf({ propertySlug, fileName: null, path, id })
+  wrote(root, at, `${bodyAt(root, at)}${line}\n`)
 }
 
 const PAGE_ID = "01a04d99-71ca-7e06-9000-000000000000"
