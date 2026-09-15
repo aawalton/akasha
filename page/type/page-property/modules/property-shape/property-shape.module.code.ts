@@ -6,12 +6,12 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const SECTION = "shape"
+const SECTION = "shapes"
 
 const HOLDS = "jsonl"
 
-export function shapeAt(pagePath: string): string | null {
-  return besideAt(pagePath, SECTION, HOLDS)
+export function shapesFiledAt(pageTypePath: string): string | null {
+  return besideAt(pageTypePath, SECTION, HOLDS)
 }
 
 export function shapedIn(value: Value): Shape | null {
@@ -58,6 +58,18 @@ export function shapeIn(line: string): Shape | null {
   }
 }
 
-export function bodyOf(one: Shape): string {
-  return `${JSON.stringify(one)}\n`
+export function shapesIn(body: string): readonly Shape[] {
+  const found: Shape[] = []
+  for (const line of body.split("\n")) {
+    const one = shapeIn(line)
+    if (one !== null) found.push(one)
+  }
+  return found
+}
+
+export function bodyOf(every: readonly Shape[]): string {
+  const sorted = [...every].sort((one, two) =>
+    one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0
+  )
+  return sorted.map((one) => `${JSON.stringify(one)}\n`).join("")
 }
