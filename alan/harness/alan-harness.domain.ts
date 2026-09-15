@@ -22,7 +22,7 @@ export const alanHarness = {
     "domain/errors-core",
     "domain/geo-io",
     "domain/health-sample-access",
-    "domain/health-samples-day",
+    "domain/health-sample-day",
     "domain/health-samples-import",
     "domain/idle-system",
     "domain/imessage",

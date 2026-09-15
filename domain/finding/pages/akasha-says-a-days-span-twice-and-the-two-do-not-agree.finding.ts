@@ -4,7 +4,7 @@ export const akashaSaysADaysSpanTwiceAndTheTwoDoNotAgree = {
   id: "01a06433-8ace-70cd-84a6-569f23e88da4",
   type: "finding",
   slug: "akasha-says-a-days-span-twice-and-the-two-do-not-agree",
-  domain: "domain/health-samples-day",
+  domain: "domain/health-sample-day",
   claim:
     "akasha says a day's span twice and the two do not agree. `getEsoDayWindow` answers `{ start: Date; end: Date }`, the stretch from one six-in-the-morning reset to the next; `DayWindow` in `health-samples-day` answers `{ from: string; to: string }` in ISO text, the stretch from when a day was recorded as opening to when the next day opened. One day string draws two different pairs of instants, and neither name says which stretch it hands back. Nothing derives either shape from the other, and reconciling the two onto one is unclaimed.",
   evidence:

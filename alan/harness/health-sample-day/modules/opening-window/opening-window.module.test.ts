@@ -7,7 +7,7 @@ import {
   openingInstantOn,
   sleepBlocksOn,
   spannedWindowIn,
-} from "akasha/alan/harness/health-samples-day/modules/opening-window/opening-window.module.code.ts"
+} from "akasha/alan/harness/health-sample-day/modules/opening-window/opening-window.module.code.ts"
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
