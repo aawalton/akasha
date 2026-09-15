@@ -29,7 +29,7 @@ import {
 import {
   getItemPriceKey,
   suggestSellPrice,
-} from "akasha/temper/trading-listings/modules/sell-pricing/sell-pricing.module.code.ts"
+} from "akasha/temper/trading-listing/modules/sell-pricing/sell-pricing.module.code.ts"
 import {
   createSellFlow,
   type SellFlow,

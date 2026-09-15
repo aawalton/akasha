@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const temperTradingListings = {
+export const temperTradingListing = {
   id: "01a060a7-02f1-7930-8d6d-b218c9feb9ff",
   type: "domain",
-  slug: "temper-trading-listings",
+  slug: "temper-trading-listing",
   definition: "guild store listings gathered one store at a time",
   parts: [
     "module/browse-listings",

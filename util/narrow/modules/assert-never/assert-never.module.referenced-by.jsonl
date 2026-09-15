@@ -102,7 +102,7 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player-inventory-management-ui/modules/rule-card-filter-chips-quantity/rule-card-filter-chips-quantity.module.code.tsx"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player-inventory-management-ui/modules/unmapped-items-panel-card/unmapped-items-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/trading-listings/modules/browse-state/browse-state.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/trading-listing/modules/browse-state/browse-state.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/trading-pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/web/modules/character-reducer/character-reducer.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/web/modules/characters-plan-empty/characters-plan-empty.module.code.tsx"}

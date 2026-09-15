@@ -1831,7 +1831,7 @@
 {"propertySlug":"invariant-kind","path":"temper/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.ts","id":"01a060ec-5851-77ac-a8f1-6163b058a0b4"}
 {"propertySlug":"invariant-kind","path":"temper/trading-addon/modules/trading-types/trading-types.module.ts","id":"01a06160-2a5e-7579-bb70-416bf4fbc1c8"}
 {"propertySlug":"invariant-kind","path":"temper/trading-addon/temper-trading-addon.eso-addon.ts","id":"01a06160-2a58-7de9-8f4a-dbca3806b485"}
-{"propertySlug":"invariant-kind","path":"temper/trading-listings/temper-trading-listings.domain.ts","id":"01a060a7-02f1-7930-8d6d-b218c9feb9ff"}
+{"propertySlug":"invariant-kind","path":"temper/trading-listing/temper-trading-listing.domain.ts","id":"01a060a7-02f1-7930-8d6d-b218c9feb9ff"}
 {"propertySlug":"invariant-kind","path":"temper/trading-pricing/modules/pricing-types/pricing-types.module.ts","id":"01a0609b-e59d-774e-9760-26cd46ca0f8b"}
 {"propertySlug":"invariant-kind","path":"temper/trading-pricing/temper-trading-pricing.domain.ts","id":"01a0609b-e59c-7c6b-906c-4ab055fc9039"}
 {"propertySlug":"invariant-kind","path":"temper/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
