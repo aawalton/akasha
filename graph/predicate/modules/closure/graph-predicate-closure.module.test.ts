@@ -2,19 +2,26 @@ import { afterAll, expect, test } from "bun:test"
 import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
   APART_AT,
+  BY_DECLARATION,
+  BY_REFERENCE,
   bodiesIn,
   FIRST_AT,
+  IMPORT_EDGE,
   importsBeside,
   importWorld,
   indexOf,
   indexOver,
+  KNOWN,
   namingBody,
   reachingWorld,
   SECOND_AT,
   scratch,
   THIRD_AT,
 } from "akasha/graph/modules/asking/graph-asking.module.test-fixtures.ts"
-import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import {
+  closureOf,
+  takenIn,
+} from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { importers } from "akasha/graph/predicate/pages/importers.graph-predicate.ts"
 import { imports } from "akasha/graph/predicate/pages/imports.graph-predicate.ts"
 import { readingLaidOver } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
@@ -192,4 +199,66 @@ test("a closure answers over the shadow a change leaves as well as over the tree
   expect(closureOf(imports, [FIRST_AT], { index: indexOf(root), bodyAt: () => null })).toEqual([
     FIRST_AT,
   ])
+})
+
+test("an ask answers the edges a closure took in as well as the nodes", () => {
+  const root = importWorld()
+  const bodyAt = filesOf({
+    [FIRST_AT]: namingBody("./second.page.ts"),
+    [SECOND_AT]: namingBody("./third.page.ts"),
+  })
+  const taken = takenIn(imports, [FIRST_AT], { index: indexOf(root), bodyAt })
+
+  expect(taken.nodes).toEqual([FIRST_AT, SECOND_AT, THIRD_AT])
+  expect(taken.edges).toEqual([
+    { kind: IMPORT_EDGE, from: FIRST_AT, to: SECOND_AT, attrs: { [KNOWN]: BY_DECLARATION } },
+    { kind: IMPORT_EDGE, from: SECOND_AT, to: THIRD_AT, attrs: { [KNOWN]: BY_DECLARATION } },
+  ])
+})
+
+test("an edge coming in is answered from the file naming the seed to the seed", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
+  const taken = takenIn(importers, [FIRST_AT], { index: indexOf(root) })
+
+  expect(taken.nodes).toEqual([FIRST_AT, SECOND_AT])
+  expect(taken.edges).toEqual([
+    { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: BY_REFERENCE } },
+  ])
+})
+
+test("the edge closing a cycle is answered though the node it reaches was taken in already", () => {
+  const root = importWorld()
+  const bodyAt = filesOf({
+    [FIRST_AT]: namingBody("./second.page.ts"),
+    [SECOND_AT]: namingBody("./first.page.ts"),
+  })
+  const taken = takenIn(imports, [FIRST_AT], { index: indexOf(root), bodyAt })
+
+  expect(taken.nodes).toEqual([FIRST_AT, SECOND_AT])
+  expect(taken.edges).toEqual([
+    { kind: IMPORT_EDGE, from: FIRST_AT, to: SECOND_AT, attrs: { [KNOWN]: BY_DECLARATION } },
+    { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: BY_DECLARATION } },
+  ])
+})
+
+test("an edge the gate refuses the far end of is no part of the closure", () => {
+  const root = importWorld()
+  const bodyAt = filesOf({
+    [FIRST_AT]: namingBody("./apart.page.txt"),
+    [APART_AT]: namingBody("./third.page.ts"),
+  })
+  const through = (one: string): boolean => one.endsWith(ENDING)
+  const taken = takenIn(imports, [FIRST_AT], { index: indexOf(root), bodyAt, through })
+
+  expect(taken.nodes).toEqual([FIRST_AT])
+  expect(taken.edges).toEqual([])
+})
+
+test("an ask wanting only the nodes is answered only those", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [THIRD_AT] })
+  const asked = { index: indexOf(root) }
+
+  expect(closureOf(importers, [FIRST_AT], asked)).toEqual(
+    takenIn(importers, [FIRST_AT], asked).nodes
+  )
 })

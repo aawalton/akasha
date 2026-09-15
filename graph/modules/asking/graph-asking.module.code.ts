@@ -196,7 +196,7 @@ function keyOf(one: Edge): string {
   return [one.kind, one.from, one.to, JSON.stringify(one.attrs)].join(APART)
 }
 
-function settledOf(found: readonly Edge[]): readonly Edge[] {
+export function settledOf(found: readonly Edge[]): readonly Edge[] {
   const kept = new Map<string, Edge>()
   for (const one of found) kept.set(keyOf(one), one)
   return [...kept.values()].sort((one, two) => {

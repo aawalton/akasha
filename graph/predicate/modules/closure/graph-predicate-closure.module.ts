@@ -64,5 +64,22 @@ export const graphPredicateClosure = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads an edge, which the graph is asked for.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An ask answers the edges a closure took in as well as the nodes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An edge reaching a node already taken in is answered, so a closure shows its cycles.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An edge the gate refuses the far end of is no part of the closure.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An ask wanting only the nodes is answered only those.",
+    },
   ],
 } as const satisfies Module
