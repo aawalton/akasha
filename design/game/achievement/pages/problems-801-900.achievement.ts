@@ -1,0 +1,14 @@
+import type { Achievement } from "akasha/design/game/achievement/achievement.page-type.types.ts"
+
+export const problems801900 = {
+  id: "01a06808-8818-700a-9d13-b68b3f38bf74",
+  type: "achievement",
+  slug: "problems-801-900",
+  title: "Problems 801-900",
+  partOfCollections: ["achievement/project-euler"],
+  position: 9,
+  ownLength: 5625000,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+} as const satisfies Achievement

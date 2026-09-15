@@ -1,0 +1,14 @@
+import type { Drive } from "akasha/design/game/drive/drive.page-type.types.ts"
+
+export const gameDesignDriveCollection = {
+  id: "01a06756-f6ce-7919-bc70-37a49f9ecba3",
+  type: "drive",
+  slug: "game-design-drive-collection",
+  definition: "owning a set of things",
+  octalysis: {
+    number: 4,
+    name: "Ownership & Possession",
+    definition:
+      "Feeling that something is yours, which makes you want more of it and want to improve it.",
+  },
+} as const satisfies Drive

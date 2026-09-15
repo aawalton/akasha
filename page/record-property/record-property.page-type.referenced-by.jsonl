@@ -10,7 +10,7 @@
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"alan/track/daily/day/properties/persona-messages.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"code/type-declaration/properties/generated.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"command/properties/command-arguments.record-property.ts"}
-{"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"design/games/drive/properties/octalysis.record-property.ts"}
+{"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"design/game/drive/properties/octalysis.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"domain/initiative/properties/intent-stack.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"domain/list/properties/list-members.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"domain/properties/directives.record-property.ts"}
