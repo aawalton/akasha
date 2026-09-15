@@ -22,7 +22,8 @@ export const indexIdentities = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The indexes are asked in the order a page is reached by: id, then type, then scope.",
+      statement:
+        "The indexes are asked in the order a page is reached by: id, then type, then scope.",
     },
     {
       invariantKind: "invariant-kind/departure",

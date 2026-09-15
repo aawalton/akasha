@@ -10,7 +10,8 @@ export const indexIdentifying = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A page's identifiers are the properties its own page type has stating a `unique`.",
+      statement:
+        "A page's identifiers are the properties its own page type has stating a `unique`.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -34,7 +35,8 @@ export const indexIdentifying = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A key is the index's own folder followed by the scope, the property and the value.",
+      statement:
+        "A key is the index's own folder followed by the scope, the property and the value.",
     },
     {
       invariantKind: "invariant-kind/absence",
