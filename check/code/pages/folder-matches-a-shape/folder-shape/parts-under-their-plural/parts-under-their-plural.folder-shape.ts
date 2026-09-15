@@ -7,7 +7,7 @@ export const partsUnderTheirPlural = {
   definition: "the shape of a folder gathering one page type's pages under that type's plural",
   code: "ts",
   test: "ts",
-  enabled: false,
+  enabled: true,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
