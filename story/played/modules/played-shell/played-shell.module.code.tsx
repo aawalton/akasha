@@ -1,5 +1,6 @@
 "use client"
 
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import {
@@ -54,22 +55,23 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   const data = toPageDataJSON(page?.properties)
   const title = textIn(data.title)
   const slug = textIn(data.slug)
+  const storyAddress = namedAs(pageTypeSlug, slug, null)
 
   const chapterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: PLAYED_CHAPTER_PAGE_TYPE_SLUG,
-      where: [{ key: PLAYED_CHAPTER_STORY_KEY, eq: id }],
+      where: [{ key: PLAYED_CHAPTER_STORY_KEY, eq: storyAddress }],
       order: [{ by: PLAYED_POSITION_KEY, dir: "asc" }],
     }),
-    [id]
+    [storyAddress]
   )
   const turnOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: PLAYED_TURN_PAGE_TYPE_SLUG,
-      where: [{ key: PLAYED_TURN_COLLECTIONS_KEY, includes: id }],
+      where: [{ key: PLAYED_TURN_COLLECTIONS_KEY, includes: storyAddress }],
       order: [{ by: PLAYED_POSITION_KEY, dir: "asc" }],
     }),
-    [id]
+    [storyAddress]
   )
   const chapters = usePages(chapterOptions)
   const turns = usePages(turnOptions)
