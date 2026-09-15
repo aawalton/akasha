@@ -29,7 +29,15 @@ export const fixtureWorld = {
     },
     {
       invariantKind: "invariant-kind/absence",
-      statement: "A shapes file already there is left as the settle that keeps it left it.",
+      statement: "A shapes file the world did not write is left as whatever wrote it left it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A shapes file the world wrote is written again as each further page arrives.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A world's commit holds the shapes the pages in that commit imply.",
     },
     {
       invariantKind: "invariant-kind/departure",

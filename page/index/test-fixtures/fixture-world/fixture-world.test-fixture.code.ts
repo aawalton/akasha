@@ -39,6 +39,8 @@ export const scratch = scratchWorld()
 
 const SHAPED = new Map<string, Map<string, Value>>()
 
+const WROTE = new Map<string, Set<string>>()
+
 function shapesPut(tree: string, at: string, body: string): undefined {
   if (!at.endsWith(".ts")) return
   const value = loadedFrom(body).value
@@ -46,12 +48,15 @@ function shapesPut(tree: string, at: string, body: string): undefined {
   const held = SHAPED.get(tree) ?? new Map<string, Value>()
   SHAPED.set(tree, held)
   held.set(at, value)
+  const wrote = WROTE.get(tree) ?? new Set<string>()
+  WROTE.set(tree, wrote)
   const among = [...held].map(([path, one]) => ({ path, value: one }))
   for (const [beside, whole] of shapesAmong(among)) {
     const to = join(tree, beside)
-    if (existsSync(to)) continue
+    if (existsSync(to) && !wrote.has(to)) continue
     mkdirSync(dirname(to), { recursive: true })
     writeFileSync(to, whole)
+    wrote.add(to)
   }
 }
 
