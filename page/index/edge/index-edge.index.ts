@@ -61,33 +61,33 @@ export const indexEdge = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A edge free to name more than one page type has the page type in its value.",
+      statement: "An edge free to name more than one page type has the page type in its value.",
     },
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "A edge nested in a record files an edge from its page rather than from its entry.",
+        "An edge nested in a record files an edge from its page rather than from its entry.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A edge nested one record deep is reached.",
+      statement: "An edge nested one record deep is reached.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A edge nested deeper than one record is not reached.",
+      statement: "An edge nested deeper than one record is not reached.",
     },
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "A edge in an entry row files an edge from the row's page rather than from the row.",
+        "An edge in an entry row files an edge from the row's page rather than from the row.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A edge an entry row states is reached.",
+      statement: "An edge an entry row states is reached.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A edge nested in a record inside an entry row is not reached.",
+      statement: "An edge nested in a record inside an entry row is not reached.",
     },
     {
       invariantKind: "invariant-kind/departure",
