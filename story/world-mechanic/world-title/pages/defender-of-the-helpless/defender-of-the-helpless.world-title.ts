@@ -2,7 +2,7 @@ import type { WorldTitle } from "akasha/story/world-mechanic/world-title/world-t
 
 export const defenderOfTheHelpless = {
   id: "01a0655a-7b7c-7658-aff4-bc86eb450dc4",
-  type: "world-title",
+  type: "page-type/world-title",
   slug: "defender-of-the-helpless",
   title: "Defender of the Helpless",
   world: "world/the-wandering-inn",

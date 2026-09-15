@@ -2,7 +2,7 @@ import type { WorldTitle } from "akasha/story/world-mechanic/world-title/world-t
 
 export const localLandmark = {
   id: "01a0655a-7b7e-7a00-bbeb-8a65b57906ad",
-  type: "world-title",
+  type: "page-type/world-title",
   slug: "local-landmark",
   title: "Local Landmark",
   world: "world/the-wandering-inn",
