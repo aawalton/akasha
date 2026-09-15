@@ -8,7 +8,7 @@ export const companionMetricEffect = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An effect names one metric and the way that effect's value is read.",
     },
   ],

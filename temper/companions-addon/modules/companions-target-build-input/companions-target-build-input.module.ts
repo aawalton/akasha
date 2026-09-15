@@ -8,7 +8,7 @@ export const companionsTargetBuildInput = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A target build is kept per companion.",
     },
   ],

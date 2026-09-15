@@ -8,7 +8,7 @@ export const companionQualityRules = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quality that is no quality is drawn muted and has no text class.",
     },
   ],

@@ -8,7 +8,7 @@ export const companionWeaponSlots = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This table is written out from the companion pages rather than by hand.",
     },
   ],

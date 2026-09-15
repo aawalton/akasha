@@ -8,7 +8,7 @@ export const companionQolRapport = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The label is added to the game's own rapport bar control.",
     },
   ],

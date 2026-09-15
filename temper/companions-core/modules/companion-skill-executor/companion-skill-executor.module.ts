@@ -8,16 +8,16 @@ export const companionSkillExecutor = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The global cooldown starts when a cast finishes rather than when the cast begins.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Refreshing an effect adds only the time past its old end.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A heals-self-only skill extends the ultimate window only while that window is open.",
     },

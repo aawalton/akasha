@@ -8,7 +8,7 @@ export const companionQolCompass = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pin is faded by alpha rather than unregistered.",
     },
   ],

@@ -8,15 +8,15 @@ export const potionControlsIngredients = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A button is built once and hidden again rather than built a second time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reagents are ordered by stack or by name as the account settings say.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reagent already ticked stays ticked when the buttons are laid out again.",
     },
   ],

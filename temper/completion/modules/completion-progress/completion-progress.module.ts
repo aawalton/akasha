@@ -8,7 +8,7 @@ export const completionProgress = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A collectibles capture arriving keyed rather than listed is read as the values under those keys.",
     },

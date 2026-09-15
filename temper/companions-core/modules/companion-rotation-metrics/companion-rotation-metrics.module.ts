@@ -9,15 +9,15 @@ export const companionRotationMetrics = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Buff uptime scales each damage multiplier additively rather than compounding.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The light-attack skill id is skipped in both the dps and the tps pass.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "A missing metric value falls back to a hardcoded two thousand or thirty thousand.",
     },

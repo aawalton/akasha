@@ -8,7 +8,7 @@ export const companionsEvents = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every listener is named after the add-on so a reload can drop those listeners.",
     },
   ],

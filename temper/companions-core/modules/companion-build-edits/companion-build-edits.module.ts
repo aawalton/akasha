@@ -8,19 +8,19 @@ export const companionBuildEdits = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change returns a new build rather than altering the build handed in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build change sits apart from the tables the change reads.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Setting a companion's base roles also sets every armour slot's weight.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Setting a companion also sets that companion's usual ultimate.",
     },
   ],

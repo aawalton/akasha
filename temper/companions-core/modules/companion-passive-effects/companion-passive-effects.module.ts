@@ -8,9 +8,12 @@ export const companionPassiveEffects = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The passive effect's modifier type is carried over as the metric effect type.",
     },
-    { invariantKind: "constraint", statement: "A skill that is not passive yields no effects." },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "A skill that is not passive yields no effects.",
+    },
   ],
 } as const satisfies Module

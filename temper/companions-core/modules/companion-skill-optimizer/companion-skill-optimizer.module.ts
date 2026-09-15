@@ -8,19 +8,19 @@ export const companionSkillOptimizer = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Buff skills are ranked from the last bar position rather than the first.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A tank build reserves the first bar slot for a taunt skill.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A combination with more than one armor skill is rejected.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A taunt counts only when its cooldown is sixteen seconds or shorter.",
     },
   ],

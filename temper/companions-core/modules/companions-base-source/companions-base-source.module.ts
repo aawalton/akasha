@@ -8,11 +8,11 @@ export const companionsBaseSource = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Base health and weapon damage are literal integers rather than formulas.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The single entry companion-base-stats has every base metric effect.",
     },
   ],

@@ -9,16 +9,16 @@ export const companionMetricDisplayFormula = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Arithmetic node kinds reaching the leaf converter throw rather than render.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Category contributions follow the order of COMPANION_CATEGORIES rather than source order.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "A metric with no formula and no effectType renders as the literal label Simulation Result.",
     },

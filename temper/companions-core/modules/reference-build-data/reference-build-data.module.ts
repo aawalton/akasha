@@ -8,15 +8,15 @@ export const referenceBuildData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The build decoder is injected at runtime through registerCompanionDecoder.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The reference build code is a fixed literal string.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Decoding throws when no decoder has been registered.",
     },
   ],

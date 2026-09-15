@@ -8,7 +8,7 @@ export const companionsSavedVariables = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A companion entry is made on first touch rather than declared up front.",
     },
   ],

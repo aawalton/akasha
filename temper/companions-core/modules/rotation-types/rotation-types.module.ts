@@ -8,16 +8,16 @@ export const rotationTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Rotation state is a mutable record the simulator writes through.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The default target armor is read from the dungeon entry of the target armor table.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A rotation skill identifier admits the literal light-attack alongside real skill ids.",
     },

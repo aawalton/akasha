@@ -9,7 +9,7 @@ export const companionMetricTemplate = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A metric's value is a tree of arithmetic nodes rather than a written function.",
     },
   ],

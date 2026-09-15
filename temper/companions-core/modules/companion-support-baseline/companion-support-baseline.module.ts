@@ -8,15 +8,15 @@ export const companionSupportBaseline = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The baseline computation passes EMPTY_BASELINE into the stats calculator.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Light attack is excluded from the per-skill buff scan.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A missing health maximum metric falls back to thirty thousand.",
     },
   ],

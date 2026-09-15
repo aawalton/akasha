@@ -8,7 +8,7 @@ export const companionsEquipmentPanel = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The optimal column is hidden until a target build is set.",
     },
   ],

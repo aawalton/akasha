@@ -9,16 +9,16 @@ export const inventorySettingsHandle = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Settings are read and written for the signed-in player rather than a named player.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reading and writing are handed over together as one handle.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No setting is shaped or defaulted here.",
     },
   ],

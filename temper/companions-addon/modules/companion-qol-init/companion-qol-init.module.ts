@@ -8,7 +8,7 @@ export const companionQolInit = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The quality-of-life code loads after the companion panels are registered.",
     },
   ],

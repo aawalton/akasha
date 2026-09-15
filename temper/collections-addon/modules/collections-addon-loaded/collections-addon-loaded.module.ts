@@ -8,15 +8,15 @@ export const collectionsAddonLoaded = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every tracker this add-on ships is started from here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The order the trackers are started in is the order the consolidated add-on used.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No tracker is started twice.",
     },
   ],

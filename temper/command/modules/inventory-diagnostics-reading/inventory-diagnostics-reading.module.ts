@@ -10,34 +10,34 @@ export const inventoryDiagnosticsReading = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The account the diagnostic sits under is found by walking rather than named by the caller.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The first account with the diagnostic answers and the rest go unread.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A file that is absent or unreadable or missing its Default table is refused as data.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller rules on one account's own table rather than on the whole file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The refusal names the diagnostic looked for and the reader's steps to make that diagnostic exist.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caller wanting absence as an answer picks rather than reads.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Picking and reading differ in nothing but what an absent diagnostic does.",
     },
   ],

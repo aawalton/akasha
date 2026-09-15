@@ -10,11 +10,11 @@ export const esoChatterNames = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name is rendered as a literal the JSON writer quoted.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The module rendered here carries no prose.",
     },
   ],

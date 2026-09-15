@@ -9,7 +9,7 @@ export const companionsDisplayNames = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name is held by codec index rather than by game constant.",
     },
   ],

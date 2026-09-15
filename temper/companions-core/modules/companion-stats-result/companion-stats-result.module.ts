@@ -8,16 +8,16 @@ export const companionStatsResult = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The interface sits alone in a module to break the cycle between calculator and optimizer.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The metrics field is a partial record keyed by CompanionMetricId.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The rotation field admits null.",
     },
   ],

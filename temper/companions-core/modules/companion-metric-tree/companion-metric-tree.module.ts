@@ -8,16 +8,16 @@ export const companionMetricTree = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The metric grouping is a module-level literal rather than data assembled from metric records.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An empty role list returns the grouping without an Overall group prepended.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A role absent from ROLE_TOTAL_METRICS is dropped from the Overall group.",
     },
   ],

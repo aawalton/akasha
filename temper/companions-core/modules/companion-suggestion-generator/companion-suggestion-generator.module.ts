@@ -8,15 +8,15 @@ export const companionSuggestionGenerator = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A suggestion is emitted only when the changed build outscores the base build.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "At most ten suggestions are returned.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Legendary quality is offered only for the two ring slots.",
     },
   ],

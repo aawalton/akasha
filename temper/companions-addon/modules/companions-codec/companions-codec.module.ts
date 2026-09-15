@@ -8,7 +8,7 @@ export const companionsCodec = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty slot is written as index zero rather than left out.",
     },
   ],

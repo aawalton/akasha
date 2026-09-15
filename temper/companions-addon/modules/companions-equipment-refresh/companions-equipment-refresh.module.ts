@@ -8,7 +8,7 @@ export const companionsEquipmentRefresh = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Live gear is read where the chosen companion is summoned and saved gear otherwise.",
     },

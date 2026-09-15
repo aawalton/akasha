@@ -8,15 +8,15 @@ export const companionRotationState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A skill's heal type is cached across calls in a module-level map.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An ultimate with no stated cost is treated as costing one hundred.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "Ground-targeted healing counts fully toward self healing and toward ally healing.",
     },

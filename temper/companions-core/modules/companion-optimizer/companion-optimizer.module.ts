@@ -8,19 +8,19 @@ export const companionOptimizer = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The score sums role metrics with tank and support toughness divided by ten.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The skill bar is sanitized of role-invalid skills before every evaluation.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A build with no matching role metric evaluates to zero.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The quickened trait forces a sweep over every possible slot count.",
     },
   ],

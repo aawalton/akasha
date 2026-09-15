@@ -9,15 +9,15 @@ export const companionFactory = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Default weapons for a damage role are drawn at random rather than fixed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty companion has armor items of no-weight rather than empty slots.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every role-derived equipment piece is created at epic quality.",
     },
   ],

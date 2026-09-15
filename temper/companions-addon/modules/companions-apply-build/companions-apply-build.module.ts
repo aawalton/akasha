@@ -8,7 +8,7 @@ export const companionsApplyBuild = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Skills are slotted before gear is equipped.",
     },
   ],

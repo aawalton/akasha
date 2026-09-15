@@ -8,7 +8,7 @@ export const companionQolCore = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which companion was dismissed is remembered so the same companion comes back.",
     },
   ],

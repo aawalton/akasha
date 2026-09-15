@@ -8,15 +8,15 @@ export const masterCraftTraceReading = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every trace names the outcome that ended that trace.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The traces are read as a list.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run that crafted nothing answers empty rather than absent.",
     },
   ],

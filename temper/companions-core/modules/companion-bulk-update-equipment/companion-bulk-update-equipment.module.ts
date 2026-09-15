@@ -8,15 +8,15 @@ export const companionBulkUpdateEquipment = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The off-hand slot is skipped in the loop and mirrored from main-hand afterward.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Mirroring to off-hand is suppressed when the main-hand weapon is two-handed.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A slot whose current value differs from the old value is left untouched.",
     },
   ],

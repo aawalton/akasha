@@ -8,7 +8,7 @@ export const companionsProgress = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Progress is recorded per companion rather than per character.",
     },
   ],

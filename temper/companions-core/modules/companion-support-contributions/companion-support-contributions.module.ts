@@ -8,15 +8,15 @@ export const companionSupportContributions = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The damage contribution divides remaining armor by a literal fifty thousand.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Only buffs aimed at an ally-visible target enter the uptime list.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A debuff counts only when the effect targets an enemy.",
     },
   ],

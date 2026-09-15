@@ -8,7 +8,7 @@ export const companionQolSavedVariables = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Switching between account-wide and per character carries the current settings over.",
     },

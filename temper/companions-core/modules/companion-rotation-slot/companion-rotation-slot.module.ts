@@ -8,17 +8,17 @@ export const companionRotationSlot = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Shield formula evaluation is inlined here rather than shared with the rotation metric pass.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Slot data is emitted for every id in companionSkillSlots even when the slot has no skill.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "Resolve buffs assume a fixed armor divisor of fifty thousand instead of the metric divisor.",
     },

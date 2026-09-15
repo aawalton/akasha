@@ -9,18 +9,18 @@ export const inventoryPlanCapabilities = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The parts a plan run needs are handed over together rather than one by one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Each part is handed over on its own so a run may take only the parts that run needs.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No plan is built here.",
     },
-    { invariantKind: "absence", statement: "No type is sent on from here." },
+    { invariantKind: "invariant-kind/absence", statement: "No type is sent on from here." },
   ],
 } as const satisfies Module

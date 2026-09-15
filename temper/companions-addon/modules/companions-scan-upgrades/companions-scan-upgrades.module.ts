@@ -8,7 +8,7 @@ export const companionsScanUpgrades = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only gear already in the companion's inventory is offered.",
     },
   ],

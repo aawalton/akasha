@@ -8,7 +8,7 @@ export const companionMetricIds = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This list imports nothing.",
     },
   ],

@@ -8,15 +8,15 @@ export const companionEquipmentSlots = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The next-empty-trait helper throws when no slot has the no-trait value.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The search for an empty trait slot visits armor before jewelry before weapons.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Only ring-1 and ring-2 are eligible for the legendary quality bump.",
     },
   ],

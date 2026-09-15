@@ -8,7 +8,7 @@ export const companionsPanel = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Live rows are hidden while no companion is summoned.",
     },
   ],

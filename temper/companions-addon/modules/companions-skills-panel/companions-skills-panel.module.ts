@@ -8,7 +8,7 @@ export const companionsSkillsPanel = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A skill is drawn as a card with its icon and its rank.",
     },
   ],

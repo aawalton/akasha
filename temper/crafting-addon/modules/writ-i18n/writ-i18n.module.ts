@@ -8,7 +8,7 @@ export const writI18n = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key no table and no lookup answers is shown as itself.",
     },
   ],

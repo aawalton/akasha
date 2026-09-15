@@ -8,11 +8,11 @@ export const inventoryItemFacts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item's key is worked out from the item rather than said by the caller.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item with no place named is still read.",
     },
   ],

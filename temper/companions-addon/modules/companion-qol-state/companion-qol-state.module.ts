@@ -8,7 +8,7 @@ export const companionQolState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every quality-of-life module reads its settings from this one holder.",
     },
   ],

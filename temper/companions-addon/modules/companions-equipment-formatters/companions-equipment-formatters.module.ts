@@ -8,7 +8,7 @@ export const companionsEquipmentFormatters = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty slot formats as a dash rather than as blank text.",
     },
   ],

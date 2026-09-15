@@ -8,12 +8,12 @@ export const companionsEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The companion tab is registered with the characters add-on rather than drawn alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every sub-tab registered here names both the panel it makes and the refresh.",
     },
   ],

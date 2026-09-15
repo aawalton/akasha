@@ -8,7 +8,7 @@ export const companionsOverviewRapport = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game's own rapport bar is left in place and labelled rather than replaced.",
     },
   ],

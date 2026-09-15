@@ -8,15 +8,15 @@ export const companionSkillLineQueries = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One-handed weapons pick their skill line from the item in the off hand.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Class and guild skill lines are available without regard to gear.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An armor skill line opens at five pieces of that weight.",
     },
   ],

@@ -8,7 +8,7 @@ export const companionsInventoryMatcher = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item is scored for nearness rather than matched exactly.",
     },
   ],

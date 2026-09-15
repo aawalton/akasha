@@ -8,11 +8,11 @@ export const companionSoothingHealing = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only the soothing trait is counted here.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A two-handed weapon has a soothing value of its own.",
     },
   ],

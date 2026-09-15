@@ -8,7 +8,7 @@ export const companionsCodecConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A width here is the width the codec on the other side reads.",
     },
   ],

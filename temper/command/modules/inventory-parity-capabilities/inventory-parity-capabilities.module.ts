@@ -9,15 +9,15 @@ export const inventoryParityCapabilities = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The parts a parity run needs are handed over together rather than one by one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A trace and a route are defined here for the run to read a trace and a route by.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No routing is compared here.",
     },
   ],

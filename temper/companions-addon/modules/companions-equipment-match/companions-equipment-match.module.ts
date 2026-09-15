@@ -8,7 +8,7 @@ export const companionsEquipmentMatch = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each gear slot is judged on weight and on trait and on quality apart.",
     },
   ],

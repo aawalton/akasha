@@ -8,15 +8,15 @@ export const companionWeaponRoleMatch = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A weapon role is read back from the weapons rather than stored on the build.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A build whose weapons match no role reads as the no-weapon-role entry.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Choosing the weapons a role calls for picks at random among the types the role permits.",
     },

@@ -8,7 +8,7 @@ export const companionActivationBuffs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code is written out from the companion pages rather than by hand.",
     },
   ],

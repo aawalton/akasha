@@ -8,11 +8,11 @@ export const collectionsAddonEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here runs before the game says this add-on has loaded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global is published before any tracker is reached.",
     },
   ],

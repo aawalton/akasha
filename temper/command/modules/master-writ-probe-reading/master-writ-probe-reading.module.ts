@@ -8,11 +8,11 @@ export const masterWritProbeReading = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The probe is ruled on whole.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An unknown field refuses the read.",
     },
   ],

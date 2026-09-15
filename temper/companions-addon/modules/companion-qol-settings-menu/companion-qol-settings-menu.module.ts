@@ -8,7 +8,7 @@ export const companionQolSettingsMenu = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The panel is built through the add-on menu library rather than drawn by hand.",
     },
   ],

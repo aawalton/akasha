@@ -9,19 +9,19 @@ export const inventoryResolvedVerdictReading = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A fresh verdict takes the routes the addon's own run takes, in that order.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A route carries a rule index only where an ordered rule resolved the item.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item no rule reaches is resolved to nothing rather than to no verdict.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads the game, so an allocation the game makes is not mirrored.",
     },
   ],

@@ -8,7 +8,7 @@ export const companionQolCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value of the wrong kind reads back as the fallback rather than raising.",
     },
   ],

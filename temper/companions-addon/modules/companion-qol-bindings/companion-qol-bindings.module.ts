@@ -8,7 +8,7 @@ export const companionQolBindings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A keybind name is added as a game string rather than declared in the manifest.",
     },
   ],

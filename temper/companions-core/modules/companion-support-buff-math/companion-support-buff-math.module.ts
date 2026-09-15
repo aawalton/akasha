@@ -8,15 +8,15 @@ export const companionSupportBuffMath = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Force buffs are scaled by crit chance while berserk buffs are not.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Only fractional-change buff values contribute to the damage delta.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A non-rating critical chance metric yields zero crit chance.",
     },
   ],

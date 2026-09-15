@@ -8,7 +8,7 @@ export const companionQolConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A setting absent from saved variables takes its value from here.",
     },
   ],

@@ -8,7 +8,7 @@ export const companionsConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The add-on name is the one key every saved variables read and every event name is built from.",
     },

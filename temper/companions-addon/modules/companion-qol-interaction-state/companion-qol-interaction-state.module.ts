@@ -8,7 +8,7 @@ export const companionQolInteractionState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A companion dismissed by the player is told apart from a companion dismissed for an interaction.",
     },

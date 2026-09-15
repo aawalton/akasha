@@ -8,15 +8,15 @@ export const companionSkillTooltip = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A nested synergy or delayed effect contributes its own value slot.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Formula effects are collected in the order the skill declares.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The primary targeting is the first effect with a target.",
     },
   ],

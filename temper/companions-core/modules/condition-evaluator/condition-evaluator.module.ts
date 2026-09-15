@@ -8,15 +8,15 @@ export const conditionEvaluator = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An unrecognised condition type is treated as satisfied.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A health threshold's uptime is estimated from the enemy's starting health.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "Health-threshold conditions are the only kind contributing to the effective multiplier.",
     },

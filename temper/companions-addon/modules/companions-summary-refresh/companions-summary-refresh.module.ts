@@ -8,7 +8,7 @@ export const companionsSummaryRefresh = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row colours by how near the worn build is to the target build.",
     },
   ],

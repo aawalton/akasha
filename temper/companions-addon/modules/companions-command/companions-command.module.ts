@@ -8,7 +8,7 @@ export const companionsCommand = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Clearing takes the recorded data and leaves the target builds.",
     },
   ],

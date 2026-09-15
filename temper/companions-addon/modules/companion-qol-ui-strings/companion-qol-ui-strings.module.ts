@@ -8,7 +8,7 @@ export const companionQolUiStrings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every string is added under an id the settings menu names.",
     },
   ],

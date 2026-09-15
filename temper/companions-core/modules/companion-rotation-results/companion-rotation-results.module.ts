@@ -8,13 +8,13 @@ export const companionRotationResults = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Damage is totalled from extracted formula components rather than from timeline events.",
     },
-    { invariantKind: "gap", statement: "The returned timeline is always empty." },
+    { invariantKind: "invariant-kind/gap", statement: "The returned timeline is always empty." },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Uptime past the end of the cycle is trimmed off before the ratio is taken.",
     },
   ],

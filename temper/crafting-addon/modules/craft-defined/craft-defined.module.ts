@@ -8,7 +8,7 @@ export const craftDefined = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A value that is nil ends the call rather than being carried on.",
     },
   ],

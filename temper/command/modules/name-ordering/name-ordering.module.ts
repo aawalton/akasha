@@ -9,15 +9,15 @@ export const nameOrdering = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Names are ordered by the locale's own comparison rather than by code point.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The list of names handed in is left as that list was handed in.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here drops a name said twice.",
     },
   ],

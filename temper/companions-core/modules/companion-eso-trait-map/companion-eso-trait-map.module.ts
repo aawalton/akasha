@@ -9,7 +9,7 @@ export const companionEsoTraitMap = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each family of gear numbers the same nine traits differently.",
     },
   ],

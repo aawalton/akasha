@@ -8,7 +8,7 @@ export const companionTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build names an equipped piece by slot rather than by a list of pieces.",
     },
   ],

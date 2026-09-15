@@ -8,7 +8,7 @@ export const companionQolInteractionHandlers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Resummoning after fishing and after crouching each wait a delay a player sets.",
     },
   ],

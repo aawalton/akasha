@@ -8,15 +8,15 @@ export const companionEquipmentIcons = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Jewelry icons ignore quality apart from returning null for no-quality.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Icon paths follow the companions_u30_equipment naming scheme.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A no-type weapon yields null rather than a placeholder icon.",
     },
   ],

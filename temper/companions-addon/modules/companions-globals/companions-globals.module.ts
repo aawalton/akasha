@@ -8,7 +8,7 @@ export const companionsGlobals = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only refreshing and clearing are reachable from outside.",
     },
   ],

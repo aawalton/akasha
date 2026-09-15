@@ -8,7 +8,7 @@ export const companionQolGlobals = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The quality-of-life holder answers to the name its own add-on used.",
     },
   ],

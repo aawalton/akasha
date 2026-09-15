@@ -8,15 +8,15 @@ export const companionLightAttack = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The strongest active light attack heal buff is the only buff applied on a swing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Expired buffs are pruned from the state as a side effect of reading the buffs.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A next-attack damage buff is consumed by the swing the buff lands on.",
     },
   ],

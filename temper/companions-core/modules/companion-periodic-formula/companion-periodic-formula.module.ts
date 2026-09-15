@@ -9,13 +9,16 @@ export const companionPeriodicFormula = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Tick counts are recomputed against the buff-augmented duration before the total is formed.",
     },
-    { invariantKind: "constraint", statement: "A channeled effect drops one tick from its count." },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
+      statement: "A channeled effect drops one tick from its count.",
+    },
+    {
+      invariantKind: "invariant-kind/constraint",
       statement: "Healing done is applied per tick unless the effect asks for the total.",
     },
   ],

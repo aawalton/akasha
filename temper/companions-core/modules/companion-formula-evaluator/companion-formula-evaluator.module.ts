@@ -8,15 +8,15 @@ export const companionFormulaEvaluator = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Arithmetic nodes are delegated to a shared framework evaluator.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An arithmetic node reaching the leaf evaluator throws.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A metric reference missing from the value map reads as zero.",
     },
   ],

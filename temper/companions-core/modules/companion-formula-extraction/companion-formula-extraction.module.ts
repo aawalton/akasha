@@ -8,16 +8,16 @@ export const companionFormulaExtraction = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Trigger frequency is folded into a component's value rather than simulated over time.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A component identifier counts up across one extraction run.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement:
         "Component values are worked out from base companion stats rather than the build being scored.",
     },

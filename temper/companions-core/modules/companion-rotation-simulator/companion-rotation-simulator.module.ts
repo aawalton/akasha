@@ -8,13 +8,16 @@ export const companionRotationSimulator = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Skills are tried in the order the caller gave rather than by a priority score.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A light attack fills any tick where no skill is ready.",
     },
-    { invariantKind: "constraint", statement: "Accumulated ultimate is capped at five hundred." },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "Accumulated ultimate is capped at five hundred.",
+    },
   ],
 } as const satisfies Module

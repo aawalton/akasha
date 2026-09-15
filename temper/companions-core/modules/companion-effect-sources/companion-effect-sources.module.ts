@@ -8,16 +8,16 @@ export const companionEffectSources = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The off-hand weapon damage fraction sits as a bare constant rather than in a table.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every source has a categoryId drawn from the shared SourceCategoryId union.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The class passive contributes a source only when the companion declares a classPassiveId.",
     },

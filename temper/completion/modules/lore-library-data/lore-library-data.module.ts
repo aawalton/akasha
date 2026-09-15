@@ -8,15 +8,15 @@ export const loreLibraryData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This table is captured from the game rather than written by hand.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The game's report order sets a book's place in this table.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A book moved to another place drifts from the index the game has.",
     },
   ],

@@ -8,15 +8,15 @@ export const craftCookingLists = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row reaches the panel through the shared row builder.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A search covers every recipe list rather than the category shown.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The favourites categories are read off the character.",
     },
   ],

@@ -8,7 +8,7 @@ export const dungeonChampionAchievementIds = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A pin refreshes only for an achievement id named here.",
     },
   ],

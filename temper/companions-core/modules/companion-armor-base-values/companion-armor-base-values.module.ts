@@ -8,16 +8,16 @@ export const companionArmorBaseValues = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The table is keyed by EquipmentQualityId while the lookup takes CompanionEquipmentQualityId.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A no-quality or no-weight argument returns zero armor.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The lookup defaults to legendary quality when no quality is passed.",
     },
   ],

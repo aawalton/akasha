@@ -8,7 +8,7 @@ export const companionsDecoder = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hash of an unknown version reads back as nothing rather than as a guess.",
     },
   ],

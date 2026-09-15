@@ -8,11 +8,11 @@ export const setsRowsSecond = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The parts are spread in the order their numbers run.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No row is keyed by its id here.",
     },
   ],

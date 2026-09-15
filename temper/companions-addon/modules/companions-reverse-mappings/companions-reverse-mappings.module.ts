@@ -8,7 +8,7 @@ export const companionsReverseMappings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An index outside the table reads back as the empty entry.",
     },
   ],

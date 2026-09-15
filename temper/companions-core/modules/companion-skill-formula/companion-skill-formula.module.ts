@@ -8,16 +8,16 @@ export const companionSkillFormula = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A percentage with no effect type is worked out through a lossy truncation helper.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Soothing healing done is floored rather than rounded.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Equipment sources are left out of the non-soothing healing done list.",
     },
   ],

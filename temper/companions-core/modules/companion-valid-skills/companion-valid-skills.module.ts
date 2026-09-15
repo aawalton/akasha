@@ -8,15 +8,15 @@ export const companionValidSkills = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A skill already on the skill bar is excluded.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Armor skills match the skill line named for the role armor weight.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Guild skill lines pass without any further check.",
     },
   ],

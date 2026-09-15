@@ -8,7 +8,7 @@ export const companionsEquipmentRows = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Column positions are fixed numbers rather than measured from content.",
     },
   ],

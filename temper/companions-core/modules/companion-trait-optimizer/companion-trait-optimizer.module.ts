@@ -8,16 +8,16 @@ export const companionTraitOptimizer = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Quickened and focused are enumerated exhaustively while other traits fill greedily.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hill-climbing pass swaps traits between gold rings and other slots.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Only ring-1 and ring-2 count as gold slots.",
     },
   ],

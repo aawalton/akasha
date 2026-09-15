@@ -8,16 +8,16 @@ export const companionLeaderboard = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A build scores through the support optimizer when its base roles include support.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A build ranks only when its visibility is public.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Target filters apply only to combinations that include the damage role.",
     },
   ],

@@ -8,16 +8,16 @@ export const companionStatsCalculatorImpl = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The result interface is imported from companion-stats-result rather than declared here.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Formula metrics are evaluated in topological order of their metric references.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Six rotation metric ids are held out of the display pass by a hardcoded set.",
     },
   ],

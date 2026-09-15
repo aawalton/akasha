@@ -9,19 +9,19 @@ export const inventoryExplainCapabilities = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The parts an explanation needs are handed over together rather than one by one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item asked for without a character is looked for in the newest place first.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every item in every bag is reached with the place that item is held in.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No rule walk is run here.",
     },
   ],

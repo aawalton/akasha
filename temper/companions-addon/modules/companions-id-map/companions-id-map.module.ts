@@ -8,7 +8,7 @@ export const companionsIdMap = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A companion's index here is the index a saved build hash carries.",
     },
   ],

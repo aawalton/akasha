@@ -8,7 +8,7 @@ export const companionsSkillMap = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An ability's index here is the index a saved build hash has.",
     },
   ],

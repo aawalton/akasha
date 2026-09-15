@@ -8,7 +8,7 @@ export const companionsSelector = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The chosen companion is kept between sessions.",
     },
   ],

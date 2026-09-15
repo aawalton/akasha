@@ -8,11 +8,11 @@ export const companionStatsCalculator = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The wrapper exists only to default the baseline argument.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An omitted baseline is resolved through getReferenceBaseline on every call.",
     },
   ],
