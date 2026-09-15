@@ -198,16 +198,15 @@ test("which properties name the page taken away is read off that page's own edge
   const root = rooted()
   naming(root, D_ID, "domain-slug", A_ID, A)
   filing(root, A, A_ID, "note", "a")
-  const change = over(root, [D], { [D]: null })
-
-  expect(shadowed(change).index.namersOf(D_ID)).toEqual([{ path: A, propertySlug: "domain-slug" }])
+  expect(shadowAt(root).index.namersOf(D_ID)).toEqual([{ path: A, propertySlug: "domain-slug" }])
 })
 
-test("the id of a page taken away is read from the body the change takes away", () => {
+test("the edges into a page taken away are read as the change found them", () => {
   const root = rooted()
   naming(root, D_ID, "domain-slug", A_ID, A)
   filing(root, A, A_ID, "note", "a")
   const change = over(root, [D], { [D]: null })
+  expect(shadowed(change).index.namersOf(D_ID)).toEqual([])
   expect(namersOf(change, shadowed(change))).toEqual([A])
 })
 

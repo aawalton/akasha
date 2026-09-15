@@ -79,16 +79,12 @@ export const relationResolves = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "Which pages named a page being taken away is read from the index as the change leaves the index.",
+        "Which pages named a page being taken away is read from that page's own references as they were.",
     },
     {
       invariantKind: "invariant-kind/departure",
       statement:
         "That reading is of the edges into that page rather than of every relation property in turn.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "The id of a page being taken away is read from the body the change takes away.",
     },
   ],
   check: { maxCpuSeconds: 10 },

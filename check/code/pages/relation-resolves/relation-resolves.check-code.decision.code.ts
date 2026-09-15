@@ -17,6 +17,11 @@ import {
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { type Rowing, rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import { pageNamed, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  IMPORT,
+  referencesAt,
+  referencesEach,
+} from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
@@ -63,11 +68,20 @@ function rowsFor(change: Change, known: Shaped, one: Carried): readonly Rowing[]
   return rowsOver(one.path, one.value, known.entriedIn(one.value), (at) => textIn(change, at))
 }
 
-function idTakenFrom(change: Change, path: string): string | null {
-  const text = textWas(change, path)
-  if (text === null) return null
-  const value = valueIn(text)
-  return value === null ? null : textAt(value, "id")
+const BLANK = ""
+
+const BREAK = "\n"
+
+function namersWas(change: Change, path: string): readonly string[] {
+  const at = referencesAt(path)
+  if (at === null) return []
+  const body = textWas(change, at)
+  if (body === null) return []
+  const found: string[] = []
+  for (const one of referencesEach(body.split(BREAK).filter((line) => line !== BLANK))) {
+    if (one.propertySlug !== IMPORT) found.push(one.path)
+  }
+  return found
 }
 
 export function namersOf(change: Change, shadow: Shadow): readonly string[] {
@@ -78,9 +92,7 @@ export function namersOf(change: Change, shadow: Shadow): readonly string[] {
     const said = partedIn(path)
     if (said === null || said.sections.length > 0) continue
     if (heldInAFile.has(said.pageType)) continue
-    const gone = idTakenFrom(change, path)
-    if (gone === null) continue
-    for (const one of shadow.index.namersOf(gone)) found.add(one.path)
+    for (const one of namersWas(change, path)) found.add(one)
   }
   return [...found].sort()
 }
