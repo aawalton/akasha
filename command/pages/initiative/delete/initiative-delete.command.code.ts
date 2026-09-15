@@ -15,9 +15,9 @@ import { initiativeDelete as page } from "akasha/command/pages/initiative/delete
 import { initiativesDrawn } from "akasha/domain/modules/work-initiatives/work-initiatives.module.code.ts"
 import {
   type Named,
-  namersOf,
   valueByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namersOf } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const ID = "id"

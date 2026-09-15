@@ -69,7 +69,7 @@ export const besideTurning = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The pages naming an id are read from the edge index rather than from a walk.",
+      statement: "The pages naming an id are read from beside that id's page rather than sought.",
     },
     {
       invariantKind: "invariant-kind/departure",

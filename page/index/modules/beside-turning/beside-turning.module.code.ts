@@ -1,6 +1,5 @@
 import {
   everyValue,
-  namersOf,
   type Valued,
   valueByPath,
   valuesOfType,
@@ -11,6 +10,7 @@ import type {
   Shape,
 } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { namersOf } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import {
   textAt,
   typeIn,
