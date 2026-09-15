@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const waiting = {
   id: "01a04ef8-da76-7b5c-a410-29aa2cf260ff",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "waiting",
   definition: "a test holding on until something running elsewhere has become true",
   code: "ts",

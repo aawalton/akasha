@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const inventoryManagementPlanTestUtils = {
   id: "01a0615a-a1dc-7882-8483-be86859114a7",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "inventory-management-plan-test-utils",
   definition: "the items, holdings and rules a plan test builds when the test cares about neither",
   code: "ts",

@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const repoSeeding = {
   id: "01a08cc2-9f09-710e-8d8a-30169349b3d9",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "repo-seeding",
   definition: "a scratch akasha repository a change can be landed into",
   code: "ts",

@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const inventoryRuleMatcherPropertyFixtures = {
   id: "01a06281-4830-72b8-a8a5-7323d4ed93c2",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "inventory-rule-matcher-property-fixtures",
   definition: "the generated rules and items the matcher's property tests are built from",
   code: "ts",

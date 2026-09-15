@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const scriptPaths = {
   id: "01a08ee1-df5c-739b-aaae-9c94d47a27ee",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "script-paths",
   definition: "the paths a composed script names under the checkout root",
   code: "ts",

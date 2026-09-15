@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const inventoryRuleTestUtils = {
   id: "01a06100-3bef-7eeb-afe9-e4458d43d5ef",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "inventory-rule-test-utils",
   definition: "the item and the matcher context a test builds when the test cares about neither",
   code: "ts",

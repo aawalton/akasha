@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const fixtureWorld = {
   id: "01a088b6-9456-73ee-9f1f-a92536a61b7b",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "fixture-world",
   definition: "the world of pages a test is set up with",
   code: "ts",

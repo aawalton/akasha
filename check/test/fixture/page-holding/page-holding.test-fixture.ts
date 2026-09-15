@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const pageHolding = {
   id: "01a07bd7-36a3-7a1c-92e1-95945d838fd0",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "page-holding",
   definition: "the paths a test's page and its code sit at, and the body of that code",
   code: "ts",

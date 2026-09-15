@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const hookJudging = {
   id: "01a04f83-5df2-71b1-a666-6309398763b8",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "hook-judging",
   definition: "a hook's judgement asked the way a test asks it, from the root it is in",
   code: "ts",

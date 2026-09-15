@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const shadowWorld = {
   id: "01a0a22a-719b-7c23-993c-0df7b2eb43dd",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "shadow-world",
   definition: "the worlds, reaches and answers a change's tests are set up with",
   code: "ts",

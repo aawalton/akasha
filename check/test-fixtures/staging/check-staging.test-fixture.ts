@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const checkStaging = {
   id: "01a08e16-827d-7f4d-bb26-5724ed027608",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "check-staging",
   definition: "the scratch checkout a check's test runs over",
   code: "ts",

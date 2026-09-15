@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const checkScratch = {
   id: "01a04fd0-8a9a-7915-a355-32d5432a7f11",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "check-scratch",
   definition:
     "what a check's test judges: an index set up in a scratch root, and the change read against it",

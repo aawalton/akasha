@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const loreLibrarySparseTestUtils = {
   id: "01a08ee1-1c98-7da2-b6af-8e53c812c8c5",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "lore-library-sparse-test-utils",
   definition: "a sparse lore library capture a test makes from the real table",
   code: "ts",

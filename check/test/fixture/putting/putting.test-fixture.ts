@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const putting = {
   id: "01a04efb-4361-7984-87ce-b338a39e98b3",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "putting",
   definition: "a file put where a test wants it in a tree it set up, and whether one is there",
   code: "ts",

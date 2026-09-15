@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const addonFixtureManifest = {
   id: "01a07c93-f240-7b33-9d06-f8459b129064",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "addon-fixture-manifest",
   definition: "the addon manifest a test writes into a scratch world",
   code: "ts",

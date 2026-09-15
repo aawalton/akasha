@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const resourceLoaderArgsTestUtils = {
   id: "01a08ee4-41a2-7873-81b7-b181807acb88",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "resource-loader-args-test-utils",
   definition: "the arguments a test hands a resource route's loader for one path",
   code: "ts",

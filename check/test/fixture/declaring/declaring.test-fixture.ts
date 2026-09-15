@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const declaring = {
   id: "01a04f4e-cc2d-7607-9fbc-82d1c0c0d9be",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "declaring",
   definition: "the pages a test's world must carry before an identity can be filed",
   code: "ts",

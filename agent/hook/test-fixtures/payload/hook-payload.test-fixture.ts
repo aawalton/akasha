@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const hookPayload = {
   id: "01a04f4d-f0ea-791d-8bb4-ce41b59e46b1",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "hook-payload",
   definition: "a hook payload as the agent sends one, made so a test can hand it to a hook",
   code: "ts",

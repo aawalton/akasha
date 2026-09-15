@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const compileRules = {
   id: "01a06151-370b-7db1-8ce0-836dab4a6093",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "compile-rules",
   definition: "a whole list of saved rules compiled at once for a property test",
   code: "ts",

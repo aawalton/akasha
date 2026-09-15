@@ -2,7 +2,7 @@ import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-ty
 
 export const checkContainerFixtures = {
   id: "01a06137-f963-75d4-b14c-bdaa8c6693a8",
-  type: "test-fixture",
+  type: "page-type/test-fixture",
   slug: "check-container-fixtures",
   definition: "the stub environment the container condition tests are built from",
   code: "ts",
