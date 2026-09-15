@@ -13,16 +13,8 @@ export const changeMechanical = {
     "page-type/change-mechanical-file-content",
     "page-type/change-mechanical-folder",
     "page-type/change-mechanical-page-type",
-    "relation-property/guards",
   ],
-  properties: [
-    {
-      pageProperty: "relation-property/guards",
-      required: false,
-      many: true,
-      maxCount: null,
-    },
-  ],
+  properties: [],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
