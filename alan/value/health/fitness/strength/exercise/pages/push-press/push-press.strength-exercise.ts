@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const pushPress = {
   id: "019ebc77-c7b0-7eb8-a3fc-bc62d8a3d2ec",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "push-press",
   title: "Push Press",
   exerciseCategory: "olympic-weightlifting",

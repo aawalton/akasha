@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const pushPressBehindTheNeck = {
   id: "019ebc77-c7f4-7bf0-acd9-04983893d13f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "push-press-behind-the-neck",
   title: "Push Press - Behind the Neck",
   exerciseCategory: "olympic-weightlifting",

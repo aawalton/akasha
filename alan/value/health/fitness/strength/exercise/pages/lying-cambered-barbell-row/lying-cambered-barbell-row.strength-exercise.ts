@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingCamberedBarbellRow = {
   id: "019ebc77-936d-7729-9a42-7f7cc7d1a792",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-cambered-barbell-row",
   title: "Lying Cambered Barbell Row",
   exerciseCategory: "strength",

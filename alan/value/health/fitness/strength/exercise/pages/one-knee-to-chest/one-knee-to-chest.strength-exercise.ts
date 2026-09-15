@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneKneeToChest = {
   id: "019ebc77-bb88-7ec3-a8f8-5d35e29200ae",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-knee-to-chest",
   title: "One Knee To Chest",
   exerciseCategory: "stretching",

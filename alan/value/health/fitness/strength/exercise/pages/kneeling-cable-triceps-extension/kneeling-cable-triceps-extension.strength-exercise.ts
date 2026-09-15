@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kneelingCableTricepsExtension = {
   id: "019ebc77-88a8-7eda-9ae5-c74a96a1c198",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "kneeling-cable-triceps-extension",
   title: "Kneeling Cable Triceps Extension",
   exerciseCategory: "strength",

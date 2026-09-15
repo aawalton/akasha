@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneLegBarbellSquat = {
   id: "019ebc77-bbc5-75aa-8d4a-dd391f52ace8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-leg-barbell-squat",
   title: "One Leg Barbell Squat",
   exerciseCategory: "strength",

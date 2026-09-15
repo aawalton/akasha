@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const medicineBallScoopThrow = {
   id: "019ebc77-9b6e-758b-a7ec-f9c3da79baa6",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "medicine-ball-scoop-throw",
   title: "Medicine Ball Scoop Throw",
   exerciseCategory: "plyometrics",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const machineShoulderMilitaryPress = {
   id: "019ebc77-9a83-70cd-b061-d7cdd2f00c2b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "machine-shoulder-military-press",
   title: "Machine Shoulder (Military) Press",
   exerciseCategory: "strength",

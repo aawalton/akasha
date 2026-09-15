@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const overheadCableCurl = {
   id: "019ebc77-bc7f-7fe7-ba45-fcc6c6adcc27",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "overhead-cable-curl",
   title: "Overhead Cable Curl",
   exerciseCategory: "strength",

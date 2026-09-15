@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const palmsUpBarbellWristCurlOverABench = {
   id: "019ebc77-befc-702a-80f6-a5aef7900636",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "palms-up-barbell-wrist-curl-over-a-bench",
   title: "Palms-Up Barbell Wrist Curl Over A Bench",
   exerciseCategory: "strength",

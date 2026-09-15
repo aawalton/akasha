@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const machineTricepsExtension = {
   id: "019ebc77-9abc-7bbd-ab9d-698d84dfcdc5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "machine-triceps-extension",
   title: "Machine Triceps Extension",
   exerciseCategory: "strength",

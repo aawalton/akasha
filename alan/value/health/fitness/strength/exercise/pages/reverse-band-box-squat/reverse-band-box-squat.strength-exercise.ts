@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const reverseBandBoxSquat = {
   id: "019ebc77-cb92-7413-b8e4-3855d5c48f35",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "reverse-band-box-squat",
   title: "Reverse Band Box Squat",
   exerciseCategory: "powerlifting",

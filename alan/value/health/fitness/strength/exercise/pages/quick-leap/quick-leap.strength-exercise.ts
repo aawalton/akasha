@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const quickLeap = {
   id: "019ebc77-c9a0-7dde-9e0f-828c58ec44e8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "quick-leap",
   title: "Quick Leap",
   exerciseCategory: "plyometrics",

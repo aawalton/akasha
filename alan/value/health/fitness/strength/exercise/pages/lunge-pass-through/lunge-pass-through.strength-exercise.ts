@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lungePassThrough = {
   id: "019ebc77-9283-758c-a0a4-9e37beafe69b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lunge-pass-through",
   title: "Lunge Pass Through",
   exerciseCategory: "strength",

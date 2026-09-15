@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const piriformisSmr = {
   id: "019ebc77-c0eb-7a1a-bf33-46bae63712f4",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "piriformis-smr",
   title: "Piriformis-SMR",
   exerciseCategory: "stretching",

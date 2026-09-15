@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneArmKettlebellSplitJerk = {
   id: "019ebc77-b68a-780d-808e-cccb800c6e87",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-arm-kettlebell-split-jerk",
   title: "One-Arm Kettlebell Split Jerk",
   exerciseCategory: "strength",

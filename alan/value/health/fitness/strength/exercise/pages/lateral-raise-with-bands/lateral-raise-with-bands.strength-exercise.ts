@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lateralRaiseWithBands = {
   id: "019ebc77-8be8-7f8a-b5b3-da23a519ee5f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lateral-raise-with-bands",
   title: "Lateral Raise - With Bands",
   exerciseCategory: "strength",

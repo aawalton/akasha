@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const reverseBandBenchPress = {
   id: "019ebc77-cb51-7105-a134-6b9e009e1108",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "reverse-band-bench-press",
   title: "Reverse Band Bench Press",
   exerciseCategory: "powerlifting",

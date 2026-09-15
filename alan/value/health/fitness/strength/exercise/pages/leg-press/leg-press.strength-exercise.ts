@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const legPress = {
   id: "019ebc77-8d78-7ffb-b07a-757e269916b6",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "leg-press",
   title: "Leg Press",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const middleBackStretch = {
   id: "019ebc77-9be7-7e95-96aa-cfa5ef8de7a6",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "middle-back-stretch",
   title: "Middle Back Stretch",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const movingClawSeries = {
   id: "019ebc77-9cd5-75db-a57d-2851a3cef156",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "moving-claw-series",
   title: "Moving Claw Series",
   exerciseCategory: "plyometrics",

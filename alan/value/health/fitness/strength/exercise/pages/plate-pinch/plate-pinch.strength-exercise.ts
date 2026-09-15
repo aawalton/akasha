@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const platePinch = {
   id: "019ebc77-c16b-7ebd-a407-daa7e13aadf1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "plate-pinch",
   title: "Plate Pinch",
   exerciseCategory: "strength",

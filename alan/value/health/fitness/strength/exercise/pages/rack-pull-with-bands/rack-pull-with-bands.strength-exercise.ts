@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const rackPullWithBands = {
   id: "019ebc77-ca1a-7bff-91f3-755ab63a7441",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "rack-pull-with-bands",
   title: "Rack Pull with Bands",
   exerciseCategory: "powerlifting",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingCloseGripBarCurlOnHighPulley = {
   id: "019ebc77-93a9-76f0-8e72-2472dead1251",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-close-grip-bar-curl-on-high-pulley",
   title: "Lying Close-Grip Bar Curl On High Pulley",
   exerciseCategory: "strength",

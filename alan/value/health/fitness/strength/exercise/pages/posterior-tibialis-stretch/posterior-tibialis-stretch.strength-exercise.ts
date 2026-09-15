@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const posteriorTibialisStretch = {
   id: "019ebc77-c2e3-7244-8d6c-fa5f0d428a3c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "posterior-tibialis-stretch",
   title: "Posterior Tibialis Stretch",
   exerciseCategory: "stretching",

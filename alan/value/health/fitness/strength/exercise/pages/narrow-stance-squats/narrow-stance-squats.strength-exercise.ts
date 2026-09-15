@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const narrowStanceSquats = {
   id: "019ebc77-b118-7833-9ebf-815382fed315",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "narrow-stance-squats",
   title: "Narrow Stance Squats",
   exerciseCategory: "strength",

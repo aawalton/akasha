@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const onYourBackQuadStretch = {
   id: "019ebc77-b2c2-7428-af58-a6a5476c95ab",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "on-your-back-quad-stretch",
   title: "On-Your-Back Quad Stretch",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneArmKettlebellMilitaryPressToTheSide = {
   id: "019ebc77-b54d-7780-ab8c-cd6b04838df9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-arm-kettlebell-military-press-to-the-side",
   title: "One-Arm Kettlebell Military Press To The Side",
   exerciseCategory: "strength",

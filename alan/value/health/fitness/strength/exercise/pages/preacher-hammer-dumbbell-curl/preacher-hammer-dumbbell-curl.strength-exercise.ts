@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const preacherHammerDumbbellCurl = {
   id: "019ebc77-c511-713b-9db5-907faac1ffdc",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "preacher-hammer-dumbbell-curl",
   title: "Preacher Hammer Dumbbell Curl",
   exerciseCategory: "strength",

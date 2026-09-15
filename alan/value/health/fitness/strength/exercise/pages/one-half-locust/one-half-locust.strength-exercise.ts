@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneHalfLocust = {
   id: "019ebc77-bb11-78b3-929e-1c6473370f45",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-half-locust",
   title: "One Half Locust",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingCrossover = {
   id: "019ebc77-95fe-7984-b78a-6775604d5b18",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-crossover",
   title: "Lying Crossover",
   exerciseCategory: "stretching",

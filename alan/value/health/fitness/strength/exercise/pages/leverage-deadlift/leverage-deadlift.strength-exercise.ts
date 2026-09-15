@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const leverageDeadlift = {
   id: "019ebc77-8e33-7d7f-9303-fbfaf827c5e7",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "leverage-deadlift",
   title: "Leverage Deadlift",
   exerciseCategory: "strength",

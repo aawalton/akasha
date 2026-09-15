@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneArmFloorPress = {
   id: "019ebc77-ba0f-7dd5-aff4-9c9b8e60c2d1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-arm-floor-press",
   title: "One Arm Floor Press",
   exerciseCategory: "strength",

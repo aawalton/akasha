@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneArmMedicineBallSlam = {
   id: "019ebc77-b797-73ca-a6b6-9e724fd4b4e8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-arm-medicine-ball-slam",
   title: "One-Arm Medicine Ball Slam",
   exerciseCategory: "strength",

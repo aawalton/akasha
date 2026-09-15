@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const pelvicTiltIntoBridge = {
   id: "019ebc77-bfb9-760a-a9b1-3a400de9eef0",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "pelvic-tilt-into-bridge",
   title: "Pelvic Tilt Into Bridge",
   exerciseCategory: "stretching",

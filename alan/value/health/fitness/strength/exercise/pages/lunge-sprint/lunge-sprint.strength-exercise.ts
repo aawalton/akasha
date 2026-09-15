@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lungeSprint = {
   id: "019ebc77-92bd-763b-beb9-9e53c9c60326",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lunge-sprint",
   title: "Lunge Sprint",
   exerciseCategory: "strength",

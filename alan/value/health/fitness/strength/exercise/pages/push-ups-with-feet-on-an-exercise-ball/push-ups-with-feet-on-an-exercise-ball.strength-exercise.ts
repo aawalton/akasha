@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const pushUpsWithFeetOnAnExerciseBall = {
   id: "019ebc77-c774-7543-bb4a-64d008e7795c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "push-ups-with-feet-on-an-exercise-ball",
   title: "Push-Ups With Feet On An Exercise Ball",
   exerciseCategory: "strength",

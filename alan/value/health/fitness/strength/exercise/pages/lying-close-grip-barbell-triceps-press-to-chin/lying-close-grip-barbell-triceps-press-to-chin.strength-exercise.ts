@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingCloseGripBarbellTricepsPressToChin = {
   id: "019ebc77-95c1-7807-8399-d81d4de5cd3c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-close-grip-barbell-triceps-press-to-chin",
   title: "Lying Close-Grip Barbell Triceps Press To Chin",
   exerciseCategory: "strength",

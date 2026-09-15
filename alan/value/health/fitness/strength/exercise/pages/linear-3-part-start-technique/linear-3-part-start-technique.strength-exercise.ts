@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const linear3PartStartTechnique = {
   id: "019ebc77-8ff8-7061-91c4-290929b4422e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "linear-3-part-start-technique",
   title: "Linear 3-Part Start Technique",
   exerciseCategory: "plyometrics",

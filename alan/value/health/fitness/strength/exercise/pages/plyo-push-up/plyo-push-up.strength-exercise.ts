@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const plyoPushUp = {
   id: "019ebc77-c2a1-7d55-9ec1-a94a10cd6fd5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "plyo-push-up",
   title: "Plyo Push-up",
   exerciseCategory: "plyometrics",

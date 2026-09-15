@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const physioballHipBridge = {
   id: "019ebc77-c06e-72b2-ba12-cf7810020637",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "physioball-hip-bridge",
   title: "Physioball Hip Bridge",
   exerciseCategory: "strength",

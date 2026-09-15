@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const parallelBarDip = {
   id: "019ebc77-bf7b-75c5-a963-23bf8cbee5f8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "parallel-bar-dip",
   title: "Parallel Bar Dip",
   exerciseCategory: "strength",

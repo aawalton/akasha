@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const legOverFloorPress = {
   id: "019ebc77-8c6e-7da7-ba4c-d024d2b1e4d5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "leg-over-floor-press",
   title: "Leg-Over Floor Press",
   exerciseCategory: "strength",

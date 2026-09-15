@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingDumbbellTricepExtension = {
   id: "019ebc77-9639-7e68-a47d-28d3d63f3fd2",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-dumbbell-tricep-extension",
   title: "Lying Dumbbell Tricep Extension",
   exerciseCategory: "strength",

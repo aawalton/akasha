@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneArmOverheadKettlebellSquats = {
   id: "019ebc77-b828-70d8-8cda-8009551c0bae",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-arm-overhead-kettlebell-squats",
   title: "One-Arm Overhead Kettlebell Squats",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const rackDelivery = {
   id: "019ebc77-c9dc-78b9-9c49-3cdfa6020231",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "rack-delivery",
   title: "Rack Delivery",
   exerciseCategory: "olympic-weightlifting",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lowerBackCurl = {
   id: "019ebc77-9244-7425-969b-edbe745160a4",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lower-back-curl",
   title: "Lower Back Curl",
   exerciseCategory: "stretching",

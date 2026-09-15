@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneArmDumbbellRow = {
   id: "019ebc77-b354-7397-a97e-dea7ecdc59b9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-arm-dumbbell-row",
   title: "One-Arm Dumbbell Row",
   exerciseCategory: "strength",

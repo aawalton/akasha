@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingOneArmLateralRaise = {
   id: "019ebc77-9837-75a9-a19b-a37688b90dc5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-one-arm-lateral-raise",
   title: "Lying One-Arm Lateral Raise",
   exerciseCategory: "strength",

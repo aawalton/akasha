@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const pallofPressWithRotation = {
   id: "019ebc77-be40-7a50-a5c9-de8bc6fc3e9e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "pallof-press-with-rotation",
   title: "Pallof Press With Rotation",
   exerciseCategory: "strength",

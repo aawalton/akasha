@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingGlute = {
   id: "019ebc77-96f2-7cbf-8110-7e24ff6a15c4",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-glute",
   title: "Lying Glute",
   exerciseCategory: "stretching",

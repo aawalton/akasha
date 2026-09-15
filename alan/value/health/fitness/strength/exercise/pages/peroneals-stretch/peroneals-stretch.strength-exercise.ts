@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const peronealsStretch = {
   id: "019ebc77-c034-77ac-a9ee-1f29ab2b452c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "peroneals-stretch",
   title: "Peroneals Stretch",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingProneQuadriceps = {
   id: "019ebc77-9874-7e2c-9413-7a2fefe66bfe",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-prone-quadriceps",
   title: "Lying Prone Quadriceps",
   exerciseCategory: "stretching",

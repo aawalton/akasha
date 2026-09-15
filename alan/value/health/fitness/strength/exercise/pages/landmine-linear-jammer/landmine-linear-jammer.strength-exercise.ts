@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const landmineLinearJammer = {
   id: "019ebc77-8af1-7b36-a4f5-381924cd88b5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "landmine-linear-jammer",
   title: "Landmine Linear Jammer",
   exerciseCategory: "strength",

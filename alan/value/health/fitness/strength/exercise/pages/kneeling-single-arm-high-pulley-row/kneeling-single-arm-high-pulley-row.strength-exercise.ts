@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kneelingSingleArmHighPulleyRow = {
   id: "019ebc77-8a3b-7497-8307-d75df0d808ba",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "kneeling-single-arm-high-pulley-row",
   title: "Kneeling Single-Arm High Pulley Row",
   exerciseCategory: "strength",

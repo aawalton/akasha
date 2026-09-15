@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingMachineSquat = {
   id: "019ebc77-97fc-72a0-b4bf-a81d9b889497",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-machine-squat",
   title: "Lying Machine Squat",
   exerciseCategory: "strength",

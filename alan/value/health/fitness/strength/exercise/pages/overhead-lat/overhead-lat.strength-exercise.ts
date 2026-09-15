@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const overheadLat = {
   id: "019ebc77-bcbc-7bbf-97cf-a61f9c0deb58",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "overhead-lat",
   title: "Overhead Lat",
   exerciseCategory: "stretching",

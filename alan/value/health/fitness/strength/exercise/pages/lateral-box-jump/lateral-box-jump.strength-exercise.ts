@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lateralBoxJump = {
   id: "019ebc77-8b71-79fa-a742-5d52735f68bd",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lateral-box-jump",
   title: "Lateral Box Jump",
   exerciseCategory: "plyometrics",

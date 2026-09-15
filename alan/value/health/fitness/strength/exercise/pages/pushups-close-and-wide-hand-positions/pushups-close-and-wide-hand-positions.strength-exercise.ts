@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const pushupsCloseAndWideHandPositions = {
   id: "019ebc77-c8b3-7f30-a799-c8c093f6849c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "pushups-close-and-wide-hand-positions",
   title: "Pushups (Close and Wide Hand Positions)",
   exerciseCategory: "strength",

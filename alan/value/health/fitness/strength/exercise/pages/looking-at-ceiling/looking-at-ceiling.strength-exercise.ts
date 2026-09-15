@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lookingAtCeiling = {
   id: "019ebc77-9122-7066-846b-1c30137e538b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "looking-at-ceiling",
   title: "Looking At Ceiling",
   exerciseCategory: "stretching",

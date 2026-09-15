@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const powerStairs = {
   id: "019ebc77-c493-79cd-af18-aa76afe039e9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "power-stairs",
   title: "Power Stairs",
   exerciseCategory: "strongman",

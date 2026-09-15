@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneArmSideDeadlift = {
   id: "019ebc77-b862-7770-995e-af5ccee79a9a",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-arm-side-deadlift",
   title: "One-Arm Side Deadlift",
   exerciseCategory: "strength",

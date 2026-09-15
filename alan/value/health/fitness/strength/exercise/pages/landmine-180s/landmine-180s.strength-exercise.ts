@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const landmine180s = {
   id: "019ebc77-8ab4-76b4-8e80-bcfd1db98ad4",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "landmine-180s",
   title: "Landmine 180's",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const pinPresses = {
   id: "019ebc77-c0aa-7c71-9f04-68f82e4d210f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "pin-presses",
   title: "Pin Presses",
   exerciseCategory: "powerlifting",

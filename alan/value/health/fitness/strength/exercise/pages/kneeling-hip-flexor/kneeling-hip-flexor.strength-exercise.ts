@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kneelingHipFlexor = {
   id: "019ebc77-89c0-74c0-b0dd-e6ff0f0ced33",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "kneeling-hip-flexor",
   title: "Kneeling Hip Flexor",
   exerciseCategory: "stretching",

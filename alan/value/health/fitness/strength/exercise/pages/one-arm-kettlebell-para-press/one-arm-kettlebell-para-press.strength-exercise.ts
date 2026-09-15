@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneArmKettlebellParaPress = {
   id: "019ebc77-b589-797e-b788-ec9647672dbb",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-arm-kettlebell-para-press",
   title: "One-Arm Kettlebell Para Press",
   exerciseCategory: "strength",

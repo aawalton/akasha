@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const leverageShrug = {
   id: "019ebc77-8fbb-7815-9efd-6e9d23ee9a8d",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "leverage-shrug",
   title: "Leverage Shrug",
   exerciseCategory: "strength",

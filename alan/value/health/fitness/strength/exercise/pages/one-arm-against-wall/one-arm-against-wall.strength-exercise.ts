@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneArmAgainstWall = {
   id: "019ebc77-b91a-7e5e-8787-3c6be75e8dc9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-arm-against-wall",
   title: "One Arm Against Wall",
   exerciseCategory: "stretching",

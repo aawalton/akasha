@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const medicineBallChestPass = {
   id: "019ebc77-9af6-7f9d-abab-6c4236c642ec",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "medicine-ball-chest-pass",
   title: "Medicine Ball Chest Pass",
   exerciseCategory: "plyometrics",

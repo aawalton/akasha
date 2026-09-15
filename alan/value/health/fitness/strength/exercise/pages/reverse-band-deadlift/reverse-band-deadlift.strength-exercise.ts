@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const reverseBandDeadlift = {
   id: "019ebc77-cbd7-795c-8503-ef3e2a621f7d",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "reverse-band-deadlift",
   title: "Reverse Band Deadlift",
   exerciseCategory: "powerlifting",

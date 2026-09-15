@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingFaceUpPlateNeckResistance = {
   id: "019ebc77-96b5-724e-a9dd-58733699ca75",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-face-up-plate-neck-resistance",
   title: "Lying Face Up Plate Neck Resistance",
   exerciseCategory: "strength",

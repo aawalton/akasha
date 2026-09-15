@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneLeggedCableKickback = {
   id: "019ebc77-b8da-7537-b9a3-c276f58d88dd",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-legged-cable-kickback",
   title: "One-Legged Cable Kickback",
   exerciseCategory: "strength",

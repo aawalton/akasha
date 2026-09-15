@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneArmKettlebellPushPress = {
   id: "019ebc77-b5ca-753f-b1a8-e2ddb312e38e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-arm-kettlebell-push-press",
   title: "One-Arm Kettlebell Push Press",
   exerciseCategory: "strength",

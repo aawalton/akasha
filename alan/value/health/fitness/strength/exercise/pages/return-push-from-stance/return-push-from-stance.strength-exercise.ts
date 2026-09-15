@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const returnPushFromStance = {
   id: "019ebc77-cb10-7824-8208-6a207d1779c6",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "return-push-from-stance",
   title: "Return Push from Stance",
   exerciseCategory: "plyometrics",

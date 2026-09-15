@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const londonBridges = {
   id: "019ebc77-90e7-7d3e-83ff-79af13b7d351",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "london-bridges",
   title: "London Bridges",
   exerciseCategory: "strength",

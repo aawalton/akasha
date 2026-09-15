@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const quadricepsSmr = {
   id: "019ebc77-c966-7356-b156-267fb0a6d84d",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "quadriceps-smr",
   title: "Quadriceps-SMR",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const reverseGripTricepsPushdown = {
   id: "019ebc77-ce72-763c-9d6e-348a1ad3dc5d",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "reverse-grip-triceps-pushdown",
   title: "Reverse Grip Triceps Pushdown",
   exerciseCategory: "strength",

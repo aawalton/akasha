@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const leverageHighRow = {
   id: "019ebc77-8ead-74b7-afab-0437435e3a7f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "leverage-high-row",
   title: "Leverage High Row",
   exerciseCategory: "strength",

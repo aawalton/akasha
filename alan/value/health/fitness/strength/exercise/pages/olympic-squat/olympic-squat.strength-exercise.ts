@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const olympicSquat = {
   id: "019ebc77-b287-7e9f-b2e5-07ecb711d848",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "olympic-squat",
   title: "Olympic Squat",
   exerciseCategory: "olympic-weightlifting",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneHandedHang = {
   id: "019ebc77-bb4d-7307-a677-071820c15f79",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-handed-hang",
   title: "One Handed Hang",
   exerciseCategory: "stretching",

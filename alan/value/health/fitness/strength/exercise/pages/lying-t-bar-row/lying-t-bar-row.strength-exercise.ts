@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingTBarRow = {
   id: "019ebc77-993d-74ef-a184-3a6278959c64",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-t-bar-row",
   title: "Lying T-Bar Row",
   exerciseCategory: "strength",

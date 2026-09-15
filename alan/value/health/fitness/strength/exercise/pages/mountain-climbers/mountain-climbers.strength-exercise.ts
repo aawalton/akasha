@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const mountainClimbers = {
   id: "019ebc77-9c97-7a64-9ec8-29e725cfd746",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "mountain-climbers",
   title: "Mountain Climbers",
   exerciseCategory: "plyometrics",

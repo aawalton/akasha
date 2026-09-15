@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kneelingForearmStretch = {
   id: "019ebc77-8946-7536-8fa7-3663e28e2876",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "kneeling-forearm-stretch",
   title: "Kneeling Forearm Stretch",
   exerciseCategory: "stretching",

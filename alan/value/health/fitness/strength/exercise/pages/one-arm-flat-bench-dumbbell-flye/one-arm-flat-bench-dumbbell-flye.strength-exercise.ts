@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneArmFlatBenchDumbbellFlye = {
   id: "019ebc77-b390-7a8b-8488-e6ed84781b32",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-arm-flat-bench-dumbbell-flye",
   title: "One-Arm Flat Bench Dumbbell Flye",
   exerciseCategory: "strength",

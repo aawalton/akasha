@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const powerCleanFromBlocks = {
   id: "019ebc77-c35e-7ade-a5fa-72ab7833b27b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "power-clean-from-blocks",
   title: "Power Clean from Blocks",
   exerciseCategory: "olympic-weightlifting",

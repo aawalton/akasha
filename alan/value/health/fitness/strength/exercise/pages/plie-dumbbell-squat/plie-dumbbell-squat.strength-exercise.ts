@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const plieDumbbellSquat = {
   id: "019ebc77-c22a-75fa-830c-7c7ccdb5a076",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "plie-dumbbell-squat",
   title: "Plie Dumbbell Squat",
   exerciseCategory: "strength",

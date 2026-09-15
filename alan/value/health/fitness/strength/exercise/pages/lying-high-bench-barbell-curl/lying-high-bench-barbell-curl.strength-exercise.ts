@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingHighBenchBarbellCurl = {
   id: "019ebc77-977e-7472-ab68-ac35e16f1fe2",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-high-bench-barbell-curl",
   title: "Lying High Bench Barbell Curl",
   exerciseCategory: "strength",

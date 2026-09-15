@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneArmLongBarRow = {
   id: "019ebc77-b750-7a5b-9c45-f2999379a0e7",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-arm-long-bar-row",
   title: "One-Arm Long Bar Row",
   exerciseCategory: "strength",

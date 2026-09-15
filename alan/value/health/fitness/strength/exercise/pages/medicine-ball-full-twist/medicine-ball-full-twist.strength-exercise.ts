@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const medicineBallFullTwist = {
   id: "019ebc77-9b33-7498-9046-1bd22bcad06e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "medicine-ball-full-twist",
   title: "Medicine Ball Full Twist",
   exerciseCategory: "plyometrics",

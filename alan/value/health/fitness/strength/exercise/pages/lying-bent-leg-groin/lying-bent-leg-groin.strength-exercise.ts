@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingBentLegGroin = {
   id: "019ebc77-92f6-7aa6-b6b9-e3b1d7dfa05a",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-bent-leg-groin",
   title: "Lying Bent Leg Groin",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const reverseFlyes = {
   id: "019ebc77-cdad-7172-9800-a9a1d09e3bca",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "reverse-flyes",
   title: "Reverse Flyes",
   exerciseCategory: "strength",

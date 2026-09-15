@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const oneArmSupinatedDumbbellTricepsExtension = {
   id: "019ebc77-bad3-7a1d-9f5a-dc797831ec92",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "one-arm-supinated-dumbbell-triceps-extension",
   title: "One Arm Supinated Dumbbell Triceps Extension",
   exerciseCategory: "strength",

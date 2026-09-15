@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const openPalmKettlebellClean = {
   id: "019ebc77-bc02-73b0-8cd4-ca9300a7077e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "open-palm-kettlebell-clean",
   title: "Open Palm Kettlebell Clean",
   exerciseCategory: "strength",

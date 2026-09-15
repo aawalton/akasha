@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const neckPress = {
   id: "019ebc77-b1cf-7d0c-8a6a-c39dcdfb9aa5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "neck-press",
   title: "Neck Press",
   exerciseCategory: "strength",

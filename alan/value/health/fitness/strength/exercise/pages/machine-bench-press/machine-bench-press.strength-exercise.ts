@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const machineBenchPress = {
   id: "019ebc77-99b7-732d-a2b2-7de02afcd1db",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "machine-bench-press",
   title: "Machine Bench Press",
   exerciseCategory: "strength",

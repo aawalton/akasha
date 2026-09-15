@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingRearDeltRaise = {
   id: "019ebc77-98c4-7442-bf76-bf9df0d9583e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-rear-delt-raise",
   title: "Lying Rear Delt Raise",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const reverseHyperextension = {
   id: "019ebc77-ceae-7c55-b9d0-2da357452094",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "reverse-hyperextension",
   title: "Reverse Hyperextension",
   exerciseCategory: "strength",

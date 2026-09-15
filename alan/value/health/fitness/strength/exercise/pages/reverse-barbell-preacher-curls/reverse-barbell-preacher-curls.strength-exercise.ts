@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const reverseBarbellPreacherCurls = {
   id: "019ebc77-ccf4-73e5-ae6b-ffc477ff7891",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "reverse-barbell-preacher-curls",
   title: "Reverse Barbell Preacher Curls",
   exerciseCategory: "strength",

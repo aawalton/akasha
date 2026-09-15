@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lyingSupineDumbbellCurl = {
   id: "019ebc77-98fe-7293-a1e5-2dd8ff868a28",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lying-supine-dumbbell-curl",
   title: "Lying Supine Dumbbell Curl",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kneelingJumpSquat = {
   id: "019ebc77-8a00-71a1-9c88-025c2f3599df",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "kneeling-jump-squat",
   title: "Kneeling Jump Squat",
   exerciseCategory: "olympic-weightlifting",

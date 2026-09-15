@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const monsterWalk = {
   id: "019ebc77-9c5e-7151-af24-431f72460c43",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "monster-walk",
   title: "Monster Walk",
   exerciseCategory: "strength",

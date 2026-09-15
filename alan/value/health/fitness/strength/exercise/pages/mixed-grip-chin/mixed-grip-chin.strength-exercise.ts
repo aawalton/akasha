@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const mixedGripChin = {
   id: "019ebc77-9c23-7f89-b3bf-d10f6747c858",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "mixed-grip-chin",
   title: "Mixed Grip Chin",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const leverageShoulderPress = {
   id: "019ebc77-8f7a-7ea8-ba0a-c3aafbf3ba90",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "leverage-shoulder-press",
   title: "Leverage Shoulder Press",
   exerciseCategory: "strength",

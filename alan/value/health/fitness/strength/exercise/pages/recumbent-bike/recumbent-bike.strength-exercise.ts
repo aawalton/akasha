@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const recumbentBike = {
   id: "019ebc77-cad1-722e-b5c4-f5628487ac9b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "recumbent-bike",
   title: "Recumbent Bike",
   exerciseCategory: "cardio",

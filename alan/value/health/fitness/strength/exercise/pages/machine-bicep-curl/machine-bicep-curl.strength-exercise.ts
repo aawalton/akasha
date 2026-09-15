@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const machineBicepCurl = {
   id: "019ebc77-9a0c-7918-9faf-f91931e8b78e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "machine-bicep-curl",
   title: "Machine Bicep Curl",
   exerciseCategory: "strength",

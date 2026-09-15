@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const pushUpWide = {
   id: "019ebc77-c6bc-7398-b577-e28ae564c146",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "push-up-wide",
   title: "Push-Up Wide",
   exerciseCategory: "strength",

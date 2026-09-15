@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const overheadTriceps = {
   id: "019ebc77-bdb3-7cb7-a7de-254079c337d6",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "overhead-triceps",
   title: "Overhead Triceps",
   exerciseCategory: "stretching",

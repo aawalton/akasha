@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const prowlerSprint = {
   id: "019ebc77-c5c5-7f83-a4e4-4de91f5d10c1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "prowler-sprint",
   title: "Prowler Sprint",
   exerciseCategory: "cardio",

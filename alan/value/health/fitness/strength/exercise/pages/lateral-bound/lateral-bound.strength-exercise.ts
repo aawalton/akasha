@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const lateralBound = {
   id: "019ebc77-8b35-7ee0-ba15-915197a9d185",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "lateral-bound",
   title: "Lateral Bound",
   exerciseCategory: "plyometrics",

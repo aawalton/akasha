@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const obliqueCrunchesOnTheFloor = {
   id: "019ebc77-b247-7f8f-9987-2166bc66f0ed",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "oblique-crunches-on-the-floor",
   title: "Oblique Crunches - On The Floor",
   exerciseCategory: "strength",
