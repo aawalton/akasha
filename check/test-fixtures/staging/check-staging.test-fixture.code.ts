@@ -1,19 +1,23 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { put, there } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
 import { importIn } from "akasha/page/index/import/index-import.index.code.ts"
 import { indexImport } from "akasha/page/index/import/index-import.index.ts"
+import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   entriesFiled,
   noImportersFiled,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { importedFrom } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
 import {
-  put,
-  there,
-} from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+  bodyOf,
+  referencesEach,
+} from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { textThere } from "akasha/util/fs/modules/text-there/text-there.module.code.ts"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 
@@ -35,10 +39,27 @@ export function named(
   listedFiled(root, pageType, slug, [{ path: at, id }])
 }
 
+function besided(root: string, entries: readonly Entry[]): undefined {
+  const held = new Map<string, string[]>()
+  for (const one of entries) {
+    const lines = held.get(one.at) ?? []
+    lines.push(one.line)
+    held.set(one.at, lines)
+  }
+  for (const [at, lines] of held) {
+    const beside = join(root, at)
+    mkdirSync(dirname(beside), { recursive: true })
+    const was = textThere(beside)
+    const kept = was === null ? [] : was.split("\n").filter((one) => one !== "")
+    writeFileSync(beside, bodyOf(referencesEach([...kept, ...lines])))
+  }
+}
+
 function reaching(root: string, files: Readonly<Record<string, string>>): undefined {
   noImportersFiled(root)
   for (const [at, body] of Object.entries(files)) {
     entriesFiled(root, importIn(body, at, root))
+    besided(root, importedFrom(body, at, root))
   }
 }
 

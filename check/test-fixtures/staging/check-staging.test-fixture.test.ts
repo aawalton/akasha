@@ -16,6 +16,7 @@ import {
   listedAt,
   readingIn,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { importersOf as importersBeside } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 afterAll(scratch.sweep)
@@ -65,6 +66,13 @@ test("what a body the checkout is asked for imports is filed in the import index
   const root = staged({ [IMPORTER_AT]: IMPORTING, [IMPORTED_AT]: HELD })
   expect(importersOf(IMPORTED_AT, readingIn(root))).toEqual([IMPORTER_AT])
   expect(importersOf(IMPORTER_AT, readingIn(root))).toEqual([])
+})
+
+test("what a body the checkout is asked for imports is filed beside the page imported", () => {
+  const root = staged({ [IMPORTER_AT]: IMPORTING, [IMPORTED_AT]: HELD })
+  expect(importersBeside(root, IMPORTED_AT)).toEqual(importersOf(IMPORTED_AT, readingIn(root)))
+  expect(importersBeside(root, IMPORTED_AT)).toEqual([IMPORTER_AT])
+  expect(importersBeside(root, IMPORTER_AT)).toEqual([])
 })
 
 test("the pages the import index and its edge are sit in the checkout too", () => {

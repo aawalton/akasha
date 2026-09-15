@@ -22,6 +22,10 @@ export const checkStaging = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "What a body the checkout is asked for imports is filed beside the page imported.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The pages the import index and its edge are sit in the checkout too.",
     },
     {
