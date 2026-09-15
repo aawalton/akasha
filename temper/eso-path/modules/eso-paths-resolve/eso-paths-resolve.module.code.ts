@@ -2,7 +2,7 @@ import { statSync } from "node:fs"
 import {
   esoLiveDirCandidates,
   type PathOpts,
-} from "akasha/temper/eso-paths/modules/eso-paths/eso-paths.module.code.ts"
+} from "akasha/temper/eso-path/modules/eso-paths/eso-paths.module.code.ts"
 
 export interface ResolveOpts extends PathOpts {
   readonly exists?: (path: string) => boolean

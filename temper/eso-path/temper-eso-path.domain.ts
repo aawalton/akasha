@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const temperEsoPaths = {
+export const temperEsoPath = {
   id: "01a06050-639d-78c1-a9ff-c6579f3deebd",
   type: "domain",
-  slug: "temper-eso-paths",
+  slug: "temper-eso-path",
   definition: "what a workstation has of the game and of the game's own sources",
   parts: [
     "module/eso-clone-stamp",

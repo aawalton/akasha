@@ -14,7 +14,7 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { numSaid } from "akasha/command/modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
 import { temperInventoryMasterConsumableTrace as page } from "akasha/command/pages/temper/inventory/master/consumable-trace/temper-inventory-master-consumable-trace.command.ts"
-import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { savedVarsFile } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { savedVariablesRootSchema } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/saved-variables/modules/lua-array/lua-array.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/modules/lua-parser/lua-parser.module.code.ts"

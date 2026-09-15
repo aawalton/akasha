@@ -577,7 +577,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/errors-triage/temper-errors-triage.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso-declaration/eso-opt-in-list/eso-opt-in-list.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso-declaration/temper-eso-declaration.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso-paths/temper-eso-paths.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso-path/temper-eso-path.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso-types/temper-eso-types.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/explain/temper-explain.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/formula-framework/temper-formula-framework.domain.ts"}

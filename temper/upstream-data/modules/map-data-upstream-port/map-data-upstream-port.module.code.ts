@@ -1,6 +1,6 @@
 import { mkdir } from "node:fs/promises"
 import { join } from "node:path"
-import { addonsDir } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { addonsDir } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { makeLuaVm } from "akasha/temper/lua-runner/modules/lua-vm/lua-vm.module.code.ts"
 import { SERIALIZE_TS_LUA } from "akasha/temper/upstream-data/modules/ts-lua-serializer/ts-lua-serializer.module.code.ts"
 import { PACKAGE_OF } from "akasha/temper/upstream-data/modules/upstream-libraries/upstream-libraries.module.code.ts"

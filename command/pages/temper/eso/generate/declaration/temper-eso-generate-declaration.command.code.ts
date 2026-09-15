@@ -51,8 +51,8 @@ import {
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,
-} from "akasha/temper/eso-paths/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
-import { esouiDocPath } from "akasha/temper/eso-paths/modules/eso-paths/eso-paths.module.code.ts"
+} from "akasha/temper/eso-path/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { esouiDocPath } from "akasha/temper/eso-path/modules/eso-paths/eso-paths.module.code.ts"
 
 const NAMED = [codeRootArgument]
 

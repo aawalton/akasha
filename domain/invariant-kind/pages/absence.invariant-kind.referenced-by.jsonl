@@ -1623,7 +1623,7 @@
 {"propertySlug":"invariant-kind","path":"temper/eso-declaration/modules/eso-declaration-text/eso-declaration-text.module.ts","id":"01a0673e-3ddf-7003-bbda-94a1b1824f32"}
 {"propertySlug":"invariant-kind","path":"temper/eso-declaration/modules/eso-doc-tokens/eso-doc-tokens.module.ts","id":"01a0673e-3ddf-7001-acad-9b0751ef4567"}
 {"propertySlug":"invariant-kind","path":"temper/eso-declaration/temper-eso-declaration.domain.ts","id":"01a0673e-3ddf-7000-a6f4-66fa0861fb9d"}
-{"propertySlug":"invariant-kind","path":"temper/eso-paths/modules/eso-paths/eso-paths.module.ts","id":"01a06050-639f-7d76-bfda-f105e8a7cd3e"}
+{"propertySlug":"invariant-kind","path":"temper/eso-path/modules/eso-paths/eso-paths.module.ts","id":"01a06050-639f-7d76-bfda-f105e8a7cd3e"}
 {"propertySlug":"invariant-kind","path":"temper/eso-types/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
 {"propertySlug":"invariant-kind","path":"temper/events-addon/modules/next-boss-ui-strings/next-boss-ui-strings.module.ts","id":"01a06157-8357-7537-a6bd-307d783c5836"}
 {"propertySlug":"invariant-kind","path":"temper/events-addon/next-boss-declarations/next-boss-declarations.type-declaration.ts","id":"01a0620a-a165-79b6-89ee-06d189040e29"}

@@ -30,7 +30,7 @@ import {
   verdictRecordedOn,
   verdictSaid,
 } from "akasha/temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"
-import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { savedVarsFile } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
 const NAMED = [jsonArgument, inventoryPathArgument, charactersPathArgument]
 

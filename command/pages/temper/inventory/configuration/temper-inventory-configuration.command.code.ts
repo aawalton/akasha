@@ -19,7 +19,7 @@ import {
   divergenceBetween,
 } from "akasha/temper/command/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"
 import { loadTemperInventoryConfigFromPath } from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
-import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { savedVarsFile } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 

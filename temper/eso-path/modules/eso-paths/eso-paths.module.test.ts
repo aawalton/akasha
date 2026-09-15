@@ -5,7 +5,7 @@ import {
   esouiDir,
   esouiDocPath,
   esouiSourceDir,
-} from "akasha/temper/eso-paths/modules/eso-paths/eso-paths.module.code.ts"
+} from "akasha/temper/eso-path/modules/eso-paths/eso-paths.module.code.ts"
 
 test("a directory named outright is taken over every other answer", () => {
   expect(

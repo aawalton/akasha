@@ -26,7 +26,7 @@ import {
   type ResolvedInventoryItem,
   resolveItemFromInventory,
 } from "akasha/temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
-import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { savedVarsFile } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
   formatExplainWalk,
   ITEM_RULE_TRACE_INDEX,

@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,
-} from "akasha/temper/eso-paths/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+} from "akasha/temper/eso-path/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 
 const DOC = "preamble\nh1. ESO UI Documentation for API Version 101047\nrest\n"
 

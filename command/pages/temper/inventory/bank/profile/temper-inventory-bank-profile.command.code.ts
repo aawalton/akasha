@@ -13,7 +13,7 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { temperInventoryBankProfile as page } from "akasha/command/pages/temper/inventory/bank/profile/temper-inventory-bank-profile.command.ts"
 import { readBankProfile } from "akasha/temper/command/modules/bank-profile-reading/bank-profile-reading.module.code.ts"
-import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
+import { savedVarsFile } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
 const INVENTORY_LUA = "TemperInventory.lua"
 
