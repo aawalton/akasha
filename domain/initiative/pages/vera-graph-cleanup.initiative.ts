@@ -11,13 +11,13 @@ export const veraGraphCleanup = {
       statement:
         "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
       workingMemory:
-        "The graph answers `edgesOutOf` and `reachingOutOf` over import edges, reading each body from the reader handed in and only where TypeScript parses it. The deploy closure, the stylesheet globber and the gateway's version stamp all ask it, and both walkers they used are gone. What still reads an import without the graph is one edge rather than a closure: `folder-matches-a-shape.check.code.ts:37`, and `page-reference-filing.module.code.ts:99`, which writes the edge the graph reads the other way.",
+        "Every closure goes through `closureOf` in `graph-predicate-closure`, handed a `graph-predicate` page saying which edge kinds and which way. `graph-asking` answers one edge and closes nothing. Typecheck, deploy, the stylesheet globber, the gateway stamp and `answer-cost` name no edge kind or direction of their own. What still reads an import without the graph is one edge rather than a closure: `folder-matches-a-shape.check.code.ts:37` and `page-reference-filing.module.code.ts:99`.",
     },
     {
       statement:
         "Every closure the graph answers is correct, and quick enough to ask on every landing.",
       workingMemory:
-        "Measured by `performance/answer-cost`: out landing 555 files 230ms, in landing 1079 files 58ms, out graph-asking 143 files 28ms, in graph-asking 1100 files 49ms, out page-value-reading 31 files 17ms, in page-value-reading 3329 files 77ms. Reading a body out costs about 0.4ms a file, reading the file beside a page in about 0.05ms. The largest closure is 230ms against a typecheck averaging 14.8s over 3499 runs, so no cache earns its keep yet.",
+        "Measured by `performance/answer-cost` after the cutover: out landing 555 files 292ms, in landing 1079 files 87ms, out graph-asking 143 files 52ms, in graph-asking 1102 files 65ms, out page-value-reading 31 files 20ms, in page-value-reading 3325 files 142ms. Reading a body out costs about 0.5ms a file, reading beside a page in about 0.05ms. The largest closure is 292ms against a typecheck averaging 14.8s over 3499 runs, so no cache earns its keep yet.",
     },
     {
       statement:
