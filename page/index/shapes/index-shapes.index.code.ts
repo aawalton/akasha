@@ -4,7 +4,6 @@ import { answered, heldEach } from "akasha/page/index/modules/reading/index-read
 import type { Reading, Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { indexShapes } from "akasha/page/index/shapes/index-shapes.index.ts"
 import {
-  numberAt,
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -13,6 +12,11 @@ import {
   propertiesIfNamed,
   type Source,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import {
+  type Carrying,
+  carryingIn,
+  carryingOf,
+} from "akasha/page/type/modules/type-carrying/type-carrying.module.code.ts"
 import { shapedIn } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 
 const SHAPES = indexShapes.name
@@ -24,26 +28,6 @@ const PAGE_PROPERTY = "page-property"
 const ENDING = ".jsonl"
 
 const NAMES = "/"
-
-export type Carrying = {
-  readonly key: string
-  readonly propertySlug: string
-  readonly pagePropertySlug: string
-  readonly pageTypeSlug: string
-  readonly declaredBy: string
-  readonly required: boolean
-  readonly many: boolean
-  readonly unique: string | null
-  readonly uniquePropertySlug: string | null
-  readonly maxCount: number | null
-  readonly maxLength: number | null
-  readonly fixed: string | null
-  readonly uncommitted: boolean
-  readonly secret: boolean
-  readonly targetPageTypeSlug: string | null
-  readonly fileName: string | null
-  readonly folderName: string | null
-}
 
 export function fileFor(pageTypeSlug: string): string {
   return join(SHAPES, PAGE_TYPE, `${pageTypeSlug}${ENDING}`)
@@ -61,43 +45,6 @@ export function shapeFiled(value: Value): readonly Entry[] {
 
 function namedOf(one: Shape): string {
   return `${one.pageTypeSlug}${NAMES}${one.slug}`
-}
-
-export function carryingIn(line: string): Carrying | null {
-  let said: unknown
-  try {
-    said = JSON.parse(line)
-  } catch {
-    return null
-  }
-  if (said === null || typeof said !== "object" || Array.isArray(said)) return null
-  const held = said as Value
-  const key = textAt(held, "key")
-  const propertySlug = textAt(held, "propertySlug")
-  const pagePropertySlug = textAt(held, "pagePropertySlug")
-  const pageTypeSlug = textAt(held, "pageTypeSlug")
-  const declaredBy = textAt(held, "declaredBy")
-  if (key === null || propertySlug === null || pagePropertySlug === null) return null
-  if (pageTypeSlug === null || declaredBy === null) return null
-  return {
-    key,
-    propertySlug,
-    pagePropertySlug,
-    pageTypeSlug,
-    declaredBy,
-    required: held.required === true,
-    many: held.many === true,
-    unique: textAt(held, "unique"),
-    uniquePropertySlug: textAt(held, "uniquePropertySlug"),
-    maxCount: numberAt(held, "maxCount"),
-    maxLength: numberAt(held, "maxLength"),
-    fixed: textAt(held, "fixed"),
-    uncommitted: held.uncommitted === true,
-    secret: held.secret === true,
-    targetPageTypeSlug: textAt(held, "targetPageTypeSlug"),
-    fileName: textAt(held, "fileName"),
-    folderName: textAt(held, "folderName"),
-  }
 }
 
 const carriedFiled = heldEach((reading: Reading, pageTypeSlug: string): readonly Carrying[] => {
@@ -121,28 +68,6 @@ export function carriedOfType(given: string | Reading, pageTypeSlug: string): re
   return answered(given, "", `what a \`${pageTypeSlug}\` page carries`, (reading) =>
     carriedFiled(reading, pageTypeSlug)
   )
-}
-
-function carryingOf(one: Carried, shape: Shape | undefined): Carrying {
-  return {
-    key: one.key,
-    propertySlug: one.propertySlug,
-    pagePropertySlug: one.pagePropertySlug,
-    pageTypeSlug: one.pageTypeSlug,
-    declaredBy: one.declaredBy,
-    required: one.required,
-    many: one.many,
-    unique: one.unique,
-    uniquePropertySlug: one.uniquePropertySlug ?? null,
-    maxCount: one.maxCount,
-    maxLength: one.maxLength,
-    fixed: one.fixed ?? null,
-    uncommitted: one.uncommitted,
-    secret: one.secret,
-    targetPageTypeSlug: shape?.targetPageTypeSlug ?? null,
-    fileName: shape?.fileName ?? null,
-    folderName: shape?.folderName ?? null,
-  }
 }
 
 export function shapesIn(values: Iterable<Value>): ReadonlyMap<string, Shape> {

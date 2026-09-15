@@ -3,7 +3,6 @@ import type { Entry } from "akasha/page/index/modules/entries/index-entries.modu
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   carriedOfType,
-  carryingIn,
   fileFor,
   pageTypeSlugsIn,
   shapeFiled,
@@ -13,6 +12,7 @@ import {
 } from "akasha/page/index/shapes/index-shapes.index.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { sourceOver } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { carryingIn } from "akasha/page/type/modules/type-carrying/type-carrying.module.code.ts"
 import { shapedIn } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 
 const SLUG: Value = {
