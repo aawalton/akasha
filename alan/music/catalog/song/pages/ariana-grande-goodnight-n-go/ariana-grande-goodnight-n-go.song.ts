@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeGoodnightNGo = {
   id: "019ea4e0-6f2d-721e-9df6-efde5eaf0329",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-goodnight-n-go",
   title: "goodnight n go",
   artist: "artist/ariana-grande",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeBreakYourHeartRightBack = {
   id: "019ea4e1-2c0d-73e8-95c1-c97051f6ba05",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-break-your-heart-right-back",
   title: "Break Your Heart Right Back",
   artist: "artist/ariana-grande",

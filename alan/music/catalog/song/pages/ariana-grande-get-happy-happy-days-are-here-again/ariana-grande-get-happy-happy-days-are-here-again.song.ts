@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeGetHappyHappyDaysAreHereAgain = {
   id: "019ea4e0-6809-7057-9799-8b337319b116",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-get-happy-happy-days-are-here-again",
   title: "Get Happy / Happy Days Are Here Again",
   artist: "artist/ariana-grande",

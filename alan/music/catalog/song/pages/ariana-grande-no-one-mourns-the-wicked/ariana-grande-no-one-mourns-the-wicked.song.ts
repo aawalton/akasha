@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeNoOneMournsTheWicked = {
   id: "019ea4e6-f8d6-779b-a06a-1c54f21118bd",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-no-one-mourns-the-wicked",
   title: "No One Mourns the Wicked",
   artist: "artist/ariana-grande",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeMyFavoritePart = {
   id: "019ea4e7-7240-7f39-855b-9c4e90b77c70",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-my-favorite-part",
   title: "My Favorite Part",
   artist: "artist/ariana-grande",

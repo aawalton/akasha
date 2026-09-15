@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeSaveYourTearsRemix = {
   id: "019ea4e4-2f49-7a79-858a-712b474835ec",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-save-your-tears-remix",
   title: "Save Your Tears (remix)",
   artist: "artist/ariana-grande",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeRaindropsAnAngelCried = {
   id: "019ea4e8-3a36-703a-8000-2a21af297eba",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-raindrops-an-angel-cried",
   title: "raindrops (an angel cried)",
   artist: "artist/ariana-grande",

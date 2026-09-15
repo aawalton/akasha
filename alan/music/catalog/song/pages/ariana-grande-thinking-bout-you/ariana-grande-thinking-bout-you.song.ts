@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeThinkingBoutYou = {
   id: "019ea4e7-50d4-793c-8e12-47757fcc556e",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-thinking-bout-you",
   title: "Thinking Bout You",
   artist: "artist/ariana-grande",

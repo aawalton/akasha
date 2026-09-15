@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeGhostin = {
   id: "019ea4e2-e604-7b0d-9f20-448200112800",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-ghostin",
   title: "ghostin",
   artist: "artist/ariana-grande",

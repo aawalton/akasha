@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeWhatDoYouMean = {
   id: "019ea4e4-05f9-7fb7-b1a1-cc343ba97a30",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-what-do-you-mean",
   title: "What Do You Mean?",
   artist: "artist/ariana-grande",

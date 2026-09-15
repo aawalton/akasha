@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeSantaCanTYouHearMe = {
   id: "019ea4b2-fafb-704d-b1d0-1313f331a8f8",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-santa-can-t-you-hear-me",
   title: "Santa, Can’t You Hear Me",
   artist: "artist/ariana-grande",

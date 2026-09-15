@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeGiveItUp = {
   id: "019ea4e1-4562-7411-a4a2-e7e42f9bb479",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-give-it-up",
   title: "Give It Up",
   artist: "artist/ariana-grande",

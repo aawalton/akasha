@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeYouCanTStopTheBeat = {
   id: "019ea4e7-4a13-78e6-9ca5-cb37dfdec652",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-you-can-t-stop-the-beat",
   title: "You Can’t Stop the Beat",
   artist: "artist/ariana-grande",

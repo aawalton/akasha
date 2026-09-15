@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeFakeSmile = {
   id: "019ea4e3-48ec-752e-ad89-67e75baf2523",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-fake-smile",
   title: "fake smile",
   artist: "artist/ariana-grande",

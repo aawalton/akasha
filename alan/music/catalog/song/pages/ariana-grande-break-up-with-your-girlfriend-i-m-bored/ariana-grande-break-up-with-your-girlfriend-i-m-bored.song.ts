@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeBreakUpWithYourGirlfriendIMBored = {
   id: "019ea4e3-4430-731b-b1a3-2d440c1c7984",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-break-up-with-your-girlfriend-i-m-bored",
   title: "break up with your girlfriend, i’m bored",
   artist: "artist/ariana-grande",

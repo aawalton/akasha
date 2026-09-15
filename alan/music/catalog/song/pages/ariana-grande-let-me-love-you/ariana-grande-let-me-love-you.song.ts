@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeLetMeLoveYou = {
   id: "019ea4e3-b5ad-74c1-a9cc-602bfa386efe",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-let-me-love-you",
   title: "Let Me Love You",
   artist: "artist/ariana-grande",

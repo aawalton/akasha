@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeSympathyIsAKnife = {
   id: "019ea4e8-4810-7d8e-b10a-f1043c9c16d1",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-sympathy-is-a-knife",
   title: "Sympathy is a knife",
   artist: "artist/ariana-grande",

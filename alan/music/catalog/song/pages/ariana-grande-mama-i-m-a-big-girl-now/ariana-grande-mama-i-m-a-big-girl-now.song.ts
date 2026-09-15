@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeMamaIMABigGirlNow = {
   id: "019ea4e7-6821-75e5-afe7-41179f3f46ad",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-mama-i-m-a-big-girl-now",
   title: "Mama, I’m a Big Girl Now",
   artist: "artist/ariana-grande",

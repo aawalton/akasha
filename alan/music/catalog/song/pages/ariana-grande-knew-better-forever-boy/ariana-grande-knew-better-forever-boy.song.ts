@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeKnewBetterForeverBoy = {
   id: "019ea4e3-2a71-7e2d-9596-44b4710156ad",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-knew-better-forever-boy",
   title: "Knew Better / Forever Boy",
   artist: "artist/ariana-grande",

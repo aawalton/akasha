@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeSupernatural = {
   id: "019ea4e4-8210-76c9-a30b-7d1552535a41",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-supernatural",
   title: "supernatural",
   artist: "artist/ariana-grande",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeMetHimLastNight = {
   id: "019ea4e5-6354-7b28-8328-73658485dbe4",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-met-him-last-night",
   title: "Met Him Last Night",
   artist: "artist/ariana-grande",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeNoTearsLeftToCry = {
   id: "019ea4e7-1343-708d-86a9-5be750f40d8f",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-no-tears-left-to-cry",
   title: "no tears left to cry",
   artist: "artist/ariana-grande",

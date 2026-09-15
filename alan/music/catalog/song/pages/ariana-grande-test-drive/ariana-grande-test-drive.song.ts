@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeTestDrive = {
   id: "019ea4e5-58f0-76c3-85f4-0c71dbec9921",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-test-drive",
   title: "test drive",
   artist: "artist/ariana-grande",

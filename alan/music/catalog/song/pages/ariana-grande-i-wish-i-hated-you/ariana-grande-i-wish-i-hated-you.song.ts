@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeIWishIHatedYou = {
   id: "019ea4e1-3eac-7430-95da-2c5e4a74a707",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-i-wish-i-hated-you",
   title: "i wish i hated you",
   artist: "artist/ariana-grande",

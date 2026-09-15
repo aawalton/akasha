@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeTheBoyIsMineRemix = {
   id: "019ea4e7-f19a-7ef2-8df1-1afa9cd212b3",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-the-boy-is-mine-remix",
   title: "the boy is mine (remix)",
   artist: "artist/ariana-grande",

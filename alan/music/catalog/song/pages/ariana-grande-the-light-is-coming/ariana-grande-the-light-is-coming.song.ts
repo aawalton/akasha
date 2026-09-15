@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeTheLightIsComing = {
   id: "019ea4e6-512e-7711-b609-08b4725b2584",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-the-light-is-coming",
   title: "the light is coming",
   artist: "artist/ariana-grande",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeDefyingGravity = {
   id: "019ea4e1-ba3c-7744-8e36-5d88772e9f2f",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-defying-gravity",
   title: "Defying Gravity",
   artist: "artist/ariana-grande",

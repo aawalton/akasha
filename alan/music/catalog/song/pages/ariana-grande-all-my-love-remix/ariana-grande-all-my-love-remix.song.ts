@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeAllMyLoveRemix = {
   id: "019ea4e2-17cb-742b-bb82-04a445d15679",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-all-my-love-remix",
   title: "All My Love (remix)",
   artist: "artist/ariana-grande",

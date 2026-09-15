@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeHowItSDone = {
   id: "019ea4e0-bcec-762e-b01e-cffa7b8a156b",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-how-it-s-done",
   title: "How It’s Done",
   artist: "artist/ariana-grande",

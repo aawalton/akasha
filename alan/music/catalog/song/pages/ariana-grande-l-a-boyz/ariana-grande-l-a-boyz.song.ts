@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeLABoyz = {
   id: "019ea4e1-6ad7-7b11-bf6e-ada7c2e082ca",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-l-a-boyz",
   title: "L.A. Boyz",
   artist: "artist/ariana-grande",

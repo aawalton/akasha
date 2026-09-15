@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeBestMistake = {
   id: "019ea4e2-2b1f-7db3-83d1-485ddc0a54a2",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-best-mistake",
   title: "Best Mistake",
   artist: "artist/ariana-grande",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeWhereIsTheLove = {
   id: "019ea4e8-2009-7a4d-9080-57082b08aa60",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-where-is-the-love",
   title: "Where Is the Love?",
   artist: "artist/ariana-grande",

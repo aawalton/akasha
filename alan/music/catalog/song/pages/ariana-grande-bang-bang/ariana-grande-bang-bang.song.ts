@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeBangBang = {
   id: "019ea4e2-8be9-7486-a136-799fb1056452",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-bang-bang",
   title: "Bang Bang",
   artist: "artist/ariana-grande",

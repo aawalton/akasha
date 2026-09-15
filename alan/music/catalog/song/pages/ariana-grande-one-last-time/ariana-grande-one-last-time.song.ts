@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeOneLastTime = {
   id: "019ea4e8-0b28-7493-b2f4-dfcca82c0f8e",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-one-last-time",
   title: "One Last Time",
   artist: "artist/ariana-grande",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeWithoutLove = {
   id: "019ea4e4-562f-72e7-bdc8-44976f08d349",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-without-love",
   title: "Without Love",
   artist: "artist/ariana-grande",

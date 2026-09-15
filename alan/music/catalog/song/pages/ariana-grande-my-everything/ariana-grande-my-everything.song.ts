@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeMyEverything = {
   id: "019ea4e6-2ba1-7ecf-8797-2e007d7c28ff",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-my-everything",
   title: "My Everything",
   artist: "artist/ariana-grande",

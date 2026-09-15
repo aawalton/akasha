@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeHowILookOnYou = {
   id: "019ea4e3-9627-70c6-9ca4-8977eced8910",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-how-i-look-on-you",
   title: "How I Look on You",
   artist: "artist/ariana-grande",

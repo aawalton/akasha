@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeDonTDreamItSOver = {
   id: "019ea4e2-9dba-71db-a917-0f7b1503c9ce",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-don-t-dream-it-s-over",
   title: "Don’t Dream It’s Over",
   artist: "artist/ariana-grande",

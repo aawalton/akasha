@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeSantaTellMeNaughtyVersion = {
   id: "019ea4e7-a3ab-731c-8fe1-eab7580eb6ff",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-santa-tell-me-naughty-version",
   title: "Santa Tell Me (naughty version)",
   artist: "artist/ariana-grande",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeOneInAMillion = {
   id: "019ea4e5-9118-793e-aa73-2624a8cb709f",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-one-in-a-million",
   title: "One in a Million",
   artist: "artist/ariana-grande",

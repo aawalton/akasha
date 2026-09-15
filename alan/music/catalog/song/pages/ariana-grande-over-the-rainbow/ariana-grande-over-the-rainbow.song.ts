@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeOverTheRainbow = {
   id: "019ea4e8-8d5d-79b7-abff-c5234b658273",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-over-the-rainbow",
   title: "Over the Rainbow",
   artist: "artist/ariana-grande",

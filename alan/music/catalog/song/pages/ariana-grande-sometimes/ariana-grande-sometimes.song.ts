@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeSometimes = {
   id: "019ea4e6-67ee-7261-82c0-d8de490495ce",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-sometimes",
   title: "Sometimes",
   artist: "artist/ariana-grande",

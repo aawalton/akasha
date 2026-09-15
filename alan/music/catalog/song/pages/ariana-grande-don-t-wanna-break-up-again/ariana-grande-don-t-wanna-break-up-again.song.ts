@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeDonTWannaBreakUpAgain = {
   id: "019ea4e1-31b7-7412-9287-065461f1836b",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-don-t-wanna-break-up-again",
   title: "don’t wanna break up again",
   artist: "artist/ariana-grande",

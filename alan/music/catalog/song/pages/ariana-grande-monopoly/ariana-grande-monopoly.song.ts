@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeMonopoly = {
   id: "019ea4e7-ddd4-7ac6-add4-3e3aea0296c4",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-monopoly",
   title: "Monopoly",
   artist: "artist/ariana-grande",

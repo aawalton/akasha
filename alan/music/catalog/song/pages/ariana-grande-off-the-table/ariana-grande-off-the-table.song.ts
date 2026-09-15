@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeOffTheTable = {
   id: "019ea4e4-de44-7ed6-9508-435a15d235d4",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-off-the-table",
   title: "off the table",
   artist: "artist/ariana-grande",

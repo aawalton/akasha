@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeLoveIsEverything = {
   id: "019ea4e3-30ce-7c3c-aecc-3e0d472d4b85",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-love-is-everything",
   title: "Love Is Everything",
   artist: "artist/ariana-grande",

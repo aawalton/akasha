@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeIceCream = {
   id: "019ea4e1-a93e-7f81-8db1-a23936480bb9",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-ice-cream",
   title: "Ice Cream",
   artist: "artist/ariana-grande",

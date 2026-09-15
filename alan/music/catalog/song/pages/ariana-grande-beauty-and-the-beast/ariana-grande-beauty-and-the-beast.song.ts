@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeBeautyAndTheBeast = {
   id: "019ea4e3-7d49-7065-b434-783e3f32adf8",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-beauty-and-the-beast",
   title: "Beauty and the Beast",
   artist: "artist/ariana-grande",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeTattooedHeart = {
   id: "019ea4e4-2835-75bb-ae9a-f393f8499d61",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-tattooed-heart",
   title: "Tattooed Heart",
   artist: "artist/ariana-grande",

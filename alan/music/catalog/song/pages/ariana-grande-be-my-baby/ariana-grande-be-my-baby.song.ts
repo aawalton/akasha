@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeBeMyBaby = {
   id: "019ea4e1-c1f8-7c4d-b931-73f40ad47b01",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-be-my-baby",
   title: "Be My Baby",
   artist: "artist/ariana-grande",

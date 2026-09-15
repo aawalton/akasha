@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeOneShortDay = {
   id: "019ea4e8-9e51-7413-ad3e-81352c7ba5ff",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-one-short-day",
   title: "One Short Day",
   artist: "artist/ariana-grande",

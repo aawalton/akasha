@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeNotJustOnChristmas = {
   id: "019ea4e5-f619-7f70-86ea-3f16218cd071",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-not-just-on-christmas",
   title: "Not Just on Christmas",
   artist: "artist/ariana-grande",

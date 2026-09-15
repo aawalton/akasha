@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeBetterLeftUnsaid = {
   id: "019ea4e0-f86d-71c1-a9c6-d8fc3bf775c5",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-better-left-unsaid",
   title: "Better Left Unsaid",
   artist: "artist/ariana-grande",

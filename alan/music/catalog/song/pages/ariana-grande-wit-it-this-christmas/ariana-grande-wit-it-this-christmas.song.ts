@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeWitItThisChristmas = {
   id: "019ea4e5-3f71-7cba-9d4a-f0d0d6e911e9",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-wit-it-this-christmas",
   title: "Wit It This Christmas",
   artist: "artist/ariana-grande",

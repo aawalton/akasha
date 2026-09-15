@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeBloodline = {
   id: "019ea4e1-79b3-7ce3-9f6d-f43d65f34fce",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-bloodline",
   title: "bloodline",
   artist: "artist/ariana-grande",

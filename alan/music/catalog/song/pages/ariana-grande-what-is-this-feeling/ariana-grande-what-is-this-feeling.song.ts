@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const arianaGrandeWhatIsThisFeeling = {
   id: "019ea4e8-169c-705e-b82a-d3e835b79843",
-  type: "song",
+  type: "page-type/song",
   slug: "ariana-grande-what-is-this-feeling",
   title: "What Is This Feeling?",
   artist: "artist/ariana-grande",
