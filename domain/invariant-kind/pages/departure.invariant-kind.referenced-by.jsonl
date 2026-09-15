@@ -2941,6 +2941,7 @@
 {"propertySlug":"invariant-kind","path":"page/type/properties/mortal.boolean-property.ts","id":"01a04db0-5818-7000-9db8-d72ace0c1877"}
 {"propertySlug":"invariant-kind","path":"page/type/properties/next-seq.number-property.ts","id":"01a06973-e90a-76de-be02-4662bda83eac"}
 {"propertySlug":"invariant-kind","path":"page/type/properties/owner.relation-property.ts","id":"01a06c50-b15f-7d22-9f4b-7590e602dd05"}
+{"propertySlug":"invariant-kind","path":"page/type/properties/plural-slug.text-property.ts","id":"01a0a5ae-a36e-7000-b147-642bd48aac2a"}
 {"propertySlug":"invariant-kind","path":"page/type/properties/progress-property-id.text-property.ts","id":"01a0683a-620a-7e65-a95a-efdc99a80eaa"}
 {"propertySlug":"invariant-kind","path":"page/type/properties/properties.one-of-property.ts","id":"01a04df3-6848-7e77-ba2c-9399e3f6a356"}
 {"propertySlug":"invariant-kind","path":"page/type/properties/runs-taboo-check.boolean-property.ts","id":"01a063ce-6216-7009-b70d-d16728945271"}

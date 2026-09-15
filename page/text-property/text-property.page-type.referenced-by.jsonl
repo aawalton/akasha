@@ -322,6 +322,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/media-renderer.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/media-source-property-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/media-variant-axis.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/plural-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/progress-property-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/sequence-direction.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/type/properties/sequence-group-by.text-property.ts"}

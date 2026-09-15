@@ -368,6 +368,7 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"play-key","propertySlug":"play-key","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"player-handle","propertySlug":"handle","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"player-id","propertySlug":"player-id","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"plural-slug","propertySlug":"plural-slug","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"poi-name","propertySlug":"poi-name","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"poi-type-label","propertySlug":"poi-type-label","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"point-unit","propertySlug":"point-unit","fileName":null,"folderName":null,"sorted":false}

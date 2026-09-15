@@ -65,6 +65,7 @@ export const pageType = {
     "text-property/media-renderer",
     "text-property/media-source-property-id",
     "text-property/media-variant-axis",
+    "text-property/plural-slug",
     "text-property/progress-property-id",
     "text-property/sequence-direction",
     "text-property/sequence-group-by",
@@ -108,6 +109,7 @@ export const pageType = {
     { pageProperty: "boolean-property/drawn-offline", required: false, many: false },
     { pageProperty: "file-property/schema", required: false, many: false },
     { pageProperty: "file-property/shapes", required: false, many: false },
+    { pageProperty: "text-property/plural-slug", required: false, many: false },
   ],
   typeGenerator: "ts",
   invariants: [

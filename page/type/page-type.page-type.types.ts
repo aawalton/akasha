@@ -12,6 +12,7 @@ import type { PageBadgeComponent } from "akasha/page/type/properties/page-badge-
 import type { PageCardComponent } from "akasha/page/type/properties/page-card-component.component-property-group.ts"
 import type { PageComponent } from "akasha/page/type/properties/page-component.component-property-group.ts"
 import type { PageRowComponent } from "akasha/page/type/properties/page-row-component.component-property-group.ts"
+import type { PluralSlug } from "akasha/page/type/properties/plural-slug.text-property.types.ts"
 import type { Properties } from "akasha/page/type/properties/properties.one-of-property.types.ts"
 import type { PropertyBadgeComponent } from "akasha/page/type/properties/property-badge-component.component-property-group.ts"
 import type { PropertyRowComponent } from "akasha/page/type/properties/property-row-component.component-property-group.ts"
@@ -45,4 +46,5 @@ export type PageType = Domain & {
   drawnOffline?: DrawnOffline
   schema?: Schema
   shapes?: Shapes
+  pluralSlug?: PluralSlug
 }
