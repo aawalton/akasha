@@ -2,7 +2,7 @@ import type { NamedExtensionProperty } from "akasha/page/named-extension-propert
 
 export const addonDdsFile = {
   id: "01a09166-6d67-76ef-8807-56251e571e35",
-  type: "named-extension-property",
+  type: "page-type/named-extension-property",
   slug: "addon-dds-file",
   propertySlug: "addon-dds-file",
   definition: "the textures an add-on keeps in files beside its page",
