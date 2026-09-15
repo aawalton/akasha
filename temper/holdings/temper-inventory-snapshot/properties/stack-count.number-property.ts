@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const stackCount = {
   id: "01a06053-b382-7fd6-a97a-e9ff94c0ca37",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "stack-count",
   propertySlug: "stack-count",
   definition: "how many of an item a stack has",

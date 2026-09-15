@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const pointsToHere = {
   id: "01a0541b-6a82-72e4-a9db-75b5573cc8ee",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "points-to-here",
   propertySlug: "points-to-here",
   definition: "how many points it takes to reach this rung",

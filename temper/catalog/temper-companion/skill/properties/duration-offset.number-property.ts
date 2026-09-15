@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const durationOffset = {
   id: "01a06193-6ca7-73e3-a529-3572c94a9221",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "duration-offset",
   propertySlug: "duration-offset",
   definition: "how many seconds an effect's ticks sit away from the cast",

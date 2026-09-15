@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const liveRefreshMs = {
   id: "01a0680d-4d00-7013-9a16-8c4b2d7e4114",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "live-refresh-ms",
   propertySlug: "live-refresh-ms",
   definition: "how often in milliseconds a view redraws itself",

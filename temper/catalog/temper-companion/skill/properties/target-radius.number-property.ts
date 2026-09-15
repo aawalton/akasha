@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const targetRadius = {
   id: "01a06193-6cac-7448-823a-98e679dfdb1a",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "target-radius",
   propertySlug: "radius",
   definition: "how wide an effect spreads from where it lands",

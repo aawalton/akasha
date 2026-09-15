@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const itemValue = {
   id: "01a06006-154e-75d4-ad1a-d5012faa5a73",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "item-value",
   propertySlug: "item-value",
   definition: "what the items an account has are worth in gold",

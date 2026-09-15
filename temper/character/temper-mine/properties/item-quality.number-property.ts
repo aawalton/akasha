@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const itemQuality = {
   id: "01a05fcd-f550-7c6e-82be-0dccaa9c37c6",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "item-quality",
   propertySlug: "quality",
   definition: "the grade an item is made at, as the game numbers grades",

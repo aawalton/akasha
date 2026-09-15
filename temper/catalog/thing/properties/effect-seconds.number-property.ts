@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const effectSeconds = {
   id: "01a05fb0-3ceb-717f-94f6-5ef52cdf0c41",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "effect-seconds",
   propertySlug: "seconds",
   definition: "how long an effect lasts",

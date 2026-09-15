@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const setMaxEquip = {
   id: "01a05fcd-f555-7778-a87a-87338b2f1827",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "set-max-equip",
   propertySlug: "set-max-equip",
   definition: "how many pieces of a set count towards its bonuses",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const specializedItemTypes = {
   id: "01a05fcb-fd31-75e2-a639-16f22bd626ed",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "specialized-item-types",
   propertySlug: "specialized-item-types",
   definition: "a specialized item type The Elder Scrolls Online numbers",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const equipType = {
   id: "01a05fcc-694e-76a3-970f-ebb43b5adaf7",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "equip-type",
   propertySlug: "equip-type",
   definition: "the number the game gives a place a thing is worn",

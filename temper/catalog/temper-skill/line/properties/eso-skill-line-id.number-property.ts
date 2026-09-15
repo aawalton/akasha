@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const esoSkillLineId = {
   id: "01a05fca-cb82-7627-a8fb-d4d9d4a31dde",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "eso-skill-line-id",
   propertySlug: "eso-skill-line-id",
   definition: "the number The Elder Scrolls Online names a skill line by",

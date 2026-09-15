@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const bookIndex = {
   id: "01a06343-f9f7-7002-a25f-de87fee16ab6",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "book-index",
   propertySlug: "book-index",
   definition: "the number the game orders a book by inside its collection",

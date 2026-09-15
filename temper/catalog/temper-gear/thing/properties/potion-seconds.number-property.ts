@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const potionSeconds = {
   id: "01a05fcc-41f3-7f13-b110-e613148c2a2d",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "potion-seconds",
   propertySlug: "seconds",
   definition: "how long what a drink grants lasts",

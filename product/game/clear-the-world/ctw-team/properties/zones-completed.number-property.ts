@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const zonesCompleted = {
   id: "01a06579-e4f7-7f85-ac4a-1085dfcce10d",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "zones-completed",
   propertySlug: "zones-completed",
   definition: "how many zones the team has completed",

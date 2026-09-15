@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const uespId = {
   id: "01a05fca-cb88-744d-a93b-5239aa02744a",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "uesp-id",
   propertySlug: "uesp-id",
   definition: "the number UESP names a thing by",

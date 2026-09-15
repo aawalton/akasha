@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const esoAntiquitySetId = {
   id: "01a06176-a912-7000-8819-19b71a0dafd6",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "eso-antiquity-set-id",
   propertySlug: "eso-antiquity-set-id",
   definition: "the number The Elder Scrolls Online names a set of antiquity leads by",

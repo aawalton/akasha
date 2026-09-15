@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const interval = {
   id: "01a06193-6ca9-7236-9c1e-b0e4e1e7eec8",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "interval",
   propertySlug: "interval",
   definition: "how many seconds fall between one firing of a periodic trigger and the next",

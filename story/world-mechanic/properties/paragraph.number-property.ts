@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const paragraph = {
   id: "01a06558-a991-707e-8ed8-d4d213635cdc",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "paragraph",
   propertySlug: "paragraph",
   definition: "which paragraph of its chapter a naming is in",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const esoCraftTypeId = {
   id: "01a0616b-2cdf-7000-85c0-2cc1492dd61f",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "eso-craft-type-id",
   propertySlug: "eso-craft-type-id",
   definition: "the number The Elder Scrolls Online names a craft by",

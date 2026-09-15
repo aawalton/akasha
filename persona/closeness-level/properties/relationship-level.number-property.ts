@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const relationshipLevel = {
   id: "01a0655b-4a9b-7002-96a4-5f01bb918e88",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "relationship-level",
   propertySlug: "relationship-level",
   definition: "the rung of the closeness ladder a record is of",

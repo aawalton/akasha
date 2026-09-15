@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const buildLevel = {
   id: "01a06577-f385-7354-bb91-8b1949512f4a",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "build-level",
   propertySlug: "level",
   definition: "the level a character has reached",

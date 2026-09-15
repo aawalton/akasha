@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const byteCount = {
   id: "01a06003-5404-76d0-97b9-c69dffbe2eaf",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "byte-count",
   propertySlug: "byte-count",
   definition: "how many bytes a piece of a capture held",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const maxLength = {
   id: "01a0780a-4fc5-7ef6-8dbb-c783a3f64f6b",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "max-length",
   propertySlug: "max-length",
   definition: "the most one value may run to, in characters",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const repeatableType = {
   id: "01a05fcd-f553-7f0c-93bb-05bec8327fe5",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "repeatable-type",
   propertySlug: "repeatable-type",
   definition: "how often a quest may be taken again",

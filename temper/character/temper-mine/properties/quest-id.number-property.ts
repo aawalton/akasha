@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const questId = {
   id: "01a05fcd-f552-74af-93bb-fae63aec0744",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "quest-id",
   propertySlug: "quest-id",
   definition: "the number the game names a quest by",

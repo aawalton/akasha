@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const navPlace = {
   id: "01a0680e-5e00-7002-9c37-5b1e8a4d5103",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "nav-place",
   propertySlug: "nav-place",
   definition: "where a nav item sits among its siblings",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const collectionIndex = {
   id: "01a05fd1-d437-7503-943d-4cfbfe666121",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "collection-index",
   propertySlug: "collection-index",
   definition: "where a style sits in the game's own collection list",

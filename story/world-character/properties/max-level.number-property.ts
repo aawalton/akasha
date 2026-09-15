@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const maxLevel = {
   id: "01a0657a-9ccc-799d-b3da-5f74e280345a",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "max-level",
   propertySlug: "max-level",
   definition: "the highest level a story ever gives a character",

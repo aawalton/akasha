@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const amountCount = {
   id: "01a06053-b37b-79a4-bcdc-eb5b3f03cab2",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "amount-count",
   propertySlug: "amount-count",
   definition: "how many of an item are listed for sale",

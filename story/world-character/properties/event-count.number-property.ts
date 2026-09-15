@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const eventCount = {
   id: "01a0657a-9ccd-7a56-8e7f-edaa21e21771",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "event-count",
   propertySlug: "event-count",
   definition: "how many times a story changes what a character has",

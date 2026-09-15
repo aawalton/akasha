@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const targetQuantity = {
   id: "01a07283-f295-7205-a4ef-8820858e243a",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "target-quantity",
   propertySlug: "target-quantity",
   definition: "how many of an item one leg of a destination chain takes",

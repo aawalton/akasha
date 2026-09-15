@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const anchorBeat = {
   id: "01a0685e-ef8a-7775-9157-e958fd9fd2e5",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "anchor-beat",
   propertySlug: "beat",
   definition: "how far into the chapter the dating words are",

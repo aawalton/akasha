@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const armorType = {
   id: "01a05fcd-f54c-7e54-b137-1ee0839f485b",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "armor-type",
   propertySlug: "armor-type",
   definition: "the weight class of armor an item is",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const traitIndex = {
   id: "01a0616b-2cdf-7002-9599-131137b2eca6",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "trait-index",
   propertySlug: "trait-index",
   definition: "where a trait falls in the list a research line covers",

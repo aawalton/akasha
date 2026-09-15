@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const maxRank = {
   id: "01a05fca-cb85-7145-9db5-02dbc3c326e6",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "max-rank",
   propertySlug: "max-rank",
   definition: "the highest rank a skill line reaches",

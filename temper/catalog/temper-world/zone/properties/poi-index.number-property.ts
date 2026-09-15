@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const poiIndex = {
   id: "01a06167-3f9b-7001-8bff-c78833596c41",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "poi-index",
   propertySlug: "poi-index",
   definition: "where a point of interest falls among the places a zone has",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const weaponPower = {
   id: "01a05fcd-f556-71bb-8465-689adcc32b4a",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "weapon-power",
   propertySlug: "weapon-power",
   definition: "how much damage a weapon is worth",

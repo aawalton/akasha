@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const achievementPoints = {
   id: "01a06168-7245-7002-89a0-dd15ca1f2c94",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "achievement-points",
   propertySlug: "achievement-points",
   definition: "the points the game awards a player for earning an achievement",

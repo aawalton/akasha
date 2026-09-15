@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const maxQuests = {
   id: "01a05fcd-f558-7da6-8586-f6450e0e3428",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "max-quests",
   propertySlug: "max-quests",
   definition: "how many quests a source gives a skill point for",

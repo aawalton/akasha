@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const targetRange = {
   id: "01a06193-6cab-7234-80a7-375ffe81337b",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "target-range",
   propertySlug: "range",
   definition: "how far away an effect reaches",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const armorTypes = {
   id: "01a05fcb-fd2f-745c-a3dd-7f72bedb3bf8",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "armor-types",
   propertySlug: "armor-types",
   definition: "an armor type The Elder Scrolls Online numbers",

@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const esoCurseIds = {
   id: "01a05fc5-94cd-7c97-9330-6c78011127fa",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "eso-curse-ids",
   propertySlug: "eso-curse-ids",
   definition: "the abilities The Elder Scrolls Online marks a curse by",

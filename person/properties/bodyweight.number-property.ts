@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const bodyweight = {
   id: "01a06860-a0ef-76b6-bebf-a5ed8fc42f7b",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "bodyweight",
   propertySlug: "bodyweight",
   definition: "what a body weighs, in pounds",

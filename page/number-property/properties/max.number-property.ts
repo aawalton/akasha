@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const max = {
   id: "01a049b9-856c-7599-ab4a-e644848ad626",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "max",
   propertySlug: "max",
   definition: "the largest a number may be",

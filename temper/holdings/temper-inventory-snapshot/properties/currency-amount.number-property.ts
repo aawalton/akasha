@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const currencyAmount = {
   id: "01a0675a-f185-7ae5-81fe-f486e2db8460",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "currency-amount",
   propertySlug: "amount",
   definition: "how much of a currency is held",

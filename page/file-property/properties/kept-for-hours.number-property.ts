@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const keptForHours = {
   id: "01a09b29-136d-7840-bc21-35c8e29af410",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "kept-for-hours",
   propertySlug: "kept-for-hours",
   definition: "how long a line beside a page is kept before a sweep takes that line away",

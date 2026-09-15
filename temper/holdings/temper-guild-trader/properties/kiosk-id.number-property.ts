@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const kioskId = {
   id: "01a05fcb-fd2c-797f-87db-5d4343649f75",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "kiosk-id",
   propertySlug: "kiosk-id",
   definition: "the number The Elder Scrolls Online gives a trading kiosk",

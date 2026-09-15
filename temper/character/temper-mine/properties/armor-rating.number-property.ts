@@ -2,7 +2,7 @@ import type { NumberProperty } from "akasha/page/number-property/number-property
 
 export const armorRating = {
   id: "01a05fcd-f54c-74e6-bb9f-b196c110f6d4",
-  type: "number-property",
+  type: "page-type/number-property",
   slug: "armor-rating",
   propertySlug: "armor-rating",
   definition: "how much armor an item is worth",
