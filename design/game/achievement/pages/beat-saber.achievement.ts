@@ -2,7 +2,7 @@ import type { Achievement } from "akasha/design/game/achievement/achievement.pag
 
 export const beatSaber = {
   id: "01a06808-8818-7000-ba32-ad6dded3d4ee",
-  type: "achievement",
+  type: "page-type/achievement",
   slug: "beat-saber",
   title: "Beat Saber",
   partOfCollections: ["achievement/game-achievements"],

@@ -2,7 +2,7 @@ import type { Achievement } from "akasha/design/game/achievement/achievement.pag
 
 export const reachTop1000InBeatSaber = {
   id: "01a06808-8818-700d-be48-23d34b052669",
-  type: "achievement",
+  type: "page-type/achievement",
   slug: "reach-top-1-000-in-beat-saber",
   title: "Reach Top 1,000 in Beat Saber",
   partOfCollections: ["achievement/beat-saber"],
