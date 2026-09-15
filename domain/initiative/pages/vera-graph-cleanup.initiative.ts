@@ -16,7 +16,7 @@ export const veraGraphCleanup = {
     {
       statement: "Every closure the graph answers is correct.",
       workingMemory:
-        "Proven in `graph-predicate-closure.module.test.ts`: three deep closes, a cycle closes once, a gate leaves what is behind it unreached, and out and in answer the same pair. The two directions are not one relation read two ways: out is every import a body names, in is only those whose target a page claims and whose claimant page is there, gated at `page-reference-filing.module.code.ts:117`. Typecheck reaches what to compile through `importers`.",
+        "Proven in `graph-predicate-closure.module.test.ts`: three deep closes, a cycle closes once, a gate leaves what is behind it unreached, and out and in answer the same pair. In is out narrowed to edges whose target a page claims, gated at `page-reference-filing.module.code.ts:117`. The two coincide because every file is owned by a page: `file-is-owned-by-a-page` audited 143,625 paths at 16:50Z on 2026-09-15 and refused none.",
     },
     {
       statement:
