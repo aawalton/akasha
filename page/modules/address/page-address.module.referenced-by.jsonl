@@ -46,6 +46,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/modules/record-sweeping/record-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/modules/value-reading/page-value-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/name-format/modules/format-reaching/format-reaching.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/supabase/modules/hooks/hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/supabase/modules/use-nav-mutations/use-nav-mutations.module.code.ts"}

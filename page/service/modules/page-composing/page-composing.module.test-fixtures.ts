@@ -109,7 +109,7 @@ export const heldThing = {
   id: "${HELD_THING_ID}",
   slug: "held-thing",
   pageTypeSlug: "thing",
-  type: "thing",
+  type: "page-type/thing",
   title: "the name it already has",
   remark: "what was already noted",
   caption: "what it is shown as",

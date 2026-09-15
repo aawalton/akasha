@@ -150,7 +150,7 @@ test("a merge keeps every key the caller does not name", () => {
   expect(content).toContain('caption: "what it is shown as"')
   expect(content).toContain('slug: "held-thing"')
   expect(content).toContain('pageTypeSlug: "thing"')
-  expect(content).toContain('type: "thing"')
+  expect(content).toContain('type: "page-type/thing"')
   expect(content).toContain(HELD_THING_ID)
 })
 
@@ -241,7 +241,7 @@ test("a write that does not merge keeps only the keys the caller names", () => {
 
 test("a write that does not merge states the key naming the page type", () => {
   const content = bodyIn(composing({ ...A_HELD_THING, values: { title: "x" } }))
-  expect(content).toContain('type: "thing"')
+  expect(content).toContain('type: "page-type/thing"')
   expect(content).not.toContain("pageTypeSlug:")
 })
 

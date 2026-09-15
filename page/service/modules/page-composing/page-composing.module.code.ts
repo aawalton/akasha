@@ -5,6 +5,7 @@ import {
   filePropertiesAt,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { bodyOf, importedFrom, unnamedIn } from "akasha/page/modules/body/page-body.module.code.ts"
 import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { partsOver } from "akasha/page/modules/entry-writing/page-entry-writing.module.code.ts"
@@ -306,7 +307,7 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   }
   const wasId = was === null ? undefined : was[ID]
   if (inside[ID] === undefined && wasId !== undefined) inside[ID] = wasId
-  inside[TYPE] = named.pageTypeSlug
+  inside[TYPE] = namedAs(PAGE_TYPE, named.pageTypeSlug, null)
   inside[SLUG] = named.slug
   const content = bodyOf({
     pageTypeSlug: named.pageTypeSlug,
