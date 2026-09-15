@@ -4,7 +4,8 @@ export const workTreeAssigning = {
   id: "01a0a582-5ba1-718f-b298-f2395686421a",
   type: "module",
   slug: "work-tree-assigning",
-  definition: "the initiative Alan assigns in the work tree named to the command that assigns it",
+  definition:
+    "the initiative Alan assigns in the work tree named to the command and to the panel holding it",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -32,7 +33,39 @@ export const workTreeAssigning = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Which seat takes the initiative is settled by the command rather than here.",
+      statement:
+        "Whether that seat takes the initiative is settled by the command rather than here.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "The seat an initiative goes to is named by the module naming that seat off the slug.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "That seat is named here for the panel to hold the initiative in that seat's color.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The panel is told an initiative is being assigned before the command is called.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The panel is told the landing answered once the command answers.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The panel is told the initiative stayed where the command is refused.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A refusal saying that seat answers to that initiative already is told that same way.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The panel's watch is handed in rather than imported.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -88,7 +121,11 @@ export const workTreeAssigning = {
     },
     {
       invariantKind: "invariant-kind/absence",
-      statement: "Nothing here draws a row or tells the panel a row moved.",
+      statement: "Nothing here draws a row.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "Nothing here reads a color or reads the fleet.",
     },
   ],
 } as const satisfies Module

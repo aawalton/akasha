@@ -202,6 +202,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name-claiming/modules/skill-token-guard/skill-token-guard.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name-claiming/modules/spawn-guard/spawn-guard.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/restate/seat-name-restate.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/seat-flex/seat-flex.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/seat-nameable/seat-nameable.module.ts"}

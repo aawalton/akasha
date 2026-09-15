@@ -3,10 +3,16 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
+import { seatsByName } from "akasha/code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.code.ts"
+import { forest } from "akasha/code/editor/extension/modules/agent-tree-state/agent-tree-state.module.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import { describedAs } from "akasha/code/editor/extension/modules/tree-description/tree-description.module.code.ts"
-import { assigningInitiative } from "akasha/code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.code.ts"
+import {
+  type Assigning,
+  assigningInitiative,
+  type WorkAssignWatch,
+} from "akasha/code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.code.ts"
 import {
   deletingInitiative,
   deletingIntent,
@@ -20,6 +26,7 @@ import {
 import {
   type Holding,
   heldAnswered,
+  heldColored,
   heldGone,
   heldMoved,
   heldWithout,
@@ -150,6 +157,16 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return draw({ roots: filed }, "delete")
   }
 
+  const holdColored = (one: Assigning): undefined => {
+    const color = seatsByName(forest).get(one.seat)?.color ?? null
+    if (color === null) {
+      output.appendLine(`[assign] ${one.slug}: the agents panel draws ${one.seat} in no color`)
+      return undefined
+    }
+    holding.set(one.slug, heldColored(holding.get(one.slug), color, one.seat))
+    return draw({ roots: filed }, "assign")
+  }
+
   const answered = (slug: string): undefined => {
     const held = heldAnswered(holding.get(slug))
     if (held !== null) holding.set(slug, held)
@@ -157,6 +174,10 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   }
 
   const letGo = (slug: string): undefined => {
+    const held = holding.get(slug)
+    if (held?.kind === "color") {
+      output.appendLine(`[assign] ${slug}: the color held for ${held.seat} is let go`)
+    }
     holding.delete(slug)
     return refresh("refused")
   }
@@ -164,6 +185,12 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   const deleting: WorkDeleteWatch = {
     intentGoing: (one) => holdWithout(one),
     initiativeGoing: (slug) => holdGone(slug),
+    answered: (slug) => answered(slug),
+    stayed: (slug) => letGo(slug),
+  }
+
+  const assigning: WorkAssignWatch = {
+    assigning: (one) => holdColored(one),
     answered: (slug) => answered(slug),
     stayed: (slug) => letGo(slug),
   }
@@ -194,7 +221,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       deletingInitiative(vscode, said, deleting)(row)
     ),
     vscode.commands.registerCommand(ASSIGN_COMMAND, (row?: WorkTreeRow) =>
-      assigningInitiative(vscode, said)(row)
+      assigningInitiative(vscode, said, assigning)(row)
     )
   )
   return undefined

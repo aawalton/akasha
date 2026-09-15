@@ -1,10 +1,12 @@
 import { expect, test } from "bun:test"
 import { LANDING_TIMEOUT_MS } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import {
+  type Assigning,
   assignDoneSaid,
   assignFailureSaid,
   assigningInitiative,
   type Editor,
+  type WorkAssignWatch,
 } from "akasha/code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.code.ts"
 import {
   shownOn,
@@ -37,16 +39,35 @@ function editorSaying(shown: string[], noted: string[] = []): Editor {
   }
 }
 
+function watching(told: string[]): WorkAssignWatch {
+  return {
+    assigning: (one: Assigning) => {
+      told.push(`assigning ${one.slug} to ${one.seat}`)
+      return undefined
+    },
+    answered: (slug: string) => {
+      told.push(`answered ${slug}`)
+      return undefined
+    },
+    stayed: (slug: string) => {
+      told.push(`stayed ${slug}`)
+      return undefined
+    },
+  }
+}
+
 test("assigning names the initiative to the command that assigns it", async () => {
   const kept: Said[] = []
   const lines: string[] = []
   const noted: string[] = []
+  const told: string[] = []
   await assigningInitiative(
     editorSaying([], noted),
     (line) => {
       lines.push(line)
       return undefined
     },
+    watching(told),
     callingWith("held answers to initiative/held\nabc1234", kept)
   )(INITIATIVE)
 
@@ -60,27 +81,38 @@ test("assigning names the initiative to the command that assigns it", async () =
   ])
   expect(lines).toEqual(["[assign] held answers to initiative/held\nabc1234"])
   expect(noted).toEqual(["Work: held answers to initiative/held"])
+  expect(told).toEqual(["assigning held to held", "answered held"])
 })
 
-test("a row that is no initiative calls nothing", async () => {
+test("a row that is no initiative calls nothing and tells the panel nothing", async () => {
   const kept: Said[] = []
-  await assigningInitiative(editorSaying([]), () => undefined, callingWith("", kept))(INTENT)
+  const told: string[] = []
+  await assigningInitiative(
+    editorSaying([]),
+    () => undefined,
+    watching(told),
+    callingWith("", kept)
+  )(INTENT)
 
   expect(kept).toEqual([])
+  expect(told).toEqual([])
 })
 
 test("an assignment that failed is said to Alan once and written to the channel", async () => {
   const shown: string[] = []
   const lines: string[] = []
+  const told: string[] = []
   await assigningInitiative(
     editorSaying(shown),
     (line) => {
       lines.push(line)
       return undefined
     },
+    watching(told),
     callingWith(new Error("the seat held is not running, so held was assigned to nobody"), [])
   )(INITIATIVE)
 
+  expect(told).toEqual(["assigning held to held", "stayed held"])
   expect(shown).toEqual([
     "Work: held: the initiative was not assigned. Error: the seat held is not running," +
       " so held was assigned to nobody",
@@ -108,10 +140,23 @@ test("an assignment refused because the page moved is said to Alan as one senten
   await assigningInitiative(
     editorSaying(shown),
     () => undefined,
+    watching([]),
     callingWith(new Error(REFUSED), [])
   )(INITIATIVE)
 
   expect(shown).toEqual(["Work: that moved while you were assigning it — nothing was assigned"])
+})
+
+test("a refusal saying that seat answers to that initiative already leaves it stayed", async () => {
+  const told: string[] = []
+  await assigningInitiative(
+    editorSaying([]),
+    () => undefined,
+    watching(told),
+    callingWith(new Error("`initiative/held` is what `assignmentSlug` states already"), [])
+  )(INITIATIVE)
+
+  expect(told).toEqual(["assigning held to held", "stayed held"])
 })
 
 test("an initiative row is offered assign", () => {

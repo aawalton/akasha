@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { seatNameFor } from "akasha/agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.code.ts"
 import {
   assignmentFor,
   messageFor,
@@ -7,7 +8,6 @@ import {
   type Seated,
   saidFor,
   seatFor,
-  seatNameFor,
 } from "akasha/command/pages/initiative/assign/initiative-assign.command.code.ts"
 
 const AMY = "amy-harness-improvements"

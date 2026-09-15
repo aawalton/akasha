@@ -1,3 +1,4 @@
+import { seatNameFor } from "akasha/agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.code.ts"
 import {
   callHarness,
   LANDING_TIMEOUT_MS,
@@ -23,6 +24,17 @@ export type Editor = {
   }
 }
 
+export type Assigning = {
+  readonly slug: string
+  readonly seat: string
+}
+
+export interface WorkAssignWatch {
+  readonly assigning: (one: Assigning) => undefined
+  readonly answered: (slug: string) => undefined
+  readonly stayed: (slug: string) => undefined
+}
+
 export function assignFailureSaid(slug: string, why: string): string {
   return `${slug}: the initiative was not assigned. ${why}`
 }
@@ -34,18 +46,22 @@ export function assignDoneSaid(said: string): string {
 export function assigningInitiative(
   editor: Editor,
   say: (line: string) => undefined,
+  watch: WorkAssignWatch,
   call: Calling = callHarness
 ): (row?: WorkTreeRow) => Promise<undefined> {
   return async (row?: WorkTreeRow) => {
     const slug = initiativeGoneOf(row)
     if (slug === null) return undefined
+    watch.assigning({ slug, seat: seatNameFor(slug) })
     try {
       const said = await call(ASSIGN_SLUG, ASSIGN_EXPORT, [slug], {
         timeout: LANDING_TIMEOUT_MS,
       })
+      watch.answered(slug)
       say(`[assign] ${said.trim()}`)
       void editor.window.showInformationMessage(`Work: ${assignDoneSaid(said)}`)
     } catch (thrown) {
+      watch.stayed(slug)
       const why = assignFailureSaid(slug, String(thrown))
       say(`[assign] ${why}`)
       void editor.window.showErrorMessage(

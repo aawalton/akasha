@@ -1,4 +1,5 @@
 import { resolve } from "node:path"
+import { seatNameFor } from "akasha/agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.code.ts"
 import { statedProcessPresence } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { akashaHolderProcessOf } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -25,14 +26,7 @@ const ASSIGNMENT = "assignmentSlug"
 
 const PRESENT = "present"
 
-const SEGMENT = "-"
-
 const INITIATIVE = "initiative"
-
-export function seatNameFor(slug: string): string {
-  const mark = slug.indexOf(SEGMENT)
-  return mark === -1 ? slug : slug.slice(0, mark)
-}
 
 export function assignmentFor(slug: string): string {
   return `${INITIATIVE}/${slug}`

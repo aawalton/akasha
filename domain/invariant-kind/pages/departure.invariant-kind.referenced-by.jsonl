@@ -256,6 +256,7 @@
 {"propertySlug":"invariant-kind","path":"agent/seat/name-claiming/modules/spawn-guard/spawn-guard.module.ts","id":"01a0695a-d2ea-7bcd-b07f-19486629a01c"}
 {"propertySlug":"invariant-kind","path":"agent/seat/name-claiming/seat-name-claiming.domain.ts","id":"01a09c46-7450-76f1-bb55-13db5f6c98fd"}
 {"propertySlug":"invariant-kind","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.ts","id":"01a06949-b281-7447-ab77-9ecbb5f9f139"}
+{"propertySlug":"invariant-kind","path":"agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.ts","id":"01a0a5b3-3d06-776e-aea8-407ef8b05e0a"}
 {"propertySlug":"invariant-kind","path":"agent/seat/name/modules/seat-flex/seat-flex.module.ts","id":"01a06949-b281-72df-a9c3-507005e3dfd2"}
 {"propertySlug":"invariant-kind","path":"agent/seat/name/modules/seat-session-rename/seat-session-rename.module.ts","id":"01a0687e-534d-7000-bad8-47a890a18ce1"}
 {"propertySlug":"invariant-kind","path":"agent/seat/name/seat-name.domain.ts","id":"01a09c43-0bf5-7991-a2dc-650268201505"}

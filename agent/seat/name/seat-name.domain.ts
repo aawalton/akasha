@@ -7,6 +7,7 @@ export const seatName = {
   definition: "the name a seat goes by",
   parts: [
     "module/compose-seat-name",
+    "module/initiative-seat-name",
     "module/seat-flex",
     "module/seat-name-restate",
     "module/seat-name-stands",

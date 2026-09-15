@@ -5,7 +5,7 @@ export const agentTreeState = {
   type: "module",
   slug: "agent-tree-state",
   definition:
-    "the output channel, forest, column memory, seat terminals and seat tabs one panel has",
+    "the output channel, forest, column memory, seat terminals and seat tabs the agents panel keeps",
   code: "ts",
   invariants: [
     {
@@ -24,6 +24,10 @@ export const agentTreeState = {
     {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here draws anything.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The work panel reads the forest kept here rather than reading the fleet itself.",
     },
     {
       invariantKind: "invariant-kind/gap",

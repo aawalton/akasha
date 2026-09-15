@@ -100,7 +100,24 @@ export const workTreePanel = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A drop and a hand and a deletion are held for an initiative in one place.",
+      statement:
+        "A drop and a hand and a deletion and an assignment are held for an initiative in one place.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An initiative assigned is drawn in its seat's color before that command answers.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "That color is the color the agents panel has for that seat.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An initiative whose seat that panel has no color for is held in no color.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A color let go is named on the channel with the seat that color was held for.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -133,7 +150,7 @@ export const workTreePanel = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "A refused move or deletion reads the file again and draws the rows that file has.",
+        "A refused move or deletion or assignment reads the file again and draws the rows that file has.",
     },
     {
       invariantKind: "invariant-kind/departure",
