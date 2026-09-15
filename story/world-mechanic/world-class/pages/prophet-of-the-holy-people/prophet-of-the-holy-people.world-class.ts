@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const prophetOfTheHolyPeople = {
   id: "01a0657e-0240-7806-820b-9f6a9145bfe6",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "prophet-of-the-holy-people",
   title: "Prophet of the Holy People",
   world: "world/the-wandering-inn",

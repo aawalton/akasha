@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const rank1HorrorCorpseEater = {
   id: "01a0657e-0243-7479-8ef7-57b5a3910abc",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "rank-1-horror-corpse-eater",
   title: "Rank 1 Horror – Corpse Eater.",
   world: "world/the-wandering-inn",

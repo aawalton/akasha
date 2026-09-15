@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const prodigyJuniorTactician = {
   id: "01a0657e-0240-7ed6-ae50-dc4a1ec1210f",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "prodigy-junior-tactician",
   title: "Prodigy Junior Tactician",
   world: "world/the-wandering-inn",

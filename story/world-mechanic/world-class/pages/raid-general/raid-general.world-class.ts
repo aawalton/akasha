@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const raidGeneral = {
   id: "01a0657e-0243-7927-8741-8731bc243441",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "raid-general",
   title: "Raid General",
   world: "world/the-wandering-inn",

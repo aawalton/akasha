@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const priestOfWrathAndSky = {
   id: "01a06586-0a0b-7d99-a1dd-ccc05902ac1d",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "priest-of-wrath-and-sky",
   title: "Priest of Wrath and Sky",
   world: "world/the-wandering-inn",

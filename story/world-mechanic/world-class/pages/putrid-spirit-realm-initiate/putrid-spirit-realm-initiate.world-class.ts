@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const putridSpiritRealmInitiate = {
   id: "01a0657e-0241-7340-9f27-7a4a8a77c238",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "putrid-spirit-realm-initiate",
   title: "Putrid Spirit Realm Initiate",
   world: "world/the-wandering-inn",

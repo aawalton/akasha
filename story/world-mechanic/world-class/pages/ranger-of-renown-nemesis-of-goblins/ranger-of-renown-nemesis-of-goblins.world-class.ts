@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const rangerOfRenownNemesisOfGoblins = {
   id: "01a06586-0a1d-7a46-af2a-a709a4cdc220",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "ranger-of-renown-nemesis-of-goblins",
   title: "Ranger of Renown, Nemesis of Goblins",
   world: "world/the-wandering-inn",

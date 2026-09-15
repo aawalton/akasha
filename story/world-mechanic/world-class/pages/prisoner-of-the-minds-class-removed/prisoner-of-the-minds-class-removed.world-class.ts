@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const prisonerOfTheMindsClassRemoved = {
   id: "01a0657e-0240-78c5-bfbd-26f00ccc30ed",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "prisoner-of-the-minds-class-removed",
   title: "Prisoner of the Minds class removed.",
   world: "world/the-wandering-inn",

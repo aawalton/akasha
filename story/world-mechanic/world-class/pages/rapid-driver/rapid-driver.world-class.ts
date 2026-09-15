@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const rapidDriver = {
   id: "01a06586-0a1d-7e30-aad4-c1f0b25ec31b",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "rapid-driver",
   title: "Rapid Driver",
   world: "world/the-wandering-inn",

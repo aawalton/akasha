@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const productionManager = {
   id: "01a06586-0a18-7de8-8dea-8b867262ef8b",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "production-manager",
   title: "Production Manager",
   world: "world/the-wandering-inn",

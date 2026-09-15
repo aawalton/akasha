@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const potmakerOfBuriedTruths = {
   id: "01a0657e-023e-7a4e-9430-5585d5ed3d97",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "potmaker-of-buried-truths",
   title: "Potmaker of Buried Truths",
   world: "world/the-wandering-inn",
