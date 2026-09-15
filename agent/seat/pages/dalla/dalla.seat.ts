@@ -2,7 +2,7 @@ import type { Seat } from "akasha/agent/seat/seat.page-type.types.ts"
 
 export const dalla = {
   id: "01a0a1f6-c315-7000-94f2-be32e1c57118",
-  type: "seat",
+  type: "page-type/seat",
   slug: "dalla",
   persona: "persona/dalla",
   assignmentSlug: "initiative/dalla-offload-to-cluster",
