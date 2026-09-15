@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { ROOT } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.code.ts"
+import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 import {
   IN_CLUSTER,
   jobFor,

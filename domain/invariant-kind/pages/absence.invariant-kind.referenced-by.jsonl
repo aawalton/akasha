@@ -1298,7 +1298,7 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/manifests/app-namespaces-synth/app-namespaces-synth.manifest.ts","id":"01a06810-1262-75ee-aa84-9009c06798cf"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/manifests/modules/tunnel-route-discovery/tunnel-route-discovery.module.ts","id":"01a06810-1262-7570-bae6-93d030d82053"}
 {"propertySlug":"invariant-kind","path":"infrastructure/cluster/provisioning/cluster-provisioning.domain.ts","id":"01a0675b-16d9-7eab-a110-f106ca00dad1"}
-{"propertySlug":"invariant-kind","path":"infrastructure/container-image/dockerfiles/modules/dockerfile-extensions/dockerfile-extensions.module.ts","id":"01a06865-abff-7002-982c-70fcb1c90980"}
+{"propertySlug":"invariant-kind","path":"infrastructure/container-image/dockerfile/modules/extensions/dockerfile-extensions.module.ts","id":"01a06865-abff-7002-982c-70fcb1c90980"}
 {"propertySlug":"invariant-kind","path":"infrastructure/container-image/modules/image-build/image-build.module.ts","id":"01a08de8-a521-7517-beff-3c12047e76f9"}
 {"propertySlug":"invariant-kind","path":"infrastructure/container-image/modules/image-ref/image-ref.module.ts","id":"01a08da3-e007-78c2-aa15-9ce06319c982"}
 {"propertySlug":"invariant-kind","path":"infrastructure/eso-rig/eso-rig.domain.ts","id":"01a06866-58f8-7e5f-853a-325ce7e59667"}

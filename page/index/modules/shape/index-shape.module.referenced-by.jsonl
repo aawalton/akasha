@@ -46,8 +46,8 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operations/rotate-cf-token/rotate-cf-token.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operations/rotate-ssh-key/rotate-ssh-key.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/provisioning/generate-certs/generate-certs.shell-script.scripting.code.ts"}
-{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/container-image/dockerfiles/built-image/auth-proxy/auth-proxy.built-image.extending.code.ts"}
-{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/container-image/dockerfiles/built-image/gfs-promoter/gfs-promoter.built-image.extending.code.ts"}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/container-image/dockerfile/built-image/auth-proxy/auth-proxy.built-image.extending.code.ts"}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/container-image/dockerfile/built-image/gfs-promoter/gfs-promoter.built-image.extending.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/eso-rig/image/eso-rig-image.container-recipe.composing.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/inference/generation/upscale/cluster-image/upscale-cluster-image.container-recipe.composing.code.ts"}

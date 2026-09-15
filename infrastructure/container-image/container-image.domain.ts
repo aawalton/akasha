@@ -7,7 +7,7 @@ export const containerImage = {
   definition: "a built copy of everything a program needs to run",
   parts: [
     "container-recipe/postgres-cnpg-image",
-    "domain/dockerfiles",
+    "domain/dockerfile",
     "manifest/buildkit",
     "manifest/buildkit-prune",
     "module/image-build",

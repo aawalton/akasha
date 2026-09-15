@@ -265,8 +265,8 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/alert/properties/alert-domain.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/alert/properties/alert-role-slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/alert/properties/alert-summary.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/container-image/dockerfiles/built-image/properties/image-folder.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/container-image/dockerfiles/built-image/properties/image-repository.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-folder.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-repository.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machines/computer/properties/computer-model.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machines/host/properties/host-address.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/machines/host/properties/login-user.text-property.ts"}

@@ -83,7 +83,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"code/held-addon/properties/addon-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"command/argument/properties/argument-value.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"command/properties/said-as.select-property.ts"}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/container-image/dockerfiles/built-image/properties/image-kind.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-kind.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/machines/computer/properties/brand.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/machines/computer/properties/computer-status.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/machines/computer/properties/cpu.select-property.ts"}

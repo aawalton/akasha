@@ -182,7 +182,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"git/modules/holding/holding.module.test.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/cluster/operations/create-tunnel/create-tunnel.shell-script.scripting.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/container-image/dockerfiles/modules/dockerfile-writing/dockerfile-writing.module.test.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/inference/generation/upscale/bench-synth/upscale-bench-synth.manifest.code.ts"}

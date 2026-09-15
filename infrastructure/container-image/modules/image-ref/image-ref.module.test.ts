@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { authProxy } from "akasha/infrastructure/container-image/dockerfiles/built-image/auth-proxy/auth-proxy.built-image.ts"
-import { buildkit } from "akasha/infrastructure/container-image/dockerfiles/built-image/buildkit/buildkit.built-image.ts"
+import { authProxy } from "akasha/infrastructure/container-image/dockerfile/built-image/auth-proxy/auth-proxy.built-image.ts"
+import { buildkit } from "akasha/infrastructure/container-image/dockerfile/built-image/buildkit/buildkit.built-image.ts"
 import { namedOf } from "akasha/infrastructure/container-image/modules/image-build/image-build.module.code.ts"
 import {
   REGISTRY,

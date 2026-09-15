@@ -62,7 +62,7 @@
 {"propertySlug":"extends-type","path":"graph/edge/graph-edge.page-type.ts","id":"01a04fe8-cebd-71d5-a040-d50b202e6eb1"}
 {"propertySlug":"extends-type","path":"graph/node/graph-node.page-type.ts","id":"01a04fe8-cebb-7a08-ad56-e698e175e03b"}
 {"propertySlug":"extends-type","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.ts","id":"01a06da1-b337-78b9-8ad3-556e6b67058e"}
-{"propertySlug":"extends-type","path":"infrastructure/container-image/dockerfiles/built-image/built-image.page-type.ts","id":"01a08193-c20c-7525-aced-8d801a2e9cd6"}
+{"propertySlug":"extends-type","path":"infrastructure/container-image/dockerfile/built-image/built-image.page-type.ts","id":"01a08193-c20c-7525-aced-8d801a2e9cd6"}
 {"propertySlug":"extends-type","path":"infrastructure/cpu/kind/cpu-kind.page-type.ts","id":"01a09185-edee-760c-88ee-bd4e0bbbcef7"}
 {"propertySlug":"extends-type","path":"infrastructure/machines/host/host.page-type.ts","id":"01a06590-e94f-7d6f-a415-867286e194a2"}
 {"propertySlug":"extends-type","path":"infrastructure/machines/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
@@ -385,8 +385,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/talos/talos.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/command/infrastructure-command.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/container-image/container-image.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/container-image/dockerfiles/built-image/built-image.page-type.types.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/container-image/dockerfiles/dockerfiles.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/built-image.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/container-image/dockerfile/dockerfile.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cpu/cpu.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cpu/kind/cpu-kind.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cpu/limit/cpu-limit.domain.ts"}

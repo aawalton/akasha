@@ -216,7 +216,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/cluster/provisioning/generate-certs/generate-certs.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/cluster/provisioning/generate-certs/generate-certs.shell-script.scripting.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/registry-ca/registry-ca.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/container-image/dockerfiles/modules/dockerfile-writing/dockerfile-writing.module.test.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/container-image/modules/image-build/image-build.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts"}

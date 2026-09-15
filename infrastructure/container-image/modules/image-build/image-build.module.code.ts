@@ -3,8 +3,8 @@ import { dirname, join } from "node:path"
 import {
   IMAGES,
   ROOT,
-} from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-services/dockerfile-services.module.code.ts"
-import { dockerfileFor } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-writing/dockerfile-writing.module.code.ts"
+} from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
+import { dockerfileFor } from "akasha/infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 

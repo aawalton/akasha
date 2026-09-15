@@ -221,7 +221,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"graph/node/graph-node.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/alert/alert.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/container-image/dockerfiles/built-image/built-image.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/built-image.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/cpu/kind/cpu-kind.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/git-transport/git-hook/git-hook.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/inference/generation/audio/audio.page-type.ts"}

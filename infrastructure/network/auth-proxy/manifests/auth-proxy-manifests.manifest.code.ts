@@ -4,7 +4,7 @@ import {
   workloadClassMemberSelector,
 } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
-import { authProxy as authProxyImage } from "akasha/infrastructure/container-image/dockerfiles/built-image/auth-proxy/auth-proxy.built-image.ts"
+import { authProxy as authProxyImage } from "akasha/infrastructure/container-image/dockerfile/built-image/auth-proxy/auth-proxy.built-image.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 
 const NAMESPACE = "auth-proxy"
