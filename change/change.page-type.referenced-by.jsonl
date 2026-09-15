@@ -16,7 +16,6 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-respells-the-path-inside-a-message-body-so-the-record-says-what-was-never-said.finding.ts","id":"01a095e9-b047-7ef0-991d-4ac9167cd5a9"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-rewrites-a-test-fixture-literal-that-names-a-real-path.finding.ts","id":"01a092e1-8c1c-758d-a953-aa238b449db3"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-stops-the-service-whose-page-spells-the-moved-path.finding.ts","id":"01a08891-8127-7ec7-8493-3865b3f89f0e"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-generated-file-holds-every-path-it-imports-from-against-any-move.finding.ts","id":"01a08878-e69d-743e-b907-59decbc5078b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-generated-type-cannot-be-written-partly-and-the-danger-is-the-whole-one-that-under-computes.finding.ts","id":"01a09669-46f6-7158-bf2f-868751228e96"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-hand-edit-to-a-generated-file-is-kept-as-nothing-and-said-to-be-kept.finding.ts","id":"01a08a3f-4c21-7b64-9f2e-6d3a5c81e7b0"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-handed-over-edit-is-folded-into-the-next-apply-rather-than-waiting-to-be-taken.finding.ts","id":"01a08df1-4203-71ef-9f1f-9948e896c86c"}
@@ -33,7 +32,6 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-rename-voids-the-lint-exemption-keyed-to-the-folder-it-moves.finding.ts","id":"01a0a383-95f4-717c-9139-7b4abbe8910e"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-repeat-run-ends-the-same-way-whether-the-change-had-nothing-left-or-a-batch-was-refused.finding.ts","id":"01a0961e-eeca-73e8-a979-d0db0198aa76"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-retirement-orphans-prose-and-the-repair-is-a-rewrite-not-a-repoint.finding.ts","id":"01a06441-182f-779a-b3e8-4290fd9f837a"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-route-file-cannot-be-written-until-its-app-has-been-built-once.finding.ts","id":"01a06c31-1b01-7000-b602-000000000003"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-sweep-s-damage-outlives-the-mend-of-the-sweep.finding.ts","id":"01a09b32-2458-73fb-93ef-aa9c2ff3b4af"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/an-apply-folding-several-edits-onto-one-page-refused-where-each-edit-landed-alone.finding.ts","id":"01a09153-23d4-7a60-9eb3-c2780ef509ef"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/an-apply-over-a-git-ignored-path-commits-nothing-and-deletes-the-file-anyway.finding.ts","id":"01a09cc4-3fcd-7d79-8603-a19fab22a021"}

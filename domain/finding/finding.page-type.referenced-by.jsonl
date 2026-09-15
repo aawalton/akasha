@@ -34,7 +34,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-folder-move-rewrites-a-test-fixture-literal-that-names-a-real-path.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-folder-move-stops-the-service-whose-page-spells-the-moved-path.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-forked-session-keeps-the-whole-read-record.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-generated-file-holds-every-path-it-imports-from-against-any-move.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-generated-type-cannot-be-written-partly-and-the-danger-is-the-whole-one-that-under-computes.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-group-a-run-leaves-behind-is-swept-by-nothing-that-says-so.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-group-that-cannot-load-leaves-its-derived-file-stale-and-the-landing-commits.finding.ts"}
@@ -93,7 +92,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-resumed-subagent-runs-before-its-page-lands-and-the-refusal-reads-as-permanent.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-retirement-orphans-prose-and-the-repair-is-a-rewrite-not-a-repoint.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-rolling-writer-appends-into-a-part-name-already-taken-rather-than-refusing.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-route-file-cannot-be-written-until-its-app-has-been-built-once.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-running-service-writes-pages-its-page-type-refuses.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-rust-crate-page-holds-no-git-ignore.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-scratch-folders-node-modules-is-the-repositorys-own-node-modules.finding.ts"}
