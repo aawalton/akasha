@@ -1,5 +1,5 @@
-import type { Dungeon } from "akasha/temper/dungeons/modules/dungeon-registry/dungeon-registry.module.code.ts"
-import { getEsoResetTimestampSec } from "akasha/temper/dungeons/modules/eso-reset/eso-reset.module.code.ts"
+import type { Dungeon } from "akasha/temper/group-dungeon/modules/dungeon-registry/dungeon-registry.module.code.ts"
+import { getEsoResetTimestampSec } from "akasha/temper/group-dungeon/modules/eso-reset/eso-reset.module.code.ts"
 
 export interface QuestGiver {
   id: string

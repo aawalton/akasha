@@ -3,7 +3,7 @@ import {
   reconcileDailyWritStates,
   scanDailyWritJournal,
 } from "akasha/temper/characters-addon/modules/characters-daily-writs/characters-daily-writs.module.code.ts"
-import { getEsoDayStringFromSec } from "akasha/temper/dungeons/modules/eso-reset/eso-reset.module.code.ts"
+import { getEsoDayStringFromSec } from "akasha/temper/group-dungeon/modules/eso-reset/eso-reset.module.code.ts"
 import {
   DAILY_WRIT_CRAFT_TYPES,
   type DailyWritProfessionState,

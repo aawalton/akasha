@@ -3817,11 +3817,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/dungeon-champion/modules/dungeon-champion-slash/dungeon-champion-slash.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/dungeon-champion/modules/dungeon-champion-start/dungeon-champion-start.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/dungeons/modules/dungeon-data/dungeon-data.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/dungeons/modules/dungeon-registry/dungeon-registry.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/dungeons/modules/eso-reset/eso-reset.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/dungeons/modules/pledge-rotation/pledge-rotation.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/dungeons/modules/solo-difficulty/solo-difficulty.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/equipment-kinds/modules/armor-slots/armor-slots.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/equipment-kinds/modules/armor-types/armor-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.ts"}
@@ -3946,6 +3941,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/game-catalog-capture-host/modules/tribute-catalog-schema/tribute-catalog-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/game-catalog-capture-host/modules/zone-completion-catalog-schema/zone-completion-catalog-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/gamepad-tooltip/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/group-dungeon/modules/dungeon-data/dungeon-data.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/group-dungeon/modules/dungeon-registry/dungeon-registry.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/group-dungeon/modules/eso-reset/eso-reset.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/group-dungeon/modules/pledge-rotation/pledge-rotation.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/group-dungeon/modules/solo-difficulty/solo-difficulty.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/housing-addon/modules/housing-addon-names/housing-addon-names.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/housing-addon/modules/housing-build-casts/housing-build-casts.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/housing-addon/modules/housing-build-house-tab/housing-build-house-tab.module.ts"}

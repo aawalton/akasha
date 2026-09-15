@@ -1,4 +1,4 @@
-import type { SoloDifficulty } from "akasha/temper/dungeons/modules/solo-difficulty/solo-difficulty.module.code.ts"
+import type { SoloDifficulty } from "akasha/temper/group-dungeon/modules/solo-difficulty/solo-difficulty.module.code.ts"
 
 export interface Dungeon {
   key: string

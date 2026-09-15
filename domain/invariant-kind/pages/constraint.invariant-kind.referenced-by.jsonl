@@ -744,9 +744,6 @@
 {"propertySlug":"invariant-kind","path":"temper/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.module.ts","id":"01a060f9-bad1-7202-bef3-dc48b30536e9"}
 {"propertySlug":"invariant-kind","path":"temper/dungeon-champion/modules/dungeon-champion-start/dungeon-champion-start.module.ts","id":"01a060f9-badc-70b2-a9a4-5672a001af3e"}
 {"propertySlug":"invariant-kind","path":"temper/dungeon-champion/temper-dungeon-champion.domain.ts","id":"01a060f9-bab9-7763-8ceb-8977b0b205de"}
-{"propertySlug":"invariant-kind","path":"temper/dungeons/modules/eso-reset/eso-reset.module.ts","id":"01a0603b-d66a-7bf8-9657-cb2176247f1b"}
-{"propertySlug":"invariant-kind","path":"temper/dungeons/modules/pledge-rotation/pledge-rotation.module.ts","id":"01a06031-70e5-7122-83f1-7221c174553d"}
-{"propertySlug":"invariant-kind","path":"temper/dungeons/temper-dungeons.domain.ts","id":"01a06031-70e4-7e81-a058-c2574ec503a7"}
 {"propertySlug":"invariant-kind","path":"temper/equipment-kinds/modules/armor-slots/armor-slots.module.ts","id":"01a060b8-08c4-79bd-a673-660169cf2ee9"}
 {"propertySlug":"invariant-kind","path":"temper/equipment-kinds/modules/equipment-qualities/equipment-qualities.module.ts","id":"01a060b8-08c6-7141-8b6e-044cf34927d5"}
 {"propertySlug":"invariant-kind","path":"temper/equipment-kinds/modules/jewelry-slots/jewelry-slots.module.ts","id":"01a060b8-08c5-7b3b-a995-798d59d45760"}
@@ -769,6 +766,9 @@
 {"propertySlug":"invariant-kind","path":"temper/formula-framework/modules/eso-date/eso-date.module.ts","id":"01a06070-82e2-764c-be2a-e7c281e7063e"}
 {"propertySlug":"invariant-kind","path":"temper/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}
 {"propertySlug":"invariant-kind","path":"temper/game-catalog-capture-host/modules/poi-catalog-schema/poi-catalog-schema.module.ts","id":"01a06084-d419-7e65-9fe0-2100e873d96e"}
+{"propertySlug":"invariant-kind","path":"temper/group-dungeon/modules/eso-reset/eso-reset.module.ts","id":"01a0603b-d66a-7bf8-9657-cb2176247f1b"}
+{"propertySlug":"invariant-kind","path":"temper/group-dungeon/modules/pledge-rotation/pledge-rotation.module.ts","id":"01a06031-70e5-7122-83f1-7221c174553d"}
+{"propertySlug":"invariant-kind","path":"temper/group-dungeon/temper-group-dungeon.domain.ts","id":"01a06031-70e4-7e81-a058-c2574ec503a7"}
 {"propertySlug":"invariant-kind","path":"temper/housing-addon/modules/housing-constants/housing-constants.module.ts","id":"01a06113-b7cd-70cb-83dd-840a25b71d13"}
 {"propertySlug":"invariant-kind","path":"temper/housing-addon/modules/housing-favorites-helpers/housing-favorites-helpers.module.ts","id":"01a06128-d5cc-76f2-8086-9f1e6d3a27b9"}
 {"propertySlug":"invariant-kind","path":"temper/housing-addon/modules/housing-library-data-eu-1/housing-library-data-eu-1.module.ts","id":"01a06113-b7cf-7517-a675-86cd3606cdca"}

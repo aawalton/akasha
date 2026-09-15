@@ -9,7 +9,7 @@ import { resolveTaskProgress } from "akasha/temper/characters-addon/modules/char
 import {
   getEsoDayStringFromSec,
   getEsoResetTimestampSec,
-} from "akasha/temper/dungeons/modules/eso-reset/eso-reset.module.code.ts"
+} from "akasha/temper/group-dungeon/modules/eso-reset/eso-reset.module.code.ts"
 import {
   getSavedVariables,
   type TaskData,

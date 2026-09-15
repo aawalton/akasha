@@ -3714,11 +3714,6 @@
 {"propertySlug":"invariant-kind","path":"temper/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.ts","id":"01a060f9-bad9-750a-870e-3ac5edb4440c"}
 {"propertySlug":"invariant-kind","path":"temper/dungeon-champion/modules/dungeon-champion-slash/dungeon-champion-slash.module.ts","id":"01a060f9-badb-75b9-a0c4-24413a5ab8d1"}
 {"propertySlug":"invariant-kind","path":"temper/dungeon-champion/temper-dungeon-champion.domain.ts","id":"01a060f9-bab9-7763-8ceb-8977b0b205de"}
-{"propertySlug":"invariant-kind","path":"temper/dungeons/modules/dungeon-data/dungeon-data.module.ts","id":"01a06039-93e4-7633-b4e4-df5f3dcd319a"}
-{"propertySlug":"invariant-kind","path":"temper/dungeons/modules/eso-reset/eso-reset.module.ts","id":"01a0603b-d66a-7bf8-9657-cb2176247f1b"}
-{"propertySlug":"invariant-kind","path":"temper/dungeons/modules/pledge-rotation/pledge-rotation.module.ts","id":"01a06031-70e5-7122-83f1-7221c174553d"}
-{"propertySlug":"invariant-kind","path":"temper/dungeons/modules/solo-difficulty/solo-difficulty.module.ts","id":"01a06031-70e5-71b7-aa04-ac3deb2dfe1c"}
-{"propertySlug":"invariant-kind","path":"temper/dungeons/temper-dungeons.domain.ts","id":"01a06031-70e4-7e81-a058-c2574ec503a7"}
 {"propertySlug":"invariant-kind","path":"temper/equipment-kinds/temper-equipment-kinds.domain.ts","id":"01a060b8-08c3-7a47-a8fa-29a32e398b30"}
 {"propertySlug":"invariant-kind","path":"temper/equipment/modules/armor-traits/armor-traits.module.ts","id":"01a0610f-45b9-7cd1-b86c-956394916d9b"}
 {"propertySlug":"invariant-kind","path":"temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.ts","id":"01a060f0-3eac-71f4-ab24-ac7b5ad15139"}
@@ -3812,6 +3807,11 @@
 {"propertySlug":"invariant-kind","path":"temper/game-catalog-capture-host/modules/tribute-catalog-schema/tribute-catalog-schema.module.ts","id":"01a06076-5ea7-7930-8509-86381d5f66d2"}
 {"propertySlug":"invariant-kind","path":"temper/game-catalog-capture-host/modules/zone-completion-catalog-schema/zone-completion-catalog-schema.module.ts","id":"01a06076-5ea8-74db-9f0e-70749cf99a27"}
 {"propertySlug":"invariant-kind","path":"temper/game-catalog-capture-host/temper-game-catalog-capture-host.domain.ts","id":"01a06084-d418-72e5-b162-3bb5b84f91b3"}
+{"propertySlug":"invariant-kind","path":"temper/group-dungeon/modules/dungeon-data/dungeon-data.module.ts","id":"01a06039-93e4-7633-b4e4-df5f3dcd319a"}
+{"propertySlug":"invariant-kind","path":"temper/group-dungeon/modules/eso-reset/eso-reset.module.ts","id":"01a0603b-d66a-7bf8-9657-cb2176247f1b"}
+{"propertySlug":"invariant-kind","path":"temper/group-dungeon/modules/pledge-rotation/pledge-rotation.module.ts","id":"01a06031-70e5-7122-83f1-7221c174553d"}
+{"propertySlug":"invariant-kind","path":"temper/group-dungeon/modules/solo-difficulty/solo-difficulty.module.ts","id":"01a06031-70e5-71b7-aa04-ac3deb2dfe1c"}
+{"propertySlug":"invariant-kind","path":"temper/group-dungeon/temper-group-dungeon.domain.ts","id":"01a06031-70e4-7e81-a058-c2574ec503a7"}
 {"propertySlug":"invariant-kind","path":"temper/holdings/temper-inventory-chunk/temper-inventory-chunk.page-type.ts","id":"01a05fcb-fd2f-718b-84ca-d9cdeb890706"}
 {"propertySlug":"invariant-kind","path":"temper/holdings/temper-inventory-snapshot/properties/bag-sizes.page-property-entry.ts","id":"01a0675a-f185-72e7-ad66-35247edba53b"}
 {"propertySlug":"invariant-kind","path":"temper/holdings/temper-inventory-snapshot/properties/crafting-levels.page-property-entry.ts","id":"01a0675a-f185-75b8-8e9b-97a031246492"}

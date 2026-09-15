@@ -8,8 +8,8 @@ import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text
 import {
   TEMPER_DUNGEONS,
   TEMPER_QUEST_GIVERS,
-} from "akasha/temper/dungeons/modules/dungeon-data/dungeon-data.module.code.ts"
-import { getSoloDifficulty } from "akasha/temper/dungeons/modules/solo-difficulty/solo-difficulty.module.code.ts"
+} from "akasha/temper/group-dungeon/modules/dungeon-data/dungeon-data.module.code.ts"
+import { getSoloDifficulty } from "akasha/temper/group-dungeon/modules/solo-difficulty/solo-difficulty.module.code.ts"
 
 const DIFFICULTY_VARIANT = {
   easy: "elevation",

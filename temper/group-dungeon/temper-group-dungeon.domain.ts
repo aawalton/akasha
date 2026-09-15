@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const temperDungeons = {
+export const temperGroupDungeon = {
   id: "01a06031-70e4-7e81-a058-c2574ec503a7",
   type: "domain",
-  slug: "temper-dungeons",
+  slug: "temper-group-dungeon",
   definition: "the group dungeons of Tamriel and the pledges quest givers hand out each day",
   parts: [
     "module/dungeon-data",

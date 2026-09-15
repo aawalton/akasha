@@ -3,7 +3,7 @@ import {
   isDailyCraftingWritQuest,
   isWritCraftType,
 } from "akasha/temper/characters-addon/modules/characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts"
-import { getEsoDayStringFromSec } from "akasha/temper/dungeons/modules/eso-reset/eso-reset.module.code.ts"
+import { getEsoDayStringFromSec } from "akasha/temper/group-dungeon/modules/eso-reset/eso-reset.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import {
   DAILY_WRIT_COUNT,

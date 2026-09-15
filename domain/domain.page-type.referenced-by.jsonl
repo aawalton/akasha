@@ -572,7 +572,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/completion-import/temper-completion-import.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/completion/temper-completion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/dungeon-champion/temper-dungeon-champion.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/dungeons/temper-dungeons.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/equipment-kinds/temper-equipment-kinds.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/equipment/temper-equipment.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/errors-triage/temper-errors-triage.domain.ts"}
@@ -585,6 +584,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/game-catalog-capture-addon/temper-game-catalog-capture-addon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/game-catalog-capture-host/temper-game-catalog-capture-host.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/gamepad-tooltip/temper-gamepad-tooltip.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/group-dungeon/temper-group-dungeon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/holdings/temper-holdings.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/hud-components/temper-hud-components.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/hud-window/temper-hud-window.domain.ts"}

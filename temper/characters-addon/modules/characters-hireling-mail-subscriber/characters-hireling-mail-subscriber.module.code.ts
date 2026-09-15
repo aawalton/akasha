@@ -3,7 +3,7 @@ import {
   nextHirelingMailCount,
 } from "akasha/temper/characters-addon/modules/characters-hireling-mail-count/characters-hireling-mail-count.module.code.ts"
 import { scheduleTaskAutoCompletionCheck } from "akasha/temper/characters-addon/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"
-import { getEsoDayStringFromSec } from "akasha/temper/dungeons/modules/eso-reset/eso-reset.module.code.ts"
+import { getEsoDayStringFromSec } from "akasha/temper/group-dungeon/modules/eso-reset/eso-reset.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player-completion-state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
