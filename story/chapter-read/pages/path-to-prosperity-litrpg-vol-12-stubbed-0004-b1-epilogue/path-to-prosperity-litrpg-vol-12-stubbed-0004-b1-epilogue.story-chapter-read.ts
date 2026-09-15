@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const pathToProsperityLitrpgVol12Stubbed0004B1Epilogue = {
   id: "01a06730-4dc7-7625-ab37-bc6a110c98de",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "path-to-prosperity-litrpg-vol-12-stubbed-0004-b1-epilogue",
   title: "B1 Epilogue",
   story: "story-read/path-to-prosperity-litrpg-vol-12-stubbed",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0045Chapter45ThousandsOfNeedles = {
   id: "01a06730-4dec-79d9-9fcd-68e78af86619",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0045-chapter-45-thousands-of-needles",
   title: "Chapter 45: Thousands of Needles",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

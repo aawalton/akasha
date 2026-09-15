@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0108Chapter108Soil = {
   id: "01a06730-4dfc-7150-846b-88a8bf0c0b5e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0108-chapter-108-soil",
   title: "Chapter 108: Soil",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

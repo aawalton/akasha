@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0014Chapter14MansGreed = {
   id: "01a06730-4de3-7c94-b187-b4a3313c655b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0014-chapter-14-mans-greed",
   title: "Chapter 14: Man's Greed",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

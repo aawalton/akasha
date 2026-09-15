@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0117Chapter117DeathQi = {
   id: "01a06730-4dfd-7705-b886-dd28575c680e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0117-chapter-117-death-qi",
   title: "Chapter 117: Death Qi",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0012Chapter12RunAwayRunAway = {
   id: "01a06730-4de3-7557-8328-90ef1345d1ac",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0012-chapter-12-run-away-run-away",
   title: "Chapter 12: Run away, run away!",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0160Chapter160MountainsBowBeforeTheScholars = {
   id: "01a06730-4e03-75ae-b9ac-3d606b09611b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0160-chapter-160-mountains-bow-before-the-scholars",
   title: "Chapter 160: Mountains bow before the scholar's brush",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

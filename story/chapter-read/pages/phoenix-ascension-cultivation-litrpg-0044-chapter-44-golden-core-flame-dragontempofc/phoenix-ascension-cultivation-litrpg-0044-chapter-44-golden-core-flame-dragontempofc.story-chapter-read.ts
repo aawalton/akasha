@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0044Chapter44GoldenCoreFlameDragontempofc = {
   id: "01a06730-4dec-7f86-b4d4-c46a773b1129",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0044-chapter-44-golden-core-flame-dragontempofc",
   title: "Chapter 44: Golden Core Flame Dragon(Temp(Ofc))",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

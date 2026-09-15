@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const pathToProsperityLitrpgVol12Stubbed0001B1Chapter1WorstMorningEver = {
   id: "01a06730-4dc7-72bf-899b-82fa2e2eb1b9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "path-to-prosperity-litrpg-vol-12-stubbed-0001-b1-chapter-1-worst-morning-ever",
   title: "B1 Chapter 1 - Worst Morning Ever",
   story: "story-read/path-to-prosperity-litrpg-vol-12-stubbed",

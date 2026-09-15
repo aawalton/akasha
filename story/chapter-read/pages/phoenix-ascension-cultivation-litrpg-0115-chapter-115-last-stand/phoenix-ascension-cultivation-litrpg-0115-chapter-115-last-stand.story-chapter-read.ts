@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0115Chapter115LastStand = {
   id: "01a06730-4dfd-7099-9617-9c0f6326e60e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0115-chapter-115-last-stand",
   title: "Chapter 115: Last Stand",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

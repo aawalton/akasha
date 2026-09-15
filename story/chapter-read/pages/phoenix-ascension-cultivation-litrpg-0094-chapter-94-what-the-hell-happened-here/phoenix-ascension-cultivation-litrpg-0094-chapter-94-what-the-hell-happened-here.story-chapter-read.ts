@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0094Chapter94WhatTheHellHappenedHere = {
   id: "01a06730-4df4-71f8-a5fa-144041ed05f1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0094-chapter-94-what-the-hell-happened-here",
   title: "Chapter 94: What the hell happened here?",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

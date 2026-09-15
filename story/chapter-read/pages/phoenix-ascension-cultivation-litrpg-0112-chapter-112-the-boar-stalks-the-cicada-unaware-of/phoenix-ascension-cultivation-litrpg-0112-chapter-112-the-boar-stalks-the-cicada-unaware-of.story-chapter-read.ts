@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0112Chapter112TheBoarStalksTheCicadaUnawareOf = {
   id: "01a06730-4dfc-7c51-bed9-752e5bacc66d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0112-chapter-112-the-boar-stalks-the-cicada-unaware-of",
   title: "Chapter 112: The Boar Stalks The Cicada, Unaware of Phoenix Behind it.",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

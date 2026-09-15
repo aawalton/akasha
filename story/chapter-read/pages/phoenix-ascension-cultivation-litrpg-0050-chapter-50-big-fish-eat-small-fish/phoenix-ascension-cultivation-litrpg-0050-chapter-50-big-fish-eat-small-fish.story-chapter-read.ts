@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0050Chapter50BigFishEatSmallFish = {
   id: "01a06730-4ded-7d2b-9318-b6afaac30f98",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0050-chapter-50-big-fish-eat-small-fish",
   title: "Chapter 50: Big Fish eat Small Fish",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

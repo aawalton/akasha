@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0009Chapter9FirstRealDanger = {
   id: "01a06730-4de2-7fe8-ac7b-f653a80ec624",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0009-chapter-9-first-real-danger",
   title: "Chapter 9: First Real Danger",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

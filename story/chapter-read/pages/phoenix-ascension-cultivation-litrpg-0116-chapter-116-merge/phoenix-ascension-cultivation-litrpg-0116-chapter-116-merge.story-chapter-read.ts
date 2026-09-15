@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0116Chapter116Merge = {
   id: "01a06730-4dfd-7516-825e-36442a1d5a05",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0116-chapter-116-merge",
   title: "Chapter 116: Merge?",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

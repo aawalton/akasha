@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0025Chapter25MenDieForTreasureBirdsDieForFood = {
   id: "01a06730-4de6-718f-b178-5f2bfb425920",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0025-chapter-25-men-die-for-treasure-birds-die-for-food",
   title: "Chapter 25: Men die for treasure, birds die for food",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

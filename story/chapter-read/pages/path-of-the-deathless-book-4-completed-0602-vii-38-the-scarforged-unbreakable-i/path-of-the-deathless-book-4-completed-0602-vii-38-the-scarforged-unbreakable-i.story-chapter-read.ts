@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const pathOfTheDeathlessBook4Completed0602Vii38TheScarforgedUnbreakableI = {
   id: "01a06730-4efd-78fb-bf45-d7438c018e24",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0602-vii-38-the-scarforged-unbreakable-i",
   title: "VII-38 The Scarforged Unbreakable (I)",
   story: "story-read/path-of-the-deathless-book-4-completed",

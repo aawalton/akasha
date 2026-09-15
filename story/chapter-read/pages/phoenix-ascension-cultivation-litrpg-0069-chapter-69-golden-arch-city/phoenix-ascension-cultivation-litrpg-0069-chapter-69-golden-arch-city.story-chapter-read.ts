@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0069Chapter69GoldenArchCity = {
   id: "01a06730-4df1-7afc-ab69-e681f37c7871",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0069-chapter-69-golden-arch-city",
   title: "Chapter 69: Golden Arch City",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

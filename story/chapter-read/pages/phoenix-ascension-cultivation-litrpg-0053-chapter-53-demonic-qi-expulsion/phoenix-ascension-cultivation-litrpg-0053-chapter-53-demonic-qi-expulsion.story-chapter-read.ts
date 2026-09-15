@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0053Chapter53DemonicQiExpulsion = {
   id: "01a06730-4dee-782b-9b95-66b8c7d1b967",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0053-chapter-53-demonic-qi-expulsion",
   title: "Chapter 53: Demonic Qi Expulsion",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

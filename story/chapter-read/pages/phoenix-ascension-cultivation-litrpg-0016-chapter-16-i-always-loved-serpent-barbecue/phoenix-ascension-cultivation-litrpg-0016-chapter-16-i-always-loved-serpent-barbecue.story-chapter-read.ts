@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0016Chapter16IAlwaysLovedSerpentBarbecue = {
   id: "01a06730-4de3-7b52-a6a9-3ec7552a57f6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0016-chapter-16-i-always-loved-serpent-barbecue",
   title: "Chapter 16: I always loved serpent barbecue",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

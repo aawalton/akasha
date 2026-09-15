@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0006Chapter6SupraYdelicSuperiorTechnologicalAnd = {
   id: "01a06730-4de2-7375-9291-844a220dcd4d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0006-chapter-6-supra-ydelic-superior-technological-and",
   title: "Chapter 6: Supra Ydelic Superior Technological and Extradimensional Medium",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

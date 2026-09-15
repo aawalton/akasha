@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0024Chapter24MultiColoredBeacon = {
   id: "01a06730-4de6-714d-bff0-be6feea0f98c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0024-chapter-24-multi-colored-beacon",
   title: "Chapter 24: Multi-Colored Beacon",
   story: "story-read/phoenix-ascension-cultivation-litrpg",

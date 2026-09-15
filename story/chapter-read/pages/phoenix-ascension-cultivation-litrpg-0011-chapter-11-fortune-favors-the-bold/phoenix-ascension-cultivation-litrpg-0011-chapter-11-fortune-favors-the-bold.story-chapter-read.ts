@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const phoenixAscensionCultivationLitrpg0011Chapter11FortuneFavorsTheBold = {
   id: "01a06730-4de3-7a1e-9bf7-9127b2465d80",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0011-chapter-11-fortune-favors-the-bold",
   title: "Chapter 11: Fortune Favors the Bold",
   story: "story-read/phoenix-ascension-cultivation-litrpg",
