@@ -2,7 +2,7 @@ import type { ChangeRunner } from "akasha/change/runner/change-runner.page-type.
 
 export const testChangeRunning = {
   id: "01a09ba5-d4ae-7f8d-a772-923fd8403538",
-  type: "change-runner",
+  type: "page-type/change-runner",
   slug: "test-change-running",
   definition: "the runner a test reaches a change through rather than importing that change",
   code: "ts",

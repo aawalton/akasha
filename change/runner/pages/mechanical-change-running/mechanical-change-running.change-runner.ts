@@ -2,7 +2,7 @@ import type { ChangeRunner } from "akasha/change/runner/change-runner.page-type.
 
 export const mechanicalChangeRunning = {
   id: "01a08165-1d8f-730e-ad94-1bd3d2d9513b",
-  type: "change-runner",
+  type: "page-type/change-runner",
   slug: "mechanical-change-running",
   definition: "the changes a program names run in order and landed as one commit",
   code: "ts",

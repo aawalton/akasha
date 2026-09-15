@@ -2,7 +2,7 @@ import type { ChangeRunner } from "akasha/change/runner/change-runner.page-type.
 
 export const agentChangeRunning = {
   id: "01a077c9-cb05-7a92-a69e-7d25da444d7e",
-  type: "change-runner",
+  type: "page-type/change-runner",
   slug: "agent-change-running",
   definition: "the runner holding an agent change to the arguments that change takes",
   code: "ts",
