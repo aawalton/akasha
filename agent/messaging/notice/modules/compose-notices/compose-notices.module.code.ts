@@ -96,12 +96,7 @@ function noticesIn(root: string): Readonly<Record<string, string>> {
 }
 
 export function notices(): Readonly<Record<string, string>> {
-  const root = rootFor(resolveRoots(), AKASHA)
-  const found = noticesIn(root)
-  if (Object.keys(found).length === 0) {
-    throw new Error(`${root} files no notice page, so there is no notice to render`)
-  }
-  return found
+  return noticesIn(rootFor(resolveRoots(), AKASHA))
 }
 
 function main(): undefined {

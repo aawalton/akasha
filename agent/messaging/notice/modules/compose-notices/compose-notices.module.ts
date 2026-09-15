@@ -43,7 +43,8 @@ export const composeNotices = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A checkout the index files no notice for is refused rather than answered empty.",
+      statement:
+        "A checkout the index files no notice for is answered nothing rather than refused.",
     },
     {
       invariantKind: "invariant-kind/gap",

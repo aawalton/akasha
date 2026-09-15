@@ -26,15 +26,6 @@ function underRoot<T>(root: string, run: () => T): T {
   }
 }
 
-function saidBy(run: () => unknown): string {
-  try {
-    run()
-  } catch (thrown) {
-    return thrown instanceof Error ? thrown.message : String(thrown)
-  }
-  return ""
-}
-
 test("the lines of a paragraph are joined with a space", () => {
   expect(render("one\ntwo\nthree\n")).toBe("one two three")
 })
@@ -62,12 +53,10 @@ test("the notice the editor revives a seat with is composed out of the real chec
   expect(held.length).toBeGreaterThan(0)
 })
 
-test("a checkout the index answers nothing for is refused rather than answered as no notice", () => {
+test("a checkout the index files no notice for is answered nothing rather than refused", () => {
   const folder = scratch()
   try {
-    const said = underRoot(folder, () => saidBy(notices))
-
-    expect(said).toContain("files no notice page")
+    expect(underRoot(folder, notices)).toEqual({})
   } finally {
     rmSync(folder, { recursive: true, force: true })
   }
