@@ -98,8 +98,6 @@ export const LOADED_AT = "akasha/held/loaded.held-type.ts"
 
 export const LOADED_CODE_AT = "akasha/held/loaded.held-type.code.ts"
 
-export const LEAF_AT = `${HELD_RELATION}/page/id/${TARGET_ID}/${PART}/${SOURCE_ID}.jsonl`
-
 const TYPE_FILED_AT = `page-type/${PAGE_TYPE}/slug/${HELD_TYPE}.jsonl`
 
 const PAGE = "page"
@@ -225,14 +223,16 @@ export function relationWorld(lines: number, pagesExist = true): string {
   filed(root, `path/${SIDECAR_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
   filed(root, `page/id/${TARGET_ID}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
   if (lines > 0) {
-    filedAll(
+    besideAdded(
       root,
-      LEAF_AT,
-      Array.from({ length: lines }, () => ({ path: SOURCE_AT }))
+      TARGET_AT,
+      Array.from({ length: lines }, () => ({
+        propertySlug: PART,
+        fileName: null,
+        path: SOURCE_AT,
+        id: SOURCE_ID,
+      }))
     )
-    besideAdded(root, TARGET_AT, [
-      { propertySlug: PART, fileName: null, path: SOURCE_AT, id: SOURCE_ID },
-    ])
   }
   return root
 }
@@ -327,9 +327,6 @@ export function loaderWorld(names = true): string {
     { path: LOADED_AT, value: { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED } },
   ])
   if (names) {
-    filed(root, `${HELD_RELATION}/page/id/${LOADER_ID}/${LOADED_BY}/${TYPE_ID}.jsonl`, {
-      path: TYPE_AT,
-    })
     besideAdded(root, LOADER_AT, [
       { propertySlug: LOADED_BY, fileName: null, path: TYPE_AT, id: TYPE_ID },
     ])

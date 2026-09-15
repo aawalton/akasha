@@ -20,7 +20,6 @@ import {
   importsFiled,
   importWorld,
   KNOWN,
-  LEAF_AT,
   LOADED_AT,
   LOADED_BY,
   LOADED_CODE_AT,
@@ -101,7 +100,7 @@ test("a sidecar is answered with what names the page whose file it is, and names
   ])
 })
 
-test("a leaf holding one path twice is answered with one edge rather than two", () => {
+test("a page referenced twice the same way is answered with one edge rather than two", () => {
   const root = relationWorld(2)
 
   expect(edgesInto(TARGET_AT, [RELATION], indexOf(root))).toEqual([
@@ -179,11 +178,7 @@ test("an import edge the index given empties is not answered, and exists without
 
 test("a relation edge existing only in the index given is answered, and none without it", () => {
   const root = relationWorld(0)
-  const over = readingLaidOver(
-    root,
-    { [LEAF_AT]: [{ path: SOURCE_AT }] },
-    namedBeside(TARGET_AT, PART, SOURCE_AT, SOURCE_ID)
-  )
+  const over = readingLaidOver(root, {}, namedBeside(TARGET_AT, PART, SOURCE_AT, SOURCE_ID))
 
   expect(edgesInto(TARGET_AT, [RELATION], indexOver(over, bodiesIn(root)))).toEqual([
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
