@@ -2,7 +2,7 @@ import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/
 
 export const tuesdayPull2026062327175e57HammerCurlsSet2 = {
   id: "019ef5bb-ba3e-7adf-bab3-23c9e048bf2a",
-  type: "strength-log",
+  type: "page-type/strength-log",
   slug: "tuesday-pull-2026-06-23-27175e57-hammer-curls-set-2",
   title: "Hammer Curls set 2",
   exercise: "strength-exercise/hammer-curls",

@@ -2,7 +2,7 @@ import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/
 
 export const mondayPush20260810D0622a4dSideLateralRaiseSet2 = {
   id: "019fed4f-bac4-731b-aa86-c00f27207455",
-  type: "strength-log",
+  type: "page-type/strength-log",
   slug: "monday-push-2026-08-10-d0622a4d-side-lateral-raise-set-2",
   title: "Side Lateral Raise set 2",
   exercise: "strength-exercise/side-lateral-raise",

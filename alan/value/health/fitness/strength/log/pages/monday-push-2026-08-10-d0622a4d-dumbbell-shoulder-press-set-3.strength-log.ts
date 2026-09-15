@@ -2,7 +2,7 @@ import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/
 
 export const mondayPush20260810D0622a4dDumbbellShoulderPressSet3 = {
   id: "019fed4c-8aba-77ff-93b3-a30b09a8454e",
-  type: "strength-log",
+  type: "page-type/strength-log",
   slug: "monday-push-2026-08-10-d0622a4d-dumbbell-shoulder-press-set-3",
   title: "Dumbbell Shoulder Press set 3",
   exercise: "strength-exercise/dumbbell-shoulder-press",

@@ -2,7 +2,7 @@ import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/
 
 export const sundayRest202606289367f37cStandingCalfRaiseBodyweightSet1 = {
   id: "019f0f0b-7035-7d37-a9ce-9d81710e14b9",
-  type: "strength-log",
+  type: "page-type/strength-log",
   slug: "sunday-rest-2026-06-28-9367f37c-standing-calf-raise-bodyweight-set-1",
   title: "Standing Calf Raise (Bodyweight) set 1",
   exercise: "strength-exercise/standing-calf-raise-bodyweight",

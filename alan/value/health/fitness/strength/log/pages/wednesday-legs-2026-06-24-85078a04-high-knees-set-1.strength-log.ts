@@ -2,7 +2,7 @@ import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/
 
 export const wednesdayLegs2026062485078a04HighKneesSet1 = {
   id: "019efbf8-39f1-70fa-87e0-814776cf60bb",
-  type: "strength-log",
+  type: "page-type/strength-log",
   slug: "wednesday-legs-2026-06-24-85078a04-high-knees-set-1",
   title: "High Knees cardio 1",
   activityType: "cardio",

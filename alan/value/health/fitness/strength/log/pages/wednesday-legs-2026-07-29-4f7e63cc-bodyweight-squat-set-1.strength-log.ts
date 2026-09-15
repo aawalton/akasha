@@ -2,7 +2,7 @@ import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/
 
 export const wednesdayLegs202607294f7e63ccBodyweightSquatSet1 = {
   id: "019fae2b-53b6-7a3a-8125-fb479cd3cce1",
-  type: "strength-log",
+  type: "page-type/strength-log",
   slug: "wednesday-legs-2026-07-29-4f7e63cc-bodyweight-squat-set-1",
   title: "Bodyweight Squat set 1",
   exercise: "strength-exercise/bodyweight-squat",

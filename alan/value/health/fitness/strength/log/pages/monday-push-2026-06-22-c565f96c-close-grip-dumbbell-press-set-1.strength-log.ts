@@ -2,7 +2,7 @@ import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/
 
 export const mondayPush20260622C565f96cCloseGripDumbbellPressSet1 = {
   id: "019ef132-10ca-7372-b01f-d81392613195",
-  type: "strength-log",
+  type: "page-type/strength-log",
   slug: "monday-push-2026-06-22-c565f96c-close-grip-dumbbell-press-set-1",
   title: "Close-Grip Dumbbell Press set 1",
   exercise: "strength-exercise/close-grip-dumbbell-press",

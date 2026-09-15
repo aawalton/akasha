@@ -2,7 +2,7 @@ import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/
 
 export const wednesdayLegs20260624789253e9SingleLegGluteBridgeSet1 = {
   id: "019efa8a-f520-78b5-9c9f-02399805abf1",
-  type: "strength-log",
+  type: "page-type/strength-log",
   slug: "wednesday-legs-2026-06-24-789253e9-single-leg-glute-bridge-set-1",
   title: "Single Leg Glute Bridge set 1",
   exercise: "strength-exercise/single-leg-glute-bridge",

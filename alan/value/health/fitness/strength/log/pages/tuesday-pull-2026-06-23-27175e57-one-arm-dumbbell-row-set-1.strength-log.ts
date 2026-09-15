@@ -2,7 +2,7 @@ import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/
 
 export const tuesdayPull2026062327175e57OneArmDumbbellRowSet1 = {
   id: "019ef5b8-767a-77e4-80c9-e2eb0d31e7ab",
-  type: "strength-log",
+  type: "page-type/strength-log",
   slug: "tuesday-pull-2026-06-23-27175e57-one-arm-dumbbell-row-set-1",
   title: "One-Arm Dumbbell Row set 1",
   exercise: "strength-exercise/one-arm-dumbbell-row",

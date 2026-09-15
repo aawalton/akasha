@@ -2,7 +2,7 @@ import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/
 
 export const sundayRest202606289367f37cDumbbellRearLungeSet1 = {
   id: "019f0eff-5442-7912-82fe-ec308c9333bd",
-  type: "strength-log",
+  type: "page-type/strength-log",
   slug: "sunday-rest-2026-06-28-9367f37c-dumbbell-rear-lunge-set-1",
   title: "Dumbbell Rear Lunge set 1",
   exercise: "strength-exercise/dumbbell-rear-lunge",

@@ -2,7 +2,7 @@ import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/
 
 export const sundayRest202606289367f37cGobletBulgarianSplitSquatSet1 = {
   id: "019f0f08-5d1c-7dd9-9356-27333481355d",
-  type: "strength-log",
+  type: "page-type/strength-log",
   slug: "sunday-rest-2026-06-28-9367f37c-goblet-bulgarian-split-squat-set-1",
   title: "Goblet Bulgarian Split Squat set 1",
   exercise: "strength-exercise/goblet-bulgarian-split-squat",

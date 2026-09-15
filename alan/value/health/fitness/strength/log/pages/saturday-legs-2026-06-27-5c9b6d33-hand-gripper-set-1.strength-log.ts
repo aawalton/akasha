@@ -2,7 +2,7 @@ import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/
 
 export const saturdayLegs202606275c9b6d33HandGripperSet1 = {
   id: "019f0aaa-51ff-7f8a-84ad-c83393ecea69",
-  type: "strength-log",
+  type: "page-type/strength-log",
   slug: "saturday-legs-2026-06-27-5c9b6d33-hand-gripper-set-1",
   title: "Hand Gripper set 1",
   exercise: "strength-exercise/hand-gripper",
