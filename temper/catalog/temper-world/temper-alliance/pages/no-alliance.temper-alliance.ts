@@ -2,7 +2,7 @@ import type { TemperAlliance } from "akasha/temper/catalog/temper-world/temper-a
 
 export const noAlliance = {
   id: "01a05fc5-168e-73b9-ba9f-c27964d61010",
-  type: "temper-alliance",
+  type: "page-type/temper-alliance",
   slug: "no-alliance",
   title: "No Alliance",
   esoAllianceId: 0,
