@@ -1,6 +1,6 @@
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { idle } from "akasha/product/games/idle-game/pages/idle.idle-game.ts"
+import { idle } from "akasha/product/game/idle-game/pages/idle.idle-game.ts"
 
 const IDLE_GAME_HREF = buildPageHref({
   pageTypeSlug: toPageTypeSlug(idle.type),

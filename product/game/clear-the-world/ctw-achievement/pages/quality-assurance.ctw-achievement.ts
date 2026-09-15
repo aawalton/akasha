@@ -1,0 +1,13 @@
+import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.types.ts"
+
+export const qualityAssurance = {
+  id: "019dbb6d-f245-7ba0-95f5-fd4a1a7c900d",
+  type: "ctw-achievement",
+  slug: "quality-assurance",
+  title: "Quality Assurance",
+  scope: "team",
+  metric: "team_crater_rate",
+  threshold: 500000,
+  description:
+    "Quality assurance in mine action involves independent sampling of cleared land to verify that operators met required standards. A failed QA inspection means the entire area must be re-cleared at the operator’s expense.",
+} as const satisfies CtwAchievement

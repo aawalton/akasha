@@ -1,0 +1,11 @@
+import type { CtwAchievement } from "akasha/product/game/clear-the-world/ctw-achievement/ctw-achievement.page-type.types.ts"
+
+export const returningVolunteer = {
+  id: "019dbb6d-b969-73ea-8f49-0c2c1736a3cf",
+  type: "ctw-achievement",
+  slug: "returning-volunteer",
+  title: "Returning Volunteer",
+  scope: "profile",
+  metric: "active_days",
+  threshold: 7,
+} as const satisfies CtwAchievement
