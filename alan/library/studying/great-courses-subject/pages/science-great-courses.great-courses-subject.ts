@@ -2,7 +2,7 @@ import type { GreatCoursesSubject } from "akasha/alan/library/studying/great-cou
 
 export const scienceGreatCourses = {
   id: "019db533-f3a0-7a43-b894-122db619aaf3",
-  type: "great-courses-subject",
+  type: "page-type/great-courses-subject",
   slug: "science-great-courses",
   title: "Science Great Courses",
   status: "paused",

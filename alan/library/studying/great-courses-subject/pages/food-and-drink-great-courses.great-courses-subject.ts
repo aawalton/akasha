@@ -2,7 +2,7 @@ import type { GreatCoursesSubject } from "akasha/alan/library/studying/great-cou
 
 export const foodAndDrinkGreatCourses = {
   id: "019db533-f3a0-78cf-8c7d-66f414c4c7af",
-  type: "great-courses-subject",
+  type: "page-type/great-courses-subject",
   slug: "food-and-drink-great-courses",
   title: "Food & Drink Great Courses",
   status: "in-progress",

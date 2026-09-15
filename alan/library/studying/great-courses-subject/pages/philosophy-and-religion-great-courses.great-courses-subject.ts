@@ -2,7 +2,7 @@ import type { GreatCoursesSubject } from "akasha/alan/library/studying/great-cou
 
 export const philosophyAndReligionGreatCourses = {
   id: "019db533-f3a0-798e-adc6-12dadd6efe6c",
-  type: "great-courses-subject",
+  type: "page-type/great-courses-subject",
   slug: "philosophy-and-religion-great-courses",
   title: "Philosophy & Religion Great Courses",
   status: "paused",
