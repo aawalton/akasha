@@ -2,7 +2,7 @@ import type { InvariantKind } from "akasha/domain/invariant-kind/invariant-kind.
 
 export const absence = {
   id: "01a04e11-9f98-749e-86ea-46237bfead5e",
-  type: "invariant-kind",
+  type: "page-type/invariant-kind",
   slug: "absence",
   definition: "something the domain deliberately leaves out",
   decisionGroup: "decision-group/design",

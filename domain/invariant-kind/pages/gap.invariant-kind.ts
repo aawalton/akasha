@@ -2,7 +2,7 @@ import type { InvariantKind } from "akasha/domain/invariant-kind/invariant-kind.
 
 export const gap = {
   id: "01a04e11-9f98-7835-9710-117a527c190d",
-  type: "invariant-kind",
+  type: "page-type/invariant-kind",
   slug: "gap",
   definition: "a distance between what the domain says and what it does",
   decisionGroup: "decision-group/intent",
