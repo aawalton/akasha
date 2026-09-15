@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const maksimOvsyannikov = {
   id: "019db533-f383-76ee-b68a-59469e414f94",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "maksim-ovsyannikov",
   title: "Maksim Ovsyannikov",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/movsyannikov",

@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const reedBerkowitzGdc = {
   id: "019db533-f383-7f08-9733-990b0766febc",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "reed-berkowitz-gdc",
   title: "Reed Berkowitz 🔜 Gdc",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/reed-berkowitz",

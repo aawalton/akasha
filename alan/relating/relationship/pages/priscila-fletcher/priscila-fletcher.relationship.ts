@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const priscilaFletcher = {
   id: "019db533-f384-7a20-b46f-058f03dd4464",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "priscila-fletcher",
   title: "Priscila Fletcher",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/priscilafletcher",

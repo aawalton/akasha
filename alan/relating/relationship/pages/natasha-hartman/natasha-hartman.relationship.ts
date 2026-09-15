@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const natashaHartman = {
   id: "019db533-f383-7384-b7e8-34a64bb0ac0b",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "natasha-hartman",
   title: "Natasha Hartman",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/natasha-hartman-95212630",

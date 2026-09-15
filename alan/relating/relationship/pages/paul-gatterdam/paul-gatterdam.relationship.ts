@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const paulGatterdam = {
   id: "019db533-f383-746a-b015-2f782b81a9d9",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "paul-gatterdam",
   title: "Paul Gatterdam",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/pjgatt",

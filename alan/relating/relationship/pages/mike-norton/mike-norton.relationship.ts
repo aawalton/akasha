@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const mikeNorton = {
   id: "019db533-f383-7993-a331-93e25b6c8bc3",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "mike-norton",
   title: "Mike Norton",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/nortonmikej",

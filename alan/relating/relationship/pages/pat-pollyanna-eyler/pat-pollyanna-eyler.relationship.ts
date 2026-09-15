@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const patPollyannaEyler = {
   id: "019db533-f384-7d59-b12b-44cf2e6e79fb",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "pat-pollyanna-eyler",
   title: "Pat + Pollyanna Eyler",
   relationshipCommitment: 3,

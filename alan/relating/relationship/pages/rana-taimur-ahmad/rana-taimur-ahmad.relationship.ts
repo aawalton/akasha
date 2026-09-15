@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const ranaTaimurAhmad = {
   id: "019db533-f383-7d25-b470-b73a446c3f1e",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "rana-taimur-ahmad",
   title: "🤖 Rana Taimur Ahmad",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/ranataimurahmad",

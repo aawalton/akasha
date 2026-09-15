@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const michaelAAgustin = {
   id: "019db533-f383-7ae2-a772-6cef9cccd3df",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "michael-a-agustin",
   title: "Michael A. Agustin",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/michaelagustin",

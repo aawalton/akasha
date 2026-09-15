@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const nandhaChandrasekar = {
   id: "019db533-f383-7d6e-8e76-9f25e234618c",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "nandha-chandrasekar",
   title: "Nandha Chandrasekar",
   relationshipLinkedinUrl: "https://www.linkedin.com/in/nandha-chandrasekar-b49449139",

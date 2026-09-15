@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const michaelMarianPickerd = {
   id: "019db533-f384-7d4d-97aa-7c0fdcb13e4a",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "michael-marian-pickerd",
   title: "Michael + Marian Pickerd",
   relationshipCommitment: 4,

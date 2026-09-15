@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const rafaSurowiecki = {
   id: "019db533-f383-7585-846f-42cbdfb5966b",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "rafa-surowiecki",
   title: "Rafał Surowiecki",
   relationshipCurrentCircle: "community",

@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const peterNicoleIvie = {
   id: "019db533-f382-7966-bc62-9d9a7309ead4",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "peter-nicole-ivie",
   title: "Peter + Nicole Ivie",
   relationshipCommitment: 3,

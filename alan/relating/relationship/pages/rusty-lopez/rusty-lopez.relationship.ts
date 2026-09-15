@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const rustyLopez = {
   id: "019db533-f385-70fa-93c8-63d50c4eb498",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "rusty-lopez",
   title: "Rusty Lopez",
   relationshipCommitment: 2,

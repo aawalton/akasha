@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const lexisMoody = {
   id: "019db533-f384-7064-be9c-29367494ee8b",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "lexis-moody",
   title: "Lexis Moody",
   relationshipCurrentCircle: "acquaintances",

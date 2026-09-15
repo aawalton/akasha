@@ -2,7 +2,7 @@ import type { Relationship } from "akasha/alan/relating/relationship/relationshi
 
 export const skyChrisEvans = {
   id: "019db533-f385-713f-8980-bac260338c5e",
-  type: "relationship",
+  type: "page-type/relationship",
   slug: "sky-chris-evans",
   title: "Sky + Chris Evans",
   relationshipCommitment: 3,
