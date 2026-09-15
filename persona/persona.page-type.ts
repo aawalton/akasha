@@ -22,7 +22,6 @@ export const persona = {
     "file-property/mobile-wallpaper",
     "file-property/portrait",
     "module/desktop-wallpaper-setting",
-    "module/green-day-fraction",
     "module/persona-reading",
     "module/persona-targets",
     "module/voice-spec",

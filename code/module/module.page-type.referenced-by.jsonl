@@ -2445,7 +2445,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/sms-consent/sms-consent.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"persona/modules/green-day-fraction/green-day-fraction.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"persona/modules/reading/persona-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"persona/modules/targets/persona-targets.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"persona/modules/voice-spec/voice-spec.module.ts"}
