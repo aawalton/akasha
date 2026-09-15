@@ -2,6 +2,11 @@ import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import {
+  commitHeld,
+  verdictOver,
+  verdictRecorded,
+} from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
+import {
   type Input,
   takenIn,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
@@ -388,6 +393,7 @@ export function judgingBy(
       const dies = phase === AT_CHANGE ? diesIn(shadow.index.knownIn()) : null
       const sparing = dies === null ? null : sparingOver(change, dies)
       const runId = Bun.randomUUIDv7()
+      const commit = wholly === null ? "" : commitHeld(wholly)
       const said: Judged[] = []
       for (const one of running) {
         const before = opening()
@@ -408,10 +414,15 @@ export function judgingBy(
           change.changed.length,
           found.length
         )
-        recordCost(one.root, one.page, cost, logsUnder(one, group))
         const over = ranOver(one, group, cost)
         const kept = sparing === null ? found : [...(await sparing(one.run, found))]
         if (over !== null) kept.push(over)
+        const under = logsUnder(one, group)
+        if (commit === "" || under === undefined) {
+          recordCost(one.root, one.page, cost, under)
+        } else {
+          verdictRecorded(one.root, one.page, cost, verdictOver(kept, commit, cost.ranAt), under)
+        }
         said.push(...kept)
         done.push(one.slug)
       }

@@ -1,18 +1,23 @@
 import { afterAll, expect, test } from "bun:test"
-import { writeFileSync } from "node:fs"
+import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   atOrAfter,
   cleanAt,
   cleanly,
+  commitHeld,
   measured,
   verdictIn,
   verdictKept,
+  verdictOver,
+  verdictRecorded,
   verdictsAt,
   verdictsIn,
   verdictsRead,
   verdictsWrite,
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
+import type { Cost } from "akasha/check/modules/cost/check-cost.module.code.ts"
+import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
@@ -21,6 +26,41 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 const CLEAN = { commit: "a", ranAt: "2026-09-11T00:00:00.000Z", refusals: [], unrun: false }
+
+const LOGS = "audit.logs"
+
+const PAGE = "one.check-code.ts"
+
+const LOG_AT = "one.check-code.audit.logs.uncommitted.jsonl"
+
+const COST: Cost = {
+  runId: "01a0a634-03d5-7000-baec-1b80de61d1d8",
+  ranAt: "2026-09-11T00:00:00.000Z",
+  phase: "audit",
+  ran: "typecheck",
+  wallMs: 4686,
+  cpuSeconds: 0,
+  childCpuSeconds: 1.29,
+  peakBytes: 588693504,
+  residentBeforeBytes: 0,
+  peakAddedBytes: 588693504,
+  peakMeasured: true,
+  readCalls: 0,
+  writeCalls: 0,
+  readBytes: 0,
+  pathsChanged: 0,
+  refusals: 1,
+}
+
+function pageIn(): string {
+  const root = scratch.rootFor("akasha-audit-verdict-log-")
+  writeFileSync(join(root, PAGE), "export const one = {}\n", "utf8")
+  return root
+}
+
+function rowIn(root: string): Record<string, unknown> {
+  return JSON.parse(readFileSync(join(root, LOG_AT), "utf8").trim()) as Record<string, unknown>
+}
 
 async function repoOf(commits: number): Promise<{ root: string; made: readonly string[] }> {
   const root = scratch.rootFor("akasha-audit-verdict-")
@@ -100,4 +140,52 @@ test("a verdict that refused answers for no commit at all", async () => {
   const [only] = made
   const verdicts = { typecheck: { ...CLEAN, commit: only ?? "", refusals: ["one refused"] } }
   expect(await cleanAt(root, verdicts, "typecheck", only ?? "")).toBe(false)
+})
+
+test("a verdict over what a check judged names each path and says whether it ran", () => {
+  const found: readonly Judged[] = [
+    { path: "one.ts", reason: "one refused" },
+    { path: "two.ts", reason: "two threw", threw: true },
+  ]
+  expect(verdictOver(found, "abc", CLEAN.ranAt)).toEqual({
+    commit: "abc",
+    ranAt: CLEAN.ranAt,
+    refusals: ["one.ts — one refused", "two.ts — two threw"],
+    unrun: true,
+  })
+})
+
+test("a root holding no commit reads as no commit rather than throwing", () => {
+  expect(commitHeld(scratch.rootFor("akasha-audit-verdict-bare-"))).toBe("")
+})
+
+test("a row carries what the run cost beside the verdict that run took", () => {
+  const root = pageIn()
+  verdictRecorded(root, PAGE, COST, { ...CLEAN, refusals: ["one.ts — no"] }, LOGS)
+  const row = rowIn(root)
+  expect(row["ran"]).toBe("typecheck")
+  expect(row["phase"]).toBe("audit")
+  expect(row["childCpuSeconds"]).toBe(1.29)
+  expect(row["refusals"]).toBe(1)
+  expect(row["commit"]).toBe("a")
+  expect(row["refused"]).toEqual(["one.ts — no"])
+  expect(row["unrun"]).toBe(false)
+})
+
+test("a refusal too long for a row is shortened rather than written whole", () => {
+  const root = pageIn()
+  const whole = `many files failed:\n${"a/b.test.ts\n".repeat(4000)}`
+  verdictRecorded(root, PAGE, COST, { ...CLEAN, refusals: [whole] }, LOGS)
+  const refused = rowIn(root)["refused"] as readonly string[]
+  expect(refused[0]?.length).toBeLessThan(whole.length)
+  expect(refused[0]).toContain("many files failed:")
+})
+
+test("more refusals than a row holds are left off, and the row says how many there were", () => {
+  const root = pageIn()
+  const many = Array.from({ length: 400 }, (_, at) => `akasha/${at}.ts — ${"no ".repeat(90)}`)
+  verdictRecorded(root, PAGE, COST, { ...CLEAN, refusals: many }, LOGS)
+  const refused = rowIn(root)["refused"] as readonly string[]
+  expect(refused.length).toBeLessThan(many.length)
+  expect(refused[refused.length - 1]).toContain("400 refusals in all")
 })

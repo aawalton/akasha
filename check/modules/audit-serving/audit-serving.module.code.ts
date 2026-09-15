@@ -8,9 +8,12 @@ import {
 import {
   cleanAt,
   cleanly,
+  commitHeld,
   measured,
   type Verdict,
   verdictKept,
+  verdictOver,
+  verdictRecorded,
   verdictsAt,
   verdictsRead,
   verdictsWrite,
@@ -22,7 +25,7 @@ import {
   type Gathered,
   takesAny,
 } from "akasha/check/modules/checking/checking.module.code.ts"
-import { costSpawned, recordCost } from "akasha/check/modules/cost/check-cost.module.code.ts"
+import { costSpawned } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   heldTo,
@@ -158,23 +161,21 @@ export function judgedIn(text: string): readonly Judged[] | null {
   return said.every(judgedRow) ? (said as readonly Judged[]) : null
 }
 
-function costKept(one: Gathered, done: Held, began: number, refusals: number): undefined {
-  recordCost(
-    one.root,
-    one.page,
-    costSpawned({
-      runId: Bun.randomUUIDv7(),
-      ranAt: new Date(began).toISOString(),
-      phase: AUDIT,
-      ran: one.slug,
-      wallMs: Date.now() - began,
-      cpuSeconds: done.cpuSeconds,
-      peakBytes: done.peakBytes,
-      peakMeasured: done.peakMeasured,
-      refusals,
-    }),
-    AUDIT_LOGS
-  )
+function costKept(one: Gathered, done: Held, began: number, said: readonly Judged[]): undefined {
+  const ranAt = new Date(began).toISOString()
+  const cost = costSpawned({
+    runId: Bun.randomUUIDv7(),
+    ranAt,
+    phase: AUDIT,
+    ran: one.slug,
+    wallMs: Date.now() - began,
+    cpuSeconds: done.cpuSeconds,
+    peakBytes: done.peakBytes,
+    peakMeasured: done.peakMeasured,
+    refusals: said.length,
+  })
+  const verdict = verdictOver(said, commitHeld(one.root), ranAt)
+  verdictRecorded(one.root, one.page, cost, verdict, AUDIT_LOGS)
 }
 
 export const spawning: Running = async (one) => {
@@ -194,7 +195,7 @@ export const spawning: Running = async (one) => {
     if (done.code !== 0 || done.signal !== null) {
       const why = reasonSaid(done.err, STDERR_CEILING)
       const said = unrun(one, `${ending} apart, so it judged nothing — ${why}`)
-      costKept(one, done, began, said.length)
+      costKept(one, done, began, said)
       return said
     }
     const text = textOnDisk(at)
@@ -241,12 +242,7 @@ export async function overNow(root: string): Promise<Over> {
 }
 
 export function verdictOf(found: readonly Judged[], over: Over, now: string): Verdict {
-  return {
-    commit: over.commit,
-    ranAt: now,
-    refusals: found.map((one) => `${one.path} — ${one.reason}`),
-    unrun: found.some((one) => one.threw === true),
-  }
+  return verdictOver(found, over.commit, now)
 }
 
 export function turnAt(home: string, check: string): string {

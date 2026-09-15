@@ -72,6 +72,29 @@ export const auditVerdict = {
       statement: "An entry naming no commit is dropped rather than carried.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A verdict rides the audit log row the run that took it writes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A row states the refusal texts under `refused` beside their count under `refusals`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A refusal text is held to four thousand characters and the texts to twenty-four thousand bytes.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "An audit log is appended to and swept on a window, so an unbounded row fills it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A commit git will not name reads as no commit, and the row carries the cost alone.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here runs an audit.",
     },

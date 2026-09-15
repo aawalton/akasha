@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.test.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"check/code/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.check-code.audit.test.ts"}
+{"propertySlug":"import","fileName":"git-running.module.code.ts","path":"check/modules/audit-verdict/audit-verdict.module.code.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"code/browser/test-harness/modules/worktree-git-facts/worktree-git-facts.module.code.ts"}

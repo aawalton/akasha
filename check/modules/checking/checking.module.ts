@@ -284,6 +284,18 @@ export const checking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run handed a root records the verdict it took on the row recording its cost.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run handed no root records what it cost and no verdict.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The verdict recorded holds every refusal the run answers with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path the change takes away is handed to every check.",
     },
     {
