@@ -2,7 +2,7 @@ import type { TemperRace } from "akasha/temper/catalog/temper-world/temper-race/
 
 export const khajiit = {
   id: "019e2fc3-a993-70dc-8b1e-55803c6a65a8",
-  type: "temper-race",
+  type: "page-type/temper-race",
   slug: "khajiit",
   title: "Khajiit",
   key: "khajiit",

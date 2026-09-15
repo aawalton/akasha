@@ -2,7 +2,7 @@ import type { TemperRace } from "akasha/temper/catalog/temper-world/temper-race/
 
 export const redguard = {
   id: "019e2fc3-a997-7eb8-8aac-6cf5741adfe5",
-  type: "temper-race",
+  type: "page-type/temper-race",
   slug: "redguard",
   title: "Redguard",
   key: "redguard",

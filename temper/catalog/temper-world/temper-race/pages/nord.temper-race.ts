@@ -2,7 +2,7 @@ import type { TemperRace } from "akasha/temper/catalog/temper-world/temper-race/
 
 export const nord = {
   id: "019e2fc3-a994-78b3-9095-88d0fdee520c",
-  type: "temper-race",
+  type: "page-type/temper-race",
   slug: "nord",
   title: "Nord",
   key: "nord",

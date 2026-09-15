@@ -2,7 +2,7 @@ import type { TemperRace } from "akasha/temper/catalog/temper-world/temper-race/
 
 export const argonian = {
   id: "019e2fc3-a988-7b52-8a61-82061a6ac032",
-  type: "temper-race",
+  type: "page-type/temper-race",
   slug: "argonian",
   title: "Argonian",
   key: "argonian",

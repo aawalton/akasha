@@ -2,7 +2,7 @@ import type { TemperRace } from "akasha/temper/catalog/temper-world/temper-race/
 
 export const orc = {
   id: "019e2fc3-a996-7284-8ef0-00982dfebbca",
-  type: "temper-race",
+  type: "page-type/temper-race",
   slug: "orc",
   title: "Orc",
   key: "orc",

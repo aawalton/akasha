@@ -2,7 +2,7 @@ import type { TemperRace } from "akasha/temper/catalog/temper-world/temper-race/
 
 export const bosmer = {
   id: "019e2fc3-a98b-73ef-a453-74c4ef0028da",
-  type: "temper-race",
+  type: "page-type/temper-race",
   slug: "bosmer",
   title: "Wood Elf",
   key: "bosmer",

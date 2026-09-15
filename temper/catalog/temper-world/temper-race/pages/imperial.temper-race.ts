@@ -2,7 +2,7 @@ import type { TemperRace } from "akasha/temper/catalog/temper-world/temper-race/
 
 export const imperial = {
   id: "019e2fc3-a991-76a8-a99d-607662d3158a",
-  type: "temper-race",
+  type: "page-type/temper-race",
   slug: "imperial",
   title: "Imperial",
   key: "imperial",

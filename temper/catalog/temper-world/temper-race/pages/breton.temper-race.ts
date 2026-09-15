@@ -2,7 +2,7 @@ import type { TemperRace } from "akasha/temper/catalog/temper-world/temper-race/
 
 export const breton = {
   id: "019e2fc3-a98d-7c38-861f-4e8de608aeb7",
-  type: "temper-race",
+  type: "page-type/temper-race",
   slug: "breton",
   title: "Breton",
   key: "breton",
