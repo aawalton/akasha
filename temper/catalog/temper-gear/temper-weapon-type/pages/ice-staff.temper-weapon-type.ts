@@ -2,7 +2,7 @@ import type { TemperWeaponType } from "akasha/temper/catalog/temper-gear/temper-
 
 export const iceStaff = {
   id: "019e46b6-4096-7618-a107-04208bd01142",
-  type: "temper-weapon-type",
+  type: "page-type/temper-weapon-type",
   slug: "ice-staff",
   title: "Ice Staff",
   key: "ice-staff",
