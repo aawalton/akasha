@@ -1,13 +1,13 @@
 "use client"
 
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
-import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
-import { Label } from "akasha/design/interfaces/primitives/modules/label/label.module.code.tsx"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
+import { Input } from "akasha/design/interface/design-interfaces-primitives/modules/input/input.module.code.tsx"
+import { Label } from "akasha/design/interface/design-interfaces-primitives/modules/label/label.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import {
   defaultViewData,

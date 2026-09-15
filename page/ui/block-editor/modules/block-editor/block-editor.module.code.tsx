@@ -1,6 +1,6 @@
 "use client"
 
-import { useDebouncedCallback } from "akasha/design/interfaces/primitives/modules/use-debounced-callback/use-debounced-callback.module.code.ts"
+import { useDebouncedCallback } from "akasha/design/interface/design-interfaces-primitives/modules/use-debounced-callback/use-debounced-callback.module.code.ts"
 import type {
   Block,
   RichDocument,

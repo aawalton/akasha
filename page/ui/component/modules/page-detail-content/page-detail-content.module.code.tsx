@@ -1,8 +1,8 @@
 "use client"
 
 import type { SentenceMark } from "akasha/alan/harness/voice-core/modules/mark-schema/mark-schema.module.code.ts"
-import { PageLayout } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { simplePageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import { PageLayout } from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
+import { simplePageSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { pageTypeChain } from "akasha/page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
 import { PAGE_TYPE_SLUG } from "akasha/page/ui/component/modules/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"
 import { drawingAlong } from "akasha/page/ui/component/modules/page-drawings/page-drawings.module.code.ts"

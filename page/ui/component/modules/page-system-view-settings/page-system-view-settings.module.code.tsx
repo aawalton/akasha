@@ -1,18 +1,18 @@
 "use client"
 
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import {
   FilterableList,
   FilterableListItem,
-} from "akasha/design/interfaces/primitives/modules/filterable-list/filterable-list.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/filterable-list/filterable-list.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
-import { SubView } from "akasha/design/interfaces/primitives/modules/sub-view/sub-view.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
+import { SubView } from "akasha/design/interface/design-interfaces-primitives/modules/sub-view/sub-view.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { GalleryOptionsPicker } from "akasha/page/ui/component/modules/gallery-options-picker/gallery-options-picker.module.code.tsx"
 import { GroupByPicker } from "akasha/page/ui/component/modules/group-by-picker/group-by-picker.module.code.tsx"
 import { NotesOptionsPicker } from "akasha/page/ui/component/modules/notes-options-picker/notes-options-picker.module.code.tsx"

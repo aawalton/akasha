@@ -1,13 +1,13 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { classifyLocation } from "akasha/temper/items-core/modules/location-classify/location-classify.module.code.ts"
 import { NULL_SENTINEL } from "akasha/temper/player-inventory-management-ui/modules/action-filter-utils/action-filter-utils.module.code.ts"

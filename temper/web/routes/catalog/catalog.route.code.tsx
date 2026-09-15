@@ -1,5 +1,5 @@
-import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import { PageLayoutSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
+import { tabbedPageSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { CatalogPageContent } from "akasha/temper/web/modules/catalog-page-content/catalog-page-content.module.code.tsx"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"

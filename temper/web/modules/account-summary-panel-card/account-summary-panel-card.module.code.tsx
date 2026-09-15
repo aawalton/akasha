@@ -1,4 +1,4 @@
-import type { SortDirection } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
+import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { CUMULATIVE_ACCOUNT_CARDS } from "akasha/temper/player-completion/modules/completion-cumulative-cards/completion-cumulative-cards.module.code.ts"
 import {

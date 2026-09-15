@@ -2,6 +2,6 @@
 {"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"alan/harness/imessage/modules/message-lines/message-lines.module.code.ts"}
 {"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"alan/harness/recurrence/modules/scheduling/scheduling.module.code.ts"}
 {"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"design/interfaces/design-interface-badge/modules/date-badge/date-badge.module.code.tsx"}
+{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"design/interface/badge/modules/date-badge/date-badge.module.code.tsx"}
 {"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"page/core/view/modules/calendar-grid/calendar-grid.module.code.ts"}
 {"propertySlug":"parts","path":"util/util.domain.ts","id":"01a0827a-166b-7a7c-9b60-e90209b46c46"}

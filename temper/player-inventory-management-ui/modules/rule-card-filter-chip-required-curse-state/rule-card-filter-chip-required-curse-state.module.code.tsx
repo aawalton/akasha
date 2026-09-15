@@ -1,19 +1,19 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
-import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
+import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
 import type { RequiredCurseStateCondition } from "akasha/temper/items-rules-core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
 import type { useRuleCard } from "akasha/temper/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"

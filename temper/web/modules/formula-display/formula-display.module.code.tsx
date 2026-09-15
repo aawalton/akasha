@@ -1,7 +1,7 @@
 "use client"
 
-import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import { toLatex } from "akasha/temper/formula-framework/modules/display-formula-latex/display-formula-latex.module.code.ts"
 import type { DisplayFormulaNode } from "akasha/temper/formula-framework/modules/display-formula-node/display-formula-node.module.code.ts"
 import katex from "katex"

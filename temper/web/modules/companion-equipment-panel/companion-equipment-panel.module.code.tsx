@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { CompanionArmorPanelCard } from "akasha/temper/web/modules/companion-armor-panel-card/companion-armor-panel-card.module.code.tsx"
 import type { CompanionEquipmentPanelProps } from "akasha/temper/web/modules/companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
 import { CompanionJewelryPanelCard } from "akasha/temper/web/modules/companion-jewelry-panel-card/companion-jewelry-panel-card.module.code.tsx"

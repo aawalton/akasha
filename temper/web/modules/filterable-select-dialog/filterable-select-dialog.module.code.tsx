@@ -1,17 +1,17 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
-} from "akasha/design/interfaces/design-interface-badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { ItemCard } from "akasha/design/interfaces/patterns/modules/item-card/item-card.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
+} from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { ItemCard } from "akasha/design/interface/design-interfaces-patterns/modules/item-card/item-card.module.code.tsx"
+import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
-} from "akasha/design/interfaces/primitives/modules/collapsible/collapsible.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/collapsible/collapsible.module.code.tsx"
 import {
   Command,
   CommandEmpty,
@@ -19,17 +19,17 @@ import {
   CommandInput,
   CommandItem,
   CommandList,
-} from "akasha/design/interfaces/primitives/modules/command/command.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/command/command.module.code.tsx"
 import {
   Dialog,
   DialogBody,
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
-import { HorizontalScrollFade } from "akasha/design/interfaces/primitives/modules/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/dialog/dialog.module.code.tsx"
+import { HorizontalScrollFade } from "akasha/design/interface/design-interfaces-primitives/modules/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { formatEffects } from "akasha/temper/character-stat/modules/format-effects/format-effects.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import { Check, ChevronDown, ChevronRight, X } from "lucide-react"

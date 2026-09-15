@@ -1,8 +1,8 @@
 "use client"
 
-import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
+import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { MentionChip } from "akasha/page/ui/markdown/modules/mention-chip/mention-chip.module.code.tsx"
 import type { MentionResolver } from "akasha/page/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts"
 import { remarkMentions } from "akasha/page/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts"

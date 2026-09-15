@@ -194,7 +194,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"command/namespace/namespace.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"design/game/achievement/achievement.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"design/game/drive/drive.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"design/interfaces/color/color.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"design/interface/color/color.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/context/warrant/context-warrant.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/directive-kind/directive-kind.page-type.ts"}

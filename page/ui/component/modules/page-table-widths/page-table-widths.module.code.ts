@@ -1,5 +1,5 @@
-import { formatTime12h } from "akasha/design/interfaces/design-interface-form/modules/format-time/format-time.module.code.ts"
-import { formatRelativeTime } from "akasha/design/interfaces/primitives/modules/format-relative-time/format-relative-time.module.code.ts"
+import { formatRelativeTime } from "akasha/design/interface/design-interfaces-primitives/modules/format-relative-time/format-relative-time.module.code.ts"
+import { formatTime12h } from "akasha/design/interface/form/modules/format-time/format-time.module.code.ts"
 import type {
   PropertyDefinition,
   PropertyType,

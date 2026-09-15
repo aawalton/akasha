@@ -6,8 +6,8 @@ import {
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
-import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/dialog/dialog.module.code.tsx"
+import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
 import { Lock } from "lucide-react"
 import { useState } from "react"
 

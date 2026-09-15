@@ -1,15 +1,15 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
-import { ButtonBadge } from "akasha/design/interfaces/design-interface-badge/modules/button-badge/button-badge.module.code.tsx"
-import { StatRow } from "akasha/design/interfaces/patterns/modules/stat-row/stat-row.module.code.tsx"
+import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
+import { StatRow } from "akasha/design/interface/design-interfaces-patterns/modules/stat-row/stat-row.module.code.tsx"
 import {
   Dialog,
   DialogBody,
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/interfaces/primitives/modules/dialog/dialog.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/dialog/dialog.module.code.tsx"
 import type {
   PageDataJSON,
   PropertyDefinition,

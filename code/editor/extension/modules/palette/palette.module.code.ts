@@ -1,4 +1,4 @@
-import type { Rgb } from "akasha/design/interfaces/design-interface-token/modules/color-shape/color-shape.module.code.ts"
+import type { Rgb } from "akasha/design/interface/token/modules/color-shape/color-shape.module.code.ts"
 import {
   BLUE,
   GREEN,
@@ -6,8 +6,8 @@ import {
   PURPLE,
   RED,
   YELLOW,
-} from "akasha/design/interfaces/design-interface-token/modules/semantic-color/semantic-color.module.code.ts"
-import { TEXT_PRIMARY } from "akasha/design/interfaces/design-interface-token/modules/text-color/text-color.module.code.ts"
+} from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
+import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const PALETTE: Readonly<Record<string, Rgb>> = {

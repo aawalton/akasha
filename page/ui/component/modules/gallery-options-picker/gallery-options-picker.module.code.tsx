@@ -1,11 +1,11 @@
 "use client"
 
-import { FilterGroup } from "akasha/design/interfaces/patterns/modules/filter-group/filter-group.module.code.tsx"
+import { FilterGroup } from "akasha/design/interface/design-interfaces-patterns/modules/filter-group/filter-group.module.code.tsx"
 import {
   FilterableList,
   FilterableListItem,
-} from "akasha/design/interfaces/primitives/modules/filterable-list/filterable-list.module.code.tsx"
-import { SubView } from "akasha/design/interfaces/primitives/modules/sub-view/sub-view.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/filterable-list/filterable-list.module.code.tsx"
+import { SubView } from "akasha/design/interface/design-interfaces-primitives/modules/sub-view/sub-view.module.code.tsx"
 import {
   GALLERY_CARD_SIZES,
   type GalleryCardSize,

@@ -1,13 +1,13 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
 import { KNOWN_OPTIONS } from "akasha/temper/items-rules-core/modules/known-filter/known-filter.module.code.ts"
 import { RECONSTRUCTED_OPTIONS } from "akasha/temper/items-rules-core/modules/reconstructed-filter/reconstructed-filter.module.code.ts"
 import { TRANSMUTED_OPTIONS } from "akasha/temper/items-rules-core/modules/transmuted-filter/transmuted-filter.module.code.ts"

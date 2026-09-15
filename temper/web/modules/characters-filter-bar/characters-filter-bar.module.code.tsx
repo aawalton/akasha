@@ -3,14 +3,14 @@
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
-} from "akasha/design/interfaces/design-interface-badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { AddFilterButton } from "akasha/design/interfaces/patterns/modules/add-filter-button/add-filter-button.module.code.tsx"
-import { FilterButton } from "akasha/design/interfaces/patterns/modules/filter-button/filter-button.module.code.tsx"
-import { FilterGroup } from "akasha/design/interfaces/patterns/modules/filter-group/filter-group.module.code.tsx"
-import { SearchButton } from "akasha/design/interfaces/patterns/modules/search-button/search-button.module.code.tsx"
-import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
-import { SortButton } from "akasha/design/interfaces/patterns/modules/sort-button/sort-button.module.code.tsx"
-import type { SortDirection } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
+} from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { AddFilterButton } from "akasha/design/interface/design-interfaces-patterns/modules/add-filter-button/add-filter-button.module.code.tsx"
+import { FilterButton } from "akasha/design/interface/design-interfaces-patterns/modules/filter-button/filter-button.module.code.tsx"
+import { FilterGroup } from "akasha/design/interface/design-interfaces-patterns/modules/filter-group/filter-group.module.code.tsx"
+import { SearchButton } from "akasha/design/interface/design-interfaces-patterns/modules/search-button/search-button.module.code.tsx"
+import { SearchSortFilterRow } from "akasha/design/interface/design-interfaces-patterns/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
+import { SortButton } from "akasha/design/interface/design-interfaces-patterns/modules/sort-button/sort-button.module.code.tsx"
+import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
 import {
   type CharactersFilterDef,
   type CharactersFilterId,

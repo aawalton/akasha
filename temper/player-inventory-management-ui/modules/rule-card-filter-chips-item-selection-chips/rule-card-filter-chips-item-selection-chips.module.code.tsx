@@ -1,13 +1,13 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
-import { BadgeToggleGroup } from "akasha/design/interfaces/design-interface-badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
+import { BadgeToggleGroup } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
-import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
+import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
 import { LOCATION_OPTIONS } from "akasha/temper/items-rules-core/modules/location-filter/location-filter.module.code.ts"
 import { SET_SOURCE_TYPE_OPTIONS } from "akasha/temper/items-rules-core/modules/set-sources-filter/set-sources-filter.module.code.ts"
 import type { RuleCardState } from "akasha/temper/player-inventory-management-ui/modules/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"

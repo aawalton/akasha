@@ -1,5 +1,5 @@
-import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { simplePageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import { PageLayoutSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
+import { simplePageSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { HomePageContent } from "akasha/temper/web/modules/home-page-content/home-page-content.module.code.tsx"
 import { Suspense } from "react"
 

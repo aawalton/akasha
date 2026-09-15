@@ -1,12 +1,12 @@
-import { PageTitle } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+import { PageTitle } from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import {
   Card,
   CardContent,
   CardHeader,
   CardTitle,
-} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
-import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
+import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
 import { Link } from "react-router"
 
 export default function LandingRoute() {

@@ -3,14 +3,14 @@
 import {
   Badge,
   type badgeVariants,
-} from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
+} from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
 import type { VariantProps } from "class-variance-authority"
 
 type BadgeVariant = VariantProps<typeof badgeVariants>["variant"]

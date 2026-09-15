@@ -1,4 +1,4 @@
-import { listenerSet } from "akasha/design/interfaces/primitives/modules/listener-set/listener-set.module.code.ts"
+import { listenerSet } from "akasha/design/interface/design-interfaces-primitives/modules/listener-set/listener-set.module.code.ts"
 
 let currentSlug: string | null = null
 const listeners = listenerSet()

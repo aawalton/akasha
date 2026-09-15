@@ -1,18 +1,18 @@
 "use client"
 
-import { ButtonBadge } from "akasha/design/interfaces/design-interface-badge/modules/button-badge/button-badge.module.code.tsx"
-import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
-import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
-import { PanelToggleProvider } from "akasha/design/interfaces/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interface/design-interfaces-layout/modules/page-tab-header/page-tab-header.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
+import { PanelToggleProvider } from "akasha/design/interface/design-interfaces-layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import {
   Empty,
   EmptyDescription,
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
-import { ItemRow } from "akasha/design/interfaces/patterns/modules/item-row/item-row.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
+import { ItemRow } from "akasha/design/interface/design-interfaces-patterns/modules/item-row/item-row.module.code.tsx"
 import {
   AlertDialog,
   AlertDialogAction,
@@ -22,14 +22,14 @@ import {
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
-} from "akasha/design/interfaces/primitives/modules/alert-dialog/alert-dialog.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/alert-dialog/alert-dialog.module.code.tsx"
 import {
   Card,
   CardContent,
   CardTitleBadges,
-} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
-import { Progress } from "akasha/design/interfaces/primitives/modules/progress-bar/progress-bar.module.code.tsx"
-import { Text } from "akasha/design/interfaces/primitives/modules/text-body/text-body.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
+import { Progress } from "akasha/design/interface/design-interfaces-primitives/modules/progress-bar/progress-bar.module.code.tsx"
+import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
 import { formatGold } from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import {
   buildCategoryGroups,

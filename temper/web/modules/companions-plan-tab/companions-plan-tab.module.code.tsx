@@ -1,9 +1,9 @@
 "use client"
 
-import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
-import { PanelToggleProvider } from "akasha/design/interfaces/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
-import { LayoutLink } from "akasha/design/interfaces/layout/modules/router-context/router-context.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interface/design-interfaces-layout/modules/page-tab-header/page-tab-header.module.code.tsx"
+import { PanelToggleProvider } from "akasha/design/interface/design-interfaces-layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import { LayoutLink } from "akasha/design/interface/design-interfaces-layout/modules/router-context/router-context.module.code.tsx"
 import {
   Empty,
   EmptyContent,
@@ -11,13 +11,13 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
-import { TabsContent } from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
+import { TabsContent } from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import {
   Card,
   CardContent,
-} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
 import type { CompanionBaseRoleId } from "akasha/temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { ComboRankingsMap } from "akasha/temper/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"

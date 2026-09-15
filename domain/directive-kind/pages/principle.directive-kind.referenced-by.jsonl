@@ -10,7 +10,7 @@
 {"propertySlug":"directive-kind","path":"check/code/check-code.page-type.ts","id":"01a04bc4-7e86-7beb-8dfb-3666785dd3d5"}
 {"propertySlug":"directive-kind","path":"check/test/test.domain.ts","id":"01a04f3e-eea5-79ee-8d0b-c822c492a981"}
 {"propertySlug":"directive-kind","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}
-{"propertySlug":"directive-kind","path":"design/interfaces/design-interfaces.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
+{"propertySlug":"directive-kind","path":"design/interface/design-interface.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
 {"propertySlug":"directive-kind","path":"design/language/design-language.domain.ts","id":"01a06600-0000-7000-8000-000000000003"}
 {"propertySlug":"directive-kind","path":"domain/context/required-reading/required-reading.domain.ts","id":"01a04d97-c600-78b8-b3eb-faf390b009ce"}
 {"propertySlug":"directive-kind","path":"page/naming/naming.domain.ts","id":"01a05341-b9a9-7d68-88b3-142e3e3ecd4d"}

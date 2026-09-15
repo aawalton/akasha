@@ -3,19 +3,19 @@
 import {
   PageLayout,
   PageTitle,
-} from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+} from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
+import { tabbedPageSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import {
   Empty,
   EmptyDescription,
   EmptyHeader,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
 import {
   PageTabsTrigger,
   Tabs,
   TabsList,
-} from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import { deriveShellEmptyState } from "akasha/page/ui/component/modules/page-system-shell-helpers/page-system-shell-helpers.module.code.ts"
 import type { ViewTabItem } from "akasha/page/ui/component/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx"

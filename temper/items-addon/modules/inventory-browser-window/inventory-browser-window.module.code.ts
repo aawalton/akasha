@@ -1,4 +1,4 @@
-import { TEXT_PRIMARY } from "akasha/design/interfaces/design-interface-token/modules/text-color/text-color.module.code.ts"
+import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { quantityInView } from "akasha/temper/items-addon/modules/inventory-browser-locations/inventory-browser-locations.module.code.ts"
 import type {
   BrowserRow,

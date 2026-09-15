@@ -7,12 +7,12 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import {
   Card,
   CardContent,
-} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
 import { formatGold } from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import { PackageCheck } from "lucide-react"
 

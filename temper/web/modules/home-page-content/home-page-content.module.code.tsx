@@ -1,13 +1,13 @@
 "use client"
 
-import { ListContentSkeleton } from "akasha/design/interfaces/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import { ListContentSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import {
   PageLayout,
   PageTitle,
-} from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
-import { simplePageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+} from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import { simplePageSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import {
   Empty,
   EmptyContent,
@@ -15,9 +15,9 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
-import { QueryErrorBoundary } from "akasha/design/interfaces/patterns/modules/query-error-boundary/query-error-boundary.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
+import { QueryErrorBoundary } from "akasha/design/interface/design-interfaces-patterns/modules/query-error-boundary/query-error-boundary.module.code.tsx"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import {
   PagesUILink as Link,
   usePagesUIRouter,

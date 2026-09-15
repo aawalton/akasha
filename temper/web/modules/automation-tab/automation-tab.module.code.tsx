@@ -3,16 +3,16 @@
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
-} from "akasha/design/interfaces/design-interface-badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
-import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
+} from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
-import { Switch } from "akasha/design/interfaces/primitives/modules/switch-control/switch-control.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
+import { Switch } from "akasha/design/interface/design-interfaces-primitives/modules/switch-control/switch-control.module.code.tsx"
 import type {
   CharacterAutomationToggles,
   CompanionAutomationToggles,
@@ -33,6 +33,14 @@ function InfoPopover({ children }: { children: React.ReactNode }) {
         {children}
       </PopoverContent>
     </Popover>
+  )
+}
+
+function SubHeading({ children }: { children: React.ReactNode }) {
+  return (
+    <Heading variant="subsection" className="text-base">
+      {children}
+    </Heading>
   )
 }
 
@@ -161,9 +169,7 @@ export function AutomationTab({ active }: AutomationTabProps) {
         <div className="flex flex-col gap-6">
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <Heading variant="subsection" className="text-base">
-                Consumables
-              </Heading>
+              <SubHeading>Consumables</SubHeading>
               <InfoPopover>
                 Automatically stock consumable items for all characters: food/drink, potions, soul
                 gems, repair kits, lockpicks, and XP scrolls.
@@ -179,9 +185,7 @@ export function AutomationTab({ active }: AutomationTabProps) {
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <Heading variant="subsection" className="text-base">
-                Maintenance
-              </Heading>
+              <SubHeading>Maintenance</SubHeading>
               <InfoPopover>
                 Automatically manage equipment for all characters: equip gear to match builds,
                 recharge enchantments, and repair damage.
@@ -197,9 +201,7 @@ export function AutomationTab({ active }: AutomationTabProps) {
           </div>
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-1.5">
-              <Heading variant="subsection" className="text-base">
-                Lock Worn Gear
-              </Heading>
+              <SubHeading>Lock Worn Gear</SubHeading>
               <InfoPopover>
                 Automatically Temper-Lock equipped gear so it can't be sold or deconstructed. On by
                 default.
@@ -212,9 +214,7 @@ export function AutomationTab({ active }: AutomationTabProps) {
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <Heading variant="subsection" className="text-base">
-                Coming Soon
-              </Heading>
+              <SubHeading>Coming Soon</SubHeading>
               <InfoPopover>
                 These toggles will take effect once addon support is added: skill bars, champion
                 points, and attribute allocation.
@@ -236,9 +236,7 @@ export function AutomationTab({ active }: AutomationTabProps) {
         <div className="flex flex-col gap-6">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-1.5">
-              <Heading variant="subsection" className="text-base">
-                Daily Writs
-              </Heading>
+              <SubHeading>Daily Writs</SubHeading>
               <InfoPopover>Enable automated daily writ crafting for all characters.</InfoPopover>
             </div>
             <Switch
@@ -258,9 +256,7 @@ export function AutomationTab({ active }: AutomationTabProps) {
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <Heading variant="subsection" className="text-base">
-                Crafts
-              </Heading>
+              <SubHeading>Crafts</SubHeading>
               <InfoPopover>
                 Select which crafting professions to include in daily writ automation.
               </InfoPopover>
@@ -276,9 +272,7 @@ export function AutomationTab({ active }: AutomationTabProps) {
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <Heading variant="subsection" className="text-base">
-                Automation
-              </Heading>
+              <SubHeading>Automation</SubHeading>
               <InfoPopover>
                 Auto-craft at stations and auto-accept/complete writ quests.
               </InfoPopover>
@@ -301,9 +295,7 @@ export function AutomationTab({ active }: AutomationTabProps) {
         <div className="flex flex-col gap-6">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-1.5">
-              <Heading variant="subsection" className="text-base">
-                Master Writs
-              </Heading>
+              <SubHeading>Master Writs</SubHeading>
               <InfoPopover>
                 Enable automated master-writ (sealed writ) crafting for all characters. Off by
                 default — master writs consume expensive materials. Independent of daily writs.
@@ -325,9 +317,7 @@ export function AutomationTab({ active }: AutomationTabProps) {
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <Heading variant="subsection" className="text-base">
-                Crafts
-              </Heading>
+              <SubHeading>Crafts</SubHeading>
               <InfoPopover>
                 Select which crafting professions to include in master-writ automation.
               </InfoPopover>
@@ -350,9 +340,7 @@ export function AutomationTab({ active }: AutomationTabProps) {
         <div className="flex flex-col gap-6">
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <Heading variant="subsection" className="text-base">
-                Automation
-              </Heading>
+              <SubHeading>Automation</SubHeading>
               <InfoPopover>
                 Automatically equip gear and skills to match companion builds.
               </InfoPopover>

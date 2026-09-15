@@ -1,6 +1,6 @@
 "use client"
 
-import type { BadgeToggleGroupItem } from "akasha/design/interfaces/design-interface-badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type { BadgeToggleGroupItem } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type { InventoryLocationConditionId } from "akasha/temper/items-core/modules/location-condition/location-condition.module.code.ts"
 import type { ComparisonOpId } from "akasha/temper/items-rules-core/modules/comparison-op-data/comparison-op-data.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"

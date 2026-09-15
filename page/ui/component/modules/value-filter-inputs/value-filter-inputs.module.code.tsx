@@ -1,15 +1,15 @@
 "use client"
 
-import { ButtonBadge } from "akasha/design/interfaces/design-interface-badge/modules/button-badge/button-badge.module.code.tsx"
-import { DateBadge } from "akasha/design/interfaces/design-interface-badge/modules/date-badge/date-badge.module.code.tsx"
-import { InputBadge } from "akasha/design/interfaces/design-interface-badge/modules/input-badge/input-badge.module.code.tsx"
-import { NumberBadge } from "akasha/design/interfaces/design-interface-badge/modules/number-badge/number-badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
+import { DateBadge } from "akasha/design/interface/badge/modules/date-badge/date-badge.module.code.tsx"
+import { InputBadge } from "akasha/design/interface/badge/modules/input-badge/input-badge.module.code.tsx"
+import { NumberBadge } from "akasha/design/interface/badge/modules/number-badge/number-badge.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+} from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import type { FilterOperator } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import type { PageFilterDimension } from "akasha/page/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"

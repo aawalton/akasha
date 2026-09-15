@@ -24,7 +24,7 @@
 {"propertySlug":"directive-kind","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
 {"propertySlug":"directive-kind","path":"command/pages/change/change.namespace.ts","id":"01a0814e-a6ed-7570-b81f-ebad640d95f2"}
 {"propertySlug":"directive-kind","path":"command/pages/read/read.command.ts","id":"01a04bec-10b4-7e86-aeae-ed252396f186"}
-{"propertySlug":"directive-kind","path":"design/interfaces/design-interfaces.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
+{"propertySlug":"directive-kind","path":"design/interface/design-interface.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
 {"propertySlug":"directive-kind","path":"domain/context/required-reading/required-reading.domain.ts","id":"01a04d97-c600-78b8-b3eb-faf390b009ce"}
 {"propertySlug":"directive-kind","path":"domain/context/warrant/context-warrant.page-type.ts","id":"01a04f56-55c4-7000-ba0d-c91b6e76b850"}
 {"propertySlug":"directive-kind","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}

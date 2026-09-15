@@ -1,14 +1,14 @@
 "use client"
 
-import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import {
   ContextMenu,
   ContextMenuContent,
   ContextMenuItem,
   ContextMenuTrigger,
-} from "akasha/design/interfaces/primitives/modules/context-menu/context-menu.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/context-menu/context-menu.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import {
   type ProseBlock,
   splitInlineEmphasis,

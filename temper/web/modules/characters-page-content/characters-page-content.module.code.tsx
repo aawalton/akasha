@@ -1,20 +1,20 @@
 "use client"
 
-import { ListContentSkeleton } from "akasha/design/interfaces/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import { ListContentSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import {
   PageLayout,
   PageTitle,
-} from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { listPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
-import { QueryErrorBoundary } from "akasha/design/interfaces/patterns/modules/query-error-boundary/query-error-boundary.module.code.tsx"
-import type { SortDirection } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
+} from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
+import { listPageSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import { QueryErrorBoundary } from "akasha/design/interface/design-interfaces-patterns/modules/query-error-boundary/query-error-boundary.module.code.tsx"
+import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
 import {
   PageTabsTrigger,
   Tabs,
   TabsList,
-} from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
-import { useFilterPersistence } from "akasha/design/interfaces/patterns/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
+import { useFilterPersistence } from "akasha/design/interface/design-interfaces-patterns/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import {
   isValidTab,

@@ -1,17 +1,17 @@
 import {
   PageLayout,
   PageTitle,
-} from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
-import { PanelCard } from "akasha/design/interfaces/layout/modules/panel-card/panel-card.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interface/design-interfaces-layout/modules/page-tab-header/page-tab-header.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/design-interfaces-layout/modules/panel-card/panel-card.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import {
   PageTabsTrigger,
   Tabs,
   TabsContent,
   TabsList,
-} from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
-import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
+import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
 import { List } from "lucide-react"
 
 export function meta() {

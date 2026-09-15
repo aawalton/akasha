@@ -1,20 +1,20 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
-import { ButtonBadge } from "akasha/design/interfaces/design-interface-badge/modules/button-badge/button-badge.module.code.tsx"
-import { EditableNumber } from "akasha/design/interfaces/design-interface-form/modules/editable-number/editable-number.module.code.tsx"
-import {
-  InputGroup,
-  InputGroupAddon,
-  InputGroupInput,
-} from "akasha/design/interfaces/design-interface-form/modules/input-group/input-group.module.code.tsx"
+import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
+import { EditableNumber } from "akasha/design/interface/form/modules/editable-number/editable-number.module.code.tsx"
+import {
+  InputGroup,
+  InputGroupAddon,
+  InputGroupInput,
+} from "akasha/design/interface/form/modules/input-group/input-group.module.code.tsx"
 import type {
   CategoryRule,
   DestinationChain,

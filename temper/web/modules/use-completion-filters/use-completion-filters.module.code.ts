@@ -1,5 +1,5 @@
-import type { SortDirection } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
-import { useFilterPersistence } from "akasha/design/interfaces/patterns/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
+import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
+import { useFilterPersistence } from "akasha/design/interface/design-interfaces-patterns/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { ACTIVITY_CATEGORIES } from "akasha/temper/player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import { getCompletionCardTab } from "akasha/temper/player-completion/modules/completion-card-tab/completion-card-tab.module.code.ts"
 import type { CompletionSortMode } from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"

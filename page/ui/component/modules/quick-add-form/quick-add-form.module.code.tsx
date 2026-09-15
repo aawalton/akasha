@@ -1,14 +1,11 @@
 "use client"
 
-import {
-  Badge,
-  BadgeRow,
-} from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
-import { BadgeLayoutProvider } from "akasha/design/interfaces/design-interface-badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
-import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
-import { Textarea } from "akasha/design/interfaces/primitives/modules/textarea/textarea.module.code.tsx"
+import { Badge, BadgeRow } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
+import { BadgeLayoutProvider } from "akasha/design/interface/badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
+import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
+import { Input } from "akasha/design/interface/design-interfaces-primitives/modules/input/input.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
+import { Textarea } from "akasha/design/interface/design-interfaces-primitives/modules/textarea/textarea.module.code.tsx"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"

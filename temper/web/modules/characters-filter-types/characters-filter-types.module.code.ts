@@ -1,8 +1,8 @@
-import type { BadgeToggleGroupItem } from "akasha/design/interfaces/design-interface-badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type { BadgeToggleGroupItem } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type {
   SortDirection,
   SortOption,
-} from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
+} from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
 import { type RaceId, races } from "akasha/temper/character-race/modules/races/races.module.code.ts"
 import {
   type RoleId,

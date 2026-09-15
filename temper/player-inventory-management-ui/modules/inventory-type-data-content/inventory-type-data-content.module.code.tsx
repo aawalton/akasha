@@ -1,10 +1,10 @@
 "use client"
 
-import { ListContentSkeleton } from "akasha/design/interfaces/layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
-import { PageTabHeader } from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
-import { LayoutLink } from "akasha/design/interfaces/layout/modules/router-context/router-context.module.code.tsx"
-import { scrollToCard } from "akasha/design/interfaces/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
+import { ListContentSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interface/design-interfaces-layout/modules/page-tab-header/page-tab-header.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import { LayoutLink } from "akasha/design/interface/design-interfaces-layout/modules/router-context/router-context.module.code.tsx"
+import { scrollToCard } from "akasha/design/interface/design-interfaces-layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
 import {
   Empty,
   EmptyContent,
@@ -12,9 +12,9 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
-import type { SortDirection } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
+import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { computeCurrencyGoldTotal } from "akasha/temper/items-core/modules/inventory-currencies/inventory-currencies.module.code.ts"
 import {

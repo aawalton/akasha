@@ -11,14 +11,14 @@ import {
   useSensors,
 } from "@dnd-kit/core"
 import { restrictToHorizontalAxis } from "@dnd-kit/modifiers"
-import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
-import { LoadMoreButton } from "akasha/design/interfaces/layout/modules/load-more-button/load-more-button.module.code.tsx"
+import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
+import { LoadMoreButton } from "akasha/design/interface/design-interfaces-layout/modules/load-more-button/load-more-button.module.code.tsx"
 import {
   letGo,
   tookHold,
-} from "akasha/design/interfaces/patterns/modules/drag-hold/drag-hold.module.code.ts"
-import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+} from "akasha/design/interface/design-interfaces-patterns/modules/drag-hold/drag-hold.module.code.ts"
+import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import {
   type BoardColumnRect,
   computeBoardDropColumn,

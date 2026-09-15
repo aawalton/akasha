@@ -11,18 +11,18 @@ import {
 } from "@dnd-kit/core"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext, useSortable } from "@dnd-kit/sortable"
-import { navLinkClass } from "akasha/design/interfaces/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"
-import type { AppNavItem } from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
-import { SidebarNavGroup } from "akasha/design/interfaces/layout/modules/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
-import { useSidebarState } from "akasha/design/interfaces/layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
-import { tookHold } from "akasha/design/interfaces/patterns/modules/drag-hold/drag-hold.module.code.ts"
-import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
+import { navLinkClass } from "akasha/design/interface/design-interfaces-layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"
+import type { AppNavItem } from "akasha/design/interface/design-interfaces-layout/modules/nav-types/nav-types.module.code.ts"
+import { SidebarNavGroup } from "akasha/design/interface/design-interfaces-layout/modules/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
+import { useSidebarState } from "akasha/design/interface/design-interfaces-layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
+import { tookHold } from "akasha/design/interface/design-interfaces-patterns/modules/drag-hold/drag-hold.module.code.ts"
+import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
-import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+} from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import {
   type DropZoneInfo,
   findDropZone,

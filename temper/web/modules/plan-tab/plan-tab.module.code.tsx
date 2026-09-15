@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import type { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import type { RoleId } from "akasha/temper/character-source/modules/character-roles/character-roles.module.code.ts"
 import type { useCompletionCharactersByUser } from "akasha/temper/player-completion-ui/modules/use-completion/use-completion.module.code.ts"

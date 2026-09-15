@@ -1,9 +1,9 @@
 "use client"
 
-import { BadgeRow } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
-import { COLUMN_WIDTH } from "akasha/design/interfaces/layout/modules/layout-data/layout-data.module.code.ts"
-import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
+import { BadgeRow } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
+import { COLUMN_WIDTH } from "akasha/design/interface/design-interfaces-layout/modules/layout-data/layout-data.module.code.ts"
+import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { sortEffectsByCategory } from "akasha/temper/companions-core/modules/companion-effect-category/companion-effect-category.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import { extractSkillTiming } from "akasha/temper/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"

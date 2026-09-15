@@ -1,6 +1,6 @@
 "use client"
 
-import { LayoutLink } from "akasha/design/interfaces/layout/modules/router-context/router-context.module.code.tsx"
+import { LayoutLink } from "akasha/design/interface/design-interfaces-layout/modules/router-context/router-context.module.code.tsx"
 import {
   Empty,
   EmptyContent,
@@ -8,12 +8,12 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import {
   Card,
   CardContent,
-} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
 import type { PlanEmptyState } from "akasha/temper/web/modules/characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
 import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { Gamepad2, Loader2 } from "lucide-react"

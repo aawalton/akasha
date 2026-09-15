@@ -1,12 +1,12 @@
 "use client"
 
-import { Input } from "akasha/design/interfaces/primitives/modules/input/input.module.code.tsx"
+import { Input } from "akasha/design/interface/design-interfaces-primitives/modules/input/input.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
-import { useDebouncedValue } from "akasha/design/interfaces/primitives/modules/use-debounced-value/use-debounced-value.module.code.ts"
+} from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
+import { useDebouncedValue } from "akasha/design/interface/design-interfaces-primitives/modules/use-debounced-value/use-debounced-value.module.code.ts"
 import type { PageResolverValue } from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useRelationPicker } from "akasha/page/ui/context/modules/relation-picker-context/relation-picker-context.module.code.tsx"
 import { Plus, X } from "lucide-react"

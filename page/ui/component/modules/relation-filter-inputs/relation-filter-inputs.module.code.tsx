@@ -1,11 +1,11 @@
 "use client"
 
-import { InputBadge } from "akasha/design/interfaces/design-interface-badge/modules/input-badge/input-badge.module.code.tsx"
+import { InputBadge } from "akasha/design/interface/badge/modules/input-badge/input-badge.module.code.tsx"
+import { useDebouncedValue } from "akasha/design/interface/design-interfaces-primitives/modules/use-debounced-value/use-debounced-value.module.code.ts"
 import {
   SearchMultiSelect,
   type SearchMultiSelectItem,
-} from "akasha/design/interfaces/design-interface-form/modules/search-multi-select/search-multi-select.module.code.tsx"
-import { useDebouncedValue } from "akasha/design/interfaces/primitives/modules/use-debounced-value/use-debounced-value.module.code.ts"
+} from "akasha/design/interface/form/modules/search-multi-select/search-multi-select.module.code.tsx"
 import type { FilterOperator } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import type { PageFilterDimension } from "akasha/page/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"

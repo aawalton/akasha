@@ -4,14 +4,14 @@ import type { SupabaseUser } from "akasha/alan/harness/supabase-auth/modules/sup
 import {
   PageLayout,
   PageTitle,
-} from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+} from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
+import { tabbedPageSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import {
   PageTabsTrigger,
   Tabs,
   TabsList,
-} from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
-import { useFilterPersistence } from "akasha/design/interfaces/patterns/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
+} from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
+import { useFilterPersistence } from "akasha/design/interface/design-interfaces-patterns/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { AccountTab } from "akasha/temper/web/modules/account-tab/account-tab.module.code.tsx"
 import { AutomationTab } from "akasha/temper/web/modules/automation-tab/automation-tab.module.code.tsx"
 import { InventoryTab } from "akasha/temper/web/modules/inventory-tab/inventory-tab.module.code.tsx"

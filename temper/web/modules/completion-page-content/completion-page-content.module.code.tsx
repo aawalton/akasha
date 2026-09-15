@@ -1,23 +1,23 @@
 "use client"
 
-import type { BadgeToggleGroupItem } from "akasha/design/interfaces/design-interface-badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type { BadgeToggleGroupItem } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import {
   PageLayout,
   PageLayoutSkeleton,
   PageTitle,
   PageTitleBadges,
-} from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { scrollToCard } from "akasha/design/interfaces/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
-import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
-import type { SortDirection } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
+} from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
+import { scrollToCard } from "akasha/design/interface/design-interfaces-layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
+import { tabbedPageSkeleton } from "akasha/design/interface/design-interfaces-layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
 import {
   PageTabsTrigger,
   Tabs,
   TabsList,
-} from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
-import { useDebouncedValue } from "akasha/design/interfaces/primitives/modules/use-debounced-value/use-debounced-value.module.code.ts"
-import { useKeyboardBinding } from "akasha/design/interfaces/primitives/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
+} from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
+import { useDebouncedValue } from "akasha/design/interface/design-interfaces-primitives/modules/use-debounced-value/use-debounced-value.module.code.ts"
+import { useKeyboardBinding } from "akasha/design/interface/design-interfaces-primitives/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import {
   ACTIVITY_CATEGORIES,
@@ -56,6 +56,15 @@ import { useCompletionFilters } from "akasha/temper/web/modules/use-completion-f
 import { useCompletionProgress } from "akasha/temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts"
 import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef } from "react"
+
+function skeletonFor(initialTab: string | undefined) {
+  return tabbedPageSkeleton({
+    initialTab,
+    defaultTab: "summary",
+    tabs: ["summary", "account", "characters", "companions"],
+    titleWidth: 140,
+  })
+}
 
 interface CompletionPageContentProps {
   viewUserId?: string
@@ -264,16 +273,7 @@ export function CompletionPageContent({
   const isOwnEmpty = viewUserId == null && !hasMeasuredData
 
   if (isLoading) {
-    return (
-      <PageLayoutSkeleton
-        config={tabbedPageSkeleton({
-          initialTab: values.tab,
-          defaultTab: "summary",
-          tabs: ["summary", "account", "characters", "companions"],
-          titleWidth: 140,
-        })}
-      />
-    )
+    return <PageLayoutSkeleton config={skeletonFor(values.tab)} />
   }
 
   if (isViewEmpty) {
@@ -288,14 +288,7 @@ export function CompletionPageContent({
     <CompletionActivityModeContext.Provider value={values.debug}>
       <CompletionSearchContext.Provider value={debouncedSearch}>
         <CompletionToolbarProvider value={toolbar}>
-          <PageLayout
-            skeleton={tabbedPageSkeleton({
-              titleWidth: 140,
-              initialTab,
-              defaultTab: "summary",
-              tabs: ["summary", "account", "characters", "companions"],
-            })}
-          >
+          <PageLayout skeleton={skeletonFor(initialTab)}>
             <PageLayout.Header>
               <div className="flex min-w-0 items-center gap-4">
                 {viewUserId == null && (

@@ -1,12 +1,12 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import {
   PageTabHeader,
   PageTabTitleBadges,
-} from "akasha/design/interfaces/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
-import { PaginatedCardGrid } from "akasha/design/interfaces/layout/modules/paginated-card-grid/paginated-card-grid.module.code.tsx"
-import { PanelToggleProvider } from "akasha/design/interfaces/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-layout/modules/page-tab-header/page-tab-header.module.code.tsx"
+import { PaginatedCardGrid } from "akasha/design/interface/design-interfaces-layout/modules/paginated-card-grid/paginated-card-grid.module.code.tsx"
+import { PanelToggleProvider } from "akasha/design/interface/design-interfaces-layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import {
   Empty,
   EmptyContent,
@@ -14,18 +14,18 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/interfaces/patterns/modules/empty/empty.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-patterns/modules/empty/empty.module.code.tsx"
 import {
   searchChanging,
   sortChanging,
-} from "akasha/design/interfaces/patterns/modules/filter-changing/filter-changing.module.code.ts"
-import type { SortDirection } from "akasha/design/interfaces/patterns/modules/sort-types/sort-types.module.code.ts"
-import { TabsContent } from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-patterns/modules/filter-changing/filter-changing.module.code.ts"
+import type { SortDirection } from "akasha/design/interface/design-interfaces-patterns/modules/sort-types/sort-types.module.code.ts"
+import { TabsContent } from "akasha/design/interface/design-interfaces-patterns/modules/tabs/tabs.module.code.tsx"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import {
   Card,
   CardContent,
-} from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
+} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
 import { getCompanionName } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import { CompanionListCardWithHandle } from "akasha/temper/web/modules/companion-list-card-with-handle/companion-list-card-with-handle.module.code.tsx"
 import {

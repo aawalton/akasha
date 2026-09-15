@@ -1237,11 +1237,11 @@
 {"propertySlug":"invariant-kind","path":"command/pages/track/session/split/track-session-split.command.ts","id":"01a07979-7fe5-72fa-8982-e069a28c90c2"}
 {"propertySlug":"invariant-kind","path":"command/pages/track/session/switch/track-session-switch.command.ts","id":"01a07979-7e5f-7249-9356-fdb1cc6b9acc"}
 {"propertySlug":"invariant-kind","path":"command/pages/track/weight/track-weight.command.ts","id":"01a07bfe-36da-7166-8f06-6fa75c6f8c29"}
-{"propertySlug":"invariant-kind","path":"design/interfaces/design-interface-token/design-interface-token.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}
-{"propertySlug":"invariant-kind","path":"design/interfaces/patterns/modules/drag-hold/drag-hold.module.ts","id":"01a09093-a35f-7798-8306-75a6528275cb"}
-{"propertySlug":"invariant-kind","path":"design/interfaces/patterns/modules/query-error-boundary/query-error-boundary.module.ts","id":"01a061ed-653b-73ef-8556-969d798ee2a5"}
-{"propertySlug":"invariant-kind","path":"design/interfaces/primitives/modules/use-number-draft/use-number-draft.module.ts","id":"01a08e03-e1bc-73b8-a5dc-0d022694948e"}
-{"propertySlug":"invariant-kind","path":"design/interfaces/system/design-interfaces-system.domain.ts","id":"01a05c95-564a-7ba2-ab36-d818c559b389"}
+{"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-patterns/modules/drag-hold/drag-hold.module.ts","id":"01a09093-a35f-7798-8306-75a6528275cb"}
+{"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-patterns/modules/query-error-boundary/query-error-boundary.module.ts","id":"01a061ed-653b-73ef-8556-969d798ee2a5"}
+{"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-primitives/modules/use-number-draft/use-number-draft.module.ts","id":"01a08e03-e1bc-73b8-a5dc-0d022694948e"}
+{"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-system/design-interfaces-system.domain.ts","id":"01a05c95-564a-7ba2-ab36-d818c559b389"}
+{"propertySlug":"invariant-kind","path":"design/interface/token/design-interface-token.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}
 {"propertySlug":"invariant-kind","path":"design/language/design-language.domain.ts","id":"01a06600-0000-7000-8000-000000000003"}
 {"propertySlug":"invariant-kind","path":"design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.ts","id":"01a0818b-cd49-79f1-95e9-0b5ce73c5bb7"}
 {"propertySlug":"invariant-kind","path":"domain/context/modules/agent-stated/agent-stated.module.ts","id":"01a0582a-d9ef-72d5-a4df-56bca58d3005"}

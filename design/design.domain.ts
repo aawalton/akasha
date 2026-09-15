@@ -5,7 +5,7 @@ export const design = {
   type: "domain",
   slug: "design",
   definition: "how something is done well",
-  parts: ["domain/design-game", "domain/design-interfaces", "domain/design-language"],
+  parts: ["domain/design-game", "domain/design-interface", "domain/design-language"],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

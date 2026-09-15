@@ -2,9 +2,9 @@ import type { GameState } from "akasha/alan/harness/idle-system/modules/idle-sta
 import { deriveApotheosisView } from "akasha/alan/web/modules/idle-display/idle-display.module.code.ts"
 import { ErrorMessage } from "akasha/alan/web/modules/idle-error-message/idle-error-message.module.code.tsx"
 import type { IdleActions } from "akasha/alan/web/modules/use-idle-actions/use-idle-actions.module.code.ts"
-import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
+import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
 
 export function ApotheosisPanel({ state, actions }: { state: GameState; actions: IdleActions }) {
   const surface = useSurface()

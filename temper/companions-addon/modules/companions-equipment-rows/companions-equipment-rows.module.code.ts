@@ -5,11 +5,11 @@ import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import { GREEN } from "akasha/design/interfaces/design-interface-token/modules/semantic-color/semantic-color.module.code.ts"
+import { GREEN } from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
 import {
   TEXT_PRIMARY,
   TEXT_SECONDARY,
-} from "akasha/design/interfaces/design-interface-token/modules/text-color/text-color.module.code.ts"
+} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 
 export const TWO_HANDED_TYPES: Record<number, boolean> = {
   [WEAPONTYPE_TWO_HANDED_SWORD]: true,

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { colorNamed } from "akasha/code/editor/extension/modules/palette/palette.module.code.ts"
-import { chalk } from "akasha/design/interfaces/color/pages/chalk.color.ts"
+import { chalk } from "akasha/design/interface/color/pages/chalk.color.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 

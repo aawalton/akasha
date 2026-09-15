@@ -42,7 +42,7 @@
 {"propertySlug":"invariant-kind","path":"command/pages/read/modules/output-reaching/output-reaching.module.ts","id":"01a08fb0-4c21-7a4e-b2f6-9d4a71c3e8b5"}
 {"propertySlug":"invariant-kind","path":"command/pages/temper/inventory/rule/show/temper-inventory-rule-show.command.ts","id":"01a0603c-c1d8-7a9c-b7d3-8fab0e6c8abf"}
 {"propertySlug":"invariant-kind","path":"command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.ts","id":"01a0603c-c1d9-7ef8-acb9-f19095076d6e"}
-{"propertySlug":"invariant-kind","path":"design/interfaces/primitives/design-interfaces-primitives.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}
+{"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-primitives/design-interfaces-primitives.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}
 {"propertySlug":"invariant-kind","path":"domain/champion/domain-champion.domain.ts","id":"01a0675b-16de-790e-8eea-52afc2046700"}
 {"propertySlug":"invariant-kind","path":"git/git.domain.ts","id":"01a05d7f-23fc-7000-b2b7-266f4611121a"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.ts","id":"01a05b27-a75c-7fab-a630-6d98b13144e1"}

@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interface/design-interfaces-layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
 import type { MundusId } from "akasha/temper/character-source/modules/mundus-source/mundus-source.module.code.ts"
 import { AttributesPanelCard } from "akasha/temper/web/modules/attributes-panel-card/attributes-panel-card.module.code.tsx"

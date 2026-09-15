@@ -4,17 +4,17 @@ import {
   searchResponseSchema,
 } from "akasha/alan/atlas-web/modules/place-candidate/place-candidate.module.code.ts"
 import {
+  PageLayout,
+  PageTitle,
+} from "akasha/design/interface/design-interfaces-layout/modules/page-layout/page-layout.module.code.tsx"
+import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
+import { Card } from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
+import {
   InputGroup,
   InputGroupAddon,
   InputGroupButton,
   InputGroupInput,
-} from "akasha/design/interfaces/design-interface-form/modules/input-group/input-group.module.code.tsx"
-import {
-  PageLayout,
-  PageTitle,
-} from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { Button } from "akasha/design/interfaces/primitives/modules/button/button.module.code.tsx"
-import { Card } from "akasha/design/interfaces/primitives/modules/card/card.module.code.tsx"
+} from "akasha/design/interface/form/modules/input-group/input-group.module.code.tsx"
 import { Search } from "lucide-react"
 import { useState } from "react"
 import { Link } from "react-router"

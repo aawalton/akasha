@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "akasha/design/interfaces/design-interface-badge/modules/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import { canClassEquipSet } from "akasha/temper/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.code.ts"
 import {
   createSetSelectConfig,
