@@ -19,9 +19,10 @@ import {
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
+import { alanwaltonWeb } from "akasha/infrastructure/service/cluster/pages/alanwalton-web/alanwalton-web.service-cluster.ts"
 
-const NAMESPACE = "alanwalton"
-const APP_NAME = "web"
+const NAMESPACE = alanwaltonWeb.namespace
+const APP_NAME = alanwaltonWeb.resourceName
 const SECRET_NAME = "alanwalton-secrets"
 const S3_CREDS_SECRET_NAME = "alanwalton-s3-creds"
 
@@ -98,7 +99,7 @@ function webDeploymentYaml(): string {
     kind: "Deployment",
     metadata: { name: APP_NAME, namespace: NAMESPACE, labels: RESOURCE_LABELS },
     spec: {
-      replicas: 1,
+      replicas: alanwaltonWeb.replicas,
       strategy: {
         type: "RollingUpdate",
         rollingUpdate: { maxSurge: 1, maxUnavailable: 0 },
@@ -132,13 +133,13 @@ function webDeploymentYaml(): string {
               imagePullPolicy: "IfNotPresent",
               workingDir: orchestratorCacheEntrypointPath("alan/web"),
               command: ["bun", "run", "server.ts"],
-              ports: [{ containerPort: 3000, protocol: "TCP" }],
+              ports: [{ containerPort: alanwaltonWeb.containerPort, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],
               env: [
                 { name: "NODE_ENV", value: "production" },
                 { name: "AKASHA_ROOT", value: ORCHESTRATOR_CACHE_REPO_PATH },
                 { name: "HOST", value: "0.0.0.0" },
-                { name: "PORT", value: "3000" },
+                { name: "PORT", value: `${alanwaltonWeb.containerPort}` },
                 { name: "PAGE_WRITER", value: "alanwalton-web" },
                 { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
                 { name: "SUPABASE_URL", value: "https://supabase.alanwalton.com" },
@@ -174,14 +175,14 @@ function webDeploymentYaml(): string {
                 capabilities: { drop: ["ALL"] },
               },
               livenessProbe: {
-                httpGet: { path: "/api/health", port: 3000 },
+                httpGet: { path: "/api/health", port: alanwaltonWeb.containerPort },
                 initialDelaySeconds: 15,
                 periodSeconds: 10,
                 failureThreshold: 6,
                 timeoutSeconds: 5,
               },
               readinessProbe: {
-                httpGet: { path: "/api/health", port: 3000 },
+                httpGet: { path: "/api/health", port: alanwaltonWeb.containerPort },
                 initialDelaySeconds: 5,
                 periodSeconds: 5,
                 failureThreshold: 12,
