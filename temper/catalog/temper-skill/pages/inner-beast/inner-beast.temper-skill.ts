@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const innerBeast = {
   id: "019e6238-c2cc-71e9-9639-3b9eabf32566",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "inner-beast",
   title: "Inner Beast",
   key: "inner-beast",

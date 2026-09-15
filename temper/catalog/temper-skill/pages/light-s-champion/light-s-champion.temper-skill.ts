@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const lightSChampion = {
   id: "019e6f53-a3f4-71b9-8396-763024a2ac83",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "light-s-champion",
   title: "Light's Champion",
   key: "light-s-champion",

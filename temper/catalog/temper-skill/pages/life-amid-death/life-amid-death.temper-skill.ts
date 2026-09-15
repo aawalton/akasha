@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const lifeAmidDeath = {
   id: "019e6f53-a3e1-75ae-9417-cfc79612ead3",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "life-amid-death",
   title: "Life amid Death",
   key: "life-amid-death",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const impale = {
   id: "019e6245-a6af-73a6-850b-c8afe8fd77bd",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "impale",
   title: "Impale",
   key: "impale",

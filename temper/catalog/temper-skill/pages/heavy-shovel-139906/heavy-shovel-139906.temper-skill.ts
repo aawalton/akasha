@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const heavyShovel139906 = {
   id: "019e6f53-a304-7e52-af7e-3da172003f6a",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "heavy-shovel-139906",
   title: "Heavy Shovel",
   key: "heavy-shovel-139906",

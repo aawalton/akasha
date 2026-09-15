@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const lotusFan = {
   id: "019e6245-a6c1-7f60-b263-e4f51d36adda",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "lotus-fan",
   title: "Lotus Fan",
   key: "lotus-fan",

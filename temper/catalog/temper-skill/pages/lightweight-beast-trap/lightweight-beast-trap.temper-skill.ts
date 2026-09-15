@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const lightweightBeastTrap = {
   id: "019e6238-c2e2-7e88-aa46-ef6b1a3ea2a0",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "lightweight-beast-trap",
   title: "Lightweight Beast Trap",
   key: "lightweight-beast-trap",

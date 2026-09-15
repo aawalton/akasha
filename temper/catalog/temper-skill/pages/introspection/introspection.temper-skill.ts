@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const introspection = {
   id: "019e6238-c2d0-7052-b8d0-4b79ff7bc98d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "introspection",
   title: "Introspection",
   key: "introspection",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const keenEyeOre47854 = {
   id: "019e6f53-a3a3-7fc0-b4b8-dae15fefbf53",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "keen-eye-ore-47854",
   title: "Keen Eye: Ore",
   key: "keen-eye-ore-47854",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const iceComet = {
   id: "019e6238-c2c8-7408-bf3e-838073ad3ad3",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "ice-comet",
   title: "Ice Comet",
   key: "ice-comet",

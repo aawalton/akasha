@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hunterSEye = {
   id: "019e6f53-a330-757a-a035-d0a3a682b611",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "hunter-s-eye",
   title: "Hunter's Eye",
   key: "hunter-s-eye",

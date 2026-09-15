@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const innerFire = {
   id: "019e6f53-a378-71d4-bf4f-390e5faa86c9",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "inner-fire",
   title: "Inner Fire",
   key: "inner-fire",

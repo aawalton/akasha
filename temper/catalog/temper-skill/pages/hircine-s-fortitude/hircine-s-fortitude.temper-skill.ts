@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hircineSFortitude = {
   id: "019e6f53-a31d-73d2-845d-49c21e75b1c7",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "hircine-s-fortitude",
   title: "Hircine's Fortitude",
   key: "hircine-s-fortitude",

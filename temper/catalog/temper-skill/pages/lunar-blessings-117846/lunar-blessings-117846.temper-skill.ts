@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const lunarBlessings117846 = {
   id: "019e6f53-a42a-798e-9207-8fda0c9f0ccb",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "lunar-blessings-117846",
   title: "Lunar Blessings",
   key: "lunar-blessings-117846",

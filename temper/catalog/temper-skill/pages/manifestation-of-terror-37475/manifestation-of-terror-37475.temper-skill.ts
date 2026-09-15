@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const manifestationOfTerror37475 = {
   id: "019e6f53-a453-7ede-b012-277e01cd4d0a",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "manifestation-of-terror-37475",
   title: "Manifestation of Terror",
   key: "manifestation-of-terror-37475",

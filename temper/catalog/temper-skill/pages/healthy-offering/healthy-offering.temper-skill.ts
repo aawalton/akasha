@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const healthyOffering = {
   id: "019e6245-a6a1-7e8b-a8ae-8556282f4e6b",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "healthy-offering",
   title: "Healthy Offering",
   key: "healthy-offering",

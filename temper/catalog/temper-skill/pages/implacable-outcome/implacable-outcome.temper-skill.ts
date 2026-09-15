@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const implacableOutcome = {
   id: "019e6245-a6b1-74e9-9dfa-89614414ec6c",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "implacable-outcome",
   title: "Implacable Outcome",
   key: "implacable-outcome",

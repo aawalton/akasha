@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const lightningForm = {
   id: "019e6f53-a3fb-7ca2-a51a-f5cb2efc902d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "lightning-form",
   title: "Lightning Form",
   key: "lightning-form",

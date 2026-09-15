@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hircineSBounty = {
   id: "019e6f53-a31b-7fe9-94e1-e94e6a0ef8e6",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "hircine-s-bounty",
   title: "Hircine's Bounty",
   key: "hircine-s-bounty",

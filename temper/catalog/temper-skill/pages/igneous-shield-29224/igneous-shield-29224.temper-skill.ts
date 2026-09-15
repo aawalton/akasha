@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const igneousShield29224 = {
   id: "019e6f53-a349-7145-a1a3-0c1c34929a21",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "igneous-shield-29224",
   title: "Igneous Shield",
   key: "igneous-shield-29224",

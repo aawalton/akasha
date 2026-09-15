@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const heartOfFlame = {
   id: "019e6f53-a2f9-722e-9dc6-a1a2ef6c51ad",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "heart-of-flame",
   title: "Heart of Flame",
   key: "heart-of-flame",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const imperialMettle36153 = {
   id: "019e6f53-a35e-77d0-9f0f-564266ca6873",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "imperial-mettle-36153",
   title: "Imperial Mettle",
   key: "imperial-mettle-36153",

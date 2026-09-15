@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const juggernaut = {
   id: "019e6238-c2d2-7ed3-9fc3-02945e21f2b6",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "juggernaut",
   title: "Juggernaut",
   key: "juggernaut",

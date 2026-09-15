@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const heavyWeapons = {
   id: "019e6226-00fa-71c2-b576-93bed9fe5ad1",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "heavy-weapons",
   title: "Heavy Weapons",
   key: "heavy-weapons",

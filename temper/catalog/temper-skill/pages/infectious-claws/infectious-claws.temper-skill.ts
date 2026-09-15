@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const infectiousClaws = {
   id: "019e6f53-a372-76d7-90a4-d335d351ba9f",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "infectious-claws",
   title: "Rending Claws",
   key: "infectious-claws",

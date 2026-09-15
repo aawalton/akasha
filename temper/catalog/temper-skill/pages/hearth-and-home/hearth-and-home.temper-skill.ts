@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hearthAndHome = {
   id: "019e6f53-a2fb-7e01-8bb3-219634fd59a5",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "hearth-and-home",
   title: "Hearth and Home",
   key: "hearth-and-home",

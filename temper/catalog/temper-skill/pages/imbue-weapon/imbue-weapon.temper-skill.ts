@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const imbueWeapon = {
   id: "019e6f53-a353-7d4e-b18e-aa361c43e328",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "imbue-weapon",
   title: "Imbue Weapon",
   key: "imbue-weapon",

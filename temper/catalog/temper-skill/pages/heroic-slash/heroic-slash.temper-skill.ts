@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const heroicSlash = {
   id: "019e6226-00fa-7ee6-83ff-916e3c19cfe6",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "heroic-slash",
   title: "Heroic Slash",
   key: "heroic-slash",

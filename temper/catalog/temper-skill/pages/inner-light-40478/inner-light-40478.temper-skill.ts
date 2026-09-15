@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const innerLight40478 = {
   id: "019e6f53-a37b-75bd-b1b6-21702ce023fd",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "inner-light-40478",
   title: "Inner Light",
   key: "inner-light-40478",

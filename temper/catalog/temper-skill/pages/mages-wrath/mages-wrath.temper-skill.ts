@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const magesWrath = {
   id: "019e6245-a6c4-7105-bb25-54086c8316b8",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "mages-wrath",
   title: "Mages' Wrath",
   key: "mages-wrath",

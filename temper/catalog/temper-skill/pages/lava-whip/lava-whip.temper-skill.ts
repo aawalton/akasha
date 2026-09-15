@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const lavaWhip = {
   id: "019e6f53-a3c3-783b-862a-fec6759449c2",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "lava-whip",
   title: "Lava Whip",
   key: "lava-whip",

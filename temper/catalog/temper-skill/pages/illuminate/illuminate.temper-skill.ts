@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const illuminate = {
   id: "019e6245-a6ae-73a6-9d83-bcaddfa4e855",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "illuminate",
   title: "Illuminate",
   key: "illuminate",

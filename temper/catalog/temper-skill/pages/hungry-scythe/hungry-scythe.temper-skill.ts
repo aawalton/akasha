@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hungryScythe = {
   id: "019e6245-a6a8-7109-b7f7-39367708b043",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "hungry-scythe",
   title: "Hungry Scythe",
   key: "hungry-scythe",

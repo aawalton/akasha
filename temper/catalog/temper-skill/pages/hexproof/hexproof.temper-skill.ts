@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hexproof = {
   id: "019e6245-a6a4-7fbc-b1ab-59825e996907",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "hexproof",
   title: "Hexproof",
   key: "hexproof",

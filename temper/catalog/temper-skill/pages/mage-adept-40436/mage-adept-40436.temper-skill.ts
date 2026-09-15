@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const mageAdept40436 = {
   id: "019e6f53-a42d-7d11-a900-f6b9a603eb13",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "mage-adept-40436",
   title: "Mage Adept",
   key: "mage-adept-40436",

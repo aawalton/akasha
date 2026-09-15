@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const heavyArmorBonuses = {
   id: "019e6238-c2c5-7b17-86e4-790aab88de91",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "heavy-armor-bonuses",
   title: "Heavy Armor Bonuses",
   key: "heavy-armor-bonuses",
