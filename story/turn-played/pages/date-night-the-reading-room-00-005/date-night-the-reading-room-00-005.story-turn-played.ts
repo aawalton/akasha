@@ -2,7 +2,7 @@ import type { StoryTurnPlayed } from "akasha/story/turn-played/story-turn-played
 
 export const dateNightTheReadingRoom00005 = {
   id: "01a064bd-7cc6-77b9-bf49-7d401bfc3a03",
-  type: "story-turn-played",
+  type: "page-type/story-turn-played",
   slug: "date-night-the-reading-room-00-005",
   partOfCollections: ["story-played/date-night-the-reading-room"],
   position: 5,

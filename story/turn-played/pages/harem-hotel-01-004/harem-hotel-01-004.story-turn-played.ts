@@ -2,7 +2,7 @@ import type { StoryTurnPlayed } from "akasha/story/turn-played/story-turn-played
 
 export const haremHotel01004 = {
   id: "01a064bd-7cca-78b4-a7d4-dd94483020fc",
-  type: "story-turn-played",
+  type: "page-type/story-turn-played",
   slug: "harem-hotel-01-004",
   partOfCollections: ["story-played/harem-hotel"],
   position: 4,

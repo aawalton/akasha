@@ -2,7 +2,7 @@ import type { StoryTurnPlayed } from "akasha/story/turn-played/story-turn-played
 
 export const theVioletHour00002 = {
   id: "01a064bd-7cd0-7576-8446-0203a6947ea7",
-  type: "story-turn-played",
+  type: "page-type/story-turn-played",
   slug: "the-violet-hour-00-002",
   partOfCollections: ["story-played/the-violet-hour"],
   position: 2,
