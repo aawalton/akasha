@@ -2,7 +2,7 @@ import type { TemperJewelryTrait } from "akasha/temper/catalog/temper-gear/tempe
 
 export const robust = {
   id: "019e5b97-6d93-7d2a-a0f9-b218db3d4370",
-  type: "temper-jewelry-trait",
+  type: "page-type/temper-jewelry-trait",
   slug: "robust",
   title: "Robust",
   key: "robust",

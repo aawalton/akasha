@@ -2,7 +2,7 @@ import type { TemperJewelryTrait } from "akasha/temper/catalog/temper-gear/tempe
 
 export const swift = {
   id: "019e5b97-6d95-75b3-a895-c8f82be3f293",
-  type: "temper-jewelry-trait",
+  type: "page-type/temper-jewelry-trait",
   slug: "swift",
   title: "Swift",
   key: "swift",

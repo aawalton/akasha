@@ -2,7 +2,7 @@ import type { TemperJewelryTrait } from "akasha/temper/catalog/temper-gear/tempe
 
 export const harmony = {
   id: "019e5b97-6d8a-77b7-8303-2086b16d9817",
-  type: "temper-jewelry-trait",
+  type: "page-type/temper-jewelry-trait",
   slug: "harmony",
   title: "Harmony",
   key: "harmony",

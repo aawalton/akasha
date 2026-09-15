@@ -2,7 +2,7 @@ import type { TemperJewelryTrait } from "akasha/temper/catalog/temper-gear/tempe
 
 export const arcane = {
   id: "019e5b97-6d83-7436-af5e-2eba1e7e972e",
-  type: "temper-jewelry-trait",
+  type: "page-type/temper-jewelry-trait",
   slug: "arcane",
   title: "Arcane",
   key: "arcane",
