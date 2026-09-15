@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const javelinThrower = {
   id: "01a0657e-1377-7e6b-b360-80d805206b9e",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "javelin-thrower",
   title: "Javelin Thrower",
   world: "world/the-wandering-inn",

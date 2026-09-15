@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const immortal = {
   id: "01a0657e-1376-751d-b322-ffad0bab1ecc",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "immortal",
   title: "Immortal",
   world: "world/the-wandering-inn",
