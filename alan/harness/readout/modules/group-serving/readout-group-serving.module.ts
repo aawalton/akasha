@@ -290,6 +290,14 @@ export const readoutGroupServing = {
       statement: "A store set up again holds nothing written to the store before it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading a test relays is kept beside the readout's own path in the store.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A test drops every reading the store holds without setting that store up again.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here takes a reading.",
     },

@@ -1,6 +1,4 @@
-{"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.test.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/harness/inbox/modules/count-watch/inbox-count-watch.module.code.ts"}
-{"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.test.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"}
@@ -9,7 +7,6 @@
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/harness/readout/modules/serving/readout-serving.module.test.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/harness/readout/modules/watching/readout-watching.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/harness/readout/modules/watching/readout-watching.module.test.ts"}
-{"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/web/routes/attribute-stoplights/attribute-stoplights.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/web/routes/cost/cost.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/web/routes/readout-relay/readout-relay.route.code.ts"}
@@ -21,11 +18,6 @@
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"product/smilingjenny/web/routes/jenny-safety-level/jenny-safety-level.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"product/smilingjenny/web/routes/jenny-surplus/jenny-surplus.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.test.ts"}
-{"propertySlug":"import","fileName":"readout-relay.module.test-fixtures.ts","path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.test.ts"}
-{"propertySlug":"import","fileName":"readout-relay.module.test-fixtures.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"readout-relay.module.test-fixtures.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test.ts"}
-{"propertySlug":"import","fileName":"readout-relay.module.test-fixtures.ts","path":"alan/harness/readout/modules/serving/readout-serving.module.test.ts"}
-{"propertySlug":"import","fileName":"readout-relay.module.test-fixtures.ts","path":"alan/web/routes/attribute-stoplights/attribute-stoplights.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.test-fixtures.ts","path":"alan/web/routes/cost/cost.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.test-fixtures.ts","path":"alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-relay.module.test-fixtures.ts","path":"alan/web/routes/safety-level/safety-level.route.test.ts"}

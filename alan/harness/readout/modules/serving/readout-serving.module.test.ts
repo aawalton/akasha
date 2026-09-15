@@ -1,17 +1,21 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { RING_CREDENTIAL_HEADER } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
+  readingsDropped,
+  relayedFor,
+  servingStore,
+  storeGoes,
+} from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
+import {
   dropRelayed,
   holdRelayed,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
-import { relayedFor } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"
 import {
   answerReadout,
   answerReadoutAdmittedBy,
   readingHeldOn,
   relayedFresh,
 } from "akasha/alan/harness/readout/modules/serving/readout-serving.module.code.ts"
-import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const CREDENTIAL = "a-ring-credential-named-only-in-this-test"
 
@@ -26,7 +30,6 @@ const TAKEN = "2026-08-31T12:00:00.000Z"
 let store: ReturnType<typeof Bun.serve>
 let server: ReturnType<typeof Bun.serve>
 let origin: string
-let heldOrigin: string | undefined
 
 const READOUT_ROW = {
   slug: READOUT,
@@ -41,16 +44,7 @@ const SCALE_ROW = { slug: SCALE, yellowAt: 1, orangeAt: 11, redAt: 21, blackAt: 
 const ANSWERED: { rows: readonly Record<string, unknown>[] } = { rows: [READOUT_ROW] }
 
 beforeAll(() => {
-  store = Bun.serve({
-    port: 0,
-    fetch: async (request) => {
-      const asked = (await request.json()) as { pageTypeSlug: string }
-      if (asked.pageTypeSlug === "readout") return Response.json({ rows: ANSWERED.rows })
-      return Response.json({ rows: [SCALE_ROW] })
-    },
-  })
-  heldOrigin = optionalEnv("PAGES_SERVICE_ORIGIN")
-  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
+  store = servingStore((asked) => (asked.pageTypeSlug === "readout" ? ANSWERED.rows : [SCALE_ROW]))
   server = Bun.serve({
     port: 0,
     fetch: (request) => answerReadout(request, CREDENTIAL, READOUT),
@@ -60,13 +54,12 @@ beforeAll(() => {
 
 afterAll(() => {
   server.stop()
-  store.stop(true)
-  if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
-  else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
+  storeGoes(store)
 })
 
 beforeEach(() => {
   dropRelayed()
+  readingsDropped()
   ANSWERED.rows = [READOUT_ROW]
 })
 
@@ -158,7 +151,7 @@ test("a reading long past the moment it was taken is still the reading answered"
 
 test("a machine that starts again holds no reading", async () => {
   relayedFor(READOUT, 41)
-  dropRelayed()
+  readingsDropped()
   expect((await ring(CREDENTIAL)).status).toBe(503)
 })
 
@@ -229,7 +222,7 @@ test("a reading of nothing carried on a row is a reading rather than an absence"
 test("nothing between here and the tile is allowed to keep an answer", async () => {
   relayedFor(READOUT, 41)
   expect((await ring(CREDENTIAL)).headers.get("Cache-Control")).toBe("no-store")
-  dropRelayed()
+  readingsDropped()
   expect((await ring(CREDENTIAL)).headers.get("Cache-Control")).toBe("no-store")
   expect((await ring()).headers.get("Cache-Control")).toBe("no-store")
 })

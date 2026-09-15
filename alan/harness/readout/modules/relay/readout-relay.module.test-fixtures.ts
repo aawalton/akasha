@@ -1,6 +1,5 @@
 import { RELAY_SECRET_HEADER } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
-  holdRelayed,
   RELAY_PATH,
   relayReading,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
@@ -11,15 +10,6 @@ export function carryTo(to: string, secret: string, body: unknown): Promise<Resp
     headers: { "Content-Type": "application/json", [RELAY_SECRET_HEADER]: secret },
     body: JSON.stringify(body),
   })
-}
-
-export function relayedFor(
-  readout: string,
-  value: number,
-  at: Date = new Date(),
-  fallsPerHour = 0
-): undefined {
-  holdRelayed({ readout, value, at: at.toISOString(), fallsPerHour })
 }
 
 export type Relaying = (

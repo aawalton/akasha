@@ -5,13 +5,13 @@ import {
 } from "akasha/alan/harness/cost/modules/stoplight/cost-stoplight.module.code.ts"
 import type { Stoplight } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import {
-  type AskedOf,
   agedOut,
+  readingsDropped,
+  relayedFor,
   rowsAsked,
+  servingStore,
+  storeGoes,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
-import { dropRelayed } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
-import { relayedFor } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"
-import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const COST = "cost-multiplier"
 
@@ -50,32 +50,21 @@ const ANSWERED: {
 } = { readouts: [COST_ROW, SURPLUS_ROW], scales: [SCALE_ROW] }
 
 let store: ReturnType<typeof Bun.serve>
-let heldOrigin: string | undefined
 
 beforeAll(() => {
-  store = Bun.serve({
-    port: 0,
-    fetch: async (request) => {
-      const asked = (await request.json()) as AskedOf
-      if (asked.pageTypeSlug === "readout") {
-        return Response.json({ rows: rowsAsked(ANSWERED.readouts, asked.where) })
-      }
-      if (asked.pageTypeSlug === "readout-scale") return Response.json({ rows: ANSWERED.scales })
-      return Response.json({ rows: [] })
-    },
+  store = servingStore((asked) => {
+    if (asked.pageTypeSlug === "readout") return rowsAsked(ANSWERED.readouts, asked.where)
+    if (asked.pageTypeSlug === "readout-scale") return ANSWERED.scales
+    return []
   })
-  heldOrigin = optionalEnv("PAGES_SERVICE_ORIGIN")
-  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
 })
 
 afterAll(() => {
-  store.stop(true)
-  if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
-  else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
+  storeGoes(store)
 })
 
 beforeEach(() => {
-  dropRelayed()
+  readingsDropped()
   ANSWERED.readouts = [COST_ROW, SURPLUS_ROW]
   ANSWERED.scales = [SCALE_ROW]
 })
@@ -108,7 +97,7 @@ test("a cost of nothing over nothing of surplus is green", async () => {
 test("a cost of one multiplier is yellow where a cost of nothing is green", async () => {
   costing(0, 2)
   expect((await oneDrawn())?.tier).toBe("green")
-  dropRelayed()
+  readingsDropped()
   costing(1, 2)
   expect((await oneDrawn())?.tier).toBe("yellow")
 })
@@ -131,7 +120,7 @@ test("a cost of nothing beneath eight hours of debt is black", async () => {
 test("the color is read from the cost and the surplus rather than from the cost alone", async () => {
   costing(0.5, 5)
   expect((await oneDrawn())?.tier).toBe("yellow")
-  dropRelayed()
+  readingsDropped()
   costing(0.5, -5)
   expect((await oneDrawn())?.tier).toBe("red")
 })
@@ -169,7 +158,7 @@ test("a cost of zero and a cost never carried are told apart on the wire", async
   expect(carried?.reading).toBe("0")
   expect(carried?.readingHeld).toBeUndefined()
 
-  dropRelayed()
+  readingsDropped()
   relayedFor(SURPLUS, 5)
   const absent = await oneDrawn()
   expect(absent?.reading).toBe("")
@@ -198,7 +187,7 @@ test("the figure is the multiplier written as a figure", async () => {
 test("a cost above nothing is never answered blue", async () => {
   for (const multiplier of [0.5, 1, 1.5, 32]) {
     for (const hours of [-20, -6, -1, 1, 5]) {
-      dropRelayed()
+      readingsDropped()
       costing(multiplier, hours)
       expect((await oneDrawn())?.tier).not.toBe("blue")
     }

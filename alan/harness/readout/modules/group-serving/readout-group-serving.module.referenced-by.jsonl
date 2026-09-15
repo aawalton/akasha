@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"readout-group-serving.module.code.ts","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.code.ts"}
 {"propertySlug":"import","fileName":"readout-group-serving.module.test-fixtures.ts","path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.test.ts"}
 {"propertySlug":"import","fileName":"readout-group-serving.module.test-fixtures.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test.ts"}
+{"propertySlug":"import","fileName":"readout-group-serving.module.test-fixtures.ts","path":"alan/harness/readout/modules/serving/readout-serving.module.test.ts"}
 {"propertySlug":"import","fileName":"readout-group-serving.module.test-fixtures.ts","path":"alan/web/routes/attribute-stoplights/attribute-stoplights.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-group-serving.module.test-fixtures.ts","path":"alan/web/routes/cost/cost.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-group-serving.module.test-fixtures.ts","path":"alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts"}

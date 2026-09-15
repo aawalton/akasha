@@ -5,7 +5,7 @@ import {
   type Stoplight,
   stoplightsInGroup,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
-import { relayedFor } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"
+import { readingValues } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import {
@@ -282,4 +282,23 @@ export function readoutsNaming(group: string): readonly string[] {
     if (slugsIn(value[GROUPS]).includes(group)) named.push(slug)
   }
   return named.sort()
+}
+
+export function relayedFor(
+  readout: string,
+  value: number,
+  at: Date = new Date(),
+  fallsPerHour = 0
+): undefined {
+  const path = pageAt(READOUT_TYPE, readout)
+  written.set(path, {
+    ...(written.get(path) ?? {}),
+    ...readingValues({ value, at: at.toISOString(), fallsPerHour }),
+  })
+  return undefined
+}
+
+export function readingsDropped(): undefined {
+  written.clear()
+  return undefined
 }

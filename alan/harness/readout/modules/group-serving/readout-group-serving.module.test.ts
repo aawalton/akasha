@@ -20,6 +20,8 @@ import {
   oneDrawn,
   READOUT,
   READOUT_ROW,
+  readingsDropped,
+  relayedFor,
   rowReading,
   SCALE_ROW,
   servingStore,
@@ -27,8 +29,6 @@ import {
   storeGoes,
   WIRE_KEY_NAME,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
-import { dropRelayed } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
-import { relayedFor } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"
 import { readingHeldOn } from "akasha/alan/harness/readout/modules/serving/readout-serving.module.code.ts"
 
 let store: ReturnType<typeof Bun.serve>
@@ -42,7 +42,7 @@ afterAll(() => {
 })
 
 beforeEach(() => {
-  dropRelayed()
+  readingsDropped()
   answeredAfresh()
 })
 
@@ -70,7 +70,7 @@ test("every readout the group admits is answered as a stoplight", async () => {
   relayedFor(READOUT, 3, agedOut())
   expect((await stoplights()).length).toBe(1)
 
-  dropRelayed()
+  readingsDropped()
   relayedFor(READOUT, 3)
   expect((await stoplights()).length).toBe(1)
 })
@@ -100,7 +100,7 @@ test("a reading of zero is a reading rather than an absence", async () => {
   expect(carried?.reading).toBe("0")
   expect(carried?.readingHeld).toBeUndefined()
 
-  dropRelayed()
+  readingsDropped()
   const [absent] = await stoplights()
   expect(absent?.reading).toBe("")
   expect(absent?.readingHeld).toBe("none")
@@ -166,7 +166,7 @@ test("a caller naming no key for the wire key has the wire key answered under ha
 test("the key the caller names is answered first, where the key answered before it was", async () => {
   relayedFor(READOUT, 3)
   expect((await keysAnswered(WIRE_KEY_NAME))[0]).toBe(WIRE_KEY_NAME)
-  dropRelayed()
+  readingsDropped()
   relayedFor(READOUT, 3)
   expect((await keysAnswered())[0]).toBe("habit")
 })
@@ -178,7 +178,7 @@ test("the key the caller names carries a stoplight that carries no figure too", 
 
 test("a reading under ten keeps one decimal place", async () => {
   expect((await oneDrawn(2.5))?.reading).toBe("2.5")
-  dropRelayed()
+  readingsDropped()
   expect((await oneDrawn(-1.5))?.reading).toBe("-1.5")
 })
 
@@ -288,7 +288,7 @@ test("a reading on the row taken long ago is answered as the figure it holds", a
 test("nothing between here and the tile is allowed to keep an answer", async () => {
   relayedFor(READOUT, 3)
   expect((await drawn()).headers.get("Cache-Control")).toBe("no-store")
-  dropRelayed()
+  readingsDropped()
   expect((await drawn()).headers.get("Cache-Control")).toBe("no-store")
 })
 

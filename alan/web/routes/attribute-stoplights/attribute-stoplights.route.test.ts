@@ -2,17 +2,18 @@ import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import {
   colorIn,
+  readingsDropped,
   readoutsNaming,
+  relayedFor,
+  servingStore,
+  storeGoes,
   type Tile,
   tileAt,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
-import { dropRelayed } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
-import { relayedFor } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"
 import {
   GROUP,
   WIRE_KEY_NAME,
 } from "akasha/alan/web/routes/attribute-stoplights/attribute-stoplights.route.code.ts"
-import { z } from "zod"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
 
@@ -98,29 +99,16 @@ const CARRIED: readonly (readonly [string, number])[] = [
 
 const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: READOUT_ROWS }
 
-const heldEnv = z.string().optional()
-
 let store: ReturnType<typeof Bun.serve>
 let server: ReturnType<typeof Bun.serve>
-let heldOrigin: string | undefined
 let tile: Tile
 
 beforeAll(() => {
-  store = Bun.serve({
-    port: 0,
-    fetch: async (request) => {
-      const asked = (await request.json()) as {
-        pageTypeSlug: string
-        where?: { slug?: { is?: string } }
-      }
-      if (asked.pageTypeSlug === "readout") return Response.json({ rows: ANSWERED.readouts })
-      const named = asked.where?.slug?.is ?? ""
-      const scale = SCALE_ROWS[named]
-      return Response.json({ rows: scale === undefined ? [] : [scale] })
-    },
+  store = servingStore((asked) => {
+    if (asked.pageTypeSlug === "readout") return ANSWERED.readouts
+    const scale = SCALE_ROWS[asked.where?.slug?.is ?? ""]
+    return scale === undefined ? [] : [scale]
   })
-  heldOrigin = heldEnv.parse(process.env.PAGES_SERVICE_ORIGIN)
-  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
   server = Bun.serve({
     port: 0,
     fetch(request) {
@@ -136,13 +124,11 @@ beforeAll(() => {
 
 afterAll(() => {
   server.stop()
-  store.stop(true)
-  if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
-  else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
+  storeGoes(store)
 })
 
 beforeEach(() => {
-  dropRelayed()
+  readingsDropped()
   ANSWERED.readouts = READOUT_ROWS
 })
 
