@@ -159,7 +159,7 @@ export const aineResourceManagement = {
     {
       statement: "Every page has its values in a file beside it, written as that page lands.",
       workingMemory:
-        "Reading a page's properties costs 62.1us today — read the .ts, transpile, evaluate — against 4.4us from a jsonl beside it. Fifteen checks read page values, and at audit each loads 70,230 pages. Alan settled: committed, generated, one line to a property as `schema` and `referenced-by` are, written by settling as the page lands, and nothing refuses drift.",
+        "Reading a page's properties costs 62.1us — read the .ts, transpile, evaluate — against 4.4us from a jsonl beside it. Fifteen checks read page values, and at audit each loads 70,230 pages. The writer is the change landing the page, through `filingsFor` in `change-preparing`; a settle writes none. What is left is the backfill for pages landed already: `akasha index refresh` writes and commits it, but in one run, since a second finds the files on disk, sees no drift and commits nothing.",
     },
   ],
   constraints: [
