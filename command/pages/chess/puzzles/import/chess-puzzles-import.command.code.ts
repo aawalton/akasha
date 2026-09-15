@@ -29,7 +29,10 @@ import {
 } from "akasha/command/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"
 import { chessPuzzlesImport as page } from "akasha/command/pages/chess/puzzles/import/chess-puzzles-import.command.ts"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
-import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  slugOf,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const NAMED = [json, limitArgument]
@@ -53,7 +56,7 @@ function rowFor(puzzle: ParsedPuzzle, id: string): Value {
 
 function namedFor(rows: readonly Value[]): Naming {
   return {
-    pageTypeSlug: set.type,
+    pageTypeSlug: slugOf(set.type),
     slug: set.slug,
     values: { title: set.title, [PUZZLES]: rows },
   }
