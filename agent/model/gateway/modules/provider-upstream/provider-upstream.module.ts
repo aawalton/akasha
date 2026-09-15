@@ -4,7 +4,7 @@ export const providerUpstream = {
   id: "01a0a545-fe20-78a2-8aab-bd467841ffcd",
   type: "module",
   slug: "provider-upstream",
-  definition: "the base and key a gateway sends a provider a request with",
+  definition: "the base, key and model a gateway sends a provider a request with",
   code: "ts",
   test: "ts",
   invariants: [
@@ -28,6 +28,23 @@ export const providerUpstream = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "A fallback whose account holds no key is answered as none.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The model a fallback asks for is read off the provider's page.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A body is rewritten to ask for that model rather than the model the caller named.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A provider stating no model of its own is asked for what the caller named.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A body nothing here can rewrite is sent as that body came.",
     },
     {
       invariantKind: "invariant-kind/departure",

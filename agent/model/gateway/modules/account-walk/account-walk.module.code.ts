@@ -19,7 +19,10 @@ import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-s
 import { peekResponse } from "akasha/agent/model/gateway/modules/peek-response/peek-response.module.code.ts"
 import { attemptPermissionDeniedRebind } from "akasha/agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.code.ts"
 import type { QueueOutcome } from "akasha/agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.code.ts"
-import type { FallbackRead } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
+import {
+  askedOf,
+  type FallbackRead,
+} from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 import { withTransportRetry } from "akasha/agent/model/gateway/modules/retry/retry.module.code.ts"
 import { attemptServerErrorRetry } from "akasha/agent/model/gateway/modules/server-error-retry/server-error-retry.module.code.ts"
 
@@ -71,9 +74,10 @@ export async function runAccountWalk(args: AccountWalkArgs): Promise<QueueOutcom
   const servedByFallback = async (why: string): Promise<Response | null> => {
     const held = seams.fallback()
     if (held === null) return null
+    const asked = askedOf(bodyBuffer, held.model)
     try {
       const res = await withTransportRetry(
-        () => forward(currentReq, null, bodyBuffer, held.account, observerSlot, held.upstream),
+        () => forward(currentReq, null, asked, held.account, observerSlot, held.upstream),
         logPrefix,
         `${held.account} ${pathname}`
       )

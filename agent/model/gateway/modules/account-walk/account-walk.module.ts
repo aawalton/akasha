@@ -36,6 +36,10 @@ export const accountWalk = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A fallback attempt asks for the model the fallback provider states.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A pool with no account and no fallback is answered empty with the trail `-`.",
     },
     {

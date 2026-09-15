@@ -8,13 +8,23 @@ import {
   keyedUpstream,
   type Upstream,
 } from "akasha/agent/model/gateway/modules/forward/forward.module.code.ts"
-import { apiBaseIn } from "akasha/agent/model/provider/modules/reading/model-provider-reading.module.code.ts"
+import { rewrittenToModel } from "akasha/agent/model/gateway/modules/model-body/model-body.module.code.ts"
+import {
+  apiBaseIn,
+  providerModelIn,
+} from "akasha/agent/model/provider/modules/reading/model-provider-reading.module.code.ts"
 
 const FALLBACK = "model-provider/deepseek"
 
 export type Fallback = {
   readonly account: string
   readonly upstream: Upstream
+  readonly model: string | null
+}
+
+export function askedOf(bodyBuffer: ArrayBuffer | null, model: string | null): ArrayBuffer | null {
+  if (bodyBuffer === null || model === null) return bodyBuffer
+  return rewrittenToModel(bodyBuffer, model) ?? bodyBuffer
 }
 
 export type FallbackRead = () => Fallback | null
@@ -35,7 +45,11 @@ export function fallbackIn(root: string, secretsRead: SecretsRead): Fallback | n
     if (base === null) return null
     const key = apiKeyIn(root, one.slug, secretsRead)
     if (key === null) return null
-    return { account: one.slug, upstream: keyedUpstream(base, key) }
+    return {
+      account: one.slug,
+      upstream: keyedUpstream(base, key),
+      model: providerModelIn(root, FALLBACK),
+    }
   } catch {
     return null
   }

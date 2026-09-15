@@ -277,6 +277,18 @@ test("a 429 with every account exhausted is sent to the fallback provider", asyn
   expect(harness.acts.atLimit).toEqual(["alpha", "beta"])
 })
 
+test("a fallback attempt asks for the model the fallback provider states", async () => {
+  const harness = buildHarness({
+    answers: [capacityLimited, capacityLimited, ok],
+    originalBody: bodyOf({ model: "claude-opus-5[1m]", max_tokens: 8 }),
+    fallback: DEEPSEEK_FALLBACK,
+  })
+  await runAccountWalk(harness.argsWith())
+  expect(harness.sent[2]?.body).toContain('"model":"deepseek-flash"')
+  expect(harness.sent[2]?.body).toContain('"max_tokens":8')
+  expect(harness.sent[0]?.body).toContain('"model":"claude-opus-5[1m]"')
+})
+
 test("a fallback that refuses is served rather than answered empty", async () => {
   const harness = buildHarness({
     answers: [capacityLimited, capacityLimited, () => new Response("no balance", { status: 402 })],

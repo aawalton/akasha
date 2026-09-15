@@ -122,6 +122,7 @@ export const DEEPSEEK_FALLBACK: FallbackRead = () => ({
     header: "x-api-key",
     value: "fake-deepseek-key",
   },
+  model: "deepseek-flash",
 })
 
 export function buildHarness(options: HarnessOptions): WalkHarness {
