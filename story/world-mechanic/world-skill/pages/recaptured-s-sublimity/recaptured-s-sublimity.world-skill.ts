@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const recapturedSSublimity = {
   id: "01a0657d-02a5-7d7e-b08b-1defd74bab7c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "recaptured-s-sublimity",
   title: "Recaptured S-Sublimity",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const quickdrawCoat = {
   id: "01a0657d-029b-7ba0-bc49-62161fe40678",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "quickdraw-coat",
   title: "Quickdraw Coat",
   world: "world/the-wandering-inn",

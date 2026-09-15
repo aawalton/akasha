@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const refillMakeupKit = {
   id: "01a0657d-02a6-7017-b018-f2e12c1449d5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "refill-makeup-kit",
   title: "Refill Makeup Kit",
   world: "world/the-wandering-inn",

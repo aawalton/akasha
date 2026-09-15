@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const reconstructionRebuildItBetterEachAndEveryTime = {
   id: "01a0657d-02a6-7b08-970a-e7fc26d07de4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "reconstruction-rebuild-it-better-each-and-every-time",
   title: "Reconstruction: Rebuild it Better, Each and Every Time",
   world: "world/the-wandering-inn",

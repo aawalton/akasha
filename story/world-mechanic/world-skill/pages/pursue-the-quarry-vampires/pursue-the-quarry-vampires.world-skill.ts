@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const pursueTheQuarryVampires = {
   id: "01a0657d-029a-75c8-a714-42c05e91cd91",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "pursue-the-quarry-vampires",
   title: "Pursue the Quarry: Vampires",
   world: "world/the-wandering-inn",

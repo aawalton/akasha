@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const realityStopTime = {
   id: "01a0657d-02a5-7ded-8a63-91dcfbbb7c2c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "reality-stop-time",
   title: "Reality: Stop Time",
   world: "world/the-wandering-inn",

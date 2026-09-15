@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const rayOfSunfire = {
   id: "01a0657d-02a4-7b66-a9ec-8601e7c07784",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ray-of-sunfire",
   title: "Ray of Sunfire",
   world: "world/the-wandering-inn",

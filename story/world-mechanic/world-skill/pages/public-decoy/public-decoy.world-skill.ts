@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const publicDecoy = {
   id: "01a0657d-0297-76f5-a90b-7fe84801acef",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "public-decoy",
   title: "Public Decoy",
   world: "world/the-wandering-inn",

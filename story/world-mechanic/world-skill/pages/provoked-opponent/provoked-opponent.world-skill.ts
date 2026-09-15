@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const provokedOpponent = {
   id: "01a0657d-0297-7515-8ef5-d1ac9eb2d27e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "provoked-opponent",
   title: "Provoked Opponent",
   world: "world/the-wandering-inn",

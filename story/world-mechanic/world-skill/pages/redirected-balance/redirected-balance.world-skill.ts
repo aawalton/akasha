@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const redirectedBalance = {
   id: "01a0657d-02a6-7874-a504-1a4630b963e3",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "redirected-balance",
   title: "Redirected Balance",
   world: "world/the-wandering-inn",

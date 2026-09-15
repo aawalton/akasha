@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const quickwrap = {
   id: "01a0657d-029c-7c07-a8ec-49237cfbcf82",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "quickwrap",
   title: "Quickwrap",
   world: "world/the-wandering-inn",

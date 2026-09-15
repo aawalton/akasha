@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const readBetweenTheLines = {
   id: "01a0657d-02a5-7c87-91c2-89a0027dddf3",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "read-between-the-lines",
   title: "Read Between the Lines",
   world: "world/the-wandering-inn",

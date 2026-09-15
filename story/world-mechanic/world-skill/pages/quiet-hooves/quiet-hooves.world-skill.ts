@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const quietHooves = {
   id: "01a0657d-029c-7d7f-927e-abf410beb7f5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "quiet-hooves",
   title: "Quiet Hooves",
   world: "world/the-wandering-inn",

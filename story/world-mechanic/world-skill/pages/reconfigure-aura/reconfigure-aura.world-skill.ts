@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const reconfigureAura = {
   id: "01a0657d-02a6-7822-8e33-5c59540a19cf",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "reconfigure-aura",
   title: "Reconfigure Aura",
   world: "world/the-wandering-inn",

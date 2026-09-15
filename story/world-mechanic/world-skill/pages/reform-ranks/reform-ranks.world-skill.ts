@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const reformRanks = {
   id: "01a0657d-02a6-758d-b138-1148088e4712",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "reform-ranks",
   title: "Reform Ranks",
   world: "world/the-wandering-inn",

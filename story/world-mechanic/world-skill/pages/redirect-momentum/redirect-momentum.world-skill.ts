@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const redirectMomentum = {
   id: "01a0657d-02a6-77f8-bc23-bd812a291984",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "redirect-momentum",
   title: "Redirect Momentum",
   world: "world/the-wandering-inn",

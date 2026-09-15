@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const rebukeTheFoeMightiestBlow = {
   id: "01a0657d-02a5-7664-bd68-5e0c95251aa5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "rebuke-the-foe-mightiest-blow",
   title: "Rebuke the Foe: Mightiest Blow",
   world: "world/the-wandering-inn",

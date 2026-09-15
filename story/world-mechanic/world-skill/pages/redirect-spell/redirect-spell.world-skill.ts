@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const redirectSpell = {
   id: "01a0657d-02a6-7074-944b-fa1cfca41add",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "redirect-spell",
   title: "Redirect Spell",
   world: "world/the-wandering-inn",

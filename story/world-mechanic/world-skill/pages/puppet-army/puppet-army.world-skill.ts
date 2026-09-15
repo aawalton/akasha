@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const puppetArmy = {
   id: "01a0657d-029a-7026-89ee-fc09e0d691a2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "puppet-army",
   title: "Puppet Army",
   world: "world/the-wandering-inn",

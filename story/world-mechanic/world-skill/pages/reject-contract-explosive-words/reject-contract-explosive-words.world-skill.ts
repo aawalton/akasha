@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const rejectContractExplosiveWords = {
   id: "01a0657d-02af-797f-896e-7efcf9c95e69",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "reject-contract-explosive-words",
   title: "Reject Contract: Explosive Words",
   world: "world/the-wandering-inn",

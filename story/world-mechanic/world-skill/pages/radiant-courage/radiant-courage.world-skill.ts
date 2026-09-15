@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const radiantCourage = {
   id: "01a0657d-029c-7072-8195-3c8f3a7b7d7b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "radiant-courage",
   title: "Radiant Courage",
   world: "world/the-wandering-inn",

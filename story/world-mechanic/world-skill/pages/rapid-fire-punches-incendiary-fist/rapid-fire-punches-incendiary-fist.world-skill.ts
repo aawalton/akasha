@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const rapidFirePunchesIncendiaryFist = {
   id: "01a0657d-02a4-71a4-a8da-6faf4a5d254b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "rapid-fire-punches-incendiary-fist",
   title: "Rapid Fire Punches: Incendiary Fist",
   world: "world/the-wandering-inn",

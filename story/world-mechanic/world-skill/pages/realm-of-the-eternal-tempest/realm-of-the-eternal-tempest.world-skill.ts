@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const realmOfTheEternalTempest = {
   id: "01a0657d-02a5-747a-ae93-1eb2e6d88b6e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "realm-of-the-eternal-tempest",
   title: "Realm of the Eternal Tempest",
   world: "world/the-wandering-inn",

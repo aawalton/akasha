@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const quickReset = {
   id: "01a0657d-029b-7cff-bf16-18a74c8b9ddf",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "quick-reset",
   title: "Quick Reset",
   world: "world/the-wandering-inn",

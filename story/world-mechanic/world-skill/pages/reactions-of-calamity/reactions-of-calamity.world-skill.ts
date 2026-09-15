@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const reactionsOfCalamity = {
   id: "01a0657d-02a5-7cc7-87fb-021f52c9c5c4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "reactions-of-calamity",
   title: "Reactions of Calamity",
   world: "world/the-wandering-inn",

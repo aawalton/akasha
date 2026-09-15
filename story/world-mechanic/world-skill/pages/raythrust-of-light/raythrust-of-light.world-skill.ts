@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const raythrustOfLight = {
   id: "01a0657d-02a4-7a17-bb30-284e8520391a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "raythrust-of-light",
   title: "Raythrust of Light",
   world: "world/the-wandering-inn",

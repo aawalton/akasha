@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const realityRewindTime = {
   id: "01a0657d-02a5-743b-82bf-67610acccf26",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "reality-rewind-time",
   title: "Reality: Rewind Time",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const reinforcedGuitar = {
   id: "01a0657d-02a6-7820-9edf-6991d73555dc",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "reinforced-guitar",
   title: "Reinforced Guitar",
   world: "world/the-wandering-inn",

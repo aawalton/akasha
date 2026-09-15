@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const readyAttack = {
   id: "01a0657d-02a5-7161-aa1f-f6d3f61af1ca",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ready-attack",
   title: "Ready Attack",
   world: "world/the-wandering-inn",

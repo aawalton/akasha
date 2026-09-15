@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const rearwardCut = {
   id: "01a0657d-02a5-7054-9886-2735d6f33864",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "rearward-cut",
   title: "Rearward Cut",
   world: "world/the-wandering-inn",
