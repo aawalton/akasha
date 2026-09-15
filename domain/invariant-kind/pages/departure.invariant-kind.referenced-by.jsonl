@@ -574,8 +574,8 @@
 {"propertySlug":"invariant-kind","path":"alan/google/oauth/modules/oauth-client/oauth-client.module.ts","id":"01a06d16-f135-7230-acd8-d3d66ea08433"}
 {"propertySlug":"invariant-kind","path":"alan/google/oauth/modules/oauth-consent/oauth-consent.module.ts","id":"01a0657c-604c-7001-97a9-2a69478eb550"}
 {"propertySlug":"invariant-kind","path":"alan/google/oauth/modules/oauth-refresh-token/oauth-refresh-token.module.ts","id":"01a08cd5-c0c5-7e94-b221-4d20b68a9ce6"}
-{"propertySlug":"invariant-kind","path":"alan/harness/agents/alan-harness-agents.domain.ts","id":"01a0658a-e55d-7426-897d-78820e337523"}
-{"propertySlug":"invariant-kind","path":"alan/harness/agents/annoyance/alan-harness-agents-annoyance.domain.ts","id":"01a0658a-e55d-7c76-83d2-3bedf4c9011c"}
+{"propertySlug":"invariant-kind","path":"alan/harness/agent/alan-harness-agent.domain.ts","id":"01a0658a-e55d-7426-897d-78820e337523"}
+{"propertySlug":"invariant-kind","path":"alan/harness/agent/alan-harness-agents-annoyance/alan-harness-agents-annoyance.domain.ts","id":"01a0658a-e55d-7c76-83d2-3bedf4c9011c"}
 {"propertySlug":"invariant-kind","path":"alan/harness/alan-harness.domain.ts","id":"01a05381-69f8-77f7-afef-d8329db98385"}
 {"propertySlug":"invariant-kind","path":"alan/harness/alan-readout/day-readout-watch-service/day-readout-watch-service.service-workstation.ts","id":"01a08c12-a327-7694-af88-2d20734ad347"}
 {"propertySlug":"invariant-kind","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.ts","id":"01a08c11-e71f-7f8f-b343-d87bac283b1c"}
