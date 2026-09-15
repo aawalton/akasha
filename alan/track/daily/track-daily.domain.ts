@@ -8,7 +8,6 @@ export const trackDaily = {
   parts: [
     "module/akasha-day",
     "module/day-active-calories",
-    "module/day-completions",
     "module/day-entry-keys",
     "module/day-messages",
     "module/day-messages-mining",
