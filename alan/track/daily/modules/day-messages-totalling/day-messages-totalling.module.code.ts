@@ -47,7 +47,3 @@ export function daysMessaged(root: string): readonly Dayed[] {
   }
   return found
 }
-
-export function sentBefore(root: string, before: string): ReadonlyMap<string, number> {
-  return sentOver(daysCounted(daysMessaged(root), before))
-}
