@@ -9,6 +9,7 @@ import {
   relationFiled,
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 import { writing as wrote } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
@@ -81,6 +82,8 @@ const M_ID = "01a04d99-71ca-7e06-8000-00000000000a"
 
 export const scratch = scratchWorld()
 
+const PAGE_TYPE = "page-type"
+
 export function stating(
   id: string,
   slug: string,
@@ -88,7 +91,8 @@ export function stating(
   stated: string = ""
 ): string {
   const read = pageTypeSlug.endsWith("-property") ? `, propertySlug: "${slug}"` : ""
-  return `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${read}${stated} }\n`
+  const said = namedAs(PAGE_TYPE, pageTypeSlug, null)
+  return `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${said}"${read}${stated} }\n`
 }
 
 function valued(
@@ -98,7 +102,7 @@ function valued(
   more: Readonly<Record<string, unknown>> = {}
 ): Record<string, unknown> {
   const read = pageTypeSlug.endsWith("-property") ? { propertySlug: slug } : {}
-  return { id, slug, pageTypeSlug, ...read, ...more }
+  return { id, slug, pageTypeSlug: namedAs(PAGE_TYPE, pageTypeSlug, null), ...read, ...more }
 }
 
 function saying(more: Readonly<Record<string, unknown>>): string {

@@ -63,14 +63,15 @@ test("a page naming a slug that reaches nothing is refused, and the refusal name
   ])
 })
 
-test("a bare name is looked for under every page type admitting the target", () => {
+const UNQUALIFIED = "names no page type, so which page it reaches is read off whoever asked"
+
+test("a bare name is refused, whether or not that name would have reached a page", () => {
   const root = rooted()
-  expect(judged(over(root, [A], note(', domainSlug: "d"')))).toEqual([])
+  expect(judged(over(root, [A], note(', domainSlug: "d"')))).toEqual([
+    { path: A, reason: `states \`domain-slug\`, and \`d\` ${UNQUALIFIED}` },
+  ])
   expect(judged(over(root, [A], note(', domainSlug: "nope"')))).toEqual([
-    {
-      path: A,
-      reason: "states `domain-slug`, and no page admitting `domain` carries the slug `nope`",
-    },
+    { path: A, reason: `states \`domain-slug\`, and \`nope\` ${UNQUALIFIED}` },
   ])
 })
 
@@ -98,7 +99,7 @@ test("the page type a page states is a relation like any other", () => {
   expect(judged(over(root, [A], bodies))).toEqual([
     {
       path: A,
-      reason: "states `page-type-slug`, and no page admitting `page-type` carries the slug `typo`",
+      reason: "states `page-type-slug`, and no `page-type` carries the slug `typo`",
     },
   ])
 })
@@ -212,16 +213,16 @@ test("the edges into a page taken away are read as the change found them", () =>
 
 test("a refusal is laid on the page that names, and one is raised for each name", () => {
   const shadow = shadowAt(rooted())
-  const value = { pageTypeSlug: "note", partSlugs: ["gone", "away"] }
+  const value = { pageTypeSlug: "page-type/note", partSlugs: ["domain/gone", "domain/away"] }
   expect(dangling(shadow, value).map((one) => one.reason)).toEqual([
-    "states `part-slugs`, and no page admitting `domain` carries the slug `gone`",
-    "states `part-slugs`, and no page admitting `domain` carries the slug `away`",
+    "states `part-slugs`, and no `domain` carries the slug `gone`",
+    "states `part-slugs`, and no `domain` carries the slug `away`",
   ])
 })
 
 test("a relation nested in a record is judged, and the refusal names the record and the field", () => {
   const shadow = shadowAt(rooted())
-  const value = { pageTypeSlug: "note", marks: [{ domainSlug: "domain/gone" }] }
+  const value = { pageTypeSlug: "page-type/note", marks: [{ domainSlug: "domain/gone" }] }
   expect(dangling(shadow, value).map((one) => one.reason)).toEqual([
     "states `marks domain-slug`, and no `domain` carries the slug `gone`",
   ])
@@ -230,7 +231,7 @@ test("a relation nested in a record is judged, and the refusal names the record 
 test("one name repeated across a record's entries is judged once", () => {
   const shadow = shadowAt(rooted())
   const value = {
-    pageTypeSlug: "note",
+    pageTypeSlug: "page-type/note",
     marks: [{ domainSlug: "domain/gone" }, { domainSlug: "domain/gone" }],
   }
   expect(dangling(shadow, value).map((one) => one.reason)).toEqual([
@@ -241,7 +242,7 @@ test("one name repeated across a record's entries is judged once", () => {
 test("a field the record does not declare, and a record deeper than one, are left alone", () => {
   const shadow = shadowAt(rooted())
   const value = {
-    pageTypeSlug: "note",
+    pageTypeSlug: "page-type/note",
     marks: [{ partSlugs: ["gone"], deeper: [{ domainSlug: "domain/gone" }] }],
   }
   expect(dangling(shadow, value)).toEqual([])
@@ -292,7 +293,9 @@ test("a target that is not mortal is refused for the mortal page the name reache
   const root = rooted()
   filing(root, S, S_ID, "spark", "s")
   expect(reaching(root, ', domainSlug: "spark/s"')).toEqual(REFUSING)
-  expect(reaching(root, ', domainSlug: "s"')).toEqual(REFUSING)
+  expect(reaching(root, ', domainSlug: "s"')).toEqual([
+    { path: A, reason: `states \`domain-slug\`, and \`s\` ${UNQUALIFIED}` },
+  ])
   expect(reaching(root, `, domainSlug: "${S_ID}"`)).toEqual(REFUSING)
   expect(reaching(root, ', domainSlug: "domain/d"')).toEqual([])
 })

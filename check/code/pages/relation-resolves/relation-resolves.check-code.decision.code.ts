@@ -14,6 +14,7 @@ import {
   reaches,
   type Shaped,
 } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
+import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { type Rowing, rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import { pageNamed, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -136,6 +137,15 @@ function cannot(propertySlug: string, pageTypeSlug: string): string {
   return `states \`${propertySlug}\`, and a page that is not mortal cannot name a mortal \`${pageTypeSlug}\``
 }
 
+const BARE = "bare"
+
+function unqualified(propertySlug: string, named: string): string {
+  return (
+    `states \`${propertySlug}\`, and \`${named}\` names no page type, so which page it ` +
+    "reaches is read off whoever asked"
+  )
+}
+
 export function danglingIn(
   path: string,
   value: Value,
@@ -164,6 +174,10 @@ export function danglingIn(
       const once = `${where}\n${named}`
       if (seen.has(once)) continue
       seen.add(once)
+      if (addressIn(named).kind === BARE) {
+        said.push({ path, reason: unqualified(where, named) })
+        continue
+      }
       const reached = reaches(named, wanted, known)
       if ("refused" in reached) {
         said.push({ path, reason: `states \`${where}\`, and ${reached.refused}` })
