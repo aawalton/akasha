@@ -5,7 +5,7 @@ export const serviceManifest = {
   type: "relation-property",
   slug: "service-manifest",
   propertySlug: "manifest",
-  definition: "the manifest a cluster service is applied as",
+  definition: "a manifest a service is applied as",
   targetPageType: "page-type/manifest",
   invariants: [
     {
