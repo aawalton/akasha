@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const timekeeperGeneral = {
   id: "01a06586-0a68-72bc-b212-25fe8c2a2351",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "timekeeper-general",
   title: "Timekeeper General",
   world: "world/the-wandering-inn",

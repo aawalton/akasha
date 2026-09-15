@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const theVizirOfTreacherousMajesty = {
   id: "01a0657e-0269-77f9-a10a-c5c7d15b9b20",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "the-vizir-of-treacherous-majesty",
   title: "The Vizir of Treacherous Majesty",
   world: "world/the-wandering-inn",

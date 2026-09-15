@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const twinbladeLinebreaker = {
   id: "01a06586-0a6d-7a8c-8694-2c4ecba950ee",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "twinblade-linebreaker",
   title: "Twinblade Linebreaker",
   world: "world/the-wandering-inn",

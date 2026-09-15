@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const thaumaturge = {
   id: "01a06586-0a65-79a0-b196-edef21fa8308",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "thaumaturge",
   title: "Thaumaturge",
   world: "world/the-wandering-inn",

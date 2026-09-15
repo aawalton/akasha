@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const throatcutterRank = {
   id: "01a0657e-026b-757b-8341-8135d2eb7ca3",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "throatcutter-rank",
   title: "Throatcutter Rank",
   world: "world/the-wandering-inn",

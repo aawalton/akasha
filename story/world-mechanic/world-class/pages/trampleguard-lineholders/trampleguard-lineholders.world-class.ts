@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const trampleguardLineholders = {
   id: "01a0657e-026c-76e2-aefb-bdb1a76fe91c",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "trampleguard-lineholders",
   title: "Trampleguard Lineholders",
   world: "world/the-wandering-inn",

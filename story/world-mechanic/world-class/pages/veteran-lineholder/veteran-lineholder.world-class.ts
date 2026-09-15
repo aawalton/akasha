@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const veteranLineholder = {
   id: "01a06586-0a6f-72c6-8a1d-25419c1b68e1",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "veteran-lineholder",
   title: "Veteran Lineholder",
   world: "world/the-wandering-inn",

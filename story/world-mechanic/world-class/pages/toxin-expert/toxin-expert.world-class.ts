@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const toxinExpert = {
   id: "01a06586-0a69-7395-9d5c-9630bda6d5e3",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "toxin-expert",
   title: "Toxin Expert",
   world: "world/the-wandering-inn",

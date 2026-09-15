@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const twinVirtuesOfHouseTerland = {
   id: "01a06586-0a6d-7961-a9d6-1944ea78c2dd",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "twin-virtues-of-house-terland",
   title: "Twin Virtues of House Terland",
   world: "world/the-wandering-inn",

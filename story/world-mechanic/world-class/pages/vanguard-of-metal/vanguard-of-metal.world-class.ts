@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const vanguardOfMetal = {
   id: "01a0657e-026e-75a3-8e89-486d9d7dc9d9",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "vanguard-of-metal",
   title: "Vanguard of Metal",
   world: "world/the-wandering-inn",

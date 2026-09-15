@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const toothmaker = {
   id: "01a0657e-026c-7cc1-a6f3-571b093099da",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "toothmaker",
   title: "Toothmaker",
   world: "world/the-wandering-inn",
