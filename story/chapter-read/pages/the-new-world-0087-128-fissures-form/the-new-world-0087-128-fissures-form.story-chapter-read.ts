@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0087128FissuresForm = {
   id: "01a06730-4e5f-729a-b266-2b10dd415cb9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0087-128-fissures-form",
   title: "128 Fissures Form",
   story: "story-read/the-new-world",

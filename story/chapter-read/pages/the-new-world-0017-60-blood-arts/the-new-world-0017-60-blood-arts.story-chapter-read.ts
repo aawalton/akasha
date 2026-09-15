@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld001760BloodArts = {
   id: "01a06730-4e39-7dff-bfed-5244cc92f222",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0017-60-blood-arts",
   title: "60 Blood Arts",
   story: "story-read/the-new-world",

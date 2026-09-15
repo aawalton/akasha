@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0058100AnUnstoppableForce = {
   id: "01a06730-4e50-764e-8588-4745d7dc0dcd",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0058-100-an-unstoppable-force",
   title: "100 An Unstoppable Force",
   story: "story-read/the-new-world",

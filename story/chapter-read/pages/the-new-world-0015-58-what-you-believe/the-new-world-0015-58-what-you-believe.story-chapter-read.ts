@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld001558WhatYouBelieve = {
   id: "01a06730-4e37-7ada-8fca-21ebb968da88",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0015-58-what-you-believe",
   title: "58 What You Believe",
   story: "story-read/the-new-world",

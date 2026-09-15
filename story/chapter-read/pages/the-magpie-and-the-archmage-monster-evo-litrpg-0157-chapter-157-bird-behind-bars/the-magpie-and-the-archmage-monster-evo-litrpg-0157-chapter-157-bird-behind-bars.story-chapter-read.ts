@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0157Chapter157BirdBehindBars = {
   id: "01a06730-4fe3-7b20-aac7-35559394f168",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0157-chapter-157-bird-behind-bars",
   title: "Chapter 157 – Bird Behind Bars",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

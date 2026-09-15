@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0118Chapter118GuestsOfThalasarra = {
   id: "01a06730-4fe2-7c52-8733-24c860fcb41c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0118-chapter-118-guests-of-thalasarra",
   title: "Chapter 118 – Guests of Thalasarra",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0089130HunterOfMany = {
   id: "01a06730-4e60-7f21-845a-a850126952b8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0089-130-hunter-of-many",
   title: "130 Hunter of Many",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0101142OneAgainstMany = {
   id: "01a06730-4e64-762e-8715-e3effbe5c7c0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0101-142-one-against-many",
   title: "142 One Against Many",
   story: "story-read/the-new-world",

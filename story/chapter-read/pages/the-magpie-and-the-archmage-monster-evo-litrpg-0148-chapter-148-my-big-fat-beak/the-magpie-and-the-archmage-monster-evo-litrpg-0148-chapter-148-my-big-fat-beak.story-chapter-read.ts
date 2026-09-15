@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0148Chapter148MyBigFatBeak = {
   id: "01a06730-4fe3-723f-8618-4e67882acaa6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0148-chapter-148-my-big-fat-beak",
   title: "Chapter 148 – My Big, Fat Beak",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

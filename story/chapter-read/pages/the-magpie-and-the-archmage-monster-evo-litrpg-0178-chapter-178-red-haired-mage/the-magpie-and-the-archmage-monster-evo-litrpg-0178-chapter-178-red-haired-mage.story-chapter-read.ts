@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0178Chapter178RedHairedMage = {
   id: "01a0946e-3772-727f-8fe0-109d095909c5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0178-chapter-178-red-haired-mage",
   position: 178,
   publishedAt: "2026-09-12",

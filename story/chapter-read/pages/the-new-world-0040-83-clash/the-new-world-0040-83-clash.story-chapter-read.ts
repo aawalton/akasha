@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld004083Clash = {
   id: "01a06730-4e48-7419-a587-c1db78a5c539",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0040-83-clash",
   title: "83 Clash",
   story: "story-read/the-new-world",

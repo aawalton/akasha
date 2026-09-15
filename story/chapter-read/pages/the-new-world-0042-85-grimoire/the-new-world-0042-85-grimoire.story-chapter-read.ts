@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld004285Grimoire = {
   id: "01a06730-4e4a-7208-8ab2-89a0d3595efc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0042-85-grimoire",
   title: "85 Grimoire",
   story: "story-read/the-new-world",

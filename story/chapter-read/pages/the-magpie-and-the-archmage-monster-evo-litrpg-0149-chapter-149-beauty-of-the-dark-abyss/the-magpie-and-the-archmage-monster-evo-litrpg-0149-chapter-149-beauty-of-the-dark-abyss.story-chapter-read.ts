@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0149Chapter149BeautyOfTheDarkAbyss = {
   id: "01a06730-4fe3-7cc1-993f-c3df91dbbe19",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0149-chapter-149-beauty-of-the-dark-abyss",
   title: "Chapter 149 – Beauty of the Dark Abyss",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0072114TheDistance = {
   id: "01a06730-4e5b-7190-baf9-e83dafe73a5e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0072-114-the-distance",
   title: "114 The Distance",
   story: "story-read/the-new-world",

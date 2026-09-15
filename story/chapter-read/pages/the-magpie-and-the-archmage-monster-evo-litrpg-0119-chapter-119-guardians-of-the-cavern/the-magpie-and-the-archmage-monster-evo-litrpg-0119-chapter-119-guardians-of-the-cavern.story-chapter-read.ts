@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0119Chapter119GuardiansOfTheCavern = {
   id: "01a06730-4fe2-74aa-8525-4eb366de2cd5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0119-chapter-119-guardians-of-the-cavern",
   title: "Chapter 119 – Guardians of the Cavern",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

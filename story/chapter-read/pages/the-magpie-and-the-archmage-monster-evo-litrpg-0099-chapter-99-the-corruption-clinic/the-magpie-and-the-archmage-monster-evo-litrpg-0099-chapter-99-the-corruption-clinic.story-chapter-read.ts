@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0099Chapter99TheCorruptionClinic = {
   id: "01a06730-4fe1-7a28-8030-7004b5802e24",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0099-chapter-99-the-corruption-clinic",
   title: "Chapter 99 – The Corruption Clinic",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0124Chapter124ThePriceOfPower = {
   id: "01a06730-4fe2-7bb8-8d2c-7878ed9b48f5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0124-chapter-124-the-price-of-power",
   title: "Chapter 124 – The Price of Power",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0154Chapter154CurrentOfPurification = {
   id: "01a06730-4fe3-7447-9417-ef412a38688d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0154-chapter-154-current-of-purification",
   title: "Chapter 154 – Current of Purification",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

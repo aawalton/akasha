@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0164Chapter164EyeOfTheWyvern = {
   id: "01a06730-4fe4-7f2e-8926-96391c2a2789",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0164-chapter-164-eye-of-the-wyvern",
   title: "Chapter 164 – Eye of The Wyvern",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

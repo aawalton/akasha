@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld000447GainingTools = {
   id: "01a06730-4e30-77c3-806f-7cd455e71ed3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0004-47-gaining-tools",
   title: "47 Gaining Tools",
   story: "story-read/the-new-world",

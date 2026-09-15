@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld004790TheComingTide = {
   id: "01a06730-4e4c-7379-a7cf-cb305887df98",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0047-90-the-coming-tide",
   title: "90 The Coming Tide",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0152Chapter152WebFortress = {
   id: "01a06730-4fe3-7856-b883-c68ee9de286b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0152-chapter-152-web-fortress",
   title: "Chapter 152 – Web Fortress",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

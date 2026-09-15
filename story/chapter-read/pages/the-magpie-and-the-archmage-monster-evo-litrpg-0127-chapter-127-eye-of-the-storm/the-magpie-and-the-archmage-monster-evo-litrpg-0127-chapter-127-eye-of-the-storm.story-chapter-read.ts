@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0127Chapter127EyeOfTheStorm = {
   id: "01a06730-4fe2-75be-8531-fd860e3f089b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0127-chapter-127-eye-of-the-storm",
   title: "Chapter 127 – Eye of the Storm",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

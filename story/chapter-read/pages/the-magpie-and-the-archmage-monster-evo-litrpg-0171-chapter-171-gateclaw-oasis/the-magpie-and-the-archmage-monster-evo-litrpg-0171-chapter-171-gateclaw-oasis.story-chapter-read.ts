@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0171Chapter171GateclawOasis = {
   id: "01a06730-4fe4-74c7-8119-8d3d10993eab",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0171-chapter-171-gateclaw-oasis",
   title: "Chapter 171 – Gateclaw Oasis",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

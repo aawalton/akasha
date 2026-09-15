@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld003881RiftKeeper = {
   id: "01a06730-4e48-755c-becc-c48b7d24a552",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0038-81-rift-keeper",
   title: "81 Rift Keeper",
   story: "story-read/the-new-world",

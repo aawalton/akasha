@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld004891TheFinalRift = {
   id: "01a06730-4e4c-7e78-90a8-75c107a8755c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0048-91-the-final-rift",
   title: "91 The Final Rift",
   story: "story-read/the-new-world",

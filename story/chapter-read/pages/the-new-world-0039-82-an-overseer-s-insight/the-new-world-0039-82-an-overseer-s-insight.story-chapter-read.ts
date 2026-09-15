@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld003982AnOverseerSInsight = {
   id: "01a06730-4e48-7b03-ac0a-70d05586c004",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0039-82-an-overseer-s-insight",
   title: "82 An Overseer's Insight",
   story: "story-read/the-new-world",

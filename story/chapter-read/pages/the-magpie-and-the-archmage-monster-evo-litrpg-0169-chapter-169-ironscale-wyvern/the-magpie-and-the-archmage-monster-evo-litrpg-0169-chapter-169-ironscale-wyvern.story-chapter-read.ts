@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0169Chapter169IronscaleWyvern = {
   id: "01a06730-4fe4-731d-b50f-865305a9cf53",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0169-chapter-169-ironscale-wyvern",
   title: "Chapter 169 – Ironscale Wyvern",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0105Chapter105GiantsDontFallQuietly = {
   id: "01a06730-4fe1-75d9-b232-c579d573d8a3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0105-chapter-105-giants-dont-fall-quietly",
   title: "Chapter 105 – Giants Don't Fall Quietly",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

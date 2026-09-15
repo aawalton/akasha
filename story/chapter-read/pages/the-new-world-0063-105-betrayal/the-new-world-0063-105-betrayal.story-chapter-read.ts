@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0063105Betrayal = {
   id: "01a06730-4e53-7160-86ce-94861e3aeaa8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0063-105-betrayal",
   title: "105 Betrayal",
   story: "story-read/the-new-world",

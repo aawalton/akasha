@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0165Chapter165MotherOfTheDesert = {
   id: "01a06730-4fe4-77e3-82be-70599f04e692",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0165-chapter-165-mother-of-the-desert",
   title: "Chapter 165 – Mother of the Desert",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

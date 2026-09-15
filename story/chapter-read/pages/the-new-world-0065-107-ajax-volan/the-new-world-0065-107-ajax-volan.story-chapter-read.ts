@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0065107AjaxVolan = {
   id: "01a06730-4e55-7b45-909e-5f27c024bbf9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0065-107-ajax-volan",
   title: "107 Ajax Volan",
   story: "story-read/the-new-world",

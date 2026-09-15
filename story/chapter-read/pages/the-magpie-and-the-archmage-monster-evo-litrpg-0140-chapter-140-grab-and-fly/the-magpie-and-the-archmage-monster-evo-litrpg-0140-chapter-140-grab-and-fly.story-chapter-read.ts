@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0140Chapter140GrabAndFly = {
   id: "01a06730-4fe2-7361-bb7a-d7f2beb5e99f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0140-chapter-140-grab-and-fly",
   title: "Chapter 140 – Grab and Fly",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

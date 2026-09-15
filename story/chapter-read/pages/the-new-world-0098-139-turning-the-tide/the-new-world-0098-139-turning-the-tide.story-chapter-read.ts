@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0098139TurningTheTide = {
   id: "01a06730-4e63-7163-baab-e8884a163a99",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0098-139-turning-the-tide",
   title: "139 Turning the Tide",
   story: "story-read/the-new-world",

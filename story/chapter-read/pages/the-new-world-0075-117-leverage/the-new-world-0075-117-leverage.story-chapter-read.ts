@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0075117Leverage = {
   id: "01a06730-4e5c-7409-8045-a85c0dc02d98",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0075-117-leverage",
   title: "117 Leverage",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0076118DeepWater = {
   id: "01a06730-4e5c-75fa-9c44-9b7f2b06e59b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0076-118-deep-water",
   title: "118 Deep Water",
   story: "story-read/the-new-world",

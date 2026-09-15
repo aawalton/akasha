@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0073115Levelers = {
   id: "01a06730-4e5c-7458-9570-1224c88181b6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0073-115-levelers",
   title: "115 Levelers",
   story: "story-read/the-new-world",

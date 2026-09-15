@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld004386TheFinalPiece = {
   id: "01a06730-4e4a-7331-a41f-5c7224713121",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0043-86-the-final-piece",
   title: "86 The Final Piece",
   story: "story-read/the-new-world",

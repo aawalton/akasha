@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theNewWorld0084125Origin = {
   id: "01a06730-4e5e-7d4c-a0f3-8ccfcd45c008",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-new-world-0084-125-origin",
   title: "125 Origin",
   story: "story-read/the-new-world",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0084Chapter84ThePillarOfAzureHelm = {
   id: "01a06730-4fe0-7caf-854e-9fb3985e7e5b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0084-chapter-84-the-pillar-of-azure-helm",
   title: "Chapter 84 – The Pillar of Azure Helm",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0092Chapter92WhenMercyIsAMistake = {
   id: "01a06730-4fe1-7c2e-a31a-f2c753815c16",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0092-chapter-92-when-mercy-is-a-mistake",
   title: "Chapter 92 – When Mercy is a Mistake",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",

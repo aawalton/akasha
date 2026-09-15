@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0091Chapter91WhichOneBleeds = {
   id: "01a06730-4fe1-7cc6-b1dc-9683c353ff4c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0091-chapter-91-which-one-bleeds",
   title: "Chapter 91 – Which One Bleeds?",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
