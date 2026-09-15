@@ -18,7 +18,10 @@ import { indexRefresh as page } from "akasha/command/pages/index/refresh/index-r
 import { committed } from "akasha/git/modules/committing/committing.module.code.ts"
 import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
 import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
-import { refreshedWhole } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
+import {
+  type Refreshed,
+  refreshedWhole,
+} from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import {
   type Drift,
   filedUnder,
@@ -101,9 +104,11 @@ function pathOf(at: string): string {
   return referencesFiled(at) ? at : join(indexNamed(), at)
 }
 
-function landed(root: string, drift: Drift): string | null {
+function landed(root: string, said: Refreshed): string | null {
+  const drift = said.drift
   const took = new Set(drift.went.map(pathOf))
   const wrote = new Set([...drift.added, ...drift.changed].map(pathOf))
+  for (const one of said.beside) wrote.add(one)
   const split = heldBack(
     root,
     [...wrote, ...took].map((path) => ({ path, body: null }))
@@ -135,7 +140,7 @@ function refreshing(root: string, read: { dryRun: boolean }, done: string[]): An
     )
   }
   const said = refreshedWhole(root, tree, !read.dryRun, done)
-  const commit = read.dryRun ? null : landed(root, said.drift)
+  const commit = read.dryRun ? null : landed(root, said)
   const report = [
     `the index was brought level with ${root} as it is, at ${head}`,
     `${counted(said.pages, "page")}, ${said.entries} entries, ${said.refused.length} refused`,

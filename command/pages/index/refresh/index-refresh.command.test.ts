@@ -135,7 +135,7 @@ function headOf(root: string): string {
   return git(root, ["rev-parse", "HEAD"]).trim()
 }
 
-const HELD_BY_GIT = ["status", "--porcelain", "--", indexNamed(), "*.referenced-by.jsonl"]
+const HELD_BY_GIT = ["status", "--porcelain"]
 
 const TAKES = "is no argument `akasha index refresh` takes — it takes `--dry-run`"
 
