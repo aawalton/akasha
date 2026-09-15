@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"graph-predicate.page-type.types.ts","path":"command/pages/measure/closure/measure-closure.command.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate.page-type.types.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"}
-{"propertySlug":"import","fileName":"graph-predicate.page-type.types.ts","path":"graph/predicate/pages/importers/importers.graph-predicate.ts"}
-{"propertySlug":"import","fileName":"graph-predicate.page-type.types.ts","path":"graph/predicate/pages/imports/imports.graph-predicate.ts"}
+{"propertySlug":"import","fileName":"graph-predicate.page-type.types.ts","path":"graph/predicate/pages/importers.graph-predicate.ts"}
+{"propertySlug":"import","fileName":"graph-predicate.page-type.types.ts","path":"graph/predicate/pages/imports.graph-predicate.ts"}
 {"propertySlug":"parts","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
