@@ -2,7 +2,7 @@ import type { BookRecord } from "akasha/alan/authoring/book-record/book-record.p
 
 export const myFaithOverview = {
   id: "01a0657d-b91d-7700-9743-d8bc7786ff26",
-  type: "book-record",
+  type: "page-type/book-record",
   slug: "my-faith-overview",
   title: "My Faith — Overview",
   definition: "the shape and the method of the My Faith book",
