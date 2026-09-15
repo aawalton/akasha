@@ -137,7 +137,7 @@ _talos_node() { local ip="$1"; shift; if [ "$#" -eq 0 ]; then talosctl -e "$ip" 
 node-1() { _talos_node 192.168.68.87 "$@"; }; node-01() { node-1 "$@"; }
 node-2() { _talos_node 192.168.68.88 "$@"; }; node-02() { node-2 "$@"; }
 node-3() { _talos_node 192.168.68.75 "$@"; }; node-03() { node-3 "$@"; }
-node-4() { _talos_node 192.168.68.90 "$@"; }; node-04() { node-4 "$@"; }
+node-4() { _talos_node 192.168.68.61 "$@"; }; node-04() { node-4 "$@"; }
 node-5() { _talos_node 192.168.68.78 "$@"; }; node-05() { node-5 "$@"; }
 node-6() { _talos_node 192.168.68.93 "$@"; }; node-06() { node-6 "$@"; }
 
