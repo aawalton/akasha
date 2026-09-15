@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mainMenuSetup = {
   id: "01a0605b-c804-726c-8c9c-2b31fd139a9b",
-  type: "module",
+  type: "page-type/module",
   slug: "main-menu-setup",
   definition: "the controls and the callbacks the library sets up on its first use",
   code: "ts",

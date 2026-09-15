@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mainMenuShape = {
   id: "01a0605b-c805-71c8-a662-3a04cfd1c00b",
-  type: "module",
+  type: "page-type/module",
   slug: "main-menu-shape",
   definition: "the fields and the methods the published library object holds",
   code: "ts",

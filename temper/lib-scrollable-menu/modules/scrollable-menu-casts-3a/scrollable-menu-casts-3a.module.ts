@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuCasts3a = {
   id: "01a06275-c444-769d-a238-060e94512654",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-casts-3a",
   definition:
     "the narrowing helpers for shapes named from RunItemCallback through ControlUnknownAlt",

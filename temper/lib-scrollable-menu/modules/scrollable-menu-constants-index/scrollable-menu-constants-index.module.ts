@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuConstantsIndex = {
   id: "01a06275-c446-7ea2-9bcd-f88189f54a12",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-constants-index",
   definition: "the bare import list covering the three constant modules",
   code: "ts",

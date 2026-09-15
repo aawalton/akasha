@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCasts = {
   id: "01a0617b-4b73-706b-9bf0-e2b177ca28eb",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-casts",
   definition: "the narrowings this library uses to read a value the game hands over untyped",
   code: "ts",

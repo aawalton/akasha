@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCopyTextSplit = {
   id: "01a0623c-2df8-7447-8782-334bfe087f89",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-copy-text-split",
   definition: "cutting a string into fixed-length chunks without breaking a multi-byte character",
   code: "ts",

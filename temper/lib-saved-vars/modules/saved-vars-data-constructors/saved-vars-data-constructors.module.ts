@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const savedVarsDataConstructors = {
   id: "01a06177-abfe-7f15-bc08-cbb1408e7aa6",
-  type: "module",
+  type: "page-type/module",
   slug: "saved-vars-data-constructors",
   definition: "a data object built over an account-wide manager, a character manager, or both",
   code: "ts",

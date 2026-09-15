@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mediaData = {
   id: "01a06069-f8c3-778a-b8ba-761dfaf9e630",
-  type: "module",
+  type: "page-type/module",
   slug: "media-data",
   definition: "the fonts, backgrounds, borders and sounds the library ships with",
   code: "ts",

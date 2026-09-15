@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const priceSourcesTtc = {
   id: "01a0615d-c21c-7c52-934f-292a22f1ed3a",
-  type: "module",
+  type: "page-type/module",
   slug: "price-sources-ttc",
   definition: "the price Tamriel Trade Centre holds for an item",
   code: "ts",

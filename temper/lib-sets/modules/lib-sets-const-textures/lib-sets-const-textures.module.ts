@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsConstTextures = {
   id: "01a061d7-7bc5-727f-88ac-49e2a8ab5686",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-const-textures",
   definition:
     "the game's own armour, weapon and Undaunted chest keeper names, gathered per language",

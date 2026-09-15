@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPinsCasts = {
   id: "01a06062-57dd-7cc7-b13d-2d2a7a6a7aee",
-  type: "module",
+  type: "page-type/module",
   slug: "map-pins-casts",
   definition: "what an untyped map pin value the game hands over is taken to be",
   code: "ts",

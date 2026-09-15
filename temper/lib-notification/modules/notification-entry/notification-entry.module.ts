@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const notificationEntry = {
   id: "01a0605a-0517-7516-85b8-1030a8a947e8",
-  type: "module",
+  type: "page-type/module",
   slug: "notification-entry",
   definition: "the global the game reads the notification library from once the addon loads",
   code: "ts",

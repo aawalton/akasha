@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuCodeBootstrap = {
   id: "01a06275-c444-774f-83a6-cfdd9fd1d702",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-code-bootstrap",
   definition: "the addon-loaded hook and the XML handlers the row templates call into",
   code: "ts",

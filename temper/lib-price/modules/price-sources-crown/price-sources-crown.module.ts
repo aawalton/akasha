@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const priceSourcesCrown = {
   id: "01a0615d-c21b-7998-ac48-d9bf136af8d3",
-  type: "module",
+  type: "page-type/module",
   slug: "price-sources-crown",
   definition: "the crown price a small table holds for a furnishing",
   code: "ts",

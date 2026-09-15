@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPingMain = {
   id: "01a0605f-6264-74cf-907a-7a6a66cbae34",
-  type: "module",
+  type: "page-type/module",
   slug: "map-ping-main",
   definition: "the wiring the map ping library does as the game loads it",
   code: "ts",

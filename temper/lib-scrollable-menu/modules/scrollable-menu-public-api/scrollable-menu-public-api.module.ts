@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuPublicApi = {
   id: "01a06275-c449-763b-b921-cfa7dd2c3f9b",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-public-api",
   definition: "the placing of the library object and its constants into the global namespace",
   code: "ts",

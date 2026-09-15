@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuDropdownClassRefresh = {
   id: "01a06275-c448-78f2-b90c-8003eddf1e5a",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-dropdown-class-refresh",
   definition: "the refresh of the current list or the open submenu after an entry changes",
   code: "ts",

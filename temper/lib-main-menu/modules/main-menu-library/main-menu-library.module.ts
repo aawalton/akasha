@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mainMenuLibrary = {
   id: "01a0605b-c804-7925-99e3-20309a00f020",
-  type: "module",
+  type: "page-type/module",
   slug: "main-menu-library",
   definition: "the menu entries, categories, scenes and scene groups an addon adds",
   code: "ts",

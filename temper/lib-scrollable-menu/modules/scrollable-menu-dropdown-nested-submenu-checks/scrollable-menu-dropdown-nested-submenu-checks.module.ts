@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuDropdownNestedSubmenuChecks = {
   id: "01a06275-c448-7cca-97e0-574c0568da33",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-dropdown-nested-submenu-checks",
   definition: "the hover-time bookkeeping that clears the new-entry marker up the submenu chain",
   code: "ts",

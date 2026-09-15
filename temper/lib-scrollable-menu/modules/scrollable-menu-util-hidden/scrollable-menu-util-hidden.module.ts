@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuUtilHidden = {
   id: "01a06275-c449-7fae-9235-4c18d5baf2e1",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-util-hidden",
   definition: "the decision on whether a mouse click should close the open menu",
   code: "ts",

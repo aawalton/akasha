@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuComboboxBaseSetupToggles = {
   id: "01a08e61-59ca-741f-bbbb-b9aae1eba841",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-combobox-base-setup-toggles",
   definition: "the setup functions filling a radio button row and a checkbox row",
   code: "ts",

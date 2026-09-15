@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsConstCasts = {
   id: "01a061d7-7bc6-7f09-8a94-7988ce547bf5",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-const-casts",
   definition: "an unchecked cast onto an array of DLC entries",
   code: "ts",

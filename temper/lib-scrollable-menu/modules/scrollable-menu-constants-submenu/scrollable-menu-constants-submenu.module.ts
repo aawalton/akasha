@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuConstantsSubmenu = {
   id: "01a06275-c446-71a1-b332-1345a2da6cf2",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-constants-submenu",
   definition: "the keys and methods a submenu proxy reads through to its owning combobox",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuUtilHighlight = {
   id: "01a06275-c449-7422-aa38-f077e3516352",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-util-highlight",
   definition: "the highlight animation applied to a hovered submenu or context-menu row",
   code: "ts",

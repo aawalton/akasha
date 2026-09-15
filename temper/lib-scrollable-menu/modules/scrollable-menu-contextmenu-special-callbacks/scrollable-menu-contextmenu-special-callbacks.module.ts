@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuContextmenuSpecialCallbacks = {
   id: "01a06275-c447-73b4-84ed-9d98c66f63d5",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-contextmenu-special-callbacks",
   definition: "the registry of per-addon show and hide callbacks on the context menu",
   code: "ts",

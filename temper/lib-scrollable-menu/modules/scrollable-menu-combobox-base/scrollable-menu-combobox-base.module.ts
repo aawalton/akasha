@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuComboboxBase = {
   id: "01a06275-c444-7462-9a01-bb0daeb9b5d0",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-combobox-base",
   definition: "the ZO_ComboBox subclass every library menu derives from and its narration plumbing",
   code: "ts",

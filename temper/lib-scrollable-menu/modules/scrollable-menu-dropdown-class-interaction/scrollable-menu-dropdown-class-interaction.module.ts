@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuDropdownClassInteraction = {
   id: "01a06275-c448-7ac8-9637-3e9f0799a922",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-dropdown-class-interaction",
   definition: "the anchoring and the mouse enter and exit behaviour of the dropdown control",
   code: "ts",

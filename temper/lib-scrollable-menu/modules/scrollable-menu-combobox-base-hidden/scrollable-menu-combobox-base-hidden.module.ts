@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuComboboxBaseHidden = {
   id: "01a06275-c445-7a77-9a7b-37159d7869b9",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-combobox-base-hidden",
   definition: "the response to a global mouse up while a menu is open or closed",
   code: "ts",

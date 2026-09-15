@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuDebugLogger = {
   id: "01a06275-c447-7b94-9fb0-c81968ff4107",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-debug-logger",
   definition: "the log sink that resolves a numeric message id and routes it by log type",
   code: "ts",

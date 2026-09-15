@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuMain = {
   id: "01a06275-c449-7ac7-bcea-a44c4d7ba068",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-main",
   definition: "the bare import list covering every module in the library",
   code: "ts",

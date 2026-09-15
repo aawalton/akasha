@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsConstAllDlc = {
   id: "01a061d7-7bc8-7a36-91a7-b3880f734351",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-const-all-dlc",
   definition: "every chapter, DLC and patch the game has shipped, each with its release date",
   code: "ts",

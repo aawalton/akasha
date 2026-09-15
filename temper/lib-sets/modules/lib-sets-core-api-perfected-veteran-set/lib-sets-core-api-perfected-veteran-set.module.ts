@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCoreApiPerfectedVeteranSet = {
   id: "01a061fc-ceed-7641-95c2-68e8bbf2731c",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-core-api-perfected-veteran-set",
   definition: "whether a set is perfected, veteran, or outside the game's own set ids",
   code: "ts",

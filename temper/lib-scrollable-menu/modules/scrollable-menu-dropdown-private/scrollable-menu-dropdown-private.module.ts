@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuDropdownPrivate = {
   id: "01a06275-c448-78fd-8436-b6770bf3e427",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-dropdown-private",
   definition: "the private helper table of the dropdown class and its automatic-refresh triggers",
   code: "ts",

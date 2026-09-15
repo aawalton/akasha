@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsConstBase = {
   id: "01a061d6-3e1f-78d4-ae78-a17b737f3690",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-const-base",
   definition: "the library global as it first exists, before any set data fills it",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuApiRefresh = {
   id: "01a06275-c443-7905-af8d-6d33bbb2d716",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-api-refresh",
   definition: "the globals that refresh a live menu and report whether one is shown",
   code: "ts",

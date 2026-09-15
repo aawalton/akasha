@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const notificationRowOverrides = {
   id: "01a0605a-0516-7cdb-bc72-cc68da9f4ab1",
-  type: "module",
+  type: "page-type/module",
   slug: "notification-row-overrides",
   definition: "the game's own notification row setup replaced so a row may have its own look",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mainMenuVersion = {
   id: "01a0605b-c805-735a-a5cc-35a007da2712",
-  type: "module",
+  type: "page-type/module",
   slug: "main-menu-version",
   definition: "the name and the build number this library answers to",
   code: "ts",

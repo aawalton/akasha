@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPinsHooks = {
   id: "01a06062-57e1-753f-929c-209be8a9f748",
-  type: "module",
+  type: "page-type/module",
   slug: "map-pins-hooks",
   definition: "the game's map filter panels and pin class reshaped as the game loads",
   code: "ts",

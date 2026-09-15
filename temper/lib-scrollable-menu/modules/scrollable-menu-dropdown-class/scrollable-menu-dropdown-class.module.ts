@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuDropdownClass = {
   id: "01a06275-c447-7ccf-b589-958d748292ad",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-dropdown-class",
   definition: "the subclass of ZO_ComboBoxDropdown_Keyboard and its scroll-list construction",
   code: "ts",

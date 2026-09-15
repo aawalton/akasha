@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuComboboxHeader = {
   id: "01a06275-c446-7e38-8795-527812c6d872",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-combobox-header",
   definition: "the collapsible header of a dropdown and its remembered collapsed state",
   code: "ts",

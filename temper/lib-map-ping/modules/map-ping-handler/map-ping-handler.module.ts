@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mapPingHandler = {
   id: "01a0605f-6262-7752-a1ba-21ba45c69531",
-  type: "module",
+  type: "page-type/module",
   slug: "map-ping-handler",
   definition: "the wrappers around the game's own map ping functions",
   code: "ts",

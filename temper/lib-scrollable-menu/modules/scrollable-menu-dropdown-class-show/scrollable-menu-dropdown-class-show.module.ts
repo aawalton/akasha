@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuDropdownClassShow = {
   id: "01a06275-c448-7005-be53-d0fe0ff38c84",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-dropdown-class-show",
   definition: "the population of the scroll list and the sizing of the dropdown on show",
   code: "ts",

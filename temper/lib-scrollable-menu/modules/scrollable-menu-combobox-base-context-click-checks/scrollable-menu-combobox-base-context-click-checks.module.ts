@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuComboboxBaseContextClickChecks = {
   id: "01a06275-c444-7eab-9372-905584db3ff8",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-combobox-base-context-click-checks",
   definition: "the two suppression checks around a click that lands outside the context menu",
   code: "ts",

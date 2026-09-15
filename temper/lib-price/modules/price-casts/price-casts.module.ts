@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const priceCasts = {
   id: "01a0615d-c219-7729-a4bf-b8c0493920a7",
-  type: "module",
+  type: "page-type/module",
   slug: "price-casts",
   definition: "what a table another add-on hands over is taken to be",
   code: "ts",

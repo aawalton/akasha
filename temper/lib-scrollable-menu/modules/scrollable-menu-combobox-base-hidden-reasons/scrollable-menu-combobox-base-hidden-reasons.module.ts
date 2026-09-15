@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuComboboxBaseHiddenReasons = {
   id: "01a06275-c445-7aff-80e4-09159398a759",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-combobox-base-hidden-reasons",
   definition: "the decision on whether this click should hide the menu",
   code: "ts",

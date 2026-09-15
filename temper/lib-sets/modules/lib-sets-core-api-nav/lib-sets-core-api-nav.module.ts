@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCoreApiNav = {
   id: "01a061fc-ceed-790c-89ab-adf54c99f601",
-  type: "module",
+  type: "page-type/module",
   slug: "lib-sets-core-api-nav",
   definition: "the world map opened on a zone or panned to a wayshrine",
   code: "ts",

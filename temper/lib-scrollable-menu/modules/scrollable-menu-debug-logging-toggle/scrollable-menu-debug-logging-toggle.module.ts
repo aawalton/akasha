@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuDebugLoggingToggle = {
   id: "01a06275-c447-7d33-a40a-ab1f81aa2b8b",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-debug-logging-toggle",
   definition: "the flip of the debug and verbose-debug switches on the library debug table",
   code: "ts",

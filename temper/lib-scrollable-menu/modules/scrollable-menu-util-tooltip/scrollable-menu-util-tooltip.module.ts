@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuUtilTooltip = {
   id: "01a06275-c44a-7df7-b767-4561076aeb19",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-util-tooltip",
   definition: "the placement and display of the tooltip for a menu entry",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuUtilEntryType = {
   id: "01a06275-c449-7779-ae6a-8ae87ffc8f8b",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-util-entry-type",
   definition: "the resolution of an entry type from the entry flags, name and additional data",
   code: "ts",

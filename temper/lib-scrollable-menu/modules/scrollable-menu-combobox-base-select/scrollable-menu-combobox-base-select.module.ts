@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuComboboxBaseSelect = {
   id: "01a06275-c445-7558-8143-c9b8adcfa975",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-combobox-base-select",
   definition: "the selection of an entry in single-select and multi-select menus",
   code: "ts",

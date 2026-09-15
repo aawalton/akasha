@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuDropdownHeader = {
   id: "01a06275-c448-77b6-b7de-356d17d15a95",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-dropdown-header",
   definition: "the numbered header child controls and the anchor sets each one takes",
   code: "ts",

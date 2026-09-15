@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuUtilVisible = {
   id: "01a06275-c44a-7e89-9fe5-5c2fe3ca230b",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-util-visible",
   definition: "the checks over which library dropdowns are currently visible",
   code: "ts",

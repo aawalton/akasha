@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pinTypes = {
   id: "01a06062-57df-78e5-8d6b-f75d65630a1b",
-  type: "module",
+  type: "page-type/module",
   slug: "pin-types",
   definition: "how a custom pin type is registered, laid out and refreshed",
   code: "ts",

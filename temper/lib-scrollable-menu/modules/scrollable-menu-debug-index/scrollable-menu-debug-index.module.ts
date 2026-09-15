@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuDebugIndex = {
   id: "01a06275-c447-7da5-abe9-590fd4049dbb",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-debug-index",
   definition: "the bare import list covering the logger and its slash-command toggle",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scrollableMenuComboboxBaseSetupHelpers = {
   id: "01a06275-c445-747a-a3e7-d3f0a1d5d282",
-  type: "module",
+  type: "page-type/module",
   slug: "scrollable-menu-combobox-base-setup-helpers",
   definition: "the per-part builders that attach an icon, arrow, divider, label or button to a row",
   code: "ts",

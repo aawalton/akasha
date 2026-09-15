@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const savedVarsProtectedMigrate = {
   id: "01a06177-abfb-7913-83a5-ec279a64ae25",
-  type: "module",
+  type: "page-type/module",
   slug: "saved-vars-protected-migrate",
   definition: "the copy that spreads one server's settings across every megaserver profile",
   code: "ts",
