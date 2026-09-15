@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const modelAccountMeasuring = {
   id: "01a05827-314f-7bc0-afb4-1189b872a8fb",
-  type: "module",
+  type: "page-type/module",
   slug: "model-account-measuring",
   definition: "what each account has spent of its windows, and which one the picker takes next",
   code: "ts",

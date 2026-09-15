@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatResolve = {
   id: "01a06949-b281-737a-9638-365e7ade018a",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-resolve",
   definition: "finding the page behind each slug a seat is given, or refusing with what is there",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const modelAccountRenewing = {
   id: "01a0686c-6c89-7000-9b91-1a5b2951d1d9",
-  type: "module",
+  type: "page-type/module",
   slug: "model-account-renewing",
   definition: "renewing an account's access token off its refresh token",
   code: "ts",

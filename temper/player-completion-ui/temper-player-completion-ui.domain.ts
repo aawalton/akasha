@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperPlayerCompletionUi = {
   id: "01a06267-372c-7003-8a9e-15b2f42d8750",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-player-completion-ui",
   definition: "the panel a browser draws one player's completion in",
   parts: [

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const modelProviderReading = {
   id: "01a0a534-b50b-7f9a-ac9b-140bd34880b7",
-  type: "module",
+  type: "page-type/module",
   slug: "model-provider-reading",
   definition: "what a model-provider has",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const proxySeat = {
   id: "01a0643b-c944-7618-aa57-457af63b61dd",
-  type: "module",
+  type: "page-type/module",
   slug: "proxy-seat",
   definition: "the seats running a gateway process that is alive",
   code: "ts",

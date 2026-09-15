@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperSkillMorph = {
   id: "01a061c7-0738-7e24-b2fa-36e9b8781b9c",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-skill-morph",
   definition: "a character's progress through the skills that morph",
   parts: [

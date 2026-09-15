@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const forcedToolChoice = {
   id: "01a0643b-c942-7c90-8314-374492f9e097",
-  type: "module",
+  type: "page-type/module",
   slug: "forced-tool-choice",
   definition: "a tool choice upstream refuses to force",
   code: "ts",

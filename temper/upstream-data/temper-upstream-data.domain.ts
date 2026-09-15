@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperUpstreamData = {
   id: "01a06038-2cbe-79d6-9497-4ef8b26650e5",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-upstream-data",
   definition: "the data temper copies out of community ESO libraries and rules on afterwards",
   parts: [

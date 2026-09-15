@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const idleTimeout = {
   id: "01a0623c-6939-733d-a2e2-720ebbb1d28d",
-  type: "module",
+  type: "page-type/module",
   slug: "idle-timeout",
   definition: "an upstream fetch aborted where no bytes arrive for a span",
   code: "ts",

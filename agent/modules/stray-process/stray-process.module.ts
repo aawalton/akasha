@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const strayProcess = {
   id: "01a09cd4-c1f0-776c-825d-f33fe4f0576c",
-  type: "module",
+  type: "page-type/module",
   slug: "stray-process",
   definition: "a process still running under a subagent that has departed",
   code: "ts",

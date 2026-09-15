@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatAnswering = {
   id: "01a06867-7fc9-7004-a4e4-ce9bc9ecc0fd",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-answering",
   definition: "the rule binding who a seat answers as to who a seat answers to",
   code: "ts",

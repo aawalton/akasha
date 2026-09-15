@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const forward = {
   id: "01a062f9-d8f3-766c-9fde-c4ce5fec4856",
-  type: "module",
+  type: "page-type/module",
   slug: "forward",
   definition: "one client request sent on to a provider and the response streamed back",
   code: "ts",

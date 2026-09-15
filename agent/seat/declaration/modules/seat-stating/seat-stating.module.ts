@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatStating = {
   id: "01a05dc3-4f16-7000-b46d-ca7a113c86a8",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-stating",
   definition: "the page written for a seat out of what it states",
   code: "ts",

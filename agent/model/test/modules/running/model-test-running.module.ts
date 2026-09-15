@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const modelTestRunning = {
   id: "01a0915e-d3cf-711b-b81e-034c2d603efa",
-  type: "module",
+  type: "page-type/module",
   slug: "model-test-running",
   definition: "a model test's labelled cases put to its model and weighed against their labels",
   code: "ts",

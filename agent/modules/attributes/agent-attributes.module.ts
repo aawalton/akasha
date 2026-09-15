@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const agentAttributes = {
   id: "01a06949-b281-754d-abc3-b81859567424",
-  type: "module",
+  type: "page-type/module",
   slug: "agent-attributes",
   definition:
     "the persona, domain and role declared of an agent, with the mode its session started in",

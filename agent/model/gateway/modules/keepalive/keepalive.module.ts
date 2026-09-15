@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const keepalive = {
   id: "01a06227-7bc1-7404-94dc-9da2da8daa1c",
-  type: "module",
+  type: "page-type/module",
   slug: "keepalive",
   definition: "a comment sent down a quiet stream so the reader knows it is still there",
   code: "ts",

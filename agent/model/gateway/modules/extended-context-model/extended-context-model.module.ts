@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const extendedContextModel = {
   id: "01a0643b-c940-7c40-9250-4804121e2d3c",
-  type: "module",
+  type: "page-type/module",
   slug: "extended-context-model",
   definition: "the extended-context marker on the model a request body names",
   code: "ts",

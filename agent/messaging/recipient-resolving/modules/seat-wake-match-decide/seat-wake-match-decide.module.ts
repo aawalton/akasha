@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatWakeMatchDecide = {
   id: "01a0686d-9d5e-701b-a93a-2cab28c6152b",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-wake-match-decide",
   definition: "whether inbound work revives an absent seat",
   code: "ts",

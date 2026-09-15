@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const modelAccountMarking = {
   id: "01a06351-3c6f-7c8c-b00a-a1234022ca1f",
-  type: "module",
+  type: "page-type/module",
   slug: "model-account-marking",
   definition: "what is written down about a model-account",
   code: "ts",

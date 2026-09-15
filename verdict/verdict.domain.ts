@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const verdict = {
   id: "01a05c87-a15f-79e8-9268-c8bf1735c3e6",
-  type: "domain",
+  type: "page-type/domain",
   slug: "verdict",
   definition: "a judgement on something measured, with what it covered and what it found",
   parts: ["module/reading-channel", "module/verdict-shape", "module/verdict-text"],

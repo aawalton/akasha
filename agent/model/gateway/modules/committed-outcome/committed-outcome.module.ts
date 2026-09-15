@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const committedOutcome = {
   id: "01a0622f-4550-7f67-8307-16e48ffd8ea5",
-  type: "module",
+  type: "page-type/module",
   slug: "committed-outcome",
   definition: "what an already-committed response does with the status upstream finally returns",
   code: "ts",

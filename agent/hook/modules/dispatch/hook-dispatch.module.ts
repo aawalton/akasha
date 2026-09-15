@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const hookDispatch = {
   id: "01a08dc2-4dc4-71fe-8902-22e28eec31e2",
-  type: "module",
+  type: "page-type/module",
   slug: "hook-dispatch",
   definition: "the one hook a client calls, running every hook the index names for that event",
   code: "ts",

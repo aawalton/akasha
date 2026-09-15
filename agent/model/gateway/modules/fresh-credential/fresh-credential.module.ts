@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const freshCredential = {
   id: "01a06457-7855-7bf0-8b9e-bbf962cb7f4f",
-  type: "module",
+  type: "page-type/module",
   slug: "fresh-credential",
   definition: "an account's credential while that credential has not expired",
   code: "ts",

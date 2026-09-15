@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const channelDelivery = {
   id: "01a0657e-795c-7001-943b-4973f01721fa",
-  type: "module",
+  type: "page-type/module",
   slug: "channel-delivery",
   definition: "what a seat's transcript says became of a channel message queued to that seat",
   code: "ts",

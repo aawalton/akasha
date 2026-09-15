@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const util = {
   id: "01a0827a-166b-7a7c-9b60-e90209b46c46",
-  type: "domain",
+  type: "page-type/domain",
   slug: "util",
   definition: "the pieces every domain reaches for and no domain claims",
 

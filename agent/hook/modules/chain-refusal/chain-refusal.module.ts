@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const chainRefusal = {
   id: "01a04f71-0570-763b-ac55-da9d9fca21da",
-  type: "module",
+  type: "page-type/module",
   slug: "chain-refusal",
   definition: "one refusal representing the whole command line it was found in",
   code: "ts",

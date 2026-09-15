@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatRoleOnCall = {
   id: "01a0766c-11c7-79de-aa16-8aafc180ce58",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-role-on-call",
   definition: "whether a role is on call, read from that role's own page",
   code: "ts",

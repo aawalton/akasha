@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const toolAccess = {
   id: "01a06964-d998-7eb2-b409-f7b943e17909",
-  type: "module",
+  type: "page-type/module",
   slug: "tool-access",
   definition: "which tools an agent may reach, read off the tool-access settings page",
   code: "ts",

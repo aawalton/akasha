@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const modelAccountPacing = {
   id: "01a06318-c048-798d-9da5-8554d16da7cd",
-  type: "module",
+  type: "page-type/module",
   slug: "model-account-pacing",
   definition: "how far ahead or behind a weekly quota an account is",
   code: "ts",

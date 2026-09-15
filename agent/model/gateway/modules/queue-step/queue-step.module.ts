@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const queueStep = {
   id: "01a0622e-02ab-7057-8be5-e820557f3f47",
-  type: "module",
+  type: "page-type/module",
   slug: "queue-step",
   definition: "the next step for a queued request while every model it could use is rate limited",
   code: "ts",

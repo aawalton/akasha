@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperSkyshard = {
   id: "01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-skyshard",
   definition: "every skyshard in Tamriel, shown on the map and the compass until the player has it",
   parts: [

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const modelAccountIdentity = {
   id: "01a0686b-604a-7000-a940-38d8a7a13399",
-  type: "module",
+  type: "page-type/module",
   slug: "model-account-identity",
   definition: "which upstream account a credential belongs to, and pinning a page to it",
   code: "ts",

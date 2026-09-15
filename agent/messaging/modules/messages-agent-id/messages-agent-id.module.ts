@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const messagesAgentId = {
   id: "01a0686c-f06b-700f-b509-474c22d7c815",
-  type: "module",
+  type: "page-type/module",
   slug: "messages-agent-id",
   definition: "the agent a message server is running for",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperPlayerCompletionState = {
   id: "01a06253-d28f-7000-8979-abef0ff69650",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-player-completion-state",
   definition: "the completion addon's saved table and the shapes read out of it",
   parts: [

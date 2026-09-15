@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const agentProcLiveness = {
   id: "01a0686d-9d5e-7009-bebb-7b79c2cfd874",
-  type: "module",
+  type: "page-type/module",
   slug: "agent-proc-liveness",
   definition: "which agents are alive, read from the command lines of the processes standing",
   code: "ts",

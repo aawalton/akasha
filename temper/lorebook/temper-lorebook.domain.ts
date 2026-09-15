@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperLorebook = {
   id: "01a06176-9c44-7c00-8a3b-7cf902e62430",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-lorebook",
   definition:
     "the lore books of Tamriel, drawn where a player must go to read one they have not read",

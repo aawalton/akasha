@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const recipientResolverTick = {
   id: "01a0657d-a75e-7005-b58c-0987d7b7e34f",
-  type: "module",
+  type: "page-type/module",
   slug: "recipient-resolver-tick",
   definition: "one run over the armed specs, reviving each absent seat whose inbound work matches",
   code: "ts",

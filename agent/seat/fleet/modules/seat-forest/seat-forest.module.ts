@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatForest = {
   id: "01a069bd-bdc5-755e-a5da-244f293078f7",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-forest",
   definition: "every seat akasha holds, with each seat's principal and parent, as rows",
   code: "ts",

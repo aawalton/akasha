@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const recipientResolverRegistry = {
   id: "01a0657d-a75e-7003-ad87-1205dd4ec929",
-  type: "module",
+  type: "page-type/module",
   slug: "recipient-resolver-registry",
   definition:
     "the armed specs a tick walks, gathered from the declared, the seated, the personas and the people",

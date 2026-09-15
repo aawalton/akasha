@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const modelAccountUpkeepStall = {
   id: "01a0686a-6c02-7000-aab4-ab51e35ecc88",
-  type: "module",
+  type: "page-type/module",
   slug: "model-account-upkeep-stall",
   definition: "how far behind the upkeep an account has fallen",
   code: "ts",

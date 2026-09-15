@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperLostTreasure = {
   id: "01a06141-8003-755d-8ec8-3764b298f7ef",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-lost-treasure",
   definition:
     "the buried treasure a map or a survey report points to, drawn where the player must dig",

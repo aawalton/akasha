@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatHandle = {
   id: "01a06983-278f-73b4-b978-513711cc100d",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-handle",
   definition: "the grammar of a uuid, a prefix, or a name that names one seat",
   code: "ts",

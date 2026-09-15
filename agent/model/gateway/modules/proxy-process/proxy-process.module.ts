@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const proxyProcess = {
   id: "01a06421-4b75-7305-9adb-5701a34aec32",
-  type: "module",
+  type: "page-type/module",
   slug: "proxy-process",
   definition: "the process a gateway runs as from its boot to the signal ending that process",
   code: "ts",

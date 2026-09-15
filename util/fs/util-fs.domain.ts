@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const utilFs = {
   id: "01a05c4c-9440-7c8e-bb95-ba621d52090a",
-  type: "domain",
+  type: "page-type/domain",
   slug: "util-fs",
   definition: "how a file lands whole and how a path spelled from home is spelled in full",
   parts: [

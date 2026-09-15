@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inFlight = {
   id: "01a06421-4b72-78c7-b4b7-9bbcf4a60b46",
-  type: "module",
+  type: "page-type/module",
   slug: "in-flight",
   definition: "the requests a gateway has taken in and not yet answered",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const providerUpstream = {
   id: "01a0a545-fe20-78a2-8aab-bd467841ffcd",
-  type: "module",
+  type: "page-type/module",
   slug: "provider-upstream",
   definition: "the base, key and model a gateway sends a provider a request with",
   code: "ts",

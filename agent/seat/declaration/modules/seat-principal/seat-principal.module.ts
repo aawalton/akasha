@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatPrincipal = {
   id: "01a06949-b281-758a-b03f-cad660b7a2e7",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-principal",
   definition: "who a seat answers to, read from its page as a person or as the fleet",
   code: "ts",

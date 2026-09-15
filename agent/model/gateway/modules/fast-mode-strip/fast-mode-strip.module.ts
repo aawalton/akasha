@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const fastModeStrip = {
   id: "01a0628d-3afc-782f-b008-da98b0a830e4",
-  type: "module",
+  type: "page-type/module",
   slug: "fast-mode-strip",
   definition: "a request stripped of what asks for fast mode",
   code: "ts",

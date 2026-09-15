@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const recipientResolverRevive = {
   id: "01a0657d-a75e-7004-be2b-c82d305902a9",
-  type: "module",
+  type: "page-type/module",
   slug: "recipient-resolver-revive",
   definition: "a seat resumed under verification, read back as a revive signal",
   code: "ts",

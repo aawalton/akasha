@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorCredentials = {
   id: "01a0683e-3dbe-7016-a806-44c493fde84f",
-  type: "module",
+  type: "page-type/module",
   slug: "supervisor-credentials",
   definition: "the credential pulled for a seat's account while the seat runs",
   code: "ts",

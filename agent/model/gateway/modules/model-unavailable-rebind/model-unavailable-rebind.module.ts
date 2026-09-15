@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const modelUnavailableRebind = {
   id: "01a0643b-c946-7c01-9657-1bea04a89d30",
-  type: "module",
+  type: "page-type/module",
   slug: "model-unavailable-rebind",
   definition:
     "the account a request moves to after one account answers that the model is not there",

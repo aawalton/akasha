@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const modelAccountCredentialFile = {
   id: "01a0686d-236a-7000-8b8f-acbdc729fc69",
-  type: "module",
+  type: "page-type/module",
   slug: "model-account-credential-file",
   definition: "the credential file a signed-in agent reads, kept level with the account's page",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperShopping = {
   id: "01a060cf-b0ae-749c-8084-93aa1e9a4247",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-shopping",
   definition: "which guild trader listings to buy and how few kiosks that takes",
   parts: [

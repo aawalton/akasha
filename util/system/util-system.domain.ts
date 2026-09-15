@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const utilSystem = {
   id: "01a05c67-00ac-7c6f-a5c8-9391ef1427fe",
-  type: "domain",
+  type: "page-type/domain",
   slug: "util-system",
   definition: "what the Linux kernel says about the workstation, read from the files it says it in",
   parts: ["module/inode-guard", "module/landing-admission", "module/memory-guard"],

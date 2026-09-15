@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const permissionDenied = {
   id: "01a0628c-26f7-7c6b-8758-0f0588e8ddf1",
-  type: "module",
+  type: "page-type/module",
   slug: "permission-denied",
   definition: "what a 403 body says about upstream refusing the caller permission",
   code: "ts",

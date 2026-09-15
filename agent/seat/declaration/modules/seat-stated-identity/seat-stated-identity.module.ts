@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const seatStatedIdentity = {
   id: "01a0686d-9d5e-7015-b484-a662b772f104",
-  type: "module",
+  type: "page-type/module",
   slug: "seat-stated-identity",
   definition: "what a starting seat stated, checked against the pages before the seat boots",
   code: "ts",

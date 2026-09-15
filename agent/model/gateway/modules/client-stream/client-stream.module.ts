@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const clientStream = {
   id: "01a0628b-a005-7127-97c7-0f8541a03fb6",
-  type: "module",
+  type: "page-type/module",
   slug: "client-stream",
   definition: "whether the client asked for the answer as a stream",
   code: "ts",

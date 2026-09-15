@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const parseErrorType = {
   id: "01a0628b-a005-77f9-a9c0-60f27c33f62a",
-  type: "module",
+  type: "page-type/module",
   slug: "parse-error-type",
   definition: "the type an error response body names under the body's `error` key",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const modelBody = {
   id: "01a0a596-6b4f-7d38-aa50-16012c107a4a",
-  type: "module",
+  type: "page-type/module",
   slug: "model-body",
   definition: "the model a request body names, read and written again",
   code: "ts",

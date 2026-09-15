@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const modelAccountUsage = {
   id: "01a069cf-7042-7002-be6e-85399cf7d1f7",
-  type: "module",
+  type: "page-type/module",
   slug: "model-account-usage",
   definition: "what the fleet of model accounts has spent, read off the account pages",
   code: "ts",

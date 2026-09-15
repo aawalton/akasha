@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperProgress = {
   id: "01a05fac-7582-726f-ac10-d5261c7e1f65",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-progress",
   definition: "what has been done in the game and what is left",
   parts: [

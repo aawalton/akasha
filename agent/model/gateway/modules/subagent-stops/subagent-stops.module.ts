@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subagentStops = {
   id: "01a09c65-fde7-7b95-ae20-68255ca085d3",
-  type: "module",
+  type: "page-type/module",
   slug: "subagent-stops",
   definition:
     "the subagents a gateway holds as stopped, read from the pages beside its seat and followed",

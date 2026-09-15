@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const wakeCommsInput = {
   id: "01a0691b-4f64-7b71-ba64-5c92023f77fe",
-  type: "module",
+  type: "page-type/module",
   slug: "wake-comms-input",
   definition: "a stored message row shaped as the input the wake rules read",
   code: "ts",

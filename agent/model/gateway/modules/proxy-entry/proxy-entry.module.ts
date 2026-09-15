@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const proxyEntry = {
   id: "01a06976-2384-7000-b7a0-ed0cadf58dad",
-  type: "module",
+  type: "page-type/module",
   slug: "proxy-entry",
   definition: "the answers to every seam a gateway process asks for",
   code: "ts",

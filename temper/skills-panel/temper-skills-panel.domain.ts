@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperSkillsPanel = {
   id: "01a090b6-a3f2-7389-972c-8722513c19f0",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-skills-panel",
   definition: "the panel a player spends a character's skill points in",
   parts: ["module/skills-panel-points"],

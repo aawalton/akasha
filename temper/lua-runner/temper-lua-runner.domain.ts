@@ -2,7 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperLuaRunner = {
   id: "01a06059-248e-7afb-9115-253f8636048f",
-  type: "domain",
+  type: "page-type/domain",
   slug: "temper-lua-runner",
   definition: "a Lua 5.1 interpreter kept alive in a subprocess and talked to over a pipe",
   parts: [

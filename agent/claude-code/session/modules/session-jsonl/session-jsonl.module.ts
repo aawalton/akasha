@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sessionJsonl = {
   id: "01a06983-278f-73dd-8e80-ed3922f2ab24",
-  type: "module",
+  type: "page-type/module",
   slug: "session-jsonl",
   definition: "a transcript's jsonl parsed, and sanitized for a resume",
   code: "ts",
