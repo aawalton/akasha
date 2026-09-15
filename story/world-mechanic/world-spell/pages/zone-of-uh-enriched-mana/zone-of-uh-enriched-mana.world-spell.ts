@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const zoneOfUhEnrichedMana = {
   id: "01a06572-95ea-749a-98d1-89aa4f1ae265",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "zone-of-uh-enriched-mana",
   title: "Zone of…uh…Enriched Mana",
   world: "world/the-wandering-inn",

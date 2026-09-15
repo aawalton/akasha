@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const zoneOfSlowTime = {
   id: "01a06572-95ea-77ba-b1ff-da7868ced37e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "zone-of-slow-time",
   title: "Zone of Slow Time",
   world: "world/the-wandering-inn",

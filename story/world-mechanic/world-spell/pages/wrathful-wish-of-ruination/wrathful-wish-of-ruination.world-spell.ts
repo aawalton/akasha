@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const wrathfulWishOfRuination = {
   id: "01a06572-95ea-7c67-a7a0-5e83f3d469a9",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "wrathful-wish-of-ruination",
   title: "Wrathful Wish of Ruination",
   world: "world/the-wandering-inn",

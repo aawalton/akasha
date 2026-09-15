@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const windwardBarrierSelf = {
   id: "01a06572-95ea-7f92-944b-372754789a1f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "windward-barrier-self",
   title: "Windward Barrier: Self",
   world: "world/the-wandering-inn",

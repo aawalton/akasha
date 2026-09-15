@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const woodToStone = {
   id: "01a06572-95ea-76cc-aca8-10ee39f2a7c5",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "wood-to-stone",
   title: "Wood to Stone",
   world: "world/the-wandering-inn",

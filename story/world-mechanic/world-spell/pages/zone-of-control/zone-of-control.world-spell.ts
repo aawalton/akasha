@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const zoneOfControl = {
   id: "01a06572-95ea-7f94-876d-1b603f227199",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "zone-of-control",
   title: "Zone of Control",
   world: "world/the-wandering-inn",
