@@ -86,7 +86,12 @@ export async function getPageByIdSuffixAcrossTypes(
   for (const slug of args.pageTypeSlugs) {
     const shape = await requireFileShape(slug, "getPageByIdSuffixAcrossTypes")
     found.push(
-      ...(await getFilePagesByIdSuffix({ pageTypeSlug: slug, shape, idSuffix: args.idSuffix }))
+      ...(await getFilePagesByIdSuffix({
+        pageTypeSlug: slug,
+        shape,
+        idSuffix: args.idSuffix,
+        select: args.select,
+      }))
     )
   }
 

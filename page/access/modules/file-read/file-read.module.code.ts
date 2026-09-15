@@ -316,14 +316,25 @@ export type GetFilePagesByIdSuffixArgs = {
   readonly pageTypeSlug: string
   readonly shape: FileReadShape
   readonly idSuffix: string
+  readonly select?: PageSelect
+}
+
+function keysBySuffix(args: GetFilePagesByIdSuffixArgs): readonly string[] | null {
+  const select = args.select
+  if (select === undefined) return null
+  const wanted = new Set<string>(["id", "slug", "title"])
+  for (const key of select) wanted.add(declaredAs(key, args.shape.definitions))
+  return [...wanted]
 }
 
 export async function getFilePagesByIdSuffix(
   args: GetFilePagesByIdSuffixArgs,
   deps: FileReadDeps = LIVE
 ): Promise<readonly Page[]> {
+  const keys = keysBySuffix(args)
   const asked = await deps.ask({
     pageTypeSlug: args.pageTypeSlug,
+    ...(keys === null ? {} : { keys }),
     where: { id: { "ends-with": args.idSuffix } },
   })
   if ("refused" in asked) {

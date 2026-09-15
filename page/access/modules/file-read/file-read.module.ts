@@ -41,6 +41,18 @@ export const fileRead = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A select bounds the bytes read, by naming the keys the pages are asked for.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page reached by the suffix of its id is asked for the same keys.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The keys asked for carry a page's id, slug and title however the select reads.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A cursor marks where a listing left off in that order.",
     },
     {
