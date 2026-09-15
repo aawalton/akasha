@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const antiMagicSlash = {
   id: "01a06575-97eb-7fb0-9f66-8a6437932cfa",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "anti-magic-slash",
   title: "Anti-magic Slash",
   world: "world/the-wandering-inn",

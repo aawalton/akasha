@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const alliedDistressCall = {
   id: "01a06575-97eb-7fca-bd67-1e44a5470a07",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "allied-distress-call",
   title: "Allied Distress Call",
   world: "world/the-wandering-inn",

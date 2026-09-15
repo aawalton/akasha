@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const apistaBasicTraining = {
   id: "01a06575-97eb-744b-91ed-5de70d3eca53",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "apista-basic-training",
   title: "Apista: Basic Training",
   world: "world/the-wandering-inn",

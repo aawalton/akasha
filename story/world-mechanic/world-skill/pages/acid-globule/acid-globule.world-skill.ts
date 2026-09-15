@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const acidGlobule = {
   id: "01a06575-97e8-7d81-a947-893a27dd6c90",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "acid-globule",
   title: "Acid Globule",
   world: "world/the-wandering-inn",

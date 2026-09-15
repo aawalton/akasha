@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const airburstFist = {
   id: "01a06575-97ea-7b69-b5d8-88caad8cbc67",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "airburst-fist",
   title: "Airburst Fist",
   world: "world/the-wandering-inn",

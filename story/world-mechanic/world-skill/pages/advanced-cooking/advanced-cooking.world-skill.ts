@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const advancedCooking = {
   id: "01a06575-97e9-742d-a3b3-55355fceaa39",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "advanced-cooking",
   title: "Advanced Cooking",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const armformLiquid = {
   id: "01a06575-97ec-7bce-bd2a-db1b7a1ad603",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "armform-liquid",
   title: "Armform: Liquid",
   world: "world/the-wandering-inn",

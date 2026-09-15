@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const ablerBodiedAnimalsAnts = {
   id: "01a06575-97e7-76d6-b986-7088937c9d92",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "abler-bodied-animals-ants",
   title: "Abler Bodied Animals (Ants)",
   world: "world/the-wandering-inn",

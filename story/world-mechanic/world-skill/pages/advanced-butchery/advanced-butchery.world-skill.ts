@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const advancedButchery = {
   id: "01a06575-97e9-7563-ac2f-a2b1939e1d89",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "advanced-butchery",
   title: "Advanced Butchery",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const armsImpactShield = {
   id: "01a06575-97ec-7edf-973c-dbbbb9e4ecb2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "arms-impact-shield",
   title: "Arms: Impact Shield",
   world: "world/the-wandering-inn",

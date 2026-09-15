@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const armoredLeap = {
   id: "01a06575-97ec-7659-96ba-481ab448347f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "armored-leap",
   title: "Armored Leap",
   world: "world/the-wandering-inn",

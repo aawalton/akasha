@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const aRefreshingRepast = {
   id: "01a06575-97e7-76c2-80f2-cf64efee0c12",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "a-refreshing-repast",
   title: "A Refreshing Repast",
   world: "world/the-wandering-inn",

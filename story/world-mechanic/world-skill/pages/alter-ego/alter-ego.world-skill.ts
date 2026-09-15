@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const alterEgo = {
   id: "01a06575-97eb-7875-9929-602fa1d52c74",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "alter-ego",
   title: "Alter Ego",
   world: "world/the-wandering-inn",

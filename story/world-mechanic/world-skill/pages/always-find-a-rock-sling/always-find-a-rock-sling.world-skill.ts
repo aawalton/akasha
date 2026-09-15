@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const alwaysFindARockSling = {
   id: "01a06575-97eb-7780-9d1e-831a7e4b380d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "always-find-a-rock-sling",
   title: "Always Find A Rock (Sling)",
   world: "world/the-wandering-inn",

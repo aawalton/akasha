@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const acrobatSForm = {
   id: "01a06575-97e8-75c6-b459-d24fbeea9d93",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "acrobat-s-form",
   title: "Acrobat’s Form",
   world: "world/the-wandering-inn",

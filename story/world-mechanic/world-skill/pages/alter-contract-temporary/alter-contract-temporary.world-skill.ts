@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const alterContractTemporary = {
   id: "01a06575-97eb-73cd-a2e7-1fbfe25ee32e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "alter-contract-temporary",
   title: "Alter Contract (Temporary)",
   world: "world/the-wandering-inn",

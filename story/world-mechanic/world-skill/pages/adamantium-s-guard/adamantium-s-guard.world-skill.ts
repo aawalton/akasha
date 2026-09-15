@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const adamantiumSGuard = {
   id: "01a06575-97e9-7fda-923c-49b494da20e9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "adamantium-s-guard",
   title: "Adamantium’s Guard",
   world: "world/the-wandering-inn",

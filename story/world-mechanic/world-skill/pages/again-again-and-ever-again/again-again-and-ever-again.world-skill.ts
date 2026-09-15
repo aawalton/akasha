@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const againAgainAndEverAgain = {
   id: "01a06575-97ea-7a51-93f9-8b64d1e33ddb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "again-again-and-ever-again",
   title: "Again, Again, and Ever Again",
   world: "world/the-wandering-inn",

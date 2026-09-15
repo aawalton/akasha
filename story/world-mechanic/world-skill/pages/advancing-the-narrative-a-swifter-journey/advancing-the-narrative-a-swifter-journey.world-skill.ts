@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const advancingTheNarrativeASwifterJourney = {
   id: "01a06575-97e9-7670-8976-8801171be4d0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "advancing-the-narrative-a-swifter-journey",
   title: "Advancing the Narrative: A Swifter Journey",
   world: "world/the-wandering-inn",

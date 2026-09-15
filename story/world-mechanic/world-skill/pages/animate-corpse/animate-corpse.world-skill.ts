@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const animateCorpse = {
   id: "01a06575-97eb-7aab-8167-a58ed3363b88",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "animate-corpse",
   title: "Animate Corpse",
   world: "world/the-wandering-inn",

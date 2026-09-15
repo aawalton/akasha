@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const archersTriplicateVolley = {
   id: "01a06575-97ec-76a8-9b1d-ad86e0f58909",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "archers-triplicate-volley",
   title: "Archers: Triplicate Volley",
   world: "world/the-wandering-inn",

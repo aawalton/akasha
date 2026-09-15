@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const animalsBasicCommand = {
   id: "01a06575-97eb-7e09-8909-7b6b83e13582",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "animals-basic-command",
   title: "Animals: Basic Command",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const anAppleADay = {
   id: "01a06575-97eb-7d34-9f5e-c5a29ea7e42a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "an-apple-a-day",
   title: "An Apple A Day",
   world: "world/the-wandering-inn",

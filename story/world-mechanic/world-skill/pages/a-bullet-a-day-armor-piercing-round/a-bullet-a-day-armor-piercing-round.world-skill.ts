@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const aBulletADayArmorPiercingRound = {
   id: "01a06575-97e6-701a-ade5-3bc74e2e7260",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "a-bullet-a-day-armor-piercing-round",
   title: "A Bullet A Day: Armor Piercing Round",
   world: "world/the-wandering-inn",

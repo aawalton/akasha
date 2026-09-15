@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const animalRespectFriendByDeed = {
   id: "01a06575-97eb-7d35-a0f1-2cc7102fd720",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "animal-respect-friend-by-deed",
   title: "Animal Respect: Friend by Deed",
   world: "world/the-wandering-inn",

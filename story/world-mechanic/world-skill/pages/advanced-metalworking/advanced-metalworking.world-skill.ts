@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const advancedMetalworking = {
   id: "01a06575-97e9-7995-94d7-b1416e4e7537",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "advanced-metalworking",
   title: "Advanced Metalworking",
   world: "world/the-wandering-inn",

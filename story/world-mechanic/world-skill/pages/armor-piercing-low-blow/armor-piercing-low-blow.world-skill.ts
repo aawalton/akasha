@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const armorPiercingLowBlow = {
   id: "01a06575-97ec-7592-9e2a-bb328c5912f9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "armor-piercing-low-blow",
   title: "Armor-piercing Low Blow",
   world: "world/the-wandering-inn",

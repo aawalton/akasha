@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const animateUndeadObjects = {
   id: "01a06575-97eb-7cb3-89b7-107a6fb018b6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "animate-undead-objects",
   title: "Animate Undead (Objects)",
   world: "world/the-wandering-inn",

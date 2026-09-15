@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const allConcealingHood = {
   id: "01a06575-97ea-71ca-9590-264a5acc6b00",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "all-concealing-hood",
   title: "All-Concealing Hood",
   world: "world/the-wandering-inn",

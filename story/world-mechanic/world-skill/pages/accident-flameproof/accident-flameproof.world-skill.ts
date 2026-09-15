@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const accidentFlameproof = {
   id: "01a06575-97e8-73b5-bb8d-020d93d7d96e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "accident-flameproof",
   title: "Accident: Flameproof",
   world: "world/the-wandering-inn",

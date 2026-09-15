@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const acceleratedThrow = {
   id: "01a06575-97e8-7057-9478-dc879cb20874",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "accelerated-throw",
   title: "Accelerated Throw",
   world: "world/the-wandering-inn",

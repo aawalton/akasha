@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const airPlatform = {
   id: "01a06575-97ea-7432-a224-319440dda3ab",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "air-platform",
   title: "Air Platform",
   world: "world/the-wandering-inn",

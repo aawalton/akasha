@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const activateArtifactIncredibleEffect = {
   id: "01a06575-97e9-7976-87f8-7036f1162a75",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "activate-artifact-incredible-effect",
   title: "Activate Artifact: Incredible Effect",
   world: "world/the-wandering-inn",

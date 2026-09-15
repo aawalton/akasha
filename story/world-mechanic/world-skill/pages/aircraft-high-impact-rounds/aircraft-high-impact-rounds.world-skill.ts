@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const aircraftHighImpactRounds = {
   id: "01a06575-97ea-7736-8da9-3759044b6384",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "aircraft-high-impact-rounds",
   title: "Aircraft: High Impact Rounds",
   world: "world/the-wandering-inn",

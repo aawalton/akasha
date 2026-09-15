@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const armedAtAllTimes = {
   id: "01a06575-97ec-7d7d-8234-485c5ca28e00",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "armed-at-all-times",
   title: "Armed At All Times",
   world: "world/the-wandering-inn",

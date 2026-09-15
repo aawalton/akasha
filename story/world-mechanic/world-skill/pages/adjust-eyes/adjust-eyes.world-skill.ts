@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const adjustEyes = {
   id: "01a06575-97e9-7632-a7f6-947aab38b665",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "adjust-eyes",
   title: "Adjust Eyes",
   world: "world/the-wandering-inn",

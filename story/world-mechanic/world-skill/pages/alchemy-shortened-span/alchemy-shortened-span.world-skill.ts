@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const alchemyShortenedSpan = {
   id: "01a06575-97ea-746e-9cf4-ec49905e2174",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "alchemy-shortened-span",
   title: "Alchemy: Shortened Span",
   world: "world/the-wandering-inn",

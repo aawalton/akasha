@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const alcoholBrewingMonstrousDraught = {
   id: "01a06575-97ea-7bb4-94e0-9c6f12a77cae",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "alcohol-brewing-monstrous-draught",
   title: "Alcohol Brewing: Monstrous Draught",
   world: "world/the-wandering-inn",

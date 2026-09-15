@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const aegisOfRoshalSChosen = {
   id: "01a06575-97e9-702f-92a3-4d22040c6ccb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "aegis-of-roshal-s-chosen",
   title: "Aegis of Roshal’s Chos—",
   world: "world/the-wandering-inn",

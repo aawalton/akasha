@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const applyBasicEnchantment = {
   id: "01a06575-97eb-71e3-9afe-a5530624c744",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "apply-basic-enchantment",
   title: "Apply Basic Enchantment",
   world: "world/the-wandering-inn",

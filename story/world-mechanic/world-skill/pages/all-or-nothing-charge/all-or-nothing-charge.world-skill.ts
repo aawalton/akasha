@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const allOrNothingCharge = {
   id: "01a06575-97ea-7f59-9bef-c025e7ad40a6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "all-or-nothing-charge",
   title: "All-or-Nothing Charge",
   world: "world/the-wandering-inn",

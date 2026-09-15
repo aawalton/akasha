@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const antimagicBlade = {
   id: "01a06575-97eb-7c75-adb0-b7ce92bc8de8",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "antimagic-blade",
   title: "Antimagic Blade",
   world: "world/the-wandering-inn",

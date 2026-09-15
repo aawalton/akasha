@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const ancientForm = {
   id: "01a06575-97eb-7bdc-935e-1c85c17c2548",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ancient-form",
   title: "Ancient Form",
   world: "world/the-wandering-inn",

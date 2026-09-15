@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const aTribeOfTwoWorthTheWeightOfThousands = {
   id: "01a06575-97e7-74d5-a3fe-dbe9afcc4ea6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "a-tribe-of-two-worth-the-weight-of-thousands",
   title: "A Tribe of Two, Worth the Weight of Thousands",
   world: "world/the-wandering-inn",
