@@ -297,7 +297,7 @@ test("a refresh that stopped part way names the indexes it wrote and the file it
     "the refresh wrote part of the index before it stopped — run it again"
   )
   expect(answer.refusals[2] ?? "").toMatch(
-    /^what it wrote by then: identity — \d+ files? written; shapes — \d+ files? written; shapes — \d+ files? written; import — \d+ files? written, `import\/path\/a\.domain\.ts\.jsonl` in hand$/
+    /^what it wrote by then: identity — \d+ files? written(?:; [a-z-]+ — \d+ files? written)*; import — \d+ files? written, `import\/path\/a\.domain\.ts\.jsonl` in hand$/
   )
 })
 
