@@ -2,7 +2,7 @@ import type { MonarchAccount } from "akasha/alan/harness/monarch/account/monarch
 
 export const auxiliarySavings4202 = {
   id: "01a06559-5ea8-7005-b645-08aaee790d8f",
-  type: "monarch-account",
+  type: "page-type/monarch-account",
   slug: "auxiliary-savings-4202",
   title: "Auxiliary Savings 4202",
   definition: "money the family has, sitting in a savings account",

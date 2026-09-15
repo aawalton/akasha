@@ -2,7 +2,7 @@ import type { MonarchAccount } from "akasha/alan/harness/monarch/account/monarch
 
 export const checkingProtection4299 = {
   id: "01a06559-5ea8-700a-9516-74472edabc6d",
-  type: "monarch-account",
+  type: "page-type/monarch-account",
   slug: "checking-protection-4299",
   title: "Checking Protection 4299",
   definition: "money the family owes, sitting in a loan account",

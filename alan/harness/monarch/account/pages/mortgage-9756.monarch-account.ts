@@ -2,7 +2,7 @@ import type { MonarchAccount } from "akasha/alan/harness/monarch/account/monarch
 
 export const mortgage9756 = {
   id: "01a06559-5ea8-7012-9287-98019b5eee6c",
-  type: "monarch-account",
+  type: "page-type/monarch-account",
   slug: "mortgage-9756",
   title: "Mortgage 9756",
   definition: "money the family owes, sitting in a loan account",

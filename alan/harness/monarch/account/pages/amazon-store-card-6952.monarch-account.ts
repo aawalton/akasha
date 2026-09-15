@@ -2,7 +2,7 @@ import type { MonarchAccount } from "akasha/alan/harness/monarch/account/monarch
 
 export const amazonStoreCard6952 = {
   id: "01a06559-5ea8-7004-b142-39ece4c266e4",
-  type: "monarch-account",
+  type: "page-type/monarch-account",
   slug: "amazon-store-card-6952",
   title: "Amazon Store Card 6952",
   definition: "money the family owes, sitting in a credit card account",

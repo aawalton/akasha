@@ -2,7 +2,7 @@ import type { MonarchAccount } from "akasha/alan/harness/monarch/account/monarch
 
 export const alanWaltonJenniferWaltonCashPlusAccount2749362810 = {
   id: "01a06559-5ea8-7001-8285-5a3ad2d82987",
-  type: "monarch-account",
+  type: "page-type/monarch-account",
   slug: "alan-walton-jennifer-walton-cash-plus-account-2749-362810",
   title: "Cash Plus Account - 2749",
   definition: "money the family has, sitting in a cash management account",
