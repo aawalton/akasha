@@ -8,11 +8,11 @@ export const recipientResolverInbound = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent with no seat name has nothing waiting.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message from nobody has a sender of nothing rather than an empty name.",
     },
   ],
