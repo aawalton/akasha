@@ -15,7 +15,7 @@ export const attribute = {
     "attribute/strength",
     "attribute/wisdom",
     "computed-property/attribute-level",
-    "domain/attribute-readouts",
+    "domain/attribute-readout",
     "module/attribute-points",
     "number-property/points-before-today",
     "number-property/points-today",
