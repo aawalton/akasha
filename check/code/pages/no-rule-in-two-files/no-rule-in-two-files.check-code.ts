@@ -100,49 +100,12 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing files the rules a changed file spells under those rules.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A run at change reads those filed rules rather than parsing every file named.",
+      statement: "Every run reads each file's rules out of that file rather than out of a filing.",
     },
     {
       invariantKind: "absence",
-      statement: "A typed path the index names and has not read is parsed by nothing here.",
+      statement: "No index answers what a file spells.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The filed rules are read only where the reader that filed them is the one asking.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A file written outside a landing has its rules filed by nothing until a rebuild.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Such a file is refused against the filed rules of others and makes no other file refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A run the filing reader did not file for parses the files that search names instead.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An audit parses every file its change carries rather than reading the filed rules.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A filed rule string is the one the code-rule reader spells.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "Nothing works a rule string out a second time to file it.",
-    },
-
     {
       invariantKind: "departure",
       statement: "A change with no code file is refused nothing without the index being read.",

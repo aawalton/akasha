@@ -43,7 +43,6 @@ import {
   settled,
   shapeFiled,
   slugFile,
-  stampsApart,
   TYPE_SLUG,
   tookAway,
   untouchedAfter,
@@ -52,7 +51,6 @@ import {
   wroteText,
 } from "akasha/page/index/modules/indexing/indexing.module.test-fixtures.ts"
 import { builtThere } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
-import { readerNow } from "akasha/page/index/rule/index-rule.index.code.ts"
 import {
   aProperty,
   aType,
@@ -219,17 +217,10 @@ test("a bare value narrowing to more than one page is refused rather than resolv
   expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
 })
 
-test("a refresh from the pages agrees with the index a write left but for the reader", () => {
+test("a refresh from the pages agrees with the index a write left", () => {
   const { landed, rebuilt } = worldsApart()
   expect(existsSync(importFile(landed, "deep/a.module.ts"))).toBe(true)
   expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everyFileUnder(landed)))
-})
-
-test("the refresh names the reader that filed the rules and a write names none", () => {
-  const { landed, rebuilt } = stampsApart()
-  expect(rebuilt.length).toBe(1)
-  expect(rebuilt[0] ?? "").toContain(readerNow())
-  expect(landed).toEqual([])
 })
 
 test("pages carrying no property that declares a unique are refused rather than filed empty", () => {

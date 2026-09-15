@@ -42,7 +42,6 @@ import type {
   Shape as Filed,
   Reading,
 } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import { ruleTrusted, type Said, saidOf } from "akasha/page/index/rule/index-rule.index.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   type Carried,
@@ -98,8 +97,6 @@ export type Answering = {
   readonly pageTypesIn: () => ReadonlySet<string>
   readonly propertiesOf: (pageTypeSlug: string) => readonly Carried[]
   readonly propertiesIfNamed: (pageTypeSlug: string) => readonly Carried[] | null
-  readonly ruleTrusted: () => boolean
-  readonly saidOf: (rule: string) => readonly Said[]
   readonly shapesAt: () => ReadonlyMap<string, Filed>
   readonly sidecarsAt: () => SidecarsBy
   readonly slugsOfType: (pageTypeSlug: string) => readonly string[]
@@ -148,8 +145,6 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     pageTypesIn: heldOnce(() => pageTypesIn(reading)),
     propertiesOf: (pageTypeSlug) => propertiesOf(pageTypeSlug, reading, pageOf),
     propertiesIfNamed: (pageTypeSlug) => propertiesIfNamedOf(pageTypeSlug, reading, pageOf),
-    ruleTrusted: heldOnce(() => ruleTrusted(reading)),
-    saidOf: (rule) => saidOf(reading, rule),
     shapesAt: heldOnce(() => shapesAt(reading)),
     sidecarsAt: heldOnce(() => sidecarsOver(reading, [])),
     slugsOfType: (pageTypeSlug) => slugsOfType(reading, pageTypeSlug),

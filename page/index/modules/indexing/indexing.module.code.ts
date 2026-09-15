@@ -38,7 +38,6 @@ import {
   pagesUnder,
   walkedUnder,
 } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
-import { readerIn, ruleIn } from "akasha/page/index/rule/index-rule.index.code.ts"
 import { shapeFiled } from "akasha/page/index/shapes/index-shapes.index.code.ts"
 import { rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import {
@@ -152,8 +151,6 @@ export function refreshedFrom(
   const walked = bodiesUnder(tree)
   const imported = walked.flatMap((one) => importIn(one.body, one.path, repo, naming))
   drift.push(reconcile(imported, root, put, done))
-  const ruled = [...walked.flatMap((one) => ruleIn(one.body, one.path, repo)), readerIn()]
-  drift.push(reconcile(ruled, root, put, done))
   const referenced = held.map((one) =>
     namedFrom(
       one.value,
@@ -169,12 +166,12 @@ export function refreshedFrom(
   ]
   drift.push(reconcile(references, repo, put, done))
   const stale = referencesStale(references, tree, repo, put)
-  const every = [...identity, ...shaped, ...edge, ...imported, ...ruled]
+  const every = [...identity, ...shaped, ...edge, ...imported]
   const went = [...takenAway(every, root, put, done), ...stale]
   if (put) keepBuilt(root)
   return {
     pages: held.length,
-    entries: identity.length + edge.length + imported.length + ruled.length + shaped.length,
+    entries: identity.length + edge.length + imported.length + shaped.length,
     refused: filed.flatMap((one) => one.refused),
     drift: drifting(drift, went),
   }

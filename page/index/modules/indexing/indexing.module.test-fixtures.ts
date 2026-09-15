@@ -1,20 +1,15 @@
 import { mkdirSync, readFileSync, rmSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
 import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
-import { typed as typedCode } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import {
   type Indexing,
   indexingAt,
   refreshedFrom,
 } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
-import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import { shapesAt } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { settlingOver } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
-import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { readingBuilding } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { walkedUnder } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
-import { pathsRead, readerAt, ruleTrusted } from "akasha/page/index/rule/index-rule.index.code.ts"
 import { shapeFileFor } from "akasha/page/index/shapes/index-shapes.index.code.ts"
 import {
   aProperty,
@@ -172,11 +167,6 @@ function aWrittenWorld(): Pair {
   return { tree, root }
 }
 
-export type Stamps = {
-  readonly rebuilt: readonly string[]
-  readonly landed: readonly string[]
-}
-
 export type Worlds = {
   readonly landed: string
   readonly rebuilt: string
@@ -188,34 +178,6 @@ export function worldsApart(): Worlds {
   const rebuilt = heldAt()
   refreshedFrom(tree, rebuilt, tree)
   return { landed: root, rebuilt, tree }
-}
-
-function walkedIn(tree: string): readonly string[] {
-  return walkedUnder(tree, typedCode).map((one) => under(tree, one))
-}
-
-export function unreadAfterRebuild(): readonly string[] {
-  const { rebuilt, tree } = worldsApart()
-  const read = pathsRead(readingBuilding(rebuilt))
-  return walkedIn(tree).filter((one) => !read.has(one))
-}
-
-export function ruleWhole(reading: Reading, named: readonly string[]): boolean {
-  if (!ruleTrusted(reading)) return false
-  const read = pathsRead(reading)
-  return named.every((one) => !typedCode(one) || read.has(one))
-}
-
-export function wholeAfterRebuild(): boolean {
-  const { rebuilt, tree } = worldsApart()
-  return ruleWhole(readingBuilding(rebuilt), walkedIn(tree))
-}
-
-export function stampsApart(): Stamps {
-  const { landed, rebuilt } = worldsApart()
-  const stamped = (at: string): readonly string[] =>
-    everyFileUnder(at).filter((one) => one.startsWith(`/${readerAt()} `))
-  return { rebuilt: stamped(rebuilt), landed: stamped(landed) }
 }
 
 export function aWorldDeclaringNoUnique(): Pair {

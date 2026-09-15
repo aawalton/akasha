@@ -1,7 +1,4 @@
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   pathsNaming,
   TYPED_KINDS,
@@ -14,9 +11,14 @@ import {
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { type Spelt, speltIn } from "akasha/code/reading/modules/code-rule/code-rule.module.code.ts"
-import type { Said } from "akasha/page/index/rule/index-rule.index.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+
+export type Said = {
+  readonly path: string
+  readonly place: number
+  readonly name: string
+}
 
 export type Saying = (rule: string) => readonly Said[]
 
@@ -93,10 +95,6 @@ export function everySpeltIn(change: Change, shadow: Shadow): Saying {
   return speltOver(change, pathsHolding(change, shadow, held), held)
 }
 
-export function everyFiledIn(shadow: Shadow): Saying {
-  return (rule) => shadow.index.saidOf(rule).filter((one) => shadow.holds(one.path))
-}
-
 export function reasonsIn(path: string, text: string, every: Saying): readonly string[] {
   const said: string[] = []
   for (const one of speltIn(path, text)) {
@@ -120,8 +118,7 @@ export function refusingBy(change: Change, every: Saying): readonly Judged[] {
   })
 }
 
-export function refusalsOver(change: Change, shadow: Shadow, filed = false): readonly Judged[] {
+export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   if (!change.changed.some(textNamed)) return []
-  if (filed && shadow.index.ruleTrusted()) return refusingBy(change, everyFiledIn(shadow))
   return refusingBy(change, everySpeltIn(change, shadow))
 }

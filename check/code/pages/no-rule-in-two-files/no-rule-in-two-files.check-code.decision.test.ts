@@ -1,10 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  everyFiledIn,
   everySpeltIn,
   reasonsIn,
   refusalsOver,
-  refusingBy,
 } from "akasha/check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.code.ts"
 import {
   bothArriving,
@@ -13,7 +11,6 @@ import {
   EXPORTED_AS,
   ONE_CODE,
   oneArriving,
-  readerFiledIn,
   rooted,
   scratch,
   TWO_CODE,
@@ -222,28 +219,10 @@ test("a rule in a file the change leaves alone is found by searching the tree", 
   expect(said.sort()).toEqual([ONE_CODE, TWO_CODE])
 })
 
-test("the filed map answers what parsing answers, refusal for refusal", () => {
+test("a rule two files of the change spell refuses both of them", () => {
   const change = bothArriving(rooted())
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
-  const parsed = refusingBy(change, everySpeltIn(change, cast.shadow))
-  expect(parsed.length).toBeGreaterThan(0)
-  expect(refusingBy(change, everyFiledIn(cast.shadow))).toEqual(parsed)
-})
-
-test("a map no reader of today's body filed parses every file named", () => {
-  const change = bothArriving(rooted())
-  const cast = shadowFor(change)
-  if ("refused" in cast) throw new Error(cast.refused)
-  expect(cast.shadow.index.ruleTrusted()).toBe(false)
-  expect(refusalsOver(change, cast.shadow, true)).toEqual(refusalsOver(change, cast.shadow))
-})
-
-test("an index today's reader filed is read and no file of the change is parsed", () => {
-  const change = bothArriving(readerFiledIn(rooted()))
-  const cast = shadowFor(change)
-  if ("refused" in cast) throw new Error(cast.refused)
-  expect(cast.shadow.index.ruleTrusted()).toBe(true)
-  expect(refusalsOver(change, cast.shadow, true)).toEqual(refusalsOver(change, cast.shadow))
-  expect(refusalsOver(change, cast.shadow, true).length).toBeGreaterThan(0)
+  const said = refusalsOver(change, cast.shadow).map((one) => one.path)
+  expect(said.sort()).toEqual([ONE_CODE, TWO_CODE])
 })
