@@ -22,6 +22,10 @@ export const readoutReading = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A reading taken for a page that is nowhere is refused rather than kept.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A reading never reaches the commit.",
     },
     {

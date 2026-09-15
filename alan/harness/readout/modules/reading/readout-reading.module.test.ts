@@ -16,6 +16,7 @@ import {
   uncommittedIn,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 const PAGE = "alan/harness/readout/pages/upkeep-probe/upkeep-probe.readout.ts"
 
@@ -31,7 +32,19 @@ const TAKEN = "2026-08-31T12:00:00.000Z"
 
 const LATER = "2026-08-31T12:05:00.000Z"
 
-const scratch = scratchWorld()
+const made = scratchWorld()
+
+const BODY = 'export const it = { type: "page-type/readout" }\n'
+
+const scratch = {
+  rootFor: (name: string): string => {
+    const root = made.rootFor(name)
+    writing(root, PAGE, BODY)
+    writing(root, OTHER, BODY)
+    return root
+  },
+  sweep: made.sweep,
+}
 
 afterAll(() => scratch.sweep())
 

@@ -1,3 +1,5 @@
+import { existsSync } from "node:fs"
+import { join } from "node:path"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   dropUncommitted,
@@ -38,6 +40,13 @@ function fallsPerHourOn(values: Readonly<Record<string, unknown>>): number {
   return typeof falls === "number" && Number.isFinite(falls) ? falls : NOT_FALLING
 }
 
+function pageThere(root: string, page: string): undefined {
+  if (existsSync(join(root, page))) return undefined
+  throw new Error(
+    `no page sits at \`${page}\`, so a reading kept there would be kept beside nothing`
+  )
+}
+
 export function keepReading(
   root: string,
   page: string,
@@ -45,6 +54,7 @@ export function keepReading(
   at: Date,
   fallsPerHour?: number
 ): undefined {
+  pageThere(root, page)
   mergeUncommitted(root, page, {
     [LAST_VALUE]: value,
     [LAST_VALUE_AT]: at.toISOString(),
