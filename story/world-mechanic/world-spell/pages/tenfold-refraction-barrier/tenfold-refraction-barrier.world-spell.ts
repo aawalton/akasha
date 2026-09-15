@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const tenfoldRefractionBarrier = {
   id: "01a06572-95e6-7ca4-a34b-fdd8bba20418",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "tenfold-refraction-barrier",
   title: "Tenfold Refraction Barrier",
   world: "world/the-wandering-inn",

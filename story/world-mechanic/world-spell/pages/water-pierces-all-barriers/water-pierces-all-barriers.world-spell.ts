@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const waterPiercesAllBarriers = {
   id: "01a06572-95e9-7297-b76c-760c81f78984",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "water-pierces-all-barriers",
   title: "Water Pierces All Barriers",
   world: "world/the-wandering-inn",

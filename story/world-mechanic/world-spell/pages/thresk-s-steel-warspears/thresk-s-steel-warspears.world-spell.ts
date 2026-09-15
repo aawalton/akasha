@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const threskSSteelWarspears = {
   id: "01a06572-95e7-7704-8ba1-1625cd36d397",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "thresk-s-steel-warspears",
   title: "Thresk’s Steel Warspears",
   world: "world/the-wandering-inn",

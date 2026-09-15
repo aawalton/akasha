@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const tierAscendantLocalizedEarthquake = {
   id: "01a06572-95e7-7774-91fc-19f6a5f3a720",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "tier-ascendant-localized-earthquake",
   title: "Tier Ascendant: Localized Earthquake",
   world: "world/the-wandering-inn",

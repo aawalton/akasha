@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const trueSeeing = {
   id: "01a06572-95e7-770d-96d1-0a18290c64fd",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "true-seeing",
   title: "True Seeing",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const undeadShattertouch = {
   id: "01a06572-95e7-7616-90f7-7baa67f0a4dd",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "undead-shattertouch",
   title: "Undead Shattertouch",
   world: "world/the-wandering-inn",

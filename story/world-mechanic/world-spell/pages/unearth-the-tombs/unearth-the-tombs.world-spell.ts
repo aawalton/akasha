@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const unearthTheTombs = {
   id: "01a06572-95e7-7241-8d82-09c6e025d734",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "unearth-the-tombs",
   title: "Unearth the Tombs",
   world: "world/the-wandering-inn",

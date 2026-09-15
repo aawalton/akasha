@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const temporaryHoldingWater = {
   id: "01a06572-95e6-72ea-8f62-68bbe80ad60e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "temporary-holding-water",
   title: "Temporary Holding: Water",
   world: "world/the-wandering-inn",

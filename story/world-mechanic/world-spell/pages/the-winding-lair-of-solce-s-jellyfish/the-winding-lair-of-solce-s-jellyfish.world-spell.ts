@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const theWindingLairOfSolceSJellyfish = {
   id: "01a06572-95e6-77e2-a9ac-c982b371773d",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "the-winding-lair-of-solce-s-jellyfish",
   title: "The Winding Lair of Solce’s Jellyfish",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const threefoldBarrier = {
   id: "01a06572-95e6-7c19-b833-c8d4cd84ac8d",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "threefold-barrier",
   title: "Threefold Barrier",
   world: "world/the-wandering-inn",

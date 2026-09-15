@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const wallOfIce = {
   id: "01a06572-95e9-7ef7-822b-37d69cc3996e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "wall-of-ice",
   title: "Wall of Ice",
   world: "world/the-wandering-inn",

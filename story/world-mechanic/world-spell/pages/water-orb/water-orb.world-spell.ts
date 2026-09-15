@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const waterOrb = {
   id: "01a06572-95e9-7c53-8930-acfa3a258f39",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "water-orb",
   title: "Water Orb",
   world: "world/the-wandering-inn",

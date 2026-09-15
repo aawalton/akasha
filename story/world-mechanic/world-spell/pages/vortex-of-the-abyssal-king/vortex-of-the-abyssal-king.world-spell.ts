@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const vortexOfTheAbyssalKing = {
   id: "01a06572-95e8-7c54-b778-7fe35a4955c8",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "vortex-of-the-abyssal-king",
   title: "Vortex of the Abyssal King",
   world: "world/the-wandering-inn",

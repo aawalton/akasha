@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const untilInfinityExhaustsItself = {
   id: "01a06572-95e8-7b18-8951-928ef24525a3",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "until-infinity-exhausts-itself",
   title: "Until Infinity Exhausts Itself",
   world: "world/the-wandering-inn",

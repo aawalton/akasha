@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const valmiraSPersonalSpacing = {
   id: "01a06572-95e8-73de-8a3e-2e8c26291014",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "valmira-s-personal-spacing",
   title: "Valmira’s Personal Spacing",
   world: "world/the-wandering-inn",

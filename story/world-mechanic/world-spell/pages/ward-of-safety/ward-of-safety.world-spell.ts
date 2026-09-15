@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const wardOfSafety = {
   id: "01a06572-95e9-7e09-98e5-661c8bc38bcf",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "ward-of-safety",
   title: "Ward of Safety",
   world: "world/the-wandering-inn",

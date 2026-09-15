@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const telehop = {
   id: "01a06572-95e5-7706-8962-a7642df7450f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "telehop",
   title: "Telehop",
   world: "world/the-wandering-inn",

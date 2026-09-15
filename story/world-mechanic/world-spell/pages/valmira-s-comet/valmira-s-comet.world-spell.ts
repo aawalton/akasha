@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const valmiraSComet = {
   id: "01a06572-95e8-7bc9-839d-7c0a4bd38a2c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "valmira-s-comet",
   title: "Valmira’s Comet",
   world: "world/the-wandering-inn",

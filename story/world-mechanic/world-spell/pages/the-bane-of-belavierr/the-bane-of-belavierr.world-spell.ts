@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const theBaneOfBelavierr = {
   id: "01a06572-95e6-73ab-95eb-f907eb135349",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "the-bane-of-belavierr",
   title: "The Bane of Belavierr",
   world: "world/the-wandering-inn",

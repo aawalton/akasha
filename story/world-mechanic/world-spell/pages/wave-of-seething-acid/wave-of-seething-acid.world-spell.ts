@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const waveOfSeethingAcid = {
   id: "01a06572-95e9-7ed4-9c15-1f98be92d4af",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "wave-of-seething-acid",
   title: "Wave of Seething Acid",
   world: "world/the-wandering-inn",

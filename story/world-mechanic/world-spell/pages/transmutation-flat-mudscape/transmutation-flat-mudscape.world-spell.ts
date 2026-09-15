@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const transmutationFlatMudscape = {
   id: "01a06572-95e7-75e8-843b-c54d463e602d",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "transmutation-flat-mudscape",
   title: "Transmutation: Flat Mudscape",
   world: "world/the-wandering-inn",

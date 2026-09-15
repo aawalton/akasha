@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const whiteoutBlizzard = {
   id: "01a06572-95ea-7151-8875-4663188ab605",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "whiteout-blizzard",
   title: "Whiteout Blizzard",
   world: "world/the-wandering-inn",

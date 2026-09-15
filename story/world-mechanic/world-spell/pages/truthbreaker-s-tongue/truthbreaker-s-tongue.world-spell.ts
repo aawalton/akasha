@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const truthbreakerSTongue = {
   id: "01a06572-95e7-79f8-a0aa-ebd878228494",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "truthbreaker-s-tongue",
   title: "Truthbreaker’s Tongue",
   world: "world/the-wandering-inn",

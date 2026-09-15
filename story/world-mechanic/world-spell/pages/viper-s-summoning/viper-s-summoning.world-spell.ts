@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const viperSSummoning = {
   id: "01a06572-95e8-7e6b-88ac-fdaa8fced826",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "viper-s-summoning",
   title: "Viper’s Summoning",
   world: "world/the-wandering-inn",

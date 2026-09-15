@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const valeterisaSOverlyComplicatedLightRays = {
   id: "01a06572-95e8-75d9-a0e6-cda45812850d",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "valeterisa-s-overly-complicated-light-rays",
   title: "Valeterisa’s Overly Complicated Light Rays",
   world: "world/the-wandering-inn",

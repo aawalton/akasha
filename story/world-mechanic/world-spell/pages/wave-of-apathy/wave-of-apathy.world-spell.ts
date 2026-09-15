@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const waveOfApathy = {
   id: "01a06572-95e9-7f52-8cf8-fc00f5a460be",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "wave-of-apathy",
   title: "Wave of Apathy",
   world: "world/the-wandering-inn",

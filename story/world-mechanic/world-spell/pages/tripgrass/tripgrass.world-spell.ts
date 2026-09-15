@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const tripgrass = {
   id: "01a06572-95e7-7b36-9e08-e676c93c622c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "tripgrass",
   title: "Tripgrass",
   world: "world/the-wandering-inn",

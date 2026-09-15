@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const valeterisaSComplexSeekerProjectiles = {
   id: "01a06572-95e8-75ec-b736-2a67c732d23c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "valeterisa-s-complex-seeker-projectiles",
   title: "Valeterisa’s Complex Seeker Projectiles",
   world: "world/the-wandering-inn",

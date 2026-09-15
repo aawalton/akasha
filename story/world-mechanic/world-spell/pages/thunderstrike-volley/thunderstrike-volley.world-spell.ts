@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const thunderstrikeVolley = {
   id: "01a06572-95e7-7a8e-ae58-f2834c072b75",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "thunderstrike-volley",
   title: "Thunderstrike Volley",
   world: "world/the-wandering-inn",

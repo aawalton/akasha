@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const waterPressureDarkStraits = {
   id: "01a06572-95e9-7c3a-97a2-704154644cbf",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "water-pressure-dark-straits",
   title: "Water Pressure — Dark Straits",
   world: "world/the-wandering-inn",

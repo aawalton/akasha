@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const waveOfMercury = {
   id: "01a06572-95e9-7dee-ae4e-69278e626dae",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "wave-of-mercury",
   title: "Wave of Mercury",
   world: "world/the-wandering-inn",

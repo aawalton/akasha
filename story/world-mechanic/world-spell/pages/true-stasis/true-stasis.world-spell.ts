@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const trueStasis = {
   id: "01a06572-95e7-7b31-9be3-a06b0c6ae576",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "true-stasis",
   title: "True Stasis",
   world: "world/the-wandering-inn",

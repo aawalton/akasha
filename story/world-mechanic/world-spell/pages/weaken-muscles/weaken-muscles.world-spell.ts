@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const weakenMuscles = {
   id: "01a06572-95e9-7f62-9ffe-fa9d2554a14d",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "weaken-muscles",
   title: "Weaken Muscles",
   world: "world/the-wandering-inn",

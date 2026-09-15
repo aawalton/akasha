@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const tidalWave = {
   id: "01a06572-95e7-7491-aa04-21916956f8e8",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "tidal-wave",
   title: "Tidal Wave",
   world: "world/the-wandering-inn",

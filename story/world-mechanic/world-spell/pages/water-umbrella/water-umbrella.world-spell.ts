@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const waterUmbrella = {
   id: "01a06572-95e9-7e20-a0a4-d5162d604bc7",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "water-umbrella",
   title: "Water Umbrella",
   world: "world/the-wandering-inn",

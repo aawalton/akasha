@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const valeterisaSImperfectComet = {
   id: "01a06572-95e8-7a54-b646-1510fa0059e2",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "valeterisa-s-imperfect-comet",
   title: "Valeterisa’s Imperfect Comet",
   world: "world/the-wandering-inn",

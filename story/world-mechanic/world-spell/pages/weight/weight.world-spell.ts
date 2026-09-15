@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const weight = {
   id: "01a06572-95ea-72ac-b954-d623d8c89da0",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "weight",
   title: "Weight",
   world: "world/the-wandering-inn",

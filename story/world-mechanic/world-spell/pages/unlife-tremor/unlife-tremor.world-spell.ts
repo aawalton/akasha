@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const unlifeTremor = {
   id: "01a06572-95e7-75b8-8309-79420d8b13b4",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "unlife-tremor",
   title: "Unlife Tremor",
   world: "world/the-wandering-inn",

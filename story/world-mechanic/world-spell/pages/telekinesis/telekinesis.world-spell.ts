@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const telekinesis = {
   id: "01a06572-95e5-7c99-93d9-07e8e049ea35",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "telekinesis",
   title: "Telekinesis",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const theMidnightVeil = {
   id: "01a06572-95e6-7f04-9076-7c8462342b74",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "the-midnight-veil",
   title: "The Midnight Veil",
   world: "world/the-wandering-inn",

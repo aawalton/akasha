@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const venomousSnow = {
   id: "01a06572-95e8-7d75-b622-7bd4ca1c31e8",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "venomous-snow",
   title: "Venomous Snow",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const waterwalk = {
   id: "01a06572-95e9-716d-a0bd-af2d50289020",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "waterwalk",
   title: "Waterwalk",
   world: "world/the-wandering-inn",

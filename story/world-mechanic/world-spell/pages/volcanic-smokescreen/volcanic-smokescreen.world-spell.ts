@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const volcanicSmokescreen = {
   id: "01a06572-95e8-7480-8435-76a808d2acad",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "volcanic-smokescreen",
   title: "Volcanic Smokescreen",
   world: "world/the-wandering-inn",

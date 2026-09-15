@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const theTanglingVine = {
   id: "01a06572-95e6-72cf-9958-4c375d2f4d65",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "the-tangling-vine",
   title: "The Tangling Vine",
   world: "world/the-wandering-inn",

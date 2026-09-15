@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const webOfMagnesis = {
   id: "01a06572-95e9-7e97-a3c0-04ebf273323c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "web-of-magnesis",
   title: "Web of Magnesis",
   world: "world/the-wandering-inn",

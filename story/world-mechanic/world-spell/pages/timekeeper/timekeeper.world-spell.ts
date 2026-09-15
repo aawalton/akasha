@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const timekeeper = {
   id: "01a06572-95e7-798d-88e9-89e571b1f2d2",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "timekeeper",
   title: "Timekeeper",
   world: "world/the-wandering-inn",
