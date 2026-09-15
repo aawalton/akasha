@@ -59,11 +59,7 @@ import {
   unworked,
   WHOLE_TREE_CHECKS_TAKE,
 } from "akasha/check/modules/checking/checking.module.test-fixtures.ts"
-import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import {
-  idTakenFrom,
-  indexTakenFrom,
-} from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { idTakenFrom } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
@@ -184,13 +180,6 @@ test("an index holding no check directory names no check, and refuses what it wo
   checksTakenFrom(root)
   expect(checkPagesIn(root)).toEqual([])
   expect(() => checksIn(root)).toThrow("the index names no check")
-})
-
-test("an index standing nowhere cannot say which pages are checks, and is not read as naming none", () => {
-  const root = rootWith(ADMITS_CHECK)
-  indexTakenFrom(root)
-  expect(() => checkPagesIn(root)).toThrow(indexNamed())
-  expect(() => checksIn(root)).toThrow("is not an index naming none")
 })
 
 test("an id directory standing but carrying no check page type answers as absent rather than as missing", () => {

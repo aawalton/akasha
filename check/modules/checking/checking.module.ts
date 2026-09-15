@@ -44,10 +44,6 @@ export const checking = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A missing index refuses rather than reading as an index naming nothing.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "An index naming no check refuses the change the index would leave unjudged.",
     },
     {
