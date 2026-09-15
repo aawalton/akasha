@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0312Chapter31JourneysEnd = {
   id: "01a06731-ad89-7007-a34f-bf0f0339b106",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0312-chapter-31-journeys-end",
   title: "Chapter 31: Journey’s End",
   story: "story-read/labyrinth-of-the-mad-god",

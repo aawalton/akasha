@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0298Chapter18SkitteringSkirmish = {
   id: "01a06731-ad86-7003-b895-f9dacbac58f5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0298-chapter-18-skittering-skirmish",
   title: "Chapter 18: Skittering Skirmish",
   story: "story-read/labyrinth-of-the-mad-god",

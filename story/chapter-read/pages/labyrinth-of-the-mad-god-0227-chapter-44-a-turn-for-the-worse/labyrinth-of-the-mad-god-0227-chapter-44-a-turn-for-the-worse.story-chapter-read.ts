@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0227Chapter44ATurnForTheWorse = {
   id: "01a06731-ad79-7005-9c27-ab74a8c192e9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0227-chapter-44-a-turn-for-the-worse",
   title: "Chapter 44: A Turn For the Worse",
   story: "story-read/labyrinth-of-the-mad-god",

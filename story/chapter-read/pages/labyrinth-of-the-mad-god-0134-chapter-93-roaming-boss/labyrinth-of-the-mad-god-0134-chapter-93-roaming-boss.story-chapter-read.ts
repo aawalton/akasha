@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0134Chapter93RoamingBoss = {
   id: "01a06731-ad62-7001-86a3-6f39485c2ff8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0134-chapter-93-roaming-boss",
   title: "Chapter 93: Roaming Boss",
   story: "story-read/labyrinth-of-the-mad-god",

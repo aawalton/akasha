@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0207Chapter25FreeFromGravitysEmbrace = {
   id: "01a06731-ad75-7006-a5e9-a1e833f4749e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0207-chapter-25-free-from-gravitys-embrace",
   title: "Chapter 25: Free from Gravity’s Embrace",
   story: "story-read/labyrinth-of-the-mad-god",

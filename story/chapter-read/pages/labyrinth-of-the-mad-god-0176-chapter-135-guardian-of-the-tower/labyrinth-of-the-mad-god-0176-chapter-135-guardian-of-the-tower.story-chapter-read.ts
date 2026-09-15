@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0176Chapter135GuardianOfTheTower = {
   id: "01a06731-ad6b-7000-bdbb-d74a31e5e4ad",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0176-chapter-135-guardian-of-the-tower",
   title: "Chapter 135: Guardian of the Tower",
   story: "story-read/labyrinth-of-the-mad-god",

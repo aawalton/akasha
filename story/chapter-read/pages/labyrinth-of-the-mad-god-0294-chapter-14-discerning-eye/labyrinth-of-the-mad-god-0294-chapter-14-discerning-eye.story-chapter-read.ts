@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0294Chapter14DiscerningEye = {
   id: "01a06731-ad85-7006-968d-5ef3f1e22986",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0294-chapter-14-discerning-eye",
   title: "Chapter 14: Discerning Eye",
   story: "story-read/labyrinth-of-the-mad-god",

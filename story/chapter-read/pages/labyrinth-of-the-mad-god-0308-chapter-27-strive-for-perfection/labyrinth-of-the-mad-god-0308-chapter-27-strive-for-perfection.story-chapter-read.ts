@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0308Chapter27StriveForPerfection = {
   id: "01a06731-ad89-7003-8556-9f5d1b1a5769",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0308-chapter-27-strive-for-perfection",
   title: "Chapter 27: Strive for Perfection",
   story: "story-read/labyrinth-of-the-mad-god",

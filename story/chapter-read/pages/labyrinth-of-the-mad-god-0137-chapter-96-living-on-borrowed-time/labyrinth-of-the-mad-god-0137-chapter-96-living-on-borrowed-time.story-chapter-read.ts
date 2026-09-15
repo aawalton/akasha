@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0137Chapter96LivingOnBorrowedTime = {
   id: "01a06731-ad62-7004-9fa1-e6d09d72991b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0137-chapter-96-living-on-borrowed-time",
   title: "Chapter 96: Living on Borrowed Time",
   story: "story-read/labyrinth-of-the-mad-god",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0186Chapter4ItsGoodToBeHome = {
   id: "01a06731-ad71-7002-b6e4-f2dd2c6cbf98",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0186-chapter-4-its-good-to-be-home",
   title: "Chapter 4: It’s Good to be Home",
   story: "story-read/labyrinth-of-the-mad-god",

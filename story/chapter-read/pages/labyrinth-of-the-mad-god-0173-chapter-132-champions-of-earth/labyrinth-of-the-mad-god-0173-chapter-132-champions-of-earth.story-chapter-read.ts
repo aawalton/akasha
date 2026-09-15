@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0173Chapter132ChampionsOfEarth = {
   id: "01a06731-ad68-7000-8c90-a51d8b35d272",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0173-chapter-132-champions-of-earth",
   title: "Chapter 132: Champions of Earth",
   story: "story-read/labyrinth-of-the-mad-god",

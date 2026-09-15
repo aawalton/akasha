@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0204Chapter22DivergingPaths = {
   id: "01a06731-ad75-7003-91c9-0f20e2c05810",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0204-chapter-22-diverging-paths",
   title: "Chapter 22: Diverging Paths",
   story: "story-read/labyrinth-of-the-mad-god",

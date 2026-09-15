@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0243Chapter61WizardDuelIi = {
   id: "01a06731-ad7c-7001-9474-3c67e5d925a0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0243-chapter-61-wizard-duel-ii",
   title: "Chapter 61: Wizard Duel II",
   story: "story-read/labyrinth-of-the-mad-god",

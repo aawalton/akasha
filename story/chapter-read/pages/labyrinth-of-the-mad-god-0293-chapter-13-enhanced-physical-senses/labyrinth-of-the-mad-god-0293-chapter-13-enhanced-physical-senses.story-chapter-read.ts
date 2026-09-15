@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0293Chapter13EnhancedPhysicalSenses = {
   id: "01a06731-ad85-7005-b1aa-aa107e73b8d6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0293-chapter-13-enhanced-physical-senses",
   title: "Chapter 13: Enhanced Physical Senses",
   story: "story-read/labyrinth-of-the-mad-god",

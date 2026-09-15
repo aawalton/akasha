@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0125Chapter84HardDayLongNight = {
   id: "01a0672c-eb76-7005-98f7-95d2a866a57d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0125-chapter-84-hard-day-long-night",
   title: "Chapter 84: Hard Day, Long Night",
   story: "story-read/labyrinth-of-the-mad-god",

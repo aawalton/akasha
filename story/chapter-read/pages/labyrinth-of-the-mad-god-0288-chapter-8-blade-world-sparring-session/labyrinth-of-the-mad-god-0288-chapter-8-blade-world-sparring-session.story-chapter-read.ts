@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0288Chapter8BladeWorldSparringSession = {
   id: "01a06731-ad85-7000-bed6-9916021a738a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0288-chapter-8-blade-world-sparring-session",
   title: "Chapter 8: Blade World Sparring Session",
   story: "story-read/labyrinth-of-the-mad-god",

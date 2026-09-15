@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0187Chapter5ChangesWithoutAndWithin = {
   id: "01a06731-ad71-7003-bf20-c7655932db42",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0187-chapter-5-changes-without-and-within",
   title: "Chapter 5: Changes Without and Within",
   story: "story-read/labyrinth-of-the-mad-god",

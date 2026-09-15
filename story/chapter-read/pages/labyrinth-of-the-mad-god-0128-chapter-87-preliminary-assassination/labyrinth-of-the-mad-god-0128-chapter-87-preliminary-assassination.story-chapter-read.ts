@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0128Chapter87PreliminaryAssassination = {
   id: "01a0672c-eb76-7008-8cb2-dcfcce9b731d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0128-chapter-87-preliminary-assassination",
   title: "Chapter 87: Preliminary Assassination",
   story: "story-read/labyrinth-of-the-mad-god",

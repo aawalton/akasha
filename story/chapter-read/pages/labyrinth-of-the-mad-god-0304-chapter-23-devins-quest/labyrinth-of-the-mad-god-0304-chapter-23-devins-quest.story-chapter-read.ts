@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0304Chapter23DevinsQuest = {
   id: "01a06731-ad88-7001-96c4-3e2b2bc52919",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0304-chapter-23-devins-quest",
   title: "Chapter 23: Devin’s Quest",
   story: "story-read/labyrinth-of-the-mad-god",

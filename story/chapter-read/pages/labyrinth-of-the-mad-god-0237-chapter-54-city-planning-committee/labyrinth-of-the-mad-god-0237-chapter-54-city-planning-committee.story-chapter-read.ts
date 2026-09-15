@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0237Chapter54CityPlanningCommittee = {
   id: "01a06731-ad7a-7004-b9f8-8da62ac3c1c1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0237-chapter-54-city-planning-committee",
   title: "Chapter 54: City-Planning Committee",
   story: "story-read/labyrinth-of-the-mad-god",

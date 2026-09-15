@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0193Chapter11WellEarnedReward = {
   id: "01a06731-ad73-7004-a613-19318a12690a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0193-chapter-11-well-earned-reward",
   title: "Chapter 11: Well-Earned Reward",
   story: "story-read/labyrinth-of-the-mad-god",

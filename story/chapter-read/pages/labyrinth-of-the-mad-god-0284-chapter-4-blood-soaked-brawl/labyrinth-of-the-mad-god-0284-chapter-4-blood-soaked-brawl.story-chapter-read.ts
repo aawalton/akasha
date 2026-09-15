@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0284Chapter4BloodSoakedBrawl = {
   id: "01a06731-ad82-7003-8136-5506f336bde6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0284-chapter-4-blood-soaked-brawl",
   title: "Chapter 4: Blood-Soaked Brawl",
   story: "story-read/labyrinth-of-the-mad-god",

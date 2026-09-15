@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0210Chapter28TheSecretWarOfAntsAndPlants = {
   id: "01a06731-ad75-7009-984b-322776560566",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0210-chapter-28-the-secret-war-of-ants-and-plants",
   title: "Chapter 28: The Secret War of Ants and Plants",
   story: "story-read/labyrinth-of-the-mad-god",

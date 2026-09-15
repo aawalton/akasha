@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0209Chapter27ABondUnlikeAnyOther = {
   id: "01a06731-ad75-7008-9825-b2451d4f2fd4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0209-chapter-27-a-bond-unlike-any-other",
   title: "Chapter 27: A Bond Unlike Any Other",
   story: "story-read/labyrinth-of-the-mad-god",

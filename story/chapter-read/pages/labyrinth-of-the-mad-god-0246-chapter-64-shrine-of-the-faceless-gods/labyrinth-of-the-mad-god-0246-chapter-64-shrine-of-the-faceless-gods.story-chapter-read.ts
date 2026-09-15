@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0246Chapter64ShrineOfTheFacelessGods = {
   id: "01a06731-ad7c-7004-ba34-110f278d29d7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0246-chapter-64-shrine-of-the-faceless-gods",
   title: "Chapter 64: Shrine of the Faceless Gods",
   story: "story-read/labyrinth-of-the-mad-god",

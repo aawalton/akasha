@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0296Chapter16DangerAheadAboveAndBelow = {
   id: "01a06731-ad86-7001-a38a-1ed73b605c0a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0296-chapter-16-danger-ahead-above-and-below",
   title: "Chapter 16: Danger Ahead, Above, and Below",
   story: "story-read/labyrinth-of-the-mad-god",

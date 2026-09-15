@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0289Chapter9AbilityAdvancementSkillTrainingAnd = {
   id: "01a06731-ad85-7001-aa53-6329bef0d086",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0289-chapter-9-ability-advancement-skill-training-and",
   title: "Chapter 9: Ability Advancement, Skill Training, and Trial Preparation",
   story: "story-read/labyrinth-of-the-mad-god",

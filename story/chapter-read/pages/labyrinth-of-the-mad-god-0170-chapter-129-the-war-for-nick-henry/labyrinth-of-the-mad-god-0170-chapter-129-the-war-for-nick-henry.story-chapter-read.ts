@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0170Chapter129TheWarForNickHenry = {
   id: "01a06731-ad66-7002-a936-4d9f18cc5a62",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0170-chapter-129-the-war-for-nick-henry",
   title: "Chapter 129: The War for Nick Henry",
   story: "story-read/labyrinth-of-the-mad-god",

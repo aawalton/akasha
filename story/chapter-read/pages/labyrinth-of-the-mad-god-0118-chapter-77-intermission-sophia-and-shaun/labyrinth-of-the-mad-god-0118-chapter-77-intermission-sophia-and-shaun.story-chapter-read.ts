@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0118Chapter77IntermissionSophiaAndShaun = {
   id: "01a0672c-eb75-7012-b82b-d1f5cda18fee",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0118-chapter-77-intermission-sophia-and-shaun",
   title: "Chapter 77: Intermission: Sophia and Shaun",
   story: "story-read/labyrinth-of-the-mad-god",

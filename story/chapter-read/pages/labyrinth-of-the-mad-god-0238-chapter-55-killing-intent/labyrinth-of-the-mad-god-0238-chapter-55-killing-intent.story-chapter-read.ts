@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0238Chapter55KillingIntent = {
   id: "01a06731-ad7b-7000-9b19-53700e8279ba",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0238-chapter-55-killing-intent",
   title: "Chapter 55: Killing Intent",
   story: "story-read/labyrinth-of-the-mad-god",

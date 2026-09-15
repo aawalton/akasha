@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0307Chapter26LightShieldAndWand = {
   id: "01a06731-ad89-7002-a8f5-db7a0ad1b5c0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0307-chapter-26-light-shield-and-wand",
   title: "Chapter 26: Light Shield and Wand",
   story: "story-read/labyrinth-of-the-mad-god",

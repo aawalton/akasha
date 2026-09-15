@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0129Chapter88NoMercy = {
   id: "01a0672c-eb76-7009-84ab-66d22a6808ad",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0129-chapter-88-no-mercy",
   title: "Chapter 88: No Mercy",
   story: "story-read/labyrinth-of-the-mad-god",

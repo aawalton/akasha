@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0156Chapter115OutOfTheFreezerAndIntoTheFire = {
   id: "01a06731-ad64-7004-92f9-f69af6a6b752",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0156-chapter-115-out-of-the-freezer-and-into-the-fire",
   title: "Chapter 115: Out of the Freezer and into the Fire",
   story: "story-read/labyrinth-of-the-mad-god",

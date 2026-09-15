@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0267Chapter84ShadyCave = {
   id: "01a06731-ad7f-7000-9176-b52728ead2c5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0267-chapter-84-shady-cave",
   title: "Chapter 84: Shady Cave",
   story: "story-read/labyrinth-of-the-mad-god",

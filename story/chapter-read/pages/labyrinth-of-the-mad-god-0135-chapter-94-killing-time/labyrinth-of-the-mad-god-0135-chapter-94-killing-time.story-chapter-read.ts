@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0135Chapter94KillingTime = {
   id: "01a06731-ad62-7002-b3fe-8d994b3b9340",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0135-chapter-94-killing-time",
   title: "Chapter 94: Killing Time",
   story: "story-read/labyrinth-of-the-mad-god",

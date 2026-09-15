@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0245Chapter63BuddingIndustryAndFledglingCommerce = {
   id: "01a06731-ad7c-7003-8b0c-4bd74cf56b0c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0245-chapter-63-budding-industry-and-fledgling-commerce",
   title: "Chapter 63: Budding Industry and Fledgling Commerce",
   story: "story-read/labyrinth-of-the-mad-god",

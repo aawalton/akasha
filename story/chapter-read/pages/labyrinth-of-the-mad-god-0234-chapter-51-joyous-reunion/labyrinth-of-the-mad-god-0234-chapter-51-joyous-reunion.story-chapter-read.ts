@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0234Chapter51JoyousReunion = {
   id: "01a06731-ad7a-7001-89ee-8fe62e1fbb4a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0234-chapter-51-joyous-reunion",
   title: "Chapter 51: Joyous Reunion",
   story: "story-read/labyrinth-of-the-mad-god",

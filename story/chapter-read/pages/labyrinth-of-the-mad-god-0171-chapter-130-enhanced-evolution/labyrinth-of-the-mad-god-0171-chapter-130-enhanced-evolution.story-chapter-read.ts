@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0171Chapter130EnhancedEvolution = {
   id: "01a06731-ad66-7003-a239-b2bab4cb9679",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0171-chapter-130-enhanced-evolution",
   title: "Chapter 130: Enhanced Evolution",
   story: "story-read/labyrinth-of-the-mad-god",

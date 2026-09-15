@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0140Chapter99GoodNewsAndBadNews = {
   id: "01a06731-ad63-7002-bfc8-f234d40c3e28",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0140-chapter-99-good-news-and-bad-news",
   title: "Chapter 99: Good News and Bad News",
   story: "story-read/labyrinth-of-the-mad-god",

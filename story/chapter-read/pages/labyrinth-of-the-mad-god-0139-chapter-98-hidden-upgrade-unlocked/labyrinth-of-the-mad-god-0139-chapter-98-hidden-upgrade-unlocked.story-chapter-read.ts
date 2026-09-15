@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0139Chapter98HiddenUpgradeUnlocked = {
   id: "01a06731-ad63-7001-be7c-111b249598a8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0139-chapter-98-hidden-upgrade-unlocked",
   title: "Chapter 98: Hidden Upgrade Unlocked",
   story: "story-read/labyrinth-of-the-mad-god",
