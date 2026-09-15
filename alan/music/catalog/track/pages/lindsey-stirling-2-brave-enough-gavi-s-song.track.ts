@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirling2BraveEnoughGaviSSong = {
   id: "01a0a587-bf12-7cbc-bb1c-cd4592bc8cf7",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-2-brave-enough-gavi-s-song",
   ownLength: 4.5389333333333335,
   ownProgress: 0,

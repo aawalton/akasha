@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonPieceByPieceDeluxeVersionRunRunRunFeatJohnLegend = {
   id: "01a0a5ae-bed9-77ab-a697-09db274df8f1",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version-run-run-run-feat-john-legend",
   ownLength: 4.544816666666667,
   ownProgress: 0,

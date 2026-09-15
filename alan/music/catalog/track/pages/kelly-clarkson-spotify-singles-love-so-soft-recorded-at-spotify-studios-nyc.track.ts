@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonSpotifySinglesLoveSoSoftRecordedAtSpotifyStudiosNyc = {
   id: "01a0a5ae-d8fa-7c3a-be7c-3947bd30305e",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-spotify-singles-love-so-soft-recorded-at-spotify-studios-nyc",
   ownLength: 2.9021333333333335,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonWhenChristmasComesAroundSantaCantYouHearMe = {
   id: "01a0a5ae-bb3c-7f2b-aa94-b3f10e43f036",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-when-christmas-comes-around-santa-cant-you-hear-me",
   ownLength: 4.044066666666667,
   ownProgress: 0,

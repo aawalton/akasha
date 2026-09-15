@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonStrongerTrackByTrackIForgiveYou = {
   id: "01a0a5ae-c621-7e46-959a-3168a39f4ec3",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-stronger-track-by-track-i-forgive-you",
   ownLength: 3.0857666666666668,
   ownProgress: 0,

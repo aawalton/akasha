@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirling2BraveEnoughPrism = {
   id: "01a0a587-be24-71d0-a33a-b4393da4567e",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-2-brave-enough-prism",
   ownLength: 3.5481333333333334,
   ownProgress: 0,

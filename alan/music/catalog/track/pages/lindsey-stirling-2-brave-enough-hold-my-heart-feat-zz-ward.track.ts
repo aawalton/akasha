@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirling2BraveEnoughHoldMyHeartFeatZzWard = {
   id: "01a0a587-be44-72ea-acd0-3180448b856f",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-2-brave-enough-hold-my-heart-feat-zz-ward",
   ownLength: 3.49835,
   ownProgress: 0,

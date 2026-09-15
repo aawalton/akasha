@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonPeopleLikeUsRemixesPeopleLikeUsDavidTortRemix = {
   id: "01a0a5ae-df0d-7831-8387-afd89053bfe2",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-people-like-us-remixes-people-like-us-david-tort-remix",
   ownLength: 6.518666666666666,
   ownProgress: 0,

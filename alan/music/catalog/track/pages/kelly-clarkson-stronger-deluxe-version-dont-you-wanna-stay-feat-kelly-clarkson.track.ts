@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonStrongerDeluxeVersionDontYouWannaStayFeatKellyClarkson = {
   id: "01a0a5ae-c3d7-75bf-b0e4-05347bf04deb",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-stronger-deluxe-version-dont-you-wanna-stay-feat-kelly-clarkson",
   ownLength: 4.3331,
   ownProgress: 0,

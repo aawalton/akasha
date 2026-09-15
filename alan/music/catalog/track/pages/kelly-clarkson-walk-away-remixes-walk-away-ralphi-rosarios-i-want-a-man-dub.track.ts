@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonWalkAwayRemixesWalkAwayRalphiRosariosIWantAManDub = {
   id: "01a0a5ae-e3f6-7bb8-a559-75b66268fe02",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-walk-away-remixes-walk-away-ralphi-rosarios-i-want-a-man-dub",
   ownLength: 10.23355,
   ownProgress: 0,

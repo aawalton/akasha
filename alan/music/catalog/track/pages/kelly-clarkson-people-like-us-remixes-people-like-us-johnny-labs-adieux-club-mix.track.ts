@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonPeopleLikeUsRemixesPeopleLikeUsJohnnyLabsAdieuxClubMix = {
   id: "01a0a5ae-df2e-7f11-9a3b-ccf374097eb7",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-people-like-us-remixes-people-like-us-johnny-labs-adieux-club-mix",
   ownLength: 6.998216666666667,
   ownProgress: 0,

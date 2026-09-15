@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonSinceUBeenGoneJulietSVersionSinceUBeenGoneJulietsVersion = {
   id: "01a0a5ae-d107-7c80-8654-bbdad95c561e",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-since-u-been-gone-juliet-s-version-since-u-been-gone-juliets-version",
   ownLength: 2.8278333333333334,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonThankfulTheTroubleWithLoveIs = {
   id: "01a0a5ae-cc91-7eca-957a-5fd1c39615cf",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-thankful-the-trouble-with-love-is",
   ownLength: 3.6851,
   ownProgress: 0,

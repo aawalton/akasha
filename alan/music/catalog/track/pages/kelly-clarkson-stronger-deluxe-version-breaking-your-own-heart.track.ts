@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonStrongerDeluxeVersionBreakingYourOwnHeart = {
   id: "01a0a5ae-c3b7-73ee-ae7a-526f53241893",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-stronger-deluxe-version-breaking-your-own-heart",
   ownLength: 3.81155,
   ownProgress: 0,

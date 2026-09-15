@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonWhenChristmasComesAroundMerryChristmasBaby = {
   id: "01a0a5ae-ba58-7906-a051-0c7134acb922",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-when-christmas-comes-around-merry-christmas-baby",
   ownLength: 3.76245,
   ownProgress: 0,

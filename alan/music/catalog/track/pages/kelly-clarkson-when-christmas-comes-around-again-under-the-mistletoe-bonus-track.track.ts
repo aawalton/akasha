@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonWhenChristmasComesAroundAgainUnderTheMistletoeBonusTrack = {
   id: "01a0a5ae-b57d-7ec0-80f5-eb51bb173a08",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-when-christmas-comes-around-again-under-the-mistletoe-bonus-track",
   ownLength: 3.76145,
   ownProgress: 0,

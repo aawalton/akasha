@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirling2BraveEnoughLoveSJustAFeelingFeatRooty = {
   id: "01a0a587-beca-79b4-9b9c-6a5d3684b6e9",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-2-brave-enough-love-s-just-a-feeling-feat-rooty",
   ownLength: 3.8186666666666667,
   ownProgress: 0,

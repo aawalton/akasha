@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonReadyForLoveLiveReadyForLoveLive = {
   id: "01a0a5ae-db33-723b-9442-7549ecb42fec",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-ready-for-love-live-ready-for-love-live",
   ownLength: 4.30805,
   ownProgress: 0,

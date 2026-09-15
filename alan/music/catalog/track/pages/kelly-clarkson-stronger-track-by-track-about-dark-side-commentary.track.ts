@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonStrongerTrackByTrackAboutDarkSideCommentary = {
   id: "01a0a5ae-c4c4-703f-b3d7-f9e8fa3a9730",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-stronger-track-by-track-about-dark-side-commentary",
   ownLength: 1.2324333333333333,
   ownProgress: 0,

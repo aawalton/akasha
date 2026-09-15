@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonWrappedInRedDeluxeVersionBlueChristmas = {
   id: "01a0a5ae-c102-70b0-92be-64a728f389f5",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-wrapped-in-red-deluxe-version-blue-christmas",
   ownLength: 2.877,
   ownProgress: 0,

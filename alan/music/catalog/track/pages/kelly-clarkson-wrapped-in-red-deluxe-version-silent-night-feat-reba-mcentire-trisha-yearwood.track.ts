@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonWrappedInRedDeluxeVersionSilentNightFeatRebaMcentireTrishaYearwood = {
   id: "01a0a5ae-c1d8-7d3a-ad00-ca832856fddb",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-wrapped-in-red-deluxe-version-silent-night-feat-reba-mcentire-trisha-yearwood",
   ownLength: 4.1538,
   ownProgress: 0,

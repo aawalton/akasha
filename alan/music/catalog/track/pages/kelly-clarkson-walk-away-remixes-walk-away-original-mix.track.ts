@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonWalkAwayRemixesWalkAwayOriginalMix = {
   id: "01a0a5ae-e42f-760f-bc67-e3fd04a12b4a",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-walk-away-remixes-walk-away-original-mix",
   ownLength: 3.1397666666666666,
   ownProgress: 0,

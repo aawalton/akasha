@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonUnderneathTheTreeRemixesUnderneathTheTreeMorlandoRadioMix = {
   id: "01a0a5ae-deaf-761d-9b38-eb8afb6b65b2",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-underneath-the-tree-remixes-underneath-the-tree-morlando-radio-mix",
   ownLength: 3.7837666666666667,
   ownProgress: 0,

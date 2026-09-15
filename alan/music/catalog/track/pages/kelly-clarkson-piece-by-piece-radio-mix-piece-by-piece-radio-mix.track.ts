@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonPieceByPieceRadioMixPieceByPieceRadioMix = {
   id: "01a0a5ae-dbb4-7139-90b5-787ca9f43653",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-radio-mix-piece-by-piece-radio-mix",
   ownLength: 3.7453333333333334,
   ownProgress: 0,

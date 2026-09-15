@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirling2BraveEnoughMirageFeatRajaKumari = {
   id: "01a0a587-be64-78ef-a6bc-50a3291da9be",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-2-brave-enough-mirage-feat-raja-kumari",
   ownLength: 4.3681,
   ownProgress: 0,

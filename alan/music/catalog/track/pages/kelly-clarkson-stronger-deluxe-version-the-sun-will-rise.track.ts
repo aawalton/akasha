@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonStrongerDeluxeVersionTheSunWillRise = {
   id: "01a0a5ae-c434-794e-bd94-4d6ae3306a0e",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-stronger-deluxe-version-the-sun-will-rise",
   ownLength: 3.5573333333333332,
   ownProgress: 0,

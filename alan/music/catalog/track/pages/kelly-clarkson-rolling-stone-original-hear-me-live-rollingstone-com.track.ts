@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonRollingStoneOriginalHearMeLiveRollingstoneCom = {
   id: "01a0a5ae-e87b-70e9-a51e-a3ad55586f27",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-rolling-stone-original-hear-me-live-rollingstone-com",
   ownLength: 3.8106666666666666,
   ownProgress: 0,

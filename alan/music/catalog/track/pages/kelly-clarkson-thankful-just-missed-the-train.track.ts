@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonThankfulJustMissedTheTrain = {
   id: "01a0a5ae-cd27-7c73-af18-d425c9370a3e",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-thankful-just-missed-the-train",
   ownLength: 4.175333333333334,
   ownProgress: 0,

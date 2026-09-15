@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonWrappedInRedDeluxeVersionPleaseComeHomeForChristmasBellsWillBeRinging = {
   id: "01a0a5ae-c0ca-7b50-832e-1bb7f68c87ee",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-wrapped-in-red-deluxe-version-please-come-home-for-christmas-bells-will-be-ringing",
   ownLength: 3.3180666666666667,
   ownProgress: 0,

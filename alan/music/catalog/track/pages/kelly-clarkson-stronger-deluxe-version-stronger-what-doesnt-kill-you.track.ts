@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonStrongerDeluxeVersionStrongerWhatDoesntKillYou = {
   id: "01a0a5ae-c25a-7caa-a410-fe1e33a7310f",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-stronger-deluxe-version-stronger-what-doesnt-kill-you",
   ownLength: 3.6991,
   ownProgress: 0,

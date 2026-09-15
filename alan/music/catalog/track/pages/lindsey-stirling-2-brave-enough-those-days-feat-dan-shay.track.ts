@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirling2BraveEnoughThoseDaysFeatDanShay = {
   id: "01a0a587-be02-7d85-a12a-be9c325408a0",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-2-brave-enough-those-days-feat-dan-shay",
   ownLength: 3.76875,
   ownProgress: 0,

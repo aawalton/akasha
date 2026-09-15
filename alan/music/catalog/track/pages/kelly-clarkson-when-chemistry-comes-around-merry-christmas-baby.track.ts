@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonWhenChemistryComesAroundMerryChristmasBaby = {
   id: "01a0a5ae-ce48-7bc4-9319-eb2ca67909f0",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-when-chemistry-comes-around-merry-christmas-baby",
   ownLength: 3.76245,
   ownProgress: 0,

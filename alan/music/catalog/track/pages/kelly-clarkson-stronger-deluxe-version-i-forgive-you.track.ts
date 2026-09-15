@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonStrongerDeluxeVersionIForgiveYou = {
   id: "01a0a5ae-c31d-72ae-9661-4ef87670a1e3",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-stronger-deluxe-version-i-forgive-you",
   ownLength: 3.0731,
   ownProgress: 0,

@@ -3,7 +3,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 export const kellyClarksonStrongerWhatDoesnTKillYouTheRemixesStrongerWhatDoesntKillYouNickyRomero =
   {
     id: "01a0a5ae-e104-7e07-bf7d-5bf38885796f",
-    type: "track",
+    type: "page-type/track",
     slug: "kelly-clarkson-stronger-what-doesn-t-kill-you-the-remixes-stronger-what-doesnt-kill-you-nicky-romero",
     ownLength: 5.87155,
     ownProgress: 0,

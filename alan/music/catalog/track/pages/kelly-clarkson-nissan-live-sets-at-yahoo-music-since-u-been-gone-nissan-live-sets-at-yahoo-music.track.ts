@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonNissanLiveSetsAtYahooMusicSinceUBeenGoneNissanLiveSetsAtYahooMusic = {
   id: "01a0a5ae-e2c1-7661-b803-1bfe02528e0a",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-nissan-live-sets-at-yahoo-music-since-u-been-gone-nissan-live-sets-at-yahoo-music",
   ownLength: 3.67555,
   ownProgress: 0,

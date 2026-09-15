@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonStrongerWhatDoesnTKillYouTheRemixesStrongerWhatDoesntKillYouGenetix = {
   id: "01a0a5ae-e166-7004-96cc-25084d5f16d3",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-stronger-what-doesn-t-kill-you-the-remixes-stronger-what-doesnt-kill-you-genetix",
   ownLength: 4.672666666666666,
   ownProgress: 0,

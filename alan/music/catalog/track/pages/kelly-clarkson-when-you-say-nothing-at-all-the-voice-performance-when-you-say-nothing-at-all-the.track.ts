@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonWhenYouSayNothingAtAllTheVoicePerformanceWhenYouSayNothingAtAllThe = {
   id: "01a0a5ae-d2a5-715a-9c67-e75aea4db4f5",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-when-you-say-nothing-at-all-the-voice-performance-when-you-say-nothing-at-all-the",
   ownLength: 2.70615,
   ownProgress: 0,

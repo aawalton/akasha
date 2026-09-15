@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonWhenChristmasComesAroundAgainItsBeginningToLookALotLikeChristmas = {
   id: "01a0a5ae-b41a-767c-8413-cab57e19fa06",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-when-christmas-comes-around-again-its-beginning-to-look-a-lot-like-christmas",
   ownLength: 1.91165,
   ownProgress: 0,

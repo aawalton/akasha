@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonOhDarlingLiveOhDarlingLive = {
   id: "01a0a5ae-db12-7fa2-8e8c-1a7fa65e6c70",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-oh-darling-live-oh-darling-live",
   ownLength: 3.31745,
   ownProgress: 0,

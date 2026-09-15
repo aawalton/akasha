@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonUnderTheMistletoeUnderTheMistletoe = {
   id: "01a0a5ae-d2de-7358-976d-2aa627c3c3f6",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-under-the-mistletoe-under-the-mistletoe",
   ownLength: 3.76145,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonUnderneathTheTreeRemixesUnderneathTheTreeCutmoreChristmasSleighRide = {
   id: "01a0a5ae-de58-7ee9-8c80-4c9701f637cc",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-underneath-the-tree-remixes-underneath-the-tree-cutmore-christmas-sleigh-ride",
   ownLength: 6.392216666666667,
   ownProgress: 0,

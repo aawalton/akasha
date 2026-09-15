@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirling2BraveEnoughSomethingWildFeatAndrewMcmahonInTheWilderness = {
   id: "01a0a587-beee-7d43-b2fa-f71e732f44e9",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-2-brave-enough-something-wild-feat-andrew-mcmahon-in-the-wilderness",
   ownLength: 3.741833333333333,
   ownProgress: 0,

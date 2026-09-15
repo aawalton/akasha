@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonPieceByPiecePieceByPiece = {
   id: "01a0a5ae-ddc5-7cf5-bcac-e618b4d017cd",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-piece-by-piece-piece-by-piece",
   ownLength: 4.2957833333333335,
   ownProgress: 0,

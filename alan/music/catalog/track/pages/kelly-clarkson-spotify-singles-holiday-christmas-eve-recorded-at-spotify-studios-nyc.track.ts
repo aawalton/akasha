@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonSpotifySinglesHolidayChristmasEveRecordedAtSpotifyStudiosNyc = {
   id: "01a0a5ae-d8d6-78fe-bf0a-bc1b2aac5edf",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-spotify-singles-holiday-christmas-eve-recorded-at-spotify-studios-nyc",
   ownLength: 2.9404166666666667,
   ownProgress: 0,

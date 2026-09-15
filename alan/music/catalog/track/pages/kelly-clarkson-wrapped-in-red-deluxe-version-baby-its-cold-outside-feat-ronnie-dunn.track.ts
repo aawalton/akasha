@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const kellyClarksonWrappedInRedDeluxeVersionBabyItsColdOutsideFeatRonnieDunn = {
   id: "01a0a5ae-c11f-7fc9-b9b1-6dc0940c687a",
-  type: "track",
+  type: "page-type/track",
   slug: "kelly-clarkson-wrapped-in-red-deluxe-version-baby-its-cold-outside-feat-ronnie-dunn",
   ownLength: 3.0252,
   ownProgress: 0,
