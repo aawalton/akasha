@@ -25,8 +25,8 @@ import {
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import { piping } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import {
+  graphedRepo,
   idOf,
-  indexedRepo,
   NAMER_CODE,
   NAMER_PAGE,
   pageOf,
@@ -154,7 +154,7 @@ const REACHING_ANY_KIND: Readonly<Record<string, string>> = {
 }
 
 export function repo(): string {
-  return indexedRepo({
+  return graphedRepo({
     ...SPARE,
     ...OWING_NO_READING,
     ...REACHING_ANY_KIND,

@@ -19,16 +19,15 @@ import {
   aProperty,
   aType,
   bodyOf,
+  graphedRepo,
   HELD_CODE,
   HELD_PAGE,
   idOf,
-  indexedRepo,
   NAMER_CODE,
   NAMER_PAGE,
   pageOf,
   scratch,
   textIn,
-  thePage,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
@@ -100,35 +99,6 @@ const CHILD = pageOf({
   slug: "child",
   definition: "a page its parent names in parts",
 })
-
-const graphId = (one: string): string => `01a04a4a-0003-7000-8000-00000000000${one}`
-
-const GRAPHED: Readonly<Record<string, string>> = Object.fromEntries(
-  [
-    aType(graphId("1"), "graph-attribute", ["page-type/page"]),
-    aType(graphId("2"), "graph-edge", ["page-type/page"], ["attributes"]),
-    aProperty(graphId("3"), "attributes", "relation-property", {
-      targetPageType: "graph-attribute",
-    }),
-    thePage({
-      id: graphId("4"),
-      pageTypeSlug: "graph-attribute",
-      slug: "known",
-      definition: "how an edge between two files was found",
-    }),
-    thePage({
-      id: graphId("5"),
-      pageTypeSlug: "graph-edge",
-      slug: "import-edge",
-      definition: "one file naming another in its own body",
-      attributes: ["graph-attribute/known"],
-    }),
-  ].map(([at, value]) => [`akasha/${at}`, bodyOf(value)])
-)
-
-function graphedRepo(named: Readonly<Record<string, string>> = {}): string {
-  return indexedRepo({ ...GRAPHED, ...named })
-}
 
 function worldIn(root: string, reaching: Reaching = running): World {
   return worldAt(root, textIn(root), reaching)

@@ -262,6 +262,31 @@ const REPO: Readonly<Record<string, string>> = {
   [NAMER_CODE]: NAMER_BODY,
 }
 
+const graphId = (one: string): string => `01a04a4a-0006-7000-8000-00000000000${one}`
+
+const GRAPHED: Readonly<Record<string, string>> = Object.fromEntries(
+  [
+    aType(graphId("1"), "graph-attribute", ["page-type/page"]),
+    aType(graphId("2"), "graph-edge", ["page-type/page"], ["attributes"]),
+    aProperty(graphId("3"), "attributes", "relation-property", {
+      targetPageType: "graph-attribute",
+    }),
+    thePage({
+      id: graphId("4"),
+      pageTypeSlug: "graph-attribute",
+      slug: "known",
+      definition: "how an edge between two files was found",
+    }),
+    thePage({
+      id: graphId("5"),
+      pageTypeSlug: "graph-edge",
+      slug: "import-edge",
+      definition: "one file naming another in its own body",
+      attributes: ["graph-attribute/known"],
+    }),
+  ].map(([at, value]) => [`${TREE}/${at}`, bodyOf(value)])
+)
+
 const BUILT: Record<string, string> = {}
 
 export function indexedRepo(named: Readonly<Record<string, string>> = {}): string {
@@ -285,6 +310,10 @@ export function indexedRepo(named: Readonly<Record<string, string>> = {}): strin
   const root = scratch.rootFor("akasha-indexed-")
   cpSync(held, root, { recursive: true })
   return root
+}
+
+export function graphedRepo(named: Readonly<Record<string, string>> = {}): string {
+  return indexedRepo({ ...GRAPHED, ...named })
 }
 
 export function textIn(root: string): (path: string) => string | null {
