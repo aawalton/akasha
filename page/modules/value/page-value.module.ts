@@ -82,6 +82,52 @@ export const pageValue = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A body of the shape every page has is read off its text rather than run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body of any other shape is run, the reading having refused it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The reading answers the object the body's one value export declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body exporting a second value is refused by the reading rather than read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An export of a type declares no value and is not counted as that second one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An export is looked for where a line opens rather than anywhere in the body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What a page body holds is text, a number, true, false, null, a list or an object.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key spelled bare and a key spelled as text are one key.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Text a body spells as text added to text is answered joined.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What follows the object is read far enough to tell a type-level tail from an expression.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The reading takes in no comment, so a body carrying one is run instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A body loaded once is answered from what was loaded rather than loaded again.",
     },
     {
