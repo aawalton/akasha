@@ -17,7 +17,7 @@ export const veraGraphCleanup = {
       statement:
         "Every closure the graph answers is correct, and quick enough to ask on every landing.",
       workingMemory:
-        "Two walkers are gone into the graph and the third is not: `gateway-tree-version.module.code.ts` reads specifiers with a regex of its own, resolves `.ts` and `index.ts` endings the graph does not, and refuses on a member it cannot read where the graph answers nothing. Nothing measures any closure. What correct rests on is one rule used twice. What quick rests on is this domain's caching invariants: an answer keyed by what it rests on and learning it is stale by being asked.",
+        "Measured by `performance/answer-cost`: out landing 555 files 230ms, in landing 1079 files 58ms, out graph-asking 143 files 28ms, in graph-asking 1100 files 49ms, out page-value-reading 31 files 17ms, in page-value-reading 3329 files 77ms. Reading a body out costs about 0.4ms a file, reading the file beside a page in about 0.05ms. The largest closure is 230ms against a typecheck averaging 14.8s over 3499 runs, so no cache earns its keep yet.",
     },
     {
       statement:
