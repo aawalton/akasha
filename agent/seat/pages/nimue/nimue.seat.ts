@@ -5,7 +5,7 @@ export const nimue = {
   type: "seat",
   slug: "nimue",
   persona: "persona/nimue",
-  assignmentSlug: "initiative/nimue-new-models",
+  assignmentSlug: "initiative/nimue-workstation-upgrade",
   role: "role/definer",
   person: "person/alan",
   startMode: "interactive",
