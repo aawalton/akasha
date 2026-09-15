@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const wyrmOfNoGoodHumor = {
   id: "01a06586-0a84-7569-ae48-559c46c6c629",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "wyrm-of-no-good-humor",
   title: "Wyrm Of No Good Humor",
   world: "world/the-wandering-inn",

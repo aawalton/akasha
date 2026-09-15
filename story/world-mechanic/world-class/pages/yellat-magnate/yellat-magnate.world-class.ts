@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const yellatMagnate = {
   id: "01a06586-0a85-75f4-99aa-fafa3a35014f",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "yellat-magnate",
   title: "Yellat Magnate",
   world: "world/the-wandering-inn",
