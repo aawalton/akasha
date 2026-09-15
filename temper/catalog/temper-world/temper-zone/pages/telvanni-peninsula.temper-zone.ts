@@ -2,7 +2,7 @@ import type { TemperZone } from "akasha/temper/catalog/temper-world/temper-zone/
 
 export const telvanniPeninsula = {
   id: "019e17d9-43a1-7d0a-aef5-a83b28bee512",
-  type: "temper-zone",
+  type: "page-type/temper-zone",
   slug: "telvanni-peninsula",
   title: "Telvanni Peninsula",
   dropsScripts: true,

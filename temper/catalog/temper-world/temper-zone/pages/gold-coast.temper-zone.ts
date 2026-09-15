@@ -2,7 +2,7 @@ import type { TemperZone } from "akasha/temper/catalog/temper-world/temper-zone/
 
 export const goldCoast = {
   id: "019e17d9-5534-7c4b-beb9-a09515aafcd5",
-  type: "temper-zone",
+  type: "page-type/temper-zone",
   slug: "gold-coast",
   title: "Gold Coast",
   dropsScripts: false,

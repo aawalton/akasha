@@ -2,7 +2,7 @@ import type { TemperZone } from "akasha/temper/catalog/temper-world/temper-zone/
 
 export const northernElsweyr = {
   id: "019e17d9-4bc0-7389-b95f-b42320ebacc6",
-  type: "temper-zone",
+  type: "page-type/temper-zone",
   slug: "northern-elsweyr",
   title: "Northern Elsweyr",
   dropsScripts: true,

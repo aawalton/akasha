@@ -2,7 +2,7 @@ import type { TemperZone } from "akasha/temper/catalog/temper-world/temper-zone/
 
 export const theDeadlands = {
   id: "019e17d9-4708-7fd3-9f4c-bc6058abf2dd",
-  type: "temper-zone",
+  type: "page-type/temper-zone",
   slug: "the-deadlands",
   title: "The Deadlands",
   dropsScripts: true,

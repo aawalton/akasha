@@ -2,7 +2,7 @@ import type { TemperZone } from "akasha/temper/catalog/temper-world/temper-zone/
 
 export const cyrodiil = {
   id: "019e17d9-3f19-74b1-b9a5-aa1f431430a1",
-  type: "temper-zone",
+  type: "page-type/temper-zone",
   slug: "cyrodiil",
   title: "Cyrodiil",
   dropsScripts: true,
