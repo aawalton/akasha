@@ -2,7 +2,7 @@ import type { TemperCompanionBaseRole } from "akasha/temper/catalog/temper-compa
 
 export const tank = {
   id: "01a05fce-c49c-7f82-966a-54778069c10a",
-  type: "temper-companion-base-role",
+  type: "page-type/temper-companion-base-role",
   slug: "tank",
   key: "tank",
   title: "Tank",

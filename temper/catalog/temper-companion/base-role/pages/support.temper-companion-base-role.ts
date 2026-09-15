@@ -2,7 +2,7 @@ import type { TemperCompanionBaseRole } from "akasha/temper/catalog/temper-compa
 
 export const support = {
   id: "01a05fce-c49b-727b-849d-73e52fac2adc",
-  type: "temper-companion-base-role",
+  type: "page-type/temper-companion-base-role",
   slug: "support",
   key: "support",
   title: "Support",
