@@ -10,7 +10,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "Reading one page costs bytes in proportion to that page.",
       workingMemory:
-        "The narrow is pushed and honoured, and saves 656 bytes of 429,204,036, because 161 of the 162 snapshots are one account's. A projection saves the rest: the same ask with keys answers 22,528 bytes. The whole-population fetch is deliberate, since a cursor pages over one sorted snapshot, so leave that alone. The body parses at 2,388 MB resident and is killed outright under a 900M cap, so the field failure was allocation rather than syntax.",
+        "The narrowing is landed. `entriedValue` takes the keys a question wants, `gatheredFor` threads them, and `page-asking` works them out from `keys`, `where` and `sortBy`, falling back to every key where a question names none or the page type carries a calculation. Measured over the 162 inventory snapshots: unnarrowed is 429,315,981 bytes, 914 ms and 1805 MB resident; asking three keys is 17,054 bytes, 15 ms and 83 MB. Left: the callers still asking for whole snapshots.",
     },
     {
       statement: "A refusal from the pages names the file that refusal is about.",
