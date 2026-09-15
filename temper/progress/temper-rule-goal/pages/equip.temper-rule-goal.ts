@@ -2,7 +2,7 @@ import type { TemperRuleGoal } from "akasha/temper/progress/temper-rule-goal/tem
 
 export const equip = {
   id: "01a071f5-ae74-70f2-a6cf-061afdb8c173",
-  type: "temper-rule-goal",
+  type: "page-type/temper-rule-goal",
   slug: "equip",
   title: "Equip",
   description: "Keeps the item to wear on a character or a companion.",

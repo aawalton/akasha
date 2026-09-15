@@ -2,7 +2,7 @@ import type { TemperRuleGoal } from "akasha/temper/progress/temper-rule-goal/tem
 
 export const task = {
   id: "01a071f5-ae75-7ee4-9234-c3d53aae453c",
-  type: "temper-rule-goal",
+  type: "page-type/temper-rule-goal",
   slug: "task",
   title: "Task",
   description: "Keeps the item for a task that calls for the item.",

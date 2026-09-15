@@ -2,7 +2,7 @@ import type { TemperRuleGoal } from "akasha/temper/progress/temper-rule-goal/tem
 
 export const unlock = {
   id: "01a071f5-ae75-7e5f-8fb9-75c8e06177a1",
-  type: "temper-rule-goal",
+  type: "page-type/temper-rule-goal",
   slug: "unlock",
   title: "Unlock",
   description: "Keeps the item until the collection the item belongs to is unlocked.",
