@@ -1,0 +1,15 @@
+import type { Restaurant } from "akasha/alan/collection/place/restaurant/restaurant.page-type.types.ts"
+
+export const ambrosiaBakery = {
+  id: "01a06808-a2ec-7000-8553-2071ebade26b",
+  type: "restaurant",
+  slug: "ambrosia-bakery",
+  title: "Ambrosia Bakery",
+  partOfCollections: ["restaurant-collection/provo-restaurants"],
+  position: 0,
+  ownLength: 6250,
+  ownProgress: 6250,
+  unit: "unit/words",
+  status: "not-started",
+  rank: "B",
+} as const satisfies Restaurant

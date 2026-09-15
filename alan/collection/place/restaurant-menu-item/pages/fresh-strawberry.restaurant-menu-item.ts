@@ -1,0 +1,14 @@
+import type { RestaurantMenuItem } from "akasha/alan/collection/place/restaurant-menu-item/restaurant-menu-item.page-type.types.ts"
+
+export const freshStrawberry = {
+  id: "01a06808-b765-700a-a265-97ad69b3d196",
+  type: "restaurant-menu-item",
+  slug: "fresh-strawberry",
+  title: "Fresh Strawberry",
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
+  position: 0,
+  ownLength: 3750,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "in-progress",
+} as const satisfies RestaurantMenuItem

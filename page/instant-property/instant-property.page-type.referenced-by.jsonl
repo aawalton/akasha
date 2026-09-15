@@ -13,8 +13,8 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/book/pages/learn-everything/topic/properties/capture-through-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/chess/game/properties/played-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/chess/review-session/properties/reviewed-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/places/location/properties/scheduled-end-at.instant-property.ts"}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/places/location/properties/scheduled-start-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/place/location/properties/scheduled-end-at.instant-property.ts"}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/place/location/properties/scheduled-start-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/properties/collection-completed-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/properties/published-at.instant-property.ts"}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/sync-run/properties/run-completed-at.instant-property.ts"}

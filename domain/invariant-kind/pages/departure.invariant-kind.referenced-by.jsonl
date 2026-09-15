@@ -515,9 +515,9 @@
 {"propertySlug":"invariant-kind","path":"alan/collection/great-courses/modules/sync-outcome/sync-outcome.module.ts","id":"01a06580-196a-7000-9451-e53d200e3e2d"}
 {"propertySlug":"invariant-kind","path":"alan/collection/great-courses/modules/sync-run/sync-run.module.ts","id":"01a06580-196a-7001-8989-3755d6f4c2ed"}
 {"propertySlug":"invariant-kind","path":"alan/collection/great-courses/modules/sync/sync.module.ts","id":"01a06579-f3d9-7007-b519-cafdb2cbafba"}
-{"propertySlug":"invariant-kind","path":"alan/collection/places/location-collection/location-collection.page-type.ts","id":"01a06589-d12e-7daf-abd1-8fb5c89e9127"}
-{"propertySlug":"invariant-kind","path":"alan/collection/places/location-deal/location-deal.page-type.ts","id":"01a06585-5fc5-715e-850c-9b88e5597728"}
-{"propertySlug":"invariant-kind","path":"alan/collection/places/location/location.page-type.ts","id":"01a06583-acfb-78cd-80a3-4b5b464dc8ff"}
+{"propertySlug":"invariant-kind","path":"alan/collection/place/location-collection/location-collection.page-type.ts","id":"01a06589-d12e-7daf-abd1-8fb5c89e9127"}
+{"propertySlug":"invariant-kind","path":"alan/collection/place/location-deal/location-deal.page-type.ts","id":"01a06585-5fc5-715e-850c-9b88e5597728"}
+{"propertySlug":"invariant-kind","path":"alan/collection/place/location/location.page-type.ts","id":"01a06583-acfb-78cd-80a3-4b5b464dc8ff"}
 {"propertySlug":"invariant-kind","path":"alan/collection/properties/collection-completion.computed-property.ts","id":"01a07231-dd66-7ecf-a99e-fe95f4120495"}
 {"propertySlug":"invariant-kind","path":"alan/collection/properties/collection-published-at.one-of-property.ts","id":"01a063de-2c60-700f-a1f5-3c8c3ba8a091"}
 {"propertySlug":"invariant-kind","path":"alan/collection/properties/collection-tags.text-property.ts","id":"01a063de-2c60-7012-86a4-f75160a97d69"}

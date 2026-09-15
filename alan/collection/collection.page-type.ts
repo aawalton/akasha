@@ -21,7 +21,7 @@ export const collection = {
     "computed-property/total-remaining",
     "computed-property/total-remaining-in-words",
     "domain/great-courses",
-    "domain/places",
+    "domain/place",
     "domain/royal-road",
     "instant-property/collection-completed-at",
     "instant-property/published-at",

@@ -1,0 +1,17 @@
+import type { LocationDeal } from "akasha/alan/collection/place/location-deal/location-deal.page-type.types.ts"
+
+export const treatsAndDrinksMooyah241Shake = {
+  id: "019f322c-b11d-7a01-898a-884bd9ead208",
+  type: "location-deal",
+  slug: "treats-and-drinks-mooyah-2-4-1-shake",
+  title: "Mooyah — 2-4-1! Shake!",
+  collection: "location-collection/starving-student-card",
+  dealKey: "ssc:treats-and-drinks:mooyah:2-4-1-shake",
+  locations: ["location/mooyah-utah-county"],
+  offerText: "2-4-1! Shake!",
+  offerType: "2-4-1",
+  section: "Treats & Drinks",
+  struckOut: false,
+  useLimit: "3",
+  usesUsed: 0,
+} as const satisfies LocationDeal
