@@ -50,7 +50,7 @@ export const alanHarness = {
     "domain/web-build-version",
     "domain/web-page-answers",
     "domain/web-security-header",
-    "domain/web-static-assets",
+    "domain/web-static-asset",
     "domain/workspace-paths",
     "module/overdue-rolling",
     "module/persona-points-rebuilding",

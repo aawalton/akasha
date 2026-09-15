@@ -970,9 +970,9 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/web-page-answers/web-page-answers.domain.ts","id":"01a0655a-b2a8-78a3-9dec-43e67b15bf10"}
 {"propertySlug":"invariant-kind","path":"alan/harness/web-security-header/modules/security-headers/security-headers.module.ts","id":"01a05c48-deeb-7008-8b99-8ccaf9ccafa6"}
 {"propertySlug":"invariant-kind","path":"alan/harness/web-security-header/web-security-header.domain.ts","id":"01a05c48-deeb-7007-9fa8-e8205045f0c1"}
-{"propertySlug":"invariant-kind","path":"alan/harness/web-static-assets/modules/build-directory/build-directory.module.ts","id":"01a08db3-6723-70df-8ccd-9abb25c56c16"}
-{"propertySlug":"invariant-kind","path":"alan/harness/web-static-assets/modules/serve-static/serve-static.module.ts","id":"01a05c48-deeb-7006-8e9c-b8c5539dd296"}
-{"propertySlug":"invariant-kind","path":"alan/harness/web-static-assets/web-static-assets.domain.ts","id":"01a05c48-deeb-7005-87e8-e99206ff06ca"}
+{"propertySlug":"invariant-kind","path":"alan/harness/web-static-asset/modules/build-directory/build-directory.module.ts","id":"01a08db3-6723-70df-8ccd-9abb25c56c16"}
+{"propertySlug":"invariant-kind","path":"alan/harness/web-static-asset/modules/serve-static/serve-static.module.ts","id":"01a05c48-deeb-7006-8e9c-b8c5539dd296"}
+{"propertySlug":"invariant-kind","path":"alan/harness/web-static-asset/web-static-asset.domain.ts","id":"01a05c48-deeb-7005-87e8-e99206ff06ca"}
 {"propertySlug":"invariant-kind","path":"alan/harness/workspace-paths/modules/stale-folders/stale-folders.module.ts","id":"01a0683d-3c17-7dd8-991b-d05270ddec1f"}
 {"propertySlug":"invariant-kind","path":"alan/harness/workspace-paths/workspace-paths.domain.ts","id":"01a05c48-deeb-700a-a48e-da9f2becaa1d"}
 {"propertySlug":"invariant-kind","path":"alan/library/library.domain.ts","id":"01a06574-0291-7000-bfeb-0932b2156cac"}
