@@ -18,7 +18,7 @@ export const rynFileStructure = {
     {
       statement: "A domain wrapping one page and that page are one page.",
       workingMemory:
-        "76 domains wrap one page. 41 wrapped a module and 32 are folded: the module survives, carrying the wrapper's invariants, because a module extends domain, so no domain is lost. Fold only where both definitions say one concern twice, as util-hashing and sha256-hex did. 10 failed that and stay; the tell is wrapper invariants about a class rather than the one part. The 35 left wrap no module: 12 a domain, 11 a change-mechanical, 8 a page type, 2 a manifest, 2 a router-app.\n",
+        "43 are folded and 34 wrappers stay. Fold only where the wrapper and its one part say one concern twice, as util-hashing and sha256-hex did; the module or change page survives, since both extend domain, so no domain is lost. The 34 fail that: the wrapper names an area, its one part is one thing inside, and folding would destroy a definition. They are 10 module, 11 domain, 1 change-agent-prose, 8 page type, 2 manifest and 2 router-app. The intent wants narrowing to that test before it can be met.\n",
     },
     {
       statement:
