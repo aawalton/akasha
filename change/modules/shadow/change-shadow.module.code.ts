@@ -80,6 +80,7 @@ function facingIn(world: World): Facing {
     valueAt: (path) => world.index.pageByPath(path),
     carryingOf: (named) => world.index.carryingOf(named),
     root: world.root,
+    holds: (path) => world.textOf(path) !== null,
   }
 }
 

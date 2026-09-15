@@ -270,6 +270,7 @@ export function generatedAt(root: string, path: string): boolean {
 export type Facing = Kinded & {
   readonly carryingOf: (named: string) => Carried
   readonly root: string
+  readonly holds?: (path: string) => boolean
 }
 
 export type Derived = {
@@ -401,7 +402,8 @@ function writerIn(given: Facing, path: string, held: Derived): string | null {
     HELD_TS
   )
   if (beside === null) return null
-  return existsSync(join(given.root, beside)) ? beside : null
+  const holds = given.holds ?? ((at: string) => existsSync(join(given.root, at)))
+  return holds(beside) ? beside : null
 }
 
 export function writerAt(given: Facing, path: string): string | null {

@@ -303,6 +303,10 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A face reads the files through the world rather than through the checkout.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The face a world is read through is built once for that world.",
     },
     {

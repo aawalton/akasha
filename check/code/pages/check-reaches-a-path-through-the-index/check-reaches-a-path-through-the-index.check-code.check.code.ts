@@ -38,6 +38,7 @@ function facingFor(shadow: Shadow): Facing {
     valueAt: (path) => index.pageByPath(path),
     carryingOf: (named) => index.carryingOf(named),
     root: shadow.root,
+    holds: (path) => shadow.holds(path),
   }
   FACING.set(shadow, made)
   return made

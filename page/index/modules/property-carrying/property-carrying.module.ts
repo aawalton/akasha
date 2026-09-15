@@ -195,6 +195,14 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
+      statement: "A face reading a tree of its own is asked of that tree rather than of the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A face reading no tree of its own is asked of the disk under its root.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page without that code holds a file that is not generated.",
     },
     {
