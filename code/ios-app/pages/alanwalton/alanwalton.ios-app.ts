@@ -2,7 +2,7 @@ import type { IosApp } from "akasha/code/ios-app/ios-app.page-type.types.ts"
 
 export const alanwalton = {
   id: "01a05821-5723-7172-b3f3-b3708871f3fc",
-  type: "ios-app",
+  type: "page-type/ios-app",
   slug: "alanwalton",
   definition: "the app on Alan's phone and the shell it runs in",
   appProfileName: "alanwalton app App Store",
