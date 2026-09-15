@@ -8,11 +8,6 @@ export const astraIndexCleanup = {
   persona: "persona/astra",
   intentStack: [
     {
-      statement: "Alan holds the parse cache's structure correct.",
-      workingMemory:
-        "`.git/cache/parse` holds a folder per model, each sharded into 256 `.jsonl` by the first two characters of a key, the key being a sha256 over the model and the text cut to 32 characters and the line carrying the whole text back to compare. 512 files at 162 MB over two folders, one of them a dead first shape. `domain/plain-language/modules/parse-cache/parse-cache.module.code.ts` writes it.\n",
-    },
-    {
       statement:
         "Every file a page's code imports belongs to a page, and a check refuses a new one that does not.",
       workingMemory:
