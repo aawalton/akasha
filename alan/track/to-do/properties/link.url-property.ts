@@ -2,7 +2,7 @@ import type { UrlProperty } from "akasha/page/url-property/url-property.page-typ
 
 export const link = {
   id: "01a065a1-49b7-76f2-8bfb-4513bba0346d",
-  type: "url-property",
+  type: "page-type/url-property",
   slug: "link",
   propertySlug: "link",
   definition: "where Alan goes to do it",

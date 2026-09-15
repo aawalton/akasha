@@ -2,7 +2,7 @@ import type { UrlProperty } from "akasha/page/url-property/url-property.page-typ
 
 export const feed = {
   id: "01a05480-1c8a-7277-987d-f4e91c56d32f",
-  type: "url-property",
+  type: "page-type/url-property",
   slug: "feed",
   propertySlug: "feed",
   definition: "where a widget fetches the readings it draws",
