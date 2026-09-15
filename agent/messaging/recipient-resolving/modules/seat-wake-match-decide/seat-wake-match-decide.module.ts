@@ -9,16 +9,16 @@ export const seatWakeMatchDecide = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seat whose page is there has an agent in it and needs no waking.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An absent seat is revived only where the work matches a wake source that seat states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every decision has the reason that decision was reached for.",
     },
   ],
