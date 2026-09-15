@@ -5,7 +5,7 @@ export const gap = {
   type: "invariant-kind",
   slug: "gap",
   definition: "a distance between what the domain says and what it does",
-  invariantGroup: "decision-group/intent",
+  decisionGroup: "decision-group/intent",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

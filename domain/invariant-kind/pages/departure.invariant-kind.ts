@@ -5,7 +5,7 @@ export const departure = {
   type: "invariant-kind",
   slug: "departure",
   definition: "a decision a reader would not guess right",
-  invariantGroup: "decision-group/design",
+  decisionGroup: "decision-group/design",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

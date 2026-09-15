@@ -34,6 +34,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"craft-day-persona","propertySlug":"persona","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-inventory-currency","unique":null,"uniquePropertySlug":null,"slug":"currency-key","propertySlug":"currency-key","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"day","unique":null,"uniquePropertySlug":null,"slug":"day","propertySlug":"day","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"decision-group","unique":null,"uniquePropertySlug":null,"slug":"decision-group","propertySlug":"decision-group","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"service","unique":null,"uniquePropertySlug":null,"slug":"deploys-after","propertySlug":"deploys-after","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"ios-app","unique":null,"uniquePropertySlug":null,"slug":"device-token-ios-app","propertySlug":"ios-app","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"person","unique":null,"uniquePropertySlug":null,"slug":"device-token-person","propertySlug":"person","fileName":null,"folderName":null,"sorted":false}
@@ -57,7 +58,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"initiative","unique":null,"uniquePropertySlug":null,"slug":"initiative","propertySlug":"initiative","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"initiative","unique":null,"uniquePropertySlug":null,"slug":"initiative-parent","propertySlug":"parent","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"initiative-persona","propertySlug":"persona","fileName":null,"folderName":null,"sorted":false}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"decision-group","unique":null,"uniquePropertySlug":null,"slug":"invariant-group","propertySlug":"invariant-group","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"invariant-kind","unique":null,"uniquePropertySlug":null,"slug":"invariant-kind","propertySlug":"invariant-kind","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-inventory-snapshot","unique":null,"uniquePropertySlug":null,"slug":"inventory","propertySlug":"inventory","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"life-theme","unique":null,"uniquePropertySlug":null,"slug":"life-theme-parent","propertySlug":"life-theme-parent","fileName":null,"folderName":null,"sorted":false}

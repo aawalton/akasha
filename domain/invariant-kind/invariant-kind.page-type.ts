@@ -12,10 +12,10 @@ export const invariantKind = {
     "invariant-kind/gap",
     "invariant-kind/stopgap",
     "invariant-kind/upkeep",
-    "relation-property/invariant-group",
+    "relation-property/decision-group",
   ],
   extends: ["page-type/domain"],
-  properties: [{ pageProperty: "relation-property/invariant-group", required: true, many: false }],
+  properties: [{ pageProperty: "relation-property/decision-group", required: true, many: false }],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

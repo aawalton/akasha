@@ -86,7 +86,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/initiative/properties/initiative-parent.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/initiative/properties/initiative-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/initiative/properties/initiative.relation-property.ts"}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/invariant-kind/properties/invariant-group.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/invariant-kind/decision-group/decision-group.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/properties/directive-kind.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/properties/invariant-kind.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"domain/properties/page-domain.relation-property.ts"}

@@ -5,7 +5,7 @@ export const constraint = {
   type: "invariant-kind",
   slug: "constraint",
   definition: "a limit nobody here chose",
-  invariantGroup: "decision-group/design",
+  decisionGroup: "decision-group/design",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
