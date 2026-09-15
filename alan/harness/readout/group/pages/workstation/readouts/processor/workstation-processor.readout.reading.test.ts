@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   processorIn,
   processorTimesIn,
-} from "akasha/alan/harness/readout/pages/workstation-processor/workstation-processor.readout.reading.code.ts"
+} from "akasha/alan/harness/readout/group/pages/workstation/readouts/processor/workstation-processor.readout.reading.code.ts"
 
 const STAT =
   "cpu  100 10 50 800 40 5 5 0 20 0\n" + "cpu0 50 5 25 400 20 2 2 0 10 0\n" + "intr 12345\n"

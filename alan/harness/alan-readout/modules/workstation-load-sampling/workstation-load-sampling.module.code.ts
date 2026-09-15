@@ -1,14 +1,14 @@
 import { readFileSync } from "node:fs"
-import {
-  keepReading,
-  readoutPage,
-} from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
-import { memoryIn } from "akasha/alan/harness/readout/pages/workstation-memory/workstation-memory.readout.reading.code.ts"
+import { memoryIn } from "akasha/alan/harness/readout/group/pages/workstation/readouts/memory/workstation-memory.readout.reading.code.ts"
 import {
   type ProcessorTimes,
   processorIn,
   processorTimesIn,
-} from "akasha/alan/harness/readout/pages/workstation-processor/workstation-processor.readout.reading.code.ts"
+} from "akasha/alan/harness/readout/group/pages/workstation/readouts/processor/workstation-processor.readout.reading.code.ts"
+import {
+  keepReading,
+  readoutPage,
+} from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import { keepBeat } from "akasha/infrastructure/service/workstation/modules/service-beating/service-beating.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {

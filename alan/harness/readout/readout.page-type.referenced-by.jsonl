@@ -13,9 +13,9 @@
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/group/pages/claude-usage/readouts/five-hour-back/five-hour-back.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-back/weekly-back.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-ends/weekly-ends.readout.ts"}
-{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/pages/weekly-usage/weekly-usage.readout.ts"}
-{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/pages/workstation-memory/workstation-memory.readout.ts"}
-{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/pages/workstation-processor/workstation-processor.readout.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-usage/weekly-usage.readout.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/group/pages/workstation/readouts/memory/workstation-memory.readout.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/group/pages/workstation/readouts/processor/workstation-processor.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/safety/readouts/upkeep-safety/upkeep-safety.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/sleep/readouts/upkeep-sleep/upkeep-sleep.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.ts"}

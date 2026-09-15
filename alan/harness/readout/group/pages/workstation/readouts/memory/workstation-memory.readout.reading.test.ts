@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { memoryIn } from "akasha/alan/harness/readout/pages/workstation-memory/workstation-memory.readout.reading.code.ts"
+import { memoryIn } from "akasha/alan/harness/readout/group/pages/workstation/readouts/memory/workstation-memory.readout.reading.code.ts"
 
 const MEMINFO =
   "MemTotal:       64000000 kB\n" +

@@ -373,6 +373,9 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/group/pages/claude-usage/readouts/five-hour-back/five-hour-back.readout.ts","id":"01a063bd-a526-7d2a-b1f5-8375b86d19ff"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-back/weekly-back.readout.ts","id":"01a063bd-a526-795d-b845-b6fb54c9ef34"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-ends/weekly-ends.readout.ts","id":"01a063bd-a526-7623-8e91-2865d3976acc"}
+{"propertySlug":"invariant-kind","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-usage/weekly-usage.readout.ts","id":"01a063bd-a526-7a12-97a4-531aa40ead14"}
+{"propertySlug":"invariant-kind","path":"alan/harness/readout/group/pages/workstation/readouts/memory/workstation-memory.readout.ts","id":"01a0a065-1fe2-7ef7-8efc-0759f66b9875"}
+{"propertySlug":"invariant-kind","path":"alan/harness/readout/group/pages/workstation/readouts/processor/workstation-processor.readout.ts","id":"01a0a065-0e31-7af0-bc57-e4bd83656aa1"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/asking/readout-asking.module.ts","id":"01a061c0-e7cc-7ec9-b512-033fcde733e7"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/body/readout-body.module.ts","id":"01a05e63-1c18-7baa-a113-890ebfb04463"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/credential/readout-credential.module.ts","id":"01a054d9-d41f-796f-a2ff-b2c0fa9863a0"}
@@ -387,9 +390,6 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/watching/readout-watching.module.ts","id":"01a08c0f-6f8d-71b1-8b17-155ca606cb6a"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.ts","id":"01a078a8-b96f-765d-99ff-5703d9b2edd3"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/widget-tap-link/widget-tap-link.module.ts","id":"01a078a5-b8d4-7914-bdf7-41f482a36806"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/weekly-usage/weekly-usage.readout.ts","id":"01a063bd-a526-7a12-97a4-531aa40ead14"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/workstation-memory/workstation-memory.readout.ts","id":"01a0a065-1fe2-7ef7-8efc-0759f66b9875"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/workstation-processor/workstation-processor.readout.ts","id":"01a0a065-0e31-7af0-bc57-e4bd83656aa1"}
 {"propertySlug":"invariant-kind","path":"alan/harness/recurrence/recurrence.domain.ts","id":"01a05c6f-c7c2-7806-b684-baa6549863dc"}
 {"propertySlug":"invariant-kind","path":"alan/harness/reminder-system/modules/due-reminder-sending/due-reminder-sending.module.ts","id":"01a0686a-7a57-78a3-96ed-968543d56042"}
 {"propertySlug":"invariant-kind","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.ts","id":"01a05f4b-4a6f-7000-b814-4d63f9e06e66"}
