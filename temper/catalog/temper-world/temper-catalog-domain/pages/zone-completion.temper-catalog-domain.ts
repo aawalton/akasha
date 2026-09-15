@@ -2,13 +2,13 @@ import type { TemperCatalogDomain } from "akasha/temper/catalog/temper-world/tem
 
 export const zoneCompletion = {
   id: "01a05fc5-7432-7be7-bcd6-72aa7861e704",
-  type: "temper-catalog-domain",
+  type: "page-type/temper-catalog-domain",
   slug: "zone-completion",
   title: "Zone Completion",
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-15T17:21:37.422Z",
+  capturedAt: "2026-09-15T17:43:38.704Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
 } as const satisfies TemperCatalogDomain
