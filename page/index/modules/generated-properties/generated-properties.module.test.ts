@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { put, there } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   generatedProperties,
@@ -14,10 +15,6 @@ import {
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import {
-  put,
-  there,
-} from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -46,6 +43,10 @@ function filed(root: string, at: string, said: Record<string, unknown>): undefin
   put(indexIn(root), at, `${JSON.stringify(said)}\n`)
 }
 
+function pageFiled(root: string, at: string, id: string): undefined {
+  filed(root, `identity/page/id/${id}.jsonl`, { path: at, id })
+}
+
 function edged(root: string, slug: string, generator: string): undefined {
   relationFiled(root, idFor(`${KIND}/${generator}`), GENERATOR, idFor(`${SHAPE}/${slug}`), [
     { path: `akasha/${slug}.${SHAPE}.ts` },
@@ -67,6 +68,7 @@ function property(
     `export const held = { id: "${id}", pageTypeSlug: "${SHAPE}", slug: "${slug}", propertySlug: "${propertySlug}"${said} }\n`
   )
   filed(root, `identity/page-type/${SHAPE}/slug/${slug}.jsonl`, { path: at, id })
+  pageFiled(root, at, id)
   if (generator !== null) edged(root, slug, generator)
 }
 
@@ -79,6 +81,7 @@ function kind(root: string, slug: string, afterChecks: boolean): undefined {
     `export const held = { id: "${id}", pageTypeSlug: "${KIND}", slug: "${slug}", afterChecks: ${afterChecks} }\n`
   )
   filed(root, `identity/page-type/${KIND}/slug/${slug}.jsonl`, { path: at, id })
+  pageFiled(root, at, id)
   valueAlsoFiled(root, KIND, [{ path: at, value: { id, pageTypeSlug: KIND, slug, afterChecks } }])
 }
 
@@ -94,6 +97,7 @@ function typed(
   const value = { id, pageTypeSlug: "page-type", slug, extends: over, properties: carried }
   put(root, at, `export const held = ${JSON.stringify(value)}\n`)
   filed(root, `identity/page-type/page-type/slug/${slug}.jsonl`, { path: at, id })
+  pageFiled(root, at, id)
   valueAlsoFiled(root, "page-type", [{ path: at, value }])
 }
 
