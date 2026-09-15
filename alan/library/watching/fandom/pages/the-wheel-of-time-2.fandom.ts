@@ -2,7 +2,7 @@ import type { Fandom } from "akasha/alan/library/watching/fandom/fandom.page-typ
 
 export const theWheelOfTime2 = {
   id: "01a06808-5078-700d-83ad-e26d7666bdbe",
-  type: "fandom",
+  type: "page-type/fandom",
   slug: "the-wheel-of-time-2",
   title: "The Wheel of Time",
   partOfCollections: ["fandom-collection/fantasy-fandoms"],

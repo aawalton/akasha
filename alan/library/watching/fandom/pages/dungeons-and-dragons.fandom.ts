@@ -2,7 +2,7 @@ import type { Fandom } from "akasha/alan/library/watching/fandom/fandom.page-typ
 
 export const dungeonsAndDragons = {
   id: "01a06808-5077-7007-87c2-aaf641786c0e",
-  type: "fandom",
+  type: "page-type/fandom",
   slug: "dungeons-and-dragons",
   title: "Dungeons and Dragons",
   partOfCollections: ["fandom-collection/fantasy-fandoms"],

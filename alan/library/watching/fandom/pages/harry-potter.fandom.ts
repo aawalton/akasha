@@ -2,7 +2,7 @@ import type { Fandom } from "akasha/alan/library/watching/fandom/fandom.page-typ
 
 export const harryPotter = {
   id: "01a06808-5077-700a-bee0-53a0f70ebcf1",
-  type: "fandom",
+  type: "page-type/fandom",
   slug: "harry-potter",
   title: "Harry Potter",
   partOfCollections: ["fandom-collection/fantasy-fandoms"],

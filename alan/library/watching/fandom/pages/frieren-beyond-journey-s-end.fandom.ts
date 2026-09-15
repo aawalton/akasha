@@ -2,7 +2,7 @@ import type { Fandom } from "akasha/alan/library/watching/fandom/fandom.page-typ
 
 export const frierenBeyondJourneySEnd = {
   id: "01a06808-5077-7008-a580-8b5013e5d230",
-  type: "fandom",
+  type: "page-type/fandom",
   slug: "frieren-beyond-journey-s-end",
   title: "Frieren: Beyond Journey's End",
   partOfCollections: ["fandom-collection/anime-fandoms"],

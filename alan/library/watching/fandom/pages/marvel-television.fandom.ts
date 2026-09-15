@@ -2,7 +2,7 @@ import type { Fandom } from "akasha/alan/library/watching/fandom/fandom.page-typ
 
 export const marvelTelevision = {
   id: "01a06808-5078-7003-bfb0-030d89cfba9f",
-  type: "fandom",
+  type: "page-type/fandom",
   slug: "marvel-television",
   title: "Marvel Television",
   partOfCollections: ["fandom-collection/superhero-fandoms"],

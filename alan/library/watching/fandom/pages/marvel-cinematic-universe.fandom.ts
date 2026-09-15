@@ -2,7 +2,7 @@ import type { Fandom } from "akasha/alan/library/watching/fandom/fandom.page-typ
 
 export const marvelCinematicUniverse = {
   id: "01a06808-5078-7002-b5c5-a97c10734575",
-  type: "fandom",
+  type: "page-type/fandom",
   slug: "marvel-cinematic-universe",
   title: "Marvel Cinematic Universe",
   partOfCollections: ["fandom-collection/superhero-fandoms"],

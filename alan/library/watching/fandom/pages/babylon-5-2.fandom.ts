@@ -2,7 +2,7 @@ import type { Fandom } from "akasha/alan/library/watching/fandom/fandom.page-typ
 
 export const babylon52 = {
   id: "01a06808-5077-7001-864e-b15769799594",
-  type: "fandom",
+  type: "page-type/fandom",
   slug: "babylon-5-2",
   title: "Babylon 5",
   partOfCollections: ["show-collection/science-fiction-shows"],

@@ -2,7 +2,7 @@ import type { Fandom } from "akasha/alan/library/watching/fandom/fandom.page-typ
 
 export const doctorWho = {
   id: "01a06808-5077-7005-8d3a-899ab4601798",
-  type: "fandom",
+  type: "page-type/fandom",
   slug: "doctor-who",
   title: "Doctor Who",
   partOfCollections: [

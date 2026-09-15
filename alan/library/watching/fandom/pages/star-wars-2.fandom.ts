@@ -2,7 +2,7 @@ import type { Fandom } from "akasha/alan/library/watching/fandom/fandom.page-typ
 
 export const starWars2 = {
   id: "01a06808-5078-7009-aef0-2de7f2a6dd95",
-  type: "fandom",
+  type: "page-type/fandom",
   slug: "star-wars-2",
   title: "Star Wars",
   partOfCollections: ["fandom-collection/science-fiction-fandoms"],

@@ -2,7 +2,7 @@ import type { Fandom } from "akasha/alan/library/watching/fandom/fandom.page-typ
 
 export const stargate2 = {
   id: "01a06808-5078-700a-aaf3-cb8646644e12",
-  type: "fandom",
+  type: "page-type/fandom",
   slug: "stargate-2",
   title: "Stargate",
   partOfCollections: ["fandom-collection/science-fiction-fandoms"],

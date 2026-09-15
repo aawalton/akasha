@@ -2,7 +2,7 @@ import type { Fandom } from "akasha/alan/library/watching/fandom/fandom.page-typ
 
 export const dune2 = {
   id: "01a06808-5077-7006-83db-b6a2466247b2",
-  type: "fandom",
+  type: "page-type/fandom",
   slug: "dune-2",
   title: "Dune",
   partOfCollections: ["fandom-collection/science-fiction-fandoms"],

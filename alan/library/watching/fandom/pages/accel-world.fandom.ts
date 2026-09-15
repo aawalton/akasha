@@ -2,7 +2,7 @@ import type { Fandom } from "akasha/alan/library/watching/fandom/fandom.page-typ
 
 export const accelWorld = {
   id: "01a06808-5077-7000-a793-81237b865c74",
-  type: "fandom",
+  type: "page-type/fandom",
   slug: "accel-world",
   title: "Accel World",
   partOfCollections: ["fandom-collection/anime-fandoms"],

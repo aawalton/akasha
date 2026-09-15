@@ -2,7 +2,7 @@ import type { Fandom } from "akasha/alan/library/watching/fandom/fandom.page-typ
 
 export const leagueOfLegends = {
   id: "01a06808-5078-7001-ab79-3488005b413a",
-  type: "fandom",
+  type: "page-type/fandom",
   slug: "league-of-legends",
   title: "League of Legends",
   partOfCollections: ["fandom-collection/fantasy-fandoms"],
