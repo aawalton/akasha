@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { mintedId } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import {
   blobAt,
   knowingIn,
@@ -22,7 +23,6 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { shapeAdded } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { mintedId } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/util/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
@@ -40,7 +40,7 @@ const CODE_PROPERTY_AT = "akasha/properties/code.file-property.ts"
 
 const TEST_PROPERTY_AT = "akasha/properties/test.file-property.ts"
 
-const TYPE_AT = "akasha/file-property/file-property.page-type.ts"
+const TYPE_AT = "akasha/held/file-property.page-type.ts"
 
 const STATED: readonly Declared[] = [
   { pageTypeSlug: "file-property", slug: "code" },
@@ -51,7 +51,7 @@ const STATED: readonly Declared[] = [
 
 function pageType(root: string, slug: string, said: readonly Declared[] = []): string {
   const id = mintedId(slug)
-  const path = `akasha/${slug}/${slug}.page-type.ts`
+  const path = `akasha/held/${slug}.page-type.ts`
   const value = { id, pageTypeSlug: "page-type", slug, properties: declaring(said) }
   writing(root, path, `export const held = ${JSON.stringify(value)}\n`)
   listedFiled(root, "page-type", slug, [{ path, id }])
