@@ -11,7 +11,10 @@ import {
   type Following,
   followFolders,
 } from "akasha/infrastructure/service/workstation/modules/file-following/file-following.module.code.ts"
-import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  midRefresh,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/util/narrow/modules/text-at/text-at.module.code.ts"
@@ -34,6 +37,14 @@ export type Taking = (root: string, seatName: string, seatId: string, own: strin
 
 function subagentPagesIn(root: string): readonly string[] {
   return everyOfType(root, SUBAGENT).map((one) => one.path)
+}
+
+export function throughRefresh(work: () => undefined): undefined {
+  try {
+    work()
+  } catch (thrown) {
+    if (!midRefresh(thrown)) throw thrown
+  }
 }
 
 export function ownOf(agentId: string, seatId: string): string | null {
@@ -99,8 +110,10 @@ export function followingStops(
     following = followFolders(
       folders,
       () => {
-        reread()
-        refollow()
+        throughRefresh(() => {
+          reread()
+          refollow()
+        })
       },
       settleMs
     )

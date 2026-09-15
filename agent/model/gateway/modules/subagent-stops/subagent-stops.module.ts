@@ -75,6 +75,15 @@ export const subagentStops = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A read taken mid-refresh leaves the set as it was rather than ending the gateway.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The set is read whole again at the next change after a read taken mid-refresh.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The take-down is handed in so a test spawns nothing.",
     },
     {
