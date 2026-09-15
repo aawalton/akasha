@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theAfricanExperienceFrom = {
   id: "019db533-f39f-7da4-ab01-a546c8ba363d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-african-experience-from",
   title: "The African Experience: From",
   status: "not-started",

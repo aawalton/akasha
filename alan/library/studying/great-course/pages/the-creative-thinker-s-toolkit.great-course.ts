@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theCreativeThinkerSToolkit = {
   id: "019db533-f39e-7292-9c36-cbb01de1e24e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-creative-thinker-s-toolkit",
   title: "The Creative Thinker's Toolkit",
   status: "not-started",

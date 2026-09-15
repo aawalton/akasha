@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const shopEssentials = {
   id: "019db533-f39e-7657-86f5-a7d141ff0c72",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "shop-essentials",
   title: "Shop Essentials",
   status: "completed",

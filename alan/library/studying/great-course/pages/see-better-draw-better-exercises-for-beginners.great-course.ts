@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const seeBetterDrawBetterExercisesForBeginners = {
   id: "019db533-f39f-74b8-a66f-a8e1f6613fb6",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "see-better-draw-better-exercises-for-beginners",
   title: "See Better, Draw Better: Exercises for Beginners",
   status: "completed",

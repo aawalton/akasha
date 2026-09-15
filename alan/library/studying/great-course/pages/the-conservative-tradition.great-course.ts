@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theConservativeTradition = {
   id: "019db533-f3a0-70f4-a718-92637f0c9581",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-conservative-tradition",
   title: "The Conservative Tradition",
   status: "not-started",

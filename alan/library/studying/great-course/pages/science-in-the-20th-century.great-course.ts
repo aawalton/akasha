@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const scienceInThe20thCentury = {
   id: "019db533-f39e-7ece-bc77-fc95c2fb0db5",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "science-in-the-20th-century",
   title: "Science in the 20th Century",
   status: "not-started",

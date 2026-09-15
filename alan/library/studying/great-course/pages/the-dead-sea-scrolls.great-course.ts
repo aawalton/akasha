@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theDeadSeaScrolls = {
   id: "019db533-f39e-7a9c-866a-edb45b70481d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-dead-sea-scrolls",
   title: "The Dead Sea Scrolls",
   status: "not-started",

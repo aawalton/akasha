@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theCompleteGuideToBakingBread = {
   id: "019db533-f39f-78de-8c53-339772613191",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-complete-guide-to-baking-bread",
   title: "The Complete Guide to Baking Bread",
   status: "completed",

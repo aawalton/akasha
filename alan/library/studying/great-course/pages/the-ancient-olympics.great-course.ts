@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theAncientOlympics = {
   id: "019db533-f3a0-70f0-9f9f-c293dc29dab8",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-ancient-olympics",
   title: "The Ancient Olympics",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const reflectionsInAcrylicDepictingLightOnWater = {
   id: "019db533-f39f-74ed-9fc5-e260c1e66356",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "reflections-in-acrylic-depicting-light-on-water",
   title: "Reflections in Acrylic: Depicting Light on Water",
   status: "completed",

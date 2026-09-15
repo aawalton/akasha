@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureTheGreatFireOf1666 = {
   id: "019db533-f3a0-7320-bbf2-bc168723dacb",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-the-great-fire-of-1666",
   title: "Pilot Lecture: The Great Fire of 1666",
   status: "completed",

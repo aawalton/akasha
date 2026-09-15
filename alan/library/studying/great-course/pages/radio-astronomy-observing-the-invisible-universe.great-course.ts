@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const radioAstronomyObservingTheInvisibleUniverse = {
   id: "019db533-f39e-7e83-85e5-aaeb2f0ce87d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "radio-astronomy-observing-the-invisible-universe",
   title: "Radio Astronomy: Observing the Invisible Universe",
   status: "not-started",

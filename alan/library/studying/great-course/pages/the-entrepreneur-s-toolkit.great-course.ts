@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theEntrepreneurSToolkit = {
   id: "019db533-f39e-77f2-9765-65159dc440e3",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-entrepreneur-s-toolkit",
   title: "The Entrepreneur's Toolkit",
   status: "not-started",

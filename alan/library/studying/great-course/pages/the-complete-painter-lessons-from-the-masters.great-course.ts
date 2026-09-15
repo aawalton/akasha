@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theCompletePainterLessonsFromTheMasters = {
   id: "019db533-f39f-73b1-8667-a72003bac0cf",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-complete-painter-lessons-from-the-masters",
   title: "The Complete Painter: Lessons from the Masters",
   status: "completed",

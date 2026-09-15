@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureWhatWeKnowAndDonTKnowAboutTheBigBang = {
   id: "019db533-f39e-7c19-91bd-e166f6057e5a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-what-we-know-and-don-t-know-about-the-big-bang",
   title: "Pilot Lecture: What We Know (and Don’t Know) about the Big Bang",
   status: "completed",

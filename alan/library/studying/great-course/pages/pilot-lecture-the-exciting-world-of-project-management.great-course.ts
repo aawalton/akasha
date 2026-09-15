@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureTheExcitingWorldOfProjectManagement = {
   id: "019db533-f39e-728a-a5b3-014e08b1025a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-the-exciting-world-of-project-management",
   title: "Pilot Lecture: The Exciting World of Project Management",
   status: "completed",

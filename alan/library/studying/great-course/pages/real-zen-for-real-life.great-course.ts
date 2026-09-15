@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const realZenForRealLife = {
   id: "019db533-f39e-7a66-99e9-d3db2309b4a0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "real-zen-for-real-life",
   title: "Real Zen for Real Life",
   status: "not-started",

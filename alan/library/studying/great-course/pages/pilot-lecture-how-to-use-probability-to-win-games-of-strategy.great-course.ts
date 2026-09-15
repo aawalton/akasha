@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureHowToUseProbabilityToWinGamesOfStrategy = {
   id: "019db533-f3a0-775d-b23b-0ec345ea9ca0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-how-to-use-probability-to-win-games-of-strategy",
   title: "Pilot Lecture: How to Use Probability to Win Games of Strategy",
   status: "completed",

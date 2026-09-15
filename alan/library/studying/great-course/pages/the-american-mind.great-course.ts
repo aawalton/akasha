@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theAmericanMind = {
   id: "019db533-f39f-7d05-8bfe-c7571c48d98b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-american-mind",
   title: "The American Mind",
   status: "not-started",

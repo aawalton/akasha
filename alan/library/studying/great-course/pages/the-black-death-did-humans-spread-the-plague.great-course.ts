@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theBlackDeathDidHumansSpreadThePlague = {
   id: "019db533-f3a0-711c-9c83-a093af53e18c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-black-death-did-humans-spread-the-plague",
   title: "The Black Death: Did Humans Spread the Plague?",
   status: "completed",

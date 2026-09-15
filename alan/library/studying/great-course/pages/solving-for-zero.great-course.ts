@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const solvingForZero = {
   id: "019db533-f39f-723f-a769-b67d61071362",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "solving-for-zero",
   title: "Solving for Zero",
   status: "completed",

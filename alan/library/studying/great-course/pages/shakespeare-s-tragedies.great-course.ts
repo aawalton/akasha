@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const shakespeareSTragedies = {
   id: "019db533-f39e-787a-8684-f9e0ee7505a7",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "shakespeare-s-tragedies",
   title: "Shakespeare's Tragedies",
   status: "not-started",

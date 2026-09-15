@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureTheDevelopingBrain = {
   id: "019db533-f39e-7e99-a8cf-5172f57562cf",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-the-developing-brain",
   title: "Pilot Lecture: The Developing Brain",
   status: "completed",

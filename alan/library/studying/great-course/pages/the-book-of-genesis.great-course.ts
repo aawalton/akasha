@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theBookOfGenesis = {
   id: "019db533-f39e-7c0a-b532-0ec73722880f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-book-of-genesis",
   title: "The Book of Genesis",
   status: "not-started",

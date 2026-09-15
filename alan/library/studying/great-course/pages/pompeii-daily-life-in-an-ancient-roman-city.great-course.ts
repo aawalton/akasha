@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pompeiiDailyLifeInAnAncientRomanCity = {
   id: "019db533-f39f-7e23-84f5-8306422762b3",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pompeii-daily-life-in-an-ancient-roman-city",
   title: "Pompeii: Daily Life in an Ancient Roman City",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theArtOfPublicSpeaking = {
   id: "019db533-f3a0-7131-823a-7f32f34a0016",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-art-of-public-speaking",
   title: "The Art of Public Speaking",
   status: "not-started",

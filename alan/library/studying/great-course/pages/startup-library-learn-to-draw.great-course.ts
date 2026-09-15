@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const startupLibraryLearnToDraw = {
   id: "019db533-f39f-741a-92a8-b4521c560a53",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "startup-library-learn-to-draw",
   title: "Startup Library: Learn to Draw",
   status: "completed",

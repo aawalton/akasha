@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureTheRiseOfTheSamurai = {
   id: "019db533-f39f-7d1a-8b4d-327b882f338c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-the-rise-of-the-samurai",
   title: "Pilot Lecture: The Rise of the Samurai",
   status: "completed",

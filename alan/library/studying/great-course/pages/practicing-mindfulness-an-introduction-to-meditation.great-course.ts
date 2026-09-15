@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const practicingMindfulnessAnIntroductionToMeditation = {
   id: "019db533-f3a0-7830-ab51-84b2b97413be",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "practicing-mindfulness-an-introduction-to-meditation",
   title: "Practicing Mindfulness: An Introduction to Meditation",
   status: "not-started",

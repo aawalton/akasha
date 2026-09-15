@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const skepticsAndBelieversReligiousDebateInTheWesternIntellectualTr = {
   id: "019db533-f387-7fb1-b7cb-82d68c0c4a0d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "skeptics-and-believers-religious-debate-in-the-western-intellectual-tr",
   title: "Skeptics and Believers: Religious Debate in the Western Intellectual Tradition",
   status: "not-started",

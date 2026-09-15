@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureTheArtOfLeadershipAbrahamLincoln = {
   id: "019db533-f3a0-72ab-a8e3-24e1c391ffb0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-the-art-of-leadership-abraham-lincoln",
   title: "Pilot Lecture: The Art of Leadership—Abraham Lincoln",
   status: "completed",

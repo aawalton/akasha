@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const quickAndEasyComfortFoods = {
   id: "019db533-f38a-7579-b736-22e3b5ada003",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "quick-and-easy-comfort-foods",
   title: "Quick and Easy Comfort Foods",
   status: "completed",

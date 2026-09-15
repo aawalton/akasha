@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theArtOfDebate = {
   id: "019db533-f39e-7299-8507-079d12f31d21",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-art-of-debate",
   title: "The Art of Debate",
   status: "not-started",

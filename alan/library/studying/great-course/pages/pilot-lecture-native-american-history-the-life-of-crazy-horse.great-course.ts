@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureNativeAmericanHistoryTheLifeOfCrazyHorse = {
   id: "019db533-f39f-7df9-a129-42c43f250653",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-native-american-history-the-life-of-crazy-horse",
   title: "Pilot Lecture: Native American History - The Life of Crazy Horse",
   status: "completed",

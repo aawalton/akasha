@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const plusPilotTreatingYourPoisonedPet = {
   id: "019db533-f3a0-7752-aa72-db555edd7c03",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "plus-pilot-treating-your-poisoned-pet",
   title: "Plus Pilot: Treating Your Poisoned Pet",
   status: "completed",

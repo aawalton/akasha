@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theApocryphalJesus = {
   id: "019db533-f39e-7c79-95f0-3b909c52b4c7",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-apocryphal-jesus",
   title: "The Apocryphal Jesus",
   status: "not-started",

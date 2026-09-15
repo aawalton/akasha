@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theBarbarianEmpiresOfTheSteppes = {
   id: "019db533-f3a0-71be-af1b-2680504f45e0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-barbarian-empires-of-the-steppes",
   title: "The Barbarian Empires of the Steppes",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const sexInTheMiddleAges = {
   id: "019db533-f39f-7dee-b04e-b162487fbd7c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "sex-in-the-middle-ages",
   title: "Sex in the Middle Ages",
   status: "not-started",

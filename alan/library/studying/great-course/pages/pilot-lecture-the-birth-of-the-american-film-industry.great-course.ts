@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureTheBirthOfTheAmericanFilmIndustry = {
   id: "019db533-f387-7ef8-bfa8-b704bbf8ec9d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-the-birth-of-the-american-film-industry",
   title: "Pilot Lecture: The Birth of the American Film Industry",
   status: "completed",

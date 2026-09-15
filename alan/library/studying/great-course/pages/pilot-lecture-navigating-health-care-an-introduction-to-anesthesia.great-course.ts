@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureNavigatingHealthCareAnIntroductionToAnesthesia = {
   id: "019db533-f3a0-7865-9b95-58e8645a6cec",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-navigating-health-care-an-introduction-to-anesthesia",
   title: "Pilot Lecture: Navigating Health Care—An Introduction to Anesthesia",
   status: "completed",

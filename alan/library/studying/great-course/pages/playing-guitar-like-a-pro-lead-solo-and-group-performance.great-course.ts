@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const playingGuitarLikeAProLeadSoloAndGroupPerformance = {
   id: "019db533-f3a0-7288-b1f9-50806231f0d3",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "playing-guitar-like-a-pro-lead-solo-and-group-performance",
   title: "Playing Guitar like a Pro: Lead, Solo, and Group Performance",
   status: "not-started",

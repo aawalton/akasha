@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theArtOfStorytellingFromParentsToProfessionals = {
   id: "019db533-f39e-780a-9c80-0061c6d367cd",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-art-of-storytelling-from-parents-to-professionals",
   title: "The Art of Storytelling: From Parents to Professionals",
   status: "completed",

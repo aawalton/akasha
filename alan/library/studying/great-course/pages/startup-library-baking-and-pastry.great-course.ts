@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const startupLibraryBakingAndPastry = {
   id: "019db533-f39f-78e8-a180-1e7fa454c651",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "startup-library-baking-and-pastry",
   title: "Startup Library: Baking & Pastry",
   status: "completed",

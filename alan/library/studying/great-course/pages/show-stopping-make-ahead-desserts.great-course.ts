@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const showStoppingMakeAheadDesserts = {
   id: "019db533-f39f-795d-9f86-9f373c96f769",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "show-stopping-make-ahead-desserts",
   title: "Show-Stopping Make-Ahead Desserts",
   status: "completed",

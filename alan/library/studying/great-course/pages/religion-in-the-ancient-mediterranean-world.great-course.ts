@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const religionInTheAncientMediterraneanWorld = {
   id: "019db533-f39e-7c04-bf5b-0d16261a7854",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "religion-in-the-ancient-mediterranean-world",
   title: "Religion in the Ancient Mediterranean World",
   status: "not-started",

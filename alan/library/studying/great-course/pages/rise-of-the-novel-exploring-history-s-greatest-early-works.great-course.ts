@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const riseOfTheNovelExploringHistorySGreatestEarlyWorks = {
   id: "019db533-f39e-784e-80ff-97d3a0cad081",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "rise-of-the-novel-exploring-history-s-greatest-early-works",
   title: "Rise of the Novel: Exploring History’s Greatest Early Works",
   status: "not-started",

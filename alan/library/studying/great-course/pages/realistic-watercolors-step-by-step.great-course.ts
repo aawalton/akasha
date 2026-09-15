@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const realisticWatercolorsStepByStep = {
   id: "019db533-f39f-7872-820d-b2837e29da41",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "realistic-watercolors-step-by-step",
   title: "Realistic Watercolors Step by Step",
   status: "completed",

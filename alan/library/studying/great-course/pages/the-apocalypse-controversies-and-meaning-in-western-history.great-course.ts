@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theApocalypseControversiesAndMeaningInWesternHistory = {
   id: "019db533-f39e-7c36-b1de-cf55b67a6da0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-apocalypse-controversies-and-meaning-in-western-history",
   title: "The Apocalypse: Controversies and Meaning in Western History",
   status: "not-started",

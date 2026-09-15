@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureTheFallOfConstantinopleAWorldOnItsLastDay = {
   id: "019db533-f39f-78fd-8302-81a462086742",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-the-fall-of-constantinople-a-world-on-its-last-day",
   title: "Pilot Lecture: The Fall of Constantinople—A World on Its Last Day",
   status: "completed",

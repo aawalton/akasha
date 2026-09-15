@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theBigQuestionsOfPhilosophy = {
   id: "019db533-f39e-7a5d-9c1a-9ab4b1c750a6",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-big-questions-of-philosophy",
   title: "The Big Questions of Philosophy",
   status: "not-started",

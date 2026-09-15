@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const storiesOfAmericaSNationalParks = {
   id: "019db533-f39f-7464-b20c-30467266584f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "stories-of-america-s-national-parks",
   title: "Stories of America’s National Parks",
   status: "completed",

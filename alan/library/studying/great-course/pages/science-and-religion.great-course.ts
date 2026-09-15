@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const scienceAndReligion = {
   id: "019db533-f39f-701f-a70b-8c32c1c738f9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "science-and-religion",
   title: "Science and Religion",
   status: "not-started",

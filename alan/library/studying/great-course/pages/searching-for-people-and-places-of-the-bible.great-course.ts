@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const searchingForPeopleAndPlacesOfTheBible = {
   id: "019db533-f39e-7a7d-ad8f-a9bb31699fa0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "searching-for-people-and-places-of-the-bible",
   title: "Searching for People and Places of the Bible",
   status: "not-started",

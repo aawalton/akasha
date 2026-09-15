@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLecturePowerAndJusticeDoesMightMakeRight = {
   id: "019db533-f39e-7a37-a3f7-fb9c063b64eb",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-power-and-justice-does-might-make-right",
   title: "Pilot Lecture: Power and Justice—Does Might Make Right?",
   status: "completed",

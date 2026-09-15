@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const takeMyCoursePleaseThePhilosophyOfHumor = {
   id: "019db533-f3a0-7614-a1a4-5ba5371033b2",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "take-my-course-please-the-philosophy-of-humor",
   title: "Take My Course, Please! The Philosophy of Humor",
   status: "not-started",

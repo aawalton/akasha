@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const survivalMentalityThePsychologyOfStayingAlive = {
   id: "019db533-f39e-7e0e-bc1a-22ea454c4c3e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "survival-mentality-the-psychology-of-staying-alive",
   title: "Survival Mentality: The Psychology of Staying Alive",
   status: "not-started",

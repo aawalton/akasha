@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const sciPhiScienceFictionAsPhilosophy = {
   id: "019db533-f39e-7c1f-ab4d-7cb81fa840e6",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "sci-phi-science-fiction-as-philosophy",
   title: "Sci-Phi: Science Fiction as Philosophy",
   status: "not-started",

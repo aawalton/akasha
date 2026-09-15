@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const privacyPropertyAndFreeSpeechLawAndTheConstitution = {
   id: "019db533-f3a0-7136-af78-6c615f35ca7f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "privacy-property-and-free-speech-law-and-the-constitution",
   title: "Privacy, Property, and Free Speech: Law and the Constitution",
   status: "not-started",

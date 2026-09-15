@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureWhatIsMoney = {
   id: "019db533-f39e-7430-8b0c-9d310704097e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-what-is-money",
   title: "Pilot Lecture: What Is Money?",
   status: "completed",

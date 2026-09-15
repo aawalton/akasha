@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theEnlightenmentInventionOfTheModernSelf = {
   id: "019db533-f387-7f40-8169-0cb6e80853c7",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-enlightenment-invention-of-the-modern-self",
   title: "The Enlightenment Invention of the Modern Self",
   status: "not-started",

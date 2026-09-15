@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const qiGongForBetterHealthAndWellness = {
   id: "019db533-f3a0-7890-8fdb-674d5dfb657d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "qi-gong-for-better-health-and-wellness",
   title: "Qi Gong for Better Health and Wellness",
   status: "not-started",

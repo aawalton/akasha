@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theBotanistSEyeIdentifyingThePlantsAroundYou = {
   id: "019db533-f39e-7e39-a561-54e452afb2ff",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-botanist-s-eye-identifying-the-plants-around-you",
   title: "The Botanist's Eye: Identifying the Plants around You",
   status: "not-started",

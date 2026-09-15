@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const shockingPsychologicalStudiesAndTheLessonsTheyTeach = {
   id: "019db533-f39e-7dbf-8f0f-8a1da16b278b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "shocking-psychological-studies-and-the-lessons-they-teach",
   title: "Shocking Psychological Studies and the Lessons They Teach",
   status: "completed",

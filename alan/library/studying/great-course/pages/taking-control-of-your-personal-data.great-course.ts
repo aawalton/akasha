@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const takingControlOfYourPersonalData = {
   id: "019db533-f39e-7516-9877-7ca69c6b2596",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "taking-control-of-your-personal-data",
   title: "Taking Control of Your Personal Data",
   status: "not-started",

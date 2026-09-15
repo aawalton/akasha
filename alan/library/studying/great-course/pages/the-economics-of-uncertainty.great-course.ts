@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theEconomicsOfUncertainty = {
   id: "019db533-f39e-7411-829b-ad03b3b93299",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-economics-of-uncertainty",
   title: "The Economics of Uncertainty",
   status: "not-started",

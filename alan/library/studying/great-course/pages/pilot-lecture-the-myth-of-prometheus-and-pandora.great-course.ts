@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureTheMythOfPrometheusAndPandora = {
   id: "019db533-f39f-797d-a4dd-8c2b268db9b2",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-the-myth-of-prometheus-and-pandora",
   title: "Pilot Lecture: The Myth of Prometheus and Pandora",
   status: "completed",

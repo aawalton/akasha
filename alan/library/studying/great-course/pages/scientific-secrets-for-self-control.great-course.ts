@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const scientificSecretsForSelfControl = {
   id: "019db533-f3a0-78b0-8ce7-a1ad12952971",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "scientific-secrets-for-self-control",
   title: "Scientific Secrets for Self-Control",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theDevelopmentOfEuropeanCivilization = {
   id: "019db533-f39f-7d45-9374-dbeb7902154c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-development-of-european-civilization",
   title: "The Development of European Civilization",
   status: "not-started",

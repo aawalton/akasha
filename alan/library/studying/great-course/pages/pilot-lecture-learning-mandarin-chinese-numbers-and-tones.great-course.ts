@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureLearningMandarinChineseNumbersAndTones = {
   id: "019db533-f39f-75ab-8d1d-5cf8dba2e5a9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-learning-mandarin-chinese-numbers-and-tones",
   title: "Pilot Lecture: Learning Mandarin Chinese—Numbers and Tones",
   status: "completed",

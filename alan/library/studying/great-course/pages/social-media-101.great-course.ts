@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const socialMedia101 = {
   id: "019db533-f39e-7617-af33-c66b0278eeb6",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "social-media-101",
   title: "Social Media 101",
   status: "not-started",

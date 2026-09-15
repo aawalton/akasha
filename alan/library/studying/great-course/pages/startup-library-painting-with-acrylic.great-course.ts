@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const startupLibraryPaintingWithAcrylic = {
   id: "019db533-f39f-740f-91b3-68f4a74e9b47",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "startup-library-painting-with-acrylic",
   title: "Startup Library: Painting With Acrylic",
   status: "completed",

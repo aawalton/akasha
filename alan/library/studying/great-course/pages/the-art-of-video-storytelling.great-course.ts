@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theArtOfVideoStorytelling = {
   id: "019db533-f39e-7535-9729-3431b4831ceb",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-art-of-video-storytelling",
   title: "The Art of Video Storytelling",
   status: "completed",

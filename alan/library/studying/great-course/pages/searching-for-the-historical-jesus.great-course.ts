@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const searchingForTheHistoricalJesus = {
   id: "019db533-f39f-758b-8065-03dab851f6de",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "searching-for-the-historical-jesus",
   title: "Searching for the Historical Jesus",
   status: "completed",

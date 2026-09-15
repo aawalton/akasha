@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const psychologyOfHumanBehavior = {
   id: "019db533-f39e-7e79-a344-4ed8c66ffce8",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "psychology-of-human-behavior",
   title: "Psychology of Human Behavior",
   status: "not-started",

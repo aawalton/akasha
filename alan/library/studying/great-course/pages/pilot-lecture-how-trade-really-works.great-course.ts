@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureHowTradeReallyWorks = {
   id: "019db533-f39e-7440-a6d6-29dff1dcbea8",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-how-trade-really-works",
   title: "Pilot Lecture: How Trade Really Works",
   status: "completed",

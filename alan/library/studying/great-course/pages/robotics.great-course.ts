@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const robotics = {
   id: "019db533-f39e-7ee3-9d3e-123f426b8373",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "robotics",
   title: "Robotics",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theCompleteGuideToSmartphonePhotography = {
   id: "019db533-f39e-76c3-9bd3-f6fe4fcae9eb",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-complete-guide-to-smartphone-photography",
   title: "The Complete Guide to Smartphone Photography",
   status: "completed",

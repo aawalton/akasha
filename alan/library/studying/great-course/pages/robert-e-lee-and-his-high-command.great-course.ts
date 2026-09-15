@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const robertELeeAndHisHighCommand = {
   id: "019db533-f387-7f66-8c0b-00debd34d155",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "robert-e-lee-and-his-high-command",
   title: "Robert E. Lee and His High Command",
   status: "not-started",

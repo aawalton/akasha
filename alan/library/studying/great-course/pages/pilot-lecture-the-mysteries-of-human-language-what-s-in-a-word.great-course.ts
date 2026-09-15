@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureTheMysteriesOfHumanLanguageWhatSInAWord = {
   id: "019db533-f39e-78af-9cd0-e975bf87d03d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-the-mysteries-of-human-language-what-s-in-a-word",
   title: "Pilot Lecture: The Mysteries of Human Language—What’s in a Word?",
   status: "completed",

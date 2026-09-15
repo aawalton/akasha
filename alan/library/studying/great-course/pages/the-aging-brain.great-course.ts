@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theAgingBrain = {
   id: "019db533-f3a0-76d3-bef7-100b299ae9dc",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-aging-brain",
   title: "The Aging Brain",
   status: "not-started",

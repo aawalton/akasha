@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theBanjoMusicHistoryAndHeritage = {
   id: "019db533-f3a0-7306-acba-fa601635dd5e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-banjo-music-history-and-heritage",
   title: "The Banjo: Music, History, and Heritage",
   status: "not-started",

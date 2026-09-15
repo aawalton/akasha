@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureSusanBAnthonyAndSuffragistImages = {
   id: "019db533-f3a0-709b-b133-efd0933bdfcd",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-susan-b-anthony-and-suffragist-images",
   title: "Pilot Lecture: Susan B. Anthony and Suffragist Images",
   status: "completed",

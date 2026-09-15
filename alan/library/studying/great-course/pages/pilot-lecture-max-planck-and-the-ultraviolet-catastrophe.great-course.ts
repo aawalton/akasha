@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureMaxPlanckAndTheUltravioletCatastrophe = {
   id: "019db533-f3a0-70d2-a916-5a13b1073f41",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-max-planck-and-the-ultraviolet-catastrophe",
   title: "Pilot Lecture: Max Planck and the Ultraviolet Catastrophe",
   status: "completed",

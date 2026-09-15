@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLecturePreventingAlzheimerSWhatYouCanDo = {
   id: "019db533-f3a0-789a-b0b3-a34becf23f17",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-preventing-alzheimer-s-what-you-can-do",
   title: "Pilot Lecture: Preventing Alzheimer’s—What You Can Do",
   status: "completed",

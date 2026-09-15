@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theCatholicChurchAHistory = {
   id: "019db533-f39e-7aa4-b888-008baaaedd14",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-catholic-church-a-history",
   title: "The Catholic Church: A History",
   status: "not-started",

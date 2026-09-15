@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const skywatchingSeeingAndUnderstandingCosmicWonders = {
   id: "019db533-f39f-71c0-a90a-49b5260a12fe",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "skywatching-seeing-and-understanding-cosmic-wonders",
   title: "Skywatching: Seeing and Understanding Cosmic Wonders",
   status: "not-started",

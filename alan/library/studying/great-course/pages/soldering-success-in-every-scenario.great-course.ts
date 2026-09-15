@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const solderingSuccessInEveryScenario = {
   id: "019db533-f39e-75fa-a477-7d0bc6f9e2f4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "soldering-success-in-every-scenario",
   title: "Soldering Success in Every Scenario",
   status: "completed",

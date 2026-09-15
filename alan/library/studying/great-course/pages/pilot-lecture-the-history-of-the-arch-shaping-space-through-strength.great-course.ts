@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureTheHistoryOfTheArchShapingSpaceThroughStrength = {
   id: "019db533-f389-70df-92ed-b849300bc1cc",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-the-history-of-the-arch-shaping-space-through-strength",
   title: "Pilot Lecture: The History of the Arch—Shaping Space through Strength",
   status: "completed",

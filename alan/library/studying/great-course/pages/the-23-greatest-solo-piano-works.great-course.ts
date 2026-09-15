@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const the23GreatestSoloPianoWorks = {
   id: "019db533-f3a0-729d-9539-8be2a167d04a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-23-greatest-solo-piano-works",
   title: "The 23 Greatest Solo Piano Works",
   status: "not-started",

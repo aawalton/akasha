@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureTheStoryOfTheMahabharata = {
   id: "019db533-f39e-78c6-8d2d-6f7f1133c8f1",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-the-story-of-the-mahabharata",
   title: "Pilot Lecture: The Story of the Mahabharata",
   status: "completed",

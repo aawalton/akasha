@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const sewingBrasConstructionAndFit = {
   id: "019db533-f39e-769c-a16b-f24f511737f7",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "sewing-bras-construction-and-fit",
   title: "Sewing Bras: Construction & Fit",
   status: "completed",

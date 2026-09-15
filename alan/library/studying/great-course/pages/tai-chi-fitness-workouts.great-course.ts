@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const taiChiFitnessWorkouts = {
   id: "019db533-f3a0-7694-a693-ee0a1a59b698",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "tai-chi-fitness-workouts",
   title: "Tai Chi Fitness Workouts",
   status: "not-started",

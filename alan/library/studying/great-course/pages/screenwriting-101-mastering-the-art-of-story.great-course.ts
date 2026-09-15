@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const screenwriting101MasteringTheArtOfStory = {
   id: "019db533-f39e-7846-8832-2b3102391d3a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "screenwriting-101-mastering-the-art-of-story",
   title: "Screenwriting 101: Mastering the Art of Story",
   status: "not-started",

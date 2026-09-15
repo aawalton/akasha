@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const secretsOfSleepScienceFromDreamsToDisorders = {
   id: "019db533-f3a0-78a5-9bd5-d9d67d5db449",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "secrets-of-sleep-science-from-dreams-to-disorders",
   title: "Secrets of Sleep Science: From Dreams to Disorders",
   status: "not-started",
