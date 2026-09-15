@@ -13,7 +13,7 @@ export const bookSection = {
       pageProperty: "text-property/slug",
       required: true,
       many: false,
-      unique: "page-property",
+      unique: "unique-kind/page-property",
       uniqueProperty: "relation-property/section-of",
     },
     { pageProperty: "text-property/title", required: true, many: false },
