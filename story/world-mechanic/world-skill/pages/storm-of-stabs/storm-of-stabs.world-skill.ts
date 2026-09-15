@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const stormOfStabs = {
   id: "01a0657d-02fb-7439-b77e-ca274ebf402b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "storm-of-stabs",
   title: "Storm of Stabs",
   world: "world/the-wandering-inn",

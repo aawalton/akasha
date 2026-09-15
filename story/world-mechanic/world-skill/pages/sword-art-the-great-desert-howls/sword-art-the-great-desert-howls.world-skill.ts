@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const swordArtTheGreatDesertHowls = {
   id: "01a0657d-0307-7f37-a525-d77ede966a87",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sword-art-the-great-desert-howls",
   title: "Sword Art: The Great Desert Howls",
   world: "world/the-wandering-inn",

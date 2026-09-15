@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const summonSkeletonRetainer = {
   id: "01a0657d-02fe-7f1c-b5d6-3e739f30a672",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "summon-skeleton-retainer",
   title: "Summon Skeleton Retainer",
   world: "world/the-wandering-inn",

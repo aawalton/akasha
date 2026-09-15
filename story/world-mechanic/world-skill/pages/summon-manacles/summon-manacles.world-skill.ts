@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const summonManacles = {
   id: "01a0657d-02fe-7d8c-82ba-56af662e2566",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "summon-manacles",
   title: "Summon Manacles",
   world: "world/the-wandering-inn",

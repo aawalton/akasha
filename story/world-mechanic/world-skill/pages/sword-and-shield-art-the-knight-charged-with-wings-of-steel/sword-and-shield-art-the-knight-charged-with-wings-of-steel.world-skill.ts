@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const swordAndShieldArtTheKnightChargedWithWingsOfSteel = {
   id: "01a0657d-0306-737b-9afe-dfa7ae6f2f07",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sword-and-shield-art-the-knight-charged-with-wings-of-steel",
   title: "Sword and Shield Art: The Knight Charged With Wings of Steel",
   world: "world/the-wandering-inn",

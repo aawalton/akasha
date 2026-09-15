@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const takeCoverIdiots = {
   id: "01a0657d-0307-7dd0-92e5-8ef51760c05c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "take-cover-idiots",
   title: "Take Cover, Idiots",
   world: "world/the-wandering-inn",

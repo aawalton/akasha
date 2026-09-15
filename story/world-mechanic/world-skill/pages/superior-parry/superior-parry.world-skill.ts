@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const superiorParry = {
   id: "01a0657d-0302-71cc-9e71-b0d9189351fd",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "superior-parry",
   title: "Superior Parry",
   world: "world/the-wandering-inn",

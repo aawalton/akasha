@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const swiftsilverRiposte = {
   id: "01a0657d-0306-77af-a14b-e5de0fcbeb01",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "swiftsilver-riposte",
   title: "Swiftsilver Riposte",
   world: "world/the-wandering-inn",

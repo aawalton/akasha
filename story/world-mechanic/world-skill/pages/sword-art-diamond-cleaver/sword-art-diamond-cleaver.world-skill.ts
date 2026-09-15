@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const swordArtDiamondCleaver = {
   id: "01a0657d-0307-7305-b30e-8eb40158b836",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sword-art-diamond-cleaver",
   title: "Sword Art: Diamond Cleaver",
   world: "world/the-wandering-inn",

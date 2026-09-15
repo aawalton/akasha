@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const stonearmBlock = {
   id: "01a0657d-02fa-7620-b365-3c7965bf7094",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "stonearm-block",
   title: "Stonearm Bl—",
   world: "world/the-wandering-inn",

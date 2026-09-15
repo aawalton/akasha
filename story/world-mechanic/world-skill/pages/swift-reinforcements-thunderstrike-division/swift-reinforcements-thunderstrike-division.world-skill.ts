@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const swiftReinforcementsThunderstrikeDivision = {
   id: "01a0657d-0306-7cda-afbd-a51c6ba67d19",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "swift-reinforcements-thunderstrike-division",
   title: "Swift Reinforcements: Thunderstrike Division",
   world: "world/the-wandering-inn",

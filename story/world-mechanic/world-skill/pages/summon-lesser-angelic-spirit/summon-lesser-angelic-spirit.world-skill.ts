@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const summonLesserAngelicSpirit = {
   id: "01a0657d-02fe-7fe7-bc3f-c9f5a48e59bc",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "summon-lesser-angelic-spirit",
   title: "Summon Lesser Angelic Spirit",
   world: "world/the-wandering-inn",

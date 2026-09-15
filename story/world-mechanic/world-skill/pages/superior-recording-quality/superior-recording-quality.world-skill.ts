@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const superiorRecordingQuality = {
   id: "01a0657d-0302-7700-8a4c-e1f39a0ad7e4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "superior-recording-quality",
   title: "Superior Recording Quality",
   world: "world/the-wandering-inn",

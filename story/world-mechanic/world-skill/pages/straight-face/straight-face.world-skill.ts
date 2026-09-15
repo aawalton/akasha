@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const straightFace = {
   id: "01a0657d-02fb-79ec-9e60-5ac6e527b252",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "straight-face",
   title: "Straight Face",
   world: "world/the-wandering-inn",

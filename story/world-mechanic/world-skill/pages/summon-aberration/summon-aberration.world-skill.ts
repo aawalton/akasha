@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const summonAberration = {
   id: "01a0657d-02fe-7f8b-a36f-b9ff877de620",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "summon-aberration",
   title: "Summon Aberration",
   world: "world/the-wandering-inn",

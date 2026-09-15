@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const sunwarmedFields = {
   id: "01a0657d-0302-729d-b474-335ed6f8bdd9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sunwarmed-fields",
   title: "Sunwarmed Fields",
   world: "world/the-wandering-inn",

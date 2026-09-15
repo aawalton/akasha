@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const summonTheBattleshipFullSalvo = {
   id: "01a0657d-02ff-7c46-b3a9-ecbb8f110b9b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "summon-the-battleship-full-salvo",
   title: "Summon the Battleship: Full Salvo",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const stunningBash = {
   id: "01a0657d-02fe-7318-a807-08905d1fac13",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "stunning-bash",
   title: "Stunning Bash",
   world: "world/the-wandering-inn",

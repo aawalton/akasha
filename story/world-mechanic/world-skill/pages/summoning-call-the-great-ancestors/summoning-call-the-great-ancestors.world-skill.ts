@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const summoningCallTheGreatAncestors = {
   id: "01a0657d-0302-744c-9a9a-3301add99fee",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "summoning-call-the-great-ancestors",
   title: "Summoning: Call the Great Ancestors",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const swordformMasterDuelist = {
   id: "01a0657d-0307-7fa0-8f02-c78661d701cf",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "swordform-master-duelist",
   title: "Swordform: Master Duelist",
   world: "world/the-wandering-inn",

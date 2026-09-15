@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const takeTheBlowUnstoppableCounterslash = {
   id: "01a0657d-0307-7a08-a797-1215782c17ca",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "take-the-blow-unstoppable-counterslash",
   title: "Take the Blow: Unstoppable Counterslash",
   world: "world/the-wandering-inn",

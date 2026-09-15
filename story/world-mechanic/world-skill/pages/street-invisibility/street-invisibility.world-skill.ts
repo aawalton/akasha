@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const streetInvisibility = {
   id: "01a0657d-02fb-7319-b425-6c7f0640010f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "street-invisibility",
   title: "Street Invisibility",
   world: "world/the-wandering-inn",

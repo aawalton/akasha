@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const sturdyCreation = {
   id: "01a0657d-02fe-79a0-a410-e4c0ab6ffd64",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sturdy-creation",
   title: "Sturdy Creation",
   world: "world/the-wandering-inn",

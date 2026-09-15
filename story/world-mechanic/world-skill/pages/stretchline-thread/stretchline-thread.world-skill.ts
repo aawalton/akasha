@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const stretchlineThread = {
   id: "01a0657d-02fe-7803-a525-373ec5049580",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "stretchline-thread",
   title: "Stretchline Thread",
   world: "world/the-wandering-inn",

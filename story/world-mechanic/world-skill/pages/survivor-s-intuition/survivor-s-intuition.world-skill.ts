@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const survivorSIntuition = {
   id: "01a0657d-0303-7dd0-9ede-59be15be7e0f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "survivor-s-intuition",
   title: "Survivor’s Intuition",
   world: "world/the-wandering-inn",

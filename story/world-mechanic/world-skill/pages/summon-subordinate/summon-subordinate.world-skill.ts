@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const summonSubordinate = {
   id: "01a0657d-02fe-7f99-bc69-5025e6c6597c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "summon-subordinate",
   title: "Summon Subordinate",
   world: "world/the-wandering-inn",

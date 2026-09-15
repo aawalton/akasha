@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const swarmblades = {
   id: "01a0657d-0303-7764-b604-e990dfa89a1f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "swarmblades",
   title: "Swarmblades",
   world: "world/the-wandering-inn",

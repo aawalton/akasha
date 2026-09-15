@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const supremeIntelligence = {
   id: "01a0657d-0303-72b3-9e97-fe01e0aed6d8",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "supreme-intelligence",
   title: "Supreme Intelligence",
   world: "world/the-wandering-inn",

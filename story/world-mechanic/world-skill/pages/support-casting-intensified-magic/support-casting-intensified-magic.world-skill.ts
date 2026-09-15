@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const supportCastingIntensifiedMagic = {
   id: "01a0657d-0303-7673-9804-85f2fe62d9ca",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "support-casting-intensified-magic",
   title: "Support Casting: Intensified Magic",
   world: "world/the-wandering-inn",

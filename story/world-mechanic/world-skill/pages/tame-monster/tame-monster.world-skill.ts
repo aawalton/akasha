@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const tameMonster = {
   id: "01a0657d-0310-7117-b64b-b7906575d523",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "tame-monster",
   title: "Tame Monster",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const swordArtMourningDoveSLament = {
   id: "01a0657d-0307-7e6c-a5e1-06d55afd6182",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sword-art-mourning-dove-s-lament",
   title: "Sword Art: Mourning Dove’s Lament",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const swordArtTwoMoonsCurveAcrossTheSky = {
   id: "01a0657d-0307-716f-9b9c-8c0142a78008",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "sword-art-two-moons-curve-across-the-sky",
   title: "Sword Art: Two Moons Curve Across the Sky",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const tailAttack = {
   id: "01a0657d-0307-7d5b-89cd-62a4ec32008f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "tail-attack",
   title: "Tail Attack",
   world: "world/the-wandering-inn",
