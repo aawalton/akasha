@@ -2,7 +2,7 @@ import type { GmailMailbox } from "akasha/person/email/gmail-mailbox/gmail-mailb
 
 export const aawalton = {
   id: "01a06862-a0bc-753a-8002-9bc5c8a12823",
-  type: "gmail-mailbox",
+  type: "page-type/gmail-mailbox",
   slug: "aawalton",
   title: "aawalton",
   email: "aawalton@gmail.com",
