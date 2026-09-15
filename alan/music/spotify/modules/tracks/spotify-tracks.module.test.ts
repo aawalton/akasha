@@ -1,10 +1,7 @@
 import { afterAll, afterEach, beforeEach, expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import {
-  fetchingIs,
-  fetchingIsOverHttp,
-} from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
+import type { Fetching } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import { writeToken } from "akasha/alan/music/spotify/modules/token-store/spotify-token-store.module.code.ts"
 import {
   getTrack,
@@ -30,14 +27,14 @@ afterAll(() => {
   rmSync(ROOT, { recursive: true, force: true })
 })
 
-function answeringWith(body: unknown): undefined {
-  fetchingIs(async (url) => {
+function answeringWith(body: unknown): Fetching {
+  return async (url) => {
     calls.push(url)
     return new Response(JSON.stringify(body), {
       status: 200,
       headers: { "Content-Type": "application/json" },
     })
-  })
+  }
 }
 
 beforeEach(() => {
@@ -54,14 +51,12 @@ beforeEach(() => {
 })
 
 afterEach(() => {
-  fetchingIsOverHttp()
   delete process.env.SPOTIFY_TOKEN_FILE
   delete process.env.SPOTIFY_RATE_LIMIT_MS
 })
 
 test("one track is read by its Spotify id", async () => {
-  answeringWith(ANSWER)
-  const track = await getTrack("a-track-id")
+  const track = await getTrack("a-track-id", answeringWith(ANSWER))
   expect(calls[0]).toBe("https://api.spotify.com/v1/tracks/a-track-id")
   expect(track.name).toBe("A Track")
 })

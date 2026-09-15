@@ -1,10 +1,7 @@
 import { afterAll, afterEach, beforeEach, expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import {
-  fetchingIs,
-  fetchingIsOverHttp,
-} from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
+import type { Fetching } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import {
   getTopArtists,
   TIME_RANGES,
@@ -36,7 +33,6 @@ beforeEach(() => {
 })
 
 afterEach(() => {
-  fetchingIsOverHttp()
   delete process.env.SPOTIFY_TOKEN_FILE
   delete process.env.SPOTIFY_RATE_LIMIT_MS
 })
@@ -50,7 +46,7 @@ test("a window is named in the path beside the fifty item limit", () => {
 })
 
 test("a read takes one page even where Spotify names another", async () => {
-  fetchingIs(async (url) => {
+  const answering: Fetching = async (url) => {
     asked.push(url)
     return new Response(
       JSON.stringify({
@@ -63,8 +59,8 @@ test("a read takes one page even where Spotify names another", async () => {
       }),
       { status: 200, headers: { "Content-Type": "application/json" } }
     )
-  })
-  const found = await getTopArtists("short_term")
+  }
+  const found = await getTopArtists("short_term", answering)
   expect(found.length).toBe(50)
   expect(asked.length).toBe(1)
 })

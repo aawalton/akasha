@@ -1,10 +1,7 @@
 import { afterAll, afterEach, beforeEach, expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import {
-  fetchingIs,
-  fetchingIsOverHttp,
-} from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
+import type { Fetching } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import {
   albumMinutes,
   albumSchema,
@@ -35,9 +32,9 @@ afterAll(() => {
   rmSync(ROOT, { recursive: true, force: true })
 })
 
-function answeringWith(bodies: readonly unknown[]): undefined {
+function answeringWith(bodies: readonly unknown[]): Fetching {
   let at = 0
-  fetchingIs(async (url) => {
+  return async (url) => {
     calls.push(url)
     const body = bodies[Math.min(at, bodies.length - 1)]
     at += 1
@@ -45,7 +42,7 @@ function answeringWith(bodies: readonly unknown[]): undefined {
       status: 200,
       headers: { "Content-Type": "application/json" },
     })
-  })
+  }
 }
 
 function pageOf(items: readonly unknown[], nextPath: string | null): unknown {
@@ -66,7 +63,6 @@ beforeEach(() => {
 })
 
 afterEach(() => {
-  fetchingIsOverHttp()
   delete process.env.SPOTIFY_TOKEN_FILE
   delete process.env.SPOTIFY_RATE_LIMIT_MS
 })
@@ -82,18 +78,19 @@ test("an album an artist only appears on is left out of what is asked for", () =
 })
 
 test("every album an artist put out is read, however many pages that takes", async () => {
-  answeringWith([
-    pageOf([ALBUM], "https://api.spotify.com/v1/artists/an-artist-id/albums?offset=10&limit=10"),
-    pageOf([{ ...ALBUM, id: "a-second-album-id" }], null),
-  ])
-  const albums = await getArtistAlbums("an-artist-id")
+  const albums = await getArtistAlbums(
+    "an-artist-id",
+    answeringWith([
+      pageOf([ALBUM], "https://api.spotify.com/v1/artists/an-artist-id/albums?offset=10&limit=10"),
+      pageOf([{ ...ALBUM, id: "a-second-album-id" }], null),
+    ])
+  )
   expect(albums.map((one) => one.id)).toEqual(["an-album-id", "a-second-album-id"])
   expect(calls).toHaveLength(2)
 })
 
 test("one album is read by its own id, because the bulk read is forbidden this app", async () => {
-  answeringWith([{ ...ALBUM, tracks: { items: [] } }])
-  await getAlbum("an-album-id")
+  await getAlbum("an-album-id", answeringWith([{ ...ALBUM, tracks: { items: [] } }]))
   expect(calls[0]).toBe("https://api.spotify.com/v1/albums/an-album-id")
 })
 
