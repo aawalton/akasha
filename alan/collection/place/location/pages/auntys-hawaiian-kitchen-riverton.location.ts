@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const auntysHawaiianKitchenRiverton = {
   id: "019f1b49-5188-742a-a012-c16a80e40a0c",
-  type: "location",
+  type: "page-type/location",
   slug: "auntys-hawaiian-kitchen-riverton",
   title: "Aunty's Hawaiian Kitchen - Riverton",
   latitude: 35.488659,

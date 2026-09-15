@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const amrit = {
   id: "019f1aec-0d51-770b-aa55-9770f765d49b",
-  type: "location",
+  type: "page-type/location",
   slug: "amrit",
   title: "Amrit",
   latitude: 52.510618,

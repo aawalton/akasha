@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bahamaBucksProvoAb5c = {
   id: "019f322c-919d-7ff1-a182-5992a2c2ab5c",
-  type: "location",
+  type: "page-type/location",
   slug: "bahama-bucks-provo-ab5c",
   title: "Bahama Buck's (Provo)",
   address: "Provo, UT",

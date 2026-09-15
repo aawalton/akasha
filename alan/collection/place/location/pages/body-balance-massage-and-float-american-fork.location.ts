@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bodyBalanceMassageAndFloatAmericanFork = {
   id: "019f322c-91af-78c9-b71d-32bac067d554",
-  type: "location",
+  type: "page-type/location",
   slug: "body-balance-massage-and-float-american-fork",
   title: "Body Balance Massage and Float (American Fork)",
   address: "American Fork, UT",

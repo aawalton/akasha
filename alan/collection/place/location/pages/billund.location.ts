@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const billund = {
   id: "019f1aec-0d93-7ebc-8b08-888705f74487",
-  type: "location",
+  type: "page-type/location",
   slug: "billund",
   title: "Billund",
   latitude: 55.7247018,

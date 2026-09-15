@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const backereiKonditoreiWBalzer = {
   id: "019f1b49-52ed-747b-9a98-2ac23eb046d7",
-  type: "location",
+  type: "page-type/location",
   slug: "backerei-konditorei-w-balzer",
   title: "Bäckerei & Konditorei W. Balzer",
   latitude: 52.6176794,

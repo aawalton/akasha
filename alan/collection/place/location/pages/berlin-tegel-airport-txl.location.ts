@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const berlinTegelAirportTxl = {
   id: "019f1b49-52fa-7b74-8142-230b653f9704",
-  type: "location",
+  type: "page-type/location",
   slug: "berlin-tegel-airport-txl",
   title: "Berlin-Tegel Airport (TXL)",
   latitude: 52.55969,

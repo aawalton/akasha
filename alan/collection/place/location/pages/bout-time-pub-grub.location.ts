@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const boutTimePubGrub = {
   id: "019f1aec-0d24-75b0-b07c-1f6b514411fe",
-  type: "location",
+  type: "page-type/location",
   slug: "bout-time-pub-grub",
   title: "Bout Time Pub & Grub",
   latitude: 39.7693045,

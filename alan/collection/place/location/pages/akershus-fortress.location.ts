@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const akershusFortress = {
   id: "019f1aec-0ee1-7156-9d6e-ab989c0ce87c",
-  type: "location",
+  type: "page-type/location",
   slug: "akershus-fortress",
   title: "Akershus Fortress",
   latitude: 59.9075983,

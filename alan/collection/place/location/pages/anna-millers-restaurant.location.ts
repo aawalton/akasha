@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const annaMillersRestaurant = {
   id: "019f1b49-52b1-7beb-9603-ce6a11dea67e",
-  type: "location",
+  type: "page-type/location",
   slug: "anna-millers-restaurant",
   title: "Anna Miller's Restaurant",
   latitude: 51.2188549,

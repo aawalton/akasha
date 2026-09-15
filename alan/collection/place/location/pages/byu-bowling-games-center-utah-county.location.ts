@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const byuBowlingGamesCenterUtahCounty = {
   id: "019f322c-9200-7bce-8bf9-a5b032097b0e",
-  type: "location",
+  type: "page-type/location",
   slug: "byu-bowling-games-center-utah-county",
   title: "BYU Bowling & Games Center (Utah County)",
   address: "Utah County, UT",

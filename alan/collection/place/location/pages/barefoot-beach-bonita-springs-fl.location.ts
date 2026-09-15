@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const barefootBeachBonitaSpringsFl = {
   id: "019f1b49-5774-7402-a325-b32081a12d12",
-  type: "location",
+  type: "page-type/location",
   slug: "barefoot-beach-bonita-springs-fl",
   title: "Barefoot beach Bonita Springs,FL",
   latitude: 26.3288,

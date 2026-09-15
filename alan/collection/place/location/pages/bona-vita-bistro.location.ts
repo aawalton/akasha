@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bonaVitaBistro = {
   id: "019f1aec-0fd9-7137-9642-ad01f1045535",
-  type: "location",
+  type: "page-type/location",
   slug: "bona-vita-bistro",
   title: "Bona Vita Bistro",
   address: "1820 W Traverse Pkwy Ste C, Lehi, UT 84043, United States",

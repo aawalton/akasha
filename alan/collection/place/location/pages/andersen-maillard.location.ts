@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const andersenMaillard = {
   id: "019f1aec-0d7f-7212-b54a-1f05144ba448",
-  type: "location",
+  type: "page-type/location",
   slug: "andersen-maillard",
   title: "Andersen & Maillard",
   latitude: 55.6813619,

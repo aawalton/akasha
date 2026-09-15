@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const auntieAnnesDraper = {
   id: "019f322c-9143-7613-9120-bfa9838728b5",
-  type: "location",
+  type: "page-type/location",
   slug: "auntie-annes-draper",
   title: "Auntie Anne's (Draper)",
   address: "Draper, UT",

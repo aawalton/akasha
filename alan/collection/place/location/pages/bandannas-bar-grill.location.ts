@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bandannasBarGrill = {
   id: "019f1aec-0cd7-72b3-9be8-a063b212a767",
-  type: "location",
+  type: "page-type/location",
   slug: "bandannas-bar-grill",
   title: "Bandannas Bar & Grill",
   latitude: 40.6620709,

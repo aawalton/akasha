@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const blindRabbitKitchen = {
   id: "019f1b49-54b4-74aa-bef6-bbc53f82ca99",
-  type: "location",
+  type: "page-type/location",
   slug: "blind-rabbit-kitchen",
   title: "Blind Rabbit Kitchen",
   latitude: 40.725016,

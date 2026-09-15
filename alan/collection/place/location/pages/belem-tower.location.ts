@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const belemTower = {
   id: "019f1aec-0eca-72cc-a3a7-baea1e649bba",
-  type: "location",
+  type: "page-type/location",
   slug: "belem-tower",
   title: "Belém Tower",
   latitude: 38.691586,

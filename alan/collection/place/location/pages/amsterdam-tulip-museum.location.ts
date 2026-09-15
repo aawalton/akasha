@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const amsterdamTulipMuseum = {
   id: "019f1aec-0e34-73c8-a4d0-3ddfaf740eb1",
-  type: "location",
+  type: "page-type/location",
   slug: "amsterdam-tulip-museum",
   title: "Amsterdam Tulip Museum",
   latitude: 52.3763169,

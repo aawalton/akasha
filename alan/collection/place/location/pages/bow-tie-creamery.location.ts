@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bowTieCreamery = {
   id: "019f1aec-0d36-75fc-8f09-9186d0917a54",
-  type: "location",
+  type: "page-type/location",
   slug: "bow-tie-creamery",
   title: "Bow Tie Creamery",
   latitude: 41.1614728,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const burgEppstein = {
   id: "019f1b49-5628-74b5-826f-b3a96e17ed5b",
-  type: "location",
+  type: "page-type/location",
   slug: "burg-eppstein",
   title: "Burg Eppstein",
   latitude: 50.120597,

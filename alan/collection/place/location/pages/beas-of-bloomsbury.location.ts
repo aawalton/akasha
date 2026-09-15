@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const beasOfBloomsbury = {
   id: "019f1aec-0e7a-7b8c-a883-8c129de83b52",
-  type: "location",
+  type: "page-type/location",
   slug: "beas-of-bloomsbury",
   title: "Bea’s of bloomsbury",
   latitude: 51.5134232,

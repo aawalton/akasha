@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const berthillonGlacier = {
   id: "019f1b49-543a-76d4-99b4-17f11497a182",
-  type: "location",
+  type: "page-type/location",
   slug: "berthillon-glacier",
   title: "Berthillon Glacier",
   latitude: 48.8517084,

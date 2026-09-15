@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const brugesBelgianBistro = {
   id: "019f1b49-54c3-7c05-a307-e5f82142cce9",
-  type: "location",
+  type: "page-type/location",
   slug: "bruges-belgian-bistro",
   title: "Bruges Belgian Bistro",
   latitude: 40.7856,

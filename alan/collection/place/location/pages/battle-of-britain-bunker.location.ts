@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const battleOfBritainBunker = {
   id: "019f1aec-0cfd-7cdc-8e90-4cdfe8a0685b",
-  type: "location",
+  type: "page-type/location",
   slug: "battle-of-britain-bunker",
   title: "Battle of Britain Bunker",
   latitude: 51.54048,

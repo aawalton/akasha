@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const castilloDeCoca = {
   id: "019f1aec-0d74-72d6-8f34-58e994782f6c",
-  type: "location",
+  type: "page-type/location",
   slug: "castillo-de-coca",
   title: "Castillo de Coca",
   latitude: 40.4296934,

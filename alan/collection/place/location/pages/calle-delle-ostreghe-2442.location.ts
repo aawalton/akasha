@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const calleDelleOstreghe2442 = {
   id: "019f1aec-0e19-7095-82cc-ed9121bded8e",
-  type: "location",
+  type: "page-type/location",
   slug: "calle-delle-ostreghe-2442",
   title: "Calle delle Ostreghe, 2442",
   latitude: 45.4325447,

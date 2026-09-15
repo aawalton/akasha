@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bakeryWrapper = {
   id: "019f1b49-5355-7ccc-b537-dd4fed9d8d40",
-  type: "location",
+  type: "page-type/location",
   slug: "bakery-wrapper",
   title: "Bakery Wrapper",
   latitude: 34.0264273,

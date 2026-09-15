@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const asianBistroCedarCity = {
   id: "019f1aec-0e9e-7e6c-bd34-03ed353c198f",
-  type: "location",
+  type: "page-type/location",
   slug: "asian-bistro-cedar-city",
   title: "Asian Bistro | Cedar City",
   latitude: 37.6533934,

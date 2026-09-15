@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const auntieAnnesLehi = {
   id: "019f322c-914a-761a-a75a-0d594b3a19a9",
-  type: "location",
+  type: "page-type/location",
   slug: "auntie-annes-lehi",
   title: "Auntie Anne's (Lehi)",
   address: "Lehi, UT",

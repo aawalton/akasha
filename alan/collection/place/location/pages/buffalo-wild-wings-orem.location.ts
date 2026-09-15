@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const buffaloWildWingsOrem = {
   id: "019f322c-91c2-758d-b787-5764fda9e9f3",
-  type: "location",
+  type: "page-type/location",
   slug: "buffalo-wild-wings-orem",
   title: "Buffalo Wild Wings (Orem)",
   address: "Orem, UT",

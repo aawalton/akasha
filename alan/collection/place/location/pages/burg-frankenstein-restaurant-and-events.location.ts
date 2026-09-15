@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const burgFrankensteinRestaurantAndEvents = {
   id: "019f1b49-562d-7662-9097-7af438d67cf5",
-  type: "location",
+  type: "page-type/location",
   slug: "burg-frankenstein-restaurant-and-events",
   title: "Burg Frankenstein Restaurant and Events",
   latitude: 50.1106444,

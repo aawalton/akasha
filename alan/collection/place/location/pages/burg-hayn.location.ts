@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const burgHayn = {
   id: "019f1b49-562e-7f04-b56d-4d0ca0dbd9b4",
-  type: "location",
+  type: "page-type/location",
   slug: "burg-hayn",
   title: "Burg Hayn",
   latitude: 50.1106444,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const browniesBrowniesBrownies = {
   id: "019f1aec-0d3a-7620-b0e2-2517fdd6daee",
-  type: "location",
+  type: "page-type/location",
   slug: "brownies-brownies-brownies",
   title: "BROWNIES! BROWNIES! BROWNIES!",
   latitude: 49.1089628,

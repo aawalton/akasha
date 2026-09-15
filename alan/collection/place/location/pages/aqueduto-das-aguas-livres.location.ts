@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const aquedutoDasAguasLivres = {
   id: "019f1aec-0ebe-7c0a-9d17-bc731df7d932",
-  type: "location",
+  type: "page-type/location",
   slug: "aqueduto-das-aguas-livres",
   title: "Aqueduto das Águas Livres",
   latitude: 38.7544185,

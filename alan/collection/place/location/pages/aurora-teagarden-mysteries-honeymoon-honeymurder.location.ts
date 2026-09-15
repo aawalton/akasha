@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const auroraTeagardenMysteriesHoneymoonHoneymurder = {
   id: "019f1b49-577b-7aec-a45c-3e8a657ad61b",
-  type: "location",
+  type: "page-type/location",
   slug: "aurora-teagarden-mysteries-honeymoon-honeymurder",
   title: "Aurora Teagarden Mysteries: Honeymoon Honeymurder",
   latitude: 39.696178,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const arcoDeTriunfoDeBarcelona = {
   id: "019f1aec-0e6c-7e7a-99f7-b39190094ea7",
-  type: "location",
+  type: "page-type/location",
   slug: "arco-de-triunfo-de-barcelona",
   title: "Arco de Triunfo de Barcelona",
   latitude: 41.3910466,

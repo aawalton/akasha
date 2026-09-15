@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const anticaSicilia = {
   id: "019f1aec-0cbb-7f4b-a696-1fc993d68445",
-  type: "location",
+  type: "page-type/location",
   slug: "antica-sicilia",
   title: "Antica Sicilia",
   latitude: 37.5031721,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const blacksmithIceCreamCoD49c = {
   id: "019f1b49-54b7-754d-b4d0-6f655c19d49c",
-  type: "location",
+  type: "page-type/location",
   slug: "blacksmith-ice-cream-co-d49c",
   title: "Blacksmith Ice Cream Co.",
   latitude: 40.9833496,

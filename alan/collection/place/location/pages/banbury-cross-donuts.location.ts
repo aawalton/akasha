@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const banburyCrossDonuts = {
   id: "019f1aec-0d30-7fc9-93ef-6a24ce5524cc",
-  type: "location",
+  type: "page-type/location",
   slug: "banbury-cross-donuts",
   title: "Banbury Cross Donuts",
   latitude: 37.348803,

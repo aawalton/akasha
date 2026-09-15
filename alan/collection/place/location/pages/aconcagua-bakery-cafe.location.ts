@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const aconcaguaBakeryCafe = {
   id: "019f1aec-0d32-732e-9ee9-43beadc6f082",
-  type: "location",
+  type: "page-type/location",
   slug: "aconcagua-bakery-cafe",
   title: "Aconcagua bakery & cafe",
   latitude: 41.0702447,

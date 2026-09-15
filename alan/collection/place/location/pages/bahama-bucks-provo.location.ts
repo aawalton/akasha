@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bahamaBucksProvo = {
   id: "019f1aec-100c-7777-ba24-fd82d3b0ebb1",
-  type: "location",
+  type: "page-type/location",
   slug: "bahama-bucks-provo",
   title: "Bahama Buck's - Provo",
   address: "2265 N University Pkwy, Provo, UT 84604, United States",

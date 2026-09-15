@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const avisCarHireDublinCityCentre = {
   id: "019f1b49-531c-77de-a15c-3b32be0d305d",
-  type: "location",
+  type: "page-type/location",
   slug: "avis-car-hire-dublin-city-centre",
   title: "Avis Car Hire Dublin City Centre",
   latitude: 51.661925,

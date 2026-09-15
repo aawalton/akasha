@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cascadeSprings = {
   id: "019f1b49-5718-7936-a203-fc2a12fe3647",
-  type: "location",
+  type: "page-type/location",
   slug: "cascade-springs",
   title: "Cascade Springs",
   latitude: 40.500606,

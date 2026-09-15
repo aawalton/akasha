@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bingCrosbyHouse = {
   id: "019f1aec-0c9e-7640-bf85-a6654e8a007c",
-  type: "location",
+  type: "page-type/location",
   slug: "bing-crosby-house",
   title: "Bing Crosby House",
   latitude: 47.6692556,

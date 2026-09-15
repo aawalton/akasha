@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const apeCave = {
   id: "019f1aec-0c97-7fa6-bc3c-43f996dcbbb0",
-  type: "location",
+  type: "page-type/location",
   slug: "ape-cave",
   title: "Ape Cave",
   latitude: 46.1138476,

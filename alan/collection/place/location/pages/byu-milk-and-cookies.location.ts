@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const byuMilkAndCookies = {
   id: "019f1aec-0fc6-7e87-85f0-af7b11c0ec02",
-  type: "location",
+  type: "page-type/location",
   slug: "byu-milk-and-cookies",
   title: "BYU Milk and Cookies",
   address: "1 E Campus Dr, Provo, UT 84604, United States",

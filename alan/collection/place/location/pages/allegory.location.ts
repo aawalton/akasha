@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const allegory = {
   id: "019f1b49-566b-7492-8d13-a0c3f2095e4e",
-  type: "location",
+  type: "page-type/location",
   slug: "allegory",
   title: "Allegory",
   latitude: 38.9027885,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const casteloDeSJorge = {
   id: "019f1aec-0ecb-76bf-a138-9311f9da1b0f",
-  type: "location",
+  type: "page-type/location",
   slug: "castelo-de-s-jorge",
   title: "Castelo de S. Jorge",
   latitude: 38.7139258,

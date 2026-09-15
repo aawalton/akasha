@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const albertCuypMarket = {
   id: "019f1aec-0e45-751d-aeaf-721f1db058aa",
-  type: "location",
+  type: "page-type/location",
   slug: "albert-cuyp-market",
   title: "Albert Cuyp Market",
   latitude: 52.3552329,

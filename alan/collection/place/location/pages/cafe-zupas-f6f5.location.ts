@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cafeZupasF6f5 = {
   id: "019f1aec-1043-74a3-a3f3-bb2e8641f6f5",
-  type: "location",
+  type: "page-type/location",
   slug: "cafe-zupas-f6f5",
   title: "Cafe Zupas",
   address: "408 W 2230 N, Provo, UT 84604, United States",

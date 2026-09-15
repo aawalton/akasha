@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const aulaniADisneyResortSpa = {
   id: "019f1b49-52bf-7ed9-a839-69d6abe09b92",
-  type: "location",
+  type: "page-type/location",
   slug: "aulani-a-disney-resort-spa",
   title: "Aulani, A Disney Resort & Spa",
   latitude: 54.375284,

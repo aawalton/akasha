@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bocconi = {
   id: "019f1aec-0ed4-764e-b2de-5b02db44f944",
-  type: "location",
+  type: "page-type/location",
   slug: "bocconi",
   title: "Bocconi",
   latitude: 50.8460119,

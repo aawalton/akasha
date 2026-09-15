@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const beechersHandmadeCheese = {
   id: "019f1aec-0ca2-7a7f-823a-93864e87cc35",
-  type: "location",
+  type: "page-type/location",
   slug: "beechers-handmade-cheese",
   title: "Beecher's Handmade Cheese",
   latitude: 47.6095818,

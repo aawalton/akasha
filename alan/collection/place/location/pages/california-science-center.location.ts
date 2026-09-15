@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const californiaScienceCenter = {
   id: "019f1aec-0f66-74aa-b283-9f0eeadebe46",
-  type: "location",
+  type: "page-type/location",
   slug: "california-science-center",
   title: "California Science Center",
   latitude: 34.0160316,

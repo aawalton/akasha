@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const archOfConstantine = {
   id: "019f1aec-0db6-7744-aad5-2c472b0922c3",
-  type: "location",
+  type: "page-type/location",
   slug: "arch-of-constantine",
   title: "Arch of Constantine",
   latitude: 41.8897622,

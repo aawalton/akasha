@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const casaBatllo = {
   id: "019f1aec-0e71-7eed-a68a-bf4171821e86",
-  type: "location",
+  type: "page-type/location",
   slug: "casa-batllo",
   title: "Casa Batlló",
   latitude: 41.3915446,

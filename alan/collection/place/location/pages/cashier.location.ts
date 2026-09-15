@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const cashier = {
   id: "019f1b49-5353-7a1c-8627-f6decc1917d5",
-  type: "location",
+  type: "page-type/location",
   slug: "cashier",
   title: "Cashier",
   latitude: 34.129382,

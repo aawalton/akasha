@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const artesianWellPark = {
   id: "019f1aec-0cf5-76f0-9ae3-19733bb49115",
-  type: "location",
+  type: "page-type/location",
   slug: "artesian-well-park",
   title: "Artesian Well Park",
   latitude: 40.7517178,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const basilicaOfSaintNicholas = {
   id: "019f1b49-5555-78e2-9af5-172b0494c583",
-  type: "location",
+  type: "page-type/location",
   slug: "basilica-of-saint-nicholas",
   title: "Basilica of Saint Nicholas",
   latitude: 52.6333574,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const brustersIceCreamUtahCounty = {
   id: "019f322c-91b7-7518-9335-1078a755088e",
-  type: "location",
+  type: "page-type/location",
   slug: "brusters-ice-cream-utah-county",
   title: "Bruster's Ice Cream (Utah County)",
   address: "Utah County, UT",

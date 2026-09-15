@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const capeDisappointmentStatePark = {
   id: "019f1aec-0c9a-7920-9593-03999779730d",
-  type: "location",
+  type: "page-type/location",
   slug: "cape-disappointment-state-park",
   title: "Cape Disappointment State Park",
   latitude: 46.2900763,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const buffaloWildWingsLehi = {
   id: "019f322c-91be-7c88-8634-cdf8a74788be",
-  type: "location",
+  type: "page-type/location",
   slug: "buffalo-wild-wings-lehi",
   title: "Buffalo Wild Wings (Lehi)",
   address: "Lehi, UT",

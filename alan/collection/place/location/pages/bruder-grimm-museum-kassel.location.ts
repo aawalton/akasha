@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bruderGrimmMuseumKassel = {
   id: "019f1b49-5638-7874-a2f3-9f72071c89e1",
-  type: "location",
+  type: "page-type/location",
   slug: "bruder-grimm-museum-kassel",
   title: "Brüder Grimm-Museum Kassel",
   latitude: 50.1106444,

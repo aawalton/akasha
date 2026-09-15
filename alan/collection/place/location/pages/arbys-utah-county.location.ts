@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const arbysUtahCounty = {
   id: "019f322c-913c-70df-8f8f-3f4634a7dbfc",
-  type: "location",
+  type: "page-type/location",
   slug: "arbys-utah-county",
   title: "Arby's (Utah County)",
   address: "Utah County, UT",

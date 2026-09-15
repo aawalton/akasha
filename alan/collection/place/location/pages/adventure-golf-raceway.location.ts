@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const adventureGolfRaceway = {
   id: "019f1b49-529f-788c-a2a2-0a66eddd4ea4",
-  type: "location",
+  type: "page-type/location",
   slug: "adventure-golf-raceway",
   title: "Adventure Golf & Raceway",
   latitude: 41.987202,

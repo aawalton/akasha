@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const benihana = {
   id: "019f1b49-54d8-7d75-b9d3-9efa23d42bcf",
-  type: "location",
+  type: "page-type/location",
   slug: "benihana",
   title: "Benihana",
   latitude: 33.9955104,

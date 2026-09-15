@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const backNineGolfUtahCounty = {
   id: "019f322c-918e-72d8-822f-db7abc452424",
-  type: "location",
+  type: "page-type/location",
   slug: "back-nine-golf-utah-county",
   title: "Back Nine Golf (Utah County)",
   address: "Utah County, UT",

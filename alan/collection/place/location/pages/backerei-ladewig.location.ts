@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const backereiLadewig = {
   id: "019f1b49-52eb-7e19-a123-e2a3ce5d6348",
-  type: "location",
+  type: "page-type/location",
   slug: "backerei-ladewig",
   title: "Bäckerei Ladewig",
   latitude: 52.5121757,

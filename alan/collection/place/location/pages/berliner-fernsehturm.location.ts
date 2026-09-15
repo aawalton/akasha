@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const berlinerFernsehturm = {
   id: "019f1aec-0d5c-770b-b9d0-32ee5cd5d925",
-  type: "location",
+  type: "page-type/location",
   slug: "berliner-fernsehturm",
   title: "Berliner Fernsehturm",
   latitude: 52.5208279,

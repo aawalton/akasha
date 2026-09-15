@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bigBen = {
   id: "019f1aec-0e7e-784e-b527-0fdb440b112c",
-  type: "location",
+  type: "page-type/location",
   slug: "big-ben",
   title: "Big Ben",
   latitude: 51.5007042,

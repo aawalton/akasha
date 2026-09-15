@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const asianCafeChinese = {
   id: "019f1aec-103f-78e0-9bdc-123913c0d743",
-  type: "location",
+  type: "page-type/location",
   slug: "asian-cafe-chinese",
   title: "ASIAN CAFE | Chinese",
   address: "3535 N Ranches Pkwy F, Eagle Mountain, UT 84005, United States",

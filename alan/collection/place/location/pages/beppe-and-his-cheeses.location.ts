@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const beppeAndHisCheeses = {
   id: "019f1b49-53b2-77e6-a927-36b6fa89296b",
-  type: "location",
+  type: "page-type/location",
   slug: "beppe-and-his-cheeses",
   title: "Beppe and His Cheeses",
   latitude: 44.8021785,

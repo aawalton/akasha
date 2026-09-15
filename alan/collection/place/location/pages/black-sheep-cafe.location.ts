@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const blackSheepCafe = {
   id: "019f1aec-1041-75bf-b666-8f428195559e",
-  type: "location",
+  type: "page-type/location",
   slug: "black-sheep-cafe",
   title: "Black Sheep Cafe",
   address: "19 N University Ave, Provo, UT 84601, United States",

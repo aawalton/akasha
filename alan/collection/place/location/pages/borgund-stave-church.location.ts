@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const borgundStaveChurch = {
   id: "019f1b49-573b-70f2-8e2b-32f3cd7e2f3f",
-  type: "location",
+  type: "page-type/location",
   slug: "borgund-stave-church",
   title: "Borgund Stave Church",
   latitude: 45.03829,

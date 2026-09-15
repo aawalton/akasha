@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const aquascope = {
   id: "019f1aec-0cb2-7004-ac8a-516b276795ca",
-  type: "location",
+  type: "page-type/location",
   slug: "aquascope",
   title: "Aquascope",
   latitude: 46.6658364,

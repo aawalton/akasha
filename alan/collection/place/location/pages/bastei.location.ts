@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bastei = {
   id: "019f1aec-0d4b-7592-8afc-5f81ff53ef7e",
-  type: "location",
+  type: "page-type/location",
   slug: "bastei",
   title: "Bastei",
   latitude: 52.5985385,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const avenueBakeryUtahCounty = {
   id: "019f322c-914f-7516-9004-ec27d21d16ef",
-  type: "location",
+  type: "page-type/location",
   slug: "avenue-bakery-utah-county",
   title: "Avenue Bakery (Utah County)",
   address: "Utah County, UT",

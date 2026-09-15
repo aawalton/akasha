@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const brusselsAirportBruEuropeExit = {
   id: "019f37a9-8a8e-7f90-adaa-beec3b3d5ab1",
-  type: "location",
+  type: "page-type/location",
   slug: "brussels-airport-bru-europe-exit",
   title: "Brussels Airport (BRU) — Europe exit",
   collection: "location-collection/europe-trip-2026",

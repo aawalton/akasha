@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const altarOfTheFatherland = {
   id: "019f1aec-0da3-7de7-ad44-719659f0b8e2",
-  type: "location",
+  type: "page-type/location",
   slug: "altar-of-the-fatherland",
   title: "Altar of the Fatherland",
   latitude: 41.8946867,

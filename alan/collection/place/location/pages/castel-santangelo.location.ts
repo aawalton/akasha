@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const castelSantangelo = {
   id: "019f1aec-0dbb-7499-baef-6705289523b6",
-  type: "location",
+  type: "page-type/location",
   slug: "castel-santangelo",
   title: "Castel Sant'Angelo",
   latitude: 41.9031178,

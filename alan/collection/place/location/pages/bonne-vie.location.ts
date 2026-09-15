@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bonneVie = {
   id: "019f1aec-0cb0-7b09-9c12-d4ef9ddb1180",
-  type: "location",
+  type: "page-type/location",
   slug: "bonne-vie",
   title: "Bonne Vie",
   latitude: 48.5810882,

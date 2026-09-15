@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bricksMinifigsOrem = {
   id: "019f1aec-0fe3-7a0a-aa2b-1374f23f7dac",
-  type: "location",
+  type: "page-type/location",
   slug: "bricks-minifigs-orem",
   title: "Bricks & Minifigs Orem",
   address: "658 S State St, Orem, UT 84058, United States",

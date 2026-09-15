@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const brasiliaBergen = {
   id: "019f1aec-0ede-7945-bea9-587609a17eb9",
-  type: "location",
+  type: "page-type/location",
   slug: "brasilia-bergen",
   title: "Brasilia Bergen",
   latitude: 60.390552,

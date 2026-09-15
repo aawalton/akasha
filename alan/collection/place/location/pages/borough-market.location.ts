@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const boroughMarket = {
   id: "019f1aec-0e75-7a64-811a-5fe47f56a260",
-  type: "location",
+  type: "page-type/location",
   slug: "borough-market",
   title: "Borough Market",
   latitude: 51.5055815,

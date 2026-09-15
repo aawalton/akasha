@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const benagil = {
   id: "019f1b49-56de-70c7-9ad1-03d0ab0b0a8a",
-  type: "location",
+  type: "page-type/location",
   slug: "benagil",
   title: "Benagil",
   latitude: 37.0883655,

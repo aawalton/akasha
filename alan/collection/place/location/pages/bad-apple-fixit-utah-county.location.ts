@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const badAppleFixitUtahCounty = {
   id: "019f322c-9197-71e9-97e7-f9ca24b91cfc",
-  type: "location",
+  type: "page-type/location",
   slug: "bad-apple-fixit-utah-county",
   title: "Bad Apple & FIXIT (Utah County)",
   address: "Utah County, UT",

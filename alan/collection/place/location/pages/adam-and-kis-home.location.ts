@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const adamAndKisHome = {
   id: "019f1aec-0f59-72ab-a728-ad04b55f6a2a",
-  type: "location",
+  type: "page-type/location",
   slug: "adam-and-kis-home",
   title: "Adam and Ki’s Home",
   address: "4234 McKellen Dr Unit 204, Herriman, UT 84096, United States",

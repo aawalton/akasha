@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const brotherSCrepesCafe = {
   id: "019f1b49-5434-73b6-acf5-27cc58ad2525",
-  type: "location",
+  type: "page-type/location",
   slug: "brother-s-crepes-cafe",
   title: "Brother´s Crêpes & Café",
   latitude: 48.8440234,

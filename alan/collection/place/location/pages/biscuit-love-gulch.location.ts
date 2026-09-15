@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const biscuitLoveGulch = {
   id: "019f1aec-0de6-77bb-a853-3663e51ee33d",
-  type: "location",
+  type: "page-type/location",
   slug: "biscuit-love-gulch",
   title: "Biscuit Love Gulch",
   latitude: 36.1530058,

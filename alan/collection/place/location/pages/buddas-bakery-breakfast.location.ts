@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const buddasBakeryBreakfast = {
   id: "019f1b49-54a9-7467-9bb9-a51a01409e05",
-  type: "location",
+  type: "page-type/location",
   slug: "buddas-bakery-breakfast",
   title: "Budda's Bakery & Breakfast",
   latitude: 36.327013,

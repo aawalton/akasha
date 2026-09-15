@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bearWorldRd = {
   id: "019f1b49-57b2-7d53-a46a-3747d7d1ecca",
-  type: "location",
+  type: "page-type/location",
   slug: "bear-world-rd",
   title: "Bear World Rd",
   latitude: 45.859471,

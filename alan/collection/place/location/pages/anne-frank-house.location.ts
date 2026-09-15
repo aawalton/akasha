@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const anneFrankHouse = {
   id: "019f1aec-0e36-7177-9f35-cbbe5eb7f6ab",
-  type: "location",
+  type: "page-type/location",
   slug: "anne-frank-house",
   title: "Anne Frank House",
   latitude: 52.3751558,

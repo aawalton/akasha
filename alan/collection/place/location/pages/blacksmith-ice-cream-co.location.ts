@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const blacksmithIceCreamCo = {
   id: "019f1aec-0f80-7688-8fb0-b4768acd4702",
-  type: "location",
+  type: "page-type/location",
   slug: "blacksmith-ice-cream-co",
   title: "Blacksmith Ice Cream Co.",
   address: "180 S Main St #100, Bountiful, UT 84010, United States",

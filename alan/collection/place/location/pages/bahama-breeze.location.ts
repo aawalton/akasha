@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bahamaBreeze = {
   id: "019f1aec-0efc-7bd4-8764-2c6fe32f53d7",
-  type: "location",
+  type: "page-type/location",
   slug: "bahama-breeze",
   title: "Bahama Breeze",
   latitude: 28.471729,

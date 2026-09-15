@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bruderGrimmHaus = {
   id: "019f1b49-5635-77e2-8371-2f9347f06332",
-  type: "location",
+  type: "page-type/location",
   slug: "bruder-grimm-haus",
   title: "Brüder-Grimm-Haus",
   latitude: 50.1106444,

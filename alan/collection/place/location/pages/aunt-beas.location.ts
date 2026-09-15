@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const auntBeas = {
   id: "019f1aec-0f56-72fb-81df-225e938f650e",
-  type: "location",
+  type: "page-type/location",
   slug: "aunt-beas",
   title: "Aunt Bea’s",
   address: "1196 E 8320 S, Sandy, UT 84094, United States",

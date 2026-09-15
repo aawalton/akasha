@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bluebirdCandyCo = {
   id: "019f1aec-0f0e-7c63-b0df-054bd798598f",
-  type: "location",
+  type: "page-type/location",
   slug: "bluebird-candy-co",
   title: "Bluebird Candy Co",
   latitude: 41.7315843,

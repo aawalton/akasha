@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const auntieRaesSweetsAndTeaParties = {
   id: "019f1aec-1023-79f5-be71-abb1cd3ac770",
-  type: "location",
+  type: "page-type/location",
   slug: "auntie-raes-sweets-and-tea-parties",
   title: "Auntie Rae’s Sweets and Tea Parties",
   address: "4704 Holladay Blvd E, Holladay, UT 84117, United States",

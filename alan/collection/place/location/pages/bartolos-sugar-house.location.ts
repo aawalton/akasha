@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bartolosSugarHouse = {
   id: "019f1b49-51ab-7cce-9635-85d3a731a4a3",
-  type: "location",
+  type: "page-type/location",
   slug: "bartolos-sugar-house",
   title: "Bartolo's Sugar House",
   latitude: 40.7252968,

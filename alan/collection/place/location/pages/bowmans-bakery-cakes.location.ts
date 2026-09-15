@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bowmansBakeryCakes = {
   id: "019f1b49-5276-7ac8-a504-5922ef321925",
-  type: "location",
+  type: "page-type/location",
   slug: "bowmans-bakery-cakes",
   title: "Bowman’s Bakery Cakes",
   latitude: 35.651909,

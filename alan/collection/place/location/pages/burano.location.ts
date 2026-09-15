@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const burano = {
   id: "019f1aec-0e1e-7ba9-8a38-2f25531bd2d0",
-  type: "location",
+  type: "page-type/location",
   slug: "burano",
   title: "Burano",
   latitude: 45.4853558,

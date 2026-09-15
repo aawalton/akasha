@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const anticoFornoRoscioli = {
   id: "019f1aec-0d9b-73eb-90cf-d814b7aebbba",
-  type: "location",
+  type: "page-type/location",
   slug: "antico-forno-roscioli",
   title: "Antico Forno Roscioli",
   latitude: 41.8946562,

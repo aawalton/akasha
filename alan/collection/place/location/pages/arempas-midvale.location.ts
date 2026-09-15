@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const arempasMidvale = {
   id: "019f1b49-51de-7d3d-a159-07eed0552794",
-  type: "location",
+  type: "page-type/location",
   slug: "arempas-midvale",
   title: "Arempas - Midvale",
   latitude: 40.5629966,

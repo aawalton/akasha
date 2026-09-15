@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const apolloBurger = {
   id: "019f1aec-0fd4-7d4e-aacb-fefdd71022f0",
-  type: "location",
+  type: "page-type/location",
   slug: "apollo-burger",
   title: "Apollo Burger",
   address: "452 N State St, Orem, UT 84057, United States",

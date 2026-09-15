@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const alohaStadiumSwapMeet = {
   id: "019f1b49-52ba-7532-bbc5-18808a4f80e3",
-  type: "location",
+  type: "page-type/location",
   slug: "aloha-stadium-swap-meet",
   title: "Aloha Stadium Swap Meet",
   latitude: 21.3716203,

@@ -2,7 +2,7 @@ import type { Location } from "akasha/alan/collection/place/location/location.pa
 
 export const bleSucre = {
   id: "019f1aec-0dcb-7efd-9fe9-1bd059953456",
-  type: "location",
+  type: "page-type/location",
   slug: "ble-sucre",
   title: "Blé Sucré",
   latitude: 48.8505592,
