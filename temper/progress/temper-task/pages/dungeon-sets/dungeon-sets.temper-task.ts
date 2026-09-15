@@ -2,7 +2,7 @@ import type { TemperTask } from "akasha/temper/progress/temper-task/temper-task.
 
 export const dungeonSets = {
   id: "019eacc6-8d4e-706d-9bd1-72dd156de32a",
-  type: "temper-task",
+  type: "page-type/temper-task",
   slug: "dungeon-sets",
   title: "Dungeon Sets",
   icon: "file-text",

@@ -2,7 +2,7 @@ import type { TemperTask } from "akasha/temper/progress/temper-task/temper-task.
 
 export const legerdemainSkillLine = {
   id: "019db533-f381-75a0-8217-44d59f3c01b9",
-  type: "temper-task",
+  type: "page-type/temper-task",
   slug: "legerdemain-skill-line",
   title: "Legerdemain Skill Line",
   displayOrder: 10,

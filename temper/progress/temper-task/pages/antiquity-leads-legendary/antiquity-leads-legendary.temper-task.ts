@@ -2,7 +2,7 @@ import type { TemperTask } from "akasha/temper/progress/temper-task/temper-task.
 
 export const antiquityLeadsLegendary = {
   id: "019db533-f381-7525-a49a-ec655c3426c7",
-  type: "temper-task",
+  type: "page-type/temper-task",
   slug: "antiquity-leads-legendary",
   title: "Antiquity Leads Legendary",
   displayOrder: 0,

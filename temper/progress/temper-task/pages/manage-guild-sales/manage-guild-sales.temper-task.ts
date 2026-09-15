@@ -2,7 +2,7 @@ import type { TemperTask } from "akasha/temper/progress/temper-task/temper-task.
 
 export const manageGuildSales = {
   id: "019db533-f381-758e-8b24-0a120b8857e8",
-  type: "temper-task",
+  type: "page-type/temper-task",
   slug: "manage-guild-sales",
   title: "Manage Guild Sales",
   displayOrder: 12,

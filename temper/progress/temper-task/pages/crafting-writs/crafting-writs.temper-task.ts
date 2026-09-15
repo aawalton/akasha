@@ -2,7 +2,7 @@ import type { TemperTask } from "akasha/temper/progress/temper-task/temper-task.
 
 export const craftingWrits = {
   id: "019db533-f381-761a-affb-ba493b613e2e",
-  type: "temper-task",
+  type: "page-type/temper-task",
   slug: "crafting-writs",
   title: "Crafting Writs",
   displayOrder: 1,

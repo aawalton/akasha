@@ -2,7 +2,7 @@ import type { TemperTask } from "akasha/temper/progress/temper-task/temper-task.
 
 export const foliumDiscognitumSkillPoints = {
   id: "019e8de6-ad2f-7cb0-90aa-4e45f07aec54",
-  type: "temper-task",
+  type: "page-type/temper-task",
   slug: "folium-discognitum-skill-points",
   title: "Folium Discognitum Skill Points",
   icon: "file-text",

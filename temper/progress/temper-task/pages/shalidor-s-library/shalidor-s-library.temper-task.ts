@@ -2,7 +2,7 @@ import type { TemperTask } from "akasha/temper/progress/temper-task/temper-task.
 
 export const shalidorSLibrary = {
   id: "019e6a7d-5015-7d30-9bd6-ce0f15540ea0",
-  type: "temper-task",
+  type: "page-type/temper-task",
   slug: "shalidor-s-library",
   title: "Shalidor's Library",
   icon: "file-text",

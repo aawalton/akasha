@@ -2,7 +2,7 @@ import type { TemperTask } from "akasha/temper/progress/temper-task/temper-task.
 
 export const hirelingMails = {
   id: "019db533-f381-75d4-901d-3a5d3de946dd",
-  type: "temper-task",
+  type: "page-type/temper-task",
   slug: "hireling-mails",
   title: "Hireling Mails",
   displayOrder: 4,

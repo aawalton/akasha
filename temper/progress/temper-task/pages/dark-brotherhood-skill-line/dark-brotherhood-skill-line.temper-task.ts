@@ -2,7 +2,7 @@ import type { TemperTask } from "akasha/temper/progress/temper-task/temper-task.
 
 export const darkBrotherhoodSkillLine = {
   id: "019db533-f381-75f7-aafa-ced3b56c5229",
-  type: "temper-task",
+  type: "page-type/temper-task",
   slug: "dark-brotherhood-skill-line",
   title: "Dark Brotherhood Skill Line",
   displayOrder: 11,

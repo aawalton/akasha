@@ -2,7 +2,7 @@ import type { TemperTask } from "akasha/temper/progress/temper-task/temper-task.
 
 export const goldenPursuitsStraightToTheCrate = {
   id: "019fc2a9-cc9f-77d1-8d92-3d4c8bf09b6c",
-  type: "temper-task",
+  type: "page-type/temper-task",
   slug: "golden-pursuits-straight-to-the-crate",
   title: "Golden Pursuits — Straight to the Crate",
   description:
