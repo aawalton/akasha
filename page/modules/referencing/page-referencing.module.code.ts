@@ -11,6 +11,8 @@ const HOLDS = "jsonl"
 
 const PAGE_HOLDS = ".ts"
 
+const ENDING = `.${SECTION}.${HOLDS}`
+
 export const IMPORT = "import"
 
 export type Reference = {
@@ -22,6 +24,10 @@ export type Reference = {
 
 export function referencesAt(pagePath: string): string | null {
   return besideAt(pagePath, SECTION, HOLDS)
+}
+
+export function referencesFiled(path: string): boolean {
+  return path.endsWith(ENDING)
 }
 
 export function ownerOf(path: string): string | null {

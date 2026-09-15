@@ -23,6 +23,14 @@ export const indexCarrying = {
     },
     {
       invariantKind: "departure",
+      statement: "A change carries the file beside every page whose references it turns.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a file is carried whatever indexes git holds, being no index file.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The answers are read off the index the change leaves rather than worked out here.",
     },
