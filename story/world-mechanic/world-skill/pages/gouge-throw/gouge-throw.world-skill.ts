@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const gougeThrow = {
   id: "01a06575-9815-7312-ac04-23c7ff40647a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "gouge-throw",
   title: "Gouge Throw",
   world: "world/the-wandering-inn",

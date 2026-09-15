@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const guiseOfNeutrality = {
   id: "01a06575-9817-7b92-9a19-558f0345d002",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "guise-of-neutrality",
   title: "Guise of Neutrality",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const greaterAgility = {
   id: "01a06575-9816-737b-9058-9dc7449c3fa4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "greater-agility",
   title: "Greater Agility",
   world: "world/the-wandering-inn",

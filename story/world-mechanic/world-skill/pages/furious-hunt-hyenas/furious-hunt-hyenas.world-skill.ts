@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const furiousHuntHyenas = {
   id: "01a06575-9811-7475-bc7b-1c24ce2283b7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "furious-hunt-hyenas",
   title: "Furious Hunt: Hyenas",
   world: "world/the-wandering-inn",

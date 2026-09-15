@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const getUpAndRun = {
   id: "01a06575-9814-7e06-8704-1ca6978bd696",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "get-up-and-run",
   title: "Get Up and Run",
   world: "world/the-wandering-inn",

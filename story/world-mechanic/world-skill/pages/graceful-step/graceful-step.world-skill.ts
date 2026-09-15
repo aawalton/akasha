@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const gracefulStep = {
   id: "01a06575-9816-7374-9a31-a1f1c554354f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "graceful-step",
   title: "Graceful Step",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const gnollDrakeCommand = {
   id: "01a06575-9815-7674-9cd4-42cb87f9d628",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "gnoll-drake-command",
   title: "Gnoll-Drake Command",
   world: "world/the-wandering-inn",

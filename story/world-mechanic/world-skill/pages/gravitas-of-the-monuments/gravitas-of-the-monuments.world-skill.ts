@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const gravitasOfTheMonuments = {
   id: "01a06575-9816-7ac9-9d55-4a796fcadaff",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "gravitas-of-the-monuments",
   title: "Gravitas of the Monuments",
   world: "world/the-wandering-inn",

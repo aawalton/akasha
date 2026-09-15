@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const gumPopHiddenComment = {
   id: "01a06575-9817-71ab-8c1b-b69870ce924f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "gum-pop-hidden-comment",
   title: "Gum Pop: Hidden Comment",
   world: "world/the-wandering-inn",

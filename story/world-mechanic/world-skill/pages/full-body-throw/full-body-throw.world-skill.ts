@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const fullBodyThrow = {
   id: "01a06575-9811-70aa-baa0-cfd1cf4f848d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "full-body-throw",
   title: "Full Body Throw",
   world: "world/the-wandering-inn",

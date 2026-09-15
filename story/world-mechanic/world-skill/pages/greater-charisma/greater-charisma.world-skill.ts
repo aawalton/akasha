@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const greaterCharisma = {
   id: "01a06575-9816-7834-9498-8bda8df979de",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "greater-charisma",
   title: "Greater Charisma",
   world: "world/the-wandering-inn",

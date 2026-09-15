@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const fromWitchcraftSorceryAriseth = {
   id: "01a06575-9811-7fe5-8225-9f61b9813353",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "from-witchcraft-sorcery-ariseth",
   title: "From Witchcraft, Sorcery Ariseth",
   world: "world/the-wandering-inn",

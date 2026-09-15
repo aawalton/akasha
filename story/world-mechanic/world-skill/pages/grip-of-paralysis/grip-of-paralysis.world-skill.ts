@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const gripOfParalysis = {
   id: "01a06575-9817-71b4-896c-cfeac6e9231a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "grip-of-paralysis",
   title: "Grip of Paralysis",
   world: "world/the-wandering-inn",

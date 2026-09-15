@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const harpoonShot = {
   id: "01a06575-9818-7a5b-81f0-c44b23d730a1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "harpoon-shot",
   title: "Harpoon Shot",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const hammerSBlow = {
   id: "01a06575-9818-72c8-bf9d-4f7af8c82728",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "hammer-s-blow",
   title: "Hammer’s Blow",
   world: "world/the-wandering-inn",

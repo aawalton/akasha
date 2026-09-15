@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const groundedAdvance = {
   id: "01a06575-9817-7c75-82cf-455cb9c84b5b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "grounded-advance",
   title: "Grounded Advance",
   world: "world/the-wandering-inn",

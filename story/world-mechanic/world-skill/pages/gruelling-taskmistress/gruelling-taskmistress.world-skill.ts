@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const gruellingTaskmistress = {
   id: "01a06575-9817-7a5a-9d61-251b1ef77fcd",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "gruelling-taskmistress",
   title: "Gruelling Taskmistress",
   world: "world/the-wandering-inn",

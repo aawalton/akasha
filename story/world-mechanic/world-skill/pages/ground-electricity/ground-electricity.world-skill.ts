@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const groundElectricity = {
   id: "01a06575-9817-7ff7-b0cc-6238f0e5149a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ground-electricity",
   title: "Ground Electricity",
   world: "world/the-wandering-inn",

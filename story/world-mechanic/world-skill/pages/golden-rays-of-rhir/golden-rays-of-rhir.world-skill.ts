@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const goldenRaysOfRhir = {
   id: "01a06575-9815-7016-baf6-77aa67342358",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "golden-rays-of-rhir",
   title: "Golden Rays of Rhir",
   world: "world/the-wandering-inn",

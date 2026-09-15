@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const goldenRemuneration = {
   id: "01a06575-9815-7ec8-bc62-45926f6416fe",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "golden-remuneration",
   title: "Golden Remuneration",
   world: "world/the-wandering-inn",

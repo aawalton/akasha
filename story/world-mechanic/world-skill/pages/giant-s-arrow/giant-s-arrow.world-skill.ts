@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const giantSArrow = {
   id: "01a06575-9814-7cf2-b142-5fdecb87e757",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "giant-s-arrow",
   title: "Giant’s Arrow",
   world: "world/the-wandering-inn",

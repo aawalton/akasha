@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const greaterImmunitySmoke = {
   id: "01a06575-9817-7722-8c15-3a109c4409f9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "greater-immunity-smoke",
   title: "Greater Immunity: Smoke",
   world: "world/the-wandering-inn",

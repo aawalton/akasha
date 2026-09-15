@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const gutSense = {
   id: "01a06575-9817-7382-92d0-eebb9744625a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "gut-sense",
   title: "Gut Sense",
   world: "world/the-wandering-inn",

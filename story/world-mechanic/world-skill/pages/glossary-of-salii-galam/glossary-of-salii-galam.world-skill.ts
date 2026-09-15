@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const glossaryOfSaliiGalam = {
   id: "01a06575-9815-7058-975a-31fc2c350ce9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "glossary-of-salii-galam",
   title: "Glossary of Salii: Galam",
   world: "world/the-wandering-inn",

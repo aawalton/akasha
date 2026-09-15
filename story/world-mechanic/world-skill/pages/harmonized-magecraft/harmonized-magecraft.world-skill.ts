@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const harmonizedMagecraft = {
   id: "01a06575-9818-7ee0-9095-b61d5dfaf60a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "harmonized-magecraft",
   title: "Harmonized Magecraft",
   world: "world/the-wandering-inn",

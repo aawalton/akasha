@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const greaterIllusionDoor = {
   id: "01a06575-9817-7971-9b63-73f2332d4d43",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "greater-illusion-door",
   title: "Greater Illusion (Door)",
   world: "world/the-wandering-inn",

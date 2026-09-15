@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const handsOfTheUncreator = {
   id: "01a06575-9818-7065-b199-d7d9713a659d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "hands-of-the-uncreator",
   title: "Hands of the Uncreator",
   world: "world/the-wandering-inn",

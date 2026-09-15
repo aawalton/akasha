@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const groupSpeedRaiders = {
   id: "01a06575-9817-7376-8d95-9c7156cc0f4d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "group-speed-raiders",
   title: "Group: Speed Raiders",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const greatCleave = {
   id: "01a06575-9816-719f-95a0-3fe61d8cd3f0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "great-cleave",
   title: "Great Cleave",
   world: "world/the-wandering-inn",

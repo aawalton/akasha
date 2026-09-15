@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const futureNegotiation = {
   id: "01a06575-9811-7a56-a22a-02c55ab5e052",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "future-negotiation",
   title: "Future Negotiation",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const greaterResistanceFilth = {
   id: "01a06575-9817-7409-ab2c-a7e3d9ea7b0b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "greater-resistance-filth",
   title: "Greater Resistance: Filth",
   world: "world/the-wandering-inn",

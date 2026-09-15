@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const gloriousCharge = {
   id: "01a06575-9815-72c6-af7b-3fe0c23865a6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "glorious-charge",
   title: "Glorious Charge",
   world: "world/the-wandering-inn",

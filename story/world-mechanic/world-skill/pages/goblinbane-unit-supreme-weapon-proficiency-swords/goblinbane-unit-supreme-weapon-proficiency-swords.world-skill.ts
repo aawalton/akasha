@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const goblinbaneUnitSupremeWeaponProficiencySwords = {
   id: "01a06575-9815-7215-8ac6-cc313c7c8e29",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "goblinbane-unit-supreme-weapon-proficiency-swords",
   title: "Goblinbane Unit — Supreme Weapon Proficiency: Swords",
   world: "world/the-wandering-inn",

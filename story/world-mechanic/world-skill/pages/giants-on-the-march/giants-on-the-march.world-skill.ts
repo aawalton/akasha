@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const giantsOnTheMarch = {
   id: "01a06575-9815-75ab-8c37-1bbc44c5cb5a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "giants-on-the-march",
   title: "Giants on the March",
   world: "world/the-wandering-inn",

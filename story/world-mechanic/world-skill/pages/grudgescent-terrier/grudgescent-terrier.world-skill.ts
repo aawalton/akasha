@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const grudgescentTerrier = {
   id: "01a06575-9817-7b1a-8d79-6b2a4210206b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "grudgescent-terrier",
   title: "Grudgescent Terrier",
   world: "world/the-wandering-inn",

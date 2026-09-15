@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const gapingBite = {
   id: "01a06575-9811-719a-bacd-72012ab823eb",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "gaping-bite",
   title: "Gaping Bite",
   world: "world/the-wandering-inn",
