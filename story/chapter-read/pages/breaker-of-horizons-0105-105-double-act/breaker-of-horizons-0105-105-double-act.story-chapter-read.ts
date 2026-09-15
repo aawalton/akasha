@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons0105105DoubleAct = {
   id: "01a06731-adad-700c-bc48-fa0c93830b97",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0105-105-double-act",
   title: "105. Double Act",
   story: "story-read/breaker-of-horizons",

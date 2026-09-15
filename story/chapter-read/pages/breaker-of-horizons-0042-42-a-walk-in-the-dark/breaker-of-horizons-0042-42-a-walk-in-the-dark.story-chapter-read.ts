@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons004242AWalkInTheDark = {
   id: "01a06731-ad9f-700a-8031-982062543a90",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0042-42-a-walk-in-the-dark",
   title: "42. A Walk in the Dark",
   story: "story-read/breaker-of-horizons",

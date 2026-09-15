@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons0140140BreakingFrames = {
   id: "01a06731-adaf-7008-aae9-240aa65a671d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0140-140-breaking-frames",
   title: "140. Breaking Frames",
   story: "story-read/breaker-of-horizons",

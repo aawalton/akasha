@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons0154154ProgressAndPerception = {
   id: "01a06731-adb0-7004-aad7-3c5dd0888c98",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0154-154-progress-and-perception",
   title: "154. Progress and Perception",
   story: "story-read/breaker-of-horizons",

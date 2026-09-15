@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons007070CallToAid = {
   id: "01a06731-adab-700f-a61c-cb0d8cd25416",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0070-70-call-to-aid",
   title: "70. Call to Aid",
   story: "story-read/breaker-of-horizons",

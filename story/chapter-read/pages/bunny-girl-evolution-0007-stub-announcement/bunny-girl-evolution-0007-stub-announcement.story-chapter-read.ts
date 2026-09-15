@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution0007StubAnnouncement = {
   id: "01a06743-b34f-7000-a324-715dfbe52960",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0007-stub-announcement",
   title: "Stub Announcement",
   story: "story-read/bunny-girl-evolution",

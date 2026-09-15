@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution001158TheAlliance = {
   id: "01a06743-b366-7000-a299-c6b2f51ffe18",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0011-58-the-alliance",
   title: "58 - The Alliance",
   story: "story-read/bunny-girl-evolution",

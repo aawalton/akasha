@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bunnyGirlEvolution001057AgentSnowberry = {
   id: "01a06743-b35a-7000-87f2-e72d11a01c1d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0010-57-agent-snowberry",
   title: "57 - Agent Snowberry",
   story: "story-read/bunny-girl-evolution",

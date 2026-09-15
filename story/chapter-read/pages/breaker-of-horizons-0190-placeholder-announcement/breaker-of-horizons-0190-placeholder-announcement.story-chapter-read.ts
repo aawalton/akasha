@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons0190PlaceholderAnnouncement = {
   id: "01a06731-adb3-7001-b080-dca10c631bf6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0190-placeholder-announcement",
   title: "Placeholder / Announcement",
   story: "story-read/breaker-of-horizons",

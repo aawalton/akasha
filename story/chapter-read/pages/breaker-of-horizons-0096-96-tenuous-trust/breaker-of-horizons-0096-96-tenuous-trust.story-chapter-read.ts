@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons009696TenuousTrust = {
   id: "01a06731-adad-7003-92e6-89bcba55142d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0096-96-tenuous-trust",
   title: "96. Tenuous Trust",
   story: "story-read/breaker-of-horizons",

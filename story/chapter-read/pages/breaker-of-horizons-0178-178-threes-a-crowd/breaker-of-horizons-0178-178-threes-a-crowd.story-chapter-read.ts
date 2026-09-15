@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons0178178ThreesACrowd = {
   id: "01a06731-adb1-7006-a4c0-a8bcbe958579",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0178-178-threes-a-crowd",
   title: "178. Three's a Crowd",
   story: "story-read/breaker-of-horizons",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons004040SnippingStrings = {
   id: "01a06731-ad9f-7008-bc12-16d0d48fbfd2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0040-40-snipping-strings",
   title: "40. Snipping Strings",
   story: "story-read/breaker-of-horizons",

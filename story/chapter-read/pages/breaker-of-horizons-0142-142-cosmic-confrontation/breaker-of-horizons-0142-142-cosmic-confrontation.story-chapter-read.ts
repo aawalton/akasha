@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons0142142CosmicConfrontation = {
   id: "01a06731-adaf-700a-afde-2bf999f4ed83",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0142-142-cosmic-confrontation",
   title: "142. Cosmic Confrontation",
   story: "story-read/breaker-of-horizons",

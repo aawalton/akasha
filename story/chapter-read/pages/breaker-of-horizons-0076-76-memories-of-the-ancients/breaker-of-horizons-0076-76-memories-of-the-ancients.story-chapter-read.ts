@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons007676MemoriesOfTheAncients = {
   id: "01a06731-adac-7003-a709-9e2243249875",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0076-76-memories-of-the-ancients",
   title: "76. Memories of the Ancients",
   story: "story-read/breaker-of-horizons",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons0112112DiametricPowers = {
   id: "01a06731-adae-7000-84c7-a5321e53254e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0112-112-diametric-powers",
   title: "112. Diametric Powers",
   story: "story-read/breaker-of-horizons",

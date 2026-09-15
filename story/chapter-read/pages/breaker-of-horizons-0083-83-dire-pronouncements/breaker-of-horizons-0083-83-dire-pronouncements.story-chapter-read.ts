@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons008383DirePronouncements = {
   id: "01a06731-adac-700a-a701-37dc59037ded",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0083-83-dire-pronouncements",
   title: "83. Dire Pronouncements",
   story: "story-read/breaker-of-horizons",

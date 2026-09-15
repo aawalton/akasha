@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons009292ComplicationsAndConsequences = {
   id: "01a06731-adac-7013-8821-b6405e23abbc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0092-92-complications-and-consequences",
   title: "92. Complications and Consequences",
   story: "story-read/breaker-of-horizons",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons0191AKnotInFatesWeave = {
   id: "01a06731-adb3-7002-a00a-ef536372ef38",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0191-a-knot-in-fates-weave",
   title: "[A Knot in Fate's Weave]",
   story: "story-read/breaker-of-horizons",

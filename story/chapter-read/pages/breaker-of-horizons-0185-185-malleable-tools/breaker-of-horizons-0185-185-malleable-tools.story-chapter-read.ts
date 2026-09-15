@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const breakerOfHorizons0185185MalleableTools = {
   id: "01a06731-adb1-700d-b458-e1c6b144ae90",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "breaker-of-horizons-0185-185-malleable-tools",
   title: "185. Malleable Tools",
   story: "story-read/breaker-of-horizons",
