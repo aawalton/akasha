@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const mazdaCx50Hybrid = {
   id: "019e4aec-f344-7dd5-8272-cc710f40da70",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "mazda-cx-50-hybrid",
   title: "CX-50 Hybrid",
   bodyStyle: "suv",

@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const fordF150Hybrid = {
   id: "019e4add-c908-790e-9e4f-de0f677466a1",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "ford-f-150-hybrid",
   title: "F-150 Hybrid",
   bodyStyle: "truck",

@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const toyotaPriusPrime = {
   id: "019e4afe-9ba8-763f-9977-d50ae0900c86",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "toyota-prius-prime",
   title: "Prius Prime",
   bodyStyle: "hatchback",

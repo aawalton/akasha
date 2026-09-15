@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const volvoV60CrossCountry = {
   id: "019e4afd-71c2-7666-b623-f96a1126adc5",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "volvo-v60-cross-country",
   title: "V60 Cross Country",
   bodyStyle: "wagon",

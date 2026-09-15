@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const lucidAir = {
   id: "019e4aea-664e-71a7-aca9-ebe03ab1a1df",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "lucid-air",
   title: "Air",
   bodyStyle: "sedan",

@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const lincolnNautilusHybrid = {
   id: "019e4ae9-ae7a-715b-a45f-e606975ae29c",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "lincoln-nautilus-hybrid",
   title: "Nautilus Hybrid",
   bodyStyle: "suv",

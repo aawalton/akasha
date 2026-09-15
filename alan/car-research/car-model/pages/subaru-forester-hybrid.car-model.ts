@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const subaruForesterHybrid = {
   id: "019e4af7-1aa0-7dd7-bc98-8298d899a443",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "subaru-forester-hybrid",
   title: "Forester Hybrid",
   bodyStyle: "suv",

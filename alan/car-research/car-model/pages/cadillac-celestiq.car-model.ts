@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const cadillacCelestiq = {
   id: "019e4ad7-4677-7095-a96c-f5e96e07b352",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "cadillac-celestiq",
   title: "Celestiq",
   bodyStyle: "sedan",

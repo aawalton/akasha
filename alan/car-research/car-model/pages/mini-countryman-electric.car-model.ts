@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const miniCountrymanElectric = {
   id: "019e4af1-aeca-76bd-87f4-d7e08af70bdf",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "mini-countryman-electric",
   title: "Countryman Electric",
   bodyStyle: "suv",

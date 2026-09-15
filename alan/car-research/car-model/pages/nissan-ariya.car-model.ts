@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const nissanAriya = {
   id: "019e4af1-ef3a-72df-882d-1d17228be21b",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "nissan-ariya",
   title: "Ariya",
   bodyStyle: "crossover",

@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const rivianR1t = {
   id: "019e4af4-7aa3-7006-89f2-e176119427bb",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "rivian-r1t",
   title: "R1T",
   bodyStyle: "truck",

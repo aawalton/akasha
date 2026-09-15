@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const astonMartinValhalla = {
   id: "019e4ad5-57ec-77c6-ac3c-2c5a6631c010",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "aston-martin-valhalla",
   title: "Valhalla",
   bodyStyle: "coupe",

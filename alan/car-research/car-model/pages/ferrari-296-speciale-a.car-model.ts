@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const ferrari296SpecialeA = {
   id: "019e4ada-4009-7839-b9e8-8505a7381525",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "ferrari-296-speciale-a",
   title: "296 Speciale A",
   bodyStyle: "convertible",

@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const fordEscape = {
   id: "019e4ade-2428-735b-916e-f0e35628d8fa",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "ford-escape",
   title: "Escape",
   bodyStyle: "crossover",

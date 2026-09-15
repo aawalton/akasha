@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const hyundaiKonaElectric = {
   id: "019e4ae1-7979-7178-9c55-41f259951440",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "hyundai-kona-electric",
   title: "Kona Electric",
   bodyStyle: "crossover",

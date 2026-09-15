@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const kiaEv6 = {
   id: "019e4ae3-6684-79dc-b292-d7389047144c",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "kia-ev6",
   title: "EV6",
   bodyStyle: "crossover",

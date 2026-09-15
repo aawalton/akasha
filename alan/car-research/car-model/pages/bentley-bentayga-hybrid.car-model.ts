@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const bentleyBentaygaHybrid = {
   id: "019e4ad6-a173-7544-a821-a7152035acce",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "bentley-bentayga-hybrid",
   title: "Bentayga Hybrid",
   bodyStyle: "suv",

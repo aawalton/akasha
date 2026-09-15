@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const hondaPrelude = {
   id: "019e4ae1-5a4a-78ec-81b8-3e41ef35d740",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "honda-prelude",
   title: "Prelude",
   bodyStyle: "coupe",

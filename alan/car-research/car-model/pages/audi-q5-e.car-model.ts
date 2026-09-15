@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const audiQ5E = {
   id: "019e4ad8-265f-7dc7-96dd-e53f5a8577c9",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "audi-q5-e",
   title: "Q5 e",
   bodyStyle: "suv",

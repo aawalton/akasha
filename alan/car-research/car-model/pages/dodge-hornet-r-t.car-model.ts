@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const dodgeHornetRT = {
   id: "019e4ad9-6230-74f4-9fb9-7e0bd351ec95",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "dodge-hornet-r-t",
   title: "Hornet R/T",
   bodyStyle: "suv",

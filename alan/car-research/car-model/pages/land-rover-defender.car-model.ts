@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const landRoverDefender = {
   id: "019e4ae7-6ae0-754e-a455-df52d806fcba",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "land-rover-defender",
   title: "Defender",
   bodyStyle: "suv",

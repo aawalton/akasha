@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const mercedesBenzGlcPlugInHybrid = {
   id: "019e4af0-c48f-75c5-9617-974c1f54b45c",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "mercedes-benz-glc-plug-in-hybrid",
   title: "GLC Plug-in Hybrid",
   bodyStyle: "suv",

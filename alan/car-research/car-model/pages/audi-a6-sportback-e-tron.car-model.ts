@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const audiA6SportbackETron = {
   id: "019e4adf-6145-708d-891f-aba6489581d2",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "audi-a6-sportback-e-tron",
   title: "A6 Sportback e-tron",
   bodyStyle: "hatchback",

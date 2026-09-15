@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const toyotaGrandHighlanderHybrid = {
   id: "019e4b0a-67ba-7856-a7e5-e8d8e7eb661b",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "toyota-grand-highlander-hybrid",
   title: "Grand Highlander Hybrid",
   bodyStyle: "suv",

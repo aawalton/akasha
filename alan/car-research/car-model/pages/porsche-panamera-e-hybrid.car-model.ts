@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const porschePanameraEHybrid = {
   id: "019e4afb-2cf9-7095-a82d-14a1a8b01526",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "porsche-panamera-e-hybrid",
   title: "Panamera E-Hybrid",
   bodyStyle: "sedan",

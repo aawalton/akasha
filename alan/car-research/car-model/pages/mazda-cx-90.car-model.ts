@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const mazdaCx90 = {
   id: "019e4aec-8d36-782c-97bf-a88b051cb4a1",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "mazda-cx-90",
   title: "CX-90",
   bodyStyle: "suv",

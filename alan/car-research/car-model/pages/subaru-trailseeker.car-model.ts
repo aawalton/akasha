@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const subaruTrailseeker = {
   id: "019e4af7-7a50-7a0e-a33f-f98582953a66",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "subaru-trailseeker",
   title: "Trailseeker",
   bodyStyle: "suv",

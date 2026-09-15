@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const gmcSierraEv = {
   id: "019e4adf-4907-7d92-878e-de1cbdc2ac8c",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "gmc-sierra-ev",
   title: "Sierra EV",
   bodyStyle: "truck",

@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const subaruCrosstrekHybrid = {
   id: "019e4af7-41c8-7ca5-92a6-cb014763c3a9",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "subaru-crosstrek-hybrid",
   title: "Crosstrek Hybrid",
   bodyStyle: "crossover",

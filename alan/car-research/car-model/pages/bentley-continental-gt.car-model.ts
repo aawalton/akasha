@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const bentleyContinentalGt = {
   id: "019e4ad6-c7af-7c25-9b6b-3752af27454e",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "bentley-continental-gt",
   title: "Continental GT",
   bodyStyle: "coupe",

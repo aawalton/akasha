@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const chevroletSilveradoEv = {
   id: "019e4adc-e48a-7909-8382-37309b6af7b2",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "chevrolet-silverado-ev",
   title: "Silverado EV",
   bodyStyle: "truck",

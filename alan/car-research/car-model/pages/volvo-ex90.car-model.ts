@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const volvoEx90 = {
   id: "019e4afc-e19e-7760-b4ba-9c52a8ee8973",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "volvo-ex90",
   title: "EX90",
   bodyStyle: "suv",

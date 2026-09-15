@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const lamborghiniRevuelto = {
   id: "019e4ae4-d823-71dc-9035-eced09c2db47",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "lamborghini-revuelto",
   title: "Revuelto",
   bodyStyle: "coupe",

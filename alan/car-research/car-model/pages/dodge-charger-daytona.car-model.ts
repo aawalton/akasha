@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const dodgeChargerDaytona = {
   id: "019e4ad9-2b95-7a38-9c22-ad314b48b721",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "dodge-charger-daytona",
   title: "Charger Daytona",
   bodyStyle: "sedan",

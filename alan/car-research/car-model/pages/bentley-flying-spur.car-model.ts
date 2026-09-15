@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const bentleyFlyingSpur = {
   id: "019e4ad7-03a7-7f9f-9d99-b67f16491176",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "bentley-flying-spur",
   title: "Flying Spur",
   bodyStyle: "sedan",

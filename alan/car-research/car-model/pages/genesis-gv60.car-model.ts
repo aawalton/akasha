@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const genesisGv60 = {
   id: "019e4adc-e002-7df5-a5e2-914568a52d42",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "genesis-gv60",
   title: "GV60",
   bodyStyle: "crossover",

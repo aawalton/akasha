@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const lincolnCorsairGrandTouring = {
   id: "019e4ae7-f96a-7918-a0ec-669777b70576",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "lincoln-corsair-grand-touring",
   title: "Corsair Grand Touring",
   bodyStyle: "suv",

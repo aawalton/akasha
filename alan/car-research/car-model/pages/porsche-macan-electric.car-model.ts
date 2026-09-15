@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const porscheMacanElectric = {
   id: "019e4af6-5086-70b7-869c-bd64cdbcd527",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "porsche-macan-electric",
   title: "Macan Electric",
   bodyStyle: "suv",

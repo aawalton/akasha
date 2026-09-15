@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const lucidGravity = {
   id: "019e4aea-8c67-75b4-93aa-5c9bfc3b0099",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "lucid-gravity",
   title: "Gravity",
   bodyStyle: "suv",

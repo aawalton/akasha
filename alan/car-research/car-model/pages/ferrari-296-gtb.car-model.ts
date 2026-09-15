@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const ferrari296Gtb = {
   id: "019e4ad9-d740-78d4-98a1-e894655ca89b",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "ferrari-296-gtb",
   title: "296 GTB",
   bodyStyle: "coupe",

@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const toyotaCrownSignia = {
   id: "019e4b06-203a-7e92-a02b-e0d179aa0187",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "toyota-crown-signia",
   title: "Crown Signia",
   bodyStyle: "wagon",

@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const vinfastVf7 = {
   id: "019e4afa-7b74-771c-9bfd-ef8840ada48f",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "vinfast-vf-7",
   title: "VF 7",
   bodyStyle: "crossover",

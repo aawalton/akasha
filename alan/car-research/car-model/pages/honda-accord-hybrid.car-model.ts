@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const hondaAccordHybrid = {
   id: "019e4ae0-ffdb-7974-ada4-218c94c57ea6",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "honda-accord-hybrid",
   title: "Accord Hybrid",
   bodyStyle: "sedan",

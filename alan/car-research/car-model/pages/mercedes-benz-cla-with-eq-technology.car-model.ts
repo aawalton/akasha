@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const mercedesBenzClaWithEqTechnology = {
   id: "019e4af0-706d-7c80-8e93-27a2ec5047cf",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "mercedes-benz-cla-with-eq-technology",
   title: "CLA with EQ Technology",
   bodyStyle: "sedan",

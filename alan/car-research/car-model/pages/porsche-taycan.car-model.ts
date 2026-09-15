@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const porscheTaycan = {
   id: "019e4af2-23c6-718b-94cd-e0b3d6a656ae",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "porsche-taycan",
   title: "Taycan",
   bodyStyle: "sedan",

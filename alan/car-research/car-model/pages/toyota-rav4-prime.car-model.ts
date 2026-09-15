@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const toyotaRav4Prime = {
   id: "019e4b01-98f8-7c4e-81c1-ba76b91a1c81",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "toyota-rav4-prime",
   title: "RAV4 Prime",
   bodyStyle: "suv",

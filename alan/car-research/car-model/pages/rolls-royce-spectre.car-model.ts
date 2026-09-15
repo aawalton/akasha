@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const rollsRoyceSpectre = {
   id: "019e4af6-936e-7771-a0f7-83b9c12e1b5c",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "rolls-royce-spectre",
   title: "Spectre",
   bodyStyle: "coupe",

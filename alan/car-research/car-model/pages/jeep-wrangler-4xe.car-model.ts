@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const jeepWrangler4xe = {
   id: "019e4ae4-0476-74b6-ae76-d0c3dbb8616b",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "jeep-wrangler-4xe",
   title: "Wrangler 4xe",
   bodyStyle: "suv",

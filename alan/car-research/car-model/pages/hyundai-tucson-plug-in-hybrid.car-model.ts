@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const hyundaiTucsonPlugInHybrid = {
   id: "019e4ae1-b0e0-79f4-a91f-462031182f78",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "hyundai-tucson-plug-in-hybrid",
   title: "Tucson Plug-in Hybrid",
   bodyStyle: "suv",

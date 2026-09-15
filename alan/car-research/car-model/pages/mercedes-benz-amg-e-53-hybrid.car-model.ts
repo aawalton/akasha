@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const mercedesBenzAmgE53Hybrid = {
   id: "019e4af1-1681-798a-bb79-b5a346cd9a2e",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "mercedes-benz-amg-e-53-hybrid",
   title: "AMG E 53 Hybrid",
   bodyStyle: "sedan",

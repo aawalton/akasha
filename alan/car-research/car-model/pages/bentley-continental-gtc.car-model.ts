@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const bentleyContinentalGtc = {
   id: "019e4ad6-e705-7c58-8a9c-3426568faa5c",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "bentley-continental-gtc",
   title: "Continental GTC",
   bodyStyle: "convertible",

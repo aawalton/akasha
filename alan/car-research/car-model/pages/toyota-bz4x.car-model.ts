@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const toyotaBz4x = {
   id: "019e4af8-4b39-7080-ad78-59d7ba37a30e",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "toyota-bz4x",
   title: "bZ4X",
   bodyStyle: "suv",

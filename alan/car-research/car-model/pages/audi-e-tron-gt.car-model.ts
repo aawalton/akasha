@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const audiETronGt = {
   id: "019e4ae3-9319-72e1-8efe-4c5f87431762",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "audi-e-tron-gt",
   title: "e-tron GT",
   bodyStyle: "sedan",

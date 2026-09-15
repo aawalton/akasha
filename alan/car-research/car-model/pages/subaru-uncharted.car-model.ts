@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const subaruUncharted = {
   id: "019e4af7-a591-78b4-b31e-5c12c0a8b070",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "subaru-uncharted",
   title: "Uncharted",
   bodyStyle: "crossover",

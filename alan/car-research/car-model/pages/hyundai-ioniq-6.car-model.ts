@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const hyundaiIoniq6 = {
   id: "019e4ae1-2cd6-763c-af29-fcb9e05dd682",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "hyundai-ioniq-6",
   title: "Ioniq 6",
   bodyStyle: "sedan",

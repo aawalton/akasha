@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const subaruSolterra = {
   id: "019e4af6-e98d-70c2-b736-0db8df942a2e",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "subaru-solterra",
   title: "Solterra",
   bodyStyle: "suv",

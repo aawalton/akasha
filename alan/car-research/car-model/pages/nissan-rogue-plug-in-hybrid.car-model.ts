@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const nissanRoguePlugInHybrid = {
   id: "019e4af2-3be8-7ca3-9398-3c3108e71d35",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "nissan-rogue-plug-in-hybrid",
   title: "Rogue Plug-in Hybrid",
   bodyStyle: "suv",

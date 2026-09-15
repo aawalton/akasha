@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const cadillacEscaladeIql = {
   id: "019e4ad7-08b7-743f-9c1e-7615016c8d7b",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "cadillac-escalade-iql",
   title: "Escalade IQL",
   bodyStyle: "suv",

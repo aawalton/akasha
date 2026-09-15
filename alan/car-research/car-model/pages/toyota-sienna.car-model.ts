@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const toyotaSienna = {
   id: "019e4b0d-bdb1-7fd2-b4fa-37739cc206ef",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "toyota-sienna",
   title: "Sienna",
   bodyStyle: "minivan",

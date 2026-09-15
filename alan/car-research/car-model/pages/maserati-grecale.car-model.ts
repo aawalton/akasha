@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const maseratiGrecale = {
   id: "019e4aed-9810-7c15-a622-074668824a6a",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "maserati-grecale",
   title: "Grecale",
   bodyStyle: "suv",

@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const porsche911CarreraGtsTHybrid = {
   id: "019e4afd-91e1-7b88-afa7-ff9ab3e7d724",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "porsche-911-carrera-gts-t-hybrid",
   title: "911 Carrera GTS T-Hybrid",
   bodyStyle: "coupe",

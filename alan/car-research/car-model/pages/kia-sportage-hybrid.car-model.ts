@@ -2,7 +2,7 @@ import type { CarModel } from "akasha/alan/car-research/car-model/car-model.page
 
 export const kiaSportageHybrid = {
   id: "019e4aea-b0be-7a27-9050-65594a4b5371",
-  type: "car-model",
+  type: "page-type/car-model",
   slug: "kia-sportage-hybrid",
   title: "Sportage Hybrid",
   bodyStyle: "suv",
