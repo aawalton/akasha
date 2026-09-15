@@ -2,7 +2,7 @@ import type { Notice } from "akasha/agent/messaging/notice/notice.page-type.type
 
 export const restartRecoveryClause = {
   id: "01a06864-7aa3-77d9-a522-e5f038fad5c5",
-  type: "notice",
+  type: "page-type/notice",
   slug: "restart-recovery-clause",
   text: "md",
   warrant:

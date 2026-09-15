@@ -2,7 +2,7 @@ import type { Notice } from "akasha/agent/messaging/notice/notice.page-type.type
 
 export const limitResumeNudge = {
   id: "01a06864-7aa3-7fb0-98d2-052f60167c40",
-  type: "notice",
+  type: "page-type/notice",
   slug: "limit-resume-nudge",
   text: "md",
   warrant:

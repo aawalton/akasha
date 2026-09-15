@@ -2,7 +2,7 @@ import type { Notice } from "akasha/agent/messaging/notice/notice.page-type.type
 
 export const restartDeferred = {
   id: "01a06864-7aa3-7f1d-8d0e-7e8835e11fd1",
-  type: "notice",
+  type: "page-type/notice",
   slug: "restart-deferred",
   text: "md",
   warrant:
