@@ -117,19 +117,19 @@ export const changeWalking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Which files those are is `tree-searching`'s listing rather than a walk of git's.",
+      statement: "Which files those are is git's walk rather than a listing of the tree on disk.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "That listing answers the paths git answers, and answers them sooner.",
+      statement: "A listing of the tree names neither a link nor a path only the index holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A walk over everything names both, so a check judging either sees it.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A root that is no tree refuses the walk rather than taking nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A root no file sits under is what that refusal rests on.",
     },
     {
       decisionKind: "decision-kind/departure",

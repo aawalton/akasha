@@ -1,7 +1,6 @@
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
-  pathsListed,
   pathsSearched,
   pathsTyped,
   TYPED_KINDS,
@@ -12,13 +11,16 @@ import type {
   RunningAsync,
 } from "akasha/check/modules/judging/judging.module.code.ts"
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { ENTRY_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
+import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import {
   pageNamed,
   pageOf,
   partedIn,
+  uncommittedHeld,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { type Loaded, loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
@@ -27,6 +29,7 @@ import {
   textsAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { isMissing } from "akasha/util/fs/modules/missing/missing.module.code.ts"
+import { sortedOnce } from "akasha/util/narrow/modules/sorted-once/sorted-once.module.code.ts"
 
 export type Body = {
   readonly root: string
@@ -376,13 +379,29 @@ export async function overEveryTextAsync(
   return said
 }
 
+const VENDORED = "node_modules"
+
+function walked(root: string, asked: readonly string[]): readonly string[] {
+  const done = ran(["git", "-C", root, "ls-files", "-z", "--exclude-standard", ...asked])
+  if (done.code !== 0) {
+    throw new Error(`the tree at ${root} could not be walked — ${done.err.trim()}`)
+  }
+  return done.out.split("\0").filter((one) => one !== "")
+}
+
+function heldThough(path: string): boolean {
+  return uncommittedHeld(path) && !path.split("/").includes(VENDORED)
+}
+
+function everyFileInside(root: string): readonly string[] {
+  const kept = walked(root, ["--cached", "--others"])
+  const held = walked(root, ["--others", "--ignored"]).filter(heldThough)
+  return sortedOnce([...kept, ...held]).filter((one) => !underIndex(one))
+}
+
 export function everythingIn(root: string): Change {
   const both = onDisk(root)
-  const changed = pathsListed(root, ONE_THREAD)
-  if (changed.length === 0) {
-    throw new Error(`the tree at ${root} could not be walked — no file sits under it`)
-  }
-  return { root, changed, before: both, after: both }
+  return { root, changed: everyFileInside(root), before: both, after: both }
 }
 
 export function nothingIn(root: string): Change {
