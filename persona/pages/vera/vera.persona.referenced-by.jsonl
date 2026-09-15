@@ -2,6 +2,7 @@
 {"propertySlug":"image-persona","path":"persona/anchor-image/pages/vera-anchor.persona-anchor-image.ts","id":"019f324d-8ef6-75e4-a25f-612e3eacc8ae"}
 {"propertySlug":"image-persona","path":"persona/cover-image/pages/vera-l3.persona-cover-image.ts","id":"019f324d-9073-7de7-8610-467a75d8224f"}
 {"propertySlug":"image-persona","path":"persona/wallpaper/pages/vera-l01-20260705t181936z.persona-wallpaper.ts","id":"019f2e19-6270-75b2-a734-a5ac1a2478ed"}
+{"propertySlug":"initiative-persona","path":"domain/initiative/pages/vera-graph-cleanup.initiative.ts","id":"01a0a588-8e33-7e64-bb88-facbefcf62b6"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"personas-crafted","path":"persona/craft-day/pages/sophia-2026-07-04.persona-craft-day.ts","id":"019f2d7b-46c8-74d2-9d3a-d114e7c8bf9f"}
 {"propertySlug":"seat-persona","path":"agent/seat/pages/vera/vera.seat.ts","id":"01a0a57a-558c-7000-be79-dc1f16c5f0db"}
