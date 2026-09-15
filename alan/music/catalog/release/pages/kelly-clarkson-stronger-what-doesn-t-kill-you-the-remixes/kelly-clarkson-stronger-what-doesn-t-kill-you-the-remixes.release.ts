@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonStrongerWhatDoesnTKillYouTheRemixes = {
   id: "01a0676a-d72a-7033-add6-ccc6f7ff5949",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-stronger-what-doesn-t-kill-you-the-remixes",
   title: "Stronger (What Doesn't Kill You) The Remixes",
   partOfCollections: ["artist/kelly-clarkson"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryTeenageDreamTheCompleteConfection = {
   id: "01a0676a-d72c-700a-9d87-c59e9dc22a8b",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-teenage-dream-the-complete-confection",
   title: "Teenage Dream: The Complete Confection",
   partOfCollections: ["artist/katy-perry"],

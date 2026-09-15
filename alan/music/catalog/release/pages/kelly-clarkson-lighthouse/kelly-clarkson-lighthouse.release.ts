@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonLighthouse = {
   id: "01a0676a-d723-7030-8029-73ddb3384dca",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-lighthouse",
   title: "lighthouse",
   partOfCollections: ["artist/kelly-clarkson"],

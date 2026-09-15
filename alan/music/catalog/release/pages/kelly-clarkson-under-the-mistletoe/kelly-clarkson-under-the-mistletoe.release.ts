@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonUnderTheMistletoe = {
   id: "01a0676a-d72f-7035-9b88-6e7239484897",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-under-the-mistletoe",
   title: "Under The Mistletoe",
   partOfCollections: ["artist/kelly-clarkson"],

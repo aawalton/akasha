@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ledZeppelinHowTheWestWasWonRemaster = {
   id: "01a0676a-d720-7072-9a29-fd9a67b51162",
-  type: "release",
+  type: "page-type/release",
   slug: "led-zeppelin-how-the-west-was-won-remaster",
   title: "How the West Was Won (Remaster)",
   partOfCollections: ["artist/led-zeppelin"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonRollingStoneOriginal = {
   id: "01a0676a-d728-701d-ae77-2c0e9771b818",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-rolling-stone-original",
   title: "Rolling Stone Original",
   partOfCollections: ["artist/kelly-clarkson"],

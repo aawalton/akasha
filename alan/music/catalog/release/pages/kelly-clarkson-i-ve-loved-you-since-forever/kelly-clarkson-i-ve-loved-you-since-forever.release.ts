@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonIVeLovedYouSinceForever = {
   id: "01a0676a-d721-7042-858d-32b05e037291",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-i-ve-loved-you-since-forever",
   title: "I've Loved You Since Forever",
   partOfCollections: ["artist/kelly-clarkson"],

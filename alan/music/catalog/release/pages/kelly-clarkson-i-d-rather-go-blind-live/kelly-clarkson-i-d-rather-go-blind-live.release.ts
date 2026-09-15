@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonIDRatherGoBlindLive = {
   id: "01a0676a-d721-7006-a791-a17add681893",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-i-d-rather-go-blind-live",
   title: "I'd Rather Go Blind (Live)",
   partOfCollections: ["artist/kelly-clarkson"],

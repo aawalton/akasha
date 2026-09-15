@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryWakingUpInVegas = {
   id: "01a0676a-d730-700f-ac51-a3b3ab80a38c",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-waking-up-in-vegas",
   title: "Waking Up In Vegas",
   partOfCollections: ["artist/katy-perry"],

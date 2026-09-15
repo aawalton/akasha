@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const leonardCohenDeathOfALadiesMan = {
   id: "01a0676a-d71b-7073-993d-86bcdf3f7b6d",
-  type: "release",
+  type: "page-type/release",
   slug: "leonard-cohen-death-of-a-ladies-man",
   title: "Death Of A Ladies' Man",
   partOfCollections: ["artist/leonard-cohen"],

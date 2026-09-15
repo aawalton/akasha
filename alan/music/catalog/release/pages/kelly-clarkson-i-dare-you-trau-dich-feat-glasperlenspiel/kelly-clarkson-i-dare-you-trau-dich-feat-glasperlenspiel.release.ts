@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonIDareYouTrauDichFeatGlasperlenspiel = {
   id: "01a0676a-d721-7010-bc1b-2da0090fcbea",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-i-dare-you-trau-dich-feat-glasperlenspiel",
   title: "I Dare You (Trau Dich) [feat. Glasperlenspiel]",
   partOfCollections: ["artist/kelly-clarkson"],

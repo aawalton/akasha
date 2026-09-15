@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonStrongerTrackByTrack = {
   id: "01a0676a-d72a-7032-81c7-2fc5f05a11c0",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-stronger-track-by-track",
   title: "Stronger (Track by Track)",
   partOfCollections: ["artist/kelly-clarkson"],

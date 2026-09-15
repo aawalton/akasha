@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonHeatWolvesByNightRemix = {
   id: "01a0676a-d720-701c-a339-9da194d0295c",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-heat-wolves-by-night-remix",
   title: "Heat (Wolves by Night Remix)",
   partOfCollections: ["artist/kelly-clarkson"],

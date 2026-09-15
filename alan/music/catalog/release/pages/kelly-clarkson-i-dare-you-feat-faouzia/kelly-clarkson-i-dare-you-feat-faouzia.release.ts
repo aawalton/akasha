@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonIDareYouFeatFaouzia = {
   id: "01a0676a-d721-700a-83cb-e82e3eaaa847",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-i-dare-you-feat-faouzia",
   title: "I Dare You (كنتحداك) [feat. Faouzia]",
   partOfCollections: ["artist/kelly-clarkson"],

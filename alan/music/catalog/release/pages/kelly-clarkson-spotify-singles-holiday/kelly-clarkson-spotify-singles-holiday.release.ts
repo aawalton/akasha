@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonSpotifySinglesHoliday = {
   id: "01a0676a-d72a-700d-8b48-d635d53ec3ea",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-spotify-singles-holiday",
   title: "Spotify Singles - Holiday",
   partOfCollections: ["artist/kelly-clarkson"],

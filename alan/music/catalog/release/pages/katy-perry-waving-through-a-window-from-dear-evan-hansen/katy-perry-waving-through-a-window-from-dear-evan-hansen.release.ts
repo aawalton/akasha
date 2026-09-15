@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryWavingThroughAWindowFromDearEvanHansen = {
   id: "01a0676a-d730-7025-b745-a8dc0c93417e",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-waving-through-a-window-from-dear-evan-hansen",
   title: "Waving Through A Window (from Dear Evan Hansen)",
   partOfCollections: ["artist/katy-perry"],

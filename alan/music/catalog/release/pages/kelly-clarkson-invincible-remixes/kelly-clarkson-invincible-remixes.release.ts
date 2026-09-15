@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonInvincibleRemixes = {
   id: "01a0676a-d721-7080-b2b8-9c972891306d",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-invincible-remixes",
   title: "Invincible (Remixes)",
   partOfCollections: ["artist/kelly-clarkson"],

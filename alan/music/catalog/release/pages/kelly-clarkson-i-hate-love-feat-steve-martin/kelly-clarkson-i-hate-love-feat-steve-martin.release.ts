@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonIHateLoveFeatSteveMartin = {
   id: "01a0676a-d721-7020-8259-4565aead7b55",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-i-hate-love-feat-steve-martin",
   title: "i hate love (feat. Steve Martin)",
   partOfCollections: ["artist/kelly-clarkson"],

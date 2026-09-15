@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonCatchMyBreathRemixes = {
   id: "01a0676a-d71a-7006-b0ca-8638c262f0c1",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-catch-my-breath-remixes",
   title: "Catch My Breath Remixes",
   partOfCollections: ["artist/kelly-clarkson"],

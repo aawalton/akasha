@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ledZeppelinLiveEp = {
   id: "01a0676a-d723-704a-ad71-13213ab7d8ce",
-  type: "release",
+  type: "page-type/release",
   slug: "led-zeppelin-live-ep",
   title: "Live EP",
   partOfCollections: ["artist/led-zeppelin"],

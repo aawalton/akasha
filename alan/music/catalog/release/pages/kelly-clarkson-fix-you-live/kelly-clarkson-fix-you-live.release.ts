@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonFixYouLive = {
   id: "01a0676a-d71e-7009-ba67-4dabc11930e1",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-fix-you-live",
   title: "Fix You (Live)",
   partOfCollections: ["artist/kelly-clarkson"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonBecauseOfYouRemixes = {
   id: "01a0676a-d718-7032-95a3-82889cf53181",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-because-of-you-remixes",
   title: "Because Of You - Remixes",
   partOfCollections: ["artist/kelly-clarkson"],

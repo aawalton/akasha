@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ledZeppelinTheSongRemainsTheSameRemaster = {
   id: "01a0676a-d72e-700d-af24-8ea4f4657eeb",
-  type: "release",
+  type: "page-type/release",
   slug: "led-zeppelin-the-song-remains-the-same-remaster",
   title: "The Song Remains the Same (Remaster)",
   partOfCollections: ["artist/led-zeppelin"],

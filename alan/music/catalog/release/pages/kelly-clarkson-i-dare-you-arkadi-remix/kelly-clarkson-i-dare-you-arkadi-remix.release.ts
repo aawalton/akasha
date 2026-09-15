@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonIDareYouArkadiRemix = {
   id: "01a0676a-d721-7008-b22a-56df37473bd0",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-i-dare-you-arkadi-remix",
   title: "I Dare You (Arkadi Remix)",
   partOfCollections: ["artist/kelly-clarkson"],

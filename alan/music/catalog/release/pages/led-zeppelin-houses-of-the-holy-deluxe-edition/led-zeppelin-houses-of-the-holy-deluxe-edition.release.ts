@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ledZeppelinHousesOfTheHolyDeluxeEdition = {
   id: "01a0676a-d720-7068-98b0-b08a1fd1098e",
-  type: "release",
+  type: "page-type/release",
   slug: "led-zeppelin-houses-of-the-holy-deluxe-edition",
   title: "Houses of the Holy (Deluxe Edition)",
   partOfCollections: ["artist/led-zeppelin"],

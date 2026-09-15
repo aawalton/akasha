@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonPieceByPieceRadioMix = {
   id: "01a0676a-d726-7080-8dc7-3339087277e2",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-piece-by-piece-radio-mix",
   title: "Piece by Piece (Radio Mix)",
   partOfCollections: ["artist/kelly-clarkson"],

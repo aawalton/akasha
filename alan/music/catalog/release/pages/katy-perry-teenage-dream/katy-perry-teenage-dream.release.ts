@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryTeenageDream = {
   id: "01a0676a-d72c-7008-bacf-547d1bda506c",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-teenage-dream",
   title: "Teenage Dream",
   partOfCollections: ["artist/katy-perry"],

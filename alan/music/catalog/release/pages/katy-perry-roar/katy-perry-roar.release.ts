@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryRoar = {
   id: "01a0676a-d728-7015-aaa5-0783a245ddf7",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-roar",
   title: "Roar",
   partOfCollections: ["artist/katy-perry"],

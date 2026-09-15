@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonLoveMeLikeAManLive = {
   id: "01a0676a-d723-7071-b699-48472a6aba2b",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-love-me-like-a-man-live",
   title: "Love Me Like a Man (Live)",
   partOfCollections: ["artist/kelly-clarkson"],

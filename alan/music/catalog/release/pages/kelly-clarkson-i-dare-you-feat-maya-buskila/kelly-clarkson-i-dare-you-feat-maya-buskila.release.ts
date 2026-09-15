@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonIDareYouFeatMayaBuskila = {
   id: "01a0676a-d721-700b-9824-ab071bc10754",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-i-dare-you-feat-maya-buskila",
   title: "I Dare You (בוא נראה) [feat. Maya Buskila]",
   partOfCollections: ["artist/kelly-clarkson"],

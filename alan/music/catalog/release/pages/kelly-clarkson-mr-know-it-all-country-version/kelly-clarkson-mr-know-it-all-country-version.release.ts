@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonMrKnowItAllCountryVersion = {
   id: "01a0676a-d725-7010-ac3d-b839254f7d9a",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-mr-know-it-all-country-version",
   title: "Mr. Know It All (Country Version)",
   partOfCollections: ["artist/kelly-clarkson"],

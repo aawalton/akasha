@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerrySmallTalkLostKingsRemix = {
   id: "01a0676a-d729-7027-be7b-6498dedff207",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-small-talk-lost-kings-remix",
   title: "Small Talk (Lost Kings Remix)",
   partOfCollections: ["artist/katy-perry"],

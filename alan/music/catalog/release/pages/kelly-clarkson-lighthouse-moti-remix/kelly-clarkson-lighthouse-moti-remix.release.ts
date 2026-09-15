@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonLighthouseMotiRemix = {
   id: "01a0676a-d723-7031-8568-8af60f7797a3",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-lighthouse-moti-remix",
   title: "lighthouse (MOTi Remix)",
   partOfCollections: ["artist/kelly-clarkson"],

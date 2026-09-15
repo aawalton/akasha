@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonHeatPaulMorrellRemix = {
   id: "01a0676a-d720-7018-a150-7074ca36a5fb",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-heat-paul-morrell-remix",
   title: "Heat (Paul Morrell Remix)",
   partOfCollections: ["artist/kelly-clarkson"],

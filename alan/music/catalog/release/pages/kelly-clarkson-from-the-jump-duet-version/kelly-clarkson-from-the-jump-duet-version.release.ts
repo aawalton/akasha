@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonFromTheJumpDuetVersion = {
   id: "01a0676a-d71e-703b-8232-1a7225f4029a",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-from-the-jump-duet-version",
   title: "From The Jump (Duet Version)",
   partOfCollections: ["artist/kelly-clarkson"],

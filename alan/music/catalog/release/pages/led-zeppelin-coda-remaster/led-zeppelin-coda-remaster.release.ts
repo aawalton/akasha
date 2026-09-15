@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ledZeppelinCodaRemaster = {
   id: "01a0676a-d71b-7007-b321-6e65f139e5c7",
-  type: "release",
+  type: "page-type/release",
   slug: "led-zeppelin-coda-remaster",
   title: "Coda (Remaster)",
   partOfCollections: ["artist/led-zeppelin"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonNissanLiveSetsAtYahooMusic = {
   id: "01a0676a-d725-7061-8162-31ff7d9a5ff1",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-nissan-live-sets-at-yahoo-music",
   title: "Nissan Live Sets At Yahoo! Music",
   partOfCollections: ["artist/kelly-clarkson"],

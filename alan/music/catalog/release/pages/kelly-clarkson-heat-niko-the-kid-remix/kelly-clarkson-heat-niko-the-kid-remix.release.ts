@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonHeatNikoTheKidRemix = {
   id: "01a0676a-d720-7017-bce3-88cae0ff7feb",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-heat-niko-the-kid-remix",
   title: "Heat (Niko the Kid Remix)",
   partOfCollections: ["artist/kelly-clarkson"],

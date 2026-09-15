@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonHeartbeatSongTheRemixes = {
   id: "01a0676a-d720-700d-94ca-5fcda194caa5",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-heartbeat-song-the-remixes",
   title: "Heartbeat Song (The Remixes)",
   partOfCollections: ["artist/kelly-clarkson"],

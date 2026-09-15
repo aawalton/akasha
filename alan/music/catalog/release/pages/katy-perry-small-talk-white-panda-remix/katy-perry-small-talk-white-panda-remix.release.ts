@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerrySmallTalkWhitePandaRemix = {
   id: "01a0676a-d729-7029-bf34-1753acbec373",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-small-talk-white-panda-remix",
   title: "Small Talk (White Panda Remix)",
   partOfCollections: ["artist/katy-perry"],

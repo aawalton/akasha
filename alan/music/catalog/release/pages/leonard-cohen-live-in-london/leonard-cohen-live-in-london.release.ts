@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const leonardCohenLiveInLondon = {
   id: "01a0676a-d723-7051-9146-c9aa2d106a13",
-  type: "release",
+  type: "page-type/release",
   slug: "leonard-cohen-live-in-london",
   title: "Live In London",
   partOfCollections: ["artist/leonard-cohen"],

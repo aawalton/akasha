@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonLoveSoSoftMarkKnightBenRememberRemix = {
   id: "01a0676a-d723-707f-bc33-ead204168d7b",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-love-so-soft-mark-knight-ben-remember-remix",
   title: "Love So Soft (Mark Knight & Ben Remember Remix)",
   partOfCollections: ["artist/kelly-clarkson"],

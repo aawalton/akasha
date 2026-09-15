@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonDanceVaultMixesWalkAway2 = {
   id: "01a0676a-d71b-705d-a936-bfdb59e552c6",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-dance-vault-mixes-walk-away-2",
   title: "Dance Vault Mixes - Walk Away (2)",
   partOfCollections: ["artist/kelly-clarkson"],

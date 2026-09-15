@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonWhenChemistryComesAround = {
   id: "01a0676a-d730-7050-9198-610bc66ee1c8",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-when-chemistry-comes-around",
   title: "When chemistry Comes Around",
   partOfCollections: ["artist/kelly-clarkson"],

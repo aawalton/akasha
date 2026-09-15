@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerrySmileMarshallJeffersonRemix = {
   id: "01a0676a-d729-7030-ae4b-ac74e3a28ccf",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-smile-marshall-jefferson-remix",
   title: "Smile (Marshall Jefferson Remix)",
   partOfCollections: ["artist/katy-perry"],

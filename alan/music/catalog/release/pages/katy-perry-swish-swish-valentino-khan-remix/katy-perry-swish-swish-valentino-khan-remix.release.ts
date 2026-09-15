@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerrySwishSwishValentinoKhanRemix = {
   id: "01a0676a-d72b-7007-90dc-177602aa1b84",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-swish-swish-valentino-khan-remix",
   title: "Swish Swish (Valentino Khan Remix)",
   partOfCollections: ["artist/katy-perry"],

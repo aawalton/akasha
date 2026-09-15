@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonIDareYouGozziRemix = {
   id: "01a0676a-d721-700c-9f27-a97809704c84",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-i-dare-you-gozzi-remix",
   title: "I Dare You (Gozzi Remix)",
   partOfCollections: ["artist/kelly-clarkson"],

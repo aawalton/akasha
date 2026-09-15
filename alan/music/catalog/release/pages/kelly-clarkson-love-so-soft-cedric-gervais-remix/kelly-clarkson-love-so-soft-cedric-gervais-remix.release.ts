@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonLoveSoSoftCedricGervaisRemix = {
   id: "01a0676a-d723-707d-b378-42ca5774efdd",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-love-so-soft-cedric-gervais-remix",
   title: "Love So Soft (Cedric Gervais Remix)",
   partOfCollections: ["artist/kelly-clarkson"],

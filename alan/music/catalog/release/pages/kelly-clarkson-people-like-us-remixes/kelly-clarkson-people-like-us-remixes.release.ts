@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonPeopleLikeUsRemixes = {
   id: "01a0676a-d726-706c-8afd-c14d1b599a87",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-people-like-us-remixes",
   title: "People Like Us (Remixes)",
   partOfCollections: ["artist/kelly-clarkson"],

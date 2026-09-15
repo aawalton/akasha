@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonRunRunRunFeatJohnLegend = {
   id: "01a0676a-d728-702b-8e0b-6e81100fb7dc",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-run-run-run-feat-john-legend",
   title: "Run Run Run (feat. John Legend)",
   partOfCollections: ["artist/kelly-clarkson"],

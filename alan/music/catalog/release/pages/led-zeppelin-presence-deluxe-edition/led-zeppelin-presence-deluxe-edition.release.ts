@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ledZeppelinPresenceDeluxeEdition = {
   id: "01a0676a-d727-7015-a8f9-0979e1d40d11",
-  type: "release",
+  type: "page-type/release",
   slug: "led-zeppelin-presence-deluxe-edition",
   title: "Presence (Deluxe Edition)",
   partOfCollections: ["artist/led-zeppelin"],

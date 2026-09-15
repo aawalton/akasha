@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonAllIWantForChristmasIsYou = {
   id: "01a0676a-d716-701f-b5e5-c1582b05d592",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-all-i-want-for-christmas-is-you",
   title: "All I Want For Christmas Is You",
   partOfCollections: ["artist/kelly-clarkson"],

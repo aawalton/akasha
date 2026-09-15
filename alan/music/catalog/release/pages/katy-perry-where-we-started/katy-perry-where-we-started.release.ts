@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryWhereWeStarted = {
   id: "01a0676a-d731-700f-bb1f-9e40abf1de6b",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-where-we-started",
   title: "Where We Started",
   partOfCollections: ["artist/katy-perry"],

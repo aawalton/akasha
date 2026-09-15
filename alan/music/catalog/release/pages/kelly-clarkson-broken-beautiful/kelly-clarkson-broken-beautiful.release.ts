@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonBrokenBeautiful = {
   id: "01a0676a-d719-703a-92fb-5e1a0ef20a19",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-broken-beautiful",
   title: "Broken & Beautiful",
   partOfCollections: ["artist/kelly-clarkson"],

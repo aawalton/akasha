@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryWhenIMGoneWithKatyPerryVipMix = {
   id: "01a0676a-d730-7054-8b45-347825214584",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-when-i-m-gone-with-katy-perry-vip-mix",
   title: "When I'm Gone (with Katy Perry) [VIP Mix]",
   partOfCollections: ["artist/katy-perry"],

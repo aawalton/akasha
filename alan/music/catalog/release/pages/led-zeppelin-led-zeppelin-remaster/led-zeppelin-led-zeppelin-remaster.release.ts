@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ledZeppelinLedZeppelinRemaster = {
   id: "01a0676a-d722-7071-91d1-bcffbcb6a2d5",
-  type: "release",
+  type: "page-type/release",
   slug: "led-zeppelin-led-zeppelin-remaster",
   title: "Led Zeppelin (Remaster)",
   partOfCollections: ["artist/led-zeppelin"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryTheOneThatGotAwayRemixBundle = {
   id: "01a0676a-d72d-704b-816e-9be1e60a195a",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-the-one-that-got-away-remix-bundle",
   title: "The One That Got Away (Remix Bundle)",
   partOfCollections: ["artist/katy-perry"],

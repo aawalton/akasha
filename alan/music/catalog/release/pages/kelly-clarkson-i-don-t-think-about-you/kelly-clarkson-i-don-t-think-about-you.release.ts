@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonIDonTThinkAboutYou = {
   id: "01a0676a-d721-7014-b758-b7513f49a482",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-i-don-t-think-about-you",
   title: "I Don't Think About You",
   partOfCollections: ["artist/kelly-clarkson"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonLoveSoSoftMrColliparkRemix = {
   id: "01a0676a-d723-7080-92cf-20ac6c7d3b5c",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-love-so-soft-mr-collipark-remix",
   title: "Love So Soft (Mr. Collipark Remix)",
   partOfCollections: ["artist/kelly-clarkson"],

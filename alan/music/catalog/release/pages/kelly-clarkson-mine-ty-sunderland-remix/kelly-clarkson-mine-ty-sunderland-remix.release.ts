@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonMineTySunderlandRemix = {
   id: "01a0676a-d724-706c-a6cd-bb33363799f9",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-mine-ty-sunderland-remix",
   title: "mine (Ty Sunderland Remix)",
   partOfCollections: ["artist/kelly-clarkson"],

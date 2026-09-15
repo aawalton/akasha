@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const ledZeppelinPhysicalGraffitiDeluxeEdition = {
   id: "01a0676a-d726-7077-8980-ead213acda91",
-  type: "release",
+  type: "page-type/release",
   slug: "led-zeppelin-physical-graffiti-deluxe-edition",
   title: "Physical Graffiti (Deluxe Edition)",
   partOfCollections: ["artist/led-zeppelin"],

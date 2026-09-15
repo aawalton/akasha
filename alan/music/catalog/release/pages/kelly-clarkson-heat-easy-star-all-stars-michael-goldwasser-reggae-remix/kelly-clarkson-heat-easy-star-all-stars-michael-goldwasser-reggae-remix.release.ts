@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonHeatEasyStarAllStarsMichaelGoldwasserReggaeRemix = {
   id: "01a0676a-d720-7013-8849-0ca3e337f535",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-heat-easy-star-all-stars-michael-goldwasser-reggae-remix",
   title: "Heat (Easy Star All-Stars & Michael Goldwasser Reggae Remix)",
   partOfCollections: ["artist/kelly-clarkson"],

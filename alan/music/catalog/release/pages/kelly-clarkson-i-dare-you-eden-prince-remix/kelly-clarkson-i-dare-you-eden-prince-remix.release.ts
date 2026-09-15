@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kellyClarksonIDareYouEdenPrinceRemix = {
   id: "01a0676a-d721-7009-b3e5-0e99efb3b5ee",
-  type: "release",
+  type: "page-type/release",
   slug: "kelly-clarkson-i-dare-you-eden-prince-remix",
   title: "I Dare You (Eden Prince Remix)",
   partOfCollections: ["artist/kelly-clarkson"],

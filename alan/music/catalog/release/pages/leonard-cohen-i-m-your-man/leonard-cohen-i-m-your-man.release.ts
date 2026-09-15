@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const leonardCohenIMYourMan = {
   id: "01a0676a-d721-7036-aad0-7bc750259cf0",
-  type: "release",
+  type: "page-type/release",
   slug: "leonard-cohen-i-m-your-man",
   title: "I'm Your Man",
   partOfCollections: ["artist/leonard-cohen"],

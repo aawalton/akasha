@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerrySmileJoelCorryRemix = {
   id: "01a0676a-d729-702e-a752-85d000ffbd81",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-smile-joel-corry-remix",
   title: "Smile (Joel Corry Remix)",
   partOfCollections: ["artist/katy-perry"],
