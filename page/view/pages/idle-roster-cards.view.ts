@@ -2,7 +2,7 @@ import type { View } from "akasha/page/view/view.page-type.types.ts"
 
 export const idleRosterCards = {
   id: "01a06577-2614-7019-b9f7-27b75029b560",
-  type: "view",
+  type: "page-type/view",
   slug: "idle-roster-cards",
   title: "Cards",
   nav: "nav/idle-roster",

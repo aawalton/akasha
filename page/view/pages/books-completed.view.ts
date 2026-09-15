@@ -2,7 +2,7 @@ import type { View } from "akasha/page/view/view.page-type.types.ts"
 
 export const booksCompleted = {
   id: "01a06577-2614-700b-8109-abdde8bac2bc",
-  type: "view",
+  type: "page-type/view",
   slug: "books-completed",
   title: "Completed",
   nav: "nav/books",

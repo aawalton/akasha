@@ -2,7 +2,7 @@ import type { View } from "akasha/page/view/view.page-type.types.ts"
 
 export const tasksNotCompleted = {
   id: "01a06577-2615-700b-ba4a-6d91b781b8ac",
-  type: "view",
+  type: "page-type/view",
   slug: "tasks-not-completed",
   title: "Not Completed",
   nav: "nav/tasks",

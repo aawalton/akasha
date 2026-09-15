@@ -2,7 +2,7 @@ import type { View } from "akasha/page/view/view.page-type.types.ts"
 
 export const temperTasksUpNext = {
   id: "01a06577-2615-7014-b537-c9ecd384b1ee",
-  type: "view",
+  type: "page-type/view",
   slug: "temper-tasks-up-next",
   title: "Up Next",
   nav: "nav/temper-tasks",

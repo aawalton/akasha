@@ -2,7 +2,7 @@ import type { View } from "akasha/page/view/view.page-type.types.ts"
 
 export const animeAndShowsCompleted = {
   id: "01a06577-2614-7005-b335-134f3e00e1b6",
-  type: "view",
+  type: "page-type/view",
   slug: "anime-and-shows-completed",
   title: "Completed",
   nav: "nav/anime-and-shows",

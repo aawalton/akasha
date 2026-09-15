@@ -2,7 +2,7 @@ import type { View } from "akasha/page/view/view.page-type.types.ts"
 
 export const seriesAll = {
   id: "01a06577-2615-7006-b819-51729fedaf90",
-  type: "view",
+  type: "page-type/view",
   slug: "series-all",
   title: "All",
   nav: "nav/series",
