@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const craftRuneSelection = {
   id: "01a061c7-e868-7234-bf2e-359d2b4e056e",
-  type: "module",
+  type: "page-type/module",
   slug: "craft-rune-selection",
   definition: "the rune grid the player picks an essence from",
   code: "ts",

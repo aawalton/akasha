@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const writProvParser = {
   id: "01a061c7-e8ab-76e2-8e56-ad161565c7a4",
-  type: "module",
+  type: "page-type/module",
   slug: "writ-prov-parser",
   definition: "reads a provisioning writ and says what it asks for",
   code: "ts",

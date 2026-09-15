@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const writPublicApi = {
   id: "01a061c7-e8ae-7e0d-8122-4e5a98fd8e36",
-  type: "module",
+  type: "page-type/module",
   slug: "writ-public-api",
   definition: "the names the writ tracker offers other add-ons",
   code: "ts",

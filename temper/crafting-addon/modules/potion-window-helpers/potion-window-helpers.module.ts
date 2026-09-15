@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const potionWindowHelpers = {
   id: "01a061c7-e88d-777e-bcf0-06822b1e1530",
-  type: "module",
+  type: "page-type/module",
   slug: "potion-window-helpers",
   definition: "moving the potion window between the station and its own frame",
   code: "ts",

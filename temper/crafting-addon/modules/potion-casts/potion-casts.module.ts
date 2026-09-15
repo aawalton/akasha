@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const potionCasts = {
   id: "01a061c7-e87a-7d08-a638-efb7088eef8d",
-  type: "module",
+  type: "page-type/module",
   slug: "potion-casts",
   definition: "narrowing an unknown the game handed back to the type the caller wants",
   code: "ts",

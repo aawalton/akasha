@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const writSmithSchema = {
   id: "01a061c7-e8b4-73b3-972b-31cdf22fb36b",
-  type: "module",
+  type: "page-type/module",
   slug: "writ-smith-schema",
   definition: "the qualities and improvements a smithing writ can ask for",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const potionEvents = {
   id: "01a061c7-e87d-7034-845c-89acb4ad7b90",
-  type: "module",
+  type: "page-type/module",
   slug: "potion-events",
   definition: "what the potion window does when the game opens or closes alchemy",
   code: "ts",

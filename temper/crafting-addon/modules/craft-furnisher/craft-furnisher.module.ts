@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const craftFurnisher = {
   id: "01a061c7-e84e-72c2-8a54-5040cf03bb7b",
-  type: "module",
+  type: "page-type/module",
   slug: "craft-furnisher",
   definition: "the furnishing blueprints the add-on tracks",
   code: "ts",

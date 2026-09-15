@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const craftQuestTracking = {
   id: "01a061c7-e860-7f2d-b010-ea5fab76a0b8",
-  type: "module",
+  type: "page-type/module",
   slug: "craft-quest-tracking",
   definition: "the crafting writ the player is carrying",
   code: "ts",

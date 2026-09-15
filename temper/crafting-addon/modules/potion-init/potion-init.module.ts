@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const potionInit = {
   id: "01a061c7-e87e-7c68-be71-304c05336cb9",
-  type: "module",
+  type: "page-type/module",
   slug: "potion-init",
   definition: "wires the potion window to the alchemy station",
   code: "ts",

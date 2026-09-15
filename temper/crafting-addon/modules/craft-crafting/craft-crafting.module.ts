@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const craftCrafting = {
   id: "01a061c7-e84c-73db-a70b-18e7d3eba6cd",
-  type: "module",
+  type: "page-type/module",
   slug: "craft-crafting",
   definition: "the crafting lines and the levels each one runs through",
   code: "ts",

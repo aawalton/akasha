@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const potionTypes = {
   id: "01a061c7-e88c-7795-944d-d725ae1442eb",
-  type: "module",
+  type: "page-type/module",
   slug: "potion-types",
   definition: "the shapes the potion window's modules hand each other",
   code: "ts",

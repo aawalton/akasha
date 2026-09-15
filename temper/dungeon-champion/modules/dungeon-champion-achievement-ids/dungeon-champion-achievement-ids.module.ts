@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dungeonChampionAchievementIds = {
   id: "01a060f9-babd-7a01-b363-d7e4b686ba3b",
-  type: "module",
+  type: "page-type/module",
   slug: "dungeon-champion-achievement-ids",
   definition: "every achievement id a dungeon champion kill counts toward",
   code: "ts",

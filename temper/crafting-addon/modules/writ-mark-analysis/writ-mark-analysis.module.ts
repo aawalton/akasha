@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const writMarkAnalysis = {
   id: "01a061c7-e8a0-7bfb-a330-528862f8cd82",
-  type: "module",
+  type: "page-type/module",
   slug: "writ-mark-analysis",
   definition: "whether a master writ is doable, already done, or asks for an unknown motif",
   code: "ts",

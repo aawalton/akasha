@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const craftLangEn = {
   id: "01a061c7-e854-7559-9399-2e97b07c638c",
-  type: "module",
+  type: "page-type/module",
   slug: "craft-lang-en",
   definition: "the English text of the crafting windows",
   code: "ts",

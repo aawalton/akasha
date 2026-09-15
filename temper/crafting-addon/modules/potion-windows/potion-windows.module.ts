@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const potionWindows = {
   id: "01a061c7-e88e-70b1-a420-7dcd4fbeeadb",
-  type: "module",
+  type: "page-type/module",
   slug: "potion-windows",
   definition: "the potion window's frames and which one is showing",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const writTooltip = {
   id: "01a061c7-e8b7-712a-8b8c-30ba43a14c5c",
-  type: "module",
+  type: "page-type/module",
   slug: "writ-tooltip",
   definition: "puts the writ tracker's text into the game's tooltip",
   code: "ts",

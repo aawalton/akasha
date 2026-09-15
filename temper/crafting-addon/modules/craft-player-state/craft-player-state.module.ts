@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const craftPlayerState = {
   id: "01a061c7-e85e-73f3-bde3-d1fd20f63731",
-  type: "module",
+  type: "page-type/module",
   slug: "craft-player-state",
   definition: "recomputes what the player knows, holds and is studying",
   code: "ts",
