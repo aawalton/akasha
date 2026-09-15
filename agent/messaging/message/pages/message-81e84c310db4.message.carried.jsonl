@@ -1,7 +1,0 @@
-{"body":"`monarch-relay-service` is broken. monarch-relay-service.service failed at 2026-09-15T14:22:15.000Z, and systemd says `exit-code`. This was seen at 2026-09-15T14:27:01.016Z. What that service is and what it runs are on its page. Its log is `journalctl --user -u monarch-relay-service.service`.\n"}
-{"from":"service-watching"}
-{"id":"01a0a577-b4f0-7000-8415-81e84c310db4"}
-{"slug":"message-81e84c310db4"}
-{"to":"seat/amy"}
-{"type":"page-type/message"}
-{"warrant":"announce"}
