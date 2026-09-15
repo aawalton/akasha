@@ -2,7 +2,7 @@ import type { Drive } from "akasha/design/game/drive/drive.page-type.types.ts"
 
 export const gameDesignDriveCollection = {
   id: "01a06756-f6ce-7919-bc70-37a49f9ecba3",
-  type: "drive",
+  type: "page-type/drive",
   slug: "game-design-drive-collection",
   definition: "owning a set of things",
   octalysis: {
