@@ -52,7 +52,7 @@
 {"propertySlug":"change-kind","path":"change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.ts","id":"01a08231-44a2-7e00-bd04-119872f58319"}
 {"propertySlug":"change-kind","path":"change/mechanical/page-property/add-page-property/add-page-property.change-mechanical.ts","id":"01a09ff4-6a60-718d-b04e-092d69a04580"}
 {"propertySlug":"change-kind","path":"change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.ts","id":"01a09c75-f89f-7276-9b93-86898be2b3a2"}
-{"propertySlug":"change-kind","path":"change/mechanical/page-property/rename/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.ts","id":"01a09c4e-1d8f-7a8e-9ce5-727b72e2b55d"}
+{"propertySlug":"change-kind","path":"change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.ts","id":"01a09c4e-1d8f-7a8e-9ce5-727b72e2b55d"}
 {"propertySlug":"change-kind","path":"change/mechanical/page-type/add/add-file-property-extensions/add-file-property-extensions.change-mechanical-page-type.ts","id":"01a09c81-eafc-7383-990d-72343c36051a"}
 {"propertySlug":"change-kind","path":"change/mechanical/page-type/add/add-page-property-types/add-page-property-types.change-mechanical-page-type.ts","id":"01a09c87-755c-70d2-9391-9da2c49bcb2b"}
 {"propertySlug":"change-kind","path":"change/mechanical/page-type/add/add-page-type-types/add-page-type-types.change-mechanical-page-type.ts","id":"01a09cd3-c095-7c29-9984-4c469f15cc8b"}

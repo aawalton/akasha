@@ -8,7 +8,7 @@ export const changeMechanicalPageProperty = {
   parts: [
     "change-mechanical/add-page-property",
     "change-mechanical/remove-page-property",
-    "domain/change-mechanical-page-property-rename",
+    "change-mechanical/rename-page-property-property-slug",
   ],
   invariants: [
     {
