@@ -2,7 +2,7 @@ import type { WorldEnchantment } from "akasha/story/world-mechanic/world-enchant
 
 export const sharpness = {
   id: "01a0655a-7b7b-7ae1-9bd4-b86ec3eda422",
-  type: "world-enchantment",
+  type: "page-type/world-enchantment",
   slug: "sharpness",
   title: "Sharpness",
   world: "world/the-wandering-inn",

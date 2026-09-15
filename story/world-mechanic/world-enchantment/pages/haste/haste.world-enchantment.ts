@@ -2,7 +2,7 @@ import type { WorldEnchantment } from "akasha/story/world-mechanic/world-enchant
 
 export const haste = {
   id: "01a0655a-7b7b-7669-a3fc-357e420a5cd7",
-  type: "world-enchantment",
+  type: "page-type/world-enchantment",
   slug: "haste",
   title: "Haste",
   world: "world/the-wandering-inn",

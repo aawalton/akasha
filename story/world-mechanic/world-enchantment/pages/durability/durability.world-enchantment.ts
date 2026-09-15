@@ -2,7 +2,7 @@ import type { WorldEnchantment } from "akasha/story/world-mechanic/world-enchant
 
 export const durability = {
   id: "01a0655a-7b7b-7dbd-afa9-24bc9931dca0",
-  type: "world-enchantment",
+  type: "page-type/world-enchantment",
   slug: "durability",
   title: "Durability",
   world: "world/the-wandering-inn",

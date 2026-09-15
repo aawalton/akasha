@@ -2,7 +2,7 @@ import type { WorldEnchantment } from "akasha/story/world-mechanic/world-enchant
 
 export const bloodletter = {
   id: "01a0655a-7b7b-705b-84fb-257e641470f7",
-  type: "world-enchantment",
+  type: "page-type/world-enchantment",
   slug: "bloodletter",
   title: "Bloodletter",
   world: "world/the-wandering-inn",
