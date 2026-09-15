@@ -114,11 +114,13 @@ async function answered(paths: readonly string[]): Promise<string> {
 async function asked(paths: readonly string[]): Promise<undefined> {
   if (paths.length === 0) return
   const said = JSON.parse(await answered(paths)) as {
-    bodies?: { path: string; content: string }[]
+    bodies?: { path: string; content: string | null }[]
     refused?: string
   }
   if (said.refused !== undefined) throw new Error(SAID + " " + said.refused)
-  for (const one of said.bodies ?? []) held.set(one.path, one.content)
+  for (const one of said.bodies ?? []) {
+    if (one.content !== null) held.set(one.path, one.content)
+  }
 }
 
 async function bodyOf(path: string): Promise<string> {

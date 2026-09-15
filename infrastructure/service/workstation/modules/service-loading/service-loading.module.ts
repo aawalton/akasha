@@ -69,6 +69,10 @@ export const serviceLoading = {
     },
     {
       invariantKind: "departure",
+      statement: "A path the pages service answers nothing for is named rather than handed on.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A count above nothing is written where the run's own output is read.",
     },
     {
