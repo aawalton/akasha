@@ -44,6 +44,6 @@ export const noReExport = {
         "An imported value bound to a fresh exported name is a declaration this file made.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

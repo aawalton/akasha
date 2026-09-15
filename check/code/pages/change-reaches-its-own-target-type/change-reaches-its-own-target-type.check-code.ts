@@ -95,6 +95,6 @@ export const changeReachesItsOwnTargetType = {
       statement: "Whether an address reaches a page at all is not judged here.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 20 },
 } as const satisfies CheckCode

@@ -59,6 +59,6 @@ export const noTmp = {
       statement: "A reach for /tmp outside TypeScript is not seen.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

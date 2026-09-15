@@ -72,6 +72,6 @@ export const typesFileRunsNothing = {
       statement: "Nothing here refuses a type stated in a file that is no types file.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

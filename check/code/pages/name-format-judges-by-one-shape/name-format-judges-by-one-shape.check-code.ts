@@ -96,6 +96,6 @@ export const nameFormatJudgesByOneShape = {
       statement: "Whether two formats have one shape is not judged here.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

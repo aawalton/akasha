@@ -119,6 +119,6 @@ export const clientReachesAServerModuleThroughARoute = {
       statement: "An index naming no router app judges clean.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

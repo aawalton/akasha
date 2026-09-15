@@ -58,6 +58,6 @@ export const changeIsReachedThroughARunner = {
       statement: "Whether the code a specifier names is there is not read here.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 20 },
 } as const satisfies CheckCode

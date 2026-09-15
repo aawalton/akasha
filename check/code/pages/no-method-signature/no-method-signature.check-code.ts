@@ -39,6 +39,6 @@ export const noMethodSignature = {
         "A declaration file names a shape another language or another writer already named.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

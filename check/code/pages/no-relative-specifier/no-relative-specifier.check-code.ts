@@ -76,6 +76,6 @@ export const noRelativeSpecifier = {
         "A `./+types/` specifier is resolved by tsconfig rootDirs, so it cannot be spelled from the root.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 20 },
 } as const satisfies CheckCode

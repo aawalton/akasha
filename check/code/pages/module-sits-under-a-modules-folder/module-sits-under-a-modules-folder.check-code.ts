@@ -66,6 +66,6 @@ export const moduleSitsUnderAModulesFolder = {
       statement: "This check judges at every phase.",
     },
   ],
-  check: { maxCpuSeconds: 5 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

@@ -74,6 +74,6 @@ export const noSpacingLiteral = {
       statement: "How many times a granted value is written in its file is not counted here.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

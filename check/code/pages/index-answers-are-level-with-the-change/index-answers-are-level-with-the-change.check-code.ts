@@ -50,5 +50,5 @@ export const indexAnswersAreLevelWithTheChange = {
       statement: "An audit is a change turning nothing, so there is nothing here for it to judge.",
     },
   ],
-  check: { maxCpuSeconds: 5 },
+  check: { maxCpuSeconds: 1 },
 } as const satisfies CheckCode

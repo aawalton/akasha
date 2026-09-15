@@ -52,6 +52,6 @@ export const requireImportExtension = {
       statement: "No compiler setting decides the answer.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

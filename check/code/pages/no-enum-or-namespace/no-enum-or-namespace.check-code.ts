@@ -26,6 +26,6 @@ export const noEnumOrNamespace = {
       statement: "An enum and a namespace are one check.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

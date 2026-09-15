@@ -55,6 +55,6 @@ export const noIndexPathSpelled = {
       statement: "The use a caller makes of a path the caller was given is not judged.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

@@ -76,6 +76,6 @@ export const calculationImportsOnlyTypes = {
       statement: "Nothing here judges a calculation's exports.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

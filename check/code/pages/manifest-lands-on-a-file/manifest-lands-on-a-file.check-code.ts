@@ -63,6 +63,6 @@ export const manifestLandsOnAFile = {
       statement: "A way in landing on a path spelling a `*` is no way in this check judges.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

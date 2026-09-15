@@ -54,6 +54,6 @@ export const noGlobalInAModule = {
       statement: "The check reads no path beyond the ones the change carries.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

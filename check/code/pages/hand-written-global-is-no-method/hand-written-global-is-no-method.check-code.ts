@@ -69,6 +69,6 @@ export const handWrittenGlobalIsNoMethod = {
       statement: "No file is let off by name.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode

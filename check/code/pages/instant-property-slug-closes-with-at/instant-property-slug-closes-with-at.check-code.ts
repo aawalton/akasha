@@ -34,6 +34,6 @@ export const instantPropertySlugClosesWithAt = {
         "A file named otherwise than the slug the page states is `page-named-as-stated`'s to refuse.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode
