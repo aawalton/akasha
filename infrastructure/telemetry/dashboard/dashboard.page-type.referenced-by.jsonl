@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"dashboard.page-type.types.ts","path":"infrastructure/telemetry/dashboard/pages/database/database.dashboard.ts"}
-{"propertySlug":"import","fileName":"dashboard.page-type.types.ts","path":"infrastructure/telemetry/dashboard/pages/pods/pods.dashboard.ts"}
-{"propertySlug":"import","fileName":"dashboard.page-type.types.ts","path":"infrastructure/telemetry/dashboard/pages/resources/resources.dashboard.ts"}
+{"propertySlug":"import","fileName":"dashboard.page-type.types.ts","path":"infrastructure/telemetry/grafana/dashboards/database/database.dashboard.ts"}
+{"propertySlug":"import","fileName":"dashboard.page-type.types.ts","path":"infrastructure/telemetry/grafana/dashboards/pods/pods.dashboard.ts"}
+{"propertySlug":"import","fileName":"dashboard.page-type.types.ts","path":"infrastructure/telemetry/grafana/dashboards/resources/resources.dashboard.ts"}
 {"propertySlug":"parts","path":"infrastructure/telemetry/telemetry.domain.ts","id":"01a0658b-0f02-79eb-aed4-e7e8b92bc117"}
