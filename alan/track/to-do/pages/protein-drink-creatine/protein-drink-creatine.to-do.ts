@@ -7,10 +7,10 @@ export const proteinDrinkCreatine = {
   title: "Protein drink + creatine",
   toDoCategory: "health",
   difficulty: "trivial",
-  toDoDueDate: "2026-09-15",
+  toDoDueDate: "2026-09-16",
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=DAILY",
   toDoValue: "value/health",
-  toDoLastCompletedAt: "2026-09-13T16:15:09.781Z",
+  toDoLastCompletedAt: "2026-09-15T22:11:01.163Z",
   whatItTakes: "txt",
 } as const satisfies ToDo
