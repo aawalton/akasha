@@ -1,12 +1,7 @@
-import { HOLDS as HELD_BY_A_WORKSTATION_SERVICE } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/a-service-workstation-with-its-parts/a-service-workstation-with-its-parts.folder-shape.code.ts"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
 import { HOLDS as HELD_BY_MODULES_ONLY } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/modules-only/modules-only.folder-shape.code.ts"
 import { HOLDS as HELD_BY_PAGES_OF_THE_TYPE_ABOVE } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/pages-of-the-type-above/pages-of-the-type-above.folder-shape.code.ts"
-import { HOLDS as HELD_BY_PROPERTIES_OF_THE_TYPE_ABOVE } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/properties-of-the-type-above/properties-of-the-type-above.folder-shape.code.ts"
-import { HOLDS as HELD_BY_PROPERTY_PAGES_ONLY } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/property-pages-only/property-pages-only.folder-shape.code.ts"
-import { HOLDS as HELD_BY_SCRIPTS_ONLY } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/scripts-only/scripts-only.folder-shape.code.ts"
 import { HOLDS as HELD_BY_SECTIONS_OF_THE_BOOK_ABOVE } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
-import { HOLDS as HELD_BY_TEST_FIXTURES_ONLY } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/test-fixtures-only/test-fixtures-only.folder-shape.code.ts"
 import {
   type Grouped,
   segmentingOver,
@@ -104,14 +99,9 @@ const GATHERED_IN_TESTS = [
 
 const HELD_IN_TESTS = new Set<string>([
   ...GATHERED_IN_TESTS,
-  ...HELD_BY_A_WORKSTATION_SERVICE,
   ...HELD_BY_MODULES_ONLY,
   ...HELD_BY_PAGES_OF_THE_TYPE_ABOVE,
-  ...HELD_BY_PROPERTIES_OF_THE_TYPE_ABOVE,
-  ...HELD_BY_PROPERTY_PAGES_ONLY,
-  ...HELD_BY_SCRIPTS_ONLY,
   ...HELD_BY_SECTIONS_OF_THE_BOOK_ABOVE,
-  ...HELD_BY_TEST_FIXTURES_ONLY,
 ])
 
 export const sameName: Standing["extending"] = (pageTypeSlug, wanted) => pageTypeSlug === wanted
