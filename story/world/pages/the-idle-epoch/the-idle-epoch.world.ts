@@ -2,7 +2,7 @@ import type { World } from "akasha/story/world/world.page-type.types.ts"
 
 export const theIdleEpoch = {
   id: "01a063d8-61f2-79ae-9295-e20dbdd58b6f",
-  type: "world",
+  type: "page-type/world",
   slug: "the-idle-epoch",
   title: "The Idle Epoch",
   description:

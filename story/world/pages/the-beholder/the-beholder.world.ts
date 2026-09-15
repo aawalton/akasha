@@ -2,7 +2,7 @@ import type { World } from "akasha/story/world/world.page-type.types.ts"
 
 export const theBeholder = {
   id: "01a063d8-61f2-7a9f-a469-72167f12989f",
-  type: "world",
+  type: "page-type/world",
   slug: "the-beholder",
   title: "The Beholder",
   description:

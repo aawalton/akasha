@@ -2,7 +2,7 @@ import type { World } from "akasha/story/world/world.page-type.types.ts"
 
 export const superSupportive = {
   id: "01a063d8-61f2-7e6f-96ff-1b30a6ca7497",
-  type: "world",
+  type: "page-type/world",
   slug: "super-supportive",
   title: "Super Supportive",
 } as const satisfies World

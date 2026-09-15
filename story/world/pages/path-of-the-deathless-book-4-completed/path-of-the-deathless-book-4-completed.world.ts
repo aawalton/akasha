@@ -2,7 +2,7 @@ import type { World } from "akasha/story/world/world.page-type.types.ts"
 
 export const pathOfTheDeathlessBook4Completed = {
   id: "01a063d8-61f2-7bd5-9823-fcaaea0b14c3",
-  type: "world",
+  type: "page-type/world",
   slug: "path-of-the-deathless-book-4-completed",
   title: "Path of The Deathless",
 } as const satisfies World

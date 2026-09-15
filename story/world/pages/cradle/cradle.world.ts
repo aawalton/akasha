@@ -2,7 +2,7 @@ import type { World } from "akasha/story/world/world.page-type.types.ts"
 
 export const cradle = {
   id: "01a063d8-61f2-772d-9e6d-b1b1bd18f55c",
-  type: "world",
+  type: "page-type/world",
   slug: "cradle",
   title: "Cradle",
 } as const satisfies World

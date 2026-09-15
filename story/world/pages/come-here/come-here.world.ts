@@ -2,7 +2,7 @@ import type { World } from "akasha/story/world/world.page-type.types.ts"
 
 export const comeHere = {
   id: "01a06586-d429-72fb-bc22-eacba4079eb5",
-  type: "world",
+  type: "page-type/world",
   slug: "come-here",
   title: "Come Here",
   description:

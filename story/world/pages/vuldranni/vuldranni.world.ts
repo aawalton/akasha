@@ -2,7 +2,7 @@ import type { World } from "akasha/story/world/world.page-type.types.ts"
 
 export const vuldranni = {
   id: "01a063d8-61f2-7394-ae68-54d8683e20d3",
-  type: "world",
+  type: "page-type/world",
   slug: "vuldranni",
   title: "Vuldranni",
 } as const satisfies World

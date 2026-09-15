@@ -2,7 +2,7 @@ import type { World } from "akasha/story/world/world.page-type.types.ts"
 
 export const speedrunningTheMultiverseComplete = {
   id: "01a063d8-61f2-77d7-b8e6-baa9b07e642b",
-  type: "world",
+  type: "page-type/world",
   slug: "speedrunning-the-multiverse-complete",
   title: "Speedrunning the Multiverse [COMPLETE]",
 } as const satisfies World
