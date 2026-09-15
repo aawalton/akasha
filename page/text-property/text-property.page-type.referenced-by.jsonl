@@ -284,6 +284,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/inference/properties/python-version.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/inference/properties/runs.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/inference/properties/workdir.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/properties/deploy-refusal.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/properties/deployed-commit.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/properties/refused-commit.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/secret/properties/resource-key.text-property.ts"}

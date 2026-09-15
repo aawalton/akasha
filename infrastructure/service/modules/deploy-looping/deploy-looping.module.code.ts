@@ -115,13 +115,14 @@ export async function endingKept(
   root: string,
   kind: Kind,
   slug: string,
-  commit: string
+  commit: string,
+  why: readonly string[]
 ): Promise<readonly string[]> {
   const subject = subjectsOf(root, kind).find((one) => one.slug === slug)
   if (subject === undefined) return []
   const keeping = keepingFor(root, kind)
   return [
-    ...(await recordedRefusal(slug, subject.pagePath, commit, keeping)),
+    ...(await recordedRefusal(slug, subject.pagePath, commit, why, keeping)),
     ...(await recordedEnding(slug, subject.pagePath, true, new Date(), keeping)),
   ]
 }
@@ -185,11 +186,9 @@ export async function ticked(
     return { said: [...past.said, saidOfRefusedTree(past.chosen.slug, started.out)], wrong: [] }
   }
   if (started.code !== 0) {
-    const kept = await endingKept(root, kind, past.chosen.slug, commit)
-    return {
-      said: past.said,
-      wrong: [`\`${past.chosen.slug}\` was not put up — ${started.out}`, ...kept],
-    }
+    const why = `\`${past.chosen.slug}\` was not put up — ${started.out}`
+    const kept = await endingKept(root, kind, past.chosen.slug, commit, [why])
+    return { said: past.said, wrong: [why, ...kept] }
   }
   return { said: [...past.said, `put \`${past.chosen.slug}\` up at ${commit}`], wrong: [] }
 }

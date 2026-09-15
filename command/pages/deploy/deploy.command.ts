@@ -87,6 +87,15 @@ export const deploy = {
       statement: "A deploy that refused keeps the commit it refused at under its own key.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy that refused keeps what it refused for under a key of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A refusal kept is held to four thousand characters, and a longer one says it was cut.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A workstation service is put up without reaching any service to do it.",
     },

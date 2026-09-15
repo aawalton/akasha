@@ -2598,6 +2598,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/modules/deploy-wanting/deploy-wanting.module.ts","id":"01a09583-2ca7-7a92-9597-d7a2e1b8780b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/properties/cooldown-seconds.number-property.ts","id":"01a09575-b92e-7662-9a1d-d8f33a5aa003"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/properties/deploy-ended-at.instant-property.ts","id":"01a0957d-cd0e-7ca7-a6b4-b04a75b1af4e"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/properties/deploy-refusal.text-property.ts","id":"01a0a639-6816-7619-9e65-47e19c5dba03"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/properties/deploy-refused-at.instant-property.ts","id":"01a095ca-a548-7026-b32c-6fac55373b71"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/properties/deployed-commit.text-property.ts","id":"01a09189-f956-77a0-ba59-fe66d243fae8"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/properties/deploys-after.relation-property.ts","id":"01a09575-f21d-7413-814c-80ef1a0b4ba9"}

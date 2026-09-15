@@ -5,7 +5,7 @@ export const deployCommitRecording = {
   type: "module",
   slug: "deploy-commit-recording",
   definition:
-    "what a deploy put up or refused at, and when that deploy ended, kept beside the service's page",
+    "what a deploy put up, what it refused at and for, and when it ended, beside the service's page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -16,6 +16,19 @@ export const deployCommitRecording = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A commit that was put up and a commit that refused are kept under two keys.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy that refused keeps what it refused for beside that commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every refusal one deploy answered is kept as one text, one to a line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A refusal past four thousand characters is cut, and the cut says how long the whole was.",
     },
     {
       decisionKind: "decision-kind/departure",

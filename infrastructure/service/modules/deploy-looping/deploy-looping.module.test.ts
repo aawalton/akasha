@@ -96,7 +96,9 @@ test("a tree a check refused names the service and carries what the deploy said"
 })
 
 test("a slug the kind lists no subject for keeps no ending", async () => {
-  const kept = await endingKept(process.cwd(), "service-workstation", "no-such-service", "abc123")
+  const kept = await endingKept(process.cwd(), "service-workstation", "no-such-service", "abc123", [
+    "the deploy did not start",
+  ])
   expect(kept).toEqual([])
 })
 

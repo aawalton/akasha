@@ -88,6 +88,10 @@ export const deployLooping = {
         "That ending is kept as a refusal, so the service waits out a refusal before it is chosen again.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "What the deploy said as it ended is kept with that refusal.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing is kept here for a deploy a check refused, which kept its own ending.",
     },

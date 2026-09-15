@@ -4,11 +4,14 @@ import { dirname, join } from "node:path"
 import {
   commitKeptIn,
   commitRecordedIn,
+  DEPLOY_REFUSAL,
   DEPLOYED_COMMIT,
   type Keeping,
   keepingFor,
   REFUSED_COMMIT,
   recordedCommit,
+  recordedRefusal,
+  refusalKept,
   saidOfNoRecord,
   saidOfNoRefusal,
 } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
@@ -31,6 +34,8 @@ const BESIDE = "infrastructure/service/workstation/pages/one/one.service-worksta
 const NO_BESIDE = "infrastructure/service/workstation/pages/one/one.service-workstation.md"
 
 const COMMIT = "0123456789abcdef0123456789abcdef01234567"
+
+const WHY = "a check refused this deploy"
 
 const AUTHORED = /^[^<>]+ <[^<>@\s]+@[^<>\s]+>$/
 
@@ -186,4 +191,34 @@ test("a write the pages refuse is answered as what went wrong rather than thrown
   const wrong = await recordedCommit("one", AT, COMMIT, pages(held))
   expect(wrong[0]).toContain("the pages would not write")
   expect(wrong[0]).toContain(COMMIT)
+})
+
+test("a deploy that refused keeps what it refused for beside the commit it refused at", async () => {
+  const root = aRoot()
+  const keeping = keepingFor(root, WORKSTATION_SERVICE)
+
+  expect(await recordedRefusal("one", BESIDE, COMMIT, [WHY], keeping)).toEqual([])
+
+  expect(await commitKeptIn(BESIDE, REFUSED_COMMIT, keeping)).toBe(COMMIT)
+  expect(await commitKeptIn(BESIDE, DEPLOY_REFUSAL, keeping)).toBe(WHY)
+})
+
+test("every refusal one deploy answered is kept as one text, one refusal to a line", () => {
+  expect(refusalKept([WHY, "and so did a second"])).toBe(`${WHY}\nand so did a second`)
+})
+
+test("a refusal longer than the length kept is cut, and the cut says how long the whole was", () => {
+  const said = refusalKept(["x".repeat(134939)])
+  expect(said.length).toBe(4000)
+  expect(said).toContain("134939")
+  expect(said).toContain("cut here")
+})
+
+test("every other kind's refusal is written to the pages under its own key", async () => {
+  const held = answering({ commit: null, wrote: [AT], took: [] })
+
+  expect(await recordedRefusal("one", AT, COMMIT, [WHY], pages(held))).toEqual([])
+
+  const body = JSON.parse(held.sent())
+  expect(body.kept).toEqual([{ path: AT, values: { [DEPLOY_REFUSAL]: WHY } }])
 })

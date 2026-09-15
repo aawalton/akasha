@@ -30,6 +30,7 @@ export const service = {
     "service-workstation/service-watching",
     "service-workstation/web-app-deploying",
     "service-workstation/workstation-deploying",
+    "text-property/deploy-refusal",
     "text-property/deployed-commit",
     "text-property/refused-commit",
   ],
@@ -61,6 +62,12 @@ export const service = {
     },
     {
       pageProperty: "instant-property/deploy-refused-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "text-property/deploy-refusal",
       required: false,
       many: false,
       uncommitted: true,

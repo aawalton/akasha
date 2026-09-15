@@ -17,6 +17,10 @@ export const DEPLOYED_COMMIT = "deployedCommit"
 
 export const REFUSED_COMMIT = "refusedCommit"
 
+export const DEPLOY_REFUSAL = "deployRefusal"
+
+const MOST_REFUSAL = 4000
+
 const DEPLOY_ENDED_AT = "deployEndedAt"
 
 const DEPLOY_REFUSED_AT = "deployRefusedAt"
@@ -153,12 +157,23 @@ export async function recordedCommit(
   return wrong.length === 0 ? [] : [saidOfNoRecord(slug, commit, wrong)]
 }
 
+export function refusalKept(why: readonly string[]): string {
+  const said = why.join("\n")
+  if (said.length <= MOST_REFUSAL) return said
+  const cut = ` … cut here, of ${said.length} characters in all`
+  return `${said.slice(0, MOST_REFUSAL - cut.length)}${cut}`
+}
+
 export async function recordedRefusal(
   slug: string,
   pagePath: string,
   commit: string,
+  why: readonly string[],
   keeping: Keeping = THROUGH_THE_PAGES
 ): Promise<readonly string[]> {
-  const wrong = await wroteUnder(pagePath, REFUSED_COMMIT, commit, keeping)
+  const wrong = [
+    ...(await wroteUnder(pagePath, REFUSED_COMMIT, commit, keeping)),
+    ...(await wroteUnder(pagePath, DEPLOY_REFUSAL, refusalKept(why), keeping)),
+  ]
   return wrong.length === 0 ? [] : [saidOfNoRefusal(slug, commit, wrong)]
 }

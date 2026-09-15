@@ -287,12 +287,12 @@ async function deployHeld(
     unproven.length > 0
       ? [saidOfUnproven(unproven)]
       : await judgedOnDeploy(given.root, slug, was, commit, built, proving)
-  const noting = async (): Promise<readonly string[]> => [
-    ...(await recordedRefusal(slug, read.pagePath, commit, keeping)),
+  const noting = async (why: readonly string[]): Promise<readonly string[]> => [
+    ...(await recordedRefusal(slug, read.pagePath, commit, why, keeping)),
     ...(await recordedEnding(slug, read.pagePath, true, new Date(), keeping)),
   ]
   if (unjudged.length > 0) {
-    return answeredWith([`commit\t${commit}`], [...unjudged, ...(await noting())], DATA)
+    return answeredWith([`commit\t${commit}`], [...unjudged, ...(await noting(unjudged))], DATA)
   }
   const before = opening()
   const up: string[] = []
@@ -303,16 +303,13 @@ async function deployHeld(
     costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, 1)
     const why = [whyOf(thrown), stoppedPartWay(up)]
     const said = [`commit\t${commit}`, ...up.map((one) => `up\t${one}`)]
-    return answeredWith(said, [...why, ...(await noting())], OPERATIONAL)
+    return answeredWith(said, [...why, ...(await noting(why))], OPERATIONAL)
   }
   costRecorded(given.root, read.pagePath, before, PUT_UP, slug, 0, answer.refusals.length)
   const lines = [`commit\t${commit}`, ...answer.report]
   if (answer.code !== OK || answer.refusals.length > 0) {
-    return answeredWith(
-      lines,
-      [...answer.refusals, ...partWay(up), ...(await noting())],
-      answer.code
-    )
+    const why = [...answer.refusals, ...partWay(up)]
+    return answeredWith(lines, [...why, ...(await noting(why))], answer.code)
   }
   const wrong = [
     ...(await recordedCommit(slug, read.pagePath, commit, keeping)),
