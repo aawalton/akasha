@@ -89,7 +89,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"command/argument/properties/argument.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"command/properties/not-with.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"command/properties/one-of.relation-property.types.ts"}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/decision-kind/decision-group/decision-group.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/decision-kind/properties/decision-group.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/initiative/properties/initiative-parent.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/initiative/properties/initiative-persona.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"domain/initiative/properties/initiative.relation-property.types.ts"}
