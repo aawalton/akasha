@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const apista = {
   id: "01a06580-2493-77e2-a84d-1ac18472ba25",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "apista",
   title: "Apista",
   world: "world/the-wandering-inn",

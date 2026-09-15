@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const geneva = {
   id: "01a06580-2494-7d5e-8f29-212ba43389ec",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "geneva",
   title: "Geneva",
   world: "world/the-wandering-inn",

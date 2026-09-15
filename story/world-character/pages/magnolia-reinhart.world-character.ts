@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const magnoliaReinhart = {
   id: "01a06580-2494-7d79-bc34-79f022266af0",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "magnolia-reinhart",
   title: "Lady Magnolia Reinhart",
   world: "world/the-wandering-inn",

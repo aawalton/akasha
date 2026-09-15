@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const valeterisa = {
   id: "01a06580-2495-760b-8c88-7ed4d37e1fd8",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "valeterisa",
   title: "Archmage Valeterisa",
   world: "world/the-wandering-inn",

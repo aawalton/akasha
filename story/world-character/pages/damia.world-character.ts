@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const damia = {
   id: "01a06580-2494-7252-b249-74a9db86202a",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "damia",
   title: "Damia Reinhart",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const typhenous = {
   id: "01a06580-2495-7777-b055-2c5cc0746f9e",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "typhenous",
   title: "Typhenous",
   world: "world/the-wandering-inn",

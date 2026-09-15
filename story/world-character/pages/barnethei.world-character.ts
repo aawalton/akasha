@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const barnethei = {
   id: "01a06580-2494-7e15-843c-a26c18e3268a",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "barnethei",
   title: "Barnethei",
   world: "world/the-wandering-inn",

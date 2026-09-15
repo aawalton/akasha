@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const selysShivertail = {
   id: "01a06580-2495-73e2-808c-aaae871e57e8",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "selys-shivertail",
   title: "Selys",
   world: "world/the-wandering-inn",

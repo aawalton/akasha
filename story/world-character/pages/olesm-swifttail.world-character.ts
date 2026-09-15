@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const olesmSwifttail = {
   id: "01a06580-2495-78a3-850a-8acddb6bbba8",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "olesm-swifttail",
   title: "Olesm",
   world: "world/the-wandering-inn",

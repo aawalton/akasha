@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const ulvama = {
   id: "01a06580-2495-7f68-a839-c88ba1cbc32f",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "ulvama",
   title: "Ulvama",
   world: "world/the-wandering-inn",

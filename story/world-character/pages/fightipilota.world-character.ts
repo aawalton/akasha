@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const fightipilota = {
   id: "01a06580-2494-72f5-9726-4cc56b85fe71",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "fightipilota",
   title: "Fightipilota",
   world: "world/the-wandering-inn",

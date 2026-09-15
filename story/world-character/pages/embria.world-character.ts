@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const embria = {
   id: "01a06580-2494-74e8-8287-c3a1fe9ed588",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "embria",
   title: "Embria",
   world: "world/the-wandering-inn",

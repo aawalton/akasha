@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const eliaArcsinger = {
   id: "01a06580-2494-7f7a-a218-4ade25153bf0",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "elia-arcsinger",
   title: "Elia Arcsinger",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const zevara = {
   id: "01a06580-2495-7afc-97ce-f7f01120a61b",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "zevara",
   title: "Watch Captain Zevara",
   world: "world/the-wandering-inn",

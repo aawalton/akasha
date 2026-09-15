@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const nerulGemscale = {
   id: "01a06580-2495-7c1a-b3fd-7fbbaae22f08",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "nerul-gemscale",
   title: "Nerul Gemscale",
   world: "world/the-wandering-inn",

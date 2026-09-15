@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const delanayDArtien = {
   id: "01a06580-2494-7552-bd2a-530c16be1a2c",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "delanay-d-artien",
   title: "Delanay d'Artien",
   world: "world/the-wandering-inn",

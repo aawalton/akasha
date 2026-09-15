@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const lyonette = {
   id: "01a06580-2494-738a-aa8f-89b000c9099d",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "lyonette",
   title: "Lion Solstice",
   world: "world/the-wandering-inn",

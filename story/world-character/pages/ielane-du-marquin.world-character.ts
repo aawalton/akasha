@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const ielaneDuMarquin = {
   id: "01a06580-2494-711d-8d7f-1c6ac6b639ce",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "ielane-du-marquin",
   title: "Queen Ielane du Marquin",
   world: "world/the-wandering-inn",

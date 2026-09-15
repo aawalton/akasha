@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const rags = {
   id: "01a06580-2495-718b-aeda-9badee68b180",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "rags",
   title: "Chieftain Rags",
   world: "world/the-wandering-inn",

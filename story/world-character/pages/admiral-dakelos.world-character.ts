@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const admiralDakelos = {
   id: "01a06580-2493-754d-aa3d-c53cb24be1e6",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "admiral-dakelos",
   title: "Admiral Dakelos",
   world: "world/the-wandering-inn",

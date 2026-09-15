@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const infinitypear = {
   id: "01a06580-2494-7d5e-aadc-57272bd10149",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "infinitypear",
   title: "Infinitypear",
   world: "world/the-wandering-inn",

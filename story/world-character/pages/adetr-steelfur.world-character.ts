@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const adetrSteelfur = {
   id: "01a06580-2493-7357-886c-a15d44dc3bb4",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "adetr-steelfur",
   title: "Adetr",
   world: "world/the-wandering-inn",

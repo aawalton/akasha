@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const moltin = {
   id: "01a06580-2495-7d79-b7c0-20f2e550805e",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "moltin",
   title: "Lord Moltin",
   world: "world/the-wandering-inn",

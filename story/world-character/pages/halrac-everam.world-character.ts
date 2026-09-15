@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const halracEveram = {
   id: "01a06580-2494-7180-8da2-6f5bc8763993",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "halrac-everam",
   title: "Halrac",
   world: "world/the-wandering-inn",

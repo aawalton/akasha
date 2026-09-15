@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const russellTMorgan = {
   id: "01a06580-2495-704d-9bd3-cedce478c8e7",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "russell-t-morgan",
   title: "Russell T. Morgan",
   world: "world/the-wandering-inn",

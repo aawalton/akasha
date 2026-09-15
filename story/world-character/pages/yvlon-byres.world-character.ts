@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const yvlonByres = {
   id: "01a06580-2495-7f5c-bb98-651c69ded5b4",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "yvlon-byres",
   title: "Yvlon",
   world: "world/the-wandering-inn",

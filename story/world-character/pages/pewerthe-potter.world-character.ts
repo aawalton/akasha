@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const pewerthePotter = {
   id: "01a06580-2495-7325-abc0-fdbe29296928",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "pewerthe-potter",
   title: "Pewerthe",
   world: "world/the-wandering-inn",

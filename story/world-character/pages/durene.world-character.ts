@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const durene = {
   id: "01a06580-2494-7da1-83d2-811ddbe40d10",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "durene",
   title: "Durene",
   world: "world/the-wandering-inn",

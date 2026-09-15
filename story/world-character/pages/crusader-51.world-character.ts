@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const crusader51 = {
   id: "01a06580-2494-7719-88fa-8218c6f4c1f7",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "crusader-51",
   title: "Crusader 51",
   world: "world/the-wandering-inn",

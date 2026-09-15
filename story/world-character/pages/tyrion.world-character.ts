@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const tyrion = {
   id: "01a06580-2495-7bbd-ab01-957ce84b8c7f",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "tyrion",
   title: "Lord Tyrion",
   world: "world/the-wandering-inn",

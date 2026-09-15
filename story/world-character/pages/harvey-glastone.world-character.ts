@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const harveyGlastone = {
   id: "01a06580-2494-7e5b-8a58-a65199e4ad85",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "harvey-glastone",
   title: "Harvey Glastone",
   world: "world/the-wandering-inn",

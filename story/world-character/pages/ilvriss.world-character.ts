@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const ilvriss = {
   id: "01a06580-2494-7975-9344-b43b8f13dec0",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "ilvriss",
   title: "Ilvriss",
   world: "world/the-wandering-inn",

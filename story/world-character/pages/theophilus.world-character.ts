@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const theophilus = {
   id: "01a06580-2495-7912-9dc8-03bab2814000",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "theophilus",
   title: "Theophilus",
   world: "world/the-wandering-inn",

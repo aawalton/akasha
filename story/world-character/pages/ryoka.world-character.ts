@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const ryoka = {
   id: "01a06580-2495-7e14-bf66-b3078bde8b83",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "ryoka",
   title: "Ryoka",
   world: "world/the-wandering-inn",

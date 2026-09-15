@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const ksmvr = {
   id: "01a06580-2494-7d42-8eb4-3482b0b04728",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "ksmvr",
   title: "Ksmvr",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const nailrenFletchsing = {
   id: "01a06580-2495-70a5-b00c-928a3514de10",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "nailren-fletchsing",
   title: "Nailren Fletchsing",
   world: "world/the-wandering-inn",

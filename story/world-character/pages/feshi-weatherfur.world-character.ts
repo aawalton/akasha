@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const feshiWeatherfur = {
   id: "01a06580-2494-7ef2-8d7d-c94826114f07",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "feshi-weatherfur",
   title: "Feshi Weatherfur",
   world: "world/the-wandering-inn",

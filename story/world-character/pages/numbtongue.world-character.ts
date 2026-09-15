@@ -2,7 +2,7 @@ import type { WorldCharacter } from "akasha/story/world-character/world-characte
 
 export const numbtongue = {
   id: "01a06580-2495-73d1-baa0-997a8b62411f",
-  type: "world-character",
+  type: "page-type/world-character",
   slug: "numbtongue",
   title: "Numbtongue",
   world: "world/the-wandering-inn",
