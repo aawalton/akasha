@@ -11,7 +11,7 @@ import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.c
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
-  textAt,
+  slugAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { matchingIn } from "akasha/page/name-format/modules/format-reaching/format-reaching.module.code.ts"
@@ -77,7 +77,7 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
       judged.push({ path, reason: unloadable(loaded.failed) })
       continue
     }
-    const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+    const pageTypeSlug = slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
     if (pageTypeSlug === null) {
       judged.push({ path, reason: STATES_NO_PAGE_TYPE })
       continue
