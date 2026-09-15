@@ -7,8 +7,8 @@
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/items-rules-routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/player-economics-ui/modules/companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/skill-morphs/modules/morph-pair/morph-pair.module.code.ts"}
-{"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/skill-morphs/modules/skill-organization/skill-organization.module.code.ts"}
+{"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/skill-morph/modules/morph-pair/morph-pair.module.code.ts"}
+{"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/skill-morph/modules/skill-organization/skill-organization.module.code.ts"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/web/modules/companion-skill-lines-progress-panel-card/companion-skill-lines-progress-panel-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/web/modules/companion-skill-select-dialog/companion-skill-select-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/web/modules/recipes-progress-panel-card/recipes-progress-panel-card.module.code.tsx"}

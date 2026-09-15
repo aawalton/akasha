@@ -14,7 +14,7 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "akasha/temper/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
-import type { SubclassingSkillMorphProgressResult } from "akasha/temper/skill-morphs/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
+import type { SubclassingSkillMorphProgressResult } from "akasha/temper/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 const MAX_VARIANT_RANK = 4
 

@@ -19,7 +19,7 @@ import type {
   CharacterTraitResearchProgress,
   CompletionCharacter,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
-import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/modules/morph-progress-types/morph-progress-types.module.code.ts"
+import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
 import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,

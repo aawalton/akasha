@@ -11,11 +11,11 @@ import {
   getSavedVariables,
   type TaskData,
 } from "akasha/temper/player-completion-state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
-import type { ExpectedMorphableSkill } from "akasha/temper/skill-morphs/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import type { ExpectedMorphableSkill } from "akasha/temper/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import {
   type MorphSuggestionEntry,
   selectMorphSuggestions,
-} from "akasha/temper/skill-morphs/modules/select-morph-suggestions/select-morph-suggestions.module.code.ts"
+} from "akasha/temper/skill-morph/modules/select-morph-suggestions/select-morph-suggestions.module.code.ts"
 
 export type SkillMorphEnrichmentEntry = MorphSuggestionEntry
 

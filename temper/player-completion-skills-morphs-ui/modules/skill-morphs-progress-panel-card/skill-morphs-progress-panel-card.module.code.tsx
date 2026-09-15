@@ -20,8 +20,8 @@ import {
 import type {
   CharacterSkillMorphProgress,
   MorphableSkillDetail,
-} from "akasha/temper/skill-morphs/modules/morph-progress-types/morph-progress-types.module.code.ts"
-import { morphableSkillLineIds } from "akasha/temper/skill-morphs/modules/morphable-skills/morphable-skills.module.code.ts"
+} from "akasha/temper/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
+import { morphableSkillLineIds } from "akasha/temper/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
 import { requireFirst } from "akasha/util/narrow/modules/require-first/require-first.module.code.ts"
 
 interface SkillMorphsProgressPanelCardProps {

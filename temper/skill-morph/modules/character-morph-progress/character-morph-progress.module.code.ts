@@ -6,8 +6,8 @@ import {
   computeCharacterMorphProgressByEsoId,
   type ExpectedMorphableSkill,
   type MorphSkillLineProgressMap,
-} from "akasha/temper/skill-morphs/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
-import { morphableSkillsByLine } from "akasha/temper/skill-morphs/modules/morphable-skills/morphable-skills.module.code.ts"
+} from "akasha/temper/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import { morphableSkillsByLine } from "akasha/temper/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
 
 export interface CharacterMorphProgressInput {
   applicableLines: ReadonlySet<SkillLineId>

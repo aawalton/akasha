@@ -5,12 +5,12 @@ import {
 } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
 import { MORPHABLE_SKILLS_DETAIL_PER_LINE } from "akasha/temper/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/items-addon/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
-import { computeApplicableEsoSkillLineIds } from "akasha/temper/skill-morphs/modules/applicable-eso-skill-lines/applicable-eso-skill-lines.module.code.ts"
+import { computeApplicableEsoSkillLineIds } from "akasha/temper/skill-morph/modules/applicable-eso-skill-lines/applicable-eso-skill-lines.module.code.ts"
 import {
   computeCharacterMorphProgressByEsoId,
   type ExpectedMorphableSkill,
   type MorphSkillLineProgressMap,
-} from "akasha/temper/skill-morphs/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+} from "akasha/temper/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 const baseApplicableEsoLineIds: ReadonlySet<number> = (() => {

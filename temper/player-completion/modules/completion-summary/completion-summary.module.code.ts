@@ -24,11 +24,11 @@ import type {
   CharacterZoneCompletionProgress,
   CompletionCharacter,
 } from "akasha/temper/player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
-import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/modules/morph-progress-types/morph-progress-types.module.code.ts"
+import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
 import {
   buildMorphRankMap,
   getSkillLineMorphContribution,
-} from "akasha/temper/skill-morphs/modules/skill-line-morph-totals/skill-line-morph-totals.module.code.ts"
+} from "akasha/temper/skill-morph/modules/skill-line-morph-totals/skill-line-morph-totals.module.code.ts"
 import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,
