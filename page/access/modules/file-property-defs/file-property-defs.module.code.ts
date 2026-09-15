@@ -5,8 +5,6 @@ import type { Json } from "akasha/util/narrow/modules/json-value/json-value.modu
 import { camelizeKey } from "akasha/util/slug/modules/camelize-key/camelize-key.module.code.ts"
 import { z } from "zod"
 
-export const PAGE_TYPE = "page-type"
-
 export type Declaration = {
   readonly key: string
   readonly type: string
