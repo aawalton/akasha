@@ -31,10 +31,7 @@ import {
   settlingOver,
 } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import type { Filing } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import {
-  indexIn,
-  readingBuilding,
-} from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { indexIn, readingAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
   pagesUnder,
   walkedUnder,
@@ -138,7 +135,7 @@ export function refreshedFrom(
   if (put) {
     wholeInto(repo, shapesAmong(held.map((one) => ({ ...one, path: under(repo, one.path) }))))
   }
-  const reading = readingBuilding(root, repo)
+  const reading = readingAt(root, repo)
   const known = knownIn(reading, (path) => valueAt(path, repo))
   const beside = bodiesAt(repo)
   const filed = held.map((one) =>
@@ -229,9 +226,7 @@ export function indexingAt(root: string, repo: string): Indexing {
         after: one.after,
       }))
       pending.clear()
-      const found = settlingOver(readingBuilding(root, repo), repo, moving, (path) =>
-        valueAt(path, repo)
-      )
+      const found = settlingOver(readingAt(root, repo), repo, moving, (path) => valueAt(path, repo))
       filedInto(root, found.filings)
       besideInto(repo, found.references)
       wholeInto(repo, found.beside, false)

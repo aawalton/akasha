@@ -136,10 +136,6 @@ function readingOver(index: string, repo: string | null, holds: (at: string) => 
 }
 
 export function readingAt(index: string, repo: string | null = null): Reading {
-  return readingOver(index, repo, (at) => existsSync(join(index, at === ROOT ? BUILT_AT : at)))
-}
-
-export function readingBuilding(index: string, repo: string | null = null): Reading {
   return readingOver(index, repo, (at) => existsSync(join(index, at)))
 }
 

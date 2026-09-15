@@ -1,9 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
-import {
-  keepBuilt,
-  keepWhole,
-} from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import { keepWhole } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import {
   beneath,
   INDEX_AT,
@@ -11,10 +9,8 @@ import {
   overlaidOn,
   readFrom,
   readingAt,
-  readingBuilding,
   readingNone,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -64,20 +60,11 @@ test("a reading off the disk answers the three reads of the index it is rooted a
   ])
 })
 
-test("an index carrying no mark saying it is whole is read as an index that is not there", () => {
+test("a reading answers its root by the directory that root is", () => {
   const at = seeded()
-
-  expect(readingAt(at).holds("")).toBe(false)
-  expect(readingBuilding(at).holds("")).toBe(true)
-})
-
-test("the two readings differ at the root alone, however whole the index is", () => {
-  const at = seeded()
-  expect(everythingUnder(readingAt(at), "")).toEqual(everythingUnder(readingBuilding(at), ""))
-  keepBuilt(at)
 
   expect(readingAt(at).holds("")).toBe(true)
-  expect(readingBuilding(at).holds("")).toBe(true)
+  expect(readingAt(join(at, "nowhere")).holds("")).toBe(false)
 })
 
 test("a reading answers the directory that reading reads from", () => {

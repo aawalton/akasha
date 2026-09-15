@@ -9,7 +9,7 @@ import {
 } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { shapesAt } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { settlingOver } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
-import { readingBuilding } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { readingAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
   aProperty,
   aType,
@@ -126,7 +126,7 @@ export const shapeFiled = (
   tree: string,
   pageTypeSlug: string,
   slug: string
-): unknown => shapesAt(readingBuilding(root, tree)).get(`${pageTypeSlug}/${slug}`) ?? null
+): unknown => shapesAt(readingAt(root, tree)).get(`${pageTypeSlug}/${slug}`) ?? null
 
 export const noteShaped = (pageTypeSlug: string, targetPageTypeSlug: string | null): unknown => ({
   pageTypeSlug,
@@ -288,7 +288,7 @@ function uniqueKindRespelled(unique: string): readonly string[] {
   const { tree, root } = grounded()
   const at = join(tree, "id.text-property.ts")
   const moving = [{ path: at, before: bodyOf(idPage), after: bodyOf({ ...idPage, unique }) }]
-  const read = readingBuilding(root, tree)
+  const read = readingAt(root, tree)
   return settlingOver(read, tree, moving, (path) => valueAt(path, tree)).filings.map(
     (one) => one.at
   )
