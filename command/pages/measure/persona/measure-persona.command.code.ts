@@ -18,7 +18,7 @@ import {
   displayNameOf,
   personasStanding,
 } from "akasha/persona/modules/reading/persona-reading.module.code.ts"
-import { pointsTotalKept } from "akasha/persona/points/modules/keeping/persona-points-keeping.module.code.ts"
+import { pointsTotalKept } from "akasha/persona/point/modules/persona-points-keeping/persona-points-keeping.module.code.ts"
 import { levelOf } from "akasha/persona/properties/persona-relationship-level.computed-property.code.ts"
 
 const CLOSENESS_LEVEL = "closeness-level"

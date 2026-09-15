@@ -1527,7 +1527,7 @@
 {"propertySlug":"invariant-kind","path":"persona/modules/green-day-fraction/green-day-fraction.module.ts","id":"01a05b70-a58c-7b22-84e5-578b0088bcf5"}
 {"propertySlug":"invariant-kind","path":"persona/modules/targets/persona-targets.module.ts","id":"01a0657d-a75e-7009-bc7f-b3d878fd5671"}
 {"propertySlug":"invariant-kind","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
-{"propertySlug":"invariant-kind","path":"persona/points/modules/keeping/persona-points-keeping.module.ts","id":"01a082e4-93b8-7fa1-acc9-1b958af98ee5"}
+{"propertySlug":"invariant-kind","path":"persona/point/modules/persona-points-keeping/persona-points-keeping.module.ts","id":"01a082e4-93b8-7fa1-acc9-1b958af98ee5"}
 {"propertySlug":"invariant-kind","path":"persona/properties/persona-relationship-level.computed-property.ts","id":"01a082dd-bbc6-70a8-b7c5-94c16ef56e98"}
 {"propertySlug":"invariant-kind","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.ts","id":"01a0655b-4a9b-700d-88c0-5e1a49f13be5"}
 {"propertySlug":"invariant-kind","path":"story/engine/core/story-engine-core.domain.ts","id":"01a05b71-e544-7ab9-87b3-b98dbd2ed891"}

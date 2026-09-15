@@ -10,7 +10,7 @@ import { personaAt } from "akasha/persona/modules/reading/persona-reading.module
 import {
   keepPoints,
   pointsIn,
-} from "akasha/persona/points/modules/keeping/persona-points-keeping.module.code.ts"
+} from "akasha/persona/point/modules/persona-points-keeping/persona-points-keeping.module.code.ts"
 
 const NO_PERSONA = "no persona is filed under this name, so her count is counted against nobody"
 

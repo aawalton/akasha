@@ -7,7 +7,7 @@ import {
   pointsBeforeTodayKept,
   pointsIn,
   pointsTotalKept,
-} from "akasha/persona/points/modules/keeping/persona-points-keeping.module.code.ts"
+} from "akasha/persona/point/modules/persona-points-keeping/persona-points-keeping.module.code.ts"
 
 const HOLD = "/var/tmp"
 

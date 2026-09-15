@@ -15,7 +15,7 @@ export const persona = {
   },
   parts: [
     "computed-property/persona-relationship-level",
-    "domain/persona-points",
+    "domain/persona-point",
     "email-address-property/email-address",
     "file-property/appearance",
     "file-property/desktop-wallpaper",

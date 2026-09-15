@@ -501,7 +501,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"persona/closeness-level/closeness-level.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"persona/origin-kind/origin-kind.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"persona/persona.page-type.types.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"persona/points/persona-points.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"persona/point/persona-point.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/archive-of-worlds/archive-of-worlds.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/audhdalan/audhdalan.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"product/game/clear-the-world/clear-the-world.domain.ts"}
