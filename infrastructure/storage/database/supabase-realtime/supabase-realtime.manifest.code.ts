@@ -5,9 +5,10 @@ import {
 } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import { secretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
+import { supabaseRealtime } from "akasha/infrastructure/service/cluster/pages/supabase-realtime/supabase-realtime.service-cluster.ts"
 
-const NAMESPACE = "supabase-realtime"
-const APP_LABEL = "realtime"
+const NAMESPACE = supabaseRealtime.namespace
+const APP_LABEL = supabaseRealtime.resourceName
 const SECRETS_NAME = "realtime-secrets"
 const SECRETS_KEYS = [
   "API_JWT_SECRET",
@@ -17,7 +18,7 @@ const SECRETS_KEYS = [
   "SECRET_KEY_BASE",
 ]
 
-const REALTIME_IMAGE = "supabase/realtime:v2.86.3"
+const REALTIME_IMAGE = supabaseRealtime.image
 const ALPINE_IMAGE = "alpine:3.20.6"
 
 const RESOURCE_LABELS = {
@@ -143,7 +144,7 @@ function serviceYaml(): string {
     apiVersion: "v1",
     kind: "Service",
     metadata: {
-      name: "realtime",
+      name: supabaseRealtime.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
@@ -153,8 +154,8 @@ function serviceYaml(): string {
       ports: [
         {
           name: "http",
-          port: 4000,
-          targetPort: 4000,
+          port: supabaseRealtime.containerPort,
+          targetPort: supabaseRealtime.containerPort,
           protocol: "TCP",
         },
       ],
@@ -167,12 +168,12 @@ function deploymentYaml(): string {
     apiVersion: "apps/v1",
     kind: "Deployment",
     metadata: {
-      name: "realtime",
+      name: supabaseRealtime.resourceName,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: supabaseRealtime.replicas,
       strategy: {
         type: "RollingUpdate",
         rollingUpdate: {
@@ -195,11 +196,11 @@ function deploymentYaml(): string {
               name: "realtime",
               image: REALTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
-              ports: [{ containerPort: 4000, protocol: "TCP" }],
+              ports: [{ containerPort: supabaseRealtime.containerPort, protocol: "TCP" }],
               command: ["/bin/sh", "-c", REALTIME_COMMAND_SCRIPT],
               env: [
                 { name: "APP_NAME", value: "realtime" },
-                { name: "PORT", value: "4000" },
+                { name: "PORT", value: `${supabaseRealtime.containerPort}` },
                 { name: "ERL_AFLAGS", value: "-proto_dist inet_tcp" },
                 { name: "DB_IP_VERSION", value: "ipv4" },
                 {
@@ -270,12 +271,12 @@ function deploymentYaml(): string {
               },
               volumeMounts: [{ name: "tmp", mountPath: "/tmp" }],
               readinessProbe: {
-                httpGet: { path: "/healthcheck", port: 4000 },
+                httpGet: { path: "/healthcheck", port: supabaseRealtime.containerPort },
                 initialDelaySeconds: 10,
                 periodSeconds: 10,
               },
               livenessProbe: {
-                httpGet: { path: "/healthcheck", port: 4000 },
+                httpGet: { path: "/healthcheck", port: supabaseRealtime.containerPort },
                 initialDelaySeconds: 30,
                 periodSeconds: 30,
               },
