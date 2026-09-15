@@ -1,6 +1,7 @@
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
+import { edgeIn } from "akasha/page/index/edge/index-edge.index.code.ts"
 import { identityIn } from "akasha/page/index/identity/index-identity.index.code.ts"
 import { importIn } from "akasha/page/index/import/index-import.index.code.ts"
 import {
@@ -36,7 +37,6 @@ import {
   pagesUnder,
   walkedUnder,
 } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
-import { edgeIn } from "akasha/page/index/edge/index-edge.index.code.ts"
 import { readerIn, ruleIn } from "akasha/page/index/rule/index-rule.index.code.ts"
 import {
   pageTypeSlugsIn,
@@ -136,22 +136,22 @@ export function refreshedFrom(
       rowsOver(under(repo, one.path), one.value, known.entriedIn(one.value), beside)
     )
   )
-  const relation = filed.flatMap((one) => one.entries)
-  drift.push(reconcile(relation, root, put, done))
+  const edge = filed.flatMap((one) => one.entries)
+  drift.push(reconcile(edge, root, put, done))
   const naming = reachingBuilt(held, repo, fileProperties, filedBy)
   const walked = bodiesUnder(tree)
   const imported = walked.flatMap((one) => importIn(one.body, one.path, repo, naming))
   drift.push(reconcile(imported, root, put, done))
   const ruled = [...walked.flatMap((one) => ruleIn(one.body, one.path, repo)), readerIn()]
   drift.push(reconcile(ruled, root, put, done))
-  const every = [...identity, ...valued, ...shaped, ...carrying, ...relation, ...imported, ...ruled]
+  const every = [...identity, ...valued, ...shaped, ...carrying, ...edge, ...imported, ...ruled]
   const went = takenAway(every, root, put, done)
   if (put) keepBuilt(root)
   return {
     pages: held.length,
     entries:
       identity.length +
-      relation.length +
+      edge.length +
       imported.length +
       ruled.length +
       valued.length +

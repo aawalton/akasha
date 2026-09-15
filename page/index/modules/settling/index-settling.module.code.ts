@@ -1,3 +1,4 @@
+import { edgeIn, NOTHING_FILED } from "akasha/page/index/edge/index-edge.index.code.ts"
 import { identityIn } from "akasha/page/index/identity/index-identity.index.code.ts"
 import { importIn } from "akasha/page/index/import/index-import.index.code.ts"
 import {
@@ -36,10 +37,6 @@ import {
   overlaidOn,
   readingNone,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import {
-  NOTHING_FILED,
-  edgeIn,
-} from "akasha/page/index/edge/index-edge.index.code.ts"
 import { ruleIn } from "akasha/page/index/rule/index-rule.index.code.ts"
 import {
   pageTypeSlugsIn,
@@ -281,22 +278,10 @@ export function settlingOver(
     ...held.map((one) =>
       one.was === null
         ? NOTHING_FILED
-        : edgeIn(
-            one.was,
-            one.path,
-            wasKnown,
-            repo,
-            rowsFor(one.path, one.was, wasKnown, wasBody)
-          )
+        : edgeIn(one.was, one.path, wasKnown, repo, rowsFor(one.path, one.was, wasKnown, wasBody))
     ),
     ...refiling.map((one) =>
-      edgeIn(
-        one.value,
-        one.path,
-        wasKnown,
-        repo,
-        rowsFor(one.path, one.value, wasKnown, wasBody)
-      )
+      edgeIn(one.value, one.path, wasKnown, repo, rowsFor(one.path, one.value, wasKnown, wasBody))
     ),
   ]
   const now = [
@@ -309,20 +294,12 @@ export function settlingOver(
       edgeIn(one.value, one.path, known, repo, rowsFor(one.path, one.value, known, nowBody))
     ),
   ]
-  const relation = filingOf(
+  const edge = filingOf(
     was.flatMap((one) => one.entries),
     now.flatMap((one) => one.entries)
   )
 
-  const filings = [
-    ...imported,
-    ...ruled,
-    ...identity,
-    ...relation,
-    ...valued,
-    ...shaping,
-    ...carrying,
-  ]
+  const filings = [...imported, ...ruled, ...identity, ...edge, ...valued, ...shaping, ...carrying]
   return {
     reading: overlaidOn(given, filings, wrote),
     filings,
