@@ -7,6 +7,7 @@ import { categoryTitles } from "akasha/alan/harness/monarch/modules/rule-pages/m
 import type { Rule } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import { bearsOn } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
 import type { Subject } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export interface HistoryRow {
   readonly monarchId: string
@@ -22,7 +23,7 @@ export interface HistoryRow {
 }
 
 function rowOf(line: TransactionLine, titles: ReadonlyMap<string, string>): HistoryRow {
-  const category = line.category ?? null
+  const category = line.category === undefined ? null : slugOf(line.category)
   return {
     monarchId: line.monarchId,
     date: line.transactionDay,
