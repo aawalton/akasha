@@ -2,7 +2,7 @@ import type { TemperArmorTrait } from "akasha/temper/catalog/temper-gear/temper-
 
 export const impenetrable = {
   id: "01a05fb2-1bce-7f82-b0f1-3b03e5065b7b",
-  type: "temper-armor-trait",
+  type: "page-type/temper-armor-trait",
   slug: "impenetrable",
   title: "Impenetrable",
   key: "impenetrable",

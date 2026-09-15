@@ -2,7 +2,7 @@ import type { TemperArmorTrait } from "akasha/temper/catalog/temper-gear/temper-
 
 export const infused = {
   id: "01a05fb2-1bcf-740b-839d-2f0819a8a7ad",
-  type: "temper-armor-trait",
+  type: "page-type/temper-armor-trait",
   slug: "infused",
   title: "Infused",
   key: "infused",

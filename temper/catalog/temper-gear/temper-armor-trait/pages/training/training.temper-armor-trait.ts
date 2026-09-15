@@ -2,7 +2,7 @@ import type { TemperArmorTrait } from "akasha/temper/catalog/temper-gear/temper-
 
 export const training = {
   id: "01a05fb2-1bd1-76b9-a51c-6834aa119055",
-  type: "temper-armor-trait",
+  type: "page-type/temper-armor-trait",
   slug: "training",
   title: "Training",
   key: "training",

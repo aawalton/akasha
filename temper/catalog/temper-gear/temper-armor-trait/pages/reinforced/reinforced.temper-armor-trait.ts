@@ -2,7 +2,7 @@ import type { TemperArmorTrait } from "akasha/temper/catalog/temper-gear/temper-
 
 export const reinforced = {
   id: "01a05fb2-1bd1-7dba-b5ac-0f28ecbae701",
-  type: "temper-armor-trait",
+  type: "page-type/temper-armor-trait",
   slug: "reinforced",
   title: "Reinforced",
   key: "reinforced",
