@@ -1,20 +1,30 @@
 import { afterAll, expect, test } from "bun:test"
 import { runChange } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
 import {
+  HOLDER_CHILD,
+  HOLDER_KEPT,
+  HOLDER_PAGE,
   KEPT_ENTRIES,
   KEPT_LANDS,
   KEPT_LANDS_ENTRIES,
   KEPT_PAGE,
+  LONE_PAGE,
   movesOf,
+  OTHER_CODE,
+  OTHER_PAGE,
+  OTHER_SLUG,
   OWNED_CODE,
   OWNED_LANDS,
   OWNED_PAGE,
   OWNED_UNDER,
+  otherAt,
   pagesAt,
   RUNS,
   SEATED_PAGE,
   SEATED_SLUG,
   SECOND_PAGE,
+  SHARED_CODE,
+  SHARED_PAGE,
   WARDED_CODE,
   WARDED_LANDS,
   WARDED_LANDS_CODE,
@@ -61,11 +71,9 @@ const CARRIED_PAGE = "akasha/carried/carried.module.ts"
 
 const CARRIED_CODE = "akasha/carried/carried.module.code.ts"
 
-const OTHER_PAGE = "akasha/three/other-one.module.ts"
+const HELD_REFS = "akasha/one/held.module.referenced-by.jsonl"
 
-const OTHER_SLUG = "other-one"
-
-const OTHER_CODE = "akasha/three/other-one.module.code.ts"
+const CARRIED_REFS = "akasha/carried/carried.module.referenced-by.jsonl"
 
 const TYPED_SLUG = "typed-one"
 
@@ -92,11 +100,6 @@ const typedAt: string = indexedRepo({
   [READER_CODE]: readerBody("TypedOne", `../five/${TYPED_SLUG}.module.ts`),
 })
 
-const statedAs = (value: Record<string, unknown>, named: string): string =>
-  bodyOf(value).replace("export const it", `export const ${named}`)
-
-const OTHER_VALUE = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
-
 const SPELLER_PAGE = "akasha/eight/speller.module.ts"
 
 const SPELLER_CODE = "akasha/eight/speller.module.code.ts"
@@ -104,23 +107,6 @@ const SPELLER_CODE = "akasha/eight/speller.module.code.ts"
 const heldAt: string = indexedRepo({
   [SPELLER_PAGE]: pageOf({ id: idOf("c"), pageTypeSlug: "module", slug: "speller", code: "ts" }),
   [SPELLER_CODE]: `export const at = "module/${HELD_SLUG}"\n`,
-})
-
-const SHARED_PAGE = "akasha/ten/shared-one.module.ts"
-
-const SHARED_CODE = "akasha/ten/shared-one.module.code.ts"
-
-const SHARED_BESIDE = "akasha/ten/second-here.module.ts"
-
-const LONE_PAGE = "akasha/eleven/lone-one.module.ts"
-
-const otherAt: string = indexedRepo({
-  [OTHER_PAGE]: statedAs(OTHER_VALUE, "otherOne"),
-  [OTHER_CODE]: "export const kept = 2\n",
-  [SHARED_PAGE]: pageOf({ id: idOf("0"), pageTypeSlug: "module", slug: "shared-one", code: "ts" }),
-  [SHARED_CODE]: "export const kept = 9\n",
-  [SHARED_BESIDE]: pageOf({ id: idOf("d"), pageTypeSlug: "module", slug: "second-here" }),
-  [LONE_PAGE]: pageOf({ id: idOf("1"), pageTypeSlug: "module", slug: "lone-one" }),
 })
 
 const heldWas = textIn(heldAt)
@@ -197,6 +183,7 @@ test("a page's slug is renamed in its data, and its files are carried with it", 
   expect(movesOf(said)).toEqual([
     [HELD_PAGE, CARRIED_PAGE],
     [HELD_CODE, CARRIED_CODE],
+    [HELD_REFS, CARRIED_REFS],
   ])
   expect(bodies.get(CARRIED_PAGE)).toBe(
     page
@@ -232,6 +219,7 @@ test("a caller having restated every address already has no address restated her
   expect(movesOf(said)).toEqual([
     [HELD_PAGE, CARRIED_PAGE],
     [HELD_CODE, CARRIED_CODE],
+    [HELD_REFS, CARRIED_REFS],
   ])
   expect(bodies.get(CARRIED_PAGE) ?? "").toContain(`"slug": "${CARRIED}"`)
   expect(bodies.get(NAMER_PAGE) ?? "").toContain(`"note": "${CARRIED}"`)
@@ -310,6 +298,17 @@ test("a page alone in its folder with no file beside it carries that folder too"
   expect(movesOf(said)).toEqual([[LONE_PAGE, CARRIED_PAGE]])
 })
 
+test("a folder under the one renamed is named again by what the new slug says", async () => {
+  const root = otherAt
+  const said = await runChange(worldIn(root, textIn(root)), { at: HOLDER_PAGE, to: "holder" })
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([
+    [HOLDER_PAGE, "akasha/holder/holder.module.ts"],
+    [HOLDER_CHILD, "akasha/holder/modules/one/holder-one.module.ts"],
+    [HOLDER_KEPT, "akasha/holder/pages/only-one.module.ts"],
+  ])
+})
+
 test("a page carrying the slug asked for is carried into the folder that slug names", async () => {
   const root = otherAt
   const said = await runChange(worldIn(root, textIn(root)), { at: OTHER_PAGE, to: OTHER_SLUG })
@@ -349,6 +348,7 @@ test("a page renamed over a ledger is carried once rather than a second time", a
   expect(movesOf(said)).toEqual([
     [HELD_PAGE, CARRIED_PAGE],
     [HELD_CODE, CARRIED_CODE],
+    [HELD_REFS, CARRIED_REFS],
   ])
   expect(bodiesIn(said, was).get(CARRIED_PAGE) ?? "").toContain(`"slug": "${CARRIED}"`)
 })

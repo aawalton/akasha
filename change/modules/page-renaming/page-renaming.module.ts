@@ -42,6 +42,10 @@ export const pageRenaming = {
     },
     {
       invariantKind: "departure",
+      statement: "A file named for the page beside it is named for that page's new slug.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page in a folder named for what its slug adds keeps a folder named that way.",
     },
     {

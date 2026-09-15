@@ -8,6 +8,7 @@ import { running } from "akasha/change/runner/pages/test-change-running/test-cha
 import { relationFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   bodyOf,
+  idOf,
   indexedRepo,
   pageOf,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
@@ -202,6 +203,43 @@ export const pagesAt: string = packaged({
   [WAY_MANIFEST]: WAY_BODY,
   [WAY_PAGE]: pageOf({ id: oneId("11"), pageTypeSlug: "module", slug: "ninth", code: "ts" }),
   [WAY_CODE]: "export const kept = 8\n",
+})
+
+export const OTHER_SLUG = "other-one"
+
+export const OTHER_PAGE = "akasha/three/other-one.module.ts"
+
+export const OTHER_CODE = "akasha/three/other-one.module.code.ts"
+
+export const SHARED_PAGE = "akasha/ten/shared-one.module.ts"
+
+export const SHARED_CODE = "akasha/ten/shared-one.module.code.ts"
+
+const SHARED_BESIDE = "akasha/ten/second-here.module.ts"
+
+export const LONE_PAGE = "akasha/eleven/lone-one.module.ts"
+
+export const HOLDER_PAGE = "akasha/holders/holders.module.ts"
+
+export const HOLDER_CHILD = "akasha/holders/modules/holder-one/holder-one.module.ts"
+
+export const HOLDER_KEPT = "akasha/holders/pages/only-one.module.ts"
+
+const OTHER_VALUE = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
+
+const statedAs = (value: Record<string, unknown>, named: string): string =>
+  bodyOf(value).replace("export const it", `export const ${named}`)
+
+export const otherAt: string = indexedRepo({
+  [OTHER_PAGE]: statedAs(OTHER_VALUE, "otherOne"),
+  [OTHER_CODE]: "export const kept = 2\n",
+  [SHARED_PAGE]: pageOf({ id: idOf("0"), pageTypeSlug: "module", slug: "shared-one", code: "ts" }),
+  [SHARED_CODE]: "export const kept = 9\n",
+  [SHARED_BESIDE]: pageOf({ id: idOf("d"), pageTypeSlug: "module", slug: "second-here" }),
+  [LONE_PAGE]: pageOf({ id: idOf("1"), pageTypeSlug: "module", slug: "lone-one" }),
+  [HOLDER_PAGE]: pageOf({ id: idOf("2"), pageTypeSlug: "module", slug: "holders" }),
+  [HOLDER_CHILD]: pageOf({ id: idOf("3"), pageTypeSlug: "module", slug: "holder-one" }),
+  [HOLDER_KEPT]: pageOf({ id: idOf("4"), pageTypeSlug: "module", slug: "only-one" }),
 })
 
 export const RUNS: Reaching = running

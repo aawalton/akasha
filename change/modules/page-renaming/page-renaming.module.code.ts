@@ -174,11 +174,18 @@ function underIn(
 ): readonly Move[] {
   const paths = world.under(from)
   const folders = foldersUnder(world.root, from, to, held.slug, given.to, paths)
+  const opening = `${held.slug}.${held.pageTypeSlug}.`
   const found: Move[] = []
   for (const path of paths) {
     if (moved.has(path)) continue
-    const lands = folders.get(dirname(path)) ?? join(to, relative(from, dirname(path)))
-    found.push({ from: path, to: join(lands, basename(path)) })
+    const at = dirname(path)
+    const lands = folders.get(at) ?? join(to, relative(from, at))
+    const name = basename(path)
+    const takes =
+      at === from && name.startsWith(opening)
+        ? `${given.to}.${held.pageTypeSlug}.${name.slice(opening.length)}`
+        : name
+    found.push({ from: path, to: join(lands, takes) })
   }
   return found.sort((one, two) => (one.from < two.from ? -1 : one.from > two.from ? 1 : 0))
 }
