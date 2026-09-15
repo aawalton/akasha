@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const beckoningArmor = {
   id: "019e6245-a5f5-71b2-8210-25a9f4e88528",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "beckoning-armor",
   title: "Beckoning Armor",
   key: "beckoning-armor",

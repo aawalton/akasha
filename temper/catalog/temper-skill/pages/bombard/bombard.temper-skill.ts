@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const bombard = {
   id: "019e6226-00d9-76e0-b4e2-cb73c9658313",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "bombard",
   title: "Bombard",
   key: "bombard",

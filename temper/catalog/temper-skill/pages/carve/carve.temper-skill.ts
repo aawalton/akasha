@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const carve = {
   id: "019e6226-00db-70e2-9f24-7231705479ee",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "carve",
   title: "Carve",
   key: "carve",

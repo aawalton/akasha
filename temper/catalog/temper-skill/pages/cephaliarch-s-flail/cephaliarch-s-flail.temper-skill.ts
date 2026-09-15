@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const cephaliarchSFlail = {
   id: "019e6f53-9fc4-7e6c-a107-763cf4dfad95",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "cephaliarch-s-flail",
   title: "Cephaliarch's Flail",
   key: "cephaliarch-s-flail",

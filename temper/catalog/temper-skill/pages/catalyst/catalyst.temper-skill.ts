@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const catalyst = {
   id: "019e6245-a611-7515-be64-f1e3d7d0e883",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "catalyst",
   title: "Catalyst",
   key: "catalyst",

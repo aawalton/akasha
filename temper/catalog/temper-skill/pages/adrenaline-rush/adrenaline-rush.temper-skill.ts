@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const adrenalineRush = {
   id: "019e624a-12bb-7319-8fe4-6abb0101350d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "adrenaline-rush",
   title: "Adrenaline Rush",
   key: "adrenaline-rush",

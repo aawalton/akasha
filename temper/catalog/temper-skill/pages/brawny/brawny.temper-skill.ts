@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const brawny = {
   id: "019e624a-12c1-726c-8677-2e48f66258b5",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "brawny",
   title: "Brawny",
   key: "brawny",

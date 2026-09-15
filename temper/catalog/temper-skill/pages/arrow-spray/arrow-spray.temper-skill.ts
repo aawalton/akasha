@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const arrowSpray = {
   id: "019e6f53-9ec4-7ff1-8f01-3d00b1cbeb56",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "arrow-spray",
   title: "Arrow Spray",
   key: "arrow-spray",

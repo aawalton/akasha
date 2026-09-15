@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const agonyTotem = {
   id: "019e6245-a5e8-7afb-a5b3-1c1805aebd73",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "agony-totem",
   title: "Agony Totem",
   key: "agony-totem",

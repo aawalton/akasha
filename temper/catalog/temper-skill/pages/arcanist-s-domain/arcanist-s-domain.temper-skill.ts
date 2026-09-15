@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const arcanistSDomain = {
   id: "019e6f53-9eba-7211-98f7-4826502f893e",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "arcanist-s-domain",
   title: "Arcanist's Domain",
   key: "arcanist-s-domain",

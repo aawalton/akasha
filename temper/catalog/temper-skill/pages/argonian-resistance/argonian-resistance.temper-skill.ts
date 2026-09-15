@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const argonianResistance = {
   id: "019e624a-12be-716e-bbbd-b87a0f0f6e92",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "argonian-resistance",
   title: "Argonian Resistance",
   key: "argonian-resistance",

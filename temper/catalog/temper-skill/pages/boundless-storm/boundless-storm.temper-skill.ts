@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const boundlessStorm = {
   id: "019e6245-a604-7e61-b2cb-cd920ea52d52",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "boundless-storm",
   title: "Boundless Storm",
   key: "boundless-storm",

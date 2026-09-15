@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const blessingAtThePeak = {
   id: "019e6f53-9f2e-7464-9d24-8832f82790fe",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "blessing-at-the-peak",
   title: "Blessing at the Peak",
   key: "blessing-at-the-peak",

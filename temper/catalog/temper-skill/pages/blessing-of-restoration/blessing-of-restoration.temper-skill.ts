@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const blessingOfRestoration = {
   id: "019e6226-00d7-70ea-81b2-568b3d50d7b3",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "blessing-of-restoration",
   title: "Blessing of Restoration",
   key: "blessing-of-restoration",

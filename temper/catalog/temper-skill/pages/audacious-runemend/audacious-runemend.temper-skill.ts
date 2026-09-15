@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const audaciousRunemend = {
   id: "019e6245-a5ee-73c9-ac62-27b2694a45dd",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "audacious-runemend",
   title: "Audacious Runemend",
   key: "audacious-runemend",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const ballOfLightning23277 = {
   id: "019e6f53-9ee5-72e3-aef8-f0fd730185b5",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "ball-of-lightning-23277",
   title: "Ball of Lightning",
   key: "ball-of-lightning-23277",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const boneArmor = {
   id: "019e6f53-9f6f-72a7-acdc-4243995e749e",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "bone-armor",
   title: "Bone Armor",
   key: "bone-armor",

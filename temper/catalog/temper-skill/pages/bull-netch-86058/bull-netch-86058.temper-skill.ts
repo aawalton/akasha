@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const bullNetch86058 = {
   id: "019e6f53-9f9a-7264-beba-1ee393eb884b",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "bull-netch-86058",
   title: "Bull Netch",
   key: "bull-netch-86058",

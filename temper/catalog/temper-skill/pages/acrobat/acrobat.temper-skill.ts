@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const acrobat = {
   id: "019e624a-12b9-798a-9982-64a12171e461",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "acrobat",
   title: "Acrobat",
   key: "acrobat",

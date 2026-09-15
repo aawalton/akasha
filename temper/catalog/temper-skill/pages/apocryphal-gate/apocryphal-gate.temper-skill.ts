@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const apocryphalGate = {
   id: "019e6f53-9eb8-7fa0-bf6a-3477e431db84",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "apocryphal-gate",
   title: "Apocryphal Gate",
   key: "apocryphal-gate",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const chainsOfDominance = {
   id: "019e6245-a617-7ee4-8a1f-e9c455c45600",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "chains-of-dominance",
   title: "Chains of Dominance",
   key: "chains-of-dominance",

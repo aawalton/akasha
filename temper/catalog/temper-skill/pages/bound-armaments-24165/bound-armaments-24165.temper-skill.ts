@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const boundArmaments24165 = {
   id: "019e6f53-9f7f-70ea-9c50-a6bf6f73f88c",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "bound-armaments-24165",
   title: "Bound Armaments",
   key: "bound-armaments-24165",

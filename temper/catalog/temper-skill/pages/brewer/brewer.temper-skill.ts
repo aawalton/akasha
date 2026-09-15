@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const brewer = {
   id: "019e6224-cc88-7e91-b5b1-737092f32a87",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "brewer",
   title: "Brewer",
   key: "brewer",

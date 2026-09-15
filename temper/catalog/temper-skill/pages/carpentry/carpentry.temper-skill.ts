@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const carpentry = {
   id: "019e6224-cc8b-7d85-a472-4dae6edb86e9",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "carpentry",
   title: "Carpentry",
   key: "carpentry",

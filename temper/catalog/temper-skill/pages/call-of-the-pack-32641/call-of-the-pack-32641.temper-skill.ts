@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const callOfThePack32641 = {
   id: "019e6f53-9fac-7902-9f6c-0480ec40ef42",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "call-of-the-pack-32641",
   title: "Call of the Hunt",
   key: "call-of-the-pack-32641",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const arcticBlast = {
   id: "019e6245-a5ed-70d1-9ff4-0e2fa36de829",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "arctic-blast",
   title: "Arctic Blast",
   key: "arctic-blast",

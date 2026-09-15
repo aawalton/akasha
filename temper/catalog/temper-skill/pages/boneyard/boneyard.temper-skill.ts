@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const boneyard = {
   id: "019e6f53-9f76-76be-bdb1-ab8d323ed670",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "boneyard",
   title: "Boneyard",
   key: "boneyard",

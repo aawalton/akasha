@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const barbedTrap40382 = {
   id: "019e6f53-9eed-760f-be35-c55662de5741",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "barbed-trap-40382",
   title: "Barbed Trap",
   key: "barbed-trap-40382",

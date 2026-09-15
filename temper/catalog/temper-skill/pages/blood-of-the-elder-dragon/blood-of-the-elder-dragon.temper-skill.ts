@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const bloodOfTheElderDragon = {
   id: "019e6f53-9f51-7a68-a844-7586ca379ab3",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "blood-of-the-elder-dragon",
   title: "Blood of the Elder Dragon",
   key: "blood-of-the-elder-dragon",

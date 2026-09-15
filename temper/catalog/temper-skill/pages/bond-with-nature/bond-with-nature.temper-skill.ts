@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const bondWithNature = {
   id: "019e6245-a601-78d8-8c95-1b1c89574423",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "bond-with-nature",
   title: "Bond with Nature",
   key: "bond-with-nature",

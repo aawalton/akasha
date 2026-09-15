@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const boneSurge = {
   id: "019e6238-c29b-7e54-8f20-5a193d0b1033",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "bone-surge",
   title: "Bone Surge",
   key: "bone-surge",
