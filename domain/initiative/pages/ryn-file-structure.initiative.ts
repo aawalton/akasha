@@ -34,11 +34,6 @@ export const rynFileStructure = {
       workingMemory:
         "About 60 stray part edges. Thirty service-workstations, thirteen service-inferences, thirteen readouts, three dashboards and a repo are owned by a scattered domain but filed centrally where they deploy from. `domain/email-watch` at alan/harness/email-watch names `service-workstation/alan-email-worker` at infrastructure/service/workstation/pages. Whether the owning domain or the deploy tree is the right home is unsettled.",
     },
-    {
-      statement: "No page names a sibling a part.",
-      workingMemory:
-        "Thirty stray part edges. `seat-turn-state/idle` names `seat-turn-state/idle-pending` in the same pages folder, `ast-unused-config/every-workspace` names its seven siblings, and twenty-one page-property-entry records name field properties sitting beside them. A parts edge inverts to a parent, so a page naming its sibling makes that sibling its child while the folders say otherwise.",
-    },
   ],
   constraints: [
     "A page listing is reached at its page type's slug.",
