@@ -35,14 +35,6 @@ export const pageTree = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "An index that is not there refuses rather than falling back to a walk.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "An index that is not there is a fault of the data rather than of the world.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "The three groups are handed back and the caller assembles the tree.",
     },
     {
