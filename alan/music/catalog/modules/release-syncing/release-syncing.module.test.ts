@@ -253,7 +253,7 @@ test("a release of another artist under the same title is filed on its own", () 
 })
 
 test("an artist and a title together name one filed release", () => {
-  expect(titleKey("sylvia-daley", "Rubik's Cube")).toBe("sylvia-daley|rubik-s-cube")
+  expect(titleKey("sylvia-daley", "Rubik's Cube")).toBe("sylvia-daley|rubiks-cube")
 })
 
 test("a release names its artist the same whether or not the page type is written", () => {
