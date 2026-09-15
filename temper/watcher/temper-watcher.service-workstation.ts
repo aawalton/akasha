@@ -10,8 +10,6 @@ export const temperWatcher = {
   systemd: {
     restart: "on-failure",
     restartDelaySeconds: 5,
-    successExitStatus: 75,
-    restartForceExitStatus: 75,
     startLimitIntervalSeconds: 0,
   },
   invariants: [
@@ -21,12 +19,11 @@ export const temperWatcher = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "A change to the worker reaches the workstation on a restart rather than on a deploy.",
+      statement: "A change to the worker reaches the workstation when the unit starts again.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Exit 75 is the worker asking to start again and is counted as a clean stop.",
+      statement: "The worker runs the checkout it was started in and moves that checkout nowhere.",
     },
     {
       invariantKind: "invariant-kind/departure",

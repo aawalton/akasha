@@ -45,31 +45,11 @@ export const watcherUpdating = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "An equal flag answers equal ahead of both ancestor flags.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "Only a source checkout behind the target sha is fast-forwarded.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A source checkout ahead of the target sha is left alone.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A source checkout diverged from the target sha is left alone.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "A git command exiting non-zero is read as an answer rather than thrown.",
     },
     {
       invariantKind: "invariant-kind/departure",
       statement: "The repository directory reaches git as -C rather than as a working directory.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "An advanced source checkout exits the worker with code 75.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -106,7 +86,7 @@ export const watcherUpdating = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A caller may hand in the source repository git is asked through.",
+      statement: "A caller may hand in the read answering the head a checkout is on.",
     },
     {
       invariantKind: "invariant-kind/absence",
@@ -115,6 +95,10 @@ export const watcherUpdating = {
     {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here restarts the temper-watcher service.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "Nothing here fetches, merges or otherwise writes a checkout.",
     },
     {
       invariantKind: "invariant-kind/gap",

@@ -4,8 +4,6 @@ import { isSourceRuntime } from "akasha/temper/watcher/modules/watcher-runtime/w
 import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 import { z } from "zod"
 
-export const SOURCE_UPDATE_EXIT_CODE = 75
-
 const BODY_SUMMARY_MAX = 200
 
 const WORKER_EXE_STEM = "temper-watcher-worker"
@@ -225,87 +223,16 @@ export function cleanupOldExe(deps: ExeCleanupDeps = {}): undefined {
   return undefined
 }
 
-export type GitRelation = "equal" | "behind" | "ahead" | "diverged"
-
-export interface GitRelationObservation {
-  readonly equal: boolean
-  readonly headIsAncestorOfTarget: boolean
-  readonly targetIsAncestorOfHead: boolean
+export interface HeadReading {
+  readonly headSha?: (repoDir: string) => string | null
 }
 
-export function classifyGitRelation(input: GitRelationObservation): GitRelation {
-  if (input.equal) return "equal"
-  if (input.headIsAncestorOfTarget) return "behind"
-  if (input.targetIsAncestorOfHead) return "ahead"
-  return "diverged"
+function headShaAt(repoDir: string): string | null {
+  const answered = ran(["git", "-C", repoDir, "rev-parse", "HEAD"])
+  const sha = answered.out.trim()
+  return answered.code === 0 && sha.length > 0 ? sha : null
 }
 
-export interface SourceRepo {
-  readonly headSha: () => string | null
-  readonly fetchOrigin: () => boolean
-  readonly holdsCommit: (sha: string) => boolean
-  readonly isAncestor: (earlier: string, later: string) => boolean
-  readonly fastForwardTo: (sha: string) => boolean
-}
-
-export function gitRepoAt(repoDir: string): SourceRepo {
-  const succeeded = (argv: readonly string[]): boolean =>
-    ran(["git", "-C", repoDir, ...argv]).code === 0
-  return {
-    headSha: () => {
-      const answered = ran(["git", "-C", repoDir, "rev-parse", "HEAD"])
-      const sha = answered.out.trim()
-      return answered.code === 0 && sha.length > 0 ? sha : null
-    },
-    fetchOrigin: () => succeeded(["fetch", "origin", "--quiet"]),
-    holdsCommit: (sha) => succeeded(["cat-file", "-e", `${sha}^{commit}`]),
-    isAncestor: (earlier, later) => succeeded(["merge-base", "--is-ancestor", earlier, later]),
-    fastForwardTo: (sha) => succeeded(["merge", "--ff-only", sha]),
-  }
-}
-
-export interface SourceUpdateDeps {
-  readonly repo?: SourceRepo
-}
-
-export function resolveSourceHeadSha(repoDir: string, deps: SourceUpdateDeps = {}): string | null {
-  return (deps.repo ?? gitRepoAt(repoDir)).headSha()
-}
-
-export interface SourceUpdateResult {
-  readonly advanced: boolean
-  readonly relation: GitRelation | "unknown"
-  readonly reason: string
-}
-
-export function performSourceUpdate(
-  repoDir: string,
-  targetSha: string,
-  deps: SourceUpdateDeps = {}
-): SourceUpdateResult {
-  const repo = deps.repo ?? gitRepoAt(repoDir)
-
-  const head = repo.headSha()
-  if (head === null) return { advanced: false, relation: "unknown", reason: "not-a-git-checkout" }
-  if (head === targetSha) return { advanced: false, relation: "equal", reason: "up-to-date" }
-
-  if (!repo.fetchOrigin()) {
-    return { advanced: false, relation: "unknown", reason: "fetch-failed" }
-  }
-  if (!repo.holdsCommit(targetSha)) {
-    return { advanced: false, relation: "unknown", reason: "target-not-fetched" }
-  }
-
-  const relation = classifyGitRelation({
-    equal: false,
-    headIsAncestorOfTarget: repo.isAncestor(head, targetSha),
-    targetIsAncestorOfHead: repo.isAncestor(targetSha, head),
-  })
-  if (relation !== "behind") {
-    return { advanced: false, relation, reason: `no-ff-${relation}` }
-  }
-  if (!repo.fastForwardTo(targetSha)) {
-    return { advanced: false, relation, reason: "ff-merge-failed" }
-  }
-  return { advanced: true, relation, reason: "advanced" }
+export function resolveSourceHeadSha(repoDir: string, deps: HeadReading = {}): string | null {
+  return (deps.headSha ?? headShaAt)(repoDir)
 }

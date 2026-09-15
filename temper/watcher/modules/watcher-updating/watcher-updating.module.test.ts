@@ -1,17 +1,13 @@
 import { expect, test } from "bun:test"
 import {
   checkForUpdate,
-  classifyGitRelation,
   classifyVersionResponse,
   cleanupOldExe,
   exeSwapPaths,
   type FetchingBytes,
   type FetchingText,
-  gitRepoAt,
-  performSourceUpdate,
   performUpdate,
   resolveSourceHeadSha,
-  SOURCE_UPDATE_EXIT_CODE,
 } from "akasha/temper/watcher/modules/watcher-updating/watcher-updating.module.code.ts"
 import {
   badGateway,
@@ -22,7 +18,6 @@ import {
   NEXT_EXE,
   PREVIOUS_EXE,
   RUNNING,
-  repoStub,
   swapRecorder,
 } from "akasha/temper/watcher/modules/watcher-updating/watcher-updating.module.test-fixtures.ts"
 
@@ -211,38 +206,6 @@ test("a body over the ceiling is shortened to 200 characters and an ellipsis", (
   expect(result.detail).toBe(`HTTP 404, application/json: ${"x".repeat(200)}…`)
 })
 
-test("the whole eight-row relation table answers what the legacy answered", () => {
-  const rows: string[] = []
-  for (const equal of [true, false])
-    for (const headIsAncestorOfTarget of [true, false])
-      for (const targetIsAncestorOfHead of [true, false])
-        rows.push(classifyGitRelation({ equal, headIsAncestorOfTarget, targetIsAncestorOfHead }))
-  expect(rows).toEqual([
-    "equal",
-    "equal",
-    "equal",
-    "equal",
-    "behind",
-    "behind",
-    "ahead",
-    "diverged",
-  ])
-})
-
-test("equal takes precedence over both ancestor flags being false", () => {
-  expect(
-    classifyGitRelation({
-      equal: true,
-      headIsAncestorOfTarget: false,
-      targetIsAncestorOfHead: false,
-    })
-  ).toBe("equal")
-})
-
-test("the exit code a source update asks for is 75", () => {
-  expect(SOURCE_UPDATE_EXIT_CODE).toBe(75)
-})
-
 test("the version check reaches the worker version address", async () => {
   const asked: string[] = []
   const fetchText: FetchingText = async (url) => {
@@ -342,77 +305,10 @@ test("under the source runtime no superseded executable is looked for", () => {
   expect(r.looked).toEqual([])
 })
 
-test("the head sha is answered through the repository handed in", () => {
-  expect(resolveSourceHeadSha("/nowhere", { repo: repoStub({}) })).toBe(RUNNING)
+test("the head sha is answered through the read handed in", () => {
+  expect(resolveSourceHeadSha("/nowhere", { headSha: () => RUNNING })).toBe(RUNNING)
 })
 
 test("a directory git cannot read answers no head sha rather than throwing", () => {
-  expect(gitRepoAt(`${SCRATCH_AT}/watcher-updating-absent-repo`).headSha()).toBeNull()
-})
-
-test("a checkout git cannot read is not a git checkout", () => {
-  expect(
-    performSourceUpdate("/nowhere", DEPLOYED, { repo: repoStub({ headSha: () => null }) })
-  ).toEqual({ advanced: false, relation: "unknown", reason: "not-a-git-checkout" })
-})
-
-test("a head already at the target is up to date without any fetch", () => {
-  const calls: string[] = []
-  expect(performSourceUpdate("/nowhere", RUNNING, { repo: repoStub({}, calls) })).toEqual({
-    advanced: false,
-    relation: "equal",
-    reason: "up-to-date",
-  })
-  expect(calls).toEqual(["headSha"])
-})
-
-test("a fetch git refused stops the update", () => {
-  expect(
-    performSourceUpdate("/nowhere", DEPLOYED, { repo: repoStub({ fetchOrigin: () => false }) })
-  ).toEqual({ advanced: false, relation: "unknown", reason: "fetch-failed" })
-})
-
-test("a target sha the fetch did not bring stops the update", () => {
-  expect(
-    performSourceUpdate("/nowhere", DEPLOYED, { repo: repoStub({ holdsCommit: () => false }) })
-  ).toEqual({ advanced: false, relation: "unknown", reason: "target-not-fetched" })
-})
-
-test("a checkout behind the target is fast-forwarded onto it", () => {
-  const calls: string[] = []
-  expect(performSourceUpdate("/nowhere", DEPLOYED, { repo: repoStub({}, calls) })).toEqual({
-    advanced: true,
-    relation: "behind",
-    reason: "advanced",
-  })
-  expect(calls).toEqual([
-    "headSha",
-    "fetchOrigin",
-    "holdsCommit",
-    "isAncestor 3f3a c5ea",
-    "isAncestor c5ea 3f3a",
-    "fastForwardTo",
-  ])
-})
-
-test("a checkout ahead of the target is left alone", () => {
-  const calls: string[] = []
-  expect(
-    performSourceUpdate("/nowhere", DEPLOYED, {
-      repo: repoStub({ isAncestor: (earlier) => earlier === DEPLOYED }, calls),
-    })
-  ).toEqual({ advanced: false, relation: "ahead", reason: "no-ff-ahead" })
-  expect(calls).not.toContain("fastForwardTo")
-})
-
-test("a checkout diverged from the target is left alone", () => {
-  expect(
-    performSourceUpdate("/nowhere", DEPLOYED, { repo: repoStub({ isAncestor: () => false }) })
-  ).toEqual({ advanced: false, relation: "diverged", reason: "no-ff-diverged" })
-})
-
-test("a fast-forward git refused is reported as a failed merge", () => {
-  expect(
-    performSourceUpdate("/nowhere", DEPLOYED, { repo: repoStub({ fastForwardTo: () => false }) })
-  ).toEqual({ advanced: false, relation: "behind", reason: "ff-merge-failed" })
+  expect(resolveSourceHeadSha(`${SCRATCH_AT}/watcher-updating-absent-repo`)).toBeNull()
 })

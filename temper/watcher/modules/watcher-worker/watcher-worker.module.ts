@@ -39,8 +39,7 @@ export const watcherWorker = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "The checkout a source update advances is the akasha checkout this module runs from.",
+      statement: "The checkout the running version is read from is the one this module runs from.",
     },
     {
       invariantKind: "invariant-kind/departure",

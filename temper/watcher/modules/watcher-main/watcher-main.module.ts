@@ -28,12 +28,11 @@ export const watcherMain = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A source update that advanced answers an exit rather than ending the process.",
+      statement: "A worker running from source asks the server for no version and downloads none.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "An update wanted after startup reaches the caller through a call the caller handed in.",
+      statement: "A worker running from source runs the checkout it was started in.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -81,7 +80,11 @@ export const watcherMain = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The checkout a source update advances is named by the caller.",
+      statement: "The checkout the running version is read from is named by the caller.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "Nothing here moves the checkout the worker runs from.",
     },
     {
       invariantKind: "invariant-kind/departure",

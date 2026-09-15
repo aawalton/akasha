@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import type { DispatchHandlerArgs } from "akasha/temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"
 import { FILE_TYPES } from "akasha/temper/watcher/modules/watcher-file-type/watcher-file-type.module.code.ts"
 import {
-  type ExitWanted,
   fatalLine,
   startWatcher,
   syncInventoryAtStart,
@@ -14,7 +13,6 @@ import {
   attemptOf,
   CAPTURED_BASENAMES,
   CONFIG,
-  checksInTurn,
   counted,
   dispatched,
   downloading,
@@ -24,7 +22,6 @@ import {
   options,
   SOURCE_KEY_FOR_TEST,
   sessionOf,
-  sourceUpdateTo,
   startWith,
   syncOf,
   updating,
@@ -65,51 +62,24 @@ test("a fatal line for something that is not an error is that thing", () => {
 
 test("a failed update check is logged and carried on from", async () => {
   const said = lines()
-  const outcome = await tryUpdate(
+  await tryUpdate(
     attemptOf(said, {
       updating: updating({ kind: "check-failed", reason: "http-error", detail: "HTTP 500" }),
     })
   )
-  expect(outcome).toEqual({ kind: "carry-on" })
   expect(said.error).toEqual(["Update check failed (http-error): HTTP 500"])
 })
 
 test("being up to date says nothing", async () => {
   const said = lines()
-  expect(await tryUpdate(attemptOf(said))).toEqual({ kind: "carry-on" })
+  await tryUpdate(attemptOf(said))
   expect(said.info).toEqual([])
-})
-
-test("a source update that advanced asks to exit rather than exiting", async () => {
-  const said = lines()
-  const outcome = await tryUpdate(
-    attemptOf(said, {
-      fromSource: true,
-      updating: sourceUpdateTo("fedcba9876543210", true, "advanced"),
-    })
-  )
-  expect(outcome).toEqual({ kind: "exit", code: 75, reason: "source-update-advanced" })
-  expect(said.info).toEqual([
-    "Source update 01234567 → fedcba98; asking to exit for systemd respawn.",
-  ])
-})
-
-test("a source update that did not advance is carried on from", async () => {
-  const said = lines()
-  const outcome = await tryUpdate(
-    attemptOf(said, {
-      fromSource: true,
-      updating: sourceUpdateTo("fedcba9876543210", false, "no-ff-diverged"),
-    })
-  )
-  expect(outcome).toEqual({ kind: "carry-on" })
-  expect(said.info).toEqual(["Source update to fedcba98 not applied (no-ff-diverged)."])
 })
 
 test("a built worker downloads the update", async () => {
   const said = lines()
   let asked = ""
-  const outcome = await tryUpdate(
+  await tryUpdate(
     attemptOf(said, {
       updating: downloading("9.9.9", (url) => {
         asked = url
@@ -117,19 +87,17 @@ test("a built worker downloads the update", async () => {
       }),
     })
   )
-  expect(outcome).toEqual({ kind: "carry-on" })
   expect(said.info).toEqual(["Update available: 9.9.9. Downloading..."])
   expect(asked).toBe("https://server.test")
 })
 
 test("an update that throws while being applied leaves the worker running", async () => {
   const said = lines()
-  const outcome = await tryUpdate(
+  await tryUpdate(
     attemptOf(said, {
       updating: downloading("9.9.9", () => Promise.reject(new Error("disk full"))),
     })
   )
-  expect(outcome).toEqual({ kind: "carry-on" })
   expect(said.error).toEqual(["Update apply failed: disk full"])
 })
 
@@ -273,21 +241,25 @@ test("a config that will not build asks to exit rather than exiting", async () =
   expect(said.error).toEqual(["Config error: no live directory"])
 })
 
-test("a source update at startup asks to exit before anything is watched", async () => {
+test("a worker running from source asks the server for no version", async () => {
   const said = lines()
-  const watched: string[] = []
+  let asked = 0
   const start = await startWatcher(
     options(said, {
       sourceRuntime: () => true,
-      watch: (p) => {
-        watched.push(p)
-        return () => undefined
-      },
-      updating: sourceUpdateTo("fedcba9876543210", true, "advanced"),
+      updating: updating(
+        { kind: "update-available", version: "fedcba9876543210" },
+        {
+          checkForUpdate: () => {
+            asked += 1
+            return Promise.resolve({ kind: "up-to-date" })
+          },
+        }
+      ),
     })
   )
-  expect(start).toEqual({ kind: "exit", code: 75, reason: "source-update-advanced" })
-  expect(watched).toEqual([])
+  expect(start.kind).toBe("watching")
+  expect(asked).toBe(0)
 })
 
 test("a worker running from source reports the head it is on", async () => {
@@ -328,36 +300,23 @@ test("an update check past the quiet window checks again", async () => {
   expect(probe.checksSoFar()).toBe(2)
 })
 
-test("an hourly check wanting an exit tells the caller rather than exiting", async () => {
-  const said = lines()
-  const wanted: ExitWanted[] = []
-  const hourly: (() => undefined)[] = []
-  await startWatcher(
-    options(said, {
-      sourceRuntime: () => true,
-      repeatEvery: (ms, run) => {
-        expect(ms).toBe(3_600_000)
-        hourly.push(run)
-        return () => undefined
-      },
-      updating: checksInTurn(
-        [{ kind: "up-to-date" }, { kind: "update-available", version: "fedcba9876543210" }],
-        { performSourceUpdate: () => ({ advanced: true, reason: "advanced" }) }
-      ),
-      onExitWanted: (w) => {
-        wanted.push(w)
-        return undefined
-      },
-    })
-  )
-  const run = hourly[0]
-  if (run === undefined) throw new Error("no hourly check was set")
-  expect(wanted).toEqual([])
-  run()
-  await Promise.resolve()
-  await Promise.resolve()
-  await Promise.resolve()
-  expect(wanted).toEqual([{ kind: "exit", code: 75, reason: "source-update-advanced" }])
+test("an hourly check is set for a built worker and for no worker running from source", async () => {
+  const hourly: number[] = []
+  const repeatEvery = (ms: number): (() => undefined) => {
+    hourly.push(ms)
+    return () => undefined
+  }
+  await startWatcher(options(lines(), { repeatEvery }))
+  expect(hourly).toEqual([3_600_000])
+  await startWatcher(options(lines(), { repeatEvery, sourceRuntime: () => true }))
+  expect(hourly).toEqual([3_600_000])
+})
+
+test("a worker running from source checks for no update when a watched file changes", async () => {
+  const probe = counted(lines(), () => 1_000_000, { sourceRuntime: () => true })
+  await probe.started
+  await probe.handler().checkForUpdate()
+  expect(probe.checksSoFar()).toBe(0)
 })
 
 test("stopping unwatches every file and stops the hourly check", async () => {

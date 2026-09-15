@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import { SOURCE_UPDATE_EXIT_CODE } from "akasha/temper/watcher/modules/watcher-updating/watcher-updating.module.code.ts"
 import {
   dispatchingThrough,
   NO_ACCOUNT_FOR_TOKEN,
@@ -99,8 +98,8 @@ test("an upload that throws leaves the queue ready for the next upload", async (
   expect(order).toEqual(["threw", "after"])
 })
 
-test("the updating collaborator carries the source update exit code", () => {
-  expect(WATCHER_UPDATING.sourceUpdateExitCode).toBe(SOURCE_UPDATE_EXIT_CODE)
+test("the updating collaborator reads the head of the checkout it is handed", () => {
+  expect(WATCHER_UPDATING.resolveSourceHeadSha("/var/tmp/watcher-worker-absent-repo")).toBeNull()
 })
 
 test("a session taken before it is open is refused", () => {

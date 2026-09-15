@@ -62,15 +62,8 @@ export type UpdateCheck =
   | { readonly kind: "up-to-date" }
   | { readonly kind: "check-failed"; readonly reason: string; readonly detail: string }
 
-export interface SourceUpdateAnswer {
-  readonly advanced: boolean
-  readonly reason: string
-}
-
 export interface Updating {
-  readonly sourceUpdateExitCode: number
   readonly checkForUpdate: (serverUrl: string, runningVersion: string) => Promise<UpdateCheck>
-  readonly performSourceUpdate: (repoDir: string, targetSha: string) => SourceUpdateAnswer
   readonly performUpdate: (serverUrl: string) => Promise<void>
   readonly resolveSourceHeadSha: (repoDir: string) => string | null
   readonly cleanupOldExe: () => undefined
@@ -82,8 +75,6 @@ export interface ExitWanted {
   readonly reason: string
 }
 
-export type UpdateOutcome = { readonly kind: "carry-on" } | ExitWanted
-
 export interface WatchingFiles {
   readonly kind: "watching"
   readonly watching: readonly string[]
@@ -91,8 +82,6 @@ export interface WatchingFiles {
 }
 
 export type WatcherStart = WatchingFiles | ExitWanted
-
-const CARRY_ON: UpdateOutcome = { kind: "carry-on" }
 
 export function watchedLabel(fileName: string): string {
   return WATCHED_NAME.exec(fileName)?.[1] ?? fileName
@@ -122,44 +111,25 @@ function repeatByTimer(ms: number, run: () => undefined): () => undefined {
 export interface UpdateAttempt extends Logs {
   readonly serverUrl: string
   readonly runningVersion: string
-  readonly repoDir: string
-  readonly fromSource: boolean
   readonly updating: Updating
 }
 
-export async function tryUpdate(attempt: UpdateAttempt): Promise<UpdateOutcome> {
+export async function tryUpdate(attempt: UpdateAttempt): Promise<undefined> {
   const { log, logError, updating } = attempt
   const update = await updating.checkForUpdate(attempt.serverUrl, attempt.runningVersion)
   if (update.kind === "check-failed") {
     logError(`Update check failed (${update.reason}): ${update.detail}`)
-    return CARRY_ON
+    return undefined
   }
-  if (update.kind === "up-to-date") return CARRY_ON
+  if (update.kind === "up-to-date") return undefined
 
   try {
-    if (attempt.fromSource) {
-      const target = update.version.slice(0, 8)
-      const answer = updating.performSourceUpdate(attempt.repoDir, update.version)
-      if (answer.advanced) {
-        log(
-          `Source update ${attempt.runningVersion.slice(0, 8)} → ${target}; asking to exit for systemd respawn.`
-        )
-        return {
-          kind: "exit",
-          code: updating.sourceUpdateExitCode,
-          reason: "source-update-advanced",
-        }
-      }
-      log(`Source update to ${target} not applied (${answer.reason}).`)
-      return CARRY_ON
-    }
-
     log(`Update available: ${update.version}. Downloading...`)
     await updating.performUpdate(attempt.serverUrl)
   } catch (err) {
     logError(`Update apply failed: ${saidBy(err)}`)
   }
-  return CARRY_ON
+  return undefined
 }
 
 export interface InventorySync extends Logs {
@@ -229,7 +199,6 @@ export interface WatcherStartOptions extends Partial<Logs> {
   readonly makeDispatchHandler: MakeDispatchHandler
   readonly updating: Updating
   readonly enqueueUpload: (run: () => Promise<void>) => undefined
-  readonly onExitWanted: (wanted: ExitWanted) => undefined
   readonly serverUrl?: () => string
   readonly now?: () => number
   readonly isThere?: (path: string) => boolean
@@ -276,18 +245,9 @@ export async function startWatcher(options: WatcherStartOptions): Promise<Watche
 
   const wtToken = (options.resolveToken ?? resolveWatcherToken)()
 
-  const attempt = (): UpdateAttempt => ({
-    serverUrl,
-    runningVersion,
-    repoDir: options.repoDir,
-    fromSource,
-    updating,
-    log,
-    logError,
-  })
+  const attempt = (): UpdateAttempt => ({ serverUrl, runningVersion, updating, log, logError })
 
-  const first = await tryUpdate(attempt())
-  if (first.kind === "exit") return first
+  if (!fromSource) await tryUpdate(attempt())
   let lastUpdateCheckMs = now()
 
   let config: WatcherConfig
@@ -302,11 +262,11 @@ export async function startWatcher(options: WatcherStartOptions): Promise<Watche
   log(`AddOns: ${config.addonsDir}`)
 
   const maybeCheckUpdate = async (): Promise<void> => {
+    if (fromSource) return
     const at = now()
     if (at - lastUpdateCheckMs < UPDATE_CHECK_MIN_INTERVAL_MS) return
     lastUpdateCheckMs = at
-    const outcome = await tryUpdate(attempt())
-    if (outcome.kind === "exit") options.onExitWanted(outcome)
+    await tryUpdate(attempt())
   }
 
   const state = initialWatcherState()
@@ -359,19 +319,16 @@ export async function startWatcher(options: WatcherStartOptions): Promise<Watche
     })
   }
 
-  const stopHourly = repeatEvery(HOURLY_UPDATE_CHECK_MS, () => {
-    lastUpdateCheckMs = now()
-    void tryUpdate(attempt())
-      .then((outcome) => {
-        if (outcome.kind === "exit") options.onExitWanted(outcome)
+  const stopHourly = fromSource
+    ? () => undefined
+    : repeatEvery(HOURLY_UPDATE_CHECK_MS, () => {
+        lastUpdateCheckMs = now()
+        void tryUpdate(attempt()).catch((err: unknown) => {
+          logError(`Hourly update check failed: ${saidBy(err)}`)
+          return undefined
+        })
         return undefined
       })
-      .catch((err: unknown) => {
-        logError(`Hourly update check failed: ${saidBy(err)}`)
-        return undefined
-      })
-    return undefined
-  })
 
   log(`Watching ${watching.length} file(s)`)
 

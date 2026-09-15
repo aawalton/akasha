@@ -10,7 +10,6 @@ import {
   logError,
 } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import {
-  type ExitWanted,
   fatalLine,
   startWatcher,
   type Updating,
@@ -27,16 +26,12 @@ import { validateWatcherToken } from "akasha/temper/watcher/modules/watcher-toke
 import {
   checkForUpdate,
   cleanupOldExe,
-  performSourceUpdate,
   performUpdate,
   resolveSourceHeadSha,
-  SOURCE_UPDATE_EXIT_CODE,
 } from "akasha/temper/watcher/modules/watcher-updating/watcher-updating.module.code.ts"
 
 export const WATCHER_UPDATING: Updating = {
-  sourceUpdateExitCode: SOURCE_UPDATE_EXIT_CODE,
   checkForUpdate: (serverUrl, runningVersion) => checkForUpdate(serverUrl, runningVersion),
-  performSourceUpdate: (repoDir, targetSha) => performSourceUpdate(repoDir, targetSha),
   performUpdate: (serverUrl) => performUpdate(serverUrl),
   resolveSourceHeadSha: (repoDir) => resolveSourceHeadSha(repoDir),
   cleanupOldExe: () => cleanupOldExe(),
@@ -135,10 +130,6 @@ async function runWorker(exit: (code: number) => never): Promise<WatcherStart> {
     makeDispatchHandler,
     updating: WATCHER_UPDATING,
     enqueueUpload: uploadQueue(),
-    onExitWanted: (wanted: ExitWanted) => {
-      log(`the watcher is ending on ${wanted.code} (${wanted.reason})`)
-      exit(wanted.code)
-    },
   })
 
   if (started.kind === "exit") {

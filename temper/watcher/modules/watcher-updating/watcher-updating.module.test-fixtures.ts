@@ -1,6 +1,5 @@
 import type {
   FetchingBytes,
-  SourceRepo,
   VersionResponseObservation,
 } from "akasha/temper/watcher/modules/watcher-updating/watcher-updating.module.code.ts"
 
@@ -65,32 +64,6 @@ export function swapRecorder(): { steps: string[]; deps: SwapDeps } {
         return undefined
       },
     },
-  }
-}
-
-export function repoStub(over: Partial<SourceRepo>, calls: string[] = []): SourceRepo {
-  return {
-    headSha: () => {
-      calls.push("headSha")
-      return RUNNING
-    },
-    fetchOrigin: () => {
-      calls.push("fetchOrigin")
-      return true
-    },
-    holdsCommit: () => {
-      calls.push("holdsCommit")
-      return true
-    },
-    isAncestor: (earlier, later) => {
-      calls.push(`isAncestor ${earlier.slice(0, 4)} ${later.slice(0, 4)}`)
-      return earlier === RUNNING
-    },
-    fastForwardTo: () => {
-      calls.push("fastForwardTo")
-      return true
-    },
-    ...over,
   }
 }
 

@@ -71,9 +71,7 @@ export function lines(): Said {
 
 export function updating(check: UpdateCheck, over: Partial<Updating> = {}): Updating {
   return {
-    sourceUpdateExitCode: 75,
     checkForUpdate: () => Promise.resolve(check),
-    performSourceUpdate: () => ({ advanced: false, reason: "up-to-date" }),
     performUpdate: () => Promise.resolve(),
     resolveSourceHeadSha: () => "abcdef0123456789",
     cleanupOldExe: () => undefined,
@@ -83,13 +81,6 @@ export function updating(check: UpdateCheck, over: Partial<Updating> = {}): Upda
 
 export function answerOf(user: { id: string } | null): SignedInAnswer {
   return { data: { user }, error: user === null ? { message: "no session" } : null }
-}
-
-export function sourceUpdateTo(version: string, advanced: boolean, reason: string): Updating {
-  return updating(
-    { kind: "update-available", version },
-    { performSourceUpdate: () => ({ advanced, reason }) }
-  )
 }
 
 export function downloading(
@@ -110,25 +101,6 @@ const NO_ANSWER = {
 
 export function dispatched(over: Partial<DispatchAnswer> = {}): Dispatching {
   return () => Promise.resolve({ ...NO_ANSWER, ...over })
-}
-
-export function checksInTurn(
-  turns: readonly UpdateCheck[],
-  over: Partial<Updating> = {}
-): Updating {
-  let asked = 0
-  return updating(
-    { kind: "up-to-date" },
-    {
-      checkForUpdate: () => {
-        const turn = turns[Math.min(asked, turns.length - 1)]
-        asked += 1
-        if (turn === undefined) throw new Error("no update check was prepared")
-        return Promise.resolve(turn)
-      },
-      ...over,
-    }
-  )
 }
 
 export function sessionOf(answers: readonly SignedInAnswer[]): OpenSession {
@@ -163,7 +135,11 @@ export interface CountedChecks {
   readonly handler: () => DispatchHandlerArgs
 }
 
-export function counted(said: Said, clock: () => number): CountedChecks {
+export function counted(
+  said: Said,
+  clock: () => number,
+  over: Partial<WatcherStartOptions> = {}
+): CountedChecks {
   let checks = 0
   let handed: DispatchHandlerArgs | null = null
   const started = startWatcher(
@@ -182,6 +158,7 @@ export function counted(said: Said, clock: () => number): CountedChecks {
         handed = args
         return () => undefined
       },
+      ...over,
     })
   )
   return {
@@ -210,7 +187,6 @@ export function options(said: Said, over: Partial<WatcherStartOptions> = {}): Wa
     makeDispatchHandler: () => () => undefined,
     updating: updating({ kind: "up-to-date" }),
     enqueueUpload: () => undefined,
-    onExitWanted: () => undefined,
     now: () => 1_000_000,
     isThere: () => true,
     watch: () => () => undefined,
@@ -238,8 +214,6 @@ export function attemptOf(said: Said, over: Partial<UpdateAttempt> = {}): Update
   return {
     serverUrl: "https://server.test",
     runningVersion: "0123456789abcdef",
-    repoDir: `${SCRATCH_AT}/watcher-main-repo`,
-    fromSource: false,
     updating: updating({ kind: "up-to-date" }),
     log: (m: string) => {
       said.info.push(m)
