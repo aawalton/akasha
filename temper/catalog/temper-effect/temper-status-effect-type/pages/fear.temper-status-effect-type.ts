@@ -2,7 +2,7 @@ import type { TemperStatusEffectType } from "akasha/temper/catalog/temper-effect
 
 export const fear = {
   id: "019e5a51-291a-7a75-9c13-eee79b63e7ae",
-  type: "temper-status-effect-type",
+  type: "page-type/temper-status-effect-type",
   slug: "fear",
   title: "Fear",
   key: "fear",

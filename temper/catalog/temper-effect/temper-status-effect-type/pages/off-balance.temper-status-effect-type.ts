@@ -2,7 +2,7 @@ import type { TemperStatusEffectType } from "akasha/temper/catalog/temper-effect
 
 export const offBalance = {
   id: "019e5a51-2922-7465-8b8b-e261569fed05",
-  type: "temper-status-effect-type",
+  type: "page-type/temper-status-effect-type",
   slug: "off-balance",
   title: "Off Balance",
   key: "off-balance",

@@ -2,7 +2,7 @@ import type { TemperStatusEffectType } from "akasha/temper/catalog/temper-effect
 
 export const taunt = {
   id: "019e5a51-2928-7910-bf22-66f6bf6e2171",
-  type: "temper-status-effect-type",
+  type: "page-type/temper-status-effect-type",
   slug: "taunt",
   title: "Taunt",
   key: "taunt",

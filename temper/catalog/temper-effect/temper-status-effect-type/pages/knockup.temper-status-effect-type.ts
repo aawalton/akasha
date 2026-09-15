@@ -2,7 +2,7 @@ import type { TemperStatusEffectType } from "akasha/temper/catalog/temper-effect
 
 export const knockup = {
   id: "019e5a51-2920-79f4-9bff-2eb2abd57937",
-  type: "temper-status-effect-type",
+  type: "page-type/temper-status-effect-type",
   slug: "knockup",
   title: "Knockup",
   key: "knockup",
