@@ -47,7 +47,6 @@ export const utilNarrow = {
     "module/require-env",
     "module/require-first",
     "module/require-get",
-    "module/require-match",
     "module/require-match-positional",
     "module/said-by",
     "module/scalar-text",

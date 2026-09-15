@@ -14,11 +14,8 @@ import {
   shellRepoRoot,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { buildTestflightDeployScript } from "akasha/alan/harness/mobile-cli/modules/testflight-deploy-script/testflight-deploy-script.module.code.ts"
-import {
-  listedAt,
-  readingIn,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { requireMatch } from "akasha/util/narrow/modules/require-match/require-match.module.code.ts"
+import { listedAt, readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { requireMatchPositional } from "akasha/util/narrow/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 
 const APP = resolveApp("alanwalton")
@@ -85,12 +82,13 @@ describe("the marker contract with the seam that writes it", () => {
   })
 
   function seamMarker(seam: string, shellVariable: string): string {
-    return requireMatch(
-      new RegExp(`^${shellVariable}="(?<marker>[^"]*)"$`, "m"),
-      z.object({ marker: z.string().min(1) }),
+    const [marker] = requireMatchPositional(
+      new RegExp(`^${shellVariable}="([^"]*)"$`, "m"),
+      z.tuple([z.string().min(1)]),
       seam,
       STAMP_SEAM_REPO_PATH
-    ).marker
+    )
+    return marker
   }
 
   test("the seam bakes exactly the two markers the gate reads back", () => {

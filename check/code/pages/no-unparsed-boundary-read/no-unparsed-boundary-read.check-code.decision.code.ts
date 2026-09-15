@@ -30,7 +30,6 @@ const FS_READ_CHAINS = new Set([
 const SUBPROCESS_SPAWN_TEXTS = new Set(["Bun.spawn", "spawn", "spawnSync"])
 
 const APPROVED_BARE_HELPERS = new Set([
-  "requireMatch",
   "requireMatchPositional",
   "requireEnv",
   "requireGet",
