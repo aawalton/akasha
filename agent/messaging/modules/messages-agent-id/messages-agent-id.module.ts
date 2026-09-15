@@ -8,11 +8,11 @@ export const messagesAgentId = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The agent is stated in the environment rather than worked out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An environment naming no agent stops the server rather than guessing an agent.",
     },
   ],
