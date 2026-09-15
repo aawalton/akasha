@@ -242,6 +242,73 @@ test("a refresh agrees with the index a page taken from under a name left", () =
   expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
 })
 
+const CARRIED_BESIDE = "b.domain.carried.jsonl"
+
+const MOVED_TARGET = "far/b.domain.ts"
+
+const MOVED_CARRIED = "far/b.domain.carried.jsonl"
+
+const CARRIED_LINES: readonly string[] = [
+  `{"id":"${TARGET_ID}"}`,
+  '{"pageTypeSlug":"domain"}',
+  '{"slug":"b"}',
+]
+
+const carriedIn = (tree: string, at: string): readonly string[] => {
+  const held = join(tree, at)
+  if (!existsSync(held)) return []
+  return readFileSync(held, "utf8")
+    .split("\n")
+    .filter((one) => one !== "")
+}
+
+const settledWorld = (tree: string, root: string): Indexing => {
+  const first = indexingAt(root, tree)
+  wrote(first, tree, [...IDENTIFIERS, NAMING, CARRIER, TARGET_PAGE, SOURCE_PAGE])
+  expect(first.settle()).toEqual([])
+  expect(carriedIn(tree, CARRIED_BESIDE)).toEqual(CARRIED_LINES)
+  return indexingAt(root, tree)
+}
+
+test("a page the change writes carries a line for every key that page states", () => {
+  const tree = heldAt()
+  const second = settledWorld(tree, heldAt())
+  const before = readFileSync(join(tree, TARGET_PAGE[0]), "utf8")
+  const body = bodyOf({ ...TARGET_PAGE[1], title: "the one" })
+
+  second.wrote(put(tree, TARGET_PAGE[0], body), body, before)
+  expect(second.settle()).toEqual([])
+
+  expect(carriedIn(tree, CARRIED_BESIDE)).toEqual([...CARRIED_LINES, '{"title":"the one"}'])
+})
+
+test("a page the change takes away is left carrying nothing", () => {
+  const tree = heldAt()
+  const second = settledWorld(tree, heldAt())
+  const gone = join(tree, TARGET_PAGE[0])
+
+  second.took(gone, readFileSync(gone, "utf8"))
+  rmSync(gone)
+  expect(second.settle()).toEqual([])
+
+  expect(existsSync(join(tree, CARRIED_BESIDE))).toBe(false)
+})
+
+test("a page that moves carries at its new path everything it carried at the old", () => {
+  const tree = heldAt()
+  const second = settledWorld(tree, heldAt())
+  const gone = join(tree, TARGET_PAGE[0])
+  const body = readFileSync(gone, "utf8")
+
+  second.took(gone, body)
+  rmSync(gone)
+  second.wrote(put(tree, MOVED_TARGET, body), body, null)
+  expect(second.settle()).toEqual([])
+
+  expect(existsSync(join(tree, CARRIED_BESIDE))).toBe(false)
+  expect(carriedIn(tree, MOVED_CARRIED)).toEqual(CARRIED_LINES)
+})
+
 test("a settle into an index that is nowhere yet answers rather than refusing an empty world", () => {
   const tree = heldAt()
   const nowhere = join(heldAt(), "nowhere")

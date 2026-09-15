@@ -176,7 +176,14 @@ export function refreshedFrom(
     ...referenced.flatMap((one) => one.entries),
     ...walked.flatMap((one) => importedFrom(reading, one.body, one.path, repo, naming)),
   ]
-  const filedBeside = [...references, ...carryingOver(held, repo)]
+  const carried = carryingOver(
+    held.map((one) => ({ path: one.path, was: null, now: one.value })),
+    repo
+  )
+  const filedBeside = [
+    ...references,
+    ...[...carried].flatMap(([at, lines]) => lines.map((line) => ({ at, line }))),
+  ]
   drift.push(reconcile(filedBeside, repo, put, done))
   const stale = besideStale(filedBeside, tree, repo, put)
   const went = [...takenAway(identity, root, put, done), ...stale]
@@ -208,14 +215,14 @@ function besideInto(repo: string, filings: readonly Filing[]): undefined {
 
 function wholeInto(
   repo: string,
-  beside: ReadonlyMap<string, string>,
+  beside: ReadonlyMap<string, string | null>,
   make = true
 ): readonly string[] {
   const wrote: string[] = []
   for (const [at, whole] of beside) {
     const to = join(repo, at)
     if (!make && !existsSync(to)) continue
-    const lines = whole.split("\n").filter(linesKept)
+    const lines = (whole ?? "").split("\n").filter(linesKept)
     if (textThere(to) === (lines.length === 0 ? null : wholeOf(lines))) continue
     keepWhole(to, lines, repo)
     wrote.push(at)
@@ -248,7 +255,7 @@ export function indexingAt(root: string, repo: string): Indexing {
       const found = settlingOver(readingAt(root, repo), repo, moving, (path) => valueAt(path, repo))
       filedInto(root, found.filings)
       besideInto(repo, found.references)
-      besideInto(repo, found.carried)
+      wholeInto(repo, found.carried)
       wholeInto(repo, found.beside, false)
       return [...found.noted, ...found.refusedBefore, ...found.refused]
     },

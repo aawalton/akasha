@@ -251,7 +251,7 @@ function castFrom(was: Reading, change: Change, held: Remembered): Cast {
         bodies = new Map([
           ...bodiesFrom(reading, settled.filings),
           ...bodiesBeside(was, settled.references),
-          ...bodiesBeside(was, settled.carried),
+          ...settled.carried,
         ])
       }
       return bodies

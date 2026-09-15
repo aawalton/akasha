@@ -135,6 +135,14 @@ export const indexSettling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What a page carries is written whole rather than laid over what the file holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page that moves carries at its new path everything it carried at the old.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reference filing names a path against the repository rather than the index.",
     },
     {

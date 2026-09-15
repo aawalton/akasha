@@ -17,7 +17,10 @@ import {
   uniquePropertiesAt,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { identitiesIn } from "akasha/page/index/modules/identities/index-identities.module.code.ts"
-import { bodiesBeside } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
+import {
+  bodiesBeside,
+  wholeOf,
+} from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import {
   type Body,
   bodiesAt,
@@ -88,16 +91,21 @@ export function filingOf(was: readonly Entry[], now: readonly Entry[]): readonly
 }
 
 export function carryingOver(
-  held: readonly { readonly path: string; readonly value: Value | null }[],
+  held: readonly {
+    readonly path: string
+    readonly was: Value | null
+    readonly now: Value | null
+  }[],
   repo: string
-): readonly Entry[] {
-  return held.flatMap((one) => {
-    const value = one.value
-    if (value === null) return []
+): ReadonlyMap<string, readonly string[]> {
+  const found = new Map<string, readonly string[]>()
+  for (const one of held) {
+    if (one.was === null && one.now === null) continue
     const at = carryingAt(under(repo, one.path))
-    if (at === null) return []
-    return linesFor(value).map((line) => ({ at, line }))
-  })
+    if (at === null) continue
+    found.set(at, one.now === null ? [] : linesFor(one.now))
+  }
+  return found
 }
 
 function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | null>): boolean {
@@ -116,7 +124,7 @@ export type Settling = {
   readonly reading: Reading
   readonly filings: readonly Filing[]
   readonly references: readonly Filing[]
-  readonly carried: readonly Filing[]
+  readonly carried: ReadonlyMap<string, string | null>
   readonly beside: ReadonlyMap<string, string>
   readonly noted: readonly string[]
   readonly refusedBefore: readonly string[]
@@ -338,15 +346,11 @@ export function settlingOver(
     ].filter((one) => !vacated.has(one.at))
   )
 
-  const carrying = filingOf(
-    carryingOver(
-      held.map((one) => ({ path: one.path, value: one.was })),
-      repo
-    ),
-    carryingOver(
-      held.map((one) => ({ path: one.path, value: one.now })),
-      repo
-    )
+  const carriedBodies = new Map<string, string | null>(
+    [...carryingOver(held, repo)].map(([at, lines]) => [
+      at,
+      lines.length === 0 ? null : wholeOf(lines),
+    ])
   )
 
   const filings = [...identity]
@@ -359,14 +363,14 @@ export function settlingOver(
           ...wrote,
           ...bodied,
           ...bodiesBeside(reading, references),
-          ...bodiesBeside(reading, carrying),
+          ...carriedBodies,
         ])
       ),
       written.shapes
     ),
     filings,
     references,
-    carried: carrying,
+    carried: carriedBodies,
     beside: bodied,
     noted,
     refusedBefore: referencedWas.flatMap((one) => one.refused),
