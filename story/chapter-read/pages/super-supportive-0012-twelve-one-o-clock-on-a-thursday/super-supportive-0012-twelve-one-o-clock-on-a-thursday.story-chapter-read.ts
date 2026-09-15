@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0012TwelveOneOClockOnAThursday = {
   id: "01a06730-4de8-7b18-b933-523ee9fe6b0d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0012-twelve-one-o-clock-on-a-thursday",
   title: "TWELVE: One O'clock on a Thursday",
   story: "story-read/super-supportive",

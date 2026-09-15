@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0115OneHundredFourteenTheChainerCoda = {
   id: "01a06730-4e89-761b-a865-f3080fba0f42",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0115-one-hundred-fourteen-the-chainer-coda",
   title: "ONE HUNDRED FOURTEEN: The Chainer, coda",
   story: "story-read/super-supportive",

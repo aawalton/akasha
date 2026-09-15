@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0096NinetyFiveTheBListI = {
   id: "01a06730-4e55-7b25-933b-d06e3ae02a9a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0096-ninety-five-the-b-list-i",
   title: "NINETY-FIVE: The B-list, I",
   story: "story-read/super-supportive",

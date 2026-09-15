@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0026TwentySixFirstAssignment = {
   id: "01a06730-4df6-7aaa-b81d-960588d0ac8e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0026-twenty-six-first-assignment",
   title: "TWENTY-SIX: First Assignment",
   story: "story-read/super-supportive",

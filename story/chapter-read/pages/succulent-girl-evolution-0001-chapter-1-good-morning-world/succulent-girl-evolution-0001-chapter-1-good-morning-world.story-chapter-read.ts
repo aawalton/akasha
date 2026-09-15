@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const succulentGirlEvolution0001Chapter1GoodMorningWorld = {
   id: "01a06730-4dea-709d-bf22-4420675c3d8f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "succulent-girl-evolution-0001-chapter-1-good-morning-world",
   title: "Chapter 1: Good Morning, World!",
   story: "story-read/succulent-girl-evolution",

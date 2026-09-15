@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const succulentGirlEvolution0029Chapter29Boundaries = {
   id: "01a06730-4deb-7b5b-b2dd-e4d415184622",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "succulent-girl-evolution-0029-chapter-29-boundaries",
   title: "Chapter 29: Boundaries!",
   story: "story-read/succulent-girl-evolution",

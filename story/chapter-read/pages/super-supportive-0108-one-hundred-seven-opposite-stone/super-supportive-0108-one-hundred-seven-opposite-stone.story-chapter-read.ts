@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0108OneHundredSevenOppositeStone = {
   id: "01a06730-4e71-7396-95e4-bf8345a8a55e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0108-one-hundred-seven-opposite-stone",
   title: "ONE HUNDRED SEVEN: Opposite Stone",
   story: "story-read/super-supportive",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0053FiftyThreeTheAuriad = {
   id: "01a06730-4e12-7ce4-aa2c-947c5bf374ad",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0053-fifty-three-the-auriad",
   title: "FIFTY-THREE: The Auriad",
   story: "story-read/super-supportive",

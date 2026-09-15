@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0055FiftyFiveManOnTheMoon = {
   id: "01a06730-4e13-79dd-ae57-b34a93e50b42",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0055-fifty-five-man-on-the-moon",
   title: "FIFTY-FIVE: Man on the Moon",
   story: "story-read/super-supportive",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const succulentGirlEvolution0027Chapter27FriendshipMeansConsideration = {
   id: "01a06730-4deb-70d4-943d-f9b01d658cfe",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "succulent-girl-evolution-0027-chapter-27-friendship-means-consideration",
   title: "Chapter 27: Friendship Means Consideration",
   story: "story-read/succulent-girl-evolution",

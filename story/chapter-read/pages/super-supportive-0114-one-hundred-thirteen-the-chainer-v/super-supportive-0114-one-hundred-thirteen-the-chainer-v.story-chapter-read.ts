@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0114OneHundredThirteenTheChainerV = {
   id: "01a06730-4e85-72dd-a642-3f3b7cc42f88",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0114-one-hundred-thirteen-the-chainer-v",
   title: "ONE HUNDRED THIRTEEN: The Chainer, V",
   story: "story-read/super-supportive",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0103OneHundredTwoWhatKindOfWordchain = {
   id: "01a06730-4e64-7038-a3ee-f79ce3ac48f9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0103-one-hundred-two-what-kind-of-wordchain",
   title: "ONE HUNDRED TWO: What kind of wordchain?",
   story: "story-read/super-supportive",

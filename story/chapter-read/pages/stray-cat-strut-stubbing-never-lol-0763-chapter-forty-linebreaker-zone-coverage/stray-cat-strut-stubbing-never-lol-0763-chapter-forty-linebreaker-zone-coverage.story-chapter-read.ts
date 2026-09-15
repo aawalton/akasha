@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0763ChapterFortyLinebreakerZoneCoverage = {
   id: "01a06730-4ed8-7eb6-97d2-1680c0084521",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0763-chapter-forty-linebreaker-zone-coverage",
   title: "Chapter Forty - Linebreaker Zone Coverage",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

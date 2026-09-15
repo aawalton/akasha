@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0091NinetyFortyPineapplesPartOne = {
   id: "01a06730-4e48-70a4-88da-d3675558026e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0091-ninety-forty-pineapples-part-one",
   title: "NINETY: Forty Pineapples, part one",
   story: "story-read/super-supportive",

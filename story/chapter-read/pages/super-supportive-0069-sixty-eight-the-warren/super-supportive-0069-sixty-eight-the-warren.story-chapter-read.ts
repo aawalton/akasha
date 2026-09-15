@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0069SixtyEightTheWarren = {
   id: "01a06730-4e1f-7158-a9d3-c031038b12ef",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0069-sixty-eight-the-warren",
   title: "SIXTY-EIGHT: The Warren",
   story: "story-read/super-supportive",

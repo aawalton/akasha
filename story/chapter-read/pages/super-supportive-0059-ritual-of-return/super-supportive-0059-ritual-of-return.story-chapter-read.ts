@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0059RitualOfReturn = {
   id: "01a06730-4e14-75f8-b457-0a158f987740",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0059-ritual-of-return",
   title: "Ritual of Return",
   story: "story-read/super-supportive",

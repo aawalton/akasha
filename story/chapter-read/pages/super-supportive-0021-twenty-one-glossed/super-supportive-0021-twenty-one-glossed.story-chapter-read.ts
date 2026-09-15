@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0021TwentyOneGlossed = {
   id: "01a06730-4ded-77f7-98ce-d97c46495859",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0021-twenty-one-glossed",
   title: "TWENTY-ONE: Glossed",
   story: "story-read/super-supportive",

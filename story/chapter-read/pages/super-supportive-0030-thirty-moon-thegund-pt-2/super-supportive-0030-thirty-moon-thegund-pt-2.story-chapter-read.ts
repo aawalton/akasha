@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const superSupportive0030ThirtyMoonThegundPt2 = {
   id: "01a06730-4dfc-7fe2-b181-3c66c75280e7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "super-supportive-0030-thirty-moon-thegund-pt-2",
   title: "THIRTY: Moon Thegund, Pt. 2",
   story: "story-read/super-supportive",
