@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHNIAAAABiRRNC4RtQsBLULAS1CwEtItxbULcW1C3FtEFxbRBADUQXFtAGgCWgCgBLREEx1sAAAAAAAAAAAAAAAAAAAAAAAAgjkEgBAGCATYAAAAaCACECgIJwg0AHQAjnVVqA4oAADJIBgjIhA4gQASCCc0HKBAAcoFYBA4AAAAAzIsSZWPJllzJs7Po06te2fQo0qdTxVAAAAA2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrAAAAANgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4ABkx4EEmhDJZwRMYIIYwo2o82PCxWtczDEJPBJGkQA83M2tQ0818llAuA",
+  "buildHash": "ATQHNILAAIBhxAlC4RtQsBLULAS1CwEtItxbULcW1C3FtEFxbRBADUQXFtAGgCWgCgBLREEx1sboAAALwJGGMADZQZJsCGAAAAgjlEgFAGCATYAAAAaCACECgIJwg0AHQAjnVVqA4oAADJIBgjIhA4gQASCCc9HKBAAcoFYBA4y59e0zIsSZWPJllzJs7Po06te2fQo0qdTxVWR1a82ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4ABkx4EEmhDJZwRMYIIYwo2o82PCxWtczDEJPBJGkQA83M2tQ0818llAuA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -3598,7 +3598,7 @@
             "name": "Critical Charge",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "morph2": {
             "name": "Critical Rush",
             "rank": 4
@@ -4101,7 +4101,7 @@
             "name": "Searing Strike",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "morph2": {
             "name": "Burning Embers",
             "rank": 4
@@ -4119,7 +4119,7 @@
             "name": "Lava Whip",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "morph2": {
             "name": "Flame Lash",
             "rank": 4
@@ -4137,7 +4137,7 @@
             "name": "Inferno",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "morph2": {
             "name": "Cauterize",
             "rank": 4
@@ -4155,7 +4155,7 @@
             "name": "Dragonknight Standard",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "morph2": {
             "name": "Standard of Might",
             "rank": 4
@@ -4191,7 +4191,7 @@
             "name": "Core of Flame",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "morph2": {
             "name": "Heart of Flame",
             "rank": 4
@@ -4252,7 +4252,7 @@
             "name": "Dragonfire Breath",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "morph2": {
             "name": "Engulfing Dragonfire",
             "rank": 4
@@ -4349,7 +4349,7 @@
             "name": "Earthspike Mantle",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "morph2": {
             "name": "Shatterspike Mantle",
             "rank": 4
@@ -4367,7 +4367,7 @@
             "name": "Superheated Ward",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "morph2": {
             "name": "Magma Fist",
             "rank": 4
@@ -4403,7 +4403,7 @@
             "name": "Molten Weapons",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "morph2": {
             "name": "Molten Armaments",
             "rank": 4
@@ -5233,7 +5233,7 @@
             "name": "Dawnbreaker",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "morph2": {
             "name": "Dawnbreaker of Smiting",
             "rank": 4
@@ -5287,7 +5287,7 @@
             "name": "Trap Beast",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "morph2": {
             "name": "Lightweight Beast Trap",
             "rank": 4
@@ -17011,7 +17011,7 @@
     "groupDungeonTotal": 54,
     "tutorial": 0,
     "skyshardPoints": 193,
-    "unassigned": 304,
+    "unassigned": 248,
     "zoneQuestTotal": 164,
     "publicDungeons": {
       "EP4": 1,
