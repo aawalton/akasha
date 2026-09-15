@@ -2,7 +2,7 @@ import type { SubagentKind } from "akasha/agent/subagent/kind/subagent-kind.page
 
 export const explore = {
   id: "01a06861-f664-7abd-b503-d89b310876ae",
-  type: "subagent-kind",
+  type: "page-type/subagent-kind",
   slug: "explore",
   definition: "a subagent that searches a tree and reports what is in it",
   dispatchedAs: "Explore",
