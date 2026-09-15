@@ -1989,6 +1989,7 @@
 {"propertySlug":"invariant-kind","path":"command/pages/infrastructure/service/stop/infrastructure-service-stop.command.ts","id":"01a09408-a1a1-7e96-9e19-38cfb6a5715e"}
 {"propertySlug":"invariant-kind","path":"command/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.ts","id":"01a09409-1cc5-728a-ba59-c959fa5540ed"}
 {"propertySlug":"invariant-kind","path":"command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.ts","id":"01a0680a-fa30-7da6-aede-88d6a9a5e49a"}
+{"propertySlug":"invariant-kind","path":"command/pages/initiative/assign/initiative-assign.command.ts","id":"01a0a57f-05fc-7d7e-ba15-9645284ba946"}
 {"propertySlug":"invariant-kind","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.ts","id":"01a08c4e-4825-7f65-b321-e81787848de8"}
 {"propertySlug":"invariant-kind","path":"command/pages/initiative/delete/initiative-delete.command.ts","id":"01a08c55-e316-7936-bc74-abba6173f7b7"}
 {"propertySlug":"invariant-kind","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.ts","id":"01a08c64-750b-7bb5-b491-551e9cca63dd"}

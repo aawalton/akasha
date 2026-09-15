@@ -32,6 +32,7 @@
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/infrastructure/service/start/infrastructure-service-start.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/infrastructure/service/stop/infrastructure-service-stop.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.code.ts"}
+{"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts"}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts"}

@@ -6,6 +6,7 @@ export const initiative = {
   slug: "initiative",
   definition: "the initiatives at work and the intents each one has",
   parts: [
+    "command/initiative-assign",
     "command/initiative-delete",
     "command/initiative-delete-intent",
     "command/initiative-hand-intent",

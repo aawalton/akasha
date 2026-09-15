@@ -85,6 +85,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/infrastructure/service/stop/infrastructure-service-stop.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/initiative/assign/initiative-assign.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/initiative/delete/initiative-delete.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.ts"}

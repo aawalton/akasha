@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"work-initiatives.module.code.ts","path":"agent/seat/declaration/modules/seat-initiative/seat-initiative.module.code.ts"}
+{"propertySlug":"import","fileName":"work-initiatives.module.code.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts"}
 {"propertySlug":"import","fileName":"work-initiatives.module.code.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts"}
 {"propertySlug":"import","fileName":"work-initiatives.module.code.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts"}
 {"propertySlug":"import","fileName":"work-initiatives.module.code.ts","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts"}

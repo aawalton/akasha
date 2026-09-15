@@ -17,4 +17,5 @@
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.test.ts"}
+{"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/observation/seat-observation.domain.ts","id":"01a0658d-c92f-76f2-abb0-efb387b6515b"}
