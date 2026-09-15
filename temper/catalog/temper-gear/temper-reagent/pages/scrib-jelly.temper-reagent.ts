@@ -2,7 +2,7 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const scribJelly = {
   id: "019e21f7-3b23-76fd-9ebe-76673440b3b9",
-  type: "temper-reagent",
+  type: "page-type/temper-reagent",
   slug: "scrib-jelly",
   title: "Scrib Jelly",
   key: "scrib-jelly",

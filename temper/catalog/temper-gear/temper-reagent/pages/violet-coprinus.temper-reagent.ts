@@ -2,7 +2,7 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const violetCoprinus = {
   id: "019e21f7-3b27-798b-a4d4-e37f887f6917",
-  type: "temper-reagent",
+  type: "page-type/temper-reagent",
   slug: "violet-coprinus",
   title: "Violet Coprinus",
   key: "violet-coprinus",

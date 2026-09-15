@@ -2,7 +2,7 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const cornFlower = {
   id: "019e21f7-3b11-7146-8395-93dcf667836c",
-  type: "temper-reagent",
+  type: "page-type/temper-reagent",
   slug: "corn-flower",
   title: "Corn Flower",
   key: "corn-flower",

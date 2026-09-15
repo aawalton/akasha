@@ -2,7 +2,7 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const waterHyacinth = {
   id: "019e21f7-3b28-76bb-9ffb-f5bf7132e5b8",
-  type: "temper-reagent",
+  type: "page-type/temper-reagent",
   slug: "water-hyacinth",
   title: "Water Hyacinth",
   key: "water-hyacinth",

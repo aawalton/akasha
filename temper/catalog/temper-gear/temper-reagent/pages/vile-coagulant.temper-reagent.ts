@@ -2,7 +2,7 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const vileCoagulant = {
   id: "019e21f7-3b26-7c69-ace9-bedf3b87e28d",
-  type: "temper-reagent",
+  type: "page-type/temper-reagent",
   slug: "vile-coagulant",
   title: "Vile Coagulant",
   key: "vile-coagulant",

@@ -2,7 +2,7 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const dragonsBlood = {
   id: "019e21f7-3b15-7981-bc74-ec954096ea0c",
-  type: "temper-reagent",
+  type: "page-type/temper-reagent",
   slug: "dragons-blood",
   title: "Dragon's Blood",
   key: "dragons-blood",

@@ -2,7 +2,7 @@ import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-rea
 
 export const dragonthorn = {
   id: "019e21f7-3b17-7bda-9f80-d46932033b33",
-  type: "temper-reagent",
+  type: "page-type/temper-reagent",
   slug: "dragonthorn",
   title: "Dragonthorn",
   key: "dragonthorn",
