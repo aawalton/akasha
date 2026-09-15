@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  beyond,
   gathered,
   pathsIn,
   stating,
@@ -336,12 +335,6 @@ test("a path an earlier reach took away is refused rather than taken away twice"
 
   expect(first.said.refused).toBe(null)
   expect(again.said.refused).toBe(gone)
-})
-
-test("an answer stating an edit the world already holds states nothing beyond that world", async () => {
-  const first = await reach(worldIn(indexedRepo()), REMOVE_FILE, { at: HELD_CODE })
-
-  expect(beyond(first.world.over, first.said).edits).toEqual([])
 })
 
 const HOLDS_A_BODY = "holds a body already"

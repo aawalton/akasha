@@ -248,11 +248,6 @@ export function replayed(said: Said, textOf: BodyOf): Replayed | { readonly refu
   return held
 }
 
-export function beyond(had: Answer, said: Answer): Answer {
-  const held = new Set(had.edits)
-  return { edits: said.edits.filter((one) => !held.has(one)), refused: said.refused }
-}
-
 export function gathered(answers: readonly Answer[]): Answer {
   const edits: FileChange[] = []
   for (const one of answers) {
