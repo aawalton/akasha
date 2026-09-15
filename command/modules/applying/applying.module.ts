@@ -10,8 +10,11 @@ export const applying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A landing that committed is taken as landed whatever went wrong after that commit, and what went wrong is said on stderr.",
+      statement: "A landing that committed is taken as landed whatever went wrong after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What went wrong after that commit is said on stderr.",
     },
     {
       invariantKind: "departure",
