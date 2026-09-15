@@ -84,13 +84,13 @@ test("the body a change took away is read as the text a check judges", () => {
 
 test("the files selected are the ones the change leaves standing, whatever kind of file they are", () => {
   const change = mixedWorld()
-  const handed = FILES.from(change, shadowAt(change.root))
+  const handed = [...FILES.from(change, shadowAt(change.root))]
   expect(handed.map((one) => one.path)).toEqual(["here.ts", "note.md"])
 })
 
 test("the texts selected are TypeScript alone, each one handed over already read", () => {
   const change = mixedWorld()
-  const handed = TEXTS.from(change, shadowAt(change.root))
+  const handed = [...TEXTS.from(change, shadowAt(change.root))]
   expect(handed.map((one) => one.path)).toEqual(["here.ts"])
   expect(handed.map((one) => one.text)).toEqual(["here"])
 })
@@ -102,7 +102,7 @@ test("a body written with JSX is TypeScript too, so the texts take it and the pa
   const held = onDisk(root)
   const change = { root, changed: ["here.tsx", "note.md"], after: held, before: held }
   const shadow = shadowAt(root)
-  expect(TEXTS.from(change, shadow).map((one) => one.path)).toEqual(["here.tsx"])
+  expect([...TEXTS.from(change, shadow)].map((one) => one.path)).toEqual(["here.tsx"])
   expect(TEXTS.isInput("here.tsx", shadow)).toBe(true)
   expect(TEXTS.isInput("here.md", shadow)).toBe(false)
 })
@@ -123,7 +123,7 @@ test("reading each text takes a body written with JSX as readily as one written 
 
 test("the pages selected are the standing files the index names a page type for, already loaded", () => {
   const change = pagedWorld()
-  const handed = PAGES.from(change, shadowAt(change.root))
+  const handed = [...PAGES.from(change, shadowAt(change.root))]
   expect(handed.map((one) => one.path)).toEqual([PAGE_AT])
   expect(handed.map((one) => one.value.value?.["slug"])).toEqual(["held"])
 })
@@ -139,8 +139,8 @@ test("a selector tailed by one page type takes a page carrying that tail and no 
   const change = tailedWorld()
   const shadow = shadowAt(change.root)
   const tailed = pagesTailed(PAGE_TYPE)
-  const handed = tailed.from(change, shadow)
-  expect(PAGES.from(change, shadow).map((one) => one.path)).toEqual([PAGE_AT, TYPE_AT])
+  const handed = [...tailed.from(change, shadow)]
+  expect([...PAGES.from(change, shadow)].map((one) => one.path)).toEqual([PAGE_AT, TYPE_AT])
   expect(handed.map((one) => one.path)).toEqual([TYPE_AT])
   expect(tailed.isInput(TYPE_AT, shadow)).toBe(true)
   expect(tailed.isInput(PAGE_AT, shadow)).toBe(false)
@@ -149,7 +149,7 @@ test("a selector tailed by one page type takes a page carrying that tail and no 
 test("a page whose body declares no page is handed over all the same, carrying nothing loaded", () => {
   const change = pagedWorld()
   writeFileSync(join(change.root, PAGE_AT), "export const held = 1\n")
-  const handed = PAGES.from(change, shadowAt(change.root))
+  const handed = [...PAGES.from(change, shadowAt(change.root))]
   expect(handed.map((one) => one.path)).toEqual([PAGE_AT])
   expect(handed.map((one) => [one.value.value, one.value.failed])).toEqual([[null, null]])
 })
@@ -157,7 +157,7 @@ test("a page whose body declares no page is handed over all the same, carrying n
 test("a page whose body will not load is handed over all the same, carrying why it did not", () => {
   const change = pagedWorld()
   writeFileSync(join(change.root, PAGE_AT), "export const held = (((\n")
-  const handed = PAGES.from(change, shadowAt(change.root))
+  const handed = [...PAGES.from(change, shadowAt(change.root))]
   expect(handed.map((one) => one.path)).toEqual([PAGE_AT])
   expect(handed.map((one) => one.value.failed === null)).toEqual([false])
 })
@@ -171,7 +171,7 @@ test("the page types are read from a shadow once, however many paths are held ag
   expect(PAGES.isInput(PAGE_AT, shadow)).toBe(true)
   const once = asked
   expect(PAGES.isInput(CODE_AT, shadow)).toBe(false)
-  expect(PAGES.from(change, shadow).map((one) => one.path)).toEqual([PAGE_AT])
+  expect([...PAGES.from(change, shadow)].map((one) => one.path)).toEqual([PAGE_AT])
   expect(asked).toBe(once)
 })
 
@@ -225,7 +225,7 @@ test("a selector takes as input every path it hands over, so no path it judges p
     pagesTailed(MODULE),
   ]
   for (const selector of every) {
-    const handed = selector.from(change, shadow)
+    const handed = [...selector.from(change, shadow)]
     expect(handed.length).toBeGreaterThan(0)
     for (const given of handed) expect(selector.isInput(given.path, shadow)).toBe(true)
   }

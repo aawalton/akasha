@@ -173,5 +173,10 @@ export const changeWalking = {
       invariantKind: "invariant-kind/departure",
       statement: "A selector over bodies is told the index the change leaves as well as the path.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A selector hands each body over as it is read rather than reading every body first.",
+    },
   ],
 } as const satisfies Module

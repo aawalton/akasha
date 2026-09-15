@@ -49,7 +49,7 @@ export type Input = (path: string, shadow: Shadow) => boolean
 export type Selector<T> = {
   readonly named: string
   readonly isInput: Input
-  readonly from: (change: Change, shadow: Shadow) => readonly T[]
+  readonly from: (change: Change, shadow: Shadow) => Iterable<T>
 }
 
 export type Stated = {
@@ -68,14 +68,12 @@ const TS = ".ts"
 
 const PAGE_TYPES = new WeakMap<Shadow, ReadonlySet<string>>()
 
-function bodiesIn(change: Change): readonly Body[] {
-  const found: Body[] = []
+function* bodiesIn(change: Change): Iterable<Body> {
   for (const path of change.changed) {
     const bytes = change.after(path)
     if (bytes === null) continue
-    found.push({ root: change.root, path, bytes })
+    yield { root: change.root, path, bytes }
   }
-  return found
 }
 
 export function pageTypesFor(shadow: Shadow): ReadonlySet<string> {
@@ -132,15 +130,13 @@ export function filesBy(named: string, taken: Input): Selector<Body> {
   return {
     named,
     isInput: taken,
-    from: (change, shadow) => {
-      const found: Body[] = []
+    from: function* (change, shadow) {
       for (const path of change.changed) {
         if (!taken(path, shadow)) continue
         const bytes = change.after(path)
         if (bytes === null) continue
-        found.push({ root: change.root, path, bytes })
+        yield { root: change.root, path, bytes }
       }
-      return found
     },
   }
 }
@@ -163,15 +159,13 @@ export function textsBy(named: string, taken: Input): Selector<Text> {
   return {
     named,
     isInput: (path, shadow) => taken(path, shadow),
-    from: (change, shadow) => {
-      const found: Text[] = []
+    from: function* (change, shadow) {
       for (const path of change.changed) {
         if (!taken(path, shadow)) continue
         const text = textIn(change, path)
         if (text === null) continue
-        found.push({ root: change.root, path, text })
+        yield { root: change.root, path, text }
       }
-      return found
     },
   }
 }
@@ -188,15 +182,13 @@ export function pagesBy(named: string, taken: Input): Selector<Paged> {
   return {
     named,
     isInput: (path, shadow) => pagedInside(path, shadow) && taken(path, shadow),
-    from: (change, shadow) => {
-      const found: Paged[] = []
+    from: function* (change, shadow) {
       for (const path of change.changed) {
         if (!pagedInside(path, shadow) || !taken(path, shadow)) continue
         const text = textIn(change, path)
         if (text === null) continue
-        found.push({ root: change.root, path, value: loadedFrom(text) })
+        yield { root: change.root, path, value: loadedFrom(text) }
       }
-      return found
     },
   }
 }
