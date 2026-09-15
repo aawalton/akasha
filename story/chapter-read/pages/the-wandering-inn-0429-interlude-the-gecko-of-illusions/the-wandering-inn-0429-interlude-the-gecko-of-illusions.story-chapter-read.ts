@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theWanderingInn0429InterludeTheGeckoOfIllusions = {
   id: "01a06599-7757-7e8a-8f0e-3bdba50b79bb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-wandering-inn-0429-interlude-the-gecko-of-illusions",
   title: "Interlude - The Gecko of Illusions",
   story: "story-read/the-wandering-inn",

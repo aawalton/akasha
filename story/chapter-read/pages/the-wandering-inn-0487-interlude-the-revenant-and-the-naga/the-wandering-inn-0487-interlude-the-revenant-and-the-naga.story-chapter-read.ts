@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const theWanderingInn0487InterludeTheRevenantAndTheNaga = {
   id: "01a06599-fb01-7c34-8800-708463a6c8ed",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "the-wandering-inn-0487-interlude-the-revenant-and-the-naga",
   title: "Interlude - The Revenant and the Naga",
   story: "story-read/the-wandering-inn",
