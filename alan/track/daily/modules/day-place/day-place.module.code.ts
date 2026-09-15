@@ -9,8 +9,6 @@ import {
 
 export const DAILY_TRACKING = "daily-tracking"
 
-export const SESSION_TRACKING = "session-tracking"
-
 export const AKASHA = "akasha"
 
 export type DayPlace = typeof AKASHA
