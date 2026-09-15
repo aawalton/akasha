@@ -1,0 +1,29 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const arianaGrandePositionsMotiveWithDojaCat = {
+  id: "01a0a6c5-2167-7da7-a4f5-e0f20f383f2f",
+  type: "page-type/track",
+  slug: "ariana-grande-positions-motive-with-doja-cat",
+  ownLength: 2.7998166666666666,
+  ownProgress: 0,
+  partOfCollections: ["release/ariana-grande-positions"],
+  position: 3,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5GkQIP5mWPi4KZLLXeuFTT",
+      externalLink: "https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT",
+      lastSyncedAt: "2026-09-15",
+    },
+  ],
+  title: "motive (with Doja Cat)",
+  discNumber: 1,
+  explicit: true,
+  trackArtist: [
+    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
+    { externalId: "5cj0lLjcoR7YOSnhnX0Po5", artistName: "Doja Cat" },
+  ],
+  trackKey: "motivewithdojacat|5cj0lLjcoR7YOSnhnX0Po5,66CXWjxzNUsdJxJ2JdwvnR|167989",
+} as const satisfies Track

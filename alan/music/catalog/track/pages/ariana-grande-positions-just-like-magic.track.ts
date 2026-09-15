@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const arianaGrandePositionsJustLikeMagic = {
+  id: "01a0a6c5-2188-7ac7-9396-23a2337d4288",
+  type: "page-type/track",
+  slug: "ariana-grande-positions-just-like-magic",
+  ownLength: 2.4983333333333335,
+  ownProgress: 0,
+  partOfCollections: ["release/ariana-grande-positions"],
+  position: 4,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7Dx9Z6Aon1qPS2N0rHSWTe",
+      externalLink: "https://open.spotify.com/track/7Dx9Z6Aon1qPS2N0rHSWTe",
+      lastSyncedAt: "2026-09-15",
+    },
+  ],
+  title: "just like magic",
+  discNumber: 1,
+  explicit: true,
+  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackKey: "justlikemagic|66CXWjxzNUsdJxJ2JdwvnR|149900",
+} as const satisfies Track

@@ -1,0 +1,28 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionDontWannaBreakUp = {
+  id: "01a0a6c5-3f0f-7dc5-be36-3368b4214454",
+  type: "page-type/track",
+  slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version-dont-wanna-break-up",
+  ownLength: 2.9001,
+  ownProgress: 0,
+  partOfCollections: [
+    "release/ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-a-cappella-version",
+  ],
+  position: 3,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3d4NRTVASm8UCwczC3EtsL",
+      externalLink: "https://open.spotify.com/track/3d4NRTVASm8UCwczC3EtsL",
+      lastSyncedAt: "2026-09-15",
+    },
+  ],
+  title: "don't wanna break up again",
+  discNumber: 1,
+  explicit: true,
+  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackKey: "dontwannabreakupagain|66CXWjxzNUsdJxJ2JdwvnR|174006",
+} as const satisfies Track

@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const arianaGrandeKByeForNowSwtLiveGodIsAWomanLive = {
+  id: "01a0a6c5-231b-7300-a9df-3c168eccb5ea",
+  type: "page-type/track",
+  slug: "ariana-grande-k-bye-for-now-swt-live-god-is-a-woman-live",
+  ownLength: 3.5511333333333335,
+  ownProgress: 0,
+  partOfCollections: ["release/ariana-grande-k-bye-for-now-swt-live"],
+  position: 2,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "67kQ3UW7saqCFqB54BVKKI",
+      externalLink: "https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI",
+      lastSyncedAt: "2026-09-15",
+    },
+  ],
+  title: "god is a woman - live",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackKey: "godisawomanlive|66CXWjxzNUsdJxJ2JdwvnR|213068",
+} as const satisfies Track

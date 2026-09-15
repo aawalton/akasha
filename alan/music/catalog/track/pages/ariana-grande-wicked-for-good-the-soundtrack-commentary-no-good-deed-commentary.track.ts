@@ -1,0 +1,32 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoGoodDeedCommentary = {
+  id: "01a0a6c5-0aea-7476-ae5e-2145a6832391",
+  type: "page-type/track",
+  slug: "ariana-grande-wicked-for-good-the-soundtrack-commentary-no-good-deed-commentary",
+  ownLength: 1.6851666666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/ariana-grande-wicked-for-good-the-soundtrack-commentary"],
+  position: 16,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0nWt2oMdKKczyGLprffFbh",
+      externalLink: "https://open.spotify.com/track/0nWt2oMdKKczyGLprffFbh",
+      lastSyncedAt: "2026-09-15",
+    },
+  ],
+  title: "No Good Deed - Commentary",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [
+    { externalId: "6VAUVq50O85s387FLQJi2B", artistName: "Jon M. Chu" },
+    { externalId: "1e6BRnFiiwNZl04xu1yqmi", artistName: "Stephen Oremus" },
+    { externalId: "7daPb40K64rRtF36wd3ZOk", artistName: "Stephen Schwartz" },
+    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
+  ],
+  trackKey:
+    "nogooddeedcommentary|1e6BRnFiiwNZl04xu1yqmi,46UMQ0cW8ToR8egkBRwAxZ,6VAUVq50O85s387FLQJi2B,7daPb40K64rRtF36wd3ZOk|101110",
+} as const satisfies Track

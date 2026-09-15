@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const arianaGrandeMyEverythingDeluxeMyEverything = {
+  id: "01a0a6c5-2ee8-7906-b40e-cc7ca7ae1779",
+  type: "page-type/track",
+  slug: "ariana-grande-my-everything-deluxe-my-everything",
+  ownLength: 2.808666666666667,
+  ownProgress: 0,
+  partOfCollections: ["release/ariana-grande-my-everything-deluxe"],
+  position: 12,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4eumFsTnduH3zRfaASoAPs",
+      externalLink: "https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs",
+      lastSyncedAt: "2026-09-15",
+    },
+  ],
+  title: "My Everything",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackKey: "myeverything|66CXWjxzNUsdJxJ2JdwvnR|168520",
+} as const satisfies Track

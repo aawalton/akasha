@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const arianaGrandeWeCanTBeFriendsWaitForYourLoveWeCantBeFriendsWaitForYourLove2 = {
+  id: "01a0a6c5-33e5-7a34-8b49-5037ea9e557a",
+  type: "page-type/track",
+  slug: "ariana-grande-we-can-t-be-friends-wait-for-your-love-we-cant-be-friends-wait-for-your-love-2",
+  ownLength: 3.81065,
+  ownProgress: 0,
+  partOfCollections: ["release/ariana-grande-we-can-t-be-friends-wait-for-your-love"],
+  position: 3,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "23qH6VdoC19RHMh8HJA2nU",
+      externalLink: "https://open.spotify.com/track/23qH6VdoC19RHMh8HJA2nU",
+      lastSyncedAt: "2026-09-15",
+    },
+  ],
+  title: "we can't be friends (wait for your love) – instrumental",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackKey: "wecantbefriendswaitforyourloveinstrumental|66CXWjxzNUsdJxJ2JdwvnR|228639",
+} as const satisfies Track
