@@ -47,6 +47,7 @@ import {
   NOTHING_FILED as NOTHING_REFERENCED,
   namedFrom,
 } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
+import { referencesAt } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
@@ -307,8 +308,22 @@ export function settlingOver(
       namedFrom(one.value, one.path, known, repo, rowsFor(one.path, one.value, known, nowBody))
     ),
   ]
+  const vacated = new Set(
+    held.flatMap((one) => {
+      if (one.was === null || one.now !== null) return []
+      const at = referencesAt(under(repo, one.path))
+      return at === null ? [] : [at]
+    })
+  )
+  const leftBehind = [...vacated].flatMap((at) =>
+    (reading.read(at) ?? "")
+      .split("\n")
+      .filter((line) => line !== "")
+      .map((line) => ({ at, line }))
+  )
   const references = filingOf(
     [
+      ...leftBehind,
       ...referencedWas.flatMap((one) => one.entries),
       ...importing.flatMap((one) =>
         one.before === null ? [] : importedFrom(reading, one.before, one.path, repo, wasNaming)
@@ -319,7 +334,7 @@ export function settlingOver(
       ...importing.flatMap((one) =>
         one.after === null ? [] : importedFrom(stepped, one.after, one.path, repo, naming)
       ),
-    ]
+    ].filter((one) => !vacated.has(one.at))
   )
 
   const filings = [...imported, ...identity, ...edge]

@@ -131,6 +131,19 @@ export const indexSettling = {
     },
     {
       invariantKind: "departure",
+      statement: "No reference is filed beside a path the change has taken the page from.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The references file beside a page the change takes from a path goes with the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An importer the change has not repointed files no reference where the page was.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The reading a settle leaves has the references that settle files.",
     },
     {

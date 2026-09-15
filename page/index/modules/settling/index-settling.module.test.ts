@@ -19,11 +19,15 @@ import {
   aType,
   bodyOf,
   butTheStamp,
+  HELD_CODE,
+  HELD_PAGE,
   IDENTIFIERS,
   idOf,
   indexedRepo,
+  NAMER_CODE,
   NAMER_PAGE,
   type Named,
+  pageOf,
   put,
   scratch,
   textIn,
@@ -248,4 +252,48 @@ test("a settle into an index that is nowhere yet answers rather than refusing an
   )
 
   expect(settled.reading.read(at)).toBe(body)
+})
+
+const MOVED_PAGE = "akasha/moved/held.module.ts"
+
+const MOVED_CODE = "akasha/moved/held.module.code.ts"
+
+const REFERENCES_LEFT = "akasha/one/held.module.referenced-by.jsonl"
+
+const NAMER_NAMING_NOTHING = pageOf({
+  id: idOf("9"),
+  pageTypeSlug: "module",
+  slug: "namer",
+  definition: "a page importing the held code and naming no page",
+  code: "ts",
+})
+
+test("a page moved from under an importer not yet repointed leaves no references where it was", () => {
+  const root = indexedRepo({ [NAMER_PAGE]: NAMER_NAMING_NOTHING })
+  const textOf = textIn(root)
+  const page = textOf(HELD_PAGE)
+  const code = textOf(HELD_CODE)
+  const moving = [
+    { path: HELD_PAGE, before: page, after: null },
+    { path: MOVED_PAGE, before: null, after: page },
+    { path: HELD_CODE, before: code, after: null },
+    { path: MOVED_CODE, before: null, after: code },
+  ]
+  const held = new Map(moving.map((one) => [one.path, one.after] as const))
+  const bodyAt = (at: string): string | null => (held.has(at) ? (held.get(at) ?? null) : textOf(at))
+  expect(textOf(REFERENCES_LEFT)).toContain(NAMER_CODE)
+
+  const settled = settlingOver(
+    readingIn(root),
+    root,
+    moving,
+    (path) => {
+      const body = bodyAt(path)
+      return body === null ? null : valueIn(body)
+    },
+    bodyAt
+  )
+
+  expect(settled.refused).toEqual([])
+  expect(settled.reading.read(REFERENCES_LEFT)).toBe(null)
 })
