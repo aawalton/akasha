@@ -1,9 +1,9 @@
 import type { Initiative } from "akasha/domain/initiative/initiative.page-type.types.ts"
 
-export const emberRepairTemperTasks = {
+export const emberTemperTasks = {
   id: "01a06cac-aa56-7519-8281-5622fa42a987",
   type: "initiative",
-  slug: "ember-repair-temper-tasks",
+  slug: "ember-temper-tasks",
   domain: "domain/temper",
   persona: "persona/ember",
   intentStack: [],
