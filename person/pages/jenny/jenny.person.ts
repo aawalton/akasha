@@ -2,7 +2,7 @@ import type { Person } from "akasha/person/person.page-type.types.ts"
 
 export const jenny = {
   id: "01a053fe-00f0-7efb-8843-89602ea5d18b",
-  type: "person",
+  type: "page-type/person",
   slug: "jenny",
   definition: "Jennifer Walton, Alan's wife",
   answeredBy: "persona/claude",

@@ -2,7 +2,7 @@ import type { Person } from "akasha/person/person.page-type.types.ts"
 
 export const david = {
   id: "01a053fe-00f0-7112-a569-989bfe576b71",
-  type: "person",
+  type: "page-type/person",
   slug: "david",
   definition: "David Eggertsen, Alan's friend since childhood",
   answeredBy: "persona/amy",

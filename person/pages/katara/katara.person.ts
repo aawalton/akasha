@@ -2,7 +2,7 @@ import type { Person } from "akasha/person/person.page-type.types.ts"
 
 export const katara = {
   id: "01a053fe-00f1-74b6-a49f-9f577dba1047",
-  type: "person",
+  type: "page-type/person",
   slug: "katara",
   definition: "Katara Walton, Alan's youngest child",
   answeredBy: "persona/claude",
