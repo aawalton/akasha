@@ -77,7 +77,6 @@ export const page = {
     "module/repo-path",
     "module/shadow",
     "module/test-run-marking",
-    "module/type-keys",
     "page-type/action-button-property",
     "page-type/boolean-property",
     "page-type/build-folder-property",
