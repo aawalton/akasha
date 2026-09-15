@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y63PlatoLaws = {
   id: "019f0c09-be16-72b5-bb9a-491eff8ac389",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y6-3-plato-laws",
   title: "Y6.3 Plato: Laws",
   author: "Plato",

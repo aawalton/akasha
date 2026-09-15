@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y317DostoevskyTheBrothersKaramazov = {
   id: "019f0c09-bd37-7d0d-8e26-a46ccbfed547",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y3-17-dostoevsky-the-brothers-karamazov",
   title: "Y3.17 Dostoevsky: The Brothers Karamazov",
   author: "Dostoevsky",

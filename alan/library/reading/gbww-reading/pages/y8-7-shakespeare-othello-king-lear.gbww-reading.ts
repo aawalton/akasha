@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y87ShakespeareOthelloKingLear = {
   id: "019f0c09-bee5-746d-a836-5c86071e11bb",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y8-7-shakespeare-othello-king-lear",
   title: "Y8.7 Shakespeare: Othello, King Lear",
   author: "Shakespeare",

@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y416MelvilleMobyDick = {
   id: "019f0c09-bd8e-7bbe-94f4-89c2dc6b3619",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y4-16-melville-moby-dick",
   title: "Y4.16 Melville: Moby Dick",
   author: "Melville",

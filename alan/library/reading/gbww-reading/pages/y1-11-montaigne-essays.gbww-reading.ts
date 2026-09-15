@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y111MontaigneEssays = {
   id: "019f0c09-bbaf-7381-a0d9-476713b4b481",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y1-11-montaigne-essays",
   title: "Y1.11 Montaigne: Essays",
   author: "Montaigne",

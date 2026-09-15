@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y53AristotleOnTheSoul = {
   id: "019f0c09-bdb0-7352-97b7-9edfcda082d3",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y5-3-aristotle-on-the-soul",
   title: "Y5.3 Aristotle: On the Soul",
   author: "Aristotle",

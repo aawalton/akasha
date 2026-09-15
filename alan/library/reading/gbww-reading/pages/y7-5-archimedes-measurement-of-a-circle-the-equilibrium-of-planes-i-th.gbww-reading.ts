@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y75ArchimedesMeasurementOfACircleTheEquilibriumOfPlanesITh = {
   id: "019f0c09-be7f-7291-9e7d-56ed75f30e38",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y7-5-archimedes-measurement-of-a-circle-the-equilibrium-of-planes-i-th",
   title:
     "Y7.5 Archimedes: Measurement of a Circle; The Equilibrium of Planes (I); The Sand-Reckoner; On Floating Bodies (I)",

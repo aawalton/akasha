@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y25PlatoMeno = {
   id: "019f0c09-bca2-729d-a168-b8452a2c1f58",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y2-5-plato-meno",
   title: "Y2.5 Plato: Meno",
   author: "Plato",

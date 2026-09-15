@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y523OrwellAnimalFarm = {
   id: "019f0c09-be09-7186-8974-4bd8d079cc8e",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y5-23-orwell-animal-farm",
   title: "Y5.23 Orwell: Animal Farm",
   author: "Orwell",

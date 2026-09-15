@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y34PlatoStatesman = {
   id: "019f0c09-bcfd-77c3-80f9-12c9a9190bfc",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y3-4-plato-statesman",
   title: "Y3.4 Plato: Statesman",
   author: "Plato",

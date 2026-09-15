@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y44AristotlePhysics = {
   id: "019f0c09-bd59-70c7-aa99-da1297758704",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y4-4-aristotle-physics",
   title: "Y4.4 Aristotle: Physics",
   author: "Aristotle",

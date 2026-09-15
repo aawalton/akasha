@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y811LockeALetterConcerningToleration = {
   id: "019f0c09-bf98-7e54-b4ac-c35cea78bc20",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y8-11-locke-a-letter-concerning-toleration",
   title: "Y8.11 Locke: A Letter Concerning Toleration",
   author: "Locke",

@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y318FreudTheOriginAndDevelopmentOfPsychoanalysis = {
   id: "019f0c09-bd3c-7061-b436-a349698b0fe0",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y3-18-freud-the-origin-and-development-of-psychoanalysis",
   title: "Y3.18 Freud: The Origin and Development of Psychoanalysis",
   author: "Freud",

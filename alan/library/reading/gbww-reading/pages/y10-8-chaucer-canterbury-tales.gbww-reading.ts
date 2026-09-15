@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y108ChaucerCanterburyTales = {
   id: "019f0c09-c199-7581-919a-2c439d7092b3",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y10-8-chaucer-canterbury-tales",
   title: "Y10.8 Chaucer: Canterbury Tales",
   author: "Chaucer",

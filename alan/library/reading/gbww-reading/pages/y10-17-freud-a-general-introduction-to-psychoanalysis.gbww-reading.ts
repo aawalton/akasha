@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y1017FreudAGeneralIntroductionToPsychoanalysis = {
   id: "019f0c09-c2b1-7648-807e-cad3de2c619a",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y10-17-freud-a-general-introduction-to-psychoanalysis",
   title: "Y10.17 Freud: A General Introduction to Psychoanalysis",
   author: "Freud",

@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y915FreudCivilizationAndItsDiscontents = {
   id: "019f0c09-c096-7cd2-97a5-2801a6b64489",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y9-15-freud-civilization-and-its-discontents",
   title: "Y9.15 Freud: Civilization and Its Discontents",
   author: "Freud",

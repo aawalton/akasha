@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y102PlatoTimaeus = {
   id: "019f0c09-c0dc-76cc-816e-eead1a8a2848",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y10-2-plato-timaeus",
   title: "Y10.2 Plato: Timaeus",
   author: "Plato",

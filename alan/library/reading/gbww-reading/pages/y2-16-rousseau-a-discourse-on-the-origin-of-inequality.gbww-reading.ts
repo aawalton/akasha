@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y216RousseauADiscourseOnTheOriginOfInequality = {
   id: "019f0c09-bcd5-7042-9e14-e039a41fdb87",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y2-16-rousseau-a-discourse-on-the-origin-of-inequality",
   title: "Y2.16 Rousseau: A Discourse on the Origin of Inequality",
   author: "Rousseau",

@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y910PascalTheGreatExperimentConcerningTheEquilibriumOfFluids = {
   id: "019f0c09-c07c-73e0-b042-55fc1aeb3f78",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y9-10-pascal-the-great-experiment-concerning-the-equilibrium-of-fluids",
   title:
     "Y9.10 Pascal: The Great Experiment Concerning the Equilibrium of Fluids; On Geometrical Demonstration",

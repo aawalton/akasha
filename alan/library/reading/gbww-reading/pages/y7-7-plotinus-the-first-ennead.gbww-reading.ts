@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y77PlotinusTheFirstEnnead = {
   id: "019f0c09-be88-7041-987b-9cf214d2dc8c",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y7-7-plotinus-the-first-ennead",
   title: "Y7.7 Plotinus: The First Ennead",
   author: "Plotinus",

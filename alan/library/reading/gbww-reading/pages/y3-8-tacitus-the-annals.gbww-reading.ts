@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y38TacitusTheAnnals = {
   id: "019f0c09-bd12-7320-b05b-7336039d44d5",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y3-8-tacitus-the-annals",
   title: "Y3.8 Tacitus: The Annals",
   author: "Tacitus",

@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y614LockeAnEssayConcerningHumanUnderstanding = {
   id: "019f0c09-be4a-72e9-b5f2-a706e0f1b29d",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y6-14-locke-an-essay-concerning-human-understanding",
   title: "Y6.14 Locke: An Essay Concerning Human Understanding",
   author: "Locke",

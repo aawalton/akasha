@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y815MarxCapital = {
   id: "019f0c09-bfb3-7316-946c-b667692d6c1b",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y8-15-marx-capital",
   title: "Y8.15 Marx: Capital",
   author: "Marx",

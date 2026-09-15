@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y36AristotlePolitics = {
   id: "019f0c09-bd07-7322-9373-3e70b8b5bb78",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y3-6-aristotle-politics",
   title: "Y3.6 Aristotle: Politics",
   author: "Aristotle",

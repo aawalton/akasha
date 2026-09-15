@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y11PlatoApologyCrito = {
   id: "019f0c09-b9c8-7a16-98eb-6764988b54d7",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y1-1-plato-apology-crito",
   title: "Y1.1 Plato: Apology, Crito",
   author: "Plato",

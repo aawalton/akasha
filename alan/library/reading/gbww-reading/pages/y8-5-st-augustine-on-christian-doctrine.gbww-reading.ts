@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y85StAugustineOnChristianDoctrine = {
   id: "019f0c09-bedc-737e-8232-d53ac46bf748",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y8-5-st-augustine-on-christian-doctrine",
   title: "Y8.5 St. Augustine: On Christian Doctrine",
   author: "St. Augustine",

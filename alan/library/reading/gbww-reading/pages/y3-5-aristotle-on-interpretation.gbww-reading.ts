@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y35AristotleOnInterpretation = {
   id: "019f0c09-bd02-76c1-97ce-5aeb9dc5ee0d",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y3-5-aristotle-on-interpretation",
   title: "Y3.5 Aristotle: On Interpretation",
   author: "Aristotle",

@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y76EpictetusTheDiscourses = {
   id: "019f0c09-be83-7a54-ba7b-7edaaaeaf083",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y7-6-epictetus-the-discourses",
   title: "Y7.6 Epictetus: The Discourses",
   author: "Epictetus",

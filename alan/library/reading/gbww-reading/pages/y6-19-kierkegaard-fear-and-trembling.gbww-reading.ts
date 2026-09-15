@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y619KierkegaardFearAndTrembling = {
   id: "019f0c09-be5f-7bea-9100-3d098a5ff707",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y6-19-kierkegaard-fear-and-trembling",
   title: "Y6.19 Kierkegaard: Fear and Trembling",
   author: "Kierkegaard",

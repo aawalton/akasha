@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y55GalenOnTheNaturalFaculties = {
   id: "019f0c09-bdb8-7aac-8501-df341abd14f0",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y5-5-galen-on-the-natural-faculties",
   title: "Y5.5 Galen: On the Natural Faculties",
   author: "Galen",

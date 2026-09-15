@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y210MarcusAureliusMeditations = {
   id: "019f0c09-bcba-72b9-bc94-de28dc029f34",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y2-10-marcus-aurelius-meditations",
   title: "Y2.10 Marcus Aurelius: Meditations",
   author: "Marcus Aurelius",

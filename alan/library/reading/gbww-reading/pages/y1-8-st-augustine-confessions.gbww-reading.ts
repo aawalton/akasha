@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y18StAugustineConfessions = {
   id: "019f0c09-bb4c-7a7b-89a1-713ab63b3446",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y1-8-st-augustine-confessions",
   title: "Y1.8 St. Augustine: Confessions",
   author: "St. Augustine",

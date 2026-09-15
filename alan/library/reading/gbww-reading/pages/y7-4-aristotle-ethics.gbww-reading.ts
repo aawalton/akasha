@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y74AristotleEthics = {
   id: "019f0c09-be7a-7ad8-a47c-660711d5b59f",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y7-4-aristotle-ethics",
   title: "Y7.4 Aristotle: Ethics",
   author: "Aristotle",

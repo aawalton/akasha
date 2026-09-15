@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y613PascalTheProvincialLetters = {
   id: "019f0c09-be45-7d5d-8490-b11e0993c14f",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y6-13-pascal-the-provincial-letters",
   title: "Y6.13 Pascal: The Provincial Letters",
   author: "Pascal",

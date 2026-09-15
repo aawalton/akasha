@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y521DeweyExperienceAndEducation = {
   id: "019f0c09-be00-78c8-9bea-ee56ea6ea046",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y5-21-dewey-experience-and-education",
   title: "Y5.21 Dewey: Experience and Education",
   author: "Dewey",

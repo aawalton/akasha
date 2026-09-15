@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y31AeschylusPrometheusBound = {
   id: "019f0c09-bcef-7ffc-aa1d-b170c3ac8071",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y3-1-aeschylus-prometheus-bound",
   title: "Y3.1 Aeschylus: Prometheus Bound",
   author: "Aeschylus",

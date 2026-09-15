@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y16PlutarchLivesOfTheNobleGreciansAndRomans = {
   id: "019f0c09-bae4-7c2c-b29a-d416238a4470",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y1-6-plutarch-lives-of-the-noble-grecians-and-romans",
   title: "Y1.6 Plutarch: Lives of the Noble Grecians and Romans",
   author: "Plutarch",

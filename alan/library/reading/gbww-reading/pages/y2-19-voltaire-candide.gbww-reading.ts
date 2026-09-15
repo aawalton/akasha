@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y219VoltaireCandide = {
   id: "019f0c09-bce2-77a1-90f7-c30a92c868c9",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y2-19-voltaire-candide",
   title: "Y2.19 Voltaire: Candide",
   author: "Voltaire",

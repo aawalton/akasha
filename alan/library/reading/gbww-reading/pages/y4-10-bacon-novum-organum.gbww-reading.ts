@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y410BaconNovumOrganum = {
   id: "019f0c09-bd75-789b-a6b1-5ca42149da23",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y4-10-bacon-novum-organum",
   title: "Y4.10 Bacon: Novum Organum",
   author: "Bacon",

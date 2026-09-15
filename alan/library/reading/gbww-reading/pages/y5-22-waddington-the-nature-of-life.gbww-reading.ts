@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y522WaddingtonTheNatureOfLife = {
   id: "019f0c09-be04-7c0a-b617-f5cf81cadaea",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y5-22-waddington-the-nature-of-life",
   title: "Y5.22 Waddington: The Nature of Life",
   author: "Waddington",

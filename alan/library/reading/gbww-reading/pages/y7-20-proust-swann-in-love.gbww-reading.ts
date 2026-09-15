@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y720ProustSwannInLove = {
   id: "019f0c09-bec2-712d-8584-9d630fa3ee53",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y7-20-proust-swann-in-love",
   title: "Y7.20 Proust: Swann in Love",
   author: "Proust",

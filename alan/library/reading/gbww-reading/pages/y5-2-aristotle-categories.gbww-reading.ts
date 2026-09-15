@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y52AristotleCategories = {
   id: "019f0c09-bdac-70cb-af67-a125bfc60fd1",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y5-2-aristotle-categories",
   title: "Y5.2 Aristotle: Categories",
   author: "Aristotle",

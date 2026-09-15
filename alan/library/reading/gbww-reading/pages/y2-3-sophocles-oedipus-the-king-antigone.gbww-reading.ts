@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y23SophoclesOedipusTheKingAntigone = {
   id: "019f0c09-bc99-7356-ad8c-40fc120a74c7",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y2-3-sophocles-oedipus-the-king-antigone",
   title: "Y2.3 Sophocles: Oedipus the King, Antigone",
   author: "Sophocles",

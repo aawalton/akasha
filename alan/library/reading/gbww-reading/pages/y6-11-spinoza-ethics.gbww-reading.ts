@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y611SpinozaEthics = {
   id: "019f0c09-be3d-7147-ba9f-ac50a62f56be",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y6-11-spinoza-ethics",
   title: "Y6.11 Spinoza: Ethics",
   author: "Spinoza",

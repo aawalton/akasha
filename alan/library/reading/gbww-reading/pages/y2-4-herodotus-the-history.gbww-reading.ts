@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y24HerodotusTheHistory = {
   id: "019f0c09-bc9d-7b9d-abb3-1900366aadec",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y2-4-herodotus-the-history",
   title: "Y2.4 Herodotus: The History",
   author: "Herodotus",

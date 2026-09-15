@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y86HobbesLeviathan = {
   id: "019f0c09-bee0-7be8-a8ba-6006b00958c5",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y8-6-hobbes-leviathan",
   title: "Y8.6 Hobbes: Leviathan",
   author: "Hobbes",

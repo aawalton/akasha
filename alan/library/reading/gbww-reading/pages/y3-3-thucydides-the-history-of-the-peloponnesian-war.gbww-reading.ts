@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y33ThucydidesTheHistoryOfThePeloponnesianWar = {
   id: "019f0c09-bcf8-7a41-b660-fd7ea2889919",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y3-3-thucydides-the-history-of-the-peloponnesian-war",
   title: "Y3.3 Thucydides: The History of the Peloponnesian War",
   author: "Thucydides",

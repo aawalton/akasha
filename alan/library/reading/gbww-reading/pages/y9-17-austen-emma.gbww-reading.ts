@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y917AustenEmma = {
   id: "019f0c09-c0a5-79be-84fc-728e0b4ed610",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y9-17-austen-emma",
   title: "Y9.17 Austen: Emma",
   author: "Austen",

@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y512DanteTheDivineComedy = {
   id: "019f0c09-bdd6-7cc0-b072-d52f2196ee3f",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y5-12-dante-the-divine-comedy",
   title: "Y5.12 Dante: The Divine Comedy",
   author: "Dante",

@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y121SchrodingerWhatIsLife = {
   id: "019f0c09-bc8b-7a42-a8eb-73444383f996",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y1-21-schrodinger-what-is-life",
   title: "Y1.21 Schrodinger: What Is Life?",
   author: "Schrodinger",

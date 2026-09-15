@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y617HegelThePhilosophyOfHistory = {
   id: "019f0c09-be57-7287-bcce-ac0eda42a293",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y6-17-hegel-the-philosophy-of-history",
   title: "Y6.17 Hegel: The Philosophy of History",
   author: "Hegel",

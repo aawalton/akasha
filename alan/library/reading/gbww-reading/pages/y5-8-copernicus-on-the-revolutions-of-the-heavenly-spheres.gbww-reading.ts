@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y58CopernicusOnTheRevolutionsOfTheHeavenlySpheres = {
   id: "019f0c09-bdc5-7eab-bdbf-73c490cfad88",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y5-8-copernicus-on-the-revolutions-of-the-heavenly-spheres",
   title: "Y5.8 Copernicus: On the Revolutions of the Heavenly Spheres",
   author: "Copernicus",

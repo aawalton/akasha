@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y719WeberEssaysInSociology = {
   id: "019f0c09-bebd-7b69-815e-807ca9897c39",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y7-19-weber-essays-in-sociology",
   title: "Y7.19 Weber: Essays in Sociology",
   author: "Weber",

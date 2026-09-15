@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y51PlatoPhaedo = {
   id: "019f0c09-bda7-7e28-b7c1-b10fea4888fb",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y5-1-plato-phaedo",
   title: "Y5.1 Plato: Phaedo",
   author: "Plato",

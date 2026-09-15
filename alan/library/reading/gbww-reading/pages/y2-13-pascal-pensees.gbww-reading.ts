@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y213PascalPensees = {
   id: "019f0c09-bcc7-7b5d-8761-b4c79df4e1f6",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y2-13-pascal-pensees",
   title: "Y2.13 Pascal: Pensees",
   author: "Pascal",

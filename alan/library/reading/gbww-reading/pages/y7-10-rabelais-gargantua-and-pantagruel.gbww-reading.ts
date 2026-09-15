@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y710RabelaisGargantuaAndPantagruel = {
   id: "019f0c09-be95-76b8-86af-58d6ece8ee26",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y7-10-rabelais-gargantua-and-pantagruel",
   title: "Y7.10 Rabelais: Gargantua and Pantagruel",
   author: "Rabelais",

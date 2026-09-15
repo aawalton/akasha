@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y314KantTheScienceOfRight = {
   id: "019f0c09-bd2b-74a0-9bff-397d237bf88f",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y3-14-kant-the-science-of-right",
   title: "Y3.14 Kant: The Science of Right",
   author: "Kant",

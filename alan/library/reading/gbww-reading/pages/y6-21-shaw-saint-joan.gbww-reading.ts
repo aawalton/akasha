@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y621ShawSaintJoan = {
   id: "019f0c09-be68-78c6-8836-ee60a67c72a0",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y6-21-shaw-saint-joan",
   title: "Y6.21 Shaw: Saint Joan",
   author: "Shaw",
