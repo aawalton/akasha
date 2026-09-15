@@ -2,7 +2,7 @@ import type { LifeTheme } from "akasha/alan/self/life-theme/life-theme.page-type
 
 export const meAsABrand = {
   id: "019db533-f3a2-7abd-8f61-72dee3c054f7",
-  type: "life-theme",
+  type: "page-type/life-theme",
   slug: "me-as-a-brand",
   title: "Me as a Brand",
   startDate: "2026-01-01",

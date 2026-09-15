@@ -2,7 +2,7 @@ import type { LifeTheme } from "akasha/alan/self/life-theme/life-theme.page-type
 
 export const iAmAWholeFoodPlantBasedEater = {
   id: "019db533-f3a2-7b1a-996f-cca1f8d1122e",
-  type: "life-theme",
+  type: "page-type/life-theme",
   slug: "i-am-a-whole-food-plant-based-eater",
   title: "I am a Whole Food Plant Based Eater",
   startDate: "2026-01-01",

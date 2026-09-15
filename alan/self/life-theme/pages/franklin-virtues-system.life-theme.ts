@@ -2,7 +2,7 @@ import type { LifeTheme } from "akasha/alan/self/life-theme/life-theme.page-type
 
 export const franklinVirtuesSystem = {
   id: "019db533-f3a2-7a7e-a3d0-ad6efe2e218c",
-  type: "life-theme",
+  type: "page-type/life-theme",
   slug: "franklin-virtues-system",
   title: "Franklin Virtues System",
   lifeThemeStatus: "up-next",

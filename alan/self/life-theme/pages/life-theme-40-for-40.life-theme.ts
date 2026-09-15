@@ -2,7 +2,7 @@ import type { LifeTheme } from "akasha/alan/self/life-theme/life-theme.page-type
 
 export const lifeTheme40For40 = {
   id: "019db533-f3a2-7adf-929c-89d266dcd9ab",
-  type: "life-theme",
+  type: "page-type/life-theme",
   slug: "life-theme-40-for-40",
   title: "40 for 40",
   startDate: "2026-02-12",

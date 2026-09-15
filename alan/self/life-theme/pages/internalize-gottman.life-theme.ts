@@ -2,7 +2,7 @@ import type { LifeTheme } from "akasha/alan/self/life-theme/life-theme.page-type
 
 export const internalizeGottman = {
   id: "019db533-f3a2-7b36-8dcd-5f056981cfc7",
-  type: "life-theme",
+  type: "page-type/life-theme",
   slug: "internalize-gottman",
   title: "Internalize Gottman",
   startDate: "2025-10-01",

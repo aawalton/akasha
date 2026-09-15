@@ -2,7 +2,7 @@ import type { LifeTheme } from "akasha/alan/self/life-theme/life-theme.page-type
 
 export const listenTo1000HoursOfMusic = {
   id: "019db533-f3a2-7b01-a997-c1f42031ccf9",
-  type: "life-theme",
+  type: "page-type/life-theme",
   slug: "listen-to-1-000-hours-of-music",
   title: "Listen to 1,000 Hours of Music",
   startDate: "2025-01-01",

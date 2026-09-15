@@ -2,7 +2,7 @@ import type { LifeTheme } from "akasha/alan/self/life-theme/life-theme.page-type
 
 export const readTheAnnalsOfAmerica = {
   id: "019db533-f3a2-7a74-b3b3-8709635960d4",
-  type: "life-theme",
+  type: "page-type/life-theme",
   slug: "read-the-annals-of-america",
   title: "Read The Annals of America",
   lifeThemeStatus: "up-next",

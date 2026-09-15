@@ -2,7 +2,7 @@ import type { LifeTheme } from "akasha/alan/self/life-theme/life-theme.page-type
 
 export const claudeCode = {
   id: "019db533-f3a2-7acb-870d-5b0ffb750c94",
-  type: "life-theme",
+  type: "page-type/life-theme",
   slug: "claude-code",
   title: "Claude Code",
   startDate: "2026-02-12",

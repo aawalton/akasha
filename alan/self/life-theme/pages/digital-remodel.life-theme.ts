@@ -2,7 +2,7 @@ import type { LifeTheme } from "akasha/alan/self/life-theme/life-theme.page-type
 
 export const digitalRemodel = {
   id: "019db533-f3a2-7af1-8223-6919e95937ad",
-  type: "life-theme",
+  type: "page-type/life-theme",
   slug: "digital-remodel",
   title: "Digital Remodel",
   startDate: "2026-01-17",

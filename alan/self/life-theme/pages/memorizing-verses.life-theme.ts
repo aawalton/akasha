@@ -2,7 +2,7 @@ import type { LifeTheme } from "akasha/alan/self/life-theme/life-theme.page-type
 
 export const memorizingVerses = {
   id: "019db533-f3a2-7a3e-9e4c-a4a59a933728",
-  type: "life-theme",
+  type: "page-type/life-theme",
   slug: "memorizing-verses",
   title: "Memorizing Verses",
   lifeThemeStatus: "up-next",

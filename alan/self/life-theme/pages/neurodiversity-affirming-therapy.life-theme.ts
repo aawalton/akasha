@@ -2,7 +2,7 @@ import type { LifeTheme } from "akasha/alan/self/life-theme/life-theme.page-type
 
 export const neurodiversityAffirmingTherapy = {
   id: "019db533-f3a2-7a61-9e23-9d5b5b2200ff",
-  type: "life-theme",
+  type: "page-type/life-theme",
   slug: "neurodiversity-affirming-therapy",
   title: "Neurodiversity Affirming Therapy",
   lifeThemeStatus: "up-next",

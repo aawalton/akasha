@@ -2,7 +2,7 @@ import type { LifeTheme } from "akasha/alan/self/life-theme/life-theme.page-type
 
 export const catchUpDavidWeber = {
   id: "019db533-f3a2-7a28-b049-7688e9cd490f",
-  type: "life-theme",
+  type: "page-type/life-theme",
   slug: "catch-up-david-weber",
   title: "Catch up David Weber",
   lifeThemeStatus: "up-next",
