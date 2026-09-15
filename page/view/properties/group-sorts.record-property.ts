@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const groupSorts = {
   id: "01a0680d-4d00-7008-a715-4d2b9c8e4109",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "group-sorts",
   propertySlug: "group-sorts",
   definition: "the keys a view orders its groups by, each with the way it runs",

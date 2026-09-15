@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const rescuedCredential = {
   id: "01a0637b-78bb-77e3-8457-23dd0863e27e",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "rescued-credential",
   propertySlug: "rescued-credential",
   definition: "the rotated pair kept beside a page where no landing had that pair",

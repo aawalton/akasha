@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const narrows = {
   id: "01a063ee-2a3b-732c-983b-68ef37a472f5",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "narrows",
   propertySlug: "narrows",
   definition: "what a query tests a page against, each with the key tested and how",

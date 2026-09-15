@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const effectFormula = {
   id: "01a06196-0379-794b-ab04-2e9ba72de0d9",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "effect-formula",
   propertySlug: "formula",
   definition: "how an effect works out the number it has",

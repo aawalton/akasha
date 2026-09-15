@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const turnPending = {
   id: "01a0541c-db5f-70d8-a32a-c321eef90312",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "turn-pending",
   propertySlug: "turn-pending",
   definition: "what a seat is waiting on before its turn is done",

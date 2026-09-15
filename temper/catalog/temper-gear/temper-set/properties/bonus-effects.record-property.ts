@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const bonusEffects = {
   id: "01a05fd1-d436-73c6-b34e-3d504facf23f",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "bonus-effects",
   propertySlug: "effects",
   definition: "what one set bonus does, a metric or a buff to an entry",

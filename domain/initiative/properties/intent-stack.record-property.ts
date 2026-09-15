@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const intentStack = {
   id: "01a058a3-b01f-7002-b869-8274ae8203a6",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "intent-stack",
   propertySlug: "intent-stack",
   definition: "what an initiative is to make so",

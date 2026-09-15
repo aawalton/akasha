@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const mediaConfig = {
   id: "01a062b8-8775-7000-98df-e9b05641a5fe",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "media-config",
   propertySlug: "media-config",
   definition: "how a page type's pages are rendered as audio and as an image",

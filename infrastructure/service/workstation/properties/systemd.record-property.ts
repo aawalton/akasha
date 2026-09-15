@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const systemd = {
   id: "01a05a3f-b42d-7f99-8339-43009bbd74bb",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "systemd",
   propertySlug: "systemd",
   definition: "what the unit installed for a service states",

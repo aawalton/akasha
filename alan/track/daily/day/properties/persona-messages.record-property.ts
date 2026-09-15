@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const personaMessages = {
   id: "01a082e2-4994-7f71-aa2d-ad0fc9b437f9",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "persona-messages",
   propertySlug: "persona-messages",
   definition: "how many messages each persona was written on a day",

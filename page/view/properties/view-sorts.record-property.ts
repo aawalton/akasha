@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const viewSorts = {
   id: "01a0680d-4d00-7004-a139-6e5c8b2f4105",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "view-sorts",
   propertySlug: "view-sorts",
   definition: "the keys a view orders its pages by, each with the way it runs",

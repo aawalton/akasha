@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const matches = {
   id: "01a0680c-3c00-7003-b571-6f4c9a2d3104",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "matches",
   propertySlug: "matches",
   definition: "what a rule tests a transaction against, each with the key tested and how",

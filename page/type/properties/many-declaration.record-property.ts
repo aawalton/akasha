@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const manyDeclaration = {
   id: "01a090a6-984a-7b9d-99e6-299e1fff2958",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "many-declaration",
   propertySlug: "many-declaration",
   definition: "a page type's declaration of a property carried more than once",

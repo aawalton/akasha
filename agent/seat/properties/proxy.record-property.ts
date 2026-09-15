@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const proxy = {
   id: "01a0540c-dbbf-7215-9747-624c4ef37e06",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "proxy",
   propertySlug: "proxy",
   definition: "the proxy a seat reaches its model through",

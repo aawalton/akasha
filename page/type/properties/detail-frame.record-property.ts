@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const detailFrame = {
   id: "01a0683a-620a-721f-ac05-27b2bc929afe",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "detail-frame",
   propertySlug: "frame",
   definition: "how the screen around a page's body behaves while the page is read",

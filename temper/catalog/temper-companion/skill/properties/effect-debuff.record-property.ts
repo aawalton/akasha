@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const effectDebuff = {
   id: "01a06196-037a-7e14-80f7-0ae4cc1593d4",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "effect-debuff",
   propertySlug: "debuff",
   definition: "the harmful effect an effect lays on, and how long it holds",

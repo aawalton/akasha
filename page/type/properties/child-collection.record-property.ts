@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const childCollection = {
   id: "01a0683a-620a-7821-a81d-95fedabac32d",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "child-collection",
   propertySlug: "child-collection",
   definition: "the pages a page gathers, and the key by which each names the page gathering it",

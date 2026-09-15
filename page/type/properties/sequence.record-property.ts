@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const sequence = {
   id: "01a062de-2001-7000-bc0f-0dd4d369ec1b",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "sequence",
   propertySlug: "sequence",
   definition: "how a page type's pages are grouped and ordered when one is read after another",

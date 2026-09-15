@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const externalIdentity = {
   id: "01a09ba1-cc57-7d8f-8460-fd32ebb90bef",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "external-identity",
   propertySlug: "external-identity",
   definition: "one provider's record of a collection, and what that provider calls it",

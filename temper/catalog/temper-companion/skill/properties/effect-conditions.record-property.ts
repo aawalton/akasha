@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const effectConditions = {
   id: "01a06196-037c-761a-88dd-6339c805b996",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "effect-conditions",
   propertySlug: "conditions",
   definition: "what must hold for an effect to count",

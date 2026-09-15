@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const directives = {
   id: "01a04e1f-cbf6-7150-812b-844b9bf21ed2",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "directives",
   propertySlug: "directives",
   definition: "what a domain tells whoever reads it to do, each with the sort it is",

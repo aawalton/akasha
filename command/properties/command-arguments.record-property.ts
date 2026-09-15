@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const commandArguments = {
   id: "01a09409-2933-7981-8332-eb750e91e83b",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "command-arguments",
   propertySlug: "arguments",
   definition: "the arguments a command takes, each narrowed as that command takes it",

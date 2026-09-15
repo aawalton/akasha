@@ -2,7 +2,7 @@ import type { RecordProperty } from "akasha/page/record-property/record-property
 
 export const nestedEffect = {
   id: "01a06196-037c-704b-a0d5-349064c3a709",
-  type: "record-property",
+  type: "page-type/record-property",
   slug: "nested-effect",
   propertySlug: "effect",
   definition: "the inner effect a delayed or repeating effect carries",
