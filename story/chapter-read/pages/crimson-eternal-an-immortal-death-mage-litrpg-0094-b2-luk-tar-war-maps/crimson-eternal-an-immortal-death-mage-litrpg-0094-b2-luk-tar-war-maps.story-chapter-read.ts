@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const crimsonEternalAnImmortalDeathMageLitrpg0094B2LukTarWarMaps = {
   id: "01a0672c-ec72-7000-992a-f6dc02deb3eb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0094-b2-luk-tar-war-maps",
   title: "B2 | Luk'tar War Maps",
   story: "story-read/crimson-eternal-an-immortal-death-mage-litrpg",
