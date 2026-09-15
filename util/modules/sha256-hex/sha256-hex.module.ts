@@ -10,6 +10,14 @@ export const sha256Hex = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "One module holds one digest rather than one module taking the digest's name.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A digest shortened or salted is that caller's rule rather than one here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body is text or bytes.",
     },
     {

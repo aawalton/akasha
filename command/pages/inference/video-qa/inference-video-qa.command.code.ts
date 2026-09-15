@@ -38,7 +38,7 @@ import {
   startInferenceRun,
 } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
 import { SCRATCH_AT } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
-import { sha256Hex } from "akasha/util/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
+import { sha256Hex } from "akasha/util/modules/sha256-hex/sha256-hex.module.code.ts"
 
 const PAGES = [
   checklistArgument,

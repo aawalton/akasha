@@ -1,7 +1,7 @@
 import { mkdirSync } from "node:fs"
 import { dirname } from "node:path"
 import { writeFileAtomicSync } from "akasha/util/fs/modules/atomic-write/atomic-write.module.code.ts"
-import { sha256Hex } from "akasha/util/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
+import { sha256Hex } from "akasha/util/modules/sha256-hex/sha256-hex.module.code.ts"
 import type ts from "typescript"
 
 export function stamped(file: ts.SourceFile | undefined): ts.SourceFile | undefined {

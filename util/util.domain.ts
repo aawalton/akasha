@@ -9,7 +9,6 @@ export const util = {
   parts: [
     "domain/digit-padding",
     "domain/util-fs",
-    "domain/util-hashing",
     "domain/util-narrow",
     "domain/util-process",
     "domain/util-run",
@@ -20,6 +19,7 @@ export const util = {
     "domain/util-timing",
     "domain/util-waiting",
     "module/during-call",
+    "module/sha256-hex",
   ],
   invariants: [
     {
