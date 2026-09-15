@@ -8,15 +8,15 @@ export const supervisorClaimedReconcile = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A message the transcript shows was injected is held rather than released.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Redelivery waits for its window before anything is read as unconsumed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reconcile that faults does not stop the resume that reconcile runs under.",
     },
   ],
