@@ -2,7 +2,7 @@ import type { TemperGrimoire } from "akasha/temper/catalog/temper-skill/temper-g
 
 export const smash = {
   id: "01a05fce-2957-764c-b963-d9a99d848f4f",
-  type: "temper-grimoire",
+  type: "page-type/temper-grimoire",
   slug: "smash",
   title: "Smash",
   key: "smash",

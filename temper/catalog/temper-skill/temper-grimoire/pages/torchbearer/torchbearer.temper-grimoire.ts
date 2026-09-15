@@ -2,7 +2,7 @@ import type { TemperGrimoire } from "akasha/temper/catalog/temper-skill/temper-g
 
 export const torchbearer = {
   id: "01a05fce-2957-7c9c-94dc-fa6f30dc958a",
-  type: "temper-grimoire",
+  type: "page-type/temper-grimoire",
   slug: "torchbearer",
   title: "Torchbearer",
   key: "torchbearer",

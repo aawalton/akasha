@@ -2,7 +2,7 @@ import type { TemperGrimoire } from "akasha/temper/catalog/temper-skill/temper-g
 
 export const soulBurst = {
   id: "01a05fce-2957-7ae5-95ec-65da7a32b304",
-  type: "temper-grimoire",
+  type: "page-type/temper-grimoire",
   slug: "soul-burst",
   title: "Soul Burst",
   key: "soul-burst",
