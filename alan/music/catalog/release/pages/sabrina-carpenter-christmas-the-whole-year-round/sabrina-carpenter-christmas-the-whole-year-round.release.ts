@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterChristmasTheWholeYearRound = {
   id: "01a0676a-d71a-7042-aadf-c889096fd536",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-christmas-the-whole-year-round",
   title: "Christmas the Whole Year Round",
   partOfCollections: ["artist/sabrina-carpenter"],

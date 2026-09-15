@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixPretender = {
   id: "01a0676a-d727-7018-b25c-524f2da2001f",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-pretender",
   title: "Pretender",
   partOfCollections: ["artist/pentatonix"],

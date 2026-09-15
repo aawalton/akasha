@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const phoebeBridgersChineseSatelliteLiveFromSoundCity = {
   id: "01a0676a-d71a-702d-b323-f40ae5c90968",
-  type: "release",
+  type: "page-type/release",
   slug: "phoebe-bridgers-chinese-satellite-live-from-sound-city",
   title: "Chinese Satellite (Live From Sound City)",
   partOfCollections: ["artist/phoebe-bridgers"],

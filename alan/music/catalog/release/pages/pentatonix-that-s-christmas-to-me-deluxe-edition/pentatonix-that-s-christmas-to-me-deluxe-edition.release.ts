@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixThatSChristmasToMeDeluxeEdition = {
   id: "01a0676a-d72c-7016-b7a1-5c66a99360a1",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-that-s-christmas-to-me-deluxe-edition",
   title: "That's Christmas To Me (Deluxe Edition)",
   partOfCollections: ["artist/pentatonix"],

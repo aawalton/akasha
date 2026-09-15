@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const rockapellaBetter2gether = {
   id: "01a0676a-d718-704b-88db-752c16a263ed",
-  type: "release",
+  type: "page-type/release",
   slug: "rockapella-better-2gether",
   title: "Better 2gether",
   partOfCollections: ["artist/rockapella"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkIt = {
   id: "01a0676a-d723-700e-91de-2821b4e3cb47",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-let-me-move-you-from-the-netflix-film-work-it",
   title: "Let Me Move You (From the Netflix film Work It)",
   partOfCollections: ["artist/sabrina-carpenter"],

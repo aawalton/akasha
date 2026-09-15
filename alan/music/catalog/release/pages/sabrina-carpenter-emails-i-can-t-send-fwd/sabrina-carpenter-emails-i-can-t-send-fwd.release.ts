@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterEmailsICanTSendFwd = {
   id: "01a0676a-d71d-700a-82c6-22cb7a1ed89c",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd",
   title: "emails i can’t send fwd:",
   partOfCollections: ["artist/sabrina-carpenter"],

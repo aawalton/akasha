@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const phoebeBridgersSpotifySingles2 = {
   id: "01a0676a-d72a-700c-b0a2-82665d1fbebc",
-  type: "release",
+  type: "page-type/release",
   slug: "phoebe-bridgers-spotify-singles-2",
   title: "Spotify Singles",
   partOfCollections: ["artist/phoebe-bridgers"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterOnMyWayDaTweekazRemix = {
   id: "01a0676a-d726-7025-ae7f-f4a780422aa0",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-on-my-way-da-tweekaz-remix",
   title: "On My Way (Da Tweekaz Remix)",
   partOfCollections: ["artist/sabrina-carpenter"],

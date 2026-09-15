@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixWhenYouBelieveDaveAudeRemix = {
   id: "01a0676a-d731-7002-96ef-a7b5037d11c3",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-when-you-believe-dave-aude-remix",
   title: "When You Believe (Dave Audé Remix)",
   partOfCollections: ["artist/pentatonix"],

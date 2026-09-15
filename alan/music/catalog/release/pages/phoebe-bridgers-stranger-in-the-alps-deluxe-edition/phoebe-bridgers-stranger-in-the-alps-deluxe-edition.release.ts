@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const phoebeBridgersStrangerInTheAlpsDeluxeEdition = {
   id: "01a0676a-d72a-702a-bae8-b10cb509324d",
-  type: "release",
+  type: "page-type/release",
   slug: "phoebe-bridgers-stranger-in-the-alps-deluxe-edition",
   title: "Stranger in the Alps (Deluxe Edition)",
   partOfCollections: ["artist/phoebe-bridgers"],

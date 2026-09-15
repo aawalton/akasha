@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const phoebeBridgersPunisher = {
   id: "01a0676a-d727-7033-8fd9-5783a93c9ba9",
-  type: "release",
+  type: "page-type/release",
   slug: "phoebe-bridgers-punisher",
   title: "Punisher",
   partOfCollections: ["artist/phoebe-bridgers"],

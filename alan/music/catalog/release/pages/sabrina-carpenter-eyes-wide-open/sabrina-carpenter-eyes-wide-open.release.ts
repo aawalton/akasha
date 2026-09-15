@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterEyesWideOpen = {
   id: "01a0676a-d71d-705b-95bd-a17767768530",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-eyes-wide-open",
   title: "Eyes Wide Open",
   partOfCollections: ["artist/sabrina-carpenter"],

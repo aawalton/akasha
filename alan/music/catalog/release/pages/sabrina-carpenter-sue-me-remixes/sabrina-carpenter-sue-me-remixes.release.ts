@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterSueMeRemixes = {
   id: "01a0676a-d72a-703d-b403-2efca05acc4f",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-sue-me-remixes",
   title: "Sue Me (Remixes)",
   partOfCollections: ["artist/sabrina-carpenter"],

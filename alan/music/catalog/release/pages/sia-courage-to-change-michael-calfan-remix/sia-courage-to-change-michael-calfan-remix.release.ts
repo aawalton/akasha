@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaCourageToChangeMichaelCalfanRemix = {
   id: "01a0676a-d71b-702f-baf3-37044b8ef0f4",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-courage-to-change-michael-calfan-remix",
   title: "Courage to Change (Michael Calfan Remix)",
   partOfCollections: ["artist/sia"],

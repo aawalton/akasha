@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixTheSoundOfSilence = {
   id: "01a0676a-d72e-700f-83fc-e0a3f8421d21",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-the-sound-of-silence",
   title: "The Sound of Silence",
   partOfCollections: ["artist/pentatonix"],

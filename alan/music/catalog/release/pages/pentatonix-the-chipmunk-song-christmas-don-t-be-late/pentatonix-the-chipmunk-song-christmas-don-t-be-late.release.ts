@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixTheChipmunkSongChristmasDonTBeLate = {
   id: "01a0676a-d72c-703e-84d9-8354e8986eae",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-the-chipmunk-song-christmas-don-t-be-late",
   title: "The Chipmunk Song (Christmas Don't Be Late)",
   partOfCollections: ["artist/pentatonix"],

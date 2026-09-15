@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const phoebeBridgersKyotoGlitchGumRemix = {
   id: "01a0676a-d722-7052-abf9-10b859e2c10f",
-  type: "release",
+  type: "page-type/release",
   slug: "phoebe-bridgers-kyoto-glitch-gum-remix",
   title: "Kyoto (Glitch Gum Remix)",
   partOfCollections: ["artist/phoebe-bridgers"],

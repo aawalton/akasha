@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaColourTheSmallOne = {
   id: "01a0676a-d71b-7012-b66e-b06f047e9e01",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-colour-the-small-one",
   title: "Colour The Small One",
   partOfCollections: ["artist/sia"],

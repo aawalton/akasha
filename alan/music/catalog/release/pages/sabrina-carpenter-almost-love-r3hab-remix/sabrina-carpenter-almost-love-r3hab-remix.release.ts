@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterAlmostLoveR3habRemix = {
   id: "01a0676a-d716-702f-8843-4f4a09833e10",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-almost-love-r3hab-remix",
   title: "Almost Love (R3HAB Remix)",
   partOfCollections: ["artist/sabrina-carpenter"],

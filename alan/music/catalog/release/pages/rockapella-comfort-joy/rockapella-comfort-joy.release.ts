@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const rockapellaComfortJoy = {
   id: "01a0676a-d71b-701d-8eb5-2ee1887e3355",
-  type: "release",
+  type: "page-type/release",
   slug: "rockapella-comfort-joy",
   title: "Comfort & Joy",
   partOfCollections: ["artist/rockapella"],

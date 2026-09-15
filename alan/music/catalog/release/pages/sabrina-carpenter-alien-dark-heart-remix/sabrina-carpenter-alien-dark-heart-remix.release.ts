@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterAlienDarkHeartRemix = {
   id: "01a0676a-d716-7013-aa60-05512b58ba04",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-alien-dark-heart-remix",
   title: "Alien (Dark Heart Remix)",
   partOfCollections: ["artist/sabrina-carpenter"],

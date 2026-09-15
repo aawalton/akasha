@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaBeautifulPeopleAfrojackAmelRemix = {
   id: "01a0676a-d718-7028-95e9-85c9b1b1fa89",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-beautiful-people-afrojack-amel-remix",
   title: "Beautiful People (AFROJACK & Amél Remix)",
   partOfCollections: ["artist/sia"],

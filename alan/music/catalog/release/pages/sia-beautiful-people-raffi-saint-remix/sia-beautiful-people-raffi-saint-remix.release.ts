@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaBeautifulPeopleRaffiSaintRemix = {
   id: "01a0676a-d718-702e-9554-5168544019b0",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-beautiful-people-raffi-saint-remix",
   title: "Beautiful People (Raffi Saint Remix)",
   partOfCollections: ["artist/sia"],

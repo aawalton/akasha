@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const phoebeBridgersMotionSickness = {
   id: "01a0676a-d725-700a-b861-90571636073d",
-  type: "release",
+  type: "page-type/release",
   slug: "phoebe-bridgers-motion-sickness",
   title: "Motion Sickness",
   partOfCollections: ["artist/phoebe-bridgers"],

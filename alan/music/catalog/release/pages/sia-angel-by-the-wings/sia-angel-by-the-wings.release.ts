@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaAngelByTheWings = {
   id: "01a0676a-d717-701c-99af-290caf4814e3",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-angel-by-the-wings",
   title: "Angel By The Wings",
   partOfCollections: ["artist/sia"],

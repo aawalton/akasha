@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const reneeRappBiteMe = {
   id: "01a0676a-d719-700e-b7f6-18fc9fe0d5b7",
-  type: "release",
+  type: "page-type/release",
   slug: "renee-rapp-bite-me",
   title: "BITE ME",
   partOfCollections: ["artist/renee-rapp"],

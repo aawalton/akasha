@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterEspressoWorkingLateRemixes = {
   id: "01a0676a-d71d-7023-b8ad-390b369a4549",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-espresso-working-late-remixes",
   title: "Espresso (Working Late Remixes)",
   partOfCollections: ["artist/sabrina-carpenter"],

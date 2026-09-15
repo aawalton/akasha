@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterVicious = {
   id: "01a0676a-d730-7003-8d7b-76333abc6c98",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-vicious",
   title: "Vicious",
   partOfCollections: ["artist/sabrina-carpenter"],

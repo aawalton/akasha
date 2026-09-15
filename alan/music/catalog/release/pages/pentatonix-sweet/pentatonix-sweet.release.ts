@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixSweet = {
   id: "01a0676a-d72a-704c-85d9-53ca41713109",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-sweet",
   title: "Sweet",
   partOfCollections: ["artist/pentatonix"],

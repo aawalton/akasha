@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterFirstLoveRemixes = {
   id: "01a0676a-d71e-7004-a4d3-9312fa3b645f",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-first-love-remixes",
   title: "First Love (Remixes)",
   partOfCollections: ["artist/sabrina-carpenter"],

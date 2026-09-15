@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaChandelierRemixes = {
   id: "01a0676a-d71a-7015-b5e7-1cbf33085c53",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-chandelier-remixes",
   title: "Chandelier (Remixes)",
   partOfCollections: ["artist/sia"],

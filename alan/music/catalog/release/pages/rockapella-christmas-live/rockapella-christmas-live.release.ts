@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const rockapellaChristmasLive = {
   id: "01a0676a-d71a-703f-aa4c-3716fe97e388",
-  type: "release",
+  type: "page-type/release",
   slug: "rockapella-christmas-live",
   title: "Christmas Live",
   partOfCollections: ["artist/rockapella"],

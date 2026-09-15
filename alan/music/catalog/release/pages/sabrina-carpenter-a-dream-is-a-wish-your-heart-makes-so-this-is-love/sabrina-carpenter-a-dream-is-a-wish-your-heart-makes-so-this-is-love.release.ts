@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterADreamIsAWishYourHeartMakesSoThisIsLove = {
   id: "01a0676a-d715-7024-a526-2c87317927b2",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-a-dream-is-a-wish-your-heart-makes-so-this-is-love",
   title: "A Dream Is a Wish Your Heart Makes/So This Is Love",
   partOfCollections: ["artist/sabrina-carpenter"],

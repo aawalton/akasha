@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixPtxPresentsTopPopVolI = {
   id: "01a0676a-d727-702c-adf8-99b81329f4e9",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-ptx-presents-top-pop-vol-i",
   title: "PTX Presents: Top Pop, Vol. I",
   partOfCollections: ["artist/pentatonix"],

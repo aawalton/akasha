@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const rockapellaWhereInTheWorldIsCarmenSandiegoEp = {
   id: "01a0676a-d731-700c-97fb-330e1185a251",
-  type: "release",
+  type: "page-type/release",
   slug: "rockapella-where-in-the-world-is-carmen-sandiego-ep",
   title: "Where in the World Is Carmen Sandiego EP",
   partOfCollections: ["artist/rockapella"],

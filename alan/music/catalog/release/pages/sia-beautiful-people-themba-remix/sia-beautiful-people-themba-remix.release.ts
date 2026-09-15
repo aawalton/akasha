@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaBeautifulPeopleThembaRemix = {
   id: "01a0676a-d718-7030-be43-8cd86fc037e2",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-beautiful-people-themba-remix",
   title: "Beautiful People (THEMBA Remix)",
   partOfCollections: ["artist/sia"],

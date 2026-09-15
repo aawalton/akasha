@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixNewRulesXAreYouThatSomebody = {
   id: "01a0676a-d725-7055-bb35-efd89f754851",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-new-rules-x-are-you-that-somebody",
   title: "New Rules x Are You That Somebody?",
   partOfCollections: ["artist/pentatonix"],

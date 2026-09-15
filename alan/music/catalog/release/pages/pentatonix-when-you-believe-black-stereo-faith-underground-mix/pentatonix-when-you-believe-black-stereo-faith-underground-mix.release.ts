@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixWhenYouBelieveBlackStereoFaithUndergroundMix = {
   id: "01a0676a-d731-7001-bd85-0fc6e45a1059",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-when-you-believe-black-stereo-faith-underground-mix",
   title: "When You Believe (Black Stereo Faith Underground Mix)",
   partOfCollections: ["artist/pentatonix"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaBeautifulPeopleSethHillsRemix = {
   id: "01a0676a-d718-702f-9736-10defc231be8",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-beautiful-people-seth-hills-remix",
   title: "Beautiful People (Seth Hills Remix)",
   partOfCollections: ["artist/sia"],

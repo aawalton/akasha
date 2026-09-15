@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaAwakeTonight = {
   id: "01a0a59b-f262-7d8c-b0bc-6118f2e9947a",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-awake-tonight",
   ownLength: 3.1668833333333333,
   ownProgress: 0,

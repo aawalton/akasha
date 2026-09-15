@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaBeautifulPeopleKaazeRemix = {
   id: "01a0676a-d718-702c-82c7-d4e504b0c92f",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-beautiful-people-kaaze-remix",
   title: "Beautiful People (KAAZE Remix)",
   partOfCollections: ["artist/sia"],

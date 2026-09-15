@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixThunderFromRyanSWorldTheMovieTitanUniverseAdventure = {
   id: "01a0676a-d72e-703c-afee-aae2c979c48d",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-thunder-from-ryan-s-world-the-movie-titan-universe-adventure",
   title: 'Thunder (From "Ryan\'s World the Movie: Titan Universe Adventure")',
   partOfCollections: ["artist/pentatonix"],

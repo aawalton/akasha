@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaChandelierPianoVersion = {
   id: "01a0676a-d71a-7014-92e9-5428884e0280",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-chandelier-piano-version",
   title: "Chandelier (Piano Version)",
   partOfCollections: ["artist/sia"],

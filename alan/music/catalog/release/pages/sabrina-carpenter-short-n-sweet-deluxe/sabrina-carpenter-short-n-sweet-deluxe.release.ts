@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterShortNSweetDeluxe = {
   id: "01a0676a-d728-7077-9031-4f58842bc7c8",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-short-n-sweet-deluxe",
   title: "Short n' Sweet (Deluxe)",
   partOfCollections: ["artist/sabrina-carpenter"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaCheapThrillsFeatSeanPaul = {
   id: "01a0676a-d71a-7023-ab28-a8c59de2641b",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-cheap-thrills-feat-sean-paul",
   title: "Cheap Thrills (feat. Sean Paul)",
   partOfCollections: ["artist/sia"],

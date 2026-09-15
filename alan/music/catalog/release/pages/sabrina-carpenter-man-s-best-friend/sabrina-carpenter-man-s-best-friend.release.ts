@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterManSBestFriend = {
   id: "01a0676a-d724-7033-88ec-e81ee0e4b2b8",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-man-s-best-friend",
   title: "Man’s Best Friend",
   partOfCollections: ["artist/sabrina-carpenter"],

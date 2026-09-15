@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixMeetMeNextChristmas = {
   id: "01a0676a-d724-7048-a2fb-236dd5a97182",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-meet-me-next-christmas",
   title: "Meet Me Next Christmas",
   partOfCollections: ["artist/pentatonix"],

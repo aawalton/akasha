@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const phoebeBridgersLostBoysAcoustic = {
   id: "01a0a198-5efe-76f2-aafb-82c8bf0c8746",
-  type: "release",
+  type: "page-type/release",
   slug: "phoebe-bridgers-lost-boys-acoustic",
   ownLength: 8.93285,
   ownProgress: 0,

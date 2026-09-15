@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const phoebeBridgersNothingElseMatters = {
   id: "01a0676a-d725-707d-b784-13fd24ab5832",
-  type: "release",
+  type: "page-type/release",
   slug: "phoebe-bridgers-nothing-else-matters",
   title: "Nothing Else Matters",
   partOfCollections: ["artist/phoebe-bridgers"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaCheapThrillsRemixFeatNickyJam = {
   id: "01a0676a-d71a-7024-8a35-ef66ba1df958",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-cheap-thrills-remix-feat-nicky-jam",
   title: "Cheap Thrills Remix (feat. Nicky Jam)",
   partOfCollections: ["artist/sia"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const pentatonixTheLuckyOnes = {
   id: "01a0676a-d72d-703a-b3de-ec1003ef83c6",
-  type: "release",
+  type: "page-type/release",
   slug: "pentatonix-the-lucky-ones",
   title: "The Lucky Ones",
   partOfCollections: ["artist/pentatonix"],

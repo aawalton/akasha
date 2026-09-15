@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const phoebeBridgers7OClockNewsSilentNight = {
   id: "01a0676a-d715-7014-83ce-9e3379dddda0",
-  type: "release",
+  type: "page-type/release",
   slug: "phoebe-bridgers-7-o-clock-news-silent-night",
   title: "7 O'Clock News / Silent Night",
   partOfCollections: ["artist/phoebe-bridgers"],

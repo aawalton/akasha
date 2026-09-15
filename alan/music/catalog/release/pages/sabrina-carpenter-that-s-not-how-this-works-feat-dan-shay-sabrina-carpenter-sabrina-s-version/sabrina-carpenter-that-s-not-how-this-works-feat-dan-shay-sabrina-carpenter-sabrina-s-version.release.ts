@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabrinaSVersion = {
   id: "01a0676a-d72c-7019-8872-985958c9fac8",
-  type: "release",
+  type: "page-type/release",
   slug: "sabrina-carpenter-that-s-not-how-this-works-feat-dan-shay-sabrina-carpenter-sabrina-s-version",
   title: "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina’s Version]",
   partOfCollections: ["artist/sabrina-carpenter"],

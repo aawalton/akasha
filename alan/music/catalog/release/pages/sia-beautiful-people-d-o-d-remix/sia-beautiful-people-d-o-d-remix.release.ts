@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const siaBeautifulPeopleDODRemix = {
   id: "01a0676a-d718-702a-a9f6-1c2ff406cdd3",
-  type: "release",
+  type: "page-type/release",
   slug: "sia-beautiful-people-d-o-d-remix",
   title: "Beautiful People (D.O.D Remix)",
   partOfCollections: ["artist/sia"],

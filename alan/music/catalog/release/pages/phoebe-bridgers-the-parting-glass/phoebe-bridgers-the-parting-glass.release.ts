@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const phoebeBridgersThePartingGlass = {
   id: "01a0676a-d72d-7052-95f7-67cee39a2512",
-  type: "release",
+  type: "page-type/release",
   slug: "phoebe-bridgers-the-parting-glass",
   title: "The Parting Glass",
   partOfCollections: ["artist/phoebe-bridgers"],
