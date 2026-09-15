@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const rayOfShattering = {
   id: "01a06572-95dc-7b1e-a649-35593cfc275f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "ray-of-shattering",
   title: "Ray of Shattering",
   world: "world/the-wandering-inn",

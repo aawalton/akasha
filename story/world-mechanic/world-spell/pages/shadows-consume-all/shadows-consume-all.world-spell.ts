@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const shadowsConsumeAll = {
   id: "01a06572-95df-766d-a512-41d5913f09ac",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "shadows-consume-all",
   title: "Shadows Consume All",
   world: "world/the-wandering-inn",

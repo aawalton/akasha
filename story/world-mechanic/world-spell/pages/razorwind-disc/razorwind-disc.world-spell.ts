@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const razorwindDisc = {
   id: "01a06572-95dc-7c1b-a84a-9d38ac22fb46",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "razorwind-disc",
   title: "Razorwind Disc",
   world: "world/the-wandering-inn",

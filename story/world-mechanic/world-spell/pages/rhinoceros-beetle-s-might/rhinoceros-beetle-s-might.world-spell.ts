@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const rhinocerosBeetleSMight = {
   id: "01a06572-95dd-74a4-8221-a1db940934e5",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "rhinoceros-beetle-s-might",
   title: "Rhinoceros Beetle’s Might",
   world: "world/the-wandering-inn",

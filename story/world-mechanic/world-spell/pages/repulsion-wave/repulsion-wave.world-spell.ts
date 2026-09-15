@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const repulsionWave = {
   id: "01a06572-95dd-7631-8223-afb94c97866a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "repulsion-wave",
   title: "Repulsion Wave",
   world: "world/the-wandering-inn",

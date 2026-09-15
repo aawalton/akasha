@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const removeBlindness = {
   id: "01a06572-95dc-7bb8-a51c-cf847351d055",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "remove-blindness",
   title: "Remove Blindness",
   world: "world/the-wandering-inn",

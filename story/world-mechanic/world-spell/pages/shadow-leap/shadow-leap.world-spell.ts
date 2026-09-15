@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const shadowLeap = {
   id: "01a06572-95df-7669-b8a8-ffbe08e3b2e5",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "shadow-leap",
   title: "Shadow Leap",
   world: "world/the-wandering-inn",

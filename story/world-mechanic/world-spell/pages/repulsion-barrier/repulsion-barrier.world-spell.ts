@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const repulsionBarrier = {
   id: "01a06572-95dd-7121-876f-21c17432938f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "repulsion-barrier",
   title: "Repulsion Barrier",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const regionalScryingLiscor = {
   id: "01a06572-95dc-75ef-8bef-82c870c0de37",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "regional-scrying-liscor",
   title: "Regional Scrying: Liscor",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const prepareSpellValmiraSOpener = {
   id: "01a06572-95db-7021-80e5-e4cfdada88c0",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "prepare-spell-valmira-s-opener",
   title: "Prepare Spell: Valmira’s Opener",
   world: "world/the-wandering-inn",

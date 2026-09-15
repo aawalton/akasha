@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const polymorphing = {
   id: "01a06572-95db-7672-bf17-ed78169376bf",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "polymorphing",
   title: "Polymorphing",
   world: "world/the-wandering-inn",

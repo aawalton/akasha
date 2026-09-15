@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const resonanceChitrxMetal = {
   id: "01a06572-95dd-70f5-b085-1503063578fb",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "resonance-chitrx-metal",
   title: "Resonance: Chitrx Metal",
   world: "world/the-wandering-inn",

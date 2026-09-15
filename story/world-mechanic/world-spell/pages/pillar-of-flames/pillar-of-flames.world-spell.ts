@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const pillarOfFlames = {
   id: "01a06572-95da-732b-af9e-71ab42ae9d9a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "pillar-of-flames",
   title: "Pillar of Flames",
   world: "world/the-wandering-inn",

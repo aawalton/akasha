@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const piercing = {
   id: "01a06572-95da-7748-85c0-3be52c48c8b9",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "piercing",
   title: "Piercing",
   world: "world/the-wandering-inn",

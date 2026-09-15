@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const scribeText = {
   id: "01a06572-95de-7c91-9932-e5bbf64b41ef",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "scribe-text",
   title: "Scribe Text",
   world: "world/the-wandering-inn",

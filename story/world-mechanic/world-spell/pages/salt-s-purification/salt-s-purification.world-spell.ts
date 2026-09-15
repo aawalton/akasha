@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const saltSPurification = {
   id: "01a06572-95de-728d-b1af-b86926c57560",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "salt-s-purification",
   title: "Salt’s Purification",
   world: "world/the-wandering-inn",

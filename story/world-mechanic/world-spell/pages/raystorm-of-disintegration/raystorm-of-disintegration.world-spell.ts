@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const raystormOfDisintegration = {
   id: "01a06572-95dc-77c7-bbe2-00751eca071f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "raystorm-of-disintegration",
   title: "Raystorm of Disintegration",
   world: "world/the-wandering-inn",

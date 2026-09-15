@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const refractionBarrierFlame = {
   id: "01a06572-95dc-7edd-9ade-e80ca4c6709c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "refraction-barrier-flame",
   title: "Refraction Barrier: Flame",
   world: "world/the-wandering-inn",

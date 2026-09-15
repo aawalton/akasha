@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const playfulRadiantFishies = {
   id: "01a06572-95db-7f57-b6e0-e8fec3cde4e4",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "playful-radiant-fishies",
   title: "Playful Radiant Fishies",
   world: "world/the-wandering-inn",

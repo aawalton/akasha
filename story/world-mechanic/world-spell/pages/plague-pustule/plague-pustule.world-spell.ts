@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const plaguePustule = {
   id: "01a06572-95db-789e-a127-68294d2d33f5",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "plague-pustule",
   title: "Plague Pustule",
   world: "world/the-wandering-inn",

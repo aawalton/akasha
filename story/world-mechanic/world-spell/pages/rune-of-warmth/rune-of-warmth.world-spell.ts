@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const runeOfWarmth = {
   id: "01a06572-95de-79fb-95d7-30e26e4ce14a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "rune-of-warmth",
   title: "Rune of Warmth",
   world: "world/the-wandering-inn",

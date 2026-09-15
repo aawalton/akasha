@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const seasOfTheEverflowingGrass = {
   id: "01a06572-95df-7659-9d33-0f36d5231d05",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "seas-of-the-everflowing-grass",
   title: "Seas of the Everflowing Grass",
   world: "world/the-wandering-inn",

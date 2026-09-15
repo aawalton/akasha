@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const prismaticWall = {
   id: "01a06572-95db-7c7e-92b3-72abe38db46a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "prismatic-wall",
   title: "Prismatic Wall",
   world: "world/the-wandering-inn",

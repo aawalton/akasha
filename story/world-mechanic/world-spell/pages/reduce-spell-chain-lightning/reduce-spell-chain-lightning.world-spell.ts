@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const reduceSpellChainLightning = {
   id: "01a06572-95dc-7ee3-94ca-e7cfbb413a86",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "reduce-spell-chain-lightning",
   title: "Reduce Spell: Chain Lightning",
   world: "world/the-wandering-inn",

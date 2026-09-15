@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const rayOfEntropy = {
   id: "01a06572-95dc-7f24-8821-9f8a0ab75c0a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "ray-of-entropy",
   title: "Ray of Entropy",
   world: "world/the-wandering-inn",

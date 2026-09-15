@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const sealedSpace = {
   id: "01a06572-95df-7f7a-b484-df35d062a68d",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "sealed-space",
   title: "Sealed Space",
   world: "world/the-wandering-inn",

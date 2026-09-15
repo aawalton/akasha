@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const scryingCeria = {
   id: "01a06572-95de-763f-84cc-2b8639d05971",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "scrying-ceria",
   title: "Scrying: Ceria",
   world: "world/the-wandering-inn",

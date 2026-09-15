@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const serpent = {
   id: "01a06572-95df-7292-96ad-ff80fbc0ec1c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "serpent",
   title: "Serpent",
   world: "world/the-wandering-inn",

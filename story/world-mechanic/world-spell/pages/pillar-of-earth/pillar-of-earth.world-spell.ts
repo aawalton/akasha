@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const pillarOfEarth = {
   id: "01a06572-95da-713f-b31f-440ea1dbe0c6",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "pillar-of-earth",
   title: "Pillar of Earth",
   world: "world/the-wandering-inn",

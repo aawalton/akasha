@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const randimenSTracer = {
   id: "01a06572-95dc-7c79-ae2d-e4506355ec5b",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "randimen-s-tracer",
   title: "Randimen’s Tracer",
   world: "world/the-wandering-inn",

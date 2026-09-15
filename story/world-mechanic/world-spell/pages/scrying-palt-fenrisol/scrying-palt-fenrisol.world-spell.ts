@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const scryingPaltFenrisol = {
   id: "01a06572-95de-708e-baf7-f7946220a528",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "scrying-palt-fenrisol",
   title: "Scrying: Palt Fenrisol",
   world: "world/the-wandering-inn",

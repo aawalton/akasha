@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const sandSpray = {
   id: "01a06572-95de-7dd6-8280-e0648248c632",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "sand-spray",
   title: "Sand Spray",
   world: "world/the-wandering-inn",

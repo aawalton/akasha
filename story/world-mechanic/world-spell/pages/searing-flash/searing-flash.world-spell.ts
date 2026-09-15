@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const searingFlash = {
   id: "01a06572-95df-7140-ace0-12e9e882e24f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "searing-flash",
   title: "Searing Flash",
   world: "world/the-wandering-inn",

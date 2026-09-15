@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const roomOfWeightlessness = {
   id: "01a06572-95de-73e2-9839-b2fa66d1a4de",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "room-of-weightlessness",
   title: "Room of Weightlessness",
   world: "world/the-wandering-inn",

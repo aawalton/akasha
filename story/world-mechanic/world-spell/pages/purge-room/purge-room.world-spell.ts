@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const purgeRoom = {
   id: "01a06572-95db-7907-b545-025604471003",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "purge-room",
   title: "Purge Room",
   world: "world/the-wandering-inn",

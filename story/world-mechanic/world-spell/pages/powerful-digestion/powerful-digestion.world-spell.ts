@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const powerfulDigestion = {
   id: "01a06572-95db-77d5-8884-028e616e2987",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "powerful-digestion",
   title: "Powerful Digestion",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const regrowWood = {
   id: "01a06572-95dc-7a05-bf9f-0668a827dca9",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "regrow-wood",
   title: "Regrow Wood",
   world: "world/the-wandering-inn",

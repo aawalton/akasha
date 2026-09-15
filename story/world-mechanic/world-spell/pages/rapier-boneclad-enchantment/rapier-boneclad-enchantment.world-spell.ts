@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const rapierBonecladEnchantment = {
   id: "01a06572-95dc-7d10-8a1e-9c512e5d9527",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "rapier-boneclad-enchantment",
   title: "Rapier: Boneclad Enchantment",
   world: "world/the-wandering-inn",
