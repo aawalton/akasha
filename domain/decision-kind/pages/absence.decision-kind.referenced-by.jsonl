@@ -1409,6 +1409,7 @@
 {"propertySlug":"decision-kind","path":"page/access/modules/file-write/file-write.module.ts","id":"01a05bd6-c531-7a9e-9505-89164f47be5f"}
 {"propertySlug":"decision-kind","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}
 {"propertySlug":"decision-kind","path":"page/address-kind/in-page/in-page.page-address-kind.ts","id":"01a0731d-f93e-7ca8-8fdd-a8a5e083664d"}
+{"propertySlug":"decision-kind","path":"page/body-read-cost/body-read-cost.performance.ts","id":"01a0a6a1-317d-7d77-a2a7-62d501fe78a3"}
 {"propertySlug":"decision-kind","path":"page/calendar-date-property/calendar-date-property.page-type.ts","id":"01a063de-2c60-7001-89b5-5efdc8482d83"}
 {"propertySlug":"decision-kind","path":"page/calendar-time-property/calendar-time-property.page-type.ts","id":"01a06d87-9d4d-7c65-aad0-8a0385b221c6"}
 {"propertySlug":"decision-kind","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.ts","id":"01a06869-1dd9-7000-9568-50cc17d96243"}

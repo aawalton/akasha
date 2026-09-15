@@ -104,6 +104,7 @@ export const page = {
     "page-type/page-address-kind",
     "page-type/page-property-entry",
     "page-type/page-type",
+    "performance/body-read-cost",
     "page-type/phone-number-property",
     "page-type/process-property",
     "page-type/rank-property",

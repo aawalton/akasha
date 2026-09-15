@@ -244,6 +244,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/storage/backup/retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/body-read-cost/body-read-cost.performance.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/index/modules/answering/index-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}

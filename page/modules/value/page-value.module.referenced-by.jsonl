@@ -65,6 +65,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/inference/modules/inference-reading/inference-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/body-read-cost/body-read-cost.performance.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/index/modules/indexing/indexing.module.test-fixtures.ts"}
