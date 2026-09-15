@@ -1138,6 +1138,10 @@
 {"propertySlug":"decision-kind","path":"alan/web-capacitor/alan-web-capacitor.router-app.ts","id":"01a06582-324d-7c85-97b1-23c659bd7d23"}
 {"propertySlug":"decision-kind","path":"alan/web-capacitor/modules/not-found-notice/not-found-notice.module.ts","id":"01a08e04-ae95-7615-b97a-27cdf8ec5cda"}
 {"propertySlug":"decision-kind","path":"alan/web-capacitor/routes/alan-web-capacitor-page-listing/alan-web-capacitor-page-listing.route.ts","id":"01a08840-980e-747f-9497-1ed8fa4d51f0"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/app-layout-loading/app-layout-loading.module.ts","id":"01a0655e-d39b-7415-b913-3146ff8bfa28"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.ts","id":"01a0655e-d39b-7b16-9974-8d43261a1726"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/picture-answering/picture-answering.module.ts","id":"01a09c61-a5d9-766a-9d6d-662757fe1a24"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts","id":"01a078aa-cea1-71ff-8aa2-0b3766623b39"}
 {"propertySlug":"decision-kind","path":"alan/web/alanwalton-web/alanwalton-web.manifest.ts","id":"01a0737e-5eae-7286-97df-40905333f97f"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.ts","id":"01a0655d-dab8-7853-9f9b-b95d2c8ee8a0"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.ts","id":"01a0655d-dab8-75b5-b6b9-521ef16cadd1"}

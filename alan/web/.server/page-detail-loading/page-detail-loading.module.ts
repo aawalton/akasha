@@ -6,9 +6,9 @@ export const pageDetailLoading = {
   slug: "page-detail-loading",
   definition: "what a page's detail route loads before it is drawn",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A key is asked of a page type only where that page type declares the key.",
     },
   ],
