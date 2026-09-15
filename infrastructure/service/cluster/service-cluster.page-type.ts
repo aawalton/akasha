@@ -85,7 +85,12 @@ export const serviceCluster = {
     { pageProperty: "number-property/replicas", required: false, many: false },
     { pageProperty: "number-property/container-port", required: false, many: false },
     { pageProperty: "text-property/service-cluster-schedule", required: false, many: false },
-    { pageProperty: "relation-property/service-manifest", required: true, many: false },
+    {
+      pageProperty: "relation-property/service-manifest",
+      required: true,
+      many: true,
+      maxCount: null,
+    },
     { pageProperty: "file-property/service-cluster-config", required: false, many: false },
     {
       pageProperty: "relation-property/secrets",

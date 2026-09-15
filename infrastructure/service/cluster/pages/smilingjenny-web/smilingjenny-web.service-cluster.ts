@@ -11,5 +11,5 @@ export const smilingjennyWeb = {
   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
   replicas: 1,
   containerPort: 3000,
-  manifest: "manifest/smilingjenny-web-manifests",
+  manifest: ["manifest/smilingjenny-web-manifests"],
 } as const satisfies ServiceCluster

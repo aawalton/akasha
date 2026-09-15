@@ -12,6 +12,6 @@ export const cloudflared = {
   replicas: 2,
   containerPort: 2000,
   config: "yaml",
-  manifest: "manifest/cloudflared",
+  manifest: ["manifest/cloudflared"],
   secrets: ["secret/cloudflared-creds-credentials-json"],
 } as const satisfies ServiceCluster

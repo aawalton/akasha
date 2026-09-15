@@ -11,5 +11,5 @@ export const gitTransport = {
   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
   replicas: 1,
   containerPort: 3000,
-  manifest: "manifest/git-transport-manifests",
+  manifest: ["manifest/git-transport-manifests"],
 } as const satisfies ServiceCluster

@@ -11,5 +11,5 @@ export const archiveOfWorldsWeb = {
   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
   replicas: 1,
   containerPort: 3000,
-  manifest: "manifest/archive-of-worlds-web-manifests",
+  manifest: ["manifest/archive-of-worlds-web-manifests"],
 } as const satisfies ServiceCluster

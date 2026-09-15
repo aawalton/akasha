@@ -11,6 +11,6 @@ export const voiceInfer = {
   image: "registry.registry.svc.cluster.local:5000/cluster/voice-infer-cu121",
   replicas: 1,
   containerPort: 8080,
-  manifest: "manifest/voice-infer",
+  manifest: ["manifest/voice-infer"],
   secrets: ["secret/voice-infer-s3-creds-access-key", "secret/voice-infer-s3-creds-secret-key"],
 } as const satisfies ServiceCluster

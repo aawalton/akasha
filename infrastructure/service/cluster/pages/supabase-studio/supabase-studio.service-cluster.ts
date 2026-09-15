@@ -11,5 +11,5 @@ export const supabaseStudio = {
   image: "supabase/studio:2026.04.08-sha-205cbe7",
   replicas: 1,
   containerPort: 3000,
-  manifest: "manifest/supabase-studio",
+  manifest: ["manifest/supabase-studio"],
 } as const satisfies ServiceCluster

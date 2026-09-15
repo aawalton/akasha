@@ -10,5 +10,5 @@ export const gitTransportJanitor = {
   resourceName: "git-transport-janitor",
   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
   schedule: "*/15 * * * *",
-  manifest: "manifest/git-transport-janitor",
+  manifest: ["manifest/git-transport-janitor"],
 } as const satisfies ServiceCluster

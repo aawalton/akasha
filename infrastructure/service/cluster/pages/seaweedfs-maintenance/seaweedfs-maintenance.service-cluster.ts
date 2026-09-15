@@ -10,5 +10,5 @@ export const seaweedfsMaintenance = {
   resourceName: "seaweedfs-maintenance",
   image: "chrislusf/seaweedfs:3.73",
   schedule: "43 6 * * 0",
-  manifest: "manifest/seaweedfs-maintenance",
+  manifest: ["manifest/seaweedfs-maintenance"],
 } as const satisfies ServiceCluster

@@ -10,5 +10,5 @@ export const ddnsHeadscale = {
   resourceName: "ddns-headscale",
   image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
   schedule: "*/5 * * * *",
-  manifest: "manifest/ddns-headscale",
+  manifest: ["manifest/ddns-headscale"],
 } as const satisfies ServiceCluster

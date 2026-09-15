@@ -10,5 +10,5 @@ export const seaweedfsPruneSessions = {
   resourceName: "seaweedfs-prune-sessions",
   image: "rclone/rclone:1.74.3",
   schedule: "24 5 * * *",
-  manifest: "manifest/seaweedfs-prune-sessions",
+  manifest: ["manifest/seaweedfs-prune-sessions"],
 } as const satisfies ServiceCluster

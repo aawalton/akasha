@@ -10,5 +10,5 @@ export const seaweedfsBackupAssets = {
   resourceName: "seaweedfs-backup-assets",
   image: "rclone/rclone:1.74.3",
   schedule: "5 5 * * *",
-  manifest: "manifest/seaweedfs-backup-assets",
+  manifest: ["manifest/seaweedfs-backup-assets"],
 } as const satisfies ServiceCluster
