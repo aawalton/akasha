@@ -11,6 +11,7 @@ export const code = {
     "domain/browser",
     "domain/code-body",
     "domain/code-path",
+    "domain/code-process",
     "domain/code-reading",
     "domain/code-running",
     "domain/editor",

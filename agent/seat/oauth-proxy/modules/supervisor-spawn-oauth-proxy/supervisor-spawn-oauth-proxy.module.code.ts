@@ -16,13 +16,13 @@ import {
 } from "akasha/agent/seat/oauth-proxy/modules/supervisor-proxy-port-line/supervisor-proxy-port-line.module.code.ts"
 import { readAdoptedClaudeProxyPort } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.code.ts"
 import { supervisorSocketPath } from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
-import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
-import { pidAliveOrRefuse } from "akasha/util/process/modules/pid-signal/pid-signal.module.code.ts"
+import { pidAliveOrRefuse } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import {
   pidsListeningOn,
   portIsHeld,
-} from "akasha/util/process/modules/port-holding/port-holding.module.code.ts"
-import { readProcEnvVar } from "akasha/util/process/modules/proc-environ/proc-environ.module.code.ts"
+} from "akasha/code/process/modules/port-holding/port-holding.module.code.ts"
+import { readProcEnvVar } from "akasha/code/process/modules/proc-environ/proc-environ.module.code.ts"
+import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 const STALE_PROXY_SHUTDOWN_BUDGET_MS = 5_000
 

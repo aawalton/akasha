@@ -9,7 +9,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { pidAliveOrAssumeAlive } from "akasha/util/process/modules/pid-signal/pid-signal.module.code.ts"
+import { pidAliveOrAssumeAlive } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 
 export const NO_CODE = -1
 

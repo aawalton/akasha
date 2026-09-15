@@ -15,8 +15,8 @@ import {
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { setOAuthProxyHandle } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 import { guardTick } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
+import { pidAliveOrRefuse } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
-import { pidAliveOrRefuse } from "akasha/util/process/modules/pid-signal/pid-signal.module.code.ts"
 
 const PROXY_LIVENESS_INTERVAL_MS = 30_000
 

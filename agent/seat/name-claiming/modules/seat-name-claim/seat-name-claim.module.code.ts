@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
+import { statedIn } from "akasha/code/process/modules/proc-reading/proc-reading.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
-import { statedIn } from "akasha/util/process/modules/proc-reading/proc-reading.module.code.ts"
 
 const UUID_HEX = 32
 

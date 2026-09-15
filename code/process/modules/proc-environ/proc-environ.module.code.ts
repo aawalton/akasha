@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { environValue } from "akasha/util/process/modules/proc-reading/proc-reading.module.code.ts"
+import { environValue } from "akasha/code/process/modules/proc-reading/proc-reading.module.code.ts"
 
 export function readProcEnvVar(pid: number, key: string): string | null {
   let environ: string

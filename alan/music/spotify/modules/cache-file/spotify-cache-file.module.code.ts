@@ -1,7 +1,7 @@
 import { mkdirSync, readFileSync, unlinkSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
-import { errnoCodeOf } from "akasha/util/process/modules/pid-signal/pid-signal.module.code.ts"
+import { errnoCodeOf } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import type { z } from "zod"
 
 const CACHE_FOLDER = "music-spotify"

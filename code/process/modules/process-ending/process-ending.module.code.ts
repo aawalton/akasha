@@ -1,12 +1,12 @@
 import {
+  classifyPidSignalError,
+  pidAliveOrAssumeAlive,
+} from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
+import {
   collapse,
   folds,
   refuses,
 } from "akasha/util/narrow/modules/collapse/collapse.module.code.ts"
-import {
-  classifyPidSignalError,
-  pidAliveOrAssumeAlive,
-} from "akasha/util/process/modules/pid-signal/pid-signal.module.code.ts"
 
 export type Sign = "SIGTERM" | "SIGKILL"
 

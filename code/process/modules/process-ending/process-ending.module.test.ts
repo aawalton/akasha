@@ -3,7 +3,7 @@ import {
   type Ending,
   ending,
   type Sign,
-} from "akasha/util/process/modules/process-ending/process-ending.module.code.ts"
+} from "akasha/code/process/modules/process-ending/process-ending.module.code.ts"
 
 type Bench = {
   readonly how: Ending

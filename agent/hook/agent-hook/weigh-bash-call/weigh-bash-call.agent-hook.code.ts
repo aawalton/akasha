@@ -11,10 +11,10 @@ import {
 import { hookAgentId } from "akasha/agent/modules/acting-agent/acting-agent.module.code.ts"
 import { seatPageAt } from "akasha/agent/modules/page-reading/agent-page-reading.module.code.ts"
 import { fillingAt } from "akasha/check/modules/cost/check-cost.module.code.ts"
+import { pidAliveOrAssumeAlive } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { pidAliveOrAssumeAlive } from "akasha/util/process/modules/pid-signal/pid-signal.module.code.ts"
 
 const SCRIPT_TYPE = "shell-script"
 

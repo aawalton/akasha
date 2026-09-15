@@ -1096,6 +1096,12 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/path/modules/module-directory/module-directory.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/path/modules/path-runs/path-runs.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/performance/performance.page-type.types.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/process/modules/libc-mapping/libc-mapping.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/process/modules/pid-signal/pid-signal.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/process/modules/port-holding/port-holding.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/process/modules/proc-environ/proc-environ.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/process/modules/proc-reading/proc-reading.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/process/modules/process-ending/process-ending.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/reading/modules/code-importing/code-importing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/reading/modules/code-naming/code-naming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/reading/modules/code-rule/code-rule.module.ts"}
@@ -6652,12 +6658,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/narrow/modules/text-in/text-in.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/narrow/modules/up-from/up-from.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/narrow/modules/whole-number-in/whole-number-in.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/process/modules/libc-mapping/libc-mapping.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/process/modules/pid-signal/pid-signal.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/process/modules/port-holding/port-holding.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/process/modules/proc-environ/proc-environ.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/process/modules/proc-reading/proc-reading.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/process/modules/process-ending/process-ending.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/run/modules/running/running.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/slug/modules/camelize-key/camelize-key.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/slug/modules/dash-between-words/dash-between-words.module.ts"}

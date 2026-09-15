@@ -9,7 +9,7 @@ import {
   dataError,
   operationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { ending } from "akasha/util/process/modules/process-ending/process-ending.module.code.ts"
+import { ending } from "akasha/code/process/modules/process-ending/process-ending.module.code.ts"
 
 export interface TakenSeat {
   readonly agentId: string

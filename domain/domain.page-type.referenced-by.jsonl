@@ -301,6 +301,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/lua-runtime-library/lua-runtime-library.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/module/module.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/path/code-path.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/process/code-process.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/python-module/python-module.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/reading/code-reading.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/route/route.page-type.types.ts"}
@@ -603,7 +604,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/text.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/fs/util-fs.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/narrow/util-narrow.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/process/util-process.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/run/util-run.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/slug/util-slug.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/sync/util-sync.domain.ts"}

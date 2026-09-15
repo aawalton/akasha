@@ -16,6 +16,8 @@ import {
   landedMechanically,
   type runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { procEntries } from "akasha/code/process/modules/proc-reading/proc-reading.module.code.ts"
+import { ending } from "akasha/code/process/modules/process-ending/process-ending.module.code.ts"
 import {
   INPUT,
   OPERATIONAL,
@@ -29,8 +31,6 @@ import {
 import { removeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { slugAt, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { procEntries } from "akasha/util/process/modules/proc-reading/proc-reading.module.code.ts"
-import { ending } from "akasha/util/process/modules/process-ending/process-ending.module.code.ts"
 
 const SUBAGENT_TYPE = "01a05978-f2e1-78e7-9017-ab14c5c1d79b"
 

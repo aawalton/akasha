@@ -1,4 +1,5 @@
 import { relative, resolve } from "node:path"
+import { errnoCodeOf } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import {
   formatIssue,
   type Issue,
@@ -13,7 +14,6 @@ import {
 import { parseSingleFileFlag } from "akasha/temper/build-deploy-check/modules/cli-args/cli-args.module.code.ts"
 import { errorMessage } from "akasha/temper/build-deploy-check/modules/error-message/error-message.module.code.ts"
 import { renderPopulationBound } from "akasha/temper/build-deploy-check/modules/population-bound/population-bound.module.code.ts"
-import { errnoCodeOf } from "akasha/util/process/modules/pid-signal/pid-signal.module.code.ts"
 
 const GATE = "addon-sandbox-safety"
 
