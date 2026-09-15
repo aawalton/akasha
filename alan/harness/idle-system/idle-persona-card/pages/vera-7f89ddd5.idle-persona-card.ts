@@ -2,7 +2,7 @@ import type { IdlePersonaCard } from "akasha/alan/harness/idle-system/idle-perso
 
 export const vera7f89ddd5 = {
   id: "01a0659f-c5bc-7007-bf44-cbc9c0f4139c",
-  type: "idle-persona-card",
+  type: "page-type/idle-persona-card",
   slug: "vera-7f89ddd5",
   title: "???",
   playerId: "e62e5a30-9879-40dd-be89-27b17f89ddd5",
