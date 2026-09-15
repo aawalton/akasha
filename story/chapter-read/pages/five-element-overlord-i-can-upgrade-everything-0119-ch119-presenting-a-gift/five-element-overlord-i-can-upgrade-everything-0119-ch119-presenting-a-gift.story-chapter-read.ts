@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const fiveElementOverlordICanUpgradeEverything0119Ch119PresentingAGift = {
   id: "01a06731-adb9-7006-a6cd-423423d98499",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0119-ch119-presenting-a-gift",
   title: "Ch119 Presenting a Gift",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",

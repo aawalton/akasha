@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const fiveElementOverlordICanUpgradeEverything0068Ch6810thLevelBloodDemon = {
   id: "01a06731-adb6-7008-8990-fbac9a45cbde",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0068-ch68-10th-level-blood-demon",
   title: "Ch68 10th Level Blood Demon",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",

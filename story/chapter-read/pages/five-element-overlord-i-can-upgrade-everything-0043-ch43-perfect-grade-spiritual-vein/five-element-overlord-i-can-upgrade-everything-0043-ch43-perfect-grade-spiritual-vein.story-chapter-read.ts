@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const fiveElementOverlordICanUpgradeEverything0043Ch43PerfectGradeSpiritualVein = {
   id: "01a06731-adb5-7008-ad6a-c3979ff114f5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0043-ch43-perfect-grade-spiritual-vein",
   title: "Ch43 Perfect Grade Spiritual Vein",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",

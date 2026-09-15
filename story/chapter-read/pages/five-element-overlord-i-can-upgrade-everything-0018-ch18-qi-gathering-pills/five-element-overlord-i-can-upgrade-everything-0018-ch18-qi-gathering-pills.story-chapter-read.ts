@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const fiveElementOverlordICanUpgradeEverything0018Ch18QiGatheringPills = {
   id: "01a06731-adb4-7006-9fca-41bead9aa35e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0018-ch18-qi-gathering-pills",
   title: "Ch18 Qi Gathering Pills",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",

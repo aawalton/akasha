@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const fiveElementOverlordICanUpgradeEverything0138Ch138WeighingOptions = {
   id: "01a0886b-28e5-7872-8502-ca3f3fa1aaf5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0138-ch138-weighing-options",
   position: 138,
   publishedAt: "2026-09-09",

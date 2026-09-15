@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const fiveElementOverlordICanUpgradeEverything0019Ch192ndLevelQiRefiner = {
   id: "01a06731-adb4-7007-80bc-bcbd03cdf5bf",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0019-ch19-2nd-level-qi-refiner",
   title: "Ch19 2nd Level Qi Refiner",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",

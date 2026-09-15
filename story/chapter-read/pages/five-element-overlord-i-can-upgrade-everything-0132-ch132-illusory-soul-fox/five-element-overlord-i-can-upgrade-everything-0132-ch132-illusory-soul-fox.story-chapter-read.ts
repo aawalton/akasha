@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const fiveElementOverlordICanUpgradeEverything0132Ch132IllusorySoulFox = {
   id: "01a06731-adbf-7000-b615-989c0e77f519",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0132-ch132-illusory-soul-fox",
   title: "Ch132 Illusory Soul Fox",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",

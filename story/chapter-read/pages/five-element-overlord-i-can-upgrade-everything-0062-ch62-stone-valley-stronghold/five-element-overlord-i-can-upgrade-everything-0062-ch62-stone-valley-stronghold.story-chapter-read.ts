@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const fiveElementOverlordICanUpgradeEverything0062Ch62StoneValleyStronghold = {
   id: "01a06731-adb6-7002-abf3-ed01e81bc08b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0062-ch62-stone-valley-stronghold",
   title: "Ch62 Stone Valley Stronghold",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",

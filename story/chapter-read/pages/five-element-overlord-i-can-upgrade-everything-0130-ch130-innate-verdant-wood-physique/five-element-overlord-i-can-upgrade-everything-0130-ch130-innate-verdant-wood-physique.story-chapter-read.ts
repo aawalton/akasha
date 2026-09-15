@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const fiveElementOverlordICanUpgradeEverything0130Ch130InnateVerdantWoodPhysique = {
   id: "01a06731-adbe-7000-a144-52c5ea3207a4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0130-ch130-innate-verdant-wood-physique",
   title: "Ch130 Innate Verdant Wood Physique",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
