@@ -7,6 +7,7 @@ export const healthImportRun = {
   definition: "one import run, from the records read to the samples written",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

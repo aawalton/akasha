@@ -28,8 +28,6 @@ function checkpointSaid(at: string): string {
   return `${at}, the checkpoint this run left outside the checkout`
 }
 
-export const NO_LOWER_BOUND = "0001-01-01"
-
 export interface MetricStats {
   count: number
   earliestMs: number | undefined
