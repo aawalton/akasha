@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellHorizonHealer0030Chapter30PushingPastLimits = {
   id: "01a06731-ae7d-7008-8fd1-4c0051e7bbe5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-horizon-healer-0030-chapter-30-pushing-past-limits",
   title: "Chapter 30 - Pushing Past Limits",
   story: "story-read/hell-horizon-healer",

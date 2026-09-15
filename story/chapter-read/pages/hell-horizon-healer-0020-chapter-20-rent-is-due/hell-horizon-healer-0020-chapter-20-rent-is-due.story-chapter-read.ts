@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellHorizonHealer0020Chapter20RentIsDue = {
   id: "01a06731-ae7c-700d-ac04-d980b4dde68a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-horizon-healer-0020-chapter-20-rent-is-due",
   title: "Chapter 20 - Rent is Due",
   story: "story-read/hell-horizon-healer",

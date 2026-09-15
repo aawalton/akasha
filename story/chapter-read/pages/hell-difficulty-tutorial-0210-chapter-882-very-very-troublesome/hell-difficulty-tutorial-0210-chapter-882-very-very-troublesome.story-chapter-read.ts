@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0210Chapter882VeryVeryTroublesome = {
   id: "01a0a1f4-cbc5-7f74-97bd-cfe5a69f21a8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0210-chapter-882-very-very-troublesome",
   position: 210,
   publishedAt: "2026-09-14",

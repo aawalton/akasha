@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const incrementalTortureAnIdleSystemTowerClimbing0019019SouthernCharm = {
   id: "01a06731-ae09-7002-8434-3af6161546b8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0019-019-southern-charm",
   title: "019: Southern Charm",
   story: "story-read/incremental-torture-an-idle-system-tower-climbing",

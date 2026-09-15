@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellHorizonHealer0008Chapter8Death = {
   id: "01a06731-ae7c-7001-8a45-342f437adeb3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-horizon-healer-0008-chapter-8-death",
   title: "Chapter 8 - Death? ",
   story: "story-read/hell-horizon-healer",

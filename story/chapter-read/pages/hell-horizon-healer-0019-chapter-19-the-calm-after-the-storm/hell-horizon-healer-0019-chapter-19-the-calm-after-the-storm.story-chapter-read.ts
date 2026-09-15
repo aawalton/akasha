@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellHorizonHealer0019Chapter19TheCalmAfterTheStorm = {
   id: "01a06731-ae7c-700c-81f2-58beae305437",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-horizon-healer-0019-chapter-19-the-calm-after-the-storm",
   title: "Chapter 19 - The Calm after the Storm",
   story: "story-read/hell-horizon-healer",

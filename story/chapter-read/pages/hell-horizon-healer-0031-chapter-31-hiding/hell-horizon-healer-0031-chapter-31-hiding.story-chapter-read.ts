@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellHorizonHealer0031Chapter31Hiding = {
   id: "01a06731-ae7d-7009-97ad-d29ec8e70260",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-horizon-healer-0031-chapter-31-hiding",
   title: "Chapter 31 - Hiding",
   story: "story-read/hell-horizon-healer",

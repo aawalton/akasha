@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellHorizonHealer0023Chapter23WhenAllElseFailsTrain = {
   id: "01a06731-ae7d-7001-b283-a562eb29ea5b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-horizon-healer-0023-chapter-23-when-all-else-fails-train",
   title: "Chapter 23 - When All Else Fails, Train",
   story: "story-read/hell-horizon-healer",

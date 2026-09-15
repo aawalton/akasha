@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0197Chapter869CorporateOwnedDeathDesert = {
   id: "01a06731-ad97-7001-b5f4-f263c4932317",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0197-chapter-869-corporate-owned-death-desert",
   title: "Chapter 869 - Corporate owned death desert",
   story: "story-read/hell-difficulty-tutorial",

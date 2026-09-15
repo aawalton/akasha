@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0195Chapter867ItCouldHaveBeenMuchWorse = {
   id: "01a06731-ad96-7000-a8bd-3f701efabb68",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0195-chapter-867-it-could-have-been-much-worse",
   title: "Chapter 867 - It could have been much worse",
   story: "story-read/hell-difficulty-tutorial",

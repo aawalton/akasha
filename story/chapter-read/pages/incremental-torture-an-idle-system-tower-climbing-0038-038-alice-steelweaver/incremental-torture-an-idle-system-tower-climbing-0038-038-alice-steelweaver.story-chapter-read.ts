@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const incrementalTortureAnIdleSystemTowerClimbing0038038AliceSteelweaver = {
   id: "01a06731-ae0a-7008-b679-2333e2e916d9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0038-038-alice-steelweaver",
   title: "038: Alice Steelweaver",
   story: "story-read/incremental-torture-an-idle-system-tower-climbing",

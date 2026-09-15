@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellHorizonHealer0007Chapter7SystemVendingMachine = {
   id: "01a06731-ae7c-7000-8e87-71e9fb57373d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-horizon-healer-0007-chapter-7-system-vending-machine",
   title: "Chapter 7 - System Vending Machine",
   story: "story-read/hell-horizon-healer",
