@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const destinationsColors = {
   id: "01a06269-28b9-7c59-8c19-941c22d7130b",
-  type: "module",
+  type: "page-type/module",
   slug: "destinations-colors",
   definition: "the colours each destination pin kind is tinted and titled with",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const destinationsFishingBait = {
   id: "01a06269-28df-7f3c-8a08-a91b25a07747",
-  type: "module",
+  type: "page-type/module",
   slug: "destinations-fishing-bait",
   definition: "which bait the player carries for each water kind",
   code: "ts",

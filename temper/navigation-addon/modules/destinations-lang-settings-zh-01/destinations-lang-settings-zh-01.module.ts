@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const destinationsLangSettingsZh01 = {
   id: "01a06269-2a32-7fe5-90be-cf6544ef2f17",
-  type: "module",
+  type: "page-type/module",
   slug: "destinations-lang-settings-zh-01",
   definition: "one run of the destinations settings strings in Chinese",
   code: "ts",

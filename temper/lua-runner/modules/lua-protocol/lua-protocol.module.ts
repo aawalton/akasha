@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const luaProtocol = {
   id: "01a06059-2491-7831-9607-9a067a9a884b",
-  type: "module",
+  type: "page-type/module",
   slug: "lua-protocol",
   definition: "the sentinels and the answer shape the driver and its caller agree on",
   code: "ts",

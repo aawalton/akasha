@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const movableWindow = {
   id: "01a060c4-17d0-7920-84d6-6391a39d187e",
-  type: "module",
+  type: "page-type/module",
   slug: "movable-window",
   definition: "a game window the player drags by a handle, kept where the player left it",
   code: "ts",

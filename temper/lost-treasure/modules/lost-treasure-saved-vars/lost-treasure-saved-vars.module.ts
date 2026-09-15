@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const lostTreasureSavedVars = {
   id: "01a06141-800a-7640-8fdd-65e24d780c85",
-  type: "module",
+  type: "page-type/module",
   slug: "lost-treasure-saved-vars",
   definition: "what the player chose, kept between sessions",
   code: "ts",

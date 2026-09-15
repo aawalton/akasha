@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sandboxedLuaVm = {
   id: "01a06059-2493-7f9b-a205-1e78ff949f76",
-  type: "module",
+  type: "page-type/module",
   slug: "sandboxed-lua-vm",
   definition: "a Lua VM whose globals answer as the game's globals would",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const destinationsPinTypeConstants = {
   id: "01a06269-290f-76e6-aa2e-b6deb157cb57",
-  type: "module",
+  type: "page-type/module",
   slug: "destinations-pin-type-constants",
   definition: "the pin kinds the destinations half names",
   code: "ts",

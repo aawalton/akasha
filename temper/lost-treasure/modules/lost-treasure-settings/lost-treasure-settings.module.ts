@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const lostTreasureSettings = {
   id: "01a06141-8006-7fe1-bd04-6162a2b698c0",
-  type: "module",
+  type: "page-type/module",
   slug: "lost-treasure-settings",
   definition: "the add-on's own panel in the game's settings menu",
   code: "ts",

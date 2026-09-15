@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const lostTreasureLogger = {
   id: "01a06141-800b-7606-b3fe-3a8d91998976",
-  type: "module",
+  type: "page-type/module",
   slug: "lost-treasure-logger",
   definition: "a named log channel for each part of the add-on, over LibDebugLogger",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const autoQuestTrace = {
   id: "01a06098-98a3-7c4d-b67f-e657dc450ff5",
-  type: "module",
+  type: "page-type/module",
   slug: "auto-quest-trace",
   definition: "the dialogue choices the quest addon made, read back and checked",
   code: "ts",

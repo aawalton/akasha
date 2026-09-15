@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const compassPinsGlobal = {
   id: "01a06269-28b2-7ec4-93de-2c33a8bb593f",
-  type: "module",
+  type: "page-type/module",
   slug: "compass-pins-global",
   definition: "the compass library published under the names other add-ons read",
   code: "ts",

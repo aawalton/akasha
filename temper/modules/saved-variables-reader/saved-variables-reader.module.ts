@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const savedVariablesReader = {
   id: "01a06084-d41a-7898-b2c6-0be1faa981da",
-  type: "module",
+  type: "page-type/module",
   slug: "saved-variables-reader",
   definition: "one summary for each account, read out of the catalog addon's saved variables",
   code: "ts",

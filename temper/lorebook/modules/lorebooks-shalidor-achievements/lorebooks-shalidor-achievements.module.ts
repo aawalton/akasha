@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const lorebooksShalidorAchievements = {
   id: "01a06184-3d7e-7ec5-a4bc-144daa043110",
-  type: "module",
+  type: "page-type/module",
   slug: "lorebooks-shalidor-achievements",
   definition: "the achievement a zone's lore books are counted against",
   code: "ts",

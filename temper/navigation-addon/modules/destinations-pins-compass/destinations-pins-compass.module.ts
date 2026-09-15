@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const destinationsPinsCompass = {
   id: "01a06269-28fe-700d-8ebb-5eb6a7ff11ac",
-  type: "module",
+  type: "page-type/module",
   slug: "destinations-pins-compass",
   definition: "the compass pin kinds added for the destinations half",
   code: "ts",

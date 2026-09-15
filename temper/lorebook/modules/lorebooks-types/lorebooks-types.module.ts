@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const lorebooksTypes = {
   id: "01a06176-9c42-7bab-a5ee-18e1e7982c2d",
-  type: "module",
+  type: "page-type/module",
   slug: "lorebooks-types",
   definition: "the shapes of the lore book tables and of the add-on's own settings",
   code: "ts",

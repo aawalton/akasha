@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const lostTreasureGlobal = {
   id: "01a06141-8005-7878-9128-a7d186911cfd",
-  type: "module",
+  type: "page-type/module",
   slug: "lost-treasure-global",
   definition: "the three calls this add-on's own markup makes back into it",
   code: "ts",
