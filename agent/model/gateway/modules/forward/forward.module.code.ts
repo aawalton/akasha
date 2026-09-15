@@ -18,7 +18,11 @@ import {
   type TransportLogAt,
 } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
 
-const UPSTREAM_BASE = "https://api.anthropic.com"
+export const ANTHROPIC_BASE = "https://api.anthropic.com"
+
+export const API_KEY_HEADER = "x-api-key"
+
+const AUTHORIZATION = "authorization"
 
 const IDLE_GUARDED_PATHS = new Set(["/v1/messages", "/v1/messages/count_tokens"])
 
@@ -28,18 +32,30 @@ const REPLACED_REASON = "observer_replaced"
 
 const NO_ACCOUNT = "-"
 
+export type Upstream = {
+  readonly base: string
+  readonly header: string
+  readonly value: string
+}
+
+export function keyedUpstream(base: string, apiKey: string): Upstream {
+  return { base, header: API_KEY_HEADER, value: apiKey }
+}
+
 export type Forward = (
   incoming: Request,
   accessToken: string | null,
   bodyBuffer: ArrayBuffer | null,
   account: string | null,
-  observerSlot: ObserverSlot
+  observerSlot: ObserverSlot,
+  sentTo?: Upstream
 ) => Promise<Response>
 
 type ForwardDeps = {
   idleTimeoutMs: number
   downstreamKeepaliveMs: number
   logPrefix: string
+  base?: string | undefined
   logAt?: TransportLogAt | undefined
   shutdownRegistry?: ShutdownFlushRegistry | undefined
   now?: StreamClock | undefined
@@ -47,26 +63,36 @@ type ForwardDeps = {
   fetchImpl?: IdleFetch | undefined
 }
 
-function upstreamHeaders(incoming: Request, accessToken: string | null): Headers {
+function upstreamHeaders(
+  incoming: Request,
+  accessToken: string | null,
+  sentTo: Upstream | undefined
+): Headers {
   const headers = copyRequestHeaders(incoming)
+  if (sentTo !== undefined) {
+    headers.set(sentTo.header, sentTo.value)
+    return headers
+  }
   const authorization =
-    accessToken === null ? incoming.headers.get("authorization") : `Bearer ${accessToken}`
-  if (authorization !== null) headers.set("authorization", authorization)
+    accessToken === null ? incoming.headers.get(AUTHORIZATION) : `Bearer ${accessToken}`
+  if (authorization !== null) headers.set(AUTHORIZATION, authorization)
   return headers
 }
 
 export function buildForward(deps: ForwardDeps): Forward {
   const { idleTimeoutMs, downstreamKeepaliveMs, logPrefix, logAt, shutdownRegistry } = deps
   const now = deps.now ?? Date.now
+  const anthropic = deps.base ?? ANTHROPIC_BASE
 
-  return async function forward(incoming, accessToken, bodyBuffer, account, observerSlot) {
+  return async function forward(incoming, accessToken, bodyBuffer, account, observerSlot, sentTo) {
     const url = new URL(incoming.url)
-    const headers = upstreamHeaders(incoming, accessToken)
+    const base = sentTo?.base ?? anthropic
+    const headers = upstreamHeaders(incoming, accessToken, sentTo)
     const guarded = idleTimeoutMs > 0 && IDLE_GUARDED_PATHS.has(url.pathname)
     const startMs = now()
 
     const { response: upstream, idle } = await fetchWithIdleGuard(
-      `${UPSTREAM_BASE}${url.pathname}${url.search}`,
+      `${base}${url.pathname}${url.search}`,
       { method: incoming.method, headers, body: bodyBuffer },
       guarded
         ? {

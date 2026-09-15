@@ -4,13 +4,26 @@ export const forward = {
   id: "01a062f9-d8f3-766c-9fde-c4ce5fec4856",
   type: "module",
   slug: "forward",
-  definition: "one client request sent on to the Anthropic API and the response streamed back",
+  definition: "one client request sent on to a provider and the response streamed back",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A request is sent to the Anthropic API at the path that request arrived on.",
+      statement: "A request is sent to the base handed in at the path that request arrived on.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A caller handing in no base at all has the request sent to Anthropic.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "An upstream handed in with one request carries the base and header that request takes.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An upstream handed in is sent with its own header alone and no bearer.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -183,7 +196,7 @@ export const forward = {
     },
     {
       invariantKind: "invariant-kind/gap",
-      statement: "The upstream base is written here rather than handed in.",
+      statement: "Anthropic's own base is written here as the base a caller may leave unsaid.",
     },
     {
       invariantKind: "invariant-kind/gap",

@@ -2,6 +2,7 @@ import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
 import {
   buildForward,
   type Forward,
+  keyedUpstream,
 } from "akasha/agent/model/gateway/modules/forward/forward.module.code.ts"
 import type {
   IdleFetch,
@@ -121,6 +122,34 @@ test("the upstream url is the anthropic base with the path and the query", async
   await forward(ask("/v1/messages?beta=true"), "tok", null, null, emptySlot())
   expect(sent[0]?.url).toBe("https://api.anthropic.com/v1/messages?beta=true")
   expect(sent[0]?.init.method).toBe("POST")
+})
+
+test("a base handed in is the base the request is sent to", async () => {
+  const sent: Sent[] = []
+  const forward = forwardWith({
+    base: "https://api.example.test",
+    fetchImpl: sender(sent, plain),
+  })
+  await forward(ask("/v1/messages?beta=true"), "tok", null, null, emptySlot())
+  expect(sent[0]?.url).toBe("https://api.example.test/v1/messages?beta=true")
+})
+
+test("an upstream handed in with one request carries that request's base and header", async () => {
+  const sent: Sent[] = []
+  const forward = forwardWith({ fetchImpl: sender(sent, plain) })
+  const incoming = ask("/v1/messages", { authorization: "Bearer client" })
+  await forward(
+    incoming,
+    "tok",
+    null,
+    null,
+    emptySlot(),
+    keyedUpstream("https://api.deepseek.test/anthropic", "fake-api-key")
+  )
+  expect(sent[0]?.url).toBe("https://api.deepseek.test/anthropic/v1/messages")
+  const headers = new Headers(sent[0]?.init.headers)
+  expect(headers.get("x-api-key")).toBe("fake-api-key")
+  expect(headers.has("authorization")).toBe(false)
 })
 
 test("the hop-by-hop headers are dropped and the token becomes the bearer", async () => {
