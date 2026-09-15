@@ -12,7 +12,7 @@ const NAMESPACE = "namespace"
 
 const MODULE = "module"
 
-export const COMMANDS = "commands"
+export const COMMANDS = "command"
 
 export const PAGES_AT = "command/pages"
 

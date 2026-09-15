@@ -102,16 +102,16 @@ test("a module under a page that is no command and no namespace is refused", () 
   expect(said).toContain("named by the command or the namespace beside it")
 })
 
-test("a module the command page type names is let through wherever it sits under commands", () => {
+test("a module the command page type names is let through wherever it sits under command", () => {
   const said = moduleReasonIn("command/modules/humming/humming.module.ts", {
-    folder: "commands",
+    folder: "command",
     beside: false,
   })
 
   expect(said).toBe(null)
 })
 
-test("a module under commands named by a page outside commands is refused", () => {
+test("a module under command named by a page outside command is refused", () => {
   const at = "command/modules/humming/humming.module.ts"
   const said = moduleReasonIn(at, { folder: "warbling", beside: false })
 
