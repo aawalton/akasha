@@ -65,6 +65,10 @@ export const fileIsOwnedByAPage = {
       invariantKind: "invariant-kind/departure",
       statement: "A page a change adds owns the files that same change gives that page.",
     },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "Every file a page's code imports is owned by a page.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
