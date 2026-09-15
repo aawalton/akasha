@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaClapYourHandsClapYourHandsRadioMixEdit = {
   id: "01a0a59c-3cd0-7758-bbd4-38a7af33679d",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-clap-your-hands-clap-your-hands-radio-mix-edit",
   ownLength: 3.6428833333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaChandelierRemixesChandelierPlasticPlatesRemix = {
   id: "01a0a59c-3bd4-743f-afe1-317f84167061",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-chandelier-remixes-chandelier-plastic-plates-remix",
   ownLength: 4.4531,
   ownProgress: 0,

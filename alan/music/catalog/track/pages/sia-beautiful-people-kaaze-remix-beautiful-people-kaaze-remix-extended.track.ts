@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaBeautifulPeopleKaazeRemixBeautifulPeopleKaazeRemixExtended = {
   id: "01a0a59c-1980-737d-90c1-63178808ce5e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-beautiful-people-kaaze-remix-beautiful-people-kaaze-remix-extended",
   ownLength: 4.56295,
   ownProgress: 0,

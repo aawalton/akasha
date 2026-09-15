@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaAliveRemixesAlivePlasticPlatesRemix = {
   id: "01a0a59c-387c-74bc-be7b-de8fc55a47f1",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-alive-remixes-alive-plastic-plates-remix",
   ownLength: 4.976666666666667,
   ownProgress: 0,

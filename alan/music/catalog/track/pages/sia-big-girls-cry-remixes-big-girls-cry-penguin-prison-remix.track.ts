@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaBigGirlsCryRemixesBigGirlsCryPenguinPrisonRemix = {
   id: "01a0a59c-39e9-7a8f-af55-b21379879f1e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-big-girls-cry-remixes-big-girls-cry-penguin-prison-remix",
   ownLength: 3.9617666666666667,
   ownProgress: 0,

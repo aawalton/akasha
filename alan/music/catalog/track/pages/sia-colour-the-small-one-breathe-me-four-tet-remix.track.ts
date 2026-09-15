@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneBreatheMeFourTetRemix = {
   id: "01a0a59c-108a-727a-94ad-94792431a0c1",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-breathe-me-four-tet-remix",
   ownLength: 5.05,
   ownProgress: 0,

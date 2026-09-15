@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const sia1000FormsOfFearDeluxeVersionStraightForTheKnife = {
   id: "01a0a59c-0851-7771-baf4-33de0a55da67",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-1000-forms-of-fear-deluxe-version-straight-for-the-knife",
   ownLength: 3.5202166666666668,
   ownProgress: 0,

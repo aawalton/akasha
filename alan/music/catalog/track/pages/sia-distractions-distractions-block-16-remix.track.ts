@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaDistractionsDistractionsBlock16Remix = {
   id: "01a0a59c-41ff-7dd3-be9d-e252262f948d",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-distractions-distractions-block-16-remix",
   ownLength: 8.45835,
   ownProgress: 0,

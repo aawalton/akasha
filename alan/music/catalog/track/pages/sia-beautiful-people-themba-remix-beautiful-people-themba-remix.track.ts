@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaBeautifulPeopleThembaRemixBeautifulPeopleThembaRemix = {
   id: "01a0a59c-17b5-7437-b770-10ca84239991",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-beautiful-people-themba-remix-beautiful-people-themba-remix",
   ownLength: 3.75,
   ownProgress: 0,

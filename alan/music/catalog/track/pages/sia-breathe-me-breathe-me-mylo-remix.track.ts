@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaBreatheMeBreatheMeMyloRemix = {
   id: "01a0a59c-40ee-7fd1-a65a-256619e18cd3",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-breathe-me-breathe-me-mylo-remix",
   ownLength: 6.434216666666667,
   ownProgress: 0,

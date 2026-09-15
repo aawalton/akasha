@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneMoon = {
   id: "01a0a59c-0fd3-7566-a483-be4528a5f7ae",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-moon",
   ownLength: 5.034883333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const sia1000FormsOfFearDeluxeVersionDressedInBlack = {
   id: "01a0a59c-0909-7389-be3f-e5dae4e4872f",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-1000-forms-of-fear-deluxe-version-dressed-in-black",
   ownLength: 6.670883333333333,
   ownProgress: 0,

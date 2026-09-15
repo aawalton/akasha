@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaCourageToChangeMichaelCalfanRemixCourageToChangeMichaelCalfanRemix = {
   id: "01a0a59c-27b1-7502-aa5b-65151e65b2ea",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-courage-to-change-michael-calfan-remix-courage-to-change-michael-calfan-remix",
   ownLength: 2.6101666666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneRewrite = {
   id: "01a0a59c-0ef7-7123-89ac-c003233b6953",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-rewrite",
   ownLength: 4.76555,
   ownProgress: 0,

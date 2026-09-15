@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const pentatonixCreepCreep = {
   id: "01a0a588-292b-7d27-a3dd-678edb504e47",
-  type: "track",
+  type: "page-type/track",
   slug: "pentatonix-creep-creep",
   ownLength: 2.45,
   ownProgress: 0,

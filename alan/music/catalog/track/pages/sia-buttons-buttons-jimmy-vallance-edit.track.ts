@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaButtonsButtonsJimmyVallanceEdit = {
   id: "01a0a59c-3db6-74fd-8f74-dc89c5c01010",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-buttons-buttons-jimmy-vallance-edit",
   ownLength: 2.9393333333333334,
   ownProgress: 0,

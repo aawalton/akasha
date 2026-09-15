@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaCheapThrillsRemixesCheapThrillsJohnJCCarrRemix = {
   id: "01a0a59c-37de-7cd7-a606-5eebb51b5d43",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-cheap-thrills-remixes-cheap-thrills-john-j-c-carr-remix",
   ownLength: 5.2671,
   ownProgress: 0,

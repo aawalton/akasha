@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const sia1000FormsOfFearDeluxeVersionElasticHeartPianoVersion = {
   id: "01a0a59c-093e-7663-a93b-71b26de110bf",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-1000-forms-of-fear-deluxe-version-elastic-heart-piano-version",
   ownLength: 4.1688833333333335,
   ownProgress: 0,

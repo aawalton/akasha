@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaAudioCidRemixAudioCidRemix = {
   id: "01a0a59c-325e-7fff-9d71-d0329e460802",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-audio-cid-remix-audio-cid-remix",
   ownLength: 2.69955,
   ownProgress: 0,

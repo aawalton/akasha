@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirling2ShatterMeDeluxeMirrorHaus = {
   id: "01a0a587-ba08-7da8-93c2-ccfc5a93276e",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-2-shatter-me-deluxe-mirror-haus",
   ownLength: 3.9269166666666666,
   ownProgress: 0,

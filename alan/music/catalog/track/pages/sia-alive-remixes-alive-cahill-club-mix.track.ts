@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaAliveRemixesAliveCahillClubMix = {
   id: "01a0a59c-3902-73bc-bf48-7e204f681b5b",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-alive-remixes-alive-cahill-club-mix",
   ownLength: 4.302666666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirling2ShatterMeDeluxeWeAreGiants = {
   id: "01a0a587-bb1e-7803-b86b-1c395f7cf86a",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-2-shatter-me-deluxe-we-are-giants",
   ownLength: 3.73295,
   ownProgress: 0,

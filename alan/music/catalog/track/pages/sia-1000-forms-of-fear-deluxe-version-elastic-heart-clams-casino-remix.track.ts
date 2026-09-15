@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const sia1000FormsOfFearDeluxeVersionElasticHeartClamsCasinoRemix = {
   id: "01a0a59c-0989-7cd2-8e97-e23d30a1c572",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-1000-forms-of-fear-deluxe-version-elastic-heart-clams-casino-remix",
   ownLength: 5.3177666666666665,
   ownProgress: 0,

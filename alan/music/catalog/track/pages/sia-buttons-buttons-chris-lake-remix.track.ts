@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaButtonsButtonsChrisLakeRemix = {
   id: "01a0a59c-3dfc-781c-8987-3345670766be",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-buttons-buttons-chris-lake-remix",
   ownLength: 6.631333333333333,
   ownProgress: 0,

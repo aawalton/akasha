@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneDeluxeEditionNumbTomMiddletonCosmosMix = {
   id: "01a0a59c-12f5-7e83-b5e8-e1372fa63c21",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-deluxe-edition-numb-tom-middleton-cosmos-mix",
   ownLength: 8.271766666666666,
   ownProgress: 0,

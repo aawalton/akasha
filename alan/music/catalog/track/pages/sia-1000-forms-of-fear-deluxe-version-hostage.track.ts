@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const sia1000FormsOfFearDeluxeVersionHostage = {
   id: "01a0a59c-0833-75bf-8f01-8fcd583161ae",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-1000-forms-of-fear-deluxe-version-hostage",
   ownLength: 2.933333333333333,
   ownProgress: 0,

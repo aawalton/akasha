@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirling2OnTheRoadAgainOnTheRoadAgain = {
   id: "01a0a587-c488-7c30-b4aa-204af55a103a",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-2-on-the-road-again-on-the-road-again",
   ownLength: 2.693233333333333,
   ownProgress: 0,

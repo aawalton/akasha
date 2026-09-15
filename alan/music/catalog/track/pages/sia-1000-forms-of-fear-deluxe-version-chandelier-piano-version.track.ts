@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const sia1000FormsOfFearDeluxeVersionChandelierPianoVersion = {
   id: "01a0a59c-0923-721d-8ee8-8c52fda3471e",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-1000-forms-of-fear-deluxe-version-chandelier-piano-version",
   ownLength: 4.028216666666666,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneDeluxeEditionWhereIBelongHotChipRemix = {
   id: "01a0a59c-12d6-76ef-9275-5ebf30c3ed79",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-deluxe-edition-where-i-belong-hot-chip-remix",
   ownLength: 5.058883333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const sia1000FormsOfFearDeluxeVersionFireMeetGasoline = {
   id: "01a0a59c-08cc-74ed-9a07-879772d73cfd",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-1000-forms-of-fear-deluxe-version-fire-meet-gasoline",
   ownLength: 4.024883333333333,
   ownProgress: 0,

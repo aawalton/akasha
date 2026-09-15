@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaDiamondEyesFeatSiaDiamondEyesFeatSia = {
   id: "01a0a59c-2b7d-7473-a308-aa8b5c37a574",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-diamond-eyes-feat-sia-diamond-eyes-feat-sia",
   ownLength: 3.72525,
   ownProgress: 0,

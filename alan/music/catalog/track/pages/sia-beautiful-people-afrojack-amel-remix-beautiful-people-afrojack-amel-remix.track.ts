@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaBeautifulPeopleAfrojackAmelRemixBeautifulPeopleAfrojackAmelRemix = {
   id: "01a0a59c-18c1-7bd9-8a74-4ee94ffa9af9",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-beautiful-people-afrojack-amel-remix-beautiful-people-afrojack-amel-remix",
   ownLength: 3.4615,
   ownProgress: 0,

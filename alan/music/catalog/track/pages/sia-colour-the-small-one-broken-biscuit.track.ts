@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneBrokenBiscuit = {
   id: "01a0a59c-1048-74b7-ad57-cbbbb7375191",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-broken-biscuit",
   ownLength: 4.916,
   ownProgress: 0,

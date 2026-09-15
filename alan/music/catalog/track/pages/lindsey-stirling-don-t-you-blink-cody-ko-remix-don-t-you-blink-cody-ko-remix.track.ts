@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirlingDonTYouBlinkCodyKoRemixDonTYouBlinkCodyKoRemix = {
   id: "01a0a587-c2d9-75c3-8b7b-8cd21a43e3fe",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-don-t-you-blink-cody-ko-remix-don-t-you-blink-cody-ko-remix",
   ownLength: 2.9130333333333334,
   ownProgress: 0,

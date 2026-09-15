@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const sia1000FormsOfFearDeluxeVersionChandelierPlasticPlatesRemix = {
   id: "01a0a59c-0971-7d06-8155-39c5e56866f7",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-1000-forms-of-fear-deluxe-version-chandelier-plastic-plates-remix",
   ownLength: 4.389766666666667,
   ownProgress: 0,

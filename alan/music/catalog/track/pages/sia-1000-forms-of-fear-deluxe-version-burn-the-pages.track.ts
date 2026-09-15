@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const sia1000FormsOfFearDeluxeVersionBurnThePages = {
   id: "01a0a59c-07f5-7204-b757-57647a4b41aa",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-1000-forms-of-fear-deluxe-version-burn-the-pages",
   ownLength: 3.2524333333333333,
   ownProgress: 0,

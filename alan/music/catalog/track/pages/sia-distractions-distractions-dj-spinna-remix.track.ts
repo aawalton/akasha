@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaDistractionsDistractionsDjSpinnaRemix = {
   id: "01a0a59c-4159-71f6-9485-bac32363ceee",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-distractions-distractions-dj-spinna-remix",
   ownLength: 4.218883333333333,
   ownProgress: 0,

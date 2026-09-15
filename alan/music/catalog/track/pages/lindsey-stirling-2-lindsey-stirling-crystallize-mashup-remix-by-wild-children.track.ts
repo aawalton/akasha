@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirling2LindseyStirlingCrystallizeMashupRemixByWildChildren = {
   id: "01a0a587-c204-729d-b9c3-2ab9aca91ae3",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-2-lindsey-stirling-crystallize-mashup-remix-by-wild-children",
   ownLength: 4.789916666666667,
   ownProgress: 0,

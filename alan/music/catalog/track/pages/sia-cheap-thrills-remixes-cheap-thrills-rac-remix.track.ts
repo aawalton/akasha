@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaCheapThrillsRemixesCheapThrillsRacRemix = {
   id: "01a0a59c-376c-786a-abef-cb98c335e9c0",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-cheap-thrills-remixes-cheap-thrills-rac-remix",
   ownLength: 4.156666666666666,
   ownProgress: 0,

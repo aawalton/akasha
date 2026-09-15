@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaButtonsCssFilterheadzRemixesButtonsCssRemix = {
   id: "01a0a59c-3e8e-7021-95db-fc309a5dcb54",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-buttons-css-filterheadz-remixes-buttons-css-remix",
   ownLength: 3.4386666666666668,
   ownProgress: 0,

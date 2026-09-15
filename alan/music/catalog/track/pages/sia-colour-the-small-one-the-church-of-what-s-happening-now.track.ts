@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneTheChurchOfWhatSHappeningNow = {
   id: "01a0a59c-0ff0-791f-91b0-10313267397f",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-the-church-of-what-s-happening-now",
   ownLength: 4.45555,
   ownProgress: 0,

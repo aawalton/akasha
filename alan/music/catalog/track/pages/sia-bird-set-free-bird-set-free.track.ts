@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaBirdSetFreeBirdSetFree = {
   id: "01a0a59c-3943-7d01-ba38-f09736c00063",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-bird-set-free-bird-set-free",
   ownLength: 4.21355,
   ownProgress: 0,

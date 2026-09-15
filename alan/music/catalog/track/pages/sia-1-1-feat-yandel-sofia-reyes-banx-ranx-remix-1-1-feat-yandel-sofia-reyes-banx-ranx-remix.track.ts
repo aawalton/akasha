@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const sia11FeatYandelSofiaReyesBanxRanxRemix11FeatYandelSofiaReyesBanxRanxRemix = {
   id: "01a0a59c-292c-7759-a917-d87e3f162157",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-1-1-feat-yandel-sofia-reyes-banx-ranx-remix-1-1-feat-yandel-sofia-reyes-banx-ranx-remix",
   ownLength: 3.411783333333333,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColdFeatSiaColdFeatSia = {
   id: "01a0a59c-2e96-7ab5-839c-23603d3ac627",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-cold-feat-sia-cold-feat-sia",
   ownLength: 3.327383333333333,
   ownProgress: 0,

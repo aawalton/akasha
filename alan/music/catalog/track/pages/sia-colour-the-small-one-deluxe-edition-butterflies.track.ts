@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneDeluxeEditionButterflies = {
   id: "01a0a59c-11bd-79d7-94b4-c456e2f2f28a",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-deluxe-edition-butterflies",
   ownLength: 3.3826666666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirling2LindseyStirlingShadows = {
   id: "01a0a587-c163-7fb5-abdb-328d87c7bd9e",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-2-lindsey-stirling-shadows",
   ownLength: 3.7243,
   ownProgress: 0,

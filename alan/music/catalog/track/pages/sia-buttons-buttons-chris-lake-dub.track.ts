@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaButtonsButtonsChrisLakeDub = {
   id: "01a0a59c-3e21-7d68-a2b0-3d302b35bd34",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-buttons-buttons-chris-lake-dub",
   ownLength: 6.6371,
   ownProgress: 0,

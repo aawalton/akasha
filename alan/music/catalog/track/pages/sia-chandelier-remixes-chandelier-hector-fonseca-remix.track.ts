@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaChandelierRemixesChandelierHectorFonsecaRemix = {
   id: "01a0a59c-3c0f-7ef9-8635-c819dc0f7f1b",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-chandelier-remixes-chandelier-hector-fonseca-remix",
   ownLength: 6.44555,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaDanceAloneKitoRemixDanceAloneKitoRemix = {
   id: "01a0a59c-22a1-71f5-8d67-32368bcfee94",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-dance-alone-kito-remix-dance-alone-kito-remix",
   ownLength: 3.1645166666666666,
   ownProgress: 0,

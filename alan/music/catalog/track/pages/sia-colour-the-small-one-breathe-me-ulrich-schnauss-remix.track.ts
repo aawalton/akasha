@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneBreatheMeUlrichSchnaussRemix = {
   id: "01a0a59c-10aa-76a2-8e9b-502fbdc7d602",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-breathe-me-ulrich-schnauss-remix",
   ownLength: 4.887766666666667,
   ownProgress: 0,

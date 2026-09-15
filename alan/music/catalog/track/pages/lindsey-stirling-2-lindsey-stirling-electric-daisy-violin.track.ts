@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirling2LindseyStirlingElectricDaisyViolin = {
   id: "01a0a587-c074-76fe-8c43-bf86922fc21f",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-2-lindsey-stirling-electric-daisy-violin",
   ownLength: 3.2521833333333334,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaAliveRemixesAliveAfsheenRemix = {
   id: "01a0a59c-38c1-7614-adcd-46c3fa695ab3",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-alive-remixes-alive-afsheen-remix",
   ownLength: 3.272666666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneSweetPotato = {
   id: "01a0a59c-0f64-7800-abdc-0c3f20413fae",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-sweet-potato",
   ownLength: 4.00955,
   ownProgress: 0,

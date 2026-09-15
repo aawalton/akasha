@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaButtonsButtonsMarkusSchulzColdharbourRemix = {
   id: "01a0a59c-3e45-7bdf-86cc-f299f18b9ecd",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-buttons-buttons-markus-schulz-coldharbour-remix",
   ownLength: 6.9268833333333335,
   ownProgress: 0,

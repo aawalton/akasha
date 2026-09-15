@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const lindseyStirlingKingOfCoinsKingOfCoins = {
   id: "01a0a587-c250-73e3-baac-de8ded4c9a5d",
-  type: "track",
+  type: "page-type/track",
   slug: "lindsey-stirling-king-of-coins-king-of-coins",
   ownLength: 3.9166666666666665,
   ownProgress: 0,

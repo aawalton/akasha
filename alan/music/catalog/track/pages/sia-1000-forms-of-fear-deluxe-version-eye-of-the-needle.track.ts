@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const sia1000FormsOfFearDeluxeVersionEyeOfTheNeedle = {
   id: "01a0a59c-0813-7bb3-8d1e-536bfe5e1ca5",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-1000-forms-of-fear-deluxe-version-eye-of-the-needle",
   ownLength: 4.145766666666667,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneDeluxeEditionBreatheMeMrDanRemix = {
   id: "01a0a59c-1315-799c-b0ba-cf5e167e5ccd",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-deluxe-edition-breathe-me-mr-dan-remix",
   ownLength: 4.640666666666666,
   ownProgress: 0,

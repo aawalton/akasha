@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneDeluxeEditionNataleSSong = {
   id: "01a0a59c-119f-75b6-a942-ea4411dd93c7",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-deluxe-edition-natale-s-song",
   ownLength: 2.464,
   ownProgress: 0,

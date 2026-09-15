@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaDanceAloneRemixesDanceAloneSpedUp = {
   id: "01a0a59c-2280-7d0e-9786-f88a30d2c7b1",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-dance-alone-remixes-dance-alone-sped-up",
   ownLength: 2.488,
   ownProgress: 0,

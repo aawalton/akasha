@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneWhereIBelong = {
   id: "01a0a59c-1028-7d52-a87d-b0497d6eb8ae",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-where-i-belong",
   ownLength: 4.748883333333334,
   ownProgress: 0,

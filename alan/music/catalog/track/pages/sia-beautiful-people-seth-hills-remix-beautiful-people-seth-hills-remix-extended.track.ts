@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaBeautifulPeopleSethHillsRemixBeautifulPeopleSethHillsRemixExtended = {
   id: "01a0a59c-1b4a-7b6f-9669-2e2d9065682f",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-beautiful-people-seth-hills-remix-beautiful-people-seth-hills-remix-extended",
   ownLength: 5.0703,
   ownProgress: 0,

@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaColourTheSmallOneDeluxeEditionSunday = {
   id: "01a0a59c-1100-72c8-a087-dc6103a05b56",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-colour-the-small-one-deluxe-edition-sunday",
   ownLength: 4.234883333333333,
   ownProgress: 0,

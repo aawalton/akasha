@@ -2,7 +2,7 @@ import type { Track } from "akasha/alan/music/catalog/track/track.page-type.type
 
 export const siaBigGirlsCryRemixesBigGirlsCryOdeszaRemix = {
   id: "01a0a59c-3985-74fd-88c7-b0e843b0e950",
-  type: "track",
+  type: "page-type/track",
   slug: "sia-big-girls-cry-remixes-big-girls-cry-odesza-remix",
   ownLength: 4.362666666666667,
   ownProgress: 0,
