@@ -1,14 +1,15 @@
 import { synthMulti } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { synthNamespaceCronjob } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { podJanitor } from "akasha/infrastructure/service/cluster/pages/pod-janitor/pod-janitor.service-cluster.ts"
 
-const NAMESPACE = "pod-janitor"
-const APP_NAME = "pod-janitor"
+const NAMESPACE = podJanitor.namespace
+const APP_NAME = podJanitor.resourceName
 const INSTANCE_NAME = "infra"
 const COMPONENT = "gc"
 const PART_OF = "infra"
 const MANAGED_BY = "deploy-script"
 
-const JANITOR_IMAGE = "registry.registry.svc.cluster.local:5000/cluster/ci:latest"
+const JANITOR_IMAGE = podJanitor.image
 
 const DEFAULT_MIN_AGE_SECONDS = "3600"
 
@@ -61,7 +62,7 @@ function cronjobYaml(): string {
         apiVersion: "v1",
         kind: "ServiceAccount",
         metadata: {
-          name: "pod-janitor",
+          name: podJanitor.resourceName,
           namespace: NAMESPACE,
           labels: RESOURCE_LABELS,
         },
@@ -73,7 +74,7 @@ function cronjobYaml(): string {
         apiVersion: "rbac.authorization.k8s.io/v1",
         kind: "ClusterRole",
         metadata: {
-          name: "pod-janitor",
+          name: podJanitor.resourceName,
           labels: RESOURCE_LABELS,
         },
         rules: [{ apiGroups: [""], resources: ["pods"], verbs: ["get", "list", "delete"] }],
@@ -85,18 +86,18 @@ function cronjobYaml(): string {
         apiVersion: "rbac.authorization.k8s.io/v1",
         kind: "ClusterRoleBinding",
         metadata: {
-          name: "pod-janitor",
+          name: podJanitor.resourceName,
           labels: RESOURCE_LABELS,
         },
         roleRef: {
           apiGroup: "rbac.authorization.k8s.io",
           kind: "ClusterRole",
-          name: "pod-janitor",
+          name: podJanitor.resourceName,
         },
         subjects: [
           {
             kind: "ServiceAccount",
-            name: "pod-janitor",
+            name: podJanitor.resourceName,
             namespace: NAMESPACE,
           },
         ],
@@ -108,7 +109,7 @@ function cronjobYaml(): string {
         apiVersion: "batch/v1",
         kind: "CronJob",
         metadata: {
-          name: "pod-janitor",
+          name: podJanitor.resourceName,
           namespace: NAMESPACE,
           labels: RESOURCE_LABELS,
         },
@@ -124,7 +125,7 @@ function cronjobYaml(): string {
               template: {
                 metadata: { labels: POD_LABELS },
                 spec: {
-                  serviceAccountName: "pod-janitor",
+                  serviceAccountName: podJanitor.resourceName,
                   restartPolicy: "Never",
                   securityContext: {
                     seccompProfile: { type: "RuntimeDefault" },
