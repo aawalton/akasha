@@ -33,10 +33,6 @@ export const pageClaiming = {
       statement: "The world is read rather than the disk.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "An index that will not answer throws rather than answering a short list.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here decides whether a page may be acted on.",
     },
