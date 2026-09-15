@@ -1,0 +1,26 @@
+import type { Track } from "akasha/alan/music/catalog/track/track.page-type.types.ts"
+
+export const sylviaDaleyRubikSCubeNoiseCancellingHeadphones = {
+  id: "01a0a6c3-6f80-7b97-89bc-7562c2f8537e",
+  type: "page-type/track",
+  slug: "sylvia-daley-rubik-s-cube-noise-cancelling-headphones",
+  ownLength: 2.9577,
+  ownProgress: 0,
+  partOfCollections: ["release/sylvia-daley-rubik-s-cube"],
+  position: 2,
+  status: "not-started",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7HNTjdPI8rPPnJMllHZmoR",
+      externalLink: "https://open.spotify.com/track/7HNTjdPI8rPPnJMllHZmoR",
+      lastSyncedAt: "2026-09-15",
+    },
+  ],
+  title: "Noise Cancelling Headphones",
+  discNumber: 1,
+  explicit: false,
+  trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
+  trackKey: "noisecancellingheadphones|03dXd2zBbBJvX60Oap8Lgo|177462",
+} as const satisfies Track
