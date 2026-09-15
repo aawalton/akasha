@@ -81,6 +81,7 @@ test("the second page climbing into one ring is refused from what the first sett
   const root = rooted()
   filing(root, "domain", "one", ONE)
   filing(root, "domain", "two", TWO)
+  filing(root, "domain", "up", UP)
   edging(root, ONE, "part-slugs", UP, pathFor("domain", "up"))
   edging(root, TWO, "part-slugs", UP, pathFor("domain", "up"))
   edging(root, UP, "part-slugs", UP, pathFor("domain", "up"))
