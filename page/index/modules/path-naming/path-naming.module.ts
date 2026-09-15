@@ -10,11 +10,11 @@ export const pathNaming = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Which files import a path that moves is answered by the index.",
+      statement: "Which files import a path that moves is read from beside that path's page.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "An index that will not answer leaves the importers unread.",
+      statement: "A reading that will not answer leaves the importers unread.",
     },
     {
       invariantKind: "invariant-kind/departure",

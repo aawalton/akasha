@@ -1,17 +1,14 @@
 import { basename } from "node:path"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
-import {
-  importersOf,
-  readingIn,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { uncommittedSpelled } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { importersOf } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 
 const UNDER = "/"
 
 export type Reading = { readonly importers: readonly string[] } | { readonly unread: string }
 
 function importedBy(given: string | Answering, from: string): readonly string[] {
-  return typeof given === "string" ? importersOf(from, readingIn(given)) : given.importersOf(from)
+  return typeof given === "string" ? importersOf(given, from) : given.importersOf(from)
 }
 
 export function importingOf(
