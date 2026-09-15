@@ -71,6 +71,7 @@ import {
   type Ended,
   ranInCluster,
 } from "akasha/infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"
+import { waitedForRoom } from "akasha/infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"
 import {
   appliedWorkload,
   servableNamed,
@@ -79,7 +80,6 @@ import { appliedFoundation } from "akasha/infrastructure/service/cluster-foundat
 import { putUpEvery } from "akasha/infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.code.ts"
 import { provingFor } from "akasha/infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import { waitedForRoom } from "akasha/util/system/modules/landing-admission/landing-admission.module.code.ts"
 
 const PUT_UP = "deploy"
 const TAKES = [deploySubject, noUpload, ref, measured, simulator, device]

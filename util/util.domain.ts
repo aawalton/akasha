@@ -13,7 +13,6 @@ export const util = {
     "domain/util-run",
     "domain/util-slug",
     "domain/util-sync",
-    "domain/util-system",
     "domain/util-text",
     "module/armed-timer",
     "module/during-call",

@@ -28,12 +28,12 @@ import {
   operationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { ruleText } from "akasha/alan/harness/rules-engine/modules/instructions-rule/instructions-rule.module.code.ts"
+import { enforceSpawnAdmission } from "akasha/infrastructure/kernel/modules/memory-guard/memory-guard.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { enforceSpawnAdmission } from "akasha/util/system/modules/memory-guard/memory-guard.module.code.ts"
 
 export interface StatedIdentity {
   readonly persona?: string

@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"infrastructure/git-transport/modules/transport-serving/transport-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"infrastructure/inference/generation/wan/modules/size/wan-size.module.code.ts"}
 {"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"infrastructure/inference/pool/modules/gui-session/gui-session.module.code.ts"}
+{"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"infrastructure/kernel/modules/memory-guard/memory-guard.module.code.ts"}
 {"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"infrastructure/storage/backup/retention/modules/barman-output/barman-output.module.code.ts"}
 {"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"infrastructure/storage/backup/retention/modules/copy-longtail/copy-longtail.module.code.ts"}
 {"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"infrastructure/storage/object-store/modules/s3-multipart/s3-multipart.module.code.ts"}
@@ -18,5 +19,4 @@
 {"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"page/ui/media/modules/serve-media/serve-media.module.code.ts"}
 {"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"temper/community-addon/modules/installed-addons/installed-addons.module.code.ts"}
 {"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"temper/watcher/modules/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"}
-{"propertySlug":"import","fileName":"require-match-positional.module.code.ts","path":"util/system/modules/memory-guard/memory-guard.module.code.ts"}
 {"propertySlug":"parts","path":"util/narrow/util-narrow.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

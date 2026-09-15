@@ -396,6 +396,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/voice-inference/voice-inference.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/infrastructure.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/job/job.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/kernel/infrastructure-kernel.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/loki-service/loki-service.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/machine/host/host.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/machine/machine.domain.ts"}
@@ -606,7 +607,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/run/util-run.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/slug/util-slug.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/sync/util-sync.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/system/util-system.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/text/util-text.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"util/util.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"verdict/verdict.domain.ts"}

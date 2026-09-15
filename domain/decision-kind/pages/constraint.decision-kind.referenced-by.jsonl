@@ -289,6 +289,10 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/zimage/modules/explore-worker/zimage-explore-worker.module.ts","id":"01a06815-9efd-702c-97c4-1d8fa5c36f48"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-inference.domain.ts","id":"01a06815-9efd-701e-a4d4-a26f49e97554"}
 {"propertySlug":"decision-kind","path":"infrastructure/infrastructure.domain.ts","id":"01a0658b-0f02-735b-af6a-28559398ee59"}
+{"propertySlug":"decision-kind","path":"infrastructure/kernel/infrastructure-kernel.domain.ts","id":"01a05c67-00ac-7c6f-a5c8-9391ef1427fe"}
+{"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/inode-guard/inode-guard.module.ts","id":"01a05c67-00ad-7fd7-8303-5ff4a8e492b2"}
+{"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.ts","id":"01a0a0af-184c-7bcb-bcd1-77847f24260e"}
+{"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/memory-guard/memory-guard.module.ts","id":"01a05c67-00ad-77fa-b6c0-e677644ff621"}
 {"propertySlug":"decision-kind","path":"infrastructure/memory/kind/pages/swap.memory-kind.ts","id":"01a09131-faa7-77ff-af26-eb9b9e2b59a6"}
 {"propertySlug":"decision-kind","path":"infrastructure/memory/memory.domain.ts","id":"01a09115-c783-7db5-b3bb-5b8349b6b51d"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/certificate/authority/certificate-authority.page-type.ts","id":"01a0685d-ab5d-7bd4-946d-fa56b367a1a2"}
@@ -1399,9 +1403,5 @@
 {"propertySlug":"decision-kind","path":"util/fs/modules/atomic-write/atomic-write.module.ts","id":"01a05c4c-9441-7a1c-a7fc-dc1ab3914181"}
 {"propertySlug":"decision-kind","path":"util/narrow/modules/delete-record-key/delete-record-key.module.ts","id":"01a06057-367a-7da6-aab7-c707ebb15466"}
 {"propertySlug":"decision-kind","path":"util/run/modules/running/running.module.ts","id":"01a05d20-8007-70bf-8ed6-29cc7dfb4687"}
-{"propertySlug":"decision-kind","path":"util/system/modules/inode-guard/inode-guard.module.ts","id":"01a05c67-00ad-7fd7-8303-5ff4a8e492b2"}
-{"propertySlug":"decision-kind","path":"util/system/modules/landing-admission/landing-admission.module.ts","id":"01a0a0af-184c-7bcb-bcd1-77847f24260e"}
-{"propertySlug":"decision-kind","path":"util/system/modules/memory-guard/memory-guard.module.ts","id":"01a05c67-00ad-77fa-b6c0-e677644ff621"}
-{"propertySlug":"decision-kind","path":"util/system/util-system.domain.ts","id":"01a05c67-00ac-7c6f-a5c8-9391ef1427fe"}
 {"propertySlug":"decision-kind","path":"util/text/modules/suggest-closest/suggest-closest.module.ts","id":"01a06287-7841-7b53-968b-a40343c7aebe"}
 {"propertySlug":"parts","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}

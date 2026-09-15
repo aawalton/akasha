@@ -14,7 +14,7 @@ import {
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { InheritedProc } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
 import { sweepSubagentPagesOf } from "akasha/agent/subagent/modules/page/subagent-page.module.code.ts"
-import { enforceMemoryGuard } from "akasha/util/system/modules/memory-guard/memory-guard.module.code.ts"
+import { enforceMemoryGuard } from "akasha/infrastructure/kernel/modules/memory-guard/memory-guard.module.code.ts"
 
 export type ProcScan = () => { ok: boolean; entries: readonly ProcLivenessEntry[] }
 

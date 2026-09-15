@@ -2507,6 +2507,9 @@
 {"propertySlug":"decision-kind","path":"infrastructure/job/job.domain.ts","id":"01a0675b-16eb-7759-adf7-dac753ca5b98"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.ts","id":"01a0a102-c51d-75a9-8995-8d088708ee8d"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/modules/deploy-job/deploy-job.module.ts","id":"01a0a0f6-5662-7252-90e8-ea20b000453f"}
+{"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/inode-guard/inode-guard.module.ts","id":"01a05c67-00ad-7fd7-8303-5ff4a8e492b2"}
+{"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.ts","id":"01a0a0af-184c-7bcb-bcd1-77847f24260e"}
+{"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/memory-guard/memory-guard.module.ts","id":"01a05c67-00ad-77fa-b6c0-e677644ff621"}
 {"propertySlug":"decision-kind","path":"infrastructure/loki-service/modules/loki-manifests/loki-manifests.module.ts","id":"01a06816-68b1-7345-a4a7-66ab2bbf829e"}
 {"propertySlug":"decision-kind","path":"infrastructure/loki-service/modules/promtail-manifests/promtail-manifests.module.ts","id":"01a06816-68b1-702f-9567-6866b7d0ae7a"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/computer/computer.page-type.ts","id":"01a0658c-329a-7d00-b3f3-8abf47bf46cf"}
@@ -5287,9 +5290,6 @@
 {"propertySlug":"decision-kind","path":"util/slug/modules/dash-each-capital/dash-each-capital.module.ts","id":"01a08e73-15cb-748d-bb35-86c2741dbde0"}
 {"propertySlug":"decision-kind","path":"util/slug/util-slug.domain.ts","id":"01a08e6f-55be-71c8-8946-b4047f5a9d4c"}
 {"propertySlug":"decision-kind","path":"util/sync/modules/page-type-props/page-type-props.module.ts","id":"01a05c6a-2bb4-735e-bfca-90ad75728a5e"}
-{"propertySlug":"decision-kind","path":"util/system/modules/inode-guard/inode-guard.module.ts","id":"01a05c67-00ad-7fd7-8303-5ff4a8e492b2"}
-{"propertySlug":"decision-kind","path":"util/system/modules/landing-admission/landing-admission.module.ts","id":"01a0a0af-184c-7bcb-bcd1-77847f24260e"}
-{"propertySlug":"decision-kind","path":"util/system/modules/memory-guard/memory-guard.module.ts","id":"01a05c67-00ad-77fa-b6c0-e677644ff621"}
 {"propertySlug":"decision-kind","path":"util/text/modules/counted/counted.module.ts","id":"01a08ccc-aca8-7215-b4dd-560d25d104b5"}
 {"propertySlug":"decision-kind","path":"util/text/modules/name-drawing/name-drawing.module.ts","id":"01a08206-a5c1-75c9-8635-b646938fd3ac"}
 {"propertySlug":"decision-kind","path":"util/text/modules/one-line/one-line.module.ts","id":"01a095bb-4f52-7988-950f-f29155dd9bb0"}

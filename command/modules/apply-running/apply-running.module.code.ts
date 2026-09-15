@@ -42,9 +42,9 @@ import {
 } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
+import { waitedForRoom } from "akasha/infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"
 import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { waitedForRoom } from "akasha/util/system/modules/landing-admission/landing-admission.module.code.ts"
 
 const RUNNER = "change-runner"
 

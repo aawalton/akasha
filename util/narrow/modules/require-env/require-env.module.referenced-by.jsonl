@@ -32,6 +32,7 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-resource-listing/orphan-resource-listing.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/registry-ca/registry-ca.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/network/auth-proxy/modules/config/auth-proxy-config.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/service/web-app/modules/change-branch-worktree/change-branch-worktree.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"}
@@ -41,5 +42,4 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"temper/addon-build/modules/addon-placing/addon-placing.module.test.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"temper/upstream-data/modules/libsets-data-port/libsets-data-port.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"util/process/modules/proc-reading/proc-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"util/system/modules/landing-admission/landing-admission.module.code.ts"}
 {"propertySlug":"parts","path":"util/narrow/util-narrow.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

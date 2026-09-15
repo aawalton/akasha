@@ -1,11 +1,11 @@
 import { mkdirSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
-import { requireEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 import {
   readMemInfoKb,
   resolveGbOverride,
-} from "akasha/util/system/modules/memory-guard/memory-guard.module.code.ts"
+} from "akasha/infrastructure/kernel/modules/memory-guard/memory-guard.module.code.ts"
+import { requireEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const AT = ".local/state/workstation-services/landing-admission"
 

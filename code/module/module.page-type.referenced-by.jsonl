@@ -1753,6 +1753,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/run/modules/store/inference-run-store.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/kernel/modules/inode-guard/inode-guard.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/kernel/modules/memory-guard/memory-guard.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/loki-service/modules/loki-configs/loki-configs.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/loki-service/modules/loki-constants/loki-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/loki-service/modules/loki-manifests/loki-manifests.module.ts"}
@@ -6662,9 +6665,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/slug/modules/slug-of/slug-of.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/sync/modules/page-type-props/page-type-props.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/sync/modules/today/today.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/system/modules/inode-guard/inode-guard.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/system/modules/landing-admission/landing-admission.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/system/modules/memory-guard/memory-guard.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/text/modules/capitalize/capitalize.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/text/modules/counted/counted.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"util/text/modules/name-drawing/name-drawing.module.ts"}
