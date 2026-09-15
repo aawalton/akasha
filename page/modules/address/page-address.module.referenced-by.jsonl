@@ -35,6 +35,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/warrant/initiative-ancestors/initiative-ancestors.context-warrant.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/inference/modules/inference-reading/inference-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/core/view-state/modules/reducers/reducers.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/index/modules/property-carrying/property-carrying.module.code.ts"}
