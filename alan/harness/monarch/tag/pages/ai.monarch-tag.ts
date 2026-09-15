@@ -2,7 +2,7 @@ import type { MonarchTag } from "akasha/alan/harness/monarch/tag/monarch-tag.pag
 
 export const ai = {
   id: "01a06559-5ea9-7009-a171-4bd864a9a667",
-  type: "monarch-tag",
+  type: "page-type/monarch-tag",
   slug: "ai",
   title: "AI",
   definition: "the tag marking a transaction as AI spending",

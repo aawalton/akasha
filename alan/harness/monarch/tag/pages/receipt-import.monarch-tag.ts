@@ -2,7 +2,7 @@ import type { MonarchTag } from "akasha/alan/harness/monarch/tag/monarch-tag.pag
 
 export const receiptImport = {
   id: "01a06559-5ea9-700a-8a3d-3d393687b258",
-  type: "monarch-tag",
+  type: "page-type/monarch-tag",
   slug: "receipt-import",
   title: "Receipt Import",
   definition: "the tag marking a transaction as Receipt Import",
