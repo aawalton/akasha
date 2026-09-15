@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, mock, spyOn, test } from "bun:test"
-import { fetchRingCountsFromMonarch } from "akasha/alan/harness/readout/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.reading.code.ts"
+import { fetchRingCountsFromMonarch } from "akasha/alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.reading.code.ts"
 
 const COOKIE = "sessionid=abc; csrftoken=tok-123; theme=dark"
 

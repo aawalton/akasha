@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"cost-multiplier.computed-property-module.code.ts","path":"alan/harness/readout/pages/cost-multiplier/cost-multiplier.readout.reading.code.ts"}
+{"propertySlug":"import","fileName":"cost-multiplier.computed-property-module.code.ts","path":"alan/harness/cost/readouts/multiplier/cost-multiplier.readout.reading.code.ts"}
 {"propertySlug":"import","fileName":"cost-multiplier.computed-property-module.code.ts","path":"alan/harness/readout/pages/upkeep-surplus/upkeep-surplus.readout.reading.code.ts"}
 {"propertySlug":"import","fileName":"cost-multiplier.computed-property-module.code.ts","path":"alan/track/daily/day/modules/cost-multiplier/cost-multiplier.computed-property-module.test.ts"}
 {"propertySlug":"import","fileName":"cost-multiplier.computed-property-module.code.ts","path":"alan/track/daily/day/properties/spend-hours.computed-property.code.ts"}

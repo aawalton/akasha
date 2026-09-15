@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   lowestIn,
   mailOn,
-} from "akasha/alan/harness/readout/pages/inboxes-email/inboxes-email.readout.reading.code.ts"
+} from "akasha/alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.reading.code.ts"
 
 const DAY = "2026-09-02"
 

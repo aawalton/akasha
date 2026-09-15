@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { tasksIn } from "akasha/alan/harness/readout/pages/inboxes-tasks/inboxes-tasks.readout.reading.code.ts"
+import { tasksIn } from "akasha/alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.reading.code.ts"
 
 test("a count stated as text is read as the number that count spells", () => {
   expect(tasksIn({ "inbox-tasks": "24" })).toBe(24)

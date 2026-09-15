@@ -1,11 +1,11 @@
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
-import { keepReading } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
-import { statedAt } from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
 import {
   lowestIn,
   mailOn,
-} from "akasha/alan/harness/readout/pages/inboxes-email/inboxes-email.readout.reading.code.ts"
-import { tasksIn } from "akasha/alan/harness/readout/pages/inboxes-tasks/inboxes-tasks.readout.reading.code.ts"
+} from "akasha/alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.reading.code.ts"
+import { tasksIn } from "akasha/alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.reading.code.ts"
+import { keepReading } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { statedAt } from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"

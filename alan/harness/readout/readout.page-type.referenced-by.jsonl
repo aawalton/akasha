@@ -4,11 +4,11 @@
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-intelligence/attribute-intelligence.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-strength/attribute-strength.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/attribute/readout/attribute-wisdom/attribute-wisdom.readout.ts"}
-{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/pages/cost-multiplier/cost-multiplier.readout.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/cost/readouts/multiplier/cost-multiplier.readout.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.ts"}
+{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/pages/five-hour-back/five-hour-back.readout.ts"}
-{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/pages/inboxes-email/inboxes-email.readout.ts"}
-{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/pages/inboxes-tasks/inboxes-tasks.readout.ts"}
-{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/pages/upkeep-capacity/upkeep-capacity.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/pages/upkeep-plants/upkeep-plants.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/pages/upkeep-safety/upkeep-safety.readout.ts"}

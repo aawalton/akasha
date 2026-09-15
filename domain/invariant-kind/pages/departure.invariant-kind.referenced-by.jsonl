@@ -620,6 +620,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/cost/modules/color/cost-color.module.ts","id":"01a08b96-95c4-7a57-9ee3-efab04e522fc"}
 {"propertySlug":"invariant-kind","path":"alan/harness/cost/modules/reading/cost-reading.module.ts","id":"01a08b9c-abbc-7be3-b86c-29165739234a"}
 {"propertySlug":"invariant-kind","path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.ts","id":"01a08baf-2d7b-7409-962f-a47157e07198"}
+{"propertySlug":"invariant-kind","path":"alan/harness/cost/readouts/multiplier/cost-multiplier.readout.ts","id":"01a08b9c-6412-7e0f-8a4e-fc4a180594e6"}
 {"propertySlug":"invariant-kind","path":"alan/harness/day-boundary/day-boundary.domain.ts","id":"01a05c77-31e4-7f97-8fe6-c273915285af"}
 {"propertySlug":"invariant-kind","path":"alan/harness/day-boundary/modules/day-string/day-string.module.ts","id":"01a05c77-31e6-7984-b078-7e97cacbeefb"}
 {"propertySlug":"invariant-kind","path":"alan/harness/day-boundary/modules/eso-day/eso-day.module.ts","id":"01a05c77-31e6-7a9f-9805-d1c81725dd03"}
@@ -714,6 +715,8 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/inbox/modules/keys/inbox-keys.module.ts","id":"01a069b6-bb6b-72d1-9b42-d54723ee2e36"}
 {"propertySlug":"invariant-kind","path":"alan/harness/inbox/modules/reading/inbox-reading.module.ts","id":"01a069bf-3919-77bc-a8a7-66b02d4185bf"}
 {"propertySlug":"invariant-kind","path":"alan/harness/inbox/modules/tracking-polling/inbox-tracking-polling.module.ts","id":"01a0686a-7a57-72a3-bd0e-04ddd401bb78"}
+{"propertySlug":"invariant-kind","path":"alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.ts","id":"01a06230-b155-7d69-9e39-eb26b5607d9e"}
+{"propertySlug":"invariant-kind","path":"alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.ts","id":"01a06230-b156-7d81-a78b-ca66f6f5da77"}
 {"propertySlug":"invariant-kind","path":"alan/harness/location-trace-access/modules/trace-insert/trace-insert.module.ts","id":"01a05bc7-9129-700d-9b3a-ba23544a6e88"}
 {"propertySlug":"invariant-kind","path":"alan/harness/location-trace-access/modules/trace-shape/trace-shape.module.ts","id":"01a05bc7-9129-700b-ba7b-804847cebb2b"}
 {"propertySlug":"invariant-kind","path":"alan/harness/mobile-cli/mobile-cli.domain.ts","id":"01a05cee-e560-7302-ad38-fd2e2a149eed"}
@@ -842,6 +845,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/monarch/month/properties/transaction-day.calendar-date-property.ts","id":"01a0680b-2b00-7001-8c63-5f1a9d4b2102"}
 {"propertySlug":"invariant-kind","path":"alan/harness/monarch/month/properties/transaction-note.text-property.ts","id":"01a0680b-2b00-7007-9e41-3f7b6c5a2108"}
 {"propertySlug":"invariant-kind","path":"alan/harness/monarch/month/properties/transactions.page-property-entry.ts","id":"01a0680b-2b00-7011-9f83-5c2a6e4b2112"}
+{"propertySlug":"invariant-kind","path":"alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.ts","id":"01a053aa-fc5a-7708-b1fb-780b2ca58893"}
 {"propertySlug":"invariant-kind","path":"alan/harness/monarch/record/monarch-record.page-type.ts","id":"01a0680a-1a00-7001-b8f4-2c9e5a7b1102"}
 {"propertySlug":"invariant-kind","path":"alan/harness/monarch/record/properties/monarch-id.text-property.ts","id":"01a0680a-1a00-7000-9d21-4f0b6a3d1101"}
 {"propertySlug":"invariant-kind","path":"alan/harness/monarch/tag/monarch-tag.page-type.ts","id":"01a0680a-1a00-700f-a758-9b2c6e3f110f"}
@@ -877,11 +881,7 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/watching/readout-watching.module.ts","id":"01a08c0f-6f8d-71b1-8b17-155ca606cb6a"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.ts","id":"01a078a8-b96f-765d-99ff-5703d9b2edd3"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/modules/widget-tap-link/widget-tap-link.module.ts","id":"01a078a5-b8d4-7914-bdf7-41f482a36806"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/cost-multiplier/cost-multiplier.readout.ts","id":"01a08b9c-6412-7e0f-8a4e-fc4a180594e6"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/five-hour-back/five-hour-back.readout.ts","id":"01a063bd-a526-7d2a-b1f5-8375b86d19ff"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/inboxes-email/inboxes-email.readout.ts","id":"01a06230-b155-7d69-9e39-eb26b5607d9e"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/inboxes-tasks/inboxes-tasks.readout.ts","id":"01a06230-b156-7d81-a78b-ca66f6f5da77"}
-{"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts","id":"01a053aa-fc5a-7708-b1fb-780b2ca58893"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/upkeep-capacity/upkeep-capacity.readout.ts","id":"01a06230-614a-7c46-9fba-3be28e181ca4"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/upkeep-plants/upkeep-plants.readout.ts","id":"01a06221-d65f-79f1-86c6-ac9568df5717"}
 {"propertySlug":"invariant-kind","path":"alan/harness/readout/pages/upkeep-safety/upkeep-safety.readout.ts","id":"01a05f42-92f5-7004-9179-75f0f75b02e9"}

@@ -8,11 +8,11 @@
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/inbox/modules/count-writing/inbox-count-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/inbox/modules/reading/inbox-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.reading.code.ts"}
+{"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.reading.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/readout/modules/scale-reading/readout-scale-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/readout/modules/tier/readout-tier.module.test.ts"}
-{"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/readout/pages/inboxes-email/inboxes-email.readout.reading.code.ts"}
-{"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/readout/pages/inboxes-tasks/inboxes-tasks.readout.reading.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/readout/pages/upkeep-capacity/upkeep-capacity.readout.reading.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/readout/pages/upkeep-plants/upkeep-plants.readout.reading.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/readout/pages/upkeep-safety/upkeep-safety.readout.reading.code.ts"}
