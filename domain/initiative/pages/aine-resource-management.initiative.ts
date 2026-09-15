@@ -156,6 +156,11 @@ export const aineResourceManagement = {
       workingMemory:
         "The reaper takes whichever subtree is largest at the instant it looks, so a browser, a game and a build all weigh the same, and the largest is often the one doing the most valuable work. Kubernetes settles this in advance by class. Overcommit only works where the rare collision resolves the way Alan would choose, so the order belongs settled while nothing is burning.\n",
     },
+    {
+      statement: "Every page has its values in a file beside it, written as that page lands.",
+      workingMemory:
+        "Reading a page's properties costs 62.1us today — read the .ts, transpile, evaluate — against 4.4us from a jsonl beside it. Fifteen checks read page values, and at audit each loads 70,230 pages. Alan settled: committed, generated, one line to a property as `schema` and `referenced-by` are, written by settling as the page lands, and nothing refuses drift.",
+    },
   ],
   constraints: [
     "Adding a mechanism requires Alan's approval.",
