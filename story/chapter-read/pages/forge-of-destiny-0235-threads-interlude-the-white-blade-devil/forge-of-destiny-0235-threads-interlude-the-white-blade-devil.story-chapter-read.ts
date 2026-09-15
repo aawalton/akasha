@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0235ThreadsInterludeTheWhiteBladeDevil = {
   id: "01a06591-3dfb-7c59-8615-152e2d66cc76",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0235-threads-interlude-the-white-blade-devil",
   title: "Threads Interlude: The White Blade Devil",
   story: "story-read/forge-of-destiny",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0332InterludeWintersEndTourPart2 = {
   id: "01a06591-3e04-7d37-ad2c-2e0405d4a027",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0332-interlude-winters-end-tour-part-2",
   title: "Interlude: Winter's End Tour Part 2",
   story: "story-read/forge-of-destiny",

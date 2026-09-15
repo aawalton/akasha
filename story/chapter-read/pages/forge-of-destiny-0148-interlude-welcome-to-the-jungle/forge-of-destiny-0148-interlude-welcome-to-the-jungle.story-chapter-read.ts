@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0148InterludeWelcomeToTheJungle = {
   id: "01a0672c-eb34-7007-bb21-f90e104cb798",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0148-interlude-welcome-to-the-jungle",
   title: "Interlude: Welcome to the Jungle",
   story: "story-read/forge-of-destiny",

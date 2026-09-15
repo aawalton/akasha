@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0149InterludeImperturbableStars = {
   id: "01a0672c-eb35-7000-a245-b150ed99253f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0149-interlude-imperturbable-stars",
   title: "Interlude:  Imperturbable Stars",
   story: "story-read/forge-of-destiny",

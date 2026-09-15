@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0261InterludeTruth = {
   id: "01a06591-3dfd-762a-a7d0-547e739a6de3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0261-interlude-truth",
   title: "Interlude: Truth",
   story: "story-read/forge-of-destiny",
