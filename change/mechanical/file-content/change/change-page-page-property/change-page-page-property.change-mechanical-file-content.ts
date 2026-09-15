@@ -17,11 +17,6 @@ export const changePagePageProperty = {
       statement: "The passage answered is the lines the key's value sits on rather than the body.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "The id and the slug the page states after the change are judged by the guard this change names.",
-    },
-    {
       "invariantKind": "invariant-kind/departure",
       "statement": "A newline ending the value asked for is dropped.",
     },

@@ -170,7 +170,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A world says here how an answer over that world is cast for a guard to judge.",
+      statement: "A world says here how an answer over that world is cast.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -349,10 +349,6 @@ export const changeShadow = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "A reach withholding a body works on a ledger.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A test of withholding built on `worldAt` proves nothing of the guards.",
     },
   ],
 } as const satisfies Module

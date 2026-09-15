@@ -20,16 +20,6 @@ export const changeFileContentPage = {
       statement: "The imports the body names after the change are judged by the change reached.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "The pages the body names after the change are judged by a guard this change names.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "The id and the slug the body states after the change are judged by a guard this change names.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges the path a passage is worked at.",
     },
