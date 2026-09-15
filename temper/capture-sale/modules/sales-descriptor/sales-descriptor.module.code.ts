@@ -1,5 +1,5 @@
 import type { CaptureDescriptor } from "akasha/temper/capture-descriptor/modules/descriptor/descriptor.module.code.ts"
-import type { SalesPayload } from "akasha/temper/capture-sales/modules/sales-payload/sales-payload.module.code.ts"
+import type { SalesPayload } from "akasha/temper/capture-sale/modules/sales-payload/sales-payload.module.code.ts"
 
 const DEFAULTS: SalesPayload = { version: 1, sales: {} }
 

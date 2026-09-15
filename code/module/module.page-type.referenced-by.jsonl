@@ -2712,11 +2712,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-error/modules/errors-payload/errors-payload.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-host/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-perf/modules/perf-trace/perf-trace.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-sale/modules/sales-descriptor/sales-descriptor.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-sale/modules/sales-payload/sales-payload.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-sales-addon/modules/sales-addon-entry/sales-addon-entry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-sales-addon/modules/sales-addon-name/sales-addon-name.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-sales-addon/modules/sales-capture/sales-capture.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-sales/modules/sales-descriptor/sales-descriptor.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-sales/modules/sales-payload/sales-payload.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-shapes/modules/achievement-catalog/achievement-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-shapes/modules/antiquity-lore-catalog/antiquity-lore-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture-shapes/modules/cadwell-catalog/cadwell-catalog.module.ts"}

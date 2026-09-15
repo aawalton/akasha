@@ -25,7 +25,7 @@ export const temper = {
     "domain/temper-capture-error",
     "domain/temper-capture-host",
     "domain/temper-capture-perf",
-    "domain/temper-capture-sales",
+    "domain/temper-capture-sale",
     "domain/temper-capture-shapes",
     "domain/temper-capture-writer",
     "domain/temper-catalog",
