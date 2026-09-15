@@ -2,7 +2,7 @@ import type { Recipe } from "akasha/alan/collection/recipe/recipe.page-type.type
 
 export const flourlessWalnutDateCookiesDetoxinista = {
   id: "01a06808-d4f7-7001-b3e4-e46413888d23",
-  type: "recipe",
+  type: "page-type/recipe",
   slug: "flourless-walnut-date-cookies-detoxinista",
   title: "Flourless Walnut‑Date Cookies — Detoxinista",
   partOfCollections: ["recipe-collection/cookies"],
