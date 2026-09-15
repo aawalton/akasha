@@ -9,10 +9,7 @@ import {
   persistTokenResponse,
   scopesFromResponse,
 } from "akasha/alan/music/spotify/modules/auth/spotify-auth.module.code.ts"
-import {
-  fetchingIs,
-  fetchingIsOverHttp,
-} from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
+import type { Fetching } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import {
   readToken,
   type SpotifyToken,
@@ -34,13 +31,13 @@ afterAll(() => {
   rmSync(ROOT, { recursive: true, force: true })
 })
 
-function answeringWith(body: unknown): undefined {
-  fetchingIs(async () => {
+function answeringWith(body: unknown): Fetching {
+  return async () => {
     return new Response(JSON.stringify(body), {
       status: 200,
       headers: { "Content-Type": "application/json" },
     })
-  })
+  }
 }
 
 beforeEach(() => {
@@ -52,7 +49,6 @@ beforeEach(() => {
 })
 
 afterEach(() => {
-  fetchingIsOverHttp()
   delete process.env.SPOTIFY_TOKEN_FILE
   delete process.env.SPOTIFY_CLIENT_ID
   delete process.env.SPOTIFY_CLIENT_SECRET
@@ -123,32 +119,33 @@ test("an expiry is written as an instant that far ahead", () => {
 
 test("a refresh writes the new access token into the store", async () => {
   writeToken(STORED)
-  answeringWith({
-    access_token: "a-refreshed-access-token",
-    token_type: "Bearer",
-    expires_in: 3600,
-  })
-  const token = await forceRefresh()
+  const token = await forceRefresh(
+    answeringWith({
+      access_token: "a-refreshed-access-token",
+      token_type: "Bearer",
+      expires_in: 3600,
+    })
+  )
   expect(token.accessToken).toBe("a-refreshed-access-token")
   expect(readToken()?.accessToken).toBe("a-refreshed-access-token")
 })
 
 test("a good stored token is given back without any call", async () => {
   writeToken(STORED)
-  fetchingIs(async () => {
+  const refusing: Fetching = async () => {
     throw new Error("no call is made for a token that is still good")
-  })
-  expect(await getOAuthAccessToken()).toBe(STORED.accessToken)
+  }
+  expect(await getOAuthAccessToken(refusing)).toBe(STORED.accessToken)
 })
 
 test("an expired stored token is refreshed before it is given back", async () => {
   writeToken({ ...STORED, expiresAt: "2001-01-01T00:00:00.000Z" })
-  answeringWith({
+  const over = answeringWith({
     access_token: "a-refreshed-access-token",
     token_type: "Bearer",
     expires_in: 3600,
   })
-  expect(await getOAuthAccessToken()).toBe("a-refreshed-access-token")
+  expect(await getOAuthAccessToken(over)).toBe("a-refreshed-access-token")
 })
 
 test("no stored token throws and names the consent command", async () => {

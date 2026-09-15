@@ -10,10 +10,7 @@ import {
   spotifyGet,
   spotifyRequest,
 } from "akasha/alan/music/spotify/modules/client/spotify-client.module.code.ts"
-import {
-  fetchingIs,
-  fetchingIsOverHttp,
-} from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
+import type { Fetching } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import { writeToken } from "akasha/alan/music/spotify/modules/token-store/spotify-token-store.module.code.ts"
 import { z } from "zod"
 
@@ -33,9 +30,9 @@ afterAll(() => {
   rmSync(ROOT, { recursive: true, force: true })
 })
 
-function answering(...answers: readonly Answer[]): undefined {
+function answering(...answers: readonly Answer[]): Fetching {
   let at = 0
-  fetchingIs(async (url, init) => {
+  return async (url, init) => {
     asked.push(url)
     sent.push(init)
     const one = answers[Math.min(at, answers.length - 1)]
@@ -44,7 +41,7 @@ function answering(...answers: readonly Answer[]): undefined {
     const headers: Record<string, string> = { "Content-Type": "application/json" }
     if (one.retryAfter !== undefined) headers["Retry-After"] = one.retryAfter
     return new Response(JSON.stringify(one.body), { status: one.status, headers })
-  })
+  }
 }
 
 beforeEach(() => {
@@ -65,7 +62,6 @@ beforeEach(() => {
 })
 
 afterEach(() => {
-  fetchingIsOverHttp()
   delete process.env.SPOTIFY_TOKEN_FILE
   delete process.env.SPOTIFY_CLIENT_ID
   delete process.env.SPOTIFY_CLIENT_SECRET
@@ -113,87 +109,97 @@ test("a path is called under the base URL and a full URL is called as it is", ()
 
 test("three calls are spaced by the gap the environment names after load", async () => {
   process.env.SPOTIFY_RATE_LIMIT_MS = "50"
-  answering({ status: 200, body: { ok: true } })
+  const over = answering({ status: 200, body: { ok: true } })
   const opened = Date.now()
-  await spotifyGet("/one", anything)
-  await spotifyGet("/two", anything)
-  await spotifyGet("/three", anything)
+  await spotifyGet("/one", anything, over)
+  await spotifyGet("/two", anything, over)
+  await spotifyGet("/three", anything, over)
   expect(Date.now() - opened).toBeGreaterThanOrEqual(80)
   expect(asked.length).toBe(3)
 })
 
 test("a 429 waits the time it is given and is retried once", async () => {
-  answering({ status: 429, body: {}, retryAfter: "0.05" }, { status: 200, body: { second: true } })
+  const over = answering(
+    { status: 429, body: {}, retryAfter: "0.05" },
+    { status: 200, body: { second: true } }
+  )
   const opened = Date.now()
-  expect(await spotifyGet("/one", anything)).toEqual({ second: true })
+  expect(await spotifyGet("/one", anything, over)).toEqual({ second: true })
   expect(Date.now() - opened).toBeGreaterThanOrEqual(45)
   expect(asked.length).toBe(2)
 })
 
 test("a 429 asking for over sixty seconds throws without waiting", async () => {
-  answering({ status: 429, body: {}, retryAfter: "120" })
+  const over = answering({ status: 429, body: {}, retryAfter: "120" })
   const opened = Date.now()
-  await expect(spotifyGet("/one", anything)).rejects.toThrow("refuses to block")
+  await expect(spotifyGet("/one", anything, over)).rejects.toThrow("refuses to block")
   expect(Date.now() - opened).toBeLessThan(1000)
   expect(asked.length).toBe(1)
 })
 
 test("a second 429 throws rather than being retried again", async () => {
-  answering({ status: 429, body: {}, retryAfter: "0.01" })
-  await expect(spotifyGet("/one", anything)).rejects.toThrow("429 rate limited")
+  const over = answering({ status: 429, body: {}, retryAfter: "0.01" })
+  await expect(spotifyGet("/one", anything, over)).rejects.toThrow("429 rate limited")
   expect(asked.length).toBe(2)
 })
 
 test("a 401 forces one refresh and one retry", async () => {
-  answering(
+  const over = answering(
     { status: 401, body: {} },
     { status: 200, body: { access_token: "a-fresh-one", token_type: "Bearer", expires_in: 3600 } },
     { status: 200, body: { after: "the refresh" } }
   )
-  expect(await spotifyGet("/one", anything)).toEqual({ after: "the refresh" })
+  expect(await spotifyGet("/one", anything, over)).toEqual({ after: "the refresh" })
   expect(asked[1]).toBe("https://accounts.spotify.com/api/token")
   expect(asked.length).toBe(3)
 })
 
 test("a refresh leaves the 429 retry already spent spent", async () => {
-  answering(
+  const over = answering(
     { status: 429, body: {}, retryAfter: "0.01" },
     { status: 401, body: {} },
     { status: 200, body: { access_token: "a-fresh-one", token_type: "Bearer", expires_in: 3600 } },
     { status: 429, body: {}, retryAfter: "0.01" }
   )
-  await expect(spotifyGet("/one", anything)).rejects.toThrow("429 rate limited")
+  await expect(spotifyGet("/one", anything, over)).rejects.toThrow("429 rate limited")
   expect(asked.length).toBe(4)
 })
 
 test("a second 401 throws with the body the server sent", async () => {
-  answering(
+  const over = answering(
     { status: 401, body: { error: "no" } },
     { status: 200, body: { access_token: "a-fresh-one", token_type: "Bearer", expires_in: 3600 } },
     { status: 401, body: { error: "still no" } }
   )
-  await expect(spotifyGet("/one", anything)).rejects.toThrow("spotify API 401")
+  await expect(spotifyGet("/one", anything, over)).rejects.toThrow("spotify API 401")
 })
 
 test("a 404 throws with its status and its body", async () => {
-  answering({ status: 404, body: { error: "gone" } })
-  await expect(spotifyGet("/one", anything)).rejects.toThrow("spotify API 404")
+  const over = answering({ status: 404, body: { error: "gone" } })
+  await expect(spotifyGet("/one", anything, over)).rejects.toThrow("spotify API 404")
 })
 
 test("a shape the answer does not match throws", async () => {
-  answering({ status: 200, body: { id: 7 } })
-  await expect(spotifyGet("/one", z.object({ id: z.string() }))).rejects.toThrow()
+  const over = answering({ status: 200, body: { id: 7 } })
+  await expect(spotifyGet("/one", z.object({ id: z.string() }), over)).rejects.toThrow()
 })
 
 test("a body is sent as JSON", async () => {
-  answering({ status: 200, body: null })
-  await spotifyRequest("/me/player", z.null(), { method: "PUT", body: { device_ids: ["a"] } })
+  const over = answering({ status: 200, body: null })
+  await spotifyRequest(
+    "/me/player",
+    z.null(),
+    { method: "PUT", body: { device_ids: ["a"] } },
+    0,
+    0,
+    over
+  )
   expect(sent[0]?.body).toBe(JSON.stringify({ device_ids: ["a"] }))
   expect(sent[0]?.method).toBe("PUT")
 })
 
 test("paging follows next until it is null", async () => {
-  answering(
+  const over = answering(
     {
       status: 200,
       body: {
@@ -217,12 +223,12 @@ test("paging follows next until it is null", async () => {
       },
     }
   )
-  const all = await paginateOffset("/me/top/tracks", z.object({ id: z.string() }))
+  const all = await paginateOffset("/me/top/tracks", z.object({ id: z.string() }), undefined, over)
   expect(all).toEqual([{ id: "one" }, { id: "two" }])
 })
 
 test("paging stops at the most it was asked for", async () => {
-  answering({
+  const over = answering({
     status: 200,
     body: {
       items: [{ id: "one" }, { id: "two" }, { id: "three" }],
@@ -233,7 +239,7 @@ test("paging stops at the most it was asked for", async () => {
       previous: null,
     },
   })
-  const all = await paginateOffset("/me/top/tracks", z.object({ id: z.string() }), { max: 2 })
+  const all = await paginateOffset("/me/top/tracks", z.object({ id: z.string() }), { max: 2 }, over)
   expect(all).toEqual([{ id: "one" }, { id: "two" }])
   expect(asked.length).toBe(1)
 })
