@@ -5,7 +5,7 @@ export const alanHarnessAgent = {
   type: "domain",
   slug: "alan-harness-agent",
   definition: "how Alan meets the system through his agents",
-  parts: ["domain/alan-harness-agents-annoyance"],
+  parts: ["domain/alan-harness-agent-annoyance"],
   invariants: [
     {
       invariantKind: "departure",

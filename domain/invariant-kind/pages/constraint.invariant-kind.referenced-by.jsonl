@@ -88,7 +88,7 @@
 {"propertySlug":"invariant-kind","path":"alan/collection/great-courses/modules/create-course/create-course.module.ts","id":"01a06579-f3d9-7005-80a2-939e9bfae257"}
 {"propertySlug":"invariant-kind","path":"alan/collection/great-courses/modules/root-parent-query/root-parent-query.module.ts","id":"01a06579-f3d9-7006-8368-78fe6c117de7"}
 {"propertySlug":"invariant-kind","path":"alan/harness/agent/alan-harness-agent.domain.ts","id":"01a0658a-e55d-7426-897d-78820e337523"}
-{"propertySlug":"invariant-kind","path":"alan/harness/agent/alan-harness-agents-annoyance/alan-harness-agents-annoyance.domain.ts","id":"01a0658a-e55d-7c76-83d2-3bedf4c9011c"}
+{"propertySlug":"invariant-kind","path":"alan/harness/agent/annoyance/alan-harness-agent-annoyance.domain.ts","id":"01a0658a-e55d-7c76-83d2-3bedf4c9011c"}
 {"propertySlug":"invariant-kind","path":"alan/harness/alan-harness.domain.ts","id":"01a05381-69f8-77f7-afef-d8329db98385"}
 {"propertySlug":"invariant-kind","path":"alan/harness/alan-readout/day-readout-watch-service/day-readout-watch-service.service-workstation.ts","id":"01a08c12-a327-7694-af88-2d20734ad347"}
 {"propertySlug":"invariant-kind","path":"alan/harness/alanwalton-ios-notification/modules/push-device-tokens/push-device-tokens.module.ts","id":"01a069b6-bb6b-79f2-adbe-d2024ad66374"}

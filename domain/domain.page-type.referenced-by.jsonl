@@ -156,7 +156,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/google/google.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/google/oauth/google-oauth.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/agent/alan-harness-agent.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/agent/alan-harness-agents-annoyance/alan-harness-agents-annoyance.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/agent/annoyance/alan-harness-agent-annoyance.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/alan-harness.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/alan-readout/alan-readout.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/alanwalton-ios-notification/alanwalton-ios-notification.domain.ts"}
