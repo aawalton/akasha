@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const storyTurnPlayed = {
   id: "01a064bc-8477-7bac-98ec-152da07077ce",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "story-turn-played",
   definition: "one exchange of a story nobody wrote",
   extends: ["page-type/collection"],

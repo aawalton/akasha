@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const secret = {
   id: "01a0684a-7d55-7000-bf3d-deee6d805174",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "secret",
   definition: "one secret value under a name of its own",
   extends: ["page-type/page"],

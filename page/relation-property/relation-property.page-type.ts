@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const relationProperty = {
   id: "01a04dff-9d7d-7809-9a88-4fd343f11772",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "relation-property",
   definition: "a page property naming another page",
   parts: ["relation-property/target-page-type"],

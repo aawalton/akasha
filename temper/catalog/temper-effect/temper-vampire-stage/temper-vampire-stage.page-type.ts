@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperVampireStage = {
   id: "01a05fc5-94d2-7de5-8850-22656966472e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-vampire-stage",
   definition: "how far a character's vampirism has run",
   extends: ["page-type/temper-catalog-thing"],

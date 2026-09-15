@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const manifest = {
   id: "01a06da1-b337-78b9-8ad3-556e6b67058e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "manifest",
   definition: "the Kubernetes resources a thing is applied as",
   parts: ["build-folder-property/generated-directory", "code-file-property/manifest-code"],

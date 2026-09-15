@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const idleGame = {
   id: "01a0658b-3654-7f0d-80b2-2a2c080f184c",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "idle-game",
   definition: "a game Alan plays where the cards are his personas",
   extends: ["page-type/collection"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const kiBook = {
   id: "01a06825-d0ec-7364-85c4-e2b19f12133e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "ki-book",
   definition: "one edition of a book Ki keeps",
   extends: ["page-type/ki-collection-template"],

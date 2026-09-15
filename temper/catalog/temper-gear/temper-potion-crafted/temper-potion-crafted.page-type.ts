@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperPotionCrafted = {
   id: "01a05fd1-d434-76cd-b1db-563c237e6de6",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-potion-crafted",
   definition: "a drink brewed from reagents",
   extends: ["page-type/temper-gear-thing"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const gmailMailbox = {
   id: "01a06828-59d3-7295-868d-d695a5d5efd8",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "gmail-mailbox",
   definition: "one Gmail account the system reads mail from",
   extends: ["page-type/page"],

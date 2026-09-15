@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const serviceCluster = {
   id: "01a05a41-58c2-7cbb-bfed-c234697164e3",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "service-cluster",
   definition: "a service the cluster runs as a workload",
   extends: ["page-type/service"],

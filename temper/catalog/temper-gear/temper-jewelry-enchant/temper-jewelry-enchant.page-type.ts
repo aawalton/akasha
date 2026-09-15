@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperJewelryEnchant = {
   id: "01a05fd1-d432-7bca-b936-c66974cf77aa",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-jewelry-enchant",
   definition: "a glyph put on a piece of jewelry",
   extends: ["page-type/temper-gear-thing"],

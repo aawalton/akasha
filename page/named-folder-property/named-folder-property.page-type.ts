@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const namedFolderProperty = {
   id: "01a081cc-8980-7180-b875-7b4681fea93d",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "named-folder-property",
   definition: "a page property held in a folder whose name is stated",
   parts: ["text-property/folder-name"],

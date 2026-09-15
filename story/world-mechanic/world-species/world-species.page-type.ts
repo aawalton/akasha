@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const worldSpecies = {
   id: "01a06558-a991-724e-8d8a-217efd5250c6",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "world-species",
   definition: "the kind of creature a character is",
   extends: ["page-type/world-mechanic"],

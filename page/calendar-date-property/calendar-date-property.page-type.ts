@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const calendarDateProperty = {
   id: "01a063de-2c60-7001-89b5-5efdc8482d83",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "calendar-date-property",
   definition: "a page property with a day",
   extends: ["page-type/page-property"],

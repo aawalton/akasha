@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperCompanionSkill = {
   id: "01a05fcf-90fc-73a8-ad6a-e3869228a309",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-companion-skill",
   definition: "an ability a companion slots",
   extends: ["page-type/temper-companion-thing"],

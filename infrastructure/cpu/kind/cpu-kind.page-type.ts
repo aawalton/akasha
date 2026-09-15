@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const cpuKind = {
   id: "01a09185-edee-760c-88ee-bd4e0bbbcef7",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "cpu-kind",
   definition: "one measure a reading of a processor is taken in",
   extends: ["page-type/domain"],

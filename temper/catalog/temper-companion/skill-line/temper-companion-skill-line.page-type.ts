@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperCompanionSkillLine = {
   id: "01a05fce-1854-7d72-872a-0e22ce5c84c5",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-companion-skill-line",
   definition: "a group of companion abilities learned together",
   extends: ["page-type/temper-companion-thing"],

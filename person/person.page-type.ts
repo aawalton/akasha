@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const person = {
   id: "01a053e0-6cf7-7062-90af-db1def200572",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "person",
   definition: "a human this system reaches",
   extends: ["page-type/domain"],

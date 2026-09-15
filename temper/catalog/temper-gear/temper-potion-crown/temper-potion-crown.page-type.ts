@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperPotionCrown = {
   id: "01a05fd1-d434-7ce2-a20b-6926bf033e6f",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-potion-crown",
   definition: "a drink bought from the crown store",
   extends: ["page-type/temper-gear-thing"],

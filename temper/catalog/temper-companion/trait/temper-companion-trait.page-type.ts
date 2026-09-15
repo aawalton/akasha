@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperCompanionTrait = {
   id: "01a05fce-1854-7c89-a767-43b54ae4cefa",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-companion-trait",
   definition: "a property a piece of companion equipment is worked with",
   extends: ["page-type/temper-companion-thing"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperJewelrySlot = {
   id: "01a05fd1-d432-7a5c-af26-2d6a3db12c15",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-jewelry-slot",
   definition: "a place on the body a piece of jewelry is worn",
   extends: ["page-type/temper-catalog-thing"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperTargetArmor = {
   id: "01a05fc5-94d1-784f-81dd-52ce5bc412dd",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-target-armor",
   definition: "a sort of enemy damage is worked out against",
   extends: ["page-type/temper-catalog-thing"],

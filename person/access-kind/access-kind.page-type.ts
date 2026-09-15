@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const accessKind = {
   id: "01a0542d-0f75-73b3-a578-8d20baddb655",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "access-kind",
   definition: "which sort of thing an access reaches",
   parts: [

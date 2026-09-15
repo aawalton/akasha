@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const page = {
   id: "01a049b9-856c-7090-bd14-5a916f574259",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "page",
   definition: "all that is kept about one thing",
   extends: [],

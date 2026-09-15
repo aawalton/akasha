@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperReagent = {
   id: "01a05fd1-d440-7e50-9ee1-512f735a1900",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-reagent",
   definition: "a plant or part brewed into a drink",
   extends: ["page-type/temper-catalog-thing"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const pagePropertyEntry = {
   id: "01a05f80-3969-7000-8ccd-6284909fc036",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "page-property-entry",
   definition: "a page property whose values are kept one to a line beside the page",
   extends: ["page-type/page-property"],

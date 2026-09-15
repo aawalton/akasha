@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const buildFolderProperty = {
   id: "01a081cd-5b5f-731e-95ed-0ea5ee3b352b",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "build-folder-property",
   definition: "a page property held in a folder a build writes",
   extends: ["page-type/named-folder-property"],

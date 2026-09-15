@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const worldCharacter = {
   id: "01a0657a-9ccd-7153-9c9f-c9454abc1a22",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "world-character",
   definition: "somebody a world's story follows",
   extends: ["page-type/page"],

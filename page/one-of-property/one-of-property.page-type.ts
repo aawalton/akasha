@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const oneOfProperty = {
   id: "01a062b2-e0ca-7409-b87f-b8122ca96d56",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "one-of-property",
   definition: "a page property with a value one of its members has",
   parts: ["relation-property/members"],

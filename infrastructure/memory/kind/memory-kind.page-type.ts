@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const memoryKind = {
   id: "01a0912d-e1a4-76ac-8b44-8632c97fc053",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "memory-kind",
   definition: "one measure a reading of memory is taken in",
   extends: ["page-type/domain"],

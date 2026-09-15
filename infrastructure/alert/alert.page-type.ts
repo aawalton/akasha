@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const alert = {
   id: "01a06755-0778-7804-96f1-949fc3c68e4f",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "alert",
   definition: "a condition on the system somebody is told about",
   extends: ["page-type/page"],

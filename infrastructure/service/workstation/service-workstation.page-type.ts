@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const serviceWorkstation = {
   id: "01a05a3f-b42a-754e-af3c-8b30ed9d6ad1",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "service-workstation",
   definition: "a service the workstation runs",
   extends: ["page-type/service"],

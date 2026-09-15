@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperArmorWeight = {
   id: "01a05fd1-d430-7564-8721-434ab188698f",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-armor-weight",
   definition: "how heavy a piece of armor is made",
   extends: ["page-type/temper-catalog-thing"],

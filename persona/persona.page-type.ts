@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const persona = {
   id: "01a0532a-a54d-76e7-98f5-57ff3efc6492",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "persona",
   definition: "a part of Alan's life personified as someone who answers for it",
   extends: ["page-type/domain"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperCompanionWeaponType = {
   id: "01a05fcd-aed1-71b0-8b8c-2b74e9a2d662",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-companion-weapon-type",
   definition: "a kind of weapon a companion wields",
   extends: ["page-type/temper-companion-thing"],

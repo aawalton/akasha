@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const graphEdge = {
   id: "01a04fe8-cebd-71d5-a040-d50b202e6eb1",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "graph-edge",
   definition: "a way one thing reaches another",
   parts: ["graph-edge/import-edge", "graph-edge/relation", "relation-property/attributes"],

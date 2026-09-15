@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const standardAgentEnglishNonTermKind = {
   id: "01a07c77-69a8-78a5-a3b4-fbf909b02c2e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "standard-agent-english-non-term-kind",
   definition: "which sort one non-term is",
   extends: ["page-type/page"],

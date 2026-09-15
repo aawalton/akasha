@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const numberProperty = {
   id: "01a04dff-9d7d-757f-84a2-1c515ad24f9a",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "number-property",
   definition: "a page property with a number",
   extends: ["page-type/page-property"],

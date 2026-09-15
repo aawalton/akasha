@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const namedExtensionProperty = {
   id: "01a09135-c42e-7d48-a589-1fe7b7baca81",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "named-extension-property",
   definition: "a page property held in the files beside a page closing with one extension",
   parts: ["text-property/extension-name"],

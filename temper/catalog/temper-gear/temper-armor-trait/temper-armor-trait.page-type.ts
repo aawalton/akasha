@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperArmorTrait = {
   id: "01a05fb0-3ceb-7229-9089-127418274d52",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-armor-trait",
   definition: "a property a piece of armor is worked with",
   extends: ["page-type/temper-catalog-thing"],

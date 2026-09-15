@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const world = {
   id: "01a063ce-6216-7000-8f40-f471a7c21987",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "world",
   definition: "a made-up somewhere",
   extends: ["page-type/page"],

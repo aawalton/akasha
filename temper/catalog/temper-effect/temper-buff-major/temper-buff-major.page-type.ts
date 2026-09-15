@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperBuffMajor = {
   id: "01a05fc5-94ce-7166-8475-467d3eb17bf9",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-buff-major",
   definition: "a helpful effect the game names Major",
   extends: ["page-type/temper-catalog-thing"],
