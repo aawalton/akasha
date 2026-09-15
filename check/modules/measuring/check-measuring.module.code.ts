@@ -37,7 +37,15 @@ const DAY_MS = 86400000
 
 const FORMS = `\`${LAST} <count>\` names runs and \`${LAST} <count>{m|h|d}\` names a period`
 
-const HEADED: readonly string[] = ["runs", "cpu", "mem"]
+const HEADED: readonly string[] = [
+  "runs",
+  "cpu avg",
+  "cpu max",
+  "wall avg",
+  "wall max",
+  "mem avg",
+  "mem max",
+]
 
 const UNREAD = "these were not read, and count no runs:"
 
@@ -49,12 +57,15 @@ const MIB = 1024 * 1024
 
 const GIB = 1024 * 1024 * 1024
 
+const A_THOUSAND = 1000
+
 export interface Run {
   readonly runId: string | null
   readonly phase: string
   readonly ran: string
   readonly ranAt: number
   readonly cpu: number
+  readonly wall: number
   readonly mem: number | null
 }
 
@@ -84,12 +95,20 @@ export interface CheckCost {
   readonly check: string
   readonly runs: number
   readonly cpu: number | null
+  readonly cpuMost: number | null
+  readonly wall: number | null
+  readonly wallMost: number | null
   readonly mem: number | null
+  readonly memMost: number | null
 }
 
 export interface Total {
   readonly runs: number
   readonly cpu: number | null
+  readonly cpuMost: number | null
+  readonly wall: number | null
+  readonly wallMost: number | null
+  readonly memMost: number | null
 }
 
 export interface Costs {
@@ -102,6 +121,14 @@ export interface Costs {
 export function meanOf(found: readonly number[]): number | null {
   if (found.length === 0) return null
   return found.reduce((total, one) => total + one, 0) / found.length
+}
+
+export function mostOf(found: readonly number[]): number | null {
+  let most: number | null = null
+  for (const one of found) {
+    if (most === null || one > most) most = one
+  }
+  return most
 }
 
 function rowsIn(body: string): readonly string[] {
@@ -117,6 +144,7 @@ function runIn(row: string): Run {
     ran: String(one["ran"] ?? ""),
     ranAt: Date.parse(String(one["ranAt"] ?? "")),
     cpu: Number(one["cpuSeconds"] ?? 0) + Number(one["childCpuSeconds"] ?? 0),
+    wall: Number(one["wallMs"] ?? 0) / A_THOUSAND,
     mem: one["peakMeasured"] === true ? Number(one["peakAddedBytes"] ?? 0) : null,
   }
 }
@@ -215,18 +243,33 @@ function addedOf(runs: readonly Run[], what: (one: Run) => number): number {
 }
 
 export function costOf(check: string, runs: readonly Run[]): CheckCost {
+  const cpu = runs.map((one) => one.cpu)
+  const wall = runs.map((one) => one.wall)
+  const mem = memoryOf(runs)
   return {
     check,
     runs: runs.length,
-    cpu: meanOf(runs.map((one) => one.cpu)),
-    mem: meanOf(memoryOf(runs)),
+    cpu: meanOf(cpu),
+    cpuMost: mostOf(cpu),
+    wall: meanOf(wall),
+    wallMost: mostOf(wall),
+    mem: meanOf(mem),
+    memMost: mostOf(mem),
   }
 }
 
 export function totalOf(runs: readonly Run[]): Total {
   const count = latestOf(runs).size
-  if (count === 0) return { runs: 0, cpu: null }
-  return { runs: count, cpu: addedOf(runs, (one) => one.cpu) / count }
+  const shared = (what: (one: Run) => number): number | null =>
+    count === 0 ? null : addedOf(runs, what) / count
+  return {
+    runs: count,
+    cpu: shared((one) => one.cpu),
+    cpuMost: mostOf(runs.map((one) => one.cpu)),
+    wall: shared((one) => one.wall),
+    wallMost: mostOf(runs.map((one) => one.wall)),
+    memMost: mostOf(memoryOf(runs)),
+  }
 }
 
 export function byCpu(a: CheckCost, b: CheckCost): number {
@@ -346,17 +389,34 @@ export function secondsAs(count: number): string {
   return `${count.toFixed(3)}s`
 }
 
+function saidAs(count: number | null, how: (found: number) => string): string {
+  return count === null ? ABSENT : how(count)
+}
+
 function rowOf(one: CheckCost): readonly string[] {
   return [
     one.check,
     String(one.runs),
-    one.cpu === null ? ABSENT : secondsAs(one.cpu),
-    one.mem === null ? ABSENT : bytesAs(one.mem),
+    saidAs(one.cpu, secondsAs),
+    saidAs(one.cpuMost, secondsAs),
+    saidAs(one.wall, secondsAs),
+    saidAs(one.wallMost, secondsAs),
+    saidAs(one.mem, bytesAs),
+    saidAs(one.memMost, bytesAs),
   ]
 }
 
 function totalRowOf(total: Total): readonly string[] {
-  return [TOTAL, String(total.runs), total.cpu === null ? ABSENT : secondsAs(total.cpu), ABSENT]
+  return [
+    TOTAL,
+    String(total.runs),
+    saidAs(total.cpu, secondsAs),
+    saidAs(total.cpuMost, secondsAs),
+    saidAs(total.wall, secondsAs),
+    saidAs(total.wallMost, secondsAs),
+    ABSENT,
+    saidAs(total.memMost, bytesAs),
+  ]
 }
 
 export function linesOf(costs: Costs, named: string = CHECK): readonly string[] {

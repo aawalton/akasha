@@ -164,7 +164,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A run that forgot no high-water mark is left out of a memory average.",
+      statement: "A run that forgot no high-water mark is left out of the memory said.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -200,7 +200,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The total draws its memory as absent.",
+      statement: "The total draws its average memory as absent.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -237,6 +237,22 @@ export const checkMeasuring = {
     {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Each measure is said as an average and as the most any one run took.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A run's elapsed time is read from the milliseconds that run's row states.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The total shares the elapsed time over the distinct runs read.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The largest peak the total says is the largest peak any one run reached.",
     },
   ],
 } as const satisfies Module

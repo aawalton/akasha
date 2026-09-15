@@ -75,7 +75,7 @@ export const measureDeploy = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The total draws its memory as `-`.",
+      statement: "The total draws its average memory as `-`.",
     },
     {
       invariantKind: "invariant-kind/departure",

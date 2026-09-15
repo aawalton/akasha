@@ -1,7 +1,10 @@
-import type {
-  CheckCost,
-  Chosen,
-  Costs,
+import {
+  type CheckCost,
+  type Chosen,
+  type Costs,
+  type Run,
+  runsRead,
+  type Total,
 } from "akasha/check/modules/measuring/check-measuring.module.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
@@ -74,6 +77,28 @@ export function lineOf(one: Record<string, unknown>): string {
   })
 }
 
+export const NO_TOTAL: Total = {
+  runs: 0,
+  cpu: null,
+  cpuMost: null,
+  wall: null,
+  wallMost: null,
+  memMost: null,
+}
+
+export const ZERO_TOTAL: Total = {
+  runs: 1,
+  cpu: 0,
+  cpuMost: 0,
+  wall: 0,
+  wallMost: 0,
+  memMost: 0,
+}
+
+export function runsOf(rows: readonly Record<string, unknown>[]): readonly Run[] {
+  return runsRead(rows.map(lineOf).join("\n")).runs
+}
+
 export function partAt(check: string, part: number, under: string = LOGS): string {
   const named = part === FIRST_PART ? under : `${under}.part${part}`
   return `${UNDER}/${check}/${check}.${CHECKED}.${named}.uncommitted.jsonl`
@@ -120,6 +145,21 @@ export function rowsBeside(
   return root
 }
 
+export function rootOrdered(): string {
+  const root = rootWith({
+    fast: [{ phase: "change", cpuSeconds: 1 }],
+    slow: [{ phase: "change", cpuSeconds: 9 }],
+    "audit-only": [],
+    "b-tie": [{ phase: "change", cpuSeconds: 1 }],
+    skewed: [
+      { phase: "change", cpuSeconds: 1 },
+      { phase: "change", cpuSeconds: 1 },
+      { phase: "change", cpuSeconds: 10 },
+    ],
+  })
+  return rowsBeside(root, { "audit-only": [{ phase: "audit", cpuSeconds: 50 }] }, AUDIT_LOGS)
+}
+
 export function unreadableInto(root: string, check: string): string {
   checkFiled(root, check, UNREADABLE)
   put(root, `${partAt(check, FIRST_PART)}/inner`, "")
@@ -134,7 +174,7 @@ export function tornInto(root: string, check: string): string {
 }
 
 export function costsOf(checks: readonly CheckCost[]): Costs {
-  return { checks, total: { runs: 0, cpu: null }, unread: [], torn: [] }
+  return { checks, total: NO_TOTAL, unread: [], torn: [] }
 }
 
 export function spacedOnce(said: string | undefined): string {

@@ -7,8 +7,8 @@ import {
   latestOf,
   linesOf,
   meanOf,
+  mostOf,
   rankedOf,
-  runsRead,
   secondsAs,
   totalOf,
   windowOf,
@@ -23,13 +23,15 @@ import {
   ENTRIES,
   HOUR,
   LAST_RUN,
-  lineOf,
+  NO_TOTAL,
   NOW,
   ONE,
   partAt,
+  rootOrdered,
   rootWith,
   rowsBeside,
   rowsInto,
+  runsOf,
   scratch,
   spacedOnce,
   THREE,
@@ -37,6 +39,7 @@ import {
   TWO,
   tornInto,
   unreadableInto,
+  ZERO_TOTAL,
 } from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -48,29 +51,30 @@ test("an average is what the runs took together shared out over how many there w
 })
 
 test("a run's processor time is its own together with the children it reaped", () => {
-  const runs = runsRead(lineOf({ phase: "change", cpuSeconds: 1.5, childCpuSeconds: 2.25 })).runs
+  const runs = runsOf([{ phase: "change", cpuSeconds: 1.5, childCpuSeconds: 2.25 }])
 
   expect(runs[0]?.cpu).toBe(3.75)
 })
 
 test("a record naming no run id is read as belonging to no run", () => {
-  const runs = runsRead(
-    [lineOf({ phase: "change", runId: null }), lineOf({ phase: "change", runId: "" })].join("\n")
-  ).runs
+  const runs = runsOf([
+    { phase: "change", runId: null },
+    { phase: "change", runId: "" },
+  ])
 
   expect(runs.map((one) => one.runId)).toEqual([null, null])
 })
 
 test("a run that forgot no high-water mark is left out of memory but counted everywhere else", () => {
-  const runs = runsRead(
-    [
-      lineOf({ phase: "change", cpuSeconds: 9, peakAddedBytes: 999, peakMeasured: false }),
-      lineOf({ phase: "change", cpuSeconds: 2, peakAddedBytes: 100 }),
-      lineOf({ phase: "change", cpuSeconds: 1, peakAddedBytes: 200 }),
-      lineOf({ phase: "change", cpuSeconds: 4, peakAddedBytes: 900 }),
-    ].join("\n")
-  ).runs
-  const cost = costOf("one", runs)
+  const cost = costOf(
+    "one",
+    runsOf([
+      { phase: "change", cpuSeconds: 9, peakAddedBytes: 999, peakMeasured: false },
+      { phase: "change", cpuSeconds: 2, peakAddedBytes: 100 },
+      { phase: "change", cpuSeconds: 1, peakAddedBytes: 200 },
+      { phase: "change", cpuSeconds: 4, peakAddedBytes: 900 },
+    ])
+  )
 
   expect(cost.cpu).toBe(4)
   expect(cost.mem).toBe(400)
@@ -78,24 +82,22 @@ test("a run that forgot no high-water mark is left out of memory but counted eve
 })
 
 test("a run exactly the period's age is counted and a run a moment older is not", () => {
-  const runs = runsRead(
-    [
-      lineOf({ phase: "change", cpuSeconds: 6, ranAt: agoOf(DAY) }),
-      lineOf({ phase: "change", cpuSeconds: 60, ranAt: agoOf(DAY + 1) }),
-    ].join("\n")
-  ).runs
+  const runs = runsOf([
+    { phase: "change", cpuSeconds: 6, ranAt: agoOf(DAY) },
+    { phase: "change", cpuSeconds: 60, ranAt: agoOf(DAY + 1) },
+  ])
 
   expect(withinOf(runs, NOW, DAY).map((one) => one.cpu)).toEqual([6])
 })
 
 test("a run stamped after the moment of asking is not counted", () => {
-  const runs = runsRead(lineOf({ phase: "change", cpuSeconds: 7, ranAt: agoOf(-HOUR) })).runs
+  const runs = runsOf([{ phase: "change", cpuSeconds: 7, ranAt: agoOf(-HOUR) }])
 
   expect(withinOf(runs, NOW, DAY)).toEqual([])
 })
 
 test("a run whose time cannot be read is not counted", () => {
-  const runs = runsRead(lineOf({ phase: "change", cpuSeconds: 7, ranAt: "the other day" })).runs
+  const runs = runsOf([{ phase: "change", cpuSeconds: 7, ranAt: "the other day" }])
 
   expect(withinOf(runs, NOW, DAY)).toEqual([])
 })
@@ -155,14 +157,12 @@ test("a word this module reads as neither a count nor a period is refused", () =
 })
 
 test("runs are ranked by the latest moment any record of that run carries", () => {
-  const runs = runsRead(
-    [
-      lineOf({ phase: "change", runId: ONE, ranAt: agoOf(3 * HOUR) }),
-      lineOf({ phase: "change", runId: ONE, ranAt: agoOf(HOUR) }),
-      lineOf({ phase: "change", runId: TWO, ranAt: agoOf(2 * HOUR) }),
-      lineOf({ phase: "change", runId: THREE, ranAt: agoOf(4 * HOUR) }),
-    ].join("\n")
-  ).runs
+  const runs = runsOf([
+    { phase: "change", runId: ONE, ranAt: agoOf(3 * HOUR) },
+    { phase: "change", runId: ONE, ranAt: agoOf(HOUR) },
+    { phase: "change", runId: TWO, ranAt: agoOf(2 * HOUR) },
+    { phase: "change", runId: THREE, ranAt: agoOf(4 * HOUR) },
+  ])
 
   expect([...rankedOf(latestOf(runs), 2)]).toEqual([ONE, TWO])
 })
@@ -216,35 +216,48 @@ test("one run's runs are the runs of every check that run judged", () => {
   const costs = costsIn(root, NOW, LAST_RUN)
 
   expect(costs.checks.map((one) => one.check)).toEqual(["two", "one"])
-  expect(costs.total).toEqual({ runs: 1, cpu: 5 })
+  expect(costs.total).toEqual({ runs: 1, cpu: 5, cpuMost: 3, wall: 0, wallMost: 0, memMost: 0 })
 })
 
-test("the total shares the processor time over the distinct runs read", () => {
-  const runs = runsRead(
-    [
-      lineOf({ phase: "change", runId: ONE, cpuSeconds: 3 }),
-      lineOf({ phase: "change", runId: ONE, cpuSeconds: 5 }),
-      lineOf({ phase: "change", runId: TWO, cpuSeconds: 2 }),
-    ].join("\n")
-  ).runs
+test("the total shares the processor and the elapsed time over the distinct runs read", () => {
+  const total = totalOf(
+    runsOf([
+      { phase: "change", runId: ONE, cpuSeconds: 3, wallMs: 3000 },
+      { phase: "change", runId: ONE, cpuSeconds: 5, wallMs: 5000 },
+      { phase: "change", runId: TWO, cpuSeconds: 2, wallMs: 2000 },
+    ])
+  )
 
-  expect(totalOf(runs)).toEqual({ runs: 2, cpu: 5 })
+  expect([total.runs, total.cpu, total.wall]).toEqual([2, 5, 5])
+})
+
+test("the total says the most any one run took and the largest peak any one reached", () => {
+  const total = totalOf(
+    runsOf([
+      { phase: "change", runId: ONE, cpuSeconds: 3, wallMs: 1000, peakAddedBytes: 2048 },
+      { phase: "change", runId: TWO, cpuSeconds: 8, wallMs: 4000, peakAddedBytes: 512 },
+    ])
+  )
+
+  expect([total.cpuMost, total.wallMost, total.memMost]).toEqual([8, 4, 2048])
 })
 
 test("no run at all totals no processor time rather than a time of zero", () => {
-  expect(totalOf(runsRead(lineOf({ phase: "change", runId: ONE })).runs)).toEqual({
-    runs: 1,
-    cpu: 0,
-  })
-  expect(totalOf([])).toEqual({ runs: 0, cpu: null })
+  expect(totalOf(runsOf([{ phase: "change", runId: ONE }]))).toEqual(ZERO_TOTAL)
+  expect(totalOf([])).toEqual(NO_TOTAL)
 })
 
-test("the total sits beneath the table with its memory drawn absent", () => {
-  const cost = costOf("one", runsRead(lineOf({ phase: "change", cpuSeconds: 2 })).runs)
-  const said = linesOf({ checks: [cost], total: { runs: 1, cpu: 2 }, unread: [], torn: [] })
+test("the total sits beneath the table with its average memory drawn absent", () => {
+  const cost = costOf("one", runsOf([{ phase: "change", cpuSeconds: 2 }]))
+  const said = linesOf({
+    checks: [cost],
+    total: { runs: 1, cpu: 2, cpuMost: 3, wall: 4, wallMost: 5, memMost: 2048 },
+    unread: [],
+    torn: [],
+  })
 
   expect(spacedOnce(said[2])).toBe("")
-  expect(spacedOnce(said[3])).toBe("total 1 2.000s -")
+  expect(spacedOnce(said[3])).toBe("total 1 2.000s 3.000s 4.000s 5.000s - 2.0 KiB")
 })
 
 test("how many runs a check holds is counted beside its averages", () => {
@@ -280,32 +293,40 @@ test("a check no run was judged at carries no average rather than an average of 
   expect(cost.runs).toBe(0)
   expect(cost.cpu).toBe(null)
   expect(cost.mem).toBe(null)
+  expect(mostOf([])).toBe(null)
   const said = linesOf(costsOf([cost]))[1] ?? ""
 
-  expect(spacedOnce(said)).toBe("one 0 - -")
+  expect(spacedOnce(said)).toBe("one 0 - - - - - -")
 })
 
 test("the table carries one set of columns for the group read", () => {
-  const cost = costOf("one", runsRead(lineOf({ phase: "change", cpuSeconds: 0 })).runs)
+  const cost = costOf("one", runsOf([{ phase: "change", cpuSeconds: 0 }]))
   const said = linesOf(costsOf([cost]))
 
-  expect(spacedOnce(said[0])).toBe("check runs cpu mem")
-  expect(spacedOnce(said[1])).toBe("one 1 0.000s 0 B")
+  expect(spacedOnce(said[0])).toBe("check runs cpu avg cpu max wall avg wall max mem avg mem max")
+  expect(spacedOnce(said[1])).toBe("one 1 0.000s 0.000s 0.000s 0.000s 0 B 0 B")
+})
+
+test("every measure is said as an average and as the most any one run took", () => {
+  const cost = costOf(
+    "one",
+    runsOf([
+      { phase: "change", cpuSeconds: 1, wallMs: 2000, peakAddedBytes: 100 },
+      { phase: "change", cpuSeconds: 3, wallMs: 4000, peakAddedBytes: 700 },
+    ])
+  )
+
+  expect([cost.cpu, cost.cpuMost]).toEqual([2, 3])
+  expect([cost.wall, cost.wallMost]).toEqual([3, 4])
+  expect([cost.mem, cost.memMost]).toEqual([400, 700])
+})
+
+test("a run's elapsed time is read from the milliseconds its row states", () => {
+  expect(runsOf([{ phase: "change", wallMs: 1500 }])[0]?.wall).toBe(1.5)
 })
 
 test("checks are ordered by what their runs took, and equal times by name", () => {
-  const root = rootWith({
-    fast: [{ phase: "change", cpuSeconds: 1 }],
-    slow: [{ phase: "change", cpuSeconds: 9 }],
-    "audit-only": [],
-    "b-tie": [{ phase: "change", cpuSeconds: 1 }],
-    skewed: [
-      { phase: "change", cpuSeconds: 1 },
-      { phase: "change", cpuSeconds: 1 },
-      { phase: "change", cpuSeconds: 10 },
-    ],
-  })
-  rowsBeside(root, { "audit-only": [{ phase: "audit", cpuSeconds: 50 }] }, AUDIT_LOGS)
+  const root = rootOrdered()
 
   expect(costsIn(root, NOW, DAY_BACK).checks.map((one) => one.check)).toEqual([
     "slow",
@@ -416,7 +437,7 @@ test("a root holding no checks answers no check rather than throwing", () => {
 
   expect(costsIn(root, NOW, LAST_RUN)).toEqual({
     checks: [],
-    total: { runs: 0, cpu: null },
+    total: { runs: 0, cpu: null, cpuMost: null, wall: null, wallMost: null, memMost: null },
     unread: [],
     torn: [],
   })
