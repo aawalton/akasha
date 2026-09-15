@@ -4,6 +4,7 @@ import {
   spotifyRequest,
   withQuery,
 } from "akasha/alan/music/spotify/modules/client/spotify-client.module.code.ts"
+import type { Fetching } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import { z } from "zod"
 
 const emptyBodySchema = z.null()
@@ -98,50 +99,76 @@ export type StartResumeOptions = DeviceOption & {
 
 export type RepeatState = "track" | "context" | "off"
 
-async function put(path: string, body?: unknown): Promise<void> {
-  await spotifyRequest(path, emptyBodySchema, {
-    method: "PUT",
-    ...(body !== undefined && { body }),
-  })
+async function put(path: string, body?: unknown, over?: Fetching): Promise<void> {
+  await spotifyRequest(
+    path,
+    emptyBodySchema,
+    { method: "PUT", ...(body !== undefined && { body }) },
+    0,
+    0,
+    over
+  )
 }
 
-async function post(path: string, body?: unknown): Promise<void> {
-  await spotifyRequest(path, emptyBodySchema, {
-    method: "POST",
-    ...(body !== undefined && { body }),
-  })
+async function post(path: string, body?: unknown, over?: Fetching): Promise<void> {
+  await spotifyRequest(
+    path,
+    emptyBodySchema,
+    { method: "POST", ...(body !== undefined && { body }) },
+    0,
+    0,
+    over
+  )
 }
 
-export function getPlaybackState(): Promise<z.infer<typeof playbackStateSchema> | null> {
-  return spotifyRequest("/me/player", playbackStateSchema.nullable())
+export function getPlaybackState(
+  over?: Fetching
+): Promise<z.infer<typeof playbackStateSchema> | null> {
+  return spotifyRequest("/me/player", playbackStateSchema.nullable(), undefined, 0, 0, over)
 }
 
-export function getDevices(): Promise<z.infer<typeof devicesSchema>> {
-  return spotifyGet("/me/player/devices", devicesSchema)
+export function getDevices(over?: Fetching): Promise<z.infer<typeof devicesSchema>> {
+  return spotifyGet("/me/player/devices", devicesSchema, over)
 }
 
-export function getCurrentlyPlaying(): Promise<z.infer<typeof currentlyPlayingSchema> | null> {
-  return spotifyRequest("/me/player/currently-playing", currentlyPlayingSchema.nullable())
+export function getCurrentlyPlaying(
+  over?: Fetching
+): Promise<z.infer<typeof currentlyPlayingSchema> | null> {
+  return spotifyRequest(
+    "/me/player/currently-playing",
+    currentlyPlayingSchema.nullable(),
+    undefined,
+    0,
+    0,
+    over
+  )
 }
 
-export function getRecentlyPlayed(options: RecentlyPlayedOptions = {}) {
+export function getRecentlyPlayed(options: RecentlyPlayedOptions = {}, over?: Fetching) {
   const path = withQuery("/me/player/recently-played", {
     limit: options.limit,
     after: options.after,
     before: options.before,
   })
-  return spotifyGet(path, cursorPageSchema(playHistorySchema))
+  return spotifyGet(path, cursorPageSchema(playHistorySchema), over)
 }
 
-export function getQueue(): Promise<z.infer<typeof queueSchema>> {
-  return spotifyGet("/me/player/queue", queueSchema)
+export function getQueue(over?: Fetching): Promise<z.infer<typeof queueSchema>> {
+  return spotifyGet("/me/player/queue", queueSchema, over)
 }
 
-export function transferPlayback(deviceIds: readonly string[], play?: boolean): Promise<void> {
-  return put("/me/player", { device_ids: deviceIds, ...(play !== undefined && { play }) })
+export function transferPlayback(
+  deviceIds: readonly string[],
+  play?: boolean,
+  over?: Fetching
+): Promise<void> {
+  return put("/me/player", { device_ids: deviceIds, ...(play !== undefined && { play }) }, over)
 }
 
-export function startResumePlayback(options: StartResumeOptions = {}): Promise<void> {
+export function startResumePlayback(
+  options: StartResumeOptions = {},
+  over?: Fetching
+): Promise<void> {
   const body = {
     ...(options.contextUri !== undefined && { context_uri: options.contextUri }),
     ...(options.uris !== undefined && { uris: options.uris }),
@@ -149,42 +176,76 @@ export function startResumePlayback(options: StartResumeOptions = {}): Promise<v
     ...(options.positionMs !== undefined && { position_ms: options.positionMs }),
   }
   const path = withQuery("/me/player/play", { device_id: options.deviceId })
-  return put(path, Object.keys(body).length > 0 ? body : undefined)
+  return put(path, Object.keys(body).length > 0 ? body : undefined, over)
 }
 
-export function pausePlayback(options: DeviceOption = {}): Promise<void> {
-  return put(withQuery("/me/player/pause", { device_id: options.deviceId }))
+export function pausePlayback(options: DeviceOption = {}, over?: Fetching): Promise<void> {
+  return put(withQuery("/me/player/pause", { device_id: options.deviceId }), undefined, over)
 }
 
-export function skipToNext(options: DeviceOption = {}): Promise<void> {
-  return post(withQuery("/me/player/next", { device_id: options.deviceId }))
+export function skipToNext(options: DeviceOption = {}, over?: Fetching): Promise<void> {
+  return post(withQuery("/me/player/next", { device_id: options.deviceId }), undefined, over)
 }
 
-export function skipToPrevious(options: DeviceOption = {}): Promise<void> {
-  return post(withQuery("/me/player/previous", { device_id: options.deviceId }))
+export function skipToPrevious(options: DeviceOption = {}, over?: Fetching): Promise<void> {
+  return post(withQuery("/me/player/previous", { device_id: options.deviceId }), undefined, over)
 }
 
-export function seek(positionMs: number, options: DeviceOption = {}): Promise<void> {
-  return put(withQuery("/me/player/seek", { position_ms: positionMs, device_id: options.deviceId }))
+export function seek(
+  positionMs: number,
+  options: DeviceOption = {},
+  over?: Fetching
+): Promise<void> {
+  return put(
+    withQuery("/me/player/seek", { position_ms: positionMs, device_id: options.deviceId }),
+    undefined,
+    over
+  )
 }
 
-export function setRepeatMode(state: RepeatState, options: DeviceOption = {}): Promise<void> {
-  return put(withQuery("/me/player/repeat", { state, device_id: options.deviceId }))
+export function setRepeatMode(
+  state: RepeatState,
+  options: DeviceOption = {},
+  over?: Fetching
+): Promise<void> {
+  return put(
+    withQuery("/me/player/repeat", { state, device_id: options.deviceId }),
+    undefined,
+    over
+  )
 }
 
-export function setVolume(volumePercent: number, options: DeviceOption = {}): Promise<void> {
+export function setVolume(
+  volumePercent: number,
+  options: DeviceOption = {},
+  over?: Fetching
+): Promise<void> {
   return put(
     withQuery("/me/player/volume", {
       volume_percent: volumePercent,
       device_id: options.deviceId,
-    })
+    }),
+    undefined,
+    over
   )
 }
 
-export function toggleShuffle(state: boolean, options: DeviceOption = {}): Promise<void> {
-  return put(withQuery("/me/player/shuffle", { state, device_id: options.deviceId }))
+export function toggleShuffle(
+  state: boolean,
+  options: DeviceOption = {},
+  over?: Fetching
+): Promise<void> {
+  return put(
+    withQuery("/me/player/shuffle", { state, device_id: options.deviceId }),
+    undefined,
+    over
+  )
 }
 
-export function addToQueue(uri: string, options: DeviceOption = {}): Promise<void> {
-  return post(withQuery("/me/player/queue", { uri, device_id: options.deviceId }))
+export function addToQueue(
+  uri: string,
+  options: DeviceOption = {},
+  over?: Fetching
+): Promise<void> {
+  return post(withQuery("/me/player/queue", { uri, device_id: options.deviceId }), undefined, over)
 }
