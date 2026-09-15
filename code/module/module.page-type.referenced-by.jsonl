@@ -606,7 +606,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/security-headers/security-headers.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/stale-folders/stale-folders.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/user-client/user-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/eval/modules/agent/monarch-eval-agent.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/eval/modules/population/monarch-eval-population.module.ts"}

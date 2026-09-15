@@ -744,7 +744,6 @@
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.ts","id":"01a0795a-2cb4-7d47-b7d6-2b120f641fd4"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.ts","id":"01a082eb-4f25-7bd5-b488-a5c24903072e"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/security-headers/security-headers.module.ts","id":"01a05c48-deeb-7008-8b99-8ccaf9ccafa6"}
-{"propertySlug":"invariant-kind","path":"alan/harness/modules/stale-folders/stale-folders.module.ts","id":"01a0683d-3c17-7dd8-991b-d05270ddec1f"}
 {"propertySlug":"invariant-kind","path":"alan/harness/modules/user-client/user-client.module.ts","id":"01a05c91-61cd-7ca0-84dc-81d150423884"}
 {"propertySlug":"invariant-kind","path":"alan/harness/monarch/account/monarch-account.page-type.ts","id":"01a0680a-1a00-7008-8d64-7a3b9e1f1109"}
 {"propertySlug":"invariant-kind","path":"alan/harness/monarch/account/properties/account-display-name.text-property.ts","id":"01a0680a-1a00-7002-9c37-8a1d4e6f1103"}
