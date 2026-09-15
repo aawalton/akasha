@@ -1,13 +1,13 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { synthCronjob } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { gfsPromoter } from "akasha/infrastructure/service/cluster/pages/gfs-promoter/gfs-promoter.service-cluster.ts"
 
-const NAMESPACE = "postgres"
+const NAMESPACE = gfsPromoter.namespace
 
-const GFS_PROMOTER_IMAGE =
-  "registry.registry.svc.cluster.local:5000/cluster/postgres-gfs-promoter:r4"
+const GFS_PROMOTER_IMAGE = gfsPromoter.image
 
 const LABELS = {
-  "app.kubernetes.io/name": "postgres-gfs-promoter",
+  "app.kubernetes.io/name": gfsPromoter.resourceName,
   "app.kubernetes.io/instance": "postgres",
   "app.kubernetes.io/component": "gfs-promoter",
   "app.kubernetes.io/part-of": "postgres",
@@ -21,7 +21,7 @@ function cronjobYaml(): string {
     apiVersion: "batch/v1",
     kind: "CronJob",
     metadata: {
-      name: "postgres-gfs-promoter",
+      name: gfsPromoter.resourceName,
       namespace: NAMESPACE,
       labels: LABELS,
     },
