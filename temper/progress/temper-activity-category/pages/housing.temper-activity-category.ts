@@ -2,7 +2,7 @@ import type { TemperActivityCategory } from "akasha/temper/progress/temper-activ
 
 export const housing = {
   id: "01a05fc9-c60c-74ea-b6a7-f4df1262086a",
-  type: "temper-activity-category",
+  type: "page-type/temper-activity-category",
   slug: "housing",
   title: "Housing",
   key: "housing",

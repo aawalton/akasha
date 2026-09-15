@@ -2,7 +2,7 @@ import type { TemperActivityCategory } from "akasha/temper/progress/temper-activ
 
 export const characters = {
   id: "01a05fc9-c60a-7816-bf12-ae0b7a8d6514",
-  type: "temper-activity-category",
+  type: "page-type/temper-activity-category",
   slug: "characters",
   title: "Characters",
   key: "characters",

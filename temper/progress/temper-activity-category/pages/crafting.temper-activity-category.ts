@@ -2,7 +2,7 @@ import type { TemperActivityCategory } from "akasha/temper/progress/temper-activ
 
 export const crafting = {
   id: "01a05fc9-c60b-761c-87bf-a8ded389eb7f",
-  type: "temper-activity-category",
+  type: "page-type/temper-activity-category",
   slug: "crafting",
   title: "Crafting",
   key: "crafting",

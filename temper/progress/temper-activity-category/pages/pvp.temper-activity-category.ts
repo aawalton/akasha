@@ -2,7 +2,7 @@ import type { TemperActivityCategory } from "akasha/temper/progress/temper-activ
 
 export const pvp = {
   id: "01a05fc9-c60d-792f-9189-fdf12ffb2f2e",
-  type: "temper-activity-category",
+  type: "page-type/temper-activity-category",
   slug: "pvp",
   title: "PvP",
   key: "pvp",
