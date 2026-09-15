@@ -156,13 +156,16 @@ export function refreshedFrom(
   const beside = bodiesAt(repo)
   const naming = reachingBuilt(held, repo, fileProperties, filedBy)
   const walked = bodiesUnder(tree)
+  const noted: string[] = []
   const referenced = held.map((one) =>
     namedFrom(
       one.value,
       one.path,
       known,
       repo,
-      rowsOver(under(repo, one.path), one.value, known.entriedIn(one.value), beside)
+      rowsOver(under(repo, one.path), one.value, known.entriedIn(one.value), beside, (said) => {
+        noted.push(said)
+      })
     )
   )
   const references = [
@@ -175,7 +178,7 @@ export function refreshedFrom(
   return {
     pages: held.length,
     entries: identity.length + references.length,
-    refused: referenced.flatMap((one) => one.refused),
+    refused: [...noted, ...referenced.flatMap((one) => one.refused)],
     drift: drifting(drift, went),
     beside: shaped,
   }

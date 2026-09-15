@@ -225,7 +225,9 @@ export function settlingOver(
     return one === undefined ? bodyAt(at) : one.after
   }
   const rowsFor = (path: string, value: Value, shaped: Shaped, body: Body): readonly Rowing[] =>
-    rowsOver(under(repo, path), value, shaped.entriedIn(value), body)
+    rowsOver(under(repo, path), value, shaped.entriedIn(value), body, (said) => {
+      noted.push(said)
+    })
   const wasKnown = knownIn(reading, wasPageOf)
   const known = knownIn(stepped, nowPageOf)
   const turnedRelations = relationsTurned(shapesAt(reading), shapesAt(overShaped))
