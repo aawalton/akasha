@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const defunct = {
   id: "01a06594-c68d-7013-8f76-e8e1a587791a",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "defunct",
   title: "Defunct / Red-Flag Operators",
   sectionOf: "book-section/solar-power/installers",

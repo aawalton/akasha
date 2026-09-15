@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const sensoryExperience = {
   id: "01a06594-c683-700a-aba1-0a3e449c2d16",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "sensory-experience",
   title: "Sensory experience",
   sectionOf: "alan-book/all-about-alan",

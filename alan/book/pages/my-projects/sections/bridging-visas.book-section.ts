@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const bridgingVisas = {
   id: "01a06594-c68b-700d-89a0-fef420d3cfbe",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "bridging-visas",
   title: "Bridging Visas",
   sectionOf: "book-section/other-residency/other-residency-australia",

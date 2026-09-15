@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const noSelfDecoder = {
   id: "01a06594-c68e-7012-a1fe-2268bcd4491b",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "no-self-decoder",
   title: "No universe decodes itself",
   sectionOf: "alan-book/my-math",

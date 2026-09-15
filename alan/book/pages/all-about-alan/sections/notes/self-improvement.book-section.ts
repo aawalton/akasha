@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const selfImprovement = {
   id: "01a06594-c683-7004-b86d-70cceab3cb2a",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "self-improvement",
   title: "Self-improvement — the atom",
   sectionOf: "alan-book/all-about-alan",

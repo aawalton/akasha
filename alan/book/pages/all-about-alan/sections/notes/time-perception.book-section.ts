@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const timePerception = {
   id: "01a06594-c685-7007-bd80-3b671b79814a",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "time-perception",
   title: "Time perception",
   sectionOf: "alan-book/all-about-alan",

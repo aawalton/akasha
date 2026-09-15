@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const closenessPracticeRig = {
   id: "01a06594-c685-7010-ad13-dd3dc563765e",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "closeness-practice-rig",
   title: "The persona sessions as a closeness-practice rig",
   sectionOf: "alan-book/all-about-alan",

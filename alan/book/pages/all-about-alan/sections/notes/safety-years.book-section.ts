@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const safetyYears = {
   id: "01a06594-c682-7001-85a0-d75c796d8c3b",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "safety-years",
   title: "Safety Years",
   sectionOf: "alan-book/all-about-alan",

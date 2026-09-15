@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const hvac = {
   id: "01a06594-c68d-7005-8efb-da504a454ad7",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "hvac",
   title: "Space Heating + Cooling (Heat Pump)",
   sectionOf: "book-section/solar-power/energy-demand",

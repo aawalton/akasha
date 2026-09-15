@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const selfWorthAdapter = {
   id: "01a06594-c683-7009-ac2e-3b6ebcf01ada",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "self-worth-adapter",
   title: "The self-worth adapter",
   sectionOf: "alan-book/all-about-alan",

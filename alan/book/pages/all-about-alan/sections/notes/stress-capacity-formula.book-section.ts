@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const stressCapacityFormula = {
   id: "01a06594-c684-7012-b049-2b1694055b98",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "stress-capacity-formula",
   title: "Stress-capacity formula",
   sectionOf: "alan-book/all-about-alan",

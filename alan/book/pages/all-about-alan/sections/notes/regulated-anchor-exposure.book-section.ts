@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const regulatedAnchorExposure = {
   id: "01a06594-c67c-700f-8cab-6c85e3a52b75",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "regulated-anchor-exposure",
   title: "Regulated-anchor exposure",
   sectionOf: "alan-book/all-about-alan",

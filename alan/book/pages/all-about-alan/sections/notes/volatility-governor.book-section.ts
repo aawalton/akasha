@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const volatilityGovernor = {
   id: "01a06594-c686-7001-8c3a-414cf88a5472",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "volatility-governor",
   title: "Volatility governor",
   sectionOf: "alan-book/all-about-alan",

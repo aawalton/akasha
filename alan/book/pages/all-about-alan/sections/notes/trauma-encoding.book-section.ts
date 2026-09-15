@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const traumaEncoding = {
   id: "01a06594-c685-7009-aebe-df3a18c0c686",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "trauma-encoding",
   title: "Traumatic nervous-system encoding",
   sectionOf: "alan-book/all-about-alan",

@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const orientation = {
   id: "01a06594-c68d-7000-93cd-e9cc6c9b6e20",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "orientation",
   title: "Tilt and Azimuth (POA Irradiance)",
   sectionOf: "book-section/solar-power/efficiency-factors",

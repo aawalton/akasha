@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const beginnings = {
   id: "01a06594-c68e-700e-9219-31c312a83692",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "beginnings",
   title: "My Math",
   sectionOf: "alan-book/my-math",

@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const assessment = {
   id: "01a06594-c68d-700c-9ddb-6b1adb48d132",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "assessment",
   title: "Envelope Assessment Options",
   sectionOf: "book-section/solar-power/envelope",

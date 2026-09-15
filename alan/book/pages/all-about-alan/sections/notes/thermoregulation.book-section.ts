@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const thermoregulation = {
   id: "01a06594-c685-7003-86ad-13a169700e75",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "thermoregulation",
   title: "Thermoregulation",
   sectionOf: "alan-book/all-about-alan",

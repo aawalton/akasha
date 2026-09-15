@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const reducedChaining = {
   id: "01a06594-c67c-700e-afbe-26a8ba4a8ba3",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "reduced-chaining",
   title: "Reduced chaining (disadvantage)",
   sectionOf: "alan-book/all-about-alan",

@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const incentives = {
   id: "01a06594-c68d-700e-8510-f9f4dc8ee80a",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "incentives",
   title: "Incentives and Utah Contractors",
   sectionOf: "book-section/solar-power/envelope",

@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const baseline = {
   id: "01a06594-c68d-700d-b4f4-61dd22a4489c",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "baseline",
   title: "1970s Utah House — Envelope Baseline",
   sectionOf: "book-section/solar-power/envelope",

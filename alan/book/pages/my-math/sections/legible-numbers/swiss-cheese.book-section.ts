@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const swissCheese = {
   id: "01a06594-c68e-7014-adba-e57d0e73f61c",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "swiss-cheese",
   title: "The legible integers are Swiss cheese",
   sectionOf: "alan-book/my-math",

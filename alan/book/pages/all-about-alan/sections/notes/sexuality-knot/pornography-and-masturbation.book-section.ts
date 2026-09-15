@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const pornographyAndMasturbation = {
   id: "01a06594-c683-700d-ac6c-d0e009c33124",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "pornography-and-masturbation",
   title: "Pornography and masturbation",
   sectionOf: "alan-book/all-about-alan",

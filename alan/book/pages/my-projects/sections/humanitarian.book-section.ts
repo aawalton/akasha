@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const humanitarian = {
   id: "01a06594-c68b-7010-a103-737405ac933e",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "humanitarian",
   title: "Humanitarian",
   sectionOf: "book-section/other-residency/other-residency-australia",

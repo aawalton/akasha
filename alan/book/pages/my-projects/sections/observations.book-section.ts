@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const observations = {
   id: "01a06594-c68d-7016-994c-245e2f4b9498",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "observations",
   title: "Summary Observations",
   sectionOf: "book-section/solar-power/installers",

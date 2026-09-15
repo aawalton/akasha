@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const euCitizenshipPoland = {
   id: "01a06594-c688-700f-a757-fb83a8414c3a",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "eu-citizenship-poland",
   title: "Polish Citizenship Paths (May 2026)",
   sectionOf: "book-section/second-passport/eu-citizenship",

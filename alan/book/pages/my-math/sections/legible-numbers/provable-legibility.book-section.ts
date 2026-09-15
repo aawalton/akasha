@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const provableLegibility = {
   id: "01a06594-c68e-7013-92bd-29e9e15cc177",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "provable-legibility",
   title: "Provable legibility",
   sectionOf: "alan-book/my-math",

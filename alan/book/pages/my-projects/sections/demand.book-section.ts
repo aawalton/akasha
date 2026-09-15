@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const demand = {
   id: "01a06594-c68e-7008-8829-59a74d13b6e1",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "demand",
   title: "Revised Annual Demand (Iteration 2)",
   sectionOf: "book-section/solar-power/sizing",

@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const softwareAndSaas = {
   id: "01a06594-c684-7007-a95e-c7f7465962a8",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "software-and-saas",
   title: "Software and SaaS",
   sectionOf: "alan-book/all-about-alan",

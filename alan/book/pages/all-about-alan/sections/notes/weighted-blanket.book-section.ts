@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const weightedBlanket = {
   id: "01a06594-c686-7005-90b6-dce81da056fc",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "weighted-blanket",
   title: "Weighted blanket",
   sectionOf: "alan-book/all-about-alan",

@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const scarRecoveryModel = {
   id: "01a06594-c683-7000-98b5-f79e66ce4511",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "scar-recovery-model",
   title: "The funded-passage recovery model",
   sectionOf: "alan-book/all-about-alan",

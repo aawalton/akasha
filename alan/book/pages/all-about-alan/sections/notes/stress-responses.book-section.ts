@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const stressResponses = {
   id: "01a06594-c684-7013-8dcd-56f4febef04b",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "stress-responses",
   title: "Stress responses",
   sectionOf: "alan-book/all-about-alan",

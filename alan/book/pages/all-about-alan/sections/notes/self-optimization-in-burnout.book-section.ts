@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const selfOptimizationInBurnout = {
   id: "01a06594-c683-7006-b78b-8a86b13fe56f",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "self-optimization-in-burnout",
   title: "Self-optimization in burnout",
   sectionOf: "alan-book/all-about-alan",

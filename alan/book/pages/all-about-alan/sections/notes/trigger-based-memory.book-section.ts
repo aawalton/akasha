@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const triggerBasedMemory = {
   id: "01a06594-c685-700a-98a5-13eb6b786d38",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "trigger-based-memory",
   title: "Trigger-based memory",
   sectionOf: "alan-book/all-about-alan",

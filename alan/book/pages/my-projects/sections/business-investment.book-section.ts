@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const businessInvestment = {
   id: "01a06594-c68b-700e-a26e-d13e33e94522",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "business-investment",
   title: "Business Investment",
   sectionOf: "book-section/other-residency/other-residency-australia",

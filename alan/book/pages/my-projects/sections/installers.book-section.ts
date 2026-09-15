@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const installers = {
   id: "01a06594-c68d-7018-8870-40c4dc8d0806",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "installers",
   title: "Rooftop Solar Installers Serving Provo, UT",
   sectionOf: "book-section/my-projects/solar-power",

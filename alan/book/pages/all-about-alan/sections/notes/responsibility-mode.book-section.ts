@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const responsibilityMode = {
   id: "01a06594-c67c-7010-9dde-28ffbedb9700",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "responsibility-mode",
   title: "Responsibility Mode",
   sectionOf: "alan-book/all-about-alan",

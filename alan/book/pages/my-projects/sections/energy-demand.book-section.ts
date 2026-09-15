@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const energyDemand = {
   id: "01a06594-c68d-700b-856e-4bd453f6fd44",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "energy-demand",
   title: "Annual Energy Demand (1350 Apple Ave, Provo, UT)",
   sectionOf: "book-section/my-projects/solar-power",

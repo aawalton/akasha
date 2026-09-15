@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const understandingAsInterface = {
   id: "01a06594-c685-700d-8fc8-59ff822625de",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "understanding-as-interface",
   title: "Understanding as interface",
   sectionOf: "alan-book/all-about-alan",

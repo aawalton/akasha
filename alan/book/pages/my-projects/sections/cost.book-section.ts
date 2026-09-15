@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const cost = {
   id: "01a06594-c68e-7007-a401-a52e234c9ad2",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "cost",
   title: "Total Cost Stack",
   sectionOf: "book-section/solar-power/sizing",

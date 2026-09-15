@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const threeSelves = {
   id: "01a06594-c685-7005-ac68-60f81e408004",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "three-selves",
   title: "The three selves",
   sectionOf: "alan-book/all-about-alan",

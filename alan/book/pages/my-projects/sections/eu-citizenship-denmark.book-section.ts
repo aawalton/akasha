@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const euCitizenshipDenmark = {
   id: "01a06594-c688-7001-89b2-d97ba79f1ad9",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "eu-citizenship-denmark",
   title: "Denmark",
   sectionOf: "book-section/second-passport/eu-citizenship",

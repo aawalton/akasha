@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const levers = {
   id: "01a06594-c68e-7002-8ccc-acc19ca81be6",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "levers",
   title: "Levers and Knobs",
   sectionOf: "book-section/solar-power/pricing",

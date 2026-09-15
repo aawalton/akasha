@@ -2,7 +2,7 @@ import type { BookSection } from "akasha/alan/library/reading/book-section/book-
 
 export const aftershockDynamics = {
   id: "01a06594-c67e-7000-ab4e-1a54a242013c",
-  type: "book-section",
+  type: "page-type/book-section",
   slug: "aftershock-dynamics",
   title: "Safety — aftershock dynamics after exposure damage",
   sectionOf: "alan-book/all-about-alan",
