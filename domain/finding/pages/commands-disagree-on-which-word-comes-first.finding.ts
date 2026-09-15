@@ -4,7 +4,7 @@ export const commandsDisagreeOnWhichWordComesFirst = {
   id: "01a073c1-e073-7304-9fd2-d312e380e985",
   type: "finding",
   slug: "commands-disagree-on-which-word-comes-first",
-  domain: "workspace-package/command-system",
+  domain: "page-type/command",
   claim:
     "Which of a command's words names the act and which names the subject follows no rule, and the command line carries both orders. `akasha refresh persona` puts the act first and `akasha index refresh` puts it last, with `refresh` the act in both. `akasha measure change` and `akasha change list` do the same with `change` as the subject. A level name joining the two words splits the same way, `seat compose-notices` against `seat transcript-list`. Neither the command page type nor the namespace page type says which order a command takes, so each writer settles it again.",
   evidence:

@@ -4,7 +4,7 @@ export const theReadRecordSaysABodyWasSentNeverThatABodyArrived = {
   id: "01a061ef-9538-7000-aeee-95f0cd57fa5c",
   type: "finding",
   slug: "the-read-record-says-a-body-was-sent-never-that-a-body-arrived",
-  domain: "workspace-package/command-system",
+  domain: "domain/required-reading",
   claim:
     "The read record says a body was sent, never that a body reached the agent. Four boundaries between the read command and the agent can eat a body. The record counts the first three as read. Two of those three say nothing an agent would read as a failure, and the third names an amount of output rather than a lost body. The fourth is the only one silent on both sides: the body reached the agent and no record was written at all.",
   evidence:
