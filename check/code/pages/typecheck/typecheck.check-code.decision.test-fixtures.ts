@@ -79,8 +79,9 @@ export const WITHOUT = `${READS_ITS_TYPE}export const one = { slug: "one" } as c
 export const WRONG = `${READS_ITS_TYPE}export const one = { slug: 1 } as const satisfies Thing\n`
 
 export const MADE: Readonly<Record<string, string>> = {
-  "akasha/made/reader.ts": 'import { held } from "./held.ts"\n\nexport const reader = held\n',
-  "akasha/made/held.ts": "export const held = 1\n",
+  "akasha/made/reader.ts":
+    'import { held } from "./held.module.ts"\n\nexport const reader = held\n',
+  "akasha/made/held.module.ts": "export const held = 1\n",
 }
 
 export const ONE_NUMBER = "export const one: number = 1\n"
@@ -89,35 +90,35 @@ export const TWO_BREAKS = `${ONE_NUMBER}export const two: string = one\n`
 
 export function exporting(): string {
   return staged({
-    "akasha/held.ts": "export const one = 1\nexport const two = 2\n",
-    "akasha/calls.ts": 'import { two } from "./held.ts"\nexport const said = two\n',
+    "akasha/held.module.ts": "export const one = 1\nexport const two = 2\n",
+    "akasha/calls.ts": 'import { two } from "./held.module.ts"\nexport const said = two\n',
   })
 }
 
 export function across(): string {
   return staged({
-    "akasha/one.ts": "export const one = 1\n",
-    "shared/two.ts": 'import { one } from "../akasha/one.ts"\nexport const two = one\n',
+    "akasha/one.module.ts": "export const one = 1\n",
+    "shared/two.ts": 'import { one } from "../akasha/one.module.ts"\nexport const two = one\n',
   })
 }
 
 export function pairing(): string {
   return staged({
-    "akasha/one.ts": "export const one = 1\n",
-    "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
+    "akasha/one.module.ts": "export const one = 1\n",
+    "akasha/two.ts": 'import { one } from "./one.module.ts"\nexport const two: string = one\n',
   })
 }
 
 export function basing(): string {
   return staged({
-    "akasha/a.ts": ONE_NUMBER,
-    "akasha/b.ts": 'import { one } from "./a.ts"\nexport const two: string = one\n',
+    "akasha/a.module.ts": ONE_NUMBER,
+    "akasha/b.ts": 'import { one } from "./a.module.ts"\nexport const two: string = one\n',
   })
 }
 
 const TAKES_NUMBER = "export function held(one: number): number {\n  return one\n}\n"
 
-const CALLS_HELD = 'import { held } from "./held.ts"\nexport const one = held(1)\n'
+const CALLS_HELD = 'import { held } from "./held.module.ts"\nexport const one = held(1)\n'
 
 export const IMPORTS_TYPEGEN =
   'import type { Route } from "./+types/two"\n\nexport const two: Route = 1\n'
@@ -268,24 +269,30 @@ export function unindexed(): string {
 }
 
 export function calling(): string {
-  return staged({ "akasha/held.ts": TAKES_NUMBER, "akasha/calls.ts": CALLS_HELD })
+  return staged({ "akasha/held.module.ts": TAKES_NUMBER, "akasha/calls.ts": CALLS_HELD })
 }
 
 export function reading(): string {
   return staged({
     "akasha/broken.ts":
-      'import { a } from "./a.ts"\nimport { b } from "./b.ts"\nimport { c } from "./c.ts"\nexport const one: string = a + b + c\n',
-    "akasha/a.ts": "export const a = 1\n",
-    "akasha/b.ts": "export const b = 2\n",
-    "akasha/c.ts": "export const c = 3\n",
+      'import { a } from "./a.module.ts"\nimport { b } from "./b.module.ts"\nimport { c } from "./c.module.ts"\nexport const one: string = a + b + c\n',
+    "akasha/a.module.ts": "export const a = 1\n",
+    "akasha/b.module.ts": "export const b = 2\n",
+    "akasha/c.module.ts": "export const c = 3\n",
   })
+}
+
+export const RENUMBERED: Readonly<Record<string, string>> = {
+  "akasha/a.module.ts": "export const a = 10\n",
+  "akasha/b.module.ts": "export const b = 20\n",
+  "akasha/c.module.ts": "export const c = 30\n",
 }
 
 export function deep(): string {
   return staged({
-    "akasha/one.ts": "export const one = 1\n",
-    "akasha/deep/two.ts": 'import { one } from "../one.ts"\nexport const two = one\n',
-    "akasha/deep/three.ts": 'import { two } from "./two.ts"\nexport const three = two\n',
+    "akasha/one.module.ts": "export const one = 1\n",
+    "akasha/deep/two.module.ts": 'import { one } from "../one.module.ts"\nexport const two = one\n',
+    "akasha/deep/three.ts": 'import { two } from "./two.module.ts"\nexport const three = two\n',
     "akasha/apart.ts": "export const apart = 1\n",
   })
 }
@@ -316,10 +323,10 @@ export function twinned(): string {
   })
 }
 
-export const GONE_AT = "akasha/gone.ts"
+export const GONE_AT = "akasha/gone.module.ts"
 
 export const READS_GONE: Readonly<Record<string, string>> = {
-  "akasha/reads-gone.ts": 'import { gone } from "./gone.ts"\n\nexport const said = gone\n',
+  "akasha/reads-gone.ts": 'import { gone } from "./gone.module.ts"\n\nexport const said = gone\n',
 }
 
 export function orphaning(): string {
@@ -331,7 +338,7 @@ export function orphans(root: string, also: Readonly<Record<string, string>>): r
   return orphanedIn(held, shadowAsked(held).index)
 }
 
-export const READER_AT = "akasha/reader.ts"
+export const READER_AT = "akasha/reader.module.ts"
 
 const PACKAGE_AT = "akasha/persons/package.json"
 
@@ -375,15 +382,15 @@ export function moving(): Change {
   })
 }
 
-const RACING_AT = "akasha/one.ts"
+const RACING_AT = "akasha/one.module.ts"
 
-const RACED_NAME = "two.ts"
+const RACED_NAME = "two.module.ts"
 
-export const RACED_AT = "akasha/two.ts"
+export const RACED_AT = "akasha/two.module.ts"
 
 const RACING: Readonly<Record<string, string>> = {
   [RACING_AT]: "export const one = 1\n",
-  [RACED_AT]: 'import { one } from "./one.ts"\nexport const two: string = one\n',
+  [RACED_AT]: 'import { one } from "./one.module.ts"\nexport const two: string = one\n',
 }
 
 export function vanishing(): Change {

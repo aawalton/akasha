@@ -46,6 +46,7 @@ import {
   READER_AT,
   READS_GONE,
   RELYING_AT,
+  RENUMBERED,
   reached,
   reading,
   relying,
@@ -215,7 +216,7 @@ test("a type is judged across files, so a caller is refused for a callee it no l
   const said = await over(
     root,
     "akasha/calls.ts",
-    'import { held } from "./held.ts"\nexport const one = held("no")\n'
+    'import { held } from "./held.module.ts"\nexport const one = held("no")\n'
   )
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe("akasha/calls.ts")
@@ -225,7 +226,7 @@ test("a change that would break a file it does not touch is refused, and answers
   const root = calling()
   const said = await over(
     root,
-    "akasha/held.ts",
+    "akasha/held.module.ts",
     "export function held(one: string): string {\n  return one\n}\n"
   )
   expect(said).toHaveLength(1)
@@ -235,7 +236,7 @@ test("a change that would break a file it does not touch is refused, and answers
 
 test("a file the change takes away is gone for the compiler, so a file still importing it is refused", async () => {
   const root = calling()
-  const said = await over(root, "akasha/held.ts", null)
+  const said = await over(root, "akasha/held.module.ts", null)
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe("akasha/calls.ts")
   expect(said[0]?.reason).toContain("TS2307")
@@ -254,7 +255,7 @@ test("a file the change takes away answers for none of its own diagnostics", asy
 
 test("an export the change takes away breaks the file reading it", async () => {
   const root = exporting()
-  const said = await over(root, "akasha/held.ts", "export const one = 1\n")
+  const said = await over(root, "akasha/held.module.ts", "export const one = 1\n")
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe("akasha/calls.ts")
 })
@@ -268,13 +269,7 @@ test("a file the change brings is compiled though no disk holds it", async () =>
 
 test("a diagnostic against a file the change did not touch is reported once, however many paths it holds", async () => {
   const root = reading()
-  const said = await judged(
-    change(root, {
-      "akasha/a.ts": "export const a = 10\n",
-      "akasha/b.ts": "export const b = 20\n",
-      "akasha/c.ts": "export const c = 30\n",
-    })
-  )
+  const said = await judged(change(root, RENUMBERED))
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe("akasha/broken.ts")
 })
@@ -300,10 +295,10 @@ test("a folder holding no TypeScript is judged clean without a program being bui
 
 test("the files compiled are the change and everything importing it, however far", () => {
   const root = deep()
-  expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+  expect(reached(change(root, { "akasha/one.module.ts": "export const one = 2\n" }))).toEqual([
     "akasha/deep/three.ts",
-    "akasha/deep/two.ts",
-    "akasha/one.ts",
+    "akasha/deep/two.module.ts",
+    "akasha/one.module.ts",
   ])
   expect(reached(change(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([
     "akasha/apart.ts",
@@ -317,17 +312,20 @@ test("a file nothing in the change reaches is not compiled, so its standing erro
 
 test("the akasha folder is the whole repository, so an importer in any folder under it is a root", () => {
   const root = across()
-  expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
-    "akasha/one.ts",
+  expect(reached(change(root, { "akasha/one.module.ts": "export const one = 2\n" }))).toEqual([
+    "akasha/one.module.ts",
     "shared/two.ts",
   ])
 })
 
 test("a shadow asked for a change reaches the importers the change itself reaches", async () => {
   const root = pairing()
-  const held = change(root, { "akasha/one.ts": "export const one = 2\n" })
-  expect(reached(held)).toEqual(["akasha/one.ts", "akasha/two.ts"])
-  expect(reachedBy(held, shadowAsked(held).index)).toEqual(["akasha/one.ts", "akasha/two.ts"])
+  const held = change(root, { "akasha/one.module.ts": "export const one = 2\n" })
+  expect(reached(held)).toEqual(["akasha/one.module.ts", "akasha/two.ts"])
+  expect(reachedBy(held, shadowAsked(held).index)).toEqual([
+    "akasha/one.module.ts",
+    "akasha/two.ts",
+  ])
   expect((await judged(held)).map((one) => one.path)).toEqual(["akasha/two.ts"])
 })
 
@@ -346,7 +344,7 @@ test("a change naming no TypeScript under the akasha folder asks the index nothi
 test("a file whole at base and deleted from the worktree alone still answers for its errors", async () => {
   const root = basing()
   const held = readFileSync(join(root, "akasha/b.ts"), "utf8")
-  const changed = { "akasha/a.ts": ONE_NUMBER }
+  const changed = { "akasha/a.module.ts": ONE_NUMBER }
   const refusals = await judged(change(root, changed))
   rmSync(join(root, "akasha/b.ts"))
   const gone = await judged(change(root, changed, { "akasha/b.ts": held }))
