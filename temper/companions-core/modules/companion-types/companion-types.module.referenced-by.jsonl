@@ -9,7 +9,6 @@
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/companions-core/modules/companion-optimizer/companion-optimizer.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/companions-core/modules/companion-rotation-metrics/companion-rotation-metrics.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/companions-core/modules/companion-skill-line-queries/companion-skill-line-queries.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/companions-core/modules/companion-skill-optimizer/companion-skill-optimizer.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/companions-core/modules/companion-soothing-healing/companion-soothing-healing.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/companions-core/modules/companion-stats-calculator-impl/companion-stats-calculator-impl.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/companions-core/modules/companion-stats-calculator/companion-stats-calculator.module.code.ts"}

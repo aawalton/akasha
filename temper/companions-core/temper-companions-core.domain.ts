@@ -53,7 +53,6 @@ export const temperCompanionsCore = {
     "module/companion-skill-executor",
     "module/companion-skill-formula",
     "module/companion-skill-line-queries",
-    "module/companion-skill-optimizer",
     "module/companion-skill-slots",
     "module/companion-skill-tooltip",
     "module/companion-skills",
