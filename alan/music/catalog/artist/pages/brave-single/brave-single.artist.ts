@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const braveSingle = {
   id: "01a06803-676b-7003-bfe1-e843e3ea3d14",
-  type: "artist",
+  type: "page-type/artist",
   slug: "brave-single",
   title: "Brave - Single",
   partOfCollections: ["artist/byu-vocal-point"],

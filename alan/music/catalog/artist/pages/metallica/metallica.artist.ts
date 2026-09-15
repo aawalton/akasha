@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const metallica = {
   id: "01a06803-676b-7028-89e8-12ba4e4e388f",
-  type: "artist",
+  type: "page-type/artist",
   slug: "metallica",
   title: "Metallica",
   partOfCollections: ["artist-collection/artists"],

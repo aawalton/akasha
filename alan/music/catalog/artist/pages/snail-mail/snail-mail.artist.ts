@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const snailMail = {
   id: "01a06803-676c-7009-b83d-a11958b554ba",
-  type: "artist",
+  type: "page-type/artist",
   slug: "snail-mail",
   title: "Snail Mail",
   partOfCollections: ["artist-collection/artists"],

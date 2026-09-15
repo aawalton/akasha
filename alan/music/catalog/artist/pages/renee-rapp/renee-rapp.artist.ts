@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const reneeRapp = {
   id: "01a06803-676c-7005-a11f-3a5274c158ae",
-  type: "artist",
+  type: "page-type/artist",
   slug: "renee-rapp",
   title: "Reneé Rapp",
   partOfCollections: ["artist-collection/artists"],

@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const theBeatles = {
   id: "01a06803-676c-700c-9dae-14c7db84f5b7",
-  type: "artist",
+  type: "page-type/artist",
   slug: "the-beatles",
   title: "The Beatles",
   partOfCollections: ["artist-collection/artists"],

@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const vinnyMarchi = {
   id: "01a06803-676c-7011-ac08-53a302031f1d",
-  type: "artist",
+  type: "page-type/artist",
   slug: "vinny-marchi",
   title: "Vinny Marchi",
   partOfCollections: ["artist-collection/artists"],

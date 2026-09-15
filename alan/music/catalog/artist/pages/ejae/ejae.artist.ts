@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const ejae = {
   id: "01a06803-676b-7009-8e70-d18d53808cd9",
-  type: "artist",
+  type: "page-type/artist",
   slug: "ejae",
   title: "EJAE",
   partOfCollections: ["artist-collection/artists"],

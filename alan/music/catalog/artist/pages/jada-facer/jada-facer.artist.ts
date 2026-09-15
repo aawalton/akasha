@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const jadaFacer = {
   id: "01a06803-676b-7017-9ef6-363ea85fba5e",
-  type: "artist",
+  type: "page-type/artist",
   slug: "jada-facer",
   title: "Jada Facer",
   partOfCollections: ["artist-collection/artists"],

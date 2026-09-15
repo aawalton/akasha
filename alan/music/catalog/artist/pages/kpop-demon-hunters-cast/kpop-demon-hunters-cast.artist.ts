@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const kpopDemonHuntersCast = {
   id: "01a06803-676b-7021-a8df-cdc6e0bf17a3",
-  type: "artist",
+  type: "page-type/artist",
   slug: "kpop-demon-hunters-cast",
   title: "KPop Demon Hunters Cast",
   partOfCollections: ["artist-collection/artists", "fandom/kpop-demon-hunters"],

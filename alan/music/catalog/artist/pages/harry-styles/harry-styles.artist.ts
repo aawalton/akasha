@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const harryStyles = {
   id: "01a06803-676b-7014-81a2-4a910a5adaca",
-  type: "artist",
+  type: "page-type/artist",
   slug: "harry-styles",
   title: "Harry Styles",
   partOfCollections: ["artist-collection/artists"],

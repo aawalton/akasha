@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const katyPerry = {
   id: "01a06803-676b-701f-96d7-4d889beed1ae",
-  type: "artist",
+  type: "page-type/artist",
   slug: "katy-perry",
   title: "Katy Perry",
   partOfCollections: ["artist-collection/artists"],

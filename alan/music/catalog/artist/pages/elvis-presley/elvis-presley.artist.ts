@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const elvisPresley = {
   id: "01a06803-676b-700b-be3d-e89a990f229f",
-  type: "artist",
+  type: "page-type/artist",
   slug: "elvis-presley",
   title: "Elvis Presley",
   partOfCollections: ["artist-collection/artists"],

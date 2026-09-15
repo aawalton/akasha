@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const phoebeBridgers = {
   id: "01a06803-676c-7004-a9ef-66da0e7a11b6",
-  type: "artist",
+  type: "page-type/artist",
   slug: "phoebe-bridgers",
   ownLength: 0,
   ownProgress: 0,

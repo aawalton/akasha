@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const epicTheMusical = {
   id: "01a06803-676b-700f-b172-404ed94c6bfa",
-  type: "artist",
+  type: "page-type/artist",
   slug: "epic-the-musical",
   title: "Epic: The Musical",
   partOfCollections: ["artist-collection/artists"],

@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const celticWoman = {
   id: "01a06803-676b-7005-a078-1595cfcab4e9",
-  type: "artist",
+  type: "page-type/artist",
   slug: "celtic-woman",
   title: "Celtic Woman",
   partOfCollections: ["artist-collection/artists"],

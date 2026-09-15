@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const emBeihold = {
   id: "019ea4de-c59b-742c-ad28-1df0d95fbb6b",
-  type: "artist",
+  type: "page-type/artist",
   slug: "em-beihold",
   title: "Em Beihold",
   partOfCollections: ["artist-collection/artists"],

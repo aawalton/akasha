@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const pentatonix = {
   id: "01a06803-676c-7003-af76-ca9b4c453f63",
-  type: "artist",
+  type: "page-type/artist",
   slug: "pentatonix",
   ownLength: 0,
   ownProgress: 0,

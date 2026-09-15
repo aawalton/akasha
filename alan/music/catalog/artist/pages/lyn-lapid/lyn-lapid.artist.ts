@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const lynLapid = {
   id: "01a06803-676b-7027-890c-80707c9be725",
-  type: "artist",
+  type: "page-type/artist",
   slug: "lyn-lapid",
   title: "Lyn Lapid",
   partOfCollections: ["artist-collection/artists"],

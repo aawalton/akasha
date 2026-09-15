@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const kDa = {
   id: "01a06803-676b-701e-902e-5bf1a8b9d455",
-  type: "artist",
+  type: "page-type/artist",
   slug: "k-da",
   title: "K/DA",
   partOfCollections: ["artist-collection/artists", "fandom/league-of-legends"],

@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const billyJoel = {
   id: "01a06803-676b-7002-a3eb-aaec816b0225",
-  type: "artist",
+  type: "page-type/artist",
   slug: "billy-joel",
   title: "Billy Joel",
   partOfCollections: ["artist-collection/artists"],

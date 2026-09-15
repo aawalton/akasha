@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const enya = {
   id: "01a06803-676b-700e-b5dc-e19c81a95c3b",
-  type: "artist",
+  type: "page-type/artist",
   slug: "enya",
   ownLength: 0,
   ownProgress: 0,

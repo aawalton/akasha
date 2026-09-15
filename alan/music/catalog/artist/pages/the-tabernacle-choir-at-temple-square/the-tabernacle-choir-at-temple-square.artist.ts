@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const theTabernacleChoirAtTempleSquare = {
   id: "01a06803-676c-700f-bd57-49bbfc8299f2",
-  type: "artist",
+  type: "page-type/artist",
   slug: "the-tabernacle-choir-at-temple-square",
   title: "The Tabernacle Choir at Temple Square",
   partOfCollections: ["artist-collection/artists"],

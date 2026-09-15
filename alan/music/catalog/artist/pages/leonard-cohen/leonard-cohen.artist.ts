@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const leonardCohen = {
   id: "01a06803-676b-7023-9822-b93ce4268131",
-  type: "artist",
+  type: "page-type/artist",
   slug: "leonard-cohen",
   title: "Leonard Cohen",
   partOfCollections: ["artist-collection/artists"],

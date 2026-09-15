@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const tomLehrer = {
   id: "01a06803-676c-7010-8d4e-a738cae65353",
-  type: "artist",
+  type: "page-type/artist",
   slug: "tom-lehrer",
   title: "Tom Lehrer",
   partOfCollections: ["artist-collection/artists"],

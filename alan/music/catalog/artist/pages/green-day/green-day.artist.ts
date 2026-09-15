@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const greenDay = {
   id: "01a06803-676b-7013-ab1e-a09abef060e4",
-  type: "artist",
+  type: "page-type/artist",
   slug: "green-day",
   title: "Green Day",
   partOfCollections: ["artist-collection/artists"],

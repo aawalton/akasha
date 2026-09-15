@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const clairo = {
   id: "01a06803-676b-7007-8276-303bac6bb30e",
-  type: "artist",
+  type: "page-type/artist",
   slug: "clairo",
   title: "Clairo",
   partOfCollections: ["artist-collection/artists"],

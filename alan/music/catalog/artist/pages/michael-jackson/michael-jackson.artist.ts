@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const michaelJackson = {
   id: "01a06803-676b-7029-876e-83ab268f9dd8",
-  type: "artist",
+  type: "page-type/artist",
   slug: "michael-jackson",
   title: "Michael Jackson",
   partOfCollections: ["artist-collection/artists"],

@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const paulCardall = {
   id: "01a06803-676c-7002-9bd6-18d8aef62a63",
-  type: "artist",
+  type: "page-type/artist",
   slug: "paul-cardall",
   title: "Paul Cardall",
   partOfCollections: ["artist-collection/artists"],

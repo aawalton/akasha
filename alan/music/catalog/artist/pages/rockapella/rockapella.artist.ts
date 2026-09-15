@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const rockapella = {
   id: "01a06803-676c-7006-82e2-fe202a434cd6",
-  type: "artist",
+  type: "page-type/artist",
   slug: "rockapella",
   title: "Rockapella",
   partOfCollections: ["artist-collection/artists"],

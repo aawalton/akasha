@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const evynneHollens = {
   id: "019ea4ce-df22-7041-8d45-35caf3120d77",
-  type: "artist",
+  type: "page-type/artist",
   slug: "evynne-hollens",
   title: "Evynne Hollens",
   unit: "unit/minutes",

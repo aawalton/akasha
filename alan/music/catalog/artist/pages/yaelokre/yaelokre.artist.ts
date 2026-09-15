@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const yaelokre = {
   id: "01a06803-676c-7013-9310-2bf5cfbb8d9b",
-  type: "artist",
+  type: "page-type/artist",
   slug: "yaelokre",
   title: "Yaelokre",
   partOfCollections: ["artist-collection/artists"],

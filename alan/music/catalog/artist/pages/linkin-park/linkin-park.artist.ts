@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const linkinPark = {
   id: "01a06803-676b-7026-9fda-d9e54409307d",
-  type: "artist",
+  type: "page-type/artist",
   slug: "linkin-park",
   title: "Linkin Park",
   partOfCollections: ["artist-collection/artists"],

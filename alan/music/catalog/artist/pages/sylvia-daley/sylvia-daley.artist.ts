@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const sylviaDaley = {
   id: "01a06803-676c-700a-a8bc-f7583737dc27",
-  type: "artist",
+  type: "page-type/artist",
   slug: "sylvia-daley",
   title: "Sylvia Daley",
   partOfCollections: ["artist-collection/artists"],
