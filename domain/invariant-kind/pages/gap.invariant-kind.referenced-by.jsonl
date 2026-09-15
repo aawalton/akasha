@@ -433,6 +433,7 @@
 {"propertySlug":"invariant-kind","path":"temper/catalog/thing/properties/skill-type.text-property.ts","id":"01a05fba-ce3b-7869-b428-d3dd2f8703d7"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/thing/properties/subcategory-id.text-property.ts","id":"01a05fba-ce3b-7c4b-adf4-7b752fef3058"}
 {"propertySlug":"invariant-kind","path":"temper/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
+{"propertySlug":"invariant-kind","path":"temper/character-class/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
 {"propertySlug":"invariant-kind","path":"temper/character-skill/modules/character-skills-00/character-skills-00.module.ts","id":"01a06182-7818-7e29-abd6-c2963db70f64"}
 {"propertySlug":"invariant-kind","path":"temper/character-skill/modules/character-skills-01/character-skills-01.module.ts","id":"01a06182-7819-71e6-858d-af00abb1471b"}
 {"propertySlug":"invariant-kind","path":"temper/character-skill/modules/character-skills-02/character-skills-02.module.ts","id":"01a06182-781a-7fd3-a2e9-7faf720efdcc"}
@@ -674,7 +675,6 @@
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/sets-data-123/sets-data-123.module.ts","id":"01a061a4-18b0-7f37-89cc-e3646ca45a3c"}
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.ts","id":"01a0616f-8e18-7979-89eb-61f1621f3cdb"}
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
-{"propertySlug":"invariant-kind","path":"temper/classes/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
 {"propertySlug":"invariant-kind","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.ts","id":"01a068e2-226d-7781-8c70-c328fa164cff"}
 {"propertySlug":"invariant-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"invariant-kind","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}

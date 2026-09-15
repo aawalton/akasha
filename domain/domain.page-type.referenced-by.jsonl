@@ -553,6 +553,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/catalog/temper-world/temper-world.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/champion-point/temper-champion-point.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-build/temper-character-build.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-class/temper-character-class.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-skill/temper-character-skill.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-source/temper-character-source.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/character-stat/temper-character-stat.domain.ts"}
@@ -563,7 +564,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/characters-equipment/temper-characters-equipment.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/chat-entry/temper-chat-entry.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/classes/temper-classes.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/command/temper-command.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/community-addons/temper-community-addons.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/companion-codec/temper-companion-codec.domain.ts"}

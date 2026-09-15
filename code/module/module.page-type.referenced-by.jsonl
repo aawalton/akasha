@@ -2770,6 +2770,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-build/modules/build-factory/build-factory.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-build/modules/build-types/build-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-build/modules/race-source/race-source.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-class/modules/character-class/character-class.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-skill/modules/character-skill-template/character-skill-template.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-skill/modules/character-skills-00/character-skills-00.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/character-skill/modules/character-skills-01/character-skills-01.module.ts"}
@@ -3217,7 +3218,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-skills-morphs-addon/modules/skill-morph-task-progress/skill-morph-task-progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/chat-entry/modules/chat-entry-text/chat-entry-text.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/classes/modules/character-class/character-class.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/collections-addon/modules/collections-addon-entry/collections-addon-entry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/collections-addon/modules/collections-addon-global/collections-addon-global.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/collections-addon/modules/collections-addon-loaded/collections-addon-loaded.module.ts"}

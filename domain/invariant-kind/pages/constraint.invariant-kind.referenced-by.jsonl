@@ -373,6 +373,7 @@
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-companions/temper-companion-skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
 {"propertySlug":"invariant-kind","path":"temper/catalog/temper-companions/temper-companion-skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
 {"propertySlug":"invariant-kind","path":"temper/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
+{"propertySlug":"invariant-kind","path":"temper/character-class/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
 {"propertySlug":"invariant-kind","path":"temper/character-skill/modules/character-skill-template/character-skill-template.module.ts","id":"01a0617a-2c70-7581-9900-cbdb1ccbe478"}
 {"propertySlug":"invariant-kind","path":"temper/character-skill/modules/character-skills-00/character-skills-00.module.ts","id":"01a06182-7818-7e29-abd6-c2963db70f64"}
 {"propertySlug":"invariant-kind","path":"temper/character-skill/modules/character-skills-01/character-skills-01.module.ts","id":"01a06182-7819-71e6-858d-af00abb1471b"}
@@ -666,7 +667,6 @@
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/sets-data-123/sets-data-123.module.ts","id":"01a061a4-18b0-7f37-89cc-e3646ca45a3c"}
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.ts","id":"01a0616f-8e18-7979-89eb-61f1621f3cdb"}
 {"propertySlug":"invariant-kind","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
-{"propertySlug":"invariant-kind","path":"temper/classes/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
 {"propertySlug":"invariant-kind","path":"temper/combat-addon/temper-combat-addon.eso-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
 {"propertySlug":"invariant-kind","path":"temper/community-addons/modules/esoui-catalog/esoui-catalog.module.ts","id":"01a06069-b78e-7d2b-92aa-b3faa2d1f562"}
 {"propertySlug":"invariant-kind","path":"temper/community-addons/temper-community-addons.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}

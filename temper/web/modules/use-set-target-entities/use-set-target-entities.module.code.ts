@@ -10,11 +10,11 @@ import {
 } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { confirmingTarget } from "akasha/temper/build-support/modules/confirm-set-target/confirm-set-target.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
+import { classes } from "akasha/temper/character-class/modules/character-class/character-class.module.code.ts"
 import {
   useCharacterLifecycle,
   useCharacterList,
 } from "akasha/temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
-import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"

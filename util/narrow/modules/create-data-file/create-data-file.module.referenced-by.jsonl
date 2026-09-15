@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/champion-point/modules/fitness-slottables/fitness-slottables.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/champion-point/modules/warfare-passives/warfare-passives.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/champion-point/modules/warfare-slottables/warfare-slottables.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-class/modules/character-class/character-class.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/character-skills-from-pages/character-skills-from-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/character-skills/character-skills.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/scribed-skills/scribed-skills.module.code.ts"}
@@ -23,7 +24,6 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/characters-equipment/modules/sets-all/sets-all.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/classes/modules/character-class/character-class.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/companions-core/modules/companion-activation-buffs/companion-activation-buffs.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"}

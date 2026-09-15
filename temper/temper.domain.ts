@@ -44,7 +44,7 @@ export const temper = {
     "domain/temper-characters-skills-morphs-addon",
     "domain/temper-character-stat",
     "domain/temper-chat-entry",
-    "domain/temper-classes",
+    "domain/temper-character-class",
     "domain/temper-command",
     "domain/temper-community-addons",
     "domain/temper-companion-codec",
