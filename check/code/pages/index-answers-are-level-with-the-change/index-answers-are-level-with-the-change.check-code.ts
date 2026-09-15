@@ -35,6 +35,10 @@ export const indexAnswersAreLevelWithTheChange = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The file a page carries beside it is judged here as such an index is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An answer already holding what the change leaves is judged by nothing here.",
     },
     {
