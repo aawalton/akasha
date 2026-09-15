@@ -1,0 +1,10 @@
+{"decisions":[{"decisionKind":"decision-kind/departure","statement":"A line holds one property the page states, under the key the page states it as."},{"decisionKind":"decision-kind/departure","statement":"A line holds the value the page's body declares once that body has run."},{"decisionKind":"decision-kind/departure","statement":"The lines are sorted, so one property that changes moves one line."},{"decisionKind":"decision-kind/departure","statement":"A reader wanting one property reads one line rather than the whole page."},{"decisionKind":"decision-kind/departure","statement":"A page whose body will not load has a file with no line."},{"decisionKind":"decision-kind/departure","statement":"This file is written as the page lands, so nothing judges it against the page."},{"decisionKind":"decision-kind/departure","statement":"This file is written whole, so what it held before is never read to write it."},{"decisionKind":"decision-kind/departure","statement":"Reading a page's properties from here is far cheaper than loading its body."}]}
+{"definition":"what a page carries, one line to a property"}
+{"extensions":["jsonl"]}
+{"generated":true}
+{"id":"01a0a67f-8361-7168-a93c-9877e30b109a"}
+{"propertySlug":"carried"}
+{"runsFileLength":false}
+{"slug":"carried"}
+{"type":"page-type/file-property"}
+{"types":"ts"}

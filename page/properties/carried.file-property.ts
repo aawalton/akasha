@@ -36,6 +36,10 @@ export const carried = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This file is written whole, so what it held before is never read to write it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Reading a page's properties from here is far cheaper than loading its body.",
     },
   ],
