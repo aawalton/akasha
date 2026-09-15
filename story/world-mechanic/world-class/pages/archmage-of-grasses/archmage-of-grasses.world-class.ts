@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const archmageOfGrasses = {
   id: "01a0657e-132f-79c5-98c8-805d2403dfca",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "archmage-of-grasses",
   title: "Archmage of Grasses",
   world: "world/the-wandering-inn",

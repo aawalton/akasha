@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const archmageOfTheEternalGrasslands = {
   id: "01a0657e-132f-748e-b8eb-daeb7a41cff7",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "archmage-of-the-eternal-grasslands",
   title: "Archmage of the Eternal Grasslands",
   world: "world/the-wandering-inn",

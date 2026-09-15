@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const allRangeDuelist = {
   id: "01a0657e-01a7-776f-8322-2e27bd09c07a",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "all-range-duelist",
   title: "All-Range Duelist",
   world: "world/the-wandering-inn",

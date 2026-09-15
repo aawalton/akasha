@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const abacusCounter = {
   id: "01a0657e-01a1-7b5e-a806-7325f4775a04",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "abacus-counter",
   title: "Abacus Counter",
   world: "world/the-wandering-inn",

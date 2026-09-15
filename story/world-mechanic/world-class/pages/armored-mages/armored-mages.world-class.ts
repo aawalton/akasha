@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const armoredMages = {
   id: "01a0657e-01ab-76ac-854a-47a8a2366ccb",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "armored-mages",
   title: "Armored Mages",
   world: "world/the-wandering-inn",

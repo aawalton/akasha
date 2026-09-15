@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const apotheosisOfUndeath = {
   id: "01a0657e-01a8-7f1e-8551-ae0f5cc94fd1",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "apotheosis-of-undeath",
   title: "Apotheosis of Undeath",
   world: "world/the-wandering-inn",

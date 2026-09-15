@@ -2,7 +2,7 @@ import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-c
 
 export const archmageOfDeath = {
   id: "01a0657e-01aa-765d-bd69-5ce1c912973a",
-  type: "world-class",
+  type: "page-type/world-class",
   slug: "archmage-of-death",
   title: "Archmage of Death",
   world: "world/the-wandering-inn",
