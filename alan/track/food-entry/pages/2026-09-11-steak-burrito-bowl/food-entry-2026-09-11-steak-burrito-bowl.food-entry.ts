@@ -2,7 +2,7 @@ import type { FoodEntry } from "akasha/alan/track/food-entry/food-entry.page-typ
 
 export const foodEntry20260911SteakBurritoBowl = {
   id: "01a09322-472b-7000-92e6-2cd47bd56c09",
-  type: "food-entry",
+  type: "page-type/food-entry",
   slug: "food-entry-2026-09-11-steak-burrito-bowl",
   cover: "/api/image/01a09322-472b-7000-92e6-2cd47bd56c09",
   title: "Steak Burrito Bowl",

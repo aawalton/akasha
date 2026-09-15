@@ -2,7 +2,7 @@ import type { FoodEntry } from "akasha/alan/track/food-entry/food-entry.page-typ
 
 export const foodEntry20260911ThreeBananas = {
   id: "01a08e0f-2dc8-7000-9718-c42394b3c0bf",
-  type: "food-entry",
+  type: "page-type/food-entry",
   slug: "food-entry-2026-09-11-three-bananas",
   cover: "/api/image/01a08e0f-2dc8-7000-9718-c42394b3c0bf",
   title: "Three bananas",

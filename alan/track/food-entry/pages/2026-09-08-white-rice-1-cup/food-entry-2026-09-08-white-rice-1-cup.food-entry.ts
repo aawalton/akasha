@@ -2,7 +2,7 @@ import type { FoodEntry } from "akasha/alan/track/food-entry/food-entry.page-typ
 
 export const foodEntry20260908WhiteRice1Cup = {
   id: "01a0826f-ab66-7000-b05b-a4d2fb7f1965",
-  type: "food-entry",
+  type: "page-type/food-entry",
   slug: "food-entry-2026-09-08-white-rice-1-cup",
   title: "White rice (1 cup)",
   happenedAt: "2026-09-08T19:12:31.581Z",

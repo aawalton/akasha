@@ -2,7 +2,7 @@ import type { FoodEntry } from "akasha/alan/track/food-entry/food-entry.page-typ
 
 export const foodEntry20260911MarbledMintCookiesCreamIceCream = {
   id: "01a08e0f-7f9c-7000-9d2d-fa90ad58fbd2",
-  type: "food-entry",
+  type: "page-type/food-entry",
   slug: "food-entry-2026-09-11-marbled-mint-cookies-cream-ice-cream",
   cover: "/api/image/01a08e0f-7f9c-7000-9d2d-fa90ad58fbd2",
   title: "Marbled Mint Cookies & Cream ice cream",

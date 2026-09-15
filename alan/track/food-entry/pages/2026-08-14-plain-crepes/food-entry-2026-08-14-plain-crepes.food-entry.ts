@@ -2,7 +2,7 @@ import type { FoodEntry } from "akasha/alan/track/food-entry/food-entry.page-typ
 
 export const foodEntry20260814PlainCrepes = {
   id: "01a065a3-6e93-7437-bf97-f7ef6e25af81",
-  type: "food-entry",
+  type: "page-type/food-entry",
   slug: "food-entry-2026-08-14-plain-crepes",
   title: "Plain crepes",
   happenedAt: "2026-08-14T18:00:00.000Z",

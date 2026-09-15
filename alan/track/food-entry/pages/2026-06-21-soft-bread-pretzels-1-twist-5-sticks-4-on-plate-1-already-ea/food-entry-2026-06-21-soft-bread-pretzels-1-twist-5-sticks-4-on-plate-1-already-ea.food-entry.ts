@@ -2,7 +2,7 @@ import type { FoodEntry } from "akasha/alan/track/food-entry/food-entry.page-typ
 
 export const foodEntry20260621SoftBreadPretzels1Twist5Sticks4OnPlate1AlreadyEa = {
   id: "01a065a3-6e8c-795b-ba85-cc5f914662d2",
-  type: "food-entry",
+  type: "page-type/food-entry",
   slug: "food-entry-2026-06-21-soft-bread-pretzels-1-twist-5-sticks-4-on-plate-1-already-ea",
   title:
     "soft bread pretzels 1 twist + ~5 sticks (4 on plate + 1 already eaten) @2026-06-21 (awareness)",

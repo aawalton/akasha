@@ -2,7 +2,7 @@ import type { FoodEntry } from "akasha/alan/track/food-entry/food-entry.page-typ
 
 export const foodEntry20260729LittleCaesarSCrazyBread1StickAwareness2 = {
   id: "01a065a3-6e92-7a6e-93ae-577e7d7a3393",
-  type: "food-entry",
+  type: "page-type/food-entry",
   slug: "food-entry-2026-07-29-little-caesar-s-crazy-bread-1-stick-awareness-2",
   title: "Little Caesar's Crazy Bread, 1 stick (awareness)",
   happenedAt: "2026-07-29T18:00:00.000Z",

@@ -2,7 +2,7 @@ import type { FoodEntry } from "akasha/alan/track/food-entry/food-entry.page-typ
 
 export const foodEntry20260910DarkChocolateAcai = {
   id: "01a08d04-636f-7000-ad0c-37eca264be71",
-  type: "food-entry",
+  type: "page-type/food-entry",
   slug: "food-entry-2026-09-10-dark-chocolate-acai",
   cover: "/api/image/01a08d04-636f-7000-ad0c-37eca264be71",
   title: "Dark Chocolate Acai",
