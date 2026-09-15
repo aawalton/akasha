@@ -1,4 +1,5 @@
 import { lstatSync } from "node:fs"
+import { homedir } from "node:os"
 import { basename, dirname, join, resolve } from "node:path"
 import {
   guardedIn,
@@ -25,6 +26,10 @@ import { gitIgnoring } from "akasha/git/modules/pathspec/git-pathspec.module.cod
 import { z } from "zod"
 
 const HOOK_NAME = "block-akasha-shell-writes"
+
+const HOME = "~"
+
+const HOME_IN = `${HOME}/`
 
 const DD = "dd"
 
@@ -392,8 +397,18 @@ function judgedAtTheLink(landing: Landing): boolean {
   return TAKING_AWAY.has(landing.how) || landing.keepingTheLink === true
 }
 
+function atHome(shown: string): string {
+  if (shown === HOME) return homedir()
+  if (shown.startsWith(HOME_IN)) return join(homedir(), shown.slice(HOME_IN.length))
+  return shown
+}
+
+function spelledAt(from: string, shown: string): string {
+  return resolve(from, atHome(shown))
+}
+
 function landedAt(from: string, landing: Landing): string {
-  const spelled = resolve(from, landing.at)
+  const spelled = spelledAt(from, landing.at)
   if (judgedAtTheLink(landing) && namesTheLink(landing.at)) {
     const atTheLink = join(settled(dirname(spelled)), basename(spelled))
     if (aLink(atTheLink)) return atTheLink
@@ -418,15 +433,15 @@ export function refusalFor(command: string, from: string, root: string): string 
   const landings = landingsIn(command)
   const programs = programLandingsIn(command)
   for (const landing of landings) {
-    const at = settled(resolve(from, landing.at))
+    const at = settled(spelledAt(from, landing.at))
     if (insideOf(guarded.index, at)) return refusing(landing.how, landing.at, true)
   }
   for (const landing of programs) {
-    const at = settled(resolve(from, landing.at))
+    const at = settled(spelledAt(from, landing.at))
     if (insideOf(guarded.index, at)) return refusingAProgram(landing.how, landing.at, true)
   }
   for (const landing of [...landings, ...programs]) {
-    const at = settled(resolve(from, landing.at))
+    const at = settled(spelledAt(from, landing.at))
     if (insideOf(guarded.git, at)) return refusingGit(landing.how, landing.at)
   }
   const judged: Judged[] = []
@@ -435,7 +450,7 @@ export function refusalFor(command: string, from: string, root: string): string 
     if (insideOf(guarded.pages, at)) judged.push({ landing, at, program: false })
   }
   for (const landing of programs) {
-    const at = settled(resolve(from, landing.at))
+    const at = settled(spelledAt(from, landing.at))
     if (insideOf(guarded.pages, at)) judged.push({ landing, at, program: true })
   }
   if (judged.length === 0) return null

@@ -97,6 +97,14 @@ export const blockAkashaShellWrites = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A path opening with a tilde names the home directory rather than a folder here.",
+    },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "A tilde the shell would leave alone for being quoted names a folder here.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A landing the repository ignores is not guarded.",
     },
     {

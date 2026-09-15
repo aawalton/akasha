@@ -55,6 +55,12 @@ test("a write outside the guarded roots is let through", () => {
   expect(said("echo hi > /var/tmp/b")).toBeNull()
 })
 
+test("a path opening with a tilde names the home directory rather than a folder here", () => {
+  expect(said("cp /var/tmp/x ~/.local/state/workstation-services/service-loader.ts")).toBeNull()
+  expect(said("echo hi > ~/held.txt")).toBeNull()
+  expect(said("python3 -c \"open('~/held.txt','w')\"")).toBeNull()
+})
+
 test("a later segment is judged as the first is", () => {
   expect(said("echo hi && cp /var/tmp/x akasha/held.domain.ts")).toContain(INSIDE)
 })
