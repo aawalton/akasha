@@ -20,6 +20,12 @@ export const page = {
       uncommitted: true,
       default: "jsonl",
     },
+    {
+      pageProperty: "file-property/referenced-by",
+      required: false,
+      many: false,
+      default: "jsonl",
+    },
   ],
   parts: [
     "domain/id",
@@ -35,6 +41,7 @@ export const page = {
     "domain/page-ui-store",
     "domain/page-url",
     "file-property/entries",
+    "file-property/referenced-by",
     "module/akasha-page-values",
     "module/calculation-loading",
     "module/change",
