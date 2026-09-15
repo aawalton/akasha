@@ -2,7 +2,7 @@ import type { TemperCharacterRole } from "akasha/temper/character/role/temper-ch
 
 export const healer = {
   id: "01a05fd0-d549-7341-930f-07b0bdbfc0df",
-  type: "temper-character-role",
+  type: "page-type/temper-character-role",
   slug: "healer",
   title: "Healer",
 } as const satisfies TemperCharacterRole
