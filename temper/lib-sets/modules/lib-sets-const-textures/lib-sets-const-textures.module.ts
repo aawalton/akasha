@@ -9,7 +9,7 @@ export const libSetsConstTextures = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A supported language table that is not English is given the English table as its fallback.",
     },

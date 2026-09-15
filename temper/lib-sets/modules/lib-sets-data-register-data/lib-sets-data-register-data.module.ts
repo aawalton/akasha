@@ -8,11 +8,11 @@ export const libSetsDataRegisterData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Data for sets of a newer API version is stripped when the live API is older.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The stripping is handed to the library as a function rather than run at load.",
     },
   ],

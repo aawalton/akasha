@@ -8,11 +8,11 @@ export const libSetsDebugDebugHelpers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run of consecutive item ids is written as a start value and a count.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Set ids named as belonging to a newer API version count as new on a live client.",
     },
   ],

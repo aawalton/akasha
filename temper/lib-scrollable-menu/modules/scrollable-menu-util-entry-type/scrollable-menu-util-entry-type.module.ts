@@ -8,19 +8,19 @@ export const scrollableMenuUtilEntryType = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A divider is recognised from the entry name matching the divider string.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The resolved type is written back onto the entry along with each boolean flag.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An explicitly supplied entry type is returned untouched.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Entry values given as functions are stored in a callback subtable and re-run later.",
     },

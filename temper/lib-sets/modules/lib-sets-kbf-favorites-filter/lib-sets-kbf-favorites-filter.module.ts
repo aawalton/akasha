@@ -8,7 +8,7 @@ export const libSetsKbfFavoritesFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The first entry of the dropdown covers sets marked with no favourite.",
     },
   ],

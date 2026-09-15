@@ -8,7 +8,7 @@ export const libSetsCopyTextSplit = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The cut point is nudged forward when the cut point lands inside a multi-byte character.",
     },

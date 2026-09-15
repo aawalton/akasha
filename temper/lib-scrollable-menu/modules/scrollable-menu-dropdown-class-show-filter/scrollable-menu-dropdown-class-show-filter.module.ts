@@ -8,19 +8,19 @@ export const scrollableMenuDropdownClassShowFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A leading slash in the search string makes submenu entries ignore the filter.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Edit box and slider children are searched through their declared getter names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Filter state is held in module-level variables reset at the start of each show.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An entry may opt out of filtering through a doNotFilter callback.",
     },
   ],

@@ -8,15 +8,15 @@ export const scrollableMenuDebugLogMessagePatterns = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Log text is addressed by integer rather than by name.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The table is a flat map from number to format string.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every id from 1 to 197 names a pattern.",
     },
   ],

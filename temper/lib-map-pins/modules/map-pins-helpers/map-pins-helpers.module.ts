@@ -8,7 +8,7 @@ export const mapPinsHelpers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pin type named by a string is looked up in the game's global table.",
     },
   ],

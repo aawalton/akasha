@@ -8,11 +8,11 @@ export const libSetsCoreLifecycleUiButtons = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The button is only built when the saved variables ask for the button.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The same function is published under a public key and an internal key.",
     },
   ],

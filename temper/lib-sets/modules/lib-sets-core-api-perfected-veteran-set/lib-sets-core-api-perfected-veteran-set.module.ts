@@ -8,7 +8,7 @@ export const libSetsCoreApiPerfectedVeteranSet = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The published key GetPerfectedSetId is assigned again with a different function.",
     },
   ],

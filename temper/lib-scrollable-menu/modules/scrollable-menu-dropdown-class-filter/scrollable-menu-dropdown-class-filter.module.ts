@@ -8,19 +8,19 @@ export const scrollableMenuDropdownClassFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The search history keeps the ten latest entries in a combobox.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "History is offered through ZO_Menu rather than through a library menu.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Filter text reaches the combobox through a ten millisecond throttle.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The sort toggle and the edit box and slider change handlers sit alongside.",
     },
   ],

@@ -8,7 +8,7 @@ export const libSetsCorePerfectedSets = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A pair is only recorded when both set ids and both zone ids are known.",
     },
   ],

@@ -8,7 +8,7 @@ export const libSetsCoreInitSearchUi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Nothing here runs before the library reports itself fully loaded.",
     },
   ],

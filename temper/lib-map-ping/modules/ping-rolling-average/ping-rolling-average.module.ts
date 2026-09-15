@@ -8,11 +8,11 @@ export const pingRollingAverage = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bucket the current moment falls in is left out of the average.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A bucket the clock has passed is zeroed before the next count.",
     },
   ],

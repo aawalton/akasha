@@ -8,11 +8,11 @@ export const pinState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Enabling a pin type on the global map filter group changes nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Pins are refreshed only where the enabled state changed.",
     },
   ],

@@ -8,20 +8,20 @@ export const scrollableMenuComboboxBaseData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The original entry is shallow-copied into an _LSM subtable on first touch.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Entry fields given as functions become callbacks re-evaluated on every refresh.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Additional data keys are copied onto the entry only where the entry lacks those keys.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Header font and divider name are forced by a per-entry-type post-setup function.",
     },
   ],

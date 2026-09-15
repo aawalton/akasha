@@ -8,20 +8,20 @@ export const scrollableMenuComboboxBaseSelect = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Clicking a no-results row is detected and suppressed before any callback runs.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A disabled entry cannot be selected.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Exceeding the selection limit raises a game alert unless a callback intercepts the alert.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Single-select selection closes the dropdown while multi-select leaves the dropdown open.",
     },

@@ -8,7 +8,7 @@ export const libSetsKbfDropFilters = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A zone id at zero or below names a special zone rather than a game zone.",
     },
   ],

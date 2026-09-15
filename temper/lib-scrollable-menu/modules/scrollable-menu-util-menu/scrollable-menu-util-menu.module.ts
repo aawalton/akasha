@@ -8,20 +8,20 @@ export const scrollableMenuUtilMenu = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The library has a single context menu object for the whole session.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A throttled call is registered as a named update handler that unregisters itself.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Mixing tables in skips a key the target already has unless an override says so.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Hiding the context menu also clears the menu items unless a preventer variable blocks the clearing.",
     },

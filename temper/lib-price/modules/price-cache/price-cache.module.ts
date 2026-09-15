@@ -8,7 +8,7 @@ export const priceCache = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A held price is dropped five minutes after the last drop.",
     },
   ],

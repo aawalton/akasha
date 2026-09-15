@@ -8,19 +8,19 @@ export const scrollableMenuComboboxBaseSetupHelpers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A named child control is found once and then cached on the row.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A radio or checkbox button joins a group keyed by entry type and group index.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checkbox without a right-click callback is given the library default callback.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A button group is created only where the entry declares a numeric group index.",
     },
   ],

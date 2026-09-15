@@ -8,19 +8,19 @@ export const scrollableMenuDropdownHeaderRefresh = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The header is hidden and zeroed before any child is processed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collapsed header shows its toggle icon and toggle title alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Option values may be plain values or functions returning a value.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A custom header control is accepted only as game userdata.",
     },
   ],

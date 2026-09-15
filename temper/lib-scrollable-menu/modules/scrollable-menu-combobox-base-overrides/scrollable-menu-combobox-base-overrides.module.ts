@@ -8,19 +8,19 @@ export const scrollableMenuComboboxBaseOverrides = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The base class leaves four methods with empty bodies.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The maximum row count answers undefined on the base class.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Width computation is fully implemented here rather than left to subclasses.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A container width of zero falls back to the no-search-header minimum.",
     },
   ],

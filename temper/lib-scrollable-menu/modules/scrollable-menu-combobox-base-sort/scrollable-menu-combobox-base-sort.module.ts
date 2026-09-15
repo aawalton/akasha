@@ -9,21 +9,21 @@ export const scrollableMenuComboboxBaseSort = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The default filter is a case-insensitive substring match on the entry name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Filtering and sorting are both disabled on the base class and enabled by subclasses.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A custom sort button overrides the texture or the dimensions or the anchor alone.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A sort container widens itself to fit an oversized custom button.",
     },
   ],

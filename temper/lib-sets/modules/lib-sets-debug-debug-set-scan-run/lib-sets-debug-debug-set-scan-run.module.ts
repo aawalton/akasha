@@ -8,12 +8,12 @@ export const libSetsDebugDebugSetScanRun = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Each package of item ids is scheduled one second after the package before that package.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The march stops early once a package finds no further items.",
     },
   ],

@@ -8,11 +8,11 @@ export const libSetsLocInstallLocalization = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The localization table is created here with German and English alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The on and off labels are placed on the fallback language alone.",
     },
   ],

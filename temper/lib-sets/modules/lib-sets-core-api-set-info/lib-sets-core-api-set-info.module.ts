@@ -8,7 +8,7 @@ export const libSetsCoreApiSetInfo = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Set data asked for in one language and without item ids is cached for later asks.",
     },

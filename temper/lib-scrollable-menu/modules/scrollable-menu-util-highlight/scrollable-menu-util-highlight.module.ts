@@ -8,19 +8,19 @@ export const scrollableMenuUtilHighlight = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The animation control is created once and cached on the row under a field name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Unhighlighting clears the breadcrumb name from the row.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The screen's usable dropdown height is the GuiRoot height less one hundred.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A row whose highlight template is not a string falls back to the library default.",
     },

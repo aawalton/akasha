@@ -8,19 +8,19 @@ export const scrollableMenuCasts1a = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each helper performs a bare TypeScript cast and returns the value unchanged.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The cast is not guarded by any runtime check.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Membership of this half is decided by the alphabetical name of the target type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A target shape with no named declaration is written inline as a structural type.",
     },
   ],

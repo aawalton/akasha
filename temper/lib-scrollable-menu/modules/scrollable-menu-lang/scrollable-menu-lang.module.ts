@@ -8,15 +8,15 @@ export const scrollableMenuLang = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Strings are registered at load through ZO_CreateStringId.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Translations for other client languages are not present.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Each string is versioned through SafeAddVersion at version 1.",
     },
   ],

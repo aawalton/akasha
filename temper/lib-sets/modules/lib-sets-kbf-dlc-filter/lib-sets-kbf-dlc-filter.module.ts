@@ -8,11 +8,11 @@ export const libSetsKbfDlcFilter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This filter builds its own scrollable menu instead of taking the shared menu.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Entries sort by name or by release date according to the saved setting.",
     },
   ],

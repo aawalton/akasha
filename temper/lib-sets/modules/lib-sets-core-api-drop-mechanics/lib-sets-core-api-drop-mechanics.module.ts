@@ -8,7 +8,7 @@ export const libSetsCoreApiDropMechanics = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The same function is published under an upper-case and a lower-case first letter.",
     },

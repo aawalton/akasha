@@ -8,7 +8,7 @@ export const libSetsCoreApiSetTypeChecks = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A type the library has no table for answers nothing rather than false.",
     },
   ],

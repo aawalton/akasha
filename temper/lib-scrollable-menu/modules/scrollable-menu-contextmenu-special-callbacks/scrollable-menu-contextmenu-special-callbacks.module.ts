@@ -8,19 +8,19 @@ export const scrollableMenuContextmenuSpecialCallbacks = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Callbacks are keyed by a unique addon name supplied by the caller.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The registry is a numerically indexed list of single-addon tables.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Running a callback keeps the first truthy return across every addon.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A registration whose named field is not a function is rejected.",
     },
   ],

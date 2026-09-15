@@ -8,19 +8,19 @@ export const scrollableMenuUtilHidden = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The decision branches first on whether a context menu is currently visible.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A right click on a control outside the context menu closes that menu.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Multi-select and a false closeOnSelect both keep the menu open on a left click.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Verbose tracing sits behind a local flag that is hard-coded to false.",
     },
   ],

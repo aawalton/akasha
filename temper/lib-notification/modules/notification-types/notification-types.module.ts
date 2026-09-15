@@ -8,15 +8,15 @@ export const notificationTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row has whatever else the caller puts on the row.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row names a keyboard callback and a gamepad callback apart.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The only call the library offers a caller makes a link table.",
     },
   ],

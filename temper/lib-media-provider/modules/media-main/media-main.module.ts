@@ -8,7 +8,7 @@ export const mediaMain = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here is exported.",
     },
   ],

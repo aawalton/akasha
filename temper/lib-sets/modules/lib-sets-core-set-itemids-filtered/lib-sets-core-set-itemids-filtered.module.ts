@@ -8,11 +8,11 @@ export const libSetsCoreSetItemidsFiltered = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An armor type and a weapon type may not both be asked for at once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Matching a filter costs one built item link per item id.",
     },
   ],

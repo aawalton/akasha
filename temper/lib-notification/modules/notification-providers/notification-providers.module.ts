@@ -8,23 +8,23 @@ export const notificationProviders = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A provider is a subclass of the game's own notification provider.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A new provider adds itself to the panel's own list of providers.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Building the list copies the link table deeply.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Accepting or declining calls back to the row rather than to the panel.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "A misspelled decline callback is read as well as the correctly spelled name.",
     },
   ],

@@ -8,15 +8,15 @@ export const scrollableMenuConstantsIndex = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A list of bare imports is used in place of any re-export.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The order of the imports is the order the constant tables are built in.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The file declares no value of its own.",
     },
   ],

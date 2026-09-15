@@ -9,7 +9,7 @@ export const libSetsCoreApiSettypePredicates = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each answer here reads a table on the global whose name is a plain string.",
     },
   ],

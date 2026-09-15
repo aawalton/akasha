@@ -8,19 +8,19 @@ export const scrollableMenuDebugLogger = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "LibDebugLogger is an optional dependency.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Output falls back to the chat frame when no logger is loaded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Verbose messages are dropped entirely when no logger is loaded.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A message whose id has no pattern produces nothing.",
     },
   ],

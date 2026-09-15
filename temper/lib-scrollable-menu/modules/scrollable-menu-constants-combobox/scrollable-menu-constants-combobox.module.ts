@@ -8,19 +8,19 @@ export const scrollableMenuConstantsCombobox = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every multi-selection option is funnelled through one shared update function.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An option name absent from the mapping table is never applied.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The combobox default value for each field is declared alongside the mapping.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A negative maximum selection count is treated as no limit.",
     },
   ],

@@ -8,19 +8,19 @@ export const scrollableMenuButtongroup = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each button's original OnClicked handler is stored and restored on removal.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A radio button alone has its click handler replaced.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A bulk check or invert is carried out by driving each button's original handler.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A click is checked against the context menu before the group handles the click.",
     },
   ],

@@ -8,15 +8,15 @@ export const libSetsAutoAutocompletion = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Autocompletion only runs when LibSlashCommander is loaded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A set name has its spaces replaced with a middle dot to make one token.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each supported language gets its own set of slash command aliases.",
     },
   ],

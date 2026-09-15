@@ -8,7 +8,7 @@ export const libSetsLocRestStringsRu = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Text absent here is taken from the English table.",
     },
   ],

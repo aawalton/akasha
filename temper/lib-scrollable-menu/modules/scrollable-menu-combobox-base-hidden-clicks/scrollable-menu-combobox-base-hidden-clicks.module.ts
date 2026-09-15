@@ -8,15 +8,15 @@ export const scrollableMenuComboboxBaseHiddenClicks = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The five click flags are answered together as one multiple return.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A flag reading sits in its own module for length.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A flag is answered only while the context menu is shown.",
     },
   ],

@@ -8,19 +8,19 @@ export const scrollableMenuUtilData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Control names are memoised in a table keyed by the control itself.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A preventer variable counts down and clears once the count reaches zero.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An unnamed control resolves to the literal string n slash a.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A texture path is judged valid by its dds suffix alone.",
     },
   ],

@@ -8,7 +8,7 @@ export const libSetsDropTipTooltipsFr = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An explanation absent here is taken from the English table.",
     },
   ],

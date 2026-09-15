@@ -8,7 +8,7 @@ export const libSetsLocLocalizationIndex = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This file has a single import and declares nothing.",
     },
   ],

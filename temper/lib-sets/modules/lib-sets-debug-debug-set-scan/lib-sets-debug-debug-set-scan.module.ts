@@ -8,13 +8,13 @@ export const libSetsDebugDebugSetScan = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An item id is tried by building a link for that id and asking the client for set info.",
     },
-    { invariantKind: "departure", statement: "Crafted items are skipped." },
+    { invariantKind: "invariant-kind/departure", statement: "Crafted items are skipped." },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The uncompressed item id table is deleted again unless asked to keep that table.",
     },
   ],

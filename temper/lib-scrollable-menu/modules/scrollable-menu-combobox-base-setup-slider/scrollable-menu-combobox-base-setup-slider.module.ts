@@ -8,20 +8,20 @@ export const scrollableMenuComboboxBaseSetupSlider = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The value label is anchored differently depending on whether that label is shown.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The hover tooltip reports the current value with the slider bounds and the step.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An existing mouse-up handler is post-hooked rather than replaced.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Re-anchoring is deferred to the next frame through zo_callLater.",
     },
   ],

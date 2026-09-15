@@ -8,15 +8,15 @@ export const libSetsCoreLoadSets = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A load is refused while another load is already running.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every lookup table built here is emptied and rebuilt from scratch on each load.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The type tables are named by strings carried in the set type data.",
     },
   ],

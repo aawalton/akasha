@@ -8,19 +8,19 @@ export const scrollableMenuConstantsSubmenu = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each exposed key has a boolean saying whether the proxy forwards that key.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The no-results placeholder entries are declared here as ordinary menu entries.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Silencing a click is done by swapping the sound name in the game sound table.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A silenceable click sound exists for every entry type a click can reach.",
     },
   ],

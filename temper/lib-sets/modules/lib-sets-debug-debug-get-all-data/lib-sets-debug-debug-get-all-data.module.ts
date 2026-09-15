@@ -8,15 +8,15 @@ export const libSetsDebugDebugGetAllData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The values come from the live game client rather than a capture.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The run changes the client language setting to reach the next language.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A slash command option is the only thing in the library that starts this run.",
     },
   ],

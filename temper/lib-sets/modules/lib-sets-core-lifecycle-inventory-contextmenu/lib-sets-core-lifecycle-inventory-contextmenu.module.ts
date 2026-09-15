@@ -8,12 +8,12 @@ export const libSetsCoreLifecycleInventoryContextmenu = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The keyboard buttons and the inventory context menu are built from this module too.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A failed readiness check clears the remembered list of inactive set ids.",
     },
   ],

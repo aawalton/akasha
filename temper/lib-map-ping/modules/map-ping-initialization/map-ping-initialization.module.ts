@@ -8,7 +8,7 @@ export const mapPingInitialization = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reaching the handler before initialization is an error.",
     },
   ],

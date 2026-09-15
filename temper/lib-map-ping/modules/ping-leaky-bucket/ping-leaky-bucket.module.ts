@@ -8,11 +8,11 @@ export const pingLeakyBucket = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A token count is refilled from the time passed at each read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A take succeeds only above a safety threshold.",
     },
   ],

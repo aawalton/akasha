@@ -8,16 +8,16 @@ export const libSetsCoreLifecycleLoaded = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The live API version is whatever the client reports unless the constants already name a version.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Saved variables are loaded before any set data is read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A debug scan left running across a reload holds back the rest of the load.",
     },
   ],

@@ -8,7 +8,7 @@ export const libSetsConstSettypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each set type name is declared as a game global rather than a member of a table.",
     },
   ],

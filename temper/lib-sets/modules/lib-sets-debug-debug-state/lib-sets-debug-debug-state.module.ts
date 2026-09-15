@@ -8,12 +8,12 @@ export const libSetsDebugDebugState = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The debug functions reach each other through a table of slots rather than imports.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The world name and API version are read once when the module loads.",
     },
   ],

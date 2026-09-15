@@ -8,7 +8,7 @@ export const libSetsCoreLifecycleSlashCommand = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The /sets and /ls aliases are only taken when no other addon has claimed the aliases.",
     },

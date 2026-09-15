@@ -8,7 +8,7 @@ export const libSetsCoreApiWayshrineDlcSettype = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Each lookup this module offers is independent of every other lookup.",
     },
   ],

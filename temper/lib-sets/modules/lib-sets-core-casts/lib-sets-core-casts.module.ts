@@ -8,7 +8,7 @@ export const libSetsCoreCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global's slots are reached by string key rather than by a declared field.",
     },
   ],

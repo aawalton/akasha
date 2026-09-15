@@ -8,11 +8,11 @@ export const libSetsSearchUiKeyboardFiltersSetup = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Multi-select is only turned on when the combo box class offers multi-select.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "Mouse-over callbacks are only set when the combo box class offers mouse-over callbacks.",
     },

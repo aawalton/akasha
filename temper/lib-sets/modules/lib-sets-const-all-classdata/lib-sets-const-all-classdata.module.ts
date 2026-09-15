@@ -8,7 +8,7 @@ export const libSetsConstAllClassdata = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The class list is read from the game at load rather than written out here.",
     },
   ],

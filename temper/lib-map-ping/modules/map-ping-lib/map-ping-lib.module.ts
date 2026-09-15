@@ -8,11 +8,11 @@ export const mapPingLib = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each event registration takes a namespace no earlier registration used.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This module needs LibDebugLogger loaded first.",
     },
   ],

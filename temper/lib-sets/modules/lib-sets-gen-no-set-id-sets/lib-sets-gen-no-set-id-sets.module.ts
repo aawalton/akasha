@@ -8,11 +8,11 @@ export const libSetsGenNoSetIdSets = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This table is ported from the upstream library at a pinned commit.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The table is empty at the pinned commit.",
     },
   ],

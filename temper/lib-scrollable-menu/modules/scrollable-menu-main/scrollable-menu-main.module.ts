@@ -8,15 +8,15 @@ export const scrollableMenuMain = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Load order is expressed as a list of bare imports.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Constants and utilities are imported before every class that reads a constant.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The file declares no value of its own.",
     },
   ],

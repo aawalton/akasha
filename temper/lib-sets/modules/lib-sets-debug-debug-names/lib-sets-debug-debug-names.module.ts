@@ -8,15 +8,15 @@ export const libSetsDebugDebugNames = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Nothing is read here when the client language is not an official one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The dungeon finder window is opened when its rows have not been built yet.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every name is stored under the client language in which the name was read.",
     },
   ],

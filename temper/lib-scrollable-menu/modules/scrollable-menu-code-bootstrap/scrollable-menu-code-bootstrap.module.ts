@@ -8,19 +8,19 @@ export const scrollableMenuCodeBootstrap = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Saved variables are created only once the addon-loaded event fires.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Scene changes and ZO_Menu openings are hooked to close any open library menu.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Two slash commands are registered for the debug toggles.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An XML handler resolves its target through the control's owning window.",
     },
   ],

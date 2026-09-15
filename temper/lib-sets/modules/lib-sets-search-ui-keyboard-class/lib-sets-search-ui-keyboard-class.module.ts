@@ -8,11 +8,11 @@ export const libSetsSearchUiKeyboardClass = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The class is also placed on the game global as LibSets_SearchUI_Keyboard.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A further view of this class is typed for overriding.",
     },
   ],

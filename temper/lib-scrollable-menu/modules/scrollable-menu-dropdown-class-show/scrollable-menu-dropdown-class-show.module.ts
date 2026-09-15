@@ -8,19 +8,19 @@ export const scrollableMenuDropdownClassShow = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every item passes through the filter before reaching the data list.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A list that matches nothing shows a single no-results row.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Dropdown width is clamped between the minimum and the longest entry text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The scroll contents template is swapped by whether the bar is needed.",
     },
   ],

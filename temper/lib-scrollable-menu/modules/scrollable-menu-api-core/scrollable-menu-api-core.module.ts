@@ -8,20 +8,20 @@ export const scrollableMenuApiCore = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The supplied container must already have a ZO_ComboBox instance or the call errors.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Entry validation failures are raised as errors rather than returned as a result.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Persistent-menu state is a plain field on the library object.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A divider entry has its callback discarded.",
     },
   ],

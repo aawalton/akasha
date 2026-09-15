@@ -8,19 +8,19 @@ export const scrollableMenuDropdownNestedSubmenuChecks = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A submenu counts as new when a child entry is new.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Clearing the marker fires a library callback for the affected control.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The submenu hover hook has an empty body that only logs.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Reading upward stops at the first entry without a parent control.",
     },
   ],

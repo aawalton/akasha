@@ -8,19 +8,19 @@ export const pinTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Registering a pin type whose name is taken raises an error.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pin type with no layout given gets a default level and texture.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A tooltip given as a string is wrapped into a tooltip creator.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A newly registered pin type is enabled and refreshed at once.",
     },
   ],

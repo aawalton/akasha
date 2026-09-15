@@ -9,7 +9,7 @@ export const libSetsCoreApiArmorWeaponEquipClass = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The answers here share no concern beyond taking a set as their subject.",
     },
   ],

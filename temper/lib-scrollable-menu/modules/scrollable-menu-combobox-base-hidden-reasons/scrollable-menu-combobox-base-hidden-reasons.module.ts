@@ -8,21 +8,21 @@ export const scrollableMenuComboboxBaseHiddenReasons = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A click on an edit box or a slider or a multi-icon inside a context menu is excused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The moused-over control is replaced by its parent for button-bearing entry types.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The final answer is delegated to a per-class GetHiddenForReasons function.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Verbose tracing sits behind a local flag that is hard-coded to false.",
     },
   ],

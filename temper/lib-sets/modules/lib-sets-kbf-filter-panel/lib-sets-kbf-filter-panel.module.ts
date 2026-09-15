@@ -8,7 +8,7 @@ export const libSetsKbfFilterPanel = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The search button is turned off before the dropdowns are built.",
     },
   ],

@@ -8,19 +8,19 @@ export const scrollableMenuComboboxBaseSetupEditbox = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Re-anchoring is deferred to the next frame through zo_callLater.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hidden label is collapsed to zero width rather than removed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The right-click handler is registered once per edit box control.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Text type and input length fall back to game-wide defaults when unset.",
     },
   ],

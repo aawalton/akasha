@@ -8,11 +8,11 @@ export const libSetsCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each narrowing here names one shape and answers a value of that shape.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A narrowing here asserts a shape the compiler never sees evidence for.",
     },
   ],

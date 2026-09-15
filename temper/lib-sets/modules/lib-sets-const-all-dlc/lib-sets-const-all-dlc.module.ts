@@ -8,11 +8,11 @@ export const libSetsConstAllDlc = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A DLC's name is read from the game's own collectible and achievement names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each DLC id is declared as a game global rather than a member of a table.",
     },
   ],

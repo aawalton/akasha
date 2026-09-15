@@ -8,7 +8,7 @@ export const libSetsSearchUiCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every narrowing here is an unchecked cast.",
     },
   ],

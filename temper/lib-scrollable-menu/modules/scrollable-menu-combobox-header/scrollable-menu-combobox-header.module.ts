@@ -8,20 +8,20 @@ export const scrollableMenuComboboxHeader = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The collapsed state is saved per combobox name in the account-wide saved variables.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A supplied collapsed option overrides and suppresses the saved state.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A combobox inside a scroll control is keyed by its parent's name instead.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Refreshing the header re-runs the width and height computation.",
     },
   ],

@@ -8,7 +8,7 @@ export const libSetsCoreApiSearchFavorites = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "No addon adds a second search results context menu entry.",
     },
   ],

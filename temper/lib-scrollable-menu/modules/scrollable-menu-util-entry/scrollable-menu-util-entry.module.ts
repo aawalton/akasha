@@ -8,19 +8,19 @@ export const scrollableMenuUtilEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Recursion is bounded by a counter that aborts after five thousand steps.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The multi-select state of a submenu is recomputed by walking every child entry.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The submenu arrow tint is chosen from whether a nested entry is selected.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Reading up through parent menus stops at a depth of one hundred.",
     },
   ],

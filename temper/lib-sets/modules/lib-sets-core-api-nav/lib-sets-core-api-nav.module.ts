@@ -8,7 +8,7 @@ export const libSetsCoreApiNav = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The item link builder every other module calls is published from this module.",
     },
   ],

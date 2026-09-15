@@ -8,11 +8,11 @@ export const mapZoneAndSubzone = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The zone name is taken from the map tile texture path.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reading the player's position moves the map to the player first.",
     },
   ],

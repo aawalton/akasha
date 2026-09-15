@@ -8,7 +8,7 @@ export const libSetsCoreApiSetNames = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every set's names are built once and held for the rest of the session.",
     },
   ],

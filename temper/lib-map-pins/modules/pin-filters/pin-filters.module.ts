@@ -8,19 +8,19 @@ export const pinFilters = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pin type already carrying a filter gets no second filter.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Separate saved keys are minted per map group only where asked for.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A toggled checkbox writes the compass pin type's saved key as well.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A hidden filter checkbox is pulled up by its own height.",
     },
   ],

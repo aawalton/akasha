@@ -8,15 +8,15 @@ export const scrollableMenuUtilHiddenContext = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The context-menu arm of the hide decision sits in its own module for length.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every value the arm reads is handed in rather than reached from the caller.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The arm answers whether the open menu should hide.",
     },
   ],

@@ -8,9 +8,12 @@ export const libSetsDebugDebugIndex = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The order these modules are loaded in is the order their effects happen.",
     },
-    { invariantKind: "departure", statement: "This file has imports and nothing else." },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "This file has imports and nothing else.",
+    },
   ],
 } as const satisfies Module

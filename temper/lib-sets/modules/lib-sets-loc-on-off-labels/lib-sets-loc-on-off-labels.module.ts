@@ -8,7 +8,7 @@ export const libSetsLocOnOffLabels = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The keys are the booleans spelled as text rather than booleans.",
     },
   ],

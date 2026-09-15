@@ -8,12 +8,12 @@ export const libSetsCoreItemidDecompress = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A compressed entry is either a plain item id or a string of a first id and an offset.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A set's expanded item ids are cached when first asked for.",
     },
   ],

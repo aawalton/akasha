@@ -8,7 +8,7 @@ export const libSetsLocRestInstallLocalizationRest = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The localization table already exists when these six are added.",
     },
   ],

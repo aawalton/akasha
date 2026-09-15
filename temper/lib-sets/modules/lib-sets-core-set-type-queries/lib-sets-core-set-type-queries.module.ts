@@ -8,7 +8,7 @@ export const libSetsCoreSetTypeQueries = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The world map opener is published from this module rather than from navigation.",
     },
   ],

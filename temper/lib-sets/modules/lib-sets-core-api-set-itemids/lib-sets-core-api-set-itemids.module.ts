@@ -8,7 +8,7 @@ export const libSetsCoreApiSetItemids = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "GetSetFirstItemId is the same function as GetSetItemId under another published key.",
     },

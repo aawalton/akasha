@@ -8,7 +8,7 @@ export const libSetsDataCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each cast asserts a shape rather than checking a shape.",
     },
   ],

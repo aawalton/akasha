@@ -8,19 +8,19 @@ export const scrollableMenuComboboxBaseNarrate = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each narration event has its own fixed callback argument signature.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Narration is skipped entirely while the UI reader is off.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An event with no signature entry is dropped silently.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The addon callback must return a string for anything to be spoken.",
     },
   ],

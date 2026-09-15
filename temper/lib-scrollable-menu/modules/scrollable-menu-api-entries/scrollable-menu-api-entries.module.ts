@@ -8,15 +8,15 @@ export const scrollableMenuApiEntries = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each wrapper delegates to the single generic entry-adding global.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Optional arguments are folded into the additional-data table before delegating.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every wrapper returns the added index and the created entry table.",
     },
   ],

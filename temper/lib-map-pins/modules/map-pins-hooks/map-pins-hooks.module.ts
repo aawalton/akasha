@@ -8,20 +8,20 @@ export const mapPinsHooks = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each filter panel is given a scrolling child its controls hang from.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The panels are reshaped once the first addon that is not the game's own has loaded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pin whose layout asks for grayscale is drawn desaturated.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Clearing a pin's data restores that pin's saturation.",
     },
   ],

@@ -9,19 +9,19 @@ export const scrollableMenuCasts3b = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each helper performs a bare TypeScript cast and returns the value unchanged.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The cast is not guarded by any runtime check.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Callback signatures are named after their parameter list rather than their role.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Type names are truncated to a fixed width which forces the digit suffixes.",
     },
   ],

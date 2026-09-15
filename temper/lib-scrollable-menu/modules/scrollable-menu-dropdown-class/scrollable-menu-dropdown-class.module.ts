@@ -8,19 +8,19 @@ export const scrollableMenuDropdownClass = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "AddItem and AddItems are overridden to raise an error.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each custom entry template claims two scroll type ids at once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The highlight template of a row is resolved through the owning combobox.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The dropdown control is created from a virtual template parented to GuiRoot.",
     },
   ],

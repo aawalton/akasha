@@ -8,7 +8,7 @@ export const libSetsGenBlacklistedSetIds = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This table is ported from the upstream library at a pinned commit.",
     },
   ],

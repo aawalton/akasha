@@ -8,19 +8,19 @@ export const scrollableMenuDropdownClassRefresh = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A refresh returns a numeric code saying which of the two menus was redrawn.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The main-menu redraw is deferred by fifteen milliseconds through zo_callLater.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An open context menu is raised back to the top after any refresh.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A hidden combobox dropdown is never refreshed.",
     },
   ],

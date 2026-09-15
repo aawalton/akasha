@@ -8,11 +8,11 @@ export const libSetsCoreHeader = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "LibScrollableMenu is only taken up when its version is 2.43 or later.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words the slash commands accept are named here per language.",
     },
   ],

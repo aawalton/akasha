@@ -8,15 +8,15 @@ export const scrollableMenuUtilIndex = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A list of bare imports is used in place of any re-export.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The data helpers are imported before the modules that read a helper.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The file declares no value of its own.",
     },
   ],

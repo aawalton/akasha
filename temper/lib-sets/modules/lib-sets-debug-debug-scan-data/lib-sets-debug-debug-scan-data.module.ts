@@ -9,15 +9,15 @@ export const libSetsDebugDebugScanData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The world map is opened and right-clicked until wayshrine pins appear.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The slash command option for wayshrines names a function this module never sets.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Map names in another language need LibZone loaded.",
     },
   ],

@@ -8,20 +8,20 @@ export const scrollableMenuDropdownClassSearch = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The file name says search while the methods here handle mouse-up and selection.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Right-clicking a row runs the entry's context-menu callback instead of selecting that entry.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Three preventer variables are cleared at the top of every mouse-up.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A submenu inherits multi-select from its parent menu on the first click.",
     },
   ],

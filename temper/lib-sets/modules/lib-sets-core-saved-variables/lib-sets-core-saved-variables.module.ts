@@ -8,11 +8,11 @@ export const libSetsCoreSavedVariables = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A second load is refused once the saved variables are already in hand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A favorite saved under an unknown category is moved to the star category on load.",
     },

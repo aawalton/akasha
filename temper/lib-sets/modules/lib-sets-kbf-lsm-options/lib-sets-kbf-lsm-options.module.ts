@@ -7,6 +7,9 @@ export const libSetsKbfLsmOptions = {
   definition: "the default options a scrollable-menu dropdown is built with",
   code: "ts",
   invariants: [
-    { invariantKind: "constraint", statement: "Fifteen rows of a dropdown are visible at once." },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "Fifteen rows of a dropdown are visible at once.",
+    },
   ],
 } as const satisfies Module

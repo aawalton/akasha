@@ -8,15 +8,15 @@ export const scrollableMenuPublicApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The library is published on globalThis under LibScrollableMenu.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every entry-type and highlight name is copied into _G as a separate global.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Update mode constants are published as three separate globals.",
     },
   ],

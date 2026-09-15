@@ -8,19 +8,19 @@ export const scrollableMenuComboboxBaseDims = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Menu height is clamped between one row and the screen height less one hundred.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The submenu object is created lazily on first request and then reused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty submenu is filled with a single no-entries placeholder row.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Showing a submenu hides the context menu unless that menu is already visible.",
     },
   ],

@@ -9,7 +9,7 @@ export const libSetsCoreHelpers = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A table handed back to a caller is a shallow copy rather than the library's own table.",
     },

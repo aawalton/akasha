@@ -8,19 +8,19 @@ export const notificationRowOverrides = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row lacking an icon falls back to the icon the game gives the row's type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row lacking a heading falls back to the heading the game gives the row's type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An icon may be a texture path or a function answering a texture path.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The keyboard row setup is replaced only where the keyboard panel is loaded.",
     },
   ],

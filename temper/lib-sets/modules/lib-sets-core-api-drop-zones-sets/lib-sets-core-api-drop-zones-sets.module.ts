@@ -8,7 +8,7 @@ export const libSetsCoreApiDropZonesSets = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "An item id whose link the game cannot name is removed from the cache for this API version.",
     },

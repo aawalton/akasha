@@ -8,11 +8,11 @@ export const libSetsCoreTextures = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Each icon table is filled from the game the first time an icon is asked for.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Game string ids are reached by prefix and index rather than by concatenated name.",
     },

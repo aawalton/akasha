@@ -8,7 +8,7 @@ export const libSetsConstCasts = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The cast asserts the type rather than checking that type.",
     },
   ],

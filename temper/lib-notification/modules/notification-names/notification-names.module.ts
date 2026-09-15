@@ -8,11 +8,11 @@ export const notificationNames = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A second load is refused on the plural name.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "The singular name is kept for older addons asking by that name.",
     },
   ],

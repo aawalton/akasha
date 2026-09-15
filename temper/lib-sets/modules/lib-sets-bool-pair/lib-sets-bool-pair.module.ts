@@ -8,7 +8,7 @@ export const libSetsBoolPair = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A Lua table may be keyed by a boolean.",
     },
   ],

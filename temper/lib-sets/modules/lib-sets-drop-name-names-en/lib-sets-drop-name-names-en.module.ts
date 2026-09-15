@@ -8,7 +8,7 @@ export const libSetsDropNameNamesEn = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name here may be read from the game's own strings rather than written out.",
     },
   ],

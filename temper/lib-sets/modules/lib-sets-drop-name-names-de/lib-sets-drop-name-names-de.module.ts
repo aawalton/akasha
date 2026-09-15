@@ -8,7 +8,7 @@ export const libSetsDropNameNamesDe = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name absent here is taken from the English table.",
     },
   ],

@@ -8,12 +8,12 @@ export const libSetsConstDropmechanics = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Each drop mechanic name is declared as a game global rather than a member of a table.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The library declares zone ids the game does not have.",
     },
   ],

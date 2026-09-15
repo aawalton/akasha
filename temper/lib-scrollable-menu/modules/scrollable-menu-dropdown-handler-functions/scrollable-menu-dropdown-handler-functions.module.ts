@@ -8,20 +8,20 @@ export const scrollableMenuDropdownHandlerFunctions = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Handlers are keyed by entry type inside three named tables.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A header or divider handler returns true and does no other work.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Entering a submenu row cancels the pending hide timeout before showing the submenu.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The boolean a handler returns decides whether the ZO_ComboBox behaviour also runs.",
     },

@@ -8,19 +8,19 @@ export const scrollableMenuConstantsCore = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Interface colours are read from the running game at load time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Entry-type numbers are copied onto the library table under their own names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The debug table is created here with the two debug switches off.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The library version is a literal string in the source.",
     },
   ],

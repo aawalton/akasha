@@ -8,11 +8,11 @@ export const mapPinsLib = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A map change re-reads every filter's saved state.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A map change to the global filter group leaves the filters alone.",
     },
   ],

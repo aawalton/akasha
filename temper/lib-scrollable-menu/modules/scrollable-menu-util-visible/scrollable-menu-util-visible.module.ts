@@ -8,16 +8,16 @@ export const scrollableMenuUtilVisible = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A scrollbar click is recognised by comparing against the bar and both arrow buttons.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Visibility is answered by walking the library's list of live menu objects.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The next entry mouse-up is suppressed through a counting preventer variable.",
     },
   ],

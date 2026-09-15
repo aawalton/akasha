@@ -8,15 +8,15 @@ export const scrollableMenuDebugLoggingToggle = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The toggle loads the logger on first use rather than at library load.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Verbose logging is reported only while plain debugging is on.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The toggle persists nothing across sessions.",
     },
   ],

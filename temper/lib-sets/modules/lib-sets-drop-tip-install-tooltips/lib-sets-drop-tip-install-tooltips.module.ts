@@ -9,11 +9,11 @@ export const libSetsDropTipInstallTooltips = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The tables are written onto the library global rather than exported.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "An empty branch sits where the newer API version's entries would go.",
     },
   ],

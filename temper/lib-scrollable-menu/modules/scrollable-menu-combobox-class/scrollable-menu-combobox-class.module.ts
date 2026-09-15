@@ -8,19 +8,19 @@ export const scrollableMenuComboboxClass = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An existing combobox is adopted by replacing its metatable in place.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Sorting is offered only where filtering is also enabled.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Multi-select bookkeeping walks upward to update every opening control.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The visible row count falls back to the library default of ten.",
     },
   ],

@@ -8,11 +8,11 @@ export const mediaTypes = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A media kind is named by a lower-case word.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key on the shared table is the name another addon reads.",
     },
   ],

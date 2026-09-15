@@ -8,19 +8,19 @@ export const scrollableMenuDropdownClassInteraction = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A submenu that would overflow the screen edge is flipped to the other side.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A forced opening side skips the overflow check entirely.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every mouse exit arms a timeout rather than hiding the menu at once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Entering a row raises the exit timeout on any open context menu.",
     },
   ],

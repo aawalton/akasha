@@ -8,7 +8,7 @@ export const mediaGlobal = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Loading twice warns in chat rather than replacing the library.",
     },
   ],

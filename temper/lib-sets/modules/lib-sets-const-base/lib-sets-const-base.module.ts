@@ -8,15 +8,15 @@ export const libSetsConstBase = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The library global is created here rather than imported.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "English is the language every other language falls back to.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Japanese is listed among the languages and marked unsupported.",
     },
   ],

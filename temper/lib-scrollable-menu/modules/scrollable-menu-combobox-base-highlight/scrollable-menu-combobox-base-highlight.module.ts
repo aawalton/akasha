@@ -8,19 +8,19 @@ export const scrollableMenuComboboxBaseHighlight = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Highlight fields on the original entry data win over every computed default.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A submenu row that also has a callback is given a distinct template.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row that opens a context menu can take its own template under an option.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A template is written onto the row data only where nothing is already set.",
     },
   ],

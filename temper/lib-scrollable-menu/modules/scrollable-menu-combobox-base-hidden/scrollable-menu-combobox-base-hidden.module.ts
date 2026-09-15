@@ -8,19 +8,19 @@ export const scrollableMenuComboboxBaseHidden = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A preventer variable can swallow one global mouse up entirely.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The preventer accepts either a boolean or a specific mouse button index.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A click inside the owning dropdown never closes that dropdown.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A closed menu with a visible container opens on the mouse up instead.",
     },
   ],

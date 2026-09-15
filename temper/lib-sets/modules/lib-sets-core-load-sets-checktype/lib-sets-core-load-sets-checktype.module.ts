@@ -8,12 +8,12 @@ export const libSetsCoreLoadSetsChecktype = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A set whose items no longer exist is erased from every preloaded table with that set.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Perfected and non-perfected pairs are learned from the game rather than from the data.",
     },

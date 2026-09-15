@@ -8,7 +8,7 @@ export const libSetsKbfSorting = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Sorting is offered only on the row fields the sort table names.",
     },
   ],

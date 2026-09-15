@@ -8,19 +8,19 @@ export const scrollableMenuComboboxBaseSetup = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every setup path funnels through one shared label and base setup.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Edit box and slider rows are pinned to stay open on select.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Checkbox and radio toggles fire an item callback and a library callback.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The highlight template is recomputed at the end of each setup.",
     },
   ],

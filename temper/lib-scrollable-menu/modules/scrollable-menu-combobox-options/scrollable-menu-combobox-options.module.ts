@@ -8,19 +8,19 @@ export const scrollableMenuComboboxOptions = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each option key is applied through a callback or written straight to a field.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty options table resets the combobox to defaults instead of doing nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Values being applied are staged in a temporary updatedOptions table.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Verbose tracing sits behind a local flag that is hard-coded to false.",
     },
   ],

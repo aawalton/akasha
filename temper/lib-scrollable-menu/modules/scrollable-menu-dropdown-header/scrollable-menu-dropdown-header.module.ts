@@ -8,19 +8,19 @@ export const scrollableMenuDropdownHeader = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Header children are addressed by integer id rather than by control name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Anchors are declared once as objects and reapplied on every refresh.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A divider row is inserted between header children by an id comparison.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A header with a filter box is widened to the search-header minimum.",
     },
   ],

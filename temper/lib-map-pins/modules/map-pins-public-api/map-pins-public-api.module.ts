@@ -8,7 +8,7 @@ export const mapPinsPublicApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The library object is reached through one global name.",
     },
   ],
