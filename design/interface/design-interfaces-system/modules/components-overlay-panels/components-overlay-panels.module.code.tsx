@@ -1,7 +1,14 @@
 "use client"
 
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import {
+  Tabs,
+  TabsContent,
+  TabsList,
+  TabsTrigger,
+} from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import {
   Dialog,
   DialogBody,
@@ -12,13 +19,13 @@ import {
   DialogHeader,
   DialogTitle,
   DialogTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/dialog/dialog.module.code.tsx"
-import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
+import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import {
   Sheet,
   SheetContent,
@@ -26,8 +33,8 @@ import {
   SheetHeader,
   SheetTitle,
   SheetTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/sheet/sheet.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
+} from "akasha/design/interface/primitive/modules/sheet/sheet.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import {
   formatCompact,
   formatFull,
@@ -43,14 +50,7 @@ import {
   TableRowLabel,
   TableTotalCell,
   TableValue,
-} from "akasha/design/interface/design-interfaces-primitives/modules/table/table.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
-import {
-  Tabs,
-  TabsContent,
-  TabsList,
-  TabsTrigger,
-} from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/table/table.module.code.tsx"
 
 export function ComponentsOverlayPanels() {
   return (

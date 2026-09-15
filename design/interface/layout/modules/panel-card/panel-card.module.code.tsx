@@ -1,17 +1,5 @@
 "use client"
 
-import {
-  Card,
-  CardContent,
-  CardHeader,
-  CardTitle,
-} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
-import {
-  Collapsible,
-  CollapsibleContent,
-  CollapsibleTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/collapsible/collapsible.module.code.tsx"
 import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/interface/layout/modules/panel-card-data/panel-card-data.module.code.ts"
 import {
   usePanelDefaultOpen,
@@ -21,6 +9,18 @@ import {
   usePanelToggle,
   usePanelToggleIsLocal,
 } from "akasha/design/interface/layout/modules/panel-toggle-context/panel-toggle-context.module.code.tsx"
+import {
+  Card,
+  CardContent,
+  CardHeader,
+  CardTitle,
+} from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import {
+  Collapsible,
+  CollapsibleContent,
+  CollapsibleTrigger,
+} from "akasha/design/interface/primitive/modules/collapsible/collapsible.module.code.tsx"
 import { ChevronDown } from "lucide-react"
 import type * as React from "react"
 import { useEffect, useLayoutEffect, useRef, useState } from "react"

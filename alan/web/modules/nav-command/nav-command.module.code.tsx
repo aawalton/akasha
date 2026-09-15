@@ -5,9 +5,9 @@ import {
   navItemContent,
   navItemTech,
 } from "akasha/alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"
-import { PALETTE_ONLY } from "akasha/design/interface/design-interfaces-primitives/modules/keyboard-registry/keyboard-registry.module.code.ts"
-import { useKeyboardBinding } from "akasha/design/interface/design-interfaces-primitives/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import type { AppNavItem } from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
+import { PALETTE_ONLY } from "akasha/design/interface/primitive/modules/keyboard-registry/keyboard-registry.module.code.ts"
+import { useKeyboardBinding } from "akasha/design/interface/primitive/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import { useNavCommandBindings } from "akasha/page/ui/component/modules/use-nav-command-bindings/use-nav-command-bindings.module.code.ts"
 import { useNavigate } from "react-router"
 

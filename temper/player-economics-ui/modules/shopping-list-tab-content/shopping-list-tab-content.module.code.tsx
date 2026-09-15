@@ -1,23 +1,6 @@
 "use client"
 
 import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
-import {
-  AlertDialog,
-  AlertDialogAction,
-  AlertDialogCancel,
-  AlertDialogContent,
-  AlertDialogDescription,
-  AlertDialogFooter,
-  AlertDialogHeader,
-  AlertDialogTitle,
-} from "akasha/design/interface/design-interfaces-primitives/modules/alert-dialog/alert-dialog.module.code.tsx"
-import {
-  Card,
-  CardContent,
-  CardTitleBadges,
-} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
-import { Progress } from "akasha/design/interface/design-interfaces-primitives/modules/progress-bar/progress-bar.module.code.tsx"
-import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
 import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
@@ -30,6 +13,23 @@ import {
   EmptyTitle,
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-row.module.code.tsx"
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+} from "akasha/design/interface/primitive/modules/alert-dialog/alert-dialog.module.code.tsx"
+import {
+  Card,
+  CardContent,
+  CardTitleBadges,
+} from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
+import { Progress } from "akasha/design/interface/primitive/modules/progress-bar/progress-bar.module.code.tsx"
+import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { formatGold } from "akasha/temper/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import {
   buildCategoryGroups,

@@ -1,16 +1,16 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import {
   Card,
   CardContent,
   CardDescription,
   CardHeader,
   CardTitle,
-} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
-import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
+import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 
 const BUTTON_VARIANTS = ["primary", "secondary", "tertiary", "destructive", "accent"] as const
 const BUTTON_SIZES = ["sm", "default", "lg", "icon-sm", "icon", "icon-lg"] as const

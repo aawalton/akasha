@@ -9,16 +9,16 @@ import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
-import { Switch } from "akasha/design/interface/design-interfaces-primitives/modules/switch-control/switch-control.module.code.tsx"
-import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import { Switch } from "akasha/design/interface/primitive/modules/switch-control/switch-control.module.code.tsx"
+import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { skillLines } from "akasha/temper/character-skill-line/modules/skill-lines/skill-lines.module.code.ts"
 import type { CanLevelMorphsCondition } from "akasha/temper/items-rules-core/modules/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
 import type { CharEligibility } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"

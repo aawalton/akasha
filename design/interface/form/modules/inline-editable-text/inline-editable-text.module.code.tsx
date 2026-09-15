@@ -1,10 +1,10 @@
 "use client"
 
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { stripDisplayOnlyClasses } from "akasha/design/interface/form/modules/display-only-classes/display-only-classes.module.code.ts"
 import { inlineEditKeyDown } from "akasha/design/interface/form/modules/inline-edit-keys/inline-edit-keys.module.code.ts"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { useEffect, useRef, useState } from "react"
 
 interface InlineEditableTextProps {

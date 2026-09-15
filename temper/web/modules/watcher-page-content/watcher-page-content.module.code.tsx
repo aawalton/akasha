@@ -1,19 +1,19 @@
 "use client"
 
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import {
-  Card,
-  CardContent,
-} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
-import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
 import {
   PageLayout,
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { LayoutLink } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import {
+  Card,
+  CardContent,
+} from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
+import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import type { WatcherBuildSummary } from "akasha/temper/web/modules/watcher-build-status/watcher-build-status.module.code.ts"
 import { WatcherBuildStatusCard } from "akasha/temper/web/modules/watcher-build-status-card/watcher-build-status-card.module.code.tsx"
 import type { WatcherRunSummary } from "akasha/temper/web/modules/watcher-run-status/watcher-run-status.module.code.ts"

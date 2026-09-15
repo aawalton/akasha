@@ -4,10 +4,6 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import {
-  Card,
-  CardContent,
-} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
 import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
@@ -23,6 +19,10 @@ import {
 import { FilterButton } from "akasha/design/interface/pattern/modules/filter-button/filter-button.module.code.tsx"
 import { FilterGroup } from "akasha/design/interface/pattern/modules/filter-group/filter-group.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/interface/pattern/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
+import {
+  Card,
+  CardContent,
+} from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,

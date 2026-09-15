@@ -1,6 +1,5 @@
 "use client"
 
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import {
   PageLayout,
   PageTitle,
@@ -21,6 +20,7 @@ import {
   TabsContent,
   TabsList,
 } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { COMPANION_ENGINE_METHODOLOGY_PANELS } from "akasha/temper/web/modules/companion-engine-methodology/companion-engine-methodology.module.code.tsx"
 import { KNOWN_ISSUES_METHODOLOGY_PANELS } from "akasha/temper/web/modules/known-issues-methodology/known-issues-methodology.module.code.tsx"

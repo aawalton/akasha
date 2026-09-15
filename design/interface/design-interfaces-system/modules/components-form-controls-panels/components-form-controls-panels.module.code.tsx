@@ -1,20 +1,20 @@
 "use client"
 
-import { Checkbox } from "akasha/design/interface/design-interfaces-primitives/modules/checkbox/checkbox.module.code.tsx"
-import { Label } from "akasha/design/interface/design-interfaces-primitives/modules/label/label.module.code.tsx"
-import { Progress } from "akasha/design/interface/design-interfaces-primitives/modules/progress-bar/progress-bar.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { Checkbox } from "akasha/design/interface/primitive/modules/checkbox/checkbox.module.code.tsx"
+import { Label } from "akasha/design/interface/primitive/modules/label/label.module.code.tsx"
+import { Progress } from "akasha/design/interface/primitive/modules/progress-bar/progress-bar.module.code.tsx"
 import {
   RadioGroup,
   RadioGroupItem,
-} from "akasha/design/interface/design-interfaces-primitives/modules/radio-group/radio-group.module.code.tsx"
-import { Slider } from "akasha/design/interface/design-interfaces-primitives/modules/slider/slider.module.code.tsx"
-import { Switch } from "akasha/design/interface/design-interfaces-primitives/modules/switch-control/switch-control.module.code.tsx"
-import { Toggle } from "akasha/design/interface/design-interfaces-primitives/modules/toggle/toggle.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/radio-group/radio-group.module.code.tsx"
+import { Slider } from "akasha/design/interface/primitive/modules/slider/slider.module.code.tsx"
+import { Switch } from "akasha/design/interface/primitive/modules/switch-control/switch-control.module.code.tsx"
+import { Toggle } from "akasha/design/interface/primitive/modules/toggle/toggle.module.code.tsx"
 import {
   ToggleGroup,
   ToggleGroupItem,
-} from "akasha/design/interface/design-interfaces-primitives/modules/toggle-group/toggle-group.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/toggle-group/toggle-group.module.code.tsx"
 import { useState } from "react"
 
 export function ComponentsFormControlsPanels() {

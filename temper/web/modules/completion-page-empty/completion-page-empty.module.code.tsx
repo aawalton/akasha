@@ -1,8 +1,4 @@
 import {
-  Card,
-  CardContent,
-} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
-import {
   PageLayout,
   PageTitle,
   PageTitleBadges,
@@ -14,6 +10,10 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
+import {
+  Card,
+  CardContent,
+} from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import { Globe } from "lucide-react"
 
 export function CompletionPageEmpty() {

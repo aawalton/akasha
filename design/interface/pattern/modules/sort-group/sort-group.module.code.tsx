@@ -12,7 +12,6 @@ import {
 import type { SyntheticListenerMap } from "@dnd-kit/core/dist/hooks/utilities"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext, useSortable } from "@dnd-kit/sortable"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import {
   letGo,
   tookHold,
@@ -24,6 +23,7 @@ import {
   type SortRowMeasure,
 } from "akasha/design/interface/pattern/modules/sort-group-helpers/sort-group-helpers.module.code.ts"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { ArrowDown, ArrowUp, GripVertical, X } from "lucide-react"
 import type { CSSProperties, HTMLAttributes } from "react"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"

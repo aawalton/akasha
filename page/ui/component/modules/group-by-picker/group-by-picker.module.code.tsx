@@ -1,11 +1,5 @@
 "use client"
 
-import {
-  FilterableList,
-  FilterableListItem,
-} from "akasha/design/interface/design-interfaces-primitives/modules/filterable-list/filterable-list.module.code.tsx"
-import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
-import { SubView } from "akasha/design/interface/design-interfaces-primitives/modules/sub-view/sub-view.module.code.tsx"
 import { AddSortButton } from "akasha/design/interface/pattern/modules/add-sort-button/add-sort-button.module.code.tsx"
 import { FilterGroup } from "akasha/design/interface/pattern/modules/filter-group/filter-group.module.code.tsx"
 import { SortableSortList } from "akasha/design/interface/pattern/modules/sort-group/sort-group.module.code.tsx"
@@ -14,6 +8,12 @@ import type {
   SortEntry,
   SortOption,
 } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import {
+  FilterableList,
+  FilterableListItem,
+} from "akasha/design/interface/primitive/modules/filterable-list/filterable-list.module.code.tsx"
+import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
+import { SubView } from "akasha/design/interface/primitive/modules/sub-view/sub-view.module.code.tsx"
 import {
   GROUP_GRANULARITIES,
   type GroupGranularity,

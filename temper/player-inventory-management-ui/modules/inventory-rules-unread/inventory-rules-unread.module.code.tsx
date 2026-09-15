@@ -4,7 +4,7 @@ import {
   Alert,
   AlertDescription,
   AlertTitle,
-} from "akasha/design/interface/design-interfaces-primitives/modules/alert/alert.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/alert/alert.module.code.tsx"
 import { TriangleAlert } from "lucide-react"
 
 export function InventoryRulesUnread({ said }: { said: string }) {

@@ -1,6 +1,5 @@
 "use client"
 
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { scrollToCard } from "akasha/design/interface/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
 import {
@@ -12,6 +11,7 @@ import {
   EmptyTitle,
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { computeCurrencyGoldTotal } from "akasha/temper/items-core/modules/inventory-currencies/inventory-currencies.module.code.ts"
 import {
   filterInventoryGroups,

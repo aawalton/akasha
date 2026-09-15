@@ -2200,8 +2200,6 @@
 {"propertySlug":"invariant-kind","path":"design/interface/badge/modules/url-badge/url-badge.module.ts","id":"01a05b55-a539-7bc7-91a9-d5b91de4f605"}
 {"propertySlug":"invariant-kind","path":"design/interface/color/color.page-type.ts","id":"01a06575-c2a9-766f-8f09-da30cc969637"}
 {"propertySlug":"invariant-kind","path":"design/interface/design-interface.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
-{"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-primitives/modules/listener-set/listener-set.module.ts","id":"01a07cd7-ff21-7b3f-a03a-2ca0fd18a8b8"}
-{"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-primitives/modules/use-number-draft/use-number-draft.module.ts","id":"01a08e03-e1bc-73b8-a5dc-0d022694948e"}
 {"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-system/design-interfaces-system.domain.ts","id":"01a05c95-564a-7ba2-ab36-d818c559b389"}
 {"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-system/ring/budget-ring/budget-ring.domain.ts","id":"01a0655b-9cdd-7c1c-9464-84a197fb9eab"}
 {"propertySlug":"invariant-kind","path":"design/interface/design-interfaces-system/ring/completion-ring/completion-ring.domain.ts","id":"01a0655b-9cdd-7e64-82e6-36eae889890f"}
@@ -2212,6 +2210,8 @@
 {"propertySlug":"invariant-kind","path":"design/interface/pattern/modules/drag-hold/drag-hold.module.ts","id":"01a09093-a35f-7798-8306-75a6528275cb"}
 {"propertySlug":"invariant-kind","path":"design/interface/pattern/modules/filter-changing/filter-changing.module.ts","id":"01a090ec-d6a6-7001-9492-6e84f3f7dfe4"}
 {"propertySlug":"invariant-kind","path":"design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.ts","id":"01a061ed-653b-73ef-8556-969d798ee2a5"}
+{"propertySlug":"invariant-kind","path":"design/interface/primitive/modules/listener-set/listener-set.module.ts","id":"01a07cd7-ff21-7b3f-a03a-2ca0fd18a8b8"}
+{"propertySlug":"invariant-kind","path":"design/interface/primitive/modules/use-number-draft/use-number-draft.module.ts","id":"01a08e03-e1bc-73b8-a5dc-0d022694948e"}
 {"propertySlug":"invariant-kind","path":"design/interface/token/design-interface-token.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}
 {"propertySlug":"invariant-kind","path":"design/interface/token/modules/color-shape/color-shape.module.ts","id":"01a05c97-5300-76a3-aa25-55af6fe31b6d"}
 {"propertySlug":"invariant-kind","path":"design/interface/token/modules/text-color/text-color.module.ts","id":"01a05c97-5302-71a3-b9f8-f3bbd1c59f22"}

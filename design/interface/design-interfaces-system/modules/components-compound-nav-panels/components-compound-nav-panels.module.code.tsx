@@ -1,8 +1,19 @@
 "use client"
 
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
-import { Input } from "akasha/design/interface/design-interfaces-primitives/modules/input/input.module.code.tsx"
+import {
+  Form,
+  FormControl,
+  FormDescription,
+  FormField,
+  FormItem,
+  FormLabel,
+  FormMessage,
+} from "akasha/design/interface/form/modules/form/form.module.code.tsx"
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { SidebarNavGroup } from "akasha/design/interface/layout/modules/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { Input } from "akasha/design/interface/primitive/modules/input/input.module.code.tsx"
 import {
   Menubar,
   MenubarCheckboxItem,
@@ -17,20 +28,9 @@ import {
   MenubarSubContent,
   MenubarSubTrigger,
   MenubarTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/menubar/menubar.module.code.tsx"
-import { Toaster } from "akasha/design/interface/design-interfaces-primitives/modules/sonner/sonner.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
-import {
-  Form,
-  FormControl,
-  FormDescription,
-  FormField,
-  FormItem,
-  FormLabel,
-  FormMessage,
-} from "akasha/design/interface/form/modules/form/form.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
-import { SidebarNavGroup } from "akasha/design/interface/layout/modules/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/menubar/menubar.module.code.tsx"
+import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 import { useForm } from "react-hook-form"
 import { toast } from "sonner"

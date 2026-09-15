@@ -1,22 +1,22 @@
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/collapsible/collapsible.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/collapsible/collapsible.module.code.tsx"
 import {
   Command,
   CommandGroup,
   CommandInput,
   CommandList,
-} from "akasha/design/interface/design-interfaces-primitives/modules/command/command.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/command/command.module.code.tsx"
 import {
   Dialog,
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/interface/design-interfaces-primitives/modules/dialog/dialog.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
 import {
   type SkillId,
   skills,

@@ -1,4 +1,3 @@
-import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
 import {
   PageLayout,
   PageTitle,
@@ -12,6 +11,7 @@ import {
   TabsContent,
   TabsList,
 } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
+import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { List } from "lucide-react"
 
 export function meta() {

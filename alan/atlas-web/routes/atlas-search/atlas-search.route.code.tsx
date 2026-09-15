@@ -3,8 +3,6 @@ import {
   type PlaceCandidate,
   searchResponseSchema,
 } from "akasha/alan/atlas-web/modules/place-candidate/place-candidate.module.code.ts"
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import { Card } from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
 import {
   InputGroup,
   InputGroupAddon,
@@ -15,6 +13,8 @@ import {
   PageLayout,
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import { Card } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import { Search } from "lucide-react"
 import { useState } from "react"
 import { Link } from "react-router"

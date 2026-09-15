@@ -1,7 +1,7 @@
 "use client"
 
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import { Spinner } from "akasha/design/interface/design-interfaces-primitives/modules/spinner/spinner.module.code.tsx"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import { Spinner } from "akasha/design/interface/primitive/modules/spinner/spinner.module.code.tsx"
 import { useNewCharacter } from "akasha/temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import { Plus } from "lucide-react"
 

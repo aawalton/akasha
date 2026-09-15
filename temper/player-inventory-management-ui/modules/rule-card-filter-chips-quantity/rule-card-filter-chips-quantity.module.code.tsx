@@ -1,14 +1,14 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
+import { EditableNumber } from "akasha/design/interface/form/modules/editable-number/editable-number.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
-import { EditableNumber } from "akasha/design/interface/form/modules/editable-number/editable-number.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { ALL_STOCKED_OPTIONS } from "akasha/temper/items-rules-core/modules/all-stocked-filter/all-stocked-filter.module.code.ts"
 import { KEEP_QUANTITY_OPTIONS } from "akasha/temper/items-rules-core/modules/keep-quantity-filter/keep-quantity-filter.module.code.ts"
 import { STOCK_THRESHOLD_OPTIONS } from "akasha/temper/items-rules-core/modules/stock-threshold-filter/stock-threshold-filter.module.code.ts"

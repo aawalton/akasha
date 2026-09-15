@@ -7,7 +7,7 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import {
   CharacterTargetCascade,
   CompanionTargetCascade,

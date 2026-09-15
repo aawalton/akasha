@@ -1,4 +1,4 @@
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import type { ClientStoryChapter } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { useState } from "react"
 

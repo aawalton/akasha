@@ -1,8 +1,5 @@
 "use client"
 
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
-import { Skeleton } from "akasha/design/interface/design-interfaces-primitives/modules/skeleton/skeleton.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import { useAppShellOptional } from "akasha/design/interface/layout/modules/app-shell-context/app-shell-context.module.code.tsx"
 import {
   type ColumnLayout,
@@ -14,6 +11,9 @@ import {
 } from "akasha/design/interface/layout/modules/page-layout-data/page-layout-data.module.code.ts"
 import { ResponsiveColumnsSkeleton } from "akasha/design/interface/layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 import { useColumnCount } from "akasha/design/interface/layout/modules/use-column-count/use-column-count.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { Skeleton } from "akasha/design/interface/primitive/modules/skeleton/skeleton.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import * as React from "react"
 
 interface PageTitleProps {

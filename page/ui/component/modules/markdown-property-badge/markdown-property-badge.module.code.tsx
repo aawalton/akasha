@@ -2,8 +2,8 @@
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
-import { Textarea } from "akasha/design/interface/design-interfaces-primitives/modules/textarea/textarea.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { Textarea } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
 import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import { MarkdownRenderer } from "akasha/page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
 import { useEffect, useRef, useState } from "react"

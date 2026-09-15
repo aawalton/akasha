@@ -1,14 +1,14 @@
 "use client"
 
+import { LoadMoreButton } from "akasha/design/interface/layout/modules/load-more-button/load-more-button.module.code.tsx"
+import { useLoadMore } from "akasha/design/interface/layout/modules/use-load-more/use-load-more.module.code.ts"
 import {
   Table,
   TableBody,
   TableHead,
   TableHeader,
   TableRow,
-} from "akasha/design/interface/design-interfaces-primitives/modules/table/table.module.code.tsx"
-import { LoadMoreButton } from "akasha/design/interface/layout/modules/load-more-button/load-more-button.module.code.tsx"
-import { useLoadMore } from "akasha/design/interface/layout/modules/use-load-more/use-load-more.module.code.ts"
+} from "akasha/design/interface/primitive/modules/table/table.module.code.tsx"
 import { PageTableColGroup } from "akasha/page/ui/component/modules/page-table-colgroup/page-table-colgroup.module.code.tsx"
 import { ReorderableColumnTable } from "akasha/page/ui/component/modules/page-table-header/page-table-header.module.code.tsx"
 import {

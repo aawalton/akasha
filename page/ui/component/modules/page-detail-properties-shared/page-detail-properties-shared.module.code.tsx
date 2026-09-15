@@ -5,12 +5,12 @@ import {
   localDateIn,
   localDateOf,
 } from "akasha/design/interface/badge/modules/date-badge/date-badge.module.code.tsx"
+import { Calendar } from "akasha/design/interface/form/modules/calendar/calendar.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
-import { Calendar } from "akasha/design/interface/form/modules/calendar/calendar.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import type { BadgeVariant } from "akasha/page/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import { formatSmartDate } from "akasha/page/core/view/modules/format-smart-date/format-smart-date.module.code.ts"
 import { useState } from "react"

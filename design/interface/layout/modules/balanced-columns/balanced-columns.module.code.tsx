@@ -1,6 +1,5 @@
 "use client"
 
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
 import {
   type BalancedLayout,
   decideBalancedLayout,
@@ -12,6 +11,7 @@ import {
   PanelDefaultOpenProvider,
   PanelSummaryProvider,
 } from "akasha/design/interface/layout/modules/panel-default-open-context/panel-default-open-context.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import type * as React from "react"
 import { isValidElement, useCallback, useLayoutEffect, useRef, useState } from "react"
 

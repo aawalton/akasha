@@ -1,8 +1,8 @@
 "use client"
 
-import { Skeleton } from "akasha/design/interface/design-interfaces-primitives/modules/skeleton/skeleton.module.code.tsx"
 import { createGenericLayout } from "akasha/design/interface/layout/modules/column-layout/column-layout.module.code.ts"
 import { ResponsiveColumnsSkeleton } from "akasha/design/interface/layout/modules/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
+import { Skeleton } from "akasha/design/interface/primitive/modules/skeleton/skeleton.module.code.tsx"
 
 export function ListContentSkeleton({
   showTabTitle = true,

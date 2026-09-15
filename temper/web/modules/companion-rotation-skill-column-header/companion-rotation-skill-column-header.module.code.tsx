@@ -1,15 +1,15 @@
 "use client"
 
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import {
   Dialog,
   DialogBody,
   DialogContent,
   DialogTitle,
   DialogTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/dialog/dialog.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
-import { TableHead } from "akasha/design/interface/design-interfaces-primitives/modules/table/table.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { TableHead } from "akasha/design/interface/primitive/modules/table/table.module.code.tsx"
 import type { SkillSlotData } from "akasha/temper/companions-core/modules/companion-rotation-slot/companion-rotation-slot.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { getEsoIconUrl } from "akasha/temper/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"

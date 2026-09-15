@@ -1,13 +1,5 @@
 "use client"
 
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
-import {
-  Popover,
-  PopoverContent,
-  PopoverTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import { isNavItemActive } from "akasha/design/interface/layout/modules/nav-active/nav-active.module.code.ts"
 import type {
   AppNavConfig,
@@ -19,6 +11,14 @@ import {
 } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import { SidebarNavGroup } from "akasha/design/interface/layout/modules/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
 import { useSidebarState } from "akasha/design/interface/layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { PanelLeftClose, PanelLeftOpen } from "lucide-react"
 
 interface AppShellSidebarProps {

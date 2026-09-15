@@ -1,5 +1,6 @@
 "use client"
 
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import {
   AlertDialog,
   AlertDialogAction,
@@ -10,9 +11,9 @@ import {
   AlertDialogHeader,
   AlertDialogTitle,
   AlertDialogTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/alert-dialog/alert-dialog.module.code.tsx"
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
+} from "akasha/design/interface/primitive/modules/alert-dialog/alert-dialog.module.code.tsx"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import {
   ContextMenu,
   ContextMenuCheckboxItem,
@@ -24,7 +25,7 @@ import {
   ContextMenuSeparator,
   ContextMenuShortcut,
   ContextMenuTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/context-menu/context-menu.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/context-menu/context-menu.module.code.tsx"
 import {
   Drawer,
   DrawerClose,
@@ -34,7 +35,7 @@ import {
   DrawerHeader,
   DrawerTitle,
   DrawerTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/drawer/drawer.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/drawer/drawer.module.code.tsx"
 import {
   DropdownMenu,
   DropdownMenuCheckboxItem,
@@ -50,15 +51,14 @@ import {
   DropdownMenuSubContent,
   DropdownMenuSubTrigger,
   DropdownMenuTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/dropdown-menu/dropdown-menu.module.code.tsx"
-import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"
+import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import {
   HoverCard,
   HoverCardContent,
   HoverCardTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/hover-card/hover-card.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
-import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/hover-card/hover-card.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 
 export function ComponentsMenuPanels() {

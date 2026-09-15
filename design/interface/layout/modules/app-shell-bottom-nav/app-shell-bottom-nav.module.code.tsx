@@ -1,8 +1,5 @@
 "use client"
 
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
-import { Skeleton } from "akasha/design/interface/design-interfaces-primitives/modules/skeleton/skeleton.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import { AppShellMoreDrawer } from "akasha/design/interface/layout/modules/app-shell-more-drawer/app-shell-more-drawer.module.code.tsx"
 import { isNavItemActive } from "akasha/design/interface/layout/modules/nav-active/nav-active.module.code.ts"
 import type {
@@ -16,6 +13,9 @@ import {
 } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import { selectBottomNavItems } from "akasha/design/interface/layout/modules/select-bottom-nav-items/select-bottom-nav-items.module.code.ts"
 import { selectDrawerGroups } from "akasha/design/interface/layout/modules/select-drawer-groups/select-drawer-groups.module.code.ts"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { Skeleton } from "akasha/design/interface/primitive/modules/skeleton/skeleton.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { Ellipsis } from "lucide-react"
 import { useState } from "react"
 

@@ -1,6 +1,6 @@
 "use client"
 
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import {
   Dialog,
   DialogContent,
@@ -8,7 +8,7 @@ import {
   DialogFooter,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/interface/design-interfaces-primitives/modules/dialog/dialog.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
 import { Construction } from "lucide-react"
 
 interface UnderConstructionDialogProps {

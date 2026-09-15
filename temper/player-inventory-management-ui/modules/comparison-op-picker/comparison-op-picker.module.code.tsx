@@ -5,7 +5,7 @@ import {
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/dropdown-menu/dropdown-menu.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"
 import {
   type ComparisonOpId,
   comparisonOps,

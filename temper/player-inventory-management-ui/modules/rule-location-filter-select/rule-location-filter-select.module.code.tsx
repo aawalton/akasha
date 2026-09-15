@@ -7,7 +7,7 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { classifyLocation } from "akasha/temper/items-core/modules/location-classify/location-classify.module.code.ts"
 import {
   type LocationTypeId,

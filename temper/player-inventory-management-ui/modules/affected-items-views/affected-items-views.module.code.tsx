@@ -1,11 +1,5 @@
 "use client"
 
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
-import { formatGold } from "akasha/design/interface/design-interfaces-primitives/modules/format-gold/format-gold.module.code.ts"
-import { ScrollArea } from "akasha/design/interface/design-interfaces-primitives/modules/scroll-area/scroll-area.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
 import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-row.module.code.tsx"
 import { buildNodePath } from "akasha/design/interface/pattern/modules/path/path.module.code.ts"
 import {
@@ -15,6 +9,12 @@ import {
   TabsTrigger,
 } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { useSetToggle } from "akasha/design/interface/pattern/modules/use-set-toggle/use-set-toggle.module.code.ts"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { formatGold } from "akasha/design/interface/primitive/modules/format-gold/format-gold.module.code.ts"
+import { ScrollArea } from "akasha/design/interface/primitive/modules/scroll-area/scroll-area.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import {
   hasAnyValue,

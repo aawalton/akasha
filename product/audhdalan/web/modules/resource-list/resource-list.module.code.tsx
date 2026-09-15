@@ -1,5 +1,5 @@
-import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
-import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
+import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
+import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { ExternalLink, FileSpreadsheet, Gauge, NotebookPen, Presentation } from "lucide-react"
 import { Link } from "react-router"
 

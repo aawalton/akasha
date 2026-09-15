@@ -1,11 +1,11 @@
 "use client"
 
+import { FilterGroup } from "akasha/design/interface/pattern/modules/filter-group/filter-group.module.code.tsx"
 import {
   FilterableList,
   FilterableListItem,
-} from "akasha/design/interface/design-interfaces-primitives/modules/filterable-list/filterable-list.module.code.tsx"
-import { SubView } from "akasha/design/interface/design-interfaces-primitives/modules/sub-view/sub-view.module.code.tsx"
-import { FilterGroup } from "akasha/design/interface/pattern/modules/filter-group/filter-group.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/filterable-list/filterable-list.module.code.tsx"
+import { SubView } from "akasha/design/interface/primitive/modules/sub-view/sub-view.module.code.tsx"
 
 interface NotesOptionsPickerProps {
   notesProperty?: string

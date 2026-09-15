@@ -4,7 +4,7 @@ import {
   Badge,
   type badgeVariants,
 } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import type { VariantProps } from "class-variance-authority"
 import type * as React from "react"
 

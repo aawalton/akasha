@@ -1,15 +1,17 @@
 "use client"
 
+import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { Kbd, KbdGroup } from "akasha/design/interface/pattern/modules/kbd/kbd.module.code.tsx"
 import {
   Alert,
   AlertDescription,
   AlertTitle,
-} from "akasha/design/interface/design-interfaces-primitives/modules/alert/alert.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/alert/alert.module.code.tsx"
 import {
   Avatar,
   AvatarFallback,
   AvatarImage,
-} from "akasha/design/interface/design-interfaces-primitives/modules/avatar/avatar.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/avatar/avatar.module.code.tsx"
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -17,12 +19,10 @@ import {
   BreadcrumbList,
   BreadcrumbPage,
   BreadcrumbSeparator,
-} from "akasha/design/interface/design-interfaces-primitives/modules/breadcrumb/breadcrumb.module.code.tsx"
-import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
-import { Separator } from "akasha/design/interface/design-interfaces-primitives/modules/separator/separator.module.code.tsx"
-import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
-import { Kbd, KbdGroup } from "akasha/design/interface/pattern/modules/kbd/kbd.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/breadcrumb/breadcrumb.module.code.tsx"
+import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
+import { Separator } from "akasha/design/interface/primitive/modules/separator/separator.module.code.tsx"
+import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 
 const TEXT_VARIANTS = ["description", "hint", "caption", "prose"] as const
 

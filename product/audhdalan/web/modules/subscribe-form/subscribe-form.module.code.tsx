@@ -1,8 +1,8 @@
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
-import { Input } from "akasha/design/interface/design-interfaces-primitives/modules/input/input.module.code.tsx"
-import { Separator } from "akasha/design/interface/design-interfaces-primitives/modules/separator/separator.module.code.tsx"
-import { Text } from "akasha/design/interface/design-interfaces-primitives/modules/text-body/text-body.module.code.tsx"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
+import { Input } from "akasha/design/interface/primitive/modules/input/input.module.code.tsx"
+import { Separator } from "akasha/design/interface/primitive/modules/separator/separator.module.code.tsx"
+import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { useId, useState } from "react"
 import { z } from "zod"
 

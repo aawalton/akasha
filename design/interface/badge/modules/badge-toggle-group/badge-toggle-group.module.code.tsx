@@ -4,7 +4,7 @@ import {
   Badge,
   type badgeVariants,
 } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { HorizontalScrollFade } from "akasha/design/interface/design-interfaces-primitives/modules/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
+import { HorizontalScrollFade } from "akasha/design/interface/primitive/modules/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
 import type { VariantProps } from "class-variance-authority"
 import type * as React from "react"
 

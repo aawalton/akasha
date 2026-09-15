@@ -1,0 +1,15 @@
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { Loader2Icon } from "lucide-react"
+
+function Spinner({ className, ...props }: React.ComponentProps<"svg">) {
+  return (
+    <Loader2Icon
+      role="status"
+      aria-label="Loading"
+      className={cn("size-4 animate-spin", className)}
+      {...props}
+    />
+  )
+}
+
+export { Spinner }

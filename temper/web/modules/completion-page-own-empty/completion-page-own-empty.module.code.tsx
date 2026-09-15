@@ -1,10 +1,5 @@
 "use client"
 
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import {
-  Card,
-  CardContent,
-} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
 import {
   PageLayout,
   PageTitle,
@@ -18,6 +13,11 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import {
+  Card,
+  CardContent,
+} from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import { FolderOpen } from "lucide-react"
 
 export function CompletionPageOwnEmpty() {

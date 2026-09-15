@@ -1,18 +1,5 @@
 "use client"
 
-import { Button } from "akasha/design/interface/design-interfaces-primitives/modules/button/button.module.code.tsx"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
-import { Heading } from "akasha/design/interface/design-interfaces-primitives/modules/heading/heading.module.code.tsx"
-import { Spinner } from "akasha/design/interface/design-interfaces-primitives/modules/spinner/spinner.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from "akasha/design/interface/design-interfaces-primitives/modules/table/table.module.code.tsx"
 import { PatternsUxLayoutPanels } from "akasha/design/interface/design-interfaces-system/modules/patterns-ux-layout-panels/patterns-ux-layout-panels.module.code.tsx"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import {
@@ -23,6 +10,19 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
+import { Spinner } from "akasha/design/interface/primitive/modules/spinner/spinner.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import {
+  Table,
+  TableBody,
+  TableCell,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from "akasha/design/interface/primitive/modules/table/table.module.code.tsx"
 import { AlertCircle, FolderOpen, Search } from "lucide-react"
 
 export function PatternsUxPanels() {

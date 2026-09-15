@@ -1,10 +1,10 @@
 "use client"
 
-import { useKeyboardBinding } from "akasha/design/interface/design-interfaces-primitives/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import {
   PanelToggleContext,
   type PanelToggleSignal,
 } from "akasha/design/interface/layout/modules/panel-toggle-context/panel-toggle-context.module.code.tsx"
+import { useKeyboardBinding } from "akasha/design/interface/primitive/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import { useCallback, useState } from "react"
 
 export function PanelToggleProvider({

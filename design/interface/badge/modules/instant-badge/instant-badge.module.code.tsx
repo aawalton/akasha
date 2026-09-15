@@ -4,7 +4,7 @@ import {
   Badge,
   type BadgeVariant,
 } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import { formatRelativeTime } from "akasha/design/interface/design-interfaces-primitives/modules/format-relative-time/format-relative-time.module.code.ts"
+import { formatRelativeTime } from "akasha/design/interface/primitive/modules/format-relative-time/format-relative-time.module.code.ts"
 
 interface InstantBadgeProps {
   value: number | null | undefined

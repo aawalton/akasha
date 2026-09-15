@@ -9,7 +9,7 @@ import {
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
-} from "akasha/design/interface/design-interfaces-primitives/modules/alert-dialog/alert-dialog.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/alert-dialog/alert-dialog.module.code.tsx"
 
 interface SetTargetConfirmDialogProps {
   open: boolean

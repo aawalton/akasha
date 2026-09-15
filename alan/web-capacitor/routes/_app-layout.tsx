@@ -9,7 +9,7 @@ import {
   resolveShellHlsSrc,
   resolveShellMediaSrc,
 } from "akasha/alan/web/modules/shell-media-src/shell-media-src.module.code.ts"
-import { Toaster } from "akasha/design/interface/design-interfaces-primitives/modules/sonner/sonner.module.code.tsx"
+import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner.module.code.tsx"
 import { PlayingSessionProvider } from "akasha/page/ui/media/modules/playing-session-context/playing-session-context.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { type ReactNode, useMemo } from "react"

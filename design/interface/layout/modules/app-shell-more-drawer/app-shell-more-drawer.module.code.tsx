@@ -1,12 +1,6 @@
 "use client"
 
 import * as CollapsiblePrimitive from "@radix-ui/react-collapsible"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
-import {
-  Drawer,
-  DrawerContent,
-  DrawerTitle,
-} from "akasha/design/interface/design-interfaces-primitives/modules/drawer/drawer.module.code.tsx"
 import { isNavItemActive } from "akasha/design/interface/layout/modules/nav-active/nav-active.module.code.ts"
 import type {
   AppNavItem,
@@ -16,6 +10,12 @@ import {
   LayoutLink,
   useLayoutPathname,
 } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import {
+  Drawer,
+  DrawerContent,
+  DrawerTitle,
+} from "akasha/design/interface/primitive/modules/drawer/drawer.module.code.tsx"
 import { ChevronRightIcon } from "lucide-react"
 
 interface AppShellMoreDrawerProps {

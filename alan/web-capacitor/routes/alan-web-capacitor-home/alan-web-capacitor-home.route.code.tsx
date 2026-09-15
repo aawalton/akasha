@@ -3,13 +3,13 @@
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { ALANWALTON_APP_SLUG } from "akasha/alan/web/modules/alan-app-id/alan-app-id.module.code.ts"
 import { HOME_SCREEN_NAV_SLUG } from "akasha/alan/web/modules/home-dni/home-dni.module.code.ts"
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
 import {
   PageLayout,
   PageLayoutSkeleton,
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
 import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { buildPageHrefParam } from "akasha/page/url/modules/page-href/page-href.module.code.ts"

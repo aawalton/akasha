@@ -1,5 +1,5 @@
 import { Slot } from "@radix-ui/react-slot"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { Check, ChevronDown, X } from "lucide-react"
 import { Children, cloneElement, type ElementType, isValidElement, type ReactNode } from "react"
 

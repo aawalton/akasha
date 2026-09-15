@@ -7,7 +7,7 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/interface/design-interfaces-primitives/modules/select-control/select-control.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { LEVEL_OPTIONS } from "akasha/temper/items-rules-core/modules/level-filter/level-filter.module.code.ts"
 import { QUALITY_OPTIONS } from "akasha/temper/items-rules-core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
 import { ComparisonOpPicker } from "akasha/temper/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.code.tsx"

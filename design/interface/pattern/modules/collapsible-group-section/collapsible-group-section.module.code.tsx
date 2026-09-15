@@ -5,7 +5,7 @@ import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/collapsible/collapsible.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/collapsible/collapsible.module.code.tsx"
 import { ChevronDownIcon } from "lucide-react"
 import type { ReactNode } from "react"
 

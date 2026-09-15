@@ -5,9 +5,9 @@ import {
   type AuthRouteConfig,
   authGuard,
 } from "akasha/alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.code.ts"
-import { CommandPalette } from "akasha/design/interface/design-interfaces-primitives/modules/command-palette/command-palette.module.code.tsx"
-import { ShortcutSheet } from "akasha/design/interface/design-interfaces-primitives/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
-import { SurfaceProvider } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
+import { CommandPalette } from "akasha/design/interface/primitive/modules/command-palette/command-palette.module.code.tsx"
+import { ShortcutSheet } from "akasha/design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
+import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import { NavCommands } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-nav-command/archive-of-worlds-nav-command.module.code.tsx"
 import type React from "react"

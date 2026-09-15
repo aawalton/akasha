@@ -1,18 +1,18 @@
 "use client"
 
-import {
-  CardContent,
-  CardHeader,
-  CardTitle,
-} from "akasha/design/interface/design-interfaces-primitives/modules/card/card.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import {
   Tabs,
   TabsList,
   TabsTrigger,
 } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
+import {
+  CardContent,
+  CardHeader,
+  CardTitle,
+} from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { StatsToolbar } from "akasha/temper/web/modules/stats-toolbar/stats-toolbar.module.code.tsx"
 import { Shield, Swords } from "lucide-react"
 

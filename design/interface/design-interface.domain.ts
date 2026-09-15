@@ -10,7 +10,7 @@ export const designInterface = {
     "domain/design-interface-form",
     "domain/design-interface-layout",
     "domain/design-interface-pattern",
-    "domain/design-interfaces-primitives",
+    "domain/design-interface-primitive",
     "domain/design-interfaces-system",
     "domain/design-interface-token",
     "page-type/color",

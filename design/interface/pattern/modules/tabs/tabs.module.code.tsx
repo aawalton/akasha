@@ -1,21 +1,21 @@
 "use client"
 
 import * as TabsPrimitive from "@radix-ui/react-tabs"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
+import { useLayoutRouter } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import {
   DropdownMenu,
   DropdownMenuTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/dropdown-menu/dropdown-menu.module.code.tsx"
-import { handleHomeEndScroll } from "akasha/design/interface/design-interfaces-primitives/modules/home-end-scroll/home-end-scroll.module.code.ts"
+} from "akasha/design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"
+import { handleHomeEndScroll } from "akasha/design/interface/primitive/modules/home-end-scroll/home-end-scroll.module.code.ts"
 import {
   clampSurfaceLevel,
   surfaceClass,
-} from "akasha/design/interface/design-interfaces-primitives/modules/surface-class/surface-class.module.code.ts"
+} from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import {
   SurfaceProvider,
   useSurface,
-} from "akasha/design/interface/design-interfaces-primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { useLayoutRouter } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type * as React from "react"
 import { useCallback, useEffect, useRef, useState } from "react"
 import { z } from "zod"

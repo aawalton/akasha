@@ -1,4 +1,4 @@
-import type { TriggerSafeNode } from "akasha/design/interface/design-interfaces-primitives/modules/trigger-safe-node/trigger-safe-node.module.code.ts"
+import type { TriggerSafeNode } from "akasha/design/interface/primitive/modules/trigger-safe-node/trigger-safe-node.module.code.ts"
 import type { LucideIcon } from "lucide-react"
 
 export interface AppNavItem {

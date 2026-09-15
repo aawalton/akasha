@@ -11,13 +11,13 @@ import {
 } from "@dnd-kit/core"
 import { restrictToHorizontalAxis } from "@dnd-kit/modifiers"
 import { horizontalListSortingStrategy, SortableContext, useSortable } from "@dnd-kit/sortable"
-import { cn } from "akasha/design/interface/design-interfaces-primitives/modules/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import {
   Table,
   TableHead,
   TableHeader,
   TableRow,
-} from "akasha/design/interface/design-interfaces-primitives/modules/table/table.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/table/table.module.code.tsx"
 import { PageTableColGroup } from "akasha/page/ui/component/modules/page-table-colgroup/page-table-colgroup.module.code.tsx"
 import {
   applyColumnDrop,

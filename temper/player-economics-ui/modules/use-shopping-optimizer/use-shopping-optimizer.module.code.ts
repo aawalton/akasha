@@ -1,6 +1,6 @@
 "use client"
 
-import { useSingleFlight } from "akasha/design/interface/design-interfaces-primitives/modules/use-single-flight/use-single-flight.module.code.ts"
+import { useSingleFlight } from "akasha/design/interface/primitive/modules/use-single-flight/use-single-flight.module.code.ts"
 import {
   pinLocationIndex,
   recomputeLocations,

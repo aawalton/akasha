@@ -6,12 +6,12 @@ import {
 } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/interface/badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
+import { Calendar } from "akasha/design/interface/form/modules/calendar/calendar.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/interface/design-interfaces-primitives/modules/popover/popover.module.code.tsx"
-import { Calendar } from "akasha/design/interface/form/modules/calendar/calendar.module.code.tsx"
+} from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import { padTwo } from "akasha/util/modules/pad-two/pad-two.module.code.ts"
 import { CalendarDays } from "lucide-react"
 import { useState } from "react"
