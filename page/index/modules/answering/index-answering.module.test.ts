@@ -72,8 +72,6 @@ const SLUG = "slug"
 
 const DECLARES = "page-property-slug"
 
-const NOT_THERE = "is not there"
-
 const HELD_ADDRESS = { pageTypeSlug: MODULE, propertySlug: SLUG, value: "held" }
 
 const SCHEMA = {
@@ -198,10 +196,11 @@ test("no question falls back to the index at a root, even one handed in for some
   const root = seeded()
   const index = answeringOver(COLD, pageOf)
   expect(listedAt(root, MODULE, "held")).toHaveLength(1)
-  expect(() => index.everyOfType(MODULE)).toThrow(NOT_THERE)
-  expect(() => index.listedAt(MODULE, "held")).toThrow(NOT_THERE)
-  expect(() => index.listedById(HELD_ID)).toThrow(NOT_THERE)
-  expect(() => index.fileKeysAt()).toThrow(NOT_THERE)
-  expect(() => index.kindsUnder(PAGE_TYPE)).toThrow(NOT_THERE)
-  expect(() => index.knownIn()).toThrow(NOT_THERE)
+  expect(index.everyOfType(MODULE)).toEqual([])
+  expect(index.listedAt(MODULE, "held")).toEqual([])
+  expect(index.listedById(HELD_ID)).toBeNull()
+  expect(index.fileKeysAt().size).toBe(0)
+  expect(index.shapesAt().size).toBe(0)
+  expect([...index.kindsUnder(PAGE_TYPE)]).toEqual([PAGE_TYPE])
+  expect(index.knownIn().filed(HELD_ADDRESS)).toEqual([])
 })
