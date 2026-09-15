@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const directionalSound = {
   id: "01a06575-9803-7920-8385-d139f7587613",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "directional-sound",
   title: "Directional Sound",
   world: "world/the-wandering-inn",

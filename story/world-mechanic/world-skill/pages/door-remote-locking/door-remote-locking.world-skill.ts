@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const doorRemoteLocking = {
   id: "01a06575-9805-7493-b00a-87190cd05625",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "door-remote-locking",
   title: "Door: Remote Locking",
   world: "world/the-wandering-inn",

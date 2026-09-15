@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const diplomaticImmunitySpycraft = {
   id: "01a06575-9803-7b53-8958-6a07700f4b53",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "diplomatic-immunity-spycraft",
   title: "Diplomatic Immunity: Spycraft",
   world: "world/the-wandering-inn",

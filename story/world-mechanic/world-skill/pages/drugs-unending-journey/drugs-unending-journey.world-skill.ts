@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const drugsUnendingJourney = {
   id: "01a06575-9806-7d55-9906-036bd741a531",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "drugs-unending-journey",
   title: "Drugs: Unending Journey",
   world: "world/the-wandering-inn",

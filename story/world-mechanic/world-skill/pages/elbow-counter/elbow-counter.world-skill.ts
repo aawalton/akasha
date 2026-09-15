@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const elbowCounter = {
   id: "01a06575-9807-73b6-8834-84321de0f021",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "elbow-counter",
   title: "Elbow Counter",
   world: "world/the-wandering-inn",

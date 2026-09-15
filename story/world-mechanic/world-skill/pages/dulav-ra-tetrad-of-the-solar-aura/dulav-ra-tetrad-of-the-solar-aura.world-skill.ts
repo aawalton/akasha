@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const dulavRaTetradOfTheSolarAura = {
   id: "01a06575-9806-7bf8-98f7-d611dc927e1c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "dulav-ra-tetrad-of-the-solar-aura",
   title: "Dulav-ra: Tetrad of the Solar Aura",
   world: "world/the-wandering-inn",

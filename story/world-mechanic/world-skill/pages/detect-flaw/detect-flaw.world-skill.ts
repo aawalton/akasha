@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const detectFlaw = {
   id: "01a06575-9803-737d-9c43-17a4deb0faf5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "detect-flaw",
   title: "Detect Flaw",
   world: "world/the-wandering-inn",

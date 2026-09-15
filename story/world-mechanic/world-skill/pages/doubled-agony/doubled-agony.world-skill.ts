@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const doubledAgony = {
   id: "01a06575-9805-7b2a-8acb-6a76bae990ee",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "doubled-agony",
   title: "Doubled Agony",
   world: "world/the-wandering-inn",

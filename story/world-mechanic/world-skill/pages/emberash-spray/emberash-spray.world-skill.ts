@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const emberashSpray = {
   id: "01a06575-9807-73a0-85d2-3d0901371ecf",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "emberash-spray",
   title: "Emberash Spray",
   world: "world/the-wandering-inn",

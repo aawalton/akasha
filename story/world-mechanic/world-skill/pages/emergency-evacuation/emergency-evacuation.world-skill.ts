@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const emergencyEvacuation = {
   id: "01a06575-9807-76d5-b477-905f51e1b733",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "emergency-evacuation",
   title: "Emergency Evacuation",
   world: "world/the-wandering-inn",

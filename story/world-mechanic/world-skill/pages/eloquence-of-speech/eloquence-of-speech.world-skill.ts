@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const eloquenceOfSpeech = {
   id: "01a06575-9807-78fb-b79e-a180039ccaa7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "eloquence-of-speech",
   title: "Eloquence of Speech",
   world: "world/the-wandering-inn",

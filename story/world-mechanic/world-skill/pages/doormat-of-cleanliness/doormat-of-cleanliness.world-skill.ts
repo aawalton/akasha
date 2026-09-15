@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const doormatOfCleanliness = {
   id: "01a06575-9805-7f0b-ade9-221ca429c076",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "doormat-of-cleanliness",
   title: "Doormat of Cleanliness",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const emergencyEscapeWater = {
   id: "01a06575-9807-71fc-9252-08b3a6edc813",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "emergency-escape-water",
   title: "Emergency Escape: Water",
   world: "world/the-wandering-inn",

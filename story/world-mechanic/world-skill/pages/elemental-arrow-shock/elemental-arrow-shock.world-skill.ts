@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const elementalArrowShock = {
   id: "01a06575-9807-70ed-b1a6-141b99d052e1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "elemental-arrow-shock",
   title: "Elemental Arrow: Shock",
   world: "world/the-wandering-inn",

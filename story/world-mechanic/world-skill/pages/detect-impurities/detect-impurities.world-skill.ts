@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const detectImpurities = {
   id: "01a06575-9803-7dfa-82bf-ee40386169c8",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "detect-impurities",
   title: "Detect Impurities",
   world: "world/the-wandering-inn",

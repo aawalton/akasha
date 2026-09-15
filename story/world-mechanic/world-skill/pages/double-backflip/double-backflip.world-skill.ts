@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const doubleBackflip = {
   id: "01a06575-9805-7b5f-81e0-a6a3935539fe",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "double-backflip",
   title: "Double Backflip",
   world: "world/the-wandering-inn",

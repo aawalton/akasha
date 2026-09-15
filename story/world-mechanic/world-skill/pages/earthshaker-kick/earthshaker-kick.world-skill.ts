@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const earthshakerKick = {
   id: "01a06575-9806-72f4-af37-136bf4711dae",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "earthshaker-kick",
   title: "Earthshaker K—",
   world: "world/the-wandering-inn",

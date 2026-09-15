@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const detectGuilt = {
   id: "01a06575-9803-766c-8aa4-ddb83d21427a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "detect-guilt",
   title: "Detect Guilt",
   world: "world/the-wandering-inn",

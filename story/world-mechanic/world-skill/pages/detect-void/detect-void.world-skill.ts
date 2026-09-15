@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const detectVoid = {
   id: "01a06575-9803-72ed-b441-9f4fa4129dc5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "detect-void",
   title: "Detect Void",
   world: "world/the-wandering-inn",

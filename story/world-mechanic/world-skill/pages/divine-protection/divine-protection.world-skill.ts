@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const divineProtection = {
   id: "01a06575-9804-7704-acb2-d7630032a04a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "divine-protection",
   title: "Divine Protection",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const eightyPoundDraw = {
   id: "01a06575-9807-706f-8077-00be11687d33",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "eighty-pound-draw",
   title: "Eighty-pound Draw",
   world: "world/the-wandering-inn",

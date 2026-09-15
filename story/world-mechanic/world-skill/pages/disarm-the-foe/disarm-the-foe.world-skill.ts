@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const disarmTheFoe = {
   id: "01a06575-9804-72a2-8c57-32ec246af931",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "disarm-the-foe",
   title: "Disarm the Foe",
   world: "world/the-wandering-inn",

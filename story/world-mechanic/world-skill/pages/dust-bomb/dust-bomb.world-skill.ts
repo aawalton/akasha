@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const dustBomb = {
   id: "01a06575-9806-793a-bdeb-8af62d108ef7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "dust-bomb",
   title: "Dust Bomb",
   world: "world/the-wandering-inn",

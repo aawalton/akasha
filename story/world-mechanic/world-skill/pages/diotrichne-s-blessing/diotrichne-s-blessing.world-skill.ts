@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const diotrichneSBlessing = {
   id: "01a06575-9803-7da3-b969-a15bd6b367d9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "diotrichne-s-blessing",
   title: "Diotrichne’s Blessing",
   world: "world/the-wandering-inn",

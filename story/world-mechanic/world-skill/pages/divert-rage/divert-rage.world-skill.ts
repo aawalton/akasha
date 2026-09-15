@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const divertRage = {
   id: "01a06575-9804-7b7b-9863-eb6eb8409d12",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "divert-rage",
   title: "Divert Rage",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const dimensionalNoteStorage = {
   id: "01a06575-9803-756b-a921-3e43e18fc99c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "dimensional-note-storage",
   title: "Dimensional Note Storage",
   world: "world/the-wandering-inn",

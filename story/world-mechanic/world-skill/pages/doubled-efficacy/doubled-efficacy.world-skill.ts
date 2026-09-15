@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const doubledEfficacy = {
   id: "01a06575-9805-7698-a71e-dd3e5b187e64",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "doubled-efficacy",
   title: "Doubled Efficacy",
   world: "world/the-wandering-inn",

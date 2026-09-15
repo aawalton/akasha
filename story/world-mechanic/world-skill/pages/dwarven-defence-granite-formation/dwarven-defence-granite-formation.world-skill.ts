@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const dwarvenDefenceGraniteFormation = {
   id: "01a06575-9806-7a07-be82-06f678bc016a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "dwarven-defence-granite-formation",
   title: "Dwarven Defence: Granite Formation",
   world: "world/the-wandering-inn",

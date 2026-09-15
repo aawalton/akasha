@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const eleventhHourWheels = {
   id: "01a06575-9807-7d9a-ad72-fd2b114e3402",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "eleventh-hour-wheels",
   title: "Eleventh Hour Wheels",
   world: "world/the-wandering-inn",

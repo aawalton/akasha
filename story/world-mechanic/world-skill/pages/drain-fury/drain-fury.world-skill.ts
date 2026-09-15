@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const drainFury = {
   id: "01a06575-9805-7a9b-a551-9552acbfd680",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "drain-fury",
   title: "Drain Fury",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const divisionOfFire = {
   id: "01a06575-9804-7461-a582-f630ca8b8900",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "division-of-fire",
   title: "Division of Fire",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const eachDeathAnotherBreath = {
   id: "01a06575-9806-7f95-bfaa-80e97cac8901",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "each-death-another-breath",
   title: "Each Death, Another Breath",
   world: "world/the-wandering-inn",

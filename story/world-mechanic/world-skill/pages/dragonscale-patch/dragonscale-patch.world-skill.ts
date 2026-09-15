@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const dragonscalePatch = {
   id: "01a06575-9805-7c3f-b119-22a376250a78",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "dragonscale-patch",
   title: "Dragonscale Patch",
   world: "world/the-wandering-inn",

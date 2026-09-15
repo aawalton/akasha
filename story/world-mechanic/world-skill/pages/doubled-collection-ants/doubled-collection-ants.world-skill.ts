@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const doubledCollectionAnts = {
   id: "01a06575-9805-7fa7-9f8b-f313e39c9cf4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "doubled-collection-ants",
   title: "Doubled Collection (Ants)",
   world: "world/the-wandering-inn",

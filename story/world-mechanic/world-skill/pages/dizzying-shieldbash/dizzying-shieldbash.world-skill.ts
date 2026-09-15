@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const dizzyingShieldbash = {
   id: "01a06575-9804-7c02-8e99-095d535068b2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "dizzying-shieldbash",
   title: "Dizzying Shieldbash",
   world: "world/the-wandering-inn",

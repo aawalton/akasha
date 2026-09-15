@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const eightfoldVolley = {
   id: "01a06575-9807-758e-b8bb-3507673d9f3a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "eightfold-volley",
   title: "Eightfold Volley",
   world: "world/the-wandering-inn",

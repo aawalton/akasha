@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const doubleOrNothing = {
   id: "01a06575-9805-73b9-ac69-2f111614a229",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "double-or-nothing",
   title: "Double or Nothing",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const effortlessParry = {
   id: "01a06575-9807-7b87-abb6-47f713393e55",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "effortless-parry",
   title: "Effortless Parry",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const efficientMetabolism = {
   id: "01a06575-9807-7c5b-9a28-e146a28f108f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "efficient-metabolism",
   title: "Efficient Metabolism",
   world: "world/the-wandering-inn",

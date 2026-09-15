@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const dieForMe = {
   id: "01a06575-9803-74a4-93ab-d0605bd20973",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "die-for-me",
   title: "Die For Me",
   world: "world/the-wandering-inn",

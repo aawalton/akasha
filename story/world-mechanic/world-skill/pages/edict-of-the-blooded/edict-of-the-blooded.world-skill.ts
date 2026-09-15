@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const edictOfTheBlooded = {
   id: "01a06575-9806-7fc0-88fc-5cbef006fbff",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "edict-of-the-blooded",
   title: "Edict of the Blooded",
   world: "world/the-wandering-inn",

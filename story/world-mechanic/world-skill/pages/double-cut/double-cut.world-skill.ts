@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const doubleCut = {
   id: "01a06575-9805-7217-b186-89759876d738",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "double-cut",
   title: "Double Cut",
   world: "world/the-wandering-inn",

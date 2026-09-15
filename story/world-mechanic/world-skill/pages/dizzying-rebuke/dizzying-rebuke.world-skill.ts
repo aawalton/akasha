@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const dizzyingRebuke = {
   id: "01a06575-9804-7813-b34e-cb7b30b9b43e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "dizzying-rebuke",
   title: "Dizzying Rebuke",
   world: "world/the-wandering-inn",

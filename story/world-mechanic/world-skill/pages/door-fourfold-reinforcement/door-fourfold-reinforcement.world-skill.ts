@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const doorFourfoldReinforcement = {
   id: "01a06575-9804-745f-ab7e-adfc793e14e1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "door-fourfold-reinforcement",
   title: "Door: Fourfold Reinforcement",
   world: "world/the-wandering-inn",

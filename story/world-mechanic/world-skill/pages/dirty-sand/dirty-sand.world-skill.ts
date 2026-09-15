@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const dirtySand = {
   id: "01a06575-9803-76af-90a8-8ae48b9c2165",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "dirty-sand",
   title: "Dirty Sand",
   world: "world/the-wandering-inn",

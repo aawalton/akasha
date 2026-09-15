@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const diagonalSlash = {
   id: "01a06575-9803-7a61-82ca-77df97b21146",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "diagonal-slash",
   title: "Diagonal Slash",
   world: "world/the-wandering-inn",

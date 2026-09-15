@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const donTMissAMoment = {
   id: "01a06575-9804-718a-ba1b-b2f2fd28fce4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "don-t-miss-a-moment",
   title: "Don’t Miss A Moment",
   world: "world/the-wandering-inn",

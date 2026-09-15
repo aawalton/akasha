@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const donTMindTheBox = {
   id: "01a06575-9804-7457-8aa1-d7fc0ee36d4d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "don-t-mind-the-box",
   title: "Don’t Mind the Box",
   world: "world/the-wandering-inn",
