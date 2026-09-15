@@ -2,7 +2,7 @@ import type { ReleaseCollection } from "akasha/alan/music/catalog/release-collec
 
 export const musicalTheater = {
   id: "01a06808-805e-7001-a4fe-a8b0bdcbc84d",
-  type: "release-collection",
+  type: "page-type/release-collection",
   slug: "musical-theater",
   title: "Musical Theater",
   partOfCollections: ["artist-collection/artists"],
