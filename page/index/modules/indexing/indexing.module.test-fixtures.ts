@@ -1,6 +1,8 @@
 import { mkdirSync, readFileSync, rmSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
+import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
 import { typed as typedCode } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
+import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import {
   type Indexing,
   indexingAt,
@@ -12,11 +14,7 @@ import { settlingOver } from "akasha/page/index/modules/settling/index-settling.
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { readingBuilding } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { walkedUnder } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
-import {
-  pathsRead,
-  readerAt,
-  ruleTrusted,
-} from "akasha/page/index/rule/index-rule.index.code.ts"
+import { pathsRead, readerAt, ruleTrusted } from "akasha/page/index/rule/index-rule.index.code.ts"
 import {
   aProperty,
   aType,
@@ -33,7 +31,6 @@ import {
 import { fileFor } from "akasha/page/index/value/index-value.index.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
-import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
 
 export const A = idOf("a")
 export const B = idOf("b")
@@ -118,7 +115,7 @@ export const slugFile = (root: string, type: string, slug: string): string =>
   join(root, `identity/page-type/${type}/slug/${slug}.jsonl`)
 
 export const edgeFile = (root: string, target: string, property: string, source: string): string =>
-  join(root, `relation/page/id/${target}/${property}/${source}.jsonl`)
+  join(root, indexEdge.name, "page", "id", target, property, `${source}.jsonl`)
 
 export const importFile = (root: string, path: string): string =>
   join(root, `import/path/${path}.jsonl`)
@@ -322,7 +319,7 @@ function uniqueKindRespelled(unique: string): readonly string[] {
   const { tree, root } = grounded()
   const at = join(tree, "id.text-property.ts")
   const moving = [{ path: at, before: bodyOf(idPage), after: bodyOf({ ...idPage, unique }) }]
-  const read = readingBuilding(root)
+  const read = readingBuilding(root, tree)
   return settlingOver(read, tree, moving, (path) => valueAt(path, tree)).filings.map(
     (one) => one.at
   )
