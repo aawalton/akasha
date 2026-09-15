@@ -1,8 +1,8 @@
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { refreshedIn } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 
 export const FORMAT = "all-lower"
 
@@ -207,6 +207,7 @@ const PROPERTIES: Record<string, Value> = {
     pageTypeSlug: "relation-property",
     slug: "extends-type",
     propertySlug: "extends",
+    targetPageType: "page-type/page-type",
   },
   "page-property-slug": {
     id: "01a0540d-0000-7000-8000-00000000001a",
