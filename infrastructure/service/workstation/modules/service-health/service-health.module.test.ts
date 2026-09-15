@@ -12,7 +12,7 @@ import {
   watchedIn,
 } from "akasha/infrastructure/service/workstation/modules/service-health/service-health.module.code.ts"
 import type { Started } from "akasha/infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"
-import { keepUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const BASE = {
   id: "01a05a51-0000-7000-8000-00000000000d",
@@ -227,7 +227,7 @@ test("a service listening on every host name its page states is well", () => {
 test("what a service published as unbound is carried into what is watched", () => {
   const root = mkdtempSync("/var/tmp/service-health-unbound-")
   try {
-    keepUncommitted(root, PAGE, { unbound: [OFF] })
+    mergeUncommitted(root, PAGE, { unbound: [OFF] })
     const watched = watchedIn(root, [pageOf({})])
     expect(watched[0]?.unbound).toEqual([OFF])
     const health = healthIn(watched, statesIn("Id=held-service.service\nActiveState=active"))
@@ -290,7 +290,7 @@ test("the seconds a service states are read as the window it may go", () => {
 test("a moment published beside a service page is carried into what is watched", () => {
   const root = mkdtempSync("/var/tmp/service-health-beat-")
   try {
-    keepUncommitted(root, PAGE, { workedAt: OLD_BEAT })
+    mergeUncommitted(root, PAGE, { workedAt: OLD_BEAT })
     const watched = watchedIn(root, [pageOf({ worksWithinSeconds: 900 })])
     expect(watched[0]?.workedAt).toBe(OLD_BEAT)
     const states = statesIn("Id=held-service.service\nActiveState=active")

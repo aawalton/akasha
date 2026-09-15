@@ -171,11 +171,6 @@ function writtenAt(full: string, page: string, values: Value): undefined {
   renameSync(scratch, full)
 }
 
-export function keepUncommitted(root: string, page: string, values: Value): undefined {
-  const full = join(root, besideOr(page))
-  exclusively(full, () => writtenAt(full, page, values))
-}
-
 export function mergeUncommitted(root: string, page: string, values: Value): undefined {
   const at = besideOr(page)
   const full = join(root, at)

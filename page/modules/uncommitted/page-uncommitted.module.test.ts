@@ -9,17 +9,16 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
+import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
 import {
   bodyFor,
   dropUncommitted,
-  keepUncommitted,
   mergeUncommitted,
   nameFor,
   removeUncommitted,
   uncommittedIn,
   wholeValue,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
-import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const PAGE = "akasha/one/amy.seat.ts"
@@ -80,11 +79,11 @@ for (let n = 0; n < ${ROUNDS}; n += 1) {
 }`
 }
 
-function keeping(root: string, rounds: number, size: number): string {
-  return `import { keepUncommitted } from ${JSON.stringify(CODE_AT)}
+function writing(root: string, rounds: number, size: number): string {
+  return `import { mergeUncommitted } from ${JSON.stringify(CODE_AT)}
 const body = "x".repeat(${size})
 for (let n = 0; n < ${rounds}; n += 1) {
-  keepUncommitted(${JSON.stringify(root)}, ${JSON.stringify(PAGE)}, { n, body })
+  mergeUncommitted(${JSON.stringify(root)}, ${JSON.stringify(PAGE)}, { n, body })
 }`
 }
 
@@ -106,7 +105,7 @@ function strayBeside(root: string, said: string, body: string): undefined {
 }
 
 async function struck(root: string): Promise<boolean> {
-  const kid = bunning(keeping(root, 40, 2000000))
+  const kid = bunning(writing(root, 40, 2000000))
   const end = Date.now() + 10000
   while (kid.exitCode === null && Date.now() < end && partsIn(root).length === 0) {
     await Bun.sleep(1)
@@ -127,23 +126,10 @@ test("a page with no file beside it carries no uncommitted values", () => {
   expect(uncommittedIn(rooted(), PAGE)).toBeNull()
 })
 
-test("what is kept beside a page is read back from it", () => {
+test("what is written sits beside the page under the reserved tail", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { claudeCodeSessionUuid: "one", beats: 3 })
-  expect(uncommittedIn(root, PAGE)).toEqual({ claudeCodeSessionUuid: "one", beats: 3 })
-})
-
-test("what is kept sits beside the page under the reserved tail", () => {
-  const root = rooted()
-  keepUncommitted(root, PAGE, { held: "one" })
+  mergeUncommitted(root, PAGE, { held: "one" })
   expect(existsSync(join(root, BESIDE))).toBe(true)
-})
-
-test("keeping again replaces what was there", () => {
-  const root = rooted()
-  keepUncommitted(root, PAGE, { held: "one" })
-  keepUncommitted(root, PAGE, { held: "two" })
-  expect(uncommittedIn(root, PAGE)).toEqual({ held: "two" })
 })
 
 test("a file that is there but will not load is refused rather than read as empty", () => {
@@ -160,7 +146,7 @@ test("a file that loads declaring nothing is refused rather than read as empty",
 
 test("merging keeps what is there and sets only the keys it names", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { held: "one", beats: 1 })
+  mergeUncommitted(root, PAGE, { held: "one", beats: 1 })
   mergeUncommitted(root, PAGE, { beats: 2, gateway: "up" })
   expect(uncommittedIn(root, PAGE)).toEqual({ held: "one", beats: 2, gateway: "up" })
 })
@@ -173,7 +159,7 @@ test("merging where nothing is there writes what it was handed", () => {
 
 test("dropping named keys leaves the rest as it is", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { held: "one", beats: 1, gateway: "up" })
+  mergeUncommitted(root, PAGE, { held: "one", beats: 1, gateway: "up" })
   dropUncommitted(root, PAGE, ["beats", "never stood"])
   expect(uncommittedIn(root, PAGE)).toEqual({ held: "one", gateway: "up" })
   expect(existsSync(join(root, BESIDE))).toBe(true)
@@ -187,7 +173,7 @@ test("dropping keys of a page carrying nothing is an answer rather than a failur
 
 test("removing takes the file away, and the page carries nothing again", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { held: "one" })
+  mergeUncommitted(root, PAGE, { held: "one" })
   removeUncommitted(root, PAGE)
   expect(existsSync(join(root, BESIDE))).toBe(false)
   expect(uncommittedIn(root, PAGE)).toBeNull()
@@ -208,16 +194,15 @@ test("what is written is a page's own shape, so one loader answers both", () => 
   )
 })
 
-test("a path that is no TypeScript file holds nothing and is refused for keeping", () => {
+test("a path that is no TypeScript file holds nothing and is refused for writing", () => {
   const root = rooted()
   expect(uncommittedIn(root, "akasha/one/notes.txt")).toBeNull()
-  expect(() => keepUncommitted(root, "akasha/one/notes.txt", {})).toThrow(/no TypeScript file/)
   expect(() => mergeUncommitted(root, "akasha/one/notes.txt", {})).toThrow(/no TypeScript file/)
 })
 
 test("a write takes the lock and leaves none there after it", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { held: "one" })
+  mergeUncommitted(root, PAGE, { held: "one" })
   mergeUncommitted(root, PAGE, { beats: 1 })
   dropUncommitted(root, PAGE, ["beats"])
   removeUncommitted(root, PAGE)
@@ -229,7 +214,8 @@ test("the lock is released however the act inside it ends", () => {
   writtenBeside(root, "export const amySeatUncommitted = (\n")
   expect(() => mergeUncommitted(root, PAGE, { beats: 1 })).toThrow(/could not be loaded/)
   expect(existsSync(join(root, LOCK))).toBe(false)
-  keepUncommitted(root, PAGE, { beats: 1 })
+  removeUncommitted(root, PAGE)
+  mergeUncommitted(root, PAGE, { beats: 1 })
   expect(uncommittedIn(root, PAGE)).toEqual({ beats: 1 })
 })
 
@@ -237,7 +223,7 @@ test("writers owning different keys of one page keep all of them", async () => {
   const root = rooted()
   const go = join(root, "go")
   const readied = OWNERS.map((one) => join(root, `readied-${one}`))
-  keepUncommitted(root, PAGE, { stood: "first" })
+  mergeUncommitted(root, PAGE, { stood: "first" })
   const kids = OWNERS.map((one, at) => bunning(merging(root, one, readied[at] ?? "", go)))
   expect(await until(() => readied.every(existsSync))).toBe(true)
   writeFileSync(go, "go")
@@ -253,7 +239,7 @@ test("writers owning different keys of one page keep all of them", async () => {
 
 test("a lock left by a process that is gone is taken rather than waited on", async () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { held: "one" })
+  mergeUncommitted(root, PAGE, { held: "one" })
   locked(root, `${await gonePid()} 1`)
   const from = Date.now()
   mergeUncommitted(root, PAGE, { beats: 1 })
@@ -265,7 +251,7 @@ test("a lock whose pid names another process than the one that took it is no loc
   const root = rooted()
   locked(root, `${process.pid} 1`)
   const from = Date.now()
-  keepUncommitted(root, PAGE, { held: "one" })
+  mergeUncommitted(root, PAGE, { held: "one" })
   expect(Date.now() - from).toBeLessThan(3000)
   expect(uncommittedIn(root, PAGE)).toEqual({ held: "one" })
 })
@@ -276,14 +262,14 @@ test("a lock naming no holder that can be read wedges nothing once it has stood 
   const long = new Date(Date.now() - 60000)
   utimesSync(lock, long, long)
   const from = Date.now()
-  keepUncommitted(root, PAGE, { held: "one" })
+  mergeUncommitted(root, PAGE, { held: "one" })
   expect(Date.now() - from).toBeLessThan(3000)
   expect(uncommittedIn(root, PAGE)).toEqual({ held: "one" })
 })
 
 test("a reader reading through a write never sees a partial body", async () => {
   const root = rooted()
-  const kid = bunning(keeping(root, 600, 40000))
+  const kid = bunning(writing(root, 600, 40000))
   let read = 0
   while (kid.exitCode === null && read < 60) {
     const held = uncommittedIn(root, PAGE)
@@ -304,7 +290,7 @@ test("a page with nothing beside it answers the value it was handed", () => {
 
 test("what sits beside a page is written over what the commit holds", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { beats: 3, model: "opus" })
+  mergeUncommitted(root, PAGE, { beats: 3, model: "opus" })
   expect(wholeValue(root, PAGE, { slug: "amy", beats: 0 })).toEqual({
     slug: "amy",
     beats: 3,
@@ -314,23 +300,23 @@ test("what sits beside a page is written over what the commit holds", () => {
 
 test("a value beside a page is read again once that file has changed", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { beats: 1 })
+  mergeUncommitted(root, PAGE, { beats: 1 })
   expect(wholeValue(root, PAGE, {})).toEqual({ beats: 1 })
-  keepUncommitted(root, PAGE, { beats: 2, gateway: "up" })
+  mergeUncommitted(root, PAGE, { beats: 2, gateway: "up" })
   expect(wholeValue(root, PAGE, {})).toEqual({ beats: 2, gateway: "up" })
 })
 
 test("a value beside a page is read again when what replaced it is the same size", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { beats: 1 })
+  mergeUncommitted(root, PAGE, { beats: 1 })
   expect(wholeValue(root, PAGE, {})).toEqual({ beats: 1 })
-  keepUncommitted(root, PAGE, { beats: 2 })
+  mergeUncommitted(root, PAGE, { beats: 2 })
   expect(wholeValue(root, PAGE, {})).toEqual({ beats: 2 })
 })
 
 test("a file taken away is answered as carrying nothing again", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { beats: 1 })
+  mergeUncommitted(root, PAGE, { beats: 1 })
   expect(wholeValue(root, PAGE, {})).toEqual({ beats: 1 })
   removeUncommitted(root, PAGE)
   const value = { slug: "amy" }
@@ -339,7 +325,7 @@ test("a file taken away is answered as carrying nothing again", () => {
 
 test("a mode narrowed on the file beside a page outlives the next merge", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { beats: 1 })
+  mergeUncommitted(root, PAGE, { beats: 1 })
   chmodSync(join(root, BESIDE), 0o600)
   mergeUncommitted(root, PAGE, { beats: 2, gateway: "up" })
   expect(modeOf(join(root, BESIDE))).toBe(0o600)
@@ -348,7 +334,7 @@ test("a mode narrowed on the file beside a page outlives the next merge", () => 
 
 test("a mode widened on the file beside a page outlives the next merge", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { beats: 1 })
+  mergeUncommitted(root, PAGE, { beats: 1 })
   chmodSync(join(root, BESIDE), 0o666)
   mergeUncommitted(root, PAGE, { beats: 2 })
   expect(modeOf(join(root, BESIDE))).toBe(0o666)
@@ -360,19 +346,11 @@ test("a file written where no file was there takes the mode the umask gives", ()
   expect(modeOf(join(root, BESIDE))).toBe(umaskGives(root))
 })
 
-test("keeping again keeps the mode the file already had", () => {
-  const root = rooted()
-  keepUncommitted(root, PAGE, { beats: 1 })
-  chmodSync(join(root, BESIDE), 0o640)
-  keepUncommitted(root, PAGE, { beats: 2 })
-  expect(modeOf(join(root, BESIDE))).toBe(0o640)
-})
-
 test("a scratch file another writer left beside the file goes with the next write", () => {
   const root = rooted()
   strayBeside(root, "4242", "")
   strayBeside(root, `${process.pid}`, "export const amySeatUnc")
-  keepUncommitted(root, PAGE, { held: "one" })
+  mergeUncommitted(root, PAGE, { held: "one" })
   expect(partsIn(root)).toEqual([])
   strayBeside(root, "4243", "export const amySeatUnc")
   mergeUncommitted(root, PAGE, { beats: 1 })
@@ -382,7 +360,7 @@ test("a scratch file another writer left beside the file goes with the next writ
 
 test("a scratch file of another page in that folder is left where it is", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { beats: 1, gateway: "up" })
+  mergeUncommitted(root, PAGE, { beats: 1, gateway: "up" })
   writeFileSync(join(root, HERE, OTHER), "", "utf8")
   strayBeside(root, "4242", "")
   dropUncommitted(root, PAGE, ["beats"])
@@ -392,7 +370,7 @@ test("a scratch file of another page in that folder is left where it is", () => 
 
 test("taking the whole file away takes the scratch files beside it away too", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { held: "one" })
+  mergeUncommitted(root, PAGE, { held: "one" })
   strayBeside(root, "4242", "")
   writeFileSync(join(root, HERE, OTHER), "", "utf8")
   removeUncommitted(root, PAGE)
@@ -405,14 +383,14 @@ test("a scratch file a killed writer left behind goes with the next write", asyn
   let left = false
   for (let n = 0; n < 6 && !left; n += 1) left = await struck(root)
   expect(left).toBe(true)
-  keepUncommitted(root, PAGE, { held: "one" })
+  mergeUncommitted(root, PAGE, { held: "one" })
   expect(partsIn(root)).toEqual([])
-  expect(uncommittedIn(root, PAGE)).toEqual({ held: "one" })
+  expect(uncommittedIn(root, PAGE)?.held).toBe("one")
 })
 
 test("dropping a key keeps the mode the file already had", () => {
   const root = rooted()
-  keepUncommitted(root, PAGE, { beats: 1, gateway: "up" })
+  mergeUncommitted(root, PAGE, { beats: 1, gateway: "up" })
   chmodSync(join(root, BESIDE), 0o604)
   dropUncommitted(root, PAGE, ["beats"])
   expect(modeOf(join(root, BESIDE))).toBe(0o604)
