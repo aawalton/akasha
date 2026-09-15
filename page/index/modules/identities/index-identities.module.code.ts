@@ -3,18 +3,18 @@ import {
   type Filed,
   identifiedIn,
 } from "akasha/page/index/modules/identifying/index-identifying.module.code.ts"
-import { indexPage } from "akasha/page/index/page/index-page.index.ts"
 import { filedByPage, pageIn } from "akasha/page/index/page/index-page.index.code.ts"
-import { indexPageProperty } from "akasha/page/index/page-property/index-page-property.index.ts"
+import { indexPage } from "akasha/page/index/page/index-page.index.ts"
 import {
   filedByPageProperty,
   pagePropertyIn,
 } from "akasha/page/index/page-property/index-page-property.index.code.ts"
-import { indexPageType } from "akasha/page/index/page-type/index-page-type.index.ts"
+import { indexPageProperty } from "akasha/page/index/page-property/index-page-property.index.ts"
 import {
   filedByPageType,
   pageTypeIn,
 } from "akasha/page/index/page-type/index-page-type.index.code.ts"
+import { indexPageType } from "akasha/page/index/page-type/index-page-type.index.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Identifying } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
