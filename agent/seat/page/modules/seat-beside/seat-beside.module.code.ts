@@ -16,10 +16,7 @@ import {
   PAGE_EXTENSION,
   pageStemOf,
 } from "akasha/page/modules/markdown-page-name/markdown-page-name.module.code.ts"
-import {
-  dropUncommitted as dropAkasha,
-  mergeUncommitted,
-} from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 
 export function bare(held: unknown): unknown {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return held
@@ -112,15 +109,4 @@ export function keepBesideUnder(page: string, key: string, values: Beside): unde
   const under: Beside = {}
   for (const [name, value] of Object.entries(values)) under[exportedAs(name)] = bare(value)
   inAkasha(page, { [key]: under })
-}
-
-export function dropBeside(page: string, keys: readonly string[]): undefined {
-  const gone = keys.flatMap((key) => {
-    const where = CARRIED[key]
-    return where !== undefined && where.at.length === 1 ? [where.at[0] as string] : []
-  })
-  if (gone.length === 0) return
-  const at = akashaPageOf(page)
-  if (at === null) return
-  dropAkasha(rootFor(resolveRoots(), AKASHA), at, gone)
 }

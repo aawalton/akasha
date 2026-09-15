@@ -39,10 +39,6 @@ export const seatBeside = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Only a value held at the top of the page is taken away on its own.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "A seat is named here.",
     },
     {
