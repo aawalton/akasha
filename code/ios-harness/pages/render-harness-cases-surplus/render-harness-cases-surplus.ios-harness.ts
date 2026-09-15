@@ -2,7 +2,7 @@ import type { IosHarness } from "akasha/code/ios-harness/ios-harness.page-type.t
 
 export const renderHarnessCasesSurplus = {
   id: "01a0584d-727e-7774-b304-df9424b7abc6",
-  type: "ios-harness",
+  type: "page-type/ios-harness",
   slug: "render-harness-cases-surplus",
   definition: "the cases drawing the surplus tile",
   swift: "swift",

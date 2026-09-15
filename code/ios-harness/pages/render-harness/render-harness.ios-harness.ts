@@ -2,7 +2,7 @@ import type { IosHarness } from "akasha/code/ios-harness/ios-harness.page-type.t
 
 export const renderHarness = {
   id: "01a059a0-c8c2-7f6f-b822-ad3dedaaeb86",
-  type: "ios-harness",
+  type: "page-type/ios-harness",
   slug: "render-harness",
   definition: "the program that draws an app's tiles on a simulator",
   main: "swift",
