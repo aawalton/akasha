@@ -37,9 +37,8 @@ test("the run reached is the one the file beside that service's page exports", a
   expect("running" in reached ? reached.running : null).toBe(runService)
 })
 
-test("the code is taken from the checkout named rather than the one the pages are read under", async () => {
-  const reached = await reachedFor(ROOT, SLUG, NOWHERE)
-  expect("refused" in reached ? reached.refused : "").toContain(NOWHERE)
+test("the page is read under the checkout the code is taken from, so one with no index names no service", async () => {
+  expect(await reachedFor(ROOT, SLUG, NOWHERE)).toEqual({ unnamed: noService(SLUG) })
 })
 
 test("the test proving a service runs is the one beside that service's page", () => {
@@ -59,6 +58,6 @@ test("a run naming a slug no service carries is refused", async () => {
   expect(await runNamedService([NO_SLUG])).toBe(REFUSED_EXIT)
 })
 
-test("a run is handed the checkout to read pages under and the tree to take code from", async () => {
+test("a run is handed the checkout and the tree, and a tree holding no pages reaches no service", async () => {
   expect(await runNamedService([SLUG], ROOT, NOWHERE)).toBe(REFUSED_EXIT)
 })

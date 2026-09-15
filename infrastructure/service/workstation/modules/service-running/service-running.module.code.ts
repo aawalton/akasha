@@ -46,13 +46,14 @@ export async function reachedFor(
   slug: string,
   codeAt: string = ""
 ): Promise<Reached> {
-  const found = listedAt(root, SERVICE_PAGE_TYPE, slug)[0]
+  const under = codeAt === "" ? root : codeAt
+  const found = listedAt(under, SERVICE_PAGE_TYPE, slug)[0]
   if (found === undefined) return { unnamed: noService(slug) }
   const beside = besideAt(found.path, RUNNING, TS)
   if (beside === null) {
     return { refused: `\`${slug}\` sits at \`${found.path}\`, which takes no code beside it` }
   }
-  const at = join(codeAt === "" ? root : codeAt, beside)
+  const at = join(under, beside)
   if (!existsSync(at)) return { refused: `\`${slug}\` keeps no \`${RUNNING}\` at \`${at}\`` }
   const held = (await import(at)) as Record<string, unknown>
   const named = held[RUNS]

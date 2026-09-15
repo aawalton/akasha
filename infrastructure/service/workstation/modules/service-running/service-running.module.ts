@@ -30,7 +30,7 @@ export const serviceRunning = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The pages are read under the checkout the environment names.",
+      statement: "The pages are read under the checkout the code is taken from.",
     },
     {
       invariantKind: "invariant-kind/departure",
