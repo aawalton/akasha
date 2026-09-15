@@ -2,7 +2,7 @@ import type { IosProgram } from "akasha/code/ios-program/ios-program.page-type.t
 
 export const smilingjennyWidget = {
   id: "01a05907-081c-72e1-bd1f-67e6df79007e",
-  type: "ios-program",
+  type: "page-type/ios-program",
   slug: "smilingjenny-widget",
   definition: "the tiles on Jenny's home screen",
   bundleId: "me.smilingjenny.app.widgets",
