@@ -47,6 +47,8 @@ const SLUG = "slug"
 
 const PAGE_PROPERTY = "page-property"
 
+const EXTENDS_TYPE = "extends-type"
+
 const NOT_JSON = "{ this is not json\n"
 
 function under(root: string, at: string): string {
@@ -173,8 +175,12 @@ export function idFiledIn(root: string, id: string): boolean {
 
 const KINDED = new Map<string, Set<string>>()
 
+function typeIdOf(slug: string): string {
+  return `01a04bed-2222-7000-8000-${slug}`
+}
+
 export function typeListed(root: string, slug: string, path?: string): string {
-  const id = `01a04bed-2222-7000-8000-${slug}`
+  const id = typeIdOf(slug)
   const at = path ?? `akasha/${slug}.${PAGE_TYPE}.ts`
   listedFiled(root, PAGE_TYPE, slug, [{ path: at, id }])
   idFiled(root, id, [{ path: at, id }])
@@ -186,6 +192,7 @@ function typeValued(root: string, kind: string, above: readonly string[]): undef
   const id = typeListed(root, kind, at)
   const value = { id, pageTypeSlug: PAGE_TYPE, slug: kind, extends: above }
   valueAlsoFiled(root, PAGE_TYPE, [{ path: at, value }])
+  for (const one of above) relationFiled(root, typeIdOf(one), EXTENDS_TYPE, id, [{ path: at }])
 }
 
 function kindFiled(root: string, kind: string): undefined {
