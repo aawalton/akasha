@@ -1,6 +1,2 @@
-{"propertySlug":"guards","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts","id":"01a079a5-8d4a-70e6-a33b-73d49d514b05"}
-{"propertySlug":"guards","path":"change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.ts","id":"01a08231-44a2-7e00-bd04-119872f58319"}
-{"propertySlug":"guards","path":"change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.ts","id":"01a09cce-a06f-7925-9d95-cd27b5141c4e"}
 {"propertySlug":"import","fileName":"relation-not-left-hanging.change-guard.code.ts","path":"change/guard/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.test.ts"}
-{"propertySlug":"import","fileName":"relation-not-left-hanging.change-guard.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts"}
 {"propertySlug":"parts","path":"change/guard/change-guard.page-type.ts","id":"01a07744-1310-721d-8751-4a3757cf2d90"}

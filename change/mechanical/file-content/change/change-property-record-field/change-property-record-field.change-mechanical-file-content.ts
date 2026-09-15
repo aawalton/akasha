@@ -10,7 +10,6 @@ export const changePropertyRecordField = {
   definition: "one field of one record a page's many-valued property has, stated anew",
   code: "ts",
   test: "ts",
-  guards: ["change-guard/relation-reaches-a-page"],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

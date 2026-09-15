@@ -1,17 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { claimedFileNotLeftBehind } from "akasha/change/guard/pages/claimed-file-not-left-behind/claimed-file-not-left-behind.change-guard.code.ts"
-import { importNotLeftHanging } from "akasha/change/guard/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
-import { relationNotLeftHanging } from "akasha/change/guard/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
 import {
   importersFirst,
   parentsOf,
   runChange,
 } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"
-import { removeFilePage } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
 import { pathsIn, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
-import { guardedBy } from "akasha/change/modules/guarding/change-guarding.module.code.ts"
-import type { Guard } from "akasha/change/modules/guarding/change-guarding.module.types.ts"
 import {
   bodiesIn,
   type Reaching,
@@ -35,29 +29,6 @@ import {
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
-
-const REMOVE_FILE_CODE = "change-mechanical/remove-file-code"
-
-const GUARDS = new Map<string, readonly Guard[]>([[REMOVE_FILE_CODE, [importNotLeftHanging]]])
-
-const GUARDED: Reaching = async (world, at, given) => {
-  const said = await running(world, at, given)
-  if (said.refused !== null) return said
-  return guardedBy(world, said, GUARDS.get(at) ?? [])
-}
-
-const GUARD_BY_SLUG: ReadonlyMap<string, Guard> = new Map([
-  ["change-guard/claimed-file-not-left-behind", claimedFileNotLeftBehind],
-  ["change-guard/relation-not-left-hanging", relationNotLeftHanging],
-])
-
-function guardsNamed(): readonly Guard[] {
-  return removeFilePage.guards.map((slug) => {
-    const held = GUARD_BY_SLUG.get(slug)
-    if (held === undefined) throw new Error(`\`${slug}\` names no guard here`)
-    return held
-  })
-}
 
 afterAll(scratch.sweep)
 
@@ -322,43 +293,21 @@ test("a page two parents name loses its entry in both", async () => {
   expect(bodyAfter(said, world, AUNT_PAGE)).toContain('"parts": []')
 })
 
-test("a page another page still names is refused by the guards this change names", async () => {
-  const root = indexedRepo(SPARE)
-  const world = worldIn(root)
-
-  const answer = await runChange(world, { at: HELD_PAGE })
-  const said = guardedBy(world, answer, guardsNamed())
-
-  expect(answer.refused).toBe(null)
-  expect(said.refused).not.toBe(null)
-})
-
-test("a page and the file beside that page leave no file behind", async () => {
-  const root = indexedRepo()
-  const world = worldIn(root, GUARDED)
-
-  const answer = await runChange(world, { at: NAMER_PAGE })
-  const said = guardedBy(world, answer, guardsNamed())
-
-  expect(said.refused).toBe(null)
-  expect([...pathsIn(said)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
-})
-
 import { ledgerAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 test("a page taken away over a ledger is answered rather than answered twice", async () => {
   const root = indexedRepo()
 
-  const said = await runChange(ledgerAt(root, textIn(root), GUARDED), { at: NAMER_PAGE })
+  const said = await runChange(ledgerAt(root, textIn(root), running), { at: NAMER_PAGE })
 
   expect(said.refused).toBe(null)
   expect([...pathsIn(said)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
 })
 
-test("a page a parent names in parts goes through the guarded chain", async () => {
+test("a page a parent names in parts goes through the chain", async () => {
   const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "module/child") })
 
-  const said = await runChange(worldIn(root, GUARDED), { at: CHILD_PAGE })
+  const said = await runChange(worldIn(root), { at: CHILD_PAGE })
 
   expect(said.refused).toBe(null)
   expect([...pathsIn(said)].sort()).toEqual([CHILD_PAGE, PARENT_PAGE])
@@ -367,21 +316,10 @@ test("a page a parent names in parts goes through the guarded chain", async () =
 test("a page a relation outside parts names loses no entry in that relation", async () => {
   const root = familyRepo({ [CHILD_NOTER_PAGE]: noting("child-noter", idOf("0"), "child") })
 
-  const said = await runChange(worldIn(root, GUARDED), { at: CHILD_PAGE })
+  const said = await runChange(worldIn(root), { at: CHILD_PAGE })
 
   expect(said.refused).toBe(null)
   expect([...pathsIn(said)]).toEqual([CHILD_PAGE])
-})
-
-test("a page whose code file another page imports is refused through the guarded chain", async () => {
-  const root = indexedRepo(SPARE)
-
-  const said = await runChange(worldIn(root, GUARDED), { at: HELD_PAGE })
-
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(
-    `\`${SPARE_CODE}\` imports \`${HELD_CODE}\`, and \`${HELD_CODE}\` holds no body after`
-  )
 })
 
 test("a file importing a second file going in the same act goes before that file", () => {
@@ -402,10 +340,8 @@ test("a file importing a file outside the act keeps the order the act was given 
 
 test("a page whose test imports the code beside that page is taken away whole", async () => {
   const root = indexedRepo(PAIR)
-  const world = worldIn(root, GUARDED)
 
-  const answer = await runChange(world, { at: PAIR_PAGE })
-  const said = guardedBy(world, answer, guardsNamed())
+  const said = await runChange(worldIn(root), { at: PAIR_PAGE })
 
   expect(said.refused).toBe(null)
   expect([...pathsIn(said)].sort()).toEqual([PAIR_CODE, PAIR_TEST, PAIR_PAGE])

@@ -10,11 +10,6 @@ export const changePagePageType = {
   definition: "one page stated as another page type, in the data and in every file name",
   code: "ts",
   test: "ts",
-  guards: [
-    "change-guard/import-reaches-a-file",
-    "change-guard/relation-reaches-a-page",
-    "change-guard/slug-names-one-property",
-  ],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

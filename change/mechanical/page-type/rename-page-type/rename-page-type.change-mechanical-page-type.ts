@@ -11,7 +11,6 @@ export const renamePageType = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  guards: ["change-guard/claimed-file-not-left-behind"],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

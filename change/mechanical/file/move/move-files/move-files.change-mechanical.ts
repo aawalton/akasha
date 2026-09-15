@@ -10,7 +10,6 @@ export const moveFiles = {
   definition: "many files moved at once, with every body naming one of them repointed",
   code: "ts",
   test: "ts",
-  guards: ["change-guard/import-not-left-hanging"],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

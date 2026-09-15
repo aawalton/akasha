@@ -10,11 +10,6 @@ export const addFilePage = {
   definition: "one page written at one path, with the pages that page names judged",
   code: "ts",
   test: "ts",
-  guards: [
-    "change-guard/relation-reaches-a-page",
-    "change-guard/identity-not-already-held",
-    "change-guard/slug-names-one-property",
-  ],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

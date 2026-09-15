@@ -11,11 +11,6 @@ export const removeEveryPageOfAType = {
   takesAtMost: true,
   code: "ts",
   test: "ts",
-  guards: [
-    "change-guard/claimed-file-not-left-behind",
-    "change-guard/import-not-left-hanging",
-    "change-guard/relation-not-left-hanging",
-  ],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

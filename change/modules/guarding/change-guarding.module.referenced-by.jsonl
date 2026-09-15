@@ -18,7 +18,6 @@
 {"propertySlug":"import","fileName":"change-guarding.module.code.ts","path":"change/guard/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.test.ts"}
 {"propertySlug":"import","fileName":"change-guarding.module.code.ts","path":"change/guard/pages/slug-names-one-property/slug-names-one-property.change-guard.code.ts"}
 {"propertySlug":"import","fileName":"change-guarding.module.code.ts","path":"change/guard/pages/slug-names-one-property/slug-names-one-property.change-guard.test.ts"}
-{"propertySlug":"import","fileName":"change-guarding.module.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts"}
 {"propertySlug":"import","fileName":"change-guarding.module.code.ts","path":"change/modules/guarding/change-guarding.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change-guarding.module.code.ts","path":"change/modules/guarding/change-guarding.module.test.ts"}
 {"propertySlug":"import","fileName":"change-guarding.module.code.ts","path":"change/runner/modules/change-loading/change-loading.module.code.ts"}
@@ -37,7 +36,6 @@
 {"propertySlug":"import","fileName":"change-guarding.module.types.ts","path":"change/guard/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"}
 {"propertySlug":"import","fileName":"change-guarding.module.types.ts","path":"change/guard/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.code.ts"}
 {"propertySlug":"import","fileName":"change-guarding.module.types.ts","path":"change/guard/pages/slug-names-one-property/slug-names-one-property.change-guard.code.ts"}
-{"propertySlug":"import","fileName":"change-guarding.module.types.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts"}
 {"propertySlug":"import","fileName":"change-guarding.module.types.ts","path":"change/modules/guarding/change-guarding.module.code.ts"}
 {"propertySlug":"import","fileName":"change-guarding.module.types.ts","path":"change/modules/guarding/change-guarding.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change-guarding.module.types.ts","path":"change/modules/guarding/change-guarding.module.test.ts"}

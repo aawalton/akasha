@@ -11,7 +11,6 @@ export const addPropertyValue = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  guards: ["change-guard/relation-reaches-a-page"],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

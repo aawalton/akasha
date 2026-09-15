@@ -11,11 +11,6 @@ export const changePagePageProperty = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  guards: [
-    "change-guard/identity-not-already-held",
-    "change-guard/slug-names-one-property",
-    "change-guard/relation-reaches-a-page",
-  ],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

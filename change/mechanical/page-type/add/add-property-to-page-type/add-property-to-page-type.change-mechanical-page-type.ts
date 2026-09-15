@@ -10,7 +10,6 @@ export const addPropertyToPageType = {
   definition: "one page property declared on one page type and named among that page type's parts",
   code: "ts",
   test: "ts",
-  guards: ["change-guard/relation-reaches-a-page"],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
