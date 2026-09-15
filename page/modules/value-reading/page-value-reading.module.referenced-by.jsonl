@@ -271,6 +271,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/url/modules/page-type-slug/page-type-slug.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"person/modules/device-token-registration/device-token-registration.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"person/modules/reading/person-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"}
