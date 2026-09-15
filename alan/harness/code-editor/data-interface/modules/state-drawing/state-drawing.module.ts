@@ -34,7 +34,7 @@ export const stateDrawing = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Drawing these pictures costs more than the index settle and the commit together.",
+      statement: "A picture here is made by reading every page of many page types.",
     },
   ],
 } as const satisfies Module
