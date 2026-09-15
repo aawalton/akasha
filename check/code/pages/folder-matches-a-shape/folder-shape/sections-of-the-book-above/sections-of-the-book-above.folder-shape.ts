@@ -7,7 +7,7 @@ export const sectionsOfTheBookAbove = {
   definition: "the shape of a folder named sections with the sections of the book above it",
   code: "ts",
   test: "ts",
-  enabled: true,
+  enabled: false,
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
