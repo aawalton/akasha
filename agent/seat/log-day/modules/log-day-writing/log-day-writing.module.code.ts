@@ -1,6 +1,7 @@
 import { existsSync, mkdirSync } from "node:fs"
 import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
@@ -25,7 +26,7 @@ import { uncommittedPartAt } from "akasha/page/modules/file-parts/page-file-part
 import { pagesAtFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { sizeOnDisk } from "akasha/util/fs/modules/file-size/file-size.module.code.ts"
 
-const PUT = `${addFileOfAnyKind.type}/${addFileOfAnyKind.slug}` as const
+const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 const LOG_SOURCE_TYPE = "01a0657c-cb14-7c6f-83df-0d533f4f7821"
 
