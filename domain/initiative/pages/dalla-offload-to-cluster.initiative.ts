@@ -6,7 +6,23 @@ export const dallaOffloadToCluster = {
   slug: "dalla-offload-to-cluster",
   domain: "domain/infrastructure",
   persona: "persona/dalla",
-  intentStack: [{ statement: "Builds and deploys run on the cluster." }],
+  intentStack: [
+    { statement: "Builds and deploys run on the cluster." },
+    { statement: "Audits run on the cluster." },
+    {
+      statement:
+        "An audit request a running audit answers attaches to that audit rather than opening a second.",
+    },
+    { statement: "Every manifest is part of one service." },
+    {
+      statement:
+        "A service has a namespace named for that service, holding every resource that service is.",
+    },
+    {
+      statement:
+        "The namespaces, the roles and the operator configuration the cluster is built on are one service.",
+    },
+  ],
   constraints: [
     "A cluster service, a container recipe and a web app are put up by a run triggered on the workstation and made nowhere on it.",
     "The commit a run is made at reaches the cluster as a push to origin.",
