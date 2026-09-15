@@ -1,5 +1,7 @@
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
+import { relation } from "akasha/graph/edge/pages/relation.graph-edge.ts"
 import {
   listedFiled,
   valueAlsoFiled,
@@ -10,6 +12,8 @@ const HOLD = "/var/tmp"
 const PREFIX = "akasha-web-app-"
 export const WEB_APPS_AT = "akasha/service-system/web-app/web-apps"
 const SERVICE_CLUSTERS_AT = "akasha/service-system/service-cluster/clusters"
+const GRAPH_EDGE = "graph-edge"
+const GRAPH_EDGES_AT = "akasha/graph/edge/pages"
 
 export const MANIFEST_AT = "one/web/one-web.manifest.ts"
 export const SYNTH_AT = "one/web/one-web.manifest.code.ts"
@@ -137,6 +141,15 @@ export function seededWorld(): World {
   const manifestFiled = (path: string, slug: string, at: number): undefined => {
     filed(path, "manifest", manifest(slug, at))
   }
+  const edgeFiled = (held: Held): undefined => {
+    const slug = held.slug as string
+    filed(`${GRAPH_EDGES_AT}/${slug}.${GRAPH_EDGE}.ts`, GRAPH_EDGE, {
+      ...held,
+      pageTypeSlug: GRAPH_EDGE,
+    })
+  }
+  edgeFiled(importEdge)
+  edgeFiled(relation)
   webAppFiled("one-web", 1, ["one-web"])
   webAppFiled("two-web", 2, ["one-web", "other-web"])
   webAppFiled("none-web", 3, [])
