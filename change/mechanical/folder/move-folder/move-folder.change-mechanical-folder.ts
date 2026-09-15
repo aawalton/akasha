@@ -74,10 +74,6 @@ export const moveFolder = {
       statement: "A body that would not read names no folder here.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "A reach such a body is left holding is judged by the guards rather than here.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
       statement:
         "No importer is asked of the index, because a body naming a path names the folder.",
@@ -137,11 +133,6 @@ export const moveFolder = {
     {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here changes the data a page states.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "The imports and the pages' files and the folders emptied are judged by the guards here.",
     },
     {
       invariantKind: "invariant-kind/departure",

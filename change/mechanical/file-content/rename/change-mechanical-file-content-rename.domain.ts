@@ -22,10 +22,6 @@ export const changeMechanicalFileContentRename = {
       statement: "No rung here has a file.",
     },
     {
-      invariantKind: "invariant-kind/absence",
-      statement: "No rung here names a guard.",
-    },
-    {
       invariantKind: "invariant-kind/departure",
       statement: "The change composing these rungs judges the edges the whole rename leaves.",
     },

@@ -81,9 +81,5 @@ export const pageRenaming = {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches a change.",
     },
-    {
-      invariantKind: "invariant-kind/absence",
-      statement: "No guard runs here; the change calling this names the guards.",
-    },
   ],
 } as const satisfies Module

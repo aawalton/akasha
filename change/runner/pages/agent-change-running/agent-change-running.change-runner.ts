@@ -23,8 +23,7 @@ export const agentChangeRunning = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "A change to a generated file's content is refused whatever guards the change names.",
+      statement: "A change to a generated file's content is refused.",
     },
     {
       invariantKind: "invariant-kind/absence",

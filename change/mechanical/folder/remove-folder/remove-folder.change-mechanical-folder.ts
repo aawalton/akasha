@@ -35,10 +35,6 @@ export const removeFolder = {
       invariantKind: "invariant-kind/absence",
       statement: "No body outside the folder is rewritten here.",
     },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A name into the folder left hanging is refused by a guard this change names.",
-    },
   ],
   changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFolder

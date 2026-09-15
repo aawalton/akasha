@@ -27,10 +27,6 @@ export const changeAgent = {
       invariantKind: "invariant-kind/departure",
       statement: "An agent change reaches the mechanical changes working its bodies out.",
     },
-    {
-      invariantKind: "invariant-kind/absence",
-      statement: "An agent change names no guard.",
-    },
   ],
   types: "ts",
   schema: "jsonl",

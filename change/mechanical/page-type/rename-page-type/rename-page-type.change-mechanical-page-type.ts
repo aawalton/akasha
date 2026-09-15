@@ -94,10 +94,6 @@ export const renamePageType = {
       statement: "A manifest naming a file that moved as a way in states where that file landed.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "A file the rename leaves behind is refused by the guard named here.",
-    },
-    {
       invariantKind: "invariant-kind/absence",
       statement: "No rung beneath is reached.",
     },

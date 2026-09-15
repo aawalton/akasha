@@ -35,10 +35,6 @@ export const changePagePageType = {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here works out a body of its own.",
     },
-    {
-      invariantKind: "invariant-kind/absence",
-      statement: "Nothing here names a guard, the change reached naming the guards.",
-    },
   ],
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,
