@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const maviolaEl = {
   id: "019dda20-8c7c-772a-9cbd-3ae77bd7c136",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "maviola-el",
   title: "Maviola El",
   displayOrder: 2,

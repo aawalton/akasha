@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const zzverifyPlanclerk = {
   id: "019f99ae-d7cb-75cc-b2fd-22982ed361eb",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "zzverify-planclerk",
   title: "Zzverify Planclerk",
   esoCharacterId: "verify15938-plan-card",

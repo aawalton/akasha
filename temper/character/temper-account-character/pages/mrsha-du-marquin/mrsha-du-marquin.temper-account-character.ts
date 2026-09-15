@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const mrshaDuMarquin = {
   id: "019dda20-a396-715c-b6a7-bf556e159ddb",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "mrsha-du-marquin",
   title: "Mrsha du Marquín",
   displayOrder: 13,

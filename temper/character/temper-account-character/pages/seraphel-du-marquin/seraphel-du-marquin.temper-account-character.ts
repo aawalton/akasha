@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const seraphelDuMarquin = {
   id: "019dda20-7e2b-7e3f-a07e-62a06010184e",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "seraphel-du-marquin",
   title: "Seraphel du Marquín",
   displayOrder: 16,

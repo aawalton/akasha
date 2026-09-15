@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const belen = {
   id: "019f97f0-f637-7ba9-abc4-9692a18239a6",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "belen",
   title: "Belen",
   esoCharacterId: "char-2",

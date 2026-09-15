@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const ondreaPellhaven = {
   id: "019f9801-b172-77cd-a8fb-1ee9914a0e90",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "ondrea-pellhaven",
   title: "Ondrea Pellhaven",
   esoCharacterId: "1500000000000004",

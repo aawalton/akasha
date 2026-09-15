@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const belavierr = {
   id: "019dda20-89a4-76b9-b1b9-3d6ac305af6b",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "belavierr",
   title: "Belavierr",
   displayOrder: 18,

@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const cirwen = {
   id: "019f97f0-f6a7-7ae3-abbb-ac15cee83ab9",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "cirwen",
   title: "Cirwen",
   esoCharacterId: "char-3",

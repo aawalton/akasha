@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const selwynVharrow = {
   id: "019f9801-b0b3-7a4a-a634-b60813b1a79e",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "selwyn-vharrow",
   title: "Selwyn Vharrow",
   esoCharacterId: "1500000000000003",

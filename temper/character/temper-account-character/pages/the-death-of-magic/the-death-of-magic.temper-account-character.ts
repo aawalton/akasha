@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const theDeathOfMagic = {
   id: "019dda20-9231-7c70-937c-8215629e57d1",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "the-death-of-magic",
   title: "The Death of Magic",
   displayOrder: 19,

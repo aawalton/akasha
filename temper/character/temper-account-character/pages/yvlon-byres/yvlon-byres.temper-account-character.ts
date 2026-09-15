@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const yvlonByres = {
   id: "019dda20-9dc3-7f46-9cf3-b2c53c6b2df9",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "yvlon-byres",
   title: "Yvlon Byrès",
   displayOrder: 12,

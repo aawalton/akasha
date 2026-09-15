@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const theDeathOfChains = {
   id: "019dda20-7b4d-7e3d-b536-31161341a1eb",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "the-death-of-chains",
   title: "The Death of Chains",
   displayOrder: 20,

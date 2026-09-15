@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const threeColorStalker = {
   id: "019dda20-a0b3-7b8b-ae04-dae6143ee548",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "three-color-stalker",
   title: "Three-Color Stalker",
   displayOrder: 4,

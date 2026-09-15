@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const nirayicel = {
   id: "019dda20-a672-7ca7-bb4c-c533c9c3c754",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "nirayicel",
   title: "Nirayicel",
   displayOrder: 3,

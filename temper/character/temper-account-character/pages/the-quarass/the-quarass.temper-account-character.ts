@@ -2,7 +2,7 @@ import type { TemperAccountCharacter } from "akasha/temper/character/temper-acco
 
 export const theQuarass = {
   id: "019dda20-9520-7261-a87f-6f2567dd6020",
-  type: "temper-account-character",
+  type: "page-type/temper-account-character",
   slug: "the-quarass",
   title: "The Quarass",
   displayOrder: 6,
