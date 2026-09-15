@@ -5,8 +5,15 @@ import {
   NOT_FALLING,
   type Reading,
   readingKept,
+  readingValues,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import {
+  type Fetcher,
+  readingFor,
+  type Sleeper,
+  writingFor,
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 import { z } from "zod"
 
@@ -27,6 +34,10 @@ export const NO_SECRET_TO_CARRY_ON =
   "site names for the machine its readings are taken on."
 
 export const JOURNAL_ERROR_LEVEL = "<3>"
+
+const READOUT_PAGE_TYPE = "readout"
+
+const RELAY_WRITER = "readout relay <readout-relay@alanwalton.com>"
 
 export function noReadoutPageAt(page: string): string {
   return (
@@ -57,20 +68,40 @@ export function relayedIn(body: unknown): Relayed | null {
   return parsed.data
 }
 
-export function holdRelayed(carried: Relayed): undefined {
-  held.set(carried.readout, {
-    value: carried.value,
-    at: carried.at,
-    fallsPerHour: carried.fallsPerHour,
-  })
-}
-
 export function relayedHeld(readout: string): Reading | null {
   return held.get(readout) ?? null
 }
 
-export function dropRelayed(): undefined {
-  held.clear()
+export function noReadoutSlugged(readout: string): string {
+  return (
+    `no \`${READOUT_PAGE_TYPE}\` is slugged \`${readout}\`, so the reading carried for it would ` +
+    "be kept beside nothing"
+  )
+}
+
+export async function keepRelayed(
+  carried: Relayed,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<string | null> {
+  const placed = await readingFor(
+    { pages: [{ pageTypeSlug: READOUT_PAGE_TYPE, slug: carried.readout }] },
+    fetcher,
+    naps
+  )
+  if ("refused" in placed) return placed.refused
+  const path = placed.bodies[0]?.path
+  if (path === undefined) return noReadoutSlugged(carried.readout)
+  const wrote = await writingFor(
+    {
+      writer: RELAY_WRITER,
+      message: `a reading of ${carried.readout} taken ${carried.at}`,
+      kept: [{ path, values: readingValues(carried) }],
+    },
+    fetcher,
+    naps
+  )
+  return "refused" in wrote ? wrote.refused : null
 }
 
 export function readoutNamedBy(page: string): string {

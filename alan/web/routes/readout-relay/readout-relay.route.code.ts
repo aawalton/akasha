@@ -5,7 +5,7 @@ import {
   RELAY_SECRET_HEADER,
 } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
-  holdRelayed,
+  keepRelayed,
   RELAY_SECRET_NAME,
   relayedIn,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
@@ -37,7 +37,14 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     })
   }
 
-  holdRelayed(carried)
+  const why = await keepRelayed(carried)
+  if (why !== null) {
+    return Response.json(
+      { ok: false, error: why },
+      { status: 502, headers: { "Cache-Control": READOUT_CACHE_CONTROL } }
+    )
+  }
+
   return Response.json(
     { ok: true, readout: carried.readout, at: carried.at },
     { headers: { "Cache-Control": READOUT_CACHE_CONTROL } }

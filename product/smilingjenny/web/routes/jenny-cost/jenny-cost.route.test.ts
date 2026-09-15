@@ -1,16 +1,14 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import {
   colorIn,
+  readingsDropped,
   rowsAsked,
   servingStore,
   storeGoes,
   type Tile,
   tileAt,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
-import {
-  dropRelayed,
-  RELAY_PATH,
-} from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
+import { RELAY_PATH } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import {
   type Relaying,
   relayingTo,
@@ -94,7 +92,7 @@ afterAll(() => {
 })
 
 beforeEach(() => {
-  dropRelayed()
+  readingsDropped()
   ANSWERED.readouts = [COST_ROW, SURPLUS_ROW]
 })
 
@@ -128,7 +126,7 @@ test("nothing carried in shows an empty ring rather than a cost of zero", async 
 test("the cost is colored with the surplus carried in beside it", async () => {
   await carryNow(0.5, 5)
   expect((await drawn())[0]?.tier).toBe("yellow")
-  dropRelayed()
+  readingsDropped()
   await carryNow(0.5, -5)
   expect((await drawn())[0]?.tier).toBe("red")
 })
@@ -150,7 +148,7 @@ test("a cost of nothing beneath eight hours of debt is black", async () => {
 
 test("every stoplight carries a tier that is one of the six colors the phone decodes", async () => {
   for (const multiplier of [0, 0.5, 1, 1.5, 32]) {
-    dropRelayed()
+    readingsDropped()
     await carryNow(multiplier, 5)
     for (const one of await drawn()) {
       expect(TIERS).toContain(colorIn(one, "tier"))
@@ -181,17 +179,9 @@ test("a cost taken long ago keeps what it holds on the ring", async () => {
   expect(one?.reading).toBe("0.5")
 })
 
-test("a machine that starts again holds no reading, and says so rather than losing the ring", async () => {
-  await carryNow(0.5, 5)
-  dropRelayed()
-  const [one] = await drawn()
-  expect(one?.readingHeld).toBe("none")
-  expect(one?.reading).toBe("")
-})
-
 test("nothing between here and the tile is allowed to keep an answer", async () => {
   await carryNow(0.5, 5)
   expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
-  dropRelayed()
+  readingsDropped()
   expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
 })

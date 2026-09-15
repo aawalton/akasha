@@ -30,7 +30,15 @@ export const readoutRelay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading carried in is held for the routes that serve the reading.",
+      statement: "The reading carried in is written beside the readout's own page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading that was not written is answered as a fault rather than as carried.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer to a reading not written says why that reading was not written.",
     },
     {
       decisionKind: "decision-kind/departure",

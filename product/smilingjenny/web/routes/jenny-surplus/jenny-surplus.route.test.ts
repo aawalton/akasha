@@ -1,14 +1,12 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import {
+  readingsDropped,
   servingStore,
   storeGoes,
   type Tile,
   tileAt,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
-import {
-  dropRelayed,
-  RELAY_PATH,
-} from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
+import { RELAY_PATH } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import {
   carryTo,
   type RelayingOne,
@@ -83,7 +81,7 @@ afterAll(() => {
 })
 
 beforeEach(() => {
-  dropRelayed()
+  readingsDropped()
   ANSWERED.readouts = [READOUT_ROW]
 })
 
@@ -133,7 +131,7 @@ test("the widget's body is a non-empty list under `stoplights`", async () => {
 
 test("every stoplight carries a tier that is one of the six colors the phone decodes", async () => {
   for (const hours of [-20, -12, -9, -6, -4, -1, 0, 2, 4, 9]) {
-    dropRelayed()
+    readingsDropped()
     await carryNow(hours)
     for (const one of await drawn()) {
       expect(TIERS).toContain(String(one.tier))
@@ -150,7 +148,7 @@ test("the color is resolved here rather than sent as rungs for the phone to work
   expect(one?.progress).toBe(0.5)
   expect(one?.scale).toBeUndefined()
 
-  dropRelayed()
+  readingsDropped()
   await carryNow(0)
   expect((await drawn())[0]?.tier).toBe("green")
 })
@@ -169,7 +167,7 @@ test("the rungs come off the scale page, so a surplus below every rung is black"
   await carryNow(-20)
   expect((await drawn())[0]?.tier).toBe("black")
 
-  dropRelayed()
+  readingsDropped()
   await carryNow(-12)
   const [atTheRung] = await drawn()
   expect(atTheRung?.tier).toBe("black")
@@ -201,14 +199,6 @@ test("a reading taken long ago keeps what it holds on the ring", async () => {
   expect(one?.reading).toBe("1")
 })
 
-test("a machine that starts again holds no reading, and says so rather than losing the ring", async () => {
-  await carryNow(1)
-  dropRelayed()
-  const [one] = await drawn()
-  expect(one?.readingHeld).toBe("none")
-  expect(one?.reading).toBe("")
-})
-
 test("a reading never taken and one taken long ago are told apart on the wire", async () => {
   const never = (await drawn())[0]?.readingHeld
   await carryNow(1, new Date(Date.now() - 46 * 60_000))
@@ -238,6 +228,6 @@ test("a surplus smaller than a place floors to the place below rather than readi
 test("nothing between here and the tile is allowed to keep an answer", async () => {
   await carryNow(1)
   expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
-  dropRelayed()
+  readingsDropped()
   expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
 })

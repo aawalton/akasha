@@ -25,6 +25,7 @@
 {"propertySlug":"import","fileName":"readout-group-serving.module.test-fixtures.ts","path":"alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-group-serving.module.test-fixtures.ts","path":"alan/web/routes/safety-level/safety-level.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-group-serving.module.test-fixtures.ts","path":"alan/web/routes/surplus/surplus.route.test.ts"}
+{"propertySlug":"import","fileName":"readout-group-serving.module.test-fixtures.ts","path":"product/smilingjenny/web/routes/jenny-categorization/jenny-categorization.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-group-serving.module.test-fixtures.ts","path":"product/smilingjenny/web/routes/jenny-cost/jenny-cost.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-group-serving.module.test-fixtures.ts","path":"product/smilingjenny/web/routes/jenny-safety-level/jenny-safety-level.route.test.ts"}
 {"propertySlug":"import","fileName":"readout-group-serving.module.test-fixtures.ts","path":"product/smilingjenny/web/routes/jenny-surplus/jenny-surplus.route.test.ts"}

@@ -24,15 +24,32 @@ export const readoutRelay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading arriving replaces the reading held before the arriving reading.",
+      statement: "A reading arriving is written beside the readout's own page.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading arriving is in memory rather than in a file.",
+      statement: "A reading arriving is written outside the commit rather than into one.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A machine that starts again has no reading.",
+      statement: "A reading is written under the keys the reading module answers with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The page a reading is written beside is placed by page type and slug rather than named here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A readout no page is slugged for has its reading refused rather than written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading written answers nothing, and a reading refused answers why.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A machine that starts again has every reading its readouts' pages carry.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -108,7 +125,12 @@ export const readoutRelay = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading held is dropped only to prove that no reading is held.",
+      statement:
+        "A reading is written with the values a write keeps rather than with a body a write puts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write putting a body would commit the readout page every reading.",
     },
     {
       decisionKind: "decision-kind/departure",

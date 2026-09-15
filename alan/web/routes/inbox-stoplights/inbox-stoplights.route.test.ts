@@ -2,16 +2,14 @@ import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import {
   colorIn,
+  readingsDropped,
   readoutsNaming,
   servingStore,
   storeGoes,
   type Tile,
   tileAt,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
-import {
-  dropRelayed,
-  RELAY_PATH,
-} from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
+import { RELAY_PATH } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import {
   type Relaying,
   relayingTo,
@@ -120,7 +118,7 @@ afterAll(() => {
 })
 
 beforeEach(() => {
-  dropRelayed()
+  readingsDropped()
   ANSWERED.readouts = READOUT_ROWS
 })
 

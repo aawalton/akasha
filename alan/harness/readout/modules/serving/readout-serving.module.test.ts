@@ -7,14 +7,9 @@ import {
   storeGoes,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
 import {
-  dropRelayed,
-  holdRelayed,
-} from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
-import {
   answerReadout,
   answerReadoutAdmittedBy,
   readingHeldOn,
-  relayedFresh,
 } from "akasha/alan/harness/readout/modules/serving/readout-serving.module.code.ts"
 
 const CREDENTIAL = "a-ring-credential-named-only-in-this-test"
@@ -58,7 +53,6 @@ afterAll(() => {
 })
 
 beforeEach(() => {
-  dropRelayed()
   readingsDropped()
   ANSWERED.rows = [READOUT_ROW]
 })
@@ -149,12 +143,6 @@ test("a reading long past the moment it was taken is still the reading answered"
   expect((await ring(CREDENTIAL)).status).toBe(200)
 })
 
-test("a machine that starts again holds no reading", async () => {
-  relayedFor(READOUT, 41)
-  readingsDropped()
-  expect((await ring(CREDENTIAL)).status).toBe(503)
-})
-
 const rowCarrying = (value: number, at: Date = new Date()) => ({
   ...READOUT_ROW,
   lastValue: value,
@@ -192,11 +180,6 @@ test("a reading of nothing on the row is answered as a count rather than as none
   ANSWERED.rows = [rowCarrying(0)]
   expect((await ring(CREDENTIAL)).status).toBe(200)
   expect(await countAnswered()).toBe(0)
-})
-
-test("the reading relayed is answered however long ago that reading was taken", () => {
-  holdRelayed({ readout: READOUT, value: 19, at: TAKEN, fallsPerHour: 0 })
-  expect(relayedFresh(READOUT)).toBe(19)
 })
 
 test("a reading carried on a readout's own row is read as a reading", () => {

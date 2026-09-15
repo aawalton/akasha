@@ -1,15 +1,13 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import {
+  readingsDropped,
   servingStore,
   storeGoes,
   type Tile,
   tileAt,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
-import {
-  dropRelayed,
-  RELAY_PATH,
-} from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
+import { RELAY_PATH } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import {
   type Relaying,
   relayingTo,
@@ -79,7 +77,7 @@ afterAll(() => {
 })
 
 beforeEach(() => {
-  dropRelayed()
+  readingsDropped()
   ANSWERED.readouts = [READOUT_ROW]
 })
 
@@ -111,7 +109,7 @@ test("a day that has eaten into the night reads below zero and still draws a tie
 
 test("every stoplight carries a tier that is one of the six colors the phone decodes", async () => {
   for (const hours of [-20, -12, -9, -6, -4, -1, 0, 2, 4, 9]) {
-    dropRelayed()
+    readingsDropped()
     await carryNow(hours)
     for (const one of await tile.drawn()) {
       expect(TIERS).toContain(String(one.tier))
@@ -163,7 +161,7 @@ test("a surplus of zero and a surplus never carried are told apart on the wire",
   expect(held?.reading).toBe("0")
   expect(held?.readingHeld).toBeUndefined()
 
-  dropRelayed()
+  readingsDropped()
   const absent = (await tile.drawn())[0]
   expect(absent?.reading).toBe("")
   expect(absent?.readingHeld).toBe("none")

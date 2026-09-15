@@ -1,13 +1,16 @@
 import { afterAll, beforeAll, expect, test } from "bun:test"
 import {
-  dropRelayed,
+  readingsDropped,
+  servingStore,
+  storeGoes,
+} from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
+import {
   RELAY_PATH,
   relayReading,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import { carryTo } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"
 import { loader } from "akasha/product/smilingjenny/web/routes/jenny-categorization/jenny-categorization.route.code.ts"
 import { action } from "akasha/product/smilingjenny/web/routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"
-import { optionalEnv } from "akasha/util/narrow/modules/require-env/require-env.module.code.ts"
 
 const RING_CREDENTIAL = crypto.randomUUID()
 const RELAY_SECRET = crypto.randomUUID()
@@ -29,19 +32,9 @@ const SCALE_ROW = { slug: "backlog-count", yellowAt: 1, orangeAt: 11, redAt: 21,
 let store: ReturnType<typeof Bun.serve>
 let server: ReturnType<typeof Bun.serve>
 let origin: string
-let heldOrigin: string | undefined
 
 beforeAll(() => {
-  store = Bun.serve({
-    port: 0,
-    fetch: async (request) => {
-      const asked = (await request.json()) as { pageTypeSlug: string }
-      if (asked.pageTypeSlug === "readout") return Response.json({ rows: [READOUT_ROW] })
-      return Response.json({ rows: [SCALE_ROW] })
-    },
-  })
-  heldOrigin = optionalEnv("PAGES_SERVICE_ORIGIN")
-  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
+  store = servingStore((asked) => (asked.pageTypeSlug === "readout" ? [READOUT_ROW] : [SCALE_ROW]))
   server = Bun.serve({
     port: 0,
     fetch(request) {
@@ -56,9 +49,7 @@ beforeAll(() => {
 
 afterAll(() => {
   server.stop()
-  store.stop(true)
-  if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
-  else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
+  storeGoes(store)
 })
 
 const ring = (credential?: string) =>
@@ -75,7 +66,7 @@ test("a caller holding no credential is refused", async () => {
 })
 
 test("a readout with nothing carried in says there is no reading", async () => {
-  dropRelayed()
+  readingsDropped()
   const answered = await ring(RING_CREDENTIAL)
   expect(answered.status).toBe(503)
   expect(await answered.json()).toEqual({ ok: false, error: "No reading." })
@@ -100,7 +91,7 @@ test("a body that is not a whole reading is refused rather than held", async () 
 })
 
 test("the reading carried in is the count served out", async () => {
-  dropRelayed()
+  readingsDropped()
   await carryNow(41)
   const answered = await ring(RING_CREDENTIAL)
   expect(answered.status).toBe(200)
@@ -108,7 +99,7 @@ test("the reading carried in is the count served out", async () => {
 })
 
 test("the rungs and the none-left words are read from the store rather than carried", async () => {
-  dropRelayed()
+  readingsDropped()
   await carryNow(41)
   const body = (await (await ring(RING_CREDENTIAL)).json()) as Record<string, unknown>
   expect(body.scale).toBeDefined()
@@ -117,7 +108,7 @@ test("the rungs and the none-left words are read from the store rather than carr
 })
 
 test("a reading arriving replaces the one held before it", async () => {
-  dropRelayed()
+  readingsDropped()
   await carryNow(41)
   await carryNow(8)
   const body = (await (await ring(RING_CREDENTIAL)).json()) as { unreviewed: number }
@@ -125,15 +116,9 @@ test("a reading arriving replaces the one held before it", async () => {
 })
 
 test("a reading taken long ago keeps what it holds", async () => {
-  dropRelayed()
+  readingsDropped()
   await carryNow(99, new Date(Date.now() - 46 * 60_000))
   const answered = await ring(RING_CREDENTIAL)
   expect(answered.status).toBe(200)
   expect(((await answered.json()) as { unreviewed: number }).unreviewed).toBe(99)
-})
-
-test("a machine that starts again holds no reading", async () => {
-  await carryNow(41)
-  dropRelayed()
-  expect((await ring(RING_CREDENTIAL)).status).toBe(503)
 })

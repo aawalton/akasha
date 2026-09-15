@@ -1,16 +1,14 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import {
   colorIn,
+  readingsDropped,
   rowsAsked,
   servingStore,
   storeGoes,
   type Tile,
   tileAt,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
-import {
-  dropRelayed,
-  RELAY_PATH,
-} from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
+import { RELAY_PATH } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import {
   type Relaying,
   relayingTo,
@@ -118,7 +116,7 @@ afterAll(() => {
 })
 
 beforeEach(() => {
-  dropRelayed()
+  readingsDropped()
   ANSWERED.readouts = IN_THE_GROUP
 })
 
@@ -237,14 +235,6 @@ test("a reading taken long ago keeps what it holds on the ring", async () => {
   }
 })
 
-test("a machine that starts again holds no reading, and says so rather than losing the rings", async () => {
-  await carryNow()
-  dropRelayed()
-  const stoplights = await drawn()
-  expect(stoplights.length).toBe(4)
-  for (const one of stoplights) expect(one.readingHeld).toBe("none")
-})
-
 test("only a group no readout is left in answers 503", async () => {
   await carryNow()
   expect((await tile.answer()).status).toBe(200)
@@ -255,6 +245,6 @@ test("only a group no readout is left in answers 503", async () => {
 test("nothing between here and the tile is allowed to keep an answer", async () => {
   await carryNow()
   expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
-  dropRelayed()
+  readingsDropped()
   expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
 })

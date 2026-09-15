@@ -1,22 +1,25 @@
-import { afterAll, beforeEach, expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { realpathSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { RELAY_SECRET_HEADER } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
-  dropRelayed,
-  holdRelayed,
   JOURNAL_ERROR_LEVEL,
+  keepRelayed,
   noReadoutPageAt,
+  noReadoutSlugged,
   RELAY_PATH,
   RELAY_SECRET_NAME,
   readoutNamedBy,
   readoutPageAt,
-  relayedHeld,
   relayedIn,
   relayReading,
   type Sent,
   statedIn,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
+import type {
+  Fetcher,
+  Sleeper,
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const READOUT = "monarch-unreviewed-transactions"
@@ -31,12 +34,6 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-beforeEach(() => dropRelayed())
-
-test("a machine that starts again holds no reading", () => {
-  expect(relayedHeld(READOUT)).toBeNull()
-})
-
 const carried = (value: number, at: string = TAKEN, fallsPerHour = 0) => ({
   readout: READOUT,
   value,
@@ -44,30 +41,61 @@ const carried = (value: number, at: string = TAKEN, fallsPerHour = 0) => ({
   fallsPerHour,
 })
 
-test("a reading arriving is held under the name of the readout it was taken for", () => {
-  holdRelayed(carried(19))
-  expect(relayedHeld(READOUT)).toEqual({ value: 19, at: TAKEN, fallsPerHour: 0 })
-  expect(relayedHeld("some-other-readout")).toBeNull()
+const PAGE_AT = `readout/pages/${READOUT}/${READOUT}.readout.ts`
+
+const AT_A_COMMIT = "0000000000000000000000000000000000000000"
+
+const naps: Sleeper = async () => undefined
+
+type Asked = { readonly at: string; readonly body: Record<string, unknown> }
+
+function storeAnswering(
+  read: unknown,
+  wrote: unknown
+): { readonly asked: readonly Asked[]; readonly fetcher: Fetcher } {
+  const asked: Asked[] = []
+  const fetcher: Fetcher = async (url, init) => {
+    const at = new URL(url).pathname
+    asked.push({ at, body: JSON.parse(String(init.body)) as Record<string, unknown> })
+    return Response.json(at === "/read" ? read : wrote)
+  }
+  return { asked, fetcher }
+}
+
+const placed = { at: AT_A_COMMIT, bodies: [{ path: PAGE_AT, content: null }], unplaced: [] }
+
+const landed = { commit: null, wrote: [PAGE_AT], took: [] }
+
+test("a reading arriving is written beside the page the store places for its readout", async () => {
+  const { asked, fetcher } = storeAnswering(placed, landed)
+  expect(await keepRelayed(carried(19, TAKEN, 2), fetcher, naps)).toBeNull()
+  expect(asked.map((one) => one.at)).toEqual(["/read", "/write"])
+  expect(asked[0]?.body.pages).toEqual([{ pageTypeSlug: "readout", slug: READOUT }])
+  expect(asked[1]?.body.kept).toEqual([
+    { path: PAGE_AT, values: { lastValue: 19, lastValueAt: TAKEN, lastValueFallsPerHour: 2 } },
+  ])
 })
 
-test("a reading arriving replaces the one held before it", () => {
-  holdRelayed(carried(19))
-  holdRelayed(carried(4, "2026-08-31T12:05:00.000Z"))
-  expect(relayedHeld(READOUT)).toEqual({
-    value: 4,
-    at: "2026-08-31T12:05:00.000Z",
-    fallsPerHour: 0,
-  })
+test("a reading is kept beside a page rather than put as a body the store would commit", async () => {
+  const { asked, fetcher } = storeAnswering(placed, landed)
+  await keepRelayed(carried(19), fetcher, naps)
+  const body = asked[1]?.body
+  expect(body?.pages).toBeUndefined()
+  expect(body?.puts).toBeUndefined()
 })
 
-test("a reading of nothing is a reading rather than an absent one", () => {
-  holdRelayed(carried(0))
-  expect(relayedHeld(READOUT)?.value).toBe(0)
+test("a readout the store places no page for has its reading refused rather than written", async () => {
+  const { asked, fetcher } = storeAnswering(
+    { at: AT_A_COMMIT, bodies: [], unplaced: [`readout/${READOUT}`] },
+    landed
+  )
+  expect(await keepRelayed(carried(19), fetcher, naps)).toBe(noReadoutSlugged(READOUT))
+  expect(asked.map((one) => one.at)).toEqual(["/read"])
 })
 
-test("how fast a reading falls with the clock is held beside that reading", () => {
-  holdRelayed(carried(19, TAKEN, 2))
-  expect(relayedHeld(READOUT)?.fallsPerHour).toBe(2)
+test("a store refusing the write answers why rather than counting the reading written", async () => {
+  const { fetcher } = storeAnswering(placed, { refused: "the pages are read only" })
+  expect(await keepRelayed(carried(19), fetcher, naps)).toBe("the pages are read only")
 })
 
 test("a whole reading is taken off the wire", () => {
@@ -142,14 +170,14 @@ test("a carrier presents the relay secret and the moment the reading was taken",
 })
 
 test("what a carrier sends is what a receiver takes off the wire", async () => {
+  const taken: unknown[] = []
   const send: Sent = async (_to, init) => {
-    const taken = relayedIn(JSON.parse(String(init.body)))
-    if (taken === null) return new Response(null, { status: 400 })
-    holdRelayed(taken)
-    return new Response(null, { status: 204 })
+    const one = relayedIn(JSON.parse(String(init.body)))
+    taken.push(one)
+    return new Response(null, { status: one === null ? 400 : 204 })
   }
   await relayReading("https://alanwalton.com", SECRET, carried(19, TAKEN, 2), send)
-  expect(relayedHeld(READOUT)).toEqual({ value: 19, at: TAKEN, fallsPerHour: 2 })
+  expect(taken).toEqual([carried(19, TAKEN, 2)])
 })
 
 test("an answer that is not OK is refused rather than counted as carried", async () => {

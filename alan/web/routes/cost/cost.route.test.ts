@@ -1,16 +1,14 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { answerCostAdmittedBy } from "akasha/alan/harness/cost/modules/stoplight/cost-stoplight.module.code.ts"
 import {
+  readingsDropped,
   rowsAsked,
   servingStore,
   storeGoes,
   type Tile,
   tileAt,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
-import {
-  dropRelayed,
-  RELAY_PATH,
-} from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
+import { RELAY_PATH } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import {
   type Relaying,
   relayingTo,
@@ -86,7 +84,7 @@ afterAll(() => {
 })
 
 beforeEach(() => {
-  dropRelayed()
+  readingsDropped()
 })
 
 const carryNow = async (multiplier: number, hours: number): Promise<undefined> => {
@@ -124,7 +122,7 @@ test("the same cost five hours into the night is red rather than yellow", async 
 
 test("every stoplight carries a tier that is one of the six colors the phone decodes", async () => {
   for (const multiplier of [0, 0.5, 1, 1.5, 32]) {
-    dropRelayed()
+    readingsDropped()
     await carryNow(multiplier, 5)
     for (const one of await tile.drawn()) {
       expect(TIERS).toContain(String(one.tier))
