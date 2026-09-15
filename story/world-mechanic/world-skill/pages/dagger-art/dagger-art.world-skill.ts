@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const daggerArt = {
   id: "01a06575-9800-7ccf-8b33-5faf7274f6a6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "dagger-art",
   title: "Dagger Art",
   world: "world/the-wandering-inn",

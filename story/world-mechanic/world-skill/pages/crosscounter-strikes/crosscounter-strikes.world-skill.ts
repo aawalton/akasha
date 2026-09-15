@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const crosscounterStrikes = {
   id: "01a06575-97ff-7611-b3e9-0706a0c0c935",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "crosscounter-strikes",
   title: "Crosscounter Strikes",
   world: "world/the-wandering-inn",

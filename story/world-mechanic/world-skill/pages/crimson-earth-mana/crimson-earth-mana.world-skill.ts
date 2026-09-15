@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const crimsonEarthMana = {
   id: "01a06575-97ff-7774-860a-dc97023bd008",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "crimson-earth-mana",
   title: "Crimson Earth Mana",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const createTotem = {
   id: "01a06575-97ff-7907-a390-0d2c4b329787",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "create-totem",
   title: "Create Totem",
   world: "world/the-wandering-inn",

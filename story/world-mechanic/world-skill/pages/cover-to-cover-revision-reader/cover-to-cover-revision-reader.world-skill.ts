@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const coverToCoverRevisionReader = {
   id: "01a06575-97fe-77c9-9ff5-1c48fc17f473",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "cover-to-cover-revision-reader",
   title: "Cover to Cover, Revision Reader",
   world: "world/the-wandering-inn",

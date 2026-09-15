@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const decisiveBlows = {
   id: "01a06575-9802-7e2e-bda0-fb5ddd0f04f1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "decisive-blows",
   title: "Decisive Blows",
   world: "world/the-wandering-inn",

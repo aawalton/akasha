@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const defendersResistanceToArrows = {
   id: "01a06575-9802-707b-97ea-e62d7eca90ca",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "defenders-resistance-to-arrows",
   title: "Defenders: Resistance to Arrows",
   world: "world/the-wandering-inn",

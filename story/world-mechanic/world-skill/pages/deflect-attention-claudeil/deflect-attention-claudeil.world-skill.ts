@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const deflectAttentionClaudeil = {
   id: "01a06575-9802-7903-a02d-bcf4ea6907b6",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "deflect-attention-claudeil",
   title: "Deflect Attention: Claudeil",
   world: "world/the-wandering-inn",

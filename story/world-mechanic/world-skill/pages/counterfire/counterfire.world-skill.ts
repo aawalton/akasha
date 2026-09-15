@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const counterfire = {
   id: "01a06575-97fe-7084-a00b-101fc734da77",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "counterfire",
   title: "Counterfire",
   world: "world/the-wandering-inn",

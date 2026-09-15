@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const copySkillTenLevels = {
   id: "01a06575-97fe-7c20-956b-eea36b131664",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "copy-skill-ten-levels",
   title: "Copy Skill: Ten Levels",
   world: "world/the-wandering-inn",

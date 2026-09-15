@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const createCloudParalysisDust = {
   id: "01a06575-97fe-7b9e-8d0f-b465032bc7c7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "create-cloud-paralysis-dust",
   title: "Create Cloud: Paralysis Dust",
   world: "world/the-wandering-inn",

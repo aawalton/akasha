@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const couchPotatoExercise = {
   id: "01a06575-97fe-7923-bacd-ec6a606041f5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "couch-potato-exercise",
   title: "Couch Potato Exercise",
   world: "world/the-wandering-inn",

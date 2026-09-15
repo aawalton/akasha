@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const daggerhail = {
   id: "01a06575-9800-70cd-a1ab-6f0e69293bd5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "daggerhail",
   title: "Daggerhail",
   world: "world/the-wandering-inn",

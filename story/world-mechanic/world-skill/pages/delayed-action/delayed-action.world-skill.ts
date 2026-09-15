@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const delayedAction = {
   id: "01a06575-9802-7956-b6fe-b1c44c8d8872",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "delayed-action",
   title: "Delayed Action",
   world: "world/the-wandering-inn",

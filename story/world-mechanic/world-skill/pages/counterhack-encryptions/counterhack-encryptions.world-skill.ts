@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const counterhackEncryptions = {
   id: "01a06575-97fe-7e9e-87dc-9998b6bc3899",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "counterhack-encryptions",
   title: "Counterhack Encryptions",
   world: "world/the-wandering-inn",

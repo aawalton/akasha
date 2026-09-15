@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const craftArrowsOfWill = {
   id: "01a06575-97fe-73e3-ac93-60f76781cdc2",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "craft-arrows-of-will",
   title: "Craft: Arrows of Will",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const crewTheyKnewNoFear = {
   id: "01a06575-97ff-7750-ba67-5becb4fdc952",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "crew-they-knew-no-fear",
   title: "Crew: They Knew No Fear",
   world: "world/the-wandering-inn",

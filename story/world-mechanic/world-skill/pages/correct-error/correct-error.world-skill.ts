@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const correctError = {
   id: "01a06575-97fe-70ff-886f-d4c3aa326ff4",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "correct-error",
   title: "Correct Error",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const createBubbleLiquid = {
   id: "01a06575-97fe-7572-af8a-04f218dfc0cd",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "create-bubble-liquid",
   title: "Create Bubble Liquid",
   world: "world/the-wandering-inn",

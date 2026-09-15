@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const controlledBreaths = {
   id: "01a06575-97fd-73ca-bf15-68911d15e767",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "controlled-breaths",
   title: "Controlled Breaths",
   world: "world/the-wandering-inn",

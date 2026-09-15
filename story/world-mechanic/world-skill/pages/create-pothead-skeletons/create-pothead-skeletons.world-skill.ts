@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const createPotheadSkeletons = {
   id: "01a06575-97ff-78dc-a9ed-49c14b1e1899",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "create-pothead-skeletons",
   title: "Create Pothead Skeletons",
   world: "world/the-wandering-inn",

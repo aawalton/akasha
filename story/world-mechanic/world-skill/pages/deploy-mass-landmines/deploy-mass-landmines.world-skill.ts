@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const deployMassLandmines = {
   id: "01a06575-9803-7284-bd5e-58e83b170fe3",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "deploy-mass-landmines",
   title: "Deploy Mass Landmines",
   world: "world/the-wandering-inn",

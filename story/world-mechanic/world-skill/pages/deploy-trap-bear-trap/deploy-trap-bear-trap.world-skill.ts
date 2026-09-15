@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const deployTrapBearTrap = {
   id: "01a06575-9803-7789-91e9-4276c62f8257",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "deploy-trap-bear-trap",
   title: "Deploy Trap: Bear Trap",
   world: "world/the-wandering-inn",

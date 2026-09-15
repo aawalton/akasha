@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const crescentCut = {
   id: "01a06575-97ff-7089-be4c-b0529e1ec9ac",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "crescent-cut",
   title: "Crescent Cut",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const declareFoeBane = {
   id: "01a06575-9802-74cf-ba8c-ba026c1c3f2f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "declare-foe-bane",
   title: "Declare Foe: Bane",
   world: "world/the-wandering-inn",

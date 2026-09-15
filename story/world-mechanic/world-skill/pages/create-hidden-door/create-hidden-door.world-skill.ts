@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const createHiddenDoor = {
   id: "01a06575-97fe-7c04-bb30-e08f6aeecab0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "create-hidden-door",
   title: "Create Hidden Door",
   world: "world/the-wandering-inn",

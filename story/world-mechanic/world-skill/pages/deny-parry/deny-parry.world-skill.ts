@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const denyParry = {
   id: "01a06575-9803-740a-880b-11c8ea85956f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "deny-parry",
   title: "Deny Parry",
   world: "world/the-wandering-inn",

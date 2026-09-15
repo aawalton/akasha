@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const createBoundTurret = {
   id: "01a06575-97fe-7588-b1ac-9579174cc4f7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "create-bound-turret",
   title: "Create Bound Turret",
   world: "world/the-wandering-inn",

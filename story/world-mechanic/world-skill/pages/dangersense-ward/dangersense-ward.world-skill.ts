@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const dangersenseWard = {
   id: "01a06575-9800-7aa2-9869-5a8c01489ac0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "dangersense-ward",
   title: "Dangersense (Ward)",
   world: "world/the-wandering-inn",

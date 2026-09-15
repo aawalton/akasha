@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const crossroadsOfIzril = {
   id: "01a06575-97ff-72e3-a1d9-91c2e2c00631",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "crossroads-of-izril",
   title: "Crossroads of Izril",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const copyTool = {
   id: "01a06575-97fe-7671-ac16-c0e1b546c3a0",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "copy-tool",
   title: "Copy Tool",
   world: "world/the-wandering-inn",
