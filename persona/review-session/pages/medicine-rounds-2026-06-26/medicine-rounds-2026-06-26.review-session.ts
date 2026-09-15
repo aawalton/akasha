@@ -2,7 +2,7 @@ import type { ReviewSession } from "akasha/persona/review-session/review-session
 
 export const medicineRounds20260626 = {
   id: "019f0b6e-ba14-7ff4-8f7d-87630318d5d3",
-  type: "review-session",
+  type: "page-type/review-session",
   slug: "medicine-rounds-2026-06-26",
   title: "Medicine rounds — 2026-06-26",
   persona: "persona/elaine",
