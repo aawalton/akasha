@@ -22,10 +22,6 @@ export const assertSchemaMatchesPayload = {
     },
     {
       invariantKind: "departure",
-      statement: "The call does nothing at runtime.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A mismatch reads as an argument the caller left out.",
     },
   ],
