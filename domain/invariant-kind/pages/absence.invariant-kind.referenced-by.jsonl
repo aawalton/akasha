@@ -961,6 +961,7 @@
 {"propertySlug":"invariant-kind","path":"command/modules/change-preparing/change-preparing.module.ts","id":"01a0818a-874f-79bb-a981-3f70b61d6b09"}
 {"propertySlug":"invariant-kind","path":"command/modules/cli/cli.module.ts","id":"01a04bdd-596d-7b27-bcc5-9acb2728eb0f"}
 {"propertySlug":"invariant-kind","path":"command/modules/commit-attribution/commit-attribution.module.ts","id":"01a09c10-91c9-7a57-80f8-b3c2ffe0962c"}
+{"propertySlug":"invariant-kind","path":"command/modules/commit-author/commit-author.module.ts","id":"01a068b1-4f80-7000-adc7-64276300358f"}
 {"propertySlug":"invariant-kind","path":"command/modules/complexity-rowing/complexity-rowing.module.ts","id":"01a08ccb-ef46-7d67-8b4e-cc41cae3762e"}
 {"propertySlug":"invariant-kind","path":"command/modules/draft-keeping/draft-keeping.module.ts","id":"01a094e0-4979-7d5e-af22-aa331354d3bf"}
 {"propertySlug":"invariant-kind","path":"command/modules/editor-state-landing/editor-state-landing.module.ts","id":"01a09ca7-7d86-7447-bd3f-e5e996e940ef"}

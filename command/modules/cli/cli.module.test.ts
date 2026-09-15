@@ -9,10 +9,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { outsideOf, saidOf, unclassifying } from "akasha/command/modules/cli/cli.module.code.ts"
 import { COMMAND_TYPE_AT } from "akasha/command/modules/cli/cli.module.test-fixtures.ts"
-import {
-  CLAUDE_AUTHOR,
-  forgetCommitAuthor,
-} from "akasha/command/modules/commit-author/commit-author.module.code.ts"
+import { CLAUDE_AUTHOR } from "akasha/command/modules/commit-author/commit-author.module.code.ts"
 import { MARKED } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   idFiled,
@@ -43,7 +40,6 @@ test("the root a call is answered against is the one rooting reads", () => {
 })
 
 test("the writer a call carries is the one commit-author answers", () => {
-  forgetCommitAuthor()
   expect(outsideOf({}, AT, "/nowhere").writer).toBe(CLAUDE_AUTHOR)
 })
 

@@ -36,30 +36,19 @@ function defaultPersona(): string | null {
   return null
 }
 
-let answered: string | null = null
-
 function commitAuthor(env: Readonly<Record<string, string | undefined>> = process.env): string {
-  if (answered !== null) return answered
-  let found = CLAUDE_AUTHOR
   try {
     const writer = writerIn(env)
     const persona = writer === null ? null : personaOf(writer)
-    found =
-      persona === null || persona === defaultPersona()
-        ? CLAUDE_AUTHOR
-        : (personaAuthor(persona) ?? CLAUDE_AUTHOR)
+    return persona === null || persona === defaultPersona()
+      ? CLAUDE_AUTHOR
+      : (personaAuthor(persona) ?? CLAUDE_AUTHOR)
   } catch {
-    found = CLAUDE_AUTHOR
+    return CLAUDE_AUTHOR
   }
-  answered = found
-  return found
 }
 
 export function authorIn(env: Readonly<Record<string, string | undefined>> = process.env): string {
   const said = env[WRITER_NAMED]
   return said === undefined || said === "" ? commitAuthor(env) : said
-}
-
-export function forgetCommitAuthor(): undefined {
-  answered = null
 }

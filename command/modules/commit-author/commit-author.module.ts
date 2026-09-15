@@ -42,7 +42,11 @@ export const commitAuthor = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The author is worked out once per process and held.",
+      statement: "The author is worked out afresh for the environment each call is handed.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "No author worked out is held for a later call.",
     },
     {
       invariantKind: "invariant-kind/departure",
