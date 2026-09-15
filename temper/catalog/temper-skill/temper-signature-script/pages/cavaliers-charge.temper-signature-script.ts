@@ -2,7 +2,7 @@ import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/t
 
 export const cavaliersCharge = {
   id: "019e46b5-7e2c-7b84-bfcc-0e3fa9d2091c",
-  type: "temper-signature-script",
+  type: "page-type/temper-signature-script",
   slug: "cavaliers-charge",
   title: "Cavalier's Charge",
   key: "cavaliers-charge",

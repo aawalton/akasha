@@ -2,7 +2,7 @@ import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/t
 
 export const growingImpact = {
   id: "019e46b5-7e2d-7b04-8acc-43125f0be8b1",
-  type: "temper-signature-script",
+  type: "page-type/temper-signature-script",
   slug: "growing-impact",
   title: "Growing Impact",
   key: "growing-impact",

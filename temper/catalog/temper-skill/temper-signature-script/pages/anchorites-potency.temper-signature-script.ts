@@ -2,7 +2,7 @@ import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/t
 
 export const anchoritesPotency = {
   id: "019e46b5-7e2a-7383-9635-98329a2b7f5e",
-  type: "temper-signature-script",
+  type: "page-type/temper-signature-script",
   slug: "anchorites-potency",
   title: "Anchorite's Potency",
   key: "anchorites-potency",

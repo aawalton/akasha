@@ -2,7 +2,7 @@ import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/t
 
 export const gladiatorsTenacity = {
   id: "019e46b5-7e29-75a4-ad22-f407c118491c",
-  type: "temper-signature-script",
+  type: "page-type/temper-signature-script",
   slug: "gladiators-tenacity",
   title: "Gladiator's Tenacity",
   key: "gladiators-tenacity",

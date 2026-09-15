@@ -2,7 +2,7 @@ import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/t
 
 export const sagesRemedy = {
   id: "019e46b5-7e22-76ed-81aa-790f2c92ce84",
-  type: "temper-signature-script",
+  type: "page-type/temper-signature-script",
   slug: "sages-remedy",
   title: "Sage's Remedy",
   key: "sages-remedy",

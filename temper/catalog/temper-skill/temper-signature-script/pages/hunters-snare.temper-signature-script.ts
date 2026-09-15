@@ -2,7 +2,7 @@ import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/t
 
 export const huntersSnare = {
   id: "019e46b5-7e17-787b-94be-90ec9a26117e",
-  type: "temper-signature-script",
+  type: "page-type/temper-signature-script",
   slug: "hunters-snare",
   title: "Hunter's Snare",
   key: "hunters-snare",

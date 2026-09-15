@@ -2,7 +2,7 @@ import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/t
 
 export const lingeringTorment = {
   id: "019e46b5-7e15-770d-b8e9-89f6c542eef5",
-  type: "temper-signature-script",
+  type: "page-type/temper-signature-script",
   slug: "lingering-torment",
   title: "Lingering Torment",
   key: "lingering-torment",
