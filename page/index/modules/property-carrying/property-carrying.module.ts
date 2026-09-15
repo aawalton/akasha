@@ -20,7 +20,7 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Which page types declare a property is one read of the index.",
+      statement: "Which page types declare a property is one read beside that property's page.",
     },
     {
       invariantKind: "invariant-kind/departure",

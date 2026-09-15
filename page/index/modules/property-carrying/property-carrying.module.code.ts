@@ -3,7 +3,6 @@ import { basename, dirname, join } from "node:path"
 import { shapeOf } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import {
   everyOfType,
-  idsNaming,
   listedAt,
   listedById,
   readingIn,
@@ -17,6 +16,7 @@ import {
   partedIn,
   sectionedIn,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 
