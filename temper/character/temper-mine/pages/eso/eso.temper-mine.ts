@@ -2,7 +2,7 @@ import type { TemperMine } from "akasha/temper/character/temper-mine/temper-mine
 
 export const eso = {
   id: "01a01d1a-a9eb-7000-aece-4fc7f8d2be92",
-  type: "temper-mine",
+  type: "page-type/temper-mine",
   slug: "eso",
   title: "ESO",
   items: "jsonl",
