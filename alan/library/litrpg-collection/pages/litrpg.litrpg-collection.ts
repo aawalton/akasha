@@ -2,7 +2,7 @@ import type { LitrpgCollection } from "akasha/alan/library/litrpg-collection/lit
 
 export const litrpg = {
   id: "01a06808-9b5c-7000-ad54-37fb2efd87af",
-  type: "litrpg-collection",
+  type: "page-type/litrpg-collection",
   slug: "litrpg",
   title: "LitRPG",
   position: 0,
