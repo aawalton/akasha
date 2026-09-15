@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const canListAtGuildTrader = {
   id: "01a07209-6b50-741e-bf48-d5097bae1d03",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "can-list-at-guild-trader",
   title: "Can List At Guild Trader",
   key: "canListAtGuildTrader",

@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const qualityOp = {
   id: "01a07209-6b52-73e1-8146-199bac987c98",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "quality-op",
   title: "Quality Comparison",
   key: "qualityOp",

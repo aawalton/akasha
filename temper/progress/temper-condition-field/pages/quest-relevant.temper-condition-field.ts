@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const questRelevant = {
   id: "01a07209-6b52-7d14-ae71-270876892ccc",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "quest-relevant",
   title: "Quest Relevant",
   key: "questRelevant",

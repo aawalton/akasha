@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const maxQuality = {
   id: "01a07209-6b52-7d21-881a-8dfea4e1e1ac",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "max-quality",
   title: "Max Quality",
   key: "maxQuality",

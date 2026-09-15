@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const stockThreshold = {
   id: "01a07209-6b53-7b82-a04a-06279f6e58f0",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "stock-threshold",
   title: "Stock Threshold",
   key: "stockThreshold",

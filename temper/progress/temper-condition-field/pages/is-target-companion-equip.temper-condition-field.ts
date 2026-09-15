@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const isTargetCompanionEquip = {
   id: "01a07209-6b51-7ed7-b1f4-bf281d0c584d",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "is-target-companion-equip",
   title: "Target Companion Equipment",
   key: "isTargetCompanionEquip",

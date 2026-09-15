@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const stackFullness = {
   id: "01a07209-6b53-718d-9f85-b9e62d85b39d",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "stack-fullness",
   title: "Stack Fullness",
   key: "stackFullness",

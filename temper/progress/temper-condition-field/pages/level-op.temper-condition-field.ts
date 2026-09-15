@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const levelOp = {
   id: "01a07209-6b51-7d3a-8a59-0486cf4064e2",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "level-op",
   title: "Level Comparison",
   key: "levelOp",

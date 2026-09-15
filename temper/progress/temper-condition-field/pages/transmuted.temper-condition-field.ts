@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const transmuted = {
   id: "01a07209-6b53-75c2-b772-5772cebcdd26",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "transmuted",
   title: "Transmuted",
   key: "transmuted",

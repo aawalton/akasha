@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const canInspire = {
   id: "01a07209-6b50-7b62-878d-1019c1380dd7",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "can-inspire",
   title: "Can Inspire",
   key: "canInspire",

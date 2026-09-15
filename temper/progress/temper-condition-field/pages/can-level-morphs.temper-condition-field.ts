@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const canLevelMorphs = {
   id: "01a07209-6b50-714b-a5c1-cce39abe7406",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "can-level-morphs",
   title: "Can Level Morphs",
   key: "canLevelMorphs",

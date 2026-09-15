@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const bound = {
   id: "01a07209-6b4f-744d-b9df-baed60794cad",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "bound",
   title: "Bound",
   key: "bound",

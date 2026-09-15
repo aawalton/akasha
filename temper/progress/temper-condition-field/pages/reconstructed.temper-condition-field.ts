@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const reconstructed = {
   id: "01a07209-6b52-762e-b29d-4e544f4a7836",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "reconstructed",
   title: "Reconstructed",
   key: "reconstructed",

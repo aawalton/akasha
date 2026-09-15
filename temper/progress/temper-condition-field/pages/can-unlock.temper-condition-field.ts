@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const canUnlock = {
   id: "01a07209-6b50-75e6-813e-65439000ea7d",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "can-unlock",
   title: "Can Unlock",
   key: "canUnlock",

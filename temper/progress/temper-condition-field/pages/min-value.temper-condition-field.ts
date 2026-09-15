@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const minValue = {
   id: "01a07209-6b52-7b71-b676-74e1a6ecc1f3",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "min-value",
   title: "Min Value",
   key: "minValue",

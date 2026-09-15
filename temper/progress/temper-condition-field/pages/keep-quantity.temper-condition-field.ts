@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const keepQuantity = {
   id: "01a07209-6b51-795a-b1ac-3a82ccdac7c2",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "keep-quantity",
   title: "Keep Quantity",
   key: "keepQuantity",

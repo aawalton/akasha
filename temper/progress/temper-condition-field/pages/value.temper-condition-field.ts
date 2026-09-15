@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const value = {
   id: "01a07209-6b53-7b81-b228-d512eb706d55",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "value",
   title: "Value",
   key: "value",

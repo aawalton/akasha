@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const keepFloor = {
   id: "01a07209-6b51-793a-af55-2d7be0fc2b64",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "keep-floor",
   title: "Keep Floor",
   key: "keepFloor",

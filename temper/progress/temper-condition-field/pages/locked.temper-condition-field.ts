@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const locked = {
   id: "01a07209-6b51-7d08-96a3-0a7e0f11b81a",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "locked",
   title: "Locked",
   key: "locked",

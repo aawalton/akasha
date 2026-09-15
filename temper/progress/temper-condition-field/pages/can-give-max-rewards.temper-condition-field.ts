@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const canGiveMaxRewards = {
   id: "01a07209-6b50-7e30-b768-87e61fc9590e",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "can-give-max-rewards",
   title: "Can Give Max Rewards",
   key: "canGiveMaxRewards",

@@ -2,7 +2,7 @@ import type { TemperConditionField } from "akasha/temper/progress/temper-conditi
 
 export const requiredSkillLines = {
   id: "01a07209-6b53-7de9-aa98-47c3e31b5c4e",
-  type: "temper-condition-field",
+  type: "page-type/temper-condition-field",
   slug: "required-skill-lines",
   title: "Required Skill Lines",
   key: "requiredSkillLines",
