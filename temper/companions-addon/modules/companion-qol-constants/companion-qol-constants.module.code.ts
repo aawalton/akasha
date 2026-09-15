@@ -1,8 +1,8 @@
 import "akasha/temper/addon-library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-09/eso-functions-09.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
 import { FCOCO } from "akasha/temper/companions-addon/modules/companion-qol-state/companion-qol-state.module.code.ts"
 import type {
   AddonVars,

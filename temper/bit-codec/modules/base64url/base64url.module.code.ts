@@ -1,5 +1,5 @@
-import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 
 const BASE64URL_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_"
 

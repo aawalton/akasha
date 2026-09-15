@@ -1,5 +1,5 @@
-import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 
 import { createCommandRegistry } from "akasha/temper/hud-addon/modules/hud-addon-command-registry/hud-addon-command-registry.module.code.ts"
 import type { TemperCommand } from "akasha/temper/hud-addon/modules/hud-addon-types/hud-addon-types.module.code.ts"

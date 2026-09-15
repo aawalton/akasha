@@ -1,5 +1,5 @@
-import "akasha/temper/eso-types/eso-event-manager/eso-event-manager.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/hud-addon/modules/hud-addon-public-api/hud-addon-public-api.module.code.ts"
 
 import { registerAddonInit } from "akasha/temper/addon-init/modules/addon-init/addon-init.module.code.ts"

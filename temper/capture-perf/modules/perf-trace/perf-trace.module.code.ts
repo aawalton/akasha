@@ -1,7 +1,7 @@
-import "akasha/temper/eso-types/eso-event-manager/eso-event-manager.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-events/eso-events.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
 import { isObjectRecord } from "akasha/util/narrow/modules/is-object-record/is-object-record.module.code.ts"
 
 export function startPerfTrace(): number {

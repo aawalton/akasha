@@ -1,4 +1,4 @@
-import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { CALLSTACK_MAX_LEN } from "akasha/temper/errors-addon/modules/errors-addon-limits/errors-addon-limits.module.code.ts"
 import { stringIn } from "akasha/util/narrow/modules/string-in/string-in.module.code.ts"
 

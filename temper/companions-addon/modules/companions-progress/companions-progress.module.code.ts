@@ -1,8 +1,8 @@
-import "akasha/temper/eso-types/eso-api/eso-api.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-04/eso-functions-04.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-05/eso-functions-05.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import {
   ensureCompanionEntry,
   type SavedCompanionEntry,

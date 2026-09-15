@@ -59,7 +59,7 @@ export const temper = {
     "domain/temper-errors-triage",
     "domain/temper-eso-declaration",
     "domain/temper-eso-path",
-    "domain/temper-eso-types",
+    "domain/temper-eso-type",
     "domain/temper-explain",
     "domain/temper-formula-framework",
     "domain/temper-game-catalog-capture-addon",

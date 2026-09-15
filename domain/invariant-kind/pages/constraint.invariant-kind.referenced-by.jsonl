@@ -754,8 +754,8 @@
 {"propertySlug":"invariant-kind","path":"temper/equipment/modules/weapon-traits/weapon-traits.module.ts","id":"01a0610f-45bb-7d20-aedf-7d954ebf2ec5"}
 {"propertySlug":"invariant-kind","path":"temper/errors-addon/modules/errors-addon-hooks/errors-addon-hooks.module.ts","id":"01a060d8-091a-7436-a0ac-00c5553d0e0b"}
 {"propertySlug":"invariant-kind","path":"temper/errors-addon/modules/errors-addon-limits/errors-addon-limits.module.ts","id":"01a060d8-0917-72f6-9712-2e34f6088161"}
-{"propertySlug":"invariant-kind","path":"temper/eso-types/eso-keybindings/eso-keybindings.type-declaration.ts","id":"01a06381-67c1-7c64-b1db-c19ebd0acd9e"}
-{"propertySlug":"invariant-kind","path":"temper/eso-types/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
+{"propertySlug":"invariant-kind","path":"temper/eso-type/eso-keybindings/eso-keybindings.type-declaration.ts","id":"01a06381-67c1-7c64-b1db-c19ebd0acd9e"}
+{"propertySlug":"invariant-kind","path":"temper/eso-type/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
 {"propertySlug":"invariant-kind","path":"temper/events-addon/modules/next-boss-constants/next-boss-constants.module.ts","id":"01a06157-8356-7a6f-9f7c-8822d3c91088"}
 {"propertySlug":"invariant-kind","path":"temper/events-addon/modules/next-boss-data/next-boss-data.module.ts","id":"01a06157-8358-771d-9755-608609075ff5"}
 {"propertySlug":"invariant-kind","path":"temper/events-addon/modules/next-boss-events/next-boss-events.module.ts","id":"01a06157-8359-7b61-8020-3f4072b058a7"}

@@ -1,8 +1,8 @@
-import "akasha/temper/eso-types/eso-api/eso-api.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-02/eso-functions-02.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import {
   asFcoSettings,
   asNumber,

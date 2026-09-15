@@ -1,7 +1,7 @@
-import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-09/eso-functions-09.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-10/eso-functions-10.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
 
 import type { AntiquityLoreCatalogEntry } from "akasha/temper/capture-shape/modules/antiquity-lore-catalog/antiquity-lore-catalog.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog-core/modules/domain-registry/domain-registry.module.code.ts"

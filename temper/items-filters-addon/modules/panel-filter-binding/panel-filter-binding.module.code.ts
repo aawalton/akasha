@@ -1,5 +1,5 @@
-import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-inventory/eso-inventory.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-inventory/eso-inventory.type-declaration.d.ts"
 import type { ActiveFilterValues } from "akasha/temper/items-filters-core/modules/search-filter-set/search-filter-set.module.code.ts"
 import { itemPassesFilters } from "akasha/temper/items-filters-core/modules/search-filter-set/search-filter-set.module.code.ts"
 import type {

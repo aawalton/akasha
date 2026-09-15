@@ -1,7 +1,7 @@
-import "akasha/temper/eso-types/eso-enums-15/eso-enums-15.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-event-manager/eso-event-manager.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-events/eso-events.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-enums-15/eso-enums-15.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import { ADDON_NAME } from "akasha/temper/trading-addon/modules/trading-constants/trading-constants.module.code.ts"
 
 export interface SkipKioskDialog {

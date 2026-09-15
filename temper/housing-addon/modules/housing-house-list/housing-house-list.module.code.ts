@@ -1,9 +1,9 @@
-import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import {
   getPtfSavedVars,
   portToFriend,

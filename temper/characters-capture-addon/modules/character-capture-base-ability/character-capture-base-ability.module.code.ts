@@ -1,5 +1,5 @@
-import "akasha/temper/eso-types/eso-enums-04/eso-enums-04.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-enums-04/eso-enums-04.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 export function getBaseAbilityId(abilityId: number): number {
   if (abilityId === 0) return 0
 

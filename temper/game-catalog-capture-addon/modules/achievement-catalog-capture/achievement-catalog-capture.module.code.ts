@@ -1,7 +1,7 @@
-import "akasha/temper/eso-types/eso-api-2/eso-api-2.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-05/eso-functions-05.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-09/eso-functions-09.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
 
 import type { AchievementCatalogData } from "akasha/temper/capture-shape/modules/achievement-catalog/achievement-catalog.module.code.ts"
 import { runBatched } from "akasha/temper/capture-writer/modules/run-batched/run-batched.module.code.ts"

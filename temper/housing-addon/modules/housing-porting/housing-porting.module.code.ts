@@ -1,10 +1,10 @@
-import "akasha/temper/eso-types/eso-extra/eso-extra.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-02/eso-functions-02.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-functions-09/eso-functions-09.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-extra/eso-extra.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { portToFriend } from "akasha/temper/housing-addon/modules/housing-state/housing-state.module.code.ts"
 
 interface EditboxControl {

@@ -1,5 +1,5 @@
-import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/addon-library-type/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 import { initializeSavedVariables } from "akasha/temper/events-addon/modules/next-boss-saved-variables/next-boss-saved-variables.module.code.ts"

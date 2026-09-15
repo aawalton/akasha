@@ -1,4 +1,4 @@
-import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso-type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 import { registerHudField } from "akasha/temper/hud-addon/modules/hud-addon-bar/hud-addon-bar.module.code.ts"
 import {
