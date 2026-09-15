@@ -8,7 +8,7 @@ export const DATA = "data"
 
 export const HANDOFF = "harness-push"
 
-export const INDEXES = "index"
+export const INDEXES = "indexes"
 
 export const TREES = "trees"
 
