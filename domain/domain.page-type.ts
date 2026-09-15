@@ -7,7 +7,7 @@ export const domain = {
     "build-folder-property/output-directory",
     "code-file-property/tunnel-routes",
     "domain/context",
-    "domain/domain-champions",
+    "domain/domain-champion",
     "domain/domain-parent",
     "domain/domain-purpose",
     "domain/plain-language",
