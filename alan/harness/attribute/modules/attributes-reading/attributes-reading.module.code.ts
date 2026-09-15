@@ -29,7 +29,7 @@ import {
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 
-const READOUTS = "alan/attribute/readouts"
+const READOUTS = "alan/attribute/readout"
 
 export const STRENGTH_PAGE = `${READOUTS}/attribute-strength/attribute-strength.readout.ts`
 
