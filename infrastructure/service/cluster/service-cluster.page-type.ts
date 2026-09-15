@@ -41,7 +41,7 @@ export const serviceCluster = {
     "service-cluster/loki",
     "service-cluster/node-exporter-daemonset",
     "service-cluster/nvidia-device-plugin",
-    "service-cluster/page-store",
+    "service-cluster/page-forwarder",
     "service-cluster/pgbouncer",
     "service-cluster/pgbouncer-exporter",
     "service-cluster/pod-janitor",

@@ -1,9 +1,9 @@
 import type { ServiceCluster } from "akasha/infrastructure/service/cluster/service-cluster.page-type.types.ts"
 
-export const pageStore = {
+export const pageForwarder = {
   id: "01a05aba-55cb-7696-8110-a428e8ffd3f2",
   type: "service-cluster",
-  slug: "page-store",
+  slug: "page-forwarder",
   definition: "the forwarder that carries a pod's page request to the workstation",
   resourceKind: "Deployment",
   namespace: "page-store",
