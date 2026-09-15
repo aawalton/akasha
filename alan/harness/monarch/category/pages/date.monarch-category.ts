@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const date = {
   id: "01a06559-5ea8-7021-80ad-c01a7ccfd34a",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "date",
   title: "Date",
   definition: "money Alan and Jenny spent going out together",

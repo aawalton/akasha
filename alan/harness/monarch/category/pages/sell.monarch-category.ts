@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const sell = {
   id: "01a06559-5ea9-7002-9375-2b928c0bc97e",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "sell",
   title: "Sell",
   definition: "money arriving in cash from selling an investment",

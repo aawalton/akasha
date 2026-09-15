@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const dividendsAndCapitalGains = {
   id: "01a06559-5ea8-7022-91fc-a1170aeaa879",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "dividends-and-capital-gains",
   title: "Dividends & Capital Gains",
   definition: "money the family's investments paid out",

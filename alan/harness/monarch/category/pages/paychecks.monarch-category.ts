@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const paychecks = {
   id: "01a06559-5ea8-7044-83bb-5e8c3902605c",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "paychecks",
   title: "Paychecks",
   definition: "money arriving as wages",

@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const christmas = {
   id: "01a06559-5ea8-7020-a785-61a0a4563ff1",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "christmas",
   title: "Christmas",
   definition: "money spent on Christmas",

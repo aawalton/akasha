@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const medical = {
   id: "01a06559-5ea8-7041-89eb-b50e5a719503",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "medical",
   title: "Medical",
   definition: "money spent on the family's health care",

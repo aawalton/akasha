@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const jennysTravel = {
   id: "01a06559-5ea8-702f-a3ae-a42561cff67f",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "jennys-travel",
   title: "Jenny's Travel",
   definition: "money Jenny spent travelling on her own",

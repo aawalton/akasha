@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const lizzysShortTerm = {
   id: "01a06559-5ea8-703e-a4e2-3994777c9c90",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "lizzys-short-term",
   title: "Lizzy's Short-term",
   definition: "money Lizzy is putting by for something soon",

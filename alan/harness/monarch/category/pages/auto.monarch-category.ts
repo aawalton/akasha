@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const auto = {
   id: "01a06559-5ea8-701d-97bb-2bb412292b8e",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "auto",
   title: "Auto",
   definition: "money spent keeping the family's cars running",

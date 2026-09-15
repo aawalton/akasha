@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const mortgage = {
   id: "01a06559-5ea8-7042-928f-c5e0448f995e",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "mortgage",
   title: "Mortgage",
   definition: "the payment the family makes on its house",

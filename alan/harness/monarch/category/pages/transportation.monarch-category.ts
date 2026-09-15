@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const transportation = {
   id: "01a06559-5ea9-7006-b3de-e2a0c24779f5",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "transportation",
   title: "Transportation",
   definition: "money spent getting somewhere other than in the family's own cars",

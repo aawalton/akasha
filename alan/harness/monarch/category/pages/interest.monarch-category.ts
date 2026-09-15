@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const interest = {
   id: "01a06559-5ea8-702a-8cd9-e6ff592d422f",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "interest",
   title: "Interest",
   definition: "money the family's balances earned by sitting there",

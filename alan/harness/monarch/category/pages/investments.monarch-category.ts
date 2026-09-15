@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const investments = {
   id: "01a06559-5ea8-702b-866f-8f1d883bb8e6",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "investments",
   title: "Investments",
   definition: "money moving into or out of an investment account",

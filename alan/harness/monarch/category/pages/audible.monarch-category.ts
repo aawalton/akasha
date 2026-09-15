@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const audible = {
   id: "01a06559-5ea8-701c-81e5-7d6889f77568",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "audible",
   title: "Audible",
   definition: "money spent on Audible",

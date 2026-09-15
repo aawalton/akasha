@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const alansAiPhd = {
   id: "01a07036-d70f-7000-9ff4-8497b4fd7db0",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "alans-ai-phd",
   title: "Alan's AI PhD",
   definition: "money counted as Alan's AI PhD.",

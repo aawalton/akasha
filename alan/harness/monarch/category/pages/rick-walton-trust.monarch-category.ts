@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const rickWaltonTrust = {
   id: "01a06559-5ea9-7000-ad4c-bd87646ecf0d",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "rick-walton-trust",
   title: "Rick Walton Trust",
   definition: "money moving under the Rick Walton Trust",

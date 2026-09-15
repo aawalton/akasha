@@ -2,7 +2,7 @@ import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monar
 
 export const doingGood = {
   id: "01a06559-5ea8-7023-b499-5ca764e98442",
-  type: "monarch-category",
+  type: "page-type/monarch-category",
   slug: "doing-good",
   title: "Doing Good",
   definition: "money the family gives away",
