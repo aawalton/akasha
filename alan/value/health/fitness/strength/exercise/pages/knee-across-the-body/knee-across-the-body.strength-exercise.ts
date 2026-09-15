@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kneeAcrossTheBody = {
   id: "019ebc77-872e-7403-9aa8-107aeb9f8c87",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "knee-across-the-body",
   title: "Knee Across The Body",
   exerciseCategory: "stretching",

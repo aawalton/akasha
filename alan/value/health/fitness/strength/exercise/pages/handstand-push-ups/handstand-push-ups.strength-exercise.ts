@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const handstandPushUps = {
   id: "019ebc77-4c14-70eb-bd42-6db356444cf9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "handstand-push-ups",
   title: "Handstand Push-Ups",
   exerciseCategory: "strength",

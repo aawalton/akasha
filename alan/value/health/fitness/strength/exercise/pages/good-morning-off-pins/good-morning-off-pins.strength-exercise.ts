@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const goodMorningOffPins = {
   id: "019ebc77-49fd-75af-8727-b63cd664d539",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "good-morning-off-pins",
   title: "Good Morning off Pins",
   exerciseCategory: "powerlifting",

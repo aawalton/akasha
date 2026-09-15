@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const ellipticalTrainer = {
   id: "019ebc77-2f15-71a4-ba2b-d4e05aca2d85",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "elliptical-trainer",
   title: "Elliptical Trainer",
   exerciseCategory: "cardio",

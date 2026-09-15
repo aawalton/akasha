@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const hyperextensionsBackExtensions = {
   id: "019ebc77-77c7-7504-833a-5d82cd7b1228",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "hyperextensions-back-extensions",
   title: "Hyperextensions (Back Extensions)",
   exerciseCategory: "strength",

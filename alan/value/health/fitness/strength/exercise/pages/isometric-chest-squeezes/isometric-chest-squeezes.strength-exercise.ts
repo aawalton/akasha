@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const isometricChestSqueezes = {
   id: "019ebc77-805b-764d-8a6f-11fdb4ea6dcd",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "isometric-chest-squeezes",
   title: "Isometric Chest Squeezes",
   exerciseCategory: "plyometrics",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const declineEzBarTricepsExtension = {
   id: "019ebc76-efa6-78fb-b2ae-5f52b1f5083c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "decline-ez-bar-triceps-extension",
   title: "Decline EZ Bar Triceps Extension",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const hamstringSmr = {
   id: "019ebc77-4ba1-70d6-a3ad-67d032364f73",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "hamstring-smr",
   title: "Hamstring-SMR",
   exerciseCategory: "stretching",

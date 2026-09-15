@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dumbbellShrug = {
   id: "019ebc77-2a66-7b88-a3aa-73981a9d4173",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dumbbell-shrug",
   title: "Dumbbell Shrug",
   exerciseCategory: "strength",

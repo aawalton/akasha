@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dumbbellShoulderPress = {
   id: "019ebc77-2a25-72a8-81a7-992961bf361b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dumbbell-shoulder-press",
   title: "Dumbbell Shoulder Press",
   exerciseCategory: "strength",

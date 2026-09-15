@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dumbbellBenchPressWithNeutralGrip = {
   id: "019ebc77-0777-799e-ab1e-33efb76ac2b6",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dumbbell-bench-press-with-neutral-grip",
   title: "Dumbbell Bench Press with Neutral Grip",
   exerciseCategory: "strength",

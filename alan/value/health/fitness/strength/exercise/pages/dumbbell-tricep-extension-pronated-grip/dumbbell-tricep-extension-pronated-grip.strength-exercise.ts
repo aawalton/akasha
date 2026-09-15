@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dumbbellTricepExtensionPronatedGrip = {
   id: "019ebc77-2bcd-7464-8599-0eb2600f3852",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dumbbell-tricep-extension-pronated-grip",
   title: "Dumbbell Tricep Extension -Pronated Grip",
   exerciseCategory: "strength",

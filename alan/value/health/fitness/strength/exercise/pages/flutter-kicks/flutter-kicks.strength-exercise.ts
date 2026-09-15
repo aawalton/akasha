@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const flutterKicks = {
   id: "019ebc77-3ee3-78b3-aad4-812d206ed81e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "flutter-kicks",
   title: "Flutter Kicks",
   exerciseCategory: "strength",

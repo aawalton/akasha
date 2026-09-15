@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const fastSkipping = {
   id: "019ebc77-3902-7766-a0f5-4116cab8cd70",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "fast-skipping",
   title: "Fast Skipping",
   exerciseCategory: "plyometrics",

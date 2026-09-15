@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const frontSquatsWithTwoKettlebells = {
   id: "019ebc77-43c9-7f4e-9ed2-50af191a1c1e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "front-squats-with-two-kettlebells",
   title: "Front Squats With Two Kettlebells",
   exerciseCategory: "strength",

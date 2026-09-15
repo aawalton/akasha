@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const frontInclineDumbbellRaise = {
   id: "019ebc77-4277-74ca-865e-542809d54f96",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "front-incline-dumbbell-raise",
   title: "Front Incline Dumbbell Raise",
   exerciseCategory: "strength",

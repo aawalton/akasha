@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kneelingArmDrill = {
   id: "019ebc77-882a-773e-b217-d34d5999e2db",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "kneeling-arm-drill",
   title: "Kneeling Arm Drill",
   exerciseCategory: "plyometrics",

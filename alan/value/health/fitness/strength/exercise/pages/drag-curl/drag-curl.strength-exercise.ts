@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dragCurl = {
   id: "019ebc77-014a-76ea-bec1-0b3e256ef574",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "drag-curl",
   title: "Drag Curl",
   exerciseCategory: "strength",

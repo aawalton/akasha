@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const jerkDipSquat = {
   id: "019ebc77-8291-7cfb-ba66-81477485e9ed",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "jerk-dip-squat",
   title: "Jerk Dip Squat",
   exerciseCategory: "olympic-weightlifting",

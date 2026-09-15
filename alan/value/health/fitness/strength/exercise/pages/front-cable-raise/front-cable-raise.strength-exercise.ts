@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const frontCableRaise = {
   id: "019ebc77-419a-7ae9-a564-41f4b57c1d1b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "front-cable-raise",
   title: "Front Cable Raise",
   exerciseCategory: "strength",

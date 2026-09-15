@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const inclinePushUpDepthJump = {
   id: "019ebc77-7db0-7bbe-b479-601437feba14",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "incline-push-up-depth-jump",
   title: "Incline Push-Up Depth Jump",
   exerciseCategory: "plyometrics",

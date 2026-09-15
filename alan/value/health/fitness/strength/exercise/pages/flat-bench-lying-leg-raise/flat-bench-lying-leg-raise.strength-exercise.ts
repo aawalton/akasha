@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const flatBenchLyingLegRaise = {
   id: "019ebc77-3b0d-7435-b56f-79305a4f017c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "flat-bench-lying-leg-raise",
   title: "Flat Bench Lying Leg Raise",
   exerciseCategory: "strength",

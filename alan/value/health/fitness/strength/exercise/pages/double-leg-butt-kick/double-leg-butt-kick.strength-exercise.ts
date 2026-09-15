@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const doubleLegButtKick = {
   id: "019ebc77-00cf-78cc-b505-68933a0d014b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "double-leg-butt-kick",
   title: "Double Leg Butt Kick",
   exerciseCategory: "plyometrics",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dropPush = {
   id: "019ebc77-018b-7919-ba80-3e515b25bc21",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "drop-push",
   title: "Drop Push",
   exerciseCategory: "plyometrics",

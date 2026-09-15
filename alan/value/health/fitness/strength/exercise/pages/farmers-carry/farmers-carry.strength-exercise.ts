@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const farmersCarry = {
   id: "019f9756-bc83-70d9-ba56-e058e5c61d46",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "farmers-carry",
   title: "Farmer's Carry",
   exerciseCategory: "strength",

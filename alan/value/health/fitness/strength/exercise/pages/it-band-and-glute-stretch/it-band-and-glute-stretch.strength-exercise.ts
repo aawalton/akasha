@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const itBandAndGluteStretch = {
   id: "019ebc77-783e-71e3-948c-4214d5848ab4",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "it-band-and-glute-stretch",
   title: "IT Band and Glute Stretch",
   exerciseCategory: "stretching",

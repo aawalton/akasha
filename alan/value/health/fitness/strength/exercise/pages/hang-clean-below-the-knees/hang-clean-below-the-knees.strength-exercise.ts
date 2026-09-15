@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const hangCleanBelowTheKnees = {
   id: "019ebc77-4c84-7177-829d-daf004540892",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "hang-clean-below-the-knees",
   title: "Hang Clean - Below the Knees",
   exerciseCategory: "olympic-weightlifting",

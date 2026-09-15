@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kettlebellTurkishGetUpSquatStyle = {
   id: "019ebc77-866d-7238-8d91-8d2e35f64152",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "kettlebell-turkish-get-up-squat-style",
   title: "Kettlebell Turkish Get-Up (Squat style)",
   exerciseCategory: "strength",

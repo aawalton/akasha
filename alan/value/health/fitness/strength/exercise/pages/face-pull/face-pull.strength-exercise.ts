@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const facePull = {
   id: "019ebc77-3801-72b9-bb28-48bb13993894",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "face-pull",
   title: "Face Pull",
   exerciseCategory: "strength",

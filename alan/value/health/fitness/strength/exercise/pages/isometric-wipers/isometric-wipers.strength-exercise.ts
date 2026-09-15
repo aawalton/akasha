@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const isometricWipers = {
   id: "019ebc77-811b-7f5a-bfa1-e770cf3f0c21",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "isometric-wipers",
   title: "Isometric Wipers",
   exerciseCategory: "strength",

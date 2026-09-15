@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const ezBarSkullcrusher = {
   id: "019ebc77-2d2d-70d4-9355-6a5c66bdc131",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "ez-bar-skullcrusher",
   title: "EZ-Bar Skullcrusher",
   exerciseCategory: "strength",

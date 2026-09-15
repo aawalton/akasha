@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const footSmr = {
   id: "019ebc77-3f2a-795c-b36b-0497be3edda3",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "foot-smr",
   title: "Foot-SMR",
   exerciseCategory: "stretching",

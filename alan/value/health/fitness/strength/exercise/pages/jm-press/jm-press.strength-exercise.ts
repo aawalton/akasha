@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const jmPress = {
   id: "019ebc77-815c-72ea-8c22-b247c30c6abd",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "jm-press",
   title: "JM Press",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const inclineBenchPull = {
   id: "019ebc77-792b-7b5a-8291-44ed22e75c20",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "incline-bench-pull",
   title: "Incline Bench Pull",
   exerciseCategory: "strength",

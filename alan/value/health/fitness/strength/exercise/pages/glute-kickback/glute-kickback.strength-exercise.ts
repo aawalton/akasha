@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const gluteKickback = {
   id: "019ebc77-450e-7a97-935b-9d93c3729f53",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "glute-kickback",
   title: "Glute Kickback",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const declineDumbbellTricepsExtension = {
   id: "019ebc76-ef6b-79fa-b1f6-9fd136d3eaa0",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "decline-dumbbell-triceps-extension",
   title: "Decline Dumbbell Triceps Extension",
   exerciseCategory: "strength",

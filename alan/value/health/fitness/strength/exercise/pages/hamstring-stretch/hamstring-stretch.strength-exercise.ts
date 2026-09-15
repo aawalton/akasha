@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const hamstringStretch = {
   id: "019ebc77-4bdb-7075-8ab7-c338f3349cf9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "hamstring-stretch",
   title: "Hamstring Stretch",
   exerciseCategory: "stretching",

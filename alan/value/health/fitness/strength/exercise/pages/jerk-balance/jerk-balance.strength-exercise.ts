@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const jerkBalance = {
   id: "019ebc77-8253-74bd-af14-5da2c5147561",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "jerk-balance",
   title: "Jerk Balance",
   exerciseCategory: "olympic-weightlifting",

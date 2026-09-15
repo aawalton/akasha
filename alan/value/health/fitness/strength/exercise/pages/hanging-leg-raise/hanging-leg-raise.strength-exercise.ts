@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const hangingLegRaise = {
   id: "019ebc77-56aa-791f-bf06-3746864cb3d9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "hanging-leg-raise",
   title: "Hanging Leg Raise",
   exerciseCategory: "strength",

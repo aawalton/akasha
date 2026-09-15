@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dumbbellSquat = {
   id: "019ebc77-2ae3-7d25-a1c5-f7f6136fef71",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dumbbell-squat",
   title: "Dumbbell Squat",
   exerciseCategory: "strength",

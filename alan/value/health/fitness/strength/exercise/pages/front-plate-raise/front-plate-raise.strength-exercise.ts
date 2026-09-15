@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const frontPlateRaise = {
   id: "019ebc77-42ff-7015-ab36-e2529c8de993",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "front-plate-raise",
   title: "Front Plate Raise",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const groiners = {
   id: "019ebc77-4ab3-7194-b9b1-07448eef4e35",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "groiners",
   title: "Groiners",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kneeCircles = {
   id: "019ebc77-876f-750b-b1ec-08c63b355db9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "knee-circles",
   title: "Knee Circles",
   exerciseCategory: "stretching",

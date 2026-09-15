@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const joggingTreadmill = {
   id: "019ebc77-82ce-7dd5-850a-4c5e2ce2fdb8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "jogging-treadmill",
   title: "Jogging, Treadmill",
   exerciseCategory: "cardio",

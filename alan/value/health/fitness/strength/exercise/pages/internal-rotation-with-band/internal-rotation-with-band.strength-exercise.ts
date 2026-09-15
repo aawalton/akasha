@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const internalRotationWithBand = {
   id: "019ebc77-7f25-782a-9007-489893e8639a",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "internal-rotation-with-band",
   title: "Internal Rotation with Band",
   exerciseCategory: "strength",

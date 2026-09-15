@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const inchworm = {
   id: "019ebc77-78ae-76b9-af0d-4628a559d2b3",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "inchworm",
   title: "Inchworm",
   exerciseCategory: "stretching",

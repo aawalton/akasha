@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const gobletReverseLunge = {
   id: "019ee5f7-b4e3-7f64-bd62-3015a2f149bb",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "goblet-reverse-lunge",
   title: "Goblet Reverse Lunge",
   exerciseCategory: "strength",

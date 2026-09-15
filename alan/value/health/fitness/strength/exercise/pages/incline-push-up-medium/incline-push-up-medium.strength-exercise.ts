@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const inclinePushUpMedium = {
   id: "019ebc77-7def-7601-bf2e-fb56efccce2b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "incline-push-up-medium",
   title: "Incline Push-Up Medium",
   exerciseCategory: "strength",

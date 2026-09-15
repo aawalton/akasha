@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const elbowsBack = {
   id: "019ebc77-2e4c-77db-a870-3dd135dc4ddf",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "elbows-back",
   title: "Elbows Back",
   exerciseCategory: "stretching",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const frogSitUps = {
   id: "019ebc77-4082-748d-8a2a-f6e87863e6f5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "frog-sit-ups",
   title: "Frog Sit-Ups",
   exerciseCategory: "strength",

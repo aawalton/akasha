@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const inclineBarbellTricepsExtension = {
   id: "019ebc77-78eb-70bc-9911-aa4c428e71b5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "incline-barbell-triceps-extension",
   title: "Incline Barbell Triceps Extension",
   exerciseCategory: "strength",

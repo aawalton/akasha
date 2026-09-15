@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const hammerGripInclineDbBenchPress = {
   id: "019ebc77-4b66-7fa5-81fb-327e41f9aa37",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "hammer-grip-incline-db-bench-press",
   title: "Hammer Grip Incline DB Bench Press",
   exerciseCategory: "strength",

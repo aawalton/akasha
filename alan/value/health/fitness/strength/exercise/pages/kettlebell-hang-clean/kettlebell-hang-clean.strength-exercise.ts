@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kettlebellHangClean = {
   id: "019ebc77-83fc-775e-afdf-b97f13e7ed65",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "kettlebell-hang-clean",
   title: "Kettlebell Hang Clean",
   exerciseCategory: "strength",

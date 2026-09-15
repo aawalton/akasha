@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const inclinePushUpReverseGrip = {
   id: "019ebc77-7e31-7cfb-ac78-b19e08fa09b5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "incline-push-up-reverse-grip",
   title: "Incline Push-Up Reverse Grip",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const elevatedBackLunge = {
   id: "019ebc77-2e8d-7595-b9eb-887f5df5ec39",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "elevated-back-lunge",
   title: "Elevated Back Lunge",
   exerciseCategory: "strength",

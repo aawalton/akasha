@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const isometricNeckExerciseFrontAndBack = {
   id: "019ebc77-809b-7ed8-a1f9-4506d4b0459e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "isometric-neck-exercise-front-and-back",
   title: "Isometric Neck Exercise - Front And Back",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const freehandJumpSquat = {
   id: "019ebc77-4000-7410-ae20-3a32080302bf",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "freehand-jump-squat",
   title: "Freehand Jump Squat",
   exerciseCategory: "strength",

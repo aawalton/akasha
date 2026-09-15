@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const forwardDragWithPress = {
   id: "019ebc77-3f71-7716-8a63-c7acf8124e97",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "forward-drag-with-press",
   title: "Forward Drag with Press",
   exerciseCategory: "strongman",

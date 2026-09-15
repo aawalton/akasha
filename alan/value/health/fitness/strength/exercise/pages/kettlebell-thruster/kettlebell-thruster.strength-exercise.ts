@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kettlebellThruster = {
   id: "019ebc77-85de-700e-a3ed-04befb866f86",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "kettlebell-thruster",
   title: "Kettlebell Thruster",
   exerciseCategory: "strength",

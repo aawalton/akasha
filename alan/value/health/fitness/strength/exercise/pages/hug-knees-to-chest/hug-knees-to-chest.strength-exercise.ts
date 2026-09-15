@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const hugKneesToChest = {
   id: "019ebc77-76ff-7491-b195-1306694016e0",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "hug-knees-to-chest",
   title: "Hug Knees To Chest",
   exerciseCategory: "stretching",

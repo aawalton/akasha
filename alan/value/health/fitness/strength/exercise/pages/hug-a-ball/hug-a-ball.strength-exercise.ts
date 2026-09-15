@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const hugABall = {
   id: "019ebc77-76c3-74a4-ad4b-d956ff625132",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "hug-a-ball",
   title: "Hug A Ball",
   exerciseCategory: "stretching",

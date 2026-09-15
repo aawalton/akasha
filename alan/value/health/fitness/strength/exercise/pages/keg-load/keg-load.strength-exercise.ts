@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kegLoad = {
   id: "019ebc77-830b-7008-b401-174d96d004b4",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "keg-load",
   title: "Keg Load",
   exerciseCategory: "strongman",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const highKnees = {
   id: "019efbf8-3824-7a3a-8c76-4812dec0d528",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "high-knees",
   title: "High Knees",
   exerciseCategory: "cardio",

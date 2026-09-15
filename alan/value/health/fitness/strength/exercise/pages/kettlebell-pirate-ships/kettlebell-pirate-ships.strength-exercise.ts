@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kettlebellPirateShips = {
   id: "019ebc77-84b6-754f-abad-8ba6a900acb5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "kettlebell-pirate-ships",
   title: "Kettlebell Pirate Ships",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const hipLiftWithBand = {
   id: "019ebc77-7686-7945-9f68-3dbf683c8002",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "hip-lift-with-band",
   title: "Hip Lift with Band",
   exerciseCategory: "powerlifting",

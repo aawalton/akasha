@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const inclineInnerBicepsCurl = {
   id: "019ebc77-7b41-7117-a197-2a7caefac4f5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "incline-inner-biceps-curl",
   title: "Incline Inner Biceps Curl",
   exerciseCategory: "strength",

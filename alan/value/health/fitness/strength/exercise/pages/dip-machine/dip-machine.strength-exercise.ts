@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dipMachine = {
   id: "019ebc76-f157-75ca-97d7-74f1cedccad7",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dip-machine",
   title: "Dip Machine",
   exerciseCategory: "strength",

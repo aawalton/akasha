@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const hangingPike = {
   id: "019ebc77-74d5-7698-a139-4fc63806871e",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "hanging-pike",
   title: "Hanging Pike",
   exerciseCategory: "strength",

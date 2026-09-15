@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dumbbellLyingSupination = {
   id: "019ebc77-103b-717a-a872-d56b0d9ff155",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dumbbell-lying-supination",
   title: "Dumbbell Lying Supination",
   exerciseCategory: "strength",

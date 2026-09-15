@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dumbbellClean = {
   id: "019ebc77-0806-7e79-b34d-97f4785c6344",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dumbbell-clean",
   title: "Dumbbell Clean",
   exerciseCategory: "strength",

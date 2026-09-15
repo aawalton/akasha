@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const frontRaiseAndPullover = {
   id: "019ebc77-4343-7d85-a17d-c9f279d43be3",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "front-raise-and-pullover",
   title: "Front Raise And Pullover",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const donkeyCalfRaises = {
   id: "019ebc76-f206-7612-ad3b-18b3e97f6c0b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "donkey-calf-raises",
   title: "Donkey Calf Raises",
   exerciseCategory: "strength",

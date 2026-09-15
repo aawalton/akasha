@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const girondaSternumChins = {
   id: "019ebc77-4490-775f-8a33-6fe9790cb577",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "gironda-sternum-chins",
   title: "Gironda Sternum Chins",
   exerciseCategory: "strength",

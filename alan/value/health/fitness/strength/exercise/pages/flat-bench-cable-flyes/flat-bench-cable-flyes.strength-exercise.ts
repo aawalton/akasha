@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const flatBenchCableFlyes = {
   id: "019ebc77-397f-74ce-9f7e-e0c2c5d9dda4",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "flat-bench-cable-flyes",
   title: "Flat Bench Cable Flyes",
   exerciseCategory: "strength",

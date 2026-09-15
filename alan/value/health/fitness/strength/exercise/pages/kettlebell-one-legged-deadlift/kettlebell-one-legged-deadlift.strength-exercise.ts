@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kettlebellOneLeggedDeadlift = {
   id: "019ebc77-8439-7c9a-9243-4cd7bf7f276a",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "kettlebell-one-legged-deadlift",
   title: "Kettlebell One-Legged Deadlift",
   exerciseCategory: "strength",

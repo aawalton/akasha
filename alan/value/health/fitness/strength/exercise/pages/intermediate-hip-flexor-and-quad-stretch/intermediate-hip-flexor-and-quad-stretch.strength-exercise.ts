@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const intermediateHipFlexorAndQuadStretch = {
   id: "019ebc77-7ee6-7704-94fb-536a10aab2bd",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "intermediate-hip-flexor-and-quad-stretch",
   title: "Intermediate Hip Flexor and Quad Stretch",
   exerciseCategory: "stretching",

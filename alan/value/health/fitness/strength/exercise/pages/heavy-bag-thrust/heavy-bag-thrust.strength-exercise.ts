@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const heavyBagThrust = {
   id: "019ebc77-7552-74bb-86f7-6a9db5c11924",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "heavy-bag-thrust",
   title: "Heavy Bag Thrust",
   exerciseCategory: "plyometrics",

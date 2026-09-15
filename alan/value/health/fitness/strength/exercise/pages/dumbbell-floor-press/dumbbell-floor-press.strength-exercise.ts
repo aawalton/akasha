@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dumbbellFloorPress = {
   id: "019ebc77-0841-7db4-bc5f-7fa9e19604d5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dumbbell-floor-press",
   title: "Dumbbell Floor Press",
   exerciseCategory: "powerlifting",

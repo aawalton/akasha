@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const declineDumbbellFlyes = {
   id: "019ebc76-ef2b-73a6-92b4-dc60ab9a79da",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "decline-dumbbell-flyes",
   title: "Decline Dumbbell Flyes",
   exerciseCategory: "strength",

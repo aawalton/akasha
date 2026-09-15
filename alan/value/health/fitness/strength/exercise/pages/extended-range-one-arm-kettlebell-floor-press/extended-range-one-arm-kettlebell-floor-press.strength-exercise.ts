@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const extendedRangeOneArmKettlebellFloorPress = {
   id: "019ebc77-2fe9-7c91-a5ea-54962b01f477",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "extended-range-one-arm-kettlebell-floor-press",
   title: "Extended Range One-Arm Kettlebell Floor Press",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const goodMorning = {
   id: "019ebc77-468b-7ead-8f26-7b5ae2229d0d",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "good-morning",
   title: "Good Morning",
   exerciseCategory: "powerlifting",

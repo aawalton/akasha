@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const jeffersonSquats = {
   id: "019ebc77-8217-7225-8101-7e20fc05a0d9",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "jefferson-squats",
   title: "Jefferson Squats",
   exerciseCategory: "strength",

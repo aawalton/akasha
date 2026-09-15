@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const hipFlexionWithBand = {
   id: "019ebc77-764d-71d0-8eec-64b6f9341c32",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "hip-flexion-with-band",
   title: "Hip Flexion with Band",
   exerciseCategory: "strength",

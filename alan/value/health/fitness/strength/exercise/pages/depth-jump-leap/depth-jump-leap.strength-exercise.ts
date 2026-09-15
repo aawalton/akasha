@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const depthJumpLeap = {
   id: "019ebc76-f121-77fe-b170-9c19e5e6a146",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "depth-jump-leap",
   title: "Depth Jump Leap",
   exerciseCategory: "plyometrics",

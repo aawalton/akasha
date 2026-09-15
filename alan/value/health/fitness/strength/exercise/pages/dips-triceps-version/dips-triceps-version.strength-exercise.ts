@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dipsTricepsVersion = {
   id: "019ebc76-f1cb-7388-ade7-e0ed2d4cf3b1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dips-triceps-version",
   title: "Dips - Triceps Version",
   exerciseCategory: "strength",

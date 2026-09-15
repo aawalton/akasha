@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const externalRotation = {
   id: "019ebc77-3031-7ba7-83bc-cff1114c4de8",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "external-rotation",
   title: "External Rotation",
   exerciseCategory: "strength",

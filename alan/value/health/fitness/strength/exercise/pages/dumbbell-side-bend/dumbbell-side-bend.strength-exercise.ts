@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dumbbellSideBend = {
   id: "019ebc77-2aa7-720d-9042-3cf17ca725bd",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dumbbell-side-bend",
   title: "Dumbbell Side Bend",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dumbbellInclineShoulderRaise = {
   id: "019ebc77-0f0c-7d5c-8947-0be5dc510603",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dumbbell-incline-shoulder-raise",
   title: "Dumbbell Incline Shoulder Raise",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const floorGluteHamRaise = {
   id: "019ebc77-3cc3-7774-9f47-eadf2e5a5720",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "floor-glute-ham-raise",
   title: "Floor Glute-Ham Raise",
   exerciseCategory: "strength",

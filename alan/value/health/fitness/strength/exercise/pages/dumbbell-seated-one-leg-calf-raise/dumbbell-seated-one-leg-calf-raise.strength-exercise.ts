@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dumbbellSeatedOneLegCalfRaise = {
   id: "019ebc77-1306-768e-9257-8217234e8d9f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dumbbell-seated-one-leg-calf-raise",
   title: "Dumbbell Seated One-Leg Calf Raise",
   exerciseCategory: "strength",

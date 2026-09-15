@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const downwardFacingBalance = {
   id: "019ebc77-010a-7ba0-9ce5-209f536bd2b6",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "downward-facing-balance",
   title: "Downward Facing Balance",
   exerciseCategory: "strength",

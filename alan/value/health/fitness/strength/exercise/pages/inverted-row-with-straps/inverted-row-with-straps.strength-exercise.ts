@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const invertedRowWithStraps = {
   id: "019ebc77-7fa0-78c4-af23-9084f162e418",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "inverted-row-with-straps",
   title: "Inverted Row with Straps",
   exerciseCategory: "strength",

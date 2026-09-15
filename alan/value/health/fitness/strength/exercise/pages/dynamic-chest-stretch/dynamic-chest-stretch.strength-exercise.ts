@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dynamicChestStretch = {
   id: "019ebc77-2c74-7e34-a229-fa89068d277f",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dynamic-chest-stretch",
   title: "Dynamic Chest Stretch",
   exerciseCategory: "stretching",

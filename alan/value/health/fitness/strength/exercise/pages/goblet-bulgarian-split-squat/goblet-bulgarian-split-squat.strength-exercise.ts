@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const gobletBulgarianSplitSquat = {
   id: "019ee5fc-593c-74a8-b67c-819340c40397",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "goblet-bulgarian-split-squat",
   title: "Goblet Bulgarian Split Squat",
   exerciseCategory: "strength",

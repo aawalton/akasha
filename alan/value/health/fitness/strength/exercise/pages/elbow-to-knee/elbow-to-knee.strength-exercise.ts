@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const elbowToKnee = {
   id: "019ebc77-2e04-7fb1-afd4-9ce1f048cdb1",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "elbow-to-knee",
   title: "Elbow to Knee",
   exerciseCategory: "strength",

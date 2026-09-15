@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kettlebellPassBetweenTheLegs = {
   id: "019ebc77-8476-7b9b-9cd6-7fd962fac286",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "kettlebell-pass-between-the-legs",
   title: "Kettlebell Pass Between The Legs",
   exerciseCategory: "strength",

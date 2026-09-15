@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const hyperextensionsWithNoHyperextensionBench = {
   id: "019ebc77-7800-7f16-bd62-14262998e3b3",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "hyperextensions-with-no-hyperextension-bench",
   title: "Hyperextensions With No Hyperextension Bench",
   exerciseCategory: "strength",

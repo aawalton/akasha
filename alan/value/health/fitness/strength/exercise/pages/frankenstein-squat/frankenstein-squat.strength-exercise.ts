@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const frankensteinSquat = {
   id: "019ebc77-3fb8-7d07-a670-ac59724da3f0",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "frankenstein-squat",
   title: "Frankenstein Squat",
   exerciseCategory: "olympic-weightlifting",

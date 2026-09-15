@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dynamicBackStretch = {
   id: "019ebc77-2c20-7abe-b2f3-15a770471670",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dynamic-back-stretch",
   title: "Dynamic Back Stretch",
   exerciseCategory: "stretching",

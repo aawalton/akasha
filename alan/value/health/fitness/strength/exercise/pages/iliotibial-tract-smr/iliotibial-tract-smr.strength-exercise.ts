@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const iliotibialTractSmr = {
   id: "019ebc77-7875-7cd0-abf5-1d795e89eb68",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "iliotibial-tract-smr",
   title: "Iliotibial Tract-SMR",
   exerciseCategory: "stretching",

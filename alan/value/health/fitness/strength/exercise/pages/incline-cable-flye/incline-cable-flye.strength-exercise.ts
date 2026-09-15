@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const inclineCableFlye = {
   id: "019ebc77-799c-7b95-af6f-81eff7dd1f2b",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "incline-cable-flye",
   title: "Incline Cable Flye",
   exerciseCategory: "strength",

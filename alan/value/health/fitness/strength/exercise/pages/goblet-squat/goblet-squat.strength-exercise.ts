@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const gobletSquat = {
   id: "019ebc77-464d-78d1-96d7-8e29504bc60c",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "goblet-squat",
   title: "Goblet Squat",
   exerciseCategory: "strength",

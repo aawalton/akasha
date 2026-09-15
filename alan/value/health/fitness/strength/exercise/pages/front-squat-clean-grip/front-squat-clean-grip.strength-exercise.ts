@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const frontSquatCleanGrip = {
   id: "019ebc77-438e-70d5-bbaf-716747519a7d",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "front-squat-clean-grip",
   title: "Front Squat (Clean Grip)",
   exerciseCategory: "strength",

@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const inclineDumbbellBenchWithPalmsFacingIn = {
   id: "019ebc77-79d8-72ea-b61a-867abc55c8c5",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "incline-dumbbell-bench-with-palms-facing-in",
   title: "Incline Dumbbell Bench With Palms Facing In",
   exerciseCategory: "strength",

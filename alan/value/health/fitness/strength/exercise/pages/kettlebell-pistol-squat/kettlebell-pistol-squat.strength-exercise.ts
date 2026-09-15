@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const kettlebellPistolSquat = {
   id: "019ebc77-84f1-7e15-b52b-45ef362daf30",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "kettlebell-pistol-squat",
   title: "Kettlebell Pistol Squat",
   exerciseCategory: "strength",

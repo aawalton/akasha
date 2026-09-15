@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const dumbbellSeatedBoxJump = {
   id: "019ebc77-12c0-75e9-833a-d04bc7a9799d",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "dumbbell-seated-box-jump",
   title: "Dumbbell Seated Box Jump",
   exerciseCategory: "plyometrics",

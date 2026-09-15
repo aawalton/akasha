@@ -2,7 +2,7 @@ import type { StrengthExercise } from "akasha/alan/value/health/fitness/strength
 
 export const frontBarbellSquat = {
   id: "019ebc77-40c8-7079-be34-956ac6680782",
-  type: "strength-exercise",
+  type: "page-type/strength-exercise",
   slug: "front-barbell-squat",
   title: "Front Barbell Squat",
   exerciseCategory: "strength",
