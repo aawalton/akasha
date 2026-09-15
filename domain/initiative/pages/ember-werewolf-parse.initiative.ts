@@ -8,12 +8,6 @@ export const emberWerewolfParse = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement:
-        "Three-Color Stalker's five Order's Wrath Light body pieces are crafted gold in Divines.",
-      workingMemory:
-        "The chest, hands, waist, legs and feet are Ancestor Silk at CP160 in Divines, crafted at the Steadfast Hammer and Saw on High Isle and improved with Dreugh Wax. No Light Order's Wrath piece is on the account, and every Order's Wrath armour piece held is a Medium head or shoulder, so all five are made from nothing.",
-    },
-    {
       statement: "Three-Color Stalker's parse gear is enchanted.",
       workingMemory:
         "The seven armour pieces each take a gold Glyph of Stamina. The Savage Werewolf necklace and ring each take a gold Glyph of Increase Physical Harm. The main-hand mace takes a Glyph of Poison and the off-hand mace a Glyph of Flame. The Shattered Paths Signet is a mythic in Triune and is worn as it is.",
