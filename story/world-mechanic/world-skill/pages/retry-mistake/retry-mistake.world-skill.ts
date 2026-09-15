@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const retryMistake = {
   id: "01a0657d-02b1-764f-a34c-088933e3801c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "retry-mistake",
   title: "Retry Mistake",
   world: "world/the-wandering-inn",

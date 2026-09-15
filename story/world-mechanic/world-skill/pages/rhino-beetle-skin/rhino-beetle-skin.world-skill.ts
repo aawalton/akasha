@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const rhinoBeetleSkin = {
   id: "01a0657d-02b2-7c14-9bc0-78173ba53f69",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "rhino-beetle-skin",
   title: "Rhino Beetle Skin",
   world: "world/the-wandering-inn",

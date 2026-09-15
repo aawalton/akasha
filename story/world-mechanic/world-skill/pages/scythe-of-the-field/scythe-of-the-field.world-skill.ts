@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const scytheOfTheField = {
   id: "01a0657d-02b8-7488-ab46-5ab430ec9ccd",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "scythe-of-the-field",
   title: "Scythe of the Field",
   world: "world/the-wandering-inn",

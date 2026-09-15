@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const royalPromise = {
   id: "01a0657d-02b7-7057-858a-e53a11ad3a24",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "royal-promise",
   title: "Royal Promise",
   world: "world/the-wandering-inn",

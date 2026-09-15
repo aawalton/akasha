@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const satyrKick = {
   id: "01a0657d-02b7-7f1f-8a69-77ed665fa73d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "satyr-kick",
   title: "Satyr Kick",
   world: "world/the-wandering-inn",

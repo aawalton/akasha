@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const royallyResupplied = {
   id: "01a0657d-02b7-77ee-bc7e-8c93ff845dc5",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "royally-resupplied",
   title: "Royally Resupplied",
   world: "world/the-wandering-inn",

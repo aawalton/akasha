@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const reputationUnpredictableUncertainty = {
   id: "01a0657d-02b1-789a-ad51-70f81b5c5142",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "reputation-unpredictable-uncertainty",
   title: "Reputation: Unpredictable Uncertainty",
   world: "world/the-wandering-inn",

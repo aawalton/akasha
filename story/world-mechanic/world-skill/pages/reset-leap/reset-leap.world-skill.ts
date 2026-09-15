@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const resetLeap = {
   id: "01a0657d-02b1-70c8-aeb1-5041d38dd52e",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "reset-leap",
   title: "Reset Leap",
   world: "world/the-wandering-inn",

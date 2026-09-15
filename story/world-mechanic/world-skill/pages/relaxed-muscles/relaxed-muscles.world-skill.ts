@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const relaxedMuscles = {
   id: "01a0657d-02b0-7a44-af3b-9696ae4ce77f",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "relaxed-muscles",
   title: "Relaxed Muscles",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const royalCommandHeal = {
   id: "01a0657d-02b7-7ff9-8707-d01e523f2608",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "royal-command-heal",
   title: "Royal Command: Heal",
   world: "world/the-wandering-inn",

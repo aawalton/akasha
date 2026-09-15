@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const returnToFormerCondition = {
   id: "01a0657d-02b1-7afe-9518-4b907c0c93ba",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "return-to-former-condition",
   title: "Return to Former Condition",
   world: "world/the-wandering-inn",

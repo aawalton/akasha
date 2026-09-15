@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const removeDesire = {
   id: "01a0657d-02b0-7bc5-af01-3aa5264d3fc7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "remove-desire",
   title: "Remove Desire",
   world: "world/the-wandering-inn",

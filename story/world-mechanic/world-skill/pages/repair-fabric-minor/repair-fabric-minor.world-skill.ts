@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const repairFabricMinor = {
   id: "01a0657d-02b0-723f-91d7-f94417977aa9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "repair-fabric-minor",
   title: "Repair Fabric (Minor)",
   world: "world/the-wandering-inn",

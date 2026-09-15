@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const runnerSWind = {
   id: "01a0657d-02b7-7bc1-816e-953fb97a26ae",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "runner-s-wind",
   title: "Runner’s Wind",
   world: "world/the-wandering-inn",

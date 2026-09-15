@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const restoreAppearance = {
   id: "01a0657d-02b1-747a-abd7-7df0098c8424",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "restore-appearance",
   title: "Restore Appearance",
   world: "world/the-wandering-inn",

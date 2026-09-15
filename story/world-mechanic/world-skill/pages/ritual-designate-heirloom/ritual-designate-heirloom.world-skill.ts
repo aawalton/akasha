@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const ritualDesignateHeirloom = {
   id: "01a0657d-02b6-74a3-a6f8-aa9f6749ffc7",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ritual-designate-heirloom",
   title: "Ritual: Designate Heirloom",
   world: "world/the-wandering-inn",

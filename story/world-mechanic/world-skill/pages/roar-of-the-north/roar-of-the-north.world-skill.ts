@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const roarOfTheNorth = {
   id: "01a0657d-02b6-79a5-82de-e0c78f9f0e29",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "roar-of-the-north",
   title: "Roar of the North",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const risingDough = {
   id: "01a0657d-02b2-70f1-8275-54c33fc8e818",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "rising-dough",
   title: "Rising Dough",
   world: "world/the-wandering-inn",

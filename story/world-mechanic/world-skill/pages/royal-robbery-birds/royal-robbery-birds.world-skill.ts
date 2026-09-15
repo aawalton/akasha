@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const royalRobberyBirds = {
   id: "01a0657d-02b7-7c10-8203-e62f5998c824",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "royal-robbery-birds",
   title: "Royal Robbery: Birds",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const removeInkstains = {
   id: "01a0657d-02b0-71b5-a685-97bfb1bddb75",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "remove-inkstains",
   title: "Remove Inkstains",
   world: "world/the-wandering-inn",

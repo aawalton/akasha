@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const riskCalculationAttackOnGoblinhome = {
   id: "01a0657d-02b2-78e0-844f-b38eca4f424a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "risk-calculation-attack-on-goblinhome",
   title: "Risk Calculation: Attack on Goblinhome",
   world: "world/the-wandering-inn",

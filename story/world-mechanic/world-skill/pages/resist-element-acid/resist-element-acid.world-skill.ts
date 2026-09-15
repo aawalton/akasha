@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const resistElementAcid = {
   id: "01a0657d-02b1-7235-a24a-ceef8bb14a35",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "resist-element-acid",
   title: "Resist Element: Acid",
   world: "world/the-wandering-inn",

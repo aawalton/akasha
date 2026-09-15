@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const removeEffect = {
   id: "01a0657d-02b0-7059-885a-ede203670199",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "remove-effect",
   title: "Remove Effect",
   world: "world/the-wandering-inn",

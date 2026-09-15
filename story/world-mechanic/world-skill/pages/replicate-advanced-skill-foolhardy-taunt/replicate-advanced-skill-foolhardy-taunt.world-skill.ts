@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const replicateAdvancedSkillFoolhardyTaunt = {
   id: "01a0657d-02b0-74ac-aa4c-d5ab5c3e179b",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "replicate-advanced-skill-foolhardy-taunt",
   title: "Replicate Advanced Skill: Foolhardy Taunt",
   world: "world/the-wandering-inn",

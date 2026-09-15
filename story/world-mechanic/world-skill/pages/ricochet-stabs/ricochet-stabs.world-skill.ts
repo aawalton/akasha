@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const ricochetStabs = {
   id: "01a0657d-02b2-74c1-9ad0-acd93cdaedf1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "ricochet-stabs",
   title: "Ricochet Stabs",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const resistanceSleep = {
   id: "01a0657d-02b1-7306-8ac9-ba31044e455c",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "resistance-sleep",
   title: "Resistance: Sleep",
   world: "world/the-wandering-inn",

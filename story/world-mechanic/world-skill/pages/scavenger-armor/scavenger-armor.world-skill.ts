@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const scavengerArmor = {
   id: "01a0657d-02b8-7c04-a8aa-58fbc3611268",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "scavenger-armor",
   title: "Scavenger Armor",
   world: "world/the-wandering-inn",

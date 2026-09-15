@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const resourceLocatorThePassphraseOfImlerith = {
   id: "01a0657d-02b1-7496-8090-a9300186273d",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "resource-locator-the-passphrase-of-imlerith",
   title: "Resource Locator: The Passphrase of Imlerith",
   world: "world/the-wandering-inn",

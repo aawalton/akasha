@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const riptideCut = {
   id: "01a0657d-02b2-7d4b-812c-eb5b094a6850",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "riptide-cut",
   title: "Riptide Cut",
   world: "world/the-wandering-inn",

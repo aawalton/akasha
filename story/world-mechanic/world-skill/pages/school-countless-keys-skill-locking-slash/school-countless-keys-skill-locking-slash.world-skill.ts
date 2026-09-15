@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const schoolCountlessKeysSkillLockingSlash = {
   id: "01a0657d-02b8-7956-a287-8c8a6a6c0695",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "school-countless-keys-skill-locking-slash",
   title: "School — Countless Keys: Skill-locking Slash",
   world: "world/the-wandering-inn",

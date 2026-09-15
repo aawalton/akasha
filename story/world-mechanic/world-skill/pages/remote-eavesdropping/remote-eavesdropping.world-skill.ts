@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const remoteEavesdropping = {
   id: "01a0657d-02b0-7246-9e20-9b4e58966b9a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "remote-eavesdropping",
   title: "Remote Eavesdropping",
   world: "world/the-wandering-inn",

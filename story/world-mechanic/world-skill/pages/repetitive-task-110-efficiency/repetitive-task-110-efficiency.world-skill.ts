@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const repetitiveTask110Efficiency = {
   id: "01a0657d-02b0-77b8-8ffd-ededd9d0daa9",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "repetitive-task-110-efficiency",
   title: "Repetitive Task: 110% Efficiency",
   world: "world/the-wandering-inn",

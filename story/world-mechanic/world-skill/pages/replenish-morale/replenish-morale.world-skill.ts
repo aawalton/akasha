@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const replenishMorale = {
   id: "01a0657d-02b0-7816-8a3c-00c409f95c63",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "replenish-morale",
   title: "Replenish Morale",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const remoteManagement = {
   id: "01a0657d-02b0-7826-bbd3-379a8ec1288a",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "remote-management",
   title: "Remote Management",
   world: "world/the-wandering-inn",

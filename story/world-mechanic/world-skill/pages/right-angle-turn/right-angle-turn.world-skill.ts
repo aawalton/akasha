@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const rightAngleTurn = {
   id: "01a0657d-02b2-7971-8af4-5cd9e9aa11c1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "right-angle-turn",
   title: "Right-Angle Turn",
   world: "world/the-wandering-inn",

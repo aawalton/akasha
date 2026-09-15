@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const royalWillUnstoppableImpact = {
   id: "01a0657d-02b7-75c1-af03-96b60a9d3cc1",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "royal-will-unstoppable-impact",
   title: "Royal Will: Unstoppable Impact",
   world: "world/the-wandering-inn",

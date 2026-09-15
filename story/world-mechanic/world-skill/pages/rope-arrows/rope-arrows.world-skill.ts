@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const ropeArrows = {
   id: "01a0657d-02b6-7f8d-918d-922fcc2024be",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "rope-arrows",
   title: "Rope Arrows",
   world: "world/the-wandering-inn",

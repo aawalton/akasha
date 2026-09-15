@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const reverseAnalysis = {
   id: "01a0657d-02b1-7f9f-8bf6-ea4dc80a9b41",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "reverse-analysis",
   title: "Reverse Analysis",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-s
 
 export const retchgasShot = {
   id: "01a0657d-02b1-7922-8c14-a507ece17979",
-  type: "world-skill",
+  type: "page-type/world-skill",
   slug: "retchgas-shot",
   title: "Retchgas Shot",
   world: "world/the-wandering-inn",
