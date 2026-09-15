@@ -192,3 +192,8 @@ test("lines past the ceiling pack into a part of their own", () => {
 test("lines within the ceiling pack into one part", () => {
   expect(packed("aaaa\nbbbb\n", 10)).toEqual(["aaaa\nbbbb\n"])
 })
+
+test("a line is measured by the bytes it takes rather than by the characters it spells", () => {
+  expect(packed("ααα\nααα\n", 14)).toEqual(["ααα\nααα\n"])
+  expect(packed("ααα\nααα\n", 13)).toEqual(["ααα\n", "ααα\n"])
+})

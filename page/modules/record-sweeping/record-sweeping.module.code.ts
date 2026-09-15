@@ -241,17 +241,21 @@ export function keptFrom(text: string, cutoff: number): Kept {
 
 export function packed(kept: string, ceiling: number): readonly string[] {
   const files: string[] = []
-  let holding = ""
+  let holding: string[] = []
+  let width = 0
   for (const line of kept.split("\n")) {
     if (line === "") continue
     const one = `${line}\n`
-    if (holding !== "" && Buffer.byteLength(holding + one, "utf8") > ceiling) {
-      files.push(holding)
-      holding = ""
+    const wide = Buffer.byteLength(one, "utf8")
+    if (width > 0 && width + wide > ceiling) {
+      files.push(holding.join(""))
+      holding = []
+      width = 0
     }
-    holding += one
+    holding.push(one)
+    width += wide
   }
-  if (holding !== "") files.push(holding)
+  if (width > 0) files.push(holding.join(""))
   return files
 }
 

@@ -68,6 +68,11 @@ export const recordSweeping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A part is filled by counting each line's bytes rather than weighing the part again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A part left holding nothing goes rather than being left empty.",
     },
     {
