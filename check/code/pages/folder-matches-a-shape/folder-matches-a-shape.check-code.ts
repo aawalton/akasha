@@ -11,6 +11,7 @@ export const folderMatchesAShape = {
     "module/folder-naming",
     "module/one-page-only",
     "module/one-type-only",
+    "module/plural-gathering",
     "module/property-pages",
     "module/shape-loading",
     "page-type/folder-shape",
@@ -72,7 +73,8 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "Those names are derived from the enabled shapes rather than named in this check.",
+      statement:
+        "Those names are derived from the enabled shapes and the page types' plurals rather than named here.",
     },
     {
       invariantKind: "invariant-kind/departure",

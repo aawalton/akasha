@@ -15,6 +15,7 @@ import {
   namingFolderOf,
   namingOver,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.code.ts"
+import { pluralsIn } from "akasha/check/code/pages/folder-matches-a-shape/modules/plural-gathering/plural-gathering.module.code.ts"
 import {
   judgedBy,
   namesHeldBy,
@@ -351,7 +352,8 @@ export function judgingOver(given: Reading): Judging {
   const segmenting = segmentingOver(stated, grouped)
   const declaring = declaringOver(index, grouped)
   const holds = holdingOver(index, grouped, pageTypes, fileProperties)
-  const heldNames = namesHeldBy(shapes)
+  const plurals = pluralsIn(index)
+  const heldNames = new Set<string>([...namesHeldBy(shapes), ...plurals.keys()])
   const namedFor = namingOver(holds, heldNames)
   const parts = namingParts(
     given.shadow,
@@ -404,6 +406,7 @@ export function judgingOver(given: Reading): Judging {
         naming: namedFor,
         holds: (at) => holds(at).holds,
         declared: (at) => holds(at).declared,
+        gathered: (plural) => plurals.get(plural) ?? [],
         parts,
         partOf,
         claimed,

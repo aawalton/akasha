@@ -23,6 +23,7 @@ export type Standing = {
   readonly naming: (folder: string) => Wanted | null
   readonly holds: (folder: string) => readonly string[]
   readonly declared: (folder: string) => ReadonlySet<string>
+  readonly gathered: (named: string) => readonly string[]
   readonly parts: (page: Held) => readonly string[]
   readonly partOf: (page: Held) => readonly string[]
   readonly claimed: (folder: string) => boolean
@@ -228,6 +229,14 @@ export const folderShape = {
     {
       invariantKind: "invariant-kind/departure",
       statement: "A page answers with the collections that page names as holding that page.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page type gathers its pages under the plural that page type states.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A folder answers with every page type gathering its pages under that name.",
     },
     {
       invariantKind: "invariant-kind/departure",

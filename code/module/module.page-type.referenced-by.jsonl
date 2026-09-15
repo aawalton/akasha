@@ -953,6 +953,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-type-only/one-type-only.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/plural-gathering/plural-gathering.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/property-pages/property-pages.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-refused-syntax/syntax-rule/syntax-rule.page-type.types.ts"}

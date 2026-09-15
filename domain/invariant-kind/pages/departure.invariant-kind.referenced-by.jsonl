@@ -1416,6 +1416,7 @@
 {"propertySlug":"invariant-kind","path":"check/code/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.ts","id":"01a08862-ae61-7aba-8958-91c3c7732e22"}
 {"propertySlug":"invariant-kind","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.ts","id":"01a09d18-8d7c-7838-a182-93dea1d06ca2"}
 {"propertySlug":"invariant-kind","path":"check/code/pages/folder-matches-a-shape/modules/one-type-only/one-type-only.module.ts","id":"01a09c36-f538-72e2-9125-1f0b39671fa5"}
+{"propertySlug":"invariant-kind","path":"check/code/pages/folder-matches-a-shape/modules/plural-gathering/plural-gathering.module.ts","id":"01a0a5c5-2740-7000-ad2c-5227a60870b1"}
 {"propertySlug":"invariant-kind","path":"check/code/pages/folder-matches-a-shape/modules/property-pages/property-pages.module.ts","id":"01a09c99-72a0-7ed5-a56f-d1e08195ecc9"}
 {"propertySlug":"invariant-kind","path":"check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.ts","id":"01a06328-b8b6-750e-9c26-741059f3c69f"}
 {"propertySlug":"invariant-kind","path":"check/code/pages/global-declared-once/global-declared-once.check-code.ts","id":"01a061ca-2484-773a-8dc7-e6a08fe588f9"}
