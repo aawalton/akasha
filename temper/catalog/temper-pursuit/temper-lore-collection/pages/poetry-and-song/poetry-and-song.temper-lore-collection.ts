@@ -2,7 +2,7 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuit/
 
 export const poetryAndSong = {
   id: "01a06343-f9fa-70c1-b215-a36990c43090",
-  type: "temper-lore-collection",
+  type: "page-type/temper-lore-collection",
   slug: "poetry-and-song",
   title: "Poetry and Song",
   esoLoreCategoryId: 1,

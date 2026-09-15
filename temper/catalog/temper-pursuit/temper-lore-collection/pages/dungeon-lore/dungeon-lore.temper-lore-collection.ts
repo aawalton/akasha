@@ -2,7 +2,7 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuit/
 
 export const dungeonLore = {
   id: "01a06343-f9fa-7067-b9d1-382e1bd8dfb1",
-  type: "temper-lore-collection",
+  type: "page-type/temper-lore-collection",
   slug: "dungeon-lore",
   title: "Dungeon Lore",
   esoLoreCategoryId: 1,

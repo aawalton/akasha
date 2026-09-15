@@ -2,7 +2,7 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuit/
 
 export const daedricPrinces = {
   id: "01a06343-f9fa-7046-a185-288065db1524",
-  type: "temper-lore-collection",
+  type: "page-type/temper-lore-collection",
   slug: "daedric-princes",
   title: "Daedric Princes",
   esoLoreCategoryId: 1,

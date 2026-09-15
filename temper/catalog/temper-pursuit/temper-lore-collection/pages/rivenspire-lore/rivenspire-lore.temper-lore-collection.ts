@@ -2,7 +2,7 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuit/
 
 export const rivenspireLore = {
   id: "01a06343-f9fa-7015-8921-d5868b2f83fb",
-  type: "temper-lore-collection",
+  type: "page-type/temper-lore-collection",
   slug: "rivenspire-lore",
   title: "Rivenspire Lore",
   esoLoreCategoryId: 1,

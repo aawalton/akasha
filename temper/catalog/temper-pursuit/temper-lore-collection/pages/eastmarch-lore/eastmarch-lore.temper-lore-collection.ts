@@ -2,7 +2,7 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuit/
 
 export const eastmarchLore = {
   id: "01a06343-f9fa-70ed-a5d8-d486330c3cf9",
-  type: "temper-lore-collection",
+  type: "page-type/temper-lore-collection",
   slug: "eastmarch-lore",
   title: "Eastmarch Lore",
   esoLoreCategoryId: 1,

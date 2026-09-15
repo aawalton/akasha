@@ -2,7 +2,7 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuit/
 
 export const auridonLore = {
   id: "01a06343-f9fa-710e-b937-b3df2f796107",
-  type: "temper-lore-collection",
+  type: "page-type/temper-lore-collection",
   slug: "auridon-lore",
   title: "Auridon Lore",
   esoLoreCategoryId: 1,

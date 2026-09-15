@@ -2,7 +2,7 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuit/
 
 export const grahtwoodLore = {
   id: "01a06343-f9fa-7119-bb9f-9cbfdfbc74bd",
-  type: "temper-lore-collection",
+  type: "page-type/temper-lore-collection",
   slug: "grahtwood-lore",
   title: "Grahtwood Lore",
   esoLoreCategoryId: 1,

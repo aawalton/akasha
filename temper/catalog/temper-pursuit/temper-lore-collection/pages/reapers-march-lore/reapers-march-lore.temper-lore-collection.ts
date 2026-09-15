@@ -2,7 +2,7 @@ import type { TemperLoreCollection } from "akasha/temper/catalog/temper-pursuit/
 
 export const reapersMarchLore = {
   id: "01a06343-f9fa-712f-a2e0-8153563abeb9",
-  type: "temper-lore-collection",
+  type: "page-type/temper-lore-collection",
   slug: "reapers-march-lore",
   title: "Reaper's March Lore",
   esoLoreCategoryId: 1,
