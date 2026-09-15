@@ -15,7 +15,7 @@ export function shapesFiledAt(pageTypePath: string): string | null {
 }
 
 export function shapedIn(value: Value): Shape | null {
-  const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+  const pageTypeSlug = slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
   const slug = textAt(value, "slug")
   const propertySlug = textAt(value, "propertySlug")
   if (pageTypeSlug === null || slug === null || propertySlug === null) return null
