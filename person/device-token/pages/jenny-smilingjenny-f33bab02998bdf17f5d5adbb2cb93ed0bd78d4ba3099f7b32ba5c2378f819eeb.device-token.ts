@@ -2,7 +2,7 @@ import type { DeviceToken } from "akasha/person/device-token/device-token.page-t
 
 export const jennySmilingjennyF33bab02998bdf17f5d5adbb2cb93ed0bd78d4ba3099f7b32ba5c2378f819eeb = {
   id: "01a05dc7-421c-7002-9590-d8530f11aa92",
-  type: "device-token",
+  type: "page-type/device-token",
   slug: "jenny-smilingjenny-f33bab02998bdf17f5d5adbb2cb93ed0bd78d4ba3099f7b32ba5c2378f819eeb",
   person: "person/jenny",
   iosApp: "ios-app/smilingjenny",
