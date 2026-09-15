@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const subcategoryStamina = {
   id: "019e2fcd-59f6-763a-bfaa-bfa39011ffd0",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "subcategory-stamina",
   title: "Stamina",
   nodeId: "stamina",

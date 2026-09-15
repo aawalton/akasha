@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricStatusDuration = {
   id: "019e2fcd-59cd-7ecf-b5f8-41fc3e79aa5d",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-status-duration",
   title: "Status Duration",
   nodeId: "status-duration",

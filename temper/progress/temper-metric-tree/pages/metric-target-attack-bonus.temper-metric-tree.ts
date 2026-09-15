@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricTargetAttackBonus = {
   id: "019e2fcd-5a8d-7986-9559-503d062fecfb",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-target-attack-bonus",
   title: "Target Attack Bonus",
   nodeId: "target-attack-bonus",

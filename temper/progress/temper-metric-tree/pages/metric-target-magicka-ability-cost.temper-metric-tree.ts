@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricTargetMagickaAbilityCost = {
   id: "019e2fcd-5a99-7fdc-bcfe-a567eda12324",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-target-magicka-ability-cost",
   title: "Target Magicka Ability Cost",
   nodeId: "target-magicka-ability-cost",

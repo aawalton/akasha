@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const subcategoryLightAttacks = {
   id: "019e2fcd-598e-747a-8d99-89d427267a0b",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "subcategory-light-attacks",
   title: "Light Attacks",
   nodeId: "light-attacks",

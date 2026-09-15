@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricStealthDetection = {
   id: "019e2fcd-5a88-7734-9804-6c1780b29b56",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-stealth-detection",
   title: "Stealth Detection",
   nodeId: "stealth-detection",

@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricSneakRange = {
   id: "019e2fcd-5a89-7bd0-a36e-cb314c0bf936",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-sneak-range",
   title: "Sneak Range",
   nodeId: "sneak-range",

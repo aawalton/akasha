@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const subcategoryMagicka = {
   id: "019e2fcd-59f0-72e5-a590-a13126d6dc64",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "subcategory-magicka",
   title: "Magicka",
   nodeId: "magicka",

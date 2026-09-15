@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const subcategoryHealth = {
   id: "019e2fcd-5a1d-7006-89fd-e4ef8d94e2a7",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "subcategory-health",
   title: "Health",
   nodeId: "health",

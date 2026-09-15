@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricUltimateAbilityCost = {
   id: "019e2fcd-5a02-7eee-b548-8d97db652499",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-ultimate-ability-cost",
   title: "Ultimate Ability Cost",
   nodeId: "ultimate-ability-cost",

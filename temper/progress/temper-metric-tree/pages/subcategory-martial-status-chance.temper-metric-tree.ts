@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const subcategoryMartialStatusChance = {
   id: "019e2fcd-59e0-7930-ae69-041d3d72eb67",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "subcategory-martial-status-chance",
   title: "Martial Status Chance",
   nodeId: "martial-status-chance",

@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const subcategoryBlock = {
   id: "019e2fcd-5a82-7549-8c76-ed896a162fea",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "subcategory-block",
   title: "Block",
   nodeId: "block",

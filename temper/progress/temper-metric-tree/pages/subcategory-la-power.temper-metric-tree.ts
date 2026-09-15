@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const subcategoryLaPower = {
   id: "019e2fcd-598f-7464-ab98-9bc7d37aedd1",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "subcategory-la-power",
   title: "LA Power",
   nodeId: "la-power",

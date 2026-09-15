@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricUltimateRecovery = {
   id: "019e2fcd-5a05-7341-9cda-a3c7fc9fdf8c",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-ultimate-recovery",
   title: "Ultimate Recovery",
   nodeId: "ultimate-recovery",

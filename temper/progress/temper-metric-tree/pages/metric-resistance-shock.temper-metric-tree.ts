@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricResistanceShock = {
   id: "019e2fcd-5a2e-7c18-8bcc-4a4254af9d58",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-resistance-shock",
   title: "Resistance Shock",
   nodeId: "resistance-shock",

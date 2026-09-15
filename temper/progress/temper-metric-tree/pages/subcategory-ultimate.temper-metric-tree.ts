@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const subcategoryUltimate = {
   id: "019e2fcd-5a01-7cf0-aea9-a2eac4658b0d",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "subcategory-ultimate",
   title: "Ultimate",
   nodeId: "ultimate",

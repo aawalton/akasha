@@ -2,7 +2,7 @@ import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree
 
 export const metricTargetArmor = {
   id: "019e2fcd-5a9e-7f67-bda5-5d03038b7458",
-  type: "temper-metric-tree",
+  type: "page-type/temper-metric-tree",
   slug: "metric-target-armor",
   title: "Target Armor",
   nodeId: "target-armor",
