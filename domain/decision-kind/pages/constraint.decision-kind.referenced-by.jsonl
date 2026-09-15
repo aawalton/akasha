@@ -270,6 +270,7 @@
 {"propertySlug":"decision-kind","path":"design/language/design-language.domain.ts","id":"01a06600-0000-7000-8000-000000000003"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts","id":"01a0816a-91f6-79d0-8293-0fb65177f129"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/lualib-helper/properties/lua-export.text-property.ts","id":"01a08168-a789-7c4b-8c96-68f15749213a"}
+{"propertySlug":"decision-kind","path":"design/technology/technology.domain.ts","id":"01a065a0-1406-75cf-a0c3-0f1b9a3842e7"}
 {"propertySlug":"decision-kind","path":"domain/context/required-reading/required-reading.domain.ts","id":"01a04d97-c600-78b8-b3eb-faf390b009ce"}
 {"propertySlug":"decision-kind","path":"domain/properties/decision-kind.relation-property.ts","id":"01a04d66-767b-740d-a958-1f84e5858ad0"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/banned-term/properties/prose-frame.relation-property.ts","id":"01a08243-41cd-7873-9af3-308bc9152b5d"}
@@ -320,7 +321,6 @@
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-cost/jenny-cost.route.ts","id":"01a08bb2-255f-7fcd-be97-19292bc4115b"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-safety-level/jenny-safety-level.route.ts","id":"01a0824d-0956-7e7c-8f1c-271aa57e00a8"}
 {"propertySlug":"decision-kind","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.ts","id":"01a08bee-4262-784b-b397-8a5a0ad37433"}
-{"propertySlug":"decision-kind","path":"technology/technology.domain.ts","id":"01a065a0-1406-75cf-a0c3-0f1b9a3842e7"}
 {"propertySlug":"decision-kind","path":"temper/addon-build/modules/addon-compiler-config/addon-compiler-config.module.ts","id":"01a060ed-2e23-72af-af9e-fc35df5b70c3"}
 {"propertySlug":"decision-kind","path":"temper/addon-build/modules/addon-load-order/addon-load-order.module.ts","id":"01a062d1-4a70-7b3c-9e21-6d0a51f4c7e8"}
 {"propertySlug":"decision-kind","path":"temper/addon-build/modules/addon-metadata-copy/addon-metadata-copy.module.ts","id":"01a062d1-4a71-7f08-a4d5-3b9e7c02a1df"}

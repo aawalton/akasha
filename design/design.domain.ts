@@ -5,7 +5,12 @@ export const design = {
   type: "page-type/domain",
   slug: "design",
   definition: "how something is done well",
-  parts: ["domain/design-game", "domain/design-interface", "domain/design-language"],
+  parts: [
+    "domain/design-game",
+    "domain/design-interface",
+    "domain/design-language",
+    "domain/technology",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

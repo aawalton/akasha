@@ -333,6 +333,9 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/language/design-language.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/language/lua-compiler/lua-compiler.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/definition/technology-definition.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/mcp.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/technology.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/champion/domain-champion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/context/context.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/context/required-reading/required-reading.domain.ts"}
@@ -498,9 +501,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/wandering-inn/wandering-inn.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/world-lore/world-lore.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/world-mechanic/ability/ability.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"technology/definition/technology-definition.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"technology/mcp/mcp.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"technology/technology.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-build/temper-addon-build.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-library-type/temper-addon-library-type.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon-log/temper-addon-log.domain.ts"}
