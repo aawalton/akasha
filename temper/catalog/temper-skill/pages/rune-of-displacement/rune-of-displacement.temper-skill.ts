@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const runeOfDisplacement = {
   id: "019e6245-a718-75fa-bcda-86dc582b1417",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "rune-of-displacement",
   title: "Rune of Displacement",
   key: "rune-of-displacement",

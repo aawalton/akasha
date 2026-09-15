@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const resistFlame = {
   id: "019e624a-12d7-7761-bba1-37580fdf09c4",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "resist-flame",
   title: "Resist Flame",
   key: "resist-flame",

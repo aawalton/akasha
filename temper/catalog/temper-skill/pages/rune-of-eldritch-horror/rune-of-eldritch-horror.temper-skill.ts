@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const runeOfEldritchHorror = {
   id: "019e6f53-a67f-7cb0-ba01-3ecbdf9fed80",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "rune-of-eldritch-horror",
   title: "Rune of Eldritch Horror",
   key: "rune-of-eldritch-horror",

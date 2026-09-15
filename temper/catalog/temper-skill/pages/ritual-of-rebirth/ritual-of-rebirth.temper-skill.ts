@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const ritualOfRebirth = {
   id: "019e6245-a714-7326-b2a2-fcee0331c4fd",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "ritual-of-rebirth",
   title: "Ritual of Rebirth",
   key: "ritual-of-rebirth",

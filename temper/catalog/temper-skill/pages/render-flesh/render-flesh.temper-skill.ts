@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const renderFlesh = {
   id: "019e6f53-a5f4-7d93-8cec-8c09f9a1c257",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "render-flesh",
   title: "Render Flesh",
   key: "render-flesh",

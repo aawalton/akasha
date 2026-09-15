@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const renewingUndeath = {
   id: "019e6245-a70b-7923-9f58-a4af38ff5953",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "renewing-undeath",
   title: "Renewing Undeath",
   key: "renewing-undeath",

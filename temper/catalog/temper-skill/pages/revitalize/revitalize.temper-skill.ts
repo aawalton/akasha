@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const revitalize = {
   id: "019e6238-c303-72c5-bb80-fae171e5f355",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "revitalize",
   title: "Revitalize",
   key: "revitalize",

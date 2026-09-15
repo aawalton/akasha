@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const shimmeringShield = {
   id: "019e6245-a730-7287-98cb-a716d5caefc2",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "shimmering-shield",
   title: "Shimmering Shield",
   key: "shimmering-shield",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const shatterspikeMantle = {
   id: "019e6245-a72e-7138-8d6b-a1218362076e",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "shatterspike-mantle",
   title: "Shatterspike Mantle",
   key: "shatterspike-mantle",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const retreatingManeuver40211 = {
   id: "019e6f53-a639-7649-9ace-c56b97662ed9",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "retreating-maneuver-40211",
   title: "Retreating Maneuver",
   key: "retreating-maneuver-40211",

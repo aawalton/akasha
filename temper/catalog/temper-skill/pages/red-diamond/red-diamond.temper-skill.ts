@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const redDiamond = {
   id: "019e624a-12d4-7463-a1df-3afa621c617a",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "red-diamond",
   title: "Red Diamond",
   key: "red-diamond",

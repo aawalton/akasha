@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const runeguardOfFreedom = {
   id: "019e6245-a71b-7ae2-ad6f-9d4a44f1bf6d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "runeguard-of-freedom",
   title: "Runeguard of Freedom",
   key: "runeguard-of-freedom",

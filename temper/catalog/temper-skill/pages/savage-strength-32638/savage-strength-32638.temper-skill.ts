@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const savageStrength32638 = {
   id: "019e6f53-a6b8-704a-9e0b-e5ef427a4531",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "savage-strength-32638",
   title: "Feral Cruelty",
   key: "savage-strength-32638",

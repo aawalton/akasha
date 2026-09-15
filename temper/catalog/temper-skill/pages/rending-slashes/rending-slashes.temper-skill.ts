@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const rendingSlashes = {
   id: "019e6226-010d-723a-850d-924092526e23",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "rending-slashes",
   title: "Rending Slashes",
   key: "rending-slashes",

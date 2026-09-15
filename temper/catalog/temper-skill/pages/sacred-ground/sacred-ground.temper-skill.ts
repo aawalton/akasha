@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const sacredGround = {
   id: "019e6245-a720-76c1-b776-2f3f12677730",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "sacred-ground",
   title: "Sacred Ground",
   key: "sacred-ground",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const ruffian = {
   id: "019e6226-0111-7451-91bc-f1b0a23ad0a6",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "ruffian",
   title: "Ruffian",
   key: "ruffian",

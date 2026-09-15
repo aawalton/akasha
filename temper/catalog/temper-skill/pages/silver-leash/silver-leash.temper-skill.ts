@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const silverLeash = {
   id: "019e6238-c30e-7ae8-940a-f994181c6457",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "silver-leash",
   title: "Silver Leash",
   key: "silver-leash",

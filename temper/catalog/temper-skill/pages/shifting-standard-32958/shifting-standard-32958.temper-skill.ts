@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const shiftingStandard32958 = {
   id: "019e6f53-a701-7d8a-a465-7521141678ee",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "shifting-standard-32958",
   title: "Shifting Standard",
   key: "shifting-standard-32958",

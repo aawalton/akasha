@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const runeOfUncannyAdoration = {
   id: "019e6245-a71a-7899-8de7-91c5841ceeeb",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "rune-of-uncanny-adoration",
   title: "Rune of Uncanny Adoration",
   key: "rune-of-uncanny-adoration",

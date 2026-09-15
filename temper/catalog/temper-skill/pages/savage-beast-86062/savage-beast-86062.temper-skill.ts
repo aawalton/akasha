@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const savageBeast86062 = {
   id: "019e6f53-a6b4-7b0a-97c2-cf1df03b6347",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "savage-beast-86062",
   title: "Savage Beast",
   key: "savage-beast-86062",

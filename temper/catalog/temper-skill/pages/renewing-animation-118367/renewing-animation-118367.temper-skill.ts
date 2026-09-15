@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const renewingAnimation118367 = {
   id: "019e6f53-a5fd-74d5-bac5-79ccf1b506ad",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "renewing-animation-118367",
   title: "Renewing Animation",
   key: "renewing-animation-118367",

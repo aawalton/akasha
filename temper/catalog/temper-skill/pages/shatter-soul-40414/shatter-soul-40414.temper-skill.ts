@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const shatterSoul40414 = {
   id: "019e6f53-a6eb-7757-869d-d97588b7d9e2",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "shatter-soul-40414",
   title: "Shatter Soul",
   key: "shatter-soul-40414",

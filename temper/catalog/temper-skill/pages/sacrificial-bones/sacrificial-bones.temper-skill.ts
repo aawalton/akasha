@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const sacrificialBones = {
   id: "019e6f53-a6a4-72cc-bdd4-d2869970b84d",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "sacrificial-bones",
   title: "Sacrificial Bones",
   key: "sacrificial-bones",

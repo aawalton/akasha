@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const shadowyDisguise25380 = {
   id: "019e6f53-a6e6-711f-bb9d-f0ee2f3f322f",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "shadowy-disguise-25380",
   title: "Shadowy Disguise",
   key: "shadowy-disguise-25380",

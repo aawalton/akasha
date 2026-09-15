@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const recuperativeTreatise183047 = {
   id: "019e6f53-a5cf-7592-b5eb-586ef239ce13",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "recuperative-treatise-183047",
   title: "Recuperative Treatise",
   key: "recuperative-treatise-183047",

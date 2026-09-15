@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const seeTheUnseen = {
   id: "019e6238-c309-74f7-9b70-e38e850fb118",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "see-the-unseen",
   title: "See the Unseen",
   key: "see-the-unseen",

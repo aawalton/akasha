@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const scaldingRune = {
   id: "019e6238-c307-786c-b54c-96f81591e694",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "scalding-rune",
   title: "Scalding Rune",
   key: "scalding-rune",

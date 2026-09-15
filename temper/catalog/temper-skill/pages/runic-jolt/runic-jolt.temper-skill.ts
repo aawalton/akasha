@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const runicJolt = {
   id: "019e6f53-a69a-7fd2-b012-24afd4b44610",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "runic-jolt",
   title: "Runic Jolt",
   key: "runic-jolt",

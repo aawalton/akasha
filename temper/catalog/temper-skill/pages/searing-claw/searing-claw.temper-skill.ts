@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const searingClaw = {
   id: "019e6f53-a6cd-759d-afca-ec7f00a5c39f",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "searing-claw",
   title: "Searing Claw",
   key: "searing-claw",

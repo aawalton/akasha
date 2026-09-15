@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const refreshingShadows = {
   id: "019e6245-a705-7522-b089-d0b86fe22ca9",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "refreshing-shadows",
   title: "Refreshing Shadows",
   key: "refreshing-shadows",

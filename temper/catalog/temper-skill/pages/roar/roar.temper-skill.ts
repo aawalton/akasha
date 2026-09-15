@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const roar = {
   id: "019e6f53-a663-79b1-a4f9-ab3b3e85ce8c",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "roar",
   title: "Roar",
   key: "roar",
