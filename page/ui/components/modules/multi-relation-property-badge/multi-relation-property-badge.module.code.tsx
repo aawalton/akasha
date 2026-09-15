@@ -17,7 +17,7 @@ import {
   resolveRelationVariant,
 } from "akasha/page/ui/components/modules/relation-display/relation-display.module.code.ts"
 import { RelationPopover } from "akasha/page/ui/components/modules/relation-popover/relation-popover.module.code.tsx"
-import { usePageResolverOptional } from "akasha/page/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"
+import { usePageResolverOptional } from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 
 function colClassFor(align: "start" | "end"): string {
   return align === "start" ? "flex flex-col items-start gap-1" : "flex flex-col items-end gap-1"

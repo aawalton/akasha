@@ -1,6 +1,6 @@
 "use client"
 
-import { usePageResolverOptional } from "akasha/page/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"
+import { usePageResolverOptional } from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 import { createContext, useContext, useMemo } from "react"
 
 export interface RelationPickerResult {

@@ -10,8 +10,8 @@ import type { FilterOperator } from "akasha/page/core/property-type/modules/prop
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import type { PageFilterDimension } from "akasha/page/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
 import { toStringArray } from "akasha/page/ui/components/modules/value-filter-inputs/value-filter-inputs.module.code.tsx"
-import { usePageResolverOptional } from "akasha/page/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"
-import { useRelationPicker } from "akasha/page/ui/contexts/modules/relation-picker-context/relation-picker-context.module.code.tsx"
+import { usePageResolverOptional } from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
+import { useRelationPicker } from "akasha/page/ui/context/modules/relation-picker-context/relation-picker-context.module.code.tsx"
 import { useMemo, useState } from "react"
 
 const RELATION_SEARCH_DEBOUNCE_MS = 200

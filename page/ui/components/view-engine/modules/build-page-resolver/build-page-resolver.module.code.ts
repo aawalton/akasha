@@ -2,7 +2,7 @@ import { colorRuleVariantSchema } from "akasha/page/core/schema/modules/color-ru
 import type {
   PageResolverEntry,
   PageResolverValue,
-} from "akasha/page/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"
+} from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 
 export function buildPageResolver(

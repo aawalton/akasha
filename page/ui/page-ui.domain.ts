@@ -13,7 +13,7 @@ export const pageUi = {
     "domain/page-ui-block-editor",
     "domain/page-ui-cache",
     "domain/page-ui-capability",
-    "domain/page-ui-contexts",
+    "domain/page-ui-context",
     "domain/page-ui-frame",
     "domain/page-ui-markdown",
     "domain/page-ui-media",

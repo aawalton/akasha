@@ -7,8 +7,8 @@ import {
   PopoverTrigger,
 } from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
 import { useDebouncedValue } from "akasha/design/interfaces/primitives/modules/use-debounced-value/use-debounced-value.module.code.ts"
-import type { PageResolverValue } from "akasha/page/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"
-import { useRelationPicker } from "akasha/page/ui/contexts/modules/relation-picker-context/relation-picker-context.module.code.tsx"
+import type { PageResolverValue } from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
+import { useRelationPicker } from "akasha/page/ui/context/modules/relation-picker-context/relation-picker-context.module.code.tsx"
 import { Plus, X } from "lucide-react"
 import { useMemo, useState } from "react"
 

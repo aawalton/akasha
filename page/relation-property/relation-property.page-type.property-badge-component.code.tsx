@@ -18,7 +18,7 @@ import { RelationPopover } from "akasha/page/ui/components/modules/relation-popo
 import {
   type PageResolverValue,
   usePageResolverOptional,
-} from "akasha/page/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"
+} from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 
 function isRelationObject(value: unknown): value is { id: string; title: string } {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return false

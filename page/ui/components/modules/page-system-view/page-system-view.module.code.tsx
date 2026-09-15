@@ -18,7 +18,7 @@ import { useCalendarViewWiring } from "akasha/page/ui/components/modules/use-cal
 import { useTimelineConfig } from "akasha/page/ui/components/modules/use-timeline-config/use-timeline-config.module.code.ts"
 import { useViewLocalConfig } from "akasha/page/ui/components/modules/use-view-local-config/use-view-local-config.module.code.ts"
 import { usePageView } from "akasha/page/ui/components/view-engine/modules/use-page-view/use-page-view.module.code.ts"
-import { usePageResolverOptional } from "akasha/page/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"
+import { usePageResolverOptional } from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useCallback, useEffect, useMemo, useState } from "react"
 
 export function PageSystemTabContent({

@@ -5,12 +5,12 @@ import { buildPageResolver } from "akasha/page/ui/components/view-engine/modules
 import {
   PageResolverProvider,
   type PageResolverValue,
-} from "akasha/page/ui/contexts/modules/page-resolver-context/page-resolver-context.module.code.tsx"
+} from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 import {
   type RelationPickerArgs,
   RelationPickerProvider,
   type RelationPickerResult,
-} from "akasha/page/ui/contexts/modules/relation-picker-context/relation-picker-context.module.code.tsx"
+} from "akasha/page/ui/context/modules/relation-picker-context/relation-picker-context.module.code.tsx"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { usePaginatedRelationPicker } from "akasha/page/ui/supabase/modules/relation-picker/relation-picker.module.code.ts"
 import { createContext, useCallback, useContext, useMemo } from "react"
