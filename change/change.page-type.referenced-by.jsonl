@@ -16,6 +16,7 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-respells-the-path-inside-a-message-body-so-the-record-says-what-was-never-said.finding.ts","id":"01a095e9-b047-7ef0-991d-4ac9167cd5a9"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-rewrites-a-test-fixture-literal-that-names-a-real-path.finding.ts","id":"01a092e1-8c1c-758d-a953-aa238b449db3"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-stops-the-service-whose-page-spells-the-moved-path.finding.ts","id":"01a08891-8127-7ec7-8493-3865b3f89f0e"}
+{"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-shape-cannot-be-loaded-in-the-change-that-writes-its-code.finding.ts","id":"01a0a5c5-2740-7003-8f04-ac1ab7a0126c"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-generated-type-cannot-be-written-partly-and-the-danger-is-the-whole-one-that-under-computes.finding.ts","id":"01a09669-46f6-7158-bf2f-868751228e96"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-hand-edit-to-a-generated-file-is-kept-as-nothing-and-said-to-be-kept.finding.ts","id":"01a08a3f-4c21-7b64-9f2e-6d3a5c81e7b0"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-handed-over-edit-is-folded-into-the-next-apply-rather-than-waiting-to-be-taken.finding.ts","id":"01a08df1-4203-71ef-9f1f-9948e896c86c"}
@@ -28,7 +29,6 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-page-cannot-land-in-the-same-commit-as-its-own-page-type.finding.ts","id":"01a05fc7-f922-7efb-abb1-26f1072e3dd3"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-page-of-a-page-type-introduced-in-one-change-gets-no-minted-id.finding.ts","id":"01a06271-8a44-7001-9e02-4b7c15d8a339"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-page-removal-is-refused-by-the-folder-shape-check-over-a-folder-it-empties.finding.ts","id":"01a09cc3-9ef2-7266-b192-e4b542f312cc"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-page-rename-and-the-folder-move-its-slug-asks-for-refuse-apart-and-refuse-together.finding.ts","id":"01a0a59c-8b00-7000-8590-c3d328505bdd"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-record-field-holding-a-boolean-is-restated-by-no-change.finding.ts","id":"01a08e5d-97cf-7095-b986-175cdb4dd75b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-refused-apply-leaves-edits-that-make-the-redraft-refuse-for-the-wrong-reason.finding.ts","id":"01a08353-7557-71c8-8ed0-da6d9e6d6853"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-rename-voids-the-lint-exemption-keyed-to-the-folder-it-moves.finding.ts","id":"01a0a383-95f4-717c-9139-7b4abbe8910e"}
