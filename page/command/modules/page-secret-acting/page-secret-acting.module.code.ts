@@ -19,7 +19,7 @@ import { mistaking, wrongData } from "akasha/command/modules/refusing/refusing.m
 import { secretAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { cipherFor, type Secrets } from "akasha/page/modules/secret/page-secret.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { propertiesOf } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { namesDrawn } from "akasha/util/text/modules/name-drawing/name-drawing.module.code.ts"
 
@@ -56,7 +56,7 @@ function targetIn(root: string, path: string): Target | { readonly refused: stri
   if (value === null) {
     return { refused: `${path} declares no page here, and a secret belongs to a page that stands` }
   }
-  const pageTypeSlug = textAt(value, PAGE_TYPE) ?? textAt(value, PAGE_TYPE_SLUG)
+  const pageTypeSlug = slugAt(value, PAGE_TYPE) ?? slugAt(value, PAGE_TYPE_SLUG)
   if (pageTypeSlug === null) {
     return { refused: `${path} names no page type, so nothing says which of its values are secret` }
   }
