@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const pathOfTheDeathlessBook4Completed0195200INeathI2775832 = {
   id: "01a06730-4e24-7d8c-b94d-3444aabe57fc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0195-200-i-neath-i-2775832",
   title: "200 (I) Neath [I]",
   story: "story-read/path-of-the-deathless-book-4-completed",
