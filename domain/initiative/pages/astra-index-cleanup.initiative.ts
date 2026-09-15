@@ -8,12 +8,6 @@ export const astraIndexCleanup = {
   persona: "persona/astra",
   intentStack: [
     {
-      statement: "A change lands the index entries its own file changes imply, and no others.",
-      workingMemory:
-        "`index-answers-are-level-with-the-change` judges at change since `b0bd8841`, both ways, reading `shadow.filed()` against `change.carried`, so nothing is built again. It has refused no landing of mine since. The hazard it does not reach is the one relation carries: a change to a page type turns answers for every page of that type, far outside the files that change has, and those are left out.\n",
-    },
-
-    {
       statement: "A file property declares one extension.",
       workingMemory:
         "A case that diverges splits into its own page type rather than taking a second optional property: a module is `.ts`, a component `.tsx`. Five of 162 file properties vary today: `code`, `test`, `route-code` and `route-test` run `ts` against `tsx`, and `content` on provisioned files runs `sh`, `conf` and `json`. Nothing refuses a second extension, and `extensions.text-property.ts` states an invariant blessing one, so that page turns as well.\n",
