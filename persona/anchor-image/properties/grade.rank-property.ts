@@ -2,7 +2,7 @@ import type { RankProperty } from "akasha/page/rank-property/rank-property.page-
 
 export const grade = {
   id: "01a0655b-4a9b-7003-a822-f4a3ceda67b2",
-  type: "rank-property",
+  type: "page-type/rank-property",
   slug: "grade",
   propertySlug: "grade",
   definition: "Alan's mark for how well a picture caught the persona",

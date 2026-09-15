@@ -2,7 +2,7 @@ import type { RankProperty } from "akasha/page/rank-property/rank-property.page-
 
 export const singability = {
   id: "01a06243-144b-700b-83e8-f1b91786511f",
-  type: "rank-property",
+  type: "page-type/rank-property",
   slug: "singability",
   propertySlug: "singability",
   definition: "Alan's grade for how well a song sits in his own voice",
