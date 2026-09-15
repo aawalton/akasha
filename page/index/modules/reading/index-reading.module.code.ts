@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import { indexImport } from "akasha/page/index/import/index-import.index.ts"
 import type { Reading, Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -10,12 +11,8 @@ import {
   readingAt,
   readingOf,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexShapes } from "akasha/page/index/shapes/index-shapes.index.ts"
-import {
-  filedFor,
-  type PageAddress,
-} from "akasha/page/modules/address/page-address.module.code.ts"
+import { filedFor, type PageAddress } from "akasha/page/modules/address/page-address.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -29,7 +26,7 @@ const IDENTITY = indexIdentity.name
 
 const IMPORT = indexImport.name
 
-const RELATION = indexEdge.name
+const EDGE = indexEdge.name
 
 const SHAPES = indexShapes.name
 
@@ -364,7 +361,7 @@ export function idsNaming(
     given,
     ROOT,
     `which pages name \`${id}\` as their \`${propertySlug}\``,
-    (reading) => endingIn(reading.listing(join(RELATION, PAGE, ID, id, propertySlug)))
+    (reading) => endingIn(reading.listing(join(EDGE, PAGE, ID, id, propertySlug)))
   )
 }
 
@@ -399,7 +396,7 @@ export type Named = {
 export function namersOf(
   given: string | Reading,
   id: string,
-  indexName: string = RELATION
+  indexName: string = EDGE
 ): readonly Named[] {
   return answered(given, ROOT, `which pages name \`${id}\``, (reading) => {
     const dir = join(indexName, PAGE, ID, id)
