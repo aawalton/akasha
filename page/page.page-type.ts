@@ -27,6 +27,7 @@ export const page = {
       many: false,
       default: "jsonl",
     },
+    { pageProperty: "file-property/carried", required: false, many: false, default: "jsonl" },
   ],
   parts: [
     "domain/id",
@@ -41,6 +42,7 @@ export const page = {
     "domain/page-ui",
     "domain/page-ui-store",
     "domain/page-url",
+    "file-property/carried",
     "file-property/entries",
     "file-property/referenced-by",
     "module/akasha-page-values",

@@ -2883,6 +2883,7 @@
 {"propertySlug":"decision-kind","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"decision-kind","path":"page/phone-number-property/phone-number-property.page-type.ts","id":"01a053e9-5cd1-7137-9fbb-c33920c95575"}
 {"propertySlug":"decision-kind","path":"page/process-property/process-property.page-type.ts","id":"01a05406-9bc6-71c5-8fcf-b15b97d86578"}
+{"propertySlug":"decision-kind","path":"page/properties/carried.file-property.ts","id":"01a0a67f-8361-7168-a93c-9877e30b109a"}
 {"propertySlug":"decision-kind","path":"page/properties/entries.file-property.ts","id":"01a06dc1-5cd2-7bc0-b943-c68e1d872c39"}
 {"propertySlug":"decision-kind","path":"page/properties/id.text-property.ts","id":"01a049b9-856c-7ee7-b958-f63eead00582"}
 {"propertySlug":"decision-kind","path":"page/properties/referenced-by.file-property.ts","id":"01a0a2e9-c513-7eed-aa47-3b272814218c"}
