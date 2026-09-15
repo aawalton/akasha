@@ -7,12 +7,17 @@ import {
   indexingAt,
   refreshedFrom,
 } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
+import { wholeOf } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   filingOf,
+  type Moving,
   settlingOver,
 } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
-import { overlaidOn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import {
+  overlaidOn,
+  readingAt,
+} from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
   aProperty,
   aType,
@@ -254,59 +259,68 @@ const CARRIED_LINES: readonly string[] = [
   '{"slug":"b"}',
 ]
 
-const carriedIn = (tree: string, at: string): readonly string[] => {
-  const held = join(tree, at)
-  if (!existsSync(held)) return []
-  return readFileSync(held, "utf8")
-    .split("\n")
-    .filter((one) => one !== "")
-}
-
-const settledWorld = (tree: string, root: string): Indexing => {
+const settledWorld = (tree: string, root: string): undefined => {
   const first = indexingAt(root, tree)
   wrote(first, tree, [...IDENTIFIERS, NAMING, CARRIER, TARGET_PAGE, SOURCE_PAGE])
   expect(first.settle()).toEqual([])
-  expect(carriedIn(tree, CARRIED_BESIDE)).toEqual(CARRIED_LINES)
-  return indexingAt(root, tree)
+}
+
+const carriedBy = (
+  tree: string,
+  root: string,
+  moving: readonly Moving[]
+): ReadonlyMap<string, string | null> => {
+  const textOf = textIn(tree)
+  const held = new Map(moving.map((one) => [one.path, one.after] as const))
+  const bodyAt = (at: string): string | null => (held.has(at) ? (held.get(at) ?? null) : textOf(at))
+  return settlingOver(
+    readingAt(root, tree),
+    tree,
+    moving,
+    (path) => {
+      const body = bodyAt(path)
+      return body === null ? null : valueIn(body)
+    },
+    bodyAt
+  ).carried
 }
 
 test("a page the change writes carries a line for every key that page states", () => {
   const tree = heldAt()
-  const second = settledWorld(tree, heldAt())
+  const root = heldAt()
+  settledWorld(tree, root)
   const before = readFileSync(join(tree, TARGET_PAGE[0]), "utf8")
   const body = bodyOf({ ...TARGET_PAGE[1], title: "the one" })
 
-  second.wrote(put(tree, TARGET_PAGE[0], body), body, before)
-  expect(second.settle()).toEqual([])
+  const carried = carriedBy(tree, root, [{ path: TARGET_PAGE[0], before, after: body }])
 
-  expect(carriedIn(tree, CARRIED_BESIDE)).toEqual([...CARRIED_LINES, '{"title":"the one"}'])
+  expect(carried.get(CARRIED_BESIDE)).toBe(wholeOf([...CARRIED_LINES, '{"title":"the one"}']))
 })
 
 test("a page the change takes away is left carrying nothing", () => {
   const tree = heldAt()
-  const second = settledWorld(tree, heldAt())
-  const gone = join(tree, TARGET_PAGE[0])
+  const root = heldAt()
+  settledWorld(tree, root)
+  const before = readFileSync(join(tree, TARGET_PAGE[0]), "utf8")
 
-  second.took(gone, readFileSync(gone, "utf8"))
-  rmSync(gone)
-  expect(second.settle()).toEqual([])
+  const carried = carriedBy(tree, root, [{ path: TARGET_PAGE[0], before, after: null }])
 
-  expect(existsSync(join(tree, CARRIED_BESIDE))).toBe(false)
+  expect(carried.get(CARRIED_BESIDE)).toBe(null)
 })
 
 test("a page that moves carries at its new path everything it carried at the old", () => {
   const tree = heldAt()
-  const second = settledWorld(tree, heldAt())
-  const gone = join(tree, TARGET_PAGE[0])
-  const body = readFileSync(gone, "utf8")
+  const root = heldAt()
+  settledWorld(tree, root)
+  const body = readFileSync(join(tree, TARGET_PAGE[0]), "utf8")
 
-  second.took(gone, body)
-  rmSync(gone)
-  second.wrote(put(tree, MOVED_TARGET, body), body, null)
-  expect(second.settle()).toEqual([])
+  const carried = carriedBy(tree, root, [
+    { path: TARGET_PAGE[0], before: body, after: null },
+    { path: MOVED_TARGET, before: null, after: body },
+  ])
 
-  expect(existsSync(join(tree, CARRIED_BESIDE))).toBe(false)
-  expect(carriedIn(tree, MOVED_CARRIED)).toEqual(CARRIED_LINES)
+  expect(carried.get(CARRIED_BESIDE)).toBe(null)
+  expect(carried.get(MOVED_CARRIED)).toBe(wholeOf(CARRIED_LINES))
 })
 
 test("a settle into an index that is nowhere yet answers rather than refusing an empty world", () => {
