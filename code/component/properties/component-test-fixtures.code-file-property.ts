@@ -2,7 +2,7 @@ import type { CodeFileProperty } from "akasha/page/code-file-property/code-file-
 
 export const componentTestFixtures = {
   id: "01a071cb-913e-718f-a95d-e71e4f37aad6",
-  type: "code-file-property",
+  type: "page-type/code-file-property",
   slug: "component-test-fixtures",
   propertySlug: "test-fixtures",
   definition: "what a component's test is set up with",

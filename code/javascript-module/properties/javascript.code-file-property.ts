@@ -2,7 +2,7 @@ import type { CodeFileProperty } from "akasha/page/code-file-property/code-file-
 
 export const javascript = {
   id: "01a06954-f7dc-7da3-abd6-1b92e38df030",
-  type: "code-file-property",
+  type: "page-type/code-file-property",
   slug: "javascript",
   propertySlug: "javascript",
   definition: "the JavaScript a page is",

@@ -2,7 +2,7 @@ import type { CodeFileProperty } from "akasha/page/code-file-property/code-file-
 
 export const appLayout = {
   id: "01a07917-b971-76f3-8ada-fc17be46e258",
-  type: "code-file-property",
+  type: "page-type/code-file-property",
   slug: "app-layout",
   propertySlug: "app-layout",
   definition: "the route a signed-in reader's routes render inside",

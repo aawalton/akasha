@@ -2,7 +2,7 @@ import type { CodeFileProperty } from "akasha/page/code-file-property/code-file-
 
 export const routeTest = {
   id: "01a071dc-83c6-7d33-b8f1-64b3986f1f58",
-  type: "code-file-property",
+  type: "page-type/code-file-property",
   slug: "route-test",
   propertySlug: "test",
   definition: "what proves a route's code",

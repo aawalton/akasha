@@ -2,7 +2,7 @@ import type { CodeFileProperty } from "akasha/page/code-file-property/code-file-
 
 export const server = {
   id: "01a0817a-8b91-73c6-a0bd-8c66940f995b",
-  type: "code-file-property",
+  type: "page-type/code-file-property",
   slug: "server",
   propertySlug: "server",
   definition: "what listens on a port and hands each request to the router",

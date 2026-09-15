@@ -2,7 +2,7 @@ import type { CodeFileProperty } from "akasha/page/code-file-property/code-file-
 
 export const serverEntry = {
   id: "01a063f3-c2b1-706d-9c19-7e64f73ba4f6",
-  type: "code-file-property",
+  type: "page-type/code-file-property",
   slug: "server-entry",
   propertySlug: "server-entry",
   definition: "what renders a response before it leaves the server",

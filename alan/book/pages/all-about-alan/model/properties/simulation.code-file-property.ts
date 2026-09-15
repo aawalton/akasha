@@ -2,7 +2,7 @@ import type { CodeFileProperty } from "akasha/page/code-file-property/code-file-
 
 export const simulation = {
   id: "01a0657f-a729-7667-bb50-f50d5da51399",
-  type: "code-file-property",
+  type: "page-type/code-file-property",
   slug: "simulation",
   propertySlug: "simulation",
   definition: "the computation a model is, written in Python",

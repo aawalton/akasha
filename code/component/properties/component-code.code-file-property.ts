@@ -2,7 +2,7 @@ import type { CodeFileProperty } from "akasha/page/code-file-property/code-file-
 
 export const componentCode = {
   id: "01a071cb-913e-7640-a55f-ecae5999419f",
-  type: "code-file-property",
+  type: "page-type/code-file-property",
   slug: "component-code",
   propertySlug: "code",
   definition: "the code a component is",

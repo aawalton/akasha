@@ -2,7 +2,7 @@ import type { CodeFileProperty } from "akasha/page/code-file-property/code-file-
 
 export const main = {
   id: "01a05901-26b4-73ac-9aeb-97eb22c92393",
-  type: "code-file-property",
+  type: "page-type/code-file-property",
   slug: "main",
   propertySlug: "main",
   definition: "where a program's run begins",

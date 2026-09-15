@@ -2,7 +2,7 @@ import type { CodeFileProperty } from "akasha/page/code-file-property/code-file-
 
 export const routeTable = {
   id: "01a063f3-c2af-7450-b13c-1abafd59e61a",
-  type: "code-file-property",
+  type: "page-type/code-file-property",
   slug: "route-table",
   propertySlug: "route-table",
   definition: "what names every route a package serves",
