@@ -23,6 +23,10 @@ export const sessionRelationships = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A title and an alias are folded by `page-stem` before either is matched.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "An alias more than one relationship has tags the stretch with no relationship.",
     },
     {

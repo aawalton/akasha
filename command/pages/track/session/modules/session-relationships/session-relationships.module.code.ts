@@ -7,6 +7,7 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
+import { pageStem } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
 
 export type RelationshipPage = {
   readonly id: string
@@ -24,21 +25,13 @@ export type Tagged = {
 
 const RELATIONSHIP_TYPE = "relationship"
 
-export function termOf(said: string): string {
-  return said
-    .normalize("NFKD")
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, " ")
-    .trim()
-}
-
 export function matchedIn(title: string, pages: readonly RelationshipPage[]): readonly string[] {
-  const said = termOf(title)
+  const said = pageStem(title)
   if (said === "") return []
   const byTerm = new Map<string, Set<string>>()
   for (const one of pages) {
     for (const alias of one.aliases) {
-      const term = termOf(alias)
+      const term = pageStem(alias)
       if (term === "") continue
       const held = byTerm.get(term) ?? new Set<string>()
       held.add(one.id)

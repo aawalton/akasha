@@ -7,7 +7,6 @@ import {
   relationshipsFor,
   relationshipsIn,
   taggedFor,
-  termOf,
   tokensIn,
 } from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 
@@ -107,10 +106,10 @@ test("the aliases a page carries are read off the value that page carries", () =
   expect(aliasesIn({ relationshipAliases: ["Jen", "Jenny"] })).toEqual(["Jen", "Jenny"])
 })
 
-test("a term is read without its case, its marks or its accents", () => {
-  expect(termOf("Jen + Eat")).toBe("jen eat")
-  expect(termOf("  Jenny's  ")).toBe("jenny s")
-  expect(termOf("Zoë")).toBe("zoe")
+test("an alias is matched without its case, its marks or its accents", () => {
+  const pages = [{ id: JENNIFER, title: "Zoë Walton", aliases: ["Zoë", "Jenny's"] }]
+  expect(matchedIn("lunch with ZOE", pages)).toEqual([JENNIFER])
+  expect(matchedIn("lunch with jennys", pages)).toEqual([JENNIFER])
 })
 
 test("a title carrying an alias is tagged with the relationship that alias names", () => {
