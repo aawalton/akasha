@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioAllISawWasYou = {
   id: "019ea4f6-dac8-7409-93a6-9297d0dcda69",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-all-i-saw-was-you",
   title: "ALL I SAW WAS YOU",
   artist: "artist/jessica-baio",

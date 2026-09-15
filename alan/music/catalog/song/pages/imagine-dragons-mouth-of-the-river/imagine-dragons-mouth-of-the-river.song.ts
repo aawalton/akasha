@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const imagineDragonsMouthOfTheRiver = {
   id: "019ea499-c596-71db-979f-aad57c30d3b6",
-  type: "song",
+  type: "page-type/song",
   slug: "imagine-dragons-mouth-of-the-river",
   title: "Mouth of the River",
   artist: "artist/imagine-dragons",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioElRoySt = {
   id: "019ea4f7-5fe4-76ef-abcf-878c7e7eacab",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-el-roy-st",
   title: "el roy st.",
   artist: "artist/jessica-baio",

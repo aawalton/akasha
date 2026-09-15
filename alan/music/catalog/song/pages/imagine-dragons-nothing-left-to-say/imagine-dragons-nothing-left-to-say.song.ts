@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const imagineDragonsNothingLeftToSay = {
   id: "019ea498-df2c-7077-b39e-292ba9d90543",
-  type: "song",
+  type: "page-type/song",
   slug: "imagine-dragons-nothing-left-to-say",
   title: "Nothing Left to Say",
   artist: "artist/imagine-dragons",

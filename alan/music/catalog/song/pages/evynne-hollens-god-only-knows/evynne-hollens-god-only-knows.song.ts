@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const evynneHollensGodOnlyKnows = {
   id: "019ea4cf-3f4e-7c78-95af-2c33b0c5300d",
-  type: "song",
+  type: "page-type/song",
   slug: "evynne-hollens-god-only-knows",
   title: "God Only Knows",
   artist: "artist/evynne-hollens",

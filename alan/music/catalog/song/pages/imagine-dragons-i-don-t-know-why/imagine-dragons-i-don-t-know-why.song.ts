@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const imagineDragonsIDonTKnowWhy = {
   id: "019ea497-70c0-77b5-9bdd-79f6f2d4aac2",
-  type: "song",
+  type: "page-type/song",
   slug: "imagine-dragons-i-don-t-know-why",
   title: "I Don’t Know Why",
   artist: "artist/imagine-dragons",

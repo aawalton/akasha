@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioBreakUpWithMe = {
   id: "019ea4f7-35ed-7e30-87ce-c527af9249ff",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-break-up-with-me",
   title: "break up with me",
   artist: "artist/jessica-baio",

@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const evynneHollensNeedYouNow = {
   id: "019ea4cf-153e-761d-86d9-8a28ec8a4a04",
-  type: "song",
+  type: "page-type/song",
   slug: "evynne-hollens-need-you-now",
   title: "Need You Now",
   artist: "artist/evynne-hollens",

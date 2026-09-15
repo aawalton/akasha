@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const imagineDragonsNoTimeForToxicPeople = {
   id: "019ea497-361c-7c9b-b1aa-a56d1d4efb9b",
-  type: "song",
+  type: "page-type/song",
   slug: "imagine-dragons-no-time-for-toxic-people",
   title: "No Time for Toxic People",
   artist: "artist/imagine-dragons",

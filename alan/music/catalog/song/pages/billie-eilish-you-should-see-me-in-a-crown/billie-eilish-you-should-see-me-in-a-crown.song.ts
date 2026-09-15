@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const billieEilishYouShouldSeeMeInACrown = {
   id: "019ea4a9-6baf-77bc-b513-28d0701c131e",
-  type: "song",
+  type: "page-type/song",
   slug: "billie-eilish-you-should-see-me-in-a-crown",
   title: "you should see me in a crown",
   artist: "artist/billie-eilish",

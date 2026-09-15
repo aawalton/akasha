@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const emBeiholdEggInTheBackseat = {
   id: "019ea4df-1a7a-7cb8-927d-6149d99a808e",
-  type: "song",
+  type: "page-type/song",
   slug: "em-beihold-egg-in-the-backseat",
   title: "Egg in the Backseat",
   artist: "artist/em-beihold",

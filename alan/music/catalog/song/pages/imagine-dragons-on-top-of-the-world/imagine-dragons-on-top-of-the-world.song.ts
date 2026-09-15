@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const imagineDragonsOnTopOfTheWorld = {
   id: "019ea497-2e28-705a-95db-fa305173ce2f",
-  type: "song",
+  type: "page-type/song",
   slug: "imagine-dragons-on-top-of-the-world",
   title: "On Top of the World",
   artist: "artist/imagine-dragons",

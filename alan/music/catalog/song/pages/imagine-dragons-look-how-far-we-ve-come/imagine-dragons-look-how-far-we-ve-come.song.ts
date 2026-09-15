@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const imagineDragonsLookHowFarWeVeCome = {
   id: "019ea498-fcbc-7fc1-a3e9-b4f62d58eda1",
-  type: "song",
+  type: "page-type/song",
   slug: "imagine-dragons-look-how-far-we-ve-come",
   title: "Look How Far We’ve Come",
   artist: "artist/imagine-dragons",

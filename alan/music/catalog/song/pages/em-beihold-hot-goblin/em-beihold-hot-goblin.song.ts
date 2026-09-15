@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const emBeiholdHotGoblin = {
   id: "019ea4df-3e67-72f6-90ec-6e2e59a98387",
-  type: "song",
+  type: "page-type/song",
   slug: "em-beihold-hot-goblin",
   title: "Hot Goblin",
   artist: "artist/em-beihold",

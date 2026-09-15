@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const emBeiholdScaredOfTheDark = {
   id: "019ea4df-08f7-7941-a95e-75f01dfbfaa0",
-  type: "song",
+  type: "page-type/song",
   slug: "em-beihold-scared-of-the-dark",
   title: "Scared of the Dark",
   artist: "artist/em-beihold",

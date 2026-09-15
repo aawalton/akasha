@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioBestFriendsWithYourGirlfriend = {
   id: "019ea4f7-1646-7135-8a63-b8336fe32029",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-best-friends-with-your-girlfriend",
   title: "best friends with your girlfriend",
   artist: "artist/jessica-baio",

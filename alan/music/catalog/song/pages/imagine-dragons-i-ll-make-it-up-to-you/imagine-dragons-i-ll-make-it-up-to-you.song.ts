@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const imagineDragonsILlMakeItUpToYou = {
   id: "019ea499-a615-7d2e-99ea-15900836ddc3",
-  type: "song",
+  type: "page-type/song",
   slug: "imagine-dragons-i-ll-make-it-up-to-you",
   title: "I’ll Make It Up to You",
   artist: "artist/imagine-dragons",

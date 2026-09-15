@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const emBeiholdLottery = {
   id: "019ea4df-35c3-769f-99e4-74584f9a58f9",
-  type: "song",
+  type: "page-type/song",
   slug: "em-beihold-lottery",
   title: "Lottery",
   artist: "artist/em-beihold",

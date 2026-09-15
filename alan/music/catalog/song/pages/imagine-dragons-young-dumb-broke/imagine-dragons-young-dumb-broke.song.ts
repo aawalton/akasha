@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const imagineDragonsYoungDumbBroke = {
   id: "019ea49b-5513-7f05-beb9-f22da472b4ac",
-  type: "song",
+  type: "page-type/song",
   slug: "imagine-dragons-young-dumb-broke",
   title: "Young, Dumb & Broke",
   artist: "artist/imagine-dragons",

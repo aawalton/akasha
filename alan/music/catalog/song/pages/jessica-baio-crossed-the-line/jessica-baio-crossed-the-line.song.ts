@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const jessicaBaioCrossedTheLine = {
   id: "019ea4f7-4438-75d3-989d-011d6daba1a8",
-  type: "song",
+  type: "page-type/song",
   slug: "jessica-baio-crossed-the-line",
   title: "crossed the line",
   artist: "artist/jessica-baio",

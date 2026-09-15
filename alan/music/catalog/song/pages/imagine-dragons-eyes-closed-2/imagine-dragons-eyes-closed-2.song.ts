@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const imagineDragonsEyesClosed2 = {
   id: "019ea49b-081d-7c6f-9ded-e7a646c6adcf",
-  type: "song",
+  type: "page-type/song",
   slug: "imagine-dragons-eyes-closed-2",
   title: "Eyes Closed",
   artist: "artist/imagine-dragons",

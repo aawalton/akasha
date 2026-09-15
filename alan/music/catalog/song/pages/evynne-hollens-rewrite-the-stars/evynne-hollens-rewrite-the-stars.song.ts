@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const evynneHollensRewriteTheStars = {
   id: "019ea4cf-5bc8-775c-9c54-b753b1ee9041",
-  type: "song",
+  type: "page-type/song",
   slug: "evynne-hollens-rewrite-the-stars",
   title: "Rewrite the Stars",
   artist: "artist/evynne-hollens",

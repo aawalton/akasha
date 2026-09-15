@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const evynneHollensGrownUpChristmasList = {
   id: "019ea4af-76ea-7964-b5b3-e0fbdc4d5cd8",
-  type: "song",
+  type: "page-type/song",
   slug: "evynne-hollens-grown-up-christmas-list",
   title: "Grown‐Up Christmas List",
   artist: "artist/evynne-hollens",

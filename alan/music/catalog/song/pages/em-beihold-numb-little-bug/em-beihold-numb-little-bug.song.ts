@@ -2,7 +2,7 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 
 export const emBeiholdNumbLittleBug = {
   id: "019ea4df-c0b3-782b-9cdc-d2e19529d545",
-  type: "song",
+  type: "page-type/song",
   slug: "em-beihold-numb-little-bug",
   title: "Numb Little Bug",
   artist: "artist/em-beihold",
