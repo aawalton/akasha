@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0269Chapter278TroubleWithEreka = {
   id: "01a0672c-ec12-7000-91d6-fe8b05f4aab3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0269-chapter-278-trouble-with-ereka",
   title: "Chapter 278 - Trouble With Ereka",
   story: "story-read/mythrans-master-of-all-continued-completed",

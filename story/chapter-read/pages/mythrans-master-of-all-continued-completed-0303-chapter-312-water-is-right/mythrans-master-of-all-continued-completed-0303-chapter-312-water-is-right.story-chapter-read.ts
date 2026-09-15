@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0303Chapter312WaterIsRight = {
   id: "01a0672c-ec33-7000-9180-47a715ec1d34",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0303-chapter-312-water-is-right",
   title: "Chapter 312 - Water is Right",
   story: "story-read/mythrans-master-of-all-continued-completed",

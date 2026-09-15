@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0406Chapter409ShargonCaverns = {
   id: "01a0672c-ec96-7000-ad9a-12d154477a94",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0406-chapter-409-shargon-caverns",
   title: "Chapter 409 - Shargon Caverns",
   story: "story-read/mythrans-master-of-all-continued-completed",

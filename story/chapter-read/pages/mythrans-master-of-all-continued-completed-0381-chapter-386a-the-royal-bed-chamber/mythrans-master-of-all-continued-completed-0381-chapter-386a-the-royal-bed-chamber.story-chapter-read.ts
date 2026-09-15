@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0381Chapter386aTheRoyalBedChamber = {
   id: "01a0672c-ec7f-7000-ba9b-15904900695c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0381-chapter-386a-the-royal-bed-chamber",
   title: "Chapter 386A - The Royal Bed Chamber",
   story: "story-read/mythrans-master-of-all-continued-completed",

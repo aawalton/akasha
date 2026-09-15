@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0421Chapter424NowYouSeeMe = {
   id: "01a0672c-eca1-7000-be6c-a73e18aa654b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0421-chapter-424-now-you-see-me",
   title: "Chapter 424 - Now You See Me",
   story: "story-read/mythrans-master-of-all-continued-completed",

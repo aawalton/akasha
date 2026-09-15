@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0326Chapter334SettlingThings = {
   id: "01a0672c-ec49-7000-88b1-9e9df53423bc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0326-chapter-334-settling-things",
   title: "Chapter 334 - Settling Things",
   story: "story-read/mythrans-master-of-all-continued-completed",

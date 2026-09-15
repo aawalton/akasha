@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0331Chapter338WalinCounty = {
   id: "01a0672c-ec4b-7001-8178-057c3ef42983",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0331-chapter-338-walin-county",
   title: "Chapter 338 - Walin County",
   story: "story-read/mythrans-master-of-all-continued-completed",

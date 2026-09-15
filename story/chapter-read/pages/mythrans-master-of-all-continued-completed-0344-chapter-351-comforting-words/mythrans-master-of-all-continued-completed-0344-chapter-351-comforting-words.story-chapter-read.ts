@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0344Chapter351ComfortingWords = {
   id: "01a0672c-ec59-7000-9824-2626e4812c2d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0344-chapter-351-comforting-words",
   title: "Chapter 351 - Comforting Words",
   story: "story-read/mythrans-master-of-all-continued-completed",

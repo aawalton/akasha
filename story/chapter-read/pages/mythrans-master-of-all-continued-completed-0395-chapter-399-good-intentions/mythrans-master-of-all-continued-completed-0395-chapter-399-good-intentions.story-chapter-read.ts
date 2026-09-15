@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0395Chapter399GoodIntentions = {
   id: "01a0672c-ec89-7000-86e7-5b1b2b62ff09",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0395-chapter-399-good-intentions",
   title: "Chapter 399 - Good Intentions",
   story: "story-read/mythrans-master-of-all-continued-completed",

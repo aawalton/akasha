@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0349Chapter356ChangeCanBeGood = {
   id: "01a0672c-ec5d-7000-bc5a-6c26eae8390f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0349-chapter-356-change-can-be-good",
   title: "Chapter 356 - Change Can Be Good",
   story: "story-read/mythrans-master-of-all-continued-completed",

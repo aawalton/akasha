@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0253Chapter263ToGiveIsToGet = {
   id: "01a0672c-ec03-7000-a328-384e7ca27c1e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0253-chapter-263-to-give-is-to-get",
   title: "Chapter 263 - To Give Is To Get",
   story: "story-read/mythrans-master-of-all-continued-completed",

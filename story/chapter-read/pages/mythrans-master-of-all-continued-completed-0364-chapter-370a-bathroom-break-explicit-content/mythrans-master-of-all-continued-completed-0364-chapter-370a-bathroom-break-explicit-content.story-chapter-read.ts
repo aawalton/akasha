@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0364Chapter370aBathroomBreakExplicitContent = {
   id: "01a0672c-ec6f-7000-a8ce-8aa8ad2931d4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0364-chapter-370a-bathroom-break-explicit-content",
   title: "Chapter 370A - Bathroom Break (Explicit Content)",
   story: "story-read/mythrans-master-of-all-continued-completed",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0373Chapter379ClintsRanchAgain = {
   id: "01a0672c-ec77-7000-8828-6365c90663d2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0373-chapter-379-clints-ranch-again",
   title: "Chapter 379 - Clint's Ranch Again",
   story: "story-read/mythrans-master-of-all-continued-completed",

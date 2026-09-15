@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0432Chapter435TheOneThatYouLove = {
   id: "01a0672c-eca9-7000-a9e7-00ff49fa7dd6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0432-chapter-435-the-one-that-you-love",
   title: "Chapter 435 - The One That You Love",
   story: "story-read/mythrans-master-of-all-continued-completed",

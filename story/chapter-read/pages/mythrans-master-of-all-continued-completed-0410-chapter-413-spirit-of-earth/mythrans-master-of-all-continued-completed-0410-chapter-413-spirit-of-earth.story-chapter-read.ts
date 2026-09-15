@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0410Chapter413SpiritOfEarth = {
   id: "01a0672c-ec99-7000-b900-f1a506e136df",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0410-chapter-413-spirit-of-earth",
   title: "Chapter 413 - Spirit Of Earth",
   story: "story-read/mythrans-master-of-all-continued-completed",

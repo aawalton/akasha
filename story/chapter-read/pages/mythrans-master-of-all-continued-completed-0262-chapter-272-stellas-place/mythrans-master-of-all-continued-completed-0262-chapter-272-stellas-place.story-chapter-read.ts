@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0262Chapter272StellasPlace = {
   id: "01a0672c-ec0d-7000-b0e3-919662337113",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0262-chapter-272-stellas-place",
   title: "Chapter 272 - Stella's Place",
   story: "story-read/mythrans-master-of-all-continued-completed",

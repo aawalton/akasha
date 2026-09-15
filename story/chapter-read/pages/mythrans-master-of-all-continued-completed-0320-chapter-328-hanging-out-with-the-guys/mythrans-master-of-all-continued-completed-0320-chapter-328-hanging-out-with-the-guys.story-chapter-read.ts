@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0320Chapter328HangingOutWithTheGuys = {
   id: "01a0672c-ec43-7000-8237-54f9e6e7f770",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0320-chapter-328-hanging-out-with-the-guys",
   title: "Chapter 328 - Hanging Out With The Guys",
   story: "story-read/mythrans-master-of-all-continued-completed",

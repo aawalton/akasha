@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0365Chapter371GloriaComeOnOver = {
   id: "01a0672c-ec70-7000-8a18-f7b17c226215",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0365-chapter-371-gloria-come-on-over",
   title: "Chapter 371 - Gloria, Come On Over",
   story: "story-read/mythrans-master-of-all-continued-completed",

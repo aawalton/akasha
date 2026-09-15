@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0325Chapter333ABriefBreak = {
   id: "01a0672c-ec47-7000-a8ca-13761696c1c1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0325-chapter-333-a-brief-break",
   title: "Chapter 333 - A Brief Break",
   story: "story-read/mythrans-master-of-all-continued-completed",

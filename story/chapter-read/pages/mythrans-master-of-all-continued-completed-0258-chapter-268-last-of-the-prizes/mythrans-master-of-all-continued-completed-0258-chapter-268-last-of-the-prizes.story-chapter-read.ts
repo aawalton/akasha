@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0258Chapter268LastOfThePrizes = {
   id: "01a0672c-ec08-7001-a76e-124dd2bc1fd1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0258-chapter-268-last-of-the-prizes",
   title: "Chapter 268 - Last Of The Prizes",
   story: "story-read/mythrans-master-of-all-continued-completed",

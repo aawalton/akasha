@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0313Chapter321ExponentialEnchanting = {
   id: "01a0672c-ec3d-7000-92db-5e6207e02453",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0313-chapter-321-exponential-enchanting",
   title: "Chapter 321 - Exponential Enchanting",
   story: "story-read/mythrans-master-of-all-continued-completed",

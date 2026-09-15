@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0292Chapter301CastOff = {
   id: "01a0672c-ec2a-7000-b055-957d005b8c6c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0292-chapter-301-cast-off",
   title: "Chapter 301 - Cast Off",
   story: "story-read/mythrans-master-of-all-continued-completed",

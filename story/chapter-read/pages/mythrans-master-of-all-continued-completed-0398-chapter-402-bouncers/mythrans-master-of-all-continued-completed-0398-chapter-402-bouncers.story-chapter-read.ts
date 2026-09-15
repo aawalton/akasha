@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0398Chapter402Bouncers = {
   id: "01a0672c-ec8e-7000-a105-71ef8e4054f3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0398-chapter-402-bouncers",
   title: "Chapter 402 - Bouncers",
   story: "story-read/mythrans-master-of-all-continued-completed",

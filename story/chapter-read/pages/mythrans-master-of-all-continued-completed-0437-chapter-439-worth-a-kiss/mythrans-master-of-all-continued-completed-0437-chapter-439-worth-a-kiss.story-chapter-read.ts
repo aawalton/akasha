@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0437Chapter439WorthAKiss = {
   id: "01a0672c-ecaf-7000-8cca-7598cc9ab7ac",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0437-chapter-439-worth-a-kiss",
   title: "Chapter 439 - Worth A Kiss",
   story: "story-read/mythrans-master-of-all-continued-completed",

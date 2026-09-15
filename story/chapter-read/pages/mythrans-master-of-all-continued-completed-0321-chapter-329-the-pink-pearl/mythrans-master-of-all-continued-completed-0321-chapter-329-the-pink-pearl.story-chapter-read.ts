@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const mythransMasterOfAllContinuedCompleted0321Chapter329ThePinkPearl = {
   id: "01a0672c-ec44-7000-bb14-e3d2ab6e210e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0321-chapter-329-the-pink-pearl",
   title: "Chapter 329 - The Pink Pearl",
   story: "story-read/mythrans-master-of-all-continued-completed",
