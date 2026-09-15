@@ -14,10 +14,7 @@ import type {
   PageOrder,
   PageSelect,
 } from "akasha/page/access/modules/types/types.module.code.ts"
-import type {
-  Page,
-  PageWhere,
-} from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import type { Page, PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
 const ID_SUFFIX_PATTERN = /^[0-9a-f]{8}$/

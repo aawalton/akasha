@@ -13,10 +13,7 @@ import {
 import { FileWriteError } from "akasha/page/access/modules/file-write-error/file-write-error.module.code.ts"
 import { narrowedFrom } from "akasha/page/access/modules/file-write-narrow/file-write-narrow.module.code.ts"
 import type { PageSelect } from "akasha/page/access/modules/types/types.module.code.ts"
-import type {
-  Page,
-  PageWhere,
-} from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import type { Page, PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 
 const SLUG = "slug"
 
