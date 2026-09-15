@@ -9,6 +9,7 @@ import { everythingIn } from "akasha/check/modules/change-walking/change-walking
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import {
+  extensionPropertiesAt,
   filePropertiesAt,
   folderPropertiesAt,
   pageTypesIn,
@@ -34,9 +35,10 @@ export function checkReachesAPathThroughTheIndex(root: string): readonly Judged[
   const paging = pagingOf((slug) => everyOfType(root, slug))
   const fileProperties = filePropertiesAt(root)
   const folders = folderPropertiesAt(root)
+  const extensions = extensionPropertiesAt(root)
   const judged = judgingOver({
     types,
-    listed: (path) => claimantOf(paging, path, types, fileProperties, folders) !== null,
+    listed: (path) => claimantOf(paging, path, types, fileProperties, folders, extensions) !== null,
     generated: (path) => generatedIn(facing, path),
     toolResolvesPaths: (path) => toolResolvesPathsIn(facing, path),
   })

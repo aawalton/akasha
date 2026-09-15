@@ -3,6 +3,7 @@ import {
   type Warrant,
 } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
+  extensionPropertiesAt,
   filePropertiesAt,
   folderPropertiesAt,
   pageTypesIn,
@@ -34,7 +35,8 @@ export function fileDomain(root: string, path: string): readonly Warrant[] {
     path,
     pageTypesIn(reading),
     filePropertiesAt(reading),
-    folderPropertiesAt(reading)
+    folderPropertiesAt(reading),
+    extensionPropertiesAt(reading)
   )
   if (claimant === null) return []
   const value = valueByPath(reading, claimant)

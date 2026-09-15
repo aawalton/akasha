@@ -3,7 +3,9 @@ import {
   sidecarsOver,
 } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import {
+  type ExtensionsBy,
   entryShapesAt,
+  extensionPropertiesAt,
   type FilePropertiesBy,
   type FoldersBy,
   fileKeysAt,
@@ -67,6 +69,7 @@ export type Answering = {
   readonly declaringOf: (id: string) => readonly Declaring[]
   readonly entryShapesAt: () => ReadonlySet<string>
   readonly everyOfType: (pageTypeSlug: string) => readonly Listed[]
+  readonly extensionPropertiesAt: () => ExtensionsBy
   readonly fileKeysAt: () => ReadonlyMap<string, string | null>
   readonly filePropertiesAt: () => FilePropertiesBy
   readonly folderPropertiesAt: () => FoldersBy
@@ -126,6 +129,7 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     declaringOf: (id) => declaringOf(reading, id),
     entryShapesAt: heldOnce(() => entryShapesAt(reading)),
     everyOfType: (pageTypeSlug) => everyOfType(reading, pageTypeSlug),
+    extensionPropertiesAt: heldOnce(() => extensionPropertiesAt(reading)),
     fileKeysAt: heldOnce(() => fileKeysAt(reading)),
     filePropertiesAt: heldOnce(() => filePropertiesAt(reading)),
     folderPropertiesAt: heldOnce(() => folderPropertiesAt(reading)),

@@ -51,9 +51,10 @@ function judgedFor(shadow: Shadow): (path: string) => boolean {
   const types = shadow.index.pageTypesIn()
   const fileProperties = shadow.index.filePropertiesAt()
   const folders = shadow.index.folderPropertiesAt()
+  const extensions = shadow.index.extensionPropertiesAt()
   const made = judgingOver({
     types,
-    listed: (path) => claimantOf(paging, path, types, fileProperties, folders) !== null,
+    listed: (path) => claimantOf(paging, path, types, fileProperties, folders, extensions) !== null,
     generated: (path) => generatedIn(facingFor(shadow), path),
     toolResolvesPaths: (path) => toolResolvesPathsIn(facingFor(shadow), path),
   })

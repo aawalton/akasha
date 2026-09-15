@@ -52,11 +52,12 @@ function claimingIn(index: Answering, laid: ReadonlyMap<string, boolean>): Claim
   const pageTypes = index.pageTypesIn()
   const fileProperties = index.filePropertiesAt()
   const folders = index.folderPropertiesAt()
+  const extensions = index.extensionPropertiesAt()
   const asked = new Map<string, boolean>()
   return (path) => {
     const done = asked.get(path)
     if (done !== undefined) return done
-    const said = claimantOf(paging, path, pageTypes, fileProperties, folders) !== null
+    const said = claimantOf(paging, path, pageTypes, fileProperties, folders, extensions) !== null
     asked.set(path, said)
     return said
   }

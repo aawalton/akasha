@@ -25,6 +25,7 @@ export function pagesTouchedBy(
   const paging = pagingOf(shadow.index.everyOfType)
   const fileProperties = shadow.index.filePropertiesAt()
   const folders = shadow.index.folderPropertiesAt()
+  const extensions = shadow.index.extensionPropertiesAt()
   const kinds = new Set(pageTypes)
   for (const path of change.changed) {
     const slug = typeSlugIn(path)
@@ -33,7 +34,7 @@ export function pagesTouchedBy(
   const found = new Set<string>()
   for (const path of change.changed) {
     if (pageNamed(path, kinds)) found.add(path)
-    const one = claimantOf(paging, path, kinds, fileProperties, folders)
+    const one = claimantOf(paging, path, kinds, fileProperties, folders, extensions)
     if (one !== null) found.add(one)
   }
   return [...found].sort()

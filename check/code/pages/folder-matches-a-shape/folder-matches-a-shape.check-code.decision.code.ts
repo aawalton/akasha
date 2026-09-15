@@ -112,7 +112,14 @@ function claimedIn(
   const propertySlug = filing.get(basename(held.path))
   if (propertySlug === undefined) return held
   const at = index.filePropertiesAt()
-  const claiming = claimantOf(paging, held.path, pageTypes, at, index.folderPropertiesAt())
+  const claiming = claimantOf(
+    paging,
+    held.path,
+    pageTypes,
+    at,
+    index.folderPropertiesAt(),
+    index.extensionPropertiesAt()
+  )
   if (claiming === null) return held
   return {
     path: held.path,
