@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0110Chapter608Preparations = {
   id: "01a06731-adf2-7000-8bcd-2b3c856e053a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0110-chapter-608-preparations",
   title: "Chapter: 608 - Preparations",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

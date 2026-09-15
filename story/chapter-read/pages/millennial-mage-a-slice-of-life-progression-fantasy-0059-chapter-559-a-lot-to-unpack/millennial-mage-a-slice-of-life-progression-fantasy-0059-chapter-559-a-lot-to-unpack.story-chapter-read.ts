@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0059Chapter559ALotToUnpack = {
   id: "01a06731-adaa-7000-a6e8-c731630384ef",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0059-chapter-559-a-lot-to-unpack",
   title: "Chapter: 559 - A Lot to Unpack",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

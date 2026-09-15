@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0087Chapter587StressAndJoy = {
   id: "01a06731-add3-7000-8355-d49448ba55af",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0087-chapter-587-stress-and-joy",
   title: "Chapter: 587 - Stress and Joy",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

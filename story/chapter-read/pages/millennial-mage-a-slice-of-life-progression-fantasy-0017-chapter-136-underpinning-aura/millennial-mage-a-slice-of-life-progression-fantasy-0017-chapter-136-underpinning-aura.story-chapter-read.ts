@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0017Chapter136UnderpinningAura = {
   id: "01a06731-ad76-7001-a189-ab82db1834bd",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0017-chapter-136-underpinning-aura",
   title: "Chapter: 136 - Underpinning Aura",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

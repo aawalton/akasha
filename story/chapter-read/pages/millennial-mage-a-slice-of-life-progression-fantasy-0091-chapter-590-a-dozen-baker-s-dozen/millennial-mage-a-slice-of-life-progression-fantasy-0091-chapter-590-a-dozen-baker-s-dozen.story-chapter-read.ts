@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0091Chapter590ADozenBakerSDozen = {
   id: "01a06731-add5-7001-8ce2-9efda44f98dd",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0091-chapter-590-a-dozen-baker-s-dozen",
   title: "Chapter: 590 - A Dozen Baker's Dozen",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

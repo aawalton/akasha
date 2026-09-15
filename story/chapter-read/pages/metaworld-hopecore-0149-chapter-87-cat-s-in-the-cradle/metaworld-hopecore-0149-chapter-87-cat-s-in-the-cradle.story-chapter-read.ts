@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0149Chapter87CatSInTheCradle = {
   id: "01a06731-af26-7000-b157-65cc761dadf0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0149-chapter-87-cat-s-in-the-cradle",
   title: "CHAPTER 87 — Cat's in the Cradle",
   story: "story-read/metaworld-hopecore",

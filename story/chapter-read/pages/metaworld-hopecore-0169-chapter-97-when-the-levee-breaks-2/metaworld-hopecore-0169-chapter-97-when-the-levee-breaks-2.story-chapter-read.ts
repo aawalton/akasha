@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0169Chapter97WhenTheLeveeBreaks2 = {
   id: "01a06731-af36-7000-b8a6-0e285b664100",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0169-chapter-97-when-the-levee-breaks-2",
   title: "CHAPTER 97 - When the Levee Breaks (2)",
   story: "story-read/metaworld-hopecore",

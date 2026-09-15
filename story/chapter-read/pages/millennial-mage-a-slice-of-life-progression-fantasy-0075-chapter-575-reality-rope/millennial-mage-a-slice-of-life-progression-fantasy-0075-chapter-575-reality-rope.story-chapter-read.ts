@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0075Chapter575RealityRope = {
   id: "01a06731-adc3-7000-9713-7af9cddff792",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0075-chapter-575-reality-rope",
   title: "Chapter: 575 - Reality Rope",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

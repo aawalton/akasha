@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0002ImageGallery = {
   id: "01a06731-ad60-7001-b4c6-77b4f3e86f33",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0002-image-gallery",
   title: "Image Gallery",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

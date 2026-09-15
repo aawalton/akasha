@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0117Chapter615RightToBusiness = {
   id: "01a06731-adff-7000-b028-ac8604e2990f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0117-chapter-615-right-to-business",
   title: "Chapter: 615 - Right to Business",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

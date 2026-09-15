@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0105Chapter603ThingsWentSideways = {
   id: "01a06731-adeb-7000-8eea-6452e13d40ac",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0105-chapter-603-things-went-sideways",
   title: "Chapter: 603 - Things Went Sideways",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

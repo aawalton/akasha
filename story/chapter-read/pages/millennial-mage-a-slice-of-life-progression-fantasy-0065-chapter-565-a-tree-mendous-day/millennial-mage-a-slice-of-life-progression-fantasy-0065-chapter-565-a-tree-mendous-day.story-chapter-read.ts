@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0065Chapter565ATreeMendousDay = {
   id: "01a06731-adb3-7000-ac6a-bd16f5c6d298",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0065-chapter-565-a-tree-mendous-day",
   title: "Chapter: 565 - A Tree-mendous Day",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

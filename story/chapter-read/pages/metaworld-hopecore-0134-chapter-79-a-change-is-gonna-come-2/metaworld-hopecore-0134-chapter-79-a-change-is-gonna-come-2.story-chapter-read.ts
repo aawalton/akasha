@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0134Chapter79AChangeIsGonnaCome2 = {
   id: "01a06731-af1b-7000-a5f8-18dcc0eca373",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0134-chapter-79-a-change-is-gonna-come-2",
   title: "CHAPTER 79 - A Change Is Gonna Come (2) ",
   story: "story-read/metaworld-hopecore",

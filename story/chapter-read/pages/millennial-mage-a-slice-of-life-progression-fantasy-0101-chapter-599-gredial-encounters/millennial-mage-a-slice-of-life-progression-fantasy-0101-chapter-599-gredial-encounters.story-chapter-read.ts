@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0101Chapter599GredialEncounters = {
   id: "01a06731-ade5-7000-b2e5-d1e2b4036b39",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0101-chapter-599-gredial-encounters",
   title: "Chapter: 599 - Gredial Encounters",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

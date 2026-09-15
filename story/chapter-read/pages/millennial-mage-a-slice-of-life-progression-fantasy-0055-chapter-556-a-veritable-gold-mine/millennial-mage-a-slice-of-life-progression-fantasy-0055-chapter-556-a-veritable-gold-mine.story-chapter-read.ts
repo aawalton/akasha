@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0055Chapter556AVeritableGoldMine = {
   id: "01a06731-ada6-7000-afda-a3152ea0ffcb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0055-chapter-556-a-veritable-gold-mine",
   title: "Chapter: 556 - A Veritable Gold-Mine",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

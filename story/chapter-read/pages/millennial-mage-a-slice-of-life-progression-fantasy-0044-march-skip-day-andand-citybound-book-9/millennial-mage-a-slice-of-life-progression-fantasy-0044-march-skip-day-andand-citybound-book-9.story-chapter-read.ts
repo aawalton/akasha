@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0044MarchSkipDayAndandCityboundBook9 = {
   id: "01a06731-ad97-7000-9eb2-f13933f1516e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0044-march-skip-day-andand-citybound-book-9",
   title: "March Skip Day && Citybound - Book 9 Cover Reveal!",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

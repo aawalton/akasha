@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0082Chapter582StartledAndBemused = {
   id: "01a06731-adcc-7000-af7e-580da8ae9f7e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0082-chapter-582-startled-and-bemused",
   title: "Chapter: 582 - Startled and Bemused",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0131NotAChapterShamelessSelfPlug = {
   id: "01a06731-ae18-7000-8099-ec2842ad2d68",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0131-not-a-chapter-shameless-self-plug",
   title: "<Not a Chapter> Shameless Self-Plug",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

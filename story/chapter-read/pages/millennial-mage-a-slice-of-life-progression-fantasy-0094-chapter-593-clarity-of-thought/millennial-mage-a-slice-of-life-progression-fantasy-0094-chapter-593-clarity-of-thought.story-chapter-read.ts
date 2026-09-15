@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0094Chapter593ClarityOfThought = {
   id: "01a06731-addc-7000-8523-b95cbd16d030",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0094-chapter-593-clarity-of-thought",
   title: "Chapter: 593 - Clarity of Thought",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

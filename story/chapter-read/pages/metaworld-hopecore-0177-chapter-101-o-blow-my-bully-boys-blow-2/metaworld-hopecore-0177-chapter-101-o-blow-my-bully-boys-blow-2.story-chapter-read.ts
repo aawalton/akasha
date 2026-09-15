@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0177Chapter101OBlowMyBullyBoysBlow2 = {
   id: "01a090ca-2da3-76b7-a453-9a2edeeb820e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0177-chapter-101-o-blow-my-bully-boys-blow-2",
   position: 177,
   publishedAt: "2026-09-11",

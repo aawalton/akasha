@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0174Chapter100PeopleGetReady = {
   id: "01a083e8-0e81-7654-ba98-7ab503d6a361",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0174-chapter-100-people-get-ready",
   position: 174,
   publishedAt: "2026-09-09",

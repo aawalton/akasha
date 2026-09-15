@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0041Chapter543UnidealTiming = {
   id: "01a06731-ad8b-7000-88b7-b81062ec8b49",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0041-chapter-543-unideal-timing",
   title: "Chapter: 543 - Unideal Timing",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

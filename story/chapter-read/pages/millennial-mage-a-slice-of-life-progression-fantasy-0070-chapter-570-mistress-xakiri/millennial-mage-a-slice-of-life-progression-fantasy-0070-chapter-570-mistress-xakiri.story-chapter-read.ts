@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0070Chapter570MistressXakiri = {
   id: "01a06731-adbb-7000-bd56-e9c82d4c6d1e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0070-chapter-570-mistress-xakiri",
   title: "Chapter: 570 - Mistress Xakiri",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

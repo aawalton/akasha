@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0125Chapter623AlwaysOneMoreSecret = {
   id: "01a06731-ae0e-7000-8804-a801067e6051",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0125-chapter-623-always-one-more-secret",
   title: "Chapter: 623 - Always One More Secret",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

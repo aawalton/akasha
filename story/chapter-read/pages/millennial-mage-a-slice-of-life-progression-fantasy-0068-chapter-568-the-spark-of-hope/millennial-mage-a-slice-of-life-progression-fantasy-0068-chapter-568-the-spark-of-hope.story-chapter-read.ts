@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0068Chapter568TheSparkOfHope = {
   id: "01a06731-adb9-7000-bd78-926596e44f9a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0068-chapter-568-the-spark-of-hope",
   title: "Chapter: 568 - The Spark of Hope",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

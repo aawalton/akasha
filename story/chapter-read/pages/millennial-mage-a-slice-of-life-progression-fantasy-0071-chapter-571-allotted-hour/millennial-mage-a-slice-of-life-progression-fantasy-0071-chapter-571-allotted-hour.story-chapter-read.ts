@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0071Chapter571AllottedHour = {
   id: "01a06731-adbd-7000-9415-8ce2122f0f6b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0071-chapter-571-allotted-hour",
   title: "Chapter: 571 - Allotted Hour",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

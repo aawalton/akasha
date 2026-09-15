@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0049Chapter550TheWhiteSteelFlowed = {
   id: "01a06731-ad9c-7000-b83d-c192e921c372",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0049-chapter-550-the-white-steel-flowed",
   title: "Chapter: 550 - The White Steel Flowed",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

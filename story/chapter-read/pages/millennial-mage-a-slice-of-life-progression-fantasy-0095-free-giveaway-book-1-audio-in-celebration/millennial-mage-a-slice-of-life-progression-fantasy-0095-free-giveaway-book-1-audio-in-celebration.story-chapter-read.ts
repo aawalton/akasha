@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0095FreeGiveawayBook1AudioInCelebration = {
   id: "01a06731-addd-7000-b2c1-546f94d9736e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0095-free-giveaway-book-1-audio-in-celebration",
   title: "<FREE Giveaway> Book 1 Audio in Celebration of Book 10's Upcoming Release",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0004Chapter2TheCaravannerSGuild = {
   id: "01a06731-ad63-7000-a4d3-f593cc5a7e38",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0004-chapter-2-the-caravanner-s-guild",
   title: "Chapter: 2 - The Caravanner’s Guild",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

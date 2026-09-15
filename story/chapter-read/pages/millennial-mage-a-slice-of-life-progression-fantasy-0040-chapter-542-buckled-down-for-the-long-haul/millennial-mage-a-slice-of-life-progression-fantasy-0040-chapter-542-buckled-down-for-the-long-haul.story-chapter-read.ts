@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0040Chapter542BuckledDownForTheLongHaul = {
   id: "01a06731-ad8a-7000-aafd-efd7e0c7eaac",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0040-chapter-542-buckled-down-for-the-long-haul",
   title: "Chapter: 542 - Buckled Down for the Long-Haul",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

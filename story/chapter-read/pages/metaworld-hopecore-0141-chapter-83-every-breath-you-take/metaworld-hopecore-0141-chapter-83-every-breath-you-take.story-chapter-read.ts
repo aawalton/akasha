@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const metaworldHopecore0141Chapter83EveryBreathYouTake = {
   id: "01a06731-af1d-7003-bdaa-be9567e3f532",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0141-chapter-83-every-breath-you-take",
   title: "CHAPTER 83 — Every Breath You Take ",
   story: "story-read/metaworld-hopecore",

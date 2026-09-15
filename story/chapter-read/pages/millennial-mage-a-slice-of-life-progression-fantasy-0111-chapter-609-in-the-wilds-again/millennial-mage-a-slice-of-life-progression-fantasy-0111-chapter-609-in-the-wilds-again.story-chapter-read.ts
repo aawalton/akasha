@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0111Chapter609InTheWildsAgain = {
   id: "01a06731-adf3-7000-bf95-2d4f36a63e44",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0111-chapter-609-in-the-wilds-again",
   title: "Chapter: 609 - In the Wilds Again",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

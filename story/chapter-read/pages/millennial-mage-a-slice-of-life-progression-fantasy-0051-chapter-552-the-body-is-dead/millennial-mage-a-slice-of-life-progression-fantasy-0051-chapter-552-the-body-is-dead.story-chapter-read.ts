@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0051Chapter552TheBodyIsDead = {
   id: "01a06731-ada1-7000-870f-de050fdb4965",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0051-chapter-552-the-body-is-dead",
   title: "Chapter: 552 - The Body is Dead",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0141Chapter638EndureOrBeDevoured = {
   id: "01a06731-ae27-7000-8a8a-8254db7507ca",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0141-chapter-638-endure-or-be-devoured",
   title: "Chapter: 638 - Endure or be Devoured",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

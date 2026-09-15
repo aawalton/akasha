@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0138Chapter635PassInPeace = {
   id: "01a06731-ae22-7000-b1b7-ff5059b371b3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0138-chapter-635-pass-in-peace",
   title: "Chapter: 635 - Pass in Peace",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",

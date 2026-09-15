@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const millennialMageASliceOfLifeProgressionFantasy0122Chapter620ArchonCompound = {
   id: "01a06731-ae0b-7000-9a17-7a2c9003a8c2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0122-chapter-620-archon-compound",
   title: "Chapter: 620 - Archon Compound",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
