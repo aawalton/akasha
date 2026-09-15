@@ -21,6 +21,8 @@ export const INFERENCE_SERVICE = "service-inference"
 
 export const ESO_ADDON = "eso-addon"
 
+export const CLUSTER_FOUNDATION = "cluster-foundation"
+
 export type Kind =
   | typeof WEB_APP
   | typeof IOS_APP
@@ -29,6 +31,7 @@ export type Kind =
   | typeof CONTAINER_RECIPE
   | typeof INFERENCE_SERVICE
   | typeof ESO_ADDON
+  | typeof CLUSTER_FOUNDATION
 
 export type Named = {
   readonly kind: Kind
@@ -83,6 +86,7 @@ export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileA
     CONTAINER_RECIPE,
     INFERENCE_SERVICE,
     ESO_ADDON,
+    CLUSTER_FOUNDATION,
   ] as const
   for (const kind of rest) {
     for (const one of pathsNamed(root, kind, slug)) found.push({ kind, pagePath: one })
@@ -99,8 +103,9 @@ export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileA
     const recipes = having("container recipe", slugsOfType(root, CONTAINER_RECIPE))
     const models = having("inference service", slugsOfType(root, INFERENCE_SERVICE))
     const addons = having("eso addon", slugsOfType(root, ESO_ADDON))
+    const grounds = having("cluster foundation", slugsOfType(root, CLUSTER_FOUNDATION))
     return {
-      refused: `no page of any kind a deploy puts up is named \`${slug}\` — ${webs}, ${ioses}, ${servers}, ${runners}, ${recipes}, ${models}, and ${addons}`,
+      refused: `no page of any kind a deploy puts up is named \`${slug}\` — ${webs}, ${ioses}, ${servers}, ${runners}, ${recipes}, ${models}, ${addons}, and ${grounds}`,
     }
   }
   if (left.length > 1) {

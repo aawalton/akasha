@@ -3,6 +3,7 @@ import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import {
   type Apps,
+  CLUSTER_FOUNDATION,
   CLUSTER_SERVICE,
   IOS_APP,
   kindNamed,
@@ -28,6 +29,8 @@ const SERVICES_AT = "akasha/services/clusters/pages"
 const UNITS_AT = "akasha/services/workstations/pages"
 
 const TYPES_AT = "akasha/services/workstations"
+
+const GROUNDS_AT = "akasha/services/foundations/pages"
 
 type World = {
   readonly root: string
@@ -63,6 +66,7 @@ function seededWorld(): World {
   filed(SERVICES_AT, "bothWays", "both-ways", "service-cluster")
   filed(UNITS_AT, "oneUnit", "one-unit", "service-workstation")
   filed(TYPES_AT, "serviceWorkstation", "service-workstation", "page-type")
+  filed(GROUNDS_AT, "oneGround", "one-ground", "cluster-foundation")
   return {
     root,
     sweep: (): undefined => {
@@ -123,6 +127,21 @@ test("a slug no kind carries is refused by naming all three kinds", () => {
   expect(why).toContain("one-web")
   expect(why).toContain("phone-app")
   expect(why).toContain("one-service")
+})
+
+test("a slug only a cluster foundation page carries is answered as a cluster foundation", () => {
+  const read = kindNamed(WORLD.root, "one-ground", ios)
+  expect(read).toEqual({
+    kind: CLUSTER_FOUNDATION,
+    pagePath: `${GROUNDS_AT}/one-ground.cluster-foundation.ts`,
+  })
+})
+
+test("a slug no kind carries is refused by naming the foundations too", () => {
+  const read = kindNamed(WORLD.root, "no-such-app", ios)
+  const why = (read as { refused: string }).refused
+  expect(why).toContain("cluster foundation")
+  expect(why).toContain("one-ground")
 })
 
 test("a slug only a cluster service page carries is answered as a cluster service", () => {

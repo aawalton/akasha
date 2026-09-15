@@ -80,6 +80,10 @@ export const deployKindReading = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A cluster foundation is an eighth kind a slug may name.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A kind's own name is read as every page of that kind rather than as one page.",
     },
     {
