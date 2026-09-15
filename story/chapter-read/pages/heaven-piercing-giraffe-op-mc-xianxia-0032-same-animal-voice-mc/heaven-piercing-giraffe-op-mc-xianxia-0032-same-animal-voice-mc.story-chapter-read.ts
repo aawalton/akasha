@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heavenPiercingGiraffeOpMcXianxia0032SameAnimalVoiceMc = {
   id: "01a090ca-2838-77f1-872e-50c88173bdb0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0032-same-animal-voice-mc",
   position: 32,
   publishedAt: "2026-09-11",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0190Chapter862GlassHouse = {
   id: "01a06731-ad95-7002-afeb-c7aaadfc733d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0190-chapter-862-glass-house",
   title: "Chapter 862 - Glass House",
   story: "story-read/hell-difficulty-tutorial",

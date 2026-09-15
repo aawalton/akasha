@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0082Chapter757PartyPooperAndGrumpy = {
   id: "01a06731-ad7f-7001-a02d-df6330f3fd78",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0082-chapter-757-party-pooper-and-grumpy",
   title: "Chapter 757 - Party pooper and Grumpy",
   story: "story-read/hell-difficulty-tutorial",

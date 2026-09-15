@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0044Chapter719InSync = {
   id: "01a06731-ad72-7002-bae1-aa6eacfcbd07",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0044-chapter-719-in-sync",
   title: "Chapter 719 - In sync",
   story: "story-read/hell-difficulty-tutorial",

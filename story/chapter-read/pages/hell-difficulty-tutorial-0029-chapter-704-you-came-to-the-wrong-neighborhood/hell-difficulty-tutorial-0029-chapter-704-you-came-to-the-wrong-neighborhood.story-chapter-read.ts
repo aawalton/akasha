@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0029Chapter704YouCameToTheWrongNeighborhood = {
   id: "01a06731-ad6e-7003-8146-b9a90d558671",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0029-chapter-704-you-came-to-the-wrong-neighborhood",
   title: "Chapter 704 - You Came to the Wrong Neighborhood",
   story: "story-read/hell-difficulty-tutorial",

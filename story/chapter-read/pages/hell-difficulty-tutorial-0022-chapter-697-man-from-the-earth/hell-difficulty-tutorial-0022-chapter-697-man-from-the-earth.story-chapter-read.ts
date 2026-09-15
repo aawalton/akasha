@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0022Chapter697ManFromTheEarth = {
   id: "01a06731-ad6c-7014-989f-49f8b2378440",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0022-chapter-697-man-from-the-earth",
   title: "Chapter 697 - Man from the Earth",
   story: "story-read/hell-difficulty-tutorial",

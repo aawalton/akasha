@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0111Chapter786TheLycan = {
   id: "01a06731-ad83-7006-99fc-c97fad83af2a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0111-chapter-786-the-lycan",
   title: "Chapter 786 - The Lycan",
   story: "story-read/hell-difficulty-tutorial",

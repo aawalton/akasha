@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0040Chapter715TheLootTheBeyondQuestAndTheTwo = {
   id: "01a06731-ad70-7008-aca4-26abd0ca6d87",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0040-chapter-715-the-loot-the-beyond-quest-and-the-two",
   title: "Chapter 715 - The Loot, the Beyond quest, and the two assholes",
   story: "story-read/hell-difficulty-tutorial",

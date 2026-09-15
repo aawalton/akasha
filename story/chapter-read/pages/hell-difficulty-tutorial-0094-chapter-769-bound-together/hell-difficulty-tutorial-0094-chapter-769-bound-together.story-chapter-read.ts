@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0094Chapter769BoundTogether = {
   id: "01a06731-ad82-7005-a060-b2b9debe9e38",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0094-chapter-769-bound-together",
   title: "Chapter 769 - Bound together",
   story: "story-read/hell-difficulty-tutorial",

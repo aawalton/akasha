@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0095Chapter770FightBetweenTwoSRanks = {
   id: "01a06731-ad82-7006-af9e-f670322294b2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0095-chapter-770-fight-between-two-s-ranks",
   title: "Chapter 770 - Fight between two S-ranks",
   story: "story-read/hell-difficulty-tutorial",

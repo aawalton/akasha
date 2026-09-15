@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0122Chapter796SirElydor = {
   id: "01a06731-ad86-7006-8940-a8187a4c8e17",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0122-chapter-796-sir-elydor",
   title: "Chapter 796 - Sir Elydor",
   story: "story-read/hell-difficulty-tutorial",

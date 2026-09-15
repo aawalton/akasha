@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const heavenPiercingGiraffeOpMcXianxia0029Chapter29DeathsBride = {
   id: "01a06731-b11e-7007-80f7-3d8fd8b929e7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0029-chapter-29-deaths-bride",
   title: "Chapter 29: Death's Bride",
   story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",

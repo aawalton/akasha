@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0158Chapter831TrulyARoyalGift = {
   id: "01a06731-ad8a-7001-8bb2-60d963f0e0ce",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0158-chapter-831-truly-a-royal-gift",
   title: "Chapter 831 - Truly, a royal gift",
   story: "story-read/hell-difficulty-tutorial",

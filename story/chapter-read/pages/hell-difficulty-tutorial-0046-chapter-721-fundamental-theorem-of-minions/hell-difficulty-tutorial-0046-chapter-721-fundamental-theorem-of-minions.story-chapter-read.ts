@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0046Chapter721FundamentalTheoremOfMinions = {
   id: "01a06731-ad72-7004-98aa-15dba0d95d32",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0046-chapter-721-fundamental-theorem-of-minions",
   title: "Chapter 721 - Fundamental theorem of minions",
   story: "story-read/hell-difficulty-tutorial",

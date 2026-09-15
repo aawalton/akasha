@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0102Chapter777ASilentAcknowledgment = {
   id: "01a06731-ad82-700d-9e07-ae83545aace8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0102-chapter-777-a-silent-acknowledgment",
   title: "Chapter 777 - A silent acknowledgment",
   story: "story-read/hell-difficulty-tutorial",

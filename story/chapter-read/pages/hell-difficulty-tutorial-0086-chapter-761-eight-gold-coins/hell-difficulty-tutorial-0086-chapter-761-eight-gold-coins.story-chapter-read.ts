@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0086Chapter761EightGoldCoins = {
   id: "01a06731-ad80-7000-9741-b0fe930f3379",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0086-chapter-761-eight-gold-coins",
   title: "Chapter 761 - Eight gold coins",
   story: "story-read/hell-difficulty-tutorial",

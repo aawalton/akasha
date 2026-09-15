@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0192Chapter864ACompetitionInTheEnd = {
   id: "01a06731-ad95-7004-94e1-e07667b24aa8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0192-chapter-864-a-competition-in-the-end",
   title: "Chapter 864 - A Competition in the end",
   story: "story-read/hell-difficulty-tutorial",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0142Chapter815PrecautionaryMeasure = {
   id: "01a06731-ad89-7001-834e-00e4314012a2",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0142-chapter-815-precautionary-measure",
   title: "Chapter 815 - Precautionary measure",
   story: "story-read/hell-difficulty-tutorial",

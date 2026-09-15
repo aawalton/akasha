@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0039Chapter714TheGraySun = {
   id: "01a06731-ad70-7007-8e99-6cb0946ba1d1",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0039-chapter-714-the-gray-sun",
   title: "Chapter 714 - The Gray Sun",
   story: "story-read/hell-difficulty-tutorial",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0053Chapter728TheMostBeautifulWomanToEverLive = {
   id: "01a06731-ad72-700b-b79a-493ebcf08fea",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0053-chapter-728-the-most-beautiful-woman-to-ever-live",
   title: "Chapter 728 - The most beautiful woman to ever live",
   story: "story-read/hell-difficulty-tutorial",

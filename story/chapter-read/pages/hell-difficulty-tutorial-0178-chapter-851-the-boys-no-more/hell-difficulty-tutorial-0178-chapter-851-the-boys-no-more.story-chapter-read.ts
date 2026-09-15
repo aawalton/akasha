@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0178Chapter851TheBoysNoMore = {
   id: "01a06731-ad93-7002-ad7b-82cff702e84d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0178-chapter-851-the-boys-no-more",
   title: "Chapter 851 - The Boys No More",
   story: "story-read/hell-difficulty-tutorial",

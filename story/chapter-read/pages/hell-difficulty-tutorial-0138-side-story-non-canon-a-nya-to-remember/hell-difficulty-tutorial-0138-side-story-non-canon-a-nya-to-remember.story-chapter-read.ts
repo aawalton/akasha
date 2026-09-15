@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const hellDifficultyTutorial0138SideStoryNonCanonANyaToRemember = {
   id: "01a06731-ad88-7001-97f9-744def06f443",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "hell-difficulty-tutorial-0138-side-story-non-canon-a-nya-to-remember",
   title: "Side story (non-canon) - A Nya to Remember",
   story: "story-read/hell-difficulty-tutorial",
