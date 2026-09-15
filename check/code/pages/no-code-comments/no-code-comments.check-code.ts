@@ -39,6 +39,6 @@ export const noCodeComments = {
       statement: "A shebang is trivia the parser takes before any comment.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode
