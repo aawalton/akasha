@@ -2,7 +2,7 @@ import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/te
 
 export const companionJewelry = {
   id: "019e3104-cc16-7880-b037-9115715acad9",
-  type: "temper-source-category",
+  type: "page-type/temper-source-category",
   slug: "companion-jewelry",
   title: "Companion Jewelry",
   displayOrder: 22,

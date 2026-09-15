@@ -2,7 +2,7 @@ import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/te
 
 export const weapons = {
   id: "019e3104-cc02-77ac-918d-35ca3681139c",
-  type: "temper-source-category",
+  type: "page-type/temper-source-category",
   slug: "weapons",
   title: "Weapons",
   displayOrder: 5,

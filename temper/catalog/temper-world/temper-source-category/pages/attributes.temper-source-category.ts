@@ -2,7 +2,7 @@ import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/te
 
 export const attributes = {
   id: "019e3104-cbfb-7f99-942f-64417431dcb9",
-  type: "temper-source-category",
+  type: "page-type/temper-source-category",
   slug: "attributes",
   title: "Attributes",
   displayOrder: 2,

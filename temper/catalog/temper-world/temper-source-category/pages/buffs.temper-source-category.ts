@@ -2,7 +2,7 @@ import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/te
 
 export const buffs = {
   id: "019e3104-cc0c-7c01-b3f9-5982d542894d",
-  type: "temper-source-category",
+  type: "page-type/temper-source-category",
   slug: "buffs",
   title: "Buffs",
   displayOrder: 13,

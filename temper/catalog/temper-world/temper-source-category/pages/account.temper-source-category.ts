@@ -2,7 +2,7 @@ import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/te
 
 export const account = {
   id: "019e3104-cc10-7894-8d01-47bfcbb4b423",
-  type: "temper-source-category",
+  type: "page-type/temper-source-category",
   slug: "account",
   title: "Account",
   displayOrder: 16,

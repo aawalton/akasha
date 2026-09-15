@@ -2,7 +2,7 @@ import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/te
 
 export const mundusStone = {
   id: "019e3104-cc09-72af-8b30-66d811fbaf36",
-  type: "temper-source-category",
+  type: "page-type/temper-source-category",
   slug: "mundus-stone",
   title: "Mundus Stone",
   displayOrder: 10,

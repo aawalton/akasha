@@ -2,7 +2,7 @@ import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/te
 
 export const armor = {
   id: "019e3104-cbfe-721f-ab5e-d48ed8335f31",
-  type: "temper-source-category",
+  type: "page-type/temper-source-category",
   slug: "armor",
   title: "Armor",
   displayOrder: 3,
