@@ -297,3 +297,38 @@ test("a page moved from under an importer not yet repointed leaves no references
   expect(settled.refused).toEqual([])
   expect(settled.reading.read(REFERENCES_LEFT)).toBe(null)
 })
+
+const MOVED_REFERENCES = "akasha/moved/held.module.referenced-by.jsonl"
+
+test("a page moving takes to its new place the names it had, and leaves the imports behind", () => {
+  const root = indexedRepo()
+  const textOf = textIn(root)
+  const page = textOf(HELD_PAGE)
+  const code = textOf(HELD_CODE)
+  const moving = [
+    { path: HELD_PAGE, before: page, after: null },
+    { path: MOVED_PAGE, before: null, after: page },
+    { path: HELD_CODE, before: code, after: null },
+    { path: MOVED_CODE, before: null, after: code },
+  ]
+  const held = new Map(moving.map((one) => [one.path, one.after] as const))
+  const bodyAt = (at: string): string | null => (held.has(at) ? (held.get(at) ?? null) : textOf(at))
+  const was = textOf(REFERENCES_LEFT) ?? ""
+  expect(was).toContain(NAMER_PAGE)
+  expect(was).toContain(NAMER_CODE)
+
+  const settled = settlingOver(
+    readingIn(root),
+    root,
+    moving,
+    (path) => {
+      const body = bodyAt(path)
+      return body === null ? null : valueIn(body)
+    },
+    bodyAt
+  )
+
+  const now = settled.reading.read(MOVED_REFERENCES) ?? ""
+  expect(now).toContain(NAMER_PAGE)
+  expect(now).not.toContain(NAMER_CODE)
+})
