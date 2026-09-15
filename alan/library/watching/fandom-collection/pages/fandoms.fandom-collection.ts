@@ -2,7 +2,7 @@ import type { FandomCollection } from "akasha/alan/library/watching/fandom-colle
 
 export const fandoms = {
   id: "01a06808-5f7f-7001-a672-80b66c761e1e",
-  type: "fandom-collection",
+  type: "page-type/fandom-collection",
   slug: "fandoms",
   title: "Fandoms",
   position: 0,
