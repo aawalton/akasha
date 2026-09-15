@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const dmarcSenderOther = {
   id: "01a06863-fbe8-7e8f-b007-0de759a54215",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "dmarc-sender-other",
   title: "Dmarc sender other",
   matches: [

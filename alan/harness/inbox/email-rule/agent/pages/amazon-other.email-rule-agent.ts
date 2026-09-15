@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const amazonOther = {
   id: "01a06863-fbe8-7f83-99bc-93eecc2a6180",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "amazon-other",
   title: "Amazon other",
   matches: [

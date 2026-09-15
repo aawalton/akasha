@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const familyLinkOther = {
   id: "01a06863-fbe9-74e9-a0dd-8933309fbd22",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "family-link-other",
   title: "Family link other",
   matches: [

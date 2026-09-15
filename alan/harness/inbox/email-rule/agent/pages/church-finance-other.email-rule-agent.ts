@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const churchFinanceOther = {
   id: "01a06863-fbe8-7e61-b27e-6ec3fa303a5c",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "church-finance-other",
   title: "Church finance other",
   matches: [

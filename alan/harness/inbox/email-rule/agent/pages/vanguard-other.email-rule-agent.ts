@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const vanguardOther = {
   id: "01a06863-fbe9-7beb-b3e9-2216e374fd3b",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "vanguard-other",
   title: "Vanguard other",
   matches: [

@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const intermountainOther = {
   id: "01a06863-fbe9-765a-b1ef-9d71b0b63f1d",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "intermountain-other",
   title: "Intermountain other",
   matches: [

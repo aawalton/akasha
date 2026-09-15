@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const enteIcloudOther = {
   id: "01a06863-fbe8-7bd3-906f-0de328c19021",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "ente-icloud-other",
   title: "Ente icloud other",
   matches: [

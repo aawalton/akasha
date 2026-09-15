@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const googleplayOther = {
   id: "01a06863-fbe9-748b-8169-9d9472c4906c",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "googleplay-other",
   title: "Googleplay other",
   matches: [

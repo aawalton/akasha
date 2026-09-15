@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const kslOther = {
   id: "01a06863-fbe9-71c1-83be-5ac86afc61d9",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "ksl-other",
   title: "Ksl other",
   matches: [

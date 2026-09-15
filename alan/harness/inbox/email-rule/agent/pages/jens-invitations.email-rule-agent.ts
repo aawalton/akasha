@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const jensInvitations = {
   id: "01a06863-fbe9-708d-acd8-3978be595aa5",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "jens-invitations",
   title: "Jens invitations",
   matches: [

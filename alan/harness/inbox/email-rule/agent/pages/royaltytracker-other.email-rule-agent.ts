@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const royaltytrackerOther = {
   id: "01a06863-fbe9-783a-89c4-f5e4918a3524",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "royaltytracker-other",
   title: "Royaltytracker other",
   matches: [

@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const wanderingInn = {
   id: "01a06863-fbe9-7867-a6d3-481549d39ef3",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "wandering-inn",
   title: "Wandering inn",
   matches: [{ field: "from", comparison: "ends-with", values: ["wanderinginn.com"] }],

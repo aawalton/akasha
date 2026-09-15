@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const vercelOther = {
   id: "01a06863-fbe9-7a2e-a862-908814d55c1f",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "vercel-other",
   title: "Vercel other",
   matches: [

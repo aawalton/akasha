@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const uccuOther = {
   id: "01a06863-fbe9-71a0-be30-54a834753ad1",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "uccu-other",
   title: "Uccu other",
   matches: [

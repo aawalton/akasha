@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const synchronyPaymentOther = {
   id: "01a06863-fbe9-76be-b152-44092cbf06ca",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "synchrony-payment-other",
   title: "Synchrony payment other",
   matches: [

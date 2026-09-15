@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const meetupOther = {
   id: "01a06863-fbe9-7042-bae1-6c53948ec4f3",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "meetup-other",
   title: "Meetup other",
   matches: [

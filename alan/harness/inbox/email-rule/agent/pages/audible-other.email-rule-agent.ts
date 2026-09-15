@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const audibleOther = {
   id: "01a06863-fbe8-7909-9a41-1d46921832ae",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "audible-other",
   title: "Audible other",
   matches: [

@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const todoistOther = {
   id: "01a06863-fbe9-78c1-8ffa-abf5582ccf42",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "todoist-other",
   title: "Todoist other",
   matches: [

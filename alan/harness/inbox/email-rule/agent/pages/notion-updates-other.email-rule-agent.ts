@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const notionUpdatesOther = {
   id: "01a06863-fbe9-7635-b1fe-46f0733246a8",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "notion-updates-other",
   title: "Notion updates other",
   matches: [

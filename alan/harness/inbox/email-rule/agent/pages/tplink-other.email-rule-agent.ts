@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const tplinkOther = {
   id: "01a06863-fbe9-7be0-9875-fa479d38723b",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "tplink-other",
   title: "Tplink other",
   matches: [

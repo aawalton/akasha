@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const everythingElse = {
   id: "01a06863-fbe9-7116-9f76-19fd2fd7ab21",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "everything-else",
   title: "Everything else",
   matches: [

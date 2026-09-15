@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const noreplySteampoweredComOther = {
   id: "01a06863-fbe9-78cc-9e0a-4ff1d5dedb14",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "noreply-steampowered-com-other",
   title: "Noreply steampowered com other",
   matches: [

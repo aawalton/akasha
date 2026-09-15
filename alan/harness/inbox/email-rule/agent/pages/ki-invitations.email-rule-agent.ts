@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const kiInvitations = {
   id: "01a06863-fbe9-7521-bad8-0f83083e8cda",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "ki-invitations",
   title: "Ki invitations",
   matches: [{ field: "from", comparison: "is", values: ["rkigoff@gmail.com"] }],

@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const citiOther = {
   id: "01a06863-fbe8-7b8a-97b6-50bffdd8fd19",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "citi-other",
   title: "Citi other",
   matches: [

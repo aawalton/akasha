@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const jenOther = {
   id: "01a06863-fbe9-7fb8-b619-ad9f0045e94e",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "jen-other",
   title: "Jen other",
   matches: [

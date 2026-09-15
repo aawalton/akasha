@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const saraplusOther = {
   id: "01a06863-fbe9-76e9-8e88-696bdb668d97",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "saraplus-other",
   title: "Saraplus other",
   matches: [

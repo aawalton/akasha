@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const spotifyOther = {
   id: "01a06863-fbe9-76f6-aefd-fe66f3727fb7",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "spotify-other",
   title: "Spotify other",
   matches: [

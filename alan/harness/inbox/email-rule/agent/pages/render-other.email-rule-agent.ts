@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const renderOther = {
   id: "01a06863-fbe9-7ea4-b4f3-32f72e0abc8a",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "render-other",
   title: "Render other",
   matches: [

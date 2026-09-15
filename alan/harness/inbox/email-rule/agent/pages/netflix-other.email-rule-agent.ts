@@ -2,7 +2,7 @@ import type { EmailRuleAgent } from "akasha/alan/harness/inbox/email-rule/agent/
 
 export const netflixOther = {
   id: "01a06863-fbe9-7e1b-b158-1123bd76c4c8",
-  type: "email-rule-agent",
+  type: "page-type/email-rule-agent",
   slug: "netflix-other",
   title: "Netflix other",
   matches: [
