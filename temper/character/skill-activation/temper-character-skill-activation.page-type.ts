@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperCharacterSkillActivation = {
   id: "01a05fcd-f54a-7717-a057-2b49e5aeaa04",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-character-skill-activation",
   definition: "what one slotted skill does each time a character fires it",
   extends: ["page-type/temper-character-thing"],

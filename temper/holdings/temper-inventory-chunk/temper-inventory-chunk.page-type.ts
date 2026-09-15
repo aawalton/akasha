@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperInventoryChunk = {
   id: "01a05fcb-fd2f-718b-84ca-d9cdeb890706",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-inventory-chunk",
   definition: "one piece of the JSON a reading of an inventory was written as",
   extends: ["page-type/temper-thing"],

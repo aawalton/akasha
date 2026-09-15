@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperLoreCollection = {
   id: "01a06343-f9f7-7005-838d-006a4cec0e4f",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-lore-collection",
   definition: "a grouping the game files lore library books under",
   extends: ["page-type/temper-pursuit-thing"],

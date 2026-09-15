@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperMine = {
   id: "01a05fcd-f557-7231-b2a4-ecded061b740",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-mine",
   definition: "one sweep of what the game itself would tell temper about",
   extends: ["page-type/temper-character-thing"],

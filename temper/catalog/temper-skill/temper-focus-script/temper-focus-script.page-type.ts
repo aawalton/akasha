@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperFocusScript = {
   id: "01a05fca-cb89-7c54-89c6-5392b871f29f",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-focus-script",
   definition: "the script naming what a scribed skill does",
   extends: ["page-type/temper-script"],

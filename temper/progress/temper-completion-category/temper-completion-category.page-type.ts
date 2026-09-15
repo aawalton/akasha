@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperCompletionCategory = {
   id: "01a05fcb-d657-7209-8fac-d33d57fe464e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-completion-category",
   definition: "one node of the tree completion is counted in",
   extends: ["page-type/temper-progress-thing"],

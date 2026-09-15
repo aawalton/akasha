@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperAccountCharacter = {
   id: "01a05fcd-f547-75dd-87b1-fce27e98fddd",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-account-character",
   definition: "one character on an account",
   extends: ["page-type/temper-character-thing"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperCollectibleCategory = {
   id: "01a06165-ae0e-7003-b36d-6529ae625fb0",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-collectible-category",
   definition: "a heading the game files a collectible under",
   extends: ["page-type/temper-pursuit-thing"],

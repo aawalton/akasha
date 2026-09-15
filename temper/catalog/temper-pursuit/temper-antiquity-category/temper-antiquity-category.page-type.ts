@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperAntiquityCategory = {
   id: "01a06166-503c-7000-a696-166a5a6ce1df",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-antiquity-category",
   definition: "a grouping the game files antiquity lore under",
   extends: ["page-type/temper-pursuit-thing"],

@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperCadwellLevel = {
   id: "01a0616b-2cde-7001-a076-c5cb204d81f9",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-cadwell-level",
   definition: "one tier of Cadwell's Almanac a player works through",
   extends: ["page-type/temper-pursuit-thing"],

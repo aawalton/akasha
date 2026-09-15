@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperRotationBreakdownRow = {
   id: "01a05fc9-9a03-795c-b95b-c04997733011",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-rotation-breakdown-row",
   definition: "one figure a rotation is broken down into",
   extends: ["page-type/temper-progress-thing"],

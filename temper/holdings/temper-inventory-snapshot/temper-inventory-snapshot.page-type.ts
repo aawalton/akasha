@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperInventorySnapshot = {
   id: "01a05fcb-fd2d-7480-88fb-8cc035361a6e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-inventory-snapshot",
   definition: "one whole reading of everything an account carries and banks",
   extends: ["page-type/temper-holdings-thing"],

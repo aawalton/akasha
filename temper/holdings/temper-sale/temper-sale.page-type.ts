@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperSale = {
   id: "019f71f3-8523-7dcc-a2c3-ae8bbddd28ad",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-sale",
   definition: "one item sold through a guild store, and what it fetched",
   extends: ["page-type/temper-thing"],

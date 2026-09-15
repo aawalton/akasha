@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperBuildVersion = {
   id: "019dbb6c-51c0-7b3c-b483-0a739f32d9fb",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-build-version",
   definition: "one saved revision of a character's build",
   extends: ["page-type/temper-character-thing"],

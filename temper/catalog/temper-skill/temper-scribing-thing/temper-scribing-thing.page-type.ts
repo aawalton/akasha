@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperScribingThing = {
   id: "01a05fca-cb8c-73ea-beae-bd4ddb3a41f3",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-scribing-thing",
   definition: "anything a scribed skill is written out of",
   extends: ["page-type/temper-catalog-thing"],

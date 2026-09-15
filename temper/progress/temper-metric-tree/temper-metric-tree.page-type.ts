@@ -2,7 +2,7 @@ import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const temperMetricTree = {
   id: "01a05fcb-d656-7ea2-a494-28d13d70536e",
-  type: "page-type",
+  type: "page-type/page-type",
   slug: "temper-metric-tree",
   definition: "one node of the tree of numbers a build is measured by",
   extends: ["page-type/temper-progress-thing"],
