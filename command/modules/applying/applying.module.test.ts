@@ -34,6 +34,8 @@ const AGENT = "01a05f00-0000-7000-8000-000000000001"
 
 const MORE = `${A}// drafted\n`
 
+const CARRIED_AT = "akasha/a.domain.carried.jsonl"
+
 const OWES: Running = { checks: true, writerOwesReading: true, readersOweReading: true }
 
 function rowAt(path: string, content = ""): FileChange {
@@ -111,7 +113,7 @@ test("an apply lands the bodies handed in, names and records them, and moves a p
   if ("refusals" in said) throw new Error(said.refusals.join("; "))
   expect(readFileSync(join(root, PAGE), "utf8")).toBe(MORE)
   expect(said.formatted).toEqual([])
-  expect(said.landed).toEqual([PAGE])
+  expect(said.landed).toEqual([CARRIED_AT, PAGE])
   expect(readingIn(root, AGENT, PAGE)?.oid).toBe(headOid(root, PAGE))
   expect(readFileSync(join(root, "deep/held.uncommitted.ts"), "utf8")).toBe("unsaid")
   expect(existsSync(join(root, "held.uncommitted.ts"))).toBe(false)

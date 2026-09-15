@@ -76,6 +76,7 @@ import {
 import { committed, whileIndexFrees } from "akasha/git/modules/committing/committing.module.code.ts"
 import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
+import type { Facing } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import { valueByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -251,7 +252,8 @@ export function landing(
   drafting?: null,
   over?: Change | null,
   done?: string[],
-  noting?: Committing | null
+  noting?: Committing | null,
+  facing?: Facing | null
 ): Promise<Landed | Refused>
 export function landing(
   root: string,
@@ -274,7 +276,8 @@ export async function landing(
   drafting: Drafting | null = null,
   over: Change | null = null,
   done: string[] = [],
-  noting: Committing | null = null
+  noting: Committing | null = null,
+  facing: Facing | null = null
 ): Promise<Landed | Refused | Drafted> {
   if (changes.length === 0) {
     const base = baseOf(root)
@@ -343,7 +346,7 @@ export async function landing(
   return holding(root, () => {
     const base = baseOf(root)
     const paths = edits.map((one) => one.path)
-    const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN)
+    const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN, facing)
     if (stale !== null) return { refusals: stale, code: DATA }
     const split = heldBack(root, edits)
     const moving = movesHeld(

@@ -207,6 +207,7 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"code/workspace/modules/manifest-finding/manifest-finding.module.code.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/modules/orphaning/orphaning.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/modules/value-minting/value-minting.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}

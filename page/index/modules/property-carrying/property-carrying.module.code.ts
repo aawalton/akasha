@@ -251,12 +251,20 @@ function kindedIn(given: string | Reading): Kinded {
   }
 }
 
-export function facingOn(root: string): Facing {
-  return {
-    ...kindedIn(root),
-    carryingOf: (named) => carryingOf(root, named),
+export function facingIn(root: string, given: string | Reading): Facing {
+  const made: Facing = {
+    ...kindedIn(given),
+    carryingOf: (named) => carryingOf(given, named),
     root,
   }
+  try {
+    derivedFor(made)
+  } catch {}
+  return made
+}
+
+export function facingOn(root: string): Facing {
+  return facingIn(root, root)
 }
 
 export function generatedAt(root: string, path: string): boolean {

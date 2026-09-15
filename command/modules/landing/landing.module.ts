@@ -192,6 +192,15 @@ export const landing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The face saying which paths a machine writes is handed in rather than built inside the hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A landing handed no such face builds one inside the hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The ceiling on the call's seconds ends where the hold is taken.",
     },
     {

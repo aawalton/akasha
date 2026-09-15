@@ -18,8 +18,13 @@ import { changeOf } from "akasha/command/modules/landing-change-composing/landin
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { filingsFor } from "akasha/page/index/modules/carrying/index-carrying.module.code.ts"
+import {
+  type Facing,
+  facingIn,
+} from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { unexportableIn } from "akasha/page/modules/export-name/modules/export-naming/export-naming.module.code.ts"
+import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { typesFor } from "akasha/page/type/modules/type-generating/type-generating.module.code.ts"
 
 export type Formatting = {
@@ -115,6 +120,7 @@ export type Prepared = {
   readonly changes: readonly FileChange[]
   readonly said: readonly string[]
   readonly over: Change | null
+  readonly facing: Facing
 }
 
 export function preparing(
@@ -152,11 +158,13 @@ export function preparing(
   const whole = made.length === 0 ? change : changeOf(root, base, [...rows, ...made])
   const carried = filingsFor(whole)
   const drawn = drawnFor(whole)
+  const cast = shadowFor(whole)
   const added = [...made, ...carried.edits, ...drawn.edits]
   return {
     formatting,
     authored: rows,
     changes: [...rows, ...added],
+    facing: facingIn(root, "refused" in cast ? root : cast.reading),
     said: [
       ...locking.said,
       ...stepped.said,

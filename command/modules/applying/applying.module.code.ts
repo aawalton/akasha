@@ -356,7 +356,8 @@ export async function applied(
       null,
       prepared.over,
       done,
-      noting
+      noting,
+      prepared.facing
     )
   )
   if ("refusals" in ended) {

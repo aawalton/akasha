@@ -7,6 +7,7 @@ import {
 import {
   type Carried,
   carryingOf,
+  facingIn,
   facingOn,
   generatedAt,
   generatedIn,
@@ -42,6 +43,7 @@ import {
   THING,
   TWO,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.test-fixtures.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   listedAndValued,
   relationFiled,
@@ -255,6 +257,20 @@ test("a property saying nothing of a machine says nothing of the files its secti
   const root = rooted()
   entriesFiled(root, SAYS)
   expect(generatedAt(root, SECTIONED)).toBe(false)
+})
+
+test("a face built over a reading answers from that reading", () => {
+  const root = rooted()
+  entriesFiled(root, { ...SAYS, generated: true })
+  expect(generatedIn(facingIn(root, readingIn(root)), SECTIONED)).toBe(true)
+})
+
+test("a face works out what it says as it is built rather than as it is first asked", () => {
+  const root = rooted()
+  const facing = facingOn(root)
+  entriesFiled(root, { ...SAYS, generated: true })
+  expect(generatedAt(root, SECTIONED)).toBe(true)
+  expect(generatedIn(facing, SECTIONED)).toBe(false)
 })
 
 test("a file carrying no section is not the file of a property naming no file", () => {

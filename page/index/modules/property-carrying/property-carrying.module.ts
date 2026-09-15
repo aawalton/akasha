@@ -174,6 +174,19 @@ export const propertyCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A face works that out as it is built rather than as it is first asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A caller holding a reading builds a face over that reading rather than over a root.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A face over a reading names the root the tree beside a page is read from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Whether a tool resolves the paths in the file at a path is answered here.",
     },
     {

@@ -198,5 +198,22 @@ export const changePreparing = {
       decisionKind: "decision-kind/departure",
       statement: "A picture is a file the change carries rather than a file a landing writes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The face saying which paths a machine writes is built here before the hold is taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That face is built over the reading the change leaves rather than over the disk.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change no reading can be laid over builds that face over the disk.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That face is answered alongside the edits.",
+    },
   ],
 } as const satisfies Module

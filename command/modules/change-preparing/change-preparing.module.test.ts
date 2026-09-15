@@ -45,6 +45,15 @@ test("the change judged carries the paths a move renames beside the paths an edi
   expect(change?.after("akasha/one.ts")).toBe(null)
 })
 
+test("the face saying which paths a machine writes is answered alongside the edits", () => {
+  const root = repoWith({ "akasha/one.ts": "committed\n" })
+  const said = preparing(root, baseOf(root), [
+    { kind: "add", path: "akasha/two.ts", content: "second\n" },
+  ])
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  expect(said.facing.root).toBe(root)
+})
+
 test("a loose body lands formatted and sorted", async () => {
   const root = repoWithTheFormatter()
   const said = await wrote(root, ["--message", "held"], LOOSE)
