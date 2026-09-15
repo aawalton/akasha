@@ -1,10 +1,6 @@
 import { readTranscriptMtimeMs } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
 import { seatRecord } from "akasha/agent/seat/fleet/modules/seat-facts/seat-facts.module.code.ts"
-import {
-  NONE_NAMED,
-  resolveSeatTargetCli,
-  resolveSeatTargetFromFlagOrEnv,
-} from "akasha/agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"
+import { NONE_NAMED } from "akasha/agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"
 import {
   holdSeatPaneOpen,
   killSeatSession,
@@ -24,6 +20,7 @@ import {
   liveResumeVerifyDeps,
   resumeAndVerify,
 } from "akasha/agent/seat/reviving/modules/resume-verify/resume-verify.module.code.ts"
+import { seatTargetOrBack } from "akasha/agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"
 import { sweepSupersededAgentTrees } from "akasha/agent/seat/reviving/modules/seat-recovery/seat-recovery.module.code.ts"
 import {
   holdsLive,
@@ -256,7 +253,7 @@ export async function resumeSeatInteractively(
   request: ResumeSeatInteractivelyRequest,
   done: string[] = []
 ): Promise<TakenSeat> {
-  const target = await resolveSeatTargetCli(request.named)
+  const target = await seatTargetOrBack(request.named, done)
   refuseWhereSubagentsWork(target, request.force === true)
   const held = seatRecord(target)?.name ?? null
   if (held !== null) {
@@ -396,7 +393,11 @@ export default async function seatResume(
     return
   }
 
-  const agentId = await resolveSeatTargetFromFlagOrEnv(parsed.string("--agent-id"))
+  const asked = parsed.string("--agent-id") ?? shape.string().optional().parse(process.env.AGENT_ID)
+  if (asked === undefined || asked.length === 0) {
+    throw inputError(NONE_NAMED)
+  }
+  const agentId = await seatTargetOrBack(asked, done)
 
   const resumed = await resumeSeat(
     { agentId, verify, graceMs, force, now: parsed.boolean("--now"), prompt, bootPrompt },

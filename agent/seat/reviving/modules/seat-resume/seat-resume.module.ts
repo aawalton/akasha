@@ -56,6 +56,14 @@ export const seatResume = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A name matching no seat brings that seat's page back before the name is read.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A name nothing brings back is refused as the resolver refused it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement:
         "What a resume is asked for is stated as values rather than spelled as a command line.",
     },

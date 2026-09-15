@@ -41,6 +41,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/page/modules/seat-beside/seat-beside.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/page/modules/writing/seat-page-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/self-healing/modules/supervisor-file-version/supervisor-file-version.module.test.ts"}

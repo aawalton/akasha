@@ -57,5 +57,14 @@ export const seatReviving = {
       statement:
         "A revived seat with no such session comes back in the mode its row states, or headless.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A seat whose page went comes back from git history when that seat is resumed by name.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A seat that comes back that way keeps the id and the session it had.",
+    },
   ],
 } as const satisfies Domain

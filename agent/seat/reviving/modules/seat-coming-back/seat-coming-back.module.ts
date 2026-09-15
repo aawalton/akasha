@@ -26,11 +26,23 @@ export const seatComingBack = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A seat whose page is there already brings nothing back.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A page coming back lands as a change, so the index carries that page again.",
     },
     {
       invariantKind: "invariant-kind/departure",
       statement: "What a seat said while its page was there is read elsewhere.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A name a seat answers to is answered without reading history at all.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A name nothing brings back is refused as the resolver refused that name.",
     },
   ],
 } as const satisfies Module

@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
 import { seatPathForName } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
 import {
+  alreadyThere,
   heldBefore,
   type Landing,
-  noHistory,
   saidOfBack,
   seatBackFromHistory,
   tookAway,
@@ -95,6 +95,18 @@ test("nothing lands where no commit took that seat's page away", async () => {
   }
 })
 
-test("the refusal names the seat asked for", () => {
-  expect(noHistory(NAME)).toContain(NAME)
+test("a seat whose page is there already brings nothing back", async () => {
+  const world = scratchWorld()
+  try {
+    const root = world.rootFor("seat-coming-back-")
+    stopped(root)
+    writing(root, AT, BODY)
+    expect(alreadyThere(root, AT)).toBe(true)
+    const landing: Landing = () => {
+      throw new Error("nothing lands over a page that is there already")
+    }
+    expect(await seatBackFromHistory(root, NAME, [], landing)).toBeNull()
+  } finally {
+    world.sweep()
+  }
 })

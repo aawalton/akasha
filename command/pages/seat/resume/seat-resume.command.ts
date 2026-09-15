@@ -34,6 +34,10 @@ export const seatResume = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A name no seat holds brings that seat's page back from history and resumes it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A resume refused before it wrote anything is refused as the fault alone.",
     },
     {
