@@ -1,3 +1,3 @@
 {"propertySlug":"invariant-group","path":"domain/invariant-kind/pages/stopgap.invariant-kind.ts","id":"01a04e11-9f98-71ff-aa09-58376078e6f5"}
 {"propertySlug":"invariant-group","path":"domain/invariant-kind/pages/upkeep.invariant-kind.ts","id":"01a04e11-9f98-7fc1-9a75-cc49b4124ad8"}
-{"propertySlug":"parts","path":"domain/invariant-group/invariant-group.page-type.ts","id":"01a04e11-9f97-7f42-bb41-d519ae123a65"}
+{"propertySlug":"parts","path":"domain/decision-group/decision-group.page-type.ts","id":"01a04e11-9f97-7f42-bb41-d519ae123a65"}

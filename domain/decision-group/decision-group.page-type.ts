@@ -1,11 +1,11 @@
 import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
-export const invariantGroup = {
+export const decisionGroup = {
   id: "01a04e11-9f97-7f42-bb41-d519ae123a65",
   type: "page-type/page-type",
-  slug: "invariant-group",
+  slug: "decision-group",
   definition: "the standing an invariant has",
-  parts: ["invariant-group/condition", "invariant-group/design", "invariant-group/intent"],
+  parts: ["decision-group/condition", "decision-group/design", "decision-group/intent"],
   extends: ["page-type/domain"],
   invariants: [
     {

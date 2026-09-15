@@ -1,8 +1,8 @@
-import type { InvariantGroup } from "akasha/domain/invariant-group/invariant-group.page-type.types.ts"
+import type { DecisionGroup } from "akasha/domain/decision-group/decision-group.page-type.types.ts"
 
 export const intent = {
   id: "01a04e11-9f98-71e8-b821-77545c6be68e",
-  type: "invariant-group",
+  type: "decision-group",
   slug: "intent",
   definition: "an invariant that does not hold yet",
   directives: [
@@ -18,4 +18,4 @@ export const intent = {
       ],
     },
   ],
-} as const satisfies InvariantGroup
+} as const satisfies DecisionGroup

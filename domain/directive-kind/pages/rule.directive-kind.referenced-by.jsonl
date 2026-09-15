@@ -27,9 +27,9 @@
 {"propertySlug":"directive-kind","path":"design/interface/design-interface.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
 {"propertySlug":"directive-kind","path":"domain/context/required-reading/required-reading.domain.ts","id":"01a04d97-c600-78b8-b3eb-faf390b009ce"}
 {"propertySlug":"directive-kind","path":"domain/context/warrant/context-warrant.page-type.ts","id":"01a04f56-55c4-7000-ba0d-c91b6e76b850"}
+{"propertySlug":"directive-kind","path":"domain/decision-group/pages/design.decision-group.ts","id":"01a04e11-9f97-7f4d-b81a-c47eb0d7d43a"}
+{"propertySlug":"directive-kind","path":"domain/decision-group/pages/intent.decision-group.ts","id":"01a04e11-9f98-71e8-b821-77545c6be68e"}
 {"propertySlug":"directive-kind","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
-{"propertySlug":"directive-kind","path":"domain/invariant-group/pages/design.invariant-group.ts","id":"01a04e11-9f97-7f4d-b81a-c47eb0d7d43a"}
-{"propertySlug":"directive-kind","path":"domain/invariant-group/pages/intent.invariant-group.ts","id":"01a04e11-9f98-71e8-b821-77545c6be68e"}
 {"propertySlug":"directive-kind","path":"domain/properties/invariants.record-property.ts","id":"01a04e14-2276-7559-823a-c7ac8abf852e"}
 {"propertySlug":"directive-kind","path":"domain/sentence-shape/sentence-shape.page-type.ts","id":"01a05da1-60fc-76ca-8503-b43deb6d5f53"}
 {"propertySlug":"directive-kind","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}

@@ -19,7 +19,7 @@ export const domain = {
     "page-type/directive-kind",
     "page-type/finding",
     "page-type/initiative",
-    "page-type/invariant-group",
+    "page-type/decision-group",
     "page-type/invariant-kind",
     "page-type/list",
     "page-type/sentence-shape",

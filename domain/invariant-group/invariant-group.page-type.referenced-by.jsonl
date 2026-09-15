@@ -1,5 +1,0 @@
-{"propertySlug":"import","fileName":"invariant-group.page-type.types.ts","path":"domain/invariant-group/pages/condition.invariant-group.ts"}
-{"propertySlug":"import","fileName":"invariant-group.page-type.types.ts","path":"domain/invariant-group/pages/design.invariant-group.ts"}
-{"propertySlug":"import","fileName":"invariant-group.page-type.types.ts","path":"domain/invariant-group/pages/intent.invariant-group.ts"}
-{"propertySlug":"parts","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
-{"propertySlug":"target-page-type","path":"domain/invariant-kind/properties/invariant-group.relation-property.ts","id":"01a04e11-9f98-7cf1-ac25-c66b4eea07c5"}

@@ -197,11 +197,11 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"design/interface/color/color.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/context/warrant/context-warrant.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/decision-group/decision-group.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/directive-kind/directive-kind.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/domain.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/finding/finding.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/initiative/initiative.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/invariant-group/invariant-group.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/invariant-kind/invariant-kind.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/list/list.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/plain-language/parser-model/parser-model.page-type.ts"}

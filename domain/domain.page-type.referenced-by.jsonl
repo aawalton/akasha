@@ -53,8 +53,8 @@
 {"propertySlug":"extends-type","path":"command/namespace/namespace.page-type.ts","id":"01a06c7c-54b5-712b-b4a2-9ada10279dff"}
 {"propertySlug":"extends-type","path":"design/game/drive/drive.page-type.ts","id":"01a06746-de46-7a10-980b-3134872d9f6b"}
 {"propertySlug":"extends-type","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts","id":"01a0816a-91f6-79d0-8293-0fb65177f129"}
+{"propertySlug":"extends-type","path":"domain/decision-group/decision-group.page-type.ts","id":"01a04e11-9f97-7f42-bb41-d519ae123a65"}
 {"propertySlug":"extends-type","path":"domain/directive-kind/directive-kind.page-type.ts","id":"01a04e1f-cbf6-755d-bd7d-e46ba13c0087"}
-{"propertySlug":"extends-type","path":"domain/invariant-group/invariant-group.page-type.ts","id":"01a04e11-9f97-7f42-bb41-d519ae123a65"}
 {"propertySlug":"extends-type","path":"domain/invariant-kind/invariant-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}
 {"propertySlug":"extends-type","path":"domain/list/list.page-type.ts","id":"01a06838-7a9d-7597-b7a6-0f752f753e26"}
 {"propertySlug":"extends-type","path":"domain/standard-agent-english/prose-frame/prose-frame.page-type.ts","id":"01a08241-f81d-7e21-8584-c7cc1ab6cf98"}
@@ -336,8 +336,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/champion/domain-champion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/context/context.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/context/required-reading/required-reading.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/decision-group/decision-group.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/directive-kind/directive-kind.page-type.types.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/invariant-group/invariant-group.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/invariant-kind/invariant-kind.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/list/list.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/parent/domain-parent.domain.ts"}

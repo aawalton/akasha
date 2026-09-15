@@ -5,7 +5,7 @@ export const absence = {
   type: "invariant-kind",
   slug: "absence",
   definition: "something the domain deliberately leaves out",
-  invariantGroup: "invariant-group/design",
+  invariantGroup: "decision-group/design",
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
