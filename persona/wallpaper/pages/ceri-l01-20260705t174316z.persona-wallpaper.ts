@@ -2,7 +2,7 @@ import type { PersonaWallpaper } from "akasha/persona/wallpaper/persona-wallpape
 
 export const ceriL0120260705t174316z = {
   id: "019ef262-cb4b-79f7-bca3-c710d1e9606b",
-  type: "persona-wallpaper",
+  type: "page-type/persona-wallpaper",
   slug: "ceri-l01-20260705t174316z",
   title: "Ceri — wallpaper L01 (Initiating)",
   persona: "persona/ceri",

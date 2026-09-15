@@ -2,7 +2,7 @@ import type { PersonaWallpaper } from "akasha/persona/wallpaper/persona-wallpape
 
 export const atlasL0120260705t174111z = {
   id: "019f28f9-e06d-7ae0-9295-373a93b9e416",
-  type: "persona-wallpaper",
+  type: "page-type/persona-wallpaper",
   slug: "atlas-l01-20260705t174111z",
   title: "Atlas — wallpaper L01 (Initiating)",
   persona: "persona/atlas",

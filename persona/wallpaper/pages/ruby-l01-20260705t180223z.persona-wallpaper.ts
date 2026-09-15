@@ -2,7 +2,7 @@ import type { PersonaWallpaper } from "akasha/persona/wallpaper/persona-wallpape
 
 export const rubyL0120260705t180223z = {
   id: "019f139b-0ecd-7709-ac17-f642961cc590",
-  type: "persona-wallpaper",
+  type: "page-type/persona-wallpaper",
   slug: "ruby-l01-20260705t180223z",
   title: "Ruby — wallpaper L01 (Initiating)",
   persona: "persona/ruby",

@@ -2,7 +2,7 @@ import type { PersonaWallpaper } from "akasha/persona/wallpaper/persona-wallpape
 
 export const nimueL0120260705t175732z = {
   id: "019f057d-b019-7345-91ca-61ee55f3c0be",
-  type: "persona-wallpaper",
+  type: "page-type/persona-wallpaper",
   slug: "nimue-l01-20260705t175732z",
   title: "Nimue — wallpaper L01 (Initiating)",
   persona: "persona/nimue",

@@ -2,7 +2,7 @@ import type { PersonaWallpaper } from "akasha/persona/wallpaper/persona-wallpape
 
 export const shaestrelL0120260725t105549z = {
   id: "019f98bd-804c-7ed0-a387-5cc4a43f56ed",
-  type: "persona-wallpaper",
+  type: "page-type/persona-wallpaper",
   slug: "shaestrel-l01-20260725t105549z",
   title: "Shaestrel — wallpaper L01 (Initiating)",
   persona: "persona/shaestrel",

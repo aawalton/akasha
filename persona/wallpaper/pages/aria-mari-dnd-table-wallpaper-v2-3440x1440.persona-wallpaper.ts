@@ -2,7 +2,7 @@ import type { PersonaWallpaper } from "akasha/persona/wallpaper/persona-wallpape
 
 export const ariaMariDndTableWallpaperV23440x1440 = {
   id: "019ef90e-4fc1-7711-8db3-f4e9af0ad9de",
-  type: "persona-wallpaper",
+  type: "page-type/persona-wallpaper",
   slug: "aria-mari-dnd-table-wallpaper-v2-3440x1440",
   title: "Aria & Mari — at the table",
   persona: "persona/aria",

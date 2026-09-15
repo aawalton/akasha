@@ -2,7 +2,7 @@ import type { PersonaWallpaper } from "akasha/persona/wallpaper/persona-wallpape
 
 export const athenaL0520260730t113020z = {
   id: "019fb2ca-271d-74c9-83c7-d2e01382b9c1",
-  type: "persona-wallpaper",
+  type: "page-type/persona-wallpaper",
   slug: "athena-l05-20260730t113020z",
   title: "Athena — wallpaper L05 (Bonding)",
   persona: "persona/athena",

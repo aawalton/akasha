@@ -2,7 +2,7 @@ import type { PersonaWallpaper } from "akasha/persona/wallpaper/persona-wallpape
 
 export const mariL0120260705t175227z = {
   id: "019ef265-60ac-7a17-86d9-e2a1a0d3eb5d",
-  type: "persona-wallpaper",
+  type: "page-type/persona-wallpaper",
   slug: "mari-l01-20260705t175227z",
   title: "Mari — wallpaper L01 (Bonding)",
   persona: "persona/mari",
