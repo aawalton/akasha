@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const jeremiah41 = {
   id: "01a06804-11ae-7024-a67d-ad341bff2707",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "jeremiah-41",
   title: "Jeremiah 41",
   book: "Jeremiah",

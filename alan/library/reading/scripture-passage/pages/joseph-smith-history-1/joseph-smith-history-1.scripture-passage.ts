@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const josephSmithHistory1 = {
   id: "01a06804-11ae-707b-9d22-6963b67128b3",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "joseph-smith-history-1",
   title: "Joseph Smith--History 1",
   book: "Joseph Smith--History",

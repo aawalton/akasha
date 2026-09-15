@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const leviticus24 = {
   id: "01a06804-11ae-70c0-9708-41db873b83b3",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "leviticus-24",
   title: "Leviticus 24",
   book: "Leviticus",

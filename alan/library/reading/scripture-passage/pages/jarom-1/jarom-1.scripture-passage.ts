@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const jarom1 = {
   id: "019f0976-dbfe-77dd-ac40-fa29d3bc7510",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "jarom-1",
   title: "Jarom 1",
   book: "Jarom",
