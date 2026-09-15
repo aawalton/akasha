@@ -27,14 +27,6 @@ import {
   resolveItemFromInventory,
 } from "akasha/temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import {
-  formatExplainWalk,
-  ITEM_RULE_TRACE_INDEX,
-  type JsonOutput,
-  type OutcomeJson,
-  type RuleTraceRow,
-  type TtcBreakdown,
-} from "akasha/temper/explain/modules/explain-walk/explain-walk.module.code.ts"
 import type { InventoryItemData } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
@@ -44,6 +36,14 @@ import type {
   WalkOutcome,
 } from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/modules/item-facts/item-facts.module.code.ts"
+import {
+  formatExplainWalk,
+  ITEM_RULE_TRACE_INDEX,
+  type JsonOutput,
+  type OutcomeJson,
+  type RuleTraceRow,
+  type TtcBreakdown,
+} from "akasha/temper/modules/explain-walk/explain-walk.module.code.ts"
 import { wholeNumberIn } from "akasha/util/narrow/modules/whole-number-in/whole-number-in.module.code.ts"
 
 const NAMED = [

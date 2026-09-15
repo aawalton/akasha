@@ -10,6 +10,15 @@ export const explainWalk = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "An account here covers one item.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An account names every rule the item met rather than the rule that took the item.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A row of the walk is one line.",
     },
     {

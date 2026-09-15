@@ -3875,7 +3875,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/events-addon/modules/next-boss-state/next-boss-state.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/events-addon/modules/next-boss-timers/next-boss-timers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/events-addon/modules/next-boss-ui-strings/next-boss-ui-strings.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/explain/modules/explain-walk/explain-walk.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/formula-framework/modules/arithmetic-node/arithmetic-node.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/formula-framework/modules/base-stat/base-stat.module.ts"}
@@ -5500,6 +5499,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/character-class/character-class.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/descriptor/descriptor.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/explain-walk/explain-walk.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/saved-variables-reader/saved-variables-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts"}
