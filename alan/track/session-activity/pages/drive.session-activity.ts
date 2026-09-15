@@ -2,7 +2,7 @@ import type { SessionActivity } from "akasha/alan/track/session-activity/session
 
 export const drive = {
   id: "019fb7b4-7f5d-733d-9363-7b588935e658",
-  type: "session-activity",
+  type: "page-type/session-activity",
   slug: "drive",
   title: "Drive",
   defaultDifficulty: 2,

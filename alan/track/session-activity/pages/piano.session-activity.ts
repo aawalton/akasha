@@ -2,7 +2,7 @@ import type { SessionActivity } from "akasha/alan/track/session-activity/session
 
 export const piano = {
   id: "019fb7b4-7ddd-7f10-a5df-cc66eb3eecfb",
-  type: "session-activity",
+  type: "page-type/session-activity",
   slug: "piano",
   title: "Piano",
   defaultDifficulty: 3,
