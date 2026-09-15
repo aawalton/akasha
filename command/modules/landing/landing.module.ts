@@ -201,6 +201,11 @@ export const landing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Which of the change's paths the repository ignores is worked out before the hold is taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The ceiling on the call's seconds ends where the hold is taken.",
     },
     {

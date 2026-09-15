@@ -354,12 +354,12 @@ export async function landing(
       code: DATA,
     }
   }
+  const split = heldBack(root, edits)
   return holding(root, () => {
     const base = baseOf(root)
     const paths = edits.map((one) => one.path)
     const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN, facing)
     if (stale !== null) return { refusals: stale, code: DATA }
-    const split = heldBack(root, edits)
     const moving = movesHeld(
       moves,
       beforeOf(
