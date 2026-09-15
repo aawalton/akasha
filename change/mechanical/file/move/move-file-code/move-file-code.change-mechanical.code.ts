@@ -1,9 +1,6 @@
 import { extname } from "node:path"
 import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import type {
-  Answer,
-  FileChange,
-} from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Answer, FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { repointed } from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { importingOf } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
