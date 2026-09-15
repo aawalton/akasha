@@ -2,16 +2,16 @@ import { existsSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import {
-  IDENTITIES,
-  identitiesIn,
-} from "akasha/page/index/modules/identities/index-identities.module.code.ts"
-import {
   type Entry,
   fileKeysIn,
   filePropertiesIn,
   type Identifier,
   uniquePropertiesIn,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
+import {
+  IDENTITIES,
+  identitiesIn,
+} from "akasha/page/index/modules/identities/index-identities.module.code.ts"
 import {
   type Drift,
   filedUnder,
