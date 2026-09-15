@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const smilingjennyIosSeamPlugins = {
   id: "01a05938-8ab0-77dc-a975-cec48bd4ed93",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "smilingjenny-ios-seam-plugins",
   definition: "the plugins appended to Jenny's app delegate",
   shell: "sh",

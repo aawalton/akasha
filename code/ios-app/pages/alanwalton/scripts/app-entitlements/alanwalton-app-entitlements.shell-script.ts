@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonAppEntitlements = {
   id: "01a0595b-ef54-774e-9807-2597fc304c83",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-app-entitlements",
   definition: "the entitlements Alan's app signs with",
   shell: "sh",

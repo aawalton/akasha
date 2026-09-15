@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonApnsForwarding = {
   id: "01a0595b-ef53-73e9-aab4-75780c17a0f2",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-apns-forwarding",
   definition: "the Swift handing the push registration result to Capacitor",
   shell: "sh",

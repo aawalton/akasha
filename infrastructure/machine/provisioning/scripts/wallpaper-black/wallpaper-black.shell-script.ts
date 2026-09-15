@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const wallpaperBlack = {
   id: "01a06864-40db-7c5e-affa-6167aec19bee",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "wallpaper-black",
   definition: "every desktop's wallpaper turned black and turned back",
   shell: "sh",

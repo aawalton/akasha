@@ -2,7 +2,7 @@ import type { GitHook } from "akasha/infrastructure/git-transport/git-hook/git-h
 
 export const preReceiveChangeBranches = {
   id: "01a06816-2f11-7f55-8c92-79bf5163f688",
-  type: "git-hook",
+  type: "page-type/git-hook",
   slug: "pre-receive-change-branches",
   definition: "a push refused unless it names a change branch or moves main onto one",
   shell: "sh",

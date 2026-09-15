@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonHealthAnchoredRead = {
   id: "01a0595b-ef58-76f8-9419-7a315c06c969",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-health-anchored-read",
   definition:
     "the Swift running one anchored query page and returning its samples, anchor and error",

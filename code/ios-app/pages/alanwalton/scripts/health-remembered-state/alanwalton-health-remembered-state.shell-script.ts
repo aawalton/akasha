@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonHealthRememberedState = {
   id: "01a0595b-ef59-7e5d-8977-51de45794d4a",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-health-remembered-state",
   definition: "the Swift reading and writing a metric's anchor",
   shell: "sh",

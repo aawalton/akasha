@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const rg = {
   id: "01a06864-40db-7fc2-a601-054aa52bdfc7",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "rg",
   definition: "ripgrep reached without a socket on its input",
   shell: "sh",

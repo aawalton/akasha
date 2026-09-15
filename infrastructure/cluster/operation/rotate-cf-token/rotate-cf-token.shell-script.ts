@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const rotateCfToken = {
   id: "01a06865-abff-7018-b47a-3e1d7622711e",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "rotate-cf-token",
   definition: "the Cloudflare API token stored, verified and replaced",
   shell: "sh",

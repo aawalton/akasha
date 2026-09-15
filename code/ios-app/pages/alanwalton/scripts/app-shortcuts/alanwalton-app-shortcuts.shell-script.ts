@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonAppShortcuts = {
   id: "01a0595b-ef55-7c72-8eac-cf790a00ee77",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-app-shortcuts",
   definition: "the Swift offering each app intent as a shortcut",
   shell: "sh",

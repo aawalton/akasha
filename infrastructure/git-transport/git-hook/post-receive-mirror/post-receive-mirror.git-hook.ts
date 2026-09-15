@@ -2,7 +2,7 @@ import type { GitHook } from "akasha/infrastructure/git-transport/git-hook/git-h
 
 export const postReceiveMirror = {
   id: "01a06816-2f11-7d8b-bc04-3b874435b755",
-  type: "git-hook",
+  type: "page-type/git-hook",
   slug: "post-receive-mirror",
   definition: "the repository copied out to the destination the repository declares",
   shell: "sh",

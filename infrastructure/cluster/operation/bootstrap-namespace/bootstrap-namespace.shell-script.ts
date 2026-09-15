@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const bootstrapNamespace = {
   id: "01a06865-abff-7011-9ff5-10eca740f08d",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "bootstrap-namespace",
   definition: "a workspace's namespace, manifests and secrets put up for the first time",
   shell: "sh",

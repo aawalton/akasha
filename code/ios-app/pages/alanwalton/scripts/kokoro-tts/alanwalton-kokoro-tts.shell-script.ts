@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonKokoroTts = {
   id: "01a0595b-ef5d-75de-b262-46210fee0920",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-kokoro-tts",
   definition: "the three parts declaring the kokoro plugin, sourced in order",
   shell: "sh",

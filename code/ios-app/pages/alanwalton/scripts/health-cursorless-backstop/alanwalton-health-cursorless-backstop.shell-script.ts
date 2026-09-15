@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonHealthCursorlessBackstop = {
   id: "01a0595b-ef58-7361-88ab-99ceef2aceec",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-health-cursorless-backstop",
   definition: "the Swift reading a window of samples when no anchor is held",
   shell: "sh",

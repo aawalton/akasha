@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const zimageProvision = {
   id: "01a06815-9efd-7030-be57-be6d4b92347a",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "zimage-provision",
   definition: "the weights a Z-Image render needs, pulled into the model store",
   shell: "sh",

@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonCrashCapture = {
   id: "01a0595b-ef57-71b5-98f6-96f6a82ef908",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-crash-capture",
   definition: "the Swift reporting a crash the app caught",
   shell: "sh",

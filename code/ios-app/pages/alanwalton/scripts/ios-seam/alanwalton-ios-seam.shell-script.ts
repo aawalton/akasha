@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonIosSeam = {
   id: "01a0595b-ef5b-71a6-8bd8-99956227603e",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-ios-seam",
   definition: "the native layer written into Alan's generated Xcode project",
   shell: "sh",

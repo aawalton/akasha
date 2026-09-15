@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const atlasCaptureDeviceConsole = {
   id: "01a0655d-9453-7d4f-b5d2-7cfd0498d545",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "atlas-capture-device-console",
   definition: "the console of Atlas running on a plugged-in phone, captured to a file",
   shell: "sh",

@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonHealthSamplesDrain = {
   id: "01a0595b-ef5a-7652-8db5-ad456ba7251d",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-health-samples-drain",
   definition: "the parts of the health-samples drain, sourced in order",
   shell: "sh",

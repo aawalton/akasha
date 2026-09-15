@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonPictureCapture = {
   id: "01a09c6a-ead3-701d-bb48-0fe59258d196",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-picture-capture",
   definition: "the Swift of the camera the Take Picture intent shows",
   shell: "sh",

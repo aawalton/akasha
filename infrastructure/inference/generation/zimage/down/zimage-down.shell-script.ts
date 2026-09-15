@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const zimageDown = {
   id: "01a06815-9efd-702e-94af-c285cd2c2b02",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "zimage-down",
   definition: "the Z-Image container stopped and taken away",
   shell: "sh",

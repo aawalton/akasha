@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonKokoroSynthesis = {
   id: "01a0595b-ef5d-7401-bd2d-fe02bf632c40",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-kokoro-synthesis",
   definition: "the Swift completing KokoroTtsPlugin with its look-ahead synthesis loop",
   shell: "sh",

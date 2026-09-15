@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const ciCostSnapshot = {
   id: "01a06864-40db-77fc-84ff-f16044dcbbc9",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "ci-cost-snapshot",
   definition: "what a session has cost, read from the seat page its id names",
   shell: "sh",

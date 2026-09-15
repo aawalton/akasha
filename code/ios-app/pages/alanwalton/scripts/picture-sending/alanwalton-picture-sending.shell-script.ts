@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonPictureSending = {
   id: "01a09c6b-960a-7d45-83d0-10de2755297d",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-picture-sending",
   definition: "the Swift sending a picture to alanwalton.com",
   shell: "sh",

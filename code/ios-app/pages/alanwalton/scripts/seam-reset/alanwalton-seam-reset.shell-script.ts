@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonSeamReset = {
   id: "01a0595b-ef5e-7572-976f-20f08e5bc2b5",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-seam-reset",
   definition: "the app delegate cut back to its own lines before a seam is applied",
   shell: "sh",

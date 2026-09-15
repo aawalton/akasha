@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonCaptureDeviceConsole = {
   id: "01a0595b-ef56-7138-9806-741fbd45a321",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-capture-device-console",
   definition: "the console of Alan's app on a plugged-in iPhone, kept in a file",
   shell: "sh",

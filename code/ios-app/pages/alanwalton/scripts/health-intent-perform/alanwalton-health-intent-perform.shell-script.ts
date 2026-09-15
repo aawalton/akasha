@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonHealthIntentPerform = {
   id: "01a0595b-ef59-7b52-84e4-2da173759a5e",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-health-intent-perform",
   definition: "the Swift performing the health-samples intent",
   shell: "sh",

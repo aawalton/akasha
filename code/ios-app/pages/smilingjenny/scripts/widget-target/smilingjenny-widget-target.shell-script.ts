@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const smilingjennyWidgetTarget = {
   id: "01a05938-8ab0-7b2c-a30c-b37615a1608c",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "smilingjenny-widget-target",
   definition: "the widget extension target written into Jenny's Xcode project",
   shell: "sh",

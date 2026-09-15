@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonHealthIntentAnchoredDrain = {
   id: "01a0595b-ef59-76d9-9265-f63a151d0fc6",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-health-intent-anchored-drain",
   definition: "the Swift draining one metric from its anchor",
   shell: "sh",

@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const annualDump = {
   id: "01a06865-c012-7002-9b0e-5c1f7a2d3e02",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "annual-dump",
   definition: "the whole database written out once a year and carried to the object store",
   shell: "sh",

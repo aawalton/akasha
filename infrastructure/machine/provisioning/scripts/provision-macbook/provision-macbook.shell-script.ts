@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const provisionMacbook = {
   id: "01a06864-40db-7195-8270-09f06e301f24",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "provision-macbook",
   definition: "the MacBook brought to parity with the workstation",
   shell: "sh",

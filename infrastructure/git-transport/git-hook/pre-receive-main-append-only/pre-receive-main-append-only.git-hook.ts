@@ -2,7 +2,7 @@ import type { GitHook } from "akasha/infrastructure/git-transport/git-hook/git-h
 
 export const preReceiveMainAppendOnly = {
   id: "01a06816-2f11-729c-b258-50cbded51bb9",
-  type: "git-hook",
+  type: "page-type/git-hook",
   slug: "pre-receive-main-append-only",
   definition: "a push to main refused unless main only goes forward",
   shell: "sh",

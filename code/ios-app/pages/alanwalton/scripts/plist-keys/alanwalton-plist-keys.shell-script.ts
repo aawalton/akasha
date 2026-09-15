@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonPlistKeys = {
   id: "01a0595b-ef5e-7355-9321-5105aa180e67",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-plist-keys",
   definition: "the Info.plist keys the seam writes with PlistBuddy",
   shell: "sh",

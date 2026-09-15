@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const deployDnsFunctions = {
   id: "01a06887-6591-7496-84f8-b0ff26b1f515",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "deploy-dns-functions",
   definition: "the names a cluster script sources for reaching Cloudflare DNS",
   shell: "sh",

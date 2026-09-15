@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const promote = {
   id: "01a06865-abff-7015-9700-1d0c47fdac9e",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "promote",
   definition: "a namespace's Next.js deployment moved to an image tag, rolled back if it fails",
   shell: "sh",

@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const alanwaltonMonarchTap = {
   id: "01a0595b-ef5d-7f82-8506-cc8c27fe8505",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "alanwalton-monarch-tap",
   definition: "the Swift opening Monarch when the ring is tapped",
   shell: "sh",

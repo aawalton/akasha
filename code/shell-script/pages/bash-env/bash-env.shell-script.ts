@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const bashEnv = {
   id: "01a06860-f3aa-7219-a6c2-9803ce5b7b07",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "bash-env",
   definition: "what every non-interactive bash the harness starts is given before it runs",
   shell: "sh",

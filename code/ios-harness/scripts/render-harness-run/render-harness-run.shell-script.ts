@@ -2,7 +2,7 @@ import type { ShellScript } from "akasha/code/shell-script/shell-script.page-typ
 
 export const renderHarnessRun = {
   id: "01a059a0-c8c3-7532-ba93-10d6107fa669",
-  type: "shell-script",
+  type: "page-type/shell-script",
   slug: "render-harness-run",
   definition: "what draws an app's tiles on a simulator",
   shell: "sh",
