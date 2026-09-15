@@ -45,6 +45,11 @@ import {
   uncommittedPartAt,
   uncommittedPartsOf,
 } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
+import {
+  foldersUnder,
+  namesAbove,
+  strippedOf,
+} from "akasha/page/naming/modules/folder-named/folder-named.module.code.ts"
 import { folderFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { dashEachCapital } from "akasha/util/slug/modules/dash-each-capital/dash-each-capital.module.code.ts"
 import ts from "typescript"
@@ -163,12 +168,16 @@ function underIn(
   world: World,
   from: string,
   to: string,
+  slug: string,
   moved: ReadonlySet<string>
 ): readonly Move[] {
+  const paths = world.under(from)
+  const folders = foldersUnder(world.root, from, to, slug, paths)
   const found: Move[] = []
-  for (const path of world.under(from)) {
+  for (const path of paths) {
     if (moved.has(path)) continue
-    found.push({ from: path, to: join(to, relative(from, path)) })
+    const lands = folders.get(dirname(path)) ?? join(to, relative(from, dirname(path)))
+    found.push({ from: path, to: join(lands, basename(path)) })
   }
   return found.sort((one, two) => (one.from < two.from ? -1 : one.from > two.from ? 1 : 0))
 }
@@ -184,17 +193,17 @@ export function tailOf(slug: string, named: string, to: string): string | null {
   return to.startsWith(opening) && to.length > opening.length ? to.slice(opening.length) : null
 }
 
-function foldedAs(held: Held, given: Asked, folder: string): string {
-  const named = basename(folder)
-  if (held.pageTypeSlug === PAGE_TYPE) return named
-  return tailOf(held.slug, named, given.to) ?? folderFor(held.pageTypeSlug, given.to)
+function foldedAs(world: World, held: Held, given: Asked, folder: string): string {
+  if (held.pageTypeSlug === PAGE_TYPE) return basename(folder)
+  const above = namesAbove(world.root, folder, folder, given.to)
+  return strippedOf(given.to, above) ?? folderFor(held.pageTypeSlug, given.to)
 }
 
 function landingIn(world: World, held: Held, given: Asked): string {
   const name = `${given.to}.${held.pageTypeSlug}${TYPED}`
   const folder = dirname(given.at)
   if (!ownsIn(filesIn(world.root, folder), held)) return join(folder, name)
-  return join(dirname(folder), foldedAs(held, given, folder), name)
+  return join(dirname(folder), foldedAs(world, held, given, folder), name)
 }
 
 const UNDER = "/"
@@ -316,7 +325,9 @@ export function pageRenamed(world: World, given: Asked): Answer {
   const wasFolder = dirname(given.at)
   const nowFolder = dirname(lands)
   if (nowFolder !== wasFolder) {
-    moves.push(...underIn(world, wasFolder, nowFolder, new Set(moves.map((one) => one.from))))
+    moves.push(
+      ...underIn(world, wasFolder, nowFolder, given.to, new Set(moves.map((one) => one.from)))
+    )
   }
   const moved = new Map(moves.map((one) => [one.from, one.to]))
   const way = wayIn(world, moved, held.slug, given.to)
