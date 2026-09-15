@@ -38,12 +38,8 @@ export const deployJob = {
       statement: "A job fetches the commit it is made at rather than the whole history.",
     },
     {
-      invariantKind: "invariant-kind/departure",
-      statement: "A job builds the part of the index git does not carry before it reads a page.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A job builds the index by running a file rather than by calling a command.",
+      invariantKind: "invariant-kind/absence",
+      statement: "A job builds no index, git carrying every index a page is read through.",
     },
     {
       invariantKind: "invariant-kind/departure",

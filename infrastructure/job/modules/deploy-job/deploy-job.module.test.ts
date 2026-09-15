@@ -58,9 +58,9 @@ test("the command the job runs is asked of the index rather than spelled", () =>
   expect(said).toContain(`${SUBJECT} --ref ${COMMIT}`)
 })
 
-test("a job builds the index by running a file rather than by calling a command", () => {
+test("a job builds no index, git carrying every index a page is read through", () => {
   const said = scriptFor(ROOT, SUBJECT, COMMIT, null)
-  expect(said).toContain("index-building.module.code.ts")
+  expect(said).not.toContain("index-building")
   expect(said).not.toContain("index refresh")
 })
 

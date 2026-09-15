@@ -15,8 +15,6 @@ import { ci } from "akasha/infrastructure/container-image/dockerfile/built-image
 import { refFor } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { deployAccount } from "akasha/infrastructure/job/deploy-account/deploy-account.manifest.ts"
 import { dispatcherIn } from "akasha/infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"
-import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
-import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 
 export const JOB_NAMESPACE = "workers"
@@ -57,20 +55,10 @@ const KEPT_SECONDS = 3600
 
 const DEADLINE_SECONDS = 3600
 
-const MODULE = "module"
-
-const CODE = "code"
-
-const BUILDING = "index-building"
-
 const UNCONFINED = "Unconfined"
 
 export function jobNameFor(subject: string, commit: string): string {
   return `${deploy.name}-${subject}-${commit.slice(0, NAMED)}`
-}
-
-function buildingIn(given: string | Reading): string {
-  return fileOf(given, valuedAt(given, MODULE, BUILDING), MODULE, CODE)
 }
 
 function fetchedFor(commit: string, was: string | null): readonly string[] {
@@ -93,7 +81,6 @@ export function scriptFor(
     ...fetchedFor(commit, was),
     "git checkout -q FETCH_HEAD",
     "bun install --frozen-lockfile",
-    `bun ${buildingIn(given)}`,
     `bun ${dispatcherIn(given)} ${deploy.name} ${subject} ${ref.said} ${commit} ${measured.said}`,
   ].join("\n")
 }
