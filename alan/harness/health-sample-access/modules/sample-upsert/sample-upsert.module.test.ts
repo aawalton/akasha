@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
-import { sampleIdentity } from "akasha/alan/harness/health-samples-access/modules/sample-identity/sample-identity.module.code.ts"
-import type { HealthSample } from "akasha/alan/harness/health-samples-access/modules/sample-shape/sample-shape.module.code.ts"
+import { sampleIdentity } from "akasha/alan/harness/health-sample-access/modules/sample-identity/sample-identity.module.code.ts"
+import type { HealthSample } from "akasha/alan/harness/health-sample-access/modules/sample-shape/sample-shape.module.code.ts"
 import {
   landDay,
   mergedInto,
   type ReadingFor,
   TRIES,
   type WritingFor,
-} from "akasha/alan/harness/health-samples-access/modules/sample-upsert/sample-upsert.module.code.ts"
+} from "akasha/alan/harness/health-sample-access/modules/sample-upsert/sample-upsert.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { requireAt } from "akasha/util/narrow/modules/require-at/require-at.module.code.ts"

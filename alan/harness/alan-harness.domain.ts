@@ -21,7 +21,7 @@ export const alanHarness = {
     "domain/errors-client",
     "domain/errors-core",
     "domain/geo-io",
-    "domain/health-samples-access",
+    "domain/health-sample-access",
     "domain/health-samples-day",
     "domain/health-samples-import",
     "domain/idle-system",

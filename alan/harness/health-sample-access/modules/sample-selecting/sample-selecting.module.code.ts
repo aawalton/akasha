@@ -1,14 +1,14 @@
 import { existsSync, readFileSync } from "node:fs"
-import { instantMs } from "akasha/alan/harness/health-samples-access/modules/sample-identity/sample-identity.module.code.ts"
+import { instantMs } from "akasha/alan/harness/health-sample-access/modules/sample-identity/sample-identity.module.code.ts"
 import {
   ANCHOR_PAGE_TYPE,
   ROW_CEILING,
   recordOf,
-} from "akasha/alan/harness/health-samples-access/modules/sample-rows/sample-rows.module.code.ts"
+} from "akasha/alan/harness/health-sample-access/modules/sample-rows/sample-rows.module.code.ts"
 import type {
   HealthMetric,
   HealthSampleRecord,
-} from "akasha/alan/harness/health-samples-access/modules/sample-shape/sample-shape.module.code.ts"
+} from "akasha/alan/harness/health-sample-access/modules/sample-shape/sample-shape.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { z } from "zod"

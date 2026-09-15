@@ -1,4 +1,4 @@
-import type { HealthSampleRecord } from "akasha/alan/harness/health-samples-access/modules/sample-shape/sample-shape.module.code.ts"
+import type { HealthSampleRecord } from "akasha/alan/harness/health-sample-access/modules/sample-shape/sample-shape.module.code.ts"
 
 export const ANCHOR_PAGE_TYPE = "day"
 

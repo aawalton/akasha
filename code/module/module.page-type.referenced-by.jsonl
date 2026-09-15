@@ -528,11 +528,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-core/modules/stack-normalizing/stack-normalizing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-core/modules/throwable-normalizing/throwable-normalizing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/geo-io/modules/geoapify/geoapify.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-samples-access/modules/sample-identity/sample-identity.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-samples-access/modules/sample-rows/sample-rows.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-samples-access/modules/sample-selecting/sample-selecting.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-samples-access/modules/sample-shape/sample-shape.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-samples-access/modules/sample-upsert/sample-upsert.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-sample-access/modules/sample-identity/sample-identity.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-sample-access/modules/sample-rows/sample-rows.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-sample-access/modules/sample-selecting/sample-selecting.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-sample-access/modules/sample-shape/sample-shape.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-sample-access/modules/sample-upsert/sample-upsert.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-samples-day/modules/active-calories/active-calories.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-samples-day/modules/opening-window/opening-window.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/health-samples-import/modules/export-fetching/export-fetching.module.ts"}

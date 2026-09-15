@@ -1,4 +1,4 @@
-import { upsertHealthSamples } from "akasha/alan/harness/health-samples-access/modules/sample-upsert/sample-upsert.module.code.ts"
+import { upsertHealthSamples } from "akasha/alan/harness/health-sample-access/modules/sample-upsert/sample-upsert.module.code.ts"
 import { streamExportLines } from "akasha/alan/harness/health-samples-import/modules/export-fetching/export-fetching.module.code.ts"
 import { buildFetchScript } from "akasha/alan/harness/health-samples-import/modules/health-export/health-export.module.code.ts"
 import { IMPORT_METRICS } from "akasha/alan/harness/health-samples-import/modules/health-import/health-import.module.code.ts"

@@ -32,8 +32,8 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/health-samples-access/modules/sample-selecting/sample-selecting.module.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/health-samples-access/modules/sample-upsert/sample-upsert.module.test.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/health-sample-access/modules/sample-selecting/sample-selecting.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/health-sample-access/modules/sample-upsert/sample-upsert.module.test.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/health-samples-day/modules/opening-window/opening-window.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"}

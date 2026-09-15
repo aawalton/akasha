@@ -173,7 +173,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/errors-client/errors-client.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/errors-core/errors-core.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/geo-io/geo-io.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-samples-access/health-samples-access.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-sample-access/health-sample-access.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-samples-day/health-samples-day.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-samples-import/health-samples-import.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/idle-system/idle-system.domain.ts"}
