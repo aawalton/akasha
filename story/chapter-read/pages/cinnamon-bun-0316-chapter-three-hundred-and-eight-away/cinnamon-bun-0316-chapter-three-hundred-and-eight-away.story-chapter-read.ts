@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0316ChapterThreeHundredAndEightAway = {
   id: "01a0672c-eb19-700b-a472-53f2daea9015",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0316-chapter-three-hundred-and-eight-away",
   title: "Chapter Three Hundred and Eight - Away",
   story: "story-read/cinnamon-bun",

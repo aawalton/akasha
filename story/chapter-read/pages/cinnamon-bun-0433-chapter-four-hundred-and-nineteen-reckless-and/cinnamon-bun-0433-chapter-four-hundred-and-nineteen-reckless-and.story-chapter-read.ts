@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0433ChapterFourHundredAndNineteenRecklessAnd = {
   id: "01a0672c-eb20-7010-a43d-502e9f3df9b3",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0433-chapter-four-hundred-and-nineteen-reckless-and",
   title: "Chapter Four Hundred and Nineteen - Reckless and Wild, they Pour Through the Turns",
   story: "story-read/cinnamon-bun",

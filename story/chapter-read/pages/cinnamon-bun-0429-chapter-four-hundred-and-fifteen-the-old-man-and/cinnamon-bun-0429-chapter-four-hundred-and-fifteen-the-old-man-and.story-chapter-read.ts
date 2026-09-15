@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0429ChapterFourHundredAndFifteenTheOldManAnd = {
   id: "01a0672c-eb20-700c-aea9-6fe47986b31e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0429-chapter-four-hundred-and-fifteen-the-old-man-and",
   title: "Chapter Four Hundred and Fifteen - The Old Man and the Sky",
   story: "story-read/cinnamon-bun",

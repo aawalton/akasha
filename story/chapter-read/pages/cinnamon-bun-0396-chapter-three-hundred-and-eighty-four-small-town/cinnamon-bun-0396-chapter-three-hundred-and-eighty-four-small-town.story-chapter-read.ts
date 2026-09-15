@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0396ChapterThreeHundredAndEightyFourSmallTown = {
   id: "01a0672c-eb1f-7002-9146-466ecee612c4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0396-chapter-three-hundred-and-eighty-four-small-town",
   title: "Chapter Three Hundred and Eighty-Four - Small Town Charm",
   story: "story-read/cinnamon-bun",

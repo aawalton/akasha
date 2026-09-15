@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0292ChapterTwoHundredAndEightyFourTheHonourable = {
   id: "01a0672c-eb18-7002-a075-7e402f2ded2f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0292-chapter-two-hundred-and-eighty-four-the-honourable",
   title: "Chapter Two Hundred and Eighty-Four - The Honourable Judge Bunch, Presiding",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0361ChapterThreeHundredAndFiftyThreeOctagon = {
   id: "01a0672c-eb1d-7005-afe7-000f9470317f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0361-chapter-three-hundred-and-fifty-three-octagon",
   title: "Chapter Three Hundred and Fifty-Three - Octagon",
   story: "story-read/cinnamon-bun",

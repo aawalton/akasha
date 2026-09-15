@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0266ChapterTwoHundredAndFiftyEightTheMelancholy = {
   id: "01a0672c-eb16-7005-baaa-28e05d52abb0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0266-chapter-two-hundred-and-fifty-eight-the-melancholy",
   title: "Chapter Two Hundred and Fifty-Eight - The Melancholy of Broccoli Bunch",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0399ChapterThreeHundredAndEightySevenTheyHeld = {
   id: "01a0672c-eb1f-7005-8eaa-20d0b427a1bd",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0399-chapter-three-hundred-and-eighty-seven-they-held",
   title: "Chapter Three Hundred and Eighty-Seven - They Held the Line",
   story: "story-read/cinnamon-bun",

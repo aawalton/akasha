@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0318ChapterThreeHundredAndTenTheKnightsOfThe = {
   id: "01a0672c-eb19-700d-99b0-520283a375ea",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0318-chapter-three-hundred-and-ten-the-knights-of-the",
   title: "Chapter Three Hundred and Ten - The Knights of the Long Rest",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0385ChapterThreeHundredAndSeventyThreeDressUp = {
   id: "01a0672c-eb1e-700c-a38c-2cfff6f5902c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0385-chapter-three-hundred-and-seventy-three-dress-up",
   title: "Chapter Three Hundred and Seventy-Three - Dress-Up Games",
   story: "story-read/cinnamon-bun",

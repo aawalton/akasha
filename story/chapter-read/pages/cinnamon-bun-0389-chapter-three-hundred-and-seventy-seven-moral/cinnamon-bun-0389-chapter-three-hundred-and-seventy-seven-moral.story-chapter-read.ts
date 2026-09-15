@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0389ChapterThreeHundredAndSeventySevenMoral = {
   id: "01a0672c-eb1e-7010-a828-ef13e189aaeb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0389-chapter-three-hundred-and-seventy-seven-moral",
   title: "Chapter Three Hundred and Seventy-Seven - Moral Fiber",
   story: "story-read/cinnamon-bun",

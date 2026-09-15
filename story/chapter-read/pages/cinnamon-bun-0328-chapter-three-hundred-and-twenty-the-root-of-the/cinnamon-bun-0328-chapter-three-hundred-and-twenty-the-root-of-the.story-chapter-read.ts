@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0328ChapterThreeHundredAndTwentyTheRootOfThe = {
   id: "01a0672c-eb1b-7003-afc9-a3dc1449dc98",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0328-chapter-three-hundred-and-twenty-the-root-of-the",
   title: "Chapter Three Hundred and Twenty - The Root of the Matter",
   story: "story-read/cinnamon-bun",

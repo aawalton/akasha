@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0308ChapterThreeHundredTheWorldIsDiseasedAndI = {
   id: "01a0672c-eb19-7003-8407-fcc0d5334a93",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0308-chapter-three-hundred-the-world-is-diseased-and-i",
   title: "Chapter Three Hundred - The World is Diseased, And I Alone Can Cure It",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0386ChapterThreeHundredAndSeventyFourLateToBed = {
   id: "01a0672c-eb1e-700d-a205-6d6bd1405f89",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0386-chapter-three-hundred-and-seventy-four-late-to-bed",
   title: "Chapter Three Hundred and Seventy-Four - Late to Bed and Late to Rise",
   story: "story-read/cinnamon-bun",

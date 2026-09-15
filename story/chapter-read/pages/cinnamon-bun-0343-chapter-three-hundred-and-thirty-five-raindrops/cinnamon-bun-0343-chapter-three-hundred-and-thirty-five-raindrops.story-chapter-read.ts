@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0343ChapterThreeHundredAndThirtyFiveRaindrops = {
   id: "01a0672c-eb1c-7004-b889-efc5dfbb6d3a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0343-chapter-three-hundred-and-thirty-five-raindrops",
   title: "Chapter Three Hundred and Thirty-Five - Raindrops Keep Fallin' On My Head",
   story: "story-read/cinnamon-bun",

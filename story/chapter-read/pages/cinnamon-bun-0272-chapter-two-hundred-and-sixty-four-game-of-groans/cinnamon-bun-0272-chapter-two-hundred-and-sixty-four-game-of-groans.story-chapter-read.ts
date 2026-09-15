@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0272ChapterTwoHundredAndSixtyFourGameOfGroans = {
   id: "01a0672c-eb16-700b-95fe-7b4587d17b46",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0272-chapter-two-hundred-and-sixty-four-game-of-groans",
   title: "Chapter Two Hundred and Sixty-Four - Game of Groans",
   story: "story-read/cinnamon-bun",

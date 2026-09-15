@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0383ChapterThreeHundredAndSeventyOneStopDrop = {
   id: "01a0672c-eb1e-700a-9bc1-02e77a2dedf7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0383-chapter-three-hundred-and-seventy-one-stop-drop",
   title: "Chapter Three Hundred and Seventy-One - Stop, Drop, and Shop",
   story: "story-read/cinnamon-bun",

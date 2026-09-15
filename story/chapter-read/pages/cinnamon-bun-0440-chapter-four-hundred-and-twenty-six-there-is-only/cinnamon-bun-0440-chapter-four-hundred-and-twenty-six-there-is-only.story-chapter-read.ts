@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0440ChapterFourHundredAndTwentySixThereIsOnly = {
   id: "01a0672c-eb21-7001-9648-ff3b556bf5ac",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0440-chapter-four-hundred-and-twenty-six-there-is-only",
   title: "Chapter Four Hundred and Twenty-Six - There is Only Open Fire and Reload",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0435ChapterFourHundredAndTwentyOneNoTrophiesNo = {
   id: "01a0672c-eb20-7012-b20f-3ea7e377d895",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0435-chapter-four-hundred-and-twenty-one-no-trophies-no",
   title:
     "Chapter Four Hundred and Twenty-One - No Trophies, No Flowers, No Flashbulbs, but at Least there's W",

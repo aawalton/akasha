@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0437ChapterFourHundredAndTwentyThreeAwakeAtThe = {
   id: "01a0672c-eb20-7014-abc7-36207cbd5234",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0437-chapter-four-hundred-and-twenty-three-awake-at-the",
   title: "Chapter Four Hundred and Twenty-Three - Awake at the Witching Hour",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0402ChapterThreeHundredAndNinetyTheClass = {
   id: "01a0672c-eb1f-7008-a1da-575a36c4fba6",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0402-chapter-three-hundred-and-ninety-the-class",
   title: "Chapter Three Hundred and Ninety - The Class Struggle is Real",
   story: "story-read/cinnamon-bun",

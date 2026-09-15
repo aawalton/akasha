@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0358ChapterThreeHundredAndFiftyTheAmazing = {
   id: "01a0672c-eb1d-7002-acbf-9aafef81d544",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0358-chapter-three-hundred-and-fifty-the-amazing",
   title: "Chapter Three Hundred and Fifty - The Amazing Spidermom",
   story: "story-read/cinnamon-bun",

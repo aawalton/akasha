@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0359ChapterThreeHundredAndFiftyOneMutually = {
   id: "01a0672c-eb1d-7003-a653-56f1a4432ab8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0359-chapter-three-hundred-and-fifty-one-mutually",
   title: "Chapter Three Hundred and Fifty-One - Mutually Assured Hugging",
   story: "story-read/cinnamon-bun",

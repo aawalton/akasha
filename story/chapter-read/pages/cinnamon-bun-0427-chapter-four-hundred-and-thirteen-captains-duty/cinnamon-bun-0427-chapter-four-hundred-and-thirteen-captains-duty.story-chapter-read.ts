@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0427ChapterFourHundredAndThirteenCaptainsDuty = {
   id: "01a0672c-eb20-700a-bbbc-30ce0c7569f9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0427-chapter-four-hundred-and-thirteen-captains-duty",
   title: "Chapter Four Hundred and Thirteen - Captain's Duty",
   story: "story-read/cinnamon-bun",

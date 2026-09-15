@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0415ChapterFourHundredAndTwoSailorSuited = {
   id: "01a0672c-eb1f-7015-b03f-2b6ce757b62e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0415-chapter-four-hundred-and-two-sailor-suited",
   title: "Chapter Four Hundred and Two - Sailor-Suited Soldiers of Love and Justice!",
   story: "story-read/cinnamon-bun",

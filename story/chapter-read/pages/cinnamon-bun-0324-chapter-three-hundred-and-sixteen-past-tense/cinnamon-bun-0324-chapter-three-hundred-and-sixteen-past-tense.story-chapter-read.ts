@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0324ChapterThreeHundredAndSixteenPastTense = {
   id: "01a0672c-eb1a-7004-b65f-0ea9a3470d76",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0324-chapter-three-hundred-and-sixteen-past-tense",
   title: "Chapter Three Hundred and Sixteen - Past Tense",
   story: "story-read/cinnamon-bun",

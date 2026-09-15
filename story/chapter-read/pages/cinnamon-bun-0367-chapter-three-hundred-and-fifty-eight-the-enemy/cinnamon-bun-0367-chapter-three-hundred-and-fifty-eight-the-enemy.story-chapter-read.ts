@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0367ChapterThreeHundredAndFiftyEightTheEnemy = {
   id: "01a0672c-eb1d-700b-8ddf-4a5b69a0da0e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0367-chapter-three-hundred-and-fifty-eight-the-enemy",
   title: "Chapter Three Hundred and Fifty-Eight - The Enemy Always Gets a Vote",
   story: "story-read/cinnamon-bun",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0450ChapterFourHundredAndThirtySixDrawTheParty = {
   id: "01a0672c-eb21-700b-880e-9d0eda00fccc",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0450-chapter-four-hundred-and-thirty-six-draw-the-party",
   title: "Chapter Four Hundred and Thirty-Six - Draw the Party Line",
   story: "story-read/cinnamon-bun",

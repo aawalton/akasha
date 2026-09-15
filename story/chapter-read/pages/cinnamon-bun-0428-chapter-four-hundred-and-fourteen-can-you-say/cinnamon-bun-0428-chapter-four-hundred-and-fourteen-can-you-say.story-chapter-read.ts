@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0428ChapterFourHundredAndFourteenCanYouSay = {
   id: "01a0672c-eb20-700b-9b06-0374a071a843",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0428-chapter-four-hundred-and-fourteen-can-you-say",
   title: "Chapter Four Hundred and Fourteen - Can You Say Uncle",
   story: "story-read/cinnamon-bun",

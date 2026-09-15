@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0412ChapterThreeHundredAndNinetyNineTheLittle = {
   id: "01a0672c-eb1f-7012-bb6b-86abd3c4f652",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0412-chapter-three-hundred-and-ninety-nine-the-little",
   title: "Chapter Three Hundred and Ninety-Nine - The Little Cheese of Airship Inspections",
   story: "story-read/cinnamon-bun",

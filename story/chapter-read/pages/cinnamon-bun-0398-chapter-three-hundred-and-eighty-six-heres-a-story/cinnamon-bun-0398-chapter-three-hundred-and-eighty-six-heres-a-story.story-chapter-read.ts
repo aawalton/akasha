@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0398ChapterThreeHundredAndEightySixHeresAStory = {
   id: "01a0672c-eb1f-7004-84a8-2fef9f11d1ce",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0398-chapter-three-hundred-and-eighty-six-heres-a-story",
   title:
     "Chapter Three Hundred and Eighty-Six - Here's a Story About a Little Town That Lives in a Blue World",

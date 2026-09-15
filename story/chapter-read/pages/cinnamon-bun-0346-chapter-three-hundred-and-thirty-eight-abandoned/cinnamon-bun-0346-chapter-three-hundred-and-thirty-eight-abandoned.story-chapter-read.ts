@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const cinnamonBun0346ChapterThreeHundredAndThirtyEightAbandoned = {
   id: "01a0672c-eb1c-7007-9529-ba4f49ccf97e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "cinnamon-bun-0346-chapter-three-hundred-and-thirty-eight-abandoned",
   title: "Chapter Three Hundred and Thirty-Eight - Abandoned Ship",
   story: "story-read/cinnamon-bun",
