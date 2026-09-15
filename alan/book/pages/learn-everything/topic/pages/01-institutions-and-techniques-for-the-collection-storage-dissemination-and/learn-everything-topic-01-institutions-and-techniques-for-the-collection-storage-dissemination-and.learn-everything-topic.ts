@@ -3,7 +3,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 export const learnEverythingTopic01InstitutionsAndTechniquesForTheCollectionStorageDisseminationAnd =
   {
     id: "01a065a7-085b-701d-87e8-9fe686e9f816",
-    type: "learn-everything-topic",
+    type: "page-type/learn-everything-topic",
     slug: "learn-everything-topic-01-institutions-and-techniques-for-the-collection-storage-dissemination-and",
     node: "The Branches of Knowledge › Preservation of Knowledge › Institutions and Techniques for the Collection, Storage, Dissemination and Preservation of Knowledge",
     masteryLevel: "mastery-level/novice",

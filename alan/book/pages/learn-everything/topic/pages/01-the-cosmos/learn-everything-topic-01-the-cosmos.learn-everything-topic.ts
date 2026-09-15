@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic01TheCosmos = {
   id: "01a065a7-084d-700d-82de-4e154424afe3",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-01-the-cosmos",
   node: "Matter and Energy › The Universe › The Cosmos",
   masteryLevel: "mastery-level/novice",

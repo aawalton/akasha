@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic03WesternChristendomInTheHighAndLaterMiddleAges10501500 = {
   id: "01a065a7-0857-7019-9542-77d8f28ace6e",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-03-western-christendom-in-the-high-and-later-middle-ages-1050-1500",
   node: "The History of Mankind › Medieval Southwest Asia, North Africa, and Europe › Western Christendom in the High and Later Middle Ages 1050–1500",
   masteryLevel: "mastery-level/novice",

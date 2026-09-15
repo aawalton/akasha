@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02BranchesOfPublicLawSubstantiveAndProcedural = {
   id: "01a065a7-0855-7030-b4d4-45dcd818aefe",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-branches-of-public-law-substantive-and-procedural",
   node: "Human Society › Law › Branches of Public Law, Substantive and Procedural",
   masteryLevel: "mastery-level/novice",

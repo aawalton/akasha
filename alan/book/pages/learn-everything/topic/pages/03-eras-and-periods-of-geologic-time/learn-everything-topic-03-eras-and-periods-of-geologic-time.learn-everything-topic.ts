@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic03ErasAndPeriodsOfGeologicTime = {
   id: "01a065a7-0854-7002-b768-4e9585a9db62",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-03-eras-and-periods-of-geologic-time",
   node: "The Earth › Earth's History › Eras and Periods of Geologic Time",
   masteryLevel: "mastery-level/novice",

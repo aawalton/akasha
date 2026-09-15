@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic03FunctioningOfGovernmentTheDynamicsOfThePoliticalProcess = {
   id: "01a065a7-0855-702c-b9c9-ab4a644b7298",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-03-functioning-of-government-the-dynamics-of-the-political-process",
   node: "Human Society › Politics and Government › Functioning of Government: the Dynamics of the Political Process",
   masteryLevel: "mastery-level/novice",

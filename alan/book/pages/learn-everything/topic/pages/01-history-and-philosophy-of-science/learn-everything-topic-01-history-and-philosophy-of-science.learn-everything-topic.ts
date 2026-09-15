@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic01HistoryAndPhilosophyOfScience = {
   id: "01a065a7-085b-700e-ac98-b4916bd1e239",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-01-history-and-philosophy-of-science",
   node: "The Branches of Knowledge › Science › History and Philosophy of Science",
   masteryLevel: "mastery-level/novice",

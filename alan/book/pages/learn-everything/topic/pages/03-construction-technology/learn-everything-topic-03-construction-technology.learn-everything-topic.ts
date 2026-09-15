@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic03ConstructionTechnology = {
   id: "01a065a7-0856-7026-99f8-c976e659a8b4",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-03-construction-technology",
   node: "Technology › Fields of Technology › Construction Technology",
   masteryLevel: "mastery-level/novice",

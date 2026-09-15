@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic01AgricultureAndFoodProduction = {
   id: "01a065a7-0856-7024-991a-471331f2c45a",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-01-agriculture-and-food-production",
   node: "Technology › Fields of Technology › Agriculture and Food Production",
   masteryLevel: "mastery-level/novice",

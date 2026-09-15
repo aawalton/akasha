@@ -3,7 +3,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 export const learnEverythingTopic03InfluenceOfTheCurrentEnvironmentOnAPersonSBehaviorAndConscious =
   {
     id: "01a065a7-0855-7012-9a8b-f60bb935c42e",
-    type: "learn-everything-topic",
+    type: "page-type/learn-everything-topic",
     slug: "learn-everything-topic-03-influence-of-the-current-environment-on-a-person-s-behavior-and-conscious",
     node: "Human Life › Human Behavior and Experience › Influence of the current environment on a person's behavior and conscious experience: attention, sensation, and perception",
     masteryLevel: "mastery-level/novice",

@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02DivisionsOfPhilosophy = {
   id: "01a065a7-085b-701a-82cf-2c7fad298d28",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-divisions-of-philosophy",
   node: "The Branches of Knowledge › Philosophy › Divisions of Philosophy",
   masteryLevel: "mastery-level/expert",

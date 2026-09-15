@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02BranchesOfMathematics = {
   id: "01a065a7-085b-7006-a742-f950555b7c33",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-branches-of-mathematics",
   node: "The Branches of Knowledge › Mathematics › Branches of Mathematics",
   masteryLevel: "mastery-level/novice",

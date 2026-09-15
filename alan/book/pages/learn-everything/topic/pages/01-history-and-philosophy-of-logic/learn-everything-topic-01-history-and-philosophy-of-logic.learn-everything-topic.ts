@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic01HistoryAndPhilosophyOfLogic = {
   id: "01a065a7-085a-7023-9758-d7502ea5b2c3",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-01-history-and-philosophy-of-logic",
   node: "The Branches of Knowledge › Logic › History and Philosophy of Logic",
   masteryLevel: "mastery-level/novice",

@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic04JapanToTheMeijiRestoration1868KoreaTo1910 = {
   id: "01a065a7-0857-701f-be04-040334cf6d4a",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-04-japan-to-the-meiji-restoration-1868-korea-to-1910",
   node: "The History of Mankind › East, Central, South, and Southeast Asia › Japan to the Meiji Restoration 1868, Korea to 1910",
   masteryLevel: "mastery-level/novice",

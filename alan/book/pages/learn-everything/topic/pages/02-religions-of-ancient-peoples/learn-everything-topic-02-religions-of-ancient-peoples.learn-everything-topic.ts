@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02ReligionsOfAncientPeoples = {
   id: "01a065a7-0857-7001-8ecf-41ac57c8f15a",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-religions-of-ancient-peoples",
   node: "Religion › Particular Religions › Religions of Ancient Peoples",
   masteryLevel: "mastery-level/novice",

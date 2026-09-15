@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02MetabolismBioenergeticsAndBiosynthesis = {
   id: "01a065a7-0854-700a-b459-de61d8ebd82f",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-metabolism-bioenergetics-and-biosynthesis",
   node: "Life on Earth › The Molecular Basis of Life › Metabolism: Bioenergetics and Biosynthesis",
   masteryLevel: "mastery-level/novice",

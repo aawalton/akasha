@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic01EconomicConceptsIssuesAndSystems = {
   id: "01a065a7-0855-7023-930e-f676edd240f0",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-01-economic-concepts-issues-and-systems",
   node: "Human Society › The Production, Distribution, and Utilization of Wealth › Economic Concepts, Issues, and Systems",
   masteryLevel: "mastery-level/novice",

@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02GalaxiesAndStars = {
   id: "01a065a7-084d-700e-b5be-fc8dc160c4f0",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-galaxies-and-stars",
   node: "Matter and Energy › The Universe › Galaxies and Stars",
   masteryLevel: "mastery-level/novice",

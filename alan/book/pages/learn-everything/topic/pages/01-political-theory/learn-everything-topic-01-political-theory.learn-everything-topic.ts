@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic01PoliticalTheory = {
   id: "01a065a7-0855-702a-b71b-8ee6e8e3b275",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-01-political-theory",
   node: "Human Society › Politics and Government › Political Theory",
   masteryLevel: "mastery-level/scholar",

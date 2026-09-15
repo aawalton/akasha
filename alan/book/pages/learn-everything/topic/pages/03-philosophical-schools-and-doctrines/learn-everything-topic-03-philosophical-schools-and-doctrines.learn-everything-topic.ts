@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic03PhilosophicalSchoolsAndDoctrines = {
   id: "01a065a7-085b-701b-a0d5-c95f10c2f9a6",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-03-philosophical-schools-and-doctrines",
   node: "The Branches of Knowledge › Philosophy › Philosophical Schools and Doctrines",
   masteryLevel: "mastery-level/novice",

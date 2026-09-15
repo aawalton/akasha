@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02MesoAmericanCivilizationToAd1540 = {
   id: "01a065a7-085a-7005-9947-8c8371862756",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-meso-american-civilization-to-ad-1540",
   node: "The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540",
   masteryLevel: "mastery-level/novice",

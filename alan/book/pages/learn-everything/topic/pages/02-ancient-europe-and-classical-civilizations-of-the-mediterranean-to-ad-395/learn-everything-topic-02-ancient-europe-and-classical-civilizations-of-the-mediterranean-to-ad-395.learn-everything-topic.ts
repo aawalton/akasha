@@ -3,7 +3,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 export const learnEverythingTopic02AncientEuropeAndClassicalCivilizationsOfTheMediterraneanToAd395 =
   {
     id: "01a065a7-0857-7015-b834-c20f78ed3780",
-    type: "learn-everything-topic",
+    type: "page-type/learn-everything-topic",
     slug: "learn-everything-topic-02-ancient-europe-and-classical-civilizations-of-the-mediterranean-to-ad-395",
     node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Europe and Classical Civilizations of the Mediterranean to AD 395",
     masteryLevel: "mastery-level/novice",

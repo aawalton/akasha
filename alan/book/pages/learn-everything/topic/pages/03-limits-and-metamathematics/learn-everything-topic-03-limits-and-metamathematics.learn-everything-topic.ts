@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic03LimitsAndMetamathematics = {
   id: "01a065a7-085b-7005-aed7-e747528d875b",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-03-limits-and-metamathematics",
   node: "The Branches of Knowledge › Mathematics › History and Foundations of Mathematics › Limits and Metamathematics",
   masteryLevel: "mastery-level/novice",

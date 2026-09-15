@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02HumanHealth = {
   id: "01a065a7-0855-700c-9496-4e77056b09b0",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-human-health",
   node: "Human Life › The Human Body: Health and Disease › Human Health",
   masteryLevel: "mastery-level/novice",

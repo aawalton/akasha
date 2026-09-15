@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02RelationOfFormAndFunctionInOrganisms = {
   id: "01a065a7-0854-700e-be97-09d70fcc3877",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-relation-of-form-and-function-in-organisms",
   node: "Life on Earth › The Structures and Functions of Organisms › Relation of Form and Function in Organisms",
   masteryLevel: "mastery-level/novice",

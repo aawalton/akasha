@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic04SacrificeAndOffering = {
   id: "01a065a7-0856-7033-9581-94a6e8f9fd62",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-04-sacrifice-and-offering",
   node: "Religion › Religion in General › Religious Life: Institutions and Practices › Sacrifice and Offering",
   masteryLevel: "mastery-level/novice",

@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic05HumanSociety = {
   id: "01a065a7-0855-7017-95b1-3c43c67dbbd5",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-05-human-society",
   node: "Human Society",
   masteryLevel: "mastery-level/novice",

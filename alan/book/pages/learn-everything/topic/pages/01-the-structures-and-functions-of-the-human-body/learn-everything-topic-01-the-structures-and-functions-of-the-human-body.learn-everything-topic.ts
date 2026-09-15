@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic01TheStructuresAndFunctionsOfTheHumanBody = {
   id: "01a065a7-0855-700b-bc0e-11aaf3846d55",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-01-the-structures-and-functions-of-the-human-body",
   node: "Human Life › The Human Body: Health and Disease › The Structures and Functions of the Human Body",
   masteryLevel: "mastery-level/novice",

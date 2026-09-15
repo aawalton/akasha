@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02FoundationsPrograms = {
   id: "01a065a7-085b-7004-81a9-273c6601fa6d",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-foundations-programs",
   node: "The Branches of Knowledge › Mathematics › History and Foundations of Mathematics › Foundations Programs",
   masteryLevel: "mastery-level/student",

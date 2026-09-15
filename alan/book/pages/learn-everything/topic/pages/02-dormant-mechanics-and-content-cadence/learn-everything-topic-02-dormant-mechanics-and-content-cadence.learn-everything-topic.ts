@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02DormantMechanicsAndContentCadence = {
   id: "01a065a7-0856-7012-9beb-f4a11d58d4b8",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-dormant-mechanics-and-content-cadence",
   node: "Art › Particular Arts › Game Design › Dormant Mechanics and Content Cadence",
   masteryLevel: "mastery-level/scholar",

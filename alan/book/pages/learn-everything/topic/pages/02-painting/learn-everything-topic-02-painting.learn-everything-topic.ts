@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02Painting = {
   id: "01a065a7-0856-700c-85e2-c6814bf1caa3",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-painting",
   node: "Art › Particular Arts › Drawing, Painting, Printmaking, Photography › Painting",
   masteryLevel: "mastery-level/novice",

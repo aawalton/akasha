@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02SocialOrganizationAndSocialChange = {
   id: "01a065a7-0855-701d-8c0c-967f56985504",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-social-organization-and-social-change",
   node: "Human Society › Social Organization and Social Change",
   masteryLevel: "mastery-level/novice",

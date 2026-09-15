@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic01ChemicalElementsPeriodicVariationInTheirProperties = {
   id: "01a065a7-084d-7004-92a8-7f3e26156a0b",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-01-chemical-elements-periodic-variation-in-their-properties",
   node: "Matter and Energy › Energy, Radiation, and States of Matter › Chemical Elements: Periodic Variation in Their Properties",
   masteryLevel: "mastery-level/novice",

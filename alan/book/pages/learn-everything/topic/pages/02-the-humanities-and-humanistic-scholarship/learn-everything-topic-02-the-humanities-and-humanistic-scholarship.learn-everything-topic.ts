@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02TheHumanitiesAndHumanisticScholarship = {
   id: "01a065a7-085b-7017-a8e4-10ac6faaa11d",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-the-humanities-and-humanistic-scholarship",
   node: "The Branches of Knowledge › History and The Humanities › The Humanities and Humanistic Scholarship",
   masteryLevel: "mastery-level/novice",

@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic04ThePracticeOfMedicineAndCareOfHealth = {
   id: "01a065a7-0855-700e-a385-e5c157f6219d",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-04-the-practice-of-medicine-and-care-of-health",
   node: "Human Life › The Human Body: Health and Disease › The Practice of Medicine and Care of Health",
   masteryLevel: "mastery-level/novice",

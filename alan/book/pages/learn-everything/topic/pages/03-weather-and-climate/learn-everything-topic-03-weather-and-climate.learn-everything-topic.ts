@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic03WeatherAndClimate = {
   id: "01a065a7-084d-7019-a37d-c2f7924f5e48",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-03-weather-and-climate",
   node: "The Earth › Earth's Envelope › Weather and Climate",
   masteryLevel: "mastery-level/novice",

@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02EducationAroundTheWorld = {
   id: "01a065a7-0855-7034-b364-ddf48a10933a",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-education-around-the-world",
   node: "Human Society › Education › Education Around the World",
   masteryLevel: "mastery-level/novice",

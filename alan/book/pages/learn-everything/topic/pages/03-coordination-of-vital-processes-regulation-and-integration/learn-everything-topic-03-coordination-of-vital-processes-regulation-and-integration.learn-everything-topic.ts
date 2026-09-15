@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic03CoordinationOfVitalProcessesRegulationAndIntegration = {
   id: "01a065a7-0854-700f-9d14-4e12d9959df4",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-03-coordination-of-vital-processes-regulation-and-integration",
   node: "Life on Earth › The Structures and Functions of Organisms › Coordination of Vital Processes: Regulation and Integration",
   masteryLevel: "mastery-level/novice",

@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic03HinduismAndOtherReligionsOfIndia = {
   id: "01a065a7-0857-7002-a61b-72504a6621b5",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-03-hinduism-and-other-religions-of-india",
   node: "Religion › Particular Religions › Hinduism and Other Religions of India",
   masteryLevel: "mastery-level/student",

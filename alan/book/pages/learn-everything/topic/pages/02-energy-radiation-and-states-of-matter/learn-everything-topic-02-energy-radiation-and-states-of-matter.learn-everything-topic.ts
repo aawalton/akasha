@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02EnergyRadiationAndStatesOfMatter = {
   id: "01a065a7-084d-7003-a05e-25fb32989ba5",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-energy-radiation-and-states-of-matter",
   node: "Matter and Energy › Energy, Radiation, and States of Matter",
   masteryLevel: "mastery-level/novice",

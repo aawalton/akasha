@@ -3,7 +3,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 export const learnEverythingTopic02AntecedentConditionsAndDevelopmentalProcessesAffectingAPersonS =
   {
     id: "01a065a7-0855-7011-b563-1b337709d1fe",
-    type: "learn-everything-topic",
+    type: "page-type/learn-everything-topic",
     slug: "learn-everything-topic-02-antecedent-conditions-and-developmental-processes-affecting-a-person-s",
     node: "Human Life › Human Behavior and Experience › Antecedent conditions and developmental processes affecting a person's behavior and conscious experience",
     masteryLevel: "mastery-level/novice",

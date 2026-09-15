@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic04CurrentInternalStatesAffectingAPersonBehaviorAndConscious = {
   id: "01a065a7-0855-7013-8ef5-7ca4ff93185a",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-04-current-internal-states-affecting-a-person-behavior-and-conscious",
   node: "Human Life › Human Behavior and Experience › Current Internal states affecting a person' behavior and conscious experience",
   masteryLevel: "mastery-level/novice",

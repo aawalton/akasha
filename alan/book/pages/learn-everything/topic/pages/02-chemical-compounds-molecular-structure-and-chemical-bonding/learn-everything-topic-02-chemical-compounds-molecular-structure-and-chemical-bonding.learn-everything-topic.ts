@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02ChemicalCompoundsMolecularStructureAndChemicalBonding = {
   id: "01a065a7-084d-7005-8f5a-3312cbafa754",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-chemical-compounds-molecular-structure-and-chemical-bonding",
   node: "Matter and Energy › Energy, Radiation, and States of Matter › Chemical Compounds: Molecular Structure and Chemical Bonding",
   masteryLevel: "mastery-level/novice",

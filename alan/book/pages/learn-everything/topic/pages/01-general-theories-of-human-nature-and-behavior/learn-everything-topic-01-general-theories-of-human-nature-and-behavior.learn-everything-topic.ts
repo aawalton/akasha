@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic01GeneralTheoriesOfHumanNatureAndBehavior = {
   id: "01a065a7-0855-7010-ba6a-6d6ebff0a212",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-01-general-theories-of-human-nature-and-behavior",
   node: "Human Life › Human Behavior and Experience › General theories of human nature and behavior",
   masteryLevel: "mastery-level/novice",

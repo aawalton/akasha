@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic04TheBiologicalSciences = {
   id: "01a065a7-085b-7011-b5e9-880670d69296",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-04-the-biological-sciences",
   node: "The Branches of Knowledge › Science › The Biological Sciences",
   masteryLevel: "mastery-level/novice",

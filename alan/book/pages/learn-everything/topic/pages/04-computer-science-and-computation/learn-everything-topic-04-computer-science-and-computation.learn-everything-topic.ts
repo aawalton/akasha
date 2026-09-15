@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic04ComputerScienceAndComputation = {
   id: "01a065a7-085b-700b-a23a-ed856ef5cf75",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-04-computer-science-and-computation",
   node: "The Branches of Knowledge › Mathematics › Applications of Mathematics › Computer Science and Computation",
   masteryLevel: "mastery-level/novice",

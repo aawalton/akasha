@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic01PhysicalFeaturesOfTheEarthSSurface = {
   id: "01a065a7-084d-701b-a9fd-e0225a6f4a6c",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-01-physical-features-of-the-earth-s-surface",
   node: "The Earth › Surface Features › Physical Features of the Earth's Surface",
   masteryLevel: "mastery-level/novice",

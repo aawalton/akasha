@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02PoliticalInstitutionsTheStructureBranchesOfficesOfGovernment = {
   id: "01a065a7-0855-702b-b11f-bbe704b78d11",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-political-institutions-the-structure-branches-offices-of-government",
   node: "Human Society › Politics and Government › Political Institutions: the Structure, Branches, & Offices of Government",
   masteryLevel: "mastery-level/novice",

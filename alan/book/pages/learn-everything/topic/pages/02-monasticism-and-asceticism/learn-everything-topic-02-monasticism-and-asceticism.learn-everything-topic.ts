@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02MonasticismAndAsceticism = {
   id: "01a065a7-0856-7031-9b7e-1f41e5bddc2e",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-monasticism-and-asceticism",
   node: "Religion › Religion in General › Religious Life: Institutions and Practices › Monasticism and Asceticism",
   masteryLevel: "mastery-level/novice",

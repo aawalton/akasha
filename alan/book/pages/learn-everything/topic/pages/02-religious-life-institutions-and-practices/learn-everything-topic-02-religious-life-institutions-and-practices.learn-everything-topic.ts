@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02ReligiousLifeInstitutionsAndPractices = {
   id: "01a065a7-0856-702f-9859-b36b517795c3",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-religious-life-institutions-and-practices",
   node: "Religion › Religion in General › Religious Life: Institutions and Practices",
   masteryLevel: "mastery-level/expert",

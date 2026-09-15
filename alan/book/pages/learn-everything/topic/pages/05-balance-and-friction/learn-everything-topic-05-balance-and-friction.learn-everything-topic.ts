@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic05BalanceAndFriction = {
   id: "01a065a7-0856-7015-9c36-38f389fefd7e",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-05-balance-and-friction",
   node: "Art › Particular Arts › Game Design › Balance and Friction",
   masteryLevel: "mastery-level/student",

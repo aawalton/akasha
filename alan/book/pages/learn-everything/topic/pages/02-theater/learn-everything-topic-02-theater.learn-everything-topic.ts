@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02Theater = {
   id: "01a065a7-0856-7004-a182-48515966a0ec",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-theater",
   node: "Art › Particular Arts › Theater",
   masteryLevel: "mastery-level/novice",

@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic01CellularBasisOfFormAndFunction = {
   id: "01a065a7-0854-700d-898f-c261e3f955c5",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-01-cellular-basis-of-form-and-function",
   node: "Life on Earth › The Structures and Functions of Organisms › Cellular Basis of Form and Function",
   masteryLevel: "mastery-level/novice",

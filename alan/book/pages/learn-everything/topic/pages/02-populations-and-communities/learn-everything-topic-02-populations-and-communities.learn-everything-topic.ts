@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic02PopulationsAndCommunities = {
   id: "01a065a7-0855-7002-be23-042bd28cbd1b",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-02-populations-and-communities",
   node: "Life on Earth › The Biosphere › Populations and Communities",
   masteryLevel: "mastery-level/novice",

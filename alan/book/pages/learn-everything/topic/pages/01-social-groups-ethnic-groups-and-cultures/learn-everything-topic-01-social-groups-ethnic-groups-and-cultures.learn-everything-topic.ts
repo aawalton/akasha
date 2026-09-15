@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic01SocialGroupsEthnicGroupsAndCultures = {
   id: "01a065a7-0855-7018-a119-c0d789117096",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-01-social-groups-ethnic-groups-and-cultures",
   node: "Human Society › Social Groups: Ethnic groups and Cultures",
   masteryLevel: "mastery-level/novice",

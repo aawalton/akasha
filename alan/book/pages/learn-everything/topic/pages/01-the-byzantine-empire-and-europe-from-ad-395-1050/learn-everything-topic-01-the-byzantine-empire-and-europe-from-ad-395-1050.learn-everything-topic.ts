@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic01TheByzantineEmpireAndEuropeFromAd3951050 = {
   id: "01a065a7-0857-7017-b0c7-62c106b8a55b",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-01-the-byzantine-empire-and-europe-from-ad-395-1050",
   node: "The History of Mankind › Medieval Southwest Asia, North Africa, and Europe › The Byzantine Empire and Europe from AD 395–1050",
   masteryLevel: "mastery-level/novice",

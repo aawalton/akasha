@@ -2,7 +2,7 @@ import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everythi
 
 export const learnEverythingTopic03Pilgrimage = {
   id: "01a065a7-0856-7032-aa57-62d185e10b6c",
-  type: "learn-everything-topic",
+  type: "page-type/learn-everything-topic",
   slug: "learn-everything-topic-03-pilgrimage",
   node: "Religion › Religion in General › Religious Life: Institutions and Practices › Pilgrimage",
   masteryLevel: "mastery-level/novice",
