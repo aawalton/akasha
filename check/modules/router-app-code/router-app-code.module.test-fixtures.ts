@@ -11,6 +11,8 @@ export const APP_PAGE = "web/web.router-app.ts"
 
 export const APP_PLAIN = "web/panel/panel.module.code.tsx"
 
+export const APP_PLAIN_PAGE = "web/panel/panel.module.ts"
+
 export const APP_HELD = "export const held = 1\n"
 
 export function appRooted(id: string, also: readonly string[] = []): string {

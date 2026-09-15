@@ -9,6 +9,7 @@ import {
 import {
   APP_PAGE,
   APP_PLAIN,
+  APP_PLAIN_PAGE,
   appRooted,
 } from "akasha/check/modules/router-app-code/router-app-code.module.test-fixtures.ts"
 import { scratch } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
@@ -52,7 +53,7 @@ test("a module under a `.server` folder is server-only", () => {
 
 test("the paths under a package are the TypeScript files the tree holds there", () => {
   const found = pathsUnder(shadowAt(appRooted(ROOTED)), folderOf(APP_PAGE))
-  expect([...found].sort()).toEqual([APP_PAGE, APP_PLAIN].sort())
+  expect([...found].sort()).toEqual([APP_PAGE, APP_PLAIN, APP_PLAIN_PAGE].sort())
 })
 
 test("a package nowhere on disk holds no path", () => {
