@@ -10,7 +10,7 @@ export const emberWerewolfParse = {
     {
       statement: "Three-Color Stalker parses 135,000 or more on the trials dummy.",
       workingMemory:
-        "The Update 50 figures on the 21 million Iron Atronach are 176.7k for this setup and 150.4k for crafted-only, both on Nightblade, the strongest werewolf class. They come from a simulator assuming every light attack lands and bash weaving, so a real parse falls short, and the margin over 135k is why the farmed setup is worth the runs. Food is Braised Rabbit with Spring Vegetables, and potions are Armor from Bugloss, Mountain Flower and Mudcrab Chitin.",
+        "The Update 50 figure on the 21 million Iron Atronach is 176.7k for this setup on Nightblade. It comes from a simulator assuming every light attack lands and bash weaving, so a real parse falls short. Food is Braised Rabbit with Spring Vegetables. The potion is Essence of Weapon Power from Blessed Thistle, Dragonthorn and Water Hyacinth: the kit carries Major Brutality, Sorcery, Berserk, Courage and Minor Force already, and Major Savagery is the one damage buff left for a potion.\n",
     },
     {
       statement: "An inventory capture reaches akasha again.",
