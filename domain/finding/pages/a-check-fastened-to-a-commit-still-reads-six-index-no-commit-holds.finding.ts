@@ -1,6 +1,6 @@
 import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
-export const aCheckFastenedToACommitStillReadsSixIndexesNoCommitHolds = {
+export const aCheckFastenedToACommitStillReadsSixIndexNoCommitHolds = {
   id: "01a09d18-7c52-7bfe-bed0-ce5ee72ac503",
   type: "finding",
   slug: "a-check-fastened-to-a-commit-still-reads-six-index-no-commit-holds",
