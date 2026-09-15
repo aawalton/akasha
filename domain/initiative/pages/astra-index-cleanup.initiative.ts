@@ -16,18 +16,18 @@ export const astraIndexCleanup = {
     {
       statement: "A file property declares one extension.",
       workingMemory:
-        "A case that diverges splits into its own page type rather than taking a second optional property: a module is `.ts`, a component `.tsx`. Four properties vary today. `code` and `test` on modules and `route-code` on routes run `ts` against `tsx`, and `content` on provisioned files runs `conf`, `sh` and `json`. Of 140 stated properties 136 are constant, and 35 of those reach no path at all, their property page setting a `fileName`.\n",
+        "A case that diverges splits into its own page type rather than taking a second optional property: a module is `.ts`, a component `.tsx`. Five of 162 file properties vary today: `code`, `test`, `route-code` and `route-test` run `ts` against `tsx`, and `content` on provisioned files runs `sh`, `conf` and `json`. Nothing refuses a second extension, and `extensions.text-property.ts` states an invariant blessing one, so that page turns as well.\n",
     },
     {
       statement: "Alan holds the parse cache's structure correct.",
       workingMemory:
-        "`.git/cache/parse` is 512 files at 150 MB, keyed by a digest, with a second generation beside each under `-shape-2`. `domain/plain-language/modules/parse-cache/parse-cache.module.code.ts` writes it.",
+        "`.git/cache/parse` holds a folder per model, each sharded into 256 `.jsonl` by the first two characters of a key, the key being a sha256 over the model and the text cut to 32 characters and the line carrying the whole text back to compare. 512 files at 162 MB over two folders, one of them a dead first shape. `domain/plain-language/modules/parse-cache/parse-cache.module.code.ts` writes it.\n",
     },
     {
       statement:
         "Every file a page's code imports belongs to a page, and a check refuses a new one that does not.",
       workingMemory:
-        "339 of 10,935 import targets belong to no page: 312 under `.react-router/types/` and 27 under `+types/`, both written by a tool and held out of git. The two tracked ones, `alan/web/routes.ts` and `temper/web/deploy/addon-bundle-image.ts`, do belong to pages through a declared `fileName`, and what missed them was the reader rather than the pages.",
+        "339 of 10,935 import targets belong to no page: 312 under `.react-router/types/` and 27 under `+types/`, both written by a tool and held out of git. The two tracked ones, `alan/web/routes.ts` and `temper/web/deploy/addon-bundle-image.ts`, do belong to pages through a declared `fileName`, and what missed them was the reader rather than the pages. The check is `landingOf` and then `claimantOf`, a pair nine checks hold one half of and none joins.\n",
     },
     {
       statement:
