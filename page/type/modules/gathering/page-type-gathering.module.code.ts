@@ -4,6 +4,7 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
+  slugAt,
   slugsIn,
   textAt,
   type Value,
@@ -60,7 +61,7 @@ export function typesAmong(
 ): ReadonlyMap<string, Value> {
   const found = new Map<string, Value>()
   for (const value of values) {
-    const said = textAt(value, TYPE) ?? textAt(value, TYPE_SLUG)
+    const said = slugAt(value, TYPE) ?? slugAt(value, TYPE_SLUG)
     if (said === null || !among.has(said)) continue
     const slug = textAt(value, SLUG)
     if (slug !== null) found.set(slug, value)
