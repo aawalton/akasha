@@ -2,14 +2,14 @@ import {
   COMPONENT_LABELS,
   humanizeGlobal,
   UNCATEGORIZED,
-} from "akasha/temper/hud-components/modules/hud-component-labels/hud-component-labels.module.code.ts"
+} from "akasha/temper/hud-component/modules/hud-component-labels/hud-component-labels.module.code.ts"
 import {
   type ComponentKind,
   type HideMechanism,
   HUD_SCENES,
   type HudComponentRecord,
   type HudScene,
-} from "akasha/temper/hud-components/modules/hud-component-record/hud-component-record.module.code.ts"
+} from "akasha/temper/hud-component/modules/hud-component-record/hud-component-record.module.code.ts"
 import { z } from "zod"
 
 const CONTROL_METHODS = [

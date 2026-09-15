@@ -66,7 +66,7 @@ export const temper = {
     "domain/temper-game-catalog-capture-host",
     "domain/temper-gamepad-tooltip",
     "domain/temper-holdings",
-    "domain/temper-hud-components",
+    "domain/temper-hud-component",
     "domain/temper-hud-window",
     "domain/temper-inventory-automation",
     "domain/temper-item-browser",

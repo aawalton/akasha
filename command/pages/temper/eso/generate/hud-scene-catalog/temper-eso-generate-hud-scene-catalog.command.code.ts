@@ -24,10 +24,10 @@ import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts
 import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { parseEsoDocApiVersion } from "akasha/temper/eso-path/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiDir } from "akasha/temper/eso-path/modules/eso-paths/eso-paths.module.code.ts"
-import type { HudComponentRecord } from "akasha/temper/hud-components/modules/hud-component-record/hud-component-record.module.code.ts"
-import { HUD_SCENE_CATALOG_SCHEMA } from "akasha/temper/hud-components/modules/hud-component-record/hud-component-record.module.code.ts"
-import { buildCatalog } from "akasha/temper/hud-components/modules/hud-scene-parse/hud-scene-parse.module.code.ts"
-import { HUD_SCENE_SOURCE } from "akasha/temper/hud-components/modules/hud-scene-source/hud-scene-source.module.code.ts"
+import type { HudComponentRecord } from "akasha/temper/hud-component/modules/hud-component-record/hud-component-record.module.code.ts"
+import { HUD_SCENE_CATALOG_SCHEMA } from "akasha/temper/hud-component/modules/hud-component-record/hud-component-record.module.code.ts"
+import { buildCatalog } from "akasha/temper/hud-component/modules/hud-scene-parse/hud-scene-parse.module.code.ts"
+import { HUD_SCENE_SOURCE } from "akasha/temper/hud-component/modules/hud-scene-source/hud-scene-source.module.code.ts"
 
 const NAMED = [codeRootArgument]
 

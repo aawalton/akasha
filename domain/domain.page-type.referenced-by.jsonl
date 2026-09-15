@@ -586,7 +586,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/gamepad-tooltip/temper-gamepad-tooltip.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/group-dungeon/temper-group-dungeon.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/holdings/temper-holdings.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/hud-components/temper-hud-components.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/hud-component/temper-hud-component.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/hud-window/temper-hud-window.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/inventory-automation/temper-inventory-automation.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/item-browser/temper-item-browser.domain.ts"}

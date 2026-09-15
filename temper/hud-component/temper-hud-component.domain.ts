@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const temperHudComponents = {
+export const temperHudComponent = {
   id: "01a060a4-fa38-742d-9517-977730401b38",
   type: "domain",
-  slug: "temper-hud-components",
+  slug: "temper-hud-component",
   definition: "the parts of the game's HUD, each with the way the game hides that part",
   parts: [
     "module/hud-component-labels",

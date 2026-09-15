@@ -18,7 +18,7 @@ import type {
   HidePlanEntry,
   HideRegistration,
 } from "akasha/temper/hud-addon/modules/hud-addon-hide-types/hud-addon-hide-types.module.code.ts"
-import { HUD_SCENE_CATALOG } from "akasha/temper/hud-components/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"
+import { HUD_SCENE_CATALOG } from "akasha/temper/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.code.ts"
 import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 import { isRecord } from "akasha/util/narrow/modules/is-record/is-record.module.code.ts"
 
