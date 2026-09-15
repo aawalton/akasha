@@ -48,8 +48,7 @@ export const qualifyRelationOnEveryPage = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement:
-        "One page's property is answered by one edit over each file that property's values sit in.",
+      statement: "Every file the key's values sit in is written, and no file but those.",
     },
     {
       invariantKind: "invariant-kind/departure",
