@@ -1,6 +1,5 @@
 import { edgeIn, NOTHING_FILED } from "akasha/page/index/edge/index-edge.index.code.ts"
 import { identityIn } from "akasha/page/index/identity/index-identity.index.code.ts"
-import { importIn } from "akasha/page/index/import/index-import.index.code.ts"
 import {
   idsUnnamed,
   pagesElsewhere,
@@ -172,15 +171,6 @@ export function settlingOver(
   )
   const importing = [...held, ...reread]
 
-  const imported = filingOf(
-    importing.flatMap((one) =>
-      one.before === null ? [] : importIn(one.before, one.path, repo, wasNaming)
-    ),
-    importing.flatMap((one) =>
-      one.after === null ? [] : importIn(one.after, one.path, repo, naming)
-    )
-  )
-
   const written = shapesWritten(reading, held)
   const bodied = new Map<string, string>()
   for (const [where, whole] of written.bodies) bodied.set(under(repo, where), whole)
@@ -223,11 +213,7 @@ export function settlingOver(
   )
   const wrote = new Map(moving.map((one) => [under(repo, one.path), one.after] as const))
   const stepped = shapesLaidOn(
-    overlaidOn(
-      reading,
-      [...imported, ...identity],
-      new Map<string, string | null>([...wrote, ...bodied])
-    ),
+    overlaidOn(reading, identity, new Map<string, string | null>([...wrote, ...bodied])),
     written.shapes
   )
   const wasBody: Body = (at) => {
@@ -337,7 +323,7 @@ export function settlingOver(
     ].filter((one) => !vacated.has(one.at))
   )
 
-  const filings = [...imported, ...identity, ...edge]
+  const filings = [...identity, ...edge]
   return {
     reading: shapesLaidOn(
       overlaidOn(

@@ -78,10 +78,6 @@ export const indexSettling = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The import filing covers importers the change does not carry.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "The relation filing covers pages the change does not carry.",
     },
 
