@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-build/modules/race-source/race-source.module.code.ts"}
-{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-skills/modules/character-skill-template/character-skill-template.module.code.ts"}
-{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-skills/modules/scribed-skill-source/scribed-skill-source.module.code.ts"}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-skill/modules/character-skill-template/character-skill-template.module.code.ts"}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-skill/modules/scribed-skill-source/scribed-skill-source.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-source/modules/attributes-source/attributes-source.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-source/modules/curse-source/curse-source.module.code.ts"}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/character-source/modules/mundus-source/mundus-source.module.code.ts"}

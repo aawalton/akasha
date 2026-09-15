@@ -1,4 +1,4 @@
-import { getRacialSkillLineIdForRace } from "akasha/temper/character-skills/modules/passive-queries/passive-queries.module.code.ts"
+import { getRacialSkillLineIdForRace } from "akasha/temper/character-skill/modules/passive-queries/passive-queries.module.code.ts"
 import type { CharacterAchievementProgressResult } from "akasha/temper/player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { CharacterSummaryData } from "akasha/temper/player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import type {

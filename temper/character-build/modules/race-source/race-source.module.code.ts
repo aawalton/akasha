@@ -1,5 +1,5 @@
-import { skills } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
-import { getRacialSkillLineIdForRace } from "akasha/temper/character-skills/modules/passive-queries/passive-queries.module.code.ts"
+import { skills } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
+import { getRacialSkillLineIdForRace } from "akasha/temper/character-skill/modules/passive-queries/passive-queries.module.code.ts"
 import type { Effect } from "akasha/temper/formula-framework/modules/effect/effect.module.code.ts"
 import { type RaceId, races } from "akasha/temper/races/modules/races/races.module.code.ts"
 

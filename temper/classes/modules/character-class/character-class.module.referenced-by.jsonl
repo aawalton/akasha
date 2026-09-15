@@ -1,0 +1,16 @@
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/character-skill/modules/skill-bar-filtering/skill-bar-filtering.module.code.ts"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/skill-morphs-access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/web/modules/class-change-confirmation-dialog/class-change-confirmation-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/web/modules/identity-panel-card/identity-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/web/modules/recent-characters-card/recent-characters-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/web/modules/skill-lines-panel-card/skill-lines-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/web/modules/skill-lines-progress-panel-card/skill-lines-progress-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/web/modules/subclassing-skill-lines-panel-card/subclassing-skill-lines-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"character-class.module.code.ts","path":"temper/web/modules/use-set-target-entities/use-set-target-entities.module.code.ts"}
+{"propertySlug":"parts","path":"temper/classes/temper-classes.domain.ts","id":"01a06076-1b68-77b4-ae8b-23358145b5e9"}

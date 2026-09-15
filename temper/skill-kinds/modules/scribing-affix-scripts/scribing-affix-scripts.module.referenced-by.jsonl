@@ -1,0 +1,10 @@
+{"propertySlug":"import","fileName":"scribing-affix-scripts.module.code.ts","path":"temper/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
+{"propertySlug":"import","fileName":"scribing-affix-scripts.module.code.ts","path":"temper/character-skill/modules/grimoire-template/grimoire-template.module.code.ts"}
+{"propertySlug":"import","fileName":"scribing-affix-scripts.module.code.ts","path":"temper/character-skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"}
+{"propertySlug":"import","fileName":"scribing-affix-scripts.module.code.ts","path":"temper/character-skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"}
+{"propertySlug":"import","fileName":"scribing-affix-scripts.module.code.ts","path":"temper/character-skill/modules/scribing-script-description/scribing-script-description.module.code.ts"}
+{"propertySlug":"import","fileName":"scribing-affix-scripts.module.code.ts","path":"temper/items-core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"}
+{"propertySlug":"import","fileName":"scribing-affix-scripts.module.code.ts","path":"temper/player-completion/modules/completion-scribing-progress/completion-scribing-progress.module.code.ts"}
+{"propertySlug":"import","fileName":"scribing-affix-scripts.module.code.ts","path":"temper/web/modules/script-edit-dialog/script-edit-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"scribing-affix-scripts.module.code.ts","path":"temper/web/modules/skills-types/skills-types.module.code.ts"}
+{"propertySlug":"parts","path":"temper/skill-kinds/temper-skill-kinds.domain.ts","id":"01a060db-b2bf-75cc-8809-206da241df83"}

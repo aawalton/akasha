@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"record-parts.module.code.ts","path":"temper/character-skills/modules/scribing-script-description/scribing-script-description.module.code.ts"}
-{"propertySlug":"import","fileName":"record-parts.module.code.ts","path":"temper/character-skills/modules/skill-line-queries/skill-line-queries.module.code.ts"}
+{"propertySlug":"import","fileName":"record-parts.module.code.ts","path":"temper/character-skill/modules/scribing-script-description/scribing-script-description.module.code.ts"}
+{"propertySlug":"import","fileName":"record-parts.module.code.ts","path":"temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"record-parts.module.code.ts","path":"temper/character-stat/modules/extract-armor/extract-armor.module.code.ts"}
 {"propertySlug":"import","fileName":"record-parts.module.code.ts","path":"temper/character-stat/modules/extract-jewelry/extract-jewelry.module.code.ts"}
 {"propertySlug":"import","fileName":"record-parts.module.code.ts","path":"temper/character-stat/modules/extract-sets/extract-sets.module.code.ts"}

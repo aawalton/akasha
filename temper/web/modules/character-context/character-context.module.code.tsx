@@ -14,7 +14,7 @@ import {
   toBuildVisibility,
 } from "akasha/temper/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import type { Skill } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
+import type { Skill } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import { useCharacter as useCharacterZero } from "akasha/temper/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/modules/set-template/set-template.module.code.ts"
 import type { BuildId } from "akasha/temper/formula-framework/modules/branded-id/branded-id.module.code.ts"

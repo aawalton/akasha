@@ -4,7 +4,7 @@ import { ResponsiveColumns } from "akasha/design/interfaces/layout/modules/respo
 import {
   getArmorSkillLineIds,
   getWeaponSkillLineIdsForBar,
-} from "akasha/temper/character-skills/modules/skill-line-queries/skill-line-queries.module.code.ts"
+} from "akasha/temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
 import { activeSkillSlots } from "akasha/temper/skill-kinds/modules/skill-slots/skill-slots.module.code.ts"
 import type { SkillLineId } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import { PassiveSkillsPanelCard } from "akasha/temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.code.tsx"

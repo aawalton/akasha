@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/character-skills/modules/passive-queries/passive-queries.module.code.ts"}
-{"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/character-skills/modules/query-shapes/query-shapes.module.code.ts"}
-{"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/character-skills/modules/skill-line-queries/skill-line-queries.module.code.ts"}
+{"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/character-skill/modules/passive-queries/passive-queries.module.code.ts"}
+{"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/character-skill/modules/query-shapes/query-shapes.module.code.ts"}
+{"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/character-stat/modules/passive-effect-resolution/passive-effect-resolution.module.code.ts"}
 {"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/character-stat/modules/passive-eligibility/passive-eligibility.module.code.ts"}
 {"propertySlug":"import","fileName":"armor-weight-ids.module.code.ts","path":"temper/characters-equipment/modules/armor-source/armor-source.module.code.ts"}

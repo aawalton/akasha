@@ -2,9 +2,9 @@ import type { CharacterState } from "akasha/temper/character-build/modules/build
 import type {
   Skill,
   SkillId,
-} from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
-import { findSkillById } from "akasha/temper/character-skills/modules/find-skill-by-id/find-skill-by-id.module.code.ts"
-import { filterSkillsForBar } from "akasha/temper/character-skills/modules/skill-bar-filtering/skill-bar-filtering.module.code.ts"
+} from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
+import { findSkillById } from "akasha/temper/character-skill/modules/find-skill-by-id/find-skill-by-id.module.code.ts"
+import { filterSkillsForBar } from "akasha/temper/character-skill/modules/skill-bar-filtering/skill-bar-filtering.module.code.ts"
 import { keysOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
 import type { SkillSlotId } from "akasha/temper/skill-kinds/modules/skill-slots/skill-slots.module.code.ts"
 import type { SkillLineId } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"

@@ -5,10 +5,10 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/champion-point/modules/fitness-slottables/fitness-slottables.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/champion-point/modules/warfare-passives/warfare-passives.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/champion-point/modules/warfare-slottables/warfare-slottables.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skills/modules/character-skills-from-pages/character-skills-from-pages.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skills/modules/character-skills/character-skills.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skills/modules/scribed-skills/scribed-skills.module.code.ts"}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skills/modules/scribing-grimoires/scribing-grimoires.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/character-skills-from-pages/character-skills-from-pages.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/character-skills/character-skills.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/scribed-skills/scribed-skills.module.code.ts"}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-source/modules/alliances/alliances.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-source/modules/character-roles/character-roles.module.code.ts"}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/character-source/modules/curses/curses.module.code.ts"}

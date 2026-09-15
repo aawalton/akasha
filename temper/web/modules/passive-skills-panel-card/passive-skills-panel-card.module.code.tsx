@@ -8,13 +8,13 @@ import {
 } from "akasha/design/interfaces/primitives/modules/collapsible/collapsible.module.code.tsx"
 import { Heading } from "akasha/design/interfaces/primitives/modules/heading/heading.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/modules/build-types/build-types.module.code.ts"
-import type { Skill } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
-import { skills } from "akasha/temper/character-skills/modules/character-skills/character-skills.module.code.ts"
+import type { Skill } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
+import { skills } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import {
   countArmorPiecesByWeight,
   getRacialSkillLineIdForRace,
-} from "akasha/temper/character-skills/modules/passive-queries/passive-queries.module.code.ts"
-import { getWeaponSkillLineIdsForBar } from "akasha/temper/character-skills/modules/skill-line-queries/skill-line-queries.module.code.ts"
+} from "akasha/temper/character-skill/modules/passive-queries/passive-queries.module.code.ts"
+import { getWeaponSkillLineIdsForBar } from "akasha/temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
 import {
   type SkillLineCategoryId,
   skillLineCategoriesSorted,

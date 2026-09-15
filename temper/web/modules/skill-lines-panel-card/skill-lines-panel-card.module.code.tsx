@@ -11,7 +11,7 @@ import {
 import {
   getAvailableSkillLinesGrouped,
   getClassForSkillLine,
-} from "akasha/temper/character-skills/modules/skill-line-queries/skill-line-queries.module.code.ts"
+} from "akasha/temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
 import { classes } from "akasha/temper/classes/modules/character-class/character-class.module.code.ts"
 import type { ClassId } from "akasha/temper/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
