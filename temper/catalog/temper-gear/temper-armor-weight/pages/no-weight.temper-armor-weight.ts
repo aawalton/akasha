@@ -2,7 +2,7 @@ import type { TemperArmorWeight } from "akasha/temper/catalog/temper-gear/temper
 
 export const noWeight = {
   id: "01a05fd5-4dd1-7640-b16c-0e0623634bb2",
-  type: "temper-armor-weight",
+  type: "page-type/temper-armor-weight",
   slug: "no-weight",
   title: "No Weight",
   key: "no-weight",

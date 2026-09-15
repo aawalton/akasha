@@ -2,7 +2,7 @@ import type { TemperArmorWeight } from "akasha/temper/catalog/temper-gear/temper
 
 export const medium = {
   id: "01a05fd5-4dd1-75de-9dd1-03ef48cb8888",
-  type: "temper-armor-weight",
+  type: "page-type/temper-armor-weight",
   slug: "medium",
   title: "Medium",
   key: "medium",
