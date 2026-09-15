@@ -2,7 +2,7 @@ import type { UniqueKind } from "akasha/page/unique-kind/unique-kind.page-type.t
 
 export const pageProperty = {
   id: "01a0814f-68bb-7000-878e-605b3d7dec8b",
-  type: "unique-kind",
+  type: "page-type/unique-kind",
   slug: "page-property",
   definition: "the value is unique among the pages with one value of a property",
   invariants: [
