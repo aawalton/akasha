@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2ElvisSingsLeiberAndStoller = {
+  id: "01a0676a-d71d-7007-8e4c-09d6a462ab3a",
+  type: "release",
+  slug: "elvis-presley-2-elvis-sings-leiber-and-stoller",
+  title: "Elvis Sings Leiber and Stoller",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 53.563417,
+  ownProgress: 53.563417,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1980-06-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1nqDrIknqoUl758F8trs8H",
+      externalLink: "https://open.spotify.com/album/1nqDrIknqoUl758F8trs8H",
+    },
+  ],
+} as const satisfies Release

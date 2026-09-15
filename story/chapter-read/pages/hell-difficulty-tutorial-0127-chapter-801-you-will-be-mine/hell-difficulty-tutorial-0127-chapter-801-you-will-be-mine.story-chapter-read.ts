@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0127Chapter801YouWillBeMine = {
+  id: "01a06731-ad87-7004-928b-bc754e05d8b1",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0127-chapter-801-you-will-be-mine",
+  title: "Chapter 801 - You will be mine",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 127,
+  ownLength: 2374,
+  unit: "unit/words",
+  publishedAt: "2026-05-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3379967",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3379967/chapter-801-you-will-be-mine",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

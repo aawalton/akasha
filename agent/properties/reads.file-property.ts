@@ -1,4 +1,4 @@
-import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
+import type { FileProperty } from "akasha/page/file-property/file-property.page-type.types.ts"
 
 export const reads = {
   id: "01a09c31-c3c6-74f8-9064-94c903e1ba85",

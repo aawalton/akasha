@@ -21,16 +21,16 @@ import {
   seatEditsAt,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
   linesIn,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
-import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 

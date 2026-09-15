@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0030200SpecialSideCharacterPopularityPoll = {
+  id: "01a06730-4dd9-70f4-9c0d-a82acb77a9de",
+  type: "story-chapter-read",
+  slug: "salvos-0030-200-special-side-character-popularity-poll",
+  title: "200 Special: Side Character Popularity Poll!",
+  story: "story-read/salvos",
+  position: 30,
+  ownLength: 98,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "760258",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/760258/200-special-side-character-popularity-poll",
+    },
+  ],
+  publishedAt: "2021-10-02",
+  prose: "txt",
+} as const satisfies StoryChapterRead

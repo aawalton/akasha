@@ -5,7 +5,7 @@ import {
   landingOf,
   type Naming,
 } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
-import { reachesIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
+import { reachesIn } from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
 import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
 
 const SPECIFIER = /from\s+"([^"]*)"/g

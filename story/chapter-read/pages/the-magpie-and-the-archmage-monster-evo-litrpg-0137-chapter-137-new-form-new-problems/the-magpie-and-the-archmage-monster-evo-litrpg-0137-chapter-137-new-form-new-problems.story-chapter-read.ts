@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theMagpieAndTheArchmageMonsterEvoLitrpg0137Chapter137NewFormNewProblems = {
+  id: "01a06730-4fe2-7dc2-8549-0a75c66cc033",
+  type: "story-chapter-read",
+  slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0137-chapter-137-new-form-new-problems",
+  title: "Chapter 137 – New Form, New Problems",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
+  position: 137,
+  ownLength: 2191,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3550685",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3550685/chapter-137-new-form-new-problems",
+    },
+  ],
+  publishedAt: "2026-06-17",
+  prose: "txt",
+} as const satisfies StoryChapterRead

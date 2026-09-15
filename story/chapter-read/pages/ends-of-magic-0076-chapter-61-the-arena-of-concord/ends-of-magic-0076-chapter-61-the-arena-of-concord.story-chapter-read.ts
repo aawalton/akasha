@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const endsOfMagic0076Chapter61TheArenaOfConcord = {
+  id: "01a06731-ae0b-7000-9863-7199bcd22d4c",
+  type: "story-chapter-read",
+  slug: "ends-of-magic-0076-chapter-61-the-arena-of-concord",
+  title: "Chapter 61: The Arena of Concord",
+  story: "story-read/ends-of-magic",
+  position: 76,
+  ownLength: 2887,
+  ownProgress: 2887,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:09:42.251Z",
+  publishedAt: "2026-03-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3118985",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3118985/chapter-61-the-arena-of-concord",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,4 +1,4 @@
-import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
 export const cycleLength = {
   id: "01a05fc4-7a90-760c-b5a4-05db1aebe326",

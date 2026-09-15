@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld0368408AnotherTimeInAnotherLife = {
+  id: "01a06730-4ee4-776a-a6b4-cebe36ce9381",
+  type: "story-chapter-read",
+  slug: "the-new-world-0368-408-another-time-in-another-life",
+  title: "408 Another Time In Another Life",
+  story: "story-read/the-new-world",
+  position: 368,
+  ownLength: 4627,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2177905",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2177905/408-another-time-in-another-life",
+    },
+  ],
+  publishedAt: "2025-04-06",
+  ownProgress: 4627,
+  completedAt: "2026-06-29T21:33:56.627Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,12 @@
+import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule/code/category-rule-code.page-type.types.ts"
+
+export const stateFarmOther = {
+  id: "01a0655b-fcda-7004-ba32-0cda134ea51c",
+  type: "category-rule-code",
+  slug: "state-farm-other",
+  title: "State farm other",
+  matches: [
+    { key: "merchant", comparison: "is", values: ["state farm"] },
+    { key: "sign", comparison: "is-not", values: ["negative"] },
+  ],
+} as const satisfies CategoryRuleCode

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0236Chapter214BloodPart3 = {
+  id: "01a0672c-ebcf-7007-843f-ed3a8fb00aee",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0236-chapter-214-blood-part-3",
+  title: "Chapter 214: Blood (Part 3)",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 236,
+  ownLength: 1744,
+  ownProgress: 1744,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:19:10.083Z",
+  publishedAt: "2025-03-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2147621",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2147621/chapter-214-blood-part-3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

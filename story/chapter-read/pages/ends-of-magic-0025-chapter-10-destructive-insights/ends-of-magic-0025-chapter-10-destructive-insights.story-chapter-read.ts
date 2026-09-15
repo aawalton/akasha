@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const endsOfMagic0025Chapter10DestructiveInsights = {
+  id: "01a06731-add1-7000-b644-561fb7d87006",
+  type: "story-chapter-read",
+  slug: "ends-of-magic-0025-chapter-10-destructive-insights",
+  title: "Chapter 10: Destructive Insights",
+  story: "story-read/ends-of-magic",
+  position: 25,
+  ownLength: 3432,
+  ownProgress: 3432,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:08:04.315Z",
+  publishedAt: "2025-08-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2499272",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2499272/chapter-10-destructive-insights",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

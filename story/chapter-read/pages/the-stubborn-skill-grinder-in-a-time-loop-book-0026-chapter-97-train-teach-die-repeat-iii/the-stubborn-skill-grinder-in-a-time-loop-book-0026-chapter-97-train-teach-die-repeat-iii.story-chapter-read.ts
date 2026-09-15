@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theStubbornSkillGrinderInATimeLoopBook0026Chapter97TrainTeachDieRepeatIii = {
+  id: "01a06730-4f1c-791c-8d78-a0be2dd5b5a9",
+  type: "story-chapter-read",
+  slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0026-chapter-97-train-teach-die-repeat-iii",
+  title: "Chapter 97 - Train. Teach. Die. Repeat. III",
+  story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
+  position: 26,
+  ownLength: 17014,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2633712",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2633712/chapter-97-train-teach-die-repeat-iii",
+    },
+  ],
+  publishedAt: "2025-09-27",
+  ownProgress: 17014,
+  completedAt: "2026-06-29T20:04:54.499Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

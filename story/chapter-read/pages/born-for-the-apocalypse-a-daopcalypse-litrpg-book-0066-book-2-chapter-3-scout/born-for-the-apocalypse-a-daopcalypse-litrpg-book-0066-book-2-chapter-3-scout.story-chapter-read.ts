@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bornForTheApocalypseADaopcalypseLitrpgBook0066Book2Chapter3Scout = {
+  id: "01a06731-af0e-7006-b857-699d1bd77017",
+  type: "story-chapter-read",
+  slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0066-book-2-chapter-3-scout",
+  title: "Book 2: Chapter 3- Scout",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  position: 66,
+  ownLength: 1028,
+  unit: "unit/words",
+  publishedAt: "2025-05-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2264646",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2264646/book-2-chapter-3--scout",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

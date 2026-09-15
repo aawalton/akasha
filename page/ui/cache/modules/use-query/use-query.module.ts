@@ -1,0 +1,9 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const useQuery = {
+  id: "01a05cce-25ec-7536-86c6-340adc946098",
+  type: "module",
+  slug: "use-query",
+  definition: "the pages a listing asks for, held live against the local store",
+  code: "ts",
+} as const satisfies Module

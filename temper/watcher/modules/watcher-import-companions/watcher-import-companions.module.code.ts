@@ -1,4 +1,4 @@
-import { upsertPage } from "akasha/pages/access/modules/upsert/upsert.module.code.ts"
+import { upsertPage } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
 import {
   decodeCompanion,
   encodeCompanion,

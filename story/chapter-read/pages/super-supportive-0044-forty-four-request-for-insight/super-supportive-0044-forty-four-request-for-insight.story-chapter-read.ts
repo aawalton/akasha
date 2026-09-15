@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const superSupportive0044FortyFourRequestForInsight = {
+  id: "01a06730-4e0c-7fd1-94b7-fbedab1f98b1",
+  type: "story-chapter-read",
+  slug: "super-supportive-0044-forty-four-request-for-insight",
+  title: "FORTY-FOUR: Request for Insight",
+  story: "story-read/super-supportive",
+  position: 44,
+  ownLength: 324,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1245476",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1245476/forty-four-request-for-insight",
+    },
+  ],
+  publishedAt: "2023-06-14",
+  prose: "txt",
+} as const satisfies StoryChapterRead

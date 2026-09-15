@@ -1,12 +1,12 @@
-import type { Query } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
+import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
   askingFor,
   filingFor,
-} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
   orderedWallpaperSlugs,
   type WallpaperRow,
-} from "akasha/personas/modules/wallpaper-order/wallpaper-order.module.code.ts"
+} from "akasha/persona/modules/wallpaper-order/wallpaper-order.module.code.ts"
 import { stringIn } from "akasha/utils/narrow/modules/string-in/string-in.module.code.ts"
 
 const PERSONA_PAGE_TYPE_SLUG = "persona"

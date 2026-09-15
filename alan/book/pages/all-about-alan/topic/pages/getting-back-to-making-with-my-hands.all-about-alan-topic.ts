@@ -1,0 +1,16 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const gettingBackToMakingWithMyHands = {
+  id: "01a06559-9d65-7d32-90a6-8689e086a53e",
+  type: "all-about-alan-topic",
+  slug: "getting-back-to-making-with-my-hands",
+  title: "Getting Back To Making With My Hands",
+  definition:
+    "the ways back into making things by hand, and why none of them has any data behind it",
+  parents: ["all-about-alan-topic/where-the-scar-ends"],
+  related: [
+    "all-about-alan-topic/playing-again",
+    "all-about-alan-topic/what-a-persona-makes-cheaper",
+  ],
+  settled: "The gate has correctly kept me out, so there is no attempt to learn from.",
+} as const satisfies AllAboutAlanTopic

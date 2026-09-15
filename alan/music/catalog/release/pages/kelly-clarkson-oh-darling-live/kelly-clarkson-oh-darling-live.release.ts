@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const kellyClarksonOhDarlingLive = {
+  id: "01a0676a-d726-701a-8b4a-925befb85381",
+  type: "release",
+  slug: "kelly-clarkson-oh-darling-live",
+  title: "Oh! Darling (Live)",
+  partOfCollections: ["artist/kelly-clarkson"],
+  position: 0,
+  ownLength: 3.31745,
+  ownProgress: 3.31745,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2016-11-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "35pnhJo7XUJj5OyglIHjpx",
+      externalLink: "https://open.spotify.com/album/35pnhJo7XUJj5OyglIHjpx",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
+} as const satisfies Release

@@ -4,8 +4,8 @@ import type { InferenceHost } from "akasha/infrastructure/inference/pool/modules
 import {
   type Inference,
   readFor,
-} from "akasha/infrastructure/services/inferences/modules/inference-reading/inference-reading.module.code.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+} from "akasha/infrastructure/service/inference/modules/inference-reading/inference-reading.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 export function boundTo(command: readonly string[], flag: string): string | undefined {
   const at = command.indexOf(flag)

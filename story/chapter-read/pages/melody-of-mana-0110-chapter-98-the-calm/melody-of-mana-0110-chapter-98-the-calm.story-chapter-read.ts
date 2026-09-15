@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0110Chapter98TheCalm = {
+  id: "01a0672c-ed5f-700b-8398-885dc32a9a8e",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0110-chapter-98-the-calm",
+  title: "Chapter 98 The Calm",
+  story: "story-read/melody-of-mana",
+  position: 110,
+  ownLength: 1789,
+  ownProgress: 1789,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:29:56.907Z",
+  publishedAt: "2022-03-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "869699",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/869699/chapter-98-the-calm",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

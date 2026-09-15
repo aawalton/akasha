@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const savageDivinity0461Chapter453 = {
+  id: "01a06730-4ece-7a10-9cf0-e8260b1bc340",
+  type: "story-chapter-read",
+  slug: "savage-divinity-0461-chapter-453",
+  title: "Chapter 453",
+  story: "story-read/savage-divinity",
+  position: 461,
+  ownLength: 3838,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "359217",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/359217/chapter-453",
+    },
+  ],
+  publishedAt: "2019-05-06",
+  prose: "txt",
+} as const satisfies StoryChapterRead

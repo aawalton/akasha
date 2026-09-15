@@ -1,8 +1,8 @@
-import { getOrderedNeighbors } from "akasha/pages/access/modules/ordered/ordered.module.code.ts"
-import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
-import type { ReaderNeighborLink } from "akasha/pages/ui/components/modules/reader-chrome/reader-chrome.module.code.tsx"
-import { pageLinkOf } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
-import type { PageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { getOrderedNeighbors } from "akasha/page/access/modules/ordered/ordered.module.code.ts"
+import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import type { ReaderNeighborLink } from "akasha/page/ui/components/modules/reader-chrome/reader-chrome.module.code.tsx"
+import { pageLinkOf } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
+import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
 export async function resolveReaderNeighbors(args: {
   page: Page

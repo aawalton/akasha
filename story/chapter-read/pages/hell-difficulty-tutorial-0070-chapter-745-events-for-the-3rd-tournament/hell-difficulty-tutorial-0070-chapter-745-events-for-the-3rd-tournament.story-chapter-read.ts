@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0070Chapter745EventsForThe3rdTournament = {
+  id: "01a06731-ad79-7002-8292-409bbed1492f",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0070-chapter-745-events-for-the-3rd-tournament",
+  title: "Chapter 745 - Events for the 3rd tournament",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 70,
+  ownLength: 2634,
+  unit: "unit/words",
+  publishedAt: "2026-02-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3016629",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3016629/chapter-745-events-for-the-3rd-tournament",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

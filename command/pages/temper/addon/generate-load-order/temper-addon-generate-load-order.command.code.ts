@@ -1,7 +1,7 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { addon } from "akasha/command/arguments/pages/addon.argument.ts"
-import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { addon } from "akasha/command/argument/pages/addon.argument.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
 import {
   answering,
   DATA,
@@ -11,7 +11,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperAddonGenerateLoadOrder as page } from "akasha/command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { writeLoadOrder } from "akasha/temper/addon-build/modules/addon-load-order/addon-load-order.module.code.ts"
 import {
   listAllAddons,

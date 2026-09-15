@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0037136IiAssimilationI2631659 = {
+  id: "01a06730-4de3-7383-853b-5358e245f41f",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0037-136-ii-assimilation-i-2631659",
+  title: "136 (II)   Assimilation [I]",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 37,
+  ownLength: 2988,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2631659",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2631659/136-ii-assimilation-i",
+    },
+  ],
+  publishedAt: "2025-09-26",
+  prose: "txt",
+} as const satisfies StoryChapterRead

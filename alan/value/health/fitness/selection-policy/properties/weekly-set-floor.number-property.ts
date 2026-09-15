@@ -1,0 +1,11 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const weeklySetFloor = {
+  id: "01a06865-7f46-734e-ac69-7d1c718f0231",
+  type: "number-property",
+  slug: "weekly-set-floor",
+  propertySlug: "weekly-set-floor",
+  definition: "how few sets a week a muscle may take before it is under-worked",
+  max: null,
+  types: "ts",
+} as const satisfies NumberProperty

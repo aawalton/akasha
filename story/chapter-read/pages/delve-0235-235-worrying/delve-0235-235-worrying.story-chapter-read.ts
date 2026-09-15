@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const delve0235235Worrying = {
+  id: "01a06731-afb8-7001-837e-4d10815a0d4b",
+  type: "story-chapter-read",
+  slug: "delve-0235-235-worrying",
+  title: "235: Worrying",
+  story: "story-read/delve",
+  position: 235,
+  ownLength: 3324,
+  unit: "unit/words",
+  publishedAt: "2023-06-25",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1257097",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1257097/235-worrying",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

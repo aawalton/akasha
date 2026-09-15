@@ -9,13 +9,13 @@ import type {
   Outcome,
   Rule,
 } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
-import { valuesByPath } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { valuesByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   slugOf,
   type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const RULES = "alan/harness/monarch/category-rules"
+const RULES = "alan/harness/monarch/category-rule"
 
 interface Kind {
   readonly kind: string

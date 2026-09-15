@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const heWhoFightsWithMonsters0065Chapter998SittingOnAVolcano = {
+  id: "01a06731-ade8-7000-94db-b9719e223ac1",
+  type: "story-chapter-read",
+  slug: "he-who-fights-with-monsters-0065-chapter-998-sitting-on-a-volcano",
+  title: "Chapter 998: Sitting on a Volcano",
+  story: "story-read/he-who-fights-with-monsters",
+  position: 65,
+  ownLength: 2582,
+  unit: "unit/words",
+  publishedAt: "2026-04-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3220123",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3220123/chapter-998-sitting-on-a-volcano",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

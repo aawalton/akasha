@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0037SalvosVolume3sAudiobookIsNowAvailableOn = {
+  id: "01a06730-4dda-7c17-b4ba-b74c0d85998c",
+  type: "story-chapter-read",
+  slug: "salvos-0037-salvos-volume-3s-audiobook-is-now-available-on",
+  title: "Salvos Volume 3's audiobook is now available on audible!",
+  story: "story-read/salvos",
+  position: 37,
+  ownLength: 85,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "846299",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/846299/salvos-volume-3s-audiobook-is-now-available-on",
+    },
+  ],
+  publishedAt: "2022-02-15",
+  prose: "txt",
+} as const satisfies StoryChapterRead

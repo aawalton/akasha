@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const lazyLoopsAnIdleLitrpgOpToArchmage00011Loop0Part1 = {
+  id: "01a06731-b0d6-7005-8031-69894c526695",
+  type: "story-chapter-read",
+  slug: "lazy-loops-an-idle-litrpg-op-to-archmage-0001-1-loop-0-part-1",
+  title: "1. Loop 0, Part 1",
+  story: "story-read/lazy-loops-an-idle-litrpg-op-to-archmage",
+  position: 1,
+  ownLength: 3201,
+  unit: "unit/words",
+  publishedAt: "2026-05-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3452956",
+      externalLink:
+        "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3452956/1-loop-0-part-1",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

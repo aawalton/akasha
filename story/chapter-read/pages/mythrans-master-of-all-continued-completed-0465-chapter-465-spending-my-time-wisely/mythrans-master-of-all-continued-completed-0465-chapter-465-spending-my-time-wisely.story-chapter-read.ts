@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0465Chapter465SpendingMyTimeWisely = {
+  id: "01a0672c-ecc6-7000-bd1a-9a39ce5530c3",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0465-chapter-465-spending-my-time-wisely",
+  title: "Chapter 465 - Spending My Time Wisely",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 465,
+  ownLength: 3288,
+  unit: "unit/words",
+  publishedAt: "2017-12-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "183031",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183031/chapter-465-spending-my-time-wisely",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

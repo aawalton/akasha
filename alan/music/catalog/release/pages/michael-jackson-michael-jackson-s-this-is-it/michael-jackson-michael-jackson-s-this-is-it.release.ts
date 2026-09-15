@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const michaelJacksonMichaelJacksonSThisIsIt = {
+  id: "01a0676a-d724-705a-ba82-1d8d38691017",
+  type: "release",
+  slug: "michael-jackson-michael-jackson-s-this-is-it",
+  title: "Michael Jackson's This Is It",
+  partOfCollections: ["artist/michael-jackson"],
+  position: 0,
+  ownLength: 92.2854,
+  ownProgress: 92.2854,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2009-10-26",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7pMVCMwGykuEu9rzTHxLCm",
+      externalLink: "https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

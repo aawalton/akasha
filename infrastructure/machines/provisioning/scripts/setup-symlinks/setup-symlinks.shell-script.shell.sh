@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # Every file this places is a `provisioned-file` page under
-# akasha/infrastructure/machines/provisioning/provisioned-files/pages. The page states where its body
+# akasha/infrastructure/machines/provisioning/provisioned-file/pages. The page states where its body
 # goes, whether the body is linked or copied, which machines it is for, and what makes
 # the placing take effect. This script is the placer; the pages are the table.
 
@@ -11,7 +11,7 @@ HERE="$(cd -- "$(dirname -- "$(readlink -f -- "$0")")" && pwd -P)"
 . "$HERE/../repo-roots/repo-roots.shell-script.shell.sh"
 REPOS="$(dirname -- "$AKASHA_ROOT")"
 
-FILES="$AKASHA_ROOT/infrastructure/machines/provisioning/provisioned-files/pages"
+FILES="$AKASHA_ROOT/infrastructure/machines/provisioning/provisioned-file/pages"
 SCRIPTS="$AKASHA_ROOT/infrastructure/machines/provisioning/scripts"
 
 # shellcheck source=../link-making/link-making.shell-script.shell.sh

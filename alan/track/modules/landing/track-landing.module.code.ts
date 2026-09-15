@@ -1,10 +1,10 @@
-import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type {
   Asking,
   Landing,
-} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   answeredWith,
   keeping,
@@ -18,9 +18,9 @@ import { commitSaid } from "akasha/command/modules/landing-saying/landing-saying
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
-export const DAYS_AT = "alan/track/daily/days/pages/"
+export const DAYS_AT = "alan/track/daily/day/pages/"
 
-export const FOOD_ENTRIES_AT = "alan/track/food-entries/pages/"
+export const FOOD_ENTRIES_AT = "alan/track/food-entry/pages/"
 
 const TRACKED_AT: readonly string[] = [DAYS_AT, FOOD_ENTRIES_AT]
 

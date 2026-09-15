@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const phoenixAscensionCultivationLitrpg0168Chapter168AGiantFuckassLightningDragon = {
+  id: "01a06730-4e04-7a9b-87b6-a5adea5e4a7b",
+  type: "story-chapter-read",
+  slug: "phoenix-ascension-cultivation-litrpg-0168-chapter-168-a-giant-fuckass-lightning-dragon",
+  title: "Chapter 168: A giant fuckass Lightning Dragon.",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
+  position: 168,
+  ownLength: 2513,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3876052",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3876052/chapter-168-a-giant-fuckass-lightning-dragon",
+    },
+  ],
+  publishedAt: "2026-08-28",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -7,8 +7,8 @@ import {
   MAX_IMPORT_BATCH,
   NO_LOWER_BOUND,
 } from "akasha/alan/harness/health-samples-import/modules/health-import-run/health-import-run.module.code.ts"
-import { batch as batchArgument } from "akasha/command/arguments/pages/batch.argument.ts"
-import { firstDay } from "akasha/command/arguments/pages/first-day.argument.ts"
+import { batch as batchArgument } from "akasha/command/argument/pages/batch.argument.ts"
+import { firstDay } from "akasha/command/argument/pages/first-day.argument.ts"
 import {
   DATA,
   OK,

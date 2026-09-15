@@ -1,11 +1,11 @@
-import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readouts/modules/credential/readout-credential.module.code.ts"
+import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import { guardReadout } from "akasha/alan/web/.server/readout-guarding/readout-guarding.module.code.ts"
 import type {
   Asked,
   Query,
   Row,
-} from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
-import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import type { Route } from "./+types/claude-usage.route.code"
 
 export type UsageTier = "red" | "yellow" | "green" | "blue"

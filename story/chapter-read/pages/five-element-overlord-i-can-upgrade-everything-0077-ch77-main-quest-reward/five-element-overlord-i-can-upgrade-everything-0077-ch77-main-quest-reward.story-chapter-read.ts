@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const fiveElementOverlordICanUpgradeEverything0077Ch77MainQuestReward = {
+  id: "01a06731-adb6-7011-a653-fae1ab57f30f",
+  type: "story-chapter-read",
+  slug: "five-element-overlord-i-can-upgrade-everything-0077-ch77-main-quest-reward",
+  title: "Ch77 Main Quest Reward",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
+  position: 77,
+  ownLength: 1513,
+  unit: "unit/words",
+  publishedAt: "2026-06-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3549684",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3549684/ch77-main-quest-reward",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

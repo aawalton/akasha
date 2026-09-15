@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0210Chapter196ANightIn = {
+  id: "01a06731-ad83-7006-b066-a044c201c31a",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0210-chapter-196-a-night-in",
+  title: "Chapter 196 A Night In",
+  story: "story-read/melody-of-mana",
+  position: 210,
+  ownLength: 1986,
+  ownProgress: 1986,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:33:04.966Z",
+  publishedAt: "2022-12-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1062940",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1062940/chapter-196-a-night-in",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

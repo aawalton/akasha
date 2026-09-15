@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const deathHealer0061Chapter60 = {
+  id: "01a06591-3c67-74a5-8612-bf747e3e134f",
+  type: "story-chapter-read",
+  slug: "death-healer-0061-chapter-60",
+  title: "Chapter 60",
+  story: "story-read/death-healer",
+  position: 61,
+  ownLength: 2677,
+  unit: "unit/words",
+  publishedAt: "2025-08-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2518452",
+      externalLink:
+        "https://www.royalroad.com/fiction/115399/death-healer/chapter/2518452/chapter-60",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

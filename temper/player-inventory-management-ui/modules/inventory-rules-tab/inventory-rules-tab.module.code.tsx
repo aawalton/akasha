@@ -8,7 +8,7 @@ import {
   AlertDescription,
   AlertTitle,
 } from "akasha/design/interfaces/primitives/modules/alert/alert.module.code.tsx"
-import { useUserId } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { classifyAllInventoryItems } from "akasha/temper/items-rules-matcher/modules/inventory-item-classifier/inventory-item-classifier.module.code.ts"

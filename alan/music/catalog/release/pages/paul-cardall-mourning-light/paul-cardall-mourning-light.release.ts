@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const paulCardallMourningLight = {
+  id: "01a0676a-d725-700d-a2bd-6d1994e027b3",
+  type: "release",
+  slug: "paul-cardall-mourning-light",
+  title: "Mourning Light",
+  partOfCollections: ["artist/paul-cardall"],
+  position: 0,
+  ownLength: 3.85,
+  ownProgress: 3.85,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2024-07-12",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7373Owl7OvEKdntWLuSkJL",
+      externalLink: "https://open.spotify.com/album/7373Owl7OvEKdntWLuSkJL",
+    },
+  ],
+} as const satisfies Release

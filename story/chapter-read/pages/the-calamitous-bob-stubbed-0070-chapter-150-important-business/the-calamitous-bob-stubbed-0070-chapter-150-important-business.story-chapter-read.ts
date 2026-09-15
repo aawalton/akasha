@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0070Chapter150ImportantBusiness = {
+  id: "01a06730-4f77-78b7-bb9e-7324572990e8",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0070-chapter-150-important-business",
+  title: "Chapter 150: Important Business",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 70,
+  ownLength: 6949,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1496445",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1496445/chapter-150-important-business",
+    },
+  ],
+  publishedAt: "2024-01-27",
+  ownProgress: 6949,
+  completedAt: "2026-06-29T21:17:13.098Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

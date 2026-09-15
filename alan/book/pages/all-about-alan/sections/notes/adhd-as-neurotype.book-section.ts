@@ -1,0 +1,13 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const adhdAsNeurotype = {
+  id: "01a06594-c674-7007-b64f-8ce57de16121",
+  type: "book-section",
+  slug: "adhd-as-neurotype",
+  title: "ADHD as neurotype (working definition)",
+  sectionOf: "alan-book/all-about-alan",
+  description: "ADHD as a neurotype — Alan's working definition in his own terms.",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

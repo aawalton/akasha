@@ -29,7 +29,7 @@ describe("where a person's rules of each kind are", () => {
   })
 
   test("a kind's folder names the person and the kind", () => {
-    expect(ruleFolderIn("alan", "code")).toBe("alan/harness/inboxes/email-rules/codes/pages")
+    expect(ruleFolderIn("alan", "code")).toBe("alan/harness/inbox/email-rule/code/pages")
     expect(ruleFolderIn("jenny", "agent")).toBe("jenny/harness/inboxes/email-rules/agent/pages")
   })
 })

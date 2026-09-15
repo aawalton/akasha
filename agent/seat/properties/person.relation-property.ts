@@ -1,4 +1,4 @@
-import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
+import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
 
 export const person = {
   id: "01a05390-11db-7a03-ba9c-c7c30248aee3",

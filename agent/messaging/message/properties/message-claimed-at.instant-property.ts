@@ -1,4 +1,4 @@
-import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
+import type { InstantProperty } from "akasha/page/instant-property/instant-property.page-type.types.ts"
 
 export const messageClaimedAt = {
   id: "01a06818-107b-7004-8256-c637bdc728bd",

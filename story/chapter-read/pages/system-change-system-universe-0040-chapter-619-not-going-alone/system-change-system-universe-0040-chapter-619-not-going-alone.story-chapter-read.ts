@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const systemChangeSystemUniverse0040Chapter619NotGoingAlone = {
+  id: "01a06730-4fba-71dd-912a-332b633d787e",
+  type: "story-chapter-read",
+  slug: "system-change-system-universe-0040-chapter-619-not-going-alone",
+  title: "Chapter 619: Not Going Alone",
+  story: "story-read/system-change-system-universe",
+  position: 40,
+  ownLength: 2308,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2924985",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2924985/chapter-619-not-going-alone",
+    },
+  ],
+  publishedAt: "2026-01-09",
+  ownProgress: 2308,
+  completedAt: "2026-06-29T19:58:01.397Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

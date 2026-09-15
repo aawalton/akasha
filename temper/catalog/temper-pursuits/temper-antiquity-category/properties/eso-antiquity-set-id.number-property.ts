@@ -1,0 +1,21 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const esoAntiquitySetId = {
+  id: "01a06176-a912-7000-8819-19b71a0dafd6",
+  type: "number-property",
+  slug: "eso-antiquity-set-id",
+  propertySlug: "eso-antiquity-set-id",
+  definition: "the number The Elder Scrolls Online names a set of antiquity leads by",
+  max: null,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A lead set is numbered apart from the item set an item belongs to.",
+    },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "Nothing refuses an antiquity row stating `eso-set-id`.",
+    },
+  ],
+  types: "ts",
+} as const satisfies NumberProperty

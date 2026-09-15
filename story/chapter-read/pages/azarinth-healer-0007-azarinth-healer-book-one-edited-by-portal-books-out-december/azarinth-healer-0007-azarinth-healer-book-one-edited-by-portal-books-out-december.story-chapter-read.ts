@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const azarinthHealer0007AzarinthHealerBookOneEditedByPortalBooksOutDecember = {
+  id: "01a06731-aff7-7001-8682-84d27fa9979e",
+  type: "story-chapter-read",
+  slug: "azarinth-healer-0007-azarinth-healer-book-one-edited-by-portal-books-out-december",
+  title: "Azarinth Healer - Book One - Edited by Portal Books - Out December 1st",
+  story: "story-read/azarinth-healer",
+  position: 7,
+  ownLength: 309,
+  unit: "unit/words",
+  publishedAt: "2022-11-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1035092",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1035092/azarinth-healer-book-one-edited-by-portal-books",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

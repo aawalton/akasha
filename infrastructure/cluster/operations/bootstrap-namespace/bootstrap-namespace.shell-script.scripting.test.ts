@@ -7,7 +7,7 @@ import {
   ownShellIn,
   sayingCodeIn,
 } from "akasha/infrastructure/cluster/operations/bootstrap-namespace/bootstrap-namespace.shell-script.scripting.code.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

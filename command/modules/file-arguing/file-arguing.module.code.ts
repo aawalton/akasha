@@ -1,8 +1,8 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { leftAt } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
+import { leftAt } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { notUtf8 } from "akasha/check/modules/body-not-utf8/body-not-utf8.module.code.ts"
 import { bytesAt, textOf } from "akasha/command/modules/body-reaching/body-reaching.module.code.ts"
 import {
   type Answer,
@@ -34,8 +34,8 @@ import {
 } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
 import { unwarrantedIn } from "akasha/command/modules/warrant-owing/warrant-owing.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
-import { fileKeysAt } from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
-import { besideAll } from "akasha/pages/modules/beside/page-beside.module.code.ts"
+import { fileKeysAt } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
+import { besideAll } from "akasha/page/modules/beside/page-beside.module.code.ts"
 
 const RESTATED = "--restated"
 

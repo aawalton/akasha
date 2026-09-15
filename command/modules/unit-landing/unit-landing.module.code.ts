@@ -6,18 +6,18 @@ import { treeIn } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-
 import {
   asked,
   type Running,
-} from "akasha/infrastructure/services/workstations/modules/service-asking/service-asking.module.code.ts"
+} from "akasha/infrastructure/service/workstation/modules/service-asking/service-asking.module.code.ts"
 import {
   ourInstalled,
   stagingDir,
   systemctl,
   textFor,
   writeStaged,
-} from "akasha/infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"
+} from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
 import {
   everyService,
   SERVICE_PAGE_TYPE,
-} from "akasha/infrastructure/services/workstations/modules/service-reading/service-reading.module.code.ts"
+} from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 const A_UNIT = "unit"

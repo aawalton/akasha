@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0233Chapter1585ForwardFacingColony = {
+  id: "01a0672c-eb63-7007-ae62-6a14bb948183",
+  type: "story-chapter-read",
+  slug: "chrysalis-0233-chapter-1585-forward-facing-colony",
+  title: "Chapter 1585 - Forward Facing Colony",
+  story: "story-read/chrysalis",
+  position: 233,
+  ownLength: 1181,
+  ownProgress: 1181,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:51:16.157Z",
+  publishedAt: "2025-06-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2360313",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2360313/chapter-1585-forward-facing-colony",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

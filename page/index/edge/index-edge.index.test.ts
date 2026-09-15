@@ -1,0 +1,132 @@
+import { expect, test } from "bun:test"
+import {
+  A,
+  B,
+  shaped,
+} from "akasha/page/index/modules/entries/index-entries.module.test-fixtures.ts"
+import { edgeIn } from "akasha/page/index/edge/index-edge.index.code.ts"
+
+test("a property naming a page is filed under that page's id against the property's kebab slug", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
+
+  expect(edgeIn(value, "/repo/a.domain.ts", shaped({ "domain/b": B }), "/repo", [])).toEqual({
+    entries: [
+      { at: `edge/page/id/${B}/part-slugs/${A}.jsonl`, line: '{"path":"a.domain.ts"}' },
+    ],
+    refused: [],
+  })
+})
+
+test("a property naming no page is reported and files no edge", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["nowhere"] }
+  const filed = edgeIn(value, "/repo/a.domain.ts", shaped({}), "/repo", [])
+
+  expect(filed.entries).toEqual([])
+  expect(filed.refused[0] ?? "").toMatch(/carries the slug `nowhere`/)
+})
+
+test("a mortal page naming no page files no edge and is not reported", () => {
+  const value = { id: A, pageTypeSlug: "note", slug: "a", partSlugs: ["nowhere"] }
+
+  expect(edgeIn(value, "/repo/a.note.ts", shaped({}), "/repo", [])).toEqual({
+    entries: [],
+    refused: [],
+  })
+})
+
+test("a name for a mortal page type files no edge and is not reported", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", goneSlugs: ["note/gone"] }
+
+  expect(edgeIn(value, "/repo/a.domain.ts", shaped({}), "/repo", [])).toEqual({
+    entries: [],
+    refused: [],
+  })
+})
+
+test("a page's own page type files no edge, though its property reaches that page type", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+
+  expect(
+    edgeIn(value, "/repo/a.domain.ts", shaped({ "page-type/domain": B }), "/repo", [])
+  ).toEqual({ entries: [], refused: [] })
+})
+
+test("a edge nested in a record is filed from the page, and twice over files one edge", () => {
+  const value = {
+    id: A,
+    pageTypeSlug: "domain",
+    slug: "a",
+    parts: [{ partSlugs: ["domain/b"] }, { partSlugs: ["domain/b"] }],
+  }
+
+  expect(edgeIn(value, "/repo/a.domain.ts", shaped({ "domain/b": B }), "/repo", [])).toEqual({
+    entries: [
+      { at: `edge/page/id/${B}/part-slugs/${A}.jsonl`, line: '{"path":"a.domain.ts"}' },
+    ],
+    refused: [],
+  })
+})
+
+test("a field the record does not declare, and a record nested deeper, file no edge", () => {
+  const value = {
+    id: A,
+    pageTypeSlug: "domain",
+    slug: "a",
+    parts: [{ heldSlugs: ["domain/b"], inner: { partSlugs: ["domain/b"] } }],
+    holds: [{ partSlugs: ["domain/b"] }],
+  }
+
+  expect(edgeIn(value, "/repo/a.domain.ts", shaped({ "domain/b": B }), "/repo", [])).toEqual({
+    entries: [],
+    refused: [],
+  })
+})
+
+test("a page's key reaches the property stating it rather than the slug the key becomes", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", notes: ["domain/b"] }
+
+  expect(edgeIn(value, "/repo/a.domain.ts", shaped({ "domain/b": B }), "/repo", [])).toEqual({
+    entries: [
+      { at: `edge/page/id/${B}/noted-slugs/${A}.jsonl`, line: '{"path":"a.domain.ts"}' },
+    ],
+    refused: [],
+  })
+})
+
+test("a edge an entry row states files an edge from the row's page", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", cases: "jsonl" }
+  const rowing = [{ slug: "cases", rows: [{ casePage: "domain/b" }, { casePage: "domain/b" }] }]
+
+  expect(
+    edgeIn(value, "/repo/a.domain.ts", shaped({ "domain/b": B }), "/repo", rowing)
+  ).toEqual({
+    entries: [{ at: `edge/page/id/${B}/case-page/${A}.jsonl`, line: '{"path":"a.domain.ts"}' }],
+    refused: [],
+  })
+})
+
+test("a edge nested in a record inside an entry row files no edge", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", cases: "jsonl" }
+  const rowing = [{ slug: "cases", rows: [{ inner: { casePage: "domain/b" } }] }]
+
+  expect(
+    edgeIn(value, "/repo/a.domain.ts", shaped({ "domain/b": B }), "/repo", rowing)
+  ).toEqual({ entries: [], refused: [] })
+})
+
+test("a row naming no page is reported against the entry shape and the field it states", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", cases: "jsonl" }
+  const rowing = [{ slug: "cases", rows: [{ casePage: "nowhere" }] }]
+  const filed = edgeIn(value, "/repo/a.domain.ts", shaped({}), "/repo", rowing)
+
+  expect(filed.entries).toEqual([])
+  expect(filed.refused[0] ?? "").toMatch(/`cases case-page`/)
+})
+
+test("a record entry naming no page is reported against the record and the field it states", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", parts: [{ partSlugs: ["nowhere"] }] }
+  const filed = edgeIn(value, "/repo/a.domain.ts", shaped({}), "/repo", [])
+
+  expect(filed.entries).toEqual([])
+  expect(filed.refused[0] ?? "").toMatch(/`parts part-slugs`/)
+})

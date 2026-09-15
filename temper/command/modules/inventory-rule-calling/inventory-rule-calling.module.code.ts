@@ -1,4 +1,4 @@
-import { force as forceArgument } from "akasha/command/arguments/pages/force.argument.ts"
+import { force as forceArgument } from "akasha/command/argument/pages/force.argument.ts"
 import {
   asIndentedJson,
   DATA,

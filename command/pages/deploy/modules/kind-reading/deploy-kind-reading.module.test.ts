@@ -9,11 +9,11 @@ import {
   WEB_APP,
   WORKSTATION_SERVICE,
 } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
-import { writingUnder } from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
+import { writingUnder } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 
 const HOLD = "/var/tmp"
 

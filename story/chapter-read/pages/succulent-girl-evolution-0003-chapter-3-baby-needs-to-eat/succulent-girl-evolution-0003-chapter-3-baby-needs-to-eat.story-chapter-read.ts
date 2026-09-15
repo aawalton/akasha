@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const succulentGirlEvolution0003Chapter3BabyNeedsToEat = {
+  id: "01a06730-4dea-75fe-b253-11bb9d5a0174",
+  type: "story-chapter-read",
+  slug: "succulent-girl-evolution-0003-chapter-3-baby-needs-to-eat",
+  title: "Chapter 3: Baby Needs to Eat",
+  story: "story-read/succulent-girl-evolution",
+  position: 3,
+  ownLength: 2051,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525516",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525516/chapter-3-baby-needs-to-eat",
+    },
+  ],
+  publishedAt: "2025-08-17",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const wolfGirlEvolutionTailsTeethAndTooMuchFood0134Chapter132OfEconomicCatastrophesAnd = {
+  id: "01a06730-5602-7667-9f5b-e6fc3e38d4b0",
+  type: "story-chapter-read",
+  slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0134-chapter-132-of-economic-catastrophes-and",
+  title: "Chapter 132: Of Economic Catastrophes and Campfire Logistics",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
+  position: 134,
+  ownLength: 3387,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3544132",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3544132/chapter-132-of-economic-catastrophes-and-campfire",
+    },
+  ],
+  publishedAt: "2026-06-15",
+  prose: "txt",
+} as const satisfies StoryChapterRead

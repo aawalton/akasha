@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0009KeepReadingListeningOnAmazonSKindleKindleUnlimitedA = {
+  id: "01a06730-4dca-70d2-94d0-f60746c26b09",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0009-keep-reading-listening-on-amazon-s-kindle-kindle-unlimited-a",
+  title: "Keep reading/listening on Amazon's Kindle, Kindle Unlimited and Audible!",
+  story: "story-read/the-primal-hunter",
+  position: 9,
+  ownLength: 191,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "849411",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/849411/keep-readinglistening-on-amazons-kindle-kindle",
+    },
+  ],
+  publishedAt: "2022-02-20",
+  ownProgress: 191,
+  completedAt: "2026-06-29T19:29:32.253Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

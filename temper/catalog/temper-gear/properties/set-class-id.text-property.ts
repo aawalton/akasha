@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
 export const setClassId = {
   id: "01a05fd1-d43e-7ece-af53-4be28ed6067d",

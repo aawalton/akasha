@@ -1,4 +1,4 @@
-import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
+import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-type.types.ts"
 
 export const resourceLoaderArgsTestUtils = {
   id: "01a08ee4-41a2-7873-81b7-b181807acb88",

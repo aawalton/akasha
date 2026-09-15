@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0140Chapter813MyLuckMyCurse = {
+  id: "01a06731-ad88-7003-9d7b-45fa2a13e2a8",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0140-chapter-813-my-luck-my-curse",
+  title: "Chapter 813 - My luck. My curse.",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 140,
+  ownLength: 2916,
+  unit: "unit/words",
+  publishedAt: "2026-05-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3450898",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3450898/chapter-813-my-luck-my-curse",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

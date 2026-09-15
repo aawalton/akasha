@@ -11,7 +11,7 @@ import {
   manifestIn,
   rootsIn,
 } from "akasha/infrastructure/machines/provisioning/scripts/provision-workstation/provision-workstation.shell-script.scripting.code.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

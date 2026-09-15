@@ -1,4 +1,4 @@
-import { itemRuleId } from "akasha/command/arguments/pages/item-rule-id.argument.ts"
+import { itemRuleId } from "akasha/command/argument/pages/item-rule-id.argument.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { answeredByPage } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
 import { temperInventoryItemRuleUnlock as page } from "akasha/command/pages/temper/inventory/item-rule/unlock/temper-inventory-item-rule-unlock.command.ts"

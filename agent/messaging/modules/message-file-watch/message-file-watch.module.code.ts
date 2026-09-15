@@ -5,7 +5,7 @@ import {
   recipientRefused,
   unclaimedTo,
 } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const BACKSTOP_MS = 5_000
 

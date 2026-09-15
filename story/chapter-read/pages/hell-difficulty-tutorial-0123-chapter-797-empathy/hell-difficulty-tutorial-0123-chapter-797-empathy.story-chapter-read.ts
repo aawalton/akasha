@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0123Chapter797Empathy = {
+  id: "01a06731-ad87-7000-ab98-0896b5e0a8fd",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0123-chapter-797-empathy",
+  title: "Chapter 797 - Empathy",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 123,
+  ownLength: 2531,
+  unit: "unit/words",
+  publishedAt: "2026-05-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3355529",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3355529/chapter-797-empathy",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

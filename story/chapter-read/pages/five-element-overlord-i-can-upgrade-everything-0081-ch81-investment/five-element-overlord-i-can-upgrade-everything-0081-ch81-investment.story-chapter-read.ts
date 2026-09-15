@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const fiveElementOverlordICanUpgradeEverything0081Ch81Investment = {
+  id: "01a06731-adb6-7015-afd5-e7e8331f3d6b",
+  type: "story-chapter-read",
+  slug: "five-element-overlord-i-can-upgrade-everything-0081-ch81-investment",
+  title: "Ch81 Investment",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
+  position: 81,
+  ownLength: 1364,
+  unit: "unit/words",
+  publishedAt: "2026-06-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3577226",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3577226/ch81-investment",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

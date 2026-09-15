@@ -1,9 +1,9 @@
 import { existsSync } from "node:fs"
 import { mkdir, mkdtemp, rm, stat } from "node:fs/promises"
 import { dirname, join } from "node:path"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { cluster } from "akasha/command/arguments/pages/cluster.argument.ts"
-import { force } from "akasha/command/arguments/pages/force.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { cluster } from "akasha/command/argument/pages/cluster.argument.ts"
+import { force } from "akasha/command/argument/pages/force.argument.ts"
 import {
   answering,
   OPERATIONAL,

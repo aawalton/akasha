@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-spell.page-type.types.ts"
+
+export const bloodcallerSCurse = {
+  id: "01a06572-95b6-7feb-8230-fec76cc120b9",
+  type: "world-spell",
+  slug: "bloodcaller-s-curse",
+  title: "Bloodcaller’s Curse",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

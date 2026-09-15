@@ -11,11 +11,11 @@ import {
   namedAt,
   saidOf,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,
   type runMechanicalChange,
-} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   INPUT,
   OPERATIONAL,
@@ -24,13 +24,13 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import {
   everyOfType,
   typeSlugOf,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { removeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { removeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   slugAt,
   textAt,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { procEntries } from "akasha/utils/process/modules/proc-reading/proc-reading.module.code.ts"
 import { ending } from "akasha/utils/process/modules/process-ending/process-ending.module.code.ts"
 

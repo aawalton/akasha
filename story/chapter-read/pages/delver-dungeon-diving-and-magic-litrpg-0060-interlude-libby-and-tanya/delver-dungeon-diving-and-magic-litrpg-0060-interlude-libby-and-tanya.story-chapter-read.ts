@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const delverDungeonDivingAndMagicLitrpg0060InterludeLibbyAndTanya = {
+  id: "01a06731-af11-7007-9f80-ea938ba0527c",
+  type: "story-chapter-read",
+  slug: "delver-dungeon-diving-and-magic-litrpg-0060-interlude-libby-and-tanya",
+  title: "Interlude: Libby And Tanya",
+  story: "story-read/delver-dungeon-diving-and-magic-litrpg",
+  position: 60,
+  ownLength: 2123,
+  unit: "unit/words",
+  publishedAt: "2026-08-31",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3892036",
+      externalLink:
+        "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3892036/interlude-libby-and-tanya",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

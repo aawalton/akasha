@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0164Chapter1367JustifiedPeakOfHubris = {
+  id: "01a06730-4e1c-7df9-b85d-cdccc880c1f4",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0164-chapter-1367-justified-peak-of-hubris",
+  title: "Chapter 1367 - Justified Peak of Hubris",
+  story: "story-read/the-primal-hunter",
+  position: 164,
+  ownLength: 2736,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3763946",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3763946/chapter-1367-justified-peak-of-hubris",
+    },
+  ],
+  publishedAt: "2026-08-03",
+  prose: "txt",
+} as const satisfies StoryChapterRead

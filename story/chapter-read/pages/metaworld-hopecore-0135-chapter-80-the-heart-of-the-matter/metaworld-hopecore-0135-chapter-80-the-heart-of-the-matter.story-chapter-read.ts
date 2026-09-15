@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const metaworldHopecore0135Chapter80TheHeartOfTheMatter = {
+  id: "01a06731-af1b-7001-934b-d479e07d3d55",
+  type: "story-chapter-read",
+  slug: "metaworld-hopecore-0135-chapter-80-the-heart-of-the-matter",
+  title: "CHAPTER 80 - The Heart of the Matter",
+  story: "story-read/metaworld-hopecore",
+  position: 135,
+  ownLength: 2838,
+  unit: "unit/words",
+  publishedAt: "2026-07-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3716856",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3716856/chapter-80-the-heart-of-the-matter",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

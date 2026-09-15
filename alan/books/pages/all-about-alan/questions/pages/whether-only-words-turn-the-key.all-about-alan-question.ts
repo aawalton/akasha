@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherOnlyWordsTurnTheKey = {
-  id: "01a077e6-a8eb-7cdb-9ea8-f306f96fd1ff",
-  type: "all-about-alan-question",
-  slug: "whether-only-words-turn-the-key",
-  topic: "all-about-alan-topic/how-a-story-gets-my-own-feeling-back",
-  ask: "Can a film, a game or a picture turn the same key a story turns, or only words?",
-} as const satisfies AllAboutAlanQuestion

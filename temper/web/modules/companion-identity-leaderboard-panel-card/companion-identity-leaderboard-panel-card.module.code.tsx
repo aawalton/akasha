@@ -15,7 +15,7 @@ import {
   TableTotalCell,
   TableValue,
 } from "akasha/design/interfaces/primitives/modules/table/table.module.code.tsx"
-import { PagesUILink as Link } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
+import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { companionUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"
 import {
   type ComboRankingsMap,

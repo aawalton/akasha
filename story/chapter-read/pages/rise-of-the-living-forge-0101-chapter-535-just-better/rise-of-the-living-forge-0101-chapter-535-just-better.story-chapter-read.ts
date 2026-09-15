@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0101Chapter535JustBetter = {
+  id: "01a06730-4e0f-7a04-87f7-9ee9b10ff624",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0101-chapter-535-just-better",
+  title: "Chapter 535: Just better",
+  story: "story-read/rise-of-the-living-forge",
+  position: 101,
+  ownLength: 1602,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2892869",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2892869/chapter-535-just-better",
+    },
+  ],
+  publishedAt: "2025-12-30",
+  ownProgress: 1602,
+  completedAt: "2026-06-29T20:01:39.881Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

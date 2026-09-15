@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whatDoseMyCapacityTakes = {
-  id: "01a077e6-06f1-795a-8ff6-42e3ad699a9a",
-  type: "all-about-alan-question",
-  slug: "what-dose-my-capacity-takes",
-  topic: "all-about-alan-topic/waiting-until-i-can-afford-people",
-  ask: "What is the dose curve against my capacity, and what duration counts as low enough for long enough?",
-} as const satisfies AllAboutAlanQuestion

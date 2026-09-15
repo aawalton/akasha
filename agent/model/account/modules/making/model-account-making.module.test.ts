@@ -6,9 +6,9 @@ import {
   type Landing,
   madeIn,
 } from "akasha/agent/model/account/modules/making/model-account-making.module.code.ts"
-import { readingIn } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
-import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const ROOT = "/nowhere"
 

@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   namedIn,
   sweptWith,
   takenIn,
 } from "akasha/command/modules/beside-sweeping/beside-sweeping.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const PAGE = "one/one.module.ts"
 

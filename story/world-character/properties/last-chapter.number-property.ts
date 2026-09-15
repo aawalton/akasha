@@ -1,0 +1,17 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const lastChapter = {
+  id: "01a0657a-9ccd-7629-800d-515631354a44",
+  type: "number-property",
+  slug: "last-chapter",
+  propertySlug: "last-chapter",
+  definition: "the number of the latest chapter a page draws on",
+  max: null,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A chapter is counted here rather than named.",
+    },
+  ],
+  types: "ts",
+} as const satisfies NumberProperty

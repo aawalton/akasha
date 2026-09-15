@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0330ChapterThreeHundredAndTwentyTwoSizingUpThe = {
+  id: "01a0672c-eb1b-7005-a554-86a6bb971d40",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0330-chapter-three-hundred-and-twenty-two-sizing-up-the",
+  title: "Chapter Three Hundred and Twenty-Two - Sizing Up the Future",
+  story: "story-read/cinnamon-bun",
+  position: 330,
+  ownLength: 1755,
+  unit: "unit/words",
+  publishedAt: "2022-06-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "934278",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/934278/chapter-three-hundred-and-twenty-two-sizing-up",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

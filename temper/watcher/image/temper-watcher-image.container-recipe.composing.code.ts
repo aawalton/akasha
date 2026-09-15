@@ -3,13 +3,13 @@ import {
   type Held,
   pageOf,
 } from "akasha/infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts"
-import { fileOf } from "akasha/pages/index/modules/property-file/property-file.module.code.ts"
-import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
-import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import {
   slugsIn,
   textAt,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const MODULE = "module"
 

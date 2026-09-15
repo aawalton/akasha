@@ -1,16 +1,16 @@
-import type { Known } from "akasha/graph/attributes/pages/known.graph-attribute.ts"
-import type { Answering } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
+import type { Known } from "akasha/graph/attribute/pages/known.graph-attribute.ts"
+import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
   claimantOf,
   type Paging,
-} from "akasha/pages/index/modules/path-claiming/path-claiming.module.code.ts"
-import type { Named } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
+} from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
+import type { Named } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   slugOf,
   textAt,
   type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const GRAPH_EDGE = "graph-edge"
 

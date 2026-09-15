@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0538336TheRipple = {
+  id: "01a06730-4ee4-70d6-8f37-59887c7a1174",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0538-336-the-ripple",
+  title: "336 The Ripple",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 538,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3278390/336-the-ripple",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

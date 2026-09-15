@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0203V6c15NotEveryDepartureIsHeavenSShaking = {
+  id: "01a06731-adb7-7005-825e-f898f8a12b3d",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0203-v6c15-not-every-departure-is-heaven-s-shaking",
+  title: "v6c15: Not Every Departure is Heaven's Shaking",
+  story: "story-read/beware-of-chicken",
+  position: 203,
+  ownLength: 1981,
+  ownProgress: 1981,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:58:18.103Z",
+  publishedAt: "2025-04-13",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2197377",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2197377/v6c15-not-every-departure-is-heavens-shaking",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

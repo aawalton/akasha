@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0428ChapterFourHundredAndFourteenCanYouSay = {
+  id: "01a0672c-eb20-700b-9b06-0374a071a843",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0428-chapter-four-hundred-and-fourteen-can-you-say",
+  title: "Chapter Four Hundred and Fourteen - Can You Say Uncle",
+  story: "story-read/cinnamon-bun",
+  position: 428,
+  ownLength: 1992,
+  unit: "unit/words",
+  publishedAt: "2023-07-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1266913",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1266913/chapter-four-hundred-and-fourteen-can-you-say",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

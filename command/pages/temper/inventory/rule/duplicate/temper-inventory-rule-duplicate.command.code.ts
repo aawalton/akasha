@@ -1,4 +1,4 @@
-import { categoryRuleId } from "akasha/command/arguments/pages/category-rule-id.argument.ts"
+import { categoryRuleId } from "akasha/command/argument/pages/category-rule-id.argument.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { answeredByPage } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
 import { temperInventoryRuleDuplicate as page } from "akasha/command/pages/temper/inventory/rule/duplicate/temper-inventory-rule-duplicate.command.ts"

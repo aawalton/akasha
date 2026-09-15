@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theTabernacleChoirAtTempleSquarePeaceLikeARiver = {
+  id: "01a0676a-d726-7067-b8df-0b04274c439a",
+  type: "release",
+  slug: "the-tabernacle-choir-at-temple-square-peace-like-a-river",
+  title: "Peace Like a River",
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
+  position: 0,
+  ownLength: 68.775217,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2004-03-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1uil2IubtOh7tE0x1iq8oV",
+      externalLink: "https://open.spotify.com/album/1uil2IubtOh7tE0x1iq8oV",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

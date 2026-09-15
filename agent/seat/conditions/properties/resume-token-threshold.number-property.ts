@@ -1,4 +1,4 @@
-import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
 export const resumeTokenThreshold = {
   id: "01a0687a-3d9d-7913-bd68-1b64d021e9be",

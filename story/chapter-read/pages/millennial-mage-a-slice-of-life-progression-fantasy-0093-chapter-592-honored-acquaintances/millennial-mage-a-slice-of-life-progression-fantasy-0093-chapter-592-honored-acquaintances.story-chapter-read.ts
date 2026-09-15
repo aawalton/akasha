@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0093Chapter592HonoredAcquaintances = {
+  id: "01a06731-addb-7000-9af8-3ae18685e0df",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0093-chapter-592-honored-acquaintances",
+  title: "Chapter: 592 - Honored Acquaintances",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 93,
+  ownLength: 3061,
+  ownProgress: 3061,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:38:16.485Z",
+  publishedAt: "2025-07-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2472494",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2472494/chapter-592-honored-acquaintances",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const superSupportive0238TwoHundredThirtySixHereToThereXvi = {
+  id: "01a06730-4f06-7227-b1f6-46afc3a370a5",
+  type: "story-chapter-read",
+  slug: "super-supportive-0238-two-hundred-thirty-six-here-to-there-xvi",
+  title: "TWO HUNDRED THIRTY-SIX: Here-to-There XVI",
+  story: "story-read/super-supportive",
+  position: 238,
+  ownLength: 1797,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2508562",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2508562/two-hundred-thirty-six-here-to-there-xvi",
+    },
+  ],
+  publishedAt: "2025-08-11",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const completionLoreLibraryProgress = {
   id: "01a06121-f0d4-76d5-a969-add5b8898bd8",
@@ -10,7 +10,7 @@ export const completionLoreLibraryProgress = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A book is keyed by three index taken together.",
+      statement: "A book is keyed by three indexes taken together.",
     },
   ],
 } as const satisfies Module

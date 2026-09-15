@@ -1,11 +1,11 @@
 import { existsSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { TunnelRoute } from "akasha/infrastructure/cluster/manifests/modules/tunnel-route/tunnel-route.module.code.ts"
-import { pageTypesIn } from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
-import { shapeOf } from "akasha/pages/index/modules/property-shaping/property-shaping.module.code.ts"
-import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { pageTypesIn } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
+import { shapeOf } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
+import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const REPO_ROOT = checkoutRootAbove(import.meta.dirname)
 

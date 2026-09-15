@@ -1,0 +1,13 @@
+import type { WorldCharacter } from "akasha/story/world-character/world-character.page-type.types.ts"
+
+export const dameUshar = {
+  id: "01a06580-2494-7c3f-ac00-620d6535f098",
+  type: "world-character",
+  slug: "dame-ushar",
+  title: "Dame Ushar",
+  world: "world/the-wandering-inn",
+  maxLevel: 30,
+  eventCount: 4,
+  firstChapter: 745,
+  lastChapter: 745,
+} as const satisfies WorldCharacter

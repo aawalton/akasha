@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0476ChapterFourHundredAndSixtyTwoAffection = {
+  id: "01a0672c-eb22-7014-ac9f-c035df650327",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0476-chapter-four-hundred-and-sixty-two-affection",
+  title: "Chapter Four Hundred and Sixty-Two - Affection",
+  story: "story-read/cinnamon-bun",
+  position: 476,
+  ownLength: 1461,
+  unit: "unit/words",
+  publishedAt: "2024-01-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1479648",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1479648/chapter-four-hundred-and-sixty-two-affection",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

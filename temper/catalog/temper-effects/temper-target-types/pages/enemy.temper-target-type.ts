@@ -1,9 +1,0 @@
-import type { TemperTargetType } from "akasha/temper/catalog/temper-effects/temper-target-types/temper-target-type.page-type.types.ts"
-
-export const enemy = {
-  id: "019e5d5a-d864-7332-a68f-d3d4c9ee91f9",
-  type: "temper-target-type",
-  slug: "enemy",
-  title: "Enemy",
-  key: "enemy",
-} as const satisfies TemperTargetType

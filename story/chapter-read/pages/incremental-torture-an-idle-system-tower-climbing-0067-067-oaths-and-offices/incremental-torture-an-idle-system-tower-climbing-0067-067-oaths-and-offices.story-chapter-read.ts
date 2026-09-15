@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const incrementalTortureAnIdleSystemTowerClimbing0067067OathsAndOffices = {
+  id: "01a06731-ae0c-7008-96d2-d5ad9e7cadca",
+  type: "story-chapter-read",
+  slug: "incremental-torture-an-idle-system-tower-climbing-0067-067-oaths-and-offices",
+  title: "067: Oaths and Offices",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
+  position: 67,
+  ownLength: 1961,
+  unit: "unit/words",
+  publishedAt: "2024-07-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1709538",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1709538/067-oaths-and-offices",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

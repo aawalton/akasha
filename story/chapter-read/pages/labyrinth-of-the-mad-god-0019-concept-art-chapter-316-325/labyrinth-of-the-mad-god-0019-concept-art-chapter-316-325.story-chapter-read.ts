@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const labyrinthOfTheMadGod0019ConceptArtChapter316325 = {
+  id: "01a0672c-eb6e-700b-bfe8-97b2c1575113",
+  type: "story-chapter-read",
+  slug: "labyrinth-of-the-mad-god-0019-concept-art-chapter-316-325",
+  title: "Concept Art: Chapter 316-325",
+  story: "story-read/labyrinth-of-the-mad-god",
+  position: 19,
+  ownLength: 109,
+  unit: "unit/words",
+  publishedAt: "2024-06-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1667862",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1667862/concept-art-chapter-316-325",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

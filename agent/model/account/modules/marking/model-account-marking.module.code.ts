@@ -4,17 +4,17 @@ import {
 } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
 import { computePacingDerivations } from "akasha/agent/model/account/modules/pacing/model-account-pacing.module.code.ts"
 import { accountPathIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
-import type { PageOf } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
-import { typeSlugOf } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
+import type { PageOf } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import { typeSlugOf } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   dropUncommitted,
   mergeUncommitted,
-} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+} from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import {
   type Carried,
   propertiesOf,
-} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
+} from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 import { z } from "zod"

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const metaworldHopecore0128Chapter76Hurt2 = {
+  id: "01a06731-af18-7003-a020-9186c7dde114",
+  type: "story-chapter-read",
+  slug: "metaworld-hopecore-0128-chapter-76-hurt-2",
+  title: "CHAPTER 76 - Hurt (2) ",
+  story: "story-read/metaworld-hopecore",
+  position: 128,
+  ownLength: 2845,
+  unit: "unit/words",
+  publishedAt: "2026-07-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3664251",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3664251/chapter-76-hurt-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

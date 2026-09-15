@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0377ChapterThreeHundredAndSixtyEightLiving = {
+  id: "01a0672c-eb1e-7004-b65f-ea3dbe6aa594",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0377-chapter-three-hundred-and-sixty-eight-living",
+  title: "Chapter Three Hundred and Sixty-Eight - Living History",
+  story: "story-read/cinnamon-bun",
+  position: 377,
+  ownLength: 1972,
+  unit: "unit/words",
+  publishedAt: "2022-12-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1063403",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1063403/chapter-three-hundred-and-sixty-eight-living-history",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

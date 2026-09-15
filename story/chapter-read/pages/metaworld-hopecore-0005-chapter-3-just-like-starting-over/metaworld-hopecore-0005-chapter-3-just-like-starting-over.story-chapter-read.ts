@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const metaworldHopecore0005Chapter3JustLikeStartingOver = {
+  id: "01a06959-f7c1-7000-9526-eeddf9b568de",
+  type: "story-chapter-read",
+  slug: "metaworld-hopecore-0005-chapter-3-just-like-starting-over",
+  title: "Chapter 3 - (Just Like) Starting Over",
+  story: "story-read/metaworld-hopecore",
+  position: 5,
+  ownLength: 2595,
+  unit: "unit/words",
+  publishedAt: "2026-05-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364485",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364485/chapter-3-just-like-starting-over",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

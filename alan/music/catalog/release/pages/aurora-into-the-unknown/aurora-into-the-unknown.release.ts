@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const auroraIntoTheUnknown = {
+  id: "01a0676a-d721-707a-b90c-657f37b26c65",
+  type: "release",
+  slug: "aurora-into-the-unknown",
+  title: "Into the Unknown",
+  partOfCollections: ["artist/aurora"],
+  position: 0,
+  ownLength: 3.332667,
+  ownProgress: 3.332667,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-03-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4iSXUMDfkZMFLIEnkAWWDL",
+      externalLink: "https://open.spotify.com/album/4iSXUMDfkZMFLIEnkAWWDL",
+    },
+  ],
+} as const satisfies Release

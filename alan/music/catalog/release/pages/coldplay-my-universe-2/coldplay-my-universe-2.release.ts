@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const coldplayMyUniverse2 = {
+  id: "01a0676a-d725-7038-91fa-44c5a372d4d7",
+  type: "release",
+  slug: "coldplay-my-universe-2",
+  title: "My Universe",
+  partOfCollections: ["artist/coldplay"],
+  position: 0,
+  ownLength: 7.6,
+  ownProgress: 7.6,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-09-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "39McjovZ3M6n5SFtNmWTdp",
+      externalLink: "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp",
+    },
+  ],
+} as const satisfies Release

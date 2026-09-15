@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
+import type { BooleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.types.ts"
 
 export const dormant = {
   id: "01a05fc4-7a90-772c-bd1c-d38e59cdf948",

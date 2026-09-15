@@ -1,0 +1,10 @@
+import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-motif-style/temper-motif-style.page-type.types.ts"
+
+export const thievesGuild = {
+  id: "019e5a46-c3d2-7323-8b0b-7d7e11b4f5cb",
+  type: "temper-motif-style",
+  slug: "thieves-guild",
+  title: "Thieves Guild",
+  collectionIndex: 21,
+  sourceDescription: "Heist quests (Hew's Bane)",
+} as const satisfies TemperMotifStyle

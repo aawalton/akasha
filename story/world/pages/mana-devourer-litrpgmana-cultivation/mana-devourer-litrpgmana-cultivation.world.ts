@@ -1,0 +1,8 @@
+import type { World } from "akasha/story/world/world.page-type.types.ts"
+
+export const manaDevourerLitrpgmanaCultivation = {
+  id: "01a063d8-61f2-7929-94f6-ed5111e390f3",
+  type: "world",
+  slug: "mana-devourer-litrpgmana-cultivation",
+  title: "Mana Devourer",
+} as const satisfies World

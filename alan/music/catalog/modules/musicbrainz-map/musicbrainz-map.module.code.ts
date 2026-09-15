@@ -1,14 +1,14 @@
-import { idFrom } from "akasha/alan/collections/externals/modules/external-identity-reading/external-identity-reading.module.code.ts"
-import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
+import { idFrom } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
+import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.types.ts"
 import type {
   MbArtist,
   MbArtistSearchHit,
   MbRecording,
   MbWork,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
-import type { SongType } from "akasha/alan/music/catalog/songs/properties/song-type.select-property.types.ts"
-import type { Written } from "akasha/alan/music/catalog/songs/properties/written.select-property.types.ts"
-import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
+import type { SongType } from "akasha/alan/music/catalog/song/properties/song-type.select-property.types.ts"
+import type { Written } from "akasha/alan/music/catalog/song/properties/written.select-property.types.ts"
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
 import { compareKey } from "akasha/utils/narrow/modules/compare-key/compare-key.module.code.ts"
 
 export type ArtistFields = Pick<Artist, "title" | "genre">

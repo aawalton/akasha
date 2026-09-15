@@ -6,7 +6,7 @@ import {
   type SeatCall,
   stopCall,
 } from "akasha/code/editor/extension/modules/seat-calls/seat-calls.module.code.ts"
-import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 
 const SEAT = "aranya"
 

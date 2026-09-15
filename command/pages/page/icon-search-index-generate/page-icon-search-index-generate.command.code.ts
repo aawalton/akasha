@@ -5,10 +5,10 @@ import {
   changingFile,
   landingAt,
   removingAt,
-} from "akasha/code/modules/modules/name-series/name-series.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
-import { stage as stageArgument } from "akasha/command/arguments/pages/stage.argument.ts"
+} from "akasha/code/module/modules/name-series/name-series.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
+import { stage as stageArgument } from "akasha/command/argument/pages/stage.argument.ts"
 import {
   answering,
   keeping,
@@ -28,7 +28,7 @@ import {
   rendered,
   type Staged,
   standingIn,
-} from "akasha/pages/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"
+} from "akasha/page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const LUCIDE_TAG = "0.576.0"

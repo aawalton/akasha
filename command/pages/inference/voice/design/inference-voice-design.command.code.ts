@@ -3,15 +3,15 @@ import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-c
 import {
   type TakenFor,
   takenFor,
-} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { instruct as instructArgument } from "akasha/command/arguments/pages/instruct.argument.ts"
-import { instructFile } from "akasha/command/arguments/pages/instruct-file.argument.ts"
-import { lang as langArgument } from "akasha/command/arguments/pages/lang.argument.ts"
-import { noPersist } from "akasha/command/arguments/pages/no-persist.argument.ts"
-import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
-import { service as serviceArgument } from "akasha/command/arguments/pages/service.argument.ts"
-import { spokenText } from "akasha/command/arguments/pages/spoken-text.argument.ts"
-import { textFile } from "akasha/command/arguments/pages/text-file.argument.ts"
+} from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { instruct as instructArgument } from "akasha/command/argument/pages/instruct.argument.ts"
+import { instructFile } from "akasha/command/argument/pages/instruct-file.argument.ts"
+import { lang as langArgument } from "akasha/command/argument/pages/lang.argument.ts"
+import { noPersist } from "akasha/command/argument/pages/no-persist.argument.ts"
+import { output as outputArgument } from "akasha/command/argument/pages/output.argument.ts"
+import { service as serviceArgument } from "akasha/command/argument/pages/service.argument.ts"
+import { spokenText } from "akasha/command/argument/pages/spoken-text.argument.ts"
+import { textFile } from "akasha/command/argument/pages/text-file.argument.ts"
 import {
   answering,
   refusedBy,
@@ -30,9 +30,9 @@ import {
   serviceNamed,
   wroteTo,
 } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
-import type { InferenceService } from "akasha/infrastructure/inference/runs/modules/services/inference-run-services.module.code.ts"
-import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
+import type { InferenceService } from "akasha/infrastructure/inference/run/modules/services/inference-run-services.module.code.ts"
+import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
 
 const PAGES = [
   instructArgument,

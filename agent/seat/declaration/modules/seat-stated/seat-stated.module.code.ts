@@ -37,7 +37,7 @@ import {
   type SessionRecord,
   sessionOf,
 } from "akasha/agent/seat/session/seat-session.module.code.ts"
-import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
+import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-at.module.code.ts"
 
 const OBSERVED = [SESSION_KEY, TRANSCRIPT_KEY, ROTATED_KEY] as const
 

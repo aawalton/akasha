@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0540ChapterThirtyThreeTheArtOfBeingFashionably = {
+  id: "01a06730-4e8f-7b63-8499-e956f1b07f46",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0540-chapter-thirty-three-the-art-of-being-fashionably",
+  title: "Chapter Thirty-Three - The Art of Being Fashionably Late",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 540,
+  ownLength: 1524,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1675184",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1675184/chapter-thirty-three-the-art-of-being-fashionably",
+    },
+  ],
+  publishedAt: "2024-06-13",
+  prose: "txt",
+} as const satisfies StoryChapterRead

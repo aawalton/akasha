@@ -1,0 +1,20 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const billieEilishUntitled = {
+  id: "019ea4a8-b7e9-7024-8fb9-a82fd6445814",
+  type: "song",
+  slug: "billie-eilish-untitled",
+  title: "!!!!!!!",
+  artist: "artist/billie-eilish",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2942b400-fb80-4690-a698-433d301724ea",
+      externalLink: "https://musicbrainz.org/work/2942b400-fb80-4690-a698-433d301724ea",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  written: "collab",
+} as const satisfies Song

@@ -5,7 +5,7 @@ import {
   pinnedTree,
   treeIn,
 } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
-import { indexIn } from "akasha/pages/index/modules/surface/index-surface.module.code.ts"
+import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { said } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const SCRATCH = "/var/tmp"

@@ -1,8 +1,8 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { node as nodeArgument } from "akasha/command/arguments/pages/node.argument.ts"
-import { output } from "akasha/command/arguments/pages/output.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { node as nodeArgument } from "akasha/command/argument/pages/node.argument.ts"
+import { output } from "akasha/command/argument/pages/output.argument.ts"
 import {
   OPERATIONAL,
   refusedBy,

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0138Chapter1490UnexpectedTwist = {
+  id: "01a0672c-eb5f-7018-8984-d715c2b838f0",
+  type: "story-chapter-read",
+  slug: "chrysalis-0138-chapter-1490-unexpected-twist",
+  title: "Chapter 1490 - Unexpected Twist",
+  story: "story-read/chrysalis",
+  position: 138,
+  ownLength: 1051,
+  ownProgress: 1051,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:48:15.749Z",
+  publishedAt: "2025-01-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2021412",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2021412/chapter-1490-unexpected-twist",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

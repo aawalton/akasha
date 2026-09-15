@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theWanderingInn0084InterludeMatingRitualsPt1 = {
+  id: "01a06599-7603-7cc9-99dd-9cca2dd44cc6",
+  type: "story-chapter-read",
+  slug: "the-wandering-inn-0084-interlude-mating-rituals-pt-1",
+  title: "Interlude – Mating Rituals (Pt. 1)",
+  story: "story-read/the-wandering-inn",
+  position: 84,
+  ownLength: 8414,
+  ownProgress: 8414,
+  unit: "unit/words",
+  publishedAt: "2017-04-17",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2017/04/17/side-story-mating-rituals/",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

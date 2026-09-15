@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const justinTimberlakeIMLovinIt = {
+  id: "01a0676a-d721-7032-84be-8a8eaf4976d8",
+  type: "release",
+  slug: "justin-timberlake-i-m-lovin-it",
+  title: "I'm Lovin' It",
+  partOfCollections: ["artist/justin-timberlake"],
+  position: 0,
+  ownLength: 12.054433,
+  ownProgress: 12.054433,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2003-11-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5OhhchwlHVUgUEKpkthbU0",
+      externalLink: "https://open.spotify.com/album/5OhhchwlHVUgUEKpkthbU0",
+    },
+  ],
+} as const satisfies Release

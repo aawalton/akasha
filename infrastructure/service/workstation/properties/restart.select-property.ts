@@ -1,0 +1,11 @@
+import type { SelectProperty } from "akasha/page/select-property/select-property.page-type.types.ts"
+
+export const restart = {
+  id: "01a05a3f-b42e-7f07-a396-69c8d83c02cb",
+  type: "select-property",
+  slug: "restart",
+  propertySlug: "restart",
+  definition: "when a unit is started again after it ends",
+  values: ["always", "on-failure"],
+  types: "ts",
+} as const satisfies SelectProperty

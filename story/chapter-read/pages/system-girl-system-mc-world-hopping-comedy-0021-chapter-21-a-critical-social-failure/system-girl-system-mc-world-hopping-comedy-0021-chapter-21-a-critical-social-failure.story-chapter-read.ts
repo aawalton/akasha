@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const systemGirlSystemMcWorldHoppingComedy0021Chapter21ACriticalSocialFailure = {
+  id: "01a06730-4ded-7c34-9389-ac08968f5186",
+  type: "story-chapter-read",
+  slug: "system-girl-system-mc-world-hopping-comedy-0021-chapter-21-a-critical-social-failure",
+  title: "Chapter 21: A Critical Social Failure",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
+  position: 21,
+  ownLength: 2205,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2635241",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2635241/chapter-21-a-critical-social-failure",
+    },
+  ],
+  publishedAt: "2025-09-28",
+  prose: "txt",
+} as const satisfies StoryChapterRead

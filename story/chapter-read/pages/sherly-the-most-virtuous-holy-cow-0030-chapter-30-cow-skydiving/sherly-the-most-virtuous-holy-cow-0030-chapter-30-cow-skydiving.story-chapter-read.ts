@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const sherlyTheMostVirtuousHolyCow0030Chapter30CowSkydiving = {
+  id: "01a06730-4fab-7fc4-ad58-83865123115f",
+  type: "story-chapter-read",
+  slug: "sherly-the-most-virtuous-holy-cow-0030-chapter-30-cow-skydiving",
+  title: "Chapter 30 - Cow Skydiving",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
+  position: 30,
+  ownLength: 2050,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2853288",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2853288/chapter-30-cow-skydiving",
+    },
+  ],
+  publishedAt: "2025-12-16",
+  prose: "txt",
+} as const satisfies StoryChapterRead

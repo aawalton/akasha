@@ -1,0 +1,22 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const arianaGrandeDearOldShiz = {
+  id: "019ea4e3-1475-7526-a9be-3f888b1738d5",
+  type: "song",
+  slug: "ariana-grande-dear-old-shiz",
+  title: "Dear Old Shiz",
+  artist: "artist/ariana-grande",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c69d9717-ddc6-4747-951d-09b110af97e5",
+      externalLink: "https://musicbrainz.org/work/c69d9717-ddc6-4747-951d-09b110af97e5",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "derivative",
+  performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

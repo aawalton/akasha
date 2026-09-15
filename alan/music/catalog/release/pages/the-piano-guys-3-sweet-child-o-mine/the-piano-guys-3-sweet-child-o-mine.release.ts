@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const thePianoGuys3SweetChildOMine = {
+  id: "01a0676a-d72b-7001-a242-6eba569b2d72",
+  type: "release",
+  slug: "the-piano-guys-3-sweet-child-o-mine",
+  title: "Sweet Child o' Mine",
+  partOfCollections: ["artist/the-piano-guys"],
+  position: 0,
+  ownLength: 4.329167,
+  ownProgress: 4.329167,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-09-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3CIgrdHPEJLe2ziTYY0Sex",
+      externalLink: "https://open.spotify.com/album/3CIgrdHPEJLe2ziTYY0Sex",
+    },
+  ],
+} as const satisfies Release

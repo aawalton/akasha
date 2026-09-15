@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const terminalBash = {
   id: "01a0680a-fa30-73ea-803a-5ff0bd947f73",
@@ -25,7 +25,7 @@ export const terminalBash = {
     },
     {
       invariantKind: "departure",
-      statement: "The launchers are in the order of the alias index rather than of the slugs.",
+      statement: "The launchers are in the order of the alias indexes rather than of the slugs.",
     },
     {
       invariantKind: "departure",

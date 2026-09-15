@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0236ChapterSixtyEightThingsGetWorse = {
+  id: "01a06730-4e14-76de-bfa2-ce5298c4398f",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0236-chapter-sixty-eight-things-get-worse",
+  title: "Chapter Sixty-Eight - Things Get Worse",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 236,
+  ownLength: 1703,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "828582",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/828582/chapter-sixty-eight-things-get-worse",
+    },
+  ],
+  publishedAt: "2022-01-20",
+  prose: "txt",
+} as const satisfies StoryChapterRead

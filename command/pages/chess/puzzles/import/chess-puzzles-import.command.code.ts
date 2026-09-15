@@ -8,10 +8,10 @@ import {
   ingestLichessPuzzles,
   puzzleToRow,
 } from "akasha/alan/chess/modules/puzzle-lichess/chess-puzzle-lichess.module.code.ts"
-import { lichess as set } from "akasha/alan/chess/puzzle-sets/pages/lichess/lichess.chess-puzzle-set.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { limit as limitArgument } from "akasha/command/arguments/pages/limit.argument.ts"
+import { lichess as set } from "akasha/alan/chess/puzzle-set/pages/lichess/lichess.chess-puzzle-set.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { limit as limitArgument } from "akasha/command/argument/pages/limit.argument.ts"
 import {
   answering,
   INPUT,
@@ -28,9 +28,9 @@ import {
   writingIn,
 } from "akasha/command/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"
 import { chessPuzzlesImport as page } from "akasha/command/pages/chess/puzzles/import/chess-puzzles-import.command.ts"
-import { uuidVersion7 } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import type { Naming } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const NAMED = [json, limitArgument]
 

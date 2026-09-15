@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const byuVocalPointYouRaiseMeUp = {
+  id: "01a0676a-d732-7012-b931-a665eb651281",
+  type: "release",
+  slug: "byu-vocal-point-you-raise-me-up",
+  title: "You Raise Me Up",
+  partOfCollections: ["artist/byu-vocal-point"],
+  position: 0,
+  ownLength: 4.025683,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2018-08-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Dbp1m77QxbVBEcDLXd7h4",
+      externalLink: "https://open.spotify.com/album/2Dbp1m77QxbVBEcDLXd7h4",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
+} as const satisfies Release

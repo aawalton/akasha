@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0053Chapter133TheDamnTournamentArc = {
+  id: "01a06730-4f66-733e-8fac-3d9db842e2c9",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0053-chapter-133-the-damn-tournament-arc",
+  title: "Chapter 133: The Damn Tournament Arc",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 53,
+  ownLength: 6310,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1329375",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1329375/chapter-133-the-damn-tournament-arc",
+    },
+  ],
+  publishedAt: "2023-09-01",
+  ownProgress: 6310,
+  completedAt: "2026-06-29T21:16:34.762Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

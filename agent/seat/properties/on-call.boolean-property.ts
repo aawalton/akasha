@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
+import type { BooleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.types.ts"
 
 export const onCall = {
   id: "01a0539b-d9f2-7d0c-80d9-1eabbdc9ec3e",

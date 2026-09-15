@@ -1,0 +1,10 @@
+import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule/code/category-rule-code.page-type.types.ts"
+
+export const jaredJessopConstruction = {
+  id: "01a0655b-fcd0-701c-a49a-24214fd2b76c",
+  type: "category-rule-code",
+  slug: "jared-jessop-construction",
+  title: "Jared jessop construction",
+  matches: [{ key: "merchant", comparison: "is", values: ["jared jessop"] }],
+  category: "monarch-category/house",
+} as const satisfies CategoryRuleCode

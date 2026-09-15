@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const readRecord = {
   id: "01a04e96-c80a-79ef-819f-a455a96a0e54",

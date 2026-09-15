@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { inventoryPath } from "akasha/command/arguments/pages/inventory-path.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { section } from "akasha/command/arguments/pages/section.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { inventoryPath } from "akasha/command/argument/pages/inventory-path.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { section } from "akasha/command/argument/pages/section.argument.ts"
 import { sectionIn } from "akasha/command/pages/temper/inventory/configuration/temper-inventory-configuration.command.code.ts"
 import { temperInventoryConfiguration as page } from "akasha/command/pages/temper/inventory/configuration/temper-inventory-configuration.command.ts"
 

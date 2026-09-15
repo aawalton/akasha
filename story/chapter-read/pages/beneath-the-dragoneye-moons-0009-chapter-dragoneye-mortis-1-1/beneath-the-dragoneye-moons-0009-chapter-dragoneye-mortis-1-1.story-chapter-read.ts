@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const beneathTheDragoneyeMoons0009ChapterDragoneyeMortis11 = {
+  id: "01a06731-af14-7001-8ee5-39b27ecaa5c5",
+  type: "story-chapter-read",
+  slug: "beneath-the-dragoneye-moons-0009-chapter-dragoneye-mortis-1-1",
+  title: "Chapter ??? - Dragoneye Mortis 1.1",
+  story: "story-read/beneath-the-dragoneye-moons",
+  position: 9,
+  ownLength: 1994,
+  unit: "unit/words",
+  publishedAt: "2021-08-13",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "733089",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/733089/chapter-dragoneye-mortis-11",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

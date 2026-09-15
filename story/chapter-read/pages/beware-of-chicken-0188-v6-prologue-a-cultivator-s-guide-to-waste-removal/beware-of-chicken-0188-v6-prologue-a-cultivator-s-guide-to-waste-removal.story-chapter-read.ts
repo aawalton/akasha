@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0188V6PrologueACultivatorSGuideToWasteRemoval = {
+  id: "01a06731-adb5-7002-bd5b-0f0b56e7d325",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0188-v6-prologue-a-cultivator-s-guide-to-waste-removal",
+  title: "v6 Prologue: A Cultivator's Guide to Waste Removal",
+  story: "story-read/beware-of-chicken",
+  position: 188,
+  ownLength: 2209,
+  ownProgress: 2209,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:57:45.648Z",
+  publishedAt: "2025-02-25",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2089145",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2089145/v6-prologue-a-cultivators-guide-to-waste-removal",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

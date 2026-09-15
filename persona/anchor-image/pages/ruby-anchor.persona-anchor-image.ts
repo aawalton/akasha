@@ -1,0 +1,11 @@
+import type { PersonaAnchorImage } from "akasha/persona/anchor-image/persona-anchor-image.page-type.types.ts"
+
+export const rubyAnchor = {
+  id: "019f324d-6ce1-78ae-953e-2af525c890de",
+  type: "persona-anchor-image",
+  slug: "ruby-anchor",
+  title: "Ruby — anchor",
+  persona: "persona/ruby",
+  imagePath: "Ruby/ruby-anchor.png",
+  imageRoot: "personas",
+} as const satisfies PersonaAnchorImage

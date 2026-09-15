@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaBeautifulPeopleDODRemix = {
+  id: "01a0676a-d718-702a-a9f6-1c2ff406cdd3",
+  type: "release",
+  slug: "sia-beautiful-people-d-o-d-remix",
+  title: "Beautiful People (D.O.D Remix)",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 15.5275,
+  ownProgress: 15.5275,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-04-18",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5TtDmiHI1cGumlfembDNx8",
+      externalLink: "https://open.spotify.com/album/5TtDmiHI1cGumlfembDNx8",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

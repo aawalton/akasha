@@ -1,0 +1,13 @@
+import type { View } from "akasha/page/view/view.page-type.types.ts"
+
+export const seriesAll = {
+  id: "01a06577-2615-7006-b819-51729fedaf90",
+  type: "view",
+  slug: "series-all",
+  title: "All",
+  nav: "nav/series",
+  pageType: "page-type/ki-book-series",
+  viewPlace: 0,
+  layout: "cards",
+  viewSorts: [{ key: "title", descending: false }],
+} as const satisfies View

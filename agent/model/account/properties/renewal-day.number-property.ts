@@ -1,4 +1,4 @@
-import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
 export const renewalDay = {
   id: "01a054d8-1d39-732e-b569-0535e7c91e43",

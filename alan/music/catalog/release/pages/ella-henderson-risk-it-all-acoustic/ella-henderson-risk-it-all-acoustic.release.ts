@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonRiskItAllAcoustic = {
+  id: "01a0676a-d728-700f-83b9-a4fc6cc8aa74",
+  type: "release",
+  slug: "ella-henderson-risk-it-all-acoustic",
+  title: "Risk It All (Acoustic)",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 6.267733,
+  ownProgress: 6.267733,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-09-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ktN8lAbG1r45q0DqoN8Bl",
+      externalLink: "https://open.spotify.com/album/3ktN8lAbG1r45q0DqoN8Bl",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

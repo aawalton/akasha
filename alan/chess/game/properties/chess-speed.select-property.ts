@@ -1,0 +1,11 @@
+import type { SelectProperty } from "akasha/page/select-property/select-property.page-type.types.ts"
+
+export const chessSpeed = {
+  id: "01a06582-bd62-7f9c-b58c-4fd4df3f7b4f",
+  type: "select-property",
+  slug: "chess-speed",
+  propertySlug: "speed",
+  definition: "how fast a game was played",
+  values: ["ultra-bullet", "bullet", "blitz", "rapid", "classical", "correspondence", "unlimited"],
+  types: "ts",
+} as const satisfies SelectProperty

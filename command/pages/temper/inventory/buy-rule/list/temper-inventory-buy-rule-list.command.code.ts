@@ -1,5 +1,5 @@
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
 import { told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { answeredByPage } from "akasha/command/modules/page-answering/page-answering.module.code.ts"

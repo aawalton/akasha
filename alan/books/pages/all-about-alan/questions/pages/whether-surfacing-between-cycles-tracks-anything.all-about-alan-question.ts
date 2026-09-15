@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherSurfacingBetweenCyclesTracksAnything = {
-  id: "01a077ec-856f-7c3f-81ca-827c9a955eb4",
-  type: "all-about-alan-question",
-  slug: "whether-surfacing-between-cycles-tracks-anything",
-  topic: "all-about-alan-topic/sleep",
-  ask: "I treat surfacing between cycles as harmless. Does how often I surface track anything, such as how much I have left or how stressed I am?",
-} as const satisfies AllAboutAlanQuestion

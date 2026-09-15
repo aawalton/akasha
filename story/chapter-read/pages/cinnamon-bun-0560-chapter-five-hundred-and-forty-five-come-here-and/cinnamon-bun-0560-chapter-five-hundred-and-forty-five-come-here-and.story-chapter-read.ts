@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0560ChapterFiveHundredAndFortyFiveComeHereAnd = {
+  id: "01a0672c-eb27-7008-890e-f35331fa9297",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0560-chapter-five-hundred-and-forty-five-come-here-and",
+  title: "Chapter Five Hundred and Forty-Five - Come Here and Buy",
+  story: "story-read/cinnamon-bun",
+  position: 560,
+  ownLength: 1413,
+  unit: "unit/words",
+  publishedAt: "2025-07-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2439922",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2439922/chapter-five-hundred-and-forty-five-come-here",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,10 +1,10 @@
-import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type { Given, Kind } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   changingOf,
   owedIn,
-} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+} from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 
 export function unwarrantedIn(
   given: Given,

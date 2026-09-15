@@ -1,0 +1,10 @@
+import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-motif-style/temper-motif-style.page-type.types.ts"
+
+export const glass = {
+  id: "019e5a46-c3a9-7fd6-8485-33f9cb77bcfe",
+  type: "temper-motif-style",
+  slug: "glass",
+  title: "Glass",
+  collectionIndex: 6,
+  sourceDescription: "Purchased with writ vouchers",
+} as const satisfies TemperMotifStyle

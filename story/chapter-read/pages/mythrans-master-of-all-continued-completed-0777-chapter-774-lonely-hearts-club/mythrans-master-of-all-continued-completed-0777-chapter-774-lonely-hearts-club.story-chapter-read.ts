@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0777Chapter774LonelyHeartsClub = {
+  id: "01a0672c-eda0-7000-87dc-6e2edde7df90",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0777-chapter-774-lonely-hearts-club",
+  title: "Chapter 774 - Lonely Hearts Club",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 777,
+  ownLength: 3111,
+  unit: "unit/words",
+  publishedAt: "2018-11-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "309862",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309862/chapter-774-lonely-hearts-club",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

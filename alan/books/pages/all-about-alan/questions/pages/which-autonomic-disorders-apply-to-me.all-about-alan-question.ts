@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whichAutonomicDisordersApplyToMe = {
-  id: "01a077eb-c348-7b28-a519-8cd4304099cc",
-  type: "all-about-alan-question",
-  slug: "which-autonomic-disorders-apply-to-me",
-  topic: "all-about-alan-topic/what-comes-with-it",
-  ask: "Which autonomic disorders apply to me beyond my knowing that POTS does not?",
-} as const satisfies AllAboutAlanQuestion

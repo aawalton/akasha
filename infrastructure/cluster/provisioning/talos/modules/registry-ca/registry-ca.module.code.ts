@@ -1,9 +1,9 @@
 import { existsSync, readFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import { clusterCa } from "akasha/infrastructure/cluster/provisioning/cluster-ca/cluster-ca.certificate-authority.ts"
-import { authorityCertificate } from "akasha/infrastructure/networks/certificates/authorities/properties/authority-certificate.file-property.ts"
-import { listedById } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { authorityCertificate } from "akasha/infrastructure/network/certificate/authority/properties/authority-certificate.file-property.ts"
+import { listedById } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 function certificateUnder(root: string): string {

@@ -1,0 +1,264 @@
+"use client"
+
+import { useDebouncedCallback } from "akasha/design/interfaces/primitives/modules/use-debounced-callback/use-debounced-callback.module.code.ts"
+import type {
+  Block,
+  RichDocument,
+} from "akasha/page/core/property-types/modules/rich-document/rich-document.module.code.ts"
+import {
+  applyEditorOp,
+  type EditorOp,
+  normalizeRichDocument,
+} from "akasha/page/core/property-types/modules/rich-document-ops/rich-document-ops.module.code.ts"
+import { BlockAccessoryBar } from "akasha/page/ui/block-editor/modules/block-accessory-bar/block-accessory-bar.module.code.tsx"
+import { BlockRow } from "akasha/page/ui/block-editor/modules/block-row/block-row.module.code.tsx"
+import { BlockTree } from "akasha/page/ui/block-editor/modules/block-tree/block-tree.module.code.tsx"
+import { collectToggleIds } from "akasha/page/ui/block-editor/modules/block-type-helpers/block-type-helpers.module.code.ts"
+import { SlashMenu } from "akasha/page/ui/block-editor/modules/slash-menu/slash-menu.module.code.tsx"
+import { useBlockCollapse } from "akasha/page/ui/block-editor/modules/use-block-collapse/use-block-collapse.module.code.ts"
+import { useBlockFocus } from "akasha/page/ui/block-editor/modules/use-block-focus/use-block-focus.module.code.ts"
+import { useBlockKeys } from "akasha/page/ui/block-editor/modules/use-block-keys/use-block-keys.module.code.ts"
+import { useBlockOps } from "akasha/page/ui/block-editor/modules/use-block-ops/use-block-ops.module.code.ts"
+import { useBlockPersistence } from "akasha/page/ui/block-editor/modules/use-block-persistence/use-block-persistence.module.code.ts"
+import { useBlockSelection } from "akasha/page/ui/block-editor/modules/use-block-selection/use-block-selection.module.code.ts"
+import { useCoarsePointer } from "akasha/page/ui/block-editor/modules/use-coarse-pointer/use-coarse-pointer.module.code.ts"
+import { useKeyboardInset } from "akasha/page/ui/block-editor/modules/use-keyboard-inset/use-keyboard-inset.module.code.ts"
+import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
+
+interface BlockEditorProps {
+  pageTypeSlug: string
+  id: string
+  propertyId: string
+  value: unknown
+}
+
+export function BlockEditor({ pageTypeSlug, id, propertyId, value }: BlockEditorProps) {
+  const [doc, setDoc] = useState<RichDocument>(() => normalizeRichDocument(value))
+
+  const docRef = useRef<RichDocument>(doc)
+  const dirtyRef = useRef(false)
+  const enqueue = useBlockPersistence({
+    pageTypeSlug,
+    id,
+    propertyId,
+    currentDocRef: docRef,
+  })
+
+  useEffect(() => {
+    if (dirtyRef.current) return
+    const incoming = normalizeRichDocument(value)
+    if (JSON.stringify(incoming) === JSON.stringify(docRef.current)) return
+    docRef.current = incoming
+    setDoc(incoming)
+  }, [value])
+
+  const { isCollapsed, toggleCollapse, expand, defaultCollapseToggles } = useBlockCollapse(
+    collectToggleIds(doc.blocks)
+  )
+
+  useEffect(() => {
+    defaultCollapseToggles(collectToggleIds(doc.blocks))
+  }, [doc, defaultCollapseToggles])
+
+  const pendingTextRef = useRef<{ id: string; text: string } | null>(null)
+
+  const commit = useCallback(
+    (op: EditorOp) => {
+      dirtyRef.current = true
+      const prev = docRef.current
+      const next = applyEditorOp(prev, op)
+      docRef.current = next
+      setDoc(next)
+      void enqueue(prev, op)
+    },
+    [enqueue]
+  )
+
+  const flushPendingText = useCallback(() => {
+    const pending = pendingTextRef.current
+    if (pending === null) return
+    pendingTextRef.current = null
+    commit({ kind: "updateText", id: pending.id, text: pending.text })
+  }, [commit])
+
+  const debouncedPersistText = useDebouncedCallback(flushPendingText, 600)
+
+  const {
+    setTextareaRef,
+    requestFocus,
+    focusBlock,
+    focusBlockThroughCommit,
+    focusLastBlockEnd,
+    textareaRefs,
+  } = useBlockFocus({ doc, docRef, isCollapsed })
+
+  const selection = useBlockSelection({
+    docRef,
+    commit,
+    flushPendingText,
+    requestFocus,
+    isCollapsed,
+  })
+
+  const coarsePointer = useCoarsePointer()
+  const keyboardInset = useKeyboardInset()
+  const [focusedBlockId, setFocusedBlockId] = useState<string | null>(null)
+  const clearFocusTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const handleTextFocus = useCallback(
+    (blockId: string) => {
+      if (clearFocusTimerRef.current !== null) {
+        clearTimeout(clearFocusTimerRef.current)
+        clearFocusTimerRef.current = null
+      }
+      selection.clearSelection()
+      setFocusedBlockId(blockId)
+    },
+    [selection]
+  )
+  const handleTextBlur = useCallback(() => {
+    flushPendingText()
+    if (clearFocusTimerRef.current !== null) clearTimeout(clearFocusTimerRef.current)
+    clearFocusTimerRef.current = setTimeout(() => {
+      clearFocusTimerRef.current = null
+      const active = document.activeElement
+      const stillEditing =
+        active instanceof HTMLTextAreaElement &&
+        Array.from(textareaRefs.current.values()).includes(active)
+      if (!stillEditing) setFocusedBlockId(null)
+    }, 0)
+  }, [flushPendingText])
+  useEffect(() => {
+    return () => {
+      if (clearFocusTimerRef.current !== null) clearTimeout(clearFocusTimerRef.current)
+    }
+  }, [])
+
+  const handleChangeText = useCallback(
+    (blockId: string, text: string) => {
+      dirtyRef.current = true
+      const prev = docRef.current
+      const next = applyEditorOp(prev, { kind: "updateText", id: blockId, text })
+      docRef.current = next
+      setDoc(next)
+      pendingTextRef.current = { id: blockId, text }
+      debouncedPersistText()
+    },
+    [debouncedPersistText]
+  )
+
+  const {
+    handleToggleTodo,
+    handleTurnInto,
+    handleMoveBlock,
+    handleDuplicate,
+    handleDeleteBlock,
+    handleIndent,
+    handleOutdent,
+    handleShorthand,
+  } = useBlockOps({
+    docRef,
+    commit,
+    flushPendingText,
+    requestFocus,
+    focusBlockThroughCommit,
+    expand,
+    isCollapsed,
+  })
+
+  const {
+    slashBlockId,
+    setSlashBlockId,
+    handleEnter,
+    handleBackspaceAtStart,
+    handleArrowVertical,
+    handleDocumentExtreme,
+    handleSlashSelect,
+    ensureFirstBlock,
+  } = useBlockKeys({ docRef, commit, flushPendingText, requestFocus, focusBlock, isCollapsed })
+
+  if (doc.blocks.length === 0) {
+    return (
+      <button
+        type="button"
+        onClick={ensureFirstBlock}
+        aria-label="Empty note — click to start typing"
+        className="flex min-h-full w-full cursor-text touch-pan-y items-start justify-start rounded-sm px-0.5 text-left text-base md:text-sm"
+      />
+    )
+  }
+
+  const RenderRow = (block: Block): ReactNode => {
+    const blockId = block.id ?? ""
+    const row = (
+      <BlockRow
+        block={block}
+        selected={selection.selection?.ids.has(blockId) ?? false}
+        textareaRef={setTextareaRef(blockId)}
+        onChangeText={(text) => handleChangeText(blockId, text)}
+        onEnter={(caret) => handleEnter(blockId, caret)}
+        onArrowUp={() => handleArrowVertical(blockId, "up")}
+        onArrowDown={() => handleArrowVertical(blockId, "down")}
+        onDocumentExtreme={(direction) => handleDocumentExtreme(direction)}
+        onBackspaceAtStart={() => handleBackspaceAtStart(blockId)}
+        onSlashTrigger={() => setSlashBlockId(blockId)}
+        onToggleTodo={() => handleToggleTodo(blockId)}
+        onShorthand={(transform) => handleShorthand(blockId, transform)}
+        onTurnInto={(type, level) => handleTurnInto(blockId, type, level)}
+        onMoveBlock={(direction) => handleMoveBlock(blockId, direction)}
+        onDuplicate={() => handleDuplicate(blockId)}
+        onIndent={() => handleIndent(blockId)}
+        onOutdent={() => handleOutdent(blockId)}
+        onToggleCollapse={() => toggleCollapse(blockId)}
+        onEscape={() => selection.enterSelection(blockId)}
+        onSelectRange={() => selection.rangeSelectTo(blockId)}
+        onSelectToggle={() => selection.toggleSelect(blockId)}
+        onFocusText={() => handleTextFocus(blockId)}
+        onBlur={handleTextBlur}
+      />
+    )
+    if (slashBlockId === blockId) {
+      return (
+        <SlashMenu
+          open
+          onSelect={handleSlashSelect}
+          onClose={() => {
+            setSlashBlockId(null)
+            requestFocus(blockId, "end")
+          }}
+        >
+          <div>{row}</div>
+        </SlashMenu>
+      )
+    }
+    return row
+  }
+
+  return (
+    <div className="flex min-h-full flex-col gap-0.5">
+      <BlockTree blocks={doc.blocks} renderRow={RenderRow} isCollapsed={isCollapsed} />
+      {}
+      <button
+        type="button"
+        aria-label="Focus end of notes"
+        tabIndex={-1}
+        className="flex-1 cursor-text touch-pan-y"
+        onPointerDown={(e) => {
+          e.preventDefault()
+          focusLastBlockEnd()
+        }}
+      />
+      {coarsePointer && focusedBlockId !== null && (
+        <BlockAccessoryBar
+          inset={keyboardInset}
+          onIndent={() => handleIndent(focusedBlockId)}
+          onOutdent={() => handleOutdent(focusedBlockId)}
+          onMoveUp={() => handleMoveBlock(focusedBlockId, "up")}
+          onMoveDown={() => handleMoveBlock(focusedBlockId, "down")}
+          onDelete={() => handleDeleteBlock(focusedBlockId)}
+          onDuplicate={() => handleDuplicate(focusedBlockId)}
+          onTurnInto={() => setSlashBlockId(focusedBlockId)}
+        />
+      )}
+    </div>
+  )
+}

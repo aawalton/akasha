@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const spotifyReleases = {
   id: "01a09c6f-017f-70b7-a662-48904bec6460",

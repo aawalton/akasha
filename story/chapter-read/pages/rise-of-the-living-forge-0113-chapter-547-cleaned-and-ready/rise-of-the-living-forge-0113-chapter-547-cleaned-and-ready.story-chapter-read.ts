@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0113Chapter547CleanedAndReady = {
+  id: "01a06730-4e10-7409-be62-5b0b66af270e",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0113-chapter-547-cleaned-and-ready",
+  title: "Chapter 547: Cleaned and ready",
+  story: "story-read/rise-of-the-living-forge",
+  position: 113,
+  ownLength: 1976,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2968131",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2968131/chapter-547-cleaned-and-ready",
+    },
+  ],
+  publishedAt: "2026-01-22",
+  ownProgress: 1976,
+  completedAt: "2026-06-29T20:02:03.021Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

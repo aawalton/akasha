@@ -9,12 +9,12 @@ import {
   fetchMessages,
   resolveContactHandleRowids,
 } from "akasha/alan/harness/imessage/modules/remote/imessage-remote.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { contact } from "akasha/command/arguments/pages/contact.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { limit as limitArgument } from "akasha/command/arguments/pages/limit.argument.ts"
-import { messageQuery } from "akasha/command/arguments/pages/message-query.argument.ts"
-import { queryFile } from "akasha/command/arguments/pages/query-file.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { contact } from "akasha/command/argument/pages/contact.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { limit as limitArgument } from "akasha/command/argument/pages/limit.argument.ts"
+import { messageQuery } from "akasha/command/argument/pages/message-query.argument.ts"
+import { queryFile } from "akasha/command/argument/pages/query-file.argument.ts"
 import {
   answering,
   refusedBy,

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const levelingUpTheWorld0004AdventureArcChapter85JourneyThroughTheWilderness = {
+  id: "01a06731-ae89-7004-ba64-f31aff92c5df",
+  type: "story-chapter-read",
+  slug: "leveling-up-the-world-0004-adventure-arc-chapter-85-journey-through-the-wilderness",
+  title: "Adventure Arc. Chapter 85. Journey Through the Wilderness",
+  story: "story-read/leveling-up-the-world",
+  position: 4,
+  ownLength: 2093,
+  ownProgress: 2093,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:40:15.527Z",
+  publishedAt: "2021-03-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "653568",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/653568/adventure-arc-chapter-85-journey-through-the-wilderness",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

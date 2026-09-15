@@ -1,9 +1,9 @@
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
-import { patchPages } from "akasha/pages/access/modules/patch/patch.module.code.ts"
+import { patchPages } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import type {
   Page,
   PageWhere,
-} from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
+} from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 
 export const WRITER = "overdue-rolling"
 

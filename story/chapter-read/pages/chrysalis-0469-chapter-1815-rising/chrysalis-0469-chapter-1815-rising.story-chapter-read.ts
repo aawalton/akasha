@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0469Chapter1815Rising = {
+  id: "01a0672c-eb6b-7016-b494-7f80048abf50",
+  type: "story-chapter-read",
+  slug: "chrysalis-0469-chapter-1815-rising",
+  title: "Chapter 1815 - Rising",
+  story: "story-read/chrysalis",
+  position: 469,
+  ownLength: 1031,
+  unit: "unit/words",
+  publishedAt: "2026-06-15",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3540308",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3540308/chapter-1815-rising",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

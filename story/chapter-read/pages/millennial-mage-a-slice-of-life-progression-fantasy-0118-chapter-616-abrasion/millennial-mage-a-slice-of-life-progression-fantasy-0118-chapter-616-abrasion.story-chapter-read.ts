@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0118Chapter616Abrasion = {
+  id: "01a06731-ae01-7000-8fa1-0f62860010fe",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0118-chapter-616-abrasion",
+  title: "Chapter: 616 - Abrasion",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 118,
+  ownLength: 2894,
+  ownProgress: 2894,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:39:04.587Z",
+  publishedAt: "2025-09-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2624972",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2624972/chapter-616-abrasion",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,44 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const changeKind = {
+  id: "01a05e11-d3f8-72af-b104-6cdd1255b0eb",
+  type: "page-type",
+  slug: "change-kind",
+  definition: "which sort one change is",
+  parts: [
+    "boolean-property/readers-owe-reading",
+    "boolean-property/runs-checks",
+    "boolean-property/writer-owes-reading",
+    "change-kind/change-authored",
+    "change-kind/change-checked",
+    "change-kind/change-mechanical",
+    "change-kind/change-none",
+    "change-kind/change-restated",
+  ],
+  extends: ["page-type/domain"],
+  properties: [
+    { pageProperty: "boolean-property/runs-checks", required: true, many: false },
+    { pageProperty: "boolean-property/writer-owes-reading", required: true, many: false },
+    { pageProperty: "boolean-property/readers-owe-reading", required: true, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The checks a change runs and the readings a change owes are read off the change kind's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether the checks run and whether the writer owes reading are two answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether the writer owes reading and whether the readers do are two answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No change kind stales its readers without owing its writer reading.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

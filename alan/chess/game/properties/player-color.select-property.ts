@@ -1,0 +1,11 @@
+import type { SelectProperty } from "akasha/page/select-property/select-property.page-type.types.ts"
+
+export const playerColor = {
+  id: "01a06582-bd62-7f64-abc7-2bde8817177b",
+  type: "select-property",
+  slug: "player-color",
+  propertySlug: "player-color",
+  definition: "which side Alan played",
+  values: ["white", "black"],
+  types: "ts",
+} as const satisfies SelectProperty

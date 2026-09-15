@@ -2,10 +2,10 @@ import type { ApnsPayload } from "akasha/alan/harness/alanwalton-ios-notificatio
 import {
   type Feed,
   NOTIFICATION_FEED_PAGE_TYPE_SLUG,
-} from "akasha/alan/harness/notification-feeds/modules/rows/notification-feed-rows.module.code.ts"
-import { buildPageHref } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
-import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { SMILINGJENNY_PUSH_APP } from "akasha/persons/modules/push-apps/push-apps.module.code.ts"
+} from "akasha/alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"
+import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
+import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { SMILINGJENNY_PUSH_APP } from "akasha/person/modules/push-apps/push-apps.module.code.ts"
 
 const SURPLUS_FALL_KIND = "surplus-fall"
 

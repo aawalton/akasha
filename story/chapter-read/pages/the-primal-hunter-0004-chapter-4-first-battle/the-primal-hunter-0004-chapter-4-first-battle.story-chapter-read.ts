@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0004Chapter4FirstBattle = {
+  id: "01a06730-4dc9-7370-a452-2cd4bd577845",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0004-chapter-4-first-battle",
+  title: "Chapter 4 - First battle",
+  story: "story-read/the-primal-hunter",
+  position: 4,
+  ownLength: 2312,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "557914",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/557914/chapter-4-first-battle",
+    },
+  ],
+  publishedAt: "2020-09-21",
+  ownProgress: 2312,
+  completedAt: "2026-06-29T19:29:22.655Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

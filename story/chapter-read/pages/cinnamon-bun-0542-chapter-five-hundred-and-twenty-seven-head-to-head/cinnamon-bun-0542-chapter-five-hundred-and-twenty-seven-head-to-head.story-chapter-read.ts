@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0542ChapterFiveHundredAndTwentySevenHeadToHead = {
+  id: "01a0672c-eb26-700f-b509-859f390b8a9c",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0542-chapter-five-hundred-and-twenty-seven-head-to-head",
+  title: "Chapter Five Hundred and Twenty-Seven - Head-to-Head Search Algorithm Comparison",
+  story: "story-read/cinnamon-bun",
+  position: 542,
+  ownLength: 1469,
+  unit: "unit/words",
+  publishedAt: "2025-03-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2105973",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2105973/chapter-five-hundred-and-twenty-seven-head-to-head",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

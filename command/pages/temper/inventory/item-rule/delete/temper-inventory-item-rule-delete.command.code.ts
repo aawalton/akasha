@@ -1,5 +1,5 @@
-import { force } from "akasha/command/arguments/pages/force.argument.ts"
-import { itemRuleId } from "akasha/command/arguments/pages/item-rule-id.argument.ts"
+import { force } from "akasha/command/argument/pages/force.argument.ts"
+import { itemRuleId } from "akasha/command/argument/pages/item-rule-id.argument.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { answeredByPage } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
 import { temperInventoryItemRuleDelete as page } from "akasha/command/pages/temper/inventory/item-rule/delete/temper-inventory-item-rule-delete.command.ts"

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const incrementalTortureAnIdleSystemTowerClimbing0072072InternalStrife = {
+  id: "01a06731-ae0d-7000-8a14-ba1feefebb21",
+  type: "story-chapter-read",
+  slug: "incremental-torture-an-idle-system-tower-climbing-0072-072-internal-strife",
+  title: "072: Internal Strife",
+  story: "story-read/incremental-torture-an-idle-system-tower-climbing",
+  position: 72,
+  ownLength: 1903,
+  unit: "unit/words",
+  publishedAt: "2024-07-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1723691",
+      externalLink:
+        "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1723691/072-internal-strife",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whereCueingStopsWorking = {
-  id: "01a077da-697b-78c8-b5e4-b215f12f62f2",
-  type: "all-about-alan-question",
-  slug: "where-cueing-stops-working",
-  topic: "all-about-alan-topic/how-i-remember-anything",
-  ask: "Where does cueing stop working across memorising a text, giving a talk and reading my system, rather than only at the line between symbols and movement?",
-} as const satisfies AllAboutAlanQuestion

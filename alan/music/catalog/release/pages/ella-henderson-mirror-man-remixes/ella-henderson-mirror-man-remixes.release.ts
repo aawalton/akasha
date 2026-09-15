@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonMirrorManRemixes = {
+  id: "01a0676a-d724-7073-b064-f9a73fb513fa",
+  type: "release",
+  slug: "ella-henderson-mirror-man-remixes",
+  title: "Mirror Man (Remixes)",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 10.77755,
+  ownProgress: 10.77755,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2015-03-08",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0OhwCsLPxOHso0fR56m7pN",
+      externalLink: "https://open.spotify.com/album/0OhwCsLPxOHso0fR56m7pN",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

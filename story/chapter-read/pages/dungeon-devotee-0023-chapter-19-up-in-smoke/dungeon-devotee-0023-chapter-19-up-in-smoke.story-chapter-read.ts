@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonDevotee0023Chapter19UpInSmoke = {
+  id: "01a06731-b104-7000-9360-16391872cfbd",
+  type: "story-chapter-read",
+  slug: "dungeon-devotee-0023-chapter-19-up-in-smoke",
+  title: "Chapter 19: Up in Smoke",
+  story: "story-read/dungeon-devotee",
+  position: 23,
+  ownLength: 6232,
+  ownProgress: 6232,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:39:50.049Z",
+  publishedAt: "2023-04-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1154990",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1154990/chapter-19-up-in-smoke",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

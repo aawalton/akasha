@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const paulCardall40HymnsForFortyDays = {
+  id: "01a0676a-d715-700b-8a94-991029e7934e",
+  type: "release",
+  slug: "paul-cardall-40-hymns-for-forty-days",
+  title: "40 Hymns for Forty Days",
+  partOfCollections: ["artist/paul-cardall"],
+  position: 0,
+  ownLength: 109.282983,
+  ownProgress: 109.282983,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2015-04-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Ymk0K20Sx1CJQkQ0q56CN",
+      externalLink: "https://open.spotify.com/album/1Ymk0K20Sx1CJQkQ0q56CN",
+    },
+  ],
+} as const satisfies Release

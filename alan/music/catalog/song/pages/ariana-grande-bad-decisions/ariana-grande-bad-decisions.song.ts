@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const arianaGrandeBadDecisions = {
+  id: "019ea4e1-701e-7f8b-8149-0fcb3e8cd02e",
+  type: "song",
+  slug: "ariana-grande-bad-decisions",
+  title: "Bad Decisions",
+  artist: "artist/ariana-grande",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "60615a1e-ae63-4ff4-90f5-6f18c1c19efe",
+      externalLink: "https://musicbrainz.org/work/60615a1e-ae63-4ff4-90f5-6f18c1c19efe",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "collab",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

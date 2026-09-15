@@ -1,21 +1,21 @@
 import { join } from "node:path"
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,
   type runMechanicalChange,
-} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { gradeTarget } from "akasha/command/arguments/pages/grade-target.argument.ts"
-import { insights } from "akasha/command/arguments/pages/insights.argument.ts"
-import { insightsFile } from "akasha/command/arguments/pages/insights-file.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { personalConnections } from "akasha/command/arguments/pages/personal-connections.argument.ts"
-import { personalConnectionsFile } from "akasha/command/arguments/pages/personal-connections-file.argument.ts"
-import { rating } from "akasha/command/arguments/pages/rating.argument.ts"
-import { reaction } from "akasha/command/arguments/pages/reaction.argument.ts"
-import { reactionFile } from "akasha/command/arguments/pages/reaction-file.argument.ts"
-import { slug as slugArgument } from "akasha/command/arguments/pages/slug.argument.ts"
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { gradeTarget } from "akasha/command/argument/pages/grade-target.argument.ts"
+import { insights } from "akasha/command/argument/pages/insights.argument.ts"
+import { insightsFile } from "akasha/command/argument/pages/insights-file.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { personalConnections } from "akasha/command/argument/pages/personal-connections.argument.ts"
+import { personalConnectionsFile } from "akasha/command/argument/pages/personal-connections-file.argument.ts"
+import { rating } from "akasha/command/argument/pages/rating.argument.ts"
+import { reaction } from "akasha/command/argument/pages/reaction.argument.ts"
+import { reactionFile } from "akasha/command/argument/pages/reaction-file.argument.ts"
+import { slug as slugArgument } from "akasha/command/argument/pages/slug.argument.ts"
 import {
   answeredWith,
   answering,
@@ -35,12 +35,12 @@ import {
 } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { musicRate as page } from "akasha/command/pages/music/rate/music-rate.command.ts"
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { composedFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 export const ARTIST = "artist"
 

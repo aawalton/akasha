@@ -17,14 +17,14 @@ import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/modules/page
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { PagesUICapabilityHosts } from "akasha/pages/ui/capabilities/modules/capability-hosts/capability-hosts.module.code.tsx"
-import { configureLocalPositionReader } from "akasha/pages/ui/components/modules/local-position-port/local-position-port.module.code.ts"
-import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
+import { PagesUICapabilityHosts } from "akasha/page/ui/capabilities/modules/capability-hosts/capability-hosts.module.code.tsx"
+import { configureLocalPositionReader } from "akasha/page/ui/components/modules/local-position-port/local-position-port.module.code.ts"
+import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import {
   configureContentPersistence,
   configurePagesPersistence,
   configurePagesStoreFetch,
-} from "akasha/pages/ui-store/modules/singleton/singleton.module.code.ts"
+} from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import { type ReactNode, useEffect } from "react"
 import {
   isRouteErrorResponse,

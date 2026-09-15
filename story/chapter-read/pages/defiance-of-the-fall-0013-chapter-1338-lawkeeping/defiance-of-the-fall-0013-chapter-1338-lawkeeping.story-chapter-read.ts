@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const defianceOfTheFall0013Chapter1338Lawkeeping = {
+  id: "01a06591-3c6a-7a2d-86f7-7635eb0c6eaa",
+  type: "story-chapter-read",
+  slug: "defiance-of-the-fall-0013-chapter-1338-lawkeeping",
+  title: "Chapter 1,338 - Lawkeeping",
+  story: "story-read/defiance-of-the-fall",
+  position: 13,
+  ownLength: 3145,
+  unit: "unit/words",
+  publishedAt: "2025-06-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2361724",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2361724/chapter-1338-lawkeeping",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

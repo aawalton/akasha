@@ -1,0 +1,34 @@
+import { afterAll, expect, test } from "bun:test"
+import { nameFormatJudgesByOneShape } from "akasha/check/code/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.check-code.check.code.ts"
+import {
+  AT,
+  IMPORTING,
+  rooted,
+  scratch,
+} from "akasha/check/code/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.check-code.decision.test-fixtures.ts"
+import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import { change } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+
+afterAll(scratch.sweep)
+
+function judged(root: string): readonly Judged[] {
+  const held = change(root, [AT])
+  const cast = shadowFor(held)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return nameFormatJudgesByOneShape(held, cast.shadow)
+}
+
+test("a name format the index files and no property names is judged and let through", () => {
+  expect(
+    judged(rooted(`${IMPORTING}\nexport const lowerKebabCase = matching(/^[a-z-]+$/)\n`))
+  ).toEqual([])
+})
+
+test("a name format the index files is refused for a `g` its shape carries", () => {
+  const said = judged(
+    rooted(`${IMPORTING}\nexport const lowerKebabCase = matching(/^[a-z-]+$/g)\n`)
+  )
+  expect(said.map((one) => one.path)).toEqual([AT])
+  expect(said[0]?.reason).toContain("carries the flags `g`")
+})

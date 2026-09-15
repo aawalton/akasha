@@ -1,11 +1,11 @@
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   composedFor,
   type Naming,
   type Put,
-} from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+} from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 

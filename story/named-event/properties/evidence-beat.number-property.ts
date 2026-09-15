@@ -1,0 +1,11 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const evidenceBeat = {
+  id: "01a0658b-9f41-7fdc-b27f-1f0abedae455",
+  type: "number-property",
+  slug: "evidence-beat",
+  propertySlug: "evidence-beat",
+  definition: "how far into that chapter the wording is",
+  max: null,
+  types: "ts",
+} as const satisfies NumberProperty

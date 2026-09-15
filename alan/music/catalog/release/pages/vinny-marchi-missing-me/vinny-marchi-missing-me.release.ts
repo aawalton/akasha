@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const vinnyMarchiMissingMe = {
+  id: "01a0676a-d724-7078-9a6a-373c98336664",
+  type: "release",
+  slug: "vinny-marchi-missing-me",
+  title: "missing me.",
+  partOfCollections: ["artist/vinny-marchi"],
+  position: 0,
+  ownLength: 3.308667,
+  ownProgress: 3.308667,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-11-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5yeONclCHVTkgawO1OlNiF",
+      externalLink: "https://open.spotify.com/album/5yeONclCHVTkgawO1OlNiF",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
+} as const satisfies Release

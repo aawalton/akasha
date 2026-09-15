@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const levelingUpTheWorld0030652TasteOfMagic = {
+  id: "01a06731-ae8f-7003-bb63-e0aef33eeef4",
+  type: "story-chapter-read",
+  slug: "leveling-up-the-world-0030-652-taste-of-magic",
+  title: "652. Taste of Magic",
+  story: "story-read/leveling-up-the-world",
+  position: 30,
+  ownLength: 2060,
+  ownProgress: 2060,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:41:11.907Z",
+  publishedAt: "2022-12-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1059143",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1059143/652-taste-of-magic",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

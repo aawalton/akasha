@@ -1,4 +1,4 @@
-import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
+import type { FileProperty } from "akasha/page/file-property/file-property.page-type.types.ts"
 
 export const positives = {
   id: "01a09b6d-4cdf-710e-83a5-07fa06d93f60",

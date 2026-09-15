@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0068V4c53HealingIsAJourney1388990 = {
+  id: "01a08396-c566-793a-ac1f-41ea4a32a256",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0068-v4c53-healing-is-a-journey-1388990",
+  story: "story-read/beware-of-chicken",
+  position: 68,
+  publishedAt: "2023-10-29",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1388990",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1388990/v4c53-healing-is-a-journey",
+    },
+  ],
+  title: "v4c53: Healing is a Journey",
+  ownLength: 1865,
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld0080122Amara = {
+  id: "01a06730-4e5d-75cd-82c8-465e85d5df7a",
+  type: "story-chapter-read",
+  slug: "the-new-world-0080-122-amara",
+  title: "122 Amara",
+  story: "story-read/the-new-world",
+  position: 80,
+  ownLength: 1698,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "216953",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/216953/122-amara",
+    },
+  ],
+  publishedAt: "2018-05-19",
+  ownProgress: 1698,
+  completedAt: "2026-06-29T21:23:36.336Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

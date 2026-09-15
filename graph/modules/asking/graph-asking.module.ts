@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const graphAsking = {
   id: "01a04ff4-320c-7689-9d79-b3b0caa05ab1",
@@ -38,7 +38,7 @@ export const graphAsking = {
     },
     {
       invariantKind: "absence",
-      statement: "The folder an index is in is spelled by the index rather than here.",
+      statement: "The folder an index is in is spelled by the indexes rather than here.",
     },
     {
       invariantKind: "absence",

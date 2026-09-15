@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const michaelJacksonHelloWorldTheMotownSoloCollection = {
+  id: "01a0676a-d720-702a-bd2b-96bc9b64f7c3",
+  type: "release",
+  slug: "michael-jackson-hello-world-the-motown-solo-collection",
+  title: "Hello World - The Motown Solo Collection",
+  partOfCollections: ["artist/michael-jackson"],
+  position: 0,
+  ownLength: 233.57895,
+  ownProgress: 233.57895,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2009-09-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2JTn8KdFeeS4nVz4TTfUpS",
+      externalLink: "https://open.spotify.com/album/2JTn8KdFeeS4nVz4TTfUpS",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

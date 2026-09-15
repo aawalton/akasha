@@ -2,7 +2,7 @@ import {
   identitiesWith,
   idFrom,
   syncedFrom,
-} from "akasha/alan/collections/externals/modules/external-identity-reading/external-identity-reading.module.code.ts"
+} from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import {
   type CatalogueNames,
   catalogueNamesFrom,
@@ -16,23 +16,23 @@ import {
   getAlbum,
   getArtistAlbums,
 } from "akasha/alan/music/spotify/modules/releases/spotify-releases.module.code.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,
   type runMechanicalChange,
-} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   slugsIn,
   textIn,
   type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   composedFor,
   sourceFor,
-} from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
-import type { Source } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
+} from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import type { Source } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { recordingRun } from "akasha/story/wandering-inn/modules/sync-run-recording/sync-run-recording.module.code.ts"
 import {
   daysAgoYYYYMMDD,

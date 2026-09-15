@@ -1,4 +1,4 @@
-import type { TierColor } from "akasha/alan/harness/readouts/modules/tier/readout-tier.module.code.ts"
+import type { TierColor } from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
 
 type Band = {
   readonly surplusOver: number

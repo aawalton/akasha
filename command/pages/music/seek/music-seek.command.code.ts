@@ -1,9 +1,9 @@
 import type { DeviceOption } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { seek } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { deviceId as deviceIdArgument } from "akasha/command/arguments/pages/device-id.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { seconds as secondsArgument } from "akasha/command/arguments/pages/seconds.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { deviceId as deviceIdArgument } from "akasha/command/argument/pages/device-id.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { seconds as secondsArgument } from "akasha/command/argument/pages/seconds.argument.ts"
 import {
   answering,
   INPUT,

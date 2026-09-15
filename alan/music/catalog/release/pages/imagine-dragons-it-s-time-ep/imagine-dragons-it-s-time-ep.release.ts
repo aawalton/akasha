@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const imagineDragonsItSTimeEp = {
+  id: "01a0676a-d722-7014-9ead-5c1809a1f6fa",
+  type: "release",
+  slug: "imagine-dragons-it-s-time-ep",
+  title: "It’s Time EP",
+  partOfCollections: ["artist/imagine-dragons"],
+  position: 0,
+  ownLength: 35.57795,
+  ownProgress: 35.57795,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2011-03-12",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Y83alrj4BCOIjSWBrv1WZ",
+      externalLink: "https://open.spotify.com/album/2Y83alrj4BCOIjSWBrv1WZ",
+    },
+  ],
+} as const satisfies Release

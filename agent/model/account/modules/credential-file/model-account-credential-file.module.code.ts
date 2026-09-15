@@ -21,9 +21,9 @@ import {
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import { credentialOf } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
-import type { PageOf } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
-import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
-import { secretsIn } from "akasha/pages/modules/secret/page-secret.module.code.ts"
+import type { PageOf } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 import { z } from "zod"
 

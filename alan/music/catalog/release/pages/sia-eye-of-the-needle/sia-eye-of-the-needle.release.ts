@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaEyeOfTheNeedle = {
+  id: "01a0676a-d71d-7051-acf1-13741c4bed09",
+  type: "release",
+  slug: "sia-eye-of-the-needle",
+  title: "Eye of the Needle",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 4.15755,
+  ownProgress: 4.15755,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2014-06-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "70lLHdM8BVCqhGJ9W6FVSu",
+      externalLink: "https://open.spotify.com/album/70lLHdM8BVCqhGJ9W6FVSu",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

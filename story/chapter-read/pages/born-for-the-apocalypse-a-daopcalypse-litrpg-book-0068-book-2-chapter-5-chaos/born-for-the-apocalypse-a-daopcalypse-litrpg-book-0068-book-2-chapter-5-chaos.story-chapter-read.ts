@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bornForTheApocalypseADaopcalypseLitrpgBook0068Book2Chapter5Chaos = {
+  id: "01a06731-af0e-7008-991a-4eedd9a64f84",
+  type: "story-chapter-read",
+  slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0068-book-2-chapter-5-chaos",
+  title: "Book 2: Chapter 5- Chaos",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  position: 68,
+  ownLength: 1087,
+  unit: "unit/words",
+  publishedAt: "2025-05-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2271973",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2271973/book-2-chapter-5--chaos",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

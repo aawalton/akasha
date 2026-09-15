@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonDevotee0009Chapter7AcrossTheBasaltSteps = {
+  id: "01a06731-b0e8-7001-a826-5ad45f69b692",
+  type: "story-chapter-read",
+  slug: "dungeon-devotee-0009-chapter-7-across-the-basalt-steps",
+  title: "Chapter 7: Across the Basalt Steps",
+  story: "story-read/dungeon-devotee",
+  position: 9,
+  ownLength: 6739,
+  ownProgress: 6739,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:39:19.200Z",
+  publishedAt: "2022-04-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "875407",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/875407/chapter-7-across-the-basalt-steps",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

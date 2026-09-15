@@ -1,8 +1,8 @@
 import type { SeatTurnState } from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { akashaValuesAt } from "akasha/pages/modules/akasha-page-values/akasha-page-values.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { akashaValuesAt } from "akasha/page/modules/akasha-page-values/akasha-page-values.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "seat-turn-state"
 

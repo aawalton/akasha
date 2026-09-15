@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherKnowingTheMechanismHelpsPastFlop = {
-  id: "01a077e4-89f7-79c5-a4ec-3a557318a59a",
-  type: "all-about-alan-question",
-  slug: "whether-knowing-the-mechanism-helps-past-flop",
-  topic: "all-about-alan-topic/what-i-do-when-i-am-past-bearing",
-  ask: "Does knowing the mechanism help with fight, flight, freeze and fawn the way knowing the mechanism helps with flop?",
-} as const satisfies AllAboutAlanQuestion

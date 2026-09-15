@@ -3,15 +3,15 @@ import {
   ATLAS_APP_SLUG,
 } from "akasha/alan/atlas-web/modules/atlas-app-id/atlas-app-id.module.code.ts"
 import { primaryNavItems } from "akasha/alan/atlas-web/modules/atlas-nav-items/atlas-nav-items.module.code.ts"
-import { AuthFooter } from "akasha/code/router-apps/modules/auth-footer/auth-footer.module.code.tsx"
+import { AuthFooter } from "akasha/code/router-app/modules/auth-footer/auth-footer.module.code.tsx"
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
-} from "akasha/code/router-apps/modules/router-context-adapters/router-context-adapters.module.code.tsx"
+} from "akasha/code/router-app/modules/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/modules/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
-import { SortableNavs } from "akasha/pages/ui/components/modules/sortable-navs/sortable-navs.module.code.tsx"
-import { useAppNavItems } from "akasha/pages/ui/components/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"
+import { SortableNavs } from "akasha/page/ui/components/modules/sortable-navs/sortable-navs.module.code.tsx"
+import { useAppNavItems } from "akasha/page/ui/components/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"
 import { useMemo } from "react"
 
 interface AppShellProps {

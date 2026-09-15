@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const azarinthHealer0019AzarinthBook4IsOutOnAudibleToday = {
+  id: "01a06731-affb-7000-8888-794e54d62a66",
+  type: "story-chapter-read",
+  slug: "azarinth-healer-0019-azarinth-book-4-is-out-on-audible-today",
+  title: "Azarinth Book 4 is out on audible today!",
+  story: "story-read/azarinth-healer",
+  position: 19,
+  ownLength: 156,
+  unit: "unit/words",
+  publishedAt: "2024-11-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1917942",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1917942/azarinth-book-4-is-out-on-audible-today",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const bookOfMormonEvidence = {
+  id: "01a06594-c675-7015-85dd-2d7913784b1e",
+  type: "book-section",
+  slug: "book-of-mormon-evidence",
+  title: "Book of Mormon evidence",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0363ChapterThreeHundredAndFiftyFivePrisonerSwap = {
+  id: "01a0672c-eb1d-7007-ab47-163a1d03ae23",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0363-chapter-three-hundred-and-fifty-five-prisoner-swap",
+  title: "Chapter Three Hundred and Fifty-Five - Prisoner Swap",
+  story: "story-read/cinnamon-bun",
+  position: 363,
+  ownLength: 2013,
+  unit: "unit/words",
+  publishedAt: "2022-10-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1025360",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1025360/chapter-three-hundred-and-fifty-five-prisoner",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

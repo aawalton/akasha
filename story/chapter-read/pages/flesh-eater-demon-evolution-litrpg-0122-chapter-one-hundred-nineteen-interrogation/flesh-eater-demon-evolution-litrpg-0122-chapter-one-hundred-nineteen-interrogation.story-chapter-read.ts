@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const fleshEaterDemonEvolutionLitrpg0122ChapterOneHundredNineteenInterrogation = {
+  id: "01a06731-af6a-7001-9a7a-cf10a98da0bd",
+  type: "story-chapter-read",
+  slug: "flesh-eater-demon-evolution-litrpg-0122-chapter-one-hundred-nineteen-interrogation",
+  title: "Chapter One Hundred Nineteen: Interrogation",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
+  position: 122,
+  ownLength: 2474,
+  unit: "unit/words",
+  publishedAt: "2026-08-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3866288",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3866288/chapter-one-hundred-nineteen-interrogation",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

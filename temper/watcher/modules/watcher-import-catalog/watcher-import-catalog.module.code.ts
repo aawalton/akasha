@@ -1,4 +1,4 @@
-import { patchPage } from "akasha/pages/access/modules/patch/patch.module.code.ts"
+import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import {
   CATALOG_DOMAIN_KEYS,
   type DomainKey,

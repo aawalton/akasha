@@ -1,7 +1,7 @@
 import { writeDailyReading } from "akasha/alan/track/daily/modules/write-daily-points/write-daily-points.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { bodyweight } from "akasha/command/arguments/pages/bodyweight.argument.ts"
-import { day as dayArgument } from "akasha/command/arguments/pages/day.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { bodyweight } from "akasha/command/argument/pages/bodyweight.argument.ts"
+import { day as dayArgument } from "akasha/command/argument/pages/day.argument.ts"
 import {
   faulted,
   refusedBy,

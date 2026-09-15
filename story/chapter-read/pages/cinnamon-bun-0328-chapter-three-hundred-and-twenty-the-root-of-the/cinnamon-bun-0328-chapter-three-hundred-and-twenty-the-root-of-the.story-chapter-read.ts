@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0328ChapterThreeHundredAndTwentyTheRootOfThe = {
+  id: "01a0672c-eb1b-7003-afc9-a3dc1449dc98",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0328-chapter-three-hundred-and-twenty-the-root-of-the",
+  title: "Chapter Three Hundred and Twenty - The Root of the Matter",
+  story: "story-read/cinnamon-bun",
+  position: 328,
+  ownLength: 2071,
+  unit: "unit/words",
+  publishedAt: "2022-06-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "932750",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/932750/chapter-three-hundred-and-twenty-the-root-of-the",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

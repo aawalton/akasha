@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const attractionTwoChannels = {
+  id: "01a06594-c675-7000-bdea-d0440118929c",
+  type: "book-section",
+  slug: "attraction-two-channels",
+  title: "Attraction as two channels",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

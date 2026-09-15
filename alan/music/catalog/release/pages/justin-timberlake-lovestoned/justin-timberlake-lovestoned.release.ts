@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const justinTimberlakeLovestoned = {
+  id: "01a0676a-d724-700f-97c1-31c8465b37b0",
+  type: "release",
+  slug: "justin-timberlake-lovestoned",
+  title: "LoveStoned",
+  partOfCollections: ["artist/justin-timberlake"],
+  position: 0,
+  ownLength: 32.489717,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2007-06-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1tze7ApbUfn71mNcaixlX6",
+      externalLink: "https://open.spotify.com/album/1tze7ApbUfn71mNcaixlX6",
+    },
+  ],
+} as const satisfies Release

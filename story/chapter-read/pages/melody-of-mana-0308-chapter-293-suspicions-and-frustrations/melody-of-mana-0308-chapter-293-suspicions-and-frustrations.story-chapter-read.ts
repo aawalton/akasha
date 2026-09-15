@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0308Chapter293SuspicionsAndFrustrations = {
+  id: "01a06731-ad89-7000-9846-1ad186066290",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0308-chapter-293-suspicions-and-frustrations",
+  title: "Chapter 293 Suspicions and Frustrations",
+  story: "story-read/melody-of-mana",
+  position: 308,
+  ownLength: 1310,
+  ownProgress: 1310,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:36:27.614Z",
+  publishedAt: "2023-12-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1444958",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1444958/chapter-293-suspicions-and-frustrations",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

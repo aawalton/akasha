@@ -1,0 +1,12 @@
+import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule/code/category-rule-code.page-type.types.ts"
+
+export const fastOfferingOther = {
+  id: "01a0655b-fcd0-7011-af9e-54ad987ae522",
+  type: "category-rule-code",
+  slug: "fast-offering-other",
+  title: "Fast offering other",
+  matches: [
+    { key: "merchant", comparison: "is", values: ["fast offering"] },
+    { key: "sign", comparison: "is-not", values: ["negative"] },
+  ],
+} as const satisfies CategoryRuleCode

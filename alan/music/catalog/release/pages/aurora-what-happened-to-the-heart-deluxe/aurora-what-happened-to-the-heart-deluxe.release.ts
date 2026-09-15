@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const auroraWhatHappenedToTheHeartDeluxe = {
+  id: "01a0676a-d730-7046-883f-e6439edf6922",
+  type: "release",
+  slug: "aurora-what-happened-to-the-heart-deluxe",
+  title: "What Happened To The Heart? (Deluxe)",
+  partOfCollections: ["artist/aurora"],
+  position: 0,
+  ownLength: 84.4479,
+  ownProgress: 84.4479,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-05-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3W0VJHaitM1oDZ1QT5wFDx",
+      externalLink: "https://open.spotify.com/album/3W0VJHaitM1oDZ1QT5wFDx",
+    },
+  ],
+} as const satisfies Release

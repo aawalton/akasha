@@ -1,0 +1,17 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const authorityKind = {
+  id: "01a0542d-0f76-7ac0-97f4-c19e1d035437",
+  type: "page-type",
+  slug: "authority-kind",
+  definition: "which sort of act an authority permits",
+  parts: [
+    "authority-kind/domain",
+    "authority-kind/feature-approval",
+    "authority-kind/feature-request",
+    "authority-kind/page-data",
+    "authority-kind/page-schema",
+  ],
+  extends: ["page-type/domain"],
+  types: "ts",
+} as const satisfies PageType

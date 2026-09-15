@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0015Chapter96IsekaiDayZero = {
+  id: "01a06730-4f44-780b-804c-0d29adc94285",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0015-chapter-96-isekai-day-zero",
+  title: "Chapter 96: Isekai, day zero",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 15,
+  ownLength: 5177,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1043964",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1043964/chapter-96-isekai-day-zero",
+    },
+  ],
+  publishedAt: "2022-11-18",
+  ownProgress: 5177,
+  completedAt: "2026-06-29T21:15:11.844Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

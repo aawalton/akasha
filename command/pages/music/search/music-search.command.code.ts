@@ -5,11 +5,11 @@ import type {
   SearchResponse,
 } from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
 import { search } from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { artist as artistArgument } from "akasha/command/arguments/pages/artist.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { limit as limitArgument } from "akasha/command/arguments/pages/limit.argument.ts"
-import { query as queryArgument } from "akasha/command/arguments/pages/query.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { artist as artistArgument } from "akasha/command/argument/pages/artist.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { limit as limitArgument } from "akasha/command/argument/pages/limit.argument.ts"
+import { query as queryArgument } from "akasha/command/argument/pages/query.argument.ts"
 import {
   INPUT,
   refused,

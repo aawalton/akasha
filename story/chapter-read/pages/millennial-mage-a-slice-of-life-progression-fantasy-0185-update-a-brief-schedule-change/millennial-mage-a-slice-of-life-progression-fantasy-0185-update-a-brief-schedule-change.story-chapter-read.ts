@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0185UpdateABriefScheduleChange = {
+  id: "01a06731-ae75-7000-b580-5ce897d87e69",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0185-update-a-brief-schedule-change",
+  title: "<Update> A Brief Schedule Change",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 185,
+  ownLength: 163,
+  ownProgress: 163,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:40:59.849Z",
+  publishedAt: "2026-02-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3098859",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3098859/update-a-brief-schedule-change",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,12 @@
+import type { StandardAgentEnglishProperty } from "akasha/domain/standard-agent-english/property/standard-agent-english-property.page-type.types.ts"
+
+export const intentStatement = {
+  id: "01a05f19-7b27-7bb1-955d-9086b34c5c30",
+  type: "standard-agent-english-property",
+  slug: "intent-statement",
+  propertySlug: "statement",
+  definition: "one sentence saying what an initiative is to make so",
+  maxLength: 100,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies StandardAgentEnglishProperty

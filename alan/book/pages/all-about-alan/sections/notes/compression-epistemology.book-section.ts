@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const compressionEpistemology = {
+  id: "01a06594-c676-7010-9a35-5263acf96c4a",
+  type: "book-section",
+  slug: "compression-epistemology",
+  title: "Compression epistemology",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

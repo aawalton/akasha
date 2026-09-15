@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/temper-set.page-type.types.ts"
+
+export const coldharboursFavorite = {
+  id: "019e668e-9a3b-7084-9d38-41c74bbb3323",
+  type: "temper-set",
+  slug: "coldharbours-favorite",
+  title: "Coldharbour's Favorite",
+  key: "coldharbours-favorite",
+  esoSetId: 437,
+  subcategoryId: "crafted",
+  valid: ["*"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet

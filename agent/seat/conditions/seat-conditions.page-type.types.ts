@@ -8,7 +8,7 @@ import type { SeatConditionsModel } from "akasha/agent/seat/conditions/propertie
 import type { SubagentModel } from "akasha/agent/seat/conditions/properties/subagent-model.text-property.types.ts"
 import type { SubagentSpawnDepth } from "akasha/agent/seat/conditions/properties/subagent-spawn-depth.number-property.types.ts"
 import type { ToolTimeout } from "akasha/agent/seat/conditions/properties/tool-timeout.number-property.types.ts"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Page } from "akasha/page/page.page-type.types.ts"
 
 export type SeatConditions = Page & {
   model?: SeatConditionsModel

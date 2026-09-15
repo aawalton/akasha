@@ -1,6 +1,6 @@
 export const ENDED_FN = "__editor_terminal_ended"
 
-export const TERMINAL_PAGES_DIR = "alan/harness/code-editor/terminals/pages"
+export const TERMINAL_PAGES_DIR = "alan/harness/code-editor/terminal/pages"
 
 export function terminalEndedFnLines(rootLocal: string): readonly string[] {
   return [

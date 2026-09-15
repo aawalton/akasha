@@ -1,0 +1,9 @@
+import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trader/temper-guild-trader.page-type.types.ts"
+
+export const shadowfenHissmir = {
+  id: "019e2fc6-524b-7c80-a6a3-64cbb03f67a3",
+  type: "temper-guild-trader",
+  slug: "shadowfen-hissmir",
+  title: "Shadowfen: Hissmir",
+  kioskId: 59,
+} as const satisfies TemperGuildTrader

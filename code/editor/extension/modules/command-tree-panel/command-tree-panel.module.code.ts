@@ -2,7 +2,7 @@ import {
   followState,
   readState,
   stateAt,
-} from "akasha/alan/harness/code-editor/data-interfaces/modules/state-reading/state-reading.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
 import {
   REFRESH_COMMAND,
   VIEW_ID,

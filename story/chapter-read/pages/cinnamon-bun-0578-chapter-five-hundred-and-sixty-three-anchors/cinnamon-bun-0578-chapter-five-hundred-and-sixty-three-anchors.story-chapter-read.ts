@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0578ChapterFiveHundredAndSixtyThreeAnchors = {
+  id: "01a0672c-eb28-7002-af07-e04d7370af81",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0578-chapter-five-hundred-and-sixty-three-anchors",
+  title: "Chapter Five Hundred and Sixty-Three - Anchors Aweigh",
+  story: "story-read/cinnamon-bun",
+  position: 578,
+  ownLength: 1508,
+  unit: "unit/words",
+  publishedAt: "2025-11-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2794957",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2794957/chapter-five-hundred-and-sixty-three-anchors-aweigh",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

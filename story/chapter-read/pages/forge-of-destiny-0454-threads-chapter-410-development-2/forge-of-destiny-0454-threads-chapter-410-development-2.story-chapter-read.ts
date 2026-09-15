@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const forgeOfDestiny0454ThreadsChapter410Development2 = {
+  id: "01a0672c-eb50-7019-a637-7295862b48bb",
+  type: "story-chapter-read",
+  slug: "forge-of-destiny-0454-threads-chapter-410-development-2",
+  title: "Threads Chapter 410-Development 2",
+  story: "story-read/forge-of-destiny",
+  position: 454,
+  ownLength: 2339,
+  unit: "unit/words",
+  publishedAt: "2024-10-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1873027",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1873027/threads-chapter-410-development-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

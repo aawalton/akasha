@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
 export const essenceRune = {
   id: "01a05fcc-41f2-7de9-816e-7c90d5a24ce7",

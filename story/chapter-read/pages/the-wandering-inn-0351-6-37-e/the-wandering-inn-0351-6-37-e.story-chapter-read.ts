@@ -1,0 +1,18 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theWanderingInn0351637E = {
+  id: "01a0659b-0ff0-77ca-a0b9-cfbf14ca8a1f",
+  type: "story-chapter-read",
+  slug: "the-wandering-inn-0351-6-37-e",
+  title: "6.37 E",
+  story: "story-read/the-wandering-inn",
+  position: 351,
+  ownLength: 18979,
+  ownProgress: 18979,
+  unit: "unit/words",
+  publishedAt: "2019-08-13",
+  externalIdentity: [
+    { source: "the-wandering-inn", externalLink: "https://wanderinginn.com/2019/08/13/6-37-e/" },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

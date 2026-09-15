@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const designInterfacesForms = {
   id: "01a05b7e-679a-7735-bc0a-1abf739c0463",

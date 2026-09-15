@@ -1,0 +1,102 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const alert = {
+  id: "01a06755-0778-7804-96f1-949fc3c68e4f",
+  type: "page-type",
+  slug: "alert",
+  definition: "a condition on the system somebody is told about",
+  extends: ["page-type/page"],
+  parts: [
+    "file-property/alert-runbook",
+    "relation-property/alert-persona",
+    "text-property/alert-domain",
+    "text-property/alert-role-slug",
+    "text-property/alert-summary",
+  ],
+  properties: [
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
+    { pageProperty: "text-property/alert-domain", required: false, many: false },
+    { pageProperty: "text-property/alert-summary", required: false, many: false },
+    { pageProperty: "relation-property/person", required: false, many: false },
+    { pageProperty: "file-property/alert-runbook", required: false, many: false },
+    { pageProperty: "relation-property/alert-persona", required: false, many: false },
+    { pageProperty: "text-property/alert-role-slug", required: false, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An alert says the condition rather than the rule that raised the alert.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule the deployment has raises an alert.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An alert names the area answering for the alert or the person answering for the alert.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An alert's runbook is a page property held in a file beside the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A summary is written as the annotation a firing rule carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An alert's recipient is resolved on the workstation rather than where the alert fires.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Alert words reach the code composing the rules through a page query rather than a file read.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A composer that cannot reach the words stops rather than composing an alert without those words.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A recovery arrives as its own alert.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A firing site sends no message.",
+    },
+    {
+      invariantKind: "upkeep",
+      statement: "An alert that fires is acted on or repaired.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "No rule this repository deploys raises any alert here.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "Every alert reaches the person or area answering for the condition the alert names.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A firing site names its condition and nothing about who is told.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A firing site records `alert.condition.fired` or `alert.condition.cleared`.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An alert event has its condition slug in `reference_id`.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An alert is matched from the event stream by the condition the alert names.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

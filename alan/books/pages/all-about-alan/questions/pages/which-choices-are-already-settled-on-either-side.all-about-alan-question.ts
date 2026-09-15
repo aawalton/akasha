@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whichChoicesAreAlreadySettledOnEitherSide = {
-  id: "01a077e8-6f23-77ab-af23-84e7cb5630e4",
-  type: "all-about-alan-question",
-  slug: "which-choices-are-already-settled-on-either-side",
-  topic: "all-about-alan-topic/where-her-say-ends",
-  ask: "Which choices are already settled as mine alone and which as Jen's, so that the border could be interpolated from the settled choices?",
-} as const satisfies AllAboutAlanQuestion

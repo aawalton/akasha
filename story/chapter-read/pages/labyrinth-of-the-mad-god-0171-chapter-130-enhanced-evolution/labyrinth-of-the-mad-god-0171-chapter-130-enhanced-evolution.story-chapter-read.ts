@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const labyrinthOfTheMadGod0171Chapter130EnhancedEvolution = {
+  id: "01a06731-ad66-7003-a239-b2bab4cb9679",
+  type: "story-chapter-read",
+  slug: "labyrinth-of-the-mad-god-0171-chapter-130-enhanced-evolution",
+  title: "Chapter 130: Enhanced Evolution",
+  story: "story-read/labyrinth-of-the-mad-god",
+  position: 171,
+  ownLength: 2130,
+  unit: "unit/words",
+  publishedAt: "2025-05-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2284280",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2284280/chapter-130-enhanced-evolution",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

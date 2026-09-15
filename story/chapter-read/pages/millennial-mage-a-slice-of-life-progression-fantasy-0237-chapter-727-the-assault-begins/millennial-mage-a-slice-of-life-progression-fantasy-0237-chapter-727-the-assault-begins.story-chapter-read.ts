@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0237Chapter727TheAssaultBegins = {
+  id: "01a06743-b3f1-7000-922a-9557b43abf4b",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0237-chapter-727-the-assault-begins",
+  title: "Chapter: 727 - The Assault Begins",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 237,
+  ownLength: 2489,
+  unit: "unit/words",
+  publishedAt: "2026-07-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3688554",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3688554/chapter-727-the-assault-begins",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const lilithMaxDoYouBelieve = {
+  id: "01a0676a-d71c-701a-a8f0-85ff29e4a0ae",
+  type: "release",
+  slug: "lilith-max-do-you-believe",
+  title: "Do You Believe",
+  partOfCollections: ["artist/lilith-max"],
+  position: 0,
+  ownLength: 2.8685,
+  ownProgress: 2.8685,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2023-07-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "48djOOURVciSJQNwG2WJkN",
+      externalLink: "https://open.spotify.com/album/48djOOURVciSJQNwG2WJkN",
+    },
+  ],
+} as const satisfies Release

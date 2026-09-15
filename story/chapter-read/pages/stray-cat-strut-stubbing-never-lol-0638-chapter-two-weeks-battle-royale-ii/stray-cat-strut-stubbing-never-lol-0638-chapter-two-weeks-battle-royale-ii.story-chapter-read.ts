@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0638ChapterTwoWeeksBattleRoyaleIi = {
+  id: "01a06730-4ed3-7842-a4bf-d8c3073542a2",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0638-chapter-two-weeks-battle-royale-ii",
+  title: "Chapter ??? - Two Weeks Battle Royale II",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 638,
+  ownLength: 979,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2166299",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2166299/chapter-two-weeks-battle-royale-ii",
+    },
+  ],
+  publishedAt: "2025-04-01",
+  prose: "txt",
+} as const satisfies StoryChapterRead

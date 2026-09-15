@@ -4,13 +4,13 @@ import {
   recordCutFingerprint,
 } from "akasha/alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts"
 import { appIn } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { app } from "akasha/command/arguments/pages/app.argument.ts"
-import { buildInputTreeHash } from "akasha/command/arguments/pages/build-input-tree-hash.argument.ts"
-import { buildNumber } from "akasha/command/arguments/pages/build-number.argument.ts"
-import { cutAt } from "akasha/command/arguments/pages/cut-at.argument.ts"
-import { mainSha } from "akasha/command/arguments/pages/main-sha.argument.ts"
-import { shellSha } from "akasha/command/arguments/pages/shell-sha.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { app } from "akasha/command/argument/pages/app.argument.ts"
+import { buildInputTreeHash } from "akasha/command/argument/pages/build-input-tree-hash.argument.ts"
+import { buildNumber } from "akasha/command/argument/pages/build-number.argument.ts"
+import { cutAt } from "akasha/command/argument/pages/cut-at.argument.ts"
+import { mainSha } from "akasha/command/argument/pages/main-sha.argument.ts"
+import { shellSha } from "akasha/command/argument/pages/shell-sha.argument.ts"
 import {
   answering,
   refusedBy,

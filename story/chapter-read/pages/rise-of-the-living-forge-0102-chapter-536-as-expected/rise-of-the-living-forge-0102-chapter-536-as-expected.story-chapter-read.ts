@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0102Chapter536AsExpected = {
+  id: "01a06730-4e0f-7ea6-bffd-0dc9ee05ae9f",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0102-chapter-536-as-expected",
+  title: "Chapter 536: As expected",
+  story: "story-read/rise-of-the-living-forge",
+  position: 102,
+  ownLength: 1812,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2895812",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2895812/chapter-536-as-expected",
+    },
+  ],
+  publishedAt: "2025-12-31",
+  ownProgress: 1812,
+  completedAt: "2026-06-29T20:01:41.800Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

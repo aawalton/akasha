@@ -1,0 +1,10 @@
+import type { CollectionType } from "akasha/alan/collection/type/collection-type.page-type.types.ts"
+
+export const showCollection = {
+  id: "01a06579-855d-7019-991c-1f9f7b13c39c",
+  type: "collection-type",
+  slug: "show-collection",
+  title: "Show Collection",
+  unit: "unit/minutes",
+  collectionTypeStatus: "done",
+} as const satisfies CollectionType

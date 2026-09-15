@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons0114114DoubleDesperation = {
+  id: "01a06731-adae-7002-a5d7-089772ddd64b",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0114-114-double-desperation",
+  title: "114. Double Desperation",
+  story: "story-read/breaker-of-horizons",
+  position: 114,
+  ownLength: 2248,
+  unit: "unit/words",
+  publishedAt: "2021-06-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "693138",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/693138/114-double-desperation",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

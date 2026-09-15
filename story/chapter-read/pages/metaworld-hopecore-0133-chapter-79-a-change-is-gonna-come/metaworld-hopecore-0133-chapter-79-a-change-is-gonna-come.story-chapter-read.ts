@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const metaworldHopecore0133Chapter79AChangeIsGonnaCome = {
+  id: "01a06731-af1a-7003-8222-a73f851febab",
+  type: "story-chapter-read",
+  slug: "metaworld-hopecore-0133-chapter-79-a-change-is-gonna-come",
+  title: "CHAPTER 79 - A Change Is Gonna Come",
+  story: "story-read/metaworld-hopecore",
+  position: 133,
+  ownLength: 3017,
+  unit: "unit/words",
+  publishedAt: "2026-07-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3704678",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3704678/chapter-79-a-change-is-gonna-come",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

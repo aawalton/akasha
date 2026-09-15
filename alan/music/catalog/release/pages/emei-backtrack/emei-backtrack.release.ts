@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const emeiBacktrack = {
+  id: "01a0676a-d718-7002-b310-3e1d3d08dcde",
+  type: "release",
+  slug: "emei-backtrack",
+  title: "Backtrack",
+  partOfCollections: ["artist/emei"],
+  position: 0,
+  ownLength: 2.647333,
+  ownProgress: 2.647333,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2022-11-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0X3WVWpooMcgdYUCGQDzJy",
+      externalLink: "https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy",
+    },
+  ],
+} as const satisfies Release

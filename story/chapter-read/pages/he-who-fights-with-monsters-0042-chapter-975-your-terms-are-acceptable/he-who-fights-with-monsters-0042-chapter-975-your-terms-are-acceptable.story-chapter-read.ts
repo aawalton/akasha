@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const heWhoFightsWithMonsters0042Chapter975YourTermsAreAcceptable = {
+  id: "01a06731-add3-7000-a890-75f2a00cbcd9",
+  type: "story-chapter-read",
+  slug: "he-who-fights-with-monsters-0042-chapter-975-your-terms-are-acceptable",
+  title: "Chapter 975: Your Terms Are Acceptable",
+  story: "story-read/he-who-fights-with-monsters",
+  position: 42,
+  ownLength: 2722,
+  ownProgress: 2722,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:05:18.860Z",
+  publishedAt: "2025-03-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2142509",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2142509/chapter-975-your-terms-are-acceptable",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

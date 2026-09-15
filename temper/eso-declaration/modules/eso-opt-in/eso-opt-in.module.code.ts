@@ -1,8 +1,8 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { EsoOptIn } from "akasha/temper/eso-declaration/modules/eso-token-scope/eso-token-scope.module.code.ts"
 
 const OPT_IN_LIST = "eso-opt-in-list"

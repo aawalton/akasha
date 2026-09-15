@@ -1,0 +1,25 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const crimsonEternalAnImmortalDeathMageLitrpg0011ScheduleDiscordPatreonAnnouncementAndHappy =
+  {
+    id: "01a0672c-ec6d-7007-a906-c421543ed710",
+    type: "story-chapter-read",
+    slug: "crimson-eternal-an-immortal-death-mage-litrpg-0011-schedule-discord-patreon-announcement-and-happy",
+    title: "Schedule, Discord, Patreon Announcement, and Happy New Year!",
+    story: "story-read/crimson-eternal-an-immortal-death-mage-litrpg",
+    position: 11,
+    ownLength: 413,
+    ownProgress: 413,
+    unit: "unit/words",
+    completedAt: "2026-06-29T19:06:12.578Z",
+    publishedAt: "2024-01-01",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "1462379",
+        externalLink:
+          "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1462379/schedule-discord-patreon-announcement-and-happy",
+      },
+    ],
+    prose: "txt",
+  } as const satisfies StoryChapterRead

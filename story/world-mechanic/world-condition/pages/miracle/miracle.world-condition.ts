@@ -1,0 +1,9 @@
+import type { WorldCondition } from "akasha/story/world-mechanic/world-condition/world-condition.page-type.types.ts"
+
+export const miracle = {
+  id: "01a0655a-7b7b-7232-808c-b4ba9a71e42a",
+  type: "world-condition",
+  slug: "miracle",
+  title: "Miracle",
+  world: "world/the-wandering-inn",
+} as const satisfies WorldCondition

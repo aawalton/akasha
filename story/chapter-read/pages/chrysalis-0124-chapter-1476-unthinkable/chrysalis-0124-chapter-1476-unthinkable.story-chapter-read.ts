@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0124Chapter1476Unthinkable = {
+  id: "01a0672c-eb5f-700a-a1b6-03aff81e7979",
+  type: "story-chapter-read",
+  slug: "chrysalis-0124-chapter-1476-unthinkable",
+  title: "Chapter 1476 - Unthinkable",
+  story: "story-read/chrysalis",
+  position: 124,
+  ownLength: 994,
+  ownProgress: 994,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:48:02.119Z",
+  publishedAt: "2024-12-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1960484",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1960484/chapter-1476-unthinkable",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

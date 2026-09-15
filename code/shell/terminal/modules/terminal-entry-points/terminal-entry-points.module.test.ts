@@ -13,9 +13,9 @@ import {
   seatResume,
   supervisor,
 } from "akasha/code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.code.ts"
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const LAUNCHER_PAGE = listedAt(akashaRoot(), "shell-script", "akasha-launcher")[0]?.path ?? ""
 

@@ -1,18 +1,18 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   filePropertiesAt,
   uncommittedFiledAt,
-} from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
+} from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
   claimsOf,
   sidecarsOver,
-} from "akasha/pages/index/modules/path-claiming/path-claiming.module.code.ts"
-import { valueByPath } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { uncommittedHeld } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
+import { valueByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { uncommittedHeld } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export type PageOf = (at: string) => Value | null
 

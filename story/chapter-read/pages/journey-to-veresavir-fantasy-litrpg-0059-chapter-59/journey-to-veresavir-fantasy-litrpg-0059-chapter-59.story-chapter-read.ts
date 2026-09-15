@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const journeyToVeresavirFantasyLitrpg0059Chapter59 = {
+  id: "01a06731-ae76-7000-aae0-ae5032a45623",
+  type: "story-chapter-read",
+  slug: "journey-to-veresavir-fantasy-litrpg-0059-chapter-59",
+  title: "Chapter 59",
+  story: "story-read/journey-to-veresavir-fantasy-litrpg",
+  position: 59,
+  ownLength: 4695,
+  unit: "unit/words",
+  publishedAt: "2026-08-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3792226",
+      externalLink:
+        "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3792226/chapter-59",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersCommand = {
   id: "01a0632d-cacd-700b-99b3-a58078ae9a53",

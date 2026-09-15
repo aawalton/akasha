@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0068437FairAndSquare = {
+  id: "01a06730-4de1-7d2b-9329-e078defed64e",
+  type: "story-chapter-read",
+  slug: "salvos-0068-437-fair-and-square",
+  title: "437. Fair and Square",
+  story: "story-read/salvos",
+  position: 68,
+  ownLength: 1463,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1020857",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1020857/437-fair-and-square",
+    },
+  ],
+  publishedAt: "2022-10-21",
+  prose: "txt",
+} as const satisfies StoryChapterRead

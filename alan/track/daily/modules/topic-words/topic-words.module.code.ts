@@ -12,14 +12,14 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-at.module.code.ts"
 
 export const WORDS_COUNTED_FROM = "2026-09-06"
 
 const WISDOM_PATHSPEC = ":(glob)all-about-alan/topics/pages/**/*.all-about-alan-topic.ts"
 
-const INTELLIGENCE_PATHSPEC = ":(glob)alan/books/pages/learn-everything/topics/pages/**/*.md"
+const INTELLIGENCE_PATHSPEC = ":(glob)alan/book/pages/learn-everything/topic/pages/**/*.md"
 
 const HUNK = "@@"
 

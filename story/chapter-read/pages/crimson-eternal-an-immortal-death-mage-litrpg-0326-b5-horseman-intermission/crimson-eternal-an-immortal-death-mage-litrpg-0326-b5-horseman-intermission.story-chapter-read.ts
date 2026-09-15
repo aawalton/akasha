@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const crimsonEternalAnImmortalDeathMageLitrpg0326B5HorsemanIntermission = {
+  id: "01a0672c-ec7b-7003-a328-6859721d40c8",
+  type: "story-chapter-read",
+  slug: "crimson-eternal-an-immortal-death-mage-litrpg-0326-b5-horseman-intermission",
+  title: "B5 | Horseman Intermission",
+  story: "story-read/crimson-eternal-an-immortal-death-mage-litrpg",
+  position: 326,
+  ownLength: 1217,
+  ownProgress: 1217,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:16:54.172Z",
+  publishedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2863052",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2863052/b5-horseman-intermission",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

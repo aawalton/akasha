@@ -1,9 +1,9 @@
 import { pointerFor } from "akasha/agent/modules/refusals-keeping/refusals-keeping.module.code.ts"
-import type { Told } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
+import type { Told } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
 import {
   heldTo,
   reasonSaid,
-} from "akasha/checks/modules/refusal-holding/refusal-holding.module.code.ts"
+} from "akasha/check/modules/refusal-holding/refusal-holding.module.code.ts"
 import {
   answeredWith,
   DATA,

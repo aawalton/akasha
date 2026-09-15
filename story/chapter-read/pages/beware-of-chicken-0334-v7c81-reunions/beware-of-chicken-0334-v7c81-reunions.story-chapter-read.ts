@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0334V7c81Reunions = {
+  id: "01a06731-adec-7006-9ff9-ec2eedc4e542",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0334-v7c81-reunions",
+  title: "v7c81: Reunions",
+  story: "story-read/beware-of-chicken",
+  position: 334,
+  ownLength: 2389,
+  unit: "unit/words",
+  publishedAt: "2026-07-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3695978",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3695978/v7c81-reunions",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

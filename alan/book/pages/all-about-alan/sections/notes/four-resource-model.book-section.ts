@@ -1,0 +1,14 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const fourResourceModel = {
+  id: "01a06594-c679-7012-b334-499424114e96",
+  type: "book-section",
+  slug: "four-resource-model",
+  title: "Four-resource model",
+  sectionOf: "alan-book/all-about-alan",
+  description:
+    "Four-resource model — overview. Health (stress capacity), Mana (executive function), Stamina (physical energy), Safety (vagal tone). Each resource has its own doc; this file is the hub.",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

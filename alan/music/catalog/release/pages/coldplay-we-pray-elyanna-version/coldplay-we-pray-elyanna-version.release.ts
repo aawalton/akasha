@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const coldplayWePrayElyannaVersion = {
+  id: "01a0676a-d730-7036-b179-bd518bbdc133",
+  type: "release",
+  slug: "coldplay-we-pray-elyanna-version",
+  title: "WE PRAY (Elyanna Version)",
+  partOfCollections: ["artist/coldplay"],
+  position: 0,
+  ownLength: 11.6703,
+  ownProgress: 11.6703,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2024-09-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7EAQXnF7TwFUHYC2UtIQq6",
+      externalLink: "https://open.spotify.com/album/7EAQXnF7TwFUHYC2UtIQq6",
+    },
+  ],
+} as const satisfies Release

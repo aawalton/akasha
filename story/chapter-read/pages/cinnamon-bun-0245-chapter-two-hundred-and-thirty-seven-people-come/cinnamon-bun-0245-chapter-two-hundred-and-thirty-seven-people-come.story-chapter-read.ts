@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0245ChapterTwoHundredAndThirtySevenPeopleCome = {
+  id: "01a0672c-eb14-700d-be87-885804b1e56b",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0245-chapter-two-hundred-and-thirty-seven-people-come",
+  title: "Chapter Two Hundred and Thirty-Seven - People Come Here to Be Forgotten",
+  story: "story-read/cinnamon-bun",
+  position: 245,
+  ownLength: 1945,
+  unit: "unit/words",
+  publishedAt: "2021-08-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "735480",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/735480/chapter-two-hundred-and-thirty-seven-people-come",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -9,11 +9,11 @@ import { runRecipientResolverTick } from "akasha/agent/messaging/recipient-resol
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "akasha/infrastructure/services/workstations/modules/tick-sleeping/tick-sleeping.module.code.ts"
+} from "akasha/infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
 import {
   listPersonaSlugs,
   listPersonaWakeSources,
-} from "akasha/personas/modules/targets/persona-targets.module.code.ts"
+} from "akasha/persona/modules/targets/persona-targets.module.code.ts"
 
 export async function runRecipientResolverRunning(): Promise<void> {
   const ac = stopsOnSignal()

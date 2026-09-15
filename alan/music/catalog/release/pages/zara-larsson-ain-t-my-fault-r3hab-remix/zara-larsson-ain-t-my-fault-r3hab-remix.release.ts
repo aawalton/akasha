@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const zaraLarssonAinTMyFaultR3habRemix = {
+  id: "01a0676a-d716-7004-b799-a5f28b26c00e",
+  type: "release",
+  slug: "zara-larsson-ain-t-my-fault-r3hab-remix",
+  title: "Ain't My Fault (R3hab Remix)",
+  partOfCollections: ["artist/zara-larsson"],
+  position: 0,
+  ownLength: 2.6462,
+  ownProgress: 2.6462,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2016-10-07",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2GmlMoRLlTxdQHpgrgaeAT",
+      externalLink: "https://open.spotify.com/album/2GmlMoRLlTxdQHpgrgaeAT",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
+} as const satisfies Release

@@ -3,8 +3,8 @@ import { dirname, join } from "node:path"
 import {
   valuedAt,
   valuesOfType,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 
 export const TSCONFIG_NAME = "tsconfig.json"

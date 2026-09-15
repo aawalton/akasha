@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0681ChapterFiftySevenBroadcastNecromancy = {
+  id: "01a06730-4ed4-7d35-841a-4c1d7c423de8",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0681-chapter-fifty-seven-broadcast-necromancy",
+  title: "Chapter Fifty-Seven - Broadcast Necromancy",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 681,
+  ownLength: 1459,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2482250",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2482250/chapter-fifty-seven-broadcast-necromancy",
+    },
+  ],
+  publishedAt: "2025-07-31",
+  prose: "txt",
+} as const satisfies StoryChapterRead

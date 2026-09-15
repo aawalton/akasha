@@ -1,0 +1,13 @@
+import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/temper-skill-line.page-type.types.ts"
+
+export const companionSharedRestorationStaff = {
+  id: "019e61dc-f1ef-78ae-b4b2-f7f858f911e5",
+  type: "temper-skill-line",
+  slug: "companion-shared-restoration-staff",
+  title: "Restoration Staff",
+  key: "companion-shared-restoration-staff",
+  displayOrder: 68,
+  esoSkillLineId: 185,
+  maxRank: 20,
+  subcategoryId: "companion",
+} as const satisfies TemperSkillLine

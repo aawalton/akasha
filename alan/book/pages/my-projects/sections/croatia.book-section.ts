@@ -1,0 +1,14 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const croatia = {
+  id: "01a06594-c687-7011-9211-ca599b6fa065",
+  type: "book-section",
+  slug: "croatia",
+  title: "Croatian Citizenship Paths",
+  sectionOf: "book-section/second-passport/eu-citizenship",
+  description:
+    "All paths to Croatian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+  partOfCollections: ["book-section/second-passport/eu-citizenship", "alan-book/my-projects"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

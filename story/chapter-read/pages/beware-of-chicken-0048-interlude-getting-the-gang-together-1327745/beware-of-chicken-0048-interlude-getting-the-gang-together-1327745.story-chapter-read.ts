@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0048InterludeGettingTheGangTogether1327745 = {
+  id: "01a08396-b348-74d3-aba2-723fc4a80487",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0048-interlude-getting-the-gang-together-1327745",
+  story: "story-read/beware-of-chicken",
+  position: 48,
+  publishedAt: "2023-08-31",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1327745",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1327745/interlude-getting-the-gang-together",
+    },
+  ],
+  title: "Interlude: Getting the Gang Together",
+  ownLength: 4624,
+  prose: "txt",
+} as const satisfies StoryChapterRead

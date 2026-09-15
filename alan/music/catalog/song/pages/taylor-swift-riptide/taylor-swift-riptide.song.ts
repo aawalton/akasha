@@ -1,0 +1,19 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const taylorSwiftRiptide = {
+  id: "019ea416-404d-7f56-8948-128d519059b9",
+  type: "song",
+  slug: "taylor-swift-riptide",
+  title: "Riptide",
+  artist: "artist/taylor-swift",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "edb01a8b-9378-4ac8-bfec-09fbe4a0e5d0",
+      externalLink: "https://musicbrainz.org/work/edb01a8b-9378-4ac8-bfec-09fbe4a0e5d0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "derivative",
+  performed: true,
+} as const satisfies Song

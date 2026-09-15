@@ -1,0 +1,10 @@
+import type { TemperInventoryCurrency } from "akasha/temper/holdings/temper-inventory-currency/temper-inventory-currency.page-type.types.ts"
+
+export const archivalFortunes = {
+  id: "01a05fcf-26ba-7975-a72a-8ff93038156f",
+  type: "temper-inventory-currency",
+  slug: "archival-fortunes",
+  title: "Archival Fortunes",
+  key: "archivalFortunes",
+  displayOrder: 10,
+} as const satisfies TemperInventoryCurrency

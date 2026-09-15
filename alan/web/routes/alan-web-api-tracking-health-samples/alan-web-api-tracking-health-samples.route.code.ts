@@ -5,7 +5,7 @@ import {
   capacitorCorsHeaders,
   withCors,
 } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
-import { healthSamplesIngestSchema } from "akasha/persons/modules/health-samples-body/health-samples-body.module.code.ts"
+import { healthSamplesIngestSchema } from "akasha/person/modules/health-samples-body/health-samples-body.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 const CORS_ALLOW_HEADERS = "Authorization, Content-Type, X-Device-Secret"

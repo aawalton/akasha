@@ -4,15 +4,15 @@ import {
   withCors,
 } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 import { isMediaPageId } from "akasha/alan/web/modules/media-page/media-page.module.code.ts"
-import { isMedium } from "akasha/pages/core/modules/media-formats/media-formats.module.code.ts"
+import { isMedium } from "akasha/page/core/modules/media-formats/media-formats.module.code.ts"
 import {
   mediaTokenSecret,
   mintMediaToken,
-} from "akasha/pages/ui/media/modules/media-token/media-token.module.code.ts"
+} from "akasha/page/ui/media/modules/media-token/media-token.module.code.ts"
 import {
   MEDIA_VARIANT_PATTERN,
   mediaPageExists,
-} from "akasha/pages/ui/media/modules/serve-media/serve-media.module.code.ts"
+} from "akasha/page/ui/media/modules/serve-media/serve-media.module.code.ts"
 
 const TOKEN_TTL_MS = 60 * 60 * 1000
 

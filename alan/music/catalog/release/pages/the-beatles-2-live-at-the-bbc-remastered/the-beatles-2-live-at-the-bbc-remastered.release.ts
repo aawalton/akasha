@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theBeatles2LiveAtTheBbcRemastered = {
+  id: "01a0676a-d723-7045-a1b7-8f2be6853051",
+  type: "release",
+  slug: "the-beatles-2-live-at-the-bbc-remastered",
+  title: "Live At The BBC (Remastered)",
+  partOfCollections: ["artist/the-beatles"],
+  position: 0,
+  ownLength: 136.214217,
+  ownProgress: 136.214217,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1994-11-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2EowTulHWqSY6QZfTDf5vW",
+      externalLink: "https://open.spotify.com/album/2EowTulHWqSY6QZfTDf5vW",
+    },
+  ],
+} as const satisfies Release

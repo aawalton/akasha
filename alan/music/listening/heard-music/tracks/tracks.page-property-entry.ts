@@ -1,4 +1,4 @@
-import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
+import type { PagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.types.ts"
 
 export const tracks = {
   id: "01a06240-340f-700b-b409-ccc0e5bff5e6",

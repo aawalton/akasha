@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import type { AppliedMove } from "akasha/alan/chess/modules/game-loop/chess-game-loop.module.code.ts"
 import type { Playing } from "akasha/command/pages/chess/play/chess-play.command.code.ts"
 import { playing } from "akasha/command/pages/chess/play/chess-play.command.code.ts"
-import type { Naming } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const CALLED = "akasha chess play"
 
@@ -10,7 +10,7 @@ const PLAYED_AT = "2026-09-14T00:00:00.000Z"
 
 const SLUG = `maia-game-${new Date(PLAYED_AT).getTime()}`
 
-const WROTE = "alan/chess/games/pages/one/one.chess-game.ts"
+const WROTE = "alan/chess/game/pages/one/one.chess-game.ts"
 
 const MOVES = ["f2f3", "e7e5", "g2g4", "d8h4"]
 

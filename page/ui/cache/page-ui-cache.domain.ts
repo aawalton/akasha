@@ -1,0 +1,15 @@
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+
+export const pageUiCache = {
+  id: "01a071cf-25b5-79d7-8f2c-eabab6748229",
+  type: "domain",
+  slug: "page-ui-cache",
+  definition: "an answer held from before",
+  parts: [
+    "module/boot-gate",
+    "module/tanstack-live",
+    "module/use-core-definitions-ready",
+    "module/use-query",
+    "module/use-view-query",
+  ],
+} as const satisfies Domain

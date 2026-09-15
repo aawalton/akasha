@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const underworldBreadMageYuriProgfanSliceOfLife0030Chapter30SweeterThanHoney = {
+  id: "01a06730-4f13-72f1-a614-5600620a3bc0",
+  type: "story-chapter-read",
+  slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0030-chapter-30-sweeter-than-honey",
+  title: "Chapter 30: Sweeter Than Honey",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
+  position: 30,
+  ownLength: 1430,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3838685",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3838685/chapter-30-sweeter-than-honey",
+    },
+  ],
+  publishedAt: "2026-08-20",
+  prose: "txt",
+} as const satisfies StoryChapterRead

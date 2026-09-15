@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const debuffName = {
+  id: "01a06193-6ca5-7924-8fb4-639028413f96",
+  type: "text-property",
+  slug: "debuff-name",
+  propertySlug: "debuff",
+  definition: "the harmful effect an effect puts on whoever it lands on",
+  maxLength: 100,
+  nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
+} as const satisfies TextProperty

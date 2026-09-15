@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherLoveLinesUpWithFeeling = {
-  id: "01a077e8-81d4-7813-a42d-82796fb3efe5",
-  type: "all-about-alan-question",
-  slug: "whether-love-lines-up-with-feeling",
-  topic: "all-about-alan-topic/the-three-parts-of-me",
-  ask: "Faith lines up with mind and health with body. Does love line up with feeling as cleanly, when reading my own states is where I am thinnest?",
-} as const satisfies AllAboutAlanQuestion

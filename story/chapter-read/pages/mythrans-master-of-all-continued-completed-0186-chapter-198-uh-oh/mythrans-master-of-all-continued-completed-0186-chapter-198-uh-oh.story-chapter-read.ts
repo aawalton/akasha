@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0186Chapter198UhOh = {
+  id: "01a0672c-ebbc-7000-9ea4-b5d68f82311d",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0186-chapter-198-uh-oh",
+  title: "Chapter 198 - Uh Oh!",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 186,
+  ownLength: 3391,
+  unit: "unit/words",
+  publishedAt: "2017-03-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "124083",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/124083/chapter-198-uh-oh",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

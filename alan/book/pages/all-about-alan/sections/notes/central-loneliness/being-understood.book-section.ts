@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const beingUnderstood = {
+  id: "01a06594-c675-7018-b098-306ad2b42771",
+  type: "book-section",
+  slug: "being-understood",
+  title: "Being understood — the alignment ladder and the accepted gap",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/central-loneliness"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

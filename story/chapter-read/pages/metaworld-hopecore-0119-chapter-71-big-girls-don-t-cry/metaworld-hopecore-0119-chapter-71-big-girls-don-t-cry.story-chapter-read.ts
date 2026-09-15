@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const metaworldHopecore0119Chapter71BigGirlsDonTCry = {
+  id: "01a06731-af13-7000-a19d-62695d851811",
+  type: "story-chapter-read",
+  slug: "metaworld-hopecore-0119-chapter-71-big-girls-don-t-cry",
+  title: "CHAPTER 71 - Big Girls Don't Cry",
+  story: "story-read/metaworld-hopecore",
+  position: 119,
+  ownLength: 3538,
+  unit: "unit/words",
+  publishedAt: "2026-06-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3611839",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3611839/chapter-71-big-girls-dont-cry",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

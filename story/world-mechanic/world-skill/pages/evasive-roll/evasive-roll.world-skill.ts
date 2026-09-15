@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-skill.page-type.types.ts"
+
+export const evasiveRoll = {
+  id: "01a06575-9809-7fa0-b9a2-ee8240028247",
+  type: "world-skill",
+  slug: "evasive-roll",
+  title: "Evasive Roll",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

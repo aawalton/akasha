@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0185Chapter182TimberWolves = {
+  id: "01a0672c-ebb8-7001-9a67-c0ed97473be6",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0185-chapter-182-timber-wolves",
+  title: "Chapter 182: Timber Wolves",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 185,
+  ownLength: 6515,
+  ownProgress: 6515,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:17:20.678Z",
+  publishedAt: "2025-01-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2005783",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2005783/chapter-182-timber-wolves",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

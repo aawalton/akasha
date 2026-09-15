@@ -3,14 +3,14 @@ import {
   outsideTracked,
   trackedIn,
 } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { MECHANICAL_KIND } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { commitMessage } from "akasha/command/arguments/pages/commit-message.argument.ts"
-import { contentFile } from "akasha/command/arguments/pages/content-file.argument.ts"
-import { filePath } from "akasha/command/arguments/pages/file-path.argument.ts"
-import { messageFile } from "akasha/command/arguments/pages/message-file.argument.ts"
-import { removePath } from "akasha/command/arguments/pages/remove-path.argument.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { MECHANICAL_KIND } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { commitMessage } from "akasha/command/argument/pages/commit-message.argument.ts"
+import { contentFile } from "akasha/command/argument/pages/content-file.argument.ts"
+import { filePath } from "akasha/command/argument/pages/file-path.argument.ts"
+import { messageFile } from "akasha/command/argument/pages/message-file.argument.ts"
+import { removePath } from "akasha/command/argument/pages/remove-path.argument.ts"
 import { answering } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {

@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jisooAmortage = {
+  id: "01a0676a-d717-700e-97e1-25c52ba10744",
+  type: "release",
+  slug: "jisoo-amortage",
+  title: "AMORTAGE",
+  partOfCollections: ["artist/jisoo"],
+  position: 0,
+  ownLength: 12.268083,
+  ownProgress: 12.268083,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2025-02-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1hmW4opQGq4hIYTbEWsyqW",
+      externalLink: "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW",
+      lastSyncedAt: "2025-11-24",
+    },
+  ],
+} as const satisfies Release

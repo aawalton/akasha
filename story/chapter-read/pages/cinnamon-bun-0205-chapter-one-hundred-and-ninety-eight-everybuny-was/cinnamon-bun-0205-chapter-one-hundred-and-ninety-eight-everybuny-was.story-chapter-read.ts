@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0205ChapterOneHundredAndNinetyEightEverybunyWas = {
+  id: "01a0672c-eb12-7006-ad78-dc20fabe55fb",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0205-chapter-one-hundred-and-ninety-eight-everybuny-was",
+  title: "Chapter One Hundred and Ninety-Eight - Everybuny was Draugr Fighting",
+  story: "story-read/cinnamon-bun",
+  position: 205,
+  ownLength: 1943,
+  unit: "unit/words",
+  publishedAt: "2021-05-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "689144",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/689144/chapter-one-hundred-and-ninety-eight-everybuny",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

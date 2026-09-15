@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
+import type { BooleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.types.ts"
 
 export const liveShell = {
   id: "01a06d9a-4c11-7000-8f2e-5b1d0a7c3e44",

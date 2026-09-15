@@ -1,0 +1,12 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whatInterruptsMyBreathing = {
+  id: "01a06559-9d65-719d-a284-b4d9519e2b51",
+  type: "all-about-alan-topic",
+  slug: "what-interrupts-my-breathing",
+  title: "What Interrupts My Breathing",
+  definition: "what stops the breathing practice running",
+  parents: ["all-about-alan-topic/what-calms-me-down"],
+  settled:
+    "Anything that needs my mouth or my chest pauses it. Talking, eating and weight on the chest are the worked cases.",
+} as const satisfies AllAboutAlanTopic

@@ -1,0 +1,11 @@
+import type { SelectProperty } from "akasha/page/select-property/select-property.page-type.types.ts"
+
+export const toDoCategory = {
+  id: "01a065a1-49b7-7818-8c36-a35dbf94fcc6",
+  type: "select-property",
+  slug: "to-do-category",
+  propertySlug: "to-do-category",
+  definition: "the list a to-do is filed under in the app",
+  values: ["faith", "health", "inbox", "love", "wealth"],
+  types: "ts",
+} as const satisfies SelectProperty

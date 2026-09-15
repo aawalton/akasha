@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0212ChapterTwoHundredAndFourImmuneSystem = {
+  id: "01a0672c-eb12-700d-bd33-c5d535478ab0",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0212-chapter-two-hundred-and-four-immune-system",
+  title: "Chapter Two Hundred and Four - Immune System",
+  story: "story-read/cinnamon-bun",
+  position: 212,
+  ownLength: 1956,
+  unit: "unit/words",
+  publishedAt: "2021-06-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "695354",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/695354/chapter-two-hundred-and-four-immune-system",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

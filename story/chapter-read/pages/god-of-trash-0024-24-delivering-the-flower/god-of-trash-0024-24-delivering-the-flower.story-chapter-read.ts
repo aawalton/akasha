@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash002424DeliveringTheFlower = {
+  id: "01a0672c-edb4-7000-b5f2-edbfbcf19691",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0024-24-delivering-the-flower",
+  title: "24. Delivering the Flower",
+  story: "story-read/god-of-trash",
+  position: 24,
+  ownLength: 2562,
+  unit: "unit/words",
+  publishedAt: "2025-03-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2135332",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2135332/24-delivering-the-flower",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

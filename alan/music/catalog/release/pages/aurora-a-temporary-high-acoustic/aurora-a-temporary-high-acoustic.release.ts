@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const auroraATemporaryHighAcoustic = {
+  id: "01a0676a-d715-7044-a765-622b884747be",
+  type: "release",
+  slug: "aurora-a-temporary-high-acoustic",
+  title: "A Temporary High (Acoustic)",
+  partOfCollections: ["artist/aurora"],
+  position: 0,
+  ownLength: 2.832433,
+  ownProgress: 2.832433,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-03-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4W00PrH1IwkkllR7LhyJcr",
+      externalLink: "https://open.spotify.com/album/4W00PrH1IwkkllR7LhyJcr",
+    },
+  ],
+} as const satisfies Release

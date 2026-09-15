@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0233V6c44AMostEnjoyableJourney = {
+  id: "01a06731-adc1-700b-8d28-cd120954f4e0",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0233-v6c44-a-most-enjoyable-journey",
+  title: "v6c44: A Most Enjoyable Journey",
+  story: "story-read/beware-of-chicken",
+  position: 233,
+  ownLength: 1934,
+  ownProgress: 1934,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:59:22.762Z",
+  publishedAt: "2025-07-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2423314",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2423314/v6c44-a-most-enjoyable-journey",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

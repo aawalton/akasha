@@ -1,0 +1,10 @@
+import type { InstantProperty } from "akasha/page/instant-property/instant-property.page-type.types.ts"
+
+export const endedAt = {
+  id: "01a060fb-0410-7cc7-9f94-55cf8505736f",
+  type: "instant-property",
+  slug: "ended-at",
+  propertySlug: "ended-at",
+  definition: "when the stretch a reading covers ended",
+  types: "ts",
+} as const satisfies InstantProperty

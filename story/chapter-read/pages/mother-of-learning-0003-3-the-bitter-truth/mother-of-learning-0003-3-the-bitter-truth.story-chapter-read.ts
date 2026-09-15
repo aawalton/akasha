@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning00033TheBitterTruth = {
+  id: "01a06731-b025-7000-bf43-2c951aed2b0a",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0003-3-the-bitter-truth",
+  title: "3. The Bitter Truth",
+  story: "story-read/mother-of-learning",
+  position: 3,
+  ownLength: 7180,
+  ownProgress: 7180,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:43:47.259Z",
+  publishedAt: "2018-10-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "301784",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301784/3-the-bitter-truth",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

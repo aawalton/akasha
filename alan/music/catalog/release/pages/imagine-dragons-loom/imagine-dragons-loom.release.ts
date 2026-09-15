@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const imagineDragonsLoom = {
+  id: "01a0676a-d723-7063-9c91-0ba3e3a5a828",
+  type: "release",
+  slug: "imagine-dragons-loom",
+  title: "LOOM",
+  partOfCollections: ["artist/imagine-dragons"],
+  position: 0,
+  ownLength: 31.532167,
+  ownProgress: 31.532167,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2024-06-28",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7EPrkhjTBrwAV8yAKCmY0Y",
+      externalLink: "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y",
+    },
+  ],
+} as const satisfies Release

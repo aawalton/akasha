@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const greenDayKerplunk = {
+  id: "01a0676a-d722-703c-80fb-884acfd5259f",
+  type: "release",
+  slug: "green-day-kerplunk",
+  title: "Kerplunk!",
+  partOfCollections: ["artist/green-day"],
+  position: 0,
+  ownLength: 42.10345,
+  ownProgress: 42.10345,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "1992-01-17",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1UShup0VvfxhxS7j3Omxh2",
+      externalLink: "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

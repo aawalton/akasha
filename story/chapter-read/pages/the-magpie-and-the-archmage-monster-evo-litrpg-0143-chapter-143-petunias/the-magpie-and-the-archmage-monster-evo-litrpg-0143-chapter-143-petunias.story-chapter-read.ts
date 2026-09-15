@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theMagpieAndTheArchmageMonsterEvoLitrpg0143Chapter143Petunias = {
+  id: "01a06730-4fe3-751b-b147-211c8ac0b319",
+  type: "story-chapter-read",
+  slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0143-chapter-143-petunias",
+  title: "Chapter 143 – Petunias",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
+  position: 143,
+  ownLength: 2070,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3638095",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3638095/chapter-143-petunias",
+    },
+  ],
+  publishedAt: "2026-07-06",
+  prose: "txt",
+} as const satisfies StoryChapterRead

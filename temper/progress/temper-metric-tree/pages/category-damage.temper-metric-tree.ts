@@ -1,0 +1,11 @@
+import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree/temper-metric-tree.page-type.types.ts"
+
+export const categoryDamage = {
+  id: "019e2fcd-5956-797c-a7e8-41e693412905",
+  type: "temper-metric-tree",
+  slug: "category-damage",
+  title: "Damage",
+  nodeId: "damage",
+  nodeType: "category",
+  displayOrder: 0,
+} as const satisfies TemperMetricTree

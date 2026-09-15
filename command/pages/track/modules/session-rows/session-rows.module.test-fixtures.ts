@@ -1,7 +1,7 @@
 import { join } from "node:path"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { DAYS_AT } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
-import { indexedRepo } from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { indexedRepo } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 export const DAY = "2026-09-01"
 
@@ -19,7 +19,7 @@ export const SLEPT = "01a06818-339b-7fc2-8cd9-caea195150b3"
 
 const ROW = `{"id":"${SLEPT}","title":"Slept","startTime":"2026-09-01T06:00:00.000Z","dailyTracking":"${PAGE_ID}","endTime":"2026-09-01T14:00:00.000Z"}\n`
 
-const PUT_UNDER = "changes/mechanical/file/add"
+const PUT_UNDER = "change/mechanical/file/add"
 
 type Reached = {
   readonly slug: string

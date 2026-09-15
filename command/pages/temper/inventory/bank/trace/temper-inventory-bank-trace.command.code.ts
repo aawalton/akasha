@@ -1,8 +1,8 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { inventoryPath } from "akasha/command/arguments/pages/inventory-path.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { visit as visitArgument } from "akasha/command/arguments/pages/visit.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { inventoryPath } from "akasha/command/argument/pages/inventory-path.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { visit as visitArgument } from "akasha/command/argument/pages/visit.argument.ts"
 import {
   asJson,
   INPUT,

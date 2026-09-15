@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const levelingUpTheWorld0029651VillageMaster = {
+  id: "01a06731-ae8f-7002-86b1-ffed9707ced4",
+  type: "story-chapter-read",
+  slug: "leveling-up-the-world-0029-651-village-master",
+  title: "651. Village Master",
+  story: "story-read/leveling-up-the-world",
+  position: 29,
+  ownLength: 1999,
+  ownProgress: 1999,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:41:09.784Z",
+  publishedAt: "2022-12-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1058190",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/1058190/651-village-master",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jadaFacerILlBeHomeForChristmasAcoustic = {
+  id: "01a0676a-d721-702a-aade-e9fe1843af74",
+  type: "release",
+  slug: "jada-facer-i-ll-be-home-for-christmas-acoustic",
+  title: "I'll Be Home for Christmas (Acoustic)",
+  partOfCollections: ["artist/jada-facer"],
+  position: 0,
+  ownLength: 2.284417,
+  ownProgress: 2.284417,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2024-11-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "74FOFKXt9gpibb3nI0eAqt",
+      externalLink: "https://open.spotify.com/album/74FOFKXt9gpibb3nI0eAqt",
+    },
+  ],
+} as const satisfies Release

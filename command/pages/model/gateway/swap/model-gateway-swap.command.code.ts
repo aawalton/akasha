@@ -6,10 +6,10 @@ import {
   setRequestedAction,
   waitForActionCleared,
 } from "akasha/agent/seat/supervisors/supervisor-action/modules/seat-action/seat-action.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { fleet } from "akasha/command/arguments/pages/fleet.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { seat } from "akasha/command/arguments/pages/seat.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { fleet } from "akasha/command/argument/pages/fleet.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { seat } from "akasha/command/argument/pages/seat.argument.ts"
 import {
   answeredWith,
   answering,

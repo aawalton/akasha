@@ -1,0 +1,24 @@
+import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.types.ts"
+
+export const weirdAlYankovic = {
+  id: "01a06803-676c-7012-b045-21ef7bb0eb53",
+  type: "artist",
+  slug: "weird-al-yankovic",
+  title: "“Weird Al” Yankovic",
+  partOfCollections: ["artist-collection/artists"],
+  position: 0,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "archived",
+  rank: "C",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1bDWGdIC2hardyt55nlQgG",
+      externalLink: "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+  tags: ["Satire"],
+} as const satisfies Artist

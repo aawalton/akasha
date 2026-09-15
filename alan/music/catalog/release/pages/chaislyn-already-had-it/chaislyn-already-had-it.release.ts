@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const chaislynAlreadyHadIt = {
+  id: "01a0676a-d716-7034-96ae-ed83d4959d81",
+  type: "release",
+  slug: "chaislyn-already-had-it",
+  title: "Already Had It",
+  partOfCollections: ["artist/chaislyn"],
+  position: 0,
+  ownLength: 2.947367,
+  ownProgress: 2.947367,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-11-11",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "270DEDp8yhMJI4lI1heuQg",
+      externalLink: "https://open.spotify.com/album/270DEDp8yhMJI4lI1heuQg",
+    },
+  ],
+} as const satisfies Release

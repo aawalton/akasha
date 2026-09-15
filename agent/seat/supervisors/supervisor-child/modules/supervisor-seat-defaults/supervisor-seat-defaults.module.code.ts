@@ -14,7 +14,7 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export type SeatMode = "interactive" | "headless"
 

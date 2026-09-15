@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const taylorSwift2YouReLosingMeFromTheVault = {
+  id: "01a0676a-d732-7014-95fd-349204c54484",
+  type: "release",
+  slug: "taylor-swift-2-you-re-losing-me-from-the-vault",
+  title: "You're Losing Me (From The Vault)",
+  partOfCollections: ["artist/taylor-swift"],
+  position: 0,
+  ownLength: 4.630517,
+  ownProgress: 4.630517,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-11-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5q3jthpn2h59P7pe2gmAl7",
+      externalLink: "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7",
+    },
+  ],
+} as const satisfies Release

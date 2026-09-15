@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const myLordPleaseACharacterDrivenKingdomBuilding0030Chapter28Exodus = {
+  id: "01a06591-3f73-7331-84d2-50db01ab3d20",
+  type: "story-chapter-read",
+  slug: "my-lord-please-a-character-driven-kingdom-building-0030-chapter-28-exodus",
+  title: "Chapter 28 Exodus",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
+  position: 30,
+  ownLength: 2229,
+  unit: "unit/words",
+  publishedAt: "2026-04-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3264981",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3264981/chapter-28-exodus",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

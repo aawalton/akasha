@@ -1,8 +1,8 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { scope } from "akasha/command/arguments/pages/scope.argument.ts"
-import { toggle } from "akasha/command/arguments/pages/toggle.argument.ts"
-import { toggleTarget } from "akasha/command/arguments/pages/toggle-target.argument.ts"
-import { value } from "akasha/command/arguments/pages/value.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { scope } from "akasha/command/argument/pages/scope.argument.ts"
+import { toggle } from "akasha/command/argument/pages/toggle.argument.ts"
+import { toggleTarget } from "akasha/command/argument/pages/toggle-target.argument.ts"
+import { value } from "akasha/command/argument/pages/value.argument.ts"
 import {
   INPUT,
   OPERATIONAL,

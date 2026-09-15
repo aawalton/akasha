@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash006262EmissaryToTheRats = {
+  id: "01a0672c-edbd-7002-9cf9-0792fabb5bcf",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0062-62-emissary-to-the-rats",
+  title: "62. Emissary to the Rats",
+  story: "story-read/god-of-trash",
+  position: 62,
+  ownLength: 2746,
+  unit: "unit/words",
+  publishedAt: "2025-05-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2247269",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2247269/62-emissary-to-the-rats",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

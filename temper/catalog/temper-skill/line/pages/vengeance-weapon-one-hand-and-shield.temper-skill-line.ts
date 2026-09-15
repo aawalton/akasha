@@ -1,0 +1,13 @@
+import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/temper-skill-line.page-type.types.ts"
+
+export const vengeanceWeaponOneHandAndShield = {
+  id: "019e6f53-86c2-711d-b324-b5ad3e22f37e",
+  type: "temper-skill-line",
+  slug: "vengeance-weapon-one-hand-and-shield",
+  title: "Vengeance One Hand and Shield",
+  key: "vengeance-weapon-one-hand-and-shield",
+  displayOrder: 129,
+  esoSkillLineId: 320,
+  maxRank: 0,
+  subcategoryId: "alliance-war",
+} as const satisfies TemperSkillLine

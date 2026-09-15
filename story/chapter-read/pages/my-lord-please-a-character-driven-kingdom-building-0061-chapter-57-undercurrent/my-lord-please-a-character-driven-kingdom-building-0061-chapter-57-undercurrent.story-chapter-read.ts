@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const myLordPleaseACharacterDrivenKingdomBuilding0061Chapter57Undercurrent = {
+  id: "01a06591-3f77-7e5d-a182-6cf0927893ac",
+  type: "story-chapter-read",
+  slug: "my-lord-please-a-character-driven-kingdom-building-0061-chapter-57-undercurrent",
+  title: "Chapter 57 Undercurrent",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
+  position: 61,
+  ownLength: 2121,
+  unit: "unit/words",
+  publishedAt: "2026-05-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3379428",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3379428/chapter-57-undercurrent",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

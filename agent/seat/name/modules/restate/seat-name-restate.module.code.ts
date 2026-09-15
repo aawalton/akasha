@@ -6,7 +6,7 @@ import { pageTextOf } from "akasha/agent/seat/page/modules/values/seat-page-valu
 import {
   resolveRoots,
   targetRoot,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export type SeatPresence = "present" | "absent" | "unknown"
 

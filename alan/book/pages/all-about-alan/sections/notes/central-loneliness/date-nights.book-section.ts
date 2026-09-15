@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const dateNights = {
+  id: "01a06594-c676-7000-ab98-f51006094a4c",
+  type: "book-section",
+  slug: "date-nights",
+  title: "The two date nights",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/central-loneliness"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

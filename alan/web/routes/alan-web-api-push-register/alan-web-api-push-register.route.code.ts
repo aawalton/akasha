@@ -4,9 +4,9 @@ import {
   capacitorCorsHeaders,
   withCors,
 } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
-import { registerDeviceToken } from "akasha/persons/modules/device-token-registration/device-token-registration.module.code.ts"
-import { ALANWALTON_PUSH_APP } from "akasha/persons/modules/push-apps/push-apps.module.code.ts"
-import { registerDeviceTokenSchema } from "akasha/persons/modules/push-register-body/push-register-body.module.code.ts"
+import { registerDeviceToken } from "akasha/person/modules/device-token-registration/device-token-registration.module.code.ts"
+import { ALANWALTON_PUSH_APP } from "akasha/person/modules/push-apps/push-apps.module.code.ts"
+import { registerDeviceTokenSchema } from "akasha/person/modules/push-register-body/push-register-body.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0282Chapter250CriticalBlockPart3 = {
+  id: "01a0672c-ebdc-7001-87ae-cd9ef64d53f1",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0282-chapter-250-critical-block-part-3",
+  title: "Chapter 250: Critical Block (Part 3)",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 282,
+  ownLength: 1942,
+  ownProgress: 1942,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:20:47.768Z",
+  publishedAt: "2025-05-15",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2281196",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2281196/chapter-250-critical-block-part-3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

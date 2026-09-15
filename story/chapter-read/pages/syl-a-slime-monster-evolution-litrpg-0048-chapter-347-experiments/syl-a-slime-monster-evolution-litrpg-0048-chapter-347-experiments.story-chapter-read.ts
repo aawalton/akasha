@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const sylASlimeMonsterEvolutionLitrpg0048Chapter347Experiments = {
+  id: "01a06730-4e1b-7b3b-9817-ce74e591e36a",
+  type: "story-chapter-read",
+  slug: "syl-a-slime-monster-evolution-litrpg-0048-chapter-347-experiments",
+  title: "Chapter 347 : [Experiments]",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
+  position: 48,
+  ownLength: 2413,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3027714",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3027714/chapter-347-experiments",
+    },
+  ],
+  publishedAt: "2026-02-09",
+  ownProgress: 2413,
+  completedAt: "2026-06-29T19:43:24.262Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

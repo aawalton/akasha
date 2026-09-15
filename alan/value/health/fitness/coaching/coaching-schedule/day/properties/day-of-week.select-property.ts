@@ -1,0 +1,11 @@
+import type { SelectProperty } from "akasha/page/select-property/select-property.page-type.types.ts"
+
+export const dayOfWeek = {
+  id: "01a0657a-e62d-7e2c-96f2-7108ef5b0bf1",
+  type: "select-property",
+  slug: "day-of-week",
+  propertySlug: "day-of-week",
+  definition: "which day of the week this one falls on",
+  values: ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+  types: "ts",
+} as const satisfies SelectProperty

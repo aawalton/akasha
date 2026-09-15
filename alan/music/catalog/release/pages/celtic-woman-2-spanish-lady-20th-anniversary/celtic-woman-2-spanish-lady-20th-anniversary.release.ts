@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const celticWoman2SpanishLady20thAnniversary = {
+  id: "01a0676a-d729-7072-ad7d-a3e6fa02a381",
+  type: "release",
+  slug: "celtic-woman-2-spanish-lady-20th-anniversary",
+  title: "Spanish Lady (20th Anniversary)",
+  partOfCollections: ["artist/celtic-woman"],
+  position: 0,
+  ownLength: 2.018217,
+  ownProgress: 2.018217,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-06-06",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6peF96JCYG7LBbh0HaovLS",
+      externalLink: "https://open.spotify.com/album/6peF96JCYG7LBbh0HaovLS",
+    },
+  ],
+} as const satisfies Release

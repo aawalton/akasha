@@ -1,0 +1,40 @@
+import type { ContextWarrant } from "akasha/domain/context/warrant/context-warrant.page-type.types.ts"
+
+export const filePageType = {
+  id: "01a04f58-a7f0-7001-8b6e-2d51f0a9c344",
+  type: "context-warrant",
+  slug: "file-page-type",
+  definition: "what a seat must read for the type of the page it changes",
+  code: "ts",
+  test: "ts",
+  runsOnRead: true,
+  runsOnWrite: true,
+  transitive: false,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page answers to its type alone.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "A page answers to no type that its type extends.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The type a page answers to is read before the page is changed.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Only a page answers to a type.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A file sitting beside a page by a file property is no page and warrants no type of its own.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A type whose page cannot be found is no warrant.",
+    },
+  ],
+} as const satisfies ContextWarrant

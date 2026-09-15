@@ -32,7 +32,7 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { enforceSpawnAdmission } from "akasha/utils/system/modules/memory-guard/memory-guard.module.code.ts"
 
 export interface StatedIdentity {

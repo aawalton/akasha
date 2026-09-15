@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const sylASlimeMonsterEvolutionLitrpg0002Chapter101BaitBook2 = {
+  id: "01a06730-4e13-70a0-94ac-9a0250fe81ee",
+  type: "story-chapter-read",
+  slug: "syl-a-slime-monster-evolution-litrpg-0002-chapter-101-bait-book-2",
+  title: "Chapter 101 : Bait [Book 2]",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
+  position: 2,
+  ownLength: 2006,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1655151",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1655151/chapter-101-bait-book-2",
+    },
+  ],
+  publishedAt: "2024-05-29",
+  ownProgress: 2006,
+  completedAt: "2026-06-29T19:41:51.115Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

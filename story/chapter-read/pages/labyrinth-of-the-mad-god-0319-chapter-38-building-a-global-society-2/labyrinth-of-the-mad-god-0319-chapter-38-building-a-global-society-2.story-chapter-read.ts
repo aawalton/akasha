@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const labyrinthOfTheMadGod0319Chapter38BuildingAGlobalSociety2 = {
+  id: "01a06731-ad8b-7000-89b0-a2e6ea9e3f8c",
+  type: "story-chapter-read",
+  slug: "labyrinth-of-the-mad-god-0319-chapter-38-building-a-global-society-2",
+  title: "Chapter 38: Building a Global Society 2",
+  story: "story-read/labyrinth-of-the-mad-god",
+  position: 319,
+  ownLength: 1952,
+  unit: "unit/words",
+  publishedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3510718",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3510718/chapter-38-building-a-global-society-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

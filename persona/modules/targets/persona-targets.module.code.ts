@@ -1,0 +1,35 @@
+import type { CommsRule } from "akasha/agent/messaging/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { personasStanding } from "akasha/persona/modules/reading/persona-reading.module.code.ts"
+
+export interface PersonaTarget {
+  readonly id: string
+  readonly slug: string
+  readonly wakeSources: readonly CommsRule[]
+}
+
+const NONE: readonly CommsRule[] = []
+
+async function listPersonaTargets(): Promise<readonly PersonaTarget[]> {
+  const root = rootFor(resolveRoots(), AKASHA)
+  return personasStanding(root).map((one) => ({
+    id: one.id,
+    slug: one.slug,
+    wakeSources: NONE,
+  }))
+}
+
+export async function listPersonaWakeSources(): Promise<ReadonlyMap<string, readonly CommsRule[]>> {
+  const entries = (await listPersonaTargets())
+    .filter((one) => one.wakeSources.length > 0)
+    .map((one): readonly [string, readonly CommsRule[]] => [one.slug, one.wakeSources])
+  return new Map(entries)
+}
+
+export async function listPersonaSlugs(): Promise<readonly string[]> {
+  return (await listPersonaTargets()).map((one) => one.slug)
+}

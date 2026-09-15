@@ -1,6 +1,6 @@
 import { underOldKeys } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
-import { loadedFrom } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { pagesAtFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
+import { pagesAtFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const SEAT = "seat"

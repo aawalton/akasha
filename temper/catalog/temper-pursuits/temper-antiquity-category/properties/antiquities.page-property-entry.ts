@@ -1,0 +1,22 @@
+import type { PagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.types.ts"
+
+export const antiquities = {
+  id: "01a06166-503b-7004-a13a-ad8c499bf773",
+  type: "page-property-entry",
+  slug: "antiquities",
+  propertySlug: "antiquities",
+  definition: "the antiquities a category has, one antiquity to a line",
+  properties: [
+    { pageProperty: "number-property/eso-antiquity-id", required: true, many: false },
+    { pageProperty: "text-property/antiquity-name", required: true, many: false },
+    { pageProperty: "number-property/eso-antiquity-set-id", required: true, many: false },
+    { pageProperty: "number-property/total-lore-entries", required: true, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An antiquity here is an antiquity a player digs up and reads lore from.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PagePropertyEntry

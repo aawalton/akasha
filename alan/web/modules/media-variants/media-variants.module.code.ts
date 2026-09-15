@@ -2,24 +2,24 @@ import type { SentenceMark } from "akasha/alan/harness/voice-core/modules/mark-s
 import { resolveReadAloudSentenceMarks } from "akasha/alan/web/modules/read-aloud-marks/read-aloud-marks.module.code.ts"
 import { mediaRenderObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
-import { getPage } from "akasha/pages/access/modules/get/get.module.code.ts"
-import { MEDIA_FORMATS } from "akasha/pages/core/modules/media-formats/media-formats.module.code.ts"
-import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
+import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
+import { MEDIA_FORMATS } from "akasha/page/core/modules/media-formats/media-formats.module.code.ts"
+import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import type {
   Asked,
   Query,
-} from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
-import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
   getAvailableRenditions,
   pickDefaultVariant,
-} from "akasha/pages/ui/media/modules/media-renditions/media-renditions.module.code.ts"
+} from "akasha/page/ui/media/modules/media-renditions/media-renditions.module.code.ts"
 import {
   KOKORO_STREAM_LABEL,
   KOKORO_STREAM_VARIANT,
   STORED_READ_ALOUD_VARIANT,
-} from "akasha/pages/ui/media/modules/media-src/media-src.module.code.ts"
-import type { MediaVariant } from "akasha/pages/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
+} from "akasha/page/ui/media/modules/media-src/media-src.module.code.ts"
+import type { MediaVariant } from "akasha/page/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
 import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
 
 const READING_STORY_SLUG = "reading-story"

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0165Chapter659ToTheCore = {
+  id: "01a06731-ae54-7000-9153-74f4ed053080",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0165-chapter-659-to-the-core",
+  title: "Chapter: 659 - To the Core",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 165,
+  ownLength: 3236,
+  ownProgress: 3236,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:40:20.757Z",
+  publishedAt: "2026-01-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2948385",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2948385/chapter-659-to-the-core",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jadaFacerTheGreatest = {
+  id: "01a0676a-d72d-7017-a2c2-7c1073330de9",
+  type: "release",
+  slug: "jada-facer-the-greatest",
+  title: "The Greatest",
+  partOfCollections: ["artist/jada-facer"],
+  position: 0,
+  ownLength: 2.217633,
+  ownProgress: 2.217633,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2016-10-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3o0sZduJc1VeLtLzpbuWu5",
+      externalLink: "https://open.spotify.com/album/3o0sZduJc1VeLtLzpbuWu5",
+    },
+  ],
+} as const satisfies Release

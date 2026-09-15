@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0369ChapterFiftyOneWakeUp = {
+  id: "01a06730-4e18-7340-a873-1d609698db8b",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0369-chapter-fifty-one-wake-up",
+  title: "Chapter Fifty-One - Wake Up",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 369,
+  ownLength: 1491,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1133632",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1133632/chapter-fifty-one-wake-up",
+    },
+  ],
+  publishedAt: "2023-03-10",
+  prose: "txt",
+} as const satisfies StoryChapterRead

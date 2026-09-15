@@ -1,0 +1,9 @@
+import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monarch-merchant.page-type.types.ts"
+
+export const grandviewFamilyMedicine = {
+  id: "01a0655b-fcdc-7018-98c5-c8fbe4b2b0cf",
+  type: "monarch-merchant",
+  slug: "grandview-family-medicine",
+  title: "grandview family medicine",
+  merchantPatterns: ["gfm holdings", "grandview family"],
+} as const satisfies MonarchMerchant

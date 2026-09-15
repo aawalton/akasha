@@ -1,0 +1,13 @@
+import type { WorldCharacter } from "akasha/story/world-character/world-character.page-type.types.ts"
+
+export const artur = {
+  id: "01a06580-2493-743d-badb-3f9020377317",
+  type: "world-character",
+  slug: "artur",
+  title: "Artur",
+  world: "world/the-wandering-inn",
+  maxLevel: 17,
+  eventCount: 11,
+  firstChapter: 561,
+  lastChapter: 562,
+} as const satisfies WorldCharacter

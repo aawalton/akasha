@@ -1,0 +1,85 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const attribute = {
+  id: "01a06841-a0fd-7d6d-83ba-fed205a8f26a",
+  type: "page-type",
+  slug: "attribute",
+  definition: "a capacity Alan builds through a daily habit",
+  extends: ["page-type/domain"],
+  parts: [
+    "attribute/charisma",
+    "attribute/constitution",
+    "attribute/endurance",
+    "attribute/intelligence",
+    "attribute/luck",
+    "attribute/strength",
+    "attribute/wisdom",
+    "computed-property/attribute-level",
+    "domain/attribute-readouts",
+    "module/attribute-points",
+    "number-property/points-before-today",
+    "number-property/points-today",
+    "number-property/points-total",
+    "text-property/point-unit",
+  ],
+  properties: [
+    { pageProperty: "code-file-property/code", required: false, many: false },
+    { pageProperty: "code-file-property/test", required: false, many: false },
+    { pageProperty: "text-property/point-unit", required: true, many: false },
+    {
+      pageProperty: "number-property/points-before-today",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "number-property/points-today",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "number-property/points-total",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    { pageProperty: "computed-property/attribute-level", required: false, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An attribute's point unit never changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Points are counted forward from the day an attribute begins.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No earlier day is backfilled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Recalibrating the daily target leaves an attribute's point unit unchanged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An attribute shown as no daily light earns points all the same.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An attribute's total points and the level those points reach are carried on that attribute's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The code beside an attribute's page earns that attribute its points.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout counting an attribute reads that attribute's points off its page.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

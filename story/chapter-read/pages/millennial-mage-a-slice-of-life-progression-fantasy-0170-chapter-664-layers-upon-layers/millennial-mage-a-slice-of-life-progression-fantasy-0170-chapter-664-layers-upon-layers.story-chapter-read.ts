@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0170Chapter664LayersUponLayers = {
+  id: "01a06731-ae5e-7000-9636-2d220c0442c9",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0170-chapter-664-layers-upon-layers",
+  title: "Chapter: 664 - Layers Upon Layers",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 170,
+  ownLength: 3002,
+  ownProgress: 3002,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:40:30.820Z",
+  publishedAt: "2026-01-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2987426",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2987426/chapter-664-layers-upon-layers",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

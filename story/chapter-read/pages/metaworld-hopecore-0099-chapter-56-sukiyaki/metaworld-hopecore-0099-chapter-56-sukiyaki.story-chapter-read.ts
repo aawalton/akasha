@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const metaworldHopecore0099Chapter56Sukiyaki = {
+  id: "01a06731-aeff-7000-b36c-1443eb2c87ae",
+  type: "story-chapter-read",
+  slug: "metaworld-hopecore-0099-chapter-56-sukiyaki",
+  title: "CHAPTER 56 - Sukiyaki",
+  story: "story-read/metaworld-hopecore",
+  position: 99,
+  ownLength: 3918,
+  unit: "unit/words",
+  publishedAt: "2026-06-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3491089",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3491089/chapter-56-sukiyaki",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

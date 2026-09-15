@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thereIsNoEpicLootHereOnlyPuns002323NatureVsNurture = {
+  id: "01a06730-4f7a-776b-96d4-c61a052ccb91",
+  type: "story-chapter-read",
+  slug: "there-is-no-epic-loot-here-only-puns-0023-23-nature-vs-nurture",
+  title: "23: Nature vs Nurture",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
+  position: 23,
+  ownLength: 2053,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "189131",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/189131/23-nature-vs-nurture",
+    },
+  ],
+  publishedAt: "2018-01-24",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -3,17 +3,17 @@ import { wordsOf } from "akasha/agent/hook/modules/shell-calls/shell-calls.modul
 import {
   type TakenFor,
   takenFor,
-} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { guidance as guidanceArgument } from "akasha/command/arguments/pages/guidance.argument.ts"
-import { noPersist } from "akasha/command/arguments/pages/no-persist.argument.ts"
-import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
-import { promptFile } from "akasha/command/arguments/pages/prompt-file.argument.ts"
-import { renderPrompt } from "akasha/command/arguments/pages/render-prompt.argument.ts"
-import { seed as seedArgument } from "akasha/command/arguments/pages/seed.argument.ts"
-import { service as serviceArgument } from "akasha/command/arguments/pages/service.argument.ts"
-import { size as sizeArgument } from "akasha/command/arguments/pages/size.argument.ts"
-import { steps as stepsArgument } from "akasha/command/arguments/pages/steps.argument.ts"
-import { timeout as timeoutArgument } from "akasha/command/arguments/pages/timeout.argument.ts"
+} from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { guidance as guidanceArgument } from "akasha/command/argument/pages/guidance.argument.ts"
+import { noPersist } from "akasha/command/argument/pages/no-persist.argument.ts"
+import { output as outputArgument } from "akasha/command/argument/pages/output.argument.ts"
+import { promptFile } from "akasha/command/argument/pages/prompt-file.argument.ts"
+import { renderPrompt } from "akasha/command/argument/pages/render-prompt.argument.ts"
+import { seed as seedArgument } from "akasha/command/argument/pages/seed.argument.ts"
+import { service as serviceArgument } from "akasha/command/argument/pages/service.argument.ts"
+import { size as sizeArgument } from "akasha/command/argument/pages/size.argument.ts"
+import { steps as stepsArgument } from "akasha/command/argument/pages/steps.argument.ts"
+import { timeout as timeoutArgument } from "akasha/command/argument/pages/timeout.argument.ts"
 import {
   answering,
   refusedBy,
@@ -40,10 +40,10 @@ import {
   serviceNamed,
   wroteTo,
 } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
-import type { InferenceService } from "akasha/infrastructure/inference/runs/modules/services/inference-run-services.module.code.ts"
-import { INFERENCE_SERVICES } from "akasha/infrastructure/inference/runs/modules/services/inference-run-services.module.code.ts"
-import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
+import type { InferenceService } from "akasha/infrastructure/inference/run/modules/services/inference-run-services.module.code.ts"
+import { INFERENCE_SERVICES } from "akasha/infrastructure/inference/run/modules/services/inference-run-services.module.code.ts"
+import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
 
 const PAGES = [
   guidanceArgument,

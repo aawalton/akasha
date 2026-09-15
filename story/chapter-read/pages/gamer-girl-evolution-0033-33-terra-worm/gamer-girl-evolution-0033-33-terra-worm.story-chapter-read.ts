@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const gamerGirlEvolution003333TerraWorm = {
+  id: "01a06731-b0dd-7012-bc78-af4b3fcd0982",
+  type: "story-chapter-read",
+  slug: "gamer-girl-evolution-0033-33-terra-worm",
+  title: "33 - Terra Worm",
+  story: "story-read/gamer-girl-evolution",
+  position: 33,
+  ownLength: 1428,
+  ownProgress: 1428,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:06:38.301Z",
+  publishedAt: "2025-11-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2800977",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2800977/33-terra-worm",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

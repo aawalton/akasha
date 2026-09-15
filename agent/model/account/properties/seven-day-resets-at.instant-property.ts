@@ -1,4 +1,4 @@
-import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
+import type { InstantProperty } from "akasha/page/instant-property/instant-property.page-type.types.ts"
 
 export const sevenDayResetsAt = {
   id: "01a054d8-1d39-7e80-aa56-6c076151c9dc",

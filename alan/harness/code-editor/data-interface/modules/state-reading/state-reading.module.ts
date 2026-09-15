@@ -1,0 +1,73 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const stateReading = {
+  id: "01a072b8-a766-7b44-b1e8-c0c04920e385",
+  type: "module",
+  slug: "state-reading",
+  definition: "how a part of the editor reads the one file that part draws",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The folder is watched rather than the file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folder above is watched too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder taken away and put back is watched again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A part whose folder is not there yet is told once that folder arrives.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write replaces the file itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each part's file sits in a folder of that part's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "One watcher serves every part reading one folder rather than one watcher for each part.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A part draws the state already there before any change arrives.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read that failed draws nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The last good read is left on the screen.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file with the same bytes as the last read is drawn no second time.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here has a timer.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here works a picture out from the repository.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A read that is saved changes nothing a caller can see.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A part is told of no write another part's folder takes.",
+    },
+  ],
+} as const satisfies Module

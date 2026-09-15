@@ -1,6 +1,6 @@
 import { getUser } from "akasha/alan/harness/supabase-rr/modules/auth-server/auth-server.module.code.ts"
 import { ALANWALTON_APP_SLUG } from "akasha/alan/web/modules/alan-app-id/alan-app-id.module.code.ts"
-import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
+import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { data, type LoaderFunctionArgs } from "react-router"
 
 const NAV_PAGE_TYPE_SLUG = "nav"

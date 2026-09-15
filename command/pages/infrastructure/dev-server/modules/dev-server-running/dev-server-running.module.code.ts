@@ -1,6 +1,6 @@
 import { existsSync, openSync, unlinkSync } from "node:fs"
-import { seq as seqArgument } from "akasha/command/arguments/pages/seq.argument.ts"
-import { webApp } from "akasha/command/arguments/pages/web-app.argument.ts"
+import { seq as seqArgument } from "akasha/command/argument/pages/seq.argument.ts"
+import { webApp } from "akasha/command/argument/pages/web-app.argument.ts"
 import {
   answeredWith,
   asJson,
@@ -15,7 +15,7 @@ import {
   resolveEnvLocalPath,
   writeEnvLocalFromPages,
   wroteEnvSaid,
-} from "akasha/infrastructure/services/web-apps/modules/dev-server-env-writing/dev-server-env-writing.module.code.ts"
+} from "akasha/infrastructure/service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.code.ts"
 import {
   computePort,
   type DevServerState,
@@ -27,8 +27,8 @@ import {
   readStateFile,
   stateFilePath,
   writeStateFile,
-} from "akasha/infrastructure/services/web-apps/modules/dev-server-stating/dev-server-stating.module.code.ts"
-import { resolveWorktreePath } from "akasha/infrastructure/services/web-apps/modules/dev-server-worktree/dev-server-worktree.module.code.ts"
+} from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
+import { resolveWorktreePath } from "akasha/infrastructure/service/web-app/modules/dev-server-worktree/dev-server-worktree.module.code.ts"
 import { errnoCodeOf } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 import { enforceMemoryGuard } from "akasha/utils/system/modules/memory-guard/memory-guard.module.code.ts"
 

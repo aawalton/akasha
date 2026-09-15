@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0277194IEuthanasiaIi = {
+  id: "01a06730-4e41-795e-a6dd-0c5fdcf18410",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0277-194-i-euthanasia-ii",
+  title: "194 (I) Euthanasia [II]",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 277,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2764011/194-i-euthanasia-ii",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

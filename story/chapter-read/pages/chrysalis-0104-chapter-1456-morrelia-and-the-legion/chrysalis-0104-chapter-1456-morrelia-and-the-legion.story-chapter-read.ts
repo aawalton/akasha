@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0104Chapter1456MorreliaAndTheLegion = {
+  id: "01a0672c-eb5e-7004-acfd-db80f2d7f133",
+  type: "story-chapter-read",
+  slug: "chrysalis-0104-chapter-1456-morrelia-and-the-legion",
+  title: "Chapter 1456 - Morrelia and the Legion",
+  story: "story-read/chrysalis",
+  position: 104,
+  ownLength: 1115,
+  ownProgress: 1115,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:47:24.467Z",
+  publishedAt: "2024-11-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1911803",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1911803/chapter-1456-morrelia-and-the-legion",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

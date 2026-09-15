@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const labyrinthOfTheMadGod0113Chapter72Kata = {
+  id: "01a0672c-eb75-700d-8070-a3aaff00368c",
+  type: "story-chapter-read",
+  slug: "labyrinth-of-the-mad-god-0113-chapter-72-kata",
+  title: "Chapter 72: Kata",
+  story: "story-read/labyrinth-of-the-mad-god",
+  position: 113,
+  ownLength: 1522,
+  unit: "unit/words",
+  publishedAt: "2025-01-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1986625",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1986625/chapter-72-kata",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

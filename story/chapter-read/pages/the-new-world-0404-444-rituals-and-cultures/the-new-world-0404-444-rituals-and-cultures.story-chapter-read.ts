@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld0404444RitualsAndCultures = {
+  id: "01a06730-4f00-7600-af14-d997024f905f",
+  type: "story-chapter-read",
+  slug: "the-new-world-0404-444-rituals-and-cultures",
+  title: "444 Rituals and Cultures",
+  story: "story-read/the-new-world",
+  position: 404,
+  ownLength: 7243,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2392767",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2392767/444-rituals-and-cultures",
+    },
+  ],
+  publishedAt: "2025-06-28",
+  ownProgress: 7243,
+  completedAt: "2026-06-29T21:35:15.518Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

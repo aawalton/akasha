@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0175Chapter1527TheTanks = {
+  id: "01a0672c-eb61-7008-8eab-8fdcfd6f56af",
+  type: "story-chapter-read",
+  slug: "chrysalis-0175-chapter-1527-the-tanks",
+  title: "Chapter 1527 - The Tanks",
+  story: "story-read/chrysalis",
+  position: 175,
+  ownLength: 863,
+  ownProgress: 863,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:49:26.457Z",
+  publishedAt: "2025-03-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2120823",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2120823/chapter-1527-the-tanks",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

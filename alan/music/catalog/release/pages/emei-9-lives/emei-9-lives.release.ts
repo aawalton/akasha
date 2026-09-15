@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const emei9Lives = {
+  id: "01a0676a-d715-7019-965d-318cb5d92e2c",
+  type: "release",
+  slug: "emei-9-lives",
+  title: "9 LIVES",
+  partOfCollections: ["artist/emei"],
+  position: 0,
+  ownLength: 7.346483,
+  ownProgress: 7.346483,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2024-11-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7hpEYDgSxgLy8t8TFNnCn7",
+      externalLink: "https://open.spotify.com/album/7hpEYDgSxgLy8t8TFNnCn7",
+    },
+  ],
+} as const satisfies Release

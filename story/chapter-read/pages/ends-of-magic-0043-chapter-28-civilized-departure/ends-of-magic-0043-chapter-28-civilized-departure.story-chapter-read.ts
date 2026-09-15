@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const endsOfMagic0043Chapter28CivilizedDeparture = {
+  id: "01a06731-ade6-7000-82f2-d32554cc156c",
+  type: "story-chapter-read",
+  slug: "ends-of-magic-0043-chapter-28-civilized-departure",
+  title: "Chapter 28: Civilized Departure",
+  story: "story-read/ends-of-magic",
+  position: 43,
+  ownLength: 2912,
+  ownProgress: 2912,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:08:38.708Z",
+  publishedAt: "2025-11-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2737446",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2737446/chapter-28-civilized-departure",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

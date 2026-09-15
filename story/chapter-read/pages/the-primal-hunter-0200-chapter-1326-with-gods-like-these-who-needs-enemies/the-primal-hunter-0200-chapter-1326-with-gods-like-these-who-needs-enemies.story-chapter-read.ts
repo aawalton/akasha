@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0200Chapter1326WithGodsLikeTheseWhoNeedsEnemies = {
+  id: "01a06730-4e31-7004-b231-d33766070cd5",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0200-chapter-1326-with-gods-like-these-who-needs-enemies",
+  title: "Chapter 1326 - With Gods Like These, Who Needs Enemies?",
+  story: "story-read/the-primal-hunter",
+  position: 200,
+  ownLength: 2993,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3487873",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3487873/chapter-1326-with-gods-like-these-who-needs-enemies",
+    },
+  ],
+  publishedAt: "2026-06-03",
+  prose: "txt",
+} as const satisfies StoryChapterRead

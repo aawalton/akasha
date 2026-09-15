@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const delve0200200Understanding = {
+  id: "01a06731-af8e-7000-a458-f661e80da542",
+  type: "story-chapter-read",
+  slug: "delve-0200-200-understanding",
+  title: "200: Understanding",
+  story: "story-read/delve",
+  position: 200,
+  ownLength: 5444,
+  unit: "unit/words",
+  publishedAt: "2022-07-31",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "960128",
+      externalLink:
+        "https://www.royalroad.com/fiction/25225/delve/chapter/960128/200-understanding",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

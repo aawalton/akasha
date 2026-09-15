@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thereIsNoEpicLootHereOnlyPuns0167149TheCostOfMagic = {
+  id: "01a06730-5339-7d80-a55c-fc13d9c678d0",
+  type: "story-chapter-read",
+  slug: "there-is-no-epic-loot-here-only-puns-0167-149-the-cost-of-magic",
+  title: "149: The Cost of Magic",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
+  position: 167,
+  ownLength: 3923,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "824862",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/824862/149-the-cost-of-magic",
+    },
+  ],
+  publishedAt: "2022-01-14",
+  prose: "txt",
+} as const satisfies StoryChapterRead

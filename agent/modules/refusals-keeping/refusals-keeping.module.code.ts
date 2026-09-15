@@ -1,7 +1,7 @@
 import { rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ANSWER_CEILING } from "akasha/command/modules/long-body/long-body.module.code.ts"
-import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const SLUG = "refusals"
 

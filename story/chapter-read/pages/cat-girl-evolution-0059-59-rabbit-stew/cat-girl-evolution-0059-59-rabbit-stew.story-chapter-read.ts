@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const catGirlEvolution005959RabbitStew = {
+  id: "01a06731-affe-7002-9039-22715148d28a",
+  type: "story-chapter-read",
+  slug: "cat-girl-evolution-0059-59-rabbit-stew",
+  title: "59 - Rabbit Stew",
+  story: "story-read/cat-girl-evolution",
+  position: 59,
+  ownLength: 2104,
+  unit: "unit/words",
+  publishedAt: "2025-12-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2826414",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2826414/59-rabbit-stew",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

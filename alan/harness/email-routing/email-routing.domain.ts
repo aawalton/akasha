@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const emailRouting = {
   id: "01a0a134-8b3b-73ff-8e4a-6023f834c680",

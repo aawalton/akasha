@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const coldplayGhostStories = {
+  id: "01a0676a-d71e-705a-a817-a5eae62043d3",
+  type: "release",
+  slug: "coldplay-ghost-stories",
+  title: "Ghost Stories",
+  partOfCollections: ["artist/coldplay"],
+  position: 0,
+  ownLength: 40.301967,
+  ownProgress: 40.301967,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2014-05-16",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2G4AUqfwxcV1UdQjm2ouYr",
+      externalLink: "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr",
+    },
+  ],
+} as const satisfies Release

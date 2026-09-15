@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const heWhoFightsWithMonsters0072Chapter1004SchedulingYourCallousDumping = {
+  id: "01a06731-adf0-7000-beb9-9c408b98b286",
+  type: "story-chapter-read",
+  slug: "he-who-fights-with-monsters-0072-chapter-1004-scheduling-your-callous-dumping",
+  title: "Chapter 1004: Scheduling Your Callous Dumping",
+  story: "story-read/he-who-fights-with-monsters",
+  position: 72,
+  ownLength: 2109,
+  unit: "unit/words",
+  publishedAt: "2026-06-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3511677",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3511677/chapter-1004-scheduling-your-callous-dumping",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

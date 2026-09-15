@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherMyDoublingsAccountHolds = {
-  id: "01a077e4-3332-7182-8248-54ecc21b71ba",
-  type: "all-about-alan-question",
-  slug: "whether-my-doublings-account-holds",
-  topic: "all-about-alan-topic/how-time-passes-for-me",
-  ask: "How does my doublings version of a unit of time feeling smaller the longer you have lived hold up against the literature, which has only the plain version?",
-} as const satisfies AllAboutAlanQuestion

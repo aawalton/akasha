@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const forgeOfDestiny0582ThreadsChapter533Blast2 = {
+  id: "01a0672c-eb59-7010-92f9-b11e70823573",
+  type: "story-chapter-read",
+  slug: "forge-of-destiny-0582-threads-chapter-533-blast-2",
+  title: "Threads Chapter 533-Blast 2",
+  story: "story-read/forge-of-destiny",
+  position: 582,
+  ownLength: 1940,
+  unit: "unit/words",
+  publishedAt: "2026-07-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3717273",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3717273/threads-chapter-533-blast-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

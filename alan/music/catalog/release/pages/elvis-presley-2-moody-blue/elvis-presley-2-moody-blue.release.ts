@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2MoodyBlue = {
+  id: "01a0676a-d724-7082-b273-44c28bd58276",
+  type: "release",
+  slug: "elvis-presley-2-moody-blue",
+  title: "Moody Blue",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 31.105933,
+  ownProgress: 31.105933,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1977-07-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "08bROKoMarHS0jRzZOEv08",
+      externalLink: "https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08",
+    },
+  ],
+} as const satisfies Release

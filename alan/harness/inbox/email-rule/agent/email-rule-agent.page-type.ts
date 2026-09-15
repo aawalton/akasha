@@ -1,0 +1,33 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const emailRuleAgent = {
+  id: "01a06828-59d3-7dd3-b9b9-fa6dda8d02d4",
+  type: "page-type",
+  slug: "email-rule-agent",
+  definition: "an email rule an agent carries out",
+  extends: ["page-type/email-rule"],
+  parts: ["text-property/email-rule-judgement"],
+  properties: [{ pageProperty: "text-property/email-rule-judgement", required: true, many: false }],
+  loadedBy: "module/email-rule-reading",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A rule of this kind narrows the mail and leaves the answer to an agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule of this kind states the grounds to weigh rather than the act to take.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Mail nobody has yet understood reaches a rule of this kind rather than being acted on by pattern.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A case an agent comes to understand becomes a code rule and stops reaching an agent rule.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

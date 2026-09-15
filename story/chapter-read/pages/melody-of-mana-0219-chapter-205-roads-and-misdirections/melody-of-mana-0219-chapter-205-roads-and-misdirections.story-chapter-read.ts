@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0219Chapter205RoadsAndMisdirections = {
+  id: "01a06731-ad83-700f-ad42-590ba920f763",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0219-chapter-205-roads-and-misdirections",
+  title: "Chapter 205 Roads and Misdirections",
+  story: "story-read/melody-of-mana",
+  position: 219,
+  ownLength: 1785,
+  ownProgress: 1785,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:33:24.335Z",
+  publishedAt: "2023-01-25",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1096443",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1096443/chapter-205-roads-and-misdirections",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

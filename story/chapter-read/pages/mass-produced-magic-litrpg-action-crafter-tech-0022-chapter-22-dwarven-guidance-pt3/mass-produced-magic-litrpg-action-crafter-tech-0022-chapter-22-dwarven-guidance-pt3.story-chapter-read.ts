@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const massProducedMagicLitrpgActionCrafterTech0022Chapter22DwarvenGuidancePt3 = {
+  id: "01a06731-afb0-7000-96d6-901655a1dd10",
+  type: "story-chapter-read",
+  slug: "mass-produced-magic-litrpg-action-crafter-tech-0022-chapter-22-dwarven-guidance-pt3",
+  title: "Chapter 22 – Dwarven Guidance – Pt3",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
+  position: 22,
+  ownLength: 2167,
+  unit: "unit/words",
+  publishedAt: "2024-12-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1937733",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1937733/chapter-22-dwarven-guidance-pt3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

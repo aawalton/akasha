@@ -1,0 +1,347 @@
+import { afterAll, expect, test } from "bun:test"
+import { existsSync, mkdirSync, renameSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
+import type {
+  Adding,
+  Moving,
+  Removing,
+} from "akasha/change/modules/answer/change-answer.module.types.ts"
+import {
+  carriesLock,
+  installedIn,
+  installingIn,
+  lockedOver,
+  lockingFor,
+  manifestMovesIn,
+  manifestsIn,
+  NOTHING_INSTALLED,
+  NOTHING_LOCKED,
+  sameBytes,
+} from "akasha/code/workspace/modules/manifest-locking/manifest-locking.module.code.ts"
+import { bodyIn as bodyOf } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
+import { anythingThere as linkThere } from "akasha/utils/fs/modules/anything-there/anything-there.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+const MANIFEST = "package.json"
+
+const LOCK = "bun.lock"
+
+const MODULES = "node_modules"
+
+const ROOT_BODY = `{
+  "name": "held",
+  "private": true,
+  "workspaces": [
+    "held/*"
+  ]
+}
+`
+
+const FROZEN = ["bun", "install", "--frozen-lockfile", "--dry-run"]
+
+const LINKED_BODY = `{
+  "name": "held",
+  "private": true,
+  "workspaces": [
+    "held/*"
+  ],
+  "dependencies": {
+    "@held/one": "workspace:*"
+  }
+}
+`
+
+function packageBody(name: string): string {
+  return `{\n  "name": "@held/${name}",\n  "version": "0.0.0"\n}\n`
+}
+
+function bytes(text: string): Uint8Array {
+  return new TextEncoder().encode(text)
+}
+
+function world(whole: boolean = false): string {
+  const root = scratch.rootFor("akasha-manifest-locking-")
+  for (const [path, body] of Object.entries({
+    [MANIFEST]: whole ? LINKED_BODY : ROOT_BODY,
+    "held/one/package.json": packageBody("one"),
+    "held/two/package.json": packageBody("two"),
+  })) {
+    const at = join(root, path)
+    mkdirSync(join(at, ".."), { recursive: true })
+    writeFileSync(at, body)
+  }
+  ran(whole ? ["bun", "install"] : ["bun", "install", "--lockfile-only"], { cwd: root })
+  git(root, ["init", "--quiet"])
+  git(root, ["config", "user.email", "held@nowhere"])
+  git(root, ["config", "user.name", "Held"])
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "first"])
+  return root
+}
+
+const ARRIVING: readonly Adding[] = [
+  { kind: "add", path: "held/three/package.json", content: packageBody("three") },
+]
+
+test("a manifest is one named package.json at the root or under a folder", () => {
+  expect(
+    manifestsIn([
+      { kind: "remove", path: MANIFEST },
+      { kind: "remove", path: "held/one/package.json" },
+      { kind: "remove", path: "held/one/package.jsonc" },
+      { kind: "remove", path: "held/one/src/held.ts" },
+    ]).map((one) => one.path)
+  ).toEqual([MANIFEST, "held/one/package.json"])
+})
+
+test("a manifest a rename names either end of is a manifest moved", () => {
+  expect(
+    manifestMovesIn([
+      { kind: "move", pathFrom: "held/one/package.json", pathTo: "held/moved/package.json" },
+      { kind: "move", pathFrom: "held/one/src/held.ts", pathTo: "held/one/src/moved.ts" },
+    ]).map((one) => one.pathTo)
+  ).toEqual(["held/moved/package.json"])
+})
+
+test("a landing carrying a lockfile of its own is known from one that does not", () => {
+  expect(carriesLock([{ kind: "remove", path: LOCK }])).toBe(true)
+  expect(carriesLock(ARRIVING)).toBe(false)
+})
+
+test("two bodies are the same bytes or they are not, and nothing is not a body", () => {
+  expect(sameBytes(bytes("a"), bytes("a"))).toBe(true)
+  expect(sameBytes(bytes("a"), bytes("b"))).toBe(false)
+  expect(sameBytes(bytes("a"), bytes("aa"))).toBe(false)
+  expect(sameBytes(null, null)).toBe(true)
+  expect(sameBytes(null, bytes("a"))).toBe(false)
+})
+
+test("a landing carrying no manifest asks for no change and has nothing to say", () => {
+  const root = world()
+  expect(
+    lockingFor(root, baseOf(root), [{ kind: "add", path: "held/one/src/held.ts", content: "" }])
+  ).toEqual(NOTHING_LOCKED)
+})
+
+test("a landing carrying its own lockfile is taken at its word", () => {
+  const root = world()
+  const held: readonly Adding[] = [...ARRIVING, { kind: "add", path: LOCK, content: "held" }]
+  expect(lockingFor(root, baseOf(root), held)).toEqual(NOTHING_LOCKED)
+})
+
+test("a manifest that moves the lockfile nowhere is carried by no landing", () => {
+  const root = world()
+  const same: readonly Adding[] = [
+    { kind: "add", path: "held/one/package.json", content: packageBody("one") },
+  ]
+  expect(lockingFor(root, baseOf(root), same)).toEqual(NOTHING_LOCKED)
+})
+
+test("a lockfile that could not be made leaves the landing whole and says so", () => {
+  const root = world()
+  const held = lockingFor(root, "no-commit-of-that-name", ARRIVING)
+  expect(held.edits).toEqual([])
+  expect(held.said[0]).toContain("could not be made again")
+  expect(lockedOver(root, "no-commit-of-that-name", ARRIVING)).toBe(null)
+})
+
+test("a manifest arriving takes the lockfile with it, and the tree installs after", () => {
+  const root = world()
+  const held = lockingFor(root, baseOf(root), ARRIVING)
+  expect(held.edits.map((one) => one.path)).toEqual([LOCK])
+  for (const one of ARRIVING) {
+    const at = join(root, one.path)
+    mkdirSync(join(at, ".."), { recursive: true })
+    writeFileSync(at, one.content)
+  }
+  expect(ran(FROZEN, { cwd: root }).code).not.toBe(0)
+  for (const one of held.edits) {
+    writeFileSync(join(root, one.path), bodyOf(one))
+  }
+  expect(ran(FROZEN, { cwd: root }).code).toBe(0)
+})
+
+test("a landing carrying no manifest installs nothing", () => {
+  const root = world()
+  expect(installingIn(root, [{ kind: "add", path: "held/one/src/held.ts", content: "" }])).toEqual(
+    NOTHING_INSTALLED
+  )
+})
+
+test("a landing carrying a manifest points the workspace at the folder that manifest names", () => {
+  const root = world(true)
+  const link = join(root, MODULES, "@held", "one")
+  expect(existsSync(link)).toBe(true)
+  const moving: readonly (Adding | Removing)[] = [
+    { kind: "remove", path: "held/one/package.json" },
+    { kind: "add", path: "held/moved/package.json", content: packageBody("one") },
+  ]
+  const locked = lockingFor(root, baseOf(root), moving)
+  for (const one of moving) {
+    const at = join(root, one.path)
+    if (one.kind === "remove") {
+      rmSync(join(at, ".."), { recursive: true, force: true })
+      continue
+    }
+    mkdirSync(join(at, ".."), { recursive: true })
+    writeFileSync(at, one.content)
+  }
+  for (const one of locked.edits) {
+    const at = join(root, one.path)
+    mkdirSync(join(at, ".."), { recursive: true })
+    writeFileSync(at, bodyOf(one))
+  }
+  expect(existsSync(link)).toBe(false)
+  const put = installingIn(root, moving)
+  expect(put.wrong).toEqual([])
+  expect(existsSync(link)).toBe(true)
+})
+
+test("a lockfile the install makes again says the commit carries one its manifests do not warrant", () => {
+  const root = world(true)
+  const at = join(root, "held/three/package.json")
+  mkdirSync(join(at, ".."), { recursive: true })
+  writeFileSync(at, packageBody("three"))
+  const put = installedIn(root)
+  expect(put.said).toEqual([])
+  expect(put.wrong[0]).toContain(LOCK)
+})
+
+function strandedLink(root: string, path: string): string {
+  const at = join(root, MODULES, path)
+  mkdirSync(join(at, ".."), { recursive: true })
+  symlinkSync(join(root, "held", "nowhere"), at)
+  return at
+}
+
+test("an install takes away a link under node_modules reaching a folder no manifest names", () => {
+  const root = world(true)
+  const scoped = strandedLink(root, "@held/stranded")
+  const flat = strandedLink(root, "stranded")
+  const put = installedIn(root)
+  expect(put.wrong).toEqual([])
+  expect(linkThere(scoped)).toBe(false)
+  expect(linkThere(flat)).toBe(false)
+  expect(put.said.join("\n")).toContain("@held/stranded, stranded")
+})
+
+test("an install takes away a link reaching a folder whose manifest names another package", () => {
+  const root = world(true)
+  const was = join(root, MODULES, "@held", "one")
+  expect(existsSync(was)).toBe(true)
+  const renaming: readonly Adding[] = [
+    { kind: "add", path: MANIFEST, content: LINKED_BODY.replace("@held/one", "@held/renamed") },
+    { kind: "add", path: "held/one/package.json", content: packageBody("renamed") },
+  ]
+  const locked = lockingFor(root, baseOf(root), renaming)
+  for (const one of renaming) {
+    writeFileSync(join(root, one.path), one.content)
+  }
+  for (const one of locked.edits) {
+    writeFileSync(join(root, one.path), bodyOf(one))
+  }
+  const put = installingIn(root, renaming)
+  expect(put.wrong).toEqual([])
+  expect(linkThere(was)).toBe(false)
+  expect(existsSync(join(root, MODULES, "@held", "renamed"))).toBe(true)
+  expect(put.said.join("\n")).toContain("@held/one")
+})
+
+test("an install leaves a link reaching the folder whose manifest names that link", () => {
+  const root = world(true)
+  const link = join(root, MODULES, "@held", "one")
+  expect(existsSync(link)).toBe(true)
+  const put = installedIn(root)
+  expect(put.wrong).toEqual([])
+  expect(linkThere(link)).toBe(true)
+  expect(put.said.join("\n")).not.toContain("reached a folder no")
+})
+
+test("an install takes away a link at the top of node_modules whose name is a scope", () => {
+  const root = world(true)
+  const at = strandedLink(root, "@collections")
+  const put = installedIn(root)
+  expect(put.wrong).toEqual([])
+  expect(linkThere(at)).toBe(false)
+  expect(put.said.join("\n")).toContain("@collections")
+})
+
+test("an install takes away a link inside a folder under node_modules that is no scope", () => {
+  const root = world(true)
+  const at = strandedLink(root, ".bin/held-runner")
+  const put = installedIn(root)
+  expect(put.wrong).toEqual([])
+  expect(linkThere(at)).toBe(false)
+  expect(put.said.join("\n")).toContain(".bin/held-runner")
+})
+
+test("an install leaves a link inside a package's own node_modules alone", () => {
+  const root = world(true)
+  const at = strandedLink(root, "held-pkg/node_modules/deeper")
+  const put = installedIn(root)
+  expect(put.wrong).toEqual([])
+  expect(linkThere(at)).toBe(true)
+  expect(put.said.join("\n")).not.toContain("deeper")
+})
+
+test("an install leaves a folder under node_modules that is no link", () => {
+  const root = world(true)
+  const flat = join(root, MODULES, "real")
+  const scoped = join(root, MODULES, "@held", "real")
+  for (const one of [flat, scoped]) mkdirSync(one, { recursive: true })
+  const put = installedIn(root)
+  expect(put.wrong).toEqual([])
+  expect(existsSync(flat)).toBe(true)
+  expect(existsSync(scoped)).toBe(true)
+})
+
+const MOVED: readonly Moving[] = [
+  { kind: "move", pathFrom: "held/one/package.json", pathTo: "held/moved/package.json" },
+]
+
+test("a manifest moved to another path takes the lockfile with it", () => {
+  const root = world()
+  const held = lockingFor(root, baseOf(root), MOVED)
+  expect(held.edits.map((one) => one.path)).toEqual([LOCK])
+  renameSync(join(root, "held/one"), join(root, "held/moved"))
+  expect(ran(FROZEN, { cwd: root }).code).not.toBe(0)
+  for (const one of held.edits) {
+    writeFileSync(join(root, one.path), bodyOf(one))
+  }
+  expect(ran(FROZEN, { cwd: root }).code).toBe(0)
+})
+
+test("a landing carrying a manifest to another path points the workspace at that path", () => {
+  const root = world(true)
+  const link = join(root, MODULES, "@held", "one")
+  expect(existsSync(link)).toBe(true)
+  const locked = lockingFor(root, baseOf(root), MOVED)
+  renameSync(join(root, "held/one"), join(root, "held/moved"))
+  for (const one of locked.edits) {
+    writeFileSync(join(root, one.path), bodyOf(one))
+  }
+  expect(existsSync(link)).toBe(false)
+  const put = installingIn(root, MOVED)
+  expect(put.wrong).toEqual([])
+  expect(existsSync(link)).toBe(true)
+})
+
+test("a manifest going takes the lockfile with it, as one arriving does", () => {
+  const root = world()
+  const going: readonly Removing[] = [{ kind: "remove", path: "held/one/package.json" }]
+  const held = lockingFor(root, baseOf(root), going)
+  expect(held.edits.map((one) => one.path)).toEqual([LOCK])
+  rmSync(join(root, "held/one"), { recursive: true, force: true })
+  expect(ran(FROZEN, { cwd: root }).code).not.toBe(0)
+  for (const one of held.edits) {
+    writeFileSync(join(root, one.path), bodyOf(one))
+  }
+  expect(ran(FROZEN, { cwd: root }).code).toBe(0)
+})

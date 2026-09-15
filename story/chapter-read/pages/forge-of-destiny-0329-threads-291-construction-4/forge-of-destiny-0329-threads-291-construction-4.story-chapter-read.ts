@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const forgeOfDestiny0329Threads291Construction4 = {
+  id: "01a06591-3e04-7d6b-9426-737dbf5e5f75",
+  type: "story-chapter-read",
+  slug: "forge-of-destiny-0329-threads-291-construction-4",
+  title: "Threads 291 Construction 4",
+  story: "story-read/forge-of-destiny",
+  position: 329,
+  ownLength: 2672,
+  unit: "unit/words",
+  publishedAt: "2023-03-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1133526",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1133526/threads-291-construction-4",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

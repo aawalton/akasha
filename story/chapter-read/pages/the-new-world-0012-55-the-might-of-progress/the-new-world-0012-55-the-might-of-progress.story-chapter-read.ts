@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld001255TheMightOfProgress = {
+  id: "01a06730-4e34-76bb-ba8d-30457aa7e4fc",
+  type: "story-chapter-read",
+  slug: "the-new-world-0012-55-the-might-of-progress",
+  title: "55 The Might of Progress",
+  story: "story-read/the-new-world",
+  position: 12,
+  ownLength: 2391,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167010",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167010/55-the-might-of-progress",
+    },
+  ],
+  publishedAt: "2017-10-09",
+  ownProgress: 2391,
+  completedAt: "2026-06-29T21:21:07.220Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

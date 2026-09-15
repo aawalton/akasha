@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const fleshEaterDemonEvolutionLitrpg0024ChapterTwentyThreePiecesOfThePuzzle = {
+  id: "01a06731-af44-7000-a47a-49a472505f27",
+  type: "story-chapter-read",
+  slug: "flesh-eater-demon-evolution-litrpg-0024-chapter-twenty-three-pieces-of-the-puzzle",
+  title: "Chapter Twenty-Three: Pieces of the Puzzle",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
+  position: 24,
+  ownLength: 2849,
+  unit: "unit/words",
+  publishedAt: "2025-09-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2631837",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2631837/chapter-twenty-three-pieces-of-the-puzzle",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

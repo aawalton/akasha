@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theTabernacleChoirAtTempleSquareHomewardBound = {
+  id: "01a0676a-d720-7058-8464-f9cb839941bf",
+  type: "release",
+  slug: "the-tabernacle-choir-at-temple-square-homeward-bound",
+  title: "Homeward Bound",
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
+  position: 0,
+  ownLength: 78.170317,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2013-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3UfAeAvgqU19XEyRFBzNNS",
+      externalLink: "https://open.spotify.com/album/3UfAeAvgqU19XEyRFBzNNS",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

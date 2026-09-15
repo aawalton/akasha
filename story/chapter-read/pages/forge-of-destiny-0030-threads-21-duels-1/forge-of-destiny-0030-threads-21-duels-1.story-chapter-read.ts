@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const forgeOfDestiny0030Threads21Duels1 = {
+  id: "01a0672c-eb10-7004-ada2-007b91fa4d01",
+  type: "story-chapter-read",
+  slug: "forge-of-destiny-0030-threads-21-duels-1",
+  title: "Threads 21-Duels 1",
+  story: "story-read/forge-of-destiny",
+  position: 30,
+  ownLength: 3680,
+  unit: "unit/words",
+  publishedAt: "2020-12-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "598140",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/598140/threads-21-duels-1",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

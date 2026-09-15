@@ -9,8 +9,8 @@ import type { GitCall } from "akasha/agent/hook/modules/git-calls/git-calls.modu
 import { gitCallsIn } from "akasha/agent/hook/modules/git-calls/git-calls.module.code.ts"
 import { RUNS_ANOTHER } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { canonicalize, isInside } from "akasha/pages/modules/repo-path/repo-path.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { canonicalize, isInside } from "akasha/page/modules/repo-path/repo-path.module.code.ts"
 
 const HOOK = "block-git-writes"
 

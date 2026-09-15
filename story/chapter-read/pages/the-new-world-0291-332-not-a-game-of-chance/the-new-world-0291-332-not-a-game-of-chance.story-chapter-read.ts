@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld0291332NotAGameOfChance = {
+  id: "01a06730-4ec2-7f5b-aee4-4f6f161b68a1",
+  type: "story-chapter-read",
+  slug: "the-new-world-0291-332-not-a-game-of-chance",
+  title: "332 Not A Game of Chance",
+  story: "story-read/the-new-world",
+  position: 291,
+  ownLength: 4012,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "845742",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/845742/332-not-a-game-of-chance",
+    },
+  ],
+  publishedAt: "2022-02-14",
+  ownProgress: 4012,
+  completedAt: "2026-06-29T21:31:12.373Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

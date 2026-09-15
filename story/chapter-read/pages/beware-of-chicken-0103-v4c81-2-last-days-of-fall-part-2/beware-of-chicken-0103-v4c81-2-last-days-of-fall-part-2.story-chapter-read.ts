@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0103V4c812LastDaysOfFallPart2 = {
+  id: "01a06731-ad89-700c-b0c2-cf06e2983827",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0103-v4c81-2-last-days-of-fall-part-2",
+  title: "v4c81.2: Last Days of Fall part 2",
+  story: "story-read/beware-of-chicken",
+  position: 103,
+  ownLength: 2035,
+  ownProgress: 2035,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:55:01.370Z",
+  publishedAt: "2024-03-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1544681",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1544681/v4c812-last-days-of-fall-part-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

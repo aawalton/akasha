@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const imagineDragonsFollowYouSummer21Version = {
+  id: "01a0676a-d71e-7022-94f6-f1c8c4f73ed0",
+  type: "release",
+  slug: "imagine-dragons-follow-you-summer-21-version",
+  title: "Follow You (Summer ’21 Version)",
+  partOfCollections: ["artist/imagine-dragons"],
+  position: 0,
+  ownLength: 5.8098,
+  ownProgress: 5.8098,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-06-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5XbogAOTpIAb0cuULw9FcP",
+      externalLink: "https://open.spotify.com/album/5XbogAOTpIAb0cuULw9FcP",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2ElvisGoldRecordsVol4 = {
+  id: "01a0676a-d71c-7071-aefa-b9fee9837cba",
+  type: "release",
+  slug: "elvis-presley-2-elvis-gold-records-vol-4",
+  title: "Elvis' Gold Records, Vol. 4",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 33.997917,
+  ownProgress: 33.997917,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1968-01-22",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ufobt4J5vaT3z7lgUub6a",
+      externalLink: "https://open.spotify.com/album/3ufobt4J5vaT3z7lgUub6a",
+    },
+  ],
+} as const satisfies Release

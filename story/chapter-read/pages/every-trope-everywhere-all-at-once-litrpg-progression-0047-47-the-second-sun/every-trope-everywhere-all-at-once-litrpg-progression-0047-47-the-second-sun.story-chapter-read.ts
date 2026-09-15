@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const everyTropeEverywhereAllAtOnceLitrpgProgression004747TheSecondSun = {
+  id: "01a06731-ae0f-7005-90d5-fc4ea9dab212",
+  type: "story-chapter-read",
+  slug: "every-trope-everywhere-all-at-once-litrpg-progression-0047-47-the-second-sun",
+  title: "47 - The Second Sun",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
+  position: 47,
+  ownLength: 1768,
+  unit: "unit/words",
+  publishedAt: "2026-06-15",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3545116",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3545116/47-the-second-sun",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

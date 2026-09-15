@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0027Chapter459PrecautionaryMeasures = {
+  id: "01a06730-4e09-77a2-89d9-98503567dce0",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0027-chapter-459-precautionary-measures",
+  title: "Chapter 459: Precautionary Measures",
+  story: "story-read/rise-of-the-living-forge",
+  position: 27,
+  ownLength: 2044,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2457153",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2457153/chapter-459-precautionary-measures",
+    },
+  ],
+  publishedAt: "2025-07-22",
+  ownProgress: 2044,
+  completedAt: "2026-06-29T19:59:19.454Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

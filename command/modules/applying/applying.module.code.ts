@@ -6,11 +6,11 @@ import {
   recordRead,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { refusalsKept } from "akasha/agent/modules/refusals-keeping/refusals-keeping.module.code.ts"
-import { leftAt } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { leftAt } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import { MEASURING } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
-import { installingIn } from "akasha/code/workspaces/modules/manifest-locking/manifest-locking.module.code.ts"
+import { installingIn } from "akasha/code/workspace/modules/manifest-locking/manifest-locking.module.code.ts"
 import {
   answeredWith,
   INPUT,
@@ -49,9 +49,9 @@ import {
 } from "akasha/git/modules/committing/committing.module.code.ts"
 import { refusedWhereHeld } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
-import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { slugAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const NOTHING_HELD = "no rows were handed in, so nothing is there to apply"
 

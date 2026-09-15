@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/library/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const ezekiel10 = {
+  id: "01a06804-11ac-7040-a5d8-7b469ca1d5bd",
+  type: "scripture-passage",
+  slug: "ezekiel-10",
+  title: "Ezekiel 10",
+  book: "Ezekiel",
+  position: 10,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "ezekiel10",
+} as const satisfies ScripturePassage

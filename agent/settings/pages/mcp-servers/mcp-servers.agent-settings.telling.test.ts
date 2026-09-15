@@ -5,7 +5,7 @@ import {
   bodyIn,
   ranBy,
 } from "akasha/agent/settings/pages/mcp-servers/mcp-servers.agent-settings.telling.code.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

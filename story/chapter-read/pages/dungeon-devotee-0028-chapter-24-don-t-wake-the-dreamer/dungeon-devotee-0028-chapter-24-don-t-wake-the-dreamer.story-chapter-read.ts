@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonDevotee0028Chapter24DonTWakeTheDreamer = {
+  id: "01a06731-b10d-7000-83fa-2c11cc65419b",
+  type: "story-chapter-read",
+  slug: "dungeon-devotee-0028-chapter-24-don-t-wake-the-dreamer",
+  title: "Chapter 24: Don’t Wake the Dreamer",
+  story: "story-read/dungeon-devotee",
+  position: 28,
+  ownLength: 7944,
+  ownProgress: 7944,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:40:01.087Z",
+  publishedAt: "2023-09-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1329629",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1329629/chapter-24-dont-wake-the-dreamer",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

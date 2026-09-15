@@ -1,7 +1,7 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { seq } from "akasha/command/arguments/pages/seq.argument.ts"
-import { webApp } from "akasha/command/arguments/pages/web-app.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { seq } from "akasha/command/argument/pages/seq.argument.ts"
+import { webApp } from "akasha/command/argument/pages/web-app.argument.ts"
 import {
   asJson,
   codeOf,
@@ -17,14 +17,14 @@ import {
   devServerTsvLine,
   recordFromState,
   stoppedRecord,
-} from "akasha/infrastructure/services/web-apps/modules/dev-server-recording/dev-server-recording.module.code.ts"
+} from "akasha/infrastructure/service/web-app/modules/dev-server-recording/dev-server-recording.module.code.ts"
 import {
   type DevServerState,
   isPidAlive,
   listStateFiles,
   lookupApp,
   readStateFile,
-} from "akasha/infrastructure/services/web-apps/modules/dev-server-stating/dev-server-stating.module.code.ts"
+} from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
 
 type Named = {
   readonly seq: number | null

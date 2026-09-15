@@ -1,14 +1,14 @@
 import { mendedFor } from "akasha/agent/hook/modules/links/hook-links.module.code.ts"
-import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   droppedFirst,
   editsAt,
   foldedIn,
   keptEdits,
   linesIn,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
+} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { costRecorded, opening } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import {
   answeredWith,
   DATA,
@@ -40,10 +40,10 @@ import {
   allowedAgain,
   MEASURED_ALLOWED,
 } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
-import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
-import { everyOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { waitedForRoom } from "akasha/utils/system/modules/landing-admission/landing-admission.module.code.ts"
 
 const RUNNER = "change-runner"

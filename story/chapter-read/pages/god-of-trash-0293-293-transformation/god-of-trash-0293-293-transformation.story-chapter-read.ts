@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash0293293Transformation = {
+  id: "01a06731-adfd-7001-97c0-8f6183f9601b",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0293-293-transformation",
+  title: "293. Transformation",
+  story: "story-read/god-of-trash",
+  position: 293,
+  ownLength: 2249,
+  unit: "unit/words",
+  publishedAt: "2026-03-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211932",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3211932/293-transformation",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

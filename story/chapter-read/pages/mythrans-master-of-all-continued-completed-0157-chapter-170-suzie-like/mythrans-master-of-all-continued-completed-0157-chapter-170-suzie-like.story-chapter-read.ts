@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0157Chapter170SuzieLike = {
+  id: "01a0672c-eb98-7000-9319-3962e78ea85c",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0157-chapter-170-suzie-like",
+  title: "Chapter 170 - Suzie Like!",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 157,
+  ownLength: 2820,
+  unit: "unit/words",
+  publishedAt: "2017-02-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "118797",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118797/chapter-170-suzie-like",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

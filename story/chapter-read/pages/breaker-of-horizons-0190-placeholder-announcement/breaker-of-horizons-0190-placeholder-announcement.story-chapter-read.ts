@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons0190PlaceholderAnnouncement = {
+  id: "01a06731-adb3-7001-b080-dca10c631bf6",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0190-placeholder-announcement",
+  title: "Placeholder / Announcement",
+  story: "story-read/breaker-of-horizons",
+  position: 190,
+  ownLength: 85,
+  unit: "unit/words",
+  publishedAt: "2022-08-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "960794",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/960794/placeholder-announcement",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

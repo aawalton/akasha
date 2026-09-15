@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchLandFiles = {
   id: "01a06863-ac0c-7ade-b991-f9f1ddf1dbed",
@@ -74,12 +74,12 @@ export const monarchLandFiles = {
     {
       invariantKind: "absence",
       statement:
-        "No key is read through `text-at` here, because `raw` index a value nested in the row.",
+        "No key is read through `text-at` here, because `raw` indexes a value nested in the row.",
     },
     {
       invariantKind: "departure",
       statement:
-        "`raw` reads a row's nested value, guards that value is an object, then index it.",
+        "`raw` reads a row's nested value, guards that value is an object, then indexes it.",
     },
   ],
 } as const satisfies Module

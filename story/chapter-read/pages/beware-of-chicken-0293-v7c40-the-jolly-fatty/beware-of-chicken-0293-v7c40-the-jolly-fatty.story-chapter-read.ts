@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0293V7c40TheJollyFatty = {
+  id: "01a06731-add9-7008-afb0-8fc1206baa9f",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0293-v7c40-the-jolly-fatty",
+  title: "v7c40: The Jolly Fatty",
+  story: "story-read/beware-of-chicken",
+  position: 293,
+  ownLength: 2020,
+  unit: "unit/words",
+  publishedAt: "2026-03-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3186538",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3186538/v7c40-the-jolly-fatty",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

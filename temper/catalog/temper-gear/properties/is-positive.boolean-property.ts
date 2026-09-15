@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
+import type { BooleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.types.ts"
 
 export const isPositive = {
   id: "01a05fd1-d43c-78a4-ae87-1501c6ab4f40",

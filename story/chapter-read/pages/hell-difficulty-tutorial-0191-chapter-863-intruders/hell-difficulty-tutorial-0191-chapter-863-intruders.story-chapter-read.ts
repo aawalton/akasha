@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0191Chapter863Intruders = {
+  id: "01a06731-ad95-7003-8fd2-169aacc711f9",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0191-chapter-863-intruders",
+  title: "Chapter 863 - Intruders",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 191,
+  ownLength: 2442,
+  unit: "unit/words",
+  publishedAt: "2026-08-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3831859",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3831859/chapter-863-intruders",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

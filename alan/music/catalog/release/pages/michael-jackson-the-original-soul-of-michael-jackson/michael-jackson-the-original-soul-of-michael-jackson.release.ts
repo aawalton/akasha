@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const michaelJacksonTheOriginalSoulOfMichaelJackson = {
+  id: "01a0676a-d72d-704c-8d10-e877f29a6c5f",
+  type: "release",
+  slug: "michael-jackson-the-original-soul-of-michael-jackson",
+  title: "The Original Soul Of Michael Jackson",
+  partOfCollections: ["artist/michael-jackson"],
+  position: 0,
+  ownLength: 40.245267,
+  ownProgress: 40.245267,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "1987-10-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1VDUI8iG0jUdMh4QI06qI5",
+      externalLink: "https://open.spotify.com/album/1VDUI8iG0jUdMh4QI06qI5",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

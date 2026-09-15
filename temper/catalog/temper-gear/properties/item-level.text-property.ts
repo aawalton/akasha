@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
 export const itemLevel = {
   id: "01a05fcc-41f3-75f3-b81e-993d8b24e369",

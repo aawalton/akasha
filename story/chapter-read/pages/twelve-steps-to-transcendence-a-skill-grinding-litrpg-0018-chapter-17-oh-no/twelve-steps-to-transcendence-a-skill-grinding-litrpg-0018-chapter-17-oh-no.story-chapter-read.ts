@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const twelveStepsToTranscendenceASkillGrindingLitrpg0018Chapter17OhNo = {
+  id: "01a06585-ef10-7f1a-9829-488e327ef813",
+  type: "story-chapter-read",
+  slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0018-chapter-17-oh-no",
+  title: "Chapter 17: Oh No…",
+  story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  position: 18,
+  ownLength: 1885,
+  unit: "unit/words",
+  publishedAt: "2026-07-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3739101",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3739101/chapter-17-oh-no",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,10 @@
+import type { Relationship } from "akasha/alan/relating/relationship/relationship.page-type.types.ts"
+
+export const mattMaurer = {
+  id: "019db533-f384-7409-9d66-187b219fdbba",
+  type: "relationship",
+  slug: "matt-maurer",
+  title: "Matt Maurer",
+  relationshipCurrentCircle: "community",
+  relationshipLinkedinUrl: "https://www.linkedin.com/in/mattmaurer",
+} as const satisfies Relationship

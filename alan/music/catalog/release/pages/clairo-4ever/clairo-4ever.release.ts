@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const clairo4ever = {
+  id: "01a0676a-d715-700d-911c-adf80b6100f4",
+  type: "release",
+  slug: "clairo-4ever",
+  title: "4EVER",
+  partOfCollections: ["artist/clairo"],
+  position: 0,
+  ownLength: 2.659917,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2018-04-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4xnTJLqtZcXaj1QHO0GMjt",
+      externalLink: "https://open.spotify.com/album/4xnTJLqtZcXaj1QHO0GMjt",
+    },
+  ],
+} as const satisfies Release

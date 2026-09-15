@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const justAddMana0158155Book3Chapter54Endings = {
+  id: "01a06731-ae66-7000-a46e-3dc6e7a0d326",
+  type: "story-chapter-read",
+  slug: "just-add-mana-0158-155-book-3-chapter-54-endings",
+  title: "155 — Book 3, Chapter 54 — Endings",
+  story: "story-read/just-add-mana",
+  position: 158,
+  ownLength: 4149,
+  unit: "unit/words",
+  publishedAt: "2026-06-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3612276",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3612276/155-book-3-chapter-54-endings",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

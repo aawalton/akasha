@@ -1,0 +1,36 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const gatedWrite = {
+  id: "01a06949-b281-7b8d-ae3f-bc451ba4ebb7",
+  type: "module",
+  slug: "gated-write",
+  definition: "what came of a write through the gate, and the reason where it was refused",
+  code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A run is its exit code together with the report that run printed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a refusal has a reason with that refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reason for a refusal is read out of the report the run printed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A line is a failure where that line opens with a bracketed name followed by fail.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Several failures in one report are joined with a semicolon.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A report naming no failure comes back whole with its edges trimmed.",
+    },
+  ],
+} as const satisfies Module

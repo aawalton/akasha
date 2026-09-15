@@ -2,8 +2,8 @@ import { HOME_SCREEN_NAV_SLUG } from "akasha/alan/web/modules/home-dni/home-dni.
 import type {
   Asked,
   Query,
-} from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
-import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const HOME_NAV_ITEM = `the \`${HOME_SCREEN_NAV_SLUG}\` nav item`
 

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons008686ViolentResolutions = {
+  id: "01a06731-adac-700d-955b-f69bf374c32e",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0086-86-violent-resolutions",
+  title: "86. Violent Resolutions",
+  story: "story-read/breaker-of-horizons",
+  position: 86,
+  ownLength: 1687,
+  unit: "unit/words",
+  publishedAt: "2021-02-25",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "637359",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/637359/86-violent-resolutions",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

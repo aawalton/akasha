@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bornForTheApocalypseADaopcalypseLitrpgBook005858SandStalker = {
+  id: "01a06731-af0d-7002-a161-c5a158d85bf3",
+  type: "story-chapter-read",
+  slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0058-58-sand-stalker",
+  title: "58: Sand Stalker",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  position: 58,
+  ownLength: 2207,
+  unit: "unit/words",
+  publishedAt: "2025-02-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2081550",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2081550/58-sand-stalker",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,11 @@
+import type { PersonaAnchorImage } from "akasha/persona/anchor-image/persona-anchor-image.page-type.types.ts"
+
+export const novaAnchor = {
+  id: "019f324d-5b06-742e-9834-eb8b45d771a3",
+  type: "persona-anchor-image",
+  slug: "nova-anchor",
+  title: "Nova — anchor",
+  persona: "persona/nova",
+  imagePath: "Nova/nova-anchor.png",
+  imageRoot: "personas",
+} as const satisfies PersonaAnchorImage

@@ -1,0 +1,11 @@
+import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/email-rule-code.page-type.types.ts"
+
+export const lobMarketing = {
+  id: "01a06860-54a2-7978-b9e4-3c0b5fc93368",
+  type: "email-rule-code",
+  slug: "lob-marketing",
+  title: "Lob marketing",
+  matches: [{ field: "from", comparison: "is", values: ["hey@lob.com"] }],
+  filing: "archive",
+  actions: ["unsubscribe"],
+} as const satisfies EmailRuleCode

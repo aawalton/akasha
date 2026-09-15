@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2TheWonderOfYouElvisPresleyWithTheRoyalPhilharmonicOrchestra = {
+  id: "01a0676a-d72e-7021-a254-7479c9b98c40",
+  type: "release",
+  slug: "elvis-presley-2-the-wonder-of-you-elvis-presley-with-the-royal-philharmonic-orchestra",
+  title: "The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 51.246583,
+  ownProgress: 51.246583,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2016-10-21",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6oWz2hJ89n9mKarg3SO9ou",
+      externalLink: "https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou",
+    },
+  ],
+} as const satisfies Release

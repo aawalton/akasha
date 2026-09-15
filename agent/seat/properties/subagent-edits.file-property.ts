@@ -1,4 +1,4 @@
-import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
+import type { FileProperty } from "akasha/page/file-property/file-property.page-type.types.ts"
 
 export const subagentEdits = {
   id: "01a08d62-417b-781b-9088-442ac476d7ae",

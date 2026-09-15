@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const billyJoelColdSpringHarbor = {
+  id: "01a0676a-d71b-700d-8215-7cc1523a2948",
+  type: "release",
+  slug: "billy-joel-cold-spring-harbor",
+  title: "Cold Spring Harbor",
+  partOfCollections: ["artist/billy-joel"],
+  position: 0,
+  ownLength: 29.8906,
+  ownProgress: 29.8906,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1971-11-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "274rMlKrr22086ohmwAJZA",
+      externalLink: "https://open.spotify.com/album/274rMlKrr22086ohmwAJZA",
+    },
+  ],
+} as const satisfies Release

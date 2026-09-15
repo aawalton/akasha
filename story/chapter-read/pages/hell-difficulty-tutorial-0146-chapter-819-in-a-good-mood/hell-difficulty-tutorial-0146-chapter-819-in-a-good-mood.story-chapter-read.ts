@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0146Chapter819InAGoodMood = {
+  id: "01a06731-ad89-7005-aa3b-752dad3d7ea4",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0146-chapter-819-in-a-good-mood",
+  title: "Chapter 819 - In a good mood",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 146,
+  ownLength: 2158,
+  unit: "unit/words",
+  publishedAt: "2026-06-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3489467",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3489467/chapter-819-in-a-good-mood",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

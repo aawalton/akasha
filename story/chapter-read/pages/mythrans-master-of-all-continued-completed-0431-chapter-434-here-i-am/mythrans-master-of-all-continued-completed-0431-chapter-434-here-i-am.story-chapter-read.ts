@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0431Chapter434HereIAm = {
+  id: "01a0672c-eca8-7001-9934-51461d6211c3",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0431-chapter-434-here-i-am",
+  title: "Chapter 434 - Here I Am",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 431,
+  ownLength: 3977,
+  unit: "unit/words",
+  publishedAt: "2017-11-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "176739",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176739/chapter-434-here-i-am",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0165Chapter1368ToUtilizeOneSPotential = {
+  id: "01a06730-4e1d-7ba2-8a6e-2ff80dd5a342",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0165-chapter-1368-to-utilize-one-s-potential",
+  title: "Chapter 1368 - To Utilize One's Potential",
+  story: "story-read/the-primal-hunter",
+  position: 165,
+  ownLength: 2813,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3768799",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3768799/chapter-1368-to-utilize-ones-potential",
+    },
+  ],
+  publishedAt: "2026-08-04",
+  prose: "txt",
+} as const satisfies StoryChapterRead

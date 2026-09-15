@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0315Chapter1666ShiftsInTheSanctumPart3 = {
+  id: "01a0672c-eb66-7008-9f5d-11532c75dd4a",
+  type: "story-chapter-read",
+  slug: "chrysalis-0315-chapter-1666-shifts-in-the-sanctum-part-3",
+  title: "Chapter 1666 - Shifts in the Sanctum Part 3",
+  story: "story-read/chrysalis",
+  position: 315,
+  ownLength: 1073,
+  ownProgress: 1073,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:53:53.326Z",
+  publishedAt: "2025-10-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2674813",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2674813/chapter-1666-shifts-in-the-sanctum-part-3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

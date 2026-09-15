@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0205Chapter199DrakeWing2Of2 = {
+  id: "01a0672c-ebc8-7001-bcd3-ebf6a98ff352",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0205-chapter-199-drake-wing-2-of-2",
+  title: "Chapter 199: Drake Wing (2 of 2)",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 205,
+  ownLength: 2717,
+  ownProgress: 2717,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:18:04.665Z",
+  publishedAt: "2025-02-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2074434",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2074434/chapter-199-drake-wing-2-of-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

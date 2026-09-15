@@ -21,8 +21,8 @@ import {
   writeDocumentsFile,
 } from "akasha/alan/web/modules/offline-cache-fs/offline-cache-fs.module.code.ts"
 import { namespacedPath } from "akasha/alan/web/modules/offline-cache-namespace/offline-cache-namespace.module.code.ts"
-import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
-import type { ContentPagePersistencePort } from "akasha/pages/ui-store/collection/modules/content-persistence/content-persistence.module.code.ts"
+import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import type { ContentPagePersistencePort } from "akasha/page/ui-store/collection/modules/content-persistence/content-persistence.module.code.ts"
 
 const INDEX_BASENAME = "content-pages-index.json"
 

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const serviceTreeIds = {
   id: "01a09c1e-1b2b-7d00-9af9-d732e6e67ab3",

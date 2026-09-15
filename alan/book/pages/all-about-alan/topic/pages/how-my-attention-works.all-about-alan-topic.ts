@@ -1,0 +1,10 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const howMyAttentionWorks = {
+  id: "01a06559-9d65-76e3-b4bb-e0a9f1071107",
+  type: "all-about-alan-topic",
+  slug: "how-my-attention-works",
+  title: "How My Attention Works",
+  definition: "where my attention goes, what holds it, and what it does when I leave it alone",
+  parents: ["all-about-alan-topic/alan"],
+} as const satisfies AllAboutAlanTopic

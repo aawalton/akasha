@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const siaDistractions = {
+  id: "019ea4c3-2eb7-794d-8de1-09452f3caeef",
+  type: "song",
+  slug: "sia-distractions",
+  title: "Distractions",
+  artist: "artist/sia",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "288b866f-74d4-4c6c-82f8-839958570e55",
+      externalLink: "https://musicbrainz.org/work/288b866f-74d4-4c6c-82f8-839958570e55",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "collab",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

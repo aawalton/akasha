@@ -1,8 +1,8 @@
 import { existsSync } from "node:fs"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { seq } from "akasha/command/arguments/pages/seq.argument.ts"
-import { tail } from "akasha/command/arguments/pages/tail.argument.ts"
-import { webApp } from "akasha/command/arguments/pages/web-app.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { seq } from "akasha/command/argument/pages/seq.argument.ts"
+import { tail } from "akasha/command/argument/pages/tail.argument.ts"
+import { webApp } from "akasha/command/argument/pages/web-app.argument.ts"
 import {
   codeOf,
   DATA,
@@ -18,7 +18,7 @@ import {
   logFilePath,
   lookupApp,
   namingApps,
-} from "akasha/infrastructure/services/web-apps/modules/dev-server-stating/dev-server-stating.module.code.ts"
+} from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
 
 async function tailing(read: {
   root: string

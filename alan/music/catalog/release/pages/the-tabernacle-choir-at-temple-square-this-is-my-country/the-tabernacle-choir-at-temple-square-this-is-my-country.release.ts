@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theTabernacleChoirAtTempleSquareThisIsMyCountry = {
+  id: "01a0676a-d72e-702d-899a-e57f7d801bfd",
+  type: "release",
+  slug: "the-tabernacle-choir-at-temple-square-this-is-my-country",
+  title:
+    "This Is My Country - The World's Great Songs of Patriotism and Brotherhood (2023 Remastered Version)",
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
+  position: 0,
+  ownLength: 56.6606,
+  ownProgress: 56.6606,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1962-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4CFPl1dwLMUbqZRh4TCee7",
+      externalLink: "https://open.spotify.com/album/4CFPl1dwLMUbqZRh4TCee7",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

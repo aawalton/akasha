@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const linkinParkFromZeroACappellas = {
+  id: "01a0676a-d71e-703f-a1e7-9c722457fee2",
+  type: "release",
+  slug: "linkin-park-from-zero-a-cappellas",
+  title: "From Zero: A Cappellas",
+  partOfCollections: ["artist/linkin-park"],
+  position: 0,
+  ownLength: 29.758217,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2024-11-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1x6p39FFIESOq8q8B4oQXN",
+      externalLink: "https://open.spotify.com/album/1x6p39FFIESOq8q8B4oQXN",
+    },
+  ],
+} as const satisfies Release

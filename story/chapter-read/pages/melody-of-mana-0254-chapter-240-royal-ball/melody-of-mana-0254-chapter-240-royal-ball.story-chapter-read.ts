@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0254Chapter240RoyalBall = {
+  id: "01a06731-ad85-7000-b146-21335a58179d",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0254-chapter-240-royal-ball",
+  title: "Chapter 240 Royal Ball",
+  story: "story-read/melody-of-mana",
+  position: 254,
+  ownLength: 1497,
+  ownProgress: 1497,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:34:35.903Z",
+  publishedAt: "2023-05-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1226035",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1226035/chapter-240-royal-ball",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

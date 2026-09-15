@@ -1,0 +1,22 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const jessicaBaioHeLovesMeHeLovesMeNot = {
+  id: "019ea4f7-a791-73d7-bd14-56199a2c4b02",
+  type: "song",
+  slug: "jessica-baio-he-loves-me-he-loves-me-not",
+  title: "he loves me, he loves me not",
+  artist: "artist/jessica-baio",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ab357375-2d06-4593-b497-a472c253afa6",
+      externalLink: "https://musicbrainz.org/recording/ab357375-2d06-4593-b497-a472c253afa6",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

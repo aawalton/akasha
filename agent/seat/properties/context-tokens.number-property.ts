@@ -1,4 +1,4 @@
-import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
 export const contextTokens = {
   id: "01a0540f-f536-742b-bc8e-9887484f4426",

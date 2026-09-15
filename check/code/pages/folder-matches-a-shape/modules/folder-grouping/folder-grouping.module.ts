@@ -1,0 +1,83 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const folderGrouping = {
+  id: "01a076d1-2008-7e68-acfc-f5b939d07cc3",
+  type: "module",
+  slug: "folder-grouping",
+  definition: "the folders a path sits under, and what a change leaves sitting in a folder",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The folders above a path are answered from the nearest folder outward.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder an importer sits inside is no folder that import reaches into.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder is read off the disk one folder at a time.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No answer here walks below the folder that answer is about.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The files in a folder are what git carries there joined to the paths a change adds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path a change takes away is dropped from the folder that path sat in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder a change opens is answered under the folder above that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An uncommitted file opens no folder, so a folder holding only those is no folder here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a file is still among the files of a folder git already carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder a change leaves holding no file and no folder is no folder here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder is holding nothing where every folder under it is holding nothing too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer is held for the folder that answer was asked about.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here judges a folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each folder a declared file name sits under is a segment of that name.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder is such a segment only where the file that name gives sits under that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding a subfolder is no such segment.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding a file no declared name gives is no such segment.",
+    },
+  ],
+} as const satisfies Module

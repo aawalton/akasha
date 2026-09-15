@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supervisorChildExitRule = {
   id: "01a0683e-3dbe-700f-9725-cda76a9d7b7e",

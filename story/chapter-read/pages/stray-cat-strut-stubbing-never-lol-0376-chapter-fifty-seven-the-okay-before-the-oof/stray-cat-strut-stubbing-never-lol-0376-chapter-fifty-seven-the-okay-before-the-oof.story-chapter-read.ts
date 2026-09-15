@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0376ChapterFiftySevenTheOkayBeforeTheOof = {
+  id: "01a06730-4e18-7834-8219-65c97777284d",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0376-chapter-fifty-seven-the-okay-before-the-oof",
+  title: "Chapter Fifty-Seven - The Okay Before the Oof",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 376,
+  ownLength: 1536,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1157927",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1157927/chapter-fifty-seven-the-okay-before-the-oof",
+    },
+  ],
+  publishedAt: "2023-04-04",
+  prose: "txt",
+} as const satisfies StoryChapterRead

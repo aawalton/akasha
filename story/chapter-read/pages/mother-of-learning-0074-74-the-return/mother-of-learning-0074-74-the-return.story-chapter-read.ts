@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning007474TheReturn = {
+  id: "01a06731-b090-7000-96ae-ffa147ac1f5e",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0074-74-the-return",
+  title: "74. The Return",
+  story: "story-read/mother-of-learning",
+  position: 74,
+  ownLength: 9042,
+  ownProgress: 9042,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:46:34.363Z",
+  publishedAt: "2019-01-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "321285",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/321285/74-the-return",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

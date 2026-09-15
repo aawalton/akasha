@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const utilsSlug = {
   id: "01a08e6f-55be-71c8-8946-b4047f5a9d4c",

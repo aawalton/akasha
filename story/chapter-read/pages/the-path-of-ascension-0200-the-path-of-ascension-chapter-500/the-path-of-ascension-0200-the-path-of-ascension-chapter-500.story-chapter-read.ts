@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePathOfAscension0200ThePathOfAscensionChapter500 = {
+  id: "01a06730-50a2-756c-8b9a-c8a2417ba7bd",
+  type: "story-chapter-read",
+  slug: "the-path-of-ascension-0200-the-path-of-ascension-chapter-500",
+  title: "The Path of Ascension Chapter 500",
+  story: "story-read/the-path-of-ascension",
+  position: 200,
+  ownLength: 7022,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3562925",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3562925/the-path-of-ascension-chapter-500",
+    },
+  ],
+  publishedAt: "2026-06-19",
+  prose: "txt",
+} as const satisfies StoryChapterRead

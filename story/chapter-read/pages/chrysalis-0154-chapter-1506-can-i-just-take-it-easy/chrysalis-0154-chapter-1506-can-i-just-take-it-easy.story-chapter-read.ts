@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0154Chapter1506CanIJustTakeItEasy = {
+  id: "01a0672c-eb60-700f-ad5a-2c5cebca190d",
+  type: "story-chapter-read",
+  slug: "chrysalis-0154-chapter-1506-can-i-just-take-it-easy",
+  title: "Chapter 1506 - Can I… Just Take It Easy?",
+  story: "story-read/chrysalis",
+  position: 154,
+  ownLength: 999,
+  ownProgress: 999,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:48:46.467Z",
+  publishedAt: "2025-02-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2061800",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2061800/chapter-1506-can-i-just-take-it-easy",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

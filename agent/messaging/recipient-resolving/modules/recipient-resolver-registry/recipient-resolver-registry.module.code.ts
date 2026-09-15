@@ -15,7 +15,7 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const ROOT = rootFor(resolveRoots(), AKASHA)
 

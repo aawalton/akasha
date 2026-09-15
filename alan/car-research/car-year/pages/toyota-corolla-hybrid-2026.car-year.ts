@@ -1,0 +1,15 @@
+import type { CarYear } from "akasha/alan/car-research/car-year/car-year.page-type.types.ts"
+
+export const toyotaCorollaHybrid2026 = {
+  id: "019e4b04-d5b5-7155-bf41-af5ed97d2d04",
+  type: "car-year",
+  slug: "toyota-corolla-hybrid-2026",
+  title: "2026",
+  modelYear: 2026,
+  refreshNotes:
+    "Carryover from MY2025; powertrain and trim structure unchanged. Source: https://www.toyota.com/corollahybrid/2026/",
+  shortList: false,
+  sources: "- https://www.toyota.com/corollahybrid/2026/",
+  exclusionReason: "All trims excluded",
+  carModel: "car-model/toyota-corolla-hybrid",
+} as const satisfies CarYear

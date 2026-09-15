@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const traitName = {
+  id: "01a0616b-2cdf-7003-9ab6-582d883b8161",
+  type: "text-property",
+  slug: "trait-name",
+  propertySlug: "trait-name",
+  definition: "the name a researchable trait is shown under",
+  maxLength: 200,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

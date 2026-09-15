@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const arianaGrandeRainOnMeRalphiRosarioRemix = {
+  id: "01a0676a-d727-7046-9fce-0473e12e86b6",
+  type: "release",
+  slug: "ariana-grande-rain-on-me-ralphi-rosario-remix",
+  title: "Rain On Me (Ralphi Rosario Remix)",
+  partOfCollections: ["artist/ariana-grande"],
+  position: 0,
+  ownLength: 11.488,
+  ownProgress: 11.488,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-07-17",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7vAZjssOcIuksA5DxN5sM1",
+      externalLink: "https://open.spotify.com/album/7vAZjssOcIuksA5DxN5sM1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Release

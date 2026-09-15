@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const especiallyForYouEfyEfy2006TheGreatestGift = {
+  id: "01a0676a-d71c-7059-b63f-0695149ba82f",
+  type: "release",
+  slug: "especially-for-you-efy-efy-2006-the-greatest-gift",
+  title: "Efy 2006 - The Greatest Gift",
+  partOfCollections: ["release-collection/especially-for-you-efy"],
+  position: 2006,
+  ownLength: 50.469933,
+  ownProgress: 50.469933,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2006-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5XVO5gc0wx6ftvCawHyIzv",
+      externalLink: "https://open.spotify.com/album/5XVO5gc0wx6ftvCawHyIzv",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

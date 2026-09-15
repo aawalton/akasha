@@ -1,0 +1,18 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const grimoireId = {
+  id: "01a05fca-cb83-73a3-afc2-bf571210f393",
+  type: "text-property",
+  slug: "grimoire-id",
+  propertySlug: "grimoire-id",
+  definition: "the grimoire a scribed skill is scribed from",
+  maxLength: 100,
+  nameFormat: "name-format/lower-kebab-case",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "This property is a relation to a grimoire.",
+    },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

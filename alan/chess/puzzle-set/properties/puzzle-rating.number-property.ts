@@ -1,0 +1,11 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const puzzleRating = {
+  id: "01a06582-bd62-759e-9bb3-b90ae3c064a4",
+  type: "number-property",
+  slug: "puzzle-rating",
+  propertySlug: "rating",
+  definition: "how hard a puzzle is",
+  max: null,
+  types: "ts",
+} as const satisfies NumberProperty

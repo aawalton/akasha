@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const lindseyStirling2LindseyStirling = {
+  id: "01a0676a-d723-7036-a002-b219b0ed6cfc",
+  type: "release",
+  slug: "lindsey-stirling-2-lindsey-stirling",
+  title: "Lindsey Stirling",
+  partOfCollections: ["artist/lindsey-stirling"],
+  position: 0,
+  ownLength: 54.2998,
+  ownProgress: 54.2998,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2012-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3YTWAm90osBvLNWCdF8Nq2",
+      externalLink: "https://open.spotify.com/album/3YTWAm90osBvLNWCdF8Nq2",
+    },
+  ],
+} as const satisfies Release

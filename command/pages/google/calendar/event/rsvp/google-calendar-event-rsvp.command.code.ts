@@ -1,9 +1,9 @@
 import { narrowSendUpdates } from "akasha/alan/google/calendar/modules/send-updates-narrowing/send-updates-narrowing.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { calendar } from "akasha/command/arguments/pages/calendar.argument.ts"
-import { event } from "akasha/command/arguments/pages/event.argument.ts"
-import { sendUpdates } from "akasha/command/arguments/pages/send-updates.argument.ts"
-import { status } from "akasha/command/arguments/pages/status.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { calendar } from "akasha/command/argument/pages/calendar.argument.ts"
+import { event } from "akasha/command/argument/pages/event.argument.ts"
+import { sendUpdates } from "akasha/command/argument/pages/send-updates.argument.ts"
+import { status } from "akasha/command/argument/pages/status.argument.ts"
 import {
   answeredAsJson,
   asAlan,

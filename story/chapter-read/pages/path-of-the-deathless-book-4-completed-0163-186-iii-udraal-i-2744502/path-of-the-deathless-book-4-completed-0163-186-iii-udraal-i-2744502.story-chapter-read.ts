@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0163186IiiUdraalI2744502 = {
+  id: "01a06730-4e17-7365-8ebc-ffeb19e8ef4f",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0163-186-iii-udraal-i-2744502",
+  title: "186 (III) Udraal [I]",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 163,
+  ownLength: 1720,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2744502",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2744502/186-iii-udraal-i",
+    },
+  ],
+  publishedAt: "2025-11-08",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHenderson0800HeavenAcoustic = {
+  id: "01a0676a-d714-7000-9eec-592ca681e8d1",
+  type: "release",
+  slug: "ella-henderson-0800-heaven-acoustic",
+  title: "0800 HEAVEN (Acoustic)",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 6.459767,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2023-07-07",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0mCdfKtiB1IFVpPhBClsq3",
+      externalLink: "https://open.spotify.com/album/0mCdfKtiB1IFVpPhBClsq3",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

@@ -1,18 +1,18 @@
-import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
-import type { PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
+import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import type { PageSelect } from "akasha/page/access/modules/types/types.module.code.ts"
 import {
   type UpsertPageArgs,
   upsertPage,
-} from "akasha/pages/access/modules/upsert/upsert.module.code.ts"
+} from "akasha/page/access/modules/upsert/upsert.module.code.ts"
 import type {
   Page,
   PageWhere,
-} from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
+} from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import {
   readFiles,
   readPages,
   writeFiles,
-} from "akasha/pages/query/modules/store-writing/store-writing.module.code.ts"
+} from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import { getCompanionIdByDefId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import type {
   AccountCompletion,

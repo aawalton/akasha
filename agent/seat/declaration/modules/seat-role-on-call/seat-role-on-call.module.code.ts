@@ -1,8 +1,8 @@
 import {
   listedAt,
   valueByPath,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { onceInCall } from "akasha/utils/modules/during-call/during-call.module.code.ts"
 
 const ROLE = "role"

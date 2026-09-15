@@ -1,0 +1,15 @@
+import type { ServiceCluster } from "akasha/infrastructure/service/cluster/service-cluster.page-type.types.ts"
+
+export const postgresExporter = {
+  id: "01a06812-2380-7259-8296-16b643a8bc64",
+  type: "service-cluster",
+  slug: "postgres-exporter",
+  definition: "the server that publishes the database's state as metrics",
+  resourceKind: "Deployment",
+  namespace: "prometheus",
+  resourceName: "postgres-exporter",
+  image: "prometheuscommunity/postgres-exporter:v0.15.0",
+  replicas: 1,
+  containerPort: 9187,
+  manifest: "manifest/postgres-exporter",
+} as const satisfies ServiceCluster

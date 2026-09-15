@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const lindseyStirling2LongWayHome = {
+  id: "01a0676a-d723-7060-b8de-9262c7fd07a9",
+  type: "release",
+  slug: "lindsey-stirling-2-long-way-home",
+  title: "Long Way Home",
+  partOfCollections: ["artist/lindsey-stirling"],
+  position: 0,
+  ownLength: 2.629617,
+  ownProgress: 2.629617,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-06-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4oTgs7iS9gty8setMf2ljq",
+      externalLink: "https://open.spotify.com/album/4oTgs7iS9gty8setMf2ljq",
+    },
+  ],
+} as const satisfies Release

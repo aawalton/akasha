@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0076ChapterSeventyThreeDenyingMoronity = {
+  id: "01a0672c-eb06-700b-a604-289f1ac7b688",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0076-chapter-seventy-three-denying-moronity",
+  title: "Chapter Seventy-Three - Denying Moronity",
+  story: "story-read/cinnamon-bun",
+  position: 76,
+  ownLength: 1937,
+  unit: "unit/words",
+  publishedAt: "2020-08-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "537560",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/537560/chapter-seventy-three-denying-moronity",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

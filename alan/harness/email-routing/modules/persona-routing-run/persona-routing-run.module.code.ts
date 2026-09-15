@@ -14,7 +14,7 @@ import {
   zoneIdOf,
 } from "akasha/alan/harness/email-routing/modules/email-zone-reaching/email-zone-reaching.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { personasStanding } from "akasha/personas/modules/reading/persona-reading.module.code.ts"
+import { personasStanding } from "akasha/persona/modules/reading/persona-reading.module.code.ts"
 
 const ZONE = "alanwalton.com"
 

@@ -1,0 +1,8 @@
+import type { OriginKind } from "akasha/persona/origin-kind/origin-kind.page-type.types.ts"
+
+export const sanskrit = {
+  id: "01a05361-be5f-7152-9b17-c07fe2f5c041",
+  type: "origin-kind",
+  slug: "sanskrit",
+  definition: "a name from Sanskrit",
+} as const satisfies OriginKind

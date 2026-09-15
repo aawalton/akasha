@@ -1,11 +1,10 @@
-import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const seat = {
   id: "01a05035-2609-7463-ba49-ccaf20f5c337",
   type: "page-type",
   slug: "seat",
   definition: "a place an agent works from",
-  pluralSlug: "seats",
   extends: ["page-type/agent"],
   mortal: true,
   parts: [

@@ -5,14 +5,14 @@ import { seatAbove } from "akasha/agent/subagent/modules/naming/subagent-naming.
 import {
   everyOfType,
   listedAt,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { uncommittedAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { uncommittedAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { onceInCall } from "akasha/utils/modules/during-call/during-call.module.code.ts"
 
 export type Beside = Record<string, unknown>

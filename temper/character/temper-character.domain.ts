@@ -1,0 +1,34 @@
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+
+export const temperCharacter = {
+  id: "01a05fac-7581-7a09-a912-5277eaa7f144",
+  type: "domain",
+  slug: "temper-character",
+  definition: "an account, the characters on it, and what each character is built as",
+  parts: [
+    "page-type/character-build",
+    "page-type/companion-build",
+    "page-type/temper-account",
+    "page-type/temper-account-character",
+    "page-type/temper-build-version",
+    "page-type/temper-character-role",
+    "page-type/temper-character-skill-activation",
+    "page-type/temper-character-thing",
+    "page-type/temper-companion-progress",
+    "page-type/temper-mine",
+    "page-type/temper-player",
+    "page-type/temper-skill-bar",
+    "page-type/temper-skill-point",
+    "page-type/temper-weapon-bar",
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A name is author-given.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Several builds answer to one name.",
+    },
+  ],
+} as const satisfies Domain

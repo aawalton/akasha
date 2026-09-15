@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const kellyClarksonIHateLoveFeatSteveMartin = {
+  id: "01a0676a-d721-7020-8259-4565aead7b55",
+  type: "release",
+  slug: "kelly-clarkson-i-hate-love-feat-steve-martin",
+  title: "i hate love (feat. Steve Martin)",
+  partOfCollections: ["artist/kelly-clarkson"],
+  position: 0,
+  ownLength: 13.240033,
+  ownProgress: 13.240033,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-06-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6jD3QU3DuJphSxH1vdplVV",
+      externalLink: "https://open.spotify.com/album/6jD3QU3DuJphSxH1vdplVV",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
+} as const satisfies Release

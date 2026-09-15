@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaDanceAloneKitoRemix = {
+  id: "01a0676a-d71b-7051-9338-ffb9f5a320a1",
+  type: "release",
+  slug: "sia-dance-alone-kito-remix",
+  title: "Dance Alone (Kito Remix)",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 6.036533,
+  ownProgress: 6.036533,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2024-03-08",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0QPJ40cXdOLGrLDcLjVsmo",
+      externalLink: "https://open.spotify.com/album/0QPJ40cXdOLGrLDcLjVsmo",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0410ChapterThreeHundredAndNinetySevenLiveFree = {
+  id: "01a0672c-eb1f-7010-bdc0-bfe5b5ba4f46",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0410-chapter-three-hundred-and-ninety-seven-live-free",
+  title: "Chapter Three Hundred and Ninety-Seven - Live Free and Dine Hard",
+  story: "story-read/cinnamon-bun",
+  position: 410,
+  ownLength: 1952,
+  unit: "unit/words",
+  publishedAt: "2023-04-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1167812",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1167812/chapter-three-hundred-and-ninety-seven-live-free",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

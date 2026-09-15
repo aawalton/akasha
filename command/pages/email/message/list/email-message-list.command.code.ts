@@ -1,9 +1,9 @@
 import { listMessages } from "akasha/alan/google/email/modules/email-message-fetching/email-message-fetching.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { label } from "akasha/command/arguments/pages/label.argument.ts"
-import { mailQuery } from "akasha/command/arguments/pages/mail-query.argument.ts"
-import { max } from "akasha/command/arguments/pages/max.argument.ts"
-import { queryFile } from "akasha/command/arguments/pages/query-file.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { label } from "akasha/command/argument/pages/label.argument.ts"
+import { mailQuery } from "akasha/command/argument/pages/mail-query.argument.ts"
+import { max } from "akasha/command/argument/pages/max.argument.ts"
+import { queryFile } from "akasha/command/argument/pages/query-file.argument.ts"
 import {
   answering,
   asIndentedJson,

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0085ApparentlyIHaveASalvosWikiComicPreview = {
+  id: "01a06730-4de7-7e10-8473-cbbbe24a6b27",
+  type: "story-chapter-read",
+  slug: "salvos-0085-apparently-i-have-a-salvos-wiki-comic-preview",
+  title: "Apparently, I have a Salvos wiki + Comic Preview",
+  story: "story-read/salvos",
+  position: 85,
+  ownLength: 43,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1211931",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1211931/apparently-i-have-a-salvos-wiki-comic-preview",
+    },
+  ],
+  publishedAt: "2023-05-13",
+  prose: "txt",
+} as const satisfies StoryChapterRead

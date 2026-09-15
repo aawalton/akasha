@@ -1,0 +1,22 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const recordBrief = {
+  id: "01a0657d-b91d-7300-bbfd-a4142a6e47e4",
+  type: "text-property",
+  slug: "record-brief",
+  propertySlug: "brief",
+  definition: "the summary a record carries apart from its text",
+  maxLength: 500,
+  nameFormat: null,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A brief is written outside the text the brief summarises.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A brief says the substance of a record rather than repeating the record's text.",
+    },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

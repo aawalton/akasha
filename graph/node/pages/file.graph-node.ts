@@ -1,0 +1,8 @@
+import type { GraphNode } from "akasha/graph/node/graph-node.page-type.types.ts"
+
+export const file = {
+  id: "01a04fee-4ee6-70a3-87ac-8663deaa44ba",
+  type: "graph-node",
+  slug: "file",
+  definition: "a tracked file, whether or not it is a page",
+} as const satisfies GraphNode

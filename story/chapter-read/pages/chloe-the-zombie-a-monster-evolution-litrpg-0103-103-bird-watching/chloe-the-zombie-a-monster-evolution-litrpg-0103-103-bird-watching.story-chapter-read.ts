@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chloeTheZombieAMonsterEvolutionLitrpg0103103BirdWatching = {
+  id: "01a06731-ad7b-700e-b63a-92b457f79c1b",
+  type: "story-chapter-read",
+  slug: "chloe-the-zombie-a-monster-evolution-litrpg-0103-103-bird-watching",
+  title: "103: Bird Watching",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
+  position: 103,
+  ownLength: 1998,
+  unit: "unit/words",
+  publishedAt: "2026-01-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2964518",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2964518/103-bird-watching",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

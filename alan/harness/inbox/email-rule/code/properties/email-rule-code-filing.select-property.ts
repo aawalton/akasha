@@ -1,0 +1,21 @@
+import type { SelectProperty } from "akasha/page/select-property/select-property.page-type.types.ts"
+
+export const emailRuleCodeFiling = {
+  id: "01a06860-549f-7088-a74f-de255a1b5b39",
+  type: "select-property",
+  slug: "email-rule-code-filing",
+  propertySlug: "filing",
+  definition: "whether a piece of mail the rule matches leaves the inbox",
+  values: ["archive", "skip"],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Archiving and skipping exclude each other.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Skipping is doing nothing to the mail rather than leaving the filing unstated.",
+    },
+  ],
+  types: "ts",
+} as const satisfies SelectProperty

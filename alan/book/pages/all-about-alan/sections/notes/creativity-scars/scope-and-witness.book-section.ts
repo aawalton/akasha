@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const scopeAndWitness = {
+  id: "01a06594-c677-7007-8218-e2baa6e00d77",
+  type: "book-section",
+  slug: "scope-and-witness",
+  title: "Creativity scars — scope and the witness confound",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/creativity-scars"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

@@ -6,7 +6,7 @@ import {
   copiedFrom,
 } from "akasha/infrastructure/container-image/test-fixtures/recipe-proving/recipe-proving.test-fixture.code.ts"
 import { bodyIn } from "akasha/infrastructure/eso-rig/image/eso-rig-image.container-recipe.composing.code.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

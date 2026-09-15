@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0036Chapter538Anniversary = {
+  id: "01a06731-ad84-7001-b7cf-99df621e100e",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0036-chapter-538-anniversary",
+  title: "Chapter: 538 - Anniversary",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 36,
+  ownLength: 3017,
+  ownProgress: 3017,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:36:27.132Z",
+  publishedAt: "2025-03-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2121533",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2121533/chapter-538-anniversary",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

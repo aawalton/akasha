@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const utilsHashing = {
   id: "01a08ef4-823c-768d-8a6d-6d848d6866af",

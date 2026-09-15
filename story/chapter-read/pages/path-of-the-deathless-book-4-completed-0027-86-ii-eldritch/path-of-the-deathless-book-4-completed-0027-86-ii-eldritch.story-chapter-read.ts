@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed002786IiEldritch = {
+  id: "01a06730-4ddd-7e44-bc86-2a9f619df92a",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0027-86-ii-eldritch",
+  title: "86 (II) Eldritch",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 27,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2534285/86-ii-eldritch",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

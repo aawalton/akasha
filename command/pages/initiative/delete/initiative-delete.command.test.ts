@@ -14,7 +14,7 @@ import {
 
 const SEAT = { path: "agent/seat/pages/hum/hum.seat.ts", propertySlug: "assignment-slug" }
 
-const OWN = { path: "domains/initiatives/pages/held.initiative.ts", propertySlug: "parts" }
+const OWN = { path: "domain/initiative/pages/held.initiative.ts", propertySlug: "parts" }
 
 function given(root: string): Given {
   return { root, calledAs: "akasha initiative delete", from: root, writer: null, agentId: null }

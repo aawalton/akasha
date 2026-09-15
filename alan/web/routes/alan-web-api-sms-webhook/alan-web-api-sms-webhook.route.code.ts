@@ -13,12 +13,12 @@ import {
   telnyxWebhookSchema,
 } from "akasha/alan/harness/sms-core/modules/telnyx-inbound/telnyx-inbound.module.code.ts"
 import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/modules/verify-signature/verify-signature.module.code.ts"
-import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
-import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   askingFor,
   writingFor,
-} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const MESSAGE_PAGE_TYPE_SLUG = "message"
 

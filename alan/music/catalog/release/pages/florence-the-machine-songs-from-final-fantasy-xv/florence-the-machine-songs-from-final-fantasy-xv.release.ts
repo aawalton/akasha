@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const florenceTheMachineSongsFromFinalFantasyXv = {
+  id: "01a0676a-d729-7064-99d9-fa7eb4851bb7",
+  type: "release",
+  slug: "florence-the-machine-songs-from-final-fantasy-xv",
+  title: "Songs From Final Fantasy XV",
+  partOfCollections: ["artist/florence-the-machine"],
+  position: 0,
+  ownLength: 15.317967,
+  ownProgress: 15.317967,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2016-08-12",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3G5GOLjvWUBRIrRp3GKnXO",
+      externalLink: "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO",
+    },
+  ],
+} as const satisfies Release

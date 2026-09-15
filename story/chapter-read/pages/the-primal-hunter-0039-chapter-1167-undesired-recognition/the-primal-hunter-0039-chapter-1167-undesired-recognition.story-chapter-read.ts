@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0039Chapter1167UndesiredRecognition = {
+  id: "01a06730-4dde-77b5-98fe-de155b24ee88",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0039-chapter-1167-undesired-recognition",
+  title: "Chapter 1167 - Undesired Recognition",
+  story: "story-read/the-primal-hunter",
+  position: 39,
+  ownLength: 2839,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2630785",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2630785/chapter-1167-undesired-recognition",
+    },
+  ],
+  publishedAt: "2025-09-26",
+  ownProgress: 2839,
+  completedAt: "2026-06-29T19:30:29.919Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

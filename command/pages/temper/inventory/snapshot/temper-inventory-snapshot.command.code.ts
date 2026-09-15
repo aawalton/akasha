@@ -2,11 +2,11 @@ import { existsSync } from "node:fs"
 import { readFile, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { jsonOneLine as jsonOneLineArgument } from "akasha/command/arguments/pages/json-one-line.argument.ts"
-import { latest as latestArgument } from "akasha/command/arguments/pages/latest.argument.ts"
-import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
-import { snapshot as snapshotArgument } from "akasha/command/arguments/pages/snapshot.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { jsonOneLine as jsonOneLineArgument } from "akasha/command/argument/pages/json-one-line.argument.ts"
+import { latest as latestArgument } from "akasha/command/argument/pages/latest.argument.ts"
+import { output as outputArgument } from "akasha/command/argument/pages/output.argument.ts"
+import { snapshot as snapshotArgument } from "akasha/command/argument/pages/snapshot.argument.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -21,9 +21,9 @@ import {
   listedAt,
   listedById,
   slugsOfType,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
 const NAMED = [latestArgument, snapshotArgument, outputArgument, jsonOneLineArgument]
 

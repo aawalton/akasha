@@ -1,8 +1,0 @@
-import type { TemperCharacterRole } from "akasha/temper/characters/roles/temper-character-role.page-type.types.ts"
-
-export const solo = {
-  id: "01a05fd0-d54b-72fd-b37d-14b326dfd35d",
-  type: "temper-character-role",
-  slug: "solo",
-  title: "Solo",
-} as const satisfies TemperCharacterRole

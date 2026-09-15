@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0452ChapterFortyFiveCorpoShitShow = {
+  id: "01a06730-4e5a-7f36-8f15-8c690d7877ad",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0452-chapter-forty-five-corpo-shit-show",
+  title: "Chapter Forty-Five - Corpo Shit Show",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 452,
+  ownLength: 1494,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1417562",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1417562/chapter-forty-five-corpo-shit-show",
+    },
+  ],
+  publishedAt: "2023-11-21",
+  prose: "txt",
+} as const satisfies StoryChapterRead

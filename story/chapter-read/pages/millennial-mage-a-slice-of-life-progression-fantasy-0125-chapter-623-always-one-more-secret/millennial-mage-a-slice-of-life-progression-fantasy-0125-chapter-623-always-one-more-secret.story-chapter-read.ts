@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0125Chapter623AlwaysOneMoreSecret = {
+  id: "01a06731-ae0e-7000-8804-a801067e6051",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0125-chapter-623-always-one-more-secret",
+  title: "Chapter: 623 - Always One More Secret",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 125,
+  ownLength: 2854,
+  ownProgress: 2854,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:39:18.069Z",
+  publishedAt: "2025-10-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2683185",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2683185/chapter-623-always-one-more-secret",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

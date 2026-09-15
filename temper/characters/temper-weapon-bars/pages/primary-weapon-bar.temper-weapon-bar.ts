@@ -1,8 +1,0 @@
-import type { TemperWeaponBar } from "akasha/temper/characters/temper-weapon-bars/temper-weapon-bar.page-type.types.ts"
-
-export const primaryWeaponBar = {
-  id: "019e4cb2-3aba-748f-9e13-2583ba1d0f3b",
-  type: "temper-weapon-bar",
-  slug: "primary-weapon-bar",
-  title: "Primary Bar",
-} as const satisfies TemperWeaponBar

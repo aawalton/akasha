@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0496Chapter459VisitingTheShrine = {
+  id: "01a0672c-ec22-7001-bb77-3c9135e729f0",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0496-chapter-459-visiting-the-shrine",
+  title: "Chapter 459: Visiting the Shrine",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 496,
+  ownLength: 2039,
+  ownProgress: 2039,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:29:03.057Z",
+  publishedAt: "2025-11-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2803451",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2803451/chapter-459-visiting-the-shrine",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

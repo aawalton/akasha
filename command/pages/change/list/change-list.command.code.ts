@@ -1,5 +1,5 @@
-import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   listingKept,
@@ -7,7 +7,7 @@ import {
 } from "akasha/command/modules/change-acting/change-acting.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { changeList as page } from "akasha/command/pages/change/list/change-list.command.ts"
-import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 
 export function changeList(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [])

@@ -9,13 +9,13 @@ import {
   NOW,
   ONE,
   TWO,
-} from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
+} from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
 import {
   besideIn,
   costsOf,
   readIn,
 } from "akasha/command/pages/measure/modules/gathering/measure-gathering.module.code.ts"
-import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const PAGE = "temper/held-addon/held-addon.eso-addon.ts"

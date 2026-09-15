@@ -1,13 +1,13 @@
 import { join } from "node:path"
 import { getRecentlyPlayed } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
-import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Asking as Asked } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,
   type runMechanicalChange,
-} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { dryRun } from "akasha/command/arguments/pages/dry-run.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   answeredWith,
   answering,
@@ -32,18 +32,18 @@ import {
   sumNewMusicMinutes,
 } from "akasha/command/pages/music/capture/modules/play-row/play-row.module.code.ts"
 import { musicCapture as page } from "akasha/command/pages/music/capture/music-capture.command.ts"
-import { uuidVersion7 } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import {
   everyOfType,
   valuesOfType,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { entriesAt } from "akasha/pages/modules/entries/page-entries.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { entriesAt } from "akasha/page/modules/entries/page-entries.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   textIn,
   type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { composedFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const DAY = "day"
 

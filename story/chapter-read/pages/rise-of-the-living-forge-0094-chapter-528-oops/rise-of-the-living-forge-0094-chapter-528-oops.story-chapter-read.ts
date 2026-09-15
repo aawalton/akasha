@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0094Chapter528Oops = {
+  id: "01a06730-4e0d-7872-9705-6ae07fad8331",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0094-chapter-528-oops",
+  title: "Chapter 528: Oops",
+  story: "story-read/rise-of-the-living-forge",
+  position: 94,
+  ownLength: 1586,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2833042",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2833042/chapter-528-oops",
+    },
+  ],
+  publishedAt: "2025-12-09",
+  ownProgress: 1586,
+  completedAt: "2026-06-29T20:01:26.452Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

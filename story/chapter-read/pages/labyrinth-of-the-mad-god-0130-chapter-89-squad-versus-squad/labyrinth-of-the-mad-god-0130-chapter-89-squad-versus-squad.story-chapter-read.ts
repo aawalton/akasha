@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const labyrinthOfTheMadGod0130Chapter89SquadVersusSquad = {
+  id: "01a0672c-eb76-700a-9435-f9aaaad90a75",
+  type: "story-chapter-read",
+  slug: "labyrinth-of-the-mad-god-0130-chapter-89-squad-versus-squad",
+  title: "Chapter 89: Squad versus Squad",
+  story: "story-read/labyrinth-of-the-mad-god",
+  position: 130,
+  ownLength: 1789,
+  unit: "unit/words",
+  publishedAt: "2025-02-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2059519",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2059519/chapter-89-squad-versus-squad",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

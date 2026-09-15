@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const twelveStepsToTranscendenceASkillGrindingLitrpg0025Chapter24Hobgoblin = {
+  id: "01a06585-ef11-7a92-94a4-73b74f70af2f",
+  type: "story-chapter-read",
+  slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0025-chapter-24-hobgoblin",
+  title: "Chapter 24: Hobgoblin",
+  story: "story-read/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  position: 25,
+  ownLength: 1798,
+  unit: "unit/words",
+  publishedAt: "2026-08-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3770459",
+      externalLink:
+        "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3770459/chapter-24-hobgoblin",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

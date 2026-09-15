@@ -2,7 +2,7 @@ import { readdir, readFile, stat } from "node:fs/promises"
 import * as path from "node:path"
 import { callHarness } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import { seatTranscriptList } from "akasha/command/pages/seat/transcript-list/seat-transcript-list.command.ts"
-import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { z } from "zod"
 
 export interface SeatTranscript {

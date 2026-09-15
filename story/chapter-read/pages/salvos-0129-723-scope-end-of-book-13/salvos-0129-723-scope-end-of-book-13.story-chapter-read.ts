@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0129723ScopeEndOfBook13 = {
+  id: "01a06730-4de9-732e-9169-aaf2b4a97954",
+  type: "story-chapter-read",
+  slug: "salvos-0129-723-scope-end-of-book-13",
+  title: "723. Scope (End Of book 13)",
+  story: "story-read/salvos",
+  position: 129,
+  ownLength: 1350,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1889104",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1889104/723-scope-end-of-book-13",
+    },
+  ],
+  publishedAt: "2024-11-06",
+  prose: "txt",
+} as const satisfies StoryChapterRead

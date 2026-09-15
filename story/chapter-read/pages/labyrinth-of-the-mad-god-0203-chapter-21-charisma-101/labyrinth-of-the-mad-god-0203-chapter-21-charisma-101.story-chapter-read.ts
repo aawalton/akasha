@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const labyrinthOfTheMadGod0203Chapter21Charisma101 = {
+  id: "01a06731-ad75-7002-99ca-146eccaa0982",
+  type: "story-chapter-read",
+  slug: "labyrinth-of-the-mad-god-0203-chapter-21-charisma-101",
+  title: "Chapter 21: Charisma 101",
+  story: "story-read/labyrinth-of-the-mad-god",
+  position: 203,
+  ownLength: 2139,
+  unit: "unit/words",
+  publishedAt: "2025-08-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2484694",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2484694/chapter-21-charisma-101",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

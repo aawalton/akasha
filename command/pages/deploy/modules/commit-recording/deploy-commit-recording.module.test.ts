@@ -12,9 +12,9 @@ import {
   ASK_AT,
   type Fetcher,
   type Sleeper,
-} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
-const AT = "infrastructure/services/clusters/pages/one/one.service-cluster.ts"
+const AT = "infrastructure/service/cluster/pages/one/one.service-cluster.ts"
 
 const COMMIT = "0123456789abcdef0123456789abcdef01234567"
 

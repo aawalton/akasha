@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0124Chapter622Ignition = {
+  id: "01a06731-ae0d-7000-82b2-703f9a33d3d0",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0124-chapter-622-ignition",
+  title: "Chapter: 622 - Ignition",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 124,
+  ownLength: 3418,
+  ownProgress: 3418,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:39:16.192Z",
+  publishedAt: "2025-10-15",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2678049",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2678049/chapter-622-ignition",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

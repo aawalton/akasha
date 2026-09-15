@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0086Chapter86TheOuterCityRing = {
+  id: "01a0672c-eb60-7001-ab1b-a82b91d22918",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0086-chapter-86-the-outer-city-ring",
+  title: "Chapter 86: The Outer City Ring",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 86,
+  ownLength: 3993,
+  ownProgress: 3993,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:13:49.220Z",
+  publishedAt: "2024-06-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1679222",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1679222/chapter-86-the-outer-city-ring",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

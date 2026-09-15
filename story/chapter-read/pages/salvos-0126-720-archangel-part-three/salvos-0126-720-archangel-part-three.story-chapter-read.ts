@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0126720ArchangelPartThree = {
+  id: "01a06730-4de8-7576-b5d0-84770eea9a88",
+  type: "story-chapter-read",
+  slug: "salvos-0126-720-archangel-part-three",
+  title: "720. Archangel Part Three",
+  story: "story-read/salvos",
+  position: 126,
+  ownLength: 1688,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1884722",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1884722/720-archangel-part-three",
+    },
+  ],
+  publishedAt: "2024-11-04",
+  prose: "txt",
+} as const satisfies StoryChapterRead

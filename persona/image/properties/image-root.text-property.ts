@@ -1,0 +1,18 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const imageRoot = {
+  id: "01a0655b-4a9b-7001-b814-afe1edf9866f",
+  type: "text-property",
+  slug: "image-root",
+  propertySlug: "image-root",
+  definition: "the name of the place a picture's path is read against",
+  maxLength: 100,
+  nameFormat: "name-format/lower-kebab-case",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A root naming no place falls back to the first place given.",
+    },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

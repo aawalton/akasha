@@ -1,9 +1,9 @@
-import type { RingCounts } from "akasha/alan/harness/readouts/modules/body/readout-body.module.code.ts"
+import type { RingCounts } from "akasha/alan/harness/readout/modules/body/readout-body.module.code.ts"
 import {
   keepReading,
   readoutPage,
-} from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
-import { fetchRingCountsFromMonarch } from "akasha/alan/harness/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.reading.code.ts"
+} from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { fetchRingCountsFromMonarch } from "akasha/alan/harness/readout/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.reading.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 

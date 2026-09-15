@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const kellyClarksonDanceVaultMixesWalkAway2 = {
+  id: "01a0676a-d71b-705d-a936-bfdb59e552c6",
+  type: "release",
+  slug: "kelly-clarkson-dance-vault-mixes-walk-away-2",
+  title: "Dance Vault Mixes - Walk Away (2)",
+  partOfCollections: ["artist/kelly-clarkson"],
+  position: 0,
+  ownLength: 28.56975,
+  ownProgress: 28.56975,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2006-03-28",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2MXLMfZ5VB7KjAU1DiStCS",
+      externalLink: "https://open.spotify.com/album/2MXLMfZ5VB7KjAU1DiStCS",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
+} as const satisfies Release

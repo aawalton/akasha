@@ -1,0 +1,10 @@
+import type { BooleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.types.ts"
+
+export const batteryIsCharging = {
+  id: "01a06935-68b3-7bb6-80e2-1d79d253f0c3",
+  type: "boolean-property",
+  slug: "battery-is-charging",
+  propertySlug: "battery-is-charging",
+  definition: "whether the device was on power",
+  types: "ts",
+} as const satisfies BooleanProperty

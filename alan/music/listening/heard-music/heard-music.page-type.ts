@@ -1,11 +1,10 @@
-import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const heardMusic = {
   id: "01a06240-340f-700a-be22-823bb6c905f7",
   type: "page-type",
   slug: "heard-music",
   definition: "every track one person has heard",
-  pluralSlug: "heard-music",
   extends: ["page-type/page"],
   parts: ["page-property-entry/tracks"],
   properties: [

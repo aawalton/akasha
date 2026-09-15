@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const systemGirlSystemMcWorldHoppingComedy0022Chapter22DaveDial = {
+  id: "01a06730-4ded-7c7e-a5e7-eb96a1de7e33",
+  type: "story-chapter-read",
+  slug: "system-girl-system-mc-world-hopping-comedy-0022-chapter-22-dave-dial",
+  title: "Chapter 22: DAVE Dial",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
+  position: 22,
+  ownLength: 2356,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2641527",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2641527/chapter-22-dave-dial",
+    },
+  ],
+  publishedAt: "2025-09-30",
+  prose: "txt",
+} as const satisfies StoryChapterRead

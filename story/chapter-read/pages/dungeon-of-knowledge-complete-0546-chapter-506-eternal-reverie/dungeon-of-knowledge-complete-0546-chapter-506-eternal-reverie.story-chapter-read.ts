@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0546Chapter506EternalReverie = {
+  id: "01a0672c-ec3a-7001-9307-241e9e5ecf81",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0546-chapter-506-eternal-reverie",
+  title: "Chapter 506: Eternal Reverie",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 546,
+  ownLength: 5883,
+  ownProgress: 5883,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:30:50.252Z",
+  publishedAt: "2026-01-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2942182",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2942182/chapter-506-eternal-reverie",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

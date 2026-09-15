@@ -1,8 +1,8 @@
 import { existsSync, readFileSync } from "node:fs"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { savedVariablesFile } from "akasha/command/arguments/pages/saved-variables-file.argument.ts"
-import { sideFile as sideFileArgument } from "akasha/command/arguments/pages/side-file.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { savedVariablesFile } from "akasha/command/argument/pages/saved-variables-file.argument.ts"
+import { sideFile as sideFileArgument } from "akasha/command/argument/pages/side-file.argument.ts"
 import {
   DATA,
   refused,

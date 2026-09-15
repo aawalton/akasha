@@ -7,8 +7,8 @@ import {
 import {
   fileKeysAt,
   pageTypesIn,
-} from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
-import { heldIn, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+} from "akasha/page/index/modules/entries/index-entries.module.code.ts"
+import { heldIn, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const TOTAL = "total"
 

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const auroraRunningWithTheWolvesWolfwalkersEdition = {
+  id: "01a0676a-d728-7033-816d-2a8c47c11e6d",
+  type: "release",
+  slug: "aurora-running-with-the-wolves-wolfwalkers-edition",
+  title: "Running with the Wolves (Wolfwalkers Edition)",
+  partOfCollections: ["artist/aurora"],
+  position: 0,
+  ownLength: 2.775767,
+  ownProgress: 2.775767,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-11-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5or6BEa0TARnX9gupWiCEv",
+      externalLink: "https://open.spotify.com/album/5or6BEa0TARnX9gupWiCEv",
+    },
+  ],
+} as const satisfies Release

@@ -5,8 +5,8 @@ import {
   account,
   REACH,
 } from "akasha/agent/model/account/properties/effective-seven-day-usage.computed-property.test-fixtures.ts"
-import type { Computed } from "akasha/pages/modules/computing/page-computing.module.code.ts"
-import { computingOver } from "akasha/pages/modules/computing/page-computing.module.code.ts"
+import type { Computed } from "akasha/page/modules/computing/page-computing.module.code.ts"
+import { computingOver } from "akasha/page/modules/computing/page-computing.module.code.ts"
 
 test("an account that has spent its seven-day window has spent its five-hour window", () => {
   const spent = { effectiveSevenDayUsage: 100, fiveHourPercentUsed: 4 }

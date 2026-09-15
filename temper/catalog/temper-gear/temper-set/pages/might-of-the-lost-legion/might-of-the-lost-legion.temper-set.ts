@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/temper-set.page-type.types.ts"
+
+export const mightOfTheLostLegion = {
+  id: "019e668e-9a52-7d49-8c93-aa8005b594f5",
+  type: "temper-set",
+  slug: "might-of-the-lost-legion",
+  title: "Might of the Lost Legion",
+  key: "might-of-the-lost-legion",
+  esoSetId: 410,
+  subcategoryId: "crafted",
+  valid: ["*"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet

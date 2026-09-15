@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const greenDayInsomniac25thAnniversaryDeluxeEdition = {
+  id: "01a0676a-d721-7077-9f51-b9243a54b7a2",
+  type: "release",
+  slug: "green-day-insomniac-25th-anniversary-deluxe-edition",
+  title: "Insomniac (25th Anniversary Deluxe Edition)",
+  partOfCollections: ["artist/green-day"],
+  position: 0,
+  ownLength: 52.959467,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  rank: "C",
+  publishedAt: "2021-03-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2nrqcI2e61NN375lBaQIg0",
+      externalLink: "https://open.spotify.com/album/2nrqcI2e61NN375lBaQIg0",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

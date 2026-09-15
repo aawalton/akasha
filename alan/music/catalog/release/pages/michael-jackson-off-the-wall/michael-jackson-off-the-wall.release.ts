@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const michaelJacksonOffTheWall = {
+  id: "01a0676a-d726-7019-ae8d-bd11f2e9212a",
+  type: "release",
+  slug: "michael-jackson-off-the-wall",
+  title: "Off the Wall",
+  partOfCollections: ["artist/michael-jackson"],
+  position: 0,
+  ownLength: 42.41415,
+  ownProgress: 42.41415,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "1979-08-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ZytN2cY4Zjrr9ukb2rqTP",
+      externalLink: "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

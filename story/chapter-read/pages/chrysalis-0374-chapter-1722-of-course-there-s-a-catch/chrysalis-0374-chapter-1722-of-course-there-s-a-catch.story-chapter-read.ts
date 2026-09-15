@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0374Chapter1722OfCourseThereSACatch = {
+  id: "01a0672c-eb68-7006-95ff-91a7f5a4308d",
+  type: "story-chapter-read",
+  slug: "chrysalis-0374-chapter-1722-of-course-there-s-a-catch",
+  title: "Chapter 1722 - Of Course There’s a Catch",
+  story: "story-read/chrysalis",
+  position: 374,
+  ownLength: 1223,
+  ownProgress: 1223,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:55:46.219Z",
+  publishedAt: "2026-01-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2986273",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2986273/chapter-1722-of-course-theres-a-catch",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

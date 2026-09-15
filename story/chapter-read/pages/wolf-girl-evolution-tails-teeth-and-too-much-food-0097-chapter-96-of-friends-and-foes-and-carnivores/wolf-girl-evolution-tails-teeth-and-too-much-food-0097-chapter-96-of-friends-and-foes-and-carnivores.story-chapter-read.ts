@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const wolfGirlEvolutionTailsTeethAndTooMuchFood0097Chapter96OfFriendsAndFoesAndCarnivores = {
+  id: "01a06730-55e7-7902-921d-97b8209a3a0a",
+  type: "story-chapter-read",
+  slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0097-chapter-96-of-friends-and-foes-and-carnivores",
+  title: "Chapter 96: Of Friends and Foes and Carnivores",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
+  position: 97,
+  ownLength: 2227,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3019858",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3019858/chapter-96-of-friends-and-foes-and-carnivores",
+    },
+  ],
+  publishedAt: "2026-02-06",
+  prose: "txt",
+} as const satisfies StoryChapterRead

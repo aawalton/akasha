@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0564ChapterFiveHundredAndFortyNineAllFourOne = {
+  id: "01a0672c-eb27-700c-b327-154b56756547",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0564-chapter-five-hundred-and-forty-nine-all-four-one",
+  title: "Chapter Five Hundred and Forty-Nine - All Four One Formation",
+  story: "story-read/cinnamon-bun",
+  position: 564,
+  ownLength: 1473,
+  unit: "unit/words",
+  publishedAt: "2025-08-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2516456",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2516456/chapter-five-hundred-and-forty-nine-all-four-one",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

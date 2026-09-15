@@ -7,7 +7,7 @@ import {
   resolveAttributes,
   scan,
 } from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export interface StatedIdentity {
   readonly persona?: string

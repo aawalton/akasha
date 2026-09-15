@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0122Chapter1474OddCircumstances = {
+  id: "01a0672c-eb5f-7008-8016-d9b960ab1db1",
+  type: "story-chapter-read",
+  slug: "chrysalis-0122-chapter-1474-odd-circumstances",
+  title: "Chapter 1474 - Odd Circumstances",
+  story: "story-read/chrysalis",
+  position: 122,
+  ownLength: 1107,
+  ownProgress: 1107,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:47:58.561Z",
+  publishedAt: "2024-12-13",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1953782",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1953782/chapter-1474-odd-circumstances",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

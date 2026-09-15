@@ -1,25 +1,25 @@
-import { leftAt } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { leftAt } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type {
   Adding,
   FileChange,
   Moving,
   Replacing,
-} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { textIn } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
-import { steppedFor } from "akasha/code/ios-components/pages/spacing/modules/stepping/spacing-stepping.module.code.ts"
-import { bodiesFor } from "akasha/code/module-property-groups/modules/group-writing/group-writing.module.code.ts"
+import { steppedFor } from "akasha/code/ios-component/pages/spacing/modules/stepping/spacing-stepping.module.code.ts"
+import { bodiesFor } from "akasha/code/module-property-group/modules/group-writing/group-writing.module.code.ts"
 import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
-import { globbedFor } from "akasha/code/stylesheets/modules/source-globbing/source-globbing.module.code.ts"
-import { lockingFor } from "akasha/code/workspaces/modules/manifest-locking/manifest-locking.module.code.ts"
+import { globbedFor } from "akasha/code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"
+import { lockingFor } from "akasha/code/workspace/modules/manifest-locking/manifest-locking.module.code.ts"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { changeOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
-import { filingsFor } from "akasha/pages/index/modules/carrying/index-carrying.module.code.ts"
-import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import { unexportableIn } from "akasha/pages/modules/export-name/modules/export-naming/export-naming.module.code.ts"
-import { typesFor } from "akasha/pages/types/modules/type-generating/type-generating.module.code.ts"
+import { filingsFor } from "akasha/page/index/modules/carrying/index-carrying.module.code.ts"
+import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { unexportableIn } from "akasha/page/modules/export-name/modules/export-naming/export-naming.module.code.ts"
+import { typesFor } from "akasha/page/type/modules/type-generating/type-generating.module.code.ts"
 
 export type Formatting = {
   readonly edits: readonly Replacing[]

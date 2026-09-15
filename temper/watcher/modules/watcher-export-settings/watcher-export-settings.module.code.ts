@@ -1,8 +1,8 @@
-import { getPage, getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
+import { getPage, getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import {
   readFiles,
   readPages,
-} from "akasha/pages/query/modules/store-writing/store-writing.module.code.ts"
+} from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import type { BackpackSettings } from "akasha/temper/items-core/modules/backpack-settings-types/backpack-settings-types.module.code.ts"
 import { DEFAULT_BACKPACK_SETTINGS } from "akasha/temper/items-core/modules/backpack-settings-types/backpack-settings-types.module.code.ts"

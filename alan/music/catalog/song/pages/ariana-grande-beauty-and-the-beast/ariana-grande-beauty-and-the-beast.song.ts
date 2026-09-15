@@ -1,0 +1,22 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const arianaGrandeBeautyAndTheBeast = {
+  id: "019ea4e3-7d49-7065-b434-783e3f32adf8",
+  type: "song",
+  slug: "ariana-grande-beauty-and-the-beast",
+  title: "Beauty and the Beast",
+  artist: "artist/ariana-grande",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "dea11511-4254-3ae2-b6c3-906ea502668a",
+      externalLink: "https://musicbrainz.org/work/dea11511-4254-3ae2-b6c3-906ea502668a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "derivative",
+  performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

@@ -1,8 +1,8 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { addonsDir as addonsDirArgument } from "akasha/command/arguments/pages/addons-dir.argument.ts"
-import { codeRoot } from "akasha/command/arguments/pages/code-root.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { outdated } from "akasha/command/arguments/pages/outdated.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { addonsDir as addonsDirArgument } from "akasha/command/argument/pages/addons-dir.argument.ts"
+import { codeRoot } from "akasha/command/argument/pages/code-root.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { outdated } from "akasha/command/argument/pages/outdated.argument.ts"
 import {
   OPERATIONAL,
   refused,

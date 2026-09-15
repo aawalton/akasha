@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const justAddMana0135132Book3Chapter31NewClassesPt1 = {
+  id: "01a06731-ae42-7000-bfba-e195c760edb6",
+  type: "story-chapter-read",
+  slug: "just-add-mana-0135-132-book-3-chapter-31-new-classes-pt-1",
+  title: "132 — Book 3, Chapter 31 — New Classes, Pt 1",
+  story: "story-read/just-add-mana",
+  position: 135,
+  ownLength: 3121,
+  unit: "unit/words",
+  publishedAt: "2026-05-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3366599",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3366599/132-book-3-chapter-31-new-classes-pt-1",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

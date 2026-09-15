@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const paulCardallAscensusChristiAPianoRhapsody = {
+  id: "01a0676a-d717-7037-afe8-b19dad66132a",
+  type: "release",
+  slug: "paul-cardall-ascensus-christi-a-piano-rhapsody",
+  title: "Ascensus Christi: A Piano Rhapsody",
+  partOfCollections: ["artist/paul-cardall"],
+  position: 0,
+  ownLength: 5.210733,
+  ownProgress: 5.210733,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-04-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "11WI4gYV1kTzrr6SGil1gj",
+      externalLink: "https://open.spotify.com/album/11WI4gYV1kTzrr6SGil1gj",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theWanderingInn0372InterludeTheTitanSQuestion = {
+  id: "01a0659c-662c-7bc0-ba42-c54bc7cd2071",
+  type: "story-chapter-read",
+  slug: "the-wandering-inn-0372-interlude-the-titan-s-question",
+  title: "Interlude - The Titan's Question",
+  story: "story-read/the-wandering-inn",
+  position: 372,
+  ownLength: 23293,
+  ownProgress: 23293,
+  unit: "unit/words",
+  publishedAt: "2019-11-09",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2019/11/09/interlude-the-titans-question/",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

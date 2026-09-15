@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0267V7c14RustingIron = {
+  id: "01a06731-adcc-7000-a676-baf767026465",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0267-v7c14-rusting-iron",
+  title: "v7c14: Rusting Iron",
+  story: "story-read/beware-of-chicken",
+  position: 267,
+  ownLength: 3247,
+  ownProgress: 3247,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:00:34.670Z",
+  publishedAt: "2025-12-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2860189",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2860189/v7c14-rusting-iron",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

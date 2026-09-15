@@ -1,0 +1,47 @@
+import type { ShellScript } from "akasha/code/shell-script/shell-script.page-type.types.ts"
+
+export const alanwaltonHealthIntentAnchoredDrain = {
+  id: "01a0595b-ef59-76d9-9265-f63a151d0fc6",
+  type: "shell-script",
+  slug: "alanwalton-health-intent-anchored-drain",
+  definition: "the Swift draining one metric from its anchor",
+  shell: "sh",
+  sourced: true,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The empty-page branch of the drain leaves the anchor where the anchor was.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "An anchor advanced over an empty page puts every sample behind that anchor out of reach for good.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A failed upload leaves the anchor where the anchor was.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every sample in a batch the server refused is fetched again by the next run.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The seed window bounds a read only where there is no anchor to bound that read.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A date window beside an anchor drops the samples a run after a long outage would recover.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A metric that sent nothing routes into the backstop before the run reports on that metric.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Nothing new to send is never reported on the anchored read's word alone.",
+    },
+  ],
+} as const satisfies ShellScript

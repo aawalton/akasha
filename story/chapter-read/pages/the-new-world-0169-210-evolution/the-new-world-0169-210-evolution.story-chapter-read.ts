@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld0169210Evolution = {
+  id: "01a06730-4e88-79b6-b306-cf05399fef45",
+  type: "story-chapter-read",
+  slug: "the-new-world-0169-210-evolution",
+  title: "210 Evolution",
+  story: "story-read/the-new-world",
+  position: 169,
+  ownLength: 6058,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "369802",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/369802/210-evolution",
+    },
+  ],
+  publishedAt: "2019-06-07",
+  ownProgress: 6058,
+  completedAt: "2026-06-29T21:26:39.702Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

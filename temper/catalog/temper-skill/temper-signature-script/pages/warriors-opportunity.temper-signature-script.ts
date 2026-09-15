@@ -1,0 +1,13 @@
+import type { TemperSignatureScript } from "akasha/temper/catalog/temper-skill/temper-signature-script/temper-signature-script.page-type.types.ts"
+
+export const warriorsOpportunity = {
+  id: "019e46b5-7e2b-7eff-8e10-b466537051a3",
+  type: "temper-signature-script",
+  slug: "warriors-opportunity",
+  title: "Warrior's Opportunity",
+  key: "warriors-opportunity",
+  icon: "/esoui/art/icons/scribing_secondary_opportunism.dds",
+  itemId: 204589,
+  uespId: 41,
+  slotType: "signature-slot",
+} as const satisfies TemperSignatureScript

@@ -1,0 +1,12 @@
+import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everything/topic/learn-everything-topic.page-type.types.ts"
+
+export const learnEverythingTopic02MedievalSouthwestAsiaNorthAfricaAndEurope = {
+  id: "01a065a7-0857-7016-8058-c8d093ec3d74",
+  type: "learn-everything-topic",
+  slug: "learn-everything-topic-02-medieval-southwest-asia-north-africa-and-europe",
+  node: "The History of Mankind › Medieval Southwest Asia, North Africa, and Europe",
+  masteryLevel: "mastery-level/novice",
+  scoredOn: "2026-06-19",
+  status: "unopened",
+  partOf: ["learn-everything-topic/learn-everything-topic-09-the-history-of-mankind"],
+} as const satisfies LearnEverythingTopic

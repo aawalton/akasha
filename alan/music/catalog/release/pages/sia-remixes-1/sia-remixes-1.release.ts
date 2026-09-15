@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaRemixes1 = {
+  id: "01a0676a-d727-7066-9797-d09266a58b44",
+  type: "release",
+  slug: "sia-remixes-1",
+  title: "Remixes 1",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 21.2233,
+  ownProgress: 21.2233,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2008-07-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "331NNy6N6hLirWOtWZSuw0",
+      externalLink: "https://open.spotify.com/album/331NNy6N6hLirWOtWZSuw0",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

@@ -9,11 +9,11 @@ import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-t
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   pageFiled,
   shapeAdded,
-} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 

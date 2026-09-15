@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const byuVocalPointGoodTimeSingle = {
+  id: "01a0676a-d71f-701e-a02d-0489761d9f8f",
+  type: "release",
+  slug: "byu-vocal-point-good-time-single",
+  title: "Good Time - Single",
+  partOfCollections: ["artist/byu-vocal-point"],
+  position: 0,
+  ownLength: 2.899717,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2013-03-05",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "69Maj1WdZU7whzbviBS3xI",
+      externalLink: "https://open.spotify.com/album/69Maj1WdZU7whzbviBS3xI",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
+} as const satisfies Release

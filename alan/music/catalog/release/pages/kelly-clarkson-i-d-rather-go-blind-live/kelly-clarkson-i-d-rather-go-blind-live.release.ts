@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const kellyClarksonIDRatherGoBlindLive = {
+  id: "01a0676a-d721-7006-a791-a17add681893",
+  type: "release",
+  slug: "kelly-clarkson-i-d-rather-go-blind-live",
+  title: "I'd Rather Go Blind (Live)",
+  partOfCollections: ["artist/kelly-clarkson"],
+  position: 0,
+  ownLength: 2.933417,
+  ownProgress: 2.933417,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2016-11-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7DoR6JyqLpo0w259mGwElg",
+      externalLink: "https://open.spotify.com/album/7DoR6JyqLpo0w259mGwElg",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellHorizonHealer0037Chapter37TheAdventuresOfHannaAndPom = {
+  id: "01a06731-ae7e-7003-9f71-85a0dfa3fe71",
+  type: "story-chapter-read",
+  slug: "hell-horizon-healer-0037-chapter-37-the-adventures-of-hanna-and-pom",
+  title: "Chapter 37 - The Adventures of Hanna and Pom",
+  story: "story-read/hell-horizon-healer",
+  position: 37,
+  ownLength: 1411,
+  unit: "unit/words",
+  publishedAt: "2026-08-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3783481",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3783481/chapter-37-the-adventures-of-hanna-and-pom",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

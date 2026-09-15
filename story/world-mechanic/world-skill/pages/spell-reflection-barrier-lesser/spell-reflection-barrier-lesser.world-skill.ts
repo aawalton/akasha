@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-skill.page-type.types.ts"
+
+export const spellReflectionBarrierLesser = {
+  id: "01a0657d-02ed-7c76-9f5f-c5ce7eae1c4d",
+  type: "world-skill",
+  slug: "spell-reflection-barrier-lesser",
+  title: "Spell Reflection Barrier (Lesser)",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

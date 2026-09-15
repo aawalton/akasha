@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0097InterludeTheManOfIronAndStone = {
+  id: "01a06731-ad89-7006-9d1e-636d50b92ba6",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0097-interlude-the-man-of-iron-and-stone",
+  title: "Interlude: The Man of Iron and Stone",
+  story: "story-read/beware-of-chicken",
+  position: 97,
+  ownLength: 1985,
+  ownProgress: 1985,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:54:46.625Z",
+  publishedAt: "2024-02-20",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1525190",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1525190/interlude-the-man-of-iron-and-stone",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

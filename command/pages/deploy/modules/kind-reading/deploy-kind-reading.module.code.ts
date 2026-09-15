@@ -1,9 +1,9 @@
 import { mobileApps } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
-import { pathsNamed } from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.code.ts"
+import { pathsNamed } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 import {
   listedAt,
   slugsOfType,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 export const PAGE_TYPE = "page-type"
 

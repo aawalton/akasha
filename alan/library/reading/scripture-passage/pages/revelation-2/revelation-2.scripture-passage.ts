@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/library/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const revelation2 = {
+  id: "01a06804-11b1-7019-b665-0ca0452b4cbe",
+  type: "scripture-passage",
+  slug: "revelation-2",
+  title: "Revelation 2",
+  book: "Revelation",
+  position: 2,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "revelation2",
+} as const satisfies ScripturePassage

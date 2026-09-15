@@ -3,13 +3,13 @@ import { join } from "node:path"
 import {
   slugsOfType,
   valuesOfType,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA as AKASHA_REPO,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const roots = resolveRoots()

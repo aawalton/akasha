@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0231V6c42IceHeartTreaty = {
+  id: "01a06731-adc1-7009-b838-6c37e92ba22a",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0231-v6c42-ice-heart-treaty",
+  title: "v6c42: Ice Heart Treaty",
+  story: "story-read/beware-of-chicken",
+  position: 231,
+  ownLength: 2162,
+  ownProgress: 2162,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:59:18.815Z",
+  publishedAt: "2025-07-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2410105",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2410105/v6c42-ice-heart-treaty",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const siaTheCoDependent = {
+  id: "019ea4cc-f24b-7d7b-a1cb-11d2ca570fe8",
+  type: "song",
+  slug: "sia-the-co-dependent",
+  title: "The Co-Dependent",
+  artist: "artist/sia",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "816d761b-413b-4211-ab02-03f8d579781c",
+      externalLink: "https://musicbrainz.org/work/816d761b-413b-4211-ab02-03f8d579781c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "collab",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

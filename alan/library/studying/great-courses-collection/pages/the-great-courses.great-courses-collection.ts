@@ -1,0 +1,17 @@
+import type { GreatCoursesCollection } from "akasha/alan/library/studying/great-courses-collection/great-courses-collection.page-type.types.ts"
+
+export const theGreatCourses = {
+  id: "019db533-f3a0-7af8-b549-248b004c0bf9",
+  type: "great-courses-collection",
+  slug: "the-great-courses",
+  title: "The Great Courses",
+  status: "not-applicable",
+  unit: "unit/minutes",
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalLink: "https://www.thegreatcourses.com/",
+      lastSyncedAt: "2026-08-24",
+    },
+  ],
+} as const satisfies GreatCoursesCollection

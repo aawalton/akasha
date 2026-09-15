@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const heavenPiercingGiraffeOpMcXianxia0019Chapter19NewSkillAcquired = {
+  id: "01a06731-b11d-700f-bdfb-fbdd71de1491",
+  type: "story-chapter-read",
+  slug: "heaven-piercing-giraffe-op-mc-xianxia-0019-chapter-19-new-skill-acquired",
+  title: "Chapter 19: New Skill Acquired",
+  story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
+  position: 19,
+  ownLength: 2379,
+  unit: "unit/words",
+  publishedAt: "2026-07-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3713539",
+      externalLink:
+        "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3713539/chapter-19-new-skill-acquired",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

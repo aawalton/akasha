@@ -1,4 +1,4 @@
-import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
+import type { RecordProperty } from "akasha/page/record-property/record-property.page-type.types.ts"
 
 export const turnWorking = {
   id: "01a06c75-5eab-7ec2-b8c4-b25cdb0803ce",

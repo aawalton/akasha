@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0220Chapter1346StormyWithAChanceOfFlamesAndArrows = {
+  id: "01a06730-4e38-7696-a1d0-0b91bff09be3",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0220-chapter-1346-stormy-with-a-chance-of-flames-and-arrows",
+  title: "Chapter 1346 - Stormy With A Chance of Flames & Arrows",
+  story: "story-read/the-primal-hunter",
+  position: 220,
+  ownLength: 2912,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3627240",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3627240/chapter-1346-stormy-with-a-chance-of-flames-arrows",
+    },
+  ],
+  publishedAt: "2026-07-03",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,4 +1,4 @@
-import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-file-property.page-type.types.ts"
+import type { CodeFileProperty } from "akasha/page/code-file-property/code-file-property.page-type.types.ts"
 
 export const appLayout = {
   id: "01a07917-b971-76f3-8ada-fc17be46e258",

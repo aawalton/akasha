@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning0107Epilogue = {
+  id: "01a06731-b0c6-7001-9b75-430c0aab34fe",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0107-epilogue",
+  title: "Epilogue",
+  story: "story-read/mother-of-learning",
+  position: 107,
+  ownLength: 12295,
+  ownProgress: 12295,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:50:09.311Z",
+  publishedAt: "2020-02-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "455876",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/455876/epilogue",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

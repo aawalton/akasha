@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonUnderTheSunWithAlokSwitchDiscoVipMix = {
+  id: "01a0676a-d72f-703c-b8e0-a39797339bd2",
+  type: "release",
+  slug: "ella-henderson-under-the-sun-with-alok-switch-disco-vip-mix",
+  title: "Under The Sun (with Alok) [Switch Disco VIP Mix]",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 4.019367,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2024-07-26",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Hdbmv53nrcfnmqPJRKeMJ",
+      externalLink: "https://open.spotify.com/album/1Hdbmv53nrcfnmqPJRKeMJ",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

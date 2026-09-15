@@ -1,4 +1,4 @@
-import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
+import type { FileProperty } from "akasha/page/file-property/file-property.page-type.types.ts"
 
 export const subagentRefusals = {
   id: "01a08d62-5be7-74d0-8fa3-63a8fc24f035",

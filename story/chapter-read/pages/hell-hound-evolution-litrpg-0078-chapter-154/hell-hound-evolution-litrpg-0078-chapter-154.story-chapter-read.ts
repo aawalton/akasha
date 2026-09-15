@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellHoundEvolutionLitrpg0078Chapter154 = {
+  id: "01a06731-afa0-7002-91b7-025257602f01",
+  type: "story-chapter-read",
+  slug: "hell-hound-evolution-litrpg-0078-chapter-154",
+  title: "Chapter 154",
+  story: "story-read/hell-hound-evolution-litrpg",
+  position: 78,
+  ownLength: 2678,
+  unit: "unit/words",
+  publishedAt: "2026-08-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3794927",
+      externalLink:
+        "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3794927/chapter-154",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

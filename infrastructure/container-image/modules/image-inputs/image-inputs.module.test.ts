@@ -35,5 +35,5 @@ test("the same inputs hash the same twice over", () => {
 test("what the proxy is built from carries the lockfile and its own folder", () => {
   const copied = inputsFor(PROXY).copied
   expect(copied).toContain("bun.lock")
-  expect(copied).toContain("infrastructure/networks/auth-proxy")
+  expect(copied).toContain("infrastructure/network/auth-proxy")
 })

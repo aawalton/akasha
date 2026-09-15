@@ -1,0 +1,9 @@
+import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-class.page-type.types.ts"
+
+export const artisanOfBones = {
+  id: "01a0657e-1331-7518-b398-ff663e5a7473",
+  type: "world-class",
+  slug: "artisan-of-bones",
+  title: "Artisan of Bones",
+  world: "world/the-wandering-inn",
+} as const satisfies WorldClass

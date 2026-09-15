@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const weirdAlYankovic2MandatoryFun = {
+  id: "01a0676a-d724-7037-8742-7be5c6ac752d",
+  type: "release",
+  slug: "weird-al-yankovic-2-mandatory-fun",
+  title: "Mandatory Fun",
+  partOfCollections: ["artist/weird-al-yankovic"],
+  position: 0,
+  ownLength: 45.440167,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2014-07-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "36jlZKG1sNZQA2HbWdYveV",
+      externalLink: "https://open.spotify.com/album/36jlZKG1sNZQA2HbWdYveV",
+    },
+  ],
+} as const satisfies Release

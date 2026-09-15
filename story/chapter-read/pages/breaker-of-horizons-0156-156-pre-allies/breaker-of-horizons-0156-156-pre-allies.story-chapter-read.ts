@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons0156156PreAllies = {
+  id: "01a06731-adb0-7006-8879-6d981b5d1a6d",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0156-156-pre-allies",
+  title: "156. Pre-Allies",
+  story: "story-read/breaker-of-horizons",
+  position: 156,
+  ownLength: 1956,
+  unit: "unit/words",
+  publishedAt: "2021-11-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "796715",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/796715/156-pre-allies",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

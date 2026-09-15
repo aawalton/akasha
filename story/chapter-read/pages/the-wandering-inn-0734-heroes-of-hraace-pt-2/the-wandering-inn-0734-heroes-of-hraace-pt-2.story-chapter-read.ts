@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theWanderingInn0734HeroesOfHraacePt2 = {
+  id: "01a0659c-7edf-7d12-bde9-2406dfb3dab1",
+  type: "story-chapter-read",
+  slug: "the-wandering-inn-0734-heroes-of-hraace-pt-2",
+  title: "Heroes of Hraace (Pt. 2)",
+  story: "story-read/the-wandering-inn",
+  position: 734,
+  ownLength: 24456,
+  ownProgress: 24605,
+  unit: "unit/words",
+  publishedAt: "2024-10-06",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2024/10/06/heroes-of-hraace-pt-2/",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

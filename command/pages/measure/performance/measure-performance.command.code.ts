@@ -1,6 +1,6 @@
 import { join } from "node:path"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { performance as performanceArgument } from "akasha/command/arguments/pages/performance.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { performance as performanceArgument } from "akasha/command/argument/pages/performance.argument.ts"
 import { faulted, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
@@ -8,8 +8,8 @@ import { measurePerformance as page } from "akasha/command/pages/measure/perform
 import {
   listedAt,
   slugsOfType,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const PERFORMANCE = "performance"

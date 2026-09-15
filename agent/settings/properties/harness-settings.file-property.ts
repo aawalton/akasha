@@ -1,4 +1,4 @@
-import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
+import type { FileProperty } from "akasha/page/file-property/file-property.page-type.types.ts"
 
 export const harnessSettings = {
   id: "01a0657b-ad40-7560-a9d3-d510dfab3cf8",

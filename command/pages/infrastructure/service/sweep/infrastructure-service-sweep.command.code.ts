@@ -1,5 +1,5 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { dryRun } from "akasha/command/arguments/pages/dry-run.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
 import {
   answeredWith,
   answering,
@@ -15,7 +15,7 @@ import { infrastructureServiceSweep as page } from "akasha/command/pages/infrast
 import type {
   Done,
   Plan,
-} from "akasha/infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"
+} from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
 import {
   homeAt,
   installing,
@@ -24,8 +24,8 @@ import {
   planFor,
   strandedAmong,
   systemctl,
-} from "akasha/infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"
-import { everyService } from "akasha/infrastructure/services/workstations/modules/service-reading/service-reading.module.code.ts"
+} from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
+import { everyService } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
 
 const NOT_SWEPT =
   "dry-run\tnothing was taken away; run it again without `--dry-run` to carry it out"

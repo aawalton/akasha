@@ -6,15 +6,15 @@ import { OK } from "akasha/command/modules/answering/command-answering.module.co
 import { baseOf as headOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { piping } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import { changeSubagentTake } from "akasha/command/pages/change/subagent/take/change-subagent-take.command.code.ts"
-import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   AGENT,
   applied,
   givenIn,
   repoWith,
   scratch,
-} from "akasha/testing-system/test-fixtures/repo-seeding/repo-seeding.test-fixture.code.ts"
+} from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,0 +1,14 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const otherCitizenshipUk = {
+  id: "01a06594-c68b-700a-bead-e7a607bce2c3",
+  type: "book-section",
+  slug: "other-citizenship-uk",
+  title: "United Kingdom — Paths to Citizenship (May 2026)",
+  sectionOf: "book-section/second-passport/other-citizenship",
+  description:
+    "UK citizenship paths (May 2026 snapshot). For residency paths, see ../residency/uk.md.",
+  partOfCollections: ["book-section/second-passport/other-citizenship", "alan-book/my-projects"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

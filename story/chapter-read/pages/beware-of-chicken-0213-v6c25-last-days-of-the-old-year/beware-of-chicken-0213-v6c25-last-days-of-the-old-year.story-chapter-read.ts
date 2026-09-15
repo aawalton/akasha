@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0213V6c25LastDaysOfTheOldYear = {
+  id: "01a06731-adbb-7006-9c51-4911b9e7660f",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0213-v6c25-last-days-of-the-old-year",
+  title: "v6c25: Last Days of the Old Year",
+  story: "story-read/beware-of-chicken",
+  position: 213,
+  ownLength: 2173,
+  ownProgress: 2173,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:58:40.248Z",
+  publishedAt: "2025-05-20",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2292004",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2292004/v6c25-last-days-of-the-old-year",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0587Chapter587ToEachTheirOwn = {
+  id: "01a0672c-ed16-7000-8da9-fe8f67fd077c",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0587-chapter-587-to-each-their-own",
+  title: "Chapter 587 - To Each Their Own",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 587,
+  ownLength: 2735,
+  unit: "unit/words",
+  publishedAt: "2018-05-15",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "215884",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/215884/chapter-587-to-each-their-own",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

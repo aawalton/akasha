@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0298Chapter307TheShipPartOne = {
+  id: "01a0672c-ec30-7000-8950-84163bcb463d",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0298-chapter-307-the-ship-part-one",
+  title: "Chapter 307 - The Ship: Part One",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 298,
+  ownLength: 3044,
+  unit: "unit/words",
+  publishedAt: "2017-07-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "148620",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/148620/chapter-307-the-ship-part-one",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

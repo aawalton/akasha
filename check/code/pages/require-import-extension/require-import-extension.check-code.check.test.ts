@@ -1,0 +1,44 @@
+import { afterAll, expect, test } from "bun:test"
+import { requireImportExtension } from "akasha/check/code/pages/require-import-extension/require-import-extension.check-code.check.code.ts"
+import {
+  AT,
+  BARE,
+  NAMED,
+  NAMED_AT,
+  rooted,
+  SPELLED,
+  scratch,
+} from "akasha/check/code/pages/require-import-extension/require-import-extension.check-code.decision.test-fixtures.ts"
+import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import { landing } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
+
+afterAll(scratch.sweep)
+
+function judged(text: string): readonly Judged[] {
+  const held = landing(rooted(), { [AT]: bytesOf(text), [NAMED_AT]: bytesOf(NAMED) })
+  const cast = shadowFor(held)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return requireImportExtension(held, cast.shadow)
+}
+
+test("the check refuses a specifier the change carries that names a file without its extension", () => {
+  const said = judged(BARE)
+
+  expect(said.map((one) => one.path)).toEqual([AT])
+  expect(said[0]?.reason).toContain("`./ledger.module.code`")
+})
+
+test("the check lets through a specifier carrying the extension of the file it names", () => {
+  expect(judged(SPELLED)).toEqual([])
+})
+
+test("the check takes a body read as code as its input and no other body", () => {
+  const held = landing(rooted(), { [AT]: bytesOf(SPELLED) })
+  const cast = shadowFor(held)
+  if ("refused" in cast) throw new Error(cast.refused)
+
+  expect(requireImportExtension.isInput(AT, cast.shadow)).toBe(true)
+  expect(requireImportExtension.isInput("akasha/notes.txt", cast.shadow)).toBe(false)
+})

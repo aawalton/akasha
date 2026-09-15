@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2LetSBeFriendsExpandedEdition = {
+  id: "01a0676a-d723-700f-be42-bd8fcd2b0778",
+  type: "release",
+  slug: "elvis-presley-2-let-s-be-friends-expanded-edition",
+  title: "Let's Be Friends (Expanded Edition)",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 31.8275,
+  ownProgress: 31.8275,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1970-04-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Y2xJiEIq4l8FMSLNTyzwd",
+      externalLink: "https://open.spotify.com/album/1Y2xJiEIq4l8FMSLNTyzwd",
+    },
+  ],
+} as const satisfies Release

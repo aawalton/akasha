@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const genderDysphoriaMechanism = {
+  id: "01a06594-c679-7014-851a-4270d5ad97f3",
+  type: "book-section",
+  slug: "gender-dysphoria-mechanism",
+  title: "Alan's model of gender",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

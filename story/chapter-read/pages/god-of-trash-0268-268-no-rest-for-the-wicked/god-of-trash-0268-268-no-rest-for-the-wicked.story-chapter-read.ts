@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash0268268NoRestForTheWicked = {
+  id: "01a06731-adfa-7009-ba7d-e1472d37f918",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0268-268-no-rest-for-the-wicked",
+  title: "268. No Rest for the Wicked",
+  story: "story-read/god-of-trash",
+  position: 268,
+  ownLength: 2061,
+  unit: "unit/words",
+  publishedAt: "2026-01-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2992356",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2992356/268-no-rest-for-the-wicked",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Asking as Asked } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   OPERATIONAL,
   partWay,
@@ -51,7 +51,7 @@ import {
   type Told,
   TWO_PLAYS,
 } from "akasha/command/pages/music/capture/music-capture.command.test-fixtures.ts"
-import { statesVersionSeven } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
+import { statesVersionSeven } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 
 test("a track Spotify names no id for is read as no play", () => {
   expect(providerTrackIn({ id: null, name: "One" })).toBe(null)

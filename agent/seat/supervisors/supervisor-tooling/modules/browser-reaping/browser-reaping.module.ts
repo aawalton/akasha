@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const browserReaping = {
   id: "01a0a0f4-a63b-7e62-b70f-6eaed2299de7",

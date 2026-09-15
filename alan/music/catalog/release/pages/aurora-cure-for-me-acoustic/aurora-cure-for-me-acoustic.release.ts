@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const auroraCureForMeAcoustic = {
+  id: "01a0676a-d71b-7045-be35-df9a6397005e",
+  type: "release",
+  slug: "aurora-cure-for-me-acoustic",
+  title: "Cure for Me (Acoustic)",
+  partOfCollections: ["artist/aurora"],
+  position: 0,
+  ownLength: 3.556217,
+  ownProgress: 3.556217,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-08-06",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4W1FK6QtI8cY7j9aghTmbw",
+      externalLink: "https://open.spotify.com/album/4W1FK6QtI8cY7j9aghTmbw",
+    },
+  ],
+} as const satisfies Release

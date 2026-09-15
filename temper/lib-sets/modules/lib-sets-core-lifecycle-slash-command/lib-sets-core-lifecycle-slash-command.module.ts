@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const libSetsCoreLifecycleSlashCommand = {
   id: "01a06231-8f1d-7ec6-9b08-f776872caaa1",

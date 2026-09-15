@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0013Chapter1141SecretsDisclosed = {
+  id: "01a06730-4dcc-7cd8-983d-63fc2ff7f543",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0013-chapter-1141-secrets-disclosed",
+  title: "Chapter 1141 - Secrets Disclosed",
+  story: "story-read/the-primal-hunter",
+  position: 13,
+  ownLength: 2747,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2481372",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2481372/chapter-1141-secrets-disclosed",
+    },
+  ],
+  publishedAt: "2025-07-31",
+  ownProgress: 2747,
+  completedAt: "2026-06-29T19:29:40.558Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

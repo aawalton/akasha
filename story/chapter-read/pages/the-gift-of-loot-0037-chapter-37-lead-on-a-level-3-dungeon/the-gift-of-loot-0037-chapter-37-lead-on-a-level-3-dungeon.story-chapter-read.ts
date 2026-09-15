@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theGiftOfLoot0037Chapter37LeadOnALevel3Dungeon = {
+  id: "01a06730-4ee6-76a5-a97d-acbf82402163",
+  type: "story-chapter-read",
+  slug: "the-gift-of-loot-0037-chapter-37-lead-on-a-level-3-dungeon",
+  title: "Chapter 37: Lead On A Level 3 Dungeon",
+  story: "story-read/the-gift-of-loot",
+  position: 37,
+  ownLength: 2046,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3488485",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3488485/chapter-37-lead-on-a-level-3-dungeon",
+    },
+  ],
+  publishedAt: "2026-06-03",
+  prose: "txt",
+} as const satisfies StoryChapterRead

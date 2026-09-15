@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const blindChaosTalesBeneathTheDragoneyeMoons0068Book5Chapter11InWhichRanthiaGoesOnAHunt = {
+  id: "01a06731-aeed-7001-9356-c27137b482a5",
+  type: "story-chapter-read",
+  slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0068-book-5-chapter-11-in-which-ranthia-goes-on-a-hunt",
+  title: "Book 5 - Chapter 11 - In Which Ranthia Goes on a Hunt",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
+  position: 68,
+  ownLength: 4118,
+  unit: "unit/words",
+  publishedAt: "2026-04-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3306568",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3306568/book-5-chapter-11-in-which-ranthia-goes-on-a-hunt",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

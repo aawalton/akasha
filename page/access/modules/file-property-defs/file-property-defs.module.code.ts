@@ -1,0 +1,155 @@
+import type { PropertyDefinition } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
+import { shapeFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/modules/is-record/is-record.module.code.ts"
+import type { Json } from "akasha/utils/narrow/modules/json-value/json-value.module.code.ts"
+import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
+import { z } from "zod"
+
+export const PAGE_TYPE = "page-type"
+
+export type Declaration = {
+  readonly key: string
+  readonly type: string
+  readonly drawnBy: readonly string[]
+  readonly memberDrawnBy: readonly (readonly string[])[]
+  readonly title: string
+  readonly pageId: string
+  readonly on: string
+  readonly values: unknown
+
+  readonly targetSlug: string | null
+  readonly slugProperty: string | null
+  readonly mayBeGone: boolean
+}
+
+export type PageTypeShape = {
+  readonly pageType: string
+  readonly pageTypeId: string
+  readonly ownerSlug: string | null
+  readonly declarations: readonly Declaration[]
+}
+
+const asked = new Map<string, Promise<PageTypeShape | null>>()
+
+async function read(pageTypeSlug: string): Promise<PageTypeShape | null> {
+  const got = await shapeFor(pageTypeSlug)
+  if ("refused" in got) {
+    throw new Error(
+      `shapeAsked(${pageTypeSlug}): the pages answered no shape, so this reader holds no property definitions to report; an empty list would read as a page type that declares nothing (${got.refused})`
+    )
+  }
+  return got.shape === null ? null : (got.shape as PageTypeShape)
+}
+
+export async function shapeAsked(pageTypeSlug: string): Promise<PageTypeShape | null> {
+  const asking = asked.get(pageTypeSlug)
+  if (asking !== undefined) return asking
+  const started = read(pageTypeSlug)
+  asked.set(pageTypeSlug, started)
+  started.catch(() => {
+    if (asked.get(pageTypeSlug) === started) asked.delete(pageTypeSlug)
+  })
+  return started
+}
+
+type SelectOption = { readonly id: string; readonly label: string }
+
+function labelled(id: string, held: unknown): SelectOption {
+  if (isRecord(held)) {
+    const label = held.label
+    if (typeof label === "string" && label !== "") return { id, label }
+  }
+  return { id, label: id }
+}
+
+function mapped(value: string): unknown {
+  try {
+    return z.unknown().parse(JSON.parse(value))
+  } catch {
+    return null
+  }
+}
+
+function optionsFrom(value: unknown): readonly SelectOption[] | null {
+  if (Array.isArray(value)) {
+    const listed = value
+      .filter((one): one is string => typeof one === "string" && one !== "")
+      .map((one) => ({ id: one, label: one }))
+    return listed.length === 0 ? null : listed
+  }
+  const held = typeof value === "string" ? mapped(value) : value
+  if (!isRecord(held)) return null
+  const named = Object.entries(held).map(([id, one]) => labelled(id, one))
+  return named.length === 0 ? null : named
+}
+
+const DECLARED_BY = "-property"
+
+const RENDERED_PLAIN = "text"
+
+const RENDERED_AS: Readonly<Record<string, string>> = {
+  "boolean-property": "boolean",
+  "calendar-date-property": "calendar-date",
+  "calendar-time-property": "calendar-time",
+  "computed-property": RENDERED_PLAIN,
+  "email-address-property": RENDERED_PLAIN,
+  "file-property": RENDERED_PLAIN,
+  "instant-property": "instant",
+  "number-property": "number",
+  "one-of-property": RENDERED_PLAIN,
+  "page-property-entry": "json",
+  "phone-number-property": RENDERED_PLAIN,
+  "process-property": "json",
+  "rank-property": "select",
+  "record-property": "json",
+  "relation-property": "relation",
+  "select-property": "select",
+  "text-property": RENDERED_PLAIN,
+  "url-property": "url",
+}
+
+export function renderedType(pageTypeSlug: string): string {
+  const named = RENDERED_AS[pageTypeSlug]
+  if (named !== undefined) return named
+  return pageTypeSlug.endsWith(DECLARED_BY) ? RENDERED_PLAIN : pageTypeSlug
+}
+
+function definitionOf(one: Declaration): PropertyDefinition {
+  const config: Record<string, Json> = {}
+  const options = optionsFrom(one.values)
+  if (options !== null) config.options = options.map((each) => ({ ...each }))
+  const stated = Object.keys(config).length !== 0
+  return {
+    id: camelizeKey(one.key),
+    key: one.key,
+    title: one.title,
+    type: renderedType(one.type),
+    drawnBy: one.drawnBy,
+    ...(one.memberDrawnBy.length === 0 ? {} : { memberDrawnBy: one.memberDrawnBy }),
+    pageId: one.pageId,
+    ...(stated ? { config } : {}),
+  }
+}
+
+export async function filePropertyDefinitions(
+  pageTypeSlug: string
+): Promise<readonly PropertyDefinition[]> {
+  const shape = await shapeAsked(pageTypeSlug)
+  if (shape === null) return []
+  const taken = new Set<string>()
+  const defs: PropertyDefinition[] = []
+  for (const one of shape.declarations) {
+    const canonical = camelizeKey(one.key)
+    if (taken.has(canonical)) continue
+    taken.add(canonical)
+    defs.push(definitionOf(one))
+  }
+  return defs
+}
+
+export async function fileRelationDeclarations(
+  pageTypeSlug: string
+): Promise<readonly Declaration[] | null> {
+  const shape = await shapeAsked(pageTypeSlug).catch(() => null)
+  return shape === null ? null : shape.declarations
+}

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const auroraStarvationAnnaRemix = {
+  id: "01a0676a-d72a-7019-97a4-40f02c144442",
+  type: "release",
+  slug: "aurora-starvation-anna-remix",
+  title: "Starvation (ANNA Remix)",
+  partOfCollections: ["artist/aurora"],
+  position: 0,
+  ownLength: 3.566433,
+  ownProgress: 3.566433,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2024-10-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "651nEjooRVw6JJ78RAeoyK",
+      externalLink: "https://open.spotify.com/album/651nEjooRVw6JJ78RAeoyK",
+    },
+  ],
+} as const satisfies Release

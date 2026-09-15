@@ -1,4 +1,4 @@
-import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
+import type { PagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.types.ts"
 
 export const cases = {
   id: "01a053eb-6b25-7c2a-a50f-f804c41457e3",

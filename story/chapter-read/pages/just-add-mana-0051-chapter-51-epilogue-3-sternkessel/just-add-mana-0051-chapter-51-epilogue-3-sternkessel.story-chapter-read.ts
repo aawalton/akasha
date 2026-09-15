@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const justAddMana0051Chapter51Epilogue3Sternkessel = {
+  id: "01a06731-add6-7002-a933-6707bcee6e2b",
+  type: "story-chapter-read",
+  slug: "just-add-mana-0051-chapter-51-epilogue-3-sternkessel",
+  title: "Chapter 51 — Epilogue 3 — Sternkessel",
+  story: "story-read/just-add-mana",
+  position: 51,
+  ownLength: 2543,
+  ownProgress: 2543,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:49:19.481Z",
+  publishedAt: "2025-10-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2698801",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2698801/chapter-51-epilogue-3-sternkessel",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const justAddMana0001Chapter1ManaOverload = {
+  id: "01a06731-ad90-7000-9353-692938a77ebe",
+  type: "story-chapter-read",
+  slug: "just-add-mana-0001-chapter-1-mana-overload",
+  title: "Chapter 1 — Mana Overload",
+  story: "story-read/just-add-mana",
+  position: 1,
+  ownLength: 4170,
+  ownProgress: 4170,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:47:33.159Z",
+  publishedAt: "2025-07-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2442662",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2442662/chapter-1-mana-overload",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

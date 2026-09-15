@@ -4,7 +4,7 @@ import {
   checkoutRoot,
   DAY_PAGE_TYPE,
 } from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
-import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
+import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
 const COMPLETED_TASKS = "completed-tasks"
 

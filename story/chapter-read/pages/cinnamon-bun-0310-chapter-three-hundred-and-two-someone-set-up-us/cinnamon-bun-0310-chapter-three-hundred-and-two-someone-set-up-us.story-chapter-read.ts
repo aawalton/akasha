@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0310ChapterThreeHundredAndTwoSomeoneSetUpUs = {
+  id: "01a0672c-eb19-7005-ab8e-f86d201a886b",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0310-chapter-three-hundred-and-two-someone-set-up-us",
+  title: "Chapter Three Hundred and Two - Someone Set Up Us the Bomb",
+  story: "story-read/cinnamon-bun",
+  position: 310,
+  ownLength: 1935,
+  unit: "unit/words",
+  publishedAt: "2022-04-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "886046",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/886046/chapter-three-hundred-and-two-someone-set-up-us",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

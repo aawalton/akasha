@@ -1,21 +1,21 @@
 import { onTheWorkstation } from "akasha/alan/harness/alanwalton-ios-notification/modules/push-device-tokens/push-device-tokens.module.code.ts"
-import { stilled } from "akasha/alan/harness/readouts/modules/group-serving/readout-group-serving.module.code.ts"
-import { stated } from "akasha/alan/harness/readouts/modules/none-left/readout-none-left.module.code.ts"
+import { stilled } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
+import { stated } from "akasha/alan/harness/readout/modules/none-left/readout-none-left.module.code.ts"
 import {
   climbs,
   rungsIn,
-} from "akasha/alan/harness/readouts/modules/tier/readout-tier.module.code.ts"
-import { sleepIn } from "akasha/alan/harness/readouts/pages/upkeep-sleep/upkeep-sleep.readout.reading.code.ts"
-import { surplusIn } from "akasha/alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.reading.code.ts"
+} from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
+import { sleepIn } from "akasha/alan/harness/readout/pages/upkeep-sleep/upkeep-sleep.readout.reading.code.ts"
+import { surplusIn } from "akasha/alan/harness/readout/pages/upkeep-surplus/upkeep-surplus.readout.reading.code.ts"
 import {
   isTierColor,
   type Rung,
 } from "akasha/alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.code.ts"
 import { dayValuesByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
-import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
-import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import type { Query } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
-import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { Query } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 export interface Readout {
   readonly slug: string

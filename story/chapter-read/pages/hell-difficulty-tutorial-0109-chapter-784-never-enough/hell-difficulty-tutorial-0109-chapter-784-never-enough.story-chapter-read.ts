@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0109Chapter784NeverEnough = {
+  id: "01a06731-ad83-7004-a135-846bf4bdf93f",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0109-chapter-784-never-enough",
+  title: "Chapter 784 - Never enough",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 109,
+  ownLength: 2668,
+  unit: "unit/words",
+  publishedAt: "2026-04-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3220136",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3220136/chapter-784-never-enough",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

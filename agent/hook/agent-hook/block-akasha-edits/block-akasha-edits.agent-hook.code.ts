@@ -8,11 +8,11 @@ import {
 import { shownIn } from "akasha/agent/hook/modules/path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "akasha/agent/hook/modules/settling/settling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { gitIn } from "akasha/files/modules/git-place/git-place.module.code.ts"
+import { gitIn } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import {
   INDEX_AT,
   indexIn,
-} from "akasha/pages/index/modules/surface/index-surface.module.code.ts"
+} from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/modules/as-record/as-record.module.code.ts"
 import { stringAt } from "akasha/utils/narrow/modules/string-at/string-at.module.code.ts"
 

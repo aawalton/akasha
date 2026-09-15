@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0100Chapter630Dinner = {
+  id: "01a06730-4e0e-738f-9030-6950d4f50298",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0100-chapter-630-dinner",
+  title: "Chapter 630: Dinner",
+  story: "story-read/rise-of-the-living-forge",
+  position: 100,
+  ownLength: 1686,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3800026",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3800026/chapter-630-dinner",
+    },
+  ],
+  publishedAt: "2026-08-11",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0115Chapter102Proclamation = {
+  id: "01a0672c-ed5f-7010-acf3-6c47093b917a",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0115-chapter-102-proclamation",
+  title: "Chapter 102 Proclamation",
+  story: "story-read/melody-of-mana",
+  position: 115,
+  ownLength: 1868,
+  ownProgress: 1868,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:30:06.292Z",
+  publishedAt: "2022-04-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "878161",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/878161/chapter-102-proclamation",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

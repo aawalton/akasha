@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const cpu = {
   id: "01a09188-434b-7baf-af6f-d0957f02cb86",

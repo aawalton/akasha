@@ -2,14 +2,14 @@
 
 import { useSupabase } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { UserIdContext } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"
-import { reportPagesStoreStall } from "akasha/pages/ui-store/modules/report-stall/report-stall.module.code.ts"
+import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { SupabasePageResolverProvider } from "akasha/page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"
+import { reportPagesStoreStall } from "akasha/page/ui-store/modules/report-stall/report-stall.module.code.ts"
 import {
   configurePagesStoreAuth,
   getPagesStore,
-} from "akasha/pages/ui-store/modules/singleton/singleton.module.code.ts"
-import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
+} from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
+import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useTemperPagesResolver } from "akasha/temper/web/modules/temper-pages-resolver/temper-pages-resolver.module.code.ts"
 import { type ReactNode, useEffect, useRef, useState } from "react"
 import { z } from "zod"

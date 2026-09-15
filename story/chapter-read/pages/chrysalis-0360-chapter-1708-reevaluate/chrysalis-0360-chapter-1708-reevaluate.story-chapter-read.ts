@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0360Chapter1708Reevaluate = {
+  id: "01a0672c-eb67-7016-9e74-bdf6daea8247",
+  type: "story-chapter-read",
+  slug: "chrysalis-0360-chapter-1708-reevaluate",
+  title: "Chapter 1708 - Reevaluate",
+  story: "story-read/chrysalis",
+  position: 360,
+  ownLength: 828,
+  ownProgress: 828,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:55:19.600Z",
+  publishedAt: "2025-12-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2857402",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2857402/chapter-1708-reevaluate",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

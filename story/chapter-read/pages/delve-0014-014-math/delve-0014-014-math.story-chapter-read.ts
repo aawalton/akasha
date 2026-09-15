@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const delve0014014Math = {
+  id: "01a06731-ad84-7000-ad22-23dc2cffdc78",
+  type: "story-chapter-read",
+  slug: "delve-0014-014-math",
+  title: "014: Math",
+  story: "story-read/delve",
+  position: 14,
+  ownLength: 3183,
+  unit: "unit/words",
+  publishedAt: "2019-06-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "369965",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/369965/014-math",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0055Chapter55TheGrandLibraryArcana = {
+  id: "01a0672c-eb47-7000-88ad-2ca6986aeb0e",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0055-chapter-55-the-grand-library-arcana",
+  title: "Chapter 55: The Grand Library Arcana",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 55,
+  ownLength: 3663,
+  ownProgress: 3663,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:12:47.112Z",
+  publishedAt: "2024-04-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1584702",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1584702/chapter-55-the-grand-library-arcana",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

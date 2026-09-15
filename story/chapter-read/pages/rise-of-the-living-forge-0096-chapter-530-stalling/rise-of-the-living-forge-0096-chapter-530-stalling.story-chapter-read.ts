@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0096Chapter530Stalling = {
+  id: "01a06730-4e0d-7a93-87c8-13acb4437e6b",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0096-chapter-530-stalling",
+  title: "Chapter 530: Stalling",
+  story: "story-read/rise-of-the-living-forge",
+  position: 96,
+  ownLength: 1879,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2838970",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2838970/chapter-530-stalling",
+    },
+  ],
+  publishedAt: "2025-12-11",
+  ownProgress: 1879,
+  completedAt: "2026-06-29T20:01:30.695Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

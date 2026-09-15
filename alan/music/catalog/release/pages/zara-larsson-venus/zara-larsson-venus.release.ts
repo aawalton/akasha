@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const zaraLarssonVenus = {
+  id: "01a0676a-d730-7002-add3-dc7d06f18191",
+  type: "release",
+  slug: "zara-larsson-venus",
+  title: "VENUS",
+  partOfCollections: ["artist/zara-larsson"],
+  position: 0,
+  ownLength: 39.3006,
+  ownProgress: 39.3006,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2024-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0qqZ6HD72So93exL9rH7zi",
+      externalLink: "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
+} as const satisfies Release

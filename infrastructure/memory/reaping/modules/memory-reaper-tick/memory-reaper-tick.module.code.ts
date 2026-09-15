@@ -25,7 +25,7 @@ import {
   readSupervisorPids,
   readUserPidSnapshots,
 } from "akasha/infrastructure/memory/reaping/modules/memory-reaper-read/memory-reaper-read.module.code.ts"
-import { withTickDeadline } from "akasha/infrastructure/services/workstations/modules/tick-deadline/tick-deadline.module.code.ts"
+import { withTickDeadline } from "akasha/infrastructure/service/workstation/modules/tick-deadline/tick-deadline.module.code.ts"
 import { leftSweptHere } from "akasha/utils/run/modules/running/running.module.code.ts"
 import { readMemInfoKb } from "akasha/utils/system/modules/memory-guard/memory-guard.module.code.ts"
 

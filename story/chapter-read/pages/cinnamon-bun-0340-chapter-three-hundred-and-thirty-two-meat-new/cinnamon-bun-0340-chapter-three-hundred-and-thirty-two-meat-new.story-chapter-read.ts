@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0340ChapterThreeHundredAndThirtyTwoMeatNew = {
+  id: "01a0672c-eb1c-7001-b65b-334b44099898",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0340-chapter-three-hundred-and-thirty-two-meat-new",
+  title: "Chapter Three Hundred and Thirty-Two - Meat New People",
+  story: "story-read/cinnamon-bun",
+  position: 340,
+  ownLength: 1923,
+  unit: "unit/words",
+  publishedAt: "2022-08-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "967277",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/967277/chapter-three-hundred-and-thirty-two-meat-new",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

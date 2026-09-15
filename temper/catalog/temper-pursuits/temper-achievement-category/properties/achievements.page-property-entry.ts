@@ -1,0 +1,27 @@
+import type { PagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.types.ts"
+
+export const achievements = {
+  id: "01a06168-7245-7004-8aa0-eba39e83a4e6",
+  type: "page-property-entry",
+  slug: "achievements",
+  propertySlug: "achievements",
+  definition: "the achievements a heading holds, one achievement to a line",
+  properties: [
+    { pageProperty: "number-property/eso-achievement-id", required: true, many: false },
+    { pageProperty: "text-property/achievement-name", required: true, many: false },
+    { pageProperty: "number-property/achievement-points", required: true, many: false },
+    { pageProperty: "number-property/total-steps", required: true, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "An achievement here is an achievement the game files under the heading with the line.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The lines run in ascending order of the achievement id.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PagePropertyEntry

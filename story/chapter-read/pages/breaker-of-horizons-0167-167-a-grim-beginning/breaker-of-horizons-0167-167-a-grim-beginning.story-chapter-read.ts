@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons0167167AGrimBeginning = {
+  id: "01a06731-adb0-7011-adf2-f10b334c799e",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0167-167-a-grim-beginning",
+  title: "167. A Grim Beginning",
+  story: "story-read/breaker-of-horizons",
+  position: 167,
+  ownLength: 2102,
+  unit: "unit/words",
+  publishedAt: "2022-01-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "819405",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/819405/167-a-grim-beginning",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

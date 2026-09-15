@@ -9,12 +9,12 @@ import {
 import {
   ALAN_PERSON,
   notify,
-} from "akasha/alan/harness/notification-feeds/modules/notifying/notifying.module.code.ts"
+} from "akasha/alan/harness/notification-feed/modules/notifying/notifying.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { emitReading } from "akasha/verdict/modules/reading-channel/reading-channel.module.code.ts"
 
 const LATCH_AT = "/var/tmp/model-account-upkeep-stall.latch"

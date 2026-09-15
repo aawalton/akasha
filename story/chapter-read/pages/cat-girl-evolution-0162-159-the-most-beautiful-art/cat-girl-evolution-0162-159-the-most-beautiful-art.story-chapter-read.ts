@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const catGirlEvolution0162159TheMostBeautifulArt = {
+  id: "01a07ae7-42eb-7de0-abbc-cc949ef2f4db",
+  type: "story-chapter-read",
+  slug: "cat-girl-evolution-0162-159-the-most-beautiful-art",
+  story: "story-read/cat-girl-evolution",
+  position: 162,
+  publishedAt: "2026-09-07",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3923643",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/yona-cat-girl-evolution/chapter/3923643/159-the-most-beautiful-art",
+    },
+  ],
+  title: "159 - The Most Beautiful Art",
+  ownLength: 2683,
+  prose: "txt",
+} as const satisfies StoryChapterRead

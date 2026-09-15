@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const auroraRingTheAlarm = {
+  id: "01a0676a-d728-700b-a3a2-58da70a3a62f",
+  type: "release",
+  slug: "aurora-ring-the-alarm",
+  title: "RING THE ALARM",
+  partOfCollections: ["artist/aurora"],
+  position: 0,
+  ownLength: 5.52355,
+  ownProgress: 5.52355,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-12-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "28NiaM4URrr1SBbJG0WcTV",
+      externalLink: "https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV",
+      lastSyncedAt: "2025-12-31",
+    },
+  ],
+} as const satisfies Release

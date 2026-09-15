@@ -1,0 +1,37 @@
+"use client"
+
+import { startInteraction } from "akasha/page/ui/perf/modules/page-card-perf/page-card-perf.module.code.ts"
+import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { useCallback } from "react"
+
+type SetProperty = (args: {
+  pageTypeSlug: PageTypeSlug
+  pageId: string
+  propertyId: string
+  value: unknown
+  perfToken?: ReturnType<typeof startInteraction>
+}) => unknown
+
+type PropertyChangeHandler = (
+  pageId: string,
+  propertyId: string,
+  value: unknown,
+  eventTimeStamp?: number
+) => void
+
+export function usePropertyChangePerfHandler(
+  setProperty: SetProperty,
+  rowPageTypeSlug: PageTypeSlug | undefined
+): PropertyChangeHandler {
+  return useCallback(
+    (pageId, propertyId, value, eventTimeStamp) => {
+      if (rowPageTypeSlug == null) return
+      const perfToken =
+        eventTimeStamp != null
+          ? startInteraction({ pageId, propertyId, eventTimeStamp })
+          : undefined
+      setProperty({ pageTypeSlug: rowPageTypeSlug, pageId, propertyId, value, perfToken })
+    },
+    [setProperty, rowPageTypeSlug]
+  )
+}

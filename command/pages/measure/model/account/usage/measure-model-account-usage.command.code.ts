@@ -6,7 +6,7 @@ import {
   notesOf,
   refreshAll,
 } from "akasha/agent/model/account/modules/refreshing/model-account-refreshing.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import {
   DATA,
   refusedBy,

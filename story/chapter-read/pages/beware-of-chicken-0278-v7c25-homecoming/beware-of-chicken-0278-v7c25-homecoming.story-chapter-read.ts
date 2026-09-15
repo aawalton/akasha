@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0278V7c25Homecoming = {
+  id: "01a06731-add3-7004-b4e2-c2907490e717",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0278-v7c25-homecoming",
+  title: "v7c25: Homecoming",
+  story: "story-read/beware-of-chicken",
+  position: 278,
+  ownLength: 1747,
+  ownProgress: 1747,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:00:58.033Z",
+  publishedAt: "2026-02-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3007520",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3007520/v7c25-homecoming",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

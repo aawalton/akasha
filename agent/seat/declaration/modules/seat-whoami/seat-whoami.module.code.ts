@@ -15,7 +15,7 @@ import {
   frontmatterFromHistory,
   nameFromHistory,
 } from "akasha/agent/seat/page/modules/history/seat-page-history.module.code.ts"
-import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
 export interface SeatWhoami {

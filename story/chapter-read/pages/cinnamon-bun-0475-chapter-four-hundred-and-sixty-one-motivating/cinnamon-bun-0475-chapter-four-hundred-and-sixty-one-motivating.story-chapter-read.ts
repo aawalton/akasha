@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0475ChapterFourHundredAndSixtyOneMotivating = {
+  id: "01a0672c-eb22-7013-8f92-9505098fd98e",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0475-chapter-four-hundred-and-sixty-one-motivating",
+  title: "Chapter Four Hundred and Sixty-One - Motivating Factors",
+  story: "story-read/cinnamon-bun",
+  position: 475,
+  ownLength: 1459,
+  unit: "unit/words",
+  publishedAt: "2024-01-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1473557",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1473557/chapter-four-hundred-and-sixty-one-motivating",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

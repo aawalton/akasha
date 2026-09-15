@@ -1,0 +1,50 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const storeReaching = {
+  id: "01a05aec-eaaa-7fea-bdc1-a5818c78d54a",
+  type: "module",
+  slug: "store-reaching",
+  definition: "where the page store stands, and the POST that carries a body to it",
+  code: "ts",
+  test: "ts",
+  testFixtures: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The origin is read from the environment before anything else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A browser reaches the store under its own origin.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A caller hands its own fetcher in rather than putting one in place of the global fetcher.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call that answers nothing is tried again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal the store states is carried into the reason given back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call the store refuses for its own reasons is not tried again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reason names how many attempts were spent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reason says nothing came back only where nothing did.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here knows the parts a question or a write holds.",
+    },
+  ],
+} as const satisfies Module

@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const mobilityReadingValueText = {
+  id: "01a06558-36e9-7948-a1a6-bbb7c5b6ba42",
+  type: "text-property",
+  slug: "mobility-reading-value-text",
+  propertySlug: "mobility-reading-value-text",
+  definition: "the reading as it was written down",
+  maxLength: 100,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash009797PoweringUp = {
+  id: "01a0672c-edc6-7004-9525-c09cea19c7bb",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0097-97-powering-up",
+  title: "97. Powering Up",
+  story: "story-read/god-of-trash",
+  position: 97,
+  ownLength: 2276,
+  unit: "unit/words",
+  publishedAt: "2025-06-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2333403",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2333403/97-powering-up",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

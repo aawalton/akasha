@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const katyPerryWhereWeStarted = {
+  id: "01a0676a-d731-700f-bb1f-9e40abf1de6b",
+  type: "release",
+  slug: "katy-perry-where-we-started",
+  title: "Where We Started",
+  partOfCollections: ["artist/katy-perry"],
+  position: 0,
+  ownLength: 3.033767,
+  ownProgress: 3.033767,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-03-31",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6AkWdIHq1og7xa6dLrzHeQ",
+      externalLink: "https://open.spotify.com/album/6AkWdIHq1og7xa6dLrzHeQ",
+    },
+  ],
+} as const satisfies Release

@@ -1,13 +1,13 @@
-import type { TakenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { action } from "akasha/command/arguments/pages/action.argument.ts"
-import { active } from "akasha/command/arguments/pages/active.argument.ts"
-import { category } from "akasha/command/arguments/pages/category.argument.ts"
-import { conditions } from "akasha/command/arguments/pages/conditions.argument.ts"
-import { destination } from "akasha/command/arguments/pages/destination.argument.ts"
-import { goal } from "akasha/command/arguments/pages/goal.argument.ts"
-import { notes } from "akasha/command/arguments/pages/notes.argument.ts"
-import { stockScope } from "akasha/command/arguments/pages/stock-scope.argument.ts"
-import { title } from "akasha/command/arguments/pages/title.argument.ts"
+import type { TakenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { action } from "akasha/command/argument/pages/action.argument.ts"
+import { active } from "akasha/command/argument/pages/active.argument.ts"
+import { category } from "akasha/command/argument/pages/category.argument.ts"
+import { conditions } from "akasha/command/argument/pages/conditions.argument.ts"
+import { destination } from "akasha/command/argument/pages/destination.argument.ts"
+import { goal } from "akasha/command/argument/pages/goal.argument.ts"
+import { notes } from "akasha/command/argument/pages/notes.argument.ts"
+import { stockScope } from "akasha/command/argument/pages/stock-scope.argument.ts"
+import { title } from "akasha/command/argument/pages/title.argument.ts"
 import {
   DATA,
   refused,

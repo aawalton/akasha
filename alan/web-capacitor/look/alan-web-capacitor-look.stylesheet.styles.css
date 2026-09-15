@@ -17,6 +17,6 @@
 
 @source "../../harness/**/*.{ts,tsx}";
 @source "../../web/**/*.{ts,tsx}";
-@source "../../../code/router-apps/**/*.{ts,tsx}";
+@source "../../../code/router-app/**/*.{ts,tsx}";
 @source "../../../design/interfaces/**/*.{ts,tsx}";
-@source "../../../pages/ui/**/*.{ts,tsx}";
+@source "../../../page/ui/**/*.{ts,tsx}";

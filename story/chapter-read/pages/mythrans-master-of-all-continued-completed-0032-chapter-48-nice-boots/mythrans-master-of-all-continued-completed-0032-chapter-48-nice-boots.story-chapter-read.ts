@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0032Chapter48NiceBoots = {
+  id: "01a06591-3f82-78b3-a45c-1daaa33441cf",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0032-chapter-48-nice-boots",
+  title: "Chapter 48 - Nice Boots",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 32,
+  ownLength: 2218,
+  unit: "unit/words",
+  publishedAt: "2016-10-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "97233",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97233/chapter-48-nice-boots",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

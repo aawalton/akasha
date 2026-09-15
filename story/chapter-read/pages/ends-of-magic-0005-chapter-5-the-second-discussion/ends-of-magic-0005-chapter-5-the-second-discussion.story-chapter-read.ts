@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const endsOfMagic0005Chapter5TheSecondDiscussion = {
+  id: "01a06731-adc1-7004-a80f-4e5662734d73",
+  type: "story-chapter-read",
+  slug: "ends-of-magic-0005-chapter-5-the-second-discussion",
+  title: "Chapter 5 The second discussion",
+  story: "story-read/ends-of-magic",
+  position: 5,
+  ownLength: 4557,
+  ownProgress: 4557,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:07:25.589Z",
+  publishedAt: "2022-08-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "974431",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/974431/chapter-5-the-second-discussion",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

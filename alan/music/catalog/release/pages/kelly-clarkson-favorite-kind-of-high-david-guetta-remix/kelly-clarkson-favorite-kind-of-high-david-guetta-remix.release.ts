@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const kellyClarksonFavoriteKindOfHighDavidGuettaRemix = {
+  id: "01a0676a-d71d-7068-a7ed-311a8a57b19b",
+  type: "release",
+  slug: "kelly-clarkson-favorite-kind-of-high-david-guetta-remix",
+  title: "favorite kind of high (David Guetta Remix)",
+  partOfCollections: ["artist/kelly-clarkson"],
+  position: 0,
+  ownLength: 5.483333,
+  ownProgress: 5.483333,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-05-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6wMEg3O3cbrXcOYXSnFYR6",
+      externalLink: "https://open.spotify.com/album/6wMEg3O3cbrXcOYXSnFYR6",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning006161Anthills = {
+  id: "01a06731-b07e-7000-b62f-78736c582f78",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0061-61-anthills",
+  title: "61. Anthills",
+  story: "story-read/mother-of-learning",
+  position: 61,
+  ownLength: 7146,
+  ownProgress: 7146,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:46:04.035Z",
+  publishedAt: "2018-12-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "317506",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/317506/61-anthills",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

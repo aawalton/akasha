@@ -1,0 +1,14 @@
+import type { Achievement } from "akasha/design/games/achievement/achievement.page-type.types.ts"
+
+export const reachTop2000InBeatSaber = {
+  id: "01a06808-8818-7011-b936-f564575a808c",
+  type: "achievement",
+  slug: "reach-top-2-000-in-beat-saber",
+  title: "Reach Top 2,000 in Beat Saber",
+  partOfCollections: ["achievement/beat-saber"],
+  position: -2000,
+  ownLength: 3149600,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+} as const satisfies Achievement

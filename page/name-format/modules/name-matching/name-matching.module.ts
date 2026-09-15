@@ -1,0 +1,32 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const nameMatching = {
+  id: "01a04eba-7459-7284-8c06-c79e5963387d",
+  type: "module",
+  slug: "name-matching",
+  definition: "the one rule by which a name format answers whether a name is written in it",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Every format answers through this one rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A format's whole judgement is the shape on the format's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No format is a second spelling of another format.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A shape is asked with `test` alone and so has no `g` flag.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here knows a format's slug or reads a page.",
+    },
+  ],
+} as const satisfies Module

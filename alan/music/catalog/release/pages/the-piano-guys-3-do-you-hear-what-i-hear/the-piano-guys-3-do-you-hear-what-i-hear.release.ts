@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const thePianoGuys3DoYouHearWhatIHear = {
+  id: "01a0676a-d71c-701d-8019-fb7a693c2f31",
+  type: "release",
+  slug: "the-piano-guys-3-do-you-hear-what-i-hear",
+  title: "Do You Hear What I Hear?",
+  partOfCollections: ["artist/the-piano-guys"],
+  position: 0,
+  ownLength: 3.33695,
+  ownProgress: 3.33695,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-11-16",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1hWJzHY1qH128xdlDI6liK",
+      externalLink: "https://open.spotify.com/album/1hWJzHY1qH128xdlDI6liK",
+    },
+  ],
+} as const satisfies Release

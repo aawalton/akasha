@@ -9,13 +9,13 @@ import type {
   HealthMetric,
   HealthSampleRecord,
 } from "akasha/alan/harness/health-samples-access/modules/sample-shape/sample-shape.module.code.ts"
-import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { z } from "zod"
 
 const SAMPLE_ROWS_KEY = "health-samples"
 
-const DAYS_KEPT_IN = "alan/track/daily/days/pages"
+const DAYS_KEPT_IN = "alan/track/daily/day/pages"
 
 const DAY_SLUG_PREFIX = "day-"
 

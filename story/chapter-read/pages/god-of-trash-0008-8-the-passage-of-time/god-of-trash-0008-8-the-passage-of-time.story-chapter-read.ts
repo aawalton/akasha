@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash00088ThePassageOfTime = {
+  id: "01a0672c-edb0-7000-94ef-0e82e8add05f",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0008-8-the-passage-of-time",
+  title: "8. The Passage of Time",
+  story: "story-read/god-of-trash",
+  position: 8,
+  ownLength: 3906,
+  unit: "unit/words",
+  publishedAt: "2025-03-02",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2099499",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2099499/8-the-passage-of-time",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

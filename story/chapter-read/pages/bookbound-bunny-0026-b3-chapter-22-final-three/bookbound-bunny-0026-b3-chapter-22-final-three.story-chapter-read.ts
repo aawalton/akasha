@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bookboundBunny0026B3Chapter22FinalThree = {
+  id: "01a06731-b0cc-700a-b066-ce5cb96729ef",
+  type: "story-chapter-read",
+  slug: "bookbound-bunny-0026-b3-chapter-22-final-three",
+  title: "B3 - Chapter 22 - Final Three",
+  story: "story-read/bookbound-bunny",
+  position: 26,
+  ownLength: 2133,
+  unit: "unit/words",
+  publishedAt: "2026-03-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3194849",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3194849/b3-chapter-22-final-three",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

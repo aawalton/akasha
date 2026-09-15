@@ -13,10 +13,10 @@ import {
 } from "akasha/alan/harness/supabase-server/modules/throwaway-user/throwaway-user.module.code.ts"
 import { readBrowserTestEnv } from "akasha/code/browser/test-harness/modules/browser-test-env/browser-test-env.module.code.ts"
 import { launchAndSignIn } from "akasha/code/browser/test-harness/modules/harness-launch/harness-launch.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
-import { signInPath as signInPathArgument } from "akasha/command/arguments/pages/sign-in-path.argument.ts"
-import { url as urlArgument } from "akasha/command/arguments/pages/url.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { output as outputArgument } from "akasha/command/argument/pages/output.argument.ts"
+import { signInPath as signInPathArgument } from "akasha/command/argument/pages/sign-in-path.argument.ts"
+import { url as urlArgument } from "akasha/command/argument/pages/url.argument.ts"
 import {
   answering,
   refusedBy,

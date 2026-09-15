@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
 export const generatorRanForVersion = {
   id: "01a05fc4-7a92-760e-9d6f-0e6cdd38c794",

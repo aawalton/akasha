@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0289ChapterFortyEightItsNeverEasy = {
+  id: "01a06730-4e15-7347-83e3-cafeb69813c8",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0289-chapter-forty-eight-its-never-easy",
+  title: "Chapter Forty-Eight - It's Never Easy",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 289,
+  ownLength: 1452,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "927719",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/927719/chapter-forty-eight-its-never-easy",
+    },
+  ],
+  publishedAt: "2022-06-14",
+  prose: "txt",
+} as const satisfies StoryChapterRead

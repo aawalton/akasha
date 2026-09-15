@@ -1,0 +1,9 @@
+import type { TemperAlliance } from "akasha/temper/catalog/temper-world/temper-alliance/temper-alliance.page-type.types.ts"
+
+export const ebonheartPact = {
+  id: "01a05fc5-168e-71be-b6a7-f6b437b0ce62",
+  type: "temper-alliance",
+  slug: "ebonheart-pact",
+  title: "Ebonheart Pact",
+  esoAllianceId: 2,
+} as const satisfies TemperAlliance

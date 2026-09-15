@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0118Chapter194TheDarkestSide = {
+  id: "01a06730-4fac-7ba5-80d8-126ca5ca463f",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0118-chapter-194-the-darkest-side",
+  title: "Chapter 194: The Darkest Side",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 118,
+  ownLength: 6758,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2081196",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2081196/chapter-194-the-darkest-side",
+    },
+  ],
+  publishedAt: "2025-02-21",
+  ownProgress: 6758,
+  completedAt: "2026-06-29T21:18:51.768Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

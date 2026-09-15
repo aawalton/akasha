@@ -4,13 +4,13 @@ import {
   notText,
   pathsOf,
   replayed,
-} from "akasha/changes/modules/answer/change-answer.module.code.ts"
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type {
   Bringing,
   FileChange,
   Answer as Said,
-} from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+} from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { bodyIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import { textIn } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
 import { formattedBodies } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"

@@ -4,8 +4,8 @@ import {
   writeAkashaSeatPage,
 } from "akasha/agent/seat/page/modules/akasha/seat-page-akasha.module.code.ts"
 import { akashaSeatSlugOf } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
-import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import type { Outcome } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
+import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export async function writeSeatPage(
   stated: Stated,

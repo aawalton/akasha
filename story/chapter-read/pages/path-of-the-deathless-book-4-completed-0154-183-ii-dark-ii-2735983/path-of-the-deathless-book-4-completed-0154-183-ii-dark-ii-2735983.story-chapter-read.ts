@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0154183IiDarkIi2735983 = {
+  id: "01a06730-4e14-7a0e-bf4e-221781d0e755",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0154-183-ii-dark-ii-2735983",
+  title: "183 (II) Dark [II]",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 154,
+  ownLength: 2684,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2735983",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2735983/183-ii-dark-ii",
+    },
+  ],
+  publishedAt: "2025-11-05",
+  prose: "txt",
+} as const satisfies StoryChapterRead

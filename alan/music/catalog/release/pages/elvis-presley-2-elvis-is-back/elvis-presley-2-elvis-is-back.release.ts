@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2ElvisIsBack = {
+  id: "01a0676a-d71d-7000-a00d-bfd5a55f1d8d",
+  type: "release",
+  slug: "elvis-presley-2-elvis-is-back",
+  title: "Elvis Is Back",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 31.7788,
+  ownProgress: 31.7788,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1960-04-08",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2SBAAtgdyjgfTO1UMHnza1",
+      externalLink: "https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1",
+    },
+  ],
+} as const satisfies Release

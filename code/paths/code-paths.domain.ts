@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const codePaths = {
   id: "01a09b2a-d60f-7700-b4b4-7b97bc6ba190",

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0004Chapter4AnAfternoonWithMyBrothers = {
+  id: "01a0672c-ed57-7001-9b8a-909f45074c94",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0004-chapter-4-an-afternoon-with-my-brothers",
+  title: "Chapter 4 An afternoon with my brothers",
+  story: "story-read/melody-of-mana",
+  position: 4,
+  ownLength: 3322,
+  ownProgress: 3322,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:26:22.465Z",
+  publishedAt: "2021-06-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "701117",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/701117/chapter-4-an-afternoon-with-my-brothers",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

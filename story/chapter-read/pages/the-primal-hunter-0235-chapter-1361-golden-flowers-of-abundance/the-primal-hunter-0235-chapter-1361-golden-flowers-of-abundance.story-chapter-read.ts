@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0235Chapter1361GoldenFlowersOfAbundance = {
+  id: "01a06730-4e42-7cf6-ad89-dd2767e99cf7",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0235-chapter-1361-golden-flowers-of-abundance",
+  title: "Chapter 1361 - Golden Flowers of Abundance",
+  story: "story-read/the-primal-hunter",
+  position: 235,
+  ownLength: 2667,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3720198",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3720198/chapter-1361-golden-flowers-of-abundance",
+    },
+  ],
+  publishedAt: "2026-07-24",
+  prose: "txt",
+} as const satisfies StoryChapterRead

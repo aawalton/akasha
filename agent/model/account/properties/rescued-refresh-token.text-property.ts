@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
 export const rescuedRefreshToken = {
   id: "01a0637b-78bb-75b3-997f-1bd076da5799",

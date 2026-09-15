@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const decisionOptions = {
+  id: "01a06577-f385-78f5-b9ff-cdab7f5fd547",
+  type: "text-property",
+  slug: "decision-options",
+  propertySlug: "options",
+  definition: "what a decision could have settled on",
+  maxLength: 20000,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

@@ -1,0 +1,18 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const folderName = {
+  id: "01a081cc-3144-7cd7-8de6-3cc3911adc06",
+  type: "text-property",
+  slug: "folder-name",
+  propertySlug: "folder-name",
+  definition: "the name a property's folder is under",
+  maxLength: 100,
+  nameFormat: null,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "This folder name is the whole name rather than a stem.",
+    },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

@@ -7,7 +7,7 @@ import type { Level, Naming } from "akasha/command/modules/walking/command-walki
 import {
   type Valued,
   valuesOfType,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const NAME = "name"
 

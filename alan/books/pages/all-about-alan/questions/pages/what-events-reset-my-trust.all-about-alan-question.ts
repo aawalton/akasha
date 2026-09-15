@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whatEventsResetMyTrust = {
-  id: "01a077e1-e829-7298-8591-fdc4453c55de",
-  type: "all-about-alan-question",
-  slug: "what-events-reset-my-trust",
-  topic: "all-about-alan-topic/how-i-grade-an-organisation",
-  ask: "What should my research prompt look for among the events that reset trust: a founder selling, a flotation, a change of leadership, a rewritten mission?",
-} as const satisfies AllAboutAlanQuestion

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0460Chapter460OnTheirWay = {
+  id: "01a0672c-ecc2-7000-a529-973e5920a4a7",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0460-chapter-460-on-their-way",
+  title: "Chapter 460 - On Their Way",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 460,
+  ownLength: 3112,
+  unit: "unit/words",
+  publishedAt: "2017-12-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "181942",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181942/chapter-460-on-their-way",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

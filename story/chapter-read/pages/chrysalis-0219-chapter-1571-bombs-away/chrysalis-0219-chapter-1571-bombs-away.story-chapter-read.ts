@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0219Chapter1571BombsAway = {
+  id: "01a0672c-eb62-7016-b9c2-7ef720df9f52",
+  type: "story-chapter-read",
+  slug: "chrysalis-0219-chapter-1571-bombs-away",
+  title: "Chapter 1571 - Bombs Away",
+  story: "story-read/chrysalis",
+  position: 219,
+  ownLength: 1264,
+  ownProgress: 1264,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:50:49.278Z",
+  publishedAt: "2025-05-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2308390",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2308390/chapter-1571-bombs-away",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

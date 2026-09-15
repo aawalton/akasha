@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0035ChapterThirtyTwoHopOnOut = {
+  id: "01a0672c-eb03-700b-9d32-6e6aa525b6f6",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0035-chapter-thirty-two-hop-on-out",
+  title: "Chapter Thirty-Two - Hop on Out",
+  story: "story-read/cinnamon-bun",
+  position: 35,
+  ownLength: 1972,
+  unit: "unit/words",
+  publishedAt: "2020-06-02",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "504789",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/504789/chapter-thirty-two-hop-on-out",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,9 +1,0 @@
-import type { SessionActivity } from "akasha/alan/track/session-activities/session-activity.page-type.types.ts"
-
-export const social = {
-  id: "01a01fcc-336f-7000-bd5d-ae83ee6e8936",
-  type: "session-activity",
-  slug: "social",
-  title: "Social",
-  defaultDifficulty: 3,
-} as const satisfies SessionActivity

@@ -1,5 +1,5 @@
-import { difficulty } from "akasha/command/arguments/pages/difficulty.argument.ts"
-import { safety } from "akasha/command/arguments/pages/safety.argument.ts"
+import { difficulty } from "akasha/command/argument/pages/difficulty.argument.ts"
+import { safety } from "akasha/command/argument/pages/safety.argument.ts"
 
 export const SAFETY_LOW = -2
 

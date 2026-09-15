@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons0188186ConflictGalore = {
+  id: "01a06731-adb1-7010-9fcb-f320310df9c4",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0188-186-conflict-galore",
+  title: "186. Conflict Galore",
+  story: "story-read/breaker-of-horizons",
+  position: 188,
+  ownLength: 7506,
+  unit: "unit/words",
+  publishedAt: "2022-05-31",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "917896",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/917896/186-conflict-galore",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

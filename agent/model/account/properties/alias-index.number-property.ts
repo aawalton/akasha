@@ -1,4 +1,4 @@
-import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
 export const aliasIndex = {
   id: "01a054d8-1d39-7b15-a48d-62c2122c274b",

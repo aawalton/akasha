@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const kellyClarksonYouThoughtWrong = {
+  id: "019ea4b2-d0df-7223-8697-5c5cf53ca4d8",
+  type: "song",
+  slug: "kelly-clarkson-you-thought-wrong",
+  title: "You Thought Wrong",
+  artist: "artist/kelly-clarkson",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "87c564d3-e0c4-4cb6-afde-358e2d4e0d83",
+      externalLink: "https://musicbrainz.org/work/87c564d3-e0c4-4cb6-afde-358e2d4e0d83",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "collab",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

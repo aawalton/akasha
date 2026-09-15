@@ -1,0 +1,16 @@
+import type { BooleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.types.ts"
+
+export const frameFocusMode = {
+  id: "01a0683a-620a-7c50-9431-5e9e2efdc3e9",
+  type: "boolean-property",
+  slug: "frame-focus-mode",
+  propertySlug: "focus-mode",
+  definition: "whether all but a page's body is put away while the page is read",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The parts put away come back the moment the reader asks for those parts.",
+    },
+  ],
+  types: "ts",
+} as const satisfies BooleanProperty

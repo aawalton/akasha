@@ -1,16 +1,16 @@
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { alive, type Holder } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
+import { alive, type Holder } from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
 import {
   everyOfType,
   typeSlugOf,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   slugOf,
   type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { pagesAtFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pagesAtFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 

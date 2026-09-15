@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonUglyAcoustic = {
+  id: "01a0676a-d72f-702a-93c4-e7ceb392f957",
+  type: "release",
+  slug: "ella-henderson-ugly-acoustic",
+  title: "Ugly (Acoustic)",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 10.738467,
+  ownProgress: 10.738467,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-03-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7FzKc1HYPRsswwUBLQzF82",
+      externalLink: "https://open.spotify.com/album/7FzKc1HYPRsswwUBLQzF82",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

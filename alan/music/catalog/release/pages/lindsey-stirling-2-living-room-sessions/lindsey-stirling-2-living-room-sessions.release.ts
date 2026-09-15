@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const lindseyStirling2LivingRoomSessions = {
+  id: "01a0676a-d723-7059-bf96-d90c31dedd2c",
+  type: "release",
+  slug: "lindsey-stirling-2-living-room-sessions",
+  title: "Living Room Sessions",
+  partOfCollections: ["artist/lindsey-stirling"],
+  position: 0,
+  ownLength: 7.02255,
+  ownProgress: 7.02255,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2013-01-18",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4Sf9njqSZDhlmOnU14ZQTF",
+      externalLink: "https://open.spotify.com/album/4Sf9njqSZDhlmOnU14ZQTF",
+    },
+  ],
+} as const satisfies Release

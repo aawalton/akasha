@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0045Chapter38WinterCelebrationAndBasicIllusion = {
+  id: "01a0672c-ed5c-7017-8822-6f8241baa09f",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0045-chapter-38-winter-celebration-and-basic-illusion",
+  title: "Chapter 38 Winter celebration and basic illusion",
+  story: "story-read/melody-of-mana",
+  position: 45,
+  ownLength: 2018,
+  ownProgress: 2018,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:27:45.379Z",
+  publishedAt: "2021-08-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "738974",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/738974/chapter-38-winter-celebration-and-basic-illusion",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

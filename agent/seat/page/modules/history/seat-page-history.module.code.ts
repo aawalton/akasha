@@ -8,8 +8,8 @@ import {
   akashaSeatInHistory,
   akashaSeatNamedInHistory,
 } from "akasha/agent/seat/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"
-import { AKASHA, rootFor } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
+import { AKASHA, rootFor } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-at.module.code.ts"
 
 const IN_ITS_OWN_FIELD: readonly Declaration[] = ["initiative", "on-call"]
 

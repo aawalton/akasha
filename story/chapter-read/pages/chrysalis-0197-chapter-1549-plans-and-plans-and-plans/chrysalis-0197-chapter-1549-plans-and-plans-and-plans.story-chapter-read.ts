@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0197Chapter1549PlansAndPlansAndPlans = {
+  id: "01a0672c-eb62-7000-88e5-e383c1b431c7",
+  type: "story-chapter-read",
+  slug: "chrysalis-0197-chapter-1549-plans-and-plans-and-plans",
+  title: "Chapter 1549 - Plans and Plans and Plans",
+  story: "story-read/chrysalis",
+  position: 197,
+  ownLength: 1351,
+  ownProgress: 1351,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:50:07.383Z",
+  publishedAt: "2025-04-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2191681",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2191681/chapter-1549-plans-and-plans-and-plans",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

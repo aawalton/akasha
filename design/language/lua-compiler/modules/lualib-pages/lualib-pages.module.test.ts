@@ -56,7 +56,7 @@ test("a Lua export names its feature once the export's `__TS__` prefix is droppe
 
 test("a feature name is reached from the source file's name", () => {
   const held = sourcesFrom(SCANNED, [ARRAY_AT], false)
-  expect(held.featureBySourceName.get("array-at.lualib.code")).toBe("ArrayAt")
+  expect(held.featureBySourceName.get("array-at.lualib-helper.code")).toBe("ArrayAt")
 })
 
 test("a Lua export spelled in lower case names its feature", () => {
@@ -67,13 +67,13 @@ test("a Lua export spelled in lower case names its feature", () => {
     lua50CodePath: null,
   }
   const held = sourcesFrom(SCANNED, [named], false)
-  expect(held.featureBySourceName.get("performance.lualib.code")).toBe("Performance")
+  expect(held.featureBySourceName.get("performance.lualib-helper.code")).toBe("Performance")
 })
 
 test("a build for Lua 5.0 takes a page's Lua 5.0 code where the page holds one", () => {
   const held = sourcesFrom(SCANNED, [UNPACK], true)
   expect(held.rootNames).toContain(UNPACK_LUA50)
-  expect(held.featureBySourceName.get("unpack.lualib.lua50-code")).toBe("Unpack")
+  expect(held.featureBySourceName.get("unpack.lualib-helper.lua50-code")).toBe("Unpack")
 })
 
 test("a build for Lua 5.0 of a page holding no Lua 5.0 code takes the page's code", () => {
@@ -109,7 +109,7 @@ test("a page holding no Lua 5.0 code has no file taken in place of its code", ()
 
 test("an import naming the code of a page holding Lua 5.0 code names that page's feature", () => {
   const held = sourcesFrom(SCANNED, [UNPACK], true)
-  expect(held.featureBySourceName.get("unpack.lualib.code")).toBe("Unpack")
+  expect(held.featureBySourceName.get("unpack.lualib-helper.code")).toBe("Unpack")
 })
 
 test("two pages naming one lualib feature refuse the build", () => {
@@ -126,19 +126,19 @@ test("two pages naming one lualib feature refuse the build", () => {
     lua50CodePath: null,
   }
   expect(() => sourcesFrom(SCANNED, [bare, prefixed], false)).toThrow(
-    `well-known-symbols.lualib.ts and ${SYMBOL_PAGE} both name the lualib feature "Symbol"`
+    `well-known-symbols.lualib-helper.ts and ${SYMBOL_PAGE} both name the lualib feature "Symbol"`
   )
 })
 
 test("a page naming no lualib feature either way refuses the build", () => {
   const named: LualibPage = {
-    pagePath: "/lua-compiler/lualibs/nowhere/nowhere.lualib.ts",
+    pagePath: "/lua-compiler/lualibs/nowhere/nowhere.lualib-helper.ts",
     luaExport: "NotAFeature",
-    codePath: "/lua-compiler/lualibs/nowhere/nowhere.lualib.code.ts",
+    codePath: "/lua-compiler/lualibs/nowhere/nowhere.lualib-helper.code.ts",
     lua50CodePath: null,
   }
   expect(() => sourcesFrom(SCANNED, [named], false)).toThrow(
-    'nowhere.lualib.ts names "NotAFeature", which names no lualib feature'
+    'nowhere.lualib-helper.ts names "NotAFeature", which names no lualib feature'
   )
 })
 
@@ -151,17 +151,17 @@ test("a page's stated lua feature takes the place of the one its export names", 
     lua50CodePath: null,
   }
   const held = sourcesFrom(SCANNED, [named], false)
-  expect(held.featureBySourceName.get("well-known-symbols.lualib.code")).toBe("WellKnownSymbols")
+  expect(held.featureBySourceName.get("well-known-symbols.lualib-helper.code")).toBe("WellKnownSymbols")
 })
 
 test("a page naming a feature the scan found nowhere is added after what the scan found", () => {
   const named: LualibPage = {
-    pagePath: "/lua-compiler/lualibs/await/await.lualib.ts",
+    pagePath: "/lua-compiler/lualibs/await/await.lualib-helper.ts",
     luaExport: "Await",
-    codePath: "/lua-compiler/lualibs/await/await.lualib.code.ts",
+    codePath: "/lua-compiler/lualibs/await/await.lualib-helper.code.ts",
     lua50CodePath: null,
   }
   const held = sourcesFrom(SCANNED, [named], false)
   expect(held.rootNames).toEqual([...SCANNED, named.codePath])
-  expect(held.featureBySourceName.get("await.lualib.code")).toBe("Await")
+  expect(held.featureBySourceName.get("await.lualib-helper.code")).toBe("Await")
 })

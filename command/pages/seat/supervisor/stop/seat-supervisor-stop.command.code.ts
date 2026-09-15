@@ -6,9 +6,9 @@ import {
   type Stopping,
   stopping,
 } from "akasha/agent/seat/stopping/seat-stopping.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { force as forceArgument } from "akasha/command/arguments/pages/force.argument.ts"
-import { seat } from "akasha/command/arguments/pages/seat.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { force as forceArgument } from "akasha/command/argument/pages/force.argument.ts"
+import { seat } from "akasha/command/argument/pages/seat.argument.ts"
 import {
   answeredWith,
   answering,
@@ -21,11 +21,11 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { seatSupervisorStop as page } from "akasha/command/pages/seat/supervisor/stop/seat-supervisor-stop.command.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
-import { valueAt, valueIn } from "akasha/pages/modules/value/page-value.module.code.ts"
+import { valueAt, valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   textAt,
   type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const ID = "id"
 

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0148Chapter581AndAnnouncement = {
+  id: "01a06730-4e11-7a3b-9b6a-3b638477afc8",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0148-chapter-581-and-announcement",
+  title: "Chapter 581 & Announcement",
+  story: "story-read/rise-of-the-living-forge",
+  position: 148,
+  ownLength: 2078,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3218405",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3218405/chapter-581-announcement",
+    },
+  ],
+  publishedAt: "2026-04-01",
+  prose: "txt",
+} as const satisfies StoryChapterRead

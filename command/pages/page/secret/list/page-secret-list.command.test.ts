@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import { filePath } from "akasha/command/arguments/pages/file-path.argument.ts"
-import { key as keyArgument } from "akasha/command/arguments/pages/key.argument.ts"
+import { filePath } from "akasha/command/argument/pages/file-path.argument.ts"
+import { key as keyArgument } from "akasha/command/argument/pages/key.argument.ts"
 import { DATA, INPUT, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { pageSecretList } from "akasha/command/pages/page/secret/list/page-secret-list.command.code.ts"
 import { pageSecretList as page } from "akasha/command/pages/page/secret/list/page-secret-list.command.ts"
-import { listedById } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { listedById } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const CALLED_AS = "akasha page secret list"
 

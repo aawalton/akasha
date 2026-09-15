@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2SunsetBoulevard = {
+  id: "01a0676a-d72a-7048-8a86-487b905ff615",
+  type: "release",
+  slug: "elvis-presley-2-sunset-boulevard",
+  title: "Sunset Boulevard",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 329.050733,
+  ownProgress: 329.050733,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-08-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4zUZv055gk4daN0VusN3gw",
+      externalLink: "https://open.spotify.com/album/4zUZv055gk4daN0VusN3gw",
+    },
+  ],
+} as const satisfies Release

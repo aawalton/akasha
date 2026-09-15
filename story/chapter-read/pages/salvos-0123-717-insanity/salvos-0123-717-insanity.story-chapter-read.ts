@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0123717Insanity = {
+  id: "01a06730-4de8-7d2e-86ae-a8da2765e9ed",
+  type: "story-chapter-read",
+  slug: "salvos-0123-717-insanity",
+  title: "717. Insanity",
+  story: "story-read/salvos",
+  position: 123,
+  ownLength: 1457,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1879449",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1879449/717-insanity",
+    },
+  ],
+  publishedAt: "2024-11-01",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0254185IiRhetoricalIi = {
+  id: "01a06730-4e38-76b9-a1e7-b15b30ee981f",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0254-185-ii-rhetorical-ii",
+  title: "185 (II) Rhetorical [II] ",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 254,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2741588/185-ii-rhetorical-ii",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons0172172NewConnections = {
+  id: "01a06731-adb1-7000-b46d-87d25f2071c3",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0172-172-new-connections",
+  title: "172. New Connections",
+  story: "story-read/breaker-of-horizons",
+  position: 172,
+  ownLength: 2281,
+  unit: "unit/words",
+  publishedAt: "2022-01-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "831012",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/831012/172-new-connections",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

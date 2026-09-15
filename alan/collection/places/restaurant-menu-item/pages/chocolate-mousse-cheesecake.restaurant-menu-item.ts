@@ -1,0 +1,14 @@
+import type { RestaurantMenuItem } from "akasha/alan/collection/places/restaurant-menu-item/restaurant-menu-item.page-type.types.ts"
+
+export const chocolateMousseCheesecake = {
+  id: "01a06808-b765-7003-b627-a6b20d732017",
+  type: "restaurant-menu-item",
+  slug: "chocolate-mousse-cheesecake",
+  title: "Chocolate Mousse Cheesecake",
+  partOfCollections: ["restaurant-collection/cheesecake-factory-cheescakes"],
+  position: 0,
+  ownLength: 3750,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+} as const satisfies RestaurantMenuItem

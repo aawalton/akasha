@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const luaCompiler = {
   id: "01a06759-2aa6-7004-8e68-88c34898e172",
@@ -151,7 +151,7 @@ export const luaCompiler = {
     "module/visitors-class",
     "module/visitors-visitors",
     "module/workspace-source",
-    "page-type/lualib",
+    "page-type/lualib-helper",
     "type-declaration/eso-sandbox",
     "type-declaration/language-extensions",
     "type-declaration/performance-global",

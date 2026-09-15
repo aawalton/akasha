@@ -2,8 +2,8 @@ import { writeMessage } from "akasha/agent/messaging/modules/message-file/messag
 import {
   ALAN_PERSON,
   notify,
-} from "akasha/alan/harness/notification-feeds/modules/notifying/notifying.module.code.ts"
-import type { NotifyInput } from "akasha/alan/harness/notification-feeds/modules/rows/notification-feed-rows.module.code.ts"
+} from "akasha/alan/harness/notification-feed/modules/notifying/notifying.module.code.ts"
+import type { NotifyInput } from "akasha/alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"
 
 const KEEPER_UNREVIVABLE_KIND = "keeper-unrevivable"
 const KEEPER_UNREVIVABLE_SOURCE = "supervisor"

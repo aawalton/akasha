@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const allTheSkillsADeckbuildingLitrpg0009Book6Ch2HiddenLibrary = {
+  id: "01a06585-ef16-7832-b1c0-822671a62f90",
+  type: "story-chapter-read",
+  slug: "all-the-skills-a-deckbuilding-litrpg-0009-book-6-ch-2-hidden-library",
+  title: "Book 6 Ch 2: Hidden Library",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
+  position: 9,
+  ownLength: 1836,
+  ownProgress: 1836,
+  unit: "unit/words",
+  publishedAt: "2025-03-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2153119",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2153119/book-6-ch-2-hidden-library",
+    },
+  ],
+  removedAt: "2026-07-03T13:47:20.179Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

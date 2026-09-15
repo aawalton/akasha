@@ -1,0 +1,12 @@
+import type { TemperSkillPoint } from "akasha/temper/character/temper-skill-point/temper-skill-point.page-type.types.ts"
+
+export const wr = {
+  id: "019e6471-153a-710c-a27d-bc085d9d7aaf",
+  type: "temper-skill-point",
+  slug: "wr",
+  title: "Wrothgar",
+  key: "WR",
+  category: "zone",
+  maxQuests: 3,
+  maxSkyshards: 17,
+} as const satisfies TemperSkillPoint

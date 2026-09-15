@@ -2,23 +2,23 @@ import {
   raiseMessages,
   sentIn,
 } from "akasha/alan/track/daily/modules/day-messages/day-messages.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { seat } from "akasha/command/arguments/pages/seat.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { seat } from "akasha/command/argument/pages/seat.argument.ts"
 import { answering, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { seatMessaged as page } from "akasha/command/pages/seat/messaged/seat-messaged.command.ts"
-import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
   keepLastMessagedAt,
   type Persona,
   personaOr,
-} from "akasha/personas/modules/reading/persona-reading.module.code.ts"
+} from "akasha/persona/modules/reading/persona-reading.module.code.ts"
 import {
   keepPointsToday,
   pointsIn,
-} from "akasha/personas/points/modules/keeping/persona-points-keeping.module.code.ts"
+} from "akasha/persona/points/modules/keeping/persona-points-keeping.module.code.ts"
 
 const SEAT = "seat"
 

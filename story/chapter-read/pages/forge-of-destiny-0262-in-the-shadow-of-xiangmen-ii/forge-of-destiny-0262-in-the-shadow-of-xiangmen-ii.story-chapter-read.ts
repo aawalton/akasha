@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const forgeOfDestiny0262InTheShadowOfXiangmenIi = {
+  id: "01a06591-3dfd-7b25-a366-9d0ea249dfe0",
+  type: "story-chapter-read",
+  slug: "forge-of-destiny-0262-in-the-shadow-of-xiangmen-ii",
+  title: "In the Shadow of Xiangmen II",
+  story: "story-read/forge-of-destiny",
+  position: 262,
+  ownLength: 541,
+  unit: "unit/words",
+  publishedAt: "2022-06-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "938963",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/938963/in-the-shadow-of-xiangmen-ii",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

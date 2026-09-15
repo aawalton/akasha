@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const tomLehrerTomfooleryOriginalLondonCast = {
+  id: "01a0676a-d72f-7010-b282-2441b3722c3c",
+  type: "release",
+  slug: "tom-lehrer-tomfoolery-original-london-cast",
+  title: "Tomfoolery (Original London Cast)",
+  partOfCollections: ["artist/tom-lehrer"],
+  position: 0,
+  ownLength: 56.8399,
+  ownProgress: 56.8399,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2007-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "43F5DYBodk92CivHaX09Xo",
+      externalLink: "https://open.spotify.com/album/43F5DYBodk92CivHaX09Xo",
+    },
+  ],
+} as const satisfies Release

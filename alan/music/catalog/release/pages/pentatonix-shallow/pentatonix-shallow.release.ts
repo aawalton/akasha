@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const pentatonixShallow = {
+  id: "01a0676a-d728-706d-a0fc-7aab272cc8c3",
+  type: "release",
+  slug: "pentatonix-shallow",
+  title: "Shallow",
+  partOfCollections: ["artist/pentatonix"],
+  position: 0,
+  ownLength: 3.334867,
+  ownProgress: 3.334867,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2019-05-31",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3LKj5a1ySvJZysPCkUXYfv",
+      externalLink: "https://open.spotify.com/album/3LKj5a1ySvJZysPCkUXYfv",
+    },
+  ],
+} as const satisfies Release

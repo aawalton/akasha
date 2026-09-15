@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0634Chapter633ComfyCouchTime = {
+  id: "01a0672c-ed32-7001-ab68-9eba8053d943",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0634-chapter-633-comfy-couch-time",
+  title: "Chapter 633 - Comfy Couch Time",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 634,
+  ownLength: 2622,
+  unit: "unit/words",
+  publishedAt: "2018-07-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "232291",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/232291/chapter-633-comfy-couch-time",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -5,8 +5,8 @@ import {
   clearSessionState,
   loadSessionState,
 } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { stopAppium as stopAppiumArgument } from "akasha/command/arguments/pages/stop-appium.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { stopAppium as stopAppiumArgument } from "akasha/command/argument/pages/stop-appium.argument.ts"
 import {
   answering,
   refusedBy,

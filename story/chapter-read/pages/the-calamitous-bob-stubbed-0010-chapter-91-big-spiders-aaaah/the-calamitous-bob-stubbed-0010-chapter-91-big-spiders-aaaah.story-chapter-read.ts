@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0010Chapter91BigSpidersAaaah = {
+  id: "01a06730-4f3f-7e35-910f-0d63ed7ed59d",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0010-chapter-91-big-spiders-aaaah",
+  title: "Chapter 91 BIG SPIDERS! AAAAH!",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 10,
+  ownLength: 5366,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1005307",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1005307/chapter-91-big-spiders-aaaah",
+    },
+  ],
+  publishedAt: "2022-09-30",
+  ownProgress: 5366,
+  completedAt: "2026-06-29T21:15:00.306Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

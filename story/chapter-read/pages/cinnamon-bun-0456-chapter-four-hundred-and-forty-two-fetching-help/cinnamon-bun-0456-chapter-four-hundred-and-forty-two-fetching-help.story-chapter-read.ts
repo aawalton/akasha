@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0456ChapterFourHundredAndFortyTwoFetchingHelp = {
+  id: "01a0672c-eb22-7000-a1ce-e4d58062c5d0",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0456-chapter-four-hundred-and-forty-two-fetching-help",
+  title: "Chapter Four Hundred and Forty-Two - Fetching Help III: The Helpening",
+  story: "story-read/cinnamon-bun",
+  position: 456,
+  ownLength: 1463,
+  unit: "unit/words",
+  publishedAt: "2023-11-02",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1394621",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1394621/chapter-four-hundred-and-forty-two-fetching-help",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

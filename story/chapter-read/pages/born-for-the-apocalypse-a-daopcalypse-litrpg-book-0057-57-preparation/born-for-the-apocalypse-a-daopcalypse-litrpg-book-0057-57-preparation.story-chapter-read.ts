@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bornForTheApocalypseADaopcalypseLitrpgBook005757Preparation = {
+  id: "01a06731-af0d-7001-8cc0-63bdf0adeaea",
+  type: "story-chapter-read",
+  slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0057-57-preparation",
+  title: "57: Preparation",
+  story: "story-read/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  position: 57,
+  ownLength: 1834,
+  unit: "unit/words",
+  publishedAt: "2025-02-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2070736",
+      externalLink:
+        "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2070736/57-preparation",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

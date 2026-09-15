@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Told } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
+import type { Told } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
 import {
   type Asked,
   askedAnswer,

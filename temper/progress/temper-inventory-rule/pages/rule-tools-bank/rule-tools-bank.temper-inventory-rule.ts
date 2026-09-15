@@ -1,0 +1,21 @@
+import type { TemperInventoryRule } from "akasha/temper/progress/temper-inventory-rule/temper-inventory-rule.page-type.types.ts"
+
+export const ruleToolsBank = {
+  id: "01a0728b-6d6f-721e-a2cd-e61cc89fdac5",
+  type: "temper-inventory-rule",
+  slug: "rule-tools-bank",
+  title: "Stock tools",
+  description: "Deposits tools (lockpicks, repair kits, etc.) in the bank for safekeeping.",
+  goal: "temper-rule-goal/hoard",
+  destination: "bank",
+  stockScope: "any-character",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  categoryId: "tools",
+  displayOrder: 60,
+  action: "temper-item-action/stock",
+  active: true,
+  updatedAt: "2026-07-05T13:20:53.393Z",
+  locked: true,
+  fromTemplate: "temper-rule-template/tools-bank",
+  destinationChain: "jsonl",
+} as const satisfies TemperInventoryRule

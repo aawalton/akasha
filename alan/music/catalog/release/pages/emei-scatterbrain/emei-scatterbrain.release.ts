@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const emeiScatterbrain = {
+  id: "01a0676a-d728-7054-9244-2e2006b40ea4",
+  type: "release",
+  slug: "emei-scatterbrain",
+  title: "Scatterbrain",
+  partOfCollections: ["artist/emei"],
+  position: 0,
+  ownLength: 2.165633,
+  ownProgress: 2.165633,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2023-02-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0CUgWWL0bEnputEKbNiAsv",
+      externalLink: "https://open.spotify.com/album/0CUgWWL0bEnputEKbNiAsv",
+    },
+  ],
+} as const satisfies Release

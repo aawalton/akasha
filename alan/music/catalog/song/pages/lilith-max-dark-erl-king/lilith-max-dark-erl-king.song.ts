@@ -1,0 +1,22 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const lilithMaxDarkErlKing = {
+  id: "019ea4f5-f1c2-7b1f-8e62-27fe1624fd65",
+  type: "song",
+  slug: "lilith-max-dark-erl-king",
+  title: "Dark Erl King",
+  artist: "artist/lilith-max",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "9136a3b1-5475-4800-9264-3a1fed7df5ce",
+      externalLink: "https://musicbrainz.org/recording/9136a3b1-5475-4800-9264-3a1fed7df5ce",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

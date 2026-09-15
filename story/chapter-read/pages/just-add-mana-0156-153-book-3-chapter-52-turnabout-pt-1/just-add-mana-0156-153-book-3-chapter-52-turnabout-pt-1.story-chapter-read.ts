@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const justAddMana0156153Book3Chapter52TurnaboutPt1 = {
+  id: "01a06731-ae63-7000-bed0-db6a59349ac6",
+  type: "story-chapter-read",
+  slug: "just-add-mana-0156-153-book-3-chapter-52-turnabout-pt-1",
+  title: "153 — Book 3, Chapter 52 — Turnabout, Pt 1",
+  story: "story-read/just-add-mana",
+  position: 156,
+  ownLength: 3311,
+  unit: "unit/words",
+  publishedAt: "2026-06-25",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3589070",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3589070/153-book-3-chapter-52-turnabout-pt-1",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

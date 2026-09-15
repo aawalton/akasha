@@ -1,0 +1,27 @@
+import type { Day } from "akasha/alan/track/daily/day/day.page-type.types.ts"
+
+export const day20260825 = {
+  id: "01a0385c-d89f-7000-9891-c04a6332a0f0",
+  type: "day",
+  slug: "day-2026-08-25",
+  title: "@date:2026-08-25",
+  date: "2026-08-25",
+  version: "3.0",
+  healthPoints: 2.2854,
+  taskPoints: 0,
+  faithPoints: 1.5625,
+  lovePoints: 0.6097,
+  sleepPoints: 573,
+  funPoints: 0,
+  learnPoints: 0,
+  nutritionPoints: 0,
+  breathingPoints: 0,
+  inboxTasks: 21,
+  inboxTasksClearedToday: false,
+  inboxTemperTasks: 18,
+  inboxTemperTasksClearedToday: false,
+  inboxTexts: 4,
+  inboxTextsClearedToday: false,
+  sessions: "jsonl",
+  lowestEmailInboxCount: 1,
+} as const satisfies Day

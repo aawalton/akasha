@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const emBeiholdRollerCoastersMakeMeSad = {
+  id: "01a0676a-d728-701a-a0c5-d1a413f247db",
+  type: "release",
+  slug: "em-beihold-roller-coasters-make-me-sad",
+  title: "Roller Coasters Make Me Sad",
+  partOfCollections: ["artist/em-beihold"],
+  position: 0,
+  ownLength: 3.1996,
+  ownProgress: 3.1996,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2023-02-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "16M3QY0xlHJ1CtnmEwbiy1",
+      externalLink: "https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1",
+    },
+  ],
+} as const satisfies Release

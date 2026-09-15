@@ -10,7 +10,7 @@ import {
   akashaSeatsStated,
   akashaSeatValuesOf,
 } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
-import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
 const MAX_ANCESTOR_GENERATIONS = 10

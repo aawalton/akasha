@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theWanderingInn0729TheRootsPt4 = {
+  id: "01a0659c-7ec6-735b-b60d-84195a4d01bf",
+  type: "story-chapter-read",
+  slug: "the-wandering-inn-0729-the-roots-pt-4",
+  title: "The Roots (Pt. 4)",
+  story: "story-read/the-wandering-inn",
+  position: 729,
+  ownLength: 14003,
+  ownProgress: 14337,
+  unit: "unit/words",
+  publishedAt: "2024-08-16",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2024/08/16/the-roots-pt-4/",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

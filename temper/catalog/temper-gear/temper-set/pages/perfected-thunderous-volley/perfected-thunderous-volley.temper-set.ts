@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/temper-set.page-type.types.ts"
+
+export const perfectedThunderousVolley = {
+  id: "019e6484-5fc8-7183-bd1c-84cd19a95bb8",
+  type: "temper-set",
+  slug: "perfected-thunderous-volley",
+  title: "Perfected Thunderous Volley",
+  key: "perfected-thunderous-volley",
+  esoSetId: 525,
+  subcategoryId: "arena",
+  valid: ["bow"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet

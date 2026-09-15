@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const pentatonixPtxVol2 = {
+  id: "01a0676a-d727-702e-aec2-b6c9e6768ef0",
+  type: "release",
+  slug: "pentatonix-ptx-vol-2",
+  title: "PTX, Vol. 2",
+  partOfCollections: ["artist/pentatonix"],
+  position: 0,
+  ownLength: 31.002833,
+  ownProgress: 31.002833,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2013-11-05",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "12dPqNFIdjiVFSHvtsDmzJ",
+      externalLink: "https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ",
+    },
+  ],
+} as const satisfies Release

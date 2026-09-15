@@ -4,13 +4,13 @@ import { join } from "node:path"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { host as hostArgument } from "akasha/command/arguments/pages/host.argument.ts"
-import { image as imageArgument } from "akasha/command/arguments/pages/image.argument.ts"
-import { noPersist } from "akasha/command/arguments/pages/no-persist.argument.ts"
-import { output } from "akasha/command/arguments/pages/output.argument.ts"
-import { resolution as resolutionArgument } from "akasha/command/arguments/pages/resolution.argument.ts"
-import { seed as seedArgument } from "akasha/command/arguments/pages/seed.argument.ts"
+} from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { host as hostArgument } from "akasha/command/argument/pages/host.argument.ts"
+import { image as imageArgument } from "akasha/command/argument/pages/image.argument.ts"
+import { noPersist } from "akasha/command/argument/pages/no-persist.argument.ts"
+import { output } from "akasha/command/argument/pages/output.argument.ts"
+import { resolution as resolutionArgument } from "akasha/command/argument/pages/resolution.argument.ts"
+import { seed as seedArgument } from "akasha/command/argument/pages/seed.argument.ts"
 import {
   answering,
   refusedBy,
@@ -23,10 +23,10 @@ import {
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
 import { wroteTo } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
-import { runClusterUpscale } from "akasha/infrastructure/inference/generations/upscale/modules/cluster/upscale-cluster.module.code.ts"
-import { runWorkstationUpscale } from "akasha/infrastructure/inference/generations/upscale/modules/workstation/upscale-workstation.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
-import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
+import { runClusterUpscale } from "akasha/infrastructure/inference/generation/upscale/modules/cluster/upscale-cluster.module.code.ts"
+import { runWorkstationUpscale } from "akasha/infrastructure/inference/generation/upscale/modules/workstation/upscale-workstation.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 

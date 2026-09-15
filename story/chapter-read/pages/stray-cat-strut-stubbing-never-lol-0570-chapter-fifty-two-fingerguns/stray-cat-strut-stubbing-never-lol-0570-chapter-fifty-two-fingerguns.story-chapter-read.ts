@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0570ChapterFiftyTwoFingerguns = {
+  id: "01a06730-4ec2-7271-8c6b-4d45535c5f33",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0570-chapter-fifty-two-fingerguns",
+  title: "Chapter Fifty-Two - Fingerguns",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 570,
+  ownLength: 1481,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1786981",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1786981/chapter-fifty-two-fingerguns",
+    },
+  ],
+  publishedAt: "2024-09-03",
+  prose: "txt",
+} as const satisfies StoryChapterRead

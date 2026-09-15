@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const allTheSkillsADeckbuildingLitrpg0023Book6Ch16QuiteTheEntrance = {
+  id: "01a06585-ef18-7b12-b916-2f7d70c4dc4b",
+  type: "story-chapter-read",
+  slug: "all-the-skills-a-deckbuilding-litrpg-0023-book-6-ch16-quite-the-entrance",
+  title: "Book 6 Ch16: Quite The Entrance",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
+  position: 23,
+  ownLength: 3135,
+  ownProgress: 3135,
+  unit: "unit/words",
+  publishedAt: "2025-06-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2382741",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2382741/book-6-ch16-quite-the-entrance",
+    },
+  ],
+  removedAt: "2026-07-03T13:47:45.198Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

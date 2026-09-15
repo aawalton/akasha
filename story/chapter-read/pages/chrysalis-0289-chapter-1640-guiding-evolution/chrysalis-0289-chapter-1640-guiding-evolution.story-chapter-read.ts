@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0289Chapter1640GuidingEvolution = {
+  id: "01a0672c-eb65-7007-b161-f7668fb2932f",
+  type: "story-chapter-read",
+  slug: "chrysalis-0289-chapter-1640-guiding-evolution",
+  title: "Chapter 1640 - Guiding Evolution",
+  story: "story-read/chrysalis",
+  position: 289,
+  ownLength: 1046,
+  ownProgress: 1046,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:53:03.569Z",
+  publishedAt: "2025-09-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2583229",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2583229/chapter-1640-guiding-evolution",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

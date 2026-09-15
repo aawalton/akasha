@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const justinTimberlakeBetterPlaceFromTrollsBandTogether = {
+  id: "01a0676a-d718-704f-a0d6-152b489435ca",
+  type: "release",
+  slug: "justin-timberlake-better-place-from-trolls-band-together",
+  title: "Better Place (From TROLLS Band Together)",
+  partOfCollections: ["artist/justin-timberlake"],
+  position: 0,
+  ownLength: 3.6111,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2023-09-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6kF2smJylLgcekEyliE3p8",
+      externalLink: "https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8",
+    },
+  ],
+} as const satisfies Release

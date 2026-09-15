@@ -1,4 +1,4 @@
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const COMMAND = "command"
 

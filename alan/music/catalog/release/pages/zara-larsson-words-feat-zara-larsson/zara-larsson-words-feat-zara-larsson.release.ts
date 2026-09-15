@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const zaraLarssonWordsFeatZaraLarsson = {
+  id: "01a0676a-d731-7036-8294-05e6f453c2c3",
+  type: "release",
+  slug: "zara-larsson-words-feat-zara-larsson",
+  title: "Words (feat. Zara Larsson)",
+  partOfCollections: ["artist/zara-larsson"],
+  position: 0,
+  ownLength: 2.37795,
+  ownProgress: 2.37795,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-04-22",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "66W7mt0wKGLFALilLBLfU6",
+      externalLink: "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
+} as const satisfies Release

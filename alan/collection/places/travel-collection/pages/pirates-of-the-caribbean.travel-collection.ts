@@ -1,0 +1,14 @@
+import type { TravelCollection } from "akasha/alan/collection/places/travel-collection/travel-collection.page-type.types.ts"
+
+export const piratesOfTheCaribbean = {
+  id: "01a06808-caa5-7001-82e9-fd16e052f9fb",
+  type: "travel-collection",
+  slug: "pirates-of-the-caribbean",
+  title: "Pirates of the Caribbean",
+  partOfCollections: ["fandom/pirates-of-the-caribbean-2"],
+  position: 0,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "completed",
+} as const satisfies TravelCollection

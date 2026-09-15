@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0496381ThisSharedMomentOfFlavorAndMonologueIv = {
+  id: "01a06730-4ebd-76eb-868f-813d2543ac88",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0496-381-this-shared-moment-of-flavor-and-monologue-iv",
+  title: "381 This Shared Moment of Flavor and Monologue [IV]",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 496,
+  ownLength: 4580,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3535411",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3535411/381-this-shared-moment-of-flavor-and-monologue",
+    },
+  ],
+  publishedAt: "2026-06-13",
+  prose: "txt",
+} as const satisfies StoryChapterRead

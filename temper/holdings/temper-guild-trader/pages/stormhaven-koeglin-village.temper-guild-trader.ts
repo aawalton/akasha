@@ -1,0 +1,9 @@
+import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trader/temper-guild-trader.page-type.types.ts"
+
+export const stormhavenKoeglinVillage = {
+  id: "019e2fc6-523a-7b9d-80ae-d225d916f9fc",
+  type: "temper-guild-trader",
+  slug: "stormhaven-koeglin-village",
+  title: "Stormhaven: Koeglin Village",
+  kioskId: 41,
+} as const satisfies TemperGuildTrader

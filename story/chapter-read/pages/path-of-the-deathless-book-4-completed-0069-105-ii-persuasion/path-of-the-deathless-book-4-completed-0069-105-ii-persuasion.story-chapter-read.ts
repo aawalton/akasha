@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0069105IiPersuasion = {
+  id: "01a06730-4def-7bf9-8327-e02f43d4aafe",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0069-105-ii-persuasion",
+  title: "105 (II) Persuasion",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 69,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2577510/105-ii-persuasion",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

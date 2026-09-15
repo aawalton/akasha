@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const forgeOfDestiny0468Threads424Shenglu3 = {
+  id: "01a0672c-eb51-700d-81d0-8524ae975047",
+  type: "story-chapter-read",
+  slug: "forge-of-destiny-0468-threads-424-shenglu-3",
+  title: "Threads 424-Shenglu 3",
+  story: "story-read/forge-of-destiny",
+  position: 468,
+  ownLength: 1654,
+  unit: "unit/words",
+  publishedAt: "2025-01-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2027529",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2027529/threads-424-shenglu-3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

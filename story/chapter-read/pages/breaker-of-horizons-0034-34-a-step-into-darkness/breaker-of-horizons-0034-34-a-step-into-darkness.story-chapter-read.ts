@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons003434AStepIntoDarkness = {
+  id: "01a06731-ad9f-7002-955d-19260a955cde",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0034-34-a-step-into-darkness",
+  title: "34. A Step into Darkness",
+  story: "story-read/breaker-of-horizons",
+  position: 34,
+  ownLength: 2642,
+  unit: "unit/words",
+  publishedAt: "2020-08-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "545263",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/545263/34-a-step-into-darkness",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

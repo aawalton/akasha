@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const greenDayBasketCaseBbcLiveSession = {
+  id: "01a0676a-d718-7017-8304-e2597fe784c0",
+  type: "release",
+  slug: "green-day-basket-case-bbc-live-session",
+  title: "Basket Case (BBC Live Session)",
+  partOfCollections: ["artist/green-day"],
+  position: 0,
+  ownLength: 2.936983,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  rank: "C",
+  publishedAt: "2021-10-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2H2c72qf0djGEdJ77q817z",
+      externalLink: "https://open.spotify.com/album/2H2c72qf0djGEdJ77q817z",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

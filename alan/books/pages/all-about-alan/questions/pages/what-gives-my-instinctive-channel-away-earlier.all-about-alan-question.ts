@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whatGivesMyInstinctiveChannelAwayEarlier = {
-  id: "01a077e6-d93d-7aa5-82a1-a9168454b041",
-  type: "all-about-alan-question",
-  slug: "what-gives-my-instinctive-channel-away-earlier",
-  topic: "all-about-alan-topic/what-pulls-me-into-doing-something",
-  ask: "My instinctive channel is visible only afterwards. Does a body cue or a time of day give that channel away earlier?",
-} as const satisfies AllAboutAlanQuestion

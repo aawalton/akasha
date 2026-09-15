@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0129ChapterOneHundredAndTwentyFourSayHelloTo = {
+  id: "01a0672c-eb0a-7008-bba7-1ab6c59e7fe7",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0129-chapter-one-hundred-and-twenty-four-say-hello-to",
+  title: "Chapter One Hundred and Twenty-Four - Say Hello to My Not-So-Little Friend",
+  story: "story-read/cinnamon-bun",
+  position: 129,
+  ownLength: 2027,
+  unit: "unit/words",
+  publishedAt: "2020-10-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "576775",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/576775/chapter-one-hundred-and-twenty-four-say-hello",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

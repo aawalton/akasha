@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0079ChapterSeventySevenAnticlimax = {
+  id: "01a06730-4e0e-73a9-a571-49f81a311b0b",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0079-chapter-seventy-seven-anticlimax",
+  title: "Chapter Seventy-Seven - Anticlimax",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 79,
+  ownLength: 1942,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "580345",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/580345/chapter-seventy-seven-anticlimax",
+    },
+  ],
+  publishedAt: "2020-11-06",
+  prose: "txt",
+} as const satisfies StoryChapterRead

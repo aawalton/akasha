@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonDreamOnMeRogerSanchezRemix = {
+  id: "01a0676a-d71c-7035-9e4f-dc7fb583e5de",
+  type: "release",
+  slug: "ella-henderson-dream-on-me-roger-sanchez-remix",
+  title: "Dream On Me (Roger Sanchez Remix)",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 3.404183,
+  ownProgress: 3.404183,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-10-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2r8jQtXEk9O7BcA4WcOOeq",
+      externalLink: "https://open.spotify.com/album/2r8jQtXEk9O7BcA4WcOOeq",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

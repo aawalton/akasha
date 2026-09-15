@@ -1,0 +1,14 @@
+import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everything/topic/learn-everything-topic.page-type.types.ts"
+
+export const learnEverythingTopic04LanguageAndCommunication = {
+  id: "01a065a7-0855-701c-b64c-9592010b67f1",
+  type: "learn-everything-topic",
+  slug: "learn-everything-topic-04-language-and-communication",
+  node: "Human Society › Social Groups: Ethnic groups and Cultures › Language and Communication",
+  masteryLevel: "mastery-level/novice",
+  scoredOn: "2026-06-19",
+  status: "unopened",
+  partOf: [
+    "learn-everything-topic/learn-everything-topic-01-social-groups-ethnic-groups-and-cultures",
+  ],
+} as const satisfies LearnEverythingTopic

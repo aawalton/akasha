@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { addLabel } from "akasha/command/arguments/pages/add-label.argument.ts"
-import { removeLabel } from "akasha/command/arguments/pages/remove-label.argument.ts"
+import { addLabel } from "akasha/command/argument/pages/add-label.argument.ts"
+import { removeLabel } from "akasha/command/argument/pages/remove-label.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { emailMessageModifyLabel } from "akasha/command/pages/email/message/modify-label/email-message-modify-label.command.code.ts"
 

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0196Chapter1548ThePainOfKnowledge = {
+  id: "01a0672c-eb61-701d-bcc4-2dda0968c07a",
+  type: "story-chapter-read",
+  slug: "chrysalis-0196-chapter-1548-the-pain-of-knowledge",
+  title: "Chapter 1548 - The Pain of Knowledge",
+  story: "story-read/chrysalis",
+  position: 196,
+  ownLength: 1205,
+  ownProgress: 1205,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:50:05.601Z",
+  publishedAt: "2025-04-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2189086",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2189086/chapter-1548-the-pain-of-knowledge",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

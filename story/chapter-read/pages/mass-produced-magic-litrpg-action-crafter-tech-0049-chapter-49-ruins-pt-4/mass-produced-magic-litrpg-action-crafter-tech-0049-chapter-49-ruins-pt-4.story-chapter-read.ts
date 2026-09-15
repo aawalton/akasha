@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const massProducedMagicLitrpgActionCrafterTech0049Chapter49RuinsPt4 = {
+  id: "01a06731-afb2-700c-a163-10b589c1351f",
+  type: "story-chapter-read",
+  slug: "mass-produced-magic-litrpg-action-crafter-tech-0049-chapter-49-ruins-pt-4",
+  title: "Chapter 49 – Ruins – Pt 4",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
+  position: 49,
+  ownLength: 1828,
+  unit: "unit/words",
+  publishedAt: "2025-01-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2022661",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2022661/chapter-49-ruins-pt-4",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

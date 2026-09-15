@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2Spinout = {
+  id: "01a0676a-d729-707c-aa48-c320bfdad582",
+  type: "release",
+  slug: "elvis-presley-2-spinout",
+  title: "Spinout",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 29.287933,
+  ownProgress: 29.287933,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1966-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ZxrkkUoGwgAJHxtsmYi8M",
+      externalLink: "https://open.spotify.com/album/3ZxrkkUoGwgAJHxtsmYi8M",
+    },
+  ],
+} as const satisfies Release

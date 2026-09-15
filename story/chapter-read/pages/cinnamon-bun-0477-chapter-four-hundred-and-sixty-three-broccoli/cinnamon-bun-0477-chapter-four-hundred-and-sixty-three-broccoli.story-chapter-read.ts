@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0477ChapterFourHundredAndSixtyThreeBroccoli = {
+  id: "01a0672c-eb22-7015-8c7d-35ddfc2966a7",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0477-chapter-four-hundred-and-sixty-three-broccoli",
+  title: "Chapter Four Hundred and Sixty-Three - Broccoli Moneybags",
+  story: "story-read/cinnamon-bun",
+  position: 477,
+  ownLength: 1485,
+  unit: "unit/words",
+  publishedAt: "2024-01-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1486219",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1486219/chapter-four-hundred-and-sixty-three-broccoli",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

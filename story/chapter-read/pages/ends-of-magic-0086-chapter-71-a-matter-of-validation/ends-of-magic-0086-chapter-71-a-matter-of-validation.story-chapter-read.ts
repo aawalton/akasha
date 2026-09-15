@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const endsOfMagic0086Chapter71AMatterOfValidation = {
+  id: "01a06731-ae11-7000-9af1-5c533aa2e0ea",
+  type: "story-chapter-read",
+  slug: "ends-of-magic-0086-chapter-71-a-matter-of-validation",
+  title: "Chapter 71: A Matter of Validation",
+  story: "story-read/ends-of-magic",
+  position: 86,
+  ownLength: 2749,
+  unit: "unit/words",
+  publishedAt: "2026-04-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3251526",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3251526/chapter-71-a-matter-of-validation",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -18,7 +18,7 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export interface AccountResolutionDeps {
   getCredentialByAccount: (account: string, logPrefix?: string) => Promise<OAuthCredential | null>

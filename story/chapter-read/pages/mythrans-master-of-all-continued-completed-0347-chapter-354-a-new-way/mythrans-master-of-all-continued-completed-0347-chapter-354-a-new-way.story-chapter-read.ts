@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0347Chapter354ANewWay = {
+  id: "01a0672c-ec5c-7000-9d29-c3c76ad120a0",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0347-chapter-354-a-new-way",
+  title: "Chapter 354 - A New Way",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 347,
+  ownLength: 3909,
+  unit: "unit/words",
+  publishedAt: "2017-09-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "160338",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160338/chapter-354-a-new-way",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

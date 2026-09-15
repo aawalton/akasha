@@ -1,9 +1,0 @@
-import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild-traders/temper-guild-trader.page-type.types.ts"
-
-export const theReachMarkarth = {
-  id: "019e2fc6-526c-7760-b19d-c0d5b5f0153b",
-  type: "temper-guild-trader",
-  slug: "the-reach-markarth",
-  title: "The Reach: Markarth",
-  kioskId: 96,
-} as const satisfies TemperGuildTrader

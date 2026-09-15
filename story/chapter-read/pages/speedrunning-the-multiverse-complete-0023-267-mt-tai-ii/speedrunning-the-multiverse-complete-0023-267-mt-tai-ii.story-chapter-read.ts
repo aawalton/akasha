@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const speedrunningTheMultiverseComplete0023267MtTaiIi = {
+  id: "01a06730-4de1-7967-a0b1-1e857ac52000",
+  type: "story-chapter-read",
+  slug: "speedrunning-the-multiverse-complete-0023-267-mt-tai-ii",
+  title: "267. Mt. Tai (II) ",
+  story: "story-read/speedrunning-the-multiverse-complete",
+  position: 23,
+  ownLength: 1683,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1284057",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1284057/267-mt-tai-ii",
+    },
+  ],
+  publishedAt: "2023-07-21",
+  ownProgress: 1683,
+  completedAt: "2026-06-29T22:42:27.119Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

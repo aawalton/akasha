@@ -1,9 +1,9 @@
 import { mkdir, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
-import { picture as pictureArgument } from "akasha/command/arguments/pages/picture.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { output as outputArgument } from "akasha/command/argument/pages/output.argument.ts"
+import { picture as pictureArgument } from "akasha/command/argument/pages/picture.argument.ts"
 import {
   answering,
   DATA,
@@ -19,7 +19,7 @@ import {
   type ObjectStore,
   seaweedFSObjectStoreFromEnv,
 } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
-import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
+import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 const NAMED = [pictureArgument, outputArgument] as const
 

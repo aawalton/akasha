@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const wolfGirlEvolutionTailsTeethAndTooMuchFood0145Chapter142ManyThingsSheSaidManyThings = {
+  id: "01a06730-560a-709e-9a0b-43b62e5669fd",
+  type: "story-chapter-read",
+  slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0145-chapter-142-many-things-she-said-many-things",
+  title: "Chapter 142: Many-Things She Said, Many-Things to Bite",
+  story: "story-read/wolf-girl-evolution-tails-teeth-and-too-much-food",
+  position: 145,
+  ownLength: 2726,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3703231",
+      externalLink:
+        "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3703231/chapter-142-many-things-she-said-many-things-to",
+    },
+  ],
+  publishedAt: "2026-07-20",
+  prose: "txt",
+} as const satisfies StoryChapterRead

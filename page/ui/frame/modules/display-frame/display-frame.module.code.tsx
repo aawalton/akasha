@@ -1,0 +1,104 @@
+"use client"
+
+import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
+import type { FrameConfig } from "akasha/page/core/schema/modules/detail-config/detail-config.module.code.ts"
+import { useChromeToggle } from "akasha/page/ui/components/modules/use-chrome-toggle/use-chrome-toggle.module.code.ts"
+import {
+  frameFollowMode,
+  frameSupportsFocusMode,
+} from "akasha/page/ui/frame/modules/frame-config/frame-config.module.code.ts"
+import { FrameSafeAreaMasks } from "akasha/page/ui/frame/modules/frame-safe-area-masks/frame-safe-area-masks.module.code.tsx"
+import { FrameStickyFooter } from "akasha/page/ui/frame/modules/frame-sticky-footer/frame-sticky-footer.module.code.tsx"
+import {
+  type FrameHeader,
+  FrameStickyHeader,
+} from "akasha/page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx"
+import { useFollowAnchor } from "akasha/page/ui/frame/modules/use-follow-anchor/use-follow-anchor.module.code.ts"
+import { ArrowDown } from "lucide-react"
+import { type ReactNode, type RefObject, useCallback } from "react"
+
+interface DisplayFrameProps {
+  readonly config?: FrameConfig
+  readonly header?: FrameHeader | null
+  readonly footer?: ReactNode
+  readonly followAnchor?: {
+    readonly ref: RefObject<HTMLElement | null>
+    readonly renderTrigger: unknown
+    readonly forcePinSignal?: unknown
+  } | null
+  readonly children: ReactNode
+}
+
+export function DisplayFrame({
+  config,
+  header,
+  footer,
+  followAnchor,
+  children,
+}: DisplayFrameProps) {
+  const focusEnabled = frameSupportsFocusMode(config)
+  const { chromeHidden, onSurfaceClick } = useChromeToggle()
+
+  const followMode = followAnchor != null ? frameFollowMode(config) : null
+  const { showJumpToLatest, jumpToLatest } = useFollowAnchor({
+    anchorRef: followAnchor?.ref ?? { current: null },
+    renderTrigger: followAnchor?.renderTrigger,
+    forcePinSignal: followAnchor?.forcePinSignal,
+    mode: followMode,
+  })
+
+  const handleCanvasClick = useCallback(
+    (e: React.MouseEvent<HTMLElement>) => {
+      if (focusEnabled) onSurfaceClick(e)
+    },
+    [focusEnabled, onSurfaceClick]
+  )
+
+  return (
+    <div className="flex min-h-screen flex-col">
+      {}
+      {config?.edgeToEdge === true && <FrameSafeAreaMasks chromeHidden={chromeHidden} />}
+      {header != null && <FrameStickyHeader header={header} />}
+      {}
+      <article
+        className="flex flex-1 flex-col"
+        onClick={focusEnabled ? handleCanvasClick : undefined}
+      >
+        {children}
+      </article>
+      {footer != null && <FrameStickyFooter>{footer}</FrameStickyFooter>}
+      {}
+      {followMode !== null && showJumpToLatest && !chromeHidden && (
+        <div className="pointer-events-none sticky bottom-24 z-30 flex justify-center">
+          {followMode === "top" ? (
+            <button
+              type="button"
+              onClick={jumpToLatest}
+              aria-label="Jump to latest"
+              className={cn(
+                "pointer-events-auto flex h-11 w-11 items-center justify-center",
+                "rounded-full border border-primary/10 text-primary shadow-lg",
+                surfaceClass(2)
+              )}
+            >
+              <ArrowDown className="h-5 w-5" />
+            </button>
+          ) : (
+            <button
+              type="button"
+              onClick={jumpToLatest}
+              className={cn(
+                "pointer-events-auto w-fit rounded-full px-4 py-2",
+                "border border-primary/10 font-medium text-primary text-sm shadow-lg",
+                surfaceClass(2)
+              )}
+            >
+              Jump to latest ↓
+            </button>
+          )}
+        </div>
+      )}
+    </div>
+  )
+}

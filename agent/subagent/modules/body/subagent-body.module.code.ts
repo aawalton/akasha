@@ -1,11 +1,11 @@
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   importedFrom,
   bodyOf as pageBodyOf,
-} from "akasha/pages/modules/body/page-body.module.code.ts"
-import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+} from "akasha/page/modules/body/page-body.module.code.ts"
+import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const SUBAGENT = "subagent"
 

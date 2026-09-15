@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherIThinkInMathsShapedFrames = {
-  id: "01a077ec-b16b-724e-abfa-7ce19e6d3ffb",
-  type: "all-about-alan-question",
-  slug: "whether-i-think-in-maths-shaped-frames",
-  topic: "all-about-alan-topic/how-i-decide",
-  ask: "Do I think in maths-shaped frames more widely, in monotonic progress and convergence and optimisation, or is that one borrowed frame?",
-} as const satisfies AllAboutAlanQuestion

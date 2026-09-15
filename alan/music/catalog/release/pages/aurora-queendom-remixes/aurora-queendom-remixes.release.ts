@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const auroraQueendomRemixes = {
+  id: "01a0676a-d727-703b-926d-7530ea1d3190",
+  type: "release",
+  slug: "aurora-queendom-remixes",
+  title: "Queendom (Remixes)",
+  partOfCollections: ["artist/aurora"],
+  position: 0,
+  ownLength: 19.8102,
+  ownProgress: 19.8102,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-06-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2rU4EzAu1medA9WOI3zDle",
+      externalLink: "https://open.spotify.com/album/2rU4EzAu1medA9WOI3zDle",
+    },
+  ],
+} as const satisfies Release

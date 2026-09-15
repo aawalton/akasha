@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0060ChapterFiftySevenPomf = {
+  id: "01a0672c-eb05-700a-8b96-403806e0956d",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0060-chapter-fifty-seven-pomf",
+  title: "Chapter Fifty-Seven - Pomf",
+  story: "story-read/cinnamon-bun",
+  position: 60,
+  ownLength: 1983,
+  unit: "unit/words",
+  publishedAt: "2020-07-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "522646",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/522646/chapter-fifty-seven-pomf",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

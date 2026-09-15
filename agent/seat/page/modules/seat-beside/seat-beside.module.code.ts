@@ -10,16 +10,16 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import {
   PAGE_EXTENSION,
   pageStemOf,
-} from "akasha/pages/modules/markdown-page-name/markdown-page-name.module.code.ts"
+} from "akasha/page/modules/markdown-page-name/markdown-page-name.module.code.ts"
 import {
   dropUncommitted as dropAkasha,
   mergeUncommitted,
-} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+} from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 
 export function bare(held: unknown): unknown {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return held

@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const howWideTheWindowWithJenIs = {
+  id: "01a077ec-a00f-7c07-aba9-207b1e06c47f",
+  type: "all-about-alan-question",
+  slug: "how-wide-the-window-with-jen-is",
+  topic: "all-about-alan-topic/how-much-being-known-i-need",
+  ask: "How wide is the window where Jen and I both have surplus, and does scheduling or recovery order widen that window?",
+} as const satisfies AllAboutAlanQuestion

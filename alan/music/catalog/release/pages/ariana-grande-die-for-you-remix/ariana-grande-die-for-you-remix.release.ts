@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const arianaGrandeDieForYouRemix = {
+  id: "01a0676a-d71c-7012-824c-db9ca1da6fee",
+  type: "release",
+  slug: "ariana-grande-die-for-you-remix",
+  title: "Die For You (Remix)",
+  partOfCollections: ["artist/ariana-grande"],
+  position: 0,
+  ownLength: 3.88095,
+  ownProgress: 3.88095,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-02-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Exo0MYoL3XammoTDeihFy",
+      externalLink: "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Release

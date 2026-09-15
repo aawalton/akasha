@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0006Chapter5WinterAndHelpingTheTown = {
+  id: "01a0672c-ed58-7001-979c-e6cc820b5e56",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0006-chapter-5-winter-and-helping-the-town",
+  title: "Chapter 5 Winter, and helping the town",
+  story: "story-read/melody-of-mana",
+  position: 6,
+  ownLength: 3797,
+  ownProgress: 3797,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:26:26.675Z",
+  publishedAt: "2021-06-20",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "702377",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/702377/chapter-5-winter-and-helping-the-town",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

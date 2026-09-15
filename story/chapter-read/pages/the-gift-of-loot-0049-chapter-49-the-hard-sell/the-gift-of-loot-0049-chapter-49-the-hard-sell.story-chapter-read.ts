@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theGiftOfLoot0049Chapter49TheHardSell = {
+  id: "01a06730-4ef0-781b-8017-0ec0a83d382b",
+  type: "story-chapter-read",
+  slug: "the-gift-of-loot-0049-chapter-49-the-hard-sell",
+  title: "Chapter 49: The Hard Sell",
+  story: "story-read/the-gift-of-loot",
+  position: 49,
+  ownLength: 4121,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3618165",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3618165/chapter-49-the-hard-sell",
+    },
+  ],
+  publishedAt: "2026-07-01",
+  prose: "txt",
+} as const satisfies StoryChapterRead

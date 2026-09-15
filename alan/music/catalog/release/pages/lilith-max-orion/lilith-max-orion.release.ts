@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const lilithMaxOrion = {
+  id: "01a0676a-d726-704c-af77-d3d4a92a54c2",
+  type: "release",
+  slug: "lilith-max-orion",
+  title: "Orion",
+  partOfCollections: ["artist/lilith-max"],
+  position: 0,
+  ownLength: 5.901883,
+  ownProgress: 5.901883,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2025-09-12",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5XV5vYFUWD0ilmoa5ZnpWK",
+      externalLink: "https://open.spotify.com/album/5XV5vYFUWD0ilmoa5ZnpWK",
+    },
+  ],
+} as const satisfies Release

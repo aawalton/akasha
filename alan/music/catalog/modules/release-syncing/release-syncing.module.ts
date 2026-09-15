@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const releaseSyncing = {
   id: "01a09c80-78b1-747b-b16d-c003ab8e4aa7",

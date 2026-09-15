@@ -4,7 +4,7 @@ import {
   withCors,
 } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 import { isMediaPageId } from "akasha/alan/web/modules/media-page/media-page.module.code.ts"
-import { serveMedia } from "akasha/pages/ui/media/modules/serve-media/serve-media.module.code.ts"
+import { serveMedia } from "akasha/page/ui/media/modules/serve-media/serve-media.module.code.ts"
 
 const DOWNLOAD_CORS = {
   allowHeaders: "Authorization, Range",

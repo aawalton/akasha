@@ -1,4 +1,4 @@
-import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
+import type { PagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.types.ts"
 
 export const bonuses = {
   id: "01a05fd1-d437-730d-b6e2-e46b2bc06210",

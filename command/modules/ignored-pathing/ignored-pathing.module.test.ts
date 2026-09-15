@@ -6,7 +6,7 @@ import {
   heldBack,
 } from "akasha/command/modules/ignored-pathing/ignored-pathing.module.code.ts"
 import { repoWith, scratch } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
-import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
+import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 
 afterAll(scratch.sweep)
 

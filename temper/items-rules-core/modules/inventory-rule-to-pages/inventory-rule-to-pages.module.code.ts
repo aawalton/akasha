@@ -1,4 +1,4 @@
-import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type {
   ChainEntry,
   ConditionEntry,

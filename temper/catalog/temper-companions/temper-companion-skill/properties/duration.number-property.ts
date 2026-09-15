@@ -1,0 +1,11 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const duration = {
+  id: "01a06193-6ca7-76f3-852f-0350fc8086c5",
+  type: "number-property",
+  slug: "duration",
+  propertySlug: "duration",
+  definition: "how many seconds an effect lasts",
+  max: null,
+  types: "ts",
+} as const satisfies NumberProperty

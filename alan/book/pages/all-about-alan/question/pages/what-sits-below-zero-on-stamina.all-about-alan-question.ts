@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const whatSitsBelowZeroOnStamina = {
+  id: "01a077ee-6668-7204-bab6-656e1fa75295",
+  type: "all-about-alan-question",
+  slug: "what-sits-below-zero-on-stamina",
+  topic: "all-about-alan-topic/stamina-bar",
+  ask: "Nothing below zero has come up for stamina, and the same three readings fit as for mana. What sits below zero on my stamina bar?",
+} as const satisfies AllAboutAlanQuestion

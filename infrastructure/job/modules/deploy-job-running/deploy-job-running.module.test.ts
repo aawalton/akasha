@@ -11,7 +11,7 @@ import {
   ranInCluster,
   waitArgv,
 } from "akasha/infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"
-import type { Ran } from "akasha/infrastructure/services/clusters/modules/workload-deploying/workload-deploying.module.code.ts"
+import type { Ran } from "akasha/infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts"
 
 const SUBJECT = "postgres-cnpg-image"
 

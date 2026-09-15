@@ -1,14 +1,14 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { editsIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   type Loaded,
   loadedAt,
-} from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
-import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
+} from "akasha/change/runner/modules/change-loading/change-loading.module.code.ts"
+import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   OPERATIONAL,
   refusedBy,
@@ -30,7 +30,7 @@ import {
   NAMER_CODE,
   NAMER_PAGE,
   pageOf,
-} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 export const PAGE = "akasha/agent/seat/pages/tester.seat.ts"
 
@@ -139,7 +139,7 @@ const ANY_KIND = "akasha/changes/remove-file-of-any-kind.change-mechanical"
 
 const ANY_KIND_CODE = join(
   import.meta.dir,
-  "../../../changes/mechanical/file/remove/remove-file-of-any-kind",
+  "../../../change/mechanical/file/remove/remove-file-of-any-kind",
   "remove-file-of-any-kind.change-mechanical.code.ts"
 )
 

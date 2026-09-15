@@ -1,6 +1,6 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { calendar } from "akasha/command/arguments/pages/calendar.argument.ts"
-import { event } from "akasha/command/arguments/pages/event.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { calendar } from "akasha/command/argument/pages/calendar.argument.ts"
+import { event } from "akasha/command/argument/pages/event.argument.ts"
 import {
   answeredAsJson,
   asAkasha,

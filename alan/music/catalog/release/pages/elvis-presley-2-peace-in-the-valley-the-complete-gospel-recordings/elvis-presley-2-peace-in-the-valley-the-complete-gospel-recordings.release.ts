@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2PeaceInTheValleyTheCompleteGospelRecordings = {
+  id: "01a0676a-d726-7066-adbc-9c07869af525",
+  type: "release",
+  slug: "elvis-presley-2-peace-in-the-valley-the-complete-gospel-recordings",
+  title: "Peace In The Valley - The Complete Gospel Recordings",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 219.44795,
+  ownProgress: 219.44795,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1999-11-17",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0aErTlK9VurHpgFTdA0T8V",
+      externalLink: "https://open.spotify.com/album/0aErTlK9VurHpgFTdA0T8V",
+    },
+  ],
+} as const satisfies Release

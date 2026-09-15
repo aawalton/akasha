@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const defianceOfTheFall0117Chapter1437SecondSingularity = {
+  id: "01a06731-adaf-7001-b25f-28a8f6cd81df",
+  type: "story-chapter-read",
+  slug: "defiance-of-the-fall-0117-chapter-1437-second-singularity",
+  title: "Chapter 1,437 - Second Singularity",
+  story: "story-read/defiance-of-the-fall",
+  position: 117,
+  ownLength: 3039,
+  unit: "unit/words",
+  publishedAt: "2026-05-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3428724",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3428724/chapter-1437-second-singularity",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

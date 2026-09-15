@@ -1,0 +1,18 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const deviceTokenToken = {
+  id: "01a05dc7-77da-7b07-affa-4c60ae0382fc",
+  type: "text-property",
+  slug: "device-token-token",
+  propertySlug: "token",
+  definition: "the value Apple delivers a push to",
+  maxLength: 64,
+  nameFormat: null,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Apple writes a token in upper hexadecimal and the token is kept as given.",
+    },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

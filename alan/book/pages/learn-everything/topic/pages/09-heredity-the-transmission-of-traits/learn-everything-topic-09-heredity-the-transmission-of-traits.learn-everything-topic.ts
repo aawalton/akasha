@@ -1,0 +1,14 @@
+import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everything/topic/learn-everything-topic.page-type.types.ts"
+
+export const learnEverythingTopic09HeredityTheTransmissionOfTraits = {
+  id: "01a065a7-0854-7015-bd7c-ee1b0497ec74",
+  type: "learn-everything-topic",
+  slug: "learn-everything-topic-09-heredity-the-transmission-of-traits",
+  node: "Life on Earth › The Structures and Functions of Organisms › Heredity: the Transmission of Traits",
+  masteryLevel: "mastery-level/novice",
+  scoredOn: "2026-06-19",
+  status: "unopened",
+  partOf: [
+    "learn-everything-topic/learn-everything-topic-03-the-structures-and-functions-of-organisms",
+  ],
+} as const satisfies LearnEverythingTopic

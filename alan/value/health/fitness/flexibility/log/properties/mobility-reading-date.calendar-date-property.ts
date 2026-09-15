@@ -1,0 +1,10 @@
+import type { CalendarDateProperty } from "akasha/page/calendar-date-property/calendar-date-property.page-type.types.ts"
+
+export const mobilityReadingDate = {
+  id: "01a06558-36e9-795f-bf57-2d90cf124799",
+  type: "calendar-date-property",
+  slug: "mobility-reading-date",
+  propertySlug: "mobility-reading-date",
+  definition: "the day the reading was taken",
+  types: "ts",
+} as const satisfies CalendarDateProperty

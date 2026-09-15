@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const justAddMana005757Book2Chapter5SwordAndSorceryPt5 = {
+  id: "01a06731-adda-7001-a448-b16155b7ee4f",
+  type: "story-chapter-read",
+  slug: "just-add-mana-0057-57-book-2-chapter-5-sword-and-sorcery-pt-5",
+  title: "57 — Book 2, Chapter 5 — Sword and Sorcery, Pt 5",
+  story: "story-read/just-add-mana",
+  position: 57,
+  ownLength: 3217,
+  ownProgress: 3217,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:49:32.484Z",
+  publishedAt: "2025-11-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2737641",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2737641/57-book-2-chapter-5-sword-and-sorcery-pt-5",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

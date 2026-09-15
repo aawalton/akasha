@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherNamingAFeelingSharpensWithUse = {
-  id: "01a077e3-3643-7bbd-819e-253abb5893e4",
-  type: "all-about-alan-question",
-  slug: "whether-naming-a-feeling-sharpens-with-use",
-  topic: "all-about-alan-topic/reading-myself-before-the-words",
-  ask: "Does naming a feeling sharpen with use, the way a hunch does?",
-} as const satisfies AllAboutAlanQuestion

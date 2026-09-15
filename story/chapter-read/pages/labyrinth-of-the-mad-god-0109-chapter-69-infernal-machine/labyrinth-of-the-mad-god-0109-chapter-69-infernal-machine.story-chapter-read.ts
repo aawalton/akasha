@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const labyrinthOfTheMadGod0109Chapter69InfernalMachine = {
+  id: "01a0672c-eb75-7009-b574-20539a499bd1",
+  type: "story-chapter-read",
+  slug: "labyrinth-of-the-mad-god-0109-chapter-69-infernal-machine",
+  title: "Chapter 69: Infernal Machine",
+  story: "story-read/labyrinth-of-the-mad-god",
+  position: 109,
+  ownLength: 1441,
+  unit: "unit/words",
+  publishedAt: "2024-12-25",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1974813",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1974813/chapter-69-infernal-machine",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

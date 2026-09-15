@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0107Chapter1459BrilliantReports = {
+  id: "01a0672c-eb5e-7007-8d5d-a42bf7e8cc62",
+  type: "story-chapter-read",
+  slug: "chrysalis-0107-chapter-1459-brilliant-reports",
+  title: "Chapter 1459 - Brilliant Reports",
+  story: "story-read/chrysalis",
+  position: 107,
+  ownLength: 1015,
+  ownProgress: 1015,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:47:30.106Z",
+  publishedAt: "2024-11-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1917170",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1917170/chapter-1459-brilliant-reports",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

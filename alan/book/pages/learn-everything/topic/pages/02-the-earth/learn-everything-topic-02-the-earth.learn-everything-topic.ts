@@ -1,0 +1,12 @@
+import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everything/topic/learn-everything-topic.page-type.types.ts"
+
+export const learnEverythingTopic02TheEarth = {
+  id: "01a065a7-084d-7010-8830-484083815b69",
+  type: "learn-everything-topic",
+  slug: "learn-everything-topic-02-the-earth",
+  node: "The Earth",
+  masteryLevel: "mastery-level/novice",
+  scoredOn: "2026-06-19",
+  status: "unopened",
+  partOf: ["learn-everything-topic/profile"],
+} as const satisfies LearnEverythingTopic

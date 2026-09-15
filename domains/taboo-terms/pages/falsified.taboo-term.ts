@@ -1,9 +1,0 @@
-import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.types.ts"
-
-export const falsified = {
-  id: "01a0593e-da2a-7f4f-9150-3a203377fc97",
-  type: "taboo-term",
-  slug: "falsified",
-  pattern: "\\bfalsified\\b",
-  tabooSenses: [{ sense: "made untrue by a change you landed", instead: "made untrue" }],
-} as const satisfies TabooTerm

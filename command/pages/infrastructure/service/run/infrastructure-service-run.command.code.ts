@@ -1,5 +1,5 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { workstationService } from "akasha/command/arguments/pages/workstation-service.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { workstationService } from "akasha/command/argument/pages/workstation-service.argument.ts"
 import {
   answering,
   DATA,
@@ -11,7 +11,7 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { allowedThrough } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { infrastructureServiceRun as page } from "akasha/command/pages/infrastructure/service/run/infrastructure-service-run.command.ts"
-import { reachedFor } from "akasha/infrastructure/services/workstations/modules/service-running/service-running.module.code.ts"
+import { reachedFor } from "akasha/infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"
 
 export type Running = (done: string[]) => void | Promise<void>
 

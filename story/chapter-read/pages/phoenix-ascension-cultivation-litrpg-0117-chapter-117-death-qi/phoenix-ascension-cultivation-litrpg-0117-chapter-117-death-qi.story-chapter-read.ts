@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const phoenixAscensionCultivationLitrpg0117Chapter117DeathQi = {
+  id: "01a06730-4dfd-7705-b886-dd28575c680e",
+  type: "story-chapter-read",
+  slug: "phoenix-ascension-cultivation-litrpg-0117-chapter-117-death-qi",
+  title: "Chapter 117: Death Qi",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
+  position: 117,
+  ownLength: 2154,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3306847",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3306847/chapter-117-death-qi",
+    },
+  ],
+  publishedAt: "2026-04-22",
+  prose: "txt",
+} as const satisfies StoryChapterRead

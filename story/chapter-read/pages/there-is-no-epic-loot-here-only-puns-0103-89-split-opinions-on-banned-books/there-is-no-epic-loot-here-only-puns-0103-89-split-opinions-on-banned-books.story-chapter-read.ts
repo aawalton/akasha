@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thereIsNoEpicLootHereOnlyPuns010389SplitOpinionsOnBannedBooks = {
+  id: "01a06730-512e-78c2-aa8b-fe8fccca6732",
+  type: "story-chapter-read",
+  slug: "there-is-no-epic-loot-here-only-puns-0103-89-split-opinions-on-banned-books",
+  title: "89: Split Opinions on Banned Books",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
+  position: 103,
+  ownLength: 4879,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "354193",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/354193/89-split-opinions-on-banned-books",
+    },
+  ],
+  publishedAt: "2019-04-19",
+  prose: "txt",
+} as const satisfies StoryChapterRead

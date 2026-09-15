@@ -28,24 +28,24 @@ import {
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { subagentStarted } from "akasha/agent/subagent/properties/subagent-started.number-property.ts"
 import { subagentStopped } from "akasha/agent/subagent/properties/subagent-stopped.boolean-property.ts"
-import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { editsWaiting } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   type Asking,
   type Landing,
   runMechanicalChange,
-} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   listedAt,
   listedById,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { nameFaultIn } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
-import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { nameFaultIn } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,
-} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+} from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { asNumber } from "akasha/utils/narrow/modules/as-number/as-number.module.code.ts"
 import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 

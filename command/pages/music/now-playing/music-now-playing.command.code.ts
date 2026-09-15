@@ -2,8 +2,8 @@ import {
   getCurrentlyPlaying,
   getPlaybackState,
 } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
 import { refusedBy, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { musicNowPlaying as page } from "akasha/command/pages/music/now-playing/music-now-playing.command.ts"

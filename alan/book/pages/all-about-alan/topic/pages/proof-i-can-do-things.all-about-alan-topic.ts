@@ -1,0 +1,12 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const proofICanDoThings = {
+  id: "01a06559-9d65-7ee4-9c61-4d87edae576b",
+  type: "all-about-alan-topic",
+  slug: "proof-i-can-do-things",
+  title: "Proof I Can Do Things",
+  definition: "the safety I get from evidence that I am capable",
+  parents: ["all-about-alan-topic/safety-bar"],
+  settled:
+    "It comes from pointing at something I actually did, never from feeling better about it.",
+} as const satisfies AllAboutAlanTopic

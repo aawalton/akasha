@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const arkendrithyst0059059EndOfBook2429215 = {
+  id: "01a08392-af38-7dd3-b4ca-fb15088e5c79",
+  type: "story-chapter-read",
+  slug: "arkendrithyst-0059-059-end-of-book-2-429215",
+  story: "story-read/arkendrithyst",
+  position: 59,
+  publishedAt: "2019-11-29",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "429215",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/429215/059-end-of-book-2",
+    },
+  ],
+  title: "059 - End of Book 2",
+  ownLength: 12834,
+  prose: "txt",
+} as const satisfies StoryChapterRead

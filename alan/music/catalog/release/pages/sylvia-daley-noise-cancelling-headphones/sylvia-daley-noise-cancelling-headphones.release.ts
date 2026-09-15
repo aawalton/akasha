@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const sylviaDaleyNoiseCancellingHeadphones = {
+  id: "01a0676a-d725-7071-bed1-2455be8cdabd",
+  type: "release",
+  slug: "sylvia-daley-noise-cancelling-headphones",
+  title: "Noise Cancelling Headphones",
+  partOfCollections: ["artist/sylvia-daley"],
+  position: 0,
+  ownLength: 2.9577,
+  ownProgress: 2.9577,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "A",
+  publishedAt: "2025-04-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3bxaT1jkEPA20noOfZBJ3e",
+      externalLink: "https://open.spotify.com/album/3bxaT1jkEPA20noOfZBJ3e",
+      lastSyncedAt: "2025-11-15",
+    },
+  ],
+} as const satisfies Release

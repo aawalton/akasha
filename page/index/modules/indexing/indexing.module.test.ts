@@ -1,0 +1,345 @@
+import { afterAll, expect, test } from "bun:test"
+import { existsSync, mkdirSync, writeFileSync } from "node:fs"
+import { dirname, join, relative } from "node:path"
+import {
+  indexingAt,
+  refreshedFrom,
+} from "akasha/page/index/modules/indexing/indexing.module.code.ts"
+import {
+  A,
+  A_WITH_CODE,
+  aFileHeldNotLoaded,
+  aRefreshBlocked,
+  aRefreshedWorld,
+  aSettleWithNoUnique,
+  aSource,
+  aTarget,
+  aWorldDeclaringNothing,
+  aWorldDeclaringNoUnique,
+  aWorldWithAFileGone,
+  aWorldWithOnePage,
+  B,
+  bare,
+  C,
+  D,
+  edgeFile,
+  grounded,
+  IMPORTS,
+  IMPORTS_AT,
+  idFile,
+  importFile,
+  linesIn,
+  NAMES_C_BY_ID,
+  NAMES_C_BY_SLUG,
+  NOTE,
+  namingAType,
+  noteShaped,
+  pathBlocked,
+  pathsFiledIn,
+  renamed,
+  retyped,
+  said,
+  settled,
+  shapeFiled,
+  slugFile,
+  stampsApart,
+  TYPE_SLUG,
+  tookAway,
+  untouchedAfter,
+  worldsApart,
+  wrotePages,
+  wroteText,
+} from "akasha/page/index/modules/indexing/indexing.module.test-fixtures.ts"
+import { builtThere } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
+import { readerNow } from "akasha/page/index/rule/index-rule.index.code.ts"
+import {
+  aProperty,
+  aType,
+  bodyOf,
+  butTheStamp,
+  put,
+  scratch,
+  thePage,
+} from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
+
+afterAll(scratch.sweep, 5000)
+
+test("a written page is answered by its id and by its page type and slug", () => {
+  const { tree, root } = bare()
+  const at = settled(root, tree, "a.domain.ts", { id: A, pageTypeSlug: "domain", slug: "a" }, null)
+  const found = { path: relative(tree, at), id: A }
+
+  expect(said(idFile(root, A))).toEqual(found)
+  expect(said(slugFile(root, "domain", "a"))).toEqual(found)
+})
+
+test("a renamed slug withdraws its old entry and leaves the id entry untouched", () => {
+  const { tree, root } = bare()
+  const was = { id: A, pageTypeSlug: "domain", slug: "a" }
+  settled(root, tree, "a.domain.ts", was, null)
+  settled(root, tree, "a.domain.ts", { id: A, pageTypeSlug: "domain", slug: "renamed" }, was)
+
+  expect(existsSync(slugFile(root, "domain", "a"))).toBe(false)
+  expect(existsSync(slugFile(root, "domain", "renamed"))).toBe(true)
+  expect(existsSync(idFile(root, A))).toBe(true)
+})
+
+test("a removed page leaves no entry and no empty directory", () => {
+  const { tree, root } = bare()
+  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const at = settled(root, tree, "a.domain.ts", value, null)
+  tookAway(root, tree, at, bodyOf(value))
+
+  expect(existsSync(idFile(root, A))).toBe(false)
+  expect(existsSync(slugFile(root, "domain", "a"))).toBe(false)
+  expect(existsSync(join(root, "identity", "page-type", "domain"))).toBe(false)
+})
+
+test("two pages carrying one value leave two lines in one file", () => {
+  const { tree, root } = grounded()
+  settled(root, tree, "one.domain.ts", { id: A, pageTypeSlug: "domain", slug: "same" }, null)
+  settled(root, tree, "two.domain.ts", { id: B, pageTypeSlug: "domain", slug: "same" }, null)
+
+  expect(linesIn(slugFile(root, "domain", "same")).length).toBe(2)
+})
+
+test("a property that changes its shape changes what its entry says and where it is filed", () => {
+  const { tree, root } = grounded()
+  const at = settled(root, tree, ...NOTE, null)
+  expect(shapeFiled(root, "relation-property", "note")).toEqual(
+    noteShaped("relation-property", "domain")
+  )
+
+  tookAway(root, tree, at, bodyOf(NOTE[1]))
+  settled(root, tree, ...aProperty("8", "note", "text-property"), null)
+
+  expect(shapeFiled(root, "relation-property", "note")).toBe(null)
+  expect(shapeFiled(root, "text-property", "note")).toEqual(noteShaped("text-property", null))
+})
+
+test("a removed property leaves no shape of its own and leaves the rest in place", () => {
+  const { tree, root } = grounded()
+  const at = settled(root, tree, ...NOTE, null)
+  tookAway(root, tree, at, bodyOf(NOTE[1]))
+
+  expect(shapeFiled(root, "relation-property", "note")).toBe(null)
+  expect(shapeFiled(root, "relation-property", "part-slugs")).not.toBe(null)
+})
+
+test("a value naming its page type is filed under the target's id", () => {
+  const { tree, root } = grounded()
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
+  const at = settled(root, tree, "a.domain.ts", value, null)
+
+  expect(said(edgeFile(root, B, "part-slugs", A))).toEqual({ path: relative(tree, at) })
+})
+
+test("a name reaching a page type the settle adds is filed, then and later", () => {
+  const { tree, root } = grounded()
+  wrotePages(root, tree, [TYPE_SLUG])
+
+  expect(wrotePages(root, tree, [aType(D, "probe", ["page"]), namingAType("probe")])).toEqual([])
+  expect(existsSync(edgeFile(root, D, "type-slug", A))).toBe(true)
+  expect(wrotePages(root, tree, [namingAType("probe")])).toEqual([])
+  expect(wrotePages(root, tree, [namingAType("gone")]).join(" ")).toMatch(/slug `gone`/)
+})
+
+test("a bare value reaches a page type extending the one its property names", () => {
+  const { tree, root } = grounded()
+  settled(root, tree, "a.domain.ts", NAMES_C_BY_SLUG, null)
+
+  expect(existsSync(edgeFile(root, C, "part-slugs", A))).toBe(true)
+})
+
+test("a retargeted value withdraws the edge it left", () => {
+  const { tree, root } = grounded()
+  const was = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
+  settled(root, tree, "a.domain.ts", was, null)
+  settled(root, tree, "a.domain.ts", NAMES_C_BY_ID, was)
+
+  expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
+  expect(existsSync(edgeFile(root, C, "part-slugs", A))).toBe(true)
+})
+
+test("renaming a page and the page naming it by slug leaves no line for where it was", () => {
+  const { tree, root } = grounded()
+  expect(wrotePages(root, tree, [aTarget("was"), aSource("from", "was")])).toEqual([])
+  const edge = edgeFile(root, D, "part-slugs", A)
+  expect(linesIn(edge)).toEqual(['{"path":"from.domain.ts"}'])
+
+  renamed(root, tree, [
+    ["was.domain.ts", aTarget("now")],
+    ["from.domain.ts", aSource("to", "now")],
+  ])
+
+  expect(linesIn(edge)).toEqual(['{"path":"to.domain.ts"}'])
+})
+
+test("a page moved on its own keeps one edge naming where it moved to", () => {
+  const { tree, root } = grounded()
+  expect(wrotePages(root, tree, [aSource("from", "b")])).toEqual([])
+  const edge = edgeFile(root, B, "part-slugs", A)
+  expect(linesIn(edge)).toEqual(['{"path":"from.domain.ts"}'])
+
+  expect(renamed(root, tree, [["from.domain.ts", aSource("to", "b")]])).toEqual([])
+
+  expect(linesIn(edge)).toEqual(['{"path":"to.domain.ts"}'])
+})
+
+test("a value the change withdraws that would not resolve before it is reported", () => {
+  const { tree, root } = grounded()
+  expect(wrotePages(root, tree, [aSource("from", "ghost")]).join(" ")).toMatch(/slug `ghost`/)
+
+  expect(renamed(root, tree, [["from.domain.ts", aSource("to", "b")]]).join(" ")).toMatch(
+    /slug `ghost`/
+  )
+})
+
+test("a page type renamed in the same change withdraws the edge a bare value left", () => {
+  const { tree, root } = grounded()
+  const d = thePage({ id: D, pageTypeSlug: "domain", slug: "d", domainSlug: "c" })
+  expect(wrotePages(root, tree, [d])).toEqual([])
+  const edge = edgeFile(root, C, "domain-slug", D)
+  expect(linesIn(edge)).toEqual(['{"path":"d.domain.ts"}'])
+
+  retyped(root, tree, "module.page-type.ts", "unit.page-type.ts", ["d.domain.ts"])
+
+  expect(existsSync(edge)).toBe(false)
+})
+
+test("a bare value narrowing to more than one page is refused rather than resolved", () => {
+  const { tree, root } = grounded()
+  settled(root, tree, "b.module.ts", { id: D, pageTypeSlug: "module", slug: "b" }, null)
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["b"] }
+  const indexing = indexingAt(root, tree)
+  indexing.wrote(put(tree, "a.domain.ts", bodyOf(value)), bodyOf(value), null)
+
+  expect(indexing.settle().join(" ")).toMatch(/narrows to 2 pages/)
+  expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
+})
+
+test("a refresh from the pages agrees with the index a write left but for the reader", () => {
+  const { landed, rebuilt } = worldsApart()
+  expect(existsSync(importFile(landed, "deep/a.module.ts"))).toBe(true)
+  expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everyFileUnder(landed)))
+})
+
+test("the refresh names the reader that filed the rules and a write names none", () => {
+  const { landed, rebuilt } = stampsApart()
+  expect(rebuilt.length).toBe(1)
+  expect(rebuilt[0] ?? "").toContain(readerNow())
+  expect(landed).toEqual([])
+})
+
+test("pages carrying no property that declares a unique are refused rather than filed empty", () => {
+  const { tree, root } = aWorldDeclaringNoUnique()
+
+  expect(() => refreshedFrom(tree, root, tree)).toThrow("no property carrying a `unique`")
+})
+
+test("a settle over pages declaring no unique is refused rather than filed empty", () => {
+  expect(() => aSettleWithNoUnique().settle()).toThrow("no property carrying a `unique`")
+})
+
+test("a world carrying a page and declaring no property at all is refused", () => {
+  const { tree, root } = aWorldDeclaringNothing()
+
+  expect(() => refreshedFrom(tree, root, tree)).toThrow("no property carrying a `unique`")
+})
+
+test("a refresh that threw names the stages it finished and the file it had in hand", () => {
+  const { tree, root } = aWorldWithOnePage()
+  pathBlocked(root)
+  const done: string[] = []
+
+  expect(() => refreshedFrom(tree, root, tree, true, done)).toThrow()
+
+  expect(done[0] ?? "").toMatch(/^identity — \d+ files? written$/)
+  expect(done[done.length - 1] ?? "").toMatch(/^value — \d+ files? written, `\S+` in hand$/)
+})
+
+test("a refresh passes over a file gone before its body is read", () => {
+  const { tree, root } = aWorldWithAFileGone()
+
+  refreshedFrom(tree, root, tree)
+
+  expect(existsSync(idFile(root, A))).toBe(true)
+})
+
+test("a refresh takes away an entry no page carries", () => {
+  const { tree, root } = aWorldWithOnePage()
+  refreshedFrom(tree, root, tree)
+
+  const stale = slugFile(root, "domain", "gone")
+  mkdirSync(dirname(stale), { recursive: true })
+  writeFileSync(stale, `${JSON.stringify({ path: "nowhere", id: C })}\n`)
+  refreshedFrom(tree, root, tree)
+
+  expect(existsSync(stale)).toBe(false)
+  expect(existsSync(slugFile(root, "domain", "a"))).toBe(true)
+})
+
+test("a body that drops an import loses that edge and keeps the one it kept", () => {
+  const { tree, root } = bare()
+  wroteText(root, tree, IMPORTS_AT, IMPORTS, null)
+  wroteText(root, tree, IMPORTS_AT, 'import { b } from "./b.ts"\n', IMPORTS)
+
+  expect(existsSync(importFile(root, "c.ts"))).toBe(false)
+  expect(linesIn(importFile(root, "d/b.ts"))).toEqual([`{"path":"${IMPORTS_AT}"}`])
+})
+
+test("a file taken away leaves none of the edges it left", () => {
+  const { tree, root } = bare()
+  const at = wroteText(root, tree, IMPORTS_AT, IMPORTS, null)
+  expect(existsSync(importFile(root, "c.ts"))).toBe(true)
+
+  tookAway(root, tree, at, IMPORTS)
+
+  expect(existsSync(join(root, "import"))).toBe(false)
+})
+
+test("a file a page property holds is not loaded, so it is neither run nor read as a page", () => {
+  const { indexing, root, ran } = aFileHeldNotLoaded()
+
+  expect(indexing.settle()).toEqual([])
+  expect(existsSync(ran)).toBe(false)
+  expect(existsSync(idFile(root, D))).toBe(false)
+})
+
+test("a page whose body will not load is reported rather than passed over", () => {
+  const { tree, root } = grounded()
+
+  const indexing = indexingAt(root, tree)
+  indexing.wrote(join(tree, "broken.domain.ts"), "the new body", null)
+
+  const noted = indexing.settle()
+  expect(noted.length).toBe(1)
+  expect(noted[0] ?? "").toMatch(/did not load/)
+})
+
+test("a path the index stores is relative to the repository root", () => {
+  const { tree, root } = grounded()
+  settled(root, tree, "deep/a.module.ts", A_WITH_CODE, null)
+
+  const held = pathsFiledIn(root)
+  expect(held.length).toBeGreaterThan(0)
+  for (const one of held) expect(one.startsWith("/")).toBe(false)
+})
+
+test("a unique kind respelled to the scope it already named files nothing for a page left alone", () => {
+  expect(untouchedAfter("page")).toBe(false)
+  expect(untouchedAfter("page-type")).toBe(true)
+})
+
+test("a refresh that ran through leaves the index saying it is whole", () => {
+  expect(builtThere(aRefreshedWorld().root)).toBe(true)
+})
+
+test("a refresh that stopped part way leaves the index saying nothing", () => {
+  const { tree, root } = aRefreshBlocked()
+
+  expect(() => refreshedFrom(tree, root, tree)).toThrow()
+
+  expect(builtThere(root)).toBe(false)
+})

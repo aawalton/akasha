@@ -1,5 +1,5 @@
 import { seatEditsAt } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { noPageSaid } from "akasha/command/modules/change-acting/change-acting.module.code.ts"
 import { argumentsIn } from "akasha/command/modules/change-running/change-running.module.code.ts"
@@ -8,7 +8,7 @@ import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.
 import { pathIn } from "akasha/command/pages/change/show/change-show.command.code.ts"
 import { showingRecords } from "akasha/command/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.code.ts"
 import { changeSubagentShow as page } from "akasha/command/pages/change/subagent/show/change-subagent-show.command.ts"
-import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 
 const NO_FLAGS = "a show takes its arguments piped in, and nothing on the command line"
 

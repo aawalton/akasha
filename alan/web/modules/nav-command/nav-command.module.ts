@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const navCommand = {
   id: "01a0655d-dab8-766a-bd17-37923d93e5a3",

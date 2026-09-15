@@ -10,9 +10,9 @@ import {
 import { dirname, join } from "node:path"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
-import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { valueIn } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
+import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const LINKED_AT = "linkedAt"
 

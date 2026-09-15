@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { linesOf, windowOf } from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
+import { linesOf, windowOf } from "akasha/check/modules/measuring/check-measuring.module.code.ts"
 import {
   agoOf,
   DAY,
   HOUR,
   NOW,
   spacedOnce,
-} from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
+} from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
 import {
   costsIn,
   foundIn,
@@ -20,7 +20,7 @@ import {
   THREE,
   TWO,
 } from "akasha/command/pages/measure/command/modules/command-measuring/command-measuring.module.test-fixtures.ts"
-import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

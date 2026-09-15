@@ -6,8 +6,8 @@ import type { SentenceMark } from "akasha/alan/harness/voice-core/modules/mark-s
 import { parseHlsExtinf } from "akasha/alan/web/modules/hls-extinf/hls-extinf.module.code.ts"
 import { hlsPlaylistObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import type { ObjectStore } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
-import { getPage } from "akasha/pages/access/modules/get/get.module.code.ts"
-import { getMediaConfig } from "akasha/pages/access/modules/page-type-config/page-type-config.module.code.ts"
+import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
+import { getMediaConfig } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
 
 async function readReadAloudPlaylist(
   store: ObjectStore,

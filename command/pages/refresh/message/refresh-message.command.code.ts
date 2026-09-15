@@ -2,7 +2,7 @@ import {
   mineMessages,
   saidOf,
 } from "akasha/alan/track/daily/modules/day-messages-mining/day-messages-mining.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import {
   answering,
   DATA,

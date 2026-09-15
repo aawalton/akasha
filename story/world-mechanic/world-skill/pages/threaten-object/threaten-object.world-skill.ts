@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-skill.page-type.types.ts"
+
+export const threatenObject = {
+  id: "01a0657d-0315-7d8b-b170-50549b8e71e1",
+  type: "world-skill",
+  slug: "threaten-object",
+  title: "Threaten Object",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

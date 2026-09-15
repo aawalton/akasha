@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0120Chapter107Reunion = {
+  id: "01a0672c-ed5f-7015-aa0e-640df25d3861",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0120-chapter-107-reunion",
+  title: "Chapter 107 Reunion",
+  story: "story-read/melody-of-mana",
+  position: 120,
+  ownLength: 2220,
+  ownProgress: 2220,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:30:16.045Z",
+  publishedAt: "2022-04-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "882620",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/882620/chapter-107-reunion",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

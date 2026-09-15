@@ -1,5 +1,5 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { dryRun } from "akasha/command/arguments/pages/dry-run.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
 import {
   INPUT,
   OPERATIONAL,

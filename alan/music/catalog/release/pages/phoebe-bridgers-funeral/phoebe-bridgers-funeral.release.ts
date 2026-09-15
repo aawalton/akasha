@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const phoebeBridgersFuneral = {
+  id: "01a0676a-d71e-7047-a57f-49462952c2d0",
+  type: "release",
+  slug: "phoebe-bridgers-funeral",
+  title: "Funeral",
+  partOfCollections: ["artist/phoebe-bridgers"],
+  position: 0,
+  ownLength: 3.704267,
+  ownProgress: 3.704267,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2017-09-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0T7PCmREdhRHHUFCkdojyw",
+      externalLink: "https://open.spotify.com/album/0T7PCmREdhRHHUFCkdojyw",
+    },
+  ],
+} as const satisfies Release

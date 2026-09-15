@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0579Chapter539DalMohra = {
+  id: "01a0672c-ec50-7001-9983-a20c6aabfd1b",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0579-chapter-539-dal-mohra",
+  title: "Chapter 539: Dal’mohra",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 579,
+  ownLength: 3734,
+  ownProgress: 3734,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:32:03.487Z",
+  publishedAt: "2026-02-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3059540",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3059540/chapter-539-dalmohra",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

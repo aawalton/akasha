@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const celticWoman2AncientLand = {
+  id: "01a0676a-d717-7013-b63a-a546988aa9dc",
+  type: "release",
+  slug: "celtic-woman-2-ancient-land",
+  title: "Ancient Land",
+  partOfCollections: ["artist/celtic-woman"],
+  position: 0,
+  ownLength: 58.410567,
+  ownProgress: 58.410567,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-09-28",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6JP6VJccHYWKPckmRpayOP",
+      externalLink: "https://open.spotify.com/album/6JP6VJccHYWKPckmRpayOP",
+    },
+  ],
+} as const satisfies Release

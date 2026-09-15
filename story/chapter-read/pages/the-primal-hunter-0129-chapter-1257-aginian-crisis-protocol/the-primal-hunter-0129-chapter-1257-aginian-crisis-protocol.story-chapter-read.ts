@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0129Chapter1257AginianCrisisProtocol = {
+  id: "01a06730-4e0d-7224-a29d-5b067f4cd27f",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0129-chapter-1257-aginian-crisis-protocol",
+  title: "Chapter 1257 - Aginian Crisis Protocol",
+  story: "story-read/the-primal-hunter",
+  position: 129,
+  ownLength: 2877,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3063309",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3063309/chapter-1257-aginian-crisis-protocol",
+    },
+  ],
+  publishedAt: "2026-02-17",
+  ownProgress: 2877,
+  completedAt: "2026-06-29T19:34:36.446Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

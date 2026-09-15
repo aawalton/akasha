@@ -1,0 +1,12 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const whatIInventedAndWhatIRead = {
+  id: "01a047c8-d168-7d39-8148-fb06ab90c551",
+  type: "all-about-alan-topic",
+  slug: "what-i-invented-and-what-i-read",
+  title: "What I Invented And What I Read",
+  definition: "the line between what I took from the literature and what I worked out myself",
+  parents: ["all-about-alan-topic/why-i-keep-my-data-in-files"],
+  settled:
+    "I did not invent the idea that agents do better with files. I saw research papers on that.\n\nI have not seen anyone take it to its conclusion and replace Postgres with agent-readable files. Even if I was not the first to invent that solution, I invented it independently.",
+} as const satisfies AllAboutAlanTopic

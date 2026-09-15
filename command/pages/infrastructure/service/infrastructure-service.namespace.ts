@@ -1,4 +1,4 @@
-import type { Namespace } from "akasha/command/namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/command/namespace/namespace.page-type.types.ts"
 
 export const infrastructureService = {
   id: "01a0940a-15ff-7e3e-8ad9-8be0509a9a8a",

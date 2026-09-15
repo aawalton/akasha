@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const perceiving = {
+  id: "01a06828-cb92-72da-b8dd-283125f0a0f9",
+  type: "text-property",
+  slug: "perceiving",
+  propertySlug: "perceiving",
+  definition: "what an element takes in",
+  maxLength: 2000,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

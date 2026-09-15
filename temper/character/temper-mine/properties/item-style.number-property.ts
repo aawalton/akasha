@@ -1,0 +1,11 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const itemStyle = {
+  id: "01a05fcd-f551-7d3e-b2da-c159378bc326",
+  type: "number-property",
+  slug: "item-style",
+  propertySlug: "style",
+  definition: "the cultural style an item is made in",
+  max: null,
+  types: "ts",
+} as const satisfies NumberProperty

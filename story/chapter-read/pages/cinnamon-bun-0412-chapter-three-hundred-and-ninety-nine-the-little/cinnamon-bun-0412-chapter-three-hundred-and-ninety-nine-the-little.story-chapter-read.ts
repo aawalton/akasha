@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0412ChapterThreeHundredAndNinetyNineTheLittle = {
+  id: "01a0672c-eb1f-7012-bb6b-86abd3c4f652",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0412-chapter-three-hundred-and-ninety-nine-the-little",
+  title: "Chapter Three Hundred and Ninety-Nine - The Little Cheese of Airship Inspections",
+  story: "story-read/cinnamon-bun",
+  position: 412,
+  ownLength: 1982,
+  unit: "unit/words",
+  publishedAt: "2023-04-20",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1186658",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1186658/chapter-three-hundred-and-ninety-nine-the-little",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

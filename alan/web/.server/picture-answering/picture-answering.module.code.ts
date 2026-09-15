@@ -11,17 +11,17 @@ import {
 } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
 import { pictureObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
-import { captureError } from "akasha/pages/access/modules/capture-error/capture-error.module.code.ts"
+import { captureError } from "akasha/page/access/modules/capture-error/capture-error.module.code.ts"
 import {
   askingFor,
   type Fetcher,
   type Sleeper,
   writingFor,
-} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
   type Enrolment,
   personSlugForAccount,
-} from "akasha/persons/modules/enrolment/person-enrolment.module.code.ts"
+} from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"

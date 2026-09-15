@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const gamerGirlEvolution002626TheMistMilitaryOutpost3 = {
+  id: "01a06731-b0dd-700b-b5c5-06a56e700f1e",
+  type: "story-chapter-read",
+  slug: "gamer-girl-evolution-0026-26-the-mist-military-outpost-3",
+  title: "26 - The Mist Military Outpost (3)",
+  story: "story-read/gamer-girl-evolution",
+  position: 26,
+  ownLength: 1944,
+  ownProgress: 1944,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:06:25.025Z",
+  publishedAt: "2025-10-31",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2720297",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2720297/26-the-mist-military-outpost-3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

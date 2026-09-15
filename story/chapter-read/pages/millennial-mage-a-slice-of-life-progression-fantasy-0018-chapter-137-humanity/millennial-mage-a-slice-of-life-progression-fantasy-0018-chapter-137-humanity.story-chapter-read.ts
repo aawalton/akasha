@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0018Chapter137Humanity = {
+  id: "01a06731-ad77-7000-881e-38644e2e86b6",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0018-chapter-137-humanity",
+  title: "Chapter: 137 - Humanity",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 18,
+  ownLength: 3014,
+  ownProgress: 3014,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:35:52.216Z",
+  publishedAt: "2022-06-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "936507",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/936507/chapter-137-humanity",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

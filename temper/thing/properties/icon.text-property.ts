@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const icon = {
+  id: "01a05fac-7584-7877-a778-efd8ee361ce1",
+  type: "text-property",
+  slug: "icon",
+  propertySlug: "icon",
+  definition: "the icon a thing is shown with",
+  maxLength: 200,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

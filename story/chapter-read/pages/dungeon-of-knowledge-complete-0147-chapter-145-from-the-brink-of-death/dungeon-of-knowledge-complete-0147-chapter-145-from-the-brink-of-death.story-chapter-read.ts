@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0147Chapter145FromTheBrinkOfDeath = {
+  id: "01a0672c-eb92-7000-acbd-93a148ff788e",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0147-chapter-145-from-the-brink-of-death",
+  title: "Chapter 145: From the Brink of Death",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 147,
+  ownLength: 5319,
+  ownProgress: 5319,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:15:55.305Z",
+  publishedAt: "2024-10-20",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1859562",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1859562/chapter-145-from-the-brink-of-death",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

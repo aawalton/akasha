@@ -1,0 +1,24 @@
+import type { BooleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.types.ts"
+
+export const temporary = {
+  id: "01a08be4-8304-781b-9ab3-9259cf4cdafd",
+  type: "boolean-property",
+  slug: "temporary",
+  propertySlug: "temporary",
+  definition: "whether what a change writes is meant to be taken away again",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A change saying nothing here writes what is meant to stay.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "What a temporary change writes answers to no page of its own.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Whoever writes it takes it away again.",
+    },
+  ],
+  types: "ts",
+} as const satisfies BooleanProperty

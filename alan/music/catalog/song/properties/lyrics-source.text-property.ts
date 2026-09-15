@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const lyricsSource = {
+  id: "01a06243-144b-700a-abd4-ff8f420a1d96",
+  type: "text-property",
+  slug: "lyrics-source",
+  propertySlug: "lyrics-source",
+  definition: "the provider the words of a song were fetched from",
+  maxLength: 100,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

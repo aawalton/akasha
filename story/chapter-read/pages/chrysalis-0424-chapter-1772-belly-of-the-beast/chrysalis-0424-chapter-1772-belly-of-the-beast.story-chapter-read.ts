@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0424Chapter1772BellyOfTheBeast = {
+  id: "01a0672c-eb6a-7003-ae19-652e278236d7",
+  type: "story-chapter-read",
+  slug: "chrysalis-0424-chapter-1772-belly-of-the-beast",
+  title: "Chapter 1772 - Belly of the Beast",
+  story: "story-read/chrysalis",
+  position: 424,
+  ownLength: 962,
+  unit: "unit/words",
+  publishedAt: "2026-04-15",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3275087",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3275087/chapter-1772-belly-of-the-beast",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,13 @@
+import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule/code/category-rule-code.page-type.types.ts"
+
+export const costcoGas = {
+  id: "01a0655b-fcd0-7006-895e-7ad731347729",
+  type: "category-rule-code",
+  slug: "costco-gas",
+  title: "Costco gas",
+  matches: [
+    { key: "merchant", comparison: "is", values: ["costco gas"] },
+    { key: "sign", comparison: "is", values: ["negative"] },
+  ],
+  category: "monarch-category/transportation",
+} as const satisfies CategoryRuleCode

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bookboundBunny0003B2Chapter1JourneyOfTime = {
+  id: "01a06731-b0c9-7004-a3ff-b814b3d3f6fd",
+  type: "story-chapter-read",
+  slug: "bookbound-bunny-0003-b2-chapter-1-journey-of-time",
+  title: "B2 - Chapter 1 - Journey of Time",
+  story: "story-read/bookbound-bunny",
+  position: 3,
+  ownLength: 2492,
+  unit: "unit/words",
+  publishedAt: "2025-07-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2448050",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/2448050/b2-chapter-1-journey-of-time",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

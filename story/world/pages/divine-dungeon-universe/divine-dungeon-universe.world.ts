@@ -1,0 +1,8 @@
+import type { World } from "akasha/story/world/world.page-type.types.ts"
+
+export const divineDungeonUniverse = {
+  id: "01a063d8-61f2-7e0e-871d-74c8f6a8da80",
+  type: "world",
+  slug: "divine-dungeon-universe",
+  title: "Divine Dungeon Universe",
+} as const satisfies World

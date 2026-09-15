@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theWanderingInn0408InterludeTheHangoverAfter = {
+  id: "01a0659d-4ce9-7cb5-859f-58bf5a9fb2dc",
+  type: "story-chapter-read",
+  slug: "the-wandering-inn-0408-interlude-the-hangover-after",
+  title: "Interlude - The Hangover After",
+  story: "story-read/the-wandering-inn",
+  position: 408,
+  ownLength: 4420,
+  ownProgress: 4420,
+  unit: "unit/words",
+  publishedAt: "2020-03-09",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/03/09/interlude-the-hangover-after/",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const justAddMana0013Chapter13IntroductionToTheStandardArrayPt3 = {
+  id: "01a06731-ada4-7000-908f-9bbc68d3f5a7",
+  type: "story-chapter-read",
+  slug: "just-add-mana-0013-chapter-13-introduction-to-the-standard-array-pt-3",
+  title: "Chapter 13 — Introduction to the Standard Array, Pt 3",
+  story: "story-read/just-add-mana",
+  position: 13,
+  ownLength: 3761,
+  ownProgress: 3761,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:47:57.746Z",
+  publishedAt: "2025-07-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2475788",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2475788/chapter-13-introduction-to-the-standard-array",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

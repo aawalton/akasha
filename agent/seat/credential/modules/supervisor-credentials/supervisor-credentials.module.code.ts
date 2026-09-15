@@ -28,13 +28,13 @@ import {
   LOG,
 } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { guardTick } from "akasha/agent/seat/supervisors/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
-import { readingIn } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
 async function runCredentialPullTick(args: {
   account: string

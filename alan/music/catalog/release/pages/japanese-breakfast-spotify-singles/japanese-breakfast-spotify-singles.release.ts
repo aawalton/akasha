@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const japaneseBreakfastSpotifySingles = {
+  id: "01a0676a-d72a-7008-b133-43eff68419e7",
+  type: "release",
+  slug: "japanese-breakfast-spotify-singles",
+  title: "Spotify Singles",
+  partOfCollections: ["artist/japanese-breakfast"],
+  position: 0,
+  ownLength: 7.95795,
+  ownProgress: 7.95795,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-04-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "132C8QdLHNKEqAUrXiJFlk",
+      externalLink: "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk",
+    },
+  ],
+} as const satisfies Release

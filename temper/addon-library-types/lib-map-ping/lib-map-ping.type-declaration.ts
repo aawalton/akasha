@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "akasha/code/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
 
 export const libMapPing = {
   id: "01a06090-f5b3-7701-82bc-8bc23a5fb89b",

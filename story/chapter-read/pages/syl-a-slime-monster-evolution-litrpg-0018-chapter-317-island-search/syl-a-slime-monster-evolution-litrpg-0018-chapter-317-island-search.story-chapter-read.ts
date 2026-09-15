@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const sylASlimeMonsterEvolutionLitrpg0018Chapter317IslandSearch = {
+  id: "01a06730-4e1a-7fb0-9ac6-39a940351203",
+  type: "story-chapter-read",
+  slug: "syl-a-slime-monster-evolution-litrpg-0018-chapter-317-island-search",
+  title: "Chapter 317 : Island Search",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
+  position: 18,
+  ownLength: 2085,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2787661",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2787661/chapter-317-island-search",
+    },
+  ],
+  publishedAt: "2025-11-24",
+  ownProgress: 2085,
+  completedAt: "2026-06-29T19:42:23.934Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

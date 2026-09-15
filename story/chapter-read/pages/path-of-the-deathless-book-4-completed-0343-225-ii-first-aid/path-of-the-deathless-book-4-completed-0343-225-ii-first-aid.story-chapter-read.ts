@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0343225IiFirstAid = {
+  id: "01a06730-4e5a-733a-8f92-82f9a64ff9b0",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0343-225-ii-first-aid",
+  title: "225 (II) First-Aid",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 343,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2834081/225-ii-first-aid",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

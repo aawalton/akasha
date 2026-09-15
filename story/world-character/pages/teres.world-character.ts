@@ -1,0 +1,12 @@
+import type { WorldCharacter } from "akasha/story/world-character/world-character.page-type.types.ts"
+
+export const teres = {
+  id: "01a06580-2495-75c6-a707-59fb3e45232a",
+  type: "world-character",
+  slug: "teres",
+  title: "Teres",
+  world: "world/the-wandering-inn",
+  eventCount: 4,
+  firstChapter: 454,
+  lastChapter: 454,
+} as const satisfies WorldCharacter

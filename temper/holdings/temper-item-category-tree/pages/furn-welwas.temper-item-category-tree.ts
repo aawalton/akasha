@@ -1,0 +1,11 @@
+import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-category-tree/temper-item-category-tree.page-type.types.ts"
+
+export const furnWelwas = {
+  id: "01a05fcf-f81b-723e-9f34-5cd52a02a314",
+  type: "temper-item-category-tree",
+  slug: "furn-welwas",
+  title: "Welwas",
+  parent: "furn-mounts",
+  displayOrder: 22,
+  furnitureSubcategoryIds: [213],
+} as const satisfies TemperItemCategoryTree

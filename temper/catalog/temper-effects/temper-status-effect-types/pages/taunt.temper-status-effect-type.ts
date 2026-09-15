@@ -1,9 +1,0 @@
-import type { TemperStatusEffectType } from "akasha/temper/catalog/temper-effects/temper-status-effect-types/temper-status-effect-type.page-type.types.ts"
-
-export const taunt = {
-  id: "019e5a51-2928-7910-bf22-66f6bf6e2171",
-  type: "temper-status-effect-type",
-  slug: "taunt",
-  title: "Taunt",
-  key: "taunt",
-} as const satisfies TemperStatusEffectType

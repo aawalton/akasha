@@ -10,7 +10,7 @@ import {
   resolveShellMediaSrc,
 } from "akasha/alan/web/modules/shell-media-src/shell-media-src.module.code.ts"
 import { Toaster } from "akasha/design/interfaces/primitives/modules/sonner/sonner.module.code.tsx"
-import { PlayingSessionProvider } from "akasha/pages/ui/media/modules/playing-session-context/playing-session-context.module.code.tsx"
+import { PlayingSessionProvider } from "akasha/page/ui/media/modules/playing-session-context/playing-session-context.module.code.tsx"
 import { useMemo } from "react"
 import { Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"

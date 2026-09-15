@@ -1,0 +1,29 @@
+import type { BooleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.types.ts"
+
+export const afterChecks = {
+  id: "01a05031-3a74-7ba8-849b-751fec68738d",
+  type: "boolean-property",
+  slug: "after-checks",
+  propertySlug: "after-checks",
+  definition: "whether a value is worked out after the checks pass rather than before them",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A value worked out after the checks is spent by no refusal and is seen by no check.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A value worked out before the checks is judged like any other value.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A refusal wastes a value worked out before the checks.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A value the index needs to file a page at all waits for nothing.",
+    },
+  ],
+  types: "ts",
+} as const satisfies BooleanProperty

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0136Chapter134Hunter = {
+  id: "01a0672c-eb87-7001-bb27-a2a4ef5ee6ff",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0136-chapter-134-hunter",
+  title: "Chapter 134: Hunter",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 136,
+  ownLength: 7143,
+  ownProgress: 7143,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:31:35.624Z",
+  publishedAt: "2024-09-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1817900",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1817900/chapter-134-hunter",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

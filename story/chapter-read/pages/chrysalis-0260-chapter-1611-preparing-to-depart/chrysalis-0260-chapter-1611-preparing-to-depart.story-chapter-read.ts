@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0260Chapter1611PreparingToDepart = {
+  id: "01a0672c-eb64-7005-97e2-2f2185b43d7f",
+  type: "story-chapter-read",
+  slug: "chrysalis-0260-chapter-1611-preparing-to-depart",
+  title: "Chapter 1611 - Preparing to Depart",
+  story: "story-read/chrysalis",
+  position: 260,
+  ownLength: 944,
+  ownProgress: 944,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:52:08.106Z",
+  publishedAt: "2025-07-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2474665",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2474665/chapter-1611-preparing-to-depart",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

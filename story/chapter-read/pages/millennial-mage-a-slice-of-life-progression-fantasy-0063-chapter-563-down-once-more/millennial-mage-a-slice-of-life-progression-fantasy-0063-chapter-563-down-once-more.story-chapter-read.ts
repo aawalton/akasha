@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0063Chapter563DownOnceMore = {
+  id: "01a06731-adb0-7000-8180-71949585a7c9",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0063-chapter-563-down-once-more",
+  title: "Chapter: 563 - Down Once More",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 63,
+  ownLength: 2905,
+  ownProgress: 2905,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:37:18.758Z",
+  publishedAt: "2025-05-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2283237",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2283237/chapter-563-down-once-more",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

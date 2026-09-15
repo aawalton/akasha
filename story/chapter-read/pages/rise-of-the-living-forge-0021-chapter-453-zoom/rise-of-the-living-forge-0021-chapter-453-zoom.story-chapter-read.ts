@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0021Chapter453Zoom = {
+  id: "01a06730-4e08-7be9-be09-0b3f1445a096",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0021-chapter-453-zoom",
+  title: "Chapter 453: Zoom",
+  story: "story-read/rise-of-the-living-forge",
+  position: 21,
+  ownLength: 1801,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2424480",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/2424480/chapter-453-zoom",
+    },
+  ],
+  publishedAt: "2025-07-10",
+  ownProgress: 1801,
+  completedAt: "2026-06-29T19:59:07.891Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,13 @@
+import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/temper-focus-script/temper-focus-script.page-type.types.ts"
+
+export const physicalDamage = {
+  id: "01a05fce-2953-7f19-92f5-30af7de8a49f",
+  type: "temper-focus-script",
+  slug: "physical-damage",
+  title: "Physical Damage",
+  key: "physical-damage",
+  icon: "/esoui/art/icons/scribing_primary_physical.dds",
+  itemId: 204549,
+  uespId: 1,
+  slotType: "focus-slot",
+} as const satisfies TemperFocusScript

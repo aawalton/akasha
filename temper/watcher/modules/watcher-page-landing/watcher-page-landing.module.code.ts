@@ -2,7 +2,7 @@ import {
   readFiles,
   type readPages,
   writeFiles,
-} from "akasha/pages/query/modules/store-writing/store-writing.module.code.ts"
+} from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 
 export const PAGE_LANDING_WRITER = "temper watcher <watcher@alanwalton.com>"
 

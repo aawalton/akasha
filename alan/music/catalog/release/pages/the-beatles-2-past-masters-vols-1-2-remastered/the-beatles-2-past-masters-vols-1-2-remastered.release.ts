@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theBeatles2PastMastersVols12Remastered = {
+  id: "01a0676a-d726-7064-a490-4635ba691468",
+  type: "release",
+  slug: "the-beatles-2-past-masters-vols-1-2-remastered",
+  title: "Past Masters (Vols. 1 & 2 / Remastered)",
+  partOfCollections: ["artist/the-beatles"],
+  position: 0,
+  ownLength: 93.462717,
+  ownProgress: 93.462717,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1988-03-07",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3GmCXW10kLxmZrEY0JpRlw",
+      externalLink: "https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw",
+    },
+  ],
+} as const satisfies Release

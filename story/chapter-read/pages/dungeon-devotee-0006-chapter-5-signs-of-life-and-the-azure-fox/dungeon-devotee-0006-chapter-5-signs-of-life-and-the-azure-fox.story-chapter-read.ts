@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonDevotee0006Chapter5SignsOfLifeAndTheAzureFox = {
+  id: "01a06731-b0e3-7000-98f4-6bd5df194cfd",
+  type: "story-chapter-read",
+  slug: "dungeon-devotee-0006-chapter-5-signs-of-life-and-the-azure-fox",
+  title: "Chapter 5: Signs of Life and the Azure Fox",
+  story: "story-read/dungeon-devotee",
+  position: 6,
+  ownLength: 8341,
+  ownProgress: 8341,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:37:13.398Z",
+  publishedAt: "2022-02-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "850365",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/850365/chapter-5-signs-of-life-and-the-azure-fox",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

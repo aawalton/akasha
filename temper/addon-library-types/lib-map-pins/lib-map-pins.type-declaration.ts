@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "akasha/code/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
 
 export const libMapPins = {
   id: "01a06090-f5b4-7ea1-a581-fa9f67b01a33",

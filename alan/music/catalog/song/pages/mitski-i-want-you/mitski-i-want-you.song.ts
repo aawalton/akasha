@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const mitskiIWantYou = {
+  id: "019f0ea1-9269-7559-a728-5a08daadd92c",
+  type: "song",
+  slug: "mitski-i-want-you",
+  title: "I Want You",
+  artist: "artist/mitski",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6f0dbf8f-4f7a-49c8-8154-a7fe115b6e9d",
+      externalLink: "https://musicbrainz.org/work/6f0dbf8f-4f7a-49c8-8154-a7fe115b6e9d",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "solo",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

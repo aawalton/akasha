@@ -1,4 +1,4 @@
-import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
 export const enchantmentMultiplier = {
   id: "01a05fd1-d43a-7f89-a21f-954013b3adfe",

@@ -1,0 +1,25 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const fitnessEquipmentLoads = {
+  id: "01a06865-7f45-7d1f-b0db-1e4af78cdf9c",
+  type: "number-property",
+  slug: "fitness-equipment-loads",
+  propertySlug: "loads",
+  definition: "the weights a piece of kit is available at, in pounds",
+  max: null,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The loads are in the order the loads are climbed from lightest to heaviest.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A piece whose load is not chosen in steps names no load.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A load is the weight one side carries rather than the weight the pair has.",
+    },
+  ],
+  types: "ts",
+} as const satisfies NumberProperty

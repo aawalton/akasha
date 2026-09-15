@@ -1,4 +1,4 @@
-import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { DoctrineVersion } from "akasha/story/engine/doctrine/properties/doctrine-version.number-property.types.ts"
 import type { GateDimensions } from "akasha/story/engine/doctrine/properties/gate-dimensions.file-property.types.ts"
 import type { Policies } from "akasha/story/engine/doctrine/properties/policies.file-property.types.ts"

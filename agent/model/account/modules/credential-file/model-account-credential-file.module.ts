@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const modelAccountCredentialFile = {
   id: "01a0686d-236a-7000-8b8f-acbdc729fc69",

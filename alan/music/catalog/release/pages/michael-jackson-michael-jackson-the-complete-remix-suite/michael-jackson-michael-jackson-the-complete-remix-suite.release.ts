@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const michaelJacksonMichaelJacksonTheCompleteRemixSuite = {
+  id: "01a0676a-d724-705b-96f2-bc38ebb171d0",
+  type: "release",
+  slug: "michael-jackson-michael-jackson-the-complete-remix-suite",
+  title: "Michael Jackson: The Complete Remix Suite",
+  partOfCollections: ["artist/michael-jackson"],
+  position: 0,
+  ownLength: 85.517683,
+  ownProgress: 85.517683,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2009-10-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5GhKGrFaw4V1oSvnkHmn2s",
+      externalLink: "https://open.spotify.com/album/5GhKGrFaw4V1oSvnkHmn2s",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

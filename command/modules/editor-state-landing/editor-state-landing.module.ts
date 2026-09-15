@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const editorStateLanding = {
   id: "01a09ca7-7d86-7447-bd3f-e5e996e940ef",
@@ -43,7 +43,7 @@ export const editorStateLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "The pictures are written after the index are level with the change.",
+      statement: "The pictures are written after the indexes are level with the change.",
     },
     {
       invariantKind: "departure",

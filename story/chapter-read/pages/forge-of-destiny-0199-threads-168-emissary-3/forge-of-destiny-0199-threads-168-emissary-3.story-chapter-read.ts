@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const forgeOfDestiny0199Threads168Emissary3 = {
+  id: "01a0672c-eb3c-7000-9938-4bc0f2500ad1",
+  type: "story-chapter-read",
+  slug: "forge-of-destiny-0199-threads-168-emissary-3",
+  title: "Threads 168-Emissary 3",
+  story: "story-read/forge-of-destiny",
+  position: 199,
+  ownLength: 2016,
+  unit: "unit/words",
+  publishedAt: "2022-01-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "816759",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/816759/threads-168-emissary-3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

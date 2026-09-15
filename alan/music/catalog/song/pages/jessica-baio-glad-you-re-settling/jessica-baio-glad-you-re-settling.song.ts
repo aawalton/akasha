@@ -1,0 +1,22 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const jessicaBaioGladYouReSettling = {
+  id: "019ea4f7-8fff-7e62-b235-a49154758147",
+  type: "song",
+  slug: "jessica-baio-glad-you-re-settling",
+  title: "glad you’re settling",
+  artist: "artist/jessica-baio",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "a76db0c1-8a04-4324-9178-91c95a0b17cf",
+      externalLink: "https://musicbrainz.org/recording/a76db0c1-8a04-4324-9178-91c95a0b17cf",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

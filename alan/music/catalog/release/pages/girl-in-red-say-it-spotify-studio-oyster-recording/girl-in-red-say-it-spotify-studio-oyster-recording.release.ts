@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const girlInRedSayItSpotifyStudioOysterRecording = {
+  id: "01a0676a-d728-704b-a468-497f40335642",
+  type: "release",
+  slug: "girl-in-red-say-it-spotify-studio-oyster-recording",
+  title: "Say It - Spotify Studio Oyster Recording",
+  partOfCollections: ["artist/girl-in-red"],
+  position: 0,
+  ownLength: 2.88625,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2020-05-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "16BMvFgwCXraSyFnGONJIc",
+      externalLink: "https://open.spotify.com/album/16BMvFgwCXraSyFnGONJIc",
+    },
+  ],
+} as const satisfies Release

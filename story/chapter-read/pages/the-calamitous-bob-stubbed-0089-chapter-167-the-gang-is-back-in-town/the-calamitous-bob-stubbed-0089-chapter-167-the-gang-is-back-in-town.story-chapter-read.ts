@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0089Chapter167TheGangIsBackInTown = {
+  id: "01a06730-4f8c-7541-8baa-6044b16017f2",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0089-chapter-167-the-gang-is-back-in-town",
+  title: "Chapter 167: The Gang is Back in Town",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 89,
+  ownLength: 7248,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1667668",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1667668/chapter-167-the-gang-is-back-in-town",
+    },
+  ],
+  publishedAt: "2024-06-07",
+  ownProgress: 7248,
+  completedAt: "2026-06-29T21:17:51.819Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

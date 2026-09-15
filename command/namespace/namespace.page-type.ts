@@ -1,0 +1,73 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const namespace = {
+  id: "01a06c7c-54b5-712b-b4a2-9ada10279dff",
+  type: "page-type",
+  slug: "namespace",
+  definition: "a domain gathering the commands whose slugs open with its own and a hyphen",
+  extends: ["page-type/domain"],
+  properties: [{ pageProperty: "text-property/level-name", required: false, many: false }],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A namespace names an area a person narrows by rather than restating a command under it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A namespace's parts are the commands, namespaces and modules spelled under the namespace.\n",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command's slug opens with the slug of its namespace and a hyphen.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A namespace under another namespace opens its own slug with the outer slug and a hyphen.",
+    },
+
+    {
+      invariantKind: "departure",
+      statement: "A command's parent is its namespace rather than a domain.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A namespace under another namespace is a part of the outer namespace.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A namespace under no namespace is a part of the `command` page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every node of the command tree is a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command is reached by walking the parts from the root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The walk takes one word at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word naming no part of the node reached stops the walk.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A namespace adds no scope for a slug to be unique within.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A namespace has no code of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module more than one command of a namespace reaches sits under that namespace.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

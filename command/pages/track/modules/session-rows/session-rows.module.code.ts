@@ -6,10 +6,10 @@ import {
   namesNoDay,
   readMountainWallTime,
 } from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
-import { at } from "akasha/command/arguments/pages/at.argument.ts"
-import { id } from "akasha/command/arguments/pages/id.argument.ts"
-import { last } from "akasha/command/arguments/pages/last.argument.ts"
-import { open } from "akasha/command/arguments/pages/open.argument.ts"
+import { at } from "akasha/command/argument/pages/at.argument.ts"
+import { id } from "akasha/command/argument/pages/id.argument.ts"
+import { last } from "akasha/command/argument/pages/last.argument.ts"
+import { open } from "akasha/command/argument/pages/open.argument.ts"
 import {
   type ActivityDifficulty,
   difficultyForTitle,
@@ -20,12 +20,12 @@ import { dayBefore } from "akasha/command/pages/track/modules/waking/waking.modu
 import {
   statesVersionSeven,
   uuidVersion7,
-} from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
-import { valuesByPath } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
+import { valuesByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   numberAt,
   textIn,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { padTwo } from "akasha/utils/digit-padding/modules/pad-two/pad-two.module.code.ts"
 
 export type LevelsReading =
@@ -48,7 +48,7 @@ export type Addressing = Anchoring & {
   readonly at?: string
 }
 
-export const DAYS_AT = "alan/track/daily/days/pages"
+export const DAYS_AT = "alan/track/daily/day/pages"
 
 const ACTIVITY_TYPE = "session-activity"
 

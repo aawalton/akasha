@@ -1,0 +1,13 @@
+import type { TemperSkillLine } from "akasha/temper/catalog/temper-skill/line/temper-skill-line.page-type.types.ts"
+
+export const companionSharedBow = {
+  id: "019e61dc-f1ed-7126-9cc6-5eb5cb1106b1",
+  type: "temper-skill-line",
+  slug: "companion-shared-bow",
+  title: "Bow",
+  key: "companion-shared-bow",
+  displayOrder: 66,
+  esoSkillLineId: 183,
+  maxRank: 20,
+  subcategoryId: "companion",
+} as const satisfies TemperSkillLine

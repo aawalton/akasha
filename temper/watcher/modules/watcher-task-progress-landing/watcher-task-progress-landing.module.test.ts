@@ -11,10 +11,10 @@ import {
 } from "akasha/temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"
 
 const PAGE_PATH =
-  "temper/progressions/temper-tasks/pages/an-invented-task/an-invented-task.temper-task.ts"
+  "temper/progress/temper-task/pages/an-invented-task/an-invented-task.temper-task.ts"
 
 const ROWS_PATH =
-  "temper/progressions/temper-tasks/pages/an-invented-task/an-invented-task.temper-task.progress.jsonl"
+  "temper/progress/temper-task/pages/an-invented-task/an-invented-task.temper-task.progress.jsonl"
 
 const PAGE = `import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
@@ -46,16 +46,16 @@ const TASK = { slug: "crafting-writs", completionCardId: "daily-writs" }
 const PATHS = new Map([["crafting-writs", PAGE_PATH]])
 
 const CHARACTER_PAGE =
-  "temper/characters/temper-account-characters/pages/durene/durene.temper-account-character.ts"
+  "temper/character/temper-account-character/pages/durene/durene.temper-account-character.ts"
 
 const CHARACTER_COMPLETION =
-  "temper/characters/temper-account-characters/pages/durene/durene.temper-account-character.completion.json"
+  "temper/character/temper-account-character/pages/durene/durene.temper-account-character.completion.json"
 
 const ACCOUNT_PAGE =
-  "temper/characters/temper-accounts/pages/an-account/an-account.temper-account.ts"
+  "temper/character/temper-account/pages/an-account/an-account.temper-account.ts"
 
 const ACCOUNT_COMPLETION =
-  "temper/characters/temper-accounts/pages/an-account/an-account.temper-account.completion.json"
+  "temper/character/temper-account/pages/an-account/an-account.temper-account.completion.json"
 
 const CHARACTER_ROW = { slug: "durene", title: "Durene", firstName: "Durene", displayOrder: 10 }
 

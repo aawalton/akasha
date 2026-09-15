@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const graph = {
   id: "01a04fcf-588c-7772-afed-357ed2e459d4",
@@ -14,7 +14,7 @@ export const graph = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The index answer which pages exist.",
+      statement: "The indexes answer which pages exist.",
     },
     {
       invariantKind: "departure",

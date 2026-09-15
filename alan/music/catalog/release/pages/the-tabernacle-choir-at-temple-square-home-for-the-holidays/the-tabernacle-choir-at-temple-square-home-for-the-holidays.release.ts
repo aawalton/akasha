@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theTabernacleChoirAtTempleSquareHomeForTheHolidays = {
+  id: "01a0676a-d720-7054-b546-92a5b3003a9c",
+  type: "release",
+  slug: "the-tabernacle-choir-at-temple-square-home-for-the-holidays",
+  title: "Home for the Holidays",
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
+  position: 0,
+  ownLength: 56.36305,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2013-10-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1FWyEZb5TB3O5lZfCuNxMO",
+      externalLink: "https://open.spotify.com/album/1FWyEZb5TB3O5lZfCuNxMO",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const zaraLarssonEndOfTimeTheRemixes = {
+  id: "01a0676a-d71d-7013-8cbd-cba508be0072",
+  type: "release",
+  slug: "zara-larsson-end-of-time-the-remixes",
+  title: "End of Time (The Remixes)",
+  partOfCollections: ["artist/zara-larsson"],
+  position: 0,
+  ownLength: 19.07065,
+  ownProgress: 19.07065,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-07-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0FDfOSxSBYNksoMRkng7Ao",
+      externalLink: "https://open.spotify.com/album/0FDfOSxSBYNksoMRkng7Ao",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
+} as const satisfies Release

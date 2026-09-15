@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonNoSleepDropGRemix = {
+  id: "01a0676a-d725-7069-960a-9f0ba3698391",
+  type: "release",
+  slug: "ella-henderson-no-sleep-drop-g-remix",
+  title: "No Sleep (Drop G Remix)",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 5.482233,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2023-04-28",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7cftkTm1F6q3heuheJ8g9i",
+      externalLink: "https://open.spotify.com/album/7cftkTm1F6q3heuheJ8g9i",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

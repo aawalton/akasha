@@ -20,11 +20,11 @@ import {
 import {
   mediaTokenSecret,
   verifyMediaToken,
-} from "akasha/pages/ui/media/modules/media-token/media-token.module.code.ts"
+} from "akasha/page/ui/media/modules/media-token/media-token.module.code.ts"
 import {
   MEDIA_VARIANT_PATTERN,
   mediaPageExists,
-} from "akasha/pages/ui/media/modules/serve-media/serve-media.module.code.ts"
+} from "akasha/page/ui/media/modules/serve-media/serve-media.module.code.ts"
 
 async function readPlaylist(
   store: ObjectStore,

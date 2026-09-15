@@ -1,0 +1,50 @@
+import type { ChangeAgent } from "akasha/change/agent/change-agent.page-type.types.ts"
+
+export const renamePageType = {
+  id: "01a0828f-8c20-74d5-b11c-d220948452b4",
+  type: "change-agent",
+  slug: "rename-page-type",
+  changeMode: "change-mode/change-mode-rename",
+  changeTargetType: "change-target-type/page-type",
+  changeTargetSubtype: "change-target-subtype/page-type-page",
+  definition: "one page type renamed, by the partial change renaming a page type",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The kind of page is read from the path rather than from the index.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A path the naming grammar reads as no page file is refused.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page that is no page type is refused here.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The refusal for a page that is no page type names the change renaming a page.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page type is handed to the partial change renaming a page type.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "`plural` is handed on where the caller states `plural`.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "`plural` is left out where the caller states no `plural`.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "Nothing here works out a body of its own.",
+    },
+  ],
+  changeKind: "change-kind/change-checked",
+  maxCpuSeconds: 120,
+  maxMemoryMb: 3072,
+} as const satisfies ChangeAgent

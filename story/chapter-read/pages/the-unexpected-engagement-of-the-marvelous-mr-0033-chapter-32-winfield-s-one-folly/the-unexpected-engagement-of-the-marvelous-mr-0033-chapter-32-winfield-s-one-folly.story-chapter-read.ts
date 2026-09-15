@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theUnexpectedEngagementOfTheMarvelousMr0033Chapter32WinfieldSOneFolly = {
+  id: "01a06730-4e40-7928-b1ec-138a54eab60e",
+  type: "story-chapter-read",
+  slug: "the-unexpected-engagement-of-the-marvelous-mr-0033-chapter-32-winfield-s-one-folly",
+  title: "Chapter 32 - Winfield's One Folly",
+  story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
+  position: 33,
+  ownLength: 1377,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "933959",
+      externalLink:
+        "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/933959/chapter-32-winfields-one-folly",
+    },
+  ],
+  publishedAt: "2022-06-23",
+  prose: "txt",
+} as const satisfies StoryChapterRead

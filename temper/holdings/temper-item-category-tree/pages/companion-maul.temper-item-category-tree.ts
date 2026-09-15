@@ -1,0 +1,11 @@
+import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-category-tree/temper-item-category-tree.page-type.types.ts"
+
+export const companionMaul = {
+  id: "01a05fcf-f7cd-7673-9012-d33fdb37b7ea",
+  type: "temper-item-category-tree",
+  slug: "companion-maul",
+  title: "Maul",
+  parent: "companion-two-handed",
+  displayOrder: 2,
+  weaponTypes: [6],
+} as const satisfies TemperItemCategoryTree

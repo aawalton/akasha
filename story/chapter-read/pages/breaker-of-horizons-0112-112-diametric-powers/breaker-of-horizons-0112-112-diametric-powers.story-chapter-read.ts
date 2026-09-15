@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons0112112DiametricPowers = {
+  id: "01a06731-adae-7000-84c7-a5321e53254e",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0112-112-diametric-powers",
+  title: "112. Diametric Powers",
+  story: "story-read/breaker-of-horizons",
+  position: 112,
+  ownLength: 2016,
+  unit: "unit/words",
+  publishedAt: "2021-05-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "689156",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/689156/112-diametric-powers",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theBeatles2MagicalMysteryTourRemastered = {
+  id: "01a0676a-d724-7028-a4f4-36affbe98ab6",
+  type: "release",
+  slug: "the-beatles-2-magical-mystery-tour-remastered",
+  title: "Magical Mystery Tour (Remastered)",
+  partOfCollections: ["artist/the-beatles"],
+  position: 0,
+  ownLength: 36.547033,
+  ownProgress: 36.547033,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1967-11-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2BtE7qm1qzM80p9vLSiXkj",
+      externalLink: "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj",
+    },
+  ],
+} as const satisfies Release

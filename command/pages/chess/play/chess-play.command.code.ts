@@ -22,11 +22,11 @@ import {
   applyMove,
   evaluate,
 } from "akasha/alan/chess/modules/position/chess-position.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { band as bandArgument } from "akasha/command/arguments/pages/band.argument.ts"
-import { color as colorArgument } from "akasha/command/arguments/pages/color.argument.ts"
-import { fen as fenArgument } from "akasha/command/arguments/pages/fen.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { band as bandArgument } from "akasha/command/argument/pages/band.argument.ts"
+import { color as colorArgument } from "akasha/command/argument/pages/color.argument.ts"
+import { fen as fenArgument } from "akasha/command/argument/pages/fen.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   answering,
   INPUT,
@@ -43,7 +43,7 @@ import {
   writingIn,
 } from "akasha/command/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"
 import { chessPlay as page } from "akasha/command/pages/chess/play/chess-play.command.ts"
-import type { Naming } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const NAMED = [bandArgument, colorArgument, fenArgument, json]
 

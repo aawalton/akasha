@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const rebornAsADemonicTree0070Chapter547FedToTheAbyss = {
+  id: "01a06730-4de5-7e9a-813b-f4b3875750f9",
+  type: "story-chapter-read",
+  slug: "reborn-as-a-demonic-tree-0070-chapter-547-fed-to-the-abyss",
+  title: "Chapter 547: Fed to the Abyss",
+  story: "story-read/reborn-as-a-demonic-tree",
+  position: 70,
+  ownLength: 2631,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3166762",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3166762/chapter-547-fed-to-the-abyss",
+    },
+  ],
+  publishedAt: "2026-03-18",
+  prose: "txt",
+} as const satisfies StoryChapterRead

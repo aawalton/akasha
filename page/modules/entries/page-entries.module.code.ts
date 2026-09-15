@@ -1,0 +1,135 @@
+import { readFileSync } from "node:fs"
+import { join } from "node:path"
+import { ENTRY_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
+import { filed } from "akasha/page/modules/file-body/page-file-body.module.code.ts"
+import {
+  besideAt,
+  uncommittedBesideAt,
+} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  partsOf,
+  uncommittedPartsOf,
+} from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+
+const UNKNOWN = "so what the page carries there is unknown rather than nothing"
+
+export type Entried = {
+  readonly key: string
+  readonly propertySlug: string
+  readonly pageTypeSlug: string
+  readonly uncommitted: boolean
+}
+
+export type Rows = { readonly entries: readonly Value[] } | { readonly refused: string }
+
+export function entriedAmong<T extends Entried>(declared: Iterable<T>): readonly T[] {
+  const found: T[] = []
+  for (const one of declared) {
+    if (one.pageTypeSlug === ENTRY_PROPERTY) found.push(one)
+  }
+  return found
+}
+
+export function entriesIn(at: string, text: string): Rows {
+  const found: Value[] = []
+  const lines = text.split("\n")
+  for (let index = 0; index < lines.length; index += 1) {
+    const said = (lines[index] ?? "").trim()
+    if (said === "") continue
+    let held: unknown
+    try {
+      held = JSON.parse(said)
+    } catch {
+      return { refused: `'${at}' holds no JSON on line ${index + 1}, ${UNKNOWN}` }
+    }
+    if (held === null || typeof held !== "object" || Array.isArray(held)) {
+      return { refused: `'${at}' holds no JSON object on line ${index + 1}, ${UNKNOWN}` }
+    }
+    found.push(held as Value)
+  }
+  return { entries: found }
+}
+
+export function entriesAt(
+  root: string,
+  page: string,
+  propertySlug: string,
+  held: string,
+  uncommitted = false
+): Rows {
+  const first = uncommitted
+    ? uncommittedBesideAt(page, propertySlug, held)
+    : besideAt(page, propertySlug, held)
+  if (first === null) return { refused: `'${page}' is no page file, ${UNKNOWN}` }
+  const there = (one: string): boolean => filed(root, one)
+  if (!there(first)) {
+    if (uncommitted) return { entries: [] }
+    return { refused: `'${first}' is named by the page beside it and no file is there, ${UNKNOWN}` }
+  }
+  const found: Value[] = []
+  const parts = uncommitted
+    ? uncommittedPartsOf(page, propertySlug, held, there)
+    : partsOf(page, propertySlug, held, there)
+  for (const at of parts) {
+    const read = entriesIn(at, readFileSync(join(root, at), "utf8"))
+    if ("refused" in read) return read
+    found.push(...read.entries)
+  }
+  return { entries: found }
+}
+
+export type Rowed = Entried & { readonly pagePropertySlug: string }
+
+export type Rowing = {
+  readonly slug: string
+  readonly rows: readonly Value[]
+}
+
+export type Beside = (at: string) => string | null
+
+export function rowsOver(
+  page: string,
+  value: Value,
+  declared: Iterable<Rowed>,
+  bodyAt: Beside
+): readonly Rowing[] {
+  const found: Rowing[] = []
+  const there = (at: string): boolean => bodyAt(at) !== null
+  for (const one of entriedAmong(declared)) {
+    const said = value[one.key]
+    if (typeof said !== "string") continue
+    const parts = one.uncommitted
+      ? uncommittedPartsOf(page, one.propertySlug, said, there)
+      : partsOf(page, one.propertySlug, said, there)
+    const rows: Value[] = []
+    for (const at of parts) {
+      const body = bodyAt(at)
+      if (body === null) continue
+      const read = entriesIn(at, body)
+      if ("refused" in read) continue
+      for (const row of read.entries) rows.push(row)
+    }
+    if (rows.length > 0) found.push({ slug: one.pagePropertySlug, rows })
+  }
+  return found
+}
+
+export function entriedValue(
+  root: string,
+  page: string,
+  value: Value,
+  declared: Iterable<Entried>
+): Value {
+  const held: Record<string, unknown> = {}
+  let turned = false
+  for (const one of entriedAmong(declared)) {
+    const said = value[one.key]
+    if (typeof said !== "string") continue
+    const read = entriesAt(root, page, one.propertySlug, said, one.uncommitted)
+    if ("refused" in read) throw new Error(read.refused)
+    held[one.key] = read.entries
+    turned = true
+  }
+  return turned ? { ...value, ...held } : value
+}

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0083Chapter162RoaringHarrak = {
+  id: "01a06730-4f86-7a94-b871-cf8b4f922efa",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0083-chapter-162-roaring-harrak",
+  title: "Chapter 162: Roaring Harrak",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 83,
+  ownLength: 5149,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1612715",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1612715/chapter-162-roaring-harrak",
+    },
+  ],
+  publishedAt: "2024-04-27",
+  ownProgress: 5149,
+  completedAt: "2026-06-29T21:17:40.391Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

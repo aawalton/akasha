@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const notificationKind = {
+  id: "01a06861-e7cd-7e83-8908-2e79da801f95",
+  type: "text-property",
+  slug: "notification-kind",
+  propertySlug: "kind",
+  definition: "what sort of thing a notification tells a person",
+  maxLength: 100,
+  nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
+} as const satisfies TextProperty

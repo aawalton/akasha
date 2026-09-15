@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0449ChapterFourHundredAndThirtyFiveLetsNotJump = {
+  id: "01a0672c-eb21-700a-beb6-fc2401cb074d",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0449-chapter-four-hundred-and-thirty-five-lets-not-jump",
+  title: "Chapter Four Hundred and Thirty-Five - Let's Not Jump to Conclusions",
+  story: "story-read/cinnamon-bun",
+  position: 449,
+  ownLength: 2015,
+  unit: "unit/words",
+  publishedAt: "2023-09-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1350389",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1350389/chapter-four-hundred-and-thirty-five-lets-not",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

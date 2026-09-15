@@ -1,0 +1,17 @@
+import type { IdentityStatement } from "akasha/alan/self/identity-statement/identity-statement.page-type.types.ts"
+
+export const iHaveToInventManyOfMyOwnSolutions = {
+  id: "019ea810-ade7-7afd-bf7b-12f18afaca46",
+  type: "identity-statement",
+  slug: "i-have-to-invent-many-of-my-own-solutions",
+  title: "I have to invent many of my own solutions",
+  about: "myself",
+  identityStatementLevel: 1,
+  notionId: "135abad415ac424fab700e084ba1c784",
+  parentStatement: "identity-statement/i-am-profoundly-neurodivergent",
+  identityStatementRank: "b-rank",
+  identityStatementStatus: "current",
+  identityStatementTags: ["neurodiversity"],
+  identityStatementValue: "value/wealth",
+  icon: "file-text",
+} as const satisfies IdentityStatement

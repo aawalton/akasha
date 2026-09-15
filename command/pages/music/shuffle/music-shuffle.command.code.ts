@@ -1,9 +1,9 @@
 import type { DeviceOption } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { toggleShuffle } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { deviceId as deviceIdArgument } from "akasha/command/arguments/pages/device-id.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { shuffleState as stateArgument } from "akasha/command/arguments/pages/shuffle-state.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { deviceId as deviceIdArgument } from "akasha/command/argument/pages/device-id.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { shuffleState as stateArgument } from "akasha/command/argument/pages/shuffle-state.argument.ts"
 import {
   answering,
   INPUT,

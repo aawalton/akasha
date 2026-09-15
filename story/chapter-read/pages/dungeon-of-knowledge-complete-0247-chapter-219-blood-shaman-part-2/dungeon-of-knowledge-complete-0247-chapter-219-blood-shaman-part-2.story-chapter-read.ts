@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0247Chapter219BloodShamanPart2 = {
+  id: "01a0672c-ebd1-7001-82fc-93e35bc28e0c",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0247-chapter-219-blood-shaman-part-2",
+  title: "Chapter 219: Blood Shaman (Part 2)",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 247,
+  ownLength: 2399,
+  ownProgress: 2399,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:19:32.904Z",
+  publishedAt: "2025-04-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2179105",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2179105/chapter-219-blood-shaman-part-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

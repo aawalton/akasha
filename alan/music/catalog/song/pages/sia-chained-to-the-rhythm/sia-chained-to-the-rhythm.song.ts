@@ -1,0 +1,20 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const siaChainedToTheRhythm = {
+  id: "019ea4c5-b7d3-79ec-9dff-5011634b83a2",
+  type: "song",
+  slug: "sia-chained-to-the-rhythm",
+  title: "Chained to the Rhythm",
+  artist: "artist/sia",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "c17f57e5-ece0-4635-b1f2-dbff1ab9c6d1",
+      externalLink: "https://musicbrainz.org/work/c17f57e5-ece0-4635-b1f2-dbff1ab9c6d1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: false,
+  written: "collab",
+} as const satisfies Song

@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0286198IEscapees = {
+  id: "01a06730-4e45-7587-8c7a-a5db5cee8201",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0286-198-i-escapees",
+  title: "198 (I) Escapees",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 286,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2772576/198-i-escapees",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

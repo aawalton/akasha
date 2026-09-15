@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const reliabilityNotes = {
+  id: "01a0659e-e27e-7cfc-ba56-e6f573f7789f",
+  type: "text-property",
+  slug: "reliability-notes",
+  propertySlug: "reliability-notes",
+  definition: "how the make's cars hold up",
+  maxLength: 2000,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

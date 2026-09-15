@@ -1,4 +1,4 @@
-import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
+import type { RecordProperty } from "akasha/page/record-property/record-property.page-type.types.ts"
 
 export const proxy = {
   id: "01a0540c-dbbf-7215-9747-624c4ef37e06",

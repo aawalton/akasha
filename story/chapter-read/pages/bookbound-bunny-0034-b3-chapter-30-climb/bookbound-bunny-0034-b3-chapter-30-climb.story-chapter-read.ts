@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bookboundBunny0034B3Chapter30Climb = {
+  id: "01a06731-b0cc-7012-b445-cd588ec173c7",
+  type: "story-chapter-read",
+  slug: "bookbound-bunny-0034-b3-chapter-30-climb",
+  title: "B3 - Chapter 30 - Climb",
+  story: "story-read/bookbound-bunny",
+  position: 34,
+  ownLength: 2183,
+  unit: "unit/words",
+  publishedAt: "2026-04-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3280006",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3280006/b3-chapter-30-climb",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

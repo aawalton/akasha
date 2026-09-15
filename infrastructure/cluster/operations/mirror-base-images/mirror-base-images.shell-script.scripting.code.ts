@@ -1,6 +1,6 @@
-import { fileOf } from "akasha/pages/index/modules/property-file/property-file.module.code.ts"
-import { valuedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
+import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
+import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { upFrom } from "akasha/utils/narrow/modules/up-from/up-from.module.code.ts"
 
 const SCRIPT = "shell-script"

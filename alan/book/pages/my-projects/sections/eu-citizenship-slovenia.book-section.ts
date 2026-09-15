@@ -1,0 +1,14 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const euCitizenshipSlovenia = {
+  id: "01a06594-c689-7003-9753-71ae1c26ea0b",
+  type: "book-section",
+  slug: "eu-citizenship-slovenia",
+  title: "Slovenia — Paths to Citizenship (May 2026)",
+  sectionOf: "book-section/second-passport/eu-citizenship",
+  description:
+    "All paths to Slovenian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (restricted), and current backlogs per path.",
+  partOfCollections: ["book-section/second-passport/eu-citizenship", "alan-book/my-projects"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

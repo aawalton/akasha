@@ -1,0 +1,9 @@
+import type { TemperGuildTrader } from "akasha/temper/holdings/temper-guild-trader/temper-guild-trader.page-type.types.ts"
+
+export const betnikhStonetooth = {
+  id: "019e2fc6-523f-7d83-99ce-ea4ca4a437ca",
+  type: "temper-guild-trader",
+  slug: "betnikh-stonetooth",
+  title: "Betnikh: Stonetooth",
+  kioskId: 46,
+} as const satisfies TemperGuildTrader

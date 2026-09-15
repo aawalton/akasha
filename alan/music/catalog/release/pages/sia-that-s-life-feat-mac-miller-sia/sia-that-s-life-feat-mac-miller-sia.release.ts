@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaThatSLifeFeatMacMillerSia = {
+  id: "01a0676a-d72c-7017-893c-ea91d8796fc8",
+  type: "release",
+  slug: "sia-that-s-life-feat-mac-miller-sia",
+  title: "That's Life (feat. Mac Miller & Sia)",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 3.373167,
+  ownProgress: 3.373167,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2019-06-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1a7behQFUiQ9iHjSJxiZXE",
+      externalLink: "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

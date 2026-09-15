@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0005Chapter5TheStreetRatAndTheManaButterfly = {
+  id: "01a0672c-eb10-7000-b4ad-338c3a58d128",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0005-chapter-5-the-street-rat-and-the-mana-butterfly",
+  title: "Chapter 5: The Street Rat and the Mana Butterfly",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 5,
+  ownLength: 6043,
+  ownProgress: 6043,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:11:10.622Z",
+  publishedAt: "2024-01-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1499836",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499836/chapter-5-the-street-rat-and-the-mana-butterfly",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -4,7 +4,7 @@ import {
   resolveChapterKokoroSegments,
 } from "akasha/alan/web/modules/kokoro-render/kokoro-render.module.code.ts"
 import { resolveMediaPage } from "akasha/alan/web/modules/media-page/media-page.module.code.ts"
-import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
+import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 const SHELL_ORIGINS: readonly string[] = ["https://alanwalton.com", "capacitor://localhost"]
 

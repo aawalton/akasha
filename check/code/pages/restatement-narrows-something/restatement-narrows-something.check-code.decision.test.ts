@@ -1,0 +1,236 @@
+import { afterAll, expect, test } from "bun:test"
+import {
+  ONE,
+  PAGE_TYPE,
+  propertied,
+  RECORD,
+  recording,
+  restating,
+  TEXT,
+  THREE,
+  TWO,
+  typing,
+} from "akasha/check/code/pages/key-names-one-property/key-names-one-property.check-code.decision.test-fixtures.ts"
+import { refusalsOver } from "akasha/check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.code.ts"
+import {
+  rooted,
+  scratch,
+} from "akasha/check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.test-fixtures.ts"
+import {
+  edging,
+  judgingBy,
+  landing,
+  pathFor,
+} from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+
+afterAll(scratch.sweep)
+
+const judged = judgingBy(refusalsOver)
+
+test("a restatement saying again what the type above it says is refused", () => {
+  const root = rooted()
+  const said = restating(
+    root,
+    judged,
+    { required: true, many: false },
+    { required: true, many: false }
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(pathFor(PAGE_TYPE, "under"))
+  expect(said[0]?.reason).toContain("narrows nothing")
+  expect(said[0]?.reason).toContain("`text-property/held`")
+  expect(said[0]?.reason).toContain("`under`")
+  expect(said[0]?.reason).toContain("`over`")
+})
+
+test("a restatement making an optional property required is let through", () => {
+  const root = rooted()
+  const said = restating(
+    root,
+    judged,
+    { required: false, many: false },
+    { required: true, many: false }
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a restatement lowering a max count is let through", () => {
+  const root = rooted()
+  const said = restating(
+    root,
+    judged,
+    { required: true, many: true, maxCount: 20 },
+    { required: true, many: true, maxCount: 5 }
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a restatement binding a max that stood unbounded is let through", () => {
+  const root = rooted()
+  const said = restating(
+    root,
+    judged,
+    { required: true, many: true, maxCount: null },
+    { required: true, many: true, maxCount: 5 }
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a restatement lowering a length is let through", () => {
+  const root = rooted()
+  const said = restating(
+    root,
+    judged,
+    { required: true, many: true, maxCount: null, maxLength: 100 },
+    { required: true, many: true, maxCount: null, maxLength: 50 }
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a restatement taking a value out of the commit is let through", () => {
+  const root = rooted()
+  const said = restating(
+    root,
+    judged,
+    { required: true, many: false },
+    { required: true, many: false, uncommitted: true }
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a restatement taking a value out of the open is let through", () => {
+  const root = rooted()
+  const said = restating(
+    root,
+    judged,
+    { required: true, many: false },
+    { required: true, many: false, secret: true }
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a restatement loosening what is required is left to the check refusing that", () => {
+  const root = rooted()
+  const said = restating(
+    root,
+    judged,
+    { required: true, many: false },
+    { required: false, many: false }
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a restatement raising a max count is left to the check refusing that", () => {
+  const root = rooted()
+  const said = restating(
+    root,
+    judged,
+    { required: true, many: true, maxCount: 5 },
+    { required: true, many: true, maxCount: 20 }
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a restatement turning a property from one to many is left to the check refusing that", () => {
+  const root = rooted()
+  const said = restating(
+    root,
+    judged,
+    { required: true, many: false },
+    { required: true, many: true }
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a restatement raising a length is left to the check refusing that", () => {
+  const root = rooted()
+  const said = restating(
+    root,
+    judged,
+    { required: true, many: true, maxCount: null, maxLength: 50 },
+    { required: true, many: true, maxCount: null, maxLength: 100 }
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a property no type above declares is let through", () => {
+  const root = rooted()
+  typing(root, "over", TWO, null, [])
+  const said = judged(
+    landing(root, {
+      [pathFor(PAGE_TYPE, "under")]: typing(root, "under", ONE, "over", [
+        { pagePropertySlug: "held", required: true, many: false },
+      ]),
+    })
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a page type saying one property twice over is let through", () => {
+  const root = rooted()
+  const said = judged(
+    landing(root, {
+      [pathFor(PAGE_TYPE, "one")]: typing(root, "one", ONE, null, [
+        { pagePropertySlug: "held", required: true, many: false },
+        { pagePropertySlug: "held", required: true, many: false },
+      ]),
+    })
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a record property saying one field twice over is let through", () => {
+  const root = rooted()
+  const said = judged(
+    landing(root, {
+      [pathFor(RECORD, "taking")]: recording(root, "taking", ONE, [
+        { pagePropertySlug: "held", required: true, many: false },
+        { pagePropertySlug: "held", required: true, many: false },
+      ]),
+    })
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a page type is judged when the change carries a property it declares", () => {
+  const root = rooted()
+  const at = pathFor(PAGE_TYPE, "under")
+  typing(root, "over", TWO, null, [{ pagePropertySlug: "held", required: true, many: false }])
+  typing(root, "under", ONE, "over", [{ pagePropertySlug: "held", required: true, many: false }])
+  pageFiled(root, ONE, at)
+  edging(root, THREE, "page-property", ONE, at)
+  const said = judged(
+    landing(root, { [pathFor(TEXT, "held")]: propertied(root, TEXT, "held", THREE) })
+  )
+
+  expect(said.map((one) => one.path)).toEqual([at])
+})
+
+test("a declaration reaching no page property is passed over rather than judged", () => {
+  const root = rooted()
+  typing(root, "over", TWO, null, [{ pagePropertySlug: "nowhere", required: true, many: false }])
+  const said = judged(
+    landing(root, {
+      [pathFor(PAGE_TYPE, "under")]: typing(root, "under", ONE, "over", [
+        { pagePropertySlug: "nowhere", required: true, many: false },
+      ]),
+    })
+  )
+
+  expect(said).toEqual([])
+})

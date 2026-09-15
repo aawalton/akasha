@@ -1,0 +1,22 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const arianaGrandeWithoutLove = {
+  id: "019ea4e4-562f-72e7-bdc8-44976f08d349",
+  type: "song",
+  slug: "ariana-grande-without-love",
+  title: "Without Love",
+  artist: "artist/ariana-grande",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "2802f105-1f19-3538-a716-08efe5abad72",
+      externalLink: "https://musicbrainz.org/work/2802f105-1f19-3538-a716-08efe5abad72",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "derivative",
+  performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

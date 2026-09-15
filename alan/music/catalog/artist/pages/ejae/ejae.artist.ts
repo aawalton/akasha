@@ -1,0 +1,24 @@
+import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.types.ts"
+
+export const ejae = {
+  id: "01a06803-676b-7009-8e70-d18d53808cd9",
+  type: "artist",
+  slug: "ejae",
+  title: "EJAE",
+  partOfCollections: ["artist-collection/artists"],
+  position: 0,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "following",
+  rank: "A",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0RMJOzHDhAKY1o2j0W0vxY",
+      externalLink: "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY",
+      lastSyncedAt: "2026-03-09",
+    },
+  ],
+  tags: ["K-Pop", "Modern Pop"],
+} as const satisfies Artist

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld005294InTheFleshPart2 = {
+  id: "01a06730-4e4e-71da-88ca-d097d3dd48a1",
+  type: "story-chapter-read",
+  slug: "the-new-world-0052-94-in-the-flesh-part-2",
+  title: "94 In the Flesh(part 2)",
+  story: "story-read/the-new-world",
+  position: 52,
+  ownLength: 3618,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "185661",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/185661/94-in-the-fleshpart-2",
+    },
+  ],
+  publishedAt: "2018-01-09",
+  ownProgress: 3618,
+  completedAt: "2026-06-29T21:22:36.577Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

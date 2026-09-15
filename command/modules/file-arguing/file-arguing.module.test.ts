@@ -3,7 +3,7 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import { builtIn, VALUED } from "akasha/command/modules/file-arguing/file-arguing.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import { TERMINAL } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
-import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

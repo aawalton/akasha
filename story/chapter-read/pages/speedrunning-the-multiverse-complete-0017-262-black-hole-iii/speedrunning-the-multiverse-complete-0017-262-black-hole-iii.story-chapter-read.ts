@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const speedrunningTheMultiverseComplete0017262BlackHoleIii = {
+  id: "01a06730-4de0-7615-b2a0-6f5fb8fa595f",
+  type: "story-chapter-read",
+  slug: "speedrunning-the-multiverse-complete-0017-262-black-hole-iii",
+  title: "262. Black Hole (III) ",
+  story: "story-read/speedrunning-the-multiverse-complete",
+  position: 17,
+  ownLength: 1654,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1276422",
+      externalLink:
+        "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1276422/262-black-hole-iii",
+    },
+  ],
+  publishedAt: "2023-07-14",
+  ownProgress: 1654,
+  completedAt: "2026-06-29T22:42:15.256Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

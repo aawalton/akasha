@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0070Chapter86AMisunderstanding = {
+  id: "01a0672c-eb1f-7000-8d5b-34c89d664ab4",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0070-chapter-86-a-misunderstanding",
+  title: "Chapter 86 - A Misunderstanding",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 70,
+  ownLength: 4147,
+  unit: "unit/words",
+  publishedAt: "2016-11-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "103404",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103404/chapter-86-a-misunderstanding",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

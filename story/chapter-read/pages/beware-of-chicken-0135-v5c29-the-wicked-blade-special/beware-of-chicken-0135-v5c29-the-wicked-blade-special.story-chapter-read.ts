@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0135V5c29TheWickedBladeSpecial = {
+  id: "01a06731-ad8f-7003-accf-c0d190c12a5d",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0135-v5c29-the-wicked-blade-special",
+  title: "v5c29: The Wicked Blade Special",
+  story: "story-read/beware-of-chicken",
+  position: 135,
+  ownLength: 1973,
+  ownProgress: 1973,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:01:26.971Z",
+  publishedAt: "2024-08-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1745171",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1745171/v5c29-the-wicked-blade-special",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

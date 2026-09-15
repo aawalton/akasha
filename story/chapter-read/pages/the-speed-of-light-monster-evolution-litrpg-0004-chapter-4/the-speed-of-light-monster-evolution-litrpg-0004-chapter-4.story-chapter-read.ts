@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theSpeedOfLightMonsterEvolutionLitrpg0004Chapter4 = {
+  id: "01a06730-4ed4-7e95-8c31-59d39b26b7ce",
+  type: "story-chapter-read",
+  slug: "the-speed-of-light-monster-evolution-litrpg-0004-chapter-4",
+  title: "Chapter 4",
+  story: "story-read/the-speed-of-light-monster-evolution-litrpg",
+  position: 4,
+  ownLength: 1818,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525521",
+      externalLink:
+        "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2525521/chapter-4",
+    },
+  ],
+  publishedAt: "2025-08-17",
+  prose: "txt",
+} as const satisfies StoryChapterRead

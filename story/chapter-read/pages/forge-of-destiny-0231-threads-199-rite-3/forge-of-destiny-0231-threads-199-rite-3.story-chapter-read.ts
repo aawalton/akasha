@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const forgeOfDestiny0231Threads199Rite3 = {
+  id: "01a06591-3dfb-71a4-a3ad-0f43074565d3",
+  type: "story-chapter-read",
+  slug: "forge-of-destiny-0231-threads-199-rite-3",
+  title: "Threads 199-Rite 3",
+  story: "story-read/forge-of-destiny",
+  position: 231,
+  ownLength: 2749,
+  unit: "unit/words",
+  publishedAt: "2022-03-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "867871",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/867871/threads-199-rite-3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

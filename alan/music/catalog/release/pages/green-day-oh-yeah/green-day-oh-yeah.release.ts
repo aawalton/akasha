@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const greenDayOhYeah = {
+  id: "01a0676a-d726-701c-b937-09908dd0b8f0",
+  type: "release",
+  slug: "green-day-oh-yeah",
+  title: "Oh Yeah!",
+  partOfCollections: ["artist/green-day"],
+  position: 0,
+  ownLength: 7.257683,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  rank: "C",
+  publishedAt: "2020-01-16",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4YfXSuoJWZGcTNGAkFK8cO",
+      externalLink: "https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

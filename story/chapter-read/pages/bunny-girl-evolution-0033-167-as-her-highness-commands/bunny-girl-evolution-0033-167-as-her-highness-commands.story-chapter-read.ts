@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bunnyGirlEvolution0033167AsHerHighnessCommands = {
+  id: "01a06743-b398-7003-b5e0-6abba7202381",
+  type: "story-chapter-read",
+  slug: "bunny-girl-evolution-0033-167-as-her-highness-commands",
+  title: "167 - As Her Highness Commands",
+  story: "story-read/bunny-girl-evolution",
+  position: 33,
+  ownLength: 3876,
+  ownProgress: 3876,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:03:43.586Z",
+  publishedAt: "2026-01-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2983504",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2983504/167-as-her-highness-commands",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

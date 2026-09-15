@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const beneathTheDragoneyeMoons0020HeyWhereDidTheChaptersGo = {
+  id: "01a06731-af16-7001-a461-957272dc77eb",
+  type: "story-chapter-read",
+  slug: "beneath-the-dragoneye-moons-0020-hey-where-did-the-chapters-go",
+  title: "Hey! Where did the chapters go?",
+  story: "story-read/beneath-the-dragoneye-moons",
+  position: 20,
+  ownLength: 80,
+  unit: "unit/words",
+  publishedAt: "2023-01-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1094165",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1094165/hey-where-did-the-chapters-go",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

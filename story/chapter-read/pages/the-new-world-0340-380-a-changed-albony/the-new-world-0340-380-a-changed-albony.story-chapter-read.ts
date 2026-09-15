@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld0340380AChangedAlbony = {
+  id: "01a06730-4ed2-7a05-bca4-0b047865ee2e",
+  type: "story-chapter-read",
+  slug: "the-new-world-0340-380-a-changed-albony",
+  title: "380 A Changed Albony",
+  story: "story-read/the-new-world",
+  position: 340,
+  ownLength: 2036,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2091831",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2091831/380-a-changed-albony",
+    },
+  ],
+  publishedAt: "2025-02-27",
+  ownProgress: 2036,
+  completedAt: "2026-06-29T21:32:54.391Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

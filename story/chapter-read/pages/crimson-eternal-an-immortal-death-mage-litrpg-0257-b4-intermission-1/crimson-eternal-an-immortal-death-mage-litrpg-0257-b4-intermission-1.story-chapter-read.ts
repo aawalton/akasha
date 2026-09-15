@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const crimsonEternalAnImmortalDeathMageLitrpg0257B4Intermission1 = {
+  id: "01a0672c-ec78-7017-a6b9-3c2da87be124",
+  type: "story-chapter-read",
+  slug: "crimson-eternal-an-immortal-death-mage-litrpg-0257-b4-intermission-1",
+  title: "B4 | Intermission 1",
+  story: "story-read/crimson-eternal-an-immortal-death-mage-litrpg",
+  position: 257,
+  ownLength: 1009,
+  ownProgress: 1009,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:14:29.042Z",
+  publishedAt: "2025-02-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2077039",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/2077039/b4-intermission-1",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

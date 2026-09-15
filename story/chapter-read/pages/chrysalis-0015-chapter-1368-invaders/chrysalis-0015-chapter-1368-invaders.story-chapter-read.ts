@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0015Chapter1368Invaders = {
+  id: "01a0672c-eb5a-700d-9bfc-858c758ef869",
+  type: "story-chapter-read",
+  slug: "chrysalis-0015-chapter-1368-invaders",
+  title: "Chapter 1368 - Invaders",
+  story: "story-read/chrysalis",
+  position: 15,
+  ownLength: 1093,
+  ownProgress: 1093,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:44:07.917Z",
+  publishedAt: "2024-07-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1703945",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1703945/chapter-1368-invaders",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

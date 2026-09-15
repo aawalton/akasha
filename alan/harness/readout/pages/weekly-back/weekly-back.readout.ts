@@ -1,0 +1,38 @@
+import type { Readout } from "akasha/alan/harness/readout/readout.page-type.types.ts"
+
+export const weeklyBack = {
+  id: "01a063bd-a526-795d-b845-b6fb54c9ef34",
+  type: "readout",
+  slug: "weekly-back",
+  definition: "how long until a spent weekly allowance returns",
+  label: "7d back",
+  unit: "hours",
+  place: 3,
+  drawnAs: "number",
+  colorSlug: "text",
+  groups: ["readout-group/claude-usage"],
+  wireKey: "weekly-back",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Only an account that has spent its whole weekly allowance is counted.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The reading is the soonest window still ahead of the moment asked in.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A window already behind that moment is left out rather than read as zero.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "No account with a window ahead is no reading rather than a wait of zero.",
+    },
+
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "Nothing here caches a reading or decides when a reading is taken.",
+    },
+  ],
+} as const satisfies Readout

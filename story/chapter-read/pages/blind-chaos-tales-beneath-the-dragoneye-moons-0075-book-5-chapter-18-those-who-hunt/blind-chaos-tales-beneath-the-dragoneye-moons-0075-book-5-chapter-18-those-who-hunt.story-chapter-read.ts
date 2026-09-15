@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const blindChaosTalesBeneathTheDragoneyeMoons0075Book5Chapter18ThoseWhoHunt = {
+  id: "01a06731-aef2-7001-83b1-bdd5b0311ee2",
+  type: "story-chapter-read",
+  slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0075-book-5-chapter-18-those-who-hunt",
+  title: "Book 5 - Chapter 18 - Those Who Hunt…",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
+  position: 75,
+  ownLength: 5041,
+  unit: "unit/words",
+  publishedAt: "2026-05-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3433655",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3433655/book-5-chapter-18-those-who-hunt",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

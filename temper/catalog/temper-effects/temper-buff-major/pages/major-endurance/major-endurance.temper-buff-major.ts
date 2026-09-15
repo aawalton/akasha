@@ -1,0 +1,11 @@
+import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effects/temper-buff-major/temper-buff-major.page-type.types.ts"
+
+export const majorEndurance = {
+  id: "01a05fc5-f6b8-756e-9abd-f9500dbacd07",
+  type: "temper-buff-major",
+  slug: "major-endurance",
+  title: "Major Endurance",
+  key: "major-endurance",
+  description: "Increases Stamina Recovery by 30%",
+  effects: "jsonl",
+} as const satisfies TemperBuffMajor

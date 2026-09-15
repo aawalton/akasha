@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jennaRaineGoodGrief = {
+  id: "01a0676a-d71f-701c-94ec-df5f14810ec4",
+  type: "release",
+  slug: "jenna-raine-good-grief",
+  title: "Good Grief",
+  partOfCollections: ["artist/jenna-raine"],
+  position: 0,
+  ownLength: 5.667483,
+  ownProgress: 5.667483,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2025-03-21",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4PM14CRnzdPXc4BxHIWXP2",
+      externalLink: "https://open.spotify.com/album/4PM14CRnzdPXc4BxHIWXP2",
+    },
+  ],
+} as const satisfies Release

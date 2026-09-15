@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jadaFacerGodSPlan = {
+  id: "01a0676a-d71f-700f-8e5f-6711496ea43f",
+  type: "release",
+  slug: "jada-facer-god-s-plan",
+  title: "God's Plan",
+  partOfCollections: ["artist/jada-facer"],
+  position: 0,
+  ownLength: 2.376667,
+  ownProgress: 2.376667,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-03-07",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5iOs2GER6IKeN530eGH8yy",
+      externalLink: "https://open.spotify.com/album/5iOs2GER6IKeN530eGH8yy",
+    },
+  ],
+} as const satisfies Release

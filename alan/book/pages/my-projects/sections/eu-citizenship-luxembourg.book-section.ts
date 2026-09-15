@@ -1,0 +1,14 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const euCitizenshipLuxembourg = {
+  id: "01a06594-c688-700c-bc0c-08dde15112df",
+  type: "book-section",
+  slug: "eu-citizenship-luxembourg",
+  title: "Luxembourgish Citizenship Paths (May 2026)",
+  sectionOf: "book-section/second-passport/eu-citizenship",
+  description:
+    "All paths to Luxembourgish citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (allowed since 2009), and current backlogs per path.",
+  partOfCollections: ["book-section/second-passport/eu-citizenship", "alan-book/my-projects"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

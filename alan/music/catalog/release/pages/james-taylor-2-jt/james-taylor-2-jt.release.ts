@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jamesTaylor2Jt = {
+  id: "01a0676a-d722-702c-8054-101c71933d00",
+  type: "release",
+  slug: "james-taylor-2-jt",
+  title: "JT",
+  partOfCollections: ["artist/james-taylor"],
+  position: 0,
+  ownLength: 37.85215,
+  ownProgress: 37.85215,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1977-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Pbc9Jq12a47mQ1z9yIuhn",
+      externalLink: "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn",
+    },
+  ],
+} as const satisfies Release

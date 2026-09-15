@@ -4,28 +4,28 @@ import { akashaSeatIdForName } from "akasha/agent/seat/page/modules/seat-akasha-
 import {
   landBodies,
   landRemovals,
-} from "akasha/changes/modules/gated-landing/gated-landing.module.code.ts"
-import { whyRefused } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
-import { CEILING } from "akasha/checks/code-checks/pages/file-length/file-length.code-check.decision.code.ts"
-import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
+} from "akasha/change/modules/gated-landing/gated-landing.module.code.ts"
+import { whyRefused } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
+import { CEILING } from "akasha/check/code/pages/file-length/file-length.check-code.decision.code.ts"
+import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   AKASHA,
   akashaRoot,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   mergeUncommitted,
   removeUncommitted,
   uncommittedIn,
-} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+} from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import {
   slugAt,
   textAt,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   composedFor,
   pagesAtFor,
-} from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+} from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const PAGE_TYPE = "message"
 

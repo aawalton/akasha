@@ -4,7 +4,7 @@ import { dayNameOf } from "akasha/alan/track/daily/modules/day-place/day-place.m
 import {
   mergeUncommitted,
   uncommittedIn,
-} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+} from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const PERSONA_MESSAGES = "personaMessages"
 

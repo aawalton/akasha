@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/temper-set.page-type.types.ts"
+
+export const encratissBehemoth = {
+  id: "019e6484-5ff4-7d41-904b-e34338afa40f",
+  type: "temper-set",
+  slug: "encratiss-behemoth",
+  title: "Encratis's Behemoth",
+  key: "encratiss-behemoth",
+  esoSetId: 577,
+  subcategoryId: "monster",
+  valid: ["monster"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet

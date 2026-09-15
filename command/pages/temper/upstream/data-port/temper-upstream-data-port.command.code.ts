@@ -1,7 +1,7 @@
 import { realpathSync } from "node:fs"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
-import { library as libraryArgument } from "akasha/command/arguments/pages/library.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
+import { library as libraryArgument } from "akasha/command/argument/pages/library.argument.ts"
 import {
   answering,
   DATA,
@@ -12,7 +12,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperUpstreamDataPort as page } from "akasha/command/pages/temper/upstream/data-port/temper-upstream-data-port.command.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { port as portHousing } from "akasha/temper/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.code.ts"
 import { port as portMapData } from "akasha/temper/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.code.ts"
 import { port as portTreasure } from "akasha/temper/upstream-data/modules/treasure-upstream-port/treasure-upstream-port.module.code.ts"

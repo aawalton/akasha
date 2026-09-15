@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thereIsNoEpicLootHereOnlyPuns004948EqualSystem = {
+  id: "01a06730-4f95-7aec-a4c4-df79c515af30",
+  type: "story-chapter-read",
+  slug: "there-is-no-epic-loot-here-only-puns-0049-48-equal-system",
+  title: "48: Equal-system",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
+  position: 49,
+  ownLength: 3319,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "198416",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/198416/48-equal-system",
+    },
+  ],
+  publishedAt: "2018-03-03",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const phoenixAscensionCultivationLitrpg0011Chapter11FortuneFavorsTheBold = {
+  id: "01a06730-4de3-7a1e-9bf7-9127b2465d80",
+  type: "story-chapter-read",
+  slug: "phoenix-ascension-cultivation-litrpg-0011-chapter-11-fortune-favors-the-bold",
+  title: "Chapter 11: Fortune Favors the Bold",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
+  position: 11,
+  ownLength: 2438,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2532250",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2532250/chapter-11-fortune-favors-the-bold",
+    },
+  ],
+  publishedAt: "2025-08-20",
+  prose: "txt",
+} as const satisfies StoryChapterRead

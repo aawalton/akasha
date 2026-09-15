@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { messageQuery } from "akasha/command/arguments/pages/message-query.argument.ts"
-import { queryFile } from "akasha/command/arguments/pages/query-file.argument.ts"
+import { messageQuery } from "akasha/command/argument/pages/message-query.argument.ts"
+import { queryFile } from "akasha/command/argument/pages/query-file.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { imessageSearch } from "akasha/command/pages/imessage/search/imessage-search.command.code.ts"
 

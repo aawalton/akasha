@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whatNumbersTellAGovernedClimb = {
-  id: "01a077e4-c6d0-75c6-a889-a3fff7d5545b",
-  type: "all-about-alan-question",
-  slug: "what-numbers-tell-a-governed-climb",
-  topic: "all-about-alan-topic/why-climbing-sets-off-the-fall",
-  ask: "What tells a governed climb from an ungoverned one in numbers, as a dose curve and a duration?",
-} as const satisfies AllAboutAlanQuestion

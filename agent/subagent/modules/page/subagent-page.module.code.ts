@@ -5,15 +5,15 @@ import {
   removeAkashaSubagentPagesOf,
   sweepingAkashaSubagentPagesOf,
 } from "akasha/agent/subagent/modules/page-akasha/subagent-page-akasha.module.code.ts"
-import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
+import type { Outcome } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const KIND = "dispatchedAs"
 

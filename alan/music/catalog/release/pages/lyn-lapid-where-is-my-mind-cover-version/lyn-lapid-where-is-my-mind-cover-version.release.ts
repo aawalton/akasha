@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const lynLapidWhereIsMyMindCoverVersion = {
+  id: "01a0676a-d731-700e-af67-a0a613e954d3",
+  type: "release",
+  slug: "lyn-lapid-where-is-my-mind-cover-version",
+  title: "Where Is My Mind? (Cover Version)",
+  partOfCollections: ["artist/lyn-lapid"],
+  position: 0,
+  ownLength: 1.892283,
+  ownProgress: 1.892283,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2025-06-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1trEKAk6KhUpUrWul8N1Ih",
+      externalLink: "https://open.spotify.com/album/1trEKAk6KhUpUrWul8N1Ih",
+    },
+  ],
+} as const satisfies Release

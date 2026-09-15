@@ -1,4 +1,4 @@
-import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
 export const generatorRanForManifestApiVersion = {
   id: "01a05fc4-7a92-7ab8-b98f-ca40f8af5eb1",

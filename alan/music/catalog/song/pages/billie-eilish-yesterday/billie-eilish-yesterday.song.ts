@@ -1,0 +1,19 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const billieEilishYesterday = {
+  id: "019ea4a8-6130-7e01-a52a-d766534b66d8",
+  type: "song",
+  slug: "billie-eilish-yesterday",
+  title: "Yesterday",
+  artist: "artist/billie-eilish",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0c80db24-389e-3620-8e0b-84dc2b7c009a",
+      externalLink: "https://musicbrainz.org/work/0c80db24-389e-3620-8e0b-84dc2b7c009a",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "derivative",
+  performed: true,
+} as const satisfies Song

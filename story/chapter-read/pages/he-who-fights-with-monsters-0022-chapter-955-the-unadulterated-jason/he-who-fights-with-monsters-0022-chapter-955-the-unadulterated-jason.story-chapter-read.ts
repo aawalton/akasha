@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const heWhoFightsWithMonsters0022Chapter955TheUnadulteratedJason = {
+  id: "01a06731-adc2-7001-9753-caee22c3c7b0",
+  type: "story-chapter-read",
+  slug: "he-who-fights-with-monsters-0022-chapter-955-the-unadulterated-jason",
+  title: "Chapter 955: The Unadulterated Jason",
+  story: "story-read/he-who-fights-with-monsters",
+  position: 22,
+  ownLength: 2828,
+  ownProgress: 2828,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:04:32.678Z",
+  publishedAt: "2025-01-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2033422",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2033422/chapter-955-the-unadulterated-jason",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

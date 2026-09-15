@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const crimsonEternalAnImmortalDeathMageLitrpg0001B1Glossary = {
+  id: "01a0672c-ec6c-7002-a7ec-4f18d495bb21",
+  type: "story-chapter-read",
+  slug: "crimson-eternal-an-immortal-death-mage-litrpg-0001-b1-glossary",
+  title: "B1 | Glossary",
+  story: "story-read/crimson-eternal-an-immortal-death-mage-litrpg",
+  position: 1,
+  ownLength: 1036,
+  ownProgress: 1036,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:05:51.535Z",
+  publishedAt: "2024-01-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1461459",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1461459/b1-glossary",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

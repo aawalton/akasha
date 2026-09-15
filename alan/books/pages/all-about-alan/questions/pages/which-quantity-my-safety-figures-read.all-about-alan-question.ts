@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whichQuantityMySafetyFiguresRead = {
-  id: "01a077ea-3d2a-7b7e-9b88-e43dbde6d5f8",
-  type: "all-about-alan-question",
-  slug: "which-quantity-my-safety-figures-read",
-  topic: "all-about-alan-topic/where-safety-has-got-to",
-  ask: "My stated medians and the recorded figures disagree, so which quantity does a stated median read and which quantity does a recorded figure read?",
-} as const satisfies AllAboutAlanQuestion

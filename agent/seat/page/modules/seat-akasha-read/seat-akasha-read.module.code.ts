@@ -8,11 +8,11 @@ import {
   RECORDS,
 } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import type { SeatRecord } from "akasha/agent/seat/page/modules/seat-record/seat-record.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   slugOf,
   type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 function heldAt(values: Record<string, unknown>, at: readonly string[]): unknown {
   const [one, two] = at

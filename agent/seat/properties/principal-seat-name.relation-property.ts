@@ -1,4 +1,4 @@
-import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
+import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
 
 export const principalSeatName = {
   id: "01a05439-6234-73fd-baf3-4e3b75e44f96",

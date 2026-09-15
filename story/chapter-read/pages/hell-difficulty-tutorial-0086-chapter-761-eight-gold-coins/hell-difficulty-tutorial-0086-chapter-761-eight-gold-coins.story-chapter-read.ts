@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0086Chapter761EightGoldCoins = {
+  id: "01a06731-ad80-7000-9741-b0fe930f3379",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0086-chapter-761-eight-gold-coins",
+  title: "Chapter 761 - Eight gold coins",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 86,
+  ownLength: 3028,
+  unit: "unit/words",
+  publishedAt: "2026-03-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3106228",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3106228/chapter-761-eight-gold-coins",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

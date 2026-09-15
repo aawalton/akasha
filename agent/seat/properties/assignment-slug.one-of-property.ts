@@ -1,4 +1,4 @@
-import type { OneOfProperty } from "akasha/pages/one-of-properties/one-of-property.page-type.types.ts"
+import type { OneOfProperty } from "akasha/page/one-of-property/one-of-property.page-type.types.ts"
 
 export const assignmentSlug = {
   id: "01a053a2-d0e7-7948-a966-74efed3c62f0",

@@ -1,0 +1,59 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const monarchMonth = {
+  id: "01a0680b-2b00-7012-a659-4d8f2c7e2113",
+  type: "page-type",
+  slug: "monarch-month",
+  definition: "one calendar month of the household's money",
+  extends: ["page-type/monarch-record"],
+  parts: [
+    "boolean-property/needs-review",
+    "boolean-property/pending",
+    "boolean-property/recurring",
+    "boolean-property/split",
+    "calendar-date-property/starts-on",
+    "calendar-date-property/transaction-day",
+    "instant-property/monarch-updated-at",
+    "number-property/amount",
+    "page-property-entry/transactions",
+    "relation-property/transaction-tags",
+    "select-property/category-source",
+    "text-property/account-name",
+    "text-property/amazon-order-number",
+    "text-property/category-decided-by",
+    "text-property/merchant",
+    "text-property/statement-line",
+    "text-property/transaction-note",
+  ],
+  properties: [
+    { pageProperty: "calendar-date-property/starts-on", required: true, many: false },
+    { pageProperty: "page-property-entry/transactions", required: true, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A slug opens with `month-` ahead of the year and the month that slug covers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A month past the trusted period is closed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing Monarch reports moves a row into or out of a closed month.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The trusted period is the twelve months back from today.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A month states the period that month covers and nothing else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every word about the money is carried by the transactions beside the month.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

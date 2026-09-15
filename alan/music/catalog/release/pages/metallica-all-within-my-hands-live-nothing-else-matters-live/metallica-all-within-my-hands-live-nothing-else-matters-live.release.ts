@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const metallicaAllWithinMyHandsLiveNothingElseMattersLive = {
+  id: "01a0676a-d716-702b-8a30-c60125a13774",
+  type: "release",
+  slug: "metallica-all-within-my-hands-live-nothing-else-matters-live",
+  title: "All Within My Hands (Live) / Nothing Else Matters (Live)",
+  partOfCollections: ["artist/metallica"],
+  position: 0,
+  ownLength: 12.892883,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2020-07-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3VQRsPQDxvewKcQ9moV0e9",
+      externalLink: "https://open.spotify.com/album/3VQRsPQDxvewKcQ9moV0e9",
+    },
+  ],
+} as const satisfies Release

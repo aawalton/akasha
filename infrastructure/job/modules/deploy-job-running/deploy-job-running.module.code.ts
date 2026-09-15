@@ -9,15 +9,15 @@ import {
 import {
   type Carried,
   carriedByOrigin,
-} from "akasha/infrastructure/services/clusters/modules/web-app-building/web-app-building.module.code.ts"
+} from "akasha/infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"
 import {
   type Plan,
   type Ran,
   runKubectl,
   runKubectlOn,
-} from "akasha/infrastructure/services/clusters/modules/workload-deploying/workload-deploying.module.code.ts"
-import { placeSecrets } from "akasha/infrastructure/services/secrets/modules/placing/secret-placing.module.code.ts"
-import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
+} from "akasha/infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts"
+import { placeSecrets } from "akasha/infrastructure/service/secret/modules/placing/secret-placing.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 
 const WAITED_ONCE = "10s"
 

@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherHoldingOnToAFeelingRepeats = {
-  id: "01a077eb-39eb-7fbe-bc40-93cbb7dfa136",
-  type: "all-about-alan-question",
-  slug: "whether-holding-on-to-a-feeling-repeats",
-  topic: "all-about-alan-topic/the-two-decades-i-came-through",
-  ask: "Is holding on to a feeling a repeatable move, and how is it done when nothing stays by itself?",
-} as const satisfies AllAboutAlanQuestion

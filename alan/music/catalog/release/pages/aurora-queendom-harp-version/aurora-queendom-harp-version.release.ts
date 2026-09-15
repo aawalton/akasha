@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const auroraQueendomHarpVersion = {
+  id: "01a0676a-d727-703a-a3db-d4efc9f742d9",
+  type: "release",
+  slug: "aurora-queendom-harp-version",
+  title: "Queendom (Harp Version)",
+  partOfCollections: ["artist/aurora"],
+  position: 0,
+  ownLength: 3.876433,
+  ownProgress: 3.876433,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-06-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1vmPWNli0hFNGxkIvfVkGw",
+      externalLink: "https://open.spotify.com/album/1vmPWNli0hFNGxkIvfVkGw",
+    },
+  ],
+} as const satisfies Release

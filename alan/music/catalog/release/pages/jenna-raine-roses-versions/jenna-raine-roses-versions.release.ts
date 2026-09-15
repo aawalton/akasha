@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jennaRaineRosesVersions = {
+  id: "01a0676a-d728-7022-a22b-935ceb2f4627",
+  type: "release",
+  slug: "jenna-raine-roses-versions",
+  title: "Roses (Versions)",
+  partOfCollections: ["artist/jenna-raine"],
+  position: 0,
+  ownLength: 22.539267,
+  ownProgress: 22.539267,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2024-08-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Dt6CTMbmNOH4C6xlQLQd5",
+      externalLink: "https://open.spotify.com/album/3Dt6CTMbmNOH4C6xlQLQd5",
+    },
+  ],
+} as const satisfies Release

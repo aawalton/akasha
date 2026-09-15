@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0163Chapter1515CorruptionWakes = {
+  id: "01a0672c-eb60-7018-a840-292c36a5f914",
+  type: "story-chapter-read",
+  slug: "chrysalis-0163-chapter-1515-corruption-wakes",
+  title: "Chapter 1515 - Corruption Wakes",
+  story: "story-read/chrysalis",
+  position: 163,
+  ownLength: 976,
+  ownProgress: 976,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:49:03.535Z",
+  publishedAt: "2025-02-25",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2087994",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2087994/chapter-1515-corruption-wakes",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

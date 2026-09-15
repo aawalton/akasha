@@ -34,7 +34,7 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { textIn } from "akasha/utils/narrow/modules/text-in/text-in.module.code.ts"
 
 interface Kept {

@@ -1,0 +1,65 @@
+import {
+  type Asked,
+  askingOver,
+  namingOver,
+  reasonsIn,
+} from "akasha/check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.decision.code.ts"
+
+export const YELLOW = "design/colors/pages/yellow.color.ts"
+
+export const HUMMING = "utils/hum/humming/humming.module.code.ts"
+
+export const HELD = [
+  YELLOW,
+  HUMMING,
+  "pages/hum-formats/modules/hum-matching/hum-matching.module.code.ts",
+]
+
+export const AT = "check/code/pages/a/a.code-check.code.ts"
+
+export const reaching = askingOver(HELD, HELD)
+
+export const NAMED = 'const AT = "design/colors"\n'
+
+export const TYPES: ReadonlySet<string> = new Set(["code-check", "color", "module"])
+
+export const naming = namingOver(HELD, TYPES)
+
+export function only(text: string): readonly string[] {
+  return reasonsIn(reaching, naming, AT, text)
+}
+
+export const DOTTED = "../../../../design/colors/pages/yellow.color.ts"
+
+export const SWEEPS = 'const held = said(["git", "-C", root, "ls-files", "-z", "--", "*.ts"])\n'
+
+export const STRAY = "akasha/stray.json"
+
+export const MADE = "akasha/made.json"
+
+export const RESOLVED = "akasha/resolved.json"
+
+export const ASKED: Asked = {
+  types: TYPES,
+  listed: (path) => path !== STRAY,
+  generated: (path) => path === MADE,
+  toolResolvesPaths: (path) => path === RESOLVED,
+}
+
+const SHELL = "akasha/one.thing.shell.sh"
+
+export function ran(text: string): readonly string[] {
+  return reasonsIn(reaching, naming, SHELL, text)
+}
+
+export const CONTAINERFILE = "image/Containerfile"
+
+export const ONE = `a/one/${CONTAINERFILE}`
+
+export const TWO = `a/two/${CONTAINERFILE}`
+
+const TWICE = [ONE, TWO]
+
+export const nearer = askingOver(TWICE, TWICE)
+
+export const BUILT = `podman build -f build/${CONTAINERFILE}\n`

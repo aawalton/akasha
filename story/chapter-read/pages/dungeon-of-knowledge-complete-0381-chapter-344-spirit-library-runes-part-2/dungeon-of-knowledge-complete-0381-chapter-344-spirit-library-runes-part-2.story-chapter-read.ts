@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0381Chapter344SpiritLibraryRunesPart2 = {
+  id: "01a0672c-ebf6-7002-807c-69881fb11fd7",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0381-chapter-344-spirit-library-runes-part-2",
+  title: "Chapter 344: Spirit Library Runes (Part 2)",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 381,
+  ownLength: 2274,
+  ownProgress: 2274,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:23:32.060Z",
+  publishedAt: "2025-08-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2512175",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2512175/chapter-344-spirit-library-runes-part-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0026Chapter42BasicLabor = {
+  id: "01a06591-3f81-7e09-8911-4420bcfd3a3d",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0026-chapter-42-basic-labor",
+  title: "Chapter 42 - Basic Labor",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 26,
+  ownLength: 2480,
+  unit: "unit/words",
+  publishedAt: "2016-10-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "96201",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96201/chapter-42-basic-labor",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

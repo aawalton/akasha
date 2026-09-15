@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const mitskiAPearl = {
+  id: "019f0ea8-25e3-7b82-ba71-8c81f75be027",
+  type: "song",
+  slug: "mitski-a-pearl",
+  title: "A Pearl",
+  artist: "artist/mitski",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "eb343e84-cdf2-427f-8fd1-8305fadeddb2",
+      externalLink: "https://musicbrainz.org/work/eb343e84-cdf2-427f-8fd1-8305fadeddb2",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "solo",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

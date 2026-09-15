@@ -1,0 +1,12 @@
+import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree/temper-metric-tree.page-type.types.ts"
+
+export const metricBlockSpeed = {
+  id: "019e2fcd-5a85-7fba-8df2-9efec9dd92e6",
+  type: "temper-metric-tree",
+  slug: "metric-block-speed",
+  title: "Block Speed",
+  nodeId: "block-speed",
+  nodeType: "metric",
+  displayOrder: 2,
+  parent: "subcategory-block",
+} as const satisfies TemperMetricTree

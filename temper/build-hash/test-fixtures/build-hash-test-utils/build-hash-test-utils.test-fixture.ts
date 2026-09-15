@@ -1,4 +1,4 @@
-import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
+import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-type.types.ts"
 
 export const buildHashTestUtils = {
   id: "01a08ed5-cc31-7873-bde1-0132ef1d98b5",

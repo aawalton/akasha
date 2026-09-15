@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theWanderingInn0406InterludeLiftingAnts = {
+  id: "01a0659d-4cd7-7eee-95dc-64dab4e06fbb",
+  type: "story-chapter-read",
+  slug: "the-wandering-inn-0406-interlude-lifting-ants",
+  title: "Interlude - Lifting Ants",
+  story: "story-read/the-wandering-inn",
+  position: 406,
+  ownLength: 15671,
+  ownProgress: 15671,
+  unit: "unit/words",
+  publishedAt: "2020-03-07",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/03/07/interlude-lifting-ants/",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

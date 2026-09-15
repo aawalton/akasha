@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whichBodySignalsRunLoudest = {
-  id: "01a077f1-13b7-71b5-a67b-ef82471d8425",
-  type: "all-about-alan-question",
-  slug: "which-body-signals-run-loudest",
-  topic: "all-about-alan-topic/the-body-signals-i-can-barely-hear",
-  ask: "Which body signals of mine run loudest and which run quietest: hunger, thirst, heat, heart rate, breath, pain, nausea, bladder?",
-} as const satisfies AllAboutAlanQuestion

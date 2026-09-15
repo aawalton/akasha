@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const ladderOfCausation = {
+  id: "01a06594-c67a-7016-988e-83e04d6f23a4",
+  type: "book-section",
+  slug: "ladder-of-causation",
+  title: "The persona system as a ladder of causation",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

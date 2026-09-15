@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const beneathTheDragoneyeMoons0013CatchupArtwork814021 = {
+  id: "01a08396-4d82-769e-b727-8b66d4a0291b",
+  type: "story-chapter-read",
+  slug: "beneath-the-dragoneye-moons-0013-catchup-artwork-814021",
+  story: "story-read/beneath-the-dragoneye-moons",
+  position: 13,
+  publishedAt: "2021-12-27",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "814021",
+      externalLink:
+        "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/814021/catchup-artwork",
+    },
+  ],
+  title: "Catchup Artwork!",
+  ownLength: 48,
+  prose: "txt",
+} as const satisfies StoryChapterRead

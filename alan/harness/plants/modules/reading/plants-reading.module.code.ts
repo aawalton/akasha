@@ -1,9 +1,9 @@
-import type { Asking } from "akasha/alan/harness/readouts/modules/asking/readout-asking.module.code.ts"
+import type { Asking } from "akasha/alan/harness/readout/modules/asking/readout-asking.module.code.ts"
 import {
   keepReading,
   readoutPage,
-} from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
-import { fetchPlantGrams } from "akasha/alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.reading.code.ts"
+} from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { fetchPlantGrams } from "akasha/alan/harness/readout/pages/upkeep-plants/upkeep-plants.readout.reading.code.ts"
 import {
   openedDayOf,
   openedDayWindow,
@@ -12,8 +12,8 @@ import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.t
 import {
   AKASHA,
   resolveRoots,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
 export const READOUT_SLUG = "upkeep-plants"
 

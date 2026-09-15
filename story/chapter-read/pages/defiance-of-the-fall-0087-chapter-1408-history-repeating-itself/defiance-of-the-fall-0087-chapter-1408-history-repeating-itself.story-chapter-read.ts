@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const defianceOfTheFall0087Chapter1408HistoryRepeatingItself = {
+  id: "01a06731-ad91-7000-995e-ea9aec1e7986",
+  type: "story-chapter-read",
+  slug: "defiance-of-the-fall-0087-chapter-1408-history-repeating-itself",
+  title: "Chapter 1,408 - History Repeating Itself",
+  story: "story-read/defiance-of-the-fall",
+  position: 87,
+  ownLength: 2989,
+  unit: "unit/words",
+  publishedAt: "2026-03-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3130476",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3130476/chapter-1408-history-repeating-itself",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

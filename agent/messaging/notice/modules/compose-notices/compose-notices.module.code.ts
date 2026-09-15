@@ -3,15 +3,15 @@ import { fail } from "akasha/command/modules/failing/command-failing.module.code
 import {
   listedAt,
   valuesOfType,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   ownRepoRoot,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { bodyAt } from "akasha/pages/modules/file-body/page-file-body.module.code.ts"
-import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { bodyAt } from "akasha/page/modules/file-body/page-file-body.module.code.ts"
+import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const PAGE_TYPE = "notice"
 

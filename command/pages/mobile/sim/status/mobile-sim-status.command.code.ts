@@ -4,7 +4,7 @@ import {
   loadSessionState,
   SIM_SESSION_PATH,
 } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import {
   answering,
   keyedLines,

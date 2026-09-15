@@ -1,0 +1,11 @@
+import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effects/temper-buff-major/temper-buff-major.page-type.types.ts"
+
+export const majorSavagery = {
+  id: "01a05fc5-f6bb-7067-847e-73947345c7d9",
+  type: "temper-buff-major",
+  slug: "major-savagery",
+  title: "Major Savagery",
+  key: "major-savagery",
+  description: "Increases Weapon Critical by 2629",
+  effects: "jsonl",
+} as const satisfies TemperBuffMajor

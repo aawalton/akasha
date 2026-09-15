@@ -1,0 +1,51 @@
+import type { ContextWarrant } from "akasha/domain/context/warrant/context-warrant.page-type.types.ts"
+
+export const fileItself = {
+  id: "01a04f58-a7f0-7000-9d3a-6a0f2c4b81d7",
+  type: "context-warrant",
+  slug: "file-itself",
+  definition: "what a seat must read for the file it changes",
+  code: "ts",
+  test: "ts",
+  runsOnRead: true,
+  runsOnWrite: true,
+  transitive: false,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file warrants itself.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file that does not yet exist warrants nothing of itself.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A generated file warrants nothing of itself.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file whose body is not text warrants nothing of itself.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A body holding a zero byte is no text.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file of that name in another folder warrants itself.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An index that cannot answer leaves every file warranting itself.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Whatever else warrants the file remains unchanged.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The body warranted is the body on disk and the body a read records.",
+    },
+  ],
+} as const satisfies ContextWarrant

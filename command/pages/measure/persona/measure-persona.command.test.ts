@@ -7,7 +7,7 @@ import {
   type Named,
   untotalledOf,
 } from "akasha/command/pages/measure/persona/measure-persona.command.code.ts"
-import { rungAt } from "akasha/personas/properties/persona-relationship-level.computed-property.test-fixtures.ts"
+import { rungAt } from "akasha/persona/properties/persona-relationship-level.computed-property.test-fixtures.ts"
 
 const NOWHERE = "/nowhere"
 

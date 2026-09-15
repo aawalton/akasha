@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0343ChapterThreeHundredAndThirtyFiveRaindrops = {
+  id: "01a0672c-eb1c-7004-b889-efc5dfbb6d3a",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0343-chapter-three-hundred-and-thirty-five-raindrops",
+  title: "Chapter Three Hundred and Thirty-Five - Raindrops Keep Fallin' On My Head",
+  story: "story-read/cinnamon-bun",
+  position: 343,
+  ownLength: 1994,
+  unit: "unit/words",
+  publishedAt: "2022-08-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "974551",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/974551/chapter-three-hundred-and-thirty-five-raindrops",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

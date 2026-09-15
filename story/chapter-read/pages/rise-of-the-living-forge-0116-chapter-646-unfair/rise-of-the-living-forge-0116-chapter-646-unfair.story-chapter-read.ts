@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0116Chapter646Unfair = {
+  id: "01a081aa-8086-7a0a-b782-4a09e6f15c3d",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0116-chapter-646-unfair",
+  story: "story-read/rise-of-the-living-forge",
+  position: 116,
+  publishedAt: "2026-09-08",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3930026",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3930026/chapter-646-unfair",
+    },
+  ],
+  title: "Chapter 646: Unfair",
+  ownLength: 2024,
+  prose: "txt",
+} as const satisfies StoryChapterRead

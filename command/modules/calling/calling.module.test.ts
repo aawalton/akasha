@@ -31,7 +31,7 @@ import {
 import {
   idTakenFrom,
   indexTakenFrom,
-} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(sweep)
 

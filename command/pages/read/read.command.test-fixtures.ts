@@ -3,8 +3,8 @@ import { join } from "node:path"
 import type { Reading } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { blobIdOf, readingIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
-import { filePath } from "akasha/command/arguments/pages/file-path.argument.ts"
-import { full as fullArgument } from "akasha/command/arguments/pages/full.argument.ts"
+import { filePath } from "akasha/command/argument/pages/file-path.argument.ts"
+import { full as fullArgument } from "akasha/command/argument/pages/full.argument.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   ANSWER_CEILING,
@@ -20,13 +20,13 @@ import { read as readCommand } from "akasha/command/pages/read/read.command.ts"
 import {
   SEEDED_AT,
   warrantsSeeded,
-} from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
+} from "akasha/domain/context/modules/warranting/warranting.module.test-fixtures.ts"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
-import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
-import { mintedId } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
+} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
+import { mintedId } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as saying } from "akasha/utils/run/modules/running/running.module.code.ts"

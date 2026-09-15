@@ -1,0 +1,10 @@
+import type { BooleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.types.ts"
+
+export const perWeapon = {
+  id: "01a05fe0-8429-776b-ac89-7dfabb984d17",
+  type: "boolean-property",
+  slug: "per-weapon",
+  propertySlug: "per-weapon",
+  definition: "whether an effect counts once for each weapon held",
+  types: "ts",
+} as const satisfies BooleanProperty

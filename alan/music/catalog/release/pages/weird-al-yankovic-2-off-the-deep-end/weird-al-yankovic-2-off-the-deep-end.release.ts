@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const weirdAlYankovic2OffTheDeepEnd = {
+  id: "01a0676a-d726-7018-b748-966611882d8f",
+  type: "release",
+  slug: "weird-al-yankovic-2-off-the-deep-end",
+  title: "Off The Deep End",
+  partOfCollections: ["artist/weird-al-yankovic"],
+  position: 0,
+  ownLength: 41.4955,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "1992-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6qr3P9IV7X8zSmRWUfKTNL",
+      externalLink: "https://open.spotify.com/album/6qr3P9IV7X8zSmRWUfKTNL",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theTabernacleChoirAtTempleSquareJoyToTheWorld = {
+  id: "01a0676a-d722-7028-a33c-a262fd5746eb",
+  type: "release",
+  slug: "the-tabernacle-choir-at-temple-square-joy-to-the-world",
+  title: "Joy to the World",
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
+  position: 0,
+  ownLength: 45.045917,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2oGPXjpyCNbf8iAznkAn1y",
+      externalLink: "https://open.spotify.com/album/2oGPXjpyCNbf8iAznkAn1y",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

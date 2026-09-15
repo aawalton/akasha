@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0386ChapterThreeHundredAndSeventyFourLateToBed = {
+  id: "01a0672c-eb1e-700d-a205-6d6bd1405f89",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0386-chapter-three-hundred-and-seventy-four-late-to-bed",
+  title: "Chapter Three Hundred and Seventy-Four - Late to Bed and Late to Rise",
+  story: "story-read/cinnamon-bun",
+  position: 386,
+  ownLength: 1944,
+  unit: "unit/words",
+  publishedAt: "2023-01-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1083962",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1083962/chapter-three-hundred-and-seventy-four-late-to",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0113665TheFallOfTheFairiesPartFour = {
+  id: "01a06730-4de8-759d-8afb-2a788ffdf7b2",
+  type: "story-chapter-read",
+  slug: "salvos-0113-665-the-fall-of-the-fairies-part-four",
+  title: "665. The Fall Of the Fairies Part Four",
+  story: "story-read/salvos",
+  position: 113,
+  ownLength: 1783,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1569319",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1569319/665-the-fall-of-the-fairies-part-four",
+    },
+  ],
+  publishedAt: "2024-03-26",
+  prose: "txt",
+} as const satisfies StoryChapterRead

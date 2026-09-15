@@ -1,4 +1,4 @@
-import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
 export const esoVampireStageId = {
   id: "01a05fc5-94ce-7081-93f6-d99c2d729a54",

@@ -11,14 +11,14 @@ import { said as gitIn } from "akasha/git/modules/running/git-running.module.cod
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   listedTakenFrom,
   refreshedIn,
   valueTakenFrom,
-} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { declaringUnder } from "akasha/testing-system/test-fixtures/declaring/declaring.test-fixture.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as outOf } from "akasha/utils/run/modules/running/running.module.code.ts"
 

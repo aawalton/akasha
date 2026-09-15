@@ -1,9 +1,9 @@
 import { existsSync } from "node:fs"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { cluster as clusterArgument } from "akasha/command/arguments/pages/cluster.argument.ts"
-import { controlPlaneIps } from "akasha/command/arguments/pages/control-plane-ips.argument.ts"
-import { ip as ipArgument } from "akasha/command/arguments/pages/ip.argument.ts"
-import { workerIps } from "akasha/command/arguments/pages/worker-ips.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { cluster as clusterArgument } from "akasha/command/argument/pages/cluster.argument.ts"
+import { controlPlaneIps } from "akasha/command/argument/pages/control-plane-ips.argument.ts"
+import { ip as ipArgument } from "akasha/command/argument/pages/ip.argument.ts"
+import { workerIps } from "akasha/command/argument/pages/worker-ips.argument.ts"
 import {
   OPERATIONAL,
   refusedBy,

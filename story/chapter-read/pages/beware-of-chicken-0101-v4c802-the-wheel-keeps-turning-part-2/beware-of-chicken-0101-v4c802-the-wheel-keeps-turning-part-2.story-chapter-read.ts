@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0101V4c802TheWheelKeepsTurningPart2 = {
+  id: "01a08397-14e5-7dba-ac1f-4d361bb8cdc8",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0101-v4c802-the-wheel-keeps-turning-part-2",
+  story: "story-read/beware-of-chicken",
+  position: 101,
+  publishedAt: "2024-03-01",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1537350",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1537350/v4c802-the-wheel-keeps-turning-part-2",
+    },
+  ],
+  title: "v4c80.2: The Wheel Keeps Turning Part 2",
+  ownLength: 2493,
+  prose: "txt",
+} as const satisfies StoryChapterRead

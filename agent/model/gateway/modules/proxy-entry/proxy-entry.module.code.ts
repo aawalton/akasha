@@ -20,7 +20,7 @@ import {
   redirectConsoleToSink,
   seatPageSink,
 } from "akasha/agent/seat/supervisors/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
-import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export const CONSOLE_SOURCE = "oauth-proxy-console"
 

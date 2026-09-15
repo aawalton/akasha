@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const recoveryLadder = {
+  id: "01a06594-c67c-700c-ae61-931e270f5e3d",
+  type: "book-section",
+  slug: "recovery-ladder",
+  title: "The recovery ladder",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

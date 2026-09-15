@@ -2,9 +2,9 @@ import {
   readFiles,
   readPages,
   writeFiles,
-} from "akasha/pages/query/modules/store-writing/store-writing.module.code.ts"
-import type { Row } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
-import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
+import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,

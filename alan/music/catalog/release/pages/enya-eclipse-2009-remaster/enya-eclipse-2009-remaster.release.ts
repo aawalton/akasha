@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const enyaEclipse2009Remaster = {
+  id: "01a0676a-d71c-704f-a404-d2cd0867e87f",
+  type: "release",
+  slug: "enya-eclipse-2009-remaster",
+  title: "Eclipse (2009 Remaster)",
+  partOfCollections: ["artist/enya"],
+  position: 0,
+  ownLength: 13.47745,
+  ownProgress: 13.47745,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-06-12",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2boYA3zd6uqaTWBEPCmcCm",
+      externalLink: "https://open.spotify.com/album/2boYA3zd6uqaTWBEPCmcCm",
+    },
+  ],
+} as const satisfies Release

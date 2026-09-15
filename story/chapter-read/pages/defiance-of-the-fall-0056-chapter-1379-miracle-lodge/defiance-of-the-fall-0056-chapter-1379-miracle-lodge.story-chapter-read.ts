@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const defianceOfTheFall0056Chapter1379MiracleLodge = {
+  id: "01a06591-3c72-711f-b0fd-d970730219c0",
+  type: "story-chapter-read",
+  slug: "defiance-of-the-fall-0056-chapter-1379-miracle-lodge",
+  title: "Chapter 1,379 - Miracle Lodge",
+  story: "story-read/defiance-of-the-fall",
+  position: 56,
+  ownLength: 3083,
+  unit: "unit/words",
+  publishedAt: "2025-11-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2772575",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2772575/chapter-1379-miracle-lodge",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

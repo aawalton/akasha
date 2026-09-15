@@ -1,0 +1,14 @@
+import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/email-rule-code.page-type.types.ts"
+
+export const tsaPrecheckClearPromo = {
+  id: "01a06860-54a2-726f-a1c8-605e69131e95",
+  type: "email-rule-code",
+  slug: "tsa-precheck-clear-promo",
+  title: "Tsa precheck clear promo",
+  matches: [
+    { field: "from", comparison: "is", values: ["donotreply@tsa.dhs.gov"] },
+    { field: "subject", comparison: "contains", values: ["survey", "feedback", "by clear"] },
+  ],
+  filing: "archive",
+  actions: ["unsubscribe"],
+} as const satisfies EmailRuleCode

@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaButtonsCssFilterheadzRemixes = {
+  id: "01a0676a-d719-704b-9c7d-7f3e4842a53d",
+  type: "release",
+  slug: "sia-buttons-css-filterheadz-remixes",
+  title: "Buttons (CSS & Filterheadz Remixes)",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 11.13955,
+  ownProgress: 11.13955,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2008-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0Txr8gEa4Lrdy9qELw1pir",
+      externalLink: "https://open.spotify.com/album/0Txr8gEa4Lrdy9qELw1pir",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0010V4c5AcrossTheFace = {
+  id: "01a0672c-ec81-7000-97df-863be1cce8bc",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0010-v4c5-across-the-face",
+  title: "v4c5: Across the Face",
+  story: "story-read/beware-of-chicken",
+  position: 10,
+  ownLength: 2182,
+  ownProgress: 2182,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:51:38.917Z",
+  publishedAt: "2023-05-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1200675",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1200675/v4c5-across-the-face",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

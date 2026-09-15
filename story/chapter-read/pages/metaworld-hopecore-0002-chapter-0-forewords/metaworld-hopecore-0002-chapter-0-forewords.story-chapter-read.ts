@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const metaworldHopecore0002Chapter0Forewords = {
+  id: "01a06743-b3b1-7001-9721-2a996523d9d3",
+  type: "story-chapter-read",
+  slug: "metaworld-hopecore-0002-chapter-0-forewords",
+  title: "Chapter 0 - Forewords",
+  story: "story-read/metaworld-hopecore",
+  position: 2,
+  ownLength: 661,
+  unit: "unit/words",
+  publishedAt: "2026-05-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3364264",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364264/chapter-0-forewords",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

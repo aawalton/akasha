@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const catGirlEvolution010099AGiftFromTheDungeon = {
+  id: "01a06731-b00e-7001-b825-25686f54ad9c",
+  type: "story-chapter-read",
+  slug: "cat-girl-evolution-0100-99-a-gift-from-the-dungeon",
+  title: "99 - A Gift from the Dungeon",
+  story: "story-read/cat-girl-evolution",
+  position: 100,
+  ownLength: 3071,
+  unit: "unit/words",
+  publishedAt: "2026-03-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3142731",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3142731/99-a-gift-from-the-dungeon",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

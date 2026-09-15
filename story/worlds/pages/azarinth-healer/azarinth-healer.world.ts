@@ -1,8 +1,0 @@
-import type { World } from "akasha/story/worlds/world.page-type.types.ts"
-
-export const azarinthHealer = {
-  id: "01a063d8-61f2-7f8d-b513-c80b2bfc802d",
-  type: "world",
-  slug: "azarinth-healer",
-  title: "Azarinth Healer",
-} as const satisfies World

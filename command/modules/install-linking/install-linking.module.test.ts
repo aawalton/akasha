@@ -14,7 +14,7 @@ import {
   machineNow,
   weighedIn,
 } from "akasha/command/modules/install-linking/install-linking.module.code.ts"
-import { valuedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   aProperty,
   aType,
@@ -24,8 +24,8 @@ import {
   type Named,
   pageOf,
   scratch as worldScratch,
-} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+} from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

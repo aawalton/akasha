@@ -1,4 +1,4 @@
-import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   conditionsTaken,
   saidWrong,

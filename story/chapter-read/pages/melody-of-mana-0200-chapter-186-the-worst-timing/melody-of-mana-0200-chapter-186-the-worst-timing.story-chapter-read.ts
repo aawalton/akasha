@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0200Chapter186TheWorstTiming = {
+  id: "01a06731-ad82-7018-b5e1-3c62c203da1f",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0200-chapter-186-the-worst-timing",
+  title: "Chapter 186 The Worst Timing",
+  story: "story-read/melody-of-mana",
+  position: 200,
+  ownLength: 1649,
+  ownProgress: 1649,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:32:44.268Z",
+  publishedAt: "2022-11-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1036094",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1036094/chapter-186-the-worst-timing",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,4 +1,4 @@
-import type { Namespace } from "akasha/command/namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/command/namespace/namespace.page-type.types.ts"
 
 export const chess = {
   id: "01a0a040-5c4d-721b-9a58-8152382ae8f2",

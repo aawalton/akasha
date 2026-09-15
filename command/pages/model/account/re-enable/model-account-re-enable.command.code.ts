@@ -2,8 +2,8 @@ import {
   markedIn,
   subscriptionMarks,
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { account } from "akasha/command/arguments/pages/account.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { account } from "akasha/command/argument/pages/account.argument.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -14,8 +14,8 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { modelAccountReEnable as page } from "akasha/command/pages/model/account/re-enable/model-account-re-enable.command.ts"
-import { readingIn } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
 export function modelAccountReEnable(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [account])

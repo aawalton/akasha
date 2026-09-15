@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const greenDayBulletInABible = {
+  id: "01a0676a-d719-7042-80f2-416277fb75ff",
+  type: "release",
+  slug: "green-day-bullet-in-a-bible",
+  title: "Bullet in a Bible",
+  partOfCollections: ["artist/green-day"],
+  position: 0,
+  ownLength: 65.04035,
+  ownProgress: 65.04035,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2005-11-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2lybymL3xuzBGH9vsUnhai",
+      externalLink: "https://open.spotify.com/album/2lybymL3xuzBGH9vsUnhai",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

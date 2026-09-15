@@ -1,0 +1,24 @@
+import type { InstantProperty } from "akasha/page/instant-property/instant-property.page-type.types.ts"
+
+export const errorLastSeenAt = {
+  id: "01a05f3f-e3e0-7d03-874b-3c6c7f2183d1",
+  type: "instant-property",
+  slug: "error-last-seen-at",
+  propertySlug: "last-seen-at",
+  definition: "when an error was most recently met",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The moment an error was last met moves whenever the error is met again.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The moment an error was last met is kept outside the commit.",
+    },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "An error naming no such moment was last met at an unknown moment.",
+    },
+  ],
+  types: "ts",
+} as const satisfies InstantProperty

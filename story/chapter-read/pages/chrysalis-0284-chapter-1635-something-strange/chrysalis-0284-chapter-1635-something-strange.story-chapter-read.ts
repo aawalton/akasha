@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0284Chapter1635SomethingStrange = {
+  id: "01a0672c-eb65-7002-8482-0608ef77e1bb",
+  type: "story-chapter-read",
+  slug: "chrysalis-0284-chapter-1635-something-strange",
+  title: "Chapter 1635 - Something Strange",
+  story: "story-read/chrysalis",
+  position: 284,
+  ownLength: 969,
+  ownProgress: 969,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:52:53.752Z",
+  publishedAt: "2025-09-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2564236",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2564236/chapter-1635-something-strange",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

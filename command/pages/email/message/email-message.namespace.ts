@@ -1,4 +1,4 @@
-import type { Namespace } from "akasha/command/namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/command/namespace/namespace.page-type.types.ts"
 
 export const emailMessage = {
   id: "01a07bbf-258e-734c-970f-75a18de63e76",

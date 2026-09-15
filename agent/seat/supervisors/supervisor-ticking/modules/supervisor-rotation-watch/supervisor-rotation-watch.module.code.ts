@@ -3,7 +3,7 @@ import { LOG } from "akasha/agent/seat/supervisors/supervisor-process/modules/su
 import {
   midRefresh,
   REFRESH_WAITED_AT_MOST_MS,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const POLL_INTERVAL_MS = 1_000
 

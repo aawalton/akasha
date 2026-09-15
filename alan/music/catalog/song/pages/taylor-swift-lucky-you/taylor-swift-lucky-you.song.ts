@@ -1,0 +1,20 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const taylorSwiftLuckyYou = {
+  id: "019ea416-1f7d-7c02-8a05-dcd65e96805a",
+  type: "song",
+  slug: "taylor-swift-lucky-you",
+  title: "Lucky You",
+  artist: "artist/taylor-swift",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "6398e063-cf22-40b8-a1e8-15f8ccf64052",
+      externalLink: "https://musicbrainz.org/work/6398e063-cf22-40b8-a1e8-15f8ccf64052",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  written: "solo",
+} as const satisfies Song

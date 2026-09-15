@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const greenDayTheSaintsAreComingLive = {
+  id: "01a0676a-d72e-7003-b8a3-1c71a60ad6db",
+  type: "release",
+  slug: "green-day-the-saints-are-coming-live",
+  title: "The Saints Are Coming (Live)",
+  partOfCollections: ["artist/green-day"],
+  position: 0,
+  ownLength: 3.45755,
+  ownProgress: 3.45755,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2006-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7DnsBgWqerL2UTkkYi3o9l",
+      externalLink: "https://open.spotify.com/album/7DnsBgWqerL2UTkkYi3o9l",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

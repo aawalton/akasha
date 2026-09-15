@@ -1,0 +1,35 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const narrowKey = {
+  id: "01a063ee-2a3b-7005-88c7-33c0811a55ea",
+  type: "text-property",
+  slug: "narrow-key",
+  propertySlug: "key",
+  definition: "the key one narrow reads off a page",
+  maxLength: 100,
+  nameFormat: null,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A key no property declares and no page carries answers nothing.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A key is spelled as the page with the key spells the key.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A key parted by dots reaches a field inside the property its first segment names.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page meets such a key where some value that key reaches meets the narrow.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A property holding many records is entered one record at a time.",
+    },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

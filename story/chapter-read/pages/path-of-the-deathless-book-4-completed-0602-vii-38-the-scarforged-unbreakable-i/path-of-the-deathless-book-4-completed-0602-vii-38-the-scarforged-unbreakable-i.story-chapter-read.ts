@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0602Vii38TheScarforgedUnbreakableI = {
+  id: "01a06730-4efd-78fb-bf45-d7438c018e24",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0602-vii-38-the-scarforged-unbreakable-i",
+  title: "VII-38 The Scarforged Unbreakable (I)",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 602,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3596578/vii-38-the-scarforged-unbreakable-i",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

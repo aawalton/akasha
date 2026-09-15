@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
+import type { BooleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.types.ts"
 
 export const sendInFlight = {
   id: "01a0541c-db61-743b-b5b2-9614897763f3",

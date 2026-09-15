@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0232ChapterTwoHundredAndTwentyFourCelebrating = {
+  id: "01a0672c-eb14-7000-bb1f-6f2a939a7c6e",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0232-chapter-two-hundred-and-twenty-four-celebrating",
+  title: "Chapter Two Hundred and Twenty-Four - Celebrating the Good Things",
+  story: "story-read/cinnamon-bun",
+  position: 232,
+  ownLength: 1983,
+  unit: "unit/words",
+  publishedAt: "2021-07-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "717989",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/717989/chapter-two-hundred-and-twenty-four-celebrating",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0008Chapter1361TheDepths = {
+  id: "01a0672c-eb5a-7006-8090-198f4bd61585",
+  type: "story-chapter-read",
+  slug: "chrysalis-0008-chapter-1361-the-depths",
+  title: "Chapter 1361 - The Depths",
+  story: "story-read/chrysalis",
+  position: 8,
+  ownLength: 1085,
+  ownProgress: 1085,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:43:54.537Z",
+  publishedAt: "2024-06-25",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1691906",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1691906/chapter-1361-the-depths",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

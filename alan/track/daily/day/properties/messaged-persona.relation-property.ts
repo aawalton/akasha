@@ -1,0 +1,11 @@
+import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+
+export const messagedPersona = {
+  id: "01a082db-817c-7626-b074-d75a367de571",
+  type: "relation-property",
+  slug: "messaged-persona",
+  propertySlug: "persona",
+  definition: "the persona Alan wrote to",
+  targetPageType: "page-type/persona",
+  types: "ts",
+} as const satisfies RelationProperty

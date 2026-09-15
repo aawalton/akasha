@@ -1,0 +1,18 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theOnesIHaveNotBeenYet = {
+  id: "01a06559-9d65-7ce8-bd4e-95ac7352f70b",
+  type: "all-about-alan-topic",
+  slug: "the-ones-i-have-not-been-yet",
+  title: "The Ones I Have Not Been Yet",
+  definition:
+    "about half a billion selves ahead of me, and the veto they put on anything I cannot undo",
+  parents: ["all-about-alan-topic/the-crowd-that-has-been-me"],
+  related: [
+    "all-about-alan-topic/how-i-make-a-decision-i-cannot-undo",
+    "all-about-alan-topic/the-ethics-i-worked-out",
+    "all-about-alan-topic/the-three-seconds-i-am",
+  ],
+  settled:
+    "Forward the count is the wall against acting: an irreversible act ends all of them.\n\nIt comes from a branching rate times the years I have left.\n\nThey stand equal with me rather than below me, so what I owe them is fairness rather than discipline.",
+} as const satisfies AllAboutAlanTopic

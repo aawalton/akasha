@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0484ChapterFourHundredAndSeventyWhetYour = {
+  id: "01a0672c-eb23-7004-b75c-77e56c718e91",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0484-chapter-four-hundred-and-seventy-whet-your",
+  title: "Chapter Four Hundred and Seventy - Whet Your Appetite",
+  story: "story-read/cinnamon-bun",
+  position: 484,
+  ownLength: 1613,
+  unit: "unit/words",
+  publishedAt: "2024-02-13",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1517218",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1517218/chapter-four-hundred-and-seventy-whet-your-appetite",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

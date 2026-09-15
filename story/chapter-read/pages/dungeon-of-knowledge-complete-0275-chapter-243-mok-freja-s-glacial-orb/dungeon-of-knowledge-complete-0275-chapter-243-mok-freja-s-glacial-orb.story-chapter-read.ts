@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0275Chapter243MokFrejaSGlacialOrb = {
+  id: "01a0672c-ebda-7000-b055-83f1302191d0",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0275-chapter-243-mok-freja-s-glacial-orb",
+  title: "Chapter 243: Mok’freja’s Glacial Orb",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 275,
+  ownLength: 2116,
+  ownProgress: 2116,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:20:32.893Z",
+  publishedAt: "2025-05-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2264604",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2264604/chapter-243-mokfrejas-glacial-orb",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

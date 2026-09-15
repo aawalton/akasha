@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const shapeshifterANonHumanLitrpg0041Chapter36Level100 = {
+  id: "01a06730-4e0a-7f6b-996a-28211f5bdc88",
+  type: "story-chapter-read",
+  slug: "shapeshifter-a-non-human-litrpg-0041-chapter-36-level-100",
+  title: "Chapter 36: Level 100",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
+  position: 41,
+  ownLength: 2155,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3870898",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3870898/chapter-36-level-100",
+    },
+  ],
+  publishedAt: "2026-08-27",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,21 @@
+import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skill.page-type.types.ts"
+
+export const metalworking = {
+  id: "019e6224-cca5-771c-ab95-143208d7cbac",
+  type: "temper-skill",
+  slug: "metalworking",
+  title: "Metalworking",
+  key: "metalworking",
+  baseName: "Metalworking",
+  description: '"Allows the use of Rubedite Ingots."',
+  icon: "/esoui/art/icons/ability_smith_001.dds",
+  esoSkillId: 70041,
+  isMorph: false,
+  learnedLevel: 1,
+  lineRankNeeded: 1,
+  morphIndex: 0,
+  rank: 10,
+  skillLineId: "craft-blacksmithing",
+  skillType: "passive",
+  subcategoryId: "craft-blacksmithing",
+} as const satisfies TemperSkill

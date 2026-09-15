@@ -1,0 +1,10 @@
+import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-motif-style/temper-motif-style.page-type.types.ts"
+
+export const refabricated = {
+  id: "019e5a46-c3f9-7012-a88f-af1b1bb5c1ff",
+  type: "temper-motif-style",
+  slug: "refabricated",
+  title: "Refabricated",
+  collectionIndex: 39,
+  sourceDescription: "Halls of Fabrication trial",
+} as const satisfies TemperMotifStyle

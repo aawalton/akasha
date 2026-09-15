@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0039TheLevelZeroHeroChapter251 = {
+  id: "01a06585-ef25-75c7-8427-495626db6b8d",
+  type: "story-chapter-read",
+  slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0039-the-level-zero-hero-chapter-251",
+  title: "The Level Zero Hero Chapter 251",
+  story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  position: 39,
+  ownLength: 1474,
+  unit: "unit/words",
+  publishedAt: "2024-08-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1772338",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1772338/the-level-zero-hero-chapter-251",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0217Chapter228Girlfriend = {
+  id: "01a0672c-ebdc-7001-9d39-77ed55033eee",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0217-chapter-228-girlfriend",
+  title: "Chapter 228 - Girlfriend",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 217,
+  ownLength: 3496,
+  unit: "unit/words",
+  publishedAt: "2017-04-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "130601",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130601/chapter-228-girlfriend",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

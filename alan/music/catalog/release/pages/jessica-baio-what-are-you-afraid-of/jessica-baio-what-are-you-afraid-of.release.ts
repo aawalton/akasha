@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jessicaBaioWhatAreYouAfraidOf = {
+  id: "01a0676a-d730-7040-994d-98b77753d0ff",
+  type: "release",
+  slug: "jessica-baio-what-are-you-afraid-of",
+  title: "what are you afraid of?",
+  partOfCollections: ["artist/jessica-baio"],
+  position: 0,
+  ownLength: 10.087917,
+  ownProgress: 10.087917,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2024-09-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "07mGocNty3EMxeXCnRVCnk",
+      externalLink: "https://open.spotify.com/album/07mGocNty3EMxeXCnRVCnk",
+    },
+  ],
+} as const satisfies Release

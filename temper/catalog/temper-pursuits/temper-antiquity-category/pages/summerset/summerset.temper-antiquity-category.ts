@@ -1,0 +1,10 @@
+import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursuits/temper-antiquity-category/temper-antiquity-category.page-type.types.ts"
+
+export const summerset = {
+  id: "01a06166-503d-700d-b98e-6badccf86652",
+  type: "temper-antiquity-category",
+  slug: "summerset",
+  title: "Summerset",
+  esoAntiquityCategoryId: 33,
+  antiquities: "jsonl",
+} as const satisfies TemperAntiquityCategory

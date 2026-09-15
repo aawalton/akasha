@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonIGoDancingFeatEllaHendersonJoelCorryRemix = {
+  id: "01a0676a-d721-701d-a81f-ca0eef241514",
+  type: "release",
+  slug: "ella-henderson-i-go-dancing-feat-ella-henderson-joel-corry-remix",
+  title: "I Go Dancing (feat. Ella Henderson) [Joel Corry Remix]",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 2.715667,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2023-03-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5rOCUxXjUK0XnoNqBY17US",
+      externalLink: "https://open.spotify.com/album/5rOCUxXjUK0XnoNqBY17US",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

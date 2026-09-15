@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0489Chapter452LevelingAssist = {
+  id: "01a0672c-ec20-7003-bae6-5a89d0b4481f",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0489-chapter-452-leveling-assist",
+  title: "Chapter 452: Leveling Assist",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 489,
+  ownLength: 2636,
+  ownProgress: 2636,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:28:47.756Z",
+  publishedAt: "2025-11-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2788698",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2788698/chapter-452-leveling-assist",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

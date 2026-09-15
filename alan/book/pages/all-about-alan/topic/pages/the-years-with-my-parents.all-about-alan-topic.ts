@@ -1,0 +1,18 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const theYearsWithMyParents = {
+  id: "01a06559-9d65-7672-88c8-b2eb82240145",
+  type: "all-about-alan-topic",
+  slug: "the-years-with-my-parents",
+  title: "The Years With My Parents",
+  definition:
+    "my father's last years and my mother's, and the whole run of it that is nowhere written down",
+  parents: ["all-about-alan-topic/the-chapters-of-my-life"],
+  related: [
+    "all-about-alan-topic/what-the-book-of-me-is-for",
+    "all-about-alan-topic/why-getting-close-hurts",
+    "all-about-alan-topic/blank-check-mode-and-recovery-mode",
+  ],
+  settled:
+    "My parents explicitly called their parenting philosophy benevolent neglect. It took me thirty-eight years to realize that is a kind of neglect.",
+} as const satisfies AllAboutAlanTopic

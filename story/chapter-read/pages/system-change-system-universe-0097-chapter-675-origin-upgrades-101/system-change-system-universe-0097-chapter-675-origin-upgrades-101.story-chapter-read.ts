@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const systemChangeSystemUniverse0097Chapter675OriginUpgrades101 = {
+  id: "01a06730-4fbd-78db-86d5-9b729770da03",
+  type: "story-chapter-read",
+  slug: "system-change-system-universe-0097-chapter-675-origin-upgrades-101",
+  title: "Chapter 675: Origin Upgrades 101",
+  story: "story-read/system-change-system-universe",
+  position: 97,
+  ownLength: 2111,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3801931",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3801931/chapter-675-origin-upgrades-101",
+    },
+  ],
+  publishedAt: "2026-08-11",
+  prose: "txt",
+} as const satisfies StoryChapterRead

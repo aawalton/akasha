@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whereTheSeedSitsAgainstMySelves = {
-  id: "01a077ed-2385-7ed4-9455-68e8adce7c18",
-  type: "all-about-alan-question",
-  slug: "where-the-seed-sits-against-my-selves",
-  topic: "all-about-alan-topic/what-this-life-is-for",
-  ask: "Where does the seed sit against the selves I am built of?",
-} as const satisfies AllAboutAlanQuestion

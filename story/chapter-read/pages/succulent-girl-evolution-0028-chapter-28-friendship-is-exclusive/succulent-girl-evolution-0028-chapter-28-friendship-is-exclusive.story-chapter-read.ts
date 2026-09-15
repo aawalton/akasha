@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const succulentGirlEvolution0028Chapter28FriendshipIsExclusive = {
+  id: "01a06730-4deb-7c91-a658-7bc4e527bd60",
+  type: "story-chapter-read",
+  slug: "succulent-girl-evolution-0028-chapter-28-friendship-is-exclusive",
+  title: "Chapter 28: Friendship is Exclusive",
+  story: "story-read/succulent-girl-evolution",
+  position: 28,
+  ownLength: 1923,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2633391",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2633391/chapter-28-friendship-is-exclusive",
+    },
+  ],
+  publishedAt: "2025-09-27",
+  prose: "txt",
+} as const satisfies StoryChapterRead

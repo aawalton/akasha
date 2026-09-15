@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bookboundBunny0021B3Chapter17Distribution = {
+  id: "01a06731-b0cc-7005-bf68-2a44e345ae8a",
+  type: "story-chapter-read",
+  slug: "bookbound-bunny-0021-b3-chapter-17-distribution",
+  title: "B3 - Chapter 17 - Distribution",
+  story: "story-read/bookbound-bunny",
+  position: 21,
+  ownLength: 2012,
+  unit: "unit/words",
+  publishedAt: "2026-03-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3150278",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3150278/b3-chapter-17-distribution",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

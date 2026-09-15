@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const siaYouHaveBeenLoved = {
+  id: "019ea4ce-0e3f-7213-94bf-c8645fc41714",
+  type: "song",
+  slug: "sia-you-have-been-loved",
+  title: "You Have Been Loved",
+  artist: "artist/sia",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bd234fcf-1013-45a9-a61b-f00b12a48214",
+      externalLink: "https://musicbrainz.org/work/bd234fcf-1013-45a9-a61b-f00b12a48214",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "collab",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

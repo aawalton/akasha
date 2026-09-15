@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const nsync2YoTeVoyAAmarThisIPromiseYou = {
+  id: "01a0676a-d732-7000-9c63-a315b899aa7c",
+  type: "release",
+  slug: "nsync-2-yo-te-voy-a-amar-this-i-promise-you",
+  title: "Yo Te Voy A Amar (This I Promise You)",
+  partOfCollections: ["artist/nsync"],
+  position: 0,
+  ownLength: 13.414333,
+  ownProgress: 13.414333,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2000-09-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5IjfaWjY2Suypd5xiDMLi5",
+      externalLink: "https://open.spotify.com/album/5IjfaWjY2Suypd5xiDMLi5",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0227V6c38SneakingBackHome = {
+  id: "01a06731-adc1-7005-a5f0-51b4504ee39b",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0227-v6c38-sneaking-back-home",
+  title: "v6c38: Sneaking Back Home",
+  story: "story-read/beware-of-chicken",
+  position: 227,
+  ownLength: 1787,
+  ownProgress: 1787,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:59:09.477Z",
+  publishedAt: "2025-06-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2386148",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2386148/v6c38-sneaking-back-home",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

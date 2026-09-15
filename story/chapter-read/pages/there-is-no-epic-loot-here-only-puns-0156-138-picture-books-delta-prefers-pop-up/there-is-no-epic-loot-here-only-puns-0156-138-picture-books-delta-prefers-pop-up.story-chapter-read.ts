@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thereIsNoEpicLootHereOnlyPuns0156138PictureBooksDeltaPrefersPopUp = {
+  id: "01a06730-52c2-7aca-9fd8-879205277e78",
+  type: "story-chapter-read",
+  slug: "there-is-no-epic-loot-here-only-puns-0156-138-picture-books-delta-prefers-pop-up",
+  title: "138: Picture Books? Delta prefers Pop-Up!",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
+  position: 156,
+  ownLength: 2526,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "710613",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/710613/138-picture-books-delta-prefers-pop-up",
+    },
+  ],
+  publishedAt: "2021-07-04",
+  prose: "txt",
+} as const satisfies StoryChapterRead

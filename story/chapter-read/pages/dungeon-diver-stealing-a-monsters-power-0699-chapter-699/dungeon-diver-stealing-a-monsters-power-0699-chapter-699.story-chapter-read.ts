@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonDiverStealingAMonstersPower0699Chapter699 = {
+  id: "01a0672b-4519-7005-9efb-a42115ae5951",
+  type: "story-chapter-read",
+  slug: "dungeon-diver-stealing-a-monsters-power-0699-chapter-699",
+  title: "Chapter 699",
+  story: "story-read/dungeon-diver-stealing-a-monsters-power",
+  position: 699,
+  ownLength: 1948,
+  ownProgress: 1948,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:59:58.057Z",
+  publishedAt: "2024-12-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1960196",
+      externalLink:
+        "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1960196/chapter-699",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

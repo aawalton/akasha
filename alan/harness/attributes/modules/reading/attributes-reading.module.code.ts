@@ -1,20 +1,20 @@
-import { keepPointsToday } from "akasha/alan/attributes/modules/points/attribute-points.module.code.ts"
-import { charismaIn } from "akasha/alan/attributes/pages/charisma/charisma.attribute.code.ts"
-import { fetchConstitutionPoints } from "akasha/alan/attributes/pages/constitution/constitution.attribute.code.ts"
-import { enduranceIn } from "akasha/alan/attributes/pages/endurance/endurance.attribute.code.ts"
-import { intelligenceIn } from "akasha/alan/attributes/pages/intelligence/intelligence.attribute.code.ts"
-import { strengthIn } from "akasha/alan/attributes/pages/strength/strength.attribute.code.ts"
-import { wisdomIn } from "akasha/alan/attributes/pages/wisdom/wisdom.attribute.code.ts"
-import { attributeCharisma } from "akasha/alan/attributes/readouts/attribute-charisma/attribute-charisma.readout.ts"
-import { attributeConstitution } from "akasha/alan/attributes/readouts/attribute-constitution/attribute-constitution.readout.ts"
-import { attributeEndurance } from "akasha/alan/attributes/readouts/attribute-endurance/attribute-endurance.readout.ts"
-import { attributeIntelligence } from "akasha/alan/attributes/readouts/attribute-intelligence/attribute-intelligence.readout.ts"
-import { attributeStrength } from "akasha/alan/attributes/readouts/attribute-strength/attribute-strength.readout.ts"
-import { attributeWisdom } from "akasha/alan/attributes/readouts/attribute-wisdom/attribute-wisdom.readout.ts"
+import { keepPointsToday } from "akasha/alan/attribute/modules/points/attribute-points.module.code.ts"
+import { charismaIn } from "akasha/alan/attribute/pages/charisma/charisma.attribute.code.ts"
+import { fetchConstitutionPoints } from "akasha/alan/attribute/pages/constitution/constitution.attribute.code.ts"
+import { enduranceIn } from "akasha/alan/attribute/pages/endurance/endurance.attribute.code.ts"
+import { intelligenceIn } from "akasha/alan/attribute/pages/intelligence/intelligence.attribute.code.ts"
+import { strengthIn } from "akasha/alan/attribute/pages/strength/strength.attribute.code.ts"
+import { wisdomIn } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.code.ts"
+import { attributeCharisma } from "akasha/alan/attribute/readouts/attribute-charisma/attribute-charisma.readout.ts"
+import { attributeConstitution } from "akasha/alan/attribute/readouts/attribute-constitution/attribute-constitution.readout.ts"
+import { attributeEndurance } from "akasha/alan/attribute/readouts/attribute-endurance/attribute-endurance.readout.ts"
+import { attributeIntelligence } from "akasha/alan/attribute/readouts/attribute-intelligence/attribute-intelligence.readout.ts"
+import { attributeStrength } from "akasha/alan/attribute/readouts/attribute-strength/attribute-strength.readout.ts"
+import { attributeWisdom } from "akasha/alan/attribute/readouts/attribute-wisdom/attribute-wisdom.readout.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import { askingIn } from "akasha/alan/harness/plants/modules/reading/plants-reading.module.code.ts"
-import type { Row } from "akasha/alan/harness/readouts/modules/asking/readout-asking.module.code.ts"
-import { keepReading } from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
+import type { Row } from "akasha/alan/harness/readout/modules/asking/readout-asking.module.code.ts"
+import { keepReading } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import {
   openedDayOf,
   openedDayWindow,
@@ -25,11 +25,11 @@ import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.t
 import {
   AKASHA,
   resolveRoots,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
-const READOUTS = "alan/attributes/readouts"
+const READOUTS = "alan/attribute/readouts"
 
 export const STRENGTH_PAGE = `${READOUTS}/attribute-strength/attribute-strength.readout.ts`
 

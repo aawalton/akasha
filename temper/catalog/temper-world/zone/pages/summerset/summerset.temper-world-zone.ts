@@ -1,0 +1,12 @@
+import type { TemperWorldZone } from "akasha/temper/catalog/temper-world/zone/temper-world-zone.page-type.types.ts"
+
+export const summerset = {
+  id: "01a06165-cbbf-700b-84af-a901d4278eaf",
+  type: "temper-world-zone",
+  slug: "summerset",
+  title: "Summerset",
+  esoZoneId: 1011,
+  zoneQuests: "jsonl",
+  pois: "jsonl",
+  zoneCompletionActivities: "jsonl",
+} as const satisfies TemperWorldZone

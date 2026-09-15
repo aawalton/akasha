@@ -1,4 +1,4 @@
-import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
+import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-type.types.ts"
 
 export const scriptPaths = {
   id: "01a08ee1-df5c-739b-aaae-9c94d47a27ee",

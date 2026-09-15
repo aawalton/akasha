@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const forgeOfDestiny0237Threads204OpeningDay2 = {
+  id: "01a06591-3dfb-79d6-a0c3-2fdba59fa73a",
+  type: "story-chapter-read",
+  slug: "forge-of-destiny-0237-threads-204-opening-day-2",
+  title: "Threads 204-Opening Day 2",
+  story: "story-read/forge-of-destiny",
+  position: 237,
+  ownLength: 2265,
+  unit: "unit/words",
+  publishedAt: "2022-04-02",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "876358",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/876358/threads-204-opening-day-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

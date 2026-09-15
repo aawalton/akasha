@@ -1,7 +1,7 @@
-import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { loadedAt } from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { change as changeArgument } from "akasha/command/arguments/pages/change.argument.ts"
+import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { loadedAt } from "akasha/change/runner/modules/change-loading/change-loading.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { change as changeArgument } from "akasha/command/argument/pages/change.argument.ts"
 import {
   applyingKept,
   applyWith,
@@ -16,7 +16,7 @@ import {
 import { inputIn } from "akasha/command/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { changeApply as applyPage } from "akasha/command/pages/change/apply/change-apply.command.ts"
-import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 
 const NAMED = [changeArgument]
 

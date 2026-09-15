@@ -17,12 +17,12 @@ import { buildTestflightDeployScript } from "akasha/alan/harness/mobile-cli/modu
 import {
   listedAt,
   readingIn,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { requireMatch } from "akasha/utils/narrow/modules/require-match/require-match.module.code.ts"
 import { z } from "zod"
 
 const APP = resolveApp("alanwalton")
-const SHARED_SEAM_DIR = "code/ios-apps/scripts"
+const SHARED_SEAM_DIR = "code/ios-app/scripts"
 const STAMP_SEAM_REPO_PATH = `${SHARED_SEAM_DIR}/build-stamp/build-stamp.shell-script.shell.sh`
 const IOS_APP = "ios-app"
 const COMMIT = "977e7d5a3e2f4fbc3942db6faff252272809668e"

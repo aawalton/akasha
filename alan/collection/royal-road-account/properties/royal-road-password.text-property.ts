@@ -1,0 +1,18 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const royalRoadPassword = {
+  id: "01a0685d-b81f-7541-8732-e260a40fbd41",
+  type: "text-property",
+  slug: "royal-road-password",
+  propertySlug: "password",
+  definition: "what authorises a Royal Road account's sign-in",
+  maxLength: 200,
+  nameFormat: null,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The password is in the page's sops file rather than in the page.",
+    },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

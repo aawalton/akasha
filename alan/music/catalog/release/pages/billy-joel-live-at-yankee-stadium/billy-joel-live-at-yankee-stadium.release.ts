@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const billyJoelLiveAtYankeeStadium = {
+  id: "01a0676a-d723-7049-9223-285ef8746255",
+  type: "release",
+  slug: "billy-joel-live-at-yankee-stadium",
+  title: "Live at Yankee Stadium",
+  partOfCollections: ["artist/billy-joel"],
+  position: 0,
+  ownLength: 111.447867,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2022-11-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ZcQQSHbMn6hIoNboBJjbF",
+      externalLink: "https://open.spotify.com/album/3ZcQQSHbMn6hIoNboBJjbF",
+    },
+  ],
+} as const satisfies Release

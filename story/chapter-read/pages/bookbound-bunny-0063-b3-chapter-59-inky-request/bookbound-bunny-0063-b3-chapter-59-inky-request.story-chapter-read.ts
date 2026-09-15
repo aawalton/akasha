@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bookboundBunny0063B3Chapter59InkyRequest = {
+  id: "01a06731-b0cf-7007-9372-8709d67d574b",
+  type: "story-chapter-read",
+  slug: "bookbound-bunny-0063-b3-chapter-59-inky-request",
+  title: "B3 - Chapter 59 - Inky Request",
+  story: "story-read/bookbound-bunny",
+  position: 63,
+  ownLength: 2344,
+  unit: "unit/words",
+  publishedAt: "2026-06-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3610845",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3610845/b3-chapter-59-inky-request",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

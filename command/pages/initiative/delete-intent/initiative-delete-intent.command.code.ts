@@ -1,8 +1,8 @@
 import { resolve } from "node:path"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { initiative } from "akasha/command/arguments/pages/initiative.argument.ts"
-import { statement } from "akasha/command/arguments/pages/statement.argument.ts"
+import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { initiative } from "akasha/command/argument/pages/initiative.argument.ts"
+import { statement } from "akasha/command/argument/pages/statement.argument.ts"
 import {
   answering,
   DATA,
@@ -13,7 +13,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { initiativeDeleteIntent as page } from "akasha/command/pages/initiative/delete-intent/initiative-delete-intent.command.ts"
-import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
+import { initiativesDrawn } from "akasha/domain/modules/work-initiatives/work-initiatives.module.code.ts"
 
 const CARRIES = "change-mechanical-file-content/remove-property-record"
 

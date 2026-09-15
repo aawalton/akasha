@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0083Chapter1435WhenItRainsItSMucus = {
+  id: "01a0672c-eb5d-7001-9f70-55cd6c482fc4",
+  type: "story-chapter-read",
+  slug: "chrysalis-0083-chapter-1435-when-it-rains-it-s-mucus",
+  title: "Chapter 1435 - When it Rains, It’s Mucus",
+  story: "story-read/chrysalis",
+  position: 83,
+  ownLength: 1182,
+  ownProgress: 1182,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:46:30.810Z",
+  publishedAt: "2024-10-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1862420",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1862420/chapter-1435-when-it-rains-its-mucus",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

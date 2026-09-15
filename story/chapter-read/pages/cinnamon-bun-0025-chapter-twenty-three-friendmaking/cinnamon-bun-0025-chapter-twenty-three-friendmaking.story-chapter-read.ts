@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0025ChapterTwentyThreeFriendmaking = {
+  id: "01a0672c-eb03-7001-987b-5ec258779b7d",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0025-chapter-twenty-three-friendmaking",
+  title: "Chapter Twenty-Three - Friendmaking",
+  story: "story-read/cinnamon-bun",
+  position: 25,
+  ownLength: 2004,
+  unit: "unit/words",
+  publishedAt: "2020-05-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "496411",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/496411/chapter-twenty-three-friendmaking",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

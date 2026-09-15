@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   OPERATIONAL,
   partWay,
@@ -33,9 +33,9 @@ const GIVEN: Given = { root: ROOT, calledAs: "akasha", from: ".", writer: null, 
 
 const RATED = "aurora"
 
-const RATED_AT = `alan/music/catalog/artists/pages/${RATED}/${RATED}.artist.ts`
+const RATED_AT = `alan/music/catalog/artist/pages/${RATED}/${RATED}.artist.ts`
 
-const REACTION_AT = `alan/music/catalog/artists/pages/${RATED}/${RATED}.artist.reaction.txt`
+const REACTION_AT = `alan/music/catalog/artist/pages/${RATED}/${RATED}.artist.reaction.txt`
 
 const REACTION = "she sings it plainly"
 

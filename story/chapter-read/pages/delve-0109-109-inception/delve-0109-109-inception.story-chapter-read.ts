@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const delve0109109Inception = {
+  id: "01a06731-aea9-7000-989a-186fbe2ef452",
+  type: "story-chapter-read",
+  slug: "delve-0109-109-inception",
+  title: "109: Inception",
+  story: "story-read/delve",
+  position: 109,
+  ownLength: 5858,
+  unit: "unit/words",
+  publishedAt: "2020-08-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "543017",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/543017/109-inception",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

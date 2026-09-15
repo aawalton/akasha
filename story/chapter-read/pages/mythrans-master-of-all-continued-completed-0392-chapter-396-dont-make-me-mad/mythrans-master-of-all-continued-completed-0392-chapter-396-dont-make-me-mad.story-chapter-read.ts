@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0392Chapter396DontMakeMeMad = {
+  id: "01a0672c-ec86-7001-8e6e-f9245fe31c89",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0392-chapter-396-dont-make-me-mad",
+  title: "Chapter 396 - Don't Make Me Mad",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 392,
+  ownLength: 3587,
+  unit: "unit/words",
+  publishedAt: "2017-10-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "169487",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169487/chapter-396-dont-make-me-mad",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

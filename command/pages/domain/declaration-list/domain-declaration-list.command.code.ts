@@ -1,6 +1,6 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { declarationSubject } from "akasha/command/arguments/pages/declaration-subject.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { declarationSubject } from "akasha/command/argument/pages/declaration-subject.argument.ts"
 import { refusedBy } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { reportedBy } from "akasha/command/modules/report-answering/report-answering.module.code.ts"

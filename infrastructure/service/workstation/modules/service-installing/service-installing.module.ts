@@ -1,0 +1,111 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const serviceInstalling = {
+  id: "01a05a62-6da2-7e4f-9186-137486a0d1e2",
+  type: "module",
+  slug: "service-installing",
+  definition: "the units a workstation service is installed as",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A unit is written to a folder akasha owns and reached by a link systemd reads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A unit akasha installed is a unit whose link points into that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A unit akasha staged is a `.service` or `.timer` file sitting in that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Anything staged there that is neither is no unit and is weighed by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A staged unit no link reaches and no service accounts for is stranded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stranded file is taken away with systemd told to stop and disable nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Anything else sitting beside a unit akasha owns is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A unit akasha owns that no service accounts for is taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A service that is not to be running is written its unit and stopped rather than taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only the unit systemd starts the service by is enabled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "systemd is reloaded after the units are written and before any unit is enabled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A systemctl call that refuses is carried back rather than printed and forgotten.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here is installed for the whole machine.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a page.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reaches the cluster.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A unit is stopped before that unit is disabled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Disabling a unit takes away the link akasha reaches that unit by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A unit written and the link to it are named apart, each after that one landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A unit is named removed after its staged file has gone rather than after a disable.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link that was already there is named by nothing, since nothing wrote it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A link a disable took away is made again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "systemd is reloaded again where a link was made again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A unit named to be restarted is restarted after every unit is enabled.",
+    },
+    { invariantKind: "departure", statement: "A plan naming no unit to restart restarts nothing." },
+    {
+      invariantKind: "departure",
+      statement: "The pages service is restarted before any other unit named to be restarted.",
+    },
+  ],
+} as const satisfies Module

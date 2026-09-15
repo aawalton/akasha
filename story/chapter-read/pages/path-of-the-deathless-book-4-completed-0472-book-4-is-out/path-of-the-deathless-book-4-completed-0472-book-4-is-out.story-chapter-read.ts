@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0472Book4IsOut = {
+  id: "01a091dd-16f9-7763-97c1-53cae63f35fe",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0472-book-4-is-out",
+  position: 472,
+  publishedAt: "2026-09-11",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3945035",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3945035/book-4-is-out",
+    },
+  ],
+  title: "BOOK 4 IS OUT",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  ownLength: 93,
+  prose: "txt",
+} as const satisfies StoryChapterRead

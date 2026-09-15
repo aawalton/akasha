@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const greenDayUno = {
+  id: "01a0676a-d72f-7042-bf2b-793768df75af",
+  type: "release",
+  slug: "green-day-uno",
+  title: "¡UNO!",
+  partOfCollections: ["artist/green-day"],
+  position: 0,
+  ownLength: 41.81345,
+  ownProgress: 41.81345,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2012-09-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6AFJIZmd1zWQDBBwHyeo9w",
+      externalLink: "https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

@@ -1,4 +1,4 @@
-import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
+import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
 
 export const turnStateColor = {
   id: "01a06d7a-e9f9-7644-9ee4-9ddcf6b723ba",

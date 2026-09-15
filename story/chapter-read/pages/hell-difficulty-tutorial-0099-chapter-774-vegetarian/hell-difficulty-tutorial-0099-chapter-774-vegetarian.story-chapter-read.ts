@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0099Chapter774Vegetarian = {
+  id: "01a06731-ad82-700a-b900-e6e17294ce6e",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0099-chapter-774-vegetarian",
+  title: "Chapter 774 - Vegetarian",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 99,
+  ownLength: 2384,
+  unit: "unit/words",
+  publishedAt: "2026-03-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3167373",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3167373/chapter-774-vegetarian",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

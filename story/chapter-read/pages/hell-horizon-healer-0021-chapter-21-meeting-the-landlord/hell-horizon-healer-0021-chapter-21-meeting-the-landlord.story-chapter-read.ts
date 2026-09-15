@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellHorizonHealer0021Chapter21MeetingTheLandlord = {
+  id: "01a06731-ae7c-700e-ab97-f83110643c1e",
+  type: "story-chapter-read",
+  slug: "hell-horizon-healer-0021-chapter-21-meeting-the-landlord",
+  title: "Chapter 21 - Meeting the Landlord",
+  story: "story-read/hell-horizon-healer",
+  position: 21,
+  ownLength: 1607,
+  unit: "unit/words",
+  publishedAt: "2026-06-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3576172",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3576172/chapter-21-meeting-the-landlord",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const labyrinthOfTheMadGod0331Chapter50TheDevouringBlade = {
+  id: "01a06731-ad8d-7002-aaf1-f124dfcf5b62",
+  type: "story-chapter-read",
+  slug: "labyrinth-of-the-mad-god-0331-chapter-50-the-devouring-blade",
+  title: "Chapter 50: The Devouring Blade",
+  story: "story-read/labyrinth-of-the-mad-god",
+  position: 331,
+  ownLength: 1664,
+  unit: "unit/words",
+  publishedAt: "2026-07-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3733956",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3733956/chapter-50-the-devouring-blade",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

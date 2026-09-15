@@ -1,10 +1,10 @@
-import { status as statusPage } from "akasha/alan/collections/properties/status.select-property.ts"
-import type { Status } from "akasha/alan/collections/properties/status.select-property.types.ts"
+import { status as statusPage } from "akasha/alan/collection/properties/status.select-property.ts"
+import type { Status } from "akasha/alan/collection/properties/status.select-property.types.ts"
 import type { MusicRating } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { collectionStatus } from "akasha/command/arguments/pages/collection-status.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { collectionStatus } from "akasha/command/argument/pages/collection-status.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   INPUT,
   refused,
@@ -13,8 +13,8 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { musicArtistList as page } from "akasha/command/pages/music/artist-list/music-artist-list.command.ts"
-import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const ARTIST = "artist"
 

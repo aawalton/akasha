@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHenderson0800HeavenSymmetrikRemixExtended = {
+  id: "01a0676a-d714-7005-8292-39e84455215e",
+  type: "release",
+  slug: "ella-henderson-0800-heaven-symmetrik-remix-extended",
+  title: "0800 HEAVEN (Symmetrik Remix) [Extended]",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 3.83415,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2023-06-23",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5D7WfU6ypRsAkb6znVNkm0",
+      externalLink: "https://open.spotify.com/album/5D7WfU6ypRsAkb6znVNkm0",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

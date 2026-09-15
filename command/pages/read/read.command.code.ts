@@ -10,9 +10,9 @@ import {
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { akashaSeatPathForCaller } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { leadingBytes } from "akasha/code/bodies/modules/utf8-body/utf8-body.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { filePath } from "akasha/command/arguments/pages/file-path.argument.ts"
-import { full as fullArgument } from "akasha/command/arguments/pages/full.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { filePath } from "akasha/command/argument/pages/file-path.argument.ts"
+import { full as fullArgument } from "akasha/command/argument/pages/full.argument.ts"
 import {
   answeredWith,
   INPUT,
@@ -45,7 +45,7 @@ import {
   discarded,
 } from "akasha/command/pages/read/modules/output-reaching/output-reaching.module.code.ts"
 import { read as page } from "akasha/command/pages/read/read.command.ts"
-import { warrantedIn } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import { warrantedIn } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 
 export const ANSWER_CEILING = 28000
 

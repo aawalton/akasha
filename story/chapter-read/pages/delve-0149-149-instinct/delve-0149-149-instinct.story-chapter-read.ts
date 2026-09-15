@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const delve0149149Instinct = {
+  id: "01a06731-af0e-7000-aa01-4bb845cb5ed1",
+  type: "story-chapter-read",
+  slug: "delve-0149-149-instinct",
+  title: "149: Instinct",
+  story: "story-read/delve",
+  position: 149,
+  ownLength: 5268,
+  unit: "unit/words",
+  publishedAt: "2021-06-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "694673",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/694673/149-instinct",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0061SalvosVolume2Part1sGermanEditionIsNow = {
+  id: "01a06730-4de0-7493-902c-8a907186c9ff",
+  type: "story-chapter-read",
+  slug: "salvos-0061-salvos-volume-2-part-1s-german-edition-is-now",
+  title: "Salvos Volume 2 Part 1's GERMAN EDITION is now available!",
+  story: "story-read/salvos",
+  position: 61,
+  ownLength: 160,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "994517",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/994517/salvos-volume-2-part-1s-german-edition-is-now",
+    },
+  ],
+  publishedAt: "2022-09-15",
+  prose: "txt",
+} as const satisfies StoryChapterRead

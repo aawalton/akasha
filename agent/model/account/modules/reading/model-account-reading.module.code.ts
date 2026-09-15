@@ -2,12 +2,12 @@ import {
   everyOfType,
   listedAt,
   typeSlugOf,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
-import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 import { z } from "zod"
 

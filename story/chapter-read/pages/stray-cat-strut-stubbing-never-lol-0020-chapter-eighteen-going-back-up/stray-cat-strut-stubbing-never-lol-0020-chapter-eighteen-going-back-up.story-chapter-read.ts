@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0020ChapterEighteenGoingBackUp = {
+  id: "01a06730-4e0c-77a9-940c-1bdd2ccffc3f",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0020-chapter-eighteen-going-back-up",
+  title: "Chapter Eighteen - Going Back Up",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 20,
+  ownLength: 1069,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "533355",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/533355/chapter-eighteen-going-back-up",
+    },
+  ],
+  publishedAt: "2020-08-02",
+  prose: "txt",
+} as const satisfies StoryChapterRead

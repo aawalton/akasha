@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const snailMailTonightTonight = {
+  id: "01a0676a-d72f-7011-bf9a-bca6b76d5ba8",
+  type: "release",
+  slug: "snail-mail-tonight-tonight",
+  title: "Tonight, Tonight",
+  partOfCollections: ["artist/snail-mail"],
+  position: 0,
+  ownLength: 4.351467,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2024-07-31",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6uA83XxtcMRScfFCt0xV8m",
+      externalLink: "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m",
+    },
+  ],
+} as const satisfies Release

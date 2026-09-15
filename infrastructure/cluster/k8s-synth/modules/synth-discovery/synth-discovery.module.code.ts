@@ -1,7 +1,7 @@
 import { isAbsolute, join, relative } from "node:path"
-import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const MANIFEST = "manifest"
 

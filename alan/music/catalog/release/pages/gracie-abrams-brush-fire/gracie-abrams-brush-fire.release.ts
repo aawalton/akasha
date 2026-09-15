@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const gracieAbramsBrushFire = {
+  id: "01a0676a-d719-703e-9901-bf860a4ce982",
+  type: "release",
+  slug: "gracie-abrams-brush-fire",
+  title: "Brush Fire",
+  partOfCollections: ["artist/gracie-abrams"],
+  position: 0,
+  ownLength: 3.173767,
+  ownProgress: 3.173767,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-12-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0q9LcQHXp9DuszlWNJZoLB",
+      externalLink: "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB",
+    },
+  ],
+} as const satisfies Release

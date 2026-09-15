@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0177Chapter1529TheLegionTakesTheStage = {
+  id: "01a0672c-eb61-700a-83d3-f06eb192f2a4",
+  type: "story-chapter-read",
+  slug: "chrysalis-0177-chapter-1529-the-legion-takes-the-stage",
+  title: "Chapter 1529 - The Legion Takes the Stage",
+  story: "story-read/chrysalis",
+  position: 177,
+  ownLength: 1246,
+  ownProgress: 1246,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:49:30.167Z",
+  publishedAt: "2025-03-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2124989",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2124989/chapter-1529-the-legion-takes-the-stage",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

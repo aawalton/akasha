@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-class.page-type.types.ts"
+
+export const armsmasterOfSteel = {
+  id: "01a0657e-01ab-7563-94d8-79f0ae541be9",
+  type: "world-class",
+  slug: "armsmaster-of-steel",
+  title: "Armsmaster of Steel",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

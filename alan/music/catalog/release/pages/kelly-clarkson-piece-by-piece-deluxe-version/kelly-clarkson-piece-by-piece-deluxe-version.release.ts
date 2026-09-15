@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const kellyClarksonPieceByPieceDeluxeVersion = {
+  id: "01a0676a-d726-707e-ac11-71ed91dc7b14",
+  type: "release",
+  slug: "kelly-clarkson-piece-by-piece-deluxe-version",
+  title: "Piece By Piece (Deluxe Version)",
+  partOfCollections: ["artist/kelly-clarkson"],
+  position: 0,
+  ownLength: 65.465183,
+  ownProgress: 65.465183,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2016-03-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2puALR81qCmKmbOyuHAI94",
+      externalLink: "https://open.spotify.com/album/2puALR81qCmKmbOyuHAI94",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
+} as const satisfies Release

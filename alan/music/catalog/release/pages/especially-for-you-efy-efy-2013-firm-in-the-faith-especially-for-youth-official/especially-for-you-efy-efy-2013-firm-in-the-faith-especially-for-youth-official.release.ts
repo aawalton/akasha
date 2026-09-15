@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const especiallyForYouEfyEfy2013FirmInTheFaithEspeciallyForYouthOfficial = {
+  id: "01a0676a-d71c-705a-b3fc-7d49a08035e4",
+  type: "release",
+  slug: "especially-for-you-efy-efy-2013-firm-in-the-faith-especially-for-youth-official",
+  title: "Efy 2013 Firm in the Faith (Especially for Youth) Official",
+  partOfCollections: ["release-collection/especially-for-you-efy"],
+  position: 2013,
+  ownLength: 47.776367,
+  ownProgress: 47.776367,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2013-05-11",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "41GteJOSR9ItDaAltqpaGd",
+      externalLink: "https://open.spotify.com/album/41GteJOSR9ItDaAltqpaGd",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

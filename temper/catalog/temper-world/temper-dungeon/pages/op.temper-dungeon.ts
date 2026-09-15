@@ -1,0 +1,12 @@
+import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-dungeon/temper-dungeon.page-type.types.ts"
+
+export const op = {
+  id: "01a05fc5-742a-70ed-aca8-da24309b1b9b",
+  type: "temper-dungeon",
+  slug: "op",
+  title: "Oathsworn Pit",
+  key: "OP",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
+  rotationPosition: 29,
+  soloDifficulty: "hard",
+} as const satisfies TemperDungeon

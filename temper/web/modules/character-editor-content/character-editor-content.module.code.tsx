@@ -11,7 +11,7 @@ import { FilterButton } from "akasha/design/interfaces/patterns/modules/filter-b
 import { SearchButton } from "akasha/design/interfaces/patterns/modules/search-button/search-button.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { Tabs } from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
-import { usePagesUIRouter } from "akasha/pages/ui/modules/navigation-context/navigation-context.module.code.tsx"
+import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { encodeBuild } from "akasha/temper/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { extractCharacterMetadata } from "akasha/temper/build-metadata/modules/build-metadata/build-metadata.module.code.ts"
 import { characterUrl } from "akasha/temper/build-support/modules/build-url/build-url.module.code.ts"

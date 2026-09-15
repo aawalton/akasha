@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0256Chapter1607Fury = {
+  id: "01a0672c-eb64-7001-9b3d-e537eac2e109",
+  type: "story-chapter-read",
+  slug: "chrysalis-0256-chapter-1607-fury",
+  title: "Chapter 1607 - Fury",
+  story: "story-read/chrysalis",
+  position: 256,
+  ownLength: 914,
+  ownProgress: 914,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:52:00.436Z",
+  publishedAt: "2025-07-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2438698",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2438698/chapter-1607-fury",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

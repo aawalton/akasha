@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theStubbornSkillGrinderInATimeLoopBook0041Chapter110TrainProtectSystemSpaceDie = {
+  id: "01a06730-4f41-7c54-9d0e-617061efb2b6",
+  type: "story-chapter-read",
+  slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0041-chapter-110-train-protect-system-space-die",
+  title: "Chapter 110 - Train. Protect System Space. Die. Repeat. I",
+  story: "story-read/the-stubborn-skill-grinder-in-a-time-loop-book",
+  position: 41,
+  ownLength: 7835,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2908457",
+      externalLink:
+        "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2908457/chapter-110-train-protect-system-space-die-repeat",
+    },
+  ],
+  publishedAt: "2026-01-03",
+  ownProgress: 7835,
+  completedAt: "2026-06-29T20:05:25.396Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

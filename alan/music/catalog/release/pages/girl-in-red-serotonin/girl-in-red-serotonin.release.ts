@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const girlInRedSerotonin = {
+  id: "01a0676a-d728-7063-89b2-4b317abe55f7",
+  type: "release",
+  slug: "girl-in-red-serotonin",
+  title: "Serotonin",
+  partOfCollections: ["artist/girl-in-red"],
+  position: 0,
+  ownLength: 3.040433,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2021-03-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1ggmWhoTcBC3o1pWbDoS2T",
+      externalLink: "https://open.spotify.com/album/1ggmWhoTcBC3o1pWbDoS2T",
+    },
+  ],
+} as const satisfies Release

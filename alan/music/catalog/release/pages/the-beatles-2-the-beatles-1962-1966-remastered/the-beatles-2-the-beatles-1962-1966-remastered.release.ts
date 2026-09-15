@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theBeatles2TheBeatles19621966Remastered = {
+  id: "01a0676a-d72c-702c-baa9-125d02ed3751",
+  type: "release",
+  slug: "the-beatles-2-the-beatles-1962-1966-remastered",
+  title: "The Beatles 1962 - 1966 (Remastered)",
+  partOfCollections: ["artist/the-beatles"],
+  position: 0,
+  ownLength: 62.73295,
+  ownProgress: 62.73295,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1973-04-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6126O4XLYAfzU3961ziahP",
+      externalLink: "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP",
+    },
+  ],
+} as const satisfies Release

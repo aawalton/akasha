@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ledZeppelinCelebrationDay = {
+  id: "01a0676a-d71a-7009-8710-47bcc45f85ba",
+  type: "release",
+  slug: "led-zeppelin-celebration-day",
+  title: "Celebration Day",
+  partOfCollections: ["artist/led-zeppelin"],
+  position: 0,
+  ownLength: 115.57615,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2012-11-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0kTe1sQd9yhDsdG2Zth7X6",
+      externalLink: "https://open.spotify.com/album/0kTe1sQd9yhDsdG2Zth7X6",
+    },
+  ],
+} as const satisfies Release

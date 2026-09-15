@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0089Chapter523Eager = {
+  id: "01a06730-4e0d-7417-84ef-86b6ae804a9d",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0089-chapter-523-eager",
+  title: "Chapter 523: Eager",
+  story: "story-read/rise-of-the-living-forge",
+  position: 89,
+  ownLength: 1767,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2797881",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2797881/chapter-523-eager",
+    },
+  ],
+  publishedAt: "2025-11-27",
+  ownProgress: 1767,
+  completedAt: "2026-06-29T20:01:16.978Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

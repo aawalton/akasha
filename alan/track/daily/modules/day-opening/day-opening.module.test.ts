@@ -6,12 +6,12 @@ import {
   openedDayWindow,
   openingInstantOn,
 } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
-import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   AKASHA,
   rootsNamed,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-at.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

@@ -1,0 +1,10 @@
+import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-motif-style/temper-motif-style.page-type.types.ts"
+
+export const militantOrdinator = {
+  id: "019e5a46-c3eb-7a23-8fe3-93d31cf81478",
+  type: "temper-motif-style",
+  slug: "militant-ordinator",
+  title: "Militant Ordinator",
+  collectionIndex: 34,
+  sourceDescription: "Battlegrounds vendors",
+} as const satisfies TemperMotifStyle

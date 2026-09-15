@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
 export const claudeCodeSessionUuid = {
   id: "01a053e4-cf4a-7e0c-a936-1a0a62a7b7e5",

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const enyaAsBaile2008Remaster = {
+  id: "01a0676a-d717-7033-b4ac-031ae8c1d92a",
+  type: "release",
+  slug: "enya-as-baile-2008-remaster",
+  title: "As Baile (2008 Remaster)",
+  partOfCollections: ["artist/enya"],
+  position: 0,
+  ownLength: 22.011483,
+  ownProgress: 22.011483,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-07-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "397RZN44xlLjXaqmDwe1Q2",
+      externalLink: "https://open.spotify.com/album/397RZN44xlLjXaqmDwe1Q2",
+    },
+  ],
+} as const satisfies Release

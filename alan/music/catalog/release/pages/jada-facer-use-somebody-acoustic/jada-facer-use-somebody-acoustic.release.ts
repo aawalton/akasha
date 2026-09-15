@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jadaFacerUseSomebodyAcoustic = {
+  id: "01a0676a-d72f-705a-a91d-0a423c295a89",
+  type: "release",
+  slug: "jada-facer-use-somebody-acoustic",
+  title: "Use Somebody (Acoustic)",
+  partOfCollections: ["artist/jada-facer"],
+  position: 0,
+  ownLength: 2.988,
+  ownProgress: 2.988,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-03-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ccSCZ1k60gVpONCZZPvAm",
+      externalLink: "https://open.spotify.com/album/6ccSCZ1k60gVpONCZZPvAm",
+    },
+  ],
+} as const satisfies Release

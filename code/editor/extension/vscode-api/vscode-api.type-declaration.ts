@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "akasha/code/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
 
 export const vscodeApi = {
   id: "01a0680b-7175-7001-8191-14c34a59562f",

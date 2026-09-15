@@ -1,4 +1,4 @@
-import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
+import type { InstantProperty } from "akasha/page/instant-property/instant-property.page-type.types.ts"
 
 export const firstHeardAt = {
   id: "01a06240-340f-700d-b73e-b5c7abfb9162",

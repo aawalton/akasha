@@ -5,9 +5,9 @@ import {
   ONE,
   sinceNow,
   TWO,
-} from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
-import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { runWindow } from "akasha/command/arguments/pages/run-window.argument.ts"
+} from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
+import { saidForPart } from "akasha/command/argument/modules/taking/argument-taking.module.test-fixtures.ts"
+import { runWindow } from "akasha/command/argument/pages/run-window.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { measureGuard } from "akasha/command/pages/measure/guard/measure-guard.command.code.ts"
@@ -15,9 +15,9 @@ import { measureGuard as page } from "akasha/command/pages/measure/guard/measure
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
+} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const CALLED_AS = "akasha measure guard"

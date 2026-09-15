@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0244Chapter734DefenseOfBandfast3 = {
+  id: "01a06743-b407-7001-86d2-a3d83762df42",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0244-chapter-734-defense-of-bandfast-3",
+  title: "Chapter: 734 - Defense of Bandfast (3)",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 244,
+  ownLength: 2771,
+  unit: "unit/words",
+  publishedAt: "2026-08-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3772571",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3772571/chapter-734-defense-of-bandfast-3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

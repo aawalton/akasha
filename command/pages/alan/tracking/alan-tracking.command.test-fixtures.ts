@@ -1,4 +1,4 @@
-export const BESIDE_FOOD_ENTRIES = "akasha/alan/track/food-entries/food-entry.page-type.ts"
+export const BESIDE_FOOD_ENTRIES = "akasha/alan/track/food-entry/food-entry.page-type.ts"
 
 export const OUTSIDE_AKASHA = "akasha/alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"
 

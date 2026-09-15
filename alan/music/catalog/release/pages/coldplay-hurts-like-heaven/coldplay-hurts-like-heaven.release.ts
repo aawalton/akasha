@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const coldplayHurtsLikeHeaven = {
+  id: "01a0676a-d720-707b-93c3-78e1ed9d8dec",
+  type: "release",
+  slug: "coldplay-hurts-like-heaven",
+  title: "Hurts Like Heaven",
+  partOfCollections: ["artist/coldplay"],
+  position: 0,
+  ownLength: 4.03755,
+  ownProgress: 4.03755,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2011-10-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4mTRjo752lDXWzflHdMJh5",
+      externalLink: "https://open.spotify.com/album/4mTRjo752lDXWzflHdMJh5",
+    },
+  ],
+} as const satisfies Release

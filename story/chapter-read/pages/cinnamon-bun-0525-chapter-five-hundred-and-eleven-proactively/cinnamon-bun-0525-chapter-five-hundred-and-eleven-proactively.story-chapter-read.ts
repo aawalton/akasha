@@ -1,0 +1,23 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0525ChapterFiveHundredAndElevenProactively = {
+  id: "01a0672c-eb25-700a-ae03-129036586079",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0525-chapter-five-hundred-and-eleven-proactively",
+  title:
+    "Chapter Five Hundred and Eleven - Proactively Circling Back to See if We Moved the Needle",
+  story: "story-read/cinnamon-bun",
+  position: 525,
+  ownLength: 1469,
+  unit: "unit/words",
+  publishedAt: "2024-10-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1874924",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1874924/chapter-five-hundred-and-eleven-proactively-circling",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

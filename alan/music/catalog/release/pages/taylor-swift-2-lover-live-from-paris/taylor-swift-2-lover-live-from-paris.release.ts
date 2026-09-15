@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const taylorSwift2LoverLiveFromParis = {
+  id: "01a0676a-d724-700b-a96e-7f7f9571e978",
+  type: "release",
+  slug: "taylor-swift-2-lover-live-from-paris",
+  title: "Lover (Live From Paris)",
+  partOfCollections: ["artist/taylor-swift"],
+  position: 0,
+  ownLength: 3.828883,
+  ownProgress: 3.828883,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-05-17",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7hvsmGyWH2kJS5X4E4t039",
+      externalLink: "https://open.spotify.com/album/7hvsmGyWH2kJS5X4E4t039",
+    },
+  ],
+} as const satisfies Release

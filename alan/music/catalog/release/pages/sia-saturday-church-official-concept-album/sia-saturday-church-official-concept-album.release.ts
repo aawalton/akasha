@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaSaturdayChurchOfficialConceptAlbum = {
+  id: "01a0676a-d728-7041-a3e7-21cfb85291f4",
+  type: "release",
+  slug: "sia-saturday-church-official-concept-album",
+  title: "Saturday Church (Official Concept Album)",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 58.446217,
+  ownProgress: 58.446217,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-08-22",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5MUbWieT5aVx5oVtrSgHxG",
+      externalLink: "https://open.spotify.com/album/5MUbWieT5aVx5oVtrSgHxG",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

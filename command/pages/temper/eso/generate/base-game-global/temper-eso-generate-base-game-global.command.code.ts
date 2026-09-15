@@ -1,14 +1,14 @@
 import { readFileSync, realpathSync, statSync } from "node:fs"
 import { resolve } from "node:path"
-import type { SeriesSpec } from "akasha/code/modules/modules/name-series/name-series.module.code.ts"
+import type { SeriesSpec } from "akasha/code/module/modules/name-series/name-series.module.code.ts"
 import {
   byteLength,
   renderSeries,
   stageSeries,
-} from "akasha/code/modules/modules/name-series/name-series.module.code.ts"
-import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
-import { esoRoot as esoRootArgument } from "akasha/command/arguments/pages/eso-root.argument.ts"
-import { stage as stageArgument } from "akasha/command/arguments/pages/stage.argument.ts"
+} from "akasha/code/module/modules/name-series/name-series.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
+import { esoRoot as esoRootArgument } from "akasha/command/argument/pages/eso-root.argument.ts"
+import { stage as stageArgument } from "akasha/command/argument/pages/stage.argument.ts"
 import {
   DATA,
   naming,
@@ -22,7 +22,7 @@ import {
   type Taking,
 } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateBaseGameGlobal as page } from "akasha/command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/modules/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import {
   extractGlobalNames,

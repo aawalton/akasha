@@ -33,7 +33,7 @@ function heldFor(
   pageSaid: string
   rows: never[]
 } {
-  const at = `${ROOT}/alan/track/daily/days/pages/${day}`
+  const at = `${ROOT}/alan/track/daily/day/pages/${day}`
   return {
     day,
     path: `${at}/day-${day}.day.sessions.jsonl`,
@@ -71,7 +71,7 @@ test("the one day of a landing has its page written and its rows left to the bod
     const argv = besideArgv([{ held: heldFor("1999-01-02", UNDECLARED), rows: [] }], scratch, ROOT)
     expect(argv).toEqual([
       "--file-path",
-      "alan/track/daily/days/pages/1999-01-02/day-1999-01-02.day.ts",
+      "alan/track/daily/day/pages/1999-01-02/day-1999-01-02.day.ts",
       "--content-file",
       join(scratch, "page-0"),
     ])
@@ -104,7 +104,7 @@ test("the rows of every day but the last are written beside the days those rows 
     )
     expect(argv).toEqual([
       "--file-path",
-      "alan/track/daily/days/pages/1999-01-01/day-1999-01-01.day.sessions.jsonl",
+      "alan/track/daily/day/pages/1999-01-01/day-1999-01-01.day.sessions.jsonl",
       "--content-file",
       join(scratch, "day-0"),
     ])

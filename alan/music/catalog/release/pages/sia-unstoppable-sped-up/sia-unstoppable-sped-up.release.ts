@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaUnstoppableSpedUp = {
+  id: "01a0676a-d72f-7050-9f0b-00eb38447202",
+  type: "release",
+  slug: "sia-unstoppable-sped-up",
+  title: "Unstoppable (Sped Up)",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 3.295833,
+  ownProgress: 3.295833,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-10-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6j7tZ4XuGr81dfaoAvNRdA",
+      externalLink: "https://open.spotify.com/album/6j7tZ4XuGr81dfaoAvNRdA",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

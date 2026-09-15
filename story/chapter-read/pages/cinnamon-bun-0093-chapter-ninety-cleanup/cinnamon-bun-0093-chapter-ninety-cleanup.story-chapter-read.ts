@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0093ChapterNinetyCleanup = {
+  id: "01a0672c-eb08-7001-b4df-ac588ca2f107",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0093-chapter-ninety-cleanup",
+  title: "Chapter Ninety - Cleanup",
+  story: "story-read/cinnamon-bun",
+  position: 93,
+  ownLength: 2152,
+  unit: "unit/words",
+  publishedAt: "2020-09-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "551078",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/551078/chapter-ninety-cleanup",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

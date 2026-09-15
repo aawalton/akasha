@@ -1,8 +1,0 @@
-import type { World } from "akasha/story/worlds/world.page-type.types.ts"
-
-export const chrysalis = {
-  id: "01a063d8-61f2-7c06-b139-f739976b133f",
-  type: "world",
-  slug: "chrysalis",
-  title: "Chrysalis",
-} as const satisfies World

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0139Chapter1266PeakCGrade = {
+  id: "01a06730-4e10-700e-80bb-0d7b5649ce6f",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0139-chapter-1266-peak-c-grade",
+  title: "Chapter 1266 - Peak C-grade",
+  story: "story-read/the-primal-hunter",
+  position: 139,
+  ownLength: 2787,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3108568",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3108568/chapter-1266-peak-c-grade",
+    },
+  ],
+  publishedAt: "2026-03-02",
+  ownProgress: 2787,
+  completedAt: "2026-06-29T19:34:42.230Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

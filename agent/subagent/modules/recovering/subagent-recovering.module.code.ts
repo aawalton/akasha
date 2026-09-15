@@ -19,19 +19,19 @@ import {
 import {
   droppedAll,
   linesIn,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   partedIn,
   uncommittedBesideAt,
-} from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { textUnder } from "akasha/pages/modules/value/page-value.module.code.ts"
+} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { textUnder } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   slugOf,
   textAt as statedIn,
   type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const EDITS_HELD = "jsonl"
 

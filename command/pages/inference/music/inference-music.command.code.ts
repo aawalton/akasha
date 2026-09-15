@@ -2,18 +2,18 @@ import { setTimeout as sleep } from "node:timers/promises"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { duration as durationArgument } from "akasha/command/arguments/pages/duration.argument.ts"
-import { lyrics as lyricsArgument } from "akasha/command/arguments/pages/lyrics.argument.ts"
-import { lyricsFile } from "akasha/command/arguments/pages/lyrics-file.argument.ts"
-import { noPersist } from "akasha/command/arguments/pages/no-persist.argument.ts"
-import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
-import { promptFile } from "akasha/command/arguments/pages/prompt-file.argument.ts"
-import { renderPrompt } from "akasha/command/arguments/pages/render-prompt.argument.ts"
-import { seed as seedArgument } from "akasha/command/arguments/pages/seed.argument.ts"
-import { steps as stepsArgument } from "akasha/command/arguments/pages/steps.argument.ts"
-import { timeout as timeoutArgument } from "akasha/command/arguments/pages/timeout.argument.ts"
-import { vocalLanguage as vocalLanguageArgument } from "akasha/command/arguments/pages/vocal-language.argument.ts"
+} from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { duration as durationArgument } from "akasha/command/argument/pages/duration.argument.ts"
+import { lyrics as lyricsArgument } from "akasha/command/argument/pages/lyrics.argument.ts"
+import { lyricsFile } from "akasha/command/argument/pages/lyrics-file.argument.ts"
+import { noPersist } from "akasha/command/argument/pages/no-persist.argument.ts"
+import { output as outputArgument } from "akasha/command/argument/pages/output.argument.ts"
+import { promptFile } from "akasha/command/argument/pages/prompt-file.argument.ts"
+import { renderPrompt } from "akasha/command/argument/pages/render-prompt.argument.ts"
+import { seed as seedArgument } from "akasha/command/argument/pages/seed.argument.ts"
+import { steps as stepsArgument } from "akasha/command/argument/pages/steps.argument.ts"
+import { timeout as timeoutArgument } from "akasha/command/argument/pages/timeout.argument.ts"
+import { vocalLanguage as vocalLanguageArgument } from "akasha/command/argument/pages/vocal-language.argument.ts"
 import {
   answering,
   refusedBy,
@@ -32,8 +32,8 @@ import {
   serviceNamed,
   wroteTo,
 } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
-import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
 
 const PAGES = [
   durationArgument,

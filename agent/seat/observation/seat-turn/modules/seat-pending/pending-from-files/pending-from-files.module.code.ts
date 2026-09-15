@@ -12,7 +12,7 @@ import {
   pagesIn,
   type SubagentPage,
 } from "akasha/agent/subagent/modules/census/subagent-census.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export interface SeatPending {
   readonly seat: string

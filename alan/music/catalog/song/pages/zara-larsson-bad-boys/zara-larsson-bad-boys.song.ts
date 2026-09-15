@@ -1,0 +1,22 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const zaraLarssonBadBoys = {
+  id: "019ea4a1-1243-7224-82bb-ffcf30384478",
+  type: "song",
+  slug: "zara-larsson-bad-boys",
+  title: "Bad Boys",
+  artist: "artist/zara-larsson",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "b9ac643d-6701-40a9-92b5-f3a4f288e7dc",
+      externalLink: "https://musicbrainz.org/work/b9ac643d-6701-40a9-92b5-f3a4f288e7dc",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "derivative",
+  performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

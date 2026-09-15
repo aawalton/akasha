@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0054Chapter1182Seeker = {
+  id: "01a06730-4de7-7847-b4fc-ee2691cdfef7",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0054-chapter-1182-seeker",
+  title: "Chapter 1182 - Seeker",
+  story: "story-read/the-primal-hunter",
+  position: 54,
+  ownLength: 2608,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2683697",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2683697/chapter-1182-seeker",
+    },
+  ],
+  publishedAt: "2025-10-17",
+  ownProgress: 2608,
+  completedAt: "2026-06-29T19:30:58.529Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

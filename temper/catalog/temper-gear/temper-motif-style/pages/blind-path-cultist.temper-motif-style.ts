@@ -1,0 +1,10 @@
+import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-motif-style/temper-motif-style.page-type.types.ts"
+
+export const blindPathCultist = {
+  id: "019e5a46-c4c2-76e5-a86d-148489fe3374",
+  type: "temper-motif-style",
+  slug: "blind-path-cultist",
+  title: "Blind Path Cultist",
+  collectionIndex: 109,
+  sourceDescription: "Bedlam Veil dungeon",
+} as const satisfies TemperMotifStyle

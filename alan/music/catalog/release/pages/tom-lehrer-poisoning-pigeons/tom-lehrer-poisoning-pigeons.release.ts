@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const tomLehrerPoisoningPigeons = {
+  id: "01a0676a-d726-7087-b20a-d9ee569a0a18",
+  type: "release",
+  slug: "tom-lehrer-poisoning-pigeons",
+  title: "Poisoning Pigeons",
+  partOfCollections: ["artist/tom-lehrer"],
+  position: 0,
+  ownLength: 3.812667,
+  ownProgress: 3.812667,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-07-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6tqoRyGMckiFr29paYmhmL",
+      externalLink: "https://open.spotify.com/album/6tqoRyGMckiFr29paYmhmL",
+    },
+  ],
+} as const satisfies Release

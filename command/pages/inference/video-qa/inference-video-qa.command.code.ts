@@ -4,14 +4,14 @@ import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-c
 import {
   type TakenFor,
   takenFor,
-} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { checklist as checklistArgument } from "akasha/command/arguments/pages/checklist.argument.ts"
-import { checklistFile } from "akasha/command/arguments/pages/checklist-file.argument.ts"
-import { fps as fpsArgument } from "akasha/command/arguments/pages/fps.argument.ts"
-import { frames as framesArgument } from "akasha/command/arguments/pages/frames.argument.ts"
-import { framesDir as framesDirArgument } from "akasha/command/arguments/pages/frames-dir.argument.ts"
-import { timeout as timeoutArgument } from "akasha/command/arguments/pages/timeout.argument.ts"
-import { video as videoArgument } from "akasha/command/arguments/pages/video.argument.ts"
+} from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { checklist as checklistArgument } from "akasha/command/argument/pages/checklist.argument.ts"
+import { checklistFile } from "akasha/command/argument/pages/checklist-file.argument.ts"
+import { fps as fpsArgument } from "akasha/command/argument/pages/fps.argument.ts"
+import { frames as framesArgument } from "akasha/command/argument/pages/frames.argument.ts"
+import { framesDir as framesDirArgument } from "akasha/command/argument/pages/frames-dir.argument.ts"
+import { timeout as timeoutArgument } from "akasha/command/argument/pages/timeout.argument.ts"
+import { video as videoArgument } from "akasha/command/argument/pages/video.argument.ts"
 import {
   answering,
   refusedBy,
@@ -30,13 +30,13 @@ import {
   toPngDataUrl,
 } from "akasha/infrastructure/inference/clients/modules/mlx-vlm-client/mlx-vlm-client.module.code.ts"
 import { serviceNamed } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 import {
   closedSaid,
   finishInferenceRun,
   openedSaid,
   startInferenceRun,
-} from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
+} from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
 

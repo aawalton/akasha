@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const levelingUpTheWorld0015272ObsidianDragon = {
+  id: "01a06731-ae8e-7000-8a0d-6247171a1681",
+  type: "story-chapter-read",
+  slug: "leveling-up-the-world-0015-272-obsidian-dragon",
+  title: "272. Obsidian Dragon",
+  story: "story-read/leveling-up-the-world",
+  position: 15,
+  ownLength: 2067,
+  ownProgress: 2067,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:40:39.712Z",
+  publishedAt: "2021-09-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "759177",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/759177/272-obsidian-dragon",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

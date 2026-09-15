@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0298V7c45WelcomingTheEarth = {
+  id: "01a06731-addb-7000-8cd4-12b66de3a0b4",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0298-v7c45-welcoming-the-earth",
+  title: "v7c45: Welcoming the Earth",
+  story: "story-read/beware-of-chicken",
+  position: 298,
+  ownLength: 2145,
+  unit: "unit/words",
+  publishedAt: "2026-04-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3233251",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3233251/v7c45-welcoming-the-earth",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

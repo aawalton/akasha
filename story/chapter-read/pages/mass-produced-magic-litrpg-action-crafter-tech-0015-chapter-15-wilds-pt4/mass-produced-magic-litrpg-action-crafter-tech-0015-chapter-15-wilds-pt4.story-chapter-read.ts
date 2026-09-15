@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const massProducedMagicLitrpgActionCrafterTech0015Chapter15WildsPt4 = {
+  id: "01a06731-afad-7000-8967-fdc9ff9deb1d",
+  type: "story-chapter-read",
+  slug: "mass-produced-magic-litrpg-action-crafter-tech-0015-chapter-15-wilds-pt4",
+  title: "Chapter 15 – Wilds – Pt4",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
+  position: 15,
+  ownLength: 1930,
+  unit: "unit/words",
+  publishedAt: "2024-11-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1916434",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1916434/chapter-15-wilds-pt4",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

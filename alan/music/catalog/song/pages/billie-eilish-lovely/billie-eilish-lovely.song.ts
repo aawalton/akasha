@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const billieEilishLovely = {
+  id: "019ea4aa-3bb4-7653-a11b-783c745aea85",
+  type: "song",
+  slug: "billie-eilish-lovely",
+  title: "Lovely",
+  artist: "artist/billie-eilish",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "80510c2c-a7a2-48f4-8f98-469f16161851",
+      externalLink: "https://musicbrainz.org/work/80510c2c-a7a2-48f4-8f98-469f16161851",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "derivative",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "collab",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

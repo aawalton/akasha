@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theMagpieAndTheArchmageMonsterEvoLitrpg0089Chapter89SelfSustainingDisaster = {
+  id: "01a06730-4fe0-7fbb-8c34-0846898a8cb8",
+  type: "story-chapter-read",
+  slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0089-chapter-89-self-sustaining-disaster",
+  title: "Chapter 89 – Self-Sustaining Disaster",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
+  position: 89,
+  ownLength: 2019,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3090266",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3090266/chapter-89-self-sustaining-disaster",
+    },
+  ],
+  publishedAt: "2026-02-25",
+  prose: "txt",
+} as const satisfies StoryChapterRead

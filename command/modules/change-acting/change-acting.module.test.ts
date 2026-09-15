@@ -29,7 +29,7 @@ import {
   staleKept,
   thrownBy,
 } from "akasha/command/modules/change-acting/change-acting.module.test-fixtures.ts"
-import { scratch } from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

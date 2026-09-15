@@ -1,0 +1,18 @@
+import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/strength-log.page-type.types.ts"
+
+export const mondayPush20260622C565f96cSideLateralRaiseSet1 = {
+  id: "019ef12f-f83f-7a8a-8953-e9f0ea1054c2",
+  type: "strength-log",
+  slug: "monday-push-2026-06-22-c565f96c-side-lateral-raise-set-1",
+  title: "Side Lateral Raise set 1",
+  exercise: "strength-exercise/side-lateral-raise",
+  isWarmup: false,
+  note: "used 10s (heavier than the 8s cued); slowed final 4, strict, feeling it at the end",
+  reps: 12,
+  rpe: 8,
+  sessionSlug: "monday-push-2026-06-22-c565f96c",
+  setLogDate: "2026-06-22",
+  day: "day/day-2026-06-22",
+  setNumber: 1,
+  weight: 10,
+} as const satisfies StrengthLog

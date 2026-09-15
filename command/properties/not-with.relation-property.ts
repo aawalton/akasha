@@ -1,4 +1,4 @@
-import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
+import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
 
 export const notWith = {
   id: "01a09483-7144-7d5c-a857-085af955734b",

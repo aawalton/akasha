@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const thePianoGuys3AvatarTheTheme = {
+  id: "01a0676a-d717-7041-afac-c5260d418ecc",
+  type: "release",
+  slug: "the-piano-guys-3-avatar-the-theme",
+  title: "Avatar (The Theme)",
+  partOfCollections: ["artist/the-piano-guys"],
+  position: 0,
+  ownLength: 3.054167,
+  ownProgress: 3.054167,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2019-06-21",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6owJynSJhOtUZU85CGndvN",
+      externalLink: "https://open.spotify.com/album/6owJynSJhOtUZU85CGndvN",
+    },
+  ],
+} as const satisfies Release

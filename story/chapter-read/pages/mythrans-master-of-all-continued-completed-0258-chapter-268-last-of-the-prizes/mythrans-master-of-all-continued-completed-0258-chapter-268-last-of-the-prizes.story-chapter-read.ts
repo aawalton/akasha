@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0258Chapter268LastOfThePrizes = {
+  id: "01a0672c-ec08-7001-a76e-124dd2bc1fd1",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0258-chapter-268-last-of-the-prizes",
+  title: "Chapter 268 - Last Of The Prizes",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 258,
+  ownLength: 3504,
+  unit: "unit/words",
+  publishedAt: "2017-06-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "139554",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139554/chapter-268-last-of-the-prizes",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

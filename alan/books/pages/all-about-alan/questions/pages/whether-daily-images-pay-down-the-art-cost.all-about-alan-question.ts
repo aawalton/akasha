@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherDailyImagesPayDownTheArtCost = {
-  id: "01a077e9-6e08-7fd8-aea2-f3c4c07f646a",
-  type: "all-about-alan-question",
-  slug: "whether-daily-images-pay-down-the-art-cost",
-  topic: "all-about-alan-topic/what-a-persona-makes-cheaper",
-  ask: "Is the art part of that cost paying down through the images I make daily, or is that hope rather than fact?",
-} as const satisfies AllAboutAlanQuestion

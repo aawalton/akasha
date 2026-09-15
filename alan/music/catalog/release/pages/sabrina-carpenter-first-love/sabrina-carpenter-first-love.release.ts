@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const sabrinaCarpenterFirstLove = {
+  id: "01a0676a-d71e-7002-8f50-251e0ee5fddb",
+  type: "release",
+  slug: "sabrina-carpenter-first-love",
+  title: "First Love",
+  partOfCollections: ["artist/sabrina-carpenter"],
+  position: 0,
+  ownLength: 3.457117,
+  ownProgress: 3.457117,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2017-10-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7syMmofF2t1xI0RFCtrSG9",
+      externalLink: "https://open.spotify.com/album/7syMmofF2t1xI0RFCtrSG9",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
+} as const satisfies Release

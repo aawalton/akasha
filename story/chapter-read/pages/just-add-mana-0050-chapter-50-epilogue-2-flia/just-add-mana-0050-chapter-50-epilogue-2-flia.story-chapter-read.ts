@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const justAddMana0050Chapter50Epilogue2Flia = {
+  id: "01a06731-add6-7001-a783-67a4dd658f20",
+  type: "story-chapter-read",
+  slug: "just-add-mana-0050-chapter-50-epilogue-2-flia",
+  title: "Chapter 50 — Epilogue 2 — Flia",
+  story: "story-read/just-add-mana",
+  position: 50,
+  ownLength: 1856,
+  ownProgress: 1856,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:49:17.385Z",
+  publishedAt: "2025-10-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2693739",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2693739/chapter-50-epilogue-2-flia",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

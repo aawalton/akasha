@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash0356356HaltPayForYourCrimes = {
+  id: "01a06731-ae06-700d-83af-8109f4856b14",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0356-356-halt-pay-for-your-crimes",
+  title: "356. Halt! Pay for Your Crimes!",
+  story: "story-read/god-of-trash",
+  position: 356,
+  ownLength: 2096,
+  unit: "unit/words",
+  publishedAt: "2026-08-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3878559",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3878559/356-halt-pay-for-your-crimes",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

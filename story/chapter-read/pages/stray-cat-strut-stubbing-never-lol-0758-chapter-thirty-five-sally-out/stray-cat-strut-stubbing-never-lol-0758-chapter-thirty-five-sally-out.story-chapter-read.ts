@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0758ChapterThirtyFiveSallyOut = {
+  id: "01a06730-4ed8-70f2-bac9-fdee8fac7b36",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0758-chapter-thirty-five-sally-out",
+  title: "Chapter Thirty-Five - Sally Out",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 758,
+  ownLength: 1560,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3492138",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3492138/chapter-thirty-five-sally-out",
+    },
+  ],
+  publishedAt: "2026-06-04",
+  prose: "txt",
+} as const satisfies StoryChapterRead

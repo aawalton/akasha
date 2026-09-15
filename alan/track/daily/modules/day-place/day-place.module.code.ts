@@ -5,7 +5,7 @@ import {
   AKASHA as AKASHA_REPO,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export const DAILY_TRACKING = "daily-tracking"
 

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const auroraToBeLoved = {
+  id: "01a0676a-d72f-7003-abf1-36d94e13d1f3",
+  type: "release",
+  slug: "aurora-to-be-loved",
+  title: "To Be Loved",
+  partOfCollections: ["artist/aurora"],
+  position: 0,
+  ownLength: 26.57055,
+  ownProgress: 26.57055,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2019-09-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1RxibJSLV6FDm0TWyfA3mF",
+      externalLink: "https://open.spotify.com/album/1RxibJSLV6FDm0TWyfA3mF",
+    },
+  ],
+} as const satisfies Release

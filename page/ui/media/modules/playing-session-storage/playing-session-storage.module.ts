@@ -1,0 +1,9 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const playingSessionStorage = {
+  id: "01a05cce-25ec-7984-8b5a-25fca50a70f1",
+  type: "module",
+  slug: "playing-session-storage",
+  definition: "the playing session kept in the browser between visits",
+  code: "ts",
+} as const satisfies Module

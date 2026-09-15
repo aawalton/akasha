@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const azarinthHealer0009Chapter930Shelter = {
+  id: "01a06731-aff7-7003-952c-7da6bfbc1b3c",
+  type: "story-chapter-read",
+  slug: "azarinth-healer-0009-chapter-930-shelter",
+  title: "Chapter 930 Shelter",
+  story: "story-read/azarinth-healer",
+  position: 9,
+  ownLength: 3232,
+  unit: "unit/words",
+  publishedAt: "2023-03-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1149664",
+      externalLink:
+        "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1149664/chapter-930-shelter",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const serviceUnitAsking = {
   id: "01a09407-b94e-79c1-9cb4-324c7a7d0a3e",

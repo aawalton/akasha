@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0023ContinueTheStoryBook7Eskau = {
+  id: "01a06731-ad7c-7000-af08-83940baa8936",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0023-continue-the-story-book-7-eskau",
+  title: "Continue the Story [Book 7 - Eskau]",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 23,
+  ownLength: 131,
+  ownProgress: 131,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:36:02.223Z",
+  publishedAt: "2024-04-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1617503",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1617503/continue-the-story-book-7-eskau",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

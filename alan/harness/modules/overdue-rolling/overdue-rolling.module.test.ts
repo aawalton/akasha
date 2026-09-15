@@ -11,7 +11,7 @@ import {
   asPage,
   type Page,
   type PageWhere,
-} from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
+} from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 
 const DAY = "2026-09-06"
 

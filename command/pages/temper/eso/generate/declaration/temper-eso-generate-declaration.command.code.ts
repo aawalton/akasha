@@ -4,14 +4,14 @@ import { resolve } from "node:path"
 import {
   type Asking,
   runMechanicalChange,
-} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   keyOf,
   mergedBy,
   type Stated,
   statedIn,
-} from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.decision.code.ts"
-import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
+} from "akasha/check/code/pages/global-declared-once/global-declared-once.check-code.decision.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
 import {
   DATA,
   keeping,
@@ -26,9 +26,9 @@ import {
   type Taking,
 } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateDeclaration as page } from "akasha/command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
   generateEnumsFile,

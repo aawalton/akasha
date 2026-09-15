@@ -1,0 +1,10 @@
+import type { CodeEditorDataInterface } from "akasha/alan/harness/code-editor/data-interface/code-editor-data-interface.page-type.types.ts"
+
+export const domainTree = {
+  id: "01a07235-8d07-7b01-a714-1c3c31d5c29b",
+  type: "code-editor-data-interface",
+  slug: "domain-tree",
+  definition: "the rows the domains panel draws",
+  d: "ts",
+  cooldownMilliseconds: 1000,
+} as const satisfies CodeEditorDataInterface

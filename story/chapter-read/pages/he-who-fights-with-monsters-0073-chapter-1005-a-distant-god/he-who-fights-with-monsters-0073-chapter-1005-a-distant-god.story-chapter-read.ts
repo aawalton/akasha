@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const heWhoFightsWithMonsters0073Chapter1005ADistantGod = {
+  id: "01a06731-adf0-7001-9bd2-29a313c2bfa7",
+  type: "story-chapter-read",
+  slug: "he-who-fights-with-monsters-0073-chapter-1005-a-distant-god",
+  title: "Chapter 1005: A Distant God",
+  story: "story-read/he-who-fights-with-monsters",
+  position: 73,
+  ownLength: 2742,
+  unit: "unit/words",
+  publishedAt: "2026-06-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3521812",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3521812/chapter-1005-a-distant-god",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

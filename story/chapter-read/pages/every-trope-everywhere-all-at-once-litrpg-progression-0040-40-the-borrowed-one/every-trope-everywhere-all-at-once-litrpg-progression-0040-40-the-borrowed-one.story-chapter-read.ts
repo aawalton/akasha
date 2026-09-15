@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const everyTropeEverywhereAllAtOnceLitrpgProgression004040TheBorrowedOne = {
+  id: "01a06731-ae0e-7009-a9c7-0e33f6d96011",
+  type: "story-chapter-read",
+  slug: "every-trope-everywhere-all-at-once-litrpg-progression-0040-40-the-borrowed-one",
+  title: "40 - The Borrowed One",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
+  position: 40,
+  ownLength: 1586,
+  unit: "unit/words",
+  publishedAt: "2026-06-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3511930",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3511930/40-the-borrowed-one",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

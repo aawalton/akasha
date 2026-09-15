@@ -2,12 +2,12 @@ import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/serv
 import {
   getPageByIdSuffix,
   getPageByIdSuffixAcrossTypes,
-} from "akasha/pages/access/modules/get/get.module.code.ts"
-import { getDescendantPageTypeSlugs } from "akasha/pages/access/modules/page-type/page-type.module.code.ts"
-import { PageDetailContent } from "akasha/pages/ui/components/modules/page-detail-content/page-detail-content.module.code.tsx"
-import { ViewPageContent } from "akasha/pages/ui/components/modules/view-page-content/view-page-content.module.code.tsx"
-import { parsePageHrefParam } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
-import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
+} from "akasha/page/access/modules/get/get.module.code.ts"
+import { getDescendantPageTypeSlugs } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
+import { PageDetailContent } from "akasha/page/ui/components/modules/page-detail-content/page-detail-content.module.code.tsx"
+import { ViewPageContent } from "akasha/page/ui/components/modules/view-page-content/view-page-content.module.code.tsx"
+import { parsePageHrefParam } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
+import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { data } from "react-router"
 
 const NAV_SLUG = "nav"

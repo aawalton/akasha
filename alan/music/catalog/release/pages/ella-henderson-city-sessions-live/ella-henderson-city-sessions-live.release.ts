@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonCitySessionsLive = {
+  id: "01a0676a-d71a-7054-a9a0-179fea474470",
+  type: "release",
+  slug: "ella-henderson-city-sessions-live",
+  title: "City Sessions – Live",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 15.839683,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2025-02-28",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3vnyq72BdxeUA1RotT2yc1",
+      externalLink: "https://open.spotify.com/album/3vnyq72BdxeUA1RotT2yc1",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

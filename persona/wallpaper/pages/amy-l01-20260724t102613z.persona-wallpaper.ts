@@ -1,0 +1,14 @@
+import type { PersonaWallpaper } from "akasha/persona/wallpaper/persona-wallpaper.page-type.types.ts"
+
+export const amyL0120260724t102613z = {
+  id: "019ef233-15dc-7559-903d-a6f646ccd9ac",
+  type: "persona-wallpaper",
+  slug: "amy-l01-20260724t102613z",
+  title: "Amy — wallpaper L01 (Intensifying)",
+  persona: "persona/amy",
+  imagePath: "Amy/amy-L01-20260724T102613Z.png",
+  imageRoot: "wallpapers",
+  relationshipLevel: 1,
+  stage: "intensifying",
+  esoDay: "2026-07-24",
+} as const satisfies PersonaWallpaper

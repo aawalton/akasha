@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const kellyClarksonDanceVaultMixesSinceUBeenGoneRemixes = {
+  id: "01a0676a-d71b-705c-9922-da8b68b20d03",
+  type: "release",
+  slug: "kelly-clarkson-dance-vault-mixes-since-u-been-gone-remixes",
+  title: "Dance Vault Mixes - Since U Been Gone (Remixes)",
+  partOfCollections: ["artist/kelly-clarkson"],
+  position: 0,
+  ownLength: 40.084183,
+  ownProgress: 40.084183,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2005-03-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7hNpQCnCqxhvlYYtNp8WjZ",
+      externalLink: "https://open.spotify.com/album/7hNpQCnCqxhvlYYtNp8WjZ",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
+} as const satisfies Release

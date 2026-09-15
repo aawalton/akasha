@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const defianceOfTheFall0029Chapter1353Furnace = {
+  id: "01a06591-3c6e-7250-a88a-67f3fc4bca61",
+  type: "story-chapter-read",
+  slug: "defiance-of-the-fall-0029-chapter-1353-furnace",
+  title: "Chapter 1,353 - Furnace",
+  story: "story-read/defiance-of-the-fall",
+  position: 29,
+  ownLength: 2882,
+  unit: "unit/words",
+  publishedAt: "2025-09-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2600265",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2600265/chapter-1353-furnace",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -26,12 +26,12 @@ import {
   resolveWdaLocalPort,
   WDA_LOCAL_PORT_ENV,
 } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { app } from "akasha/command/arguments/pages/app.argument.ts"
-import { route } from "akasha/command/arguments/pages/route.argument.ts"
-import { title } from "akasha/command/arguments/pages/title.argument.ts"
-import { udid as udidArgument } from "akasha/command/arguments/pages/udid.argument.ts"
-import { warm } from "akasha/command/arguments/pages/warm.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { app } from "akasha/command/argument/pages/app.argument.ts"
+import { route } from "akasha/command/argument/pages/route.argument.ts"
+import { title } from "akasha/command/argument/pages/title.argument.ts"
+import { udid as udidArgument } from "akasha/command/argument/pages/udid.argument.ts"
+import { warm } from "akasha/command/argument/pages/warm.argument.ts"
 import {
   answeredWith,
   answering,

@@ -17,7 +17,7 @@ import type { CommsInput } from "akasha/agent/messaging/recipient-resolving/modu
 import { wakeCommsInput } from "akasha/agent/messaging/recipient-resolving/modules/wake-comms-input/wake-comms-input.module.code.ts"
 import { agentPresence } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const toCommsInput = (m: InboundMessageRow): CommsInput =>
   wakeCommsInput({ senderAgentId: m.sender_agent_id, source: m.source, content: m.content })

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0002Chapter2UpACreekNoPaddle = {
+  id: "01a06730-4f36-75df-9d13-ff0c0513d5f7",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0002-chapter-2-up-a-creek-no-paddle",
+  title: "Chapter 2: Up a Creek, No Paddle",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 2,
+  ownLength: 4958,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "700784",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/700784/chapter-2-up-a-creek-no-paddle",
+    },
+  ],
+  publishedAt: "2021-06-17",
+  prose: "txt",
+} as const satisfies StoryChapterRead

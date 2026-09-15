@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const celticWoman2Celebration = {
+  id: "01a0676a-d71a-7008-9340-3fb49227ad35",
+  type: "release",
+  slug: "celtic-woman-2-celebration",
+  title: "Celebration",
+  partOfCollections: ["artist/celtic-woman"],
+  position: 0,
+  ownLength: 55.61435,
+  ownProgress: 55.61435,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-02-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2M3UP3E3ZpozRA9Ys4YLJW",
+      externalLink: "https://open.spotify.com/album/2M3UP3E3ZpozRA9Ys4YLJW",
+    },
+  ],
+} as const satisfies Release

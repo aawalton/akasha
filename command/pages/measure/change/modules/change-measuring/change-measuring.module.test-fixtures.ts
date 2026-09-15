@@ -1,10 +1,10 @@
 import {
   agoOf,
   HOUR,
-} from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
-import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
+} from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
+import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 
 export const ONE = "01a08071-39a4-7000-9c6b-6cee59d30c10"
 

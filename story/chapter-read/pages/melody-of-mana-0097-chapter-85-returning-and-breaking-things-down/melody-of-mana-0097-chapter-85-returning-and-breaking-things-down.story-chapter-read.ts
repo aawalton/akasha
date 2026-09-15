@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0097Chapter85ReturningAndBreakingThingsDown = {
+  id: "01a0672c-ed5e-701d-89d3-42a70f872dea",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0097-chapter-85-returning-and-breaking-things-down",
+  title: "Chapter 85 Returning and breaking things down",
+  story: "story-read/melody-of-mana",
+  position: 97,
+  ownLength: 2129,
+  ownProgress: 2129,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:29:32.848Z",
+  publishedAt: "2022-02-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "836633",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/836633/chapter-85-returning-and-breaking-things-down",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

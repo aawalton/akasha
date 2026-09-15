@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld0198239RacingTowardsInfinity = {
+  id: "01a06730-4e96-7425-af1e-dfe1b294ef2c",
+  type: "story-chapter-read",
+  slug: "the-new-world-0198-239-racing-towards-infinity",
+  title: "239 Racing Towards Infinity",
+  story: "story-read/the-new-world",
+  position: 198,
+  ownLength: 2555,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "427403",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/427403/239-racing-towards-infinity",
+    },
+  ],
+  publishedAt: "2019-11-25",
+  ownProgress: 2555,
+  completedAt: "2026-06-29T21:27:44.768Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

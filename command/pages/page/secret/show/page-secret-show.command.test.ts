@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
-import { commitMessage } from "akasha/command/arguments/pages/commit-message.argument.ts"
-import { filePath } from "akasha/command/arguments/pages/file-path.argument.ts"
-import { key as keyArgument } from "akasha/command/arguments/pages/key.argument.ts"
+import { commitMessage } from "akasha/command/argument/pages/commit-message.argument.ts"
+import { filePath } from "akasha/command/argument/pages/file-path.argument.ts"
+import { key as keyArgument } from "akasha/command/argument/pages/key.argument.ts"
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { pageSecretShow } from "akasha/command/pages/page/secret/show/page-secret-show.command.code.ts"
 import { pageSecretShow as page } from "akasha/command/pages/page/secret/show/page-secret-show.command.ts"
-import { listedById } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { listedById } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const CALLED_AS = "akasha page secret show"
 

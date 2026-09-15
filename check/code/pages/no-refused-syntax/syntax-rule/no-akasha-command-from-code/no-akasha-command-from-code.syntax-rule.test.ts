@@ -1,0 +1,110 @@
+import { expect, test } from "bun:test"
+import {
+  PROBE_AT,
+  parsed,
+} from "akasha/check/code/pages/no-refused-syntax/no-refused-syntax.check-code.decision.test-fixtures.ts"
+import {
+  mark,
+  noAkashaCommandFromCode,
+} from "akasha/check/code/pages/no-refused-syntax/syntax-rule/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.code.ts"
+import { DISPATCHER } from "akasha/check/code/pages/no-refused-syntax/syntax-rule/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test-fixtures.ts"
+
+test("a file launching nothing is refused nothing", () => {
+  expect(noAkashaCommandFromCode(parsed("export const one = 1\n"))).toEqual([])
+})
+
+test("the command run by name is refused", () => {
+  const said = noAkashaCommandFromCode(parsed('spawnSync("akasha", ["read"])\n'))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("akasha")
+})
+
+test("the command run by a path ending in its name is refused", () => {
+  const text = 'spawnSync("/home/one/bin/akasha", ["read"])\n'
+  expect(noAkashaCommandFromCode(parsed(text))).toHaveLength(1)
+})
+
+test("the command reached through a bound name and a join is refused", () => {
+  const text = 'const AKASHA = "akasha"\n' + 'spawnSync(join(bin, AKASHA), ["read"])\n'
+  const said = noAkashaCommandFromCode(parsed(text))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.line).toBe(2)
+})
+
+test("the dispatcher run as an argument is left to the rule refusing every run", () => {
+  const text = `Bun.spawnSync([bun, "${DISPATCHER}"])\n`
+  expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
+})
+
+test("the command named in text shown to a reader is left", () => {
+  const text = 'const READ_CALL = "akasha read --file-path"\n'
+  expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
+})
+
+test("the command's name argued to another program is left", () => {
+  const text = 'spawnSync("git", ["clone", "akasha"])\n'
+  expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
+})
+
+test("a program starting itself to outlive its caller is left", () => {
+  const text = "Bun.spawn([process.execPath, import.meta.path, root, ...args])\n"
+  expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
+})
+
+test("the command run through the runner is refused", () => {
+  const said = noAkashaCommandFromCode(parsed('ran(["akasha", "read"])\n'))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("akasha")
+})
+
+test("every name the runner starts a process by is a launching call", () => {
+  for (const one of ["bytes", "ran", "said", "shown", "spawnedHere"]) {
+    expect(noAkashaCommandFromCode(parsed(`${one}(["akasha", "read"])\n`))).toHaveLength(1)
+  }
+})
+
+test("a name of the runner's reached on something else is a launching call too", () => {
+  expect(noAkashaCommandFromCode(parsed('running.ran(["akasha", "read"])\n'))).toHaveLength(1)
+})
+
+test("another program run through the runner is left", () => {
+  expect(noAkashaCommandFromCode(parsed('ran(["git", "status"])\n'))).toEqual([])
+})
+
+test("a list the runner is handed that opens with a name is left", () => {
+  expect(noAkashaCommandFromCode(parsed("ran([process.execPath, at])\n"))).toEqual([])
+})
+
+test("the command run through the shell is refused", () => {
+  expect(noAkashaCommandFromCode(parsed("$`akasha write --file-path one`\n"))).toHaveLength(1)
+})
+
+test("another program run through the shell is left", () => {
+  expect(noAkashaCommandFromCode(parsed("$`git status`\n"))).toEqual([])
+})
+
+test("the line named is the line the call is on", () => {
+  const text = 'const one = 1\nconst two = 2\nspawnSync("akasha", [])\n'
+  expect(noAkashaCommandFromCode(parsed(text))[0]?.line).toBe(3)
+})
+
+test("two such calls are refused once each", () => {
+  const text = 'spawnSync("akasha", [])\nspawnSync("akasha", [])\n'
+  expect(noAkashaCommandFromCode(parsed(text))).toHaveLength(2)
+})
+
+test("the reason carries what to do instead", () => {
+  const said = noAkashaCommandFromCode(parsed('spawnSync("akasha", [])\n'))
+  expect(said[0]?.reason).toContain("importing them")
+})
+
+test("this mark excuses a file only where this rule could not have refused it", () => {
+  const text = 'spawnSync("akasha", ["read"])\n'
+  expect(noAkashaCommandFromCode(parsed(text))).toHaveLength(1)
+  expect(mark(text, PROBE_AT)).toBe(true)
+})
+
+test("a name built as the code runs is not seen", () => {
+  const text = "spawnSync(bin + suffix, [])\n"
+  expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
+})

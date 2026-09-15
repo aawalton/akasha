@@ -1,0 +1,10 @@
+import type { PersonaCoverImage } from "akasha/persona/cover-image/persona-cover-image.page-type.types.ts"
+
+export const aliL2 = {
+  id: "019f324d-389e-7b0b-b65f-0c622a9b17eb",
+  type: "persona-cover-image",
+  slug: "ali-l2",
+  title: "Ali cover L2",
+  persona: "persona/ali",
+  relationshipLevel: 2,
+} as const satisfies PersonaCoverImage

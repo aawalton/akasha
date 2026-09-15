@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld003477Groundwork = {
+  id: "01a06730-4e46-7e57-81f3-3642f8d1dc9b",
+  type: "story-chapter-read",
+  slug: "the-new-world-0034-77-groundwork",
+  title: "77 Groundwork",
+  story: "story-read/the-new-world",
+  position: 34,
+  ownLength: 5371,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "174715",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/174715/77-groundwork",
+    },
+  ],
+  publishedAt: "2017-11-16",
+  ownProgress: 5371,
+  completedAt: "2026-06-29T21:21:55.843Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

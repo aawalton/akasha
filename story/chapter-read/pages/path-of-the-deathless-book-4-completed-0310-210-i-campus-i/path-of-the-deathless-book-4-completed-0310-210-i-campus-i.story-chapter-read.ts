@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0310210ICampusI = {
+  id: "01a06730-4e4e-7a21-9409-b4f400274432",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0310-210-i-campus-i",
+  title: "210 (I) Campus [I] ",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 310,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2795648/210-i-campus-i",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

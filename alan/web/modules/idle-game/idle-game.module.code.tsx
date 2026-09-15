@@ -21,9 +21,9 @@ import {
   TabsList,
   TabsTrigger,
 } from "akasha/design/interfaces/patterns/modules/tabs/tabs.module.code.tsx"
-import type { FrameConfig } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
-import { DisplayFrame } from "akasha/pages/ui/frame/modules/display-frame/display-frame.module.code.tsx"
-import { FrameViewPropertiesMenu } from "akasha/pages/ui/frame/modules/frame-view-properties-menu/frame-view-properties-menu.module.code.tsx"
+import type { FrameConfig } from "akasha/page/core/schema/modules/detail-config/detail-config.module.code.ts"
+import { DisplayFrame } from "akasha/page/ui/frame/modules/display-frame/display-frame.module.code.tsx"
+import { FrameViewPropertiesMenu } from "akasha/page/ui/frame/modules/frame-view-properties-menu/frame-view-properties-menu.module.code.tsx"
 import { useEffect, useState, useSyncExternalStore } from "react"
 import { z } from "zod"
 

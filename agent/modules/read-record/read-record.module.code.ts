@@ -2,9 +2,9 @@ import { createHash } from "node:crypto"
 import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { reads } from "akasha/agent/properties/reads.file-property.ts"
-import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
-import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
+import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const SEAT = "seat"
 

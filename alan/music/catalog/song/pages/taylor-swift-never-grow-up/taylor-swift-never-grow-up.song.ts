@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const taylorSwiftNeverGrowUp = {
+  id: "019ea416-3dfa-7293-9f7c-209dae686435",
+  type: "song",
+  slug: "taylor-swift-never-grow-up",
+  title: "Never Grow Up",
+  artist: "artist/taylor-swift",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "d81df650-873c-3a8d-a021-bf66f1cc5804",
+      externalLink: "https://musicbrainz.org/work/d81df650-873c-3a8d-a021-bf66f1cc5804",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "solo",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

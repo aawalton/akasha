@@ -1,0 +1,23 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const buildCommand = {
+  id: "01a05b26-f8b6-7600-9b5a-4fed2b228f2b",
+  type: "text-property",
+  slug: "build-command",
+  propertySlug: "build-command",
+  definition: "the command run in a web app's source folder to make its build",
+  maxLength: 200,
+  nameFormat: null,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The command is run in the folder the source directory names.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "The command is stated on the page rather than written into the code that runs the command.",
+    },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

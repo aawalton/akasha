@@ -7,8 +7,8 @@ import {
   pipedIn,
 } from "akasha/command/modules/piping/piping.module.code.ts"
 import { TERMINAL } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const SAYING = {

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const everyTropeEverywhereAllAtOnceLitrpgProgression005050TheHollowBody = {
+  id: "01a06731-ae0f-7008-9a1d-19c4a4c94f46",
+  type: "story-chapter-read",
+  slug: "every-trope-everywhere-all-at-once-litrpg-progression-0050-50-the-hollow-body",
+  title: "50 - The Hollow Body",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
+  position: 50,
+  ownLength: 1912,
+  unit: "unit/words",
+  publishedAt: "2026-06-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3559014",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3559014/50-the-hollow-body",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

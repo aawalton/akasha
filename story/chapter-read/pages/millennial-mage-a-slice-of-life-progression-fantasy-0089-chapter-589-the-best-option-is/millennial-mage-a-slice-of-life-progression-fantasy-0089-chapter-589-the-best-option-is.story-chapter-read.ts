@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0089Chapter589TheBestOptionIs = {
+  id: "01a06731-add4-7001-ae7e-3010d4b62a8e",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0089-chapter-589-the-best-option-is",
+  title: "Chapter: 589 - The Best Option is...",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 89,
+  ownLength: 2710,
+  ownProgress: 2710,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:38:08.987Z",
+  publishedAt: "2025-07-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2445453",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2445453/chapter-589-the-best-option-is",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

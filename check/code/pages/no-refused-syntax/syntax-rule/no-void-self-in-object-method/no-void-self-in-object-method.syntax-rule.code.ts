@@ -1,0 +1,38 @@
+import type {
+  Given,
+  Marking,
+  Refusal,
+} from "akasha/check/code/pages/no-refused-syntax/syntax-rule/syntax-rule.page-type.ts"
+import { lineOf } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import ts from "typescript"
+
+const VOID = "void"
+
+export const mark: Marking = (text) => text.includes(VOID)
+
+const SHIFTED = "so the call hands it the object anyway and every argument after that shifts by one"
+
+function selfDroppedBy(node: ts.MethodDeclaration): boolean {
+  const first = node.parameters[0]
+  if (first === undefined || !ts.isIdentifier(first.name)) return false
+  if (ts.identifierToKeywordKind(first.name) !== ts.SyntaxKind.ThisKeyword) return false
+  return first.type?.kind === ts.SyntaxKind.VoidKeyword
+}
+
+export function noVoidSelfInObjectMethod(standing: Given): readonly Refusal[] {
+  const found: Refusal[] = []
+  const visit = (node: ts.Node): undefined => {
+    if (ts.isObjectLiteralExpression(node)) {
+      for (const member of node.properties) {
+        if (!ts.isMethodDeclaration(member) || !selfDroppedBy(member)) continue
+        found.push({
+          line: lineOf(standing.source, member),
+          reason: `\`${member.name.getText(standing.source)}\` declares \`this: void\`, ${SHIFTED}`,
+        })
+      }
+    }
+    ts.forEachChild(node, visit)
+  }
+  ts.forEachChild(standing.source, visit)
+  return found
+}

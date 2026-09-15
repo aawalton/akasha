@@ -2,17 +2,17 @@ import { readFile, writeFile } from "node:fs/promises"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { aspectRatio as aspectRatioArgument } from "akasha/command/arguments/pages/aspect-ratio.argument.ts"
-import { engine as engineArgument } from "akasha/command/arguments/pages/engine.argument.ts"
-import { image as imageArgument } from "akasha/command/arguments/pages/image.argument.ts"
-import { noPersist } from "akasha/command/arguments/pages/no-persist.argument.ts"
-import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
-import { promptFile } from "akasha/command/arguments/pages/prompt-file.argument.ts"
-import { refs } from "akasha/command/arguments/pages/refs.argument.ts"
-import { renderPrompt } from "akasha/command/arguments/pages/render-prompt.argument.ts"
-import { size as sizeArgument } from "akasha/command/arguments/pages/size.argument.ts"
-import { timeout as timeoutArgument } from "akasha/command/arguments/pages/timeout.argument.ts"
+} from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { aspectRatio as aspectRatioArgument } from "akasha/command/argument/pages/aspect-ratio.argument.ts"
+import { engine as engineArgument } from "akasha/command/argument/pages/engine.argument.ts"
+import { image as imageArgument } from "akasha/command/argument/pages/image.argument.ts"
+import { noPersist } from "akasha/command/argument/pages/no-persist.argument.ts"
+import { output as outputArgument } from "akasha/command/argument/pages/output.argument.ts"
+import { promptFile } from "akasha/command/argument/pages/prompt-file.argument.ts"
+import { refs } from "akasha/command/argument/pages/refs.argument.ts"
+import { renderPrompt } from "akasha/command/argument/pages/render-prompt.argument.ts"
+import { size as sizeArgument } from "akasha/command/argument/pages/size.argument.ts"
+import { timeout as timeoutArgument } from "akasha/command/argument/pages/timeout.argument.ts"
 import {
   answering,
   refusedBy,
@@ -32,8 +32,8 @@ import {
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
 import { wroteTo } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
-import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 

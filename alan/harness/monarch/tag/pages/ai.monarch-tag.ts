@@ -1,0 +1,12 @@
+import type { MonarchTag } from "akasha/alan/harness/monarch/tag/monarch-tag.page-type.types.ts"
+
+export const ai = {
+  id: "01a06559-5ea9-7009-a171-4bd864a9a667",
+  type: "monarch-tag",
+  slug: "ai",
+  title: "AI",
+  definition: "the tag marking a transaction as AI spending",
+  monarchId: "251487307081586966",
+  tagColour: "#bdee63",
+  tagPlace: 10,
+} as const satisfies MonarchTag

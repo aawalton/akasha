@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const taylorSwift2SweeterThanFiction = {
+  id: "01a0676a-d72b-7004-9054-14df53084c5a",
+  type: "release",
+  slug: "taylor-swift-2-sweeter-than-fiction",
+  title: "Sweeter Than Fiction",
+  partOfCollections: ["artist/taylor-swift"],
+  position: 0,
+  ownLength: 3.960667,
+  ownProgress: 3.960667,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2013-10-21",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "11e4xCXllbvk8pWc1cCas1",
+      externalLink: "https://open.spotify.com/album/11e4xCXllbvk8pWc1cCas1",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0076Chapter1204EmotionsAreComplicated = {
+  id: "01a06730-4df2-7fd4-9de5-177b68e75949",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0076-chapter-1204-emotions-are-complicated",
+  title: "Chapter 1204 - Emotions Are Complicated",
+  story: "story-read/the-primal-hunter",
+  position: 76,
+  ownLength: 2805,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2772181",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2772181/chapter-1204-emotions-are-complicated",
+    },
+  ],
+  publishedAt: "2025-11-18",
+  ownProgress: 2805,
+  completedAt: "2026-06-29T19:31:40.484Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

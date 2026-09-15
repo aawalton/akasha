@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0217V6c29ASurpriseStorm = {
+  id: "01a06731-adbb-700a-815a-b41c9f5acb5a",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0217-v6c29-a-surprise-storm",
+  title: "v6c29: A Surprise Storm",
+  story: "story-read/beware-of-chicken",
+  position: 217,
+  ownLength: 2478,
+  ownProgress: 2478,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:58:48.338Z",
+  publishedAt: "2025-05-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2313667",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2313667/v6c29-a-surprise-storm",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

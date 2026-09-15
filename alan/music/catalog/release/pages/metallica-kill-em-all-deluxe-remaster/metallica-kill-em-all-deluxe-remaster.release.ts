@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const metallicaKillEmAllDeluxeRemaster = {
+  id: "01a0676a-d722-7040-8377-7e05ce57c3b9",
+  type: "release",
+  slug: "metallica-kill-em-all-deluxe-remaster",
+  title: "Kill 'Em All (Deluxe Remaster)",
+  partOfCollections: ["artist/metallica"],
+  position: 0,
+  ownLength: 300.872883,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "1983-07-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7GttoSWxEi5lZvIWeSrh6n",
+      externalLink: "https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n",
+    },
+  ],
+} as const satisfies Release

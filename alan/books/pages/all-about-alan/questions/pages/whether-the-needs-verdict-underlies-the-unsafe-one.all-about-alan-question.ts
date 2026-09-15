@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherTheNeedsVerdictUnderliesTheUnsafeOne = {
-  id: "01a077ec-5cc4-7abd-a108-6b98f3a4caa8",
-  type: "all-about-alan-question",
-  slug: "whether-the-needs-verdict-underlies-the-unsafe-one",
-  topic: "all-about-alan-topic/why-people-read-as-unsafe",
-  ask: "Does the verdict that my needs are not important actually underlie people-are-not-safe, or did that verdict only come first by a different route?",
-} as const satisfies AllAboutAlanQuestion

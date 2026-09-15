@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0053Chapter486Reunion = {
+  id: "01a06730-4e0b-7a40-9850-126176baba69",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0053-chapter-486-reunion",
+  title: "Chapter 486: Reunion",
+  story: "story-read/rise-of-the-living-forge",
+  position: 53,
+  ownLength: 1514,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2607754",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2607754/chapter-486-reunion",
+    },
+  ],
+  publishedAt: "2025-09-17",
+  ownProgress: 1514,
+  completedAt: "2026-06-29T20:00:08.062Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

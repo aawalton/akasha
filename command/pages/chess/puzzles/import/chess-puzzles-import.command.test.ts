@@ -5,12 +5,12 @@ import type {
 } from "akasha/alan/chess/modules/puzzle-lichess/chess-puzzle-lichess.module.code.ts"
 import type { Importing } from "akasha/command/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"
 import { importing } from "akasha/command/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import type { Naming } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const CALLED = "akasha chess puzzles import"
 
-const WROTE = "alan/chess/puzzle-sets/pages/one/one.chess-puzzle-set.ts"
+const WROTE = "alan/chess/puzzle-set/pages/one/one.chess-puzzle-set.ts"
 
 const ONE: ParsedPuzzle = {
   puzzleId: "00008",

@@ -1,9 +1,9 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { calendar } from "akasha/command/arguments/pages/calendar.argument.ts"
-import { eventQuery } from "akasha/command/arguments/pages/event-query.argument.ts"
-import { max } from "akasha/command/arguments/pages/max.argument.ts"
-import { windowFrom } from "akasha/command/arguments/pages/window-from.argument.ts"
-import { windowTo } from "akasha/command/arguments/pages/window-to.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { calendar } from "akasha/command/argument/pages/calendar.argument.ts"
+import { eventQuery } from "akasha/command/argument/pages/event-query.argument.ts"
+import { max } from "akasha/command/argument/pages/max.argument.ts"
+import { windowFrom } from "akasha/command/argument/pages/window-from.argument.ts"
+import { windowTo } from "akasha/command/argument/pages/window-to.argument.ts"
 import {
   answeredAsJson,
   asAkasha,

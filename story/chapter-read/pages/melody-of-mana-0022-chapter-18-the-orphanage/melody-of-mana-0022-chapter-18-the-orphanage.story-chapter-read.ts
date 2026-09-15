@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0022Chapter18TheOrphanage = {
+  id: "01a0672c-ed5c-7000-953c-27a189a1c01b",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0022-chapter-18-the-orphanage",
+  title: "Chapter 18 The orphanage",
+  story: "story-read/melody-of-mana",
+  position: 22,
+  ownLength: 1987,
+  ownProgress: 1987,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:27:00.664Z",
+  publishedAt: "2021-07-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "709777",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/709777/chapter-18-the-orphanage",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

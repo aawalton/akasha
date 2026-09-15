@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const endsOfMagic0035Chapter20AHeadlessCity = {
+  id: "01a06731-addb-7000-9d66-86638ffbd282",
+  type: "story-chapter-read",
+  slug: "ends-of-magic-0035-chapter-20-a-headless-city",
+  title: "Chapter 20: A Headless City",
+  story: "story-read/ends-of-magic",
+  position: 35,
+  ownLength: 2588,
+  ownProgress: 2588,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:08:23.716Z",
+  publishedAt: "2025-09-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2592354",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2592354/chapter-20-a-headless-city",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

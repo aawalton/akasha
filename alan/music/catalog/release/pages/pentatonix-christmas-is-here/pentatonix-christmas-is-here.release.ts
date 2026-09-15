@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const pentatonixChristmasIsHere = {
+  id: "01a0676a-d71a-703b-b3c9-80b24bba18e2",
+  type: "release",
+  slug: "pentatonix-christmas-is-here",
+  title: "Christmas Is Here!",
+  partOfCollections: ["artist/pentatonix"],
+  position: 0,
+  ownLength: 32.616617,
+  ownProgress: 32.616617,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-10-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6thZNGX8hUVSjUrqJgPB9b",
+      externalLink: "https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const systemChangeSystemUniverse0056Chapter634Loomis = {
+  id: "01a06730-4fbb-7c2d-a499-ae42d1da0d8d",
+  type: "story-chapter-read",
+  slug: "system-change-system-universe-0056-chapter-634-loomis",
+  title: "Chapter 634: Loomis",
+  story: "story-read/system-change-system-universe",
+  position: 56,
+  ownLength: 2093,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3138362",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3138362/chapter-634-loomis",
+    },
+  ],
+  publishedAt: "2026-03-10",
+  prose: "txt",
+} as const satisfies StoryChapterRead

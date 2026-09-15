@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaManchildTokimonstaRemix = {
+  id: "01a0676a-d724-7036-bd71-3eb13ad06fe6",
+  type: "release",
+  slug: "sia-manchild-tokimonsta-remix",
+  title: "Manchild (TOKiMONSTA Remix)",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 6.250317,
+  ownProgress: 6.250317,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-06-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "52328WXPKDhZVhSeCsl91E",
+      externalLink: "https://open.spotify.com/album/52328WXPKDhZVhSeCsl91E",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

@@ -1,7 +1,7 @@
 import { resolve } from "node:path"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { initiative } from "akasha/command/arguments/pages/initiative.argument.ts"
+import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { initiative } from "akasha/command/argument/pages/initiative.argument.ts"
 import {
   answering,
   DATA,
@@ -12,13 +12,13 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { initiativeDelete as page } from "akasha/command/pages/initiative/delete/initiative-delete.command.ts"
-import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
+import { initiativesDrawn } from "akasha/domain/modules/work-initiatives/work-initiatives.module.code.ts"
 import {
   type Named,
   namersOf,
   valueByPath,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const ID = "id"
 

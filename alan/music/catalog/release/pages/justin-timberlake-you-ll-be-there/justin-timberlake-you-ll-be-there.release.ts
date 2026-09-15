@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const justinTimberlakeYouLlBeThere = {
+  id: "01a0676a-d732-700d-9b14-654497da56cb",
+  type: "release",
+  slug: "justin-timberlake-you-ll-be-there",
+  title: "You’ll Be There",
+  partOfCollections: ["artist/justin-timberlake"],
+  position: 0,
+  ownLength: 3.350883,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2024-10-31",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0UviFWfhkRPshqdYeYAfrA",
+      externalLink: "https://open.spotify.com/album/0UviFWfhkRPshqdYeYAfrA",
+    },
+  ],
+} as const satisfies Release

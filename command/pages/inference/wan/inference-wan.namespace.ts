@@ -1,4 +1,4 @@
-import type { Namespace } from "akasha/command/namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/command/namespace/namespace.page-type.types.ts"
 
 export const inferenceWan = {
   id: "01a093fb-ba5e-7535-a5b3-40b902e37bc8",

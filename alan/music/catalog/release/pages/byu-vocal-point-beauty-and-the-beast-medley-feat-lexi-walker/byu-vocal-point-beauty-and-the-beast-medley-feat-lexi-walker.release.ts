@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const byuVocalPointBeautyAndTheBeastMedleyFeatLexiWalker = {
+  id: "01a0676a-d718-7031-9bff-f37878414bf1",
+  type: "release",
+  slug: "byu-vocal-point-beauty-and-the-beast-medley-feat-lexi-walker",
+  title: "Beauty and the Beast Medley (feat. Lexi Walker)",
+  partOfCollections: ["artist/byu-vocal-point"],
+  position: 0,
+  ownLength: 4.693883,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2017-03-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3uevHbR1sYlWlQ9ODVkHpX",
+      externalLink: "https://open.spotify.com/album/3uevHbR1sYlWlQ9ODVkHpX",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
+} as const satisfies Release

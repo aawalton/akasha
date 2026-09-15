@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const catGirlEvolution004848SpellUpgrades = {
+  id: "01a06731-affb-7002-9af8-37b4c545885a",
+  type: "story-chapter-read",
+  slug: "cat-girl-evolution-0048-48-spell-upgrades",
+  title: "48 - Spell Upgrades",
+  story: "story-read/cat-girl-evolution",
+  position: 48,
+  ownLength: 1984,
+  unit: "unit/words",
+  publishedAt: "2025-11-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2753836",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2753836/48-spell-upgrades",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

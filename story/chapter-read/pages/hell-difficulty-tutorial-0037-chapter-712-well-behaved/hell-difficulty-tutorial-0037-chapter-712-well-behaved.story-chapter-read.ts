@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0037Chapter712WellBehaved = {
+  id: "01a06731-ad70-7005-b770-062d633859ca",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0037-chapter-712-well-behaved",
+  title: "Chapter 712 - Well-behaved",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 37,
+  ownLength: 2099,
+  unit: "unit/words",
+  publishedAt: "2025-12-15",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2851393",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2851393/chapter-712-well-behaved",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const tomLehrerTheQueenSSixMurderTheSongsOfTomLehrer = {
+  id: "01a0676a-d72e-7000-9ff1-4e23e0ad5c5e",
+  type: "release",
+  slug: "tom-lehrer-the-queen-s-six-murder-the-songs-of-tom-lehrer",
+  title: "The Queen's Six Murder the Songs of Tom Lehrer",
+  partOfCollections: ["artist/tom-lehrer"],
+  position: 0,
+  ownLength: 35.009483,
+  ownProgress: 35.009483,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-08-06",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5u7imuWzkTRmWJaidea8aw",
+      externalLink: "https://open.spotify.com/album/5u7imuWzkTRmWJaidea8aw",
+    },
+  ],
+} as const satisfies Release

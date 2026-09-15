@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const coldplayLiveFromSpotifyLondon = {
+  id: "01a0676a-d723-704c-a535-e0f44163bd9c",
+  type: "release",
+  slug: "coldplay-live-from-spotify-london",
+  title: "Live from Spotify London",
+  partOfCollections: ["artist/coldplay"],
+  position: 0,
+  ownLength: 21.157983,
+  ownProgress: 21.157983,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2016-12-16",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "573eP6oKtAJDqnpco7Fn9c",
+      externalLink: "https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c",
+    },
+  ],
+} as const satisfies Release

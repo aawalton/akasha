@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0177Chapter609TheMissingPerson = {
+  id: "01a06730-4e12-78ca-a6f0-32eac0b0ff78",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0177-chapter-609-the-missing-person",
+  title: "Chapter 609: The missing person",
+  story: "story-read/rise-of-the-living-forge",
+  position: 177,
+  ownLength: 1717,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3547289",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3547289/chapter-609-the-missing-person",
+    },
+  ],
+  publishedAt: "2026-06-16",
+  prose: "txt",
+} as const satisfies StoryChapterRead

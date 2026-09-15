@@ -1,0 +1,11 @@
+import type { AllAboutAlanTopic } from "akasha/alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"
+
+export const safetyYears = {
+  id: "01a06559-9d65-76b8-97c5-e525090bea64",
+  type: "all-about-alan-topic",
+  slug: "safety-years",
+  title: "Safety Years",
+  definition: "how much safe time I have behind me",
+  parents: ["all-about-alan-topic/safety-stack"],
+  settled: "It is my average safety level multiplied by years, so a year at level one is one.",
+} as const satisfies AllAboutAlanTopic

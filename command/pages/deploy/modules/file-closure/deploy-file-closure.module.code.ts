@@ -1,7 +1,7 @@
 import { typeScripted } from "akasha/code/bodies/modules/file-kind/file-kind.module.code.ts"
-import { sharedBuildFiles } from "akasha/code/ios-apps/modules/shared-build-files/shared-build-files.module.code.ts"
+import { sharedBuildFiles } from "akasha/code/ios-app/modules/shared-build-files/shared-build-files.module.code.ts"
 import { folderOf } from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
-import { reachedFrom } from "akasha/code/stylesheets/modules/source-globbing/source-globbing.module.code.ts"
+import { reachedFrom } from "akasha/code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"
 import {
   IOS_APP,
   type Named,
@@ -10,18 +10,18 @@ import {
 } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { bodyAt as bodyInCommit } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
-import { deployableNamed } from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.code.ts"
-import { runnerCodeIn } from "akasha/infrastructure/services/workstations/modules/service-reading/service-reading.module.code.ts"
+import { deployableNamed } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"
+import { runnerCodeIn } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
 import {
   type Body,
   manifestsAmong,
   reachingOf,
-} from "akasha/pages/index/modules/package-reaching/package-reaching.module.code.ts"
+} from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import {
   everyOfType,
   valuesOfType,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const MANIFEST = "package.json"
 

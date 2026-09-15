@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2BackInMemphis = {
+  id: "01a0676a-d717-704a-b559-ae773b6e8089",
+  type: "release",
+  slug: "elvis-presley-2-back-in-memphis",
+  title: "Back In Memphis",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 32.156617,
+  ownProgress: 32.156617,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1969-10-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7j8nXZAzFktPwQOHqLGSKm",
+      externalLink: "https://open.spotify.com/album/7j8nXZAzFktPwQOHqLGSKm",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning0108Afterword = {
+  id: "01a06731-b0c9-7000-82b4-afd1ab0792f0",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0108-afterword",
+  title: "Afterword",
+  story: "story-read/mother-of-learning",
+  position: 108,
+  ownLength: 1097,
+  ownProgress: 1097,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:50:11.512Z",
+  publishedAt: "2020-02-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "455877",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/455877/afterword",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

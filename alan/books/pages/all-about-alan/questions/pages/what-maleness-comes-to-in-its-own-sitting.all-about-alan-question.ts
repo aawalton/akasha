@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whatMalenessComesToInItsOwnSitting = {
-  id: "01a077e8-b077-7b6f-a982-e2d684facef1",
-  type: "all-about-alan-question",
-  slug: "what-maleness-comes-to-in-its-own-sitting",
-  topic: "all-about-alan-topic/where-i-land-on-gender",
-  ask: "Taken whole in a sitting of its own rather than piecemeal, what does maleness come to beyond my two recorded complaints, physiology built obscenely around sex and the pull toward violence?",
-} as const satisfies AllAboutAlanQuestion

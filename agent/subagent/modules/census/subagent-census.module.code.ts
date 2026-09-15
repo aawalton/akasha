@@ -7,13 +7,13 @@ import {
 import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { supervisorsRootDir } from "akasha/agent/seat/supervisors/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 import { LOG_AT } from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
-import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   slugOf,
   textAt,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const SEAT = "principalSeatName"
 

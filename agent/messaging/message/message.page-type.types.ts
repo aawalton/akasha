@@ -3,7 +3,7 @@ import type { MessageClaimedAt } from "akasha/agent/messaging/message/properties
 import type { MessageFrom } from "akasha/agent/messaging/message/properties/message-from.text-property.types.ts"
 import type { MessageTo } from "akasha/agent/messaging/message/properties/message-to.relation-property.types.ts"
 import type { MessageWarrant } from "akasha/agent/messaging/message/properties/message-warrant.select-property.types.ts"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Page } from "akasha/page/page.page-type.types.ts"
 
 export type Message = Page & {
   to: MessageTo

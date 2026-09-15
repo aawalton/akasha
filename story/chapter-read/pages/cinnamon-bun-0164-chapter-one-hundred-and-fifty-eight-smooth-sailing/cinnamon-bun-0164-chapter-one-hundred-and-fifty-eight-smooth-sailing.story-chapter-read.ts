@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0164ChapterOneHundredAndFiftyEightSmoothSailing = {
+  id: "01a0672c-eb0d-7002-97e7-bf2b08b6e5d4",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0164-chapter-one-hundred-and-fifty-eight-smooth-sailing",
+  title: "Chapter One Hundred and Fifty-Eight - Smooth Sailing",
+  story: "story-read/cinnamon-bun",
+  position: 164,
+  ownLength: 1877,
+  unit: "unit/words",
+  publishedAt: "2021-02-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "628725",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/628725/chapter-one-hundred-and-fifty-eight-smooth-sailing",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

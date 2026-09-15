@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0226ChapterTwoHundredAndEighteenInquiringMind = {
+  id: "01a0672c-eb13-7009-8b78-515042834a02",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0226-chapter-two-hundred-and-eighteen-inquiring-mind",
+  title: "Chapter Two Hundred and Eighteen - Inquiring Mind Wants to Know",
+  story: "story-read/cinnamon-bun",
+  position: 226,
+  ownLength: 1867,
+  unit: "unit/words",
+  publishedAt: "2021-07-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "713633",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/713633/chapter-two-hundred-and-eighteen-inquiring-mind",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

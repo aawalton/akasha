@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const celticWoman2RedIsTheRose = {
+  id: "01a0676a-d727-705e-8fb6-d58f40b282f8",
+  type: "release",
+  slug: "celtic-woman-2-red-is-the-rose",
+  title: "Red is the Rose",
+  partOfCollections: ["artist/celtic-woman"],
+  position: 0,
+  ownLength: 3.579167,
+  ownProgress: 3.579167,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-05-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6ORQwFm62ysiizXPqM1INp",
+      externalLink: "https://open.spotify.com/album/6ORQwFm62ysiizXPqM1INp",
+    },
+  ],
+} as const satisfies Release

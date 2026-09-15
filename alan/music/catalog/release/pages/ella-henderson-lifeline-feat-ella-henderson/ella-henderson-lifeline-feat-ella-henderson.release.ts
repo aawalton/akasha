@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonLifelineFeatEllaHenderson = {
+  id: "01a0676a-d723-702c-866e-151f971f33e0",
+  type: "release",
+  slug: "ella-henderson-lifeline-feat-ella-henderson",
+  title: "Lifeline (feat. Ella Henderson)",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 2.83755,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2023-08-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6cXVZGm8DdsT8QZpfeUST1",
+      externalLink: "https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

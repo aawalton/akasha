@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0207Chapter200TheHatchery2Of2 = {
+  id: "01a0672c-ebc9-7001-ba4c-924689974a61",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0207-chapter-200-the-hatchery-2-of-2",
+  title: "Chapter 200: The Hatchery (2 of 2)",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 207,
+  ownLength: 2071,
+  ownProgress: 2071,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:18:08.993Z",
+  publishedAt: "2025-02-20",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2078880",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2078880/chapter-200-the-hatchery-2-of-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

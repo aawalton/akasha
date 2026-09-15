@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const snailMailValentineDemos = {
+  id: "01a0676a-d72f-705d-9687-217e74c0b3d5",
+  type: "release",
+  slug: "snail-mail-valentine-demos",
+  title: "Valentine (Demos)",
+  partOfCollections: ["artist/snail-mail"],
+  position: 0,
+  ownLength: 15.663083,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2023-11-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2rppdlwdpcz5FUUK14rvjW",
+      externalLink: "https://open.spotify.com/album/2rppdlwdpcz5FUUK14rvjW",
+    },
+  ],
+} as const satisfies Release

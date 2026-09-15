@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const howManySafeEncountersBankAnException = {
-  id: "01a077e9-7d74-798a-9b08-0098af796ba5",
-  type: "all-about-alan-question",
-  slug: "how-many-safe-encounters-bank-an-exception",
-  topic: "all-about-alan-topic/how-i-read-whether-someone-is-safe",
-  ask: "How many safe encounters bank an exception for a person, and does that exception override my default fully or only weaken the default?",
-} as const satisfies AllAboutAlanQuestion

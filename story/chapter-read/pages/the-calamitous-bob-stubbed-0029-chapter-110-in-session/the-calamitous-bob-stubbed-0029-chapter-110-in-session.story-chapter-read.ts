@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0029Chapter110InSession = {
+  id: "01a06730-4f50-7db6-8b1c-d87efafa3acd",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0029-chapter-110-in-session",
+  title: "Chapter 110: In session",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 29,
+  ownLength: 5142,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1140568",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1140568/chapter-110-in-session",
+    },
+  ],
+  publishedAt: "2023-03-17",
+  ownProgress: 5142,
+  completedAt: "2026-06-29T21:15:42.326Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

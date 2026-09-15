@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const billyJoelLullabyeGoodnightMyAngelArrForChoirByPhilipLawson = {
+  id: "01a0676a-d724-7014-9bf2-983c35abc207",
+  type: "release",
+  slug: "billy-joel-lullabye-goodnight-my-angel-arr-for-choir-by-philip-lawson",
+  title: "Lullabye (Goodnight, my angel) [Arr. for choir by Philip Lawson]",
+  partOfCollections: ["artist/billy-joel"],
+  position: 0,
+  ownLength: 3.72885,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2025-06-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5rAf6PJs2nbg8rLWYiVnFv",
+      externalLink: "https://open.spotify.com/album/5rAf6PJs2nbg8rLWYiVnFv",
+    },
+  ],
+} as const satisfies Release

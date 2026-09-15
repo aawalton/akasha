@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0024Chapter456ClassAct = {
+  id: "01a06730-4e08-78c2-ba47-c388796ec8f7",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0024-chapter-456-class-act",
+  title: "Chapter 456: Class act",
+  story: "story-read/rise-of-the-living-forge",
+  position: 24,
+  ownLength: 2122,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2440154",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2440154/chapter-456-class-act",
+    },
+  ],
+  publishedAt: "2025-07-16",
+  ownProgress: 2122,
+  completedAt: "2026-06-29T19:59:13.666Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

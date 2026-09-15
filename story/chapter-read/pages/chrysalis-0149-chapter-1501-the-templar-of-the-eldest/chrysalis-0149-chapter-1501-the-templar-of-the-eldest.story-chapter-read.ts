@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0149Chapter1501TheTemplarOfTheEldest = {
+  id: "01a0672c-eb60-700a-9b4e-d2652bc7c189",
+  type: "story-chapter-read",
+  slug: "chrysalis-0149-chapter-1501-the-templar-of-the-eldest",
+  title: "Chapter 1501 - The Templar of The Eldest",
+  story: "story-read/chrysalis",
+  position: 149,
+  ownLength: 965,
+  ownProgress: 965,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:48:37.049Z",
+  publishedAt: "2025-02-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2048437",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2048437/chapter-1501-the-templar-of-the-eldest",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

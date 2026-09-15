@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thereIsNoEpicLootHereOnlyPuns0192171MhairaWillFreeYa = {
+  id: "01a06730-5415-75f9-8a67-947d1c88d9be",
+  type: "story-chapter-read",
+  slug: "there-is-no-epic-loot-here-only-puns-0192-171-mhaira-will-free-ya",
+  title: "171: Mhaira will free ya",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
+  position: 192,
+  ownLength: 3570,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1144646",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1144646/171-mhaira-will-free-ya",
+    },
+  ],
+  publishedAt: "2023-03-21",
+  prose: "txt",
+} as const satisfies StoryChapterRead

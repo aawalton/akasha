@@ -1,0 +1,10 @@
+import type { BooleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.types.ts"
+
+export const runsOnRead = {
+  id: "01a04f56-55c4-7001-b905-21873f81487f",
+  type: "boolean-property",
+  slug: "runs-on-read",
+  propertySlug: "runs-on-read",
+  definition: "whether a read hands back what this warrant names",
+  types: "ts",
+} as const satisfies BooleanProperty

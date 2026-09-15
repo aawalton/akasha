@@ -8,14 +8,14 @@ import {
   written,
 } from "akasha/alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { date as dateArgument } from "akasha/command/arguments/pages/date.argument.ts"
-import { estimatedCalories as caloriesArgument } from "akasha/command/arguments/pages/estimated-calories.argument.ts"
-import { image as imageArgument } from "akasha/command/arguments/pages/image.argument.ts"
-import { json as jsonArgument } from "akasha/command/arguments/pages/json.argument.ts"
-import { plantGrams as gramsArgument } from "akasha/command/arguments/pages/plant-grams.argument.ts"
-import { time as timeArgument } from "akasha/command/arguments/pages/time.argument.ts"
-import { title as titleArgument } from "akasha/command/arguments/pages/title.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { date as dateArgument } from "akasha/command/argument/pages/date.argument.ts"
+import { estimatedCalories as caloriesArgument } from "akasha/command/argument/pages/estimated-calories.argument.ts"
+import { image as imageArgument } from "akasha/command/argument/pages/image.argument.ts"
+import { json as jsonArgument } from "akasha/command/argument/pages/json.argument.ts"
+import { plantGrams as gramsArgument } from "akasha/command/argument/pages/plant-grams.argument.ts"
+import { time as timeArgument } from "akasha/command/argument/pages/time.argument.ts"
+import { title as titleArgument } from "akasha/command/argument/pages/title.argument.ts"
 import {
   answering,
   DATA,
@@ -33,13 +33,13 @@ import {
   type ObjectStore,
   seaweedFSObjectStoreFromEnv,
 } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { STEM_CEILING } from "akasha/pages/naming/named-for/modules/page-stem/page-stem.module.code.ts"
-import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
-import { composedFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { STEM_CEILING } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
+import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const NAMED = [
   jsonArgument,

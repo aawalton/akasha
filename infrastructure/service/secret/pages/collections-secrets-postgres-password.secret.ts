@@ -1,0 +1,11 @@
+import type { Secret } from "akasha/infrastructure/service/secret/secret.page-type.types.ts"
+
+export const collectionsSecretsPostgresPassword = {
+  id: "01a076b7-34fc-77d6-a963-edebe3a2e1c1",
+  type: "secret",
+  slug: "collections-secrets-postgres-password",
+  placements: [
+    { resourceName: "alanwalton-secrets", resourceKey: "POSTGRES_PASSWORD" },
+    { resourceName: "temper-secrets", resourceKey: "POSTGRES_PASSWORD" },
+  ],
+} as const satisfies Secret

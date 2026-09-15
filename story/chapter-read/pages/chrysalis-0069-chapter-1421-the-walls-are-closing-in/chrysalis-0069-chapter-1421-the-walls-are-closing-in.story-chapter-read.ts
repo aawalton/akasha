@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0069Chapter1421TheWallsAreClosingIn = {
+  id: "01a0672c-eb5c-700e-8f56-993cf5f401c8",
+  type: "story-chapter-read",
+  slug: "chrysalis-0069-chapter-1421-the-walls-are-closing-in",
+  title: "Chapter 1421 - The Walls are Closing In",
+  story: "story-read/chrysalis",
+  position: 69,
+  ownLength: 1011,
+  ownProgress: 1011,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:45:50.505Z",
+  publishedAt: "2024-10-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1829088",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1829088/chapter-1421-the-walls-are-closing-in",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

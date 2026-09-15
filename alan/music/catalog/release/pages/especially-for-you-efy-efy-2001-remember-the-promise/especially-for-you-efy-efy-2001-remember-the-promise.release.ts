@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const especiallyForYouEfyEfy2001RememberThePromise = {
+  id: "01a0676a-d71c-7055-8dac-c62c1b9a738a",
+  type: "release",
+  slug: "especially-for-you-efy-efy-2001-remember-the-promise",
+  title: "Efy 2001 - Remember the Promise",
+  partOfCollections: ["release-collection/especially-for-you-efy"],
+  position: 2001,
+  ownLength: 37.8704,
+  ownProgress: 37.8704,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2001-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6clukmPHH3Q1znZQPxAoEV",
+      externalLink: "https://open.spotify.com/album/6clukmPHH3Q1znZQPxAoEV",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

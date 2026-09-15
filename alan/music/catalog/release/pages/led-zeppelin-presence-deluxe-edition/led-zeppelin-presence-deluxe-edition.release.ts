@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ledZeppelinPresenceDeluxeEdition = {
+  id: "01a0676a-d727-7015-a8f9-0979e1d40d11",
+  type: "release",
+  slug: "led-zeppelin-presence-deluxe-edition",
+  title: "Presence (Deluxe Edition)",
+  partOfCollections: ["artist/led-zeppelin"],
+  position: 0,
+  ownLength: 76.359183,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "1976-03-31",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6vSiY2OVanKKforfEOT2PD",
+      externalLink: "https://open.spotify.com/album/6vSiY2OVanKKforfEOT2PD",
+    },
+  ],
+} as const satisfies Release

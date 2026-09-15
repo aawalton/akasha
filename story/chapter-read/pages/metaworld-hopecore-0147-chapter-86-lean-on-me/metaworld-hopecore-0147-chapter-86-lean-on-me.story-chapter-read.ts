@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const metaworldHopecore0147Chapter86LeanOnMe = {
+  id: "01a06731-af24-7000-9231-c03f051f6ea9",
+  type: "story-chapter-read",
+  slug: "metaworld-hopecore-0147-chapter-86-lean-on-me",
+  title: "CHAPTER 86 — Lean on Me",
+  story: "story-read/metaworld-hopecore",
+  position: 147,
+  ownLength: 2713,
+  unit: "unit/words",
+  publishedAt: "2026-08-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3771922",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3771922/chapter-86-lean-on-me",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

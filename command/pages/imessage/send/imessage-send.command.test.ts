@@ -5,10 +5,10 @@ import {
   SENT_TEXT,
   sentSaid,
 } from "akasha/alan/harness/imessage/modules/send/imessage-send.module.code.ts"
-import { image as imageArgument } from "akasha/command/arguments/pages/image.argument.ts"
-import { text as textArgument } from "akasha/command/arguments/pages/text.argument.ts"
-import { textFile } from "akasha/command/arguments/pages/text-file.argument.ts"
-import { toHandle } from "akasha/command/arguments/pages/to-handle.argument.ts"
+import { image as imageArgument } from "akasha/command/argument/pages/image.argument.ts"
+import { text as textArgument } from "akasha/command/argument/pages/text.argument.ts"
+import { textFile } from "akasha/command/argument/pages/text-file.argument.ts"
+import { toHandle } from "akasha/command/argument/pages/to-handle.argument.ts"
 import {
   answering,
   OPERATIONAL,

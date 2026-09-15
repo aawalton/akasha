@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
 export const esoEnchantConstantName = {
   id: "01a05fcc-41f2-79fd-b6e5-16cff264ed35",

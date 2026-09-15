@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
-import { after } from "akasha/command/arguments/pages/after.argument.ts"
-import { before } from "akasha/command/arguments/pages/before.argument.ts"
-import { categoryRuleId } from "akasha/command/arguments/pages/category-rule-id.argument.ts"
-import { toPosition } from "akasha/command/arguments/pages/to-position.argument.ts"
+import { after } from "akasha/command/argument/pages/after.argument.ts"
+import { before } from "akasha/command/argument/pages/before.argument.ts"
+import { categoryRuleId } from "akasha/command/argument/pages/category-rule-id.argument.ts"
+import { toPosition } from "akasha/command/argument/pages/to-position.argument.ts"
 import {
   answering,
   DATA,

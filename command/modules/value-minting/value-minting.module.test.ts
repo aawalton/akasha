@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Adding, Replacing } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   identified,
   identifiedOver,
@@ -9,16 +9,16 @@ import {
   mintingOnto,
 } from "akasha/command/modules/value-minting/value-minting.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { statesVersionSeven } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
+import { statesVersionSeven } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   relationFiled,
   shapeAdded,
-} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

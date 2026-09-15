@@ -1,0 +1,24 @@
+import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.types.ts"
+
+export const epicTheMusical = {
+  id: "01a06803-676b-700f-b172-404ed94c6bfa",
+  type: "artist",
+  slug: "epic-the-musical",
+  title: "Epic: The Musical",
+  partOfCollections: ["artist-collection/artists"],
+  position: 0,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2kdmTOXncgNHSuYVMhdd5I",
+      externalLink: "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I",
+      lastSyncedAt: "2025-09-30",
+    },
+  ],
+  tags: ["Musical Theater"],
+} as const satisfies Artist

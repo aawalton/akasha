@@ -1,7 +1,7 @@
 import { beforeEach, describe, expect, mock, test } from "bun:test"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { asPage, type Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
-import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
+import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
 
 const TOKEN = "wt_0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
@@ -22,7 +22,7 @@ function unreached(name: string): () => never {
   }
 }
 
-mock.module("akasha/pages/access/modules/get/get.module.code.ts", () => ({
+mock.module("akasha/page/access/modules/get/get.module.code.ts", () => ({
   getPage: async (): Promise<Page | null> => enrolment,
   getPageByIdSuffix: unreached("getPageByIdSuffix"),
   getPageByIdSuffixAcrossTypes: unreached("getPageByIdSuffixAcrossTypes"),
@@ -31,7 +31,7 @@ mock.module("akasha/pages/access/modules/get/get.module.code.ts", () => ({
   unfiledWhy: unreached("unfiledWhy"),
 }))
 
-mock.module("akasha/pages/access/modules/patch/patch.module.code.ts", () => ({
+mock.module("akasha/page/access/modules/patch/patch.module.code.ts", () => ({
   patchPage: unreached("patchPage"),
   patchPageById: async (args: unknown): Promise<Page | null> => {
     patchCalls.push(args)

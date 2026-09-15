@@ -1,0 +1,18 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const secretValue = {
+  id: "01a0684a-7d55-7002-8c14-3f7a2b5d9e08",
+  type: "text-property",
+  slug: "secret-value",
+  propertySlug: "value",
+  definition: "the secret a page represents",
+  maxLength: 100000,
+  nameFormat: null,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The value is read from the sops file rather than from the page's own file.",
+    },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

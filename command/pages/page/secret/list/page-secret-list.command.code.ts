@@ -1,5 +1,5 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { filePath } from "akasha/command/arguments/pages/file-path.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { filePath } from "akasha/command/argument/pages/file-path.argument.ts"
 import { told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
@@ -7,8 +7,8 @@ import { pageSecretList as page } from "akasha/command/pages/page/secret/list/pa
 import {
   caught,
   targeting,
-} from "akasha/pages/command/modules/page-secret-acting/page-secret-acting.module.code.ts"
-import { keysBeside } from "akasha/pages/modules/secret/page-secret.module.code.ts"
+} from "akasha/page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"
+import { keysBeside } from "akasha/page/modules/secret/page-secret.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const NOTHING = "nothing"

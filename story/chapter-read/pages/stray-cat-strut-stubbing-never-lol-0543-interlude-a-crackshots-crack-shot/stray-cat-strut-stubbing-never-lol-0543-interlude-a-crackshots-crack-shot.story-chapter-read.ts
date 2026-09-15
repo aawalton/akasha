@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0543InterludeACrackshotsCrackShot = {
+  id: "01a06730-4e8f-75a8-938e-7c81d732fa0e",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0543-interlude-a-crackshots-crack-shot",
+  title: "Interlude - A Crackshot's Crack Shot",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 543,
+  ownLength: 1354,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1693069",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1693069/interlude-a-crackshots-crack-shot",
+    },
+  ],
+  publishedAt: "2024-06-25",
+  prose: "txt",
+} as const satisfies StoryChapterRead

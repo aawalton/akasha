@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0073Chapter507Roadblock = {
+  id: "01a06730-4e0c-7244-8344-3633a2239396",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0073-chapter-507-roadblock",
+  title: "Chapter 507: Roadblock",
+  story: "story-read/rise-of-the-living-forge",
+  position: 73,
+  ownLength: 1552,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2709354",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2709354/chapter-507-roadblock",
+    },
+  ],
+  publishedAt: "2025-10-27",
+  ownProgress: 1552,
+  completedAt: "2026-06-29T20:00:46.074Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

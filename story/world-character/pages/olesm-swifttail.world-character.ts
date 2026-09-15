@@ -1,0 +1,13 @@
+import type { WorldCharacter } from "akasha/story/world-character/world-character.page-type.types.ts"
+
+export const olesmSwifttail = {
+  id: "01a06580-2495-78a3-850a-8acddb6bbba8",
+  type: "world-character",
+  slug: "olesm-swifttail",
+  title: "Olesm",
+  world: "world/the-wandering-inn",
+  maxLevel: 33,
+  eventCount: 2,
+  firstChapter: 424,
+  lastChapter: 424,
+} as const satisfies WorldCharacter

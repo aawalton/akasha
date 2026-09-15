@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0487ChapterFourHundredAndSeventyThreeRecipeFor = {
+  id: "01a0672c-eb23-7007-bd75-690a289267bb",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0487-chapter-four-hundred-and-seventy-three-recipe-for",
+  title: "Chapter Four Hundred and Seventy-Three - Recipe for Success",
+  story: "story-read/cinnamon-bun",
+  position: 487,
+  ownLength: 1480,
+  unit: "unit/words",
+  publishedAt: "2024-02-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1527979",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1527979/chapter-four-hundred-and-seventy-three-recipe",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

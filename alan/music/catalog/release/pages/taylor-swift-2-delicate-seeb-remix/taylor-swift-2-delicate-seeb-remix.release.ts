@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const taylorSwift2DelicateSeebRemix = {
+  id: "01a0676a-d71c-7005-b019-fb80d5410e70",
+  type: "release",
+  slug: "taylor-swift-2-delicate-seeb-remix",
+  title: "Delicate (Seeb Remix)",
+  partOfCollections: ["artist/taylor-swift"],
+  position: 0,
+  ownLength: 2.88775,
+  ownProgress: 2.88775,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-06-08",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7gU675c7KZ54MzEcL1O3px",
+      externalLink: "https://open.spotify.com/album/7gU675c7KZ54MzEcL1O3px",
+    },
+  ],
+} as const satisfies Release

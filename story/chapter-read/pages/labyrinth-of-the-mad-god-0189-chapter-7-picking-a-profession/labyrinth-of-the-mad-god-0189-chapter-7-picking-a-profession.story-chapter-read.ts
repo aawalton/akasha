@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const labyrinthOfTheMadGod0189Chapter7PickingAProfession = {
+  id: "01a06731-ad73-7000-96f8-bc5c7fe24764",
+  type: "story-chapter-read",
+  slug: "labyrinth-of-the-mad-god-0189-chapter-7-picking-a-profession",
+  title: "Chapter 7: Picking a Profession",
+  story: "story-read/labyrinth-of-the-mad-god",
+  position: 189,
+  ownLength: 1949,
+  unit: "unit/words",
+  publishedAt: "2025-06-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2398049",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2398049/chapter-7-picking-a-profession",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

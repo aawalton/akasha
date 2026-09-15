@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0448Chapter1796ReturningToTheFortress = {
+  id: "01a0672c-eb6b-7001-bbb5-cb7a49d8b489",
+  type: "story-chapter-read",
+  slug: "chrysalis-0448-chapter-1796-returning-to-the-fortress",
+  title: "Chapter 1796 - Returning to the Fortress",
+  story: "story-read/chrysalis",
+  position: 448,
+  ownLength: 1092,
+  unit: "unit/words",
+  publishedAt: "2026-05-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3416569",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3416569/chapter-1796-returning-to-the-fortress",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

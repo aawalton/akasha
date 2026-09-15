@@ -1,9 +1,9 @@
 import { existsSync } from "node:fs"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { force } from "akasha/command/arguments/pages/force.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { seq } from "akasha/command/arguments/pages/seq.argument.ts"
-import { webApp } from "akasha/command/arguments/pages/web-app.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { force } from "akasha/command/argument/pages/force.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { seq } from "akasha/command/argument/pages/seq.argument.ts"
+import { webApp } from "akasha/command/argument/pages/web-app.argument.ts"
 import {
   answering,
   INPUT,
@@ -17,9 +17,9 @@ import {
   resolveEnvLocalPath,
   writeEnvLocalFromPages,
   wroteEnvSaid,
-} from "akasha/infrastructure/services/web-apps/modules/dev-server-env-writing/dev-server-env-writing.module.code.ts"
-import { namingApps } from "akasha/infrastructure/services/web-apps/modules/dev-server-stating/dev-server-stating.module.code.ts"
-import { resolveWorktreePath } from "akasha/infrastructure/services/web-apps/modules/dev-server-worktree/dev-server-worktree.module.code.ts"
+} from "akasha/infrastructure/service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.code.ts"
+import { namingApps } from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
+import { resolveWorktreePath } from "akasha/infrastructure/service/web-app/modules/dev-server-worktree/dev-server-worktree.module.code.ts"
 
 export type Read = {
   readonly root: string

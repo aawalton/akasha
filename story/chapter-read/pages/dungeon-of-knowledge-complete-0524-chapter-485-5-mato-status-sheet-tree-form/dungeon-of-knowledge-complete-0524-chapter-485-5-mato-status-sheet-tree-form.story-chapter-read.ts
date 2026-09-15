@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0524Chapter4855MatoStatusSheetTreeForm = {
+  id: "01a0672c-ec2e-7000-8573-73cbd7a51365",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0524-chapter-485-5-mato-status-sheet-tree-form",
+  title: "Chapter 485.5: Mato - Status Sheet (Tree Form)",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 524,
+  ownLength: 984,
+  ownProgress: 984,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:30:02.865Z",
+  publishedAt: "2025-12-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2876399",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2876399/chapter-4855-mato-status-sheet-tree-form",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

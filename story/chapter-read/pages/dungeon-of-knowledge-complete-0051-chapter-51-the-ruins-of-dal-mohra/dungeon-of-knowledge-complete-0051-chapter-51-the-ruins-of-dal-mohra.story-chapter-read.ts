@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0051Chapter51TheRuinsOfDalMohra = {
+  id: "01a0672c-eb43-7001-80ea-3e828d3561b2",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0051-chapter-51-the-ruins-of-dal-mohra",
+  title: "Chapter 51: The Ruins of Dal’mohra",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 51,
+  ownLength: 6090,
+  ownProgress: 6090,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:12:39.195Z",
+  publishedAt: "2024-03-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1571280",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1571280/chapter-51-the-ruins-of-dalmohra",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

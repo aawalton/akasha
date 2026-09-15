@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const clairoBubbleGum = {
+  id: "01a0676a-d719-7041-9bfb-dde15865dfef",
+  type: "release",
+  slug: "clairo-bubble-gum",
+  title: "Bubble Gum",
+  partOfCollections: ["artist/clairo"],
+  position: 0,
+  ownLength: 2.932667,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2019-02-22",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4IlnBRDEsHcr9EWxmbgMC2",
+      externalLink: "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2",
+    },
+  ],
+} as const satisfies Release

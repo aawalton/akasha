@@ -1,0 +1,11 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const groupPageSize = {
+  id: "01a0680d-4d00-700f-9e48-6b2d7f1a4110",
+  type: "number-property",
+  slug: "group-page-size",
+  propertySlug: "group-page-size",
+  definition: "how many groups a view draws at once",
+  max: null,
+  types: "ts",
+} as const satisfies NumberProperty

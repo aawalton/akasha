@@ -1,0 +1,58 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const deviceToken = {
+  id: "01a05dc7-77d9-7c93-878e-d93457c7db5f",
+  type: "page-type",
+  slug: "device-token",
+  definition: "where Apple delivers a push for one app on one device",
+  extends: ["page-type/page"],
+  mortal: true,
+  parts: [
+    "instant-property/device-token-last-seen-at",
+    "relation-property/device-token-ios-app",
+    "relation-property/device-token-person",
+    "text-property/device-token-token",
+  ],
+  properties: [
+    { pageProperty: "relation-property/device-token-person", required: true, many: false },
+    {
+      pageProperty: "relation-property/device-token-ios-app",
+      required: true,
+      many: false,
+    },
+    { pageProperty: "text-property/device-token-token", required: true, many: false },
+    {
+      pageProperty: "instant-property/device-token-last-seen-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A token Apple rejects is dropped rather than kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One device has a token for each app the device runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Registering a token again replaces the token that was there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The app a push reaches is named rather than its bundle restated here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The person is named rather than the account the person signed in under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "When a token was last seen is kept outside the commit.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

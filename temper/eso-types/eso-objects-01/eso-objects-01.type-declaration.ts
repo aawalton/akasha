@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "akasha/code/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
 
 export const esoObjects01 = {
   id: "01a0608f-b089-70c2-80a6-bc06927ebe56",

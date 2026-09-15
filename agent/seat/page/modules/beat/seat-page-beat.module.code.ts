@@ -23,9 +23,9 @@ import {
   keepSession,
   sessionRecordOf,
 } from "akasha/agent/seat/session/seat-session.module.code.ts"
-import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
+import type { Outcome } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
 import { fail } from "akasha/command/modules/failing/command-failing.module.code.ts"
-import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export interface BeatReport {
   readonly outcome: Outcome

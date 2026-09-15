@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const utilsWaiting = {
   id: "01a08e0b-52e5-7552-bf24-7f06021af9e2",

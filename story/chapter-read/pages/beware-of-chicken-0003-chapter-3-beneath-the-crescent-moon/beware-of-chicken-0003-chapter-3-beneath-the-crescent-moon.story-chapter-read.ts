@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0003Chapter3BeneathTheCrescentMoon = {
+  id: "01a0672c-ec7f-7003-8fbe-6da8a86af8cf",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0003-chapter-3-beneath-the-crescent-moon",
+  title: "Chapter 3: Beneath the Crescent Moon",
+  story: "story-read/beware-of-chicken",
+  position: 3,
+  ownLength: 1461,
+  ownProgress: 1461,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:51:24.493Z",
+  publishedAt: "2021-01-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "614658",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/614658/chapter-3-beneath-the-crescent-moon",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

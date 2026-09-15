@@ -1,0 +1,11 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const equipType = {
+  id: "01a05fcc-694e-76a3-970f-ebb43b5adaf7",
+  type: "number-property",
+  slug: "equip-type",
+  propertySlug: "equip-type",
+  definition: "the number the game gives a place a thing is worn",
+  max: null,
+  types: "ts",
+} as const satisfies NumberProperty

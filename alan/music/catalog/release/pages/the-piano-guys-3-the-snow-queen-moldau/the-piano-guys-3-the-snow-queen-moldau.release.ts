@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const thePianoGuys3TheSnowQueenMoldau = {
+  id: "01a0676a-d72e-700c-94b6-bd480cb52443",
+  type: "release",
+  slug: "the-piano-guys-3-the-snow-queen-moldau",
+  title: "The Snow Queen (Moldau)",
+  partOfCollections: ["artist/the-piano-guys"],
+  position: 0,
+  ownLength: 4.925,
+  ownProgress: 4.925,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-12-06",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6aigfcdnKVotNXERI2tkcZ",
+      externalLink: "https://open.spotify.com/album/6aigfcdnKVotNXERI2tkcZ",
+    },
+  ],
+} as const satisfies Release

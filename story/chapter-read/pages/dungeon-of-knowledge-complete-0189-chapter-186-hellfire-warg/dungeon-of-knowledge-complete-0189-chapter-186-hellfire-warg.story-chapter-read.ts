@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0189Chapter186HellfireWarg = {
+  id: "01a0672c-ebbc-7000-b485-63bd25d5ab4f",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0189-chapter-186-hellfire-warg",
+  title: "Chapter 186: Hellfire Warg",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 189,
+  ownLength: 5458,
+  ownProgress: 5458,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:17:30.017Z",
+  publishedAt: "2025-01-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2022025",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2022025/chapter-186-hellfire-warg",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

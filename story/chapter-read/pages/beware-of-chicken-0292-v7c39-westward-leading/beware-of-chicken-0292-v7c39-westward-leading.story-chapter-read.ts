@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0292V7c39WestwardLeading = {
+  id: "01a06731-add9-7007-b1f7-8c2a52888434",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0292-v7c39-westward-leading",
+  title: "v7c39: Westward Leading",
+  story: "story-read/beware-of-chicken",
+  position: 292,
+  ownLength: 1835,
+  unit: "unit/words",
+  publishedAt: "2026-03-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3178763",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3178763/v7c39-westward-leading",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

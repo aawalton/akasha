@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const fiveElementOverlordICanUpgradeEverything0016Ch16NewNeighbor = {
+  id: "01a06731-adb4-7004-b64c-72d9227154a9",
+  type: "story-chapter-read",
+  slug: "five-element-overlord-i-can-upgrade-everything-0016-ch16-new-neighbor",
+  title: "Ch16 New Neighbor",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
+  position: 16,
+  ownLength: 1504,
+  unit: "unit/words",
+  publishedAt: "2026-03-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3211911",
+      externalLink:
+        "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211911/ch16-new-neighbor",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

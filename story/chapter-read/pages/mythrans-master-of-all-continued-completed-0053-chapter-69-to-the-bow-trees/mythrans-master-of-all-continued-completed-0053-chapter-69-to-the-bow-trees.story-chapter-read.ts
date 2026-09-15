@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0053Chapter69ToTheBowTrees = {
+  id: "01a06591-3f84-7ef9-8dc8-16cf8969fed9",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0053-chapter-69-to-the-bow-trees",
+  title: "Chapter 69 - To The Bow Trees!",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 53,
+  ownLength: 2809,
+  unit: "unit/words",
+  publishedAt: "2016-11-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "100784",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100784/chapter-69-to-the-bow-trees",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

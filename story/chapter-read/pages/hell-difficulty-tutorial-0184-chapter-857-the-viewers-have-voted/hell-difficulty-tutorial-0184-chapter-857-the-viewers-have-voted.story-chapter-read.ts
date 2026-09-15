@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0184Chapter857TheViewersHaveVoted = {
+  id: "01a06731-ad94-7001-864d-f85f1551d862",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0184-chapter-857-the-viewers-have-voted",
+  title: "Chapter 857 - The viewers have voted",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 184,
+  ownLength: 2424,
+  unit: "unit/words",
+  publishedAt: "2026-08-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3797407",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3797407/chapter-857-the-viewers-have-voted",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

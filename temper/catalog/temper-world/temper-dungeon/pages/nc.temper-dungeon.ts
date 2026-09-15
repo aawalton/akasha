@@ -1,0 +1,12 @@
+import type { TemperDungeon } from "akasha/temper/catalog/temper-world/temper-dungeon/temper-dungeon.page-type.types.ts"
+
+export const nc = {
+  id: "01a05fc5-742a-7663-9d0b-158d4ebdd8d0",
+  type: "temper-dungeon",
+  slug: "nc",
+  title: "Naj-Caldeesh",
+  key: "NC",
+  questGiver: "temper-quest-giver/urgarlag-chief-bane",
+  rotationPosition: 32,
+  soloDifficulty: "hard",
+} as const satisfies TemperDungeon

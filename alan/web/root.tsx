@@ -8,16 +8,16 @@ import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacito
 import { createNativeFsContentPersistence } from "akasha/alan/web/modules/content-pages-fs/content-pages-fs.module.code.ts"
 import { readLocalPosition } from "akasha/alan/web/modules/offline-text/offline-text.module.code.ts"
 import { createNativeFsPagesPersistence } from "akasha/alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts"
-import { fontPreloading } from "akasha/code/router-apps/modules/font-preload/font-preload.module.code.ts"
+import { fontPreloading } from "akasha/code/router-app/modules/font-preload/font-preload.module.code.ts"
 import { CommandPalette } from "akasha/design/interfaces/primitives/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { configureLocalPositionReader } from "akasha/pages/ui/components/modules/local-position-port/local-position-port.module.code.ts"
-import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
+import { configureLocalPositionReader } from "akasha/page/ui/components/modules/local-position-port/local-position-port.module.code.ts"
+import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import {
   configureContentPersistence,
   configurePagesPersistence,
-} from "akasha/pages/ui-store/modules/singleton/singleton.module.code.ts"
+} from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"
 import {
@@ -34,7 +34,7 @@ import "akasha/alan/web/look/alan-web-look.stylesheet.styles.css"
 import "akasha/alan/web/modules/capability-registrations/capability-registrations.module.code.ts"
 import { NavCommands } from "akasha/alan/web/modules/nav-command/nav-command.module.code.tsx"
 import { StatusBarSync } from "akasha/alan/web/modules/status-bar-sync/status-bar-sync.module.code.tsx"
-import { PagesUICapabilityHosts } from "akasha/pages/ui/capabilities/modules/capability-hosts/capability-hosts.module.code.tsx"
+import { PagesUICapabilityHosts } from "akasha/page/ui/capabilities/modules/capability-hosts/capability-hosts.module.code.tsx"
 
 configurePagesPersistence(isNativeShell() ? createNativeFsPagesPersistence() : null)
 

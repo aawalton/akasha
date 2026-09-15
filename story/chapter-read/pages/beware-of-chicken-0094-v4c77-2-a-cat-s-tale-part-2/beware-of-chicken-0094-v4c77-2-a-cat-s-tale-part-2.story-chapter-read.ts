@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0094V4c772ACatSTalePart2 = {
+  id: "01a06731-ad89-7003-af36-69563db9adab",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0094-v4c77-2-a-cat-s-tale-part-2",
+  title: "v4c77.2: A Cat's Tale Part 2",
+  story: "story-read/beware-of-chicken",
+  position: 94,
+  ownLength: 1961,
+  ownProgress: 1961,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:54:40.558Z",
+  publishedAt: "2024-02-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1505901",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1505901/v4c772-a-cats-tale-part-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

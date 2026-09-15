@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
 export const apiVersion = {
   id: "01a05fc4-7a8f-70ba-9a82-91ea7a039a9b",

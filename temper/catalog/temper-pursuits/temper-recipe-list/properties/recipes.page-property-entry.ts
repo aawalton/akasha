@@ -1,0 +1,24 @@
+import type { PagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.types.ts"
+
+export const recipes = {
+  id: "01a0626e-c112-752c-87ea-5aac4c49e0ee",
+  type: "page-property-entry",
+  slug: "recipes",
+  propertySlug: "recipes",
+  definition: "the recipes a list covers, one recipe to a line",
+  properties: [
+    { pageProperty: "number-property/recipe-item-id", required: true, many: false },
+    { pageProperty: "text-property/recipe-name", required: true, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A recipe here is a recipe a player learns from an item the game names.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The recipes of one list are kept in the order the game hands the recipes over.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PagePropertyEntry

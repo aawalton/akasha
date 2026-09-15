@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const demonicCityBuilderLitrpgCityKingdomBuilding0015Chapter54WelcomeParty = {
+  id: "01a06731-ae74-7007-9006-d8293ec9aa7e",
+  type: "story-chapter-read",
+  slug: "demonic-city-builder-litrpg-city-kingdom-building-0015-chapter-54-welcome-party",
+  title: "Chapter 54 - Welcome Party",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
+  position: 15,
+  ownLength: 2360,
+  unit: "unit/words",
+  publishedAt: "2026-08-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3828440",
+      externalLink:
+        "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3828440/chapter-54-welcome-party",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

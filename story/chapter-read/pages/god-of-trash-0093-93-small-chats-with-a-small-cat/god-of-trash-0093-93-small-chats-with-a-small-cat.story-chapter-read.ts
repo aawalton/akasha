@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash009393SmallChatsWithASmallCat = {
+  id: "01a0672c-edc6-7000-91ed-e6562e5f3702",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0093-93-small-chats-with-a-small-cat",
+  title: "93. Small Chats with a Small Cat",
+  story: "story-read/god-of-trash",
+  position: 93,
+  ownLength: 2688,
+  unit: "unit/words",
+  publishedAt: "2025-06-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2322752",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2322752/93-small-chats-with-a-small-cat",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

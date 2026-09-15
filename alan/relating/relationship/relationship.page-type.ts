@@ -1,0 +1,97 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const relationship = {
+  id: "01a06594-c6e2-7bab-9ba9-948b607cfd13",
+  type: "page-type",
+  slug: "relationship",
+  definition: "one person in Alan's life, and how close they are",
+  extends: ["page-type/page"],
+  parts: [
+    "boolean-property/relationship-sms-allowed",
+    "email-address-property/relationship-email",
+    "file-property/relationship-notes",
+    "number-property/relationship-commitment",
+    "number-property/relationship-connection",
+    "number-property/relationship-impact",
+    "number-property/relationship-interest",
+    "phone-number-property/relationship-phone",
+    "relation-property/relationship-sms-handler-target",
+    "relation-property/relationship-topics",
+    "select-property/relationship-current-circle",
+    "text-property/relationship-account-user-id",
+    "text-property/relationship-aliases",
+    "text-property/relationship-company",
+    "text-property/relationship-met-at",
+    "text-property/relationship-role",
+    "url-property/relationship-linkedin-url",
+  ],
+  properties: [
+    { pageProperty: "text-property/title", required: true, many: false },
+    {
+      pageProperty: "text-property/relationship-account-user-id",
+      required: false,
+      many: false,
+    },
+    {
+      pageProperty: "text-property/relationship-aliases",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    { pageProperty: "number-property/relationship-commitment", required: false, many: false },
+    { pageProperty: "text-property/relationship-company", required: false, many: false },
+    { pageProperty: "number-property/relationship-connection", required: false, many: false },
+    {
+      pageProperty: "select-property/relationship-current-circle",
+      required: false,
+      many: false,
+    },
+    { pageProperty: "email-address-property/relationship-email", required: false, many: false },
+    { pageProperty: "number-property/relationship-impact", required: false, many: false },
+    { pageProperty: "number-property/relationship-interest", required: false, many: false },
+    { pageProperty: "url-property/relationship-linkedin-url", required: false, many: false },
+    { pageProperty: "text-property/relationship-met-at", required: false, many: false },
+    { pageProperty: "phone-number-property/relationship-phone", required: false, many: false },
+    { pageProperty: "text-property/relationship-role", required: false, many: false },
+    { pageProperty: "boolean-property/relationship-sms-allowed", required: false, many: false },
+    {
+      pageProperty: "relation-property/relationship-sms-handler-target",
+      required: false,
+      many: false,
+    },
+    {
+      pageProperty: "relation-property/relationship-topics",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    { pageProperty: "file-property/relationship-notes", required: false, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A relationship is named by the person's own name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every rating a relationship has sits apart from every other rating.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relationship exists whether or not the system reaches the person.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A person the system reaches is named here only where a text is routed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One relationship may be a couple rather than one person.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A relationship is no person page.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

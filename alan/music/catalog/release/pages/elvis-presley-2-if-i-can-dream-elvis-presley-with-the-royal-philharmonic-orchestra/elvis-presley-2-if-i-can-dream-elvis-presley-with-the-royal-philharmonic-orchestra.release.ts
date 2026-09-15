@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2IfICanDreamElvisPresleyWithTheRoyalPhilharmonicOrchestra = {
+  id: "01a0676a-d721-7051-bbf8-6c1d1b97d3e2",
+  type: "release",
+  slug: "elvis-presley-2-if-i-can-dream-elvis-presley-with-the-royal-philharmonic-orchestra",
+  title: "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 49.676367,
+  ownProgress: 49.676367,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2015-10-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3BYCjGZjrTkilIY7U25fNt",
+      externalLink: "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt",
+    },
+  ],
+} as const satisfies Release

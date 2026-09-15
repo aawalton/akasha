@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const librarySystemResetOverdueBookFourStubbed0005Chapter5Connection = {
+  id: "01a06731-ae82-7000-a5c0-962d8e541a97",
+  type: "story-chapter-read",
+  slug: "library-system-reset-overdue-book-four-stubbed-0005-chapter-5-connection",
+  title: "Chapter 5: Connection",
+  story: "story-read/library-system-reset-overdue-book-four-stubbed",
+  position: 5,
+  ownLength: 2990,
+  unit: "unit/words",
+  publishedAt: "2023-10-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1384330",
+      externalLink:
+        "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1384330/chapter-5-connection",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

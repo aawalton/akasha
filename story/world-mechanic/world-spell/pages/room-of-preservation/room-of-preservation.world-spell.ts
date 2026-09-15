@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-spell.page-type.types.ts"
+
+export const roomOfPreservation = {
+  id: "01a06572-95de-7192-a3a5-b98979fa7fa2",
+  type: "world-spell",
+  slug: "room-of-preservation",
+  title: "Room of Preservation",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

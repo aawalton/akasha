@@ -1,0 +1,17 @@
+import type { StrengthLog } from "akasha/alan/value/health/fitness/strength/log/strength-log.page-type.types.ts"
+
+export const fridayPull2026070350a5aaeaBodyweightReverseLungeSet2 = {
+  id: "019f2940-4328-710f-bf3e-9e2167f184f7",
+  type: "strength-log",
+  slug: "friday-pull-2026-07-03-50a5aaea-bodyweight-reverse-lunge-set-2",
+  title: "Bodyweight Reverse Lunge set 2",
+  exercise: "strength-exercise/bodyweight-reverse-lunge",
+  isWarmup: false,
+  note: "Round 2, 20 total. Same difficulty as round 1 — engine held, no fade.",
+  reps: 20,
+  rpe: 6,
+  sessionSlug: "friday-pull-2026-07-03-50a5aaea",
+  setLogDate: "2026-07-03",
+  day: "day/day-2026-07-03",
+  setNumber: 2,
+} as const satisfies StrengthLog

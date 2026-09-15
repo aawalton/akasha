@@ -1,0 +1,19 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const deviceSecretHash = {
+  id: "01a05b39-f50c-7eb2-a48c-d4679699f045",
+  type: "text-property",
+  slug: "device-secret-hash",
+  propertySlug: "secret-hash",
+  definition: "the sha-256 of the secret a device presents, written as lower hex",
+  maxLength: 64,
+  nameFormat: null,
+  unique: "unique-kind/page-type",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "Nothing here is reversible to the secret the hash was taken over.",
+    },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

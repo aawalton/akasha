@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const girlInRedYouNeedMeNowFeatSabrinaCarpenter = {
+  id: "01a0676a-d732-700f-9698-e0f1117c3105",
+  type: "release",
+  slug: "girl-in-red-you-need-me-now-feat-sabrina-carpenter",
+  title: "You Need Me Now? (feat. Sabrina Carpenter)",
+  partOfCollections: ["artist/girl-in-red"],
+  position: 0,
+  ownLength: 3.106283,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2024-03-22",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "26H0jinpdi0RSrZq90fNMF",
+      externalLink: "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF",
+    },
+  ],
+} as const satisfies Release

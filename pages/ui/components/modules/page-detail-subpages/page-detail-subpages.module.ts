@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const pageDetailSubpages = {
-  id: "01a06257-46ee-7531-b4b2-e246da65f69b",
-  type: "module",
-  slug: "page-detail-subpages",
-  definition: "the pages held under one page, shown as a table",
-  code: "tsx",
-} as const satisfies Module

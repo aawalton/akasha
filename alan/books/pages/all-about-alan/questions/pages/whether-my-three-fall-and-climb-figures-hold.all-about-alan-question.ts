@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherMyThreeFallAndClimbFiguresHold = {
-  id: "01a077e8-d486-769b-83f0-488b313f3724",
-  type: "all-about-alan-question",
-  slug: "whether-my-three-fall-and-climb-figures-hold",
-  topic: "all-about-alan-topic/how-far-back-i-expect-to-come",
-  ask: "Three figures about my fall and my climb were woven from a capture. Do those three figures hold?",
-} as const satisfies AllAboutAlanQuestion

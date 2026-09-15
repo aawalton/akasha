@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const systemGirlSystemMcWorldHoppingComedy0048Chapter47TheCommissionAndTheCulinaryArts = {
+  id: "01a06730-4def-7bb6-8212-fd4d33b6e490",
+  type: "story-chapter-read",
+  slug: "system-girl-system-mc-world-hopping-comedy-0048-chapter-47-the-commission-and-the-culinary-arts",
+  title: "Chapter 47: The Commission and the Culinary Arts",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
+  position: 48,
+  ownLength: 2069,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2878273",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2878273/chapter-47-the-commission-and-the-culinary-arts",
+    },
+  ],
+  publishedAt: "2025-12-25",
+  prose: "txt",
+} as const satisfies StoryChapterRead

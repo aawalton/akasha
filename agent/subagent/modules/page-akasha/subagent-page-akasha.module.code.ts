@@ -6,13 +6,13 @@ import {
   sweeping,
   tookUnder,
 } from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
-import type { Outcome } from "akasha/changes/modules/gated-write/gated-write.module.code.ts"
+import type { Outcome } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import type { Roots } from "akasha/pages/modules/markdown-page-at/markdown-page-at.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-at.module.code.ts"
 
 export function akashaSubagentsDirIn(root: string): string {
   return `${root}/${subagentsAt(root)}`

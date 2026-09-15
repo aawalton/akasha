@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0167Chapter153AgainstTheLeviathan = {
+  id: "01a06731-ad81-7013-8d3a-9e0d938943fa",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0167-chapter-153-against-the-leviathan",
+  title: "Chapter 153 Against the Leviathan",
+  story: "story-read/melody-of-mana",
+  position: 167,
+  ownLength: 2454,
+  ownProgress: 2454,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:31:37.143Z",
+  publishedAt: "2022-07-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "947365",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/947365/chapter-153-against-the-leviathan",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

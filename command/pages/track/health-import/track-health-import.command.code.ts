@@ -9,12 +9,12 @@ import {
   MAX_IMPORT_BATCH,
   runHealthImport,
 } from "akasha/alan/harness/health-samples-import/modules/health-import-run/health-import-run.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { batch as batchArgument } from "akasha/command/arguments/pages/batch.argument.ts"
-import { dryRun as dryRunArgument } from "akasha/command/arguments/pages/dry-run.argument.ts"
-import { firstDay } from "akasha/command/arguments/pages/first-day.argument.ts"
-import { healthExportPath } from "akasha/command/arguments/pages/health-export-path.argument.ts"
-import { restart as restartArgument } from "akasha/command/arguments/pages/restart.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { batch as batchArgument } from "akasha/command/argument/pages/batch.argument.ts"
+import { dryRun as dryRunArgument } from "akasha/command/argument/pages/dry-run.argument.ts"
+import { firstDay } from "akasha/command/argument/pages/first-day.argument.ts"
+import { healthExportPath } from "akasha/command/argument/pages/health-export-path.argument.ts"
+import { restart as restartArgument } from "akasha/command/argument/pages/restart.argument.ts"
 import {
   answering,
   DATA,

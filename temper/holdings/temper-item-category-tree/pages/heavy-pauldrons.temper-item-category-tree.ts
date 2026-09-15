@@ -1,0 +1,11 @@
+import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-category-tree/temper-item-category-tree.page-type.types.ts"
+
+export const heavyPauldrons = {
+  id: "01a05fcf-f821-73a9-948e-e10d92de940d",
+  type: "temper-item-category-tree",
+  slug: "heavy-pauldrons",
+  title: "Pauldrons",
+  parent: "heavy-armor",
+  displayOrder: 2,
+  equipTypes: [4],
+} as const satisfies TemperItemCategoryTree

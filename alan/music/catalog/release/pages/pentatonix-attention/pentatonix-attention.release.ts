@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const pentatonixAttention = {
+  id: "01a0676a-d717-703e-afbb-ce1c6978b9c2",
+  type: "release",
+  slug: "pentatonix-attention",
+  title: "Attention",
+  partOfCollections: ["artist/pentatonix"],
+  position: 0,
+  ownLength: 2.858667,
+  ownProgress: 2.858667,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-03-23",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6OMyQmPmiu4dKGC2gGd7pk",
+      externalLink: "https://open.spotify.com/album/6OMyQmPmiu4dKGC2gGd7pk",
+    },
+  ],
+} as const satisfies Release

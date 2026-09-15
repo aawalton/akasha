@@ -3,7 +3,7 @@ import { ErrorReportSchema } from "akasha/alan/harness/errors-core/modules/error
 import {
   captureError,
   type ErrorCapturePayload,
-} from "akasha/pages/access/modules/capture-error/capture-error.module.code.ts"
+} from "akasha/page/access/modules/capture-error/capture-error.module.code.ts"
 
 function corsHeaders(request: Request, shellOrigins: readonly string[]): Record<string, string> {
   const origin = request.headers.get("Origin")

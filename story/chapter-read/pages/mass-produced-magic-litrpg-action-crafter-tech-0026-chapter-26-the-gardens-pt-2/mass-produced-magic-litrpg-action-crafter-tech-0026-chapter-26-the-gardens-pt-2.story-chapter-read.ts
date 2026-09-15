@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const massProducedMagicLitrpgActionCrafterTech0026Chapter26TheGardensPt2 = {
+  id: "01a06731-afb0-7004-b8b1-cc8ebb1c71fc",
+  type: "story-chapter-read",
+  slug: "mass-produced-magic-litrpg-action-crafter-tech-0026-chapter-26-the-gardens-pt-2",
+  title: "Chapter 26 – The Gardens – Pt 2",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
+  position: 26,
+  ownLength: 1918,
+  unit: "unit/words",
+  publishedAt: "2024-12-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1950263",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1950263/chapter-26-the-gardens-pt-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,9 @@
+import type { TemperCompanionSkillSlot } from "akasha/temper/catalog/temper-companions/temper-companion-skill-slot/temper-companion-skill-slot.page-type.types.ts"
+
+export const active2 = {
+  id: "01a05fcd-7100-7fd3-8b2a-1e8e15f24d24",
+  type: "temper-companion-skill-slot",
+  slug: "active-2",
+  key: "active-2",
+  title: "Active 2",
+} as const satisfies TemperCompanionSkillSlot

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0167Chapter1519WhatWasKnownWhatWasLost = {
+  id: "01a0672c-eb61-7000-92c0-ef70eb004c83",
+  type: "story-chapter-read",
+  slug: "chrysalis-0167-chapter-1519-what-was-known-what-was-lost",
+  title: "Chapter 1519 - What Was Known, What Was Lost",
+  story: "story-read/chrysalis",
+  position: 167,
+  ownLength: 966,
+  ownProgress: 966,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:49:11.247Z",
+  publishedAt: "2025-02-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2093761",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2093761/chapter-1519-what-was-known-what-was-lost",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

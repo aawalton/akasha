@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const heWhoFightsWithMonsters0024Chapter957WhenTheScreamingBegan = {
+  id: "01a06731-adc4-7001-b6d9-55b8b4113d48",
+  type: "story-chapter-read",
+  slug: "he-who-fights-with-monsters-0024-chapter-957-when-the-screaming-began",
+  title: "Chapter 957: When the Screaming Began",
+  story: "story-read/he-who-fights-with-monsters",
+  position: 24,
+  ownLength: 2128,
+  ownProgress: 2128,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:04:37.140Z",
+  publishedAt: "2025-01-31",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2040952",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2040952/chapter-957-when-the-screaming-began",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

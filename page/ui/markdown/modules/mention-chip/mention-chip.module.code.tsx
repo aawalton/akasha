@@ -1,0 +1,57 @@
+"use client"
+
+import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+import { formatSmartDate } from "akasha/page/core/view/modules/format-smart-date/format-smart-date.module.code.ts"
+import type {
+  MentionResolver,
+  MentionType,
+} from "akasha/page/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts"
+import { isMentionType } from "akasha/page/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts"
+
+const VARIANT_BY_MENTION_TYPE: Record<MentionType, "accent" | "green" | "blue"> = {
+  page: "accent",
+  user: "green",
+  date: "blue",
+}
+
+const FALLBACK_MENTION_TYPE: MentionType = "page"
+
+export function MentionChip({
+  mentionType,
+  mentionId,
+  mentionAnchor,
+  resolver,
+}: {
+  mentionType: string
+  mentionId: string
+  mentionAnchor?: string
+  resolver?: MentionResolver
+}) {
+  const type: MentionType = isMentionType(mentionType) ? mentionType : FALLBACK_MENTION_TYPE
+  const variant = VARIANT_BY_MENTION_TYPE[type] ?? "accent"
+  const fallback =
+    mentionAnchor != null
+      ? `@${mentionType}:${mentionId}#${mentionAnchor}`
+      : `@${mentionType}:${mentionId}`
+
+  if (type === "date") {
+    return <Badge variant="blue">{formatSmartDate(mentionId)}</Badge>
+  }
+
+  if (!resolver) {
+    return <Badge variant={variant}>{fallback}</Badge>
+  }
+
+  const resolved = resolver(type, mentionId)
+
+  if (resolved.href != null) {
+    const href = mentionAnchor != null ? `${resolved.href}#${mentionAnchor}` : resolved.href
+    return (
+      <Badge variant={variant} asChild>
+        <a href={href}>{resolved.label}</a>
+      </Badge>
+    )
+  }
+
+  return <Badge variant={variant}>{resolved.label}</Badge>
+}

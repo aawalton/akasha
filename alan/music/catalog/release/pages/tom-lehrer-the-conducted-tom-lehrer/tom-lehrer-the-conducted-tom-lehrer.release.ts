@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const tomLehrerTheConductedTomLehrer = {
+  id: "01a0676a-d72c-7043-bf28-457a2194be92",
+  type: "release",
+  slug: "tom-lehrer-the-conducted-tom-lehrer",
+  title: "The Conducted Tom Lehrer",
+  partOfCollections: ["artist/tom-lehrer"],
+  position: 0,
+  ownLength: 33.097683,
+  ownProgress: 33.097683,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-04-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1zSJn05mfUconkdvLJ8uqq",
+      externalLink: "https://open.spotify.com/album/1zSJn05mfUconkdvLJ8uqq",
+    },
+  ],
+} as const satisfies Release

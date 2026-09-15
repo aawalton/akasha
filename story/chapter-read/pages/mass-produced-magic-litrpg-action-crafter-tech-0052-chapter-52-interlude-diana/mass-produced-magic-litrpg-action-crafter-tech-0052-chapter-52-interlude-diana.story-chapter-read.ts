@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const massProducedMagicLitrpgActionCrafterTech0052Chapter52InterludeDiana = {
+  id: "01a06731-afb2-700f-94ce-296b237c5486",
+  type: "story-chapter-read",
+  slug: "mass-produced-magic-litrpg-action-crafter-tech-0052-chapter-52-interlude-diana",
+  title: "Chapter 52 – Interlude – Diana",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
+  position: 52,
+  ownLength: 1894,
+  unit: "unit/words",
+  publishedAt: "2025-01-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2035186",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2035186/chapter-52-interlude-diana",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

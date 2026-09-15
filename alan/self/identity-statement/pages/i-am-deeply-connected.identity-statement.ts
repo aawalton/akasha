@@ -1,0 +1,16 @@
+import type { IdentityStatement } from "akasha/alan/self/identity-statement/identity-statement.page-type.types.ts"
+
+export const iAmDeeplyConnected = {
+  id: "019ea810-a12d-7368-a087-5ade2b10c157",
+  type: "identity-statement",
+  slug: "i-am-deeply-connected",
+  title: "I am deeply connected",
+  about: "myself",
+  identityStatementLevel: 0,
+  notionId: "c16744b3f852475499aa5bac1e0efc5d",
+  identityStatementRank: "b-rank",
+  replacesStatements: ["identity-statement/i-am-socially-isolated"],
+  identityStatementStatus: "planned",
+  identityStatementValue: "value/love",
+  icon: "file-text",
+} as const satisfies IdentityStatement

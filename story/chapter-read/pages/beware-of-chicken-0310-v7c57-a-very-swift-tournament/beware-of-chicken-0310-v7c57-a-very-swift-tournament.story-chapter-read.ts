@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0310V7c57AVerySwiftTournament = {
+  id: "01a06731-addf-7006-b4b9-d0e2131f0a16",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0310-v7c57-a-very-swift-tournament",
+  title: "v7c57: A Very Swift Tournament",
+  story: "story-read/beware-of-chicken",
+  position: 310,
+  ownLength: 2296,
+  unit: "unit/words",
+  publishedAt: "2026-05-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3373263",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3373263/v7c57-a-very-swift-tournament",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

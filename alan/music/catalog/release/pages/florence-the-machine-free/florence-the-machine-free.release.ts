@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const florenceTheMachineFree = {
+  id: "01a0676a-d71e-7033-90a7-c6c638b32e98",
+  type: "release",
+  slug: "florence-the-machine-free",
+  title: "Free",
+  partOfCollections: ["artist/florence-the-machine"],
+  position: 0,
+  ownLength: 3.914283,
+  ownProgress: 3.914283,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-04-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1P2IeydghXZHVulSJLtReQ",
+      externalLink: "https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ",
+    },
+  ],
+} as const satisfies Release

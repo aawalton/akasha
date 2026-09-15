@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const labyrinthOfTheMadGod0075Chapter38IntermissionSophiaAndDevin3 = {
+  id: "01a0672c-eb71-7014-b135-8d52cc008d6b",
+  type: "story-chapter-read",
+  slug: "labyrinth-of-the-mad-god-0075-chapter-38-intermission-sophia-and-devin-3",
+  title: "Chapter 38: Intermission: Sophia and Devin 3",
+  story: "story-read/labyrinth-of-the-mad-god",
+  position: 75,
+  ownLength: 1683,
+  unit: "unit/words",
+  publishedAt: "2024-10-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1850400",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1850400/chapter-38-intermission-sophia-and-devin-3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

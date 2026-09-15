@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0271V7c18SongOfTheForge = {
+  id: "01a06731-adce-7001-b9da-f23bb7643084",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0271-v7c18-song-of-the-forge",
+  title: "v7c18: Song of the Forge",
+  story: "story-read/beware-of-chicken",
+  position: 271,
+  ownLength: 3034,
+  ownProgress: 3034,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:00:43.192Z",
+  publishedAt: "2026-01-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2926688",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2926688/v7c18-song-of-the-forge",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

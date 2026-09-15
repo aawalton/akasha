@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jadaFacerWickedGame = {
+  id: "01a0676a-d731-7017-86ee-50581753faf2",
+  type: "release",
+  slug: "jada-facer-wicked-game",
+  title: "Wicked Game",
+  partOfCollections: ["artist/jada-facer"],
+  position: 0,
+  ownLength: 2.821417,
+  ownProgress: 2.821417,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-03-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5FY5Q60bcB5M45YVYyJqss",
+      externalLink: "https://open.spotify.com/album/5FY5Q60bcB5M45YVYyJqss",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,9 @@
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+
+export const pageUiPerf = {
+  id: "01a071d1-2367-7ad6-9120-93d669869ca2",
+  type: "domain",
+  slug: "page-ui-perf",
+  definition: "how long drawing a page takes",
+  parts: ["module/page-card-perf"],
+} as const satisfies Domain

@@ -1,0 +1,117 @@
+"use client"
+
+import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.module.code.tsx"
+import { formatRelativeTime } from "akasha/design/interfaces/primitives/modules/format-relative-time/format-relative-time.module.code.ts"
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "akasha/design/interfaces/primitives/modules/popover/popover.module.code.tsx"
+import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
+import { resolveBadgeVariant } from "akasha/page/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"
+import { formatAbsoluteInstant } from "akasha/page/core/property-types/modules/instant/instant.module.code.ts"
+import type { PropertyValue } from "akasha/page/core/property-types/modules/property-type-ops/property-type-ops.module.code.ts"
+import type { BadgeVariant } from "akasha/page/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
+import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
+import {
+  type InstantConfig,
+  type InstantFormat,
+  instantConfigSchema,
+} from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
+import type { PropertyBadgeProps } from "akasha/page/ui/components/modules/property-badge/property-badge.module.code.tsx"
+import { useState } from "react"
+
+function getInstantFormat(definition: PropertyDefinition): InstantFormat {
+  const config: InstantConfig = parseConfig(instantConfigSchema, definition.config, {
+    format: "relative",
+  })
+  return config.format
+}
+
+function formatInstantLabel(ms: number, format: InstantFormat): string {
+  if (format === "relative") return formatRelativeTime(ms) ?? "—"
+  return formatAbsoluteInstant(ms, format)
+}
+
+function toMillis(value: PropertyValue): number | null {
+  if (value == null || value === "") return null
+  if (typeof value === "number") return Number.isFinite(value) ? value : null
+  if (typeof value === "string") {
+    const ms = new Date(value).getTime()
+    return Number.isFinite(ms) ? ms : null
+  }
+  return null
+}
+
+function toDateTimeLocal(ms: number): string {
+  return new Date(ms).toISOString().slice(0, 16)
+}
+
+function InstantPopoverBadge({
+  value,
+  onIsoChange,
+  variant = "elevation-muted",
+  format,
+}: {
+  value: PropertyValue
+  onIsoChange: (iso: string | null) => void
+  variant?: BadgeVariant
+  format: InstantFormat
+}) {
+  const [open, setOpen] = useState(false)
+  const ms = toMillis(value)
+  const dateTimeStr = ms != null ? toDateTimeLocal(ms) : ""
+  const label = ms != null ? formatInstantLabel(ms, format) : "Pick time"
+
+  return (
+    <Popover open={open} onOpenChange={setOpen}>
+      <PopoverTrigger asChild>
+        <span
+          role="button"
+          tabIndex={0}
+          className="inline-flex h-5 cursor-pointer items-center outline-none focus-visible:[outline-offset:-1px] focus-visible:[outline:1.5px_solid_var(--color-accent)]"
+        >
+          <Badge variant={variant}>{label}</Badge>
+        </span>
+      </PopoverTrigger>
+      <PopoverContent align="end" className="w-auto p-3" onPointerDown={(e) => e.stopPropagation()}>
+        <input
+          type="datetime-local"
+          value={dateTimeStr}
+          onChange={(e) => {
+            const v = e.target.value
+            onIsoChange(v !== "" ? new Date(v).toISOString() : null)
+          }}
+          className="rounded-md border border-outline bg-surface px-2 py-0.5 text-sm"
+        />
+      </PopoverContent>
+    </Popover>
+  )
+}
+
+export function Drawing({ property, value, editable, onPropertyChange }: PropertyBadgeProps) {
+  const accentVariant: BadgeVariant = property.accent ? "accent" : "elevation-muted"
+  const variant = resolveBadgeVariant(property, value) ?? accentVariant
+  const format = getInstantFormat(property)
+
+  if (editable && onPropertyChange) {
+    return (
+      <InstantPopoverBadge
+        value={value}
+        variant={variant}
+        format={format}
+        onIsoChange={(iso) => onPropertyChange(property.id, iso)}
+      />
+    )
+  }
+
+  const ms = toMillis(value)
+  if (ms == null) {
+    return (
+      <Badge variant="elevation-muted">
+        <span className="text-tertiary">—</span>
+      </Badge>
+    )
+  }
+  return <Badge variant={variant}>{formatInstantLabel(ms, format)}</Badge>
+}

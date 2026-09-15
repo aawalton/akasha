@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whatEachJobCostMeYearByYear = {
-  id: "01a077ea-6a07-77f9-b877-dbeb44a33a06",
-  type: "all-about-alan-question",
-  slug: "what-each-job-cost-me-year-by-year",
-  topic: "all-about-alan-topic/why-i-stopped-working",
-  ask: "Only the last role is anchored, and the rest would make the ratchet something that could be shown wrong. What did each role actually cost me, year by year?",
-} as const satisfies AllAboutAlanQuestion

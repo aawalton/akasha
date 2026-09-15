@@ -15,15 +15,15 @@ import {
   ItemDescription,
   ItemTitle,
 } from "akasha/design/interfaces/patterns/modules/item/item.module.code.tsx"
-import { getPageByIdSuffix, getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
-import type { PageOrder, PageSelect } from "akasha/pages/access/modules/types/types.module.code.ts"
-import type { Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
-import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
+import { getPageByIdSuffix, getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import type { PageOrder, PageSelect } from "akasha/page/access/modules/types/types.module.code.ts"
+import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   buildPageHref,
   parsePageHrefParam,
-} from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
-import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
+} from "akasha/page/url/modules/page-href/page-href.module.code.ts"
+import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { data, Link } from "react-router"
 
 const COLLECTION_SLUG = "location-collection"

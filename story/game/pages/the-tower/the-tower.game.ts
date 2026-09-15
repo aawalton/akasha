@@ -1,0 +1,27 @@
+import type { Game } from "akasha/story/game/game.page-type.types.ts"
+
+export const theTower = {
+  id: "01a0673f-a3d7-7000-afc1-88181be588cb",
+  type: "game",
+  slug: "the-tower",
+  title: "The Tower",
+  unit: "unit/words",
+  externalId: "the-tower",
+  gameEngine: "awen",
+  coordinatorAgent: "awen-gm--the-tower",
+  controlledEntityKind: "single",
+  mechanicsWeight: "heavy",
+  resolution: "formula",
+  genre: ["litrpg"],
+  displayConfig: "json",
+  gmContext: "json",
+  rulebook: "json",
+  resolutionMechanism: "json",
+  turns: "jsonl",
+  entities: "jsonl",
+  states: "jsonl",
+  rolls: "jsonl",
+  characters: "jsonl",
+  towerFloors: "jsonl",
+  towerSessions: "jsonl",
+} as const satisfies Game

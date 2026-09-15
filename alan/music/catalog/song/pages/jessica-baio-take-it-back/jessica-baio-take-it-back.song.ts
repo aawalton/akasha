@@ -1,0 +1,21 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const jessicaBaioTakeItBack = {
+  id: "019ea4f8-f472-74c3-b93f-9b0d32abf507",
+  type: "song",
+  slug: "jessica-baio-take-it-back",
+  title: "take it back",
+  artist: "artist/jessica-baio",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "ac4c1659-0073-4692-991f-5201eb27eaba",
+      externalLink: "https://musicbrainz.org/recording/ac4c1659-0073-4692-991f-5201eb27eaba",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+} as const satisfies Song

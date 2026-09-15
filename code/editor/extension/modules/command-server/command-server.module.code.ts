@@ -6,7 +6,7 @@ import {
   leaseAsked,
   PROTOCOL,
 } from "akasha/code/editor/extension/modules/harness-wire/harness-wire.module.code.ts"
-import { module } from "akasha/code/modules/module.page-type.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { command } from "akasha/command/command.page-type.ts"
 import { sayAnswer } from "akasha/command/modules/answer-bytes/answer-bytes.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
@@ -44,9 +44,9 @@ const TS = "ts"
 
 async function codeFilesIn(root: string, slug: string): Promise<readonly string[]> {
   const { listedAt } = await import(
-    "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+    "akasha/page/index/modules/reading/index-reading.module.code.ts"
   )
-  const { besideAt } = await import("akasha/pages/modules/file-name/page-file-name.module.code.ts")
+  const { besideAt } = await import("akasha/page/modules/file-name/page-file-name.module.code.ts")
   const every: string[] = []
   for (const pageTypeSlug of [MODULE_TYPE, COMMAND_TYPE]) {
     const found = listedAt(root, pageTypeSlug, slug)
@@ -202,7 +202,7 @@ async function serve(ask: Ask): Promise<undefined> {
     )
   }
   const { akashaRoot } = await import(
-    "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+    "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
   )
   const root = akashaRoot()
   let found: Loaded | string

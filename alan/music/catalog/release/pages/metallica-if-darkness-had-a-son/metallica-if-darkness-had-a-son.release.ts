@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const metallicaIfDarknessHadASon = {
+  id: "01a0676a-d721-7050-8dd3-b2b43970a373",
+  type: "release",
+  slug: "metallica-if-darkness-had-a-son",
+  title: "If Darkness Had a Son",
+  partOfCollections: ["artist/metallica"],
+  position: 0,
+  ownLength: 15.540417,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2023-03-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "07wqwU4JaQl7XTWwfiAobb",
+      externalLink: "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb",
+    },
+  ],
+} as const satisfies Release

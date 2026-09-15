@@ -1,0 +1,38 @@
+import type { RecordProperty } from "akasha/page/record-property/record-property.page-type.types.ts"
+
+export const emailRuleMatches = {
+  id: "01a06860-549f-7699-a464-5922a5455508",
+  type: "record-property",
+  slug: "email-rule-matches",
+  propertySlug: "matches",
+  definition: "which mail a rule applies to, each clause with the field tested and how",
+  properties: [
+    { pageProperty: "select-property/email-rule-match-field", required: true, many: false },
+    {
+      pageProperty: "select-property/email-rule-match-comparison",
+      required: true,
+      many: false,
+    },
+    {
+      pageProperty: "text-property/email-rule-match-values",
+      required: true,
+      many: true,
+      maxCount: 50,
+    },
+  ],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A piece of mail is caught where the mail passes every clause.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A rule with no clause catches nothing.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Two clauses on one field are two entries.",
+    },
+  ],
+  types: "ts",
+} as const satisfies RecordProperty

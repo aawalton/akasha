@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const passiveAggressiveReversePortalInvasionLitrpg0005Chapter5 = {
+  id: "01a06730-4dc9-7f35-87d1-dc05b1a79dcd",
+  type: "story-chapter-read",
+  slug: "passive-aggressive-reverse-portal-invasion-litrpg-0005-chapter-5",
+  title: "Chapter 5",
+  story: "story-read/passive-aggressive-reverse-portal-invasion-litrpg",
+  position: 5,
+  ownLength: 2779,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3463435",
+      externalLink:
+        "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3463435/chapter-5",
+    },
+  ],
+  publishedAt: "2026-05-29",
+  prose: "txt",
+} as const satisfies StoryChapterRead

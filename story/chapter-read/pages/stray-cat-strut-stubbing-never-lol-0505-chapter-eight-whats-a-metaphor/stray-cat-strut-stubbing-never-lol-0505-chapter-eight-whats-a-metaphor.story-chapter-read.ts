@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0505ChapterEightWhatsAMetaphor = {
+  id: "01a06730-4e5b-7189-a2d4-54e445b089f6",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0505-chapter-eight-whats-a-metaphor",
+  title: "Chapter Eight - What's a Metaphor?",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 505,
+  ownLength: 1445,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1554410",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1554410/chapter-eight-whats-a-metaphor",
+    },
+  ],
+  publishedAt: "2024-03-14",
+  prose: "txt",
+} as const satisfies StoryChapterRead

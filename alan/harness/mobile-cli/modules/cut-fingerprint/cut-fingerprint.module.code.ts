@@ -1,19 +1,19 @@
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { everyOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
+import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   numberAt,
   slugAt,
   textAt,
   type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { z } from "zod"
 
 export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"
@@ -24,7 +24,7 @@ const PUT = "change-mechanical-file/add-file"
 
 const PAGE_SUFFIX = `.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`
 
-const MOBILE_CUTS_AT = "akasha/alan/harness/mobile-cli/mobile-cuts"
+const MOBILE_CUTS_AT = "akasha/alan/harness/mobile-cli/mobile-cut"
 
 const CUT_TYPES_AT = `${MOBILE_CUTS_AT}/${MOBILE_CUT_PAGE_TYPE_SLUG}.page-type.types.ts`
 

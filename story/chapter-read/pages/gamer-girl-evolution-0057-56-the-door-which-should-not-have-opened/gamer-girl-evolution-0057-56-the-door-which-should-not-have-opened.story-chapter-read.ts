@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const gamerGirlEvolution005756TheDoorWhichShouldNotHaveOpened = {
+  id: "01a06731-b0df-7006-b4cf-6796a9b0534f",
+  type: "story-chapter-read",
+  slug: "gamer-girl-evolution-0057-56-the-door-which-should-not-have-opened",
+  title: "56 - The Door Which Should Not Have Opened ",
+  story: "story-read/gamer-girl-evolution",
+  position: 57,
+  ownLength: 1879,
+  unit: "unit/words",
+  publishedAt: "2026-05-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3371314",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3371314/56-the-door-which-should-not-have-opened",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

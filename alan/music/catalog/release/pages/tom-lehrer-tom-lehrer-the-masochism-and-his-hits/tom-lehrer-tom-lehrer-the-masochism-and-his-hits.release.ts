@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const tomLehrerTomLehrerTheMasochismAndHisHits = {
+  id: "01a0676a-d72f-700f-bca8-3921ed96964c",
+  type: "release",
+  slug: "tom-lehrer-tom-lehrer-the-masochism-and-his-hits",
+  title: "Tom Lehrer - The Masochism and his hits",
+  partOfCollections: ["artist/tom-lehrer"],
+  position: 0,
+  ownLength: 80.065733,
+  ownProgress: 80.065733,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-01-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7j0nPqeYOTFNG3xBH5mrOa",
+      externalLink: "https://open.spotify.com/album/7j0nPqeYOTFNG3xBH5mrOa",
+    },
+  ],
+} as const satisfies Release

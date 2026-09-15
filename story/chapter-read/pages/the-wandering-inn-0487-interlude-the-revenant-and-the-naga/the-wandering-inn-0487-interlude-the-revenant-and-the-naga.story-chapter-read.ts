@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theWanderingInn0487InterludeTheRevenantAndTheNaga = {
+  id: "01a06599-fb01-7c34-8800-708463a6c8ed",
+  type: "story-chapter-read",
+  slug: "the-wandering-inn-0487-interlude-the-revenant-and-the-naga",
+  title: "Interlude - The Revenant and the Naga",
+  story: "story-read/the-wandering-inn",
+  position: 487,
+  ownLength: 19128,
+  ownProgress: 19298,
+  unit: "unit/words",
+  publishedAt: "2021-01-24",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2021/01/24/interlude-the-revenant-and-the-naga/",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

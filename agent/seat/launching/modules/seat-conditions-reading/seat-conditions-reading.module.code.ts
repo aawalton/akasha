@@ -3,13 +3,13 @@ import { LOG } from "akasha/agent/seat/supervisors/supervisor-process/modules/su
 import {
   midRefresh,
   REFRESH_WAITED_AT_MOST_MS,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
 const NONE = "none"
 

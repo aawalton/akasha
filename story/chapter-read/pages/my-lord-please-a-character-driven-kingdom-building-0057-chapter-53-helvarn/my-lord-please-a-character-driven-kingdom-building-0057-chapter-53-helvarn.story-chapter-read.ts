@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const myLordPleaseACharacterDrivenKingdomBuilding0057Chapter53Helvarn = {
+  id: "01a06591-3f76-73ce-9033-05cb2860cb8f",
+  type: "story-chapter-read",
+  slug: "my-lord-please-a-character-driven-kingdom-building-0057-chapter-53-helvarn",
+  title: "Chapter 53 Helvarn",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
+  position: 57,
+  ownLength: 1877,
+  unit: "unit/words",
+  publishedAt: "2026-05-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3363462",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3363462/chapter-53-helvarn",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

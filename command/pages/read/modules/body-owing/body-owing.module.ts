@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const bodyOwing = {
   id: "01a094da-202e-7f5c-9796-4cb998a655c5",

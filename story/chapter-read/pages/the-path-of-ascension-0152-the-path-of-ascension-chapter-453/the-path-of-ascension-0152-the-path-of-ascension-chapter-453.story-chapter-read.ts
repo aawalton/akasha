@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePathOfAscension0152ThePathOfAscensionChapter453 = {
+  id: "01a06730-5075-7ad0-95b7-e9fe186cf9cf",
+  type: "story-chapter-read",
+  slug: "the-path-of-ascension-0152-the-path-of-ascension-chapter-453",
+  title: "The Path of Ascension Chapter 453",
+  story: "story-read/the-path-of-ascension",
+  position: 152,
+  ownLength: 5648,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2709661",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2709661/the-path-of-ascension-chapter-453",
+    },
+  ],
+  publishedAt: "2025-10-27",
+  ownProgress: 5648,
+  completedAt: "2026-06-29T19:22:56.706Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

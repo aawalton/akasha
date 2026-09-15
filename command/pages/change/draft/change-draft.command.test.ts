@@ -5,7 +5,7 @@ import {
   changeDraft,
   drafted,
 } from "akasha/command/pages/change/draft/change-draft.command.code.ts"
-import { REFUSES_CODE } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
+import { REFUSES_CODE } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import {
   applied,
   checking,
@@ -13,7 +13,7 @@ import {
   givenIn,
   repoWith,
   scratch,
-} from "akasha/testing-system/test-fixtures/repo-seeding/repo-seeding.test-fixture.code.ts"
+} from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

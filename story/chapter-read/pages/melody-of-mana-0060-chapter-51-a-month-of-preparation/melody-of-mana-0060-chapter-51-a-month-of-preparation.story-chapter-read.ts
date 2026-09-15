@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0060Chapter51AMonthOfPreparation = {
+  id: "01a0672c-ed5d-7008-b8c6-824d002c0a87",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0060-chapter-51-a-month-of-preparation",
+  title: "Chapter 51 A month of preparation",
+  story: "story-read/melody-of-mana",
+  position: 60,
+  ownLength: 2079,
+  ownProgress: 2079,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:28:15.770Z",
+  publishedAt: "2021-10-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "765421",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/765421/chapter-51-a-month-of-preparation",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -3,8 +3,8 @@
 import {
   type IconName,
   PASCAL_TO_KEBAB,
-} from "akasha/pages/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
-import { resolveIconName } from "akasha/pages/core/modules/icon/icon.module.code.ts"
+} from "akasha/page/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
+import { resolveIconName } from "akasha/page/core/modules/icon/icon.module.code.ts"
 import type { LucideIcon, LucideProps } from "lucide-react"
 import { icons } from "lucide-react"
 

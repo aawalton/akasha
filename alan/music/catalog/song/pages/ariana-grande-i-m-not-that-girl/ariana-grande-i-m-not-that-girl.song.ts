@@ -1,0 +1,19 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const arianaGrandeIMNotThatGirl = {
+  id: "019ea4e0-c684-7c37-a182-c180959a3b6e",
+  type: "song",
+  slug: "ariana-grande-i-m-not-that-girl",
+  title: "I'm Not That Girl",
+  artist: "artist/ariana-grande",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "25be2832-2a15-4a21-80e6-09384a56fc79",
+      externalLink: "https://musicbrainz.org/work/25be2832-2a15-4a21-80e6-09384a56fc79",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "derivative",
+  performed: true,
+} as const satisfies Song

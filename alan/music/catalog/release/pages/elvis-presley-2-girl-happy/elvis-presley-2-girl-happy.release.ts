@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2GirlHappy = {
+  id: "01a0676a-d71e-7066-aed1-00e465bf2c33",
+  type: "release",
+  slug: "elvis-presley-2-girl-happy",
+  title: "Girl Happy",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 23.790617,
+  ownProgress: 23.790617,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1965-03-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4z27tEwwMNEILdVX1Sy40L",
+      externalLink: "https://open.spotify.com/album/4z27tEwwMNEILdVX1Sy40L",
+    },
+  ],
+} as const satisfies Release

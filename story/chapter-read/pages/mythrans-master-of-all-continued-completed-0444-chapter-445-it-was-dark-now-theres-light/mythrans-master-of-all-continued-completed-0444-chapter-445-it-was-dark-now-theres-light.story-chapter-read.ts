@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0444Chapter445ItWasDarkNowTheresLight = {
+  id: "01a0672c-ecb5-7000-85e1-1874763615b6",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0444-chapter-445-it-was-dark-now-theres-light",
+  title: "Chapter 445 - It Was Dark, Now There's Light",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 444,
+  ownLength: 3231,
+  unit: "unit/words",
+  publishedAt: "2017-12-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "178994",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178994/chapter-445-it-was-dark-now-theres-light",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

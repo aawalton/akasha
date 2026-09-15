@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const coldplayWePray = {
+  id: "01a0676a-d730-7035-861e-e090c546a4d5",
+  type: "release",
+  slug: "coldplay-we-pray",
+  title: "WE PRAY",
+  partOfCollections: ["artist/coldplay"],
+  position: 0,
+  ownLength: 3.8901,
+  ownProgress: 3.8901,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2024-08-23",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3dZE98f3OlxeQlm9qWYekK",
+      externalLink: "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK",
+    },
+  ],
+} as const satisfies Release

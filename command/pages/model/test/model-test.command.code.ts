@@ -3,12 +3,12 @@ import {
   type Judged,
   runningOf,
 } from "akasha/agent/model/test/modules/running/model-test-running.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { broken as brokenArgument } from "akasha/command/arguments/pages/broken.argument.ts"
-import { cases } from "akasha/command/arguments/pages/cases.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { modelTest as modelTestArgument } from "akasha/command/arguments/pages/model-test.argument.ts"
-import { show } from "akasha/command/arguments/pages/show.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { broken as brokenArgument } from "akasha/command/argument/pages/broken.argument.ts"
+import { cases } from "akasha/command/argument/pages/cases.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { modelTest as modelTestArgument } from "akasha/command/argument/pages/model-test.argument.ts"
+import { show } from "akasha/command/argument/pages/show.argument.ts"
 import {
   answeredWith,
   codeOf,

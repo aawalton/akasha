@@ -1,0 +1,11 @@
+import type { TemperBuffMajor } from "akasha/temper/catalog/temper-effects/temper-buff-major/temper-buff-major.page-type.types.ts"
+
+export const majorBerserk = {
+  id: "01a05fc5-f6b7-7ec9-992e-57834ce2780d",
+  type: "temper-buff-major",
+  slug: "major-berserk",
+  title: "Major Berserk",
+  key: "major-berserk",
+  description: "Increases damage done by 10%",
+  effects: "jsonl",
+} as const satisfies TemperBuffMajor

@@ -12,7 +12,7 @@ import {
 import {
   put,
   there,
-} from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
+} from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

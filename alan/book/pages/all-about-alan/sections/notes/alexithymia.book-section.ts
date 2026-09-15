@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const alexithymia = {
+  id: "01a06594-c674-7009-ad7b-360c43244013",
+  type: "book-section",
+  slug: "alexithymia",
+  title: "Alexithymia",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

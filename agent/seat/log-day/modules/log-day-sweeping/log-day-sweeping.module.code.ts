@@ -1,16 +1,16 @@
 import { readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
 import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import { landRemovals } from "akasha/changes/modules/gated-landing/gated-landing.module.code.ts"
-import { fileStemOf } from "akasha/pages/identity/modules/file-page/file-page.module.code.ts"
-import { fileKeysAt } from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
-import { everyOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { besideOf } from "akasha/pages/modules/beside/page-beside.module.code.ts"
+import { landRemovals } from "akasha/change/modules/gated-landing/gated-landing.module.code.ts"
+import { fileStemOf } from "akasha/page/identity/modules/file-page/file-page.module.code.ts"
+import { fileKeysAt } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
+import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideOf } from "akasha/page/modules/beside/page-beside.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { firstCapture } from "akasha/utils/narrow/modules/first-capture/first-capture.module.code.ts"
 
 const DEFAULT_KEEP_DAYS = 7

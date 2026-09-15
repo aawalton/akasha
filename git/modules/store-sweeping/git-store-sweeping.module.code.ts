@@ -1,6 +1,6 @@
 import { existsSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { LEFT } from "akasha/files/modules/git-place/git-place.module.code.ts"
+import { LEFT } from "akasha/file/modules/git-place/git-place.module.code.ts"
 
 export type Found = {
   readonly at: string

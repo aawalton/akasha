@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jamesTaylor2Fire = {
+  id: "01a0676a-d71d-707a-b549-5ae06083527b",
+  type: "release",
+  slug: "james-taylor-2-fire",
+  title: "Fire",
+  partOfCollections: ["artist/james-taylor"],
+  position: 0,
+  ownLength: 10.066667,
+  ownProgress: 10.066667,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2000-01-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ATrZVFsFYoyFaOr0xtDhB",
+      externalLink: "https://open.spotify.com/album/2ATrZVFsFYoyFaOr0xtDhB",
+    },
+  ],
+} as const satisfies Release

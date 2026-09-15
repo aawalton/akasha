@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0157Chapter144TrialsAndExaminations = {
+  id: "01a06731-ad81-7009-884a-d346f8e61bb7",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0157-chapter-144-trials-and-examinations",
+  title: "Chapter 144 Trials and Examinations",
+  story: "story-read/melody-of-mana",
+  position: 157,
+  ownLength: 2078,
+  ownProgress: 2078,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:31:16.340Z",
+  publishedAt: "2022-06-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "924438",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/924438/chapter-144-trials-and-examinations",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

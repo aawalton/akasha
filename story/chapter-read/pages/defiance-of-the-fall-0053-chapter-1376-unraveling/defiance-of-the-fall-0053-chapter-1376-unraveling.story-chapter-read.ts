@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const defianceOfTheFall0053Chapter1376Unraveling = {
+  id: "01a06591-3c71-74f7-97e6-b528f95400c0",
+  type: "story-chapter-read",
+  slug: "defiance-of-the-fall-0053-chapter-1376-unraveling",
+  title: "Chapter 1,376 - Unraveling",
+  story: "story-read/defiance-of-the-fall",
+  position: 53,
+  ownLength: 3204,
+  unit: "unit/words",
+  publishedAt: "2025-11-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2752797",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2752797/chapter-1376-unraveling",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

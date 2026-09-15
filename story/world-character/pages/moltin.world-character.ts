@@ -1,0 +1,13 @@
+import type { WorldCharacter } from "akasha/story/world-character/world-character.page-type.types.ts"
+
+export const moltin = {
+  id: "01a06580-2495-7d79-b7c0-20f2e550805e",
+  type: "world-character",
+  slug: "moltin",
+  title: "Lord Moltin",
+  world: "world/the-wandering-inn",
+  maxLevel: 50,
+  eventCount: 2,
+  firstChapter: 732,
+  lastChapter: 732,
+} as const satisfies WorldCharacter

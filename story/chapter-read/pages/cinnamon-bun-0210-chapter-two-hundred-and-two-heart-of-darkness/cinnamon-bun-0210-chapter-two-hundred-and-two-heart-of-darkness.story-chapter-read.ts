@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0210ChapterTwoHundredAndTwoHeartOfDarkness = {
+  id: "01a0672c-eb12-700b-8908-1eb1e92c225e",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0210-chapter-two-hundred-and-two-heart-of-darkness",
+  title: "Chapter Two Hundred and Two - Heart of Darkness",
+  story: "story-read/cinnamon-bun",
+  position: 210,
+  ownLength: 1980,
+  unit: "unit/words",
+  publishedAt: "2021-06-02",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "692540",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/692540/chapter-two-hundred-and-two-heart-of-darkness",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

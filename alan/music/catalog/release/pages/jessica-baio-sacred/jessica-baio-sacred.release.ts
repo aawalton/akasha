@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jessicaBaioSacred = {
+  id: "01a0676a-d728-7037-9d43-1d680f2aac51",
+  type: "release",
+  slug: "jessica-baio-sacred",
+  title: "SACRED",
+  partOfCollections: ["artist/jessica-baio"],
+  position: 0,
+  ownLength: 23.746033,
+  ownProgress: 23.746033,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2026-01-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3s9VGa9gsznVyJmXJfvjjN",
+      externalLink: "https://open.spotify.com/album/3s9VGa9gsznVyJmXJfvjjN",
+      lastSyncedAt: "2026-01-31",
+    },
+  ],
+} as const satisfies Release

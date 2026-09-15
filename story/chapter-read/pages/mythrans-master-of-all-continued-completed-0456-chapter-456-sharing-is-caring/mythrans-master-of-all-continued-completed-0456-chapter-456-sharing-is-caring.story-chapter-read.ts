@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0456Chapter456SharingIsCaring = {
+  id: "01a0672c-ecbf-7000-a0e6-f4a4988149a9",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0456-chapter-456-sharing-is-caring",
+  title: "Chapter 456 - Sharing Is Caring",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 456,
+  ownLength: 3698,
+  unit: "unit/words",
+  publishedAt: "2017-12-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "181160",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181160/chapter-456-sharing-is-caring",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

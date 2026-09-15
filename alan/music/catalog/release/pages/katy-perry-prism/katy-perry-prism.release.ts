@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const katyPerryPrism = {
+  id: "01a0676a-d727-7021-bd8f-7e08710187ee",
+  type: "release",
+  slug: "katy-perry-prism",
+  title: "PRISM",
+  partOfCollections: ["artist/katy-perry"],
+  position: 0,
+  ownLength: 48.749367,
+  ownProgress: 48.749367,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2013-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3jB9yFDwRe3KhtGnHXJntk",
+      externalLink: "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk",
+    },
+  ],
+} as const satisfies Release

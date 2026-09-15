@@ -4,10 +4,10 @@ import {
   SNAPSHOT_METRICS,
   summarizeSnapshot,
 } from "akasha/alan/harness/health-samples-import/modules/health-snapshot/health-snapshot.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { days as daysArgument } from "akasha/command/arguments/pages/days.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { macbookFile } from "akasha/command/arguments/pages/macbook-file.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { days as daysArgument } from "akasha/command/argument/pages/days.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { macbookFile } from "akasha/command/argument/pages/macbook-file.argument.ts"
 import {
   asJson,
   DATA,

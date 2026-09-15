@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash0233233AreYouARetainer = {
+  id: "01a06731-adf5-7006-bf38-ee1976ac876b",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0233-233-are-you-a-retainer",
+  title: "233. Are You a Retainer?",
+  story: "story-read/god-of-trash",
+  position: 233,
+  ownLength: 2256,
+  unit: "unit/words",
+  publishedAt: "2025-11-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2749813",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2749813/233-are-you-a-retainer",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

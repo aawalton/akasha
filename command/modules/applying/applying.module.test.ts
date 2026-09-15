@@ -3,7 +3,7 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { readingIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   applied,
   applying,
@@ -27,7 +27,7 @@ import {
   scratch,
 } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
-import { noImportersFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { noImportersFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 const AGENT = "01a05f00-0000-7000-8000-000000000001"
 

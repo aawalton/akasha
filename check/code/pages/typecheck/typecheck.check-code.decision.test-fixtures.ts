@@ -1,0 +1,415 @@
+import { mkdirSync, rmSync, symlinkSync } from "node:fs"
+import { join } from "node:path"
+import {
+  orphanedIn,
+  reachedBy,
+  refusalsOver,
+} from "akasha/check/code/pages/typecheck/typecheck.check-code.decision.code.ts"
+import { onDisk } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import {
+  bodied,
+  change,
+  named,
+  staged,
+} from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
+import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import {
+  relationFiled,
+  shapeAdded,
+} from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { shadowAsked, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+
+export async function judged(one: Change): Promise<readonly Judged[]> {
+  const cast = shadowFor(one)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return await refusalsOver(one, cast.shadow)
+}
+
+export function reached(one: Change): readonly string[] {
+  const cast = shadowFor(one)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return reachedBy(one, cast.shadow.index)
+}
+
+export async function over(
+  root: string,
+  path: string,
+  body: string | null
+): Promise<readonly Judged[]> {
+  return await judged(change(root, { [path]: body }))
+}
+
+const GENERATED_ID = "01a04f2b-3d24-70b3-8c3e-3076a9299145"
+
+const WAITS_ID = "01a04f2b-3d24-70b3-8c3e-3076a929914b"
+
+const EARLY_ID = "01a04f2b-3d24-70b3-8c3e-3076a929914c"
+
+const HELD_ID = "01a04f2b-3d24-70b3-8c3e-3076a929914d"
+
+const THING_TYPE_AT = "akasha/thing.page-type.ts"
+
+const HELD_AT = "akasha/held.text-property.ts"
+
+const WAITS = "waiting"
+
+export const EARLY = "uuid-v7"
+
+export const HERE = "/var/home/walton/repos/akasha"
+
+const KIND_AT = "akasha/waiting.generator-kind.ts"
+
+const EARLY_AT = "akasha/uuid-v7.generator-kind.ts"
+
+const THING_TYPE =
+  "export type Thing = { held: string; slug: string }\n" +
+  `export const thing = { id: "${GENERATED_ID}", pageTypeSlug: "page-type", slug: "thing" }\n`
+
+export const THING_AT = "akasha/one.thing.ts"
+
+const READS_ITS_TYPE = 'import type { Thing } from "./thing.page-type.ts"\n\n'
+
+export const WHOLE = `${READS_ITS_TYPE}export const one = { held: "h", slug: "one" } as const satisfies Thing\n`
+
+export const WITHOUT = `${READS_ITS_TYPE}export const one = { slug: "one" } as const satisfies Thing\n`
+
+export const WRONG = `${READS_ITS_TYPE}export const one = { slug: 1 } as const satisfies Thing\n`
+
+export const MADE: Readonly<Record<string, string>> = {
+  "akasha/made/reader.ts": 'import { held } from "./held.ts"\n\nexport const reader = held\n',
+  "akasha/made/held.ts": "export const held = 1\n",
+}
+
+export const ONE_NUMBER = "export const one: number = 1\n"
+
+export const TWO_BREAKS = `${ONE_NUMBER}export const two: string = one\n`
+
+export function exporting(): string {
+  return staged({
+    "akasha/held.ts": "export const one = 1\nexport const two = 2\n",
+    "akasha/calls.ts": 'import { two } from "./held.ts"\nexport const said = two\n',
+  })
+}
+
+export function across(): string {
+  return staged({
+    "akasha/one.ts": "export const one = 1\n",
+    "shared/two.ts": 'import { one } from "../akasha/one.ts"\nexport const two = one\n',
+  })
+}
+
+export function pairing(): string {
+  return staged({
+    "akasha/one.ts": "export const one = 1\n",
+    "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
+  })
+}
+
+export function basing(): string {
+  return staged({
+    "akasha/a.ts": ONE_NUMBER,
+    "akasha/b.ts": 'import { one } from "./a.ts"\nexport const two: string = one\n',
+  })
+}
+
+const TAKES_NUMBER = "export function held(one: number): number {\n  return one\n}\n"
+
+const CALLS_HELD = 'import { held } from "./held.ts"\nexport const one = held(1)\n'
+
+export const IMPORTS_TYPEGEN =
+  'import type { Route } from "./+types/two"\n\nexport const two: Route = 1\n'
+
+const PAGE_TYPE = "page-type"
+
+const TEXT_PROPERTY = "text-property"
+
+const GENERATOR_KIND = "generator-kind"
+
+const MODULE = "module"
+
+const HELD_TYPE = "held-type"
+
+const HELD_LOADER = "held-loader"
+
+const TYPE_ID = "01a04f2b-3d24-70b3-8c3e-3076a9299146"
+
+const LOADER_ID = "01a04f2b-3d24-70b3-8c3e-3076a9299147"
+
+const LOADED_ID = "01a04f2b-3d24-70b3-8c3e-3076a9299148"
+
+const HELD_TYPE_AT = "akasha/held-type.page-type.ts"
+
+const HELD_LOADER_AT = "akasha/held-loader.module.ts"
+
+const LOADER_CODE_AT = "akasha/held-loader.module.code.ts"
+
+export const LOADED_AT = "akasha/loaded.held-type.ts"
+
+const LOADER_BREAKS = "export const one: string = 1\n"
+
+function kindPage(id: string, slug: string, afterChecks: boolean): string {
+  return (
+    `export const kind = { id: "${id}", pageTypeSlug: "generator-kind",` +
+    ` slug: "${slug}", afterChecks: ${afterChecks} }\n`
+  )
+}
+
+function heldPage(generator: string): string {
+  return (
+    `export const held = { id: "${HELD_ID}", pageTypeSlug: "text-property",` +
+    ` slug: "held", propertySlug: "held", generator: "${generator}" }\n`
+  )
+}
+
+function kindFiled(
+  root: string,
+  at: string,
+  id: string,
+  slug: string,
+  afterChecks: boolean
+): undefined {
+  named(root, at, GENERATOR_KIND, slug, id)
+  valueAlsoFiled(root, GENERATOR_KIND, [
+    { path: at, value: { id, pageTypeSlug: GENERATOR_KIND, slug, afterChecks } },
+  ])
+}
+
+export function generating(files: Readonly<Record<string, string>>, generator = WAITS): string {
+  const root = staged({
+    [THING_TYPE_AT]: THING_TYPE,
+    [HELD_AT]: heldPage(generator),
+    [KIND_AT]: kindPage(WAITS_ID, WAITS, true),
+    [EARLY_AT]: kindPage(EARLY_ID, EARLY, false),
+    ...files,
+  })
+  kindFiled(root, KIND_AT, WAITS_ID, WAITS, true)
+  kindFiled(root, EARLY_AT, EARLY_ID, EARLY, false)
+  shapeAdded(root, TEXT_PROPERTY, "slug", [
+    {
+      pageTypeSlug: TEXT_PROPERTY,
+      targetPageTypeSlug: null,
+      unique: PAGE_TYPE,
+      slug: "slug",
+      propertySlug: "slug",
+    },
+  ])
+  shapeAdded(root, TEXT_PROPERTY, "held", [
+    {
+      pageTypeSlug: TEXT_PROPERTY,
+      targetPageTypeSlug: null,
+      unique: null,
+      slug: "held",
+      propertySlug: "held",
+    },
+  ])
+  named(root, HELD_AT, TEXT_PROPERTY, "held", HELD_ID)
+  named(root, THING_TYPE_AT, PAGE_TYPE, "thing", GENERATED_ID)
+  relationFiled(root, generator === WAITS ? WAITS_ID : EARLY_ID, "generator", HELD_ID, [
+    { path: HELD_AT },
+  ])
+  return root
+}
+
+export function declaring(): string {
+  const root = staged({
+    [HELD_TYPE_AT]: bodied({
+      id: TYPE_ID,
+      pageTypeSlug: PAGE_TYPE,
+      slug: HELD_TYPE,
+      loadedBy: `${MODULE}/${HELD_LOADER}`,
+    }),
+    [HELD_LOADER_AT]: bodied({
+      id: LOADER_ID,
+      pageTypeSlug: MODULE,
+      slug: HELD_LOADER,
+      code: "ts",
+    }),
+    [LOADER_CODE_AT]: LOADER_BREAKS,
+    [LOADED_AT]: bodied({ id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: "loaded" }),
+  })
+  named(root, HELD_TYPE_AT, PAGE_TYPE, HELD_TYPE, TYPE_ID)
+  named(root, HELD_LOADER_AT, MODULE, HELD_LOADER, LOADER_ID)
+  named(root, LOADED_AT, HELD_TYPE, "loaded", LOADED_ID)
+  return root
+}
+
+export const DECLARED_AT = "akasha/eso-held.type-declaration.d.ts"
+
+export function declared(files: Readonly<Record<string, string>>): string {
+  return staged({ [DECLARED_AT]: "declare const HELD_ONE: number\n", ...files })
+}
+
+export const RELYING_AT = "akasha/eso-relies.type-declaration.d.ts"
+
+export function relying(): string {
+  return staged({
+    [DECLARED_AT]: "declare const HELD_ONE: number\n",
+    [RELYING_AT]: "declare const HELD_TWO: typeof HELD_ONE\n",
+  })
+}
+
+export const FIRST_OF =
+  "export function first(held: readonly string[]): string {\n  return held[0]\n}\n"
+
+export const CHAINED =
+  "type A = { a: number }\ntype B = { a: number; b: number }\nexport const one: B = { a: 1 } as A\n"
+
+export function holding(): string {
+  return staged({ "akasha/one.ts": "export const one = 1\n" })
+}
+
+export function unindexed(): string {
+  const root = holding()
+  rmSync(indexIn(root), { recursive: true })
+  return root
+}
+
+export function calling(): string {
+  return staged({ "akasha/held.ts": TAKES_NUMBER, "akasha/calls.ts": CALLS_HELD })
+}
+
+export function reading(): string {
+  return staged({
+    "akasha/broken.ts":
+      'import { a } from "./a.ts"\nimport { b } from "./b.ts"\nimport { c } from "./c.ts"\nexport const one: string = a + b + c\n',
+    "akasha/a.ts": "export const a = 1\n",
+    "akasha/b.ts": "export const b = 2\n",
+    "akasha/c.ts": "export const c = 3\n",
+  })
+}
+
+export function deep(): string {
+  return staged({
+    "akasha/one.ts": "export const one = 1\n",
+    "akasha/deep/two.ts": 'import { one } from "../one.ts"\nexport const two = one\n',
+    "akasha/deep/three.ts": 'import { two } from "./two.ts"\nexport const three = two\n',
+    "akasha/apart.ts": "export const apart = 1\n",
+  })
+}
+
+export function numbered(): string {
+  return staged({ "akasha/one.ts": ONE_NUMBER })
+}
+
+export function breaking(): string {
+  return staged({ "akasha/one.ts": TWO_BREAKS })
+}
+
+export function noting(): string {
+  return staged({ "akasha/notes.txt": "nothing to compile\n" })
+}
+
+export function unreached(): string {
+  return staged({
+    "akasha/broken.ts": "export const one: string = 1\n",
+    "akasha/apart.ts": "export const apart = 1\n",
+  })
+}
+
+export function twinned(): string {
+  return staged({
+    "akasha/one.ts": "export const one = 1\n",
+    "akasha/two.ts": "export const two = 2\n",
+  })
+}
+
+export const GONE_AT = "akasha/gone.ts"
+
+export const READS_GONE: Readonly<Record<string, string>> = {
+  "akasha/reads-gone.ts": 'import { gone } from "./gone.ts"\n\nexport const said = gone\n',
+}
+
+export function orphaning(): string {
+  return staged({ [GONE_AT]: "export const gone = 1\n" })
+}
+
+export function orphans(root: string, also: Readonly<Record<string, string>>): readonly string[] {
+  const held = change(root, { [GONE_AT]: null, ...also })
+  return orphanedIn(held, shadowAsked(held).index)
+}
+
+export const READER_AT = "akasha/reader.ts"
+
+const PACKAGE_AT = "akasha/persons/package.json"
+
+const PACKAGE_CODE_AT = "akasha/persons/persons.module.code.ts"
+
+const PACKAGE_FOLDER = "akasha/persons"
+
+const PACKAGES_AT = "node_modules/@akasha"
+
+const MOVED_AT = "akasha/people/package.json"
+
+const MOVED_CODE_AT = "akasha/people/persons.module.code.ts"
+
+const PERSONS = "export const persons = 1\n"
+
+const PACKAGE_MANIFEST =
+  '{ "name": "@akasha/persons", "exports": { ".": "./persons.module.code.ts" } }\n'
+
+function readsFrom(specifier: string): string {
+  return `import { persons } from "${specifier}"\n\nexport const said = persons\n`
+}
+
+export function packaging(specifier: string): Readonly<Record<string, string>> {
+  return {
+    [PACKAGE_AT]: PACKAGE_MANIFEST,
+    [PACKAGE_CODE_AT]: PERSONS,
+    [READER_AT]: readsFrom(specifier),
+  }
+}
+
+export function moving(): Change {
+  const root = staged(packaging("@akasha/persons"))
+  mkdirSync(join(root, PACKAGES_AT), { recursive: true })
+  symlinkSync(join(root, PACKAGE_FOLDER), join(root, PACKAGES_AT, "persons"))
+  return change(root, {
+    [PACKAGE_AT]: null,
+    [PACKAGE_CODE_AT]: null,
+    [MOVED_AT]: PACKAGE_MANIFEST,
+    [MOVED_CODE_AT]: PERSONS,
+    [READER_AT]: readsFrom("@akasha/persons"),
+  })
+}
+
+const RACING_AT = "akasha/one.ts"
+
+const RACED_NAME = "two.ts"
+
+export const RACED_AT = "akasha/two.ts"
+
+const RACING: Readonly<Record<string, string>> = {
+  [RACING_AT]: "export const one = 1\n",
+  [RACED_AT]: 'import { one } from "./one.ts"\nexport const two: string = one\n',
+}
+
+export function vanishing(): Change {
+  const root = staged(RACING)
+  const disk = onDisk(root)
+  let taken = false
+  return {
+    root,
+    changed: [RACING_AT],
+    before: disk,
+    after: (path) => {
+      const bytes = disk(path)
+      if (path === RACED_AT && !taken) {
+        taken = true
+        rmSync(join(root, path))
+      }
+      return bytes
+    },
+  }
+}
+
+export function shut(): Change {
+  const root = staged(RACING)
+  const at = join(root, RACED_AT)
+  rmSync(at)
+  symlinkSync(RACED_NAME, at)
+  const disk = onDisk(root)
+  return { root, changed: [RACING_AT], before: disk, after: disk }
+}

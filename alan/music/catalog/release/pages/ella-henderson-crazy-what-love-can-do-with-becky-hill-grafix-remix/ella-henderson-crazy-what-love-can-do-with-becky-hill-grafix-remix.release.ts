@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonCrazyWhatLoveCanDoWithBeckyHillGrafixRemix = {
+  id: "01a0676a-d71b-7039-90b8-e61939cf2b3a",
+  type: "release",
+  slug: "ella-henderson-crazy-what-love-can-do-with-becky-hill-grafix-remix",
+  title: "Crazy What Love Can Do (with Becky Hill) [Grafix Remix]",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 9.197417,
+  ownProgress: 9.197417,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-06-16",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4YcFWeVpcoc8VZdKud5bKT",
+      externalLink: "https://open.spotify.com/album/4YcFWeVpcoc8VZdKud5bKT",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

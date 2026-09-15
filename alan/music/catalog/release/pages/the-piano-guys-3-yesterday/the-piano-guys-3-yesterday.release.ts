@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const thePianoGuys3Yesterday = {
+  id: "01a0676a-d731-7051-9a11-5aac7bf70920",
+  type: "release",
+  slug: "the-piano-guys-3-yesterday",
+  title: "Yesterday",
+  partOfCollections: ["artist/the-piano-guys"],
+  position: 0,
+  ownLength: 3.471867,
+  ownProgress: 3.471867,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2019-07-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3Opqmwpp1496mkDJ3bsELB",
+      externalLink: "https://open.spotify.com/album/3Opqmwpp1496mkDJ3bsELB",
+    },
+  ],
+} as const satisfies Release

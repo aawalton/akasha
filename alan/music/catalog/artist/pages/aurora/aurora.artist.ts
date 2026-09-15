@@ -1,0 +1,41 @@
+import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.types.ts"
+
+export const aurora = {
+  id: "019ea4a2-bf94-7e76-9b55-055406f66eb9",
+  type: "artist",
+  slug: "aurora",
+  title: "AURORA",
+  partOfCollections: ["artist-collection/artists"],
+  position: 0,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "following",
+  genre: [
+    "indie pop",
+    "art pop",
+    "dream pop",
+    "chamber pop",
+    "folktronica",
+    "pop",
+    "synth-pop",
+    "afro house",
+  ],
+  rank: "A+",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "484a4e90-6899-4e4b-a948-a2255d365340",
+      externalLink: "https://musicbrainz.org/artist/484a4e90-6899-4e4b-a948-a2255d365340",
+      lastSyncedAt: "2026-06-08",
+    },
+    {
+      source: "spotify",
+      externalId: "1WgXqy2Dd70QQOU7Ay074N",
+      externalLink: "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
+  tags: ["Indie Pop Storyteller"],
+  reaction: "txt",
+} as const satisfies Artist

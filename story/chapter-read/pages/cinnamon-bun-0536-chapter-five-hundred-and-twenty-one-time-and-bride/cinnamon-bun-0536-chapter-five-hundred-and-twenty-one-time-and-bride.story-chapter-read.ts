@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0536ChapterFiveHundredAndTwentyOneTimeAndBride = {
+  id: "01a0672c-eb26-7009-a642-5877083732f1",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0536-chapter-five-hundred-and-twenty-one-time-and-bride",
+  title: "Chapter Five Hundred and Twenty-One - Time and Bride Wait for No Bun",
+  story: "story-read/cinnamon-bun",
+  position: 536,
+  ownLength: 1549,
+  unit: "unit/words",
+  publishedAt: "2025-01-15",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2011831",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2011831/chapter-five-hundred-and-twenty-one-time-and-bride",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

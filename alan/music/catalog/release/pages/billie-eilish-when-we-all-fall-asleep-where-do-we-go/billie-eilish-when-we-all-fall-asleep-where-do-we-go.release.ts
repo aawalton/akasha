@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const billieEilishWhenWeAllFallAsleepWhereDoWeGo = {
+  id: "01a0676a-d730-705a-a4f2-e912dfd99513",
+  type: "release",
+  slug: "billie-eilish-when-we-all-fall-asleep-where-do-we-go",
+  title: "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+  partOfCollections: ["artist/billie-eilish"],
+  position: 0,
+  ownLength: 42.921017,
+  ownProgress: 42.921017,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "A",
+  publishedAt: "2019-03-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0S0KGZnfBGSIssfF54WSJh",
+      externalLink: "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh",
+    },
+  ],
+} as const satisfies Release

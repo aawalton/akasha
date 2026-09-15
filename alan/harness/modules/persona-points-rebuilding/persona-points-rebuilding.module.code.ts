@@ -6,11 +6,11 @@ import {
   sentOver,
 } from "akasha/alan/track/daily/modules/day-messages-totalling/day-messages-totalling.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { personaAt } from "akasha/personas/modules/reading/persona-reading.module.code.ts"
+import { personaAt } from "akasha/persona/modules/reading/persona-reading.module.code.ts"
 import {
   keepPoints,
   pointsIn,
-} from "akasha/personas/points/modules/keeping/persona-points-keeping.module.code.ts"
+} from "akasha/persona/points/modules/keeping/persona-points-keeping.module.code.ts"
 
 const NO_PERSONA = "no persona is filed under this name, so her count is counted against nobody"
 

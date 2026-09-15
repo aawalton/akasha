@@ -1,12 +1,12 @@
 import {
   readingIn,
   valuesOfType,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   textAt,
   type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const DOMAINS = "domains"

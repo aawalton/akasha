@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jadaFacerWhereIsMyMindAcoustic = {
+  id: "01a0676a-d731-700d-ae9e-073ff28d91a8",
+  type: "release",
+  slug: "jada-facer-where-is-my-mind-acoustic",
+  title: "Where Is My Mind? (Acoustic)",
+  partOfCollections: ["artist/jada-facer"],
+  position: 0,
+  ownLength: 2.796167,
+  ownProgress: 2.796167,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-03-23",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5sSDA4zIIj48IAc2lhnaAF",
+      externalLink: "https://open.spotify.com/album/5sSDA4zIIj48IAc2lhnaAF",
+    },
+  ],
+} as const satisfies Release

@@ -3,12 +3,12 @@ import {
   presentsSecret,
   READOUT_CACHE_CONTROL,
   RELAY_SECRET_HEADER,
-} from "akasha/alan/harness/readouts/modules/credential/readout-credential.module.code.ts"
+} from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
   holdRelayed,
   RELAY_SECRET_NAME,
   relayedIn,
-} from "akasha/alan/harness/readouts/modules/relay/readout-relay.module.code.ts"
+} from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import type { Route } from "./+types/readout-relay.route.code"
 

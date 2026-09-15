@@ -3,8 +3,8 @@ import {
   type ObjectStore,
   seaweedFSObjectStoreFromEnv,
 } from "akasha/infrastructure/storage/object-store/modules/seaweedfs-store/seaweedfs-store.module.code.ts"
-import { MEDIA_FORMATS } from "akasha/pages/core/modules/media-formats/media-formats.module.code.ts"
-import { STORED_READ_ALOUD_VARIANT } from "akasha/pages/ui/media/modules/media-src/media-src.module.code.ts"
+import { MEDIA_FORMATS } from "akasha/page/core/modules/media-formats/media-formats.module.code.ts"
+import { STORED_READ_ALOUD_VARIANT } from "akasha/page/ui/media/modules/media-src/media-src.module.code.ts"
 
 export function readAloudKey(pageId: string, opts?: { readonly fromSentence?: number }): string {
   const n = opts?.fromSentence

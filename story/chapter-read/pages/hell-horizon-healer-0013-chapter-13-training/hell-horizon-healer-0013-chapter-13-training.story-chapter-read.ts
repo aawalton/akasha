@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellHorizonHealer0013Chapter13Training = {
+  id: "01a06731-ae7c-7006-bc14-f9cb9831c39d",
+  type: "story-chapter-read",
+  slug: "hell-horizon-healer-0013-chapter-13-training",
+  title: "Chapter 13 - Training",
+  story: "story-read/hell-horizon-healer",
+  position: 13,
+  ownLength: 2121,
+  unit: "unit/words",
+  publishedAt: "2026-06-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3525247",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3525247/chapter-13-training",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

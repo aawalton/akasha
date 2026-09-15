@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const shapeshifterANonHumanLitrpg0009FacelessHunterOutOnKu = {
+  id: "01a06730-4e08-7281-8a6a-3ead27a4c912",
+  type: "story-chapter-read",
+  slug: "shapeshifter-a-non-human-litrpg-0009-faceless-hunter-out-on-ku",
+  title: "Faceless Hunter out on KU!",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
+  position: 9,
+  ownLength: 214,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3238834",
+      externalLink:
+        "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3238834/faceless-hunter-out-on-ku",
+    },
+  ],
+  publishedAt: "2026-04-06",
+  prose: "txt",
+} as const satisfies StoryChapterRead

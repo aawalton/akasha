@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const greenDayShenanigans = {
+  id: "01a0676a-d728-7071-9b32-a24faf1250be",
+  type: "release",
+  slug: "green-day-shenanigans",
+  title: "Shenanigans",
+  partOfCollections: ["artist/green-day"],
+  position: 0,
+  ownLength: 33.393717,
+  ownProgress: 33.393717,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2002-07-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3uxqKqchyNKPHdjzMrlmOC",
+      externalLink: "https://open.spotify.com/album/3uxqKqchyNKPHdjzMrlmOC",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

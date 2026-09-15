@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0206V6c18FallingFromTheSummit = {
+  id: "01a06731-adb8-7000-b1f4-6b93c290d092",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0206-v6c18-falling-from-the-summit",
+  title: "v6c18: Falling from the Summit",
+  story: "story-read/beware-of-chicken",
+  position: 206,
+  ownLength: 3732,
+  ownProgress: 3732,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:58:24.769Z",
+  publishedAt: "2025-04-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2232169",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2232169/v6c18-falling-from-the-summit",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

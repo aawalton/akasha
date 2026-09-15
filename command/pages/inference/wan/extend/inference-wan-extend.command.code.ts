@@ -1,22 +1,22 @@
 import {
   type TakenFor,
   takenFor,
-} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import type { Read } from "akasha/command/arguments/modules/word-reading/argument-word-reading.module.code.ts"
-import { context } from "akasha/command/arguments/pages/context.argument.ts"
-import { contextFrames } from "akasha/command/arguments/pages/context-frames.argument.ts"
-import { direction } from "akasha/command/arguments/pages/direction.argument.ts"
-import { lightning } from "akasha/command/arguments/pages/lightning.argument.ts"
-import { negativePrompt } from "akasha/command/arguments/pages/negative-prompt.argument.ts"
-import { negativePromptFile } from "akasha/command/arguments/pages/negative-prompt-file.argument.ts"
-import { newFrames } from "akasha/command/arguments/pages/new-frames.argument.ts"
-import { output } from "akasha/command/arguments/pages/output.argument.ts"
-import { promptFile } from "akasha/command/arguments/pages/prompt-file.argument.ts"
-import { renderPrompt } from "akasha/command/arguments/pages/render-prompt.argument.ts"
-import { seed } from "akasha/command/arguments/pages/seed.argument.ts"
-import { size } from "akasha/command/arguments/pages/size.argument.ts"
-import { steps } from "akasha/command/arguments/pages/steps.argument.ts"
-import { timeout } from "akasha/command/arguments/pages/timeout.argument.ts"
+} from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import type { Read } from "akasha/command/argument/modules/word-reading/argument-word-reading.module.code.ts"
+import { context } from "akasha/command/argument/pages/context.argument.ts"
+import { contextFrames } from "akasha/command/argument/pages/context-frames.argument.ts"
+import { direction } from "akasha/command/argument/pages/direction.argument.ts"
+import { lightning } from "akasha/command/argument/pages/lightning.argument.ts"
+import { negativePrompt } from "akasha/command/argument/pages/negative-prompt.argument.ts"
+import { negativePromptFile } from "akasha/command/argument/pages/negative-prompt-file.argument.ts"
+import { newFrames } from "akasha/command/argument/pages/new-frames.argument.ts"
+import { output } from "akasha/command/argument/pages/output.argument.ts"
+import { promptFile } from "akasha/command/argument/pages/prompt-file.argument.ts"
+import { renderPrompt } from "akasha/command/argument/pages/render-prompt.argument.ts"
+import { seed } from "akasha/command/argument/pages/seed.argument.ts"
+import { size } from "akasha/command/argument/pages/size.argument.ts"
+import { steps } from "akasha/command/argument/pages/steps.argument.ts"
+import { timeout } from "akasha/command/argument/pages/timeout.argument.ts"
 import {
   answering,
   naming,

@@ -5,7 +5,7 @@ import {
   oneRun,
   type RunReport,
 } from "akasha/alan/harness/email-watch/modules/inbox-run/inbox-run.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const DRY_RUN = "--dry-run"
 

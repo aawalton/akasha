@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonFilthyRichJayDixieRemix = {
+  id: "01a0676a-d71d-7077-961d-44fbd189919a",
+  type: "release",
+  slug: "ella-henderson-filthy-rich-jay-dixie-remix",
+  title: "Filthy Rich (Jay Dixie Remix)",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 5.296817,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2024-11-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3ewrAfBv58rllcB3Br0mtE",
+      externalLink: "https://open.spotify.com/album/3ewrAfBv58rllcB3Br0mtE",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

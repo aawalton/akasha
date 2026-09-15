@@ -1,9 +1,9 @@
 "use client"
 
 import { NotFoundNotice } from "akasha/alan/web-capacitor/modules/not-found-notice/not-found-notice.module.code.tsx"
-import { PagesFilteredContent } from "akasha/pages/ui/components/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
-import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
-import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { PagesFilteredContent } from "akasha/page/ui/components/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
+import { useAllPages } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
+import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useMemo } from "react"
 import { useParams, useSearchParams } from "react-router"
 

@@ -6,17 +6,17 @@ import {
   readingIn,
   sameBody,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type { Kind } from "akasha/command/modules/calling/calling.module.code.ts"
 import { runningOf } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { carryLanded } from "akasha/command/modules/landing-reading/landing-reading.module.code.ts"
-import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
   AGENT,
   repoWith,
   scratch,
-} from "akasha/testing-system/test-fixtures/repo-seeding/repo-seeding.test-fixture.code.ts"
+} from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

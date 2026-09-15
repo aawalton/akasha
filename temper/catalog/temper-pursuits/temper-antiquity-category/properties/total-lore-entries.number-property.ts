@@ -1,0 +1,11 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const totalLoreEntries = {
+  id: "01a06166-503b-7003-ab8a-9dcbc88f6254",
+  type: "number-property",
+  slug: "total-lore-entries",
+  propertySlug: "total-lore-entries",
+  definition: "how many lore entries an antiquity yields once it is dug up",
+  max: null,
+  types: "ts",
+} as const satisfies NumberProperty

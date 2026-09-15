@@ -1,12 +1,12 @@
-import type { TakenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { active } from "akasha/command/arguments/pages/active.argument.ts"
-import { buyRuleId } from "akasha/command/arguments/pages/buy-rule-id.argument.ts"
-import { force } from "akasha/command/arguments/pages/force.argument.ts"
-import { goal } from "akasha/command/arguments/pages/goal.argument.ts"
-import { notes } from "akasha/command/arguments/pages/notes.argument.ts"
-import { source as sourceArgument } from "akasha/command/arguments/pages/source.argument.ts"
-import { targetQuantity as targetArgument } from "akasha/command/arguments/pages/target-quantity.argument.ts"
-import { title } from "akasha/command/arguments/pages/title.argument.ts"
+import type { TakenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { active } from "akasha/command/argument/pages/active.argument.ts"
+import { buyRuleId } from "akasha/command/argument/pages/buy-rule-id.argument.ts"
+import { force } from "akasha/command/argument/pages/force.argument.ts"
+import { goal } from "akasha/command/argument/pages/goal.argument.ts"
+import { notes } from "akasha/command/argument/pages/notes.argument.ts"
+import { source as sourceArgument } from "akasha/command/argument/pages/source.argument.ts"
+import { targetQuantity as targetArgument } from "akasha/command/argument/pages/target-quantity.argument.ts"
+import { title } from "akasha/command/argument/pages/title.argument.ts"
 import {
   INPUT,
   refused,

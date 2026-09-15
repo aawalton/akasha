@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const delve0158158Scales = {
+  id: "01a06731-af35-7000-bb22-b98cf34c75e1",
+  type: "story-chapter-read",
+  slug: "delve-0158-158-scales",
+  title: "158: Scales",
+  story: "story-read/delve",
+  position: 158,
+  ownLength: 7379,
+  unit: "unit/words",
+  publishedAt: "2021-08-15",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "734088",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/734088/158-scales",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

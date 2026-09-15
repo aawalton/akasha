@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const girlInRedWeFellInLoveInOctoberOctoberPassedMeBy = {
+  id: "01a0676a-d730-702e-bad0-d791d0ecd9bc",
+  type: "release",
+  slug: "girl-in-red-we-fell-in-love-in-october-october-passed-me-by",
+  title: "we fell in love in october / October Passed Me By",
+  partOfCollections: ["artist/girl-in-red"],
+  position: 0,
+  ownLength: 8.2209,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2018-11-21",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7vud0sY43VTv28MbWiglDa",
+      externalLink: "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa",
+    },
+  ],
+} as const satisfies Release

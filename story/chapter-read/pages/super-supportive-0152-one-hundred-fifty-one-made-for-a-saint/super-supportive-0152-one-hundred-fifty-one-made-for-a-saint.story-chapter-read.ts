@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const superSupportive0152OneHundredFiftyOneMadeForASaint = {
+  id: "01a06730-4ec0-747f-b2a0-019f868d0047",
+  type: "story-chapter-read",
+  slug: "super-supportive-0152-one-hundred-fifty-one-made-for-a-saint",
+  title: "ONE HUNDRED FIFTY-ONE: Made for a Saint",
+  story: "story-read/super-supportive",
+  position: 152,
+  ownLength: 4934,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1690642",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1690642/one-hundred-fifty-one-made-for-a-saint",
+    },
+  ],
+  publishedAt: "2024-06-24",
+  prose: "txt",
+} as const satisfies StoryChapterRead

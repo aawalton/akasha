@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const lynLapidInMyMind = {
+  id: "01a0676a-d721-7069-a790-f82ec8ccdf0b",
+  type: "release",
+  slug: "lyn-lapid-in-my-mind",
+  title: "In My Mind",
+  partOfCollections: ["artist/lyn-lapid"],
+  position: 0,
+  ownLength: 14.943733,
+  ownProgress: 14.943733,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2021-10-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7AvjK1iLaukb9xYs9aHdG2",
+      externalLink: "https://open.spotify.com/album/7AvjK1iLaukb9xYs9aHdG2",
+    },
+  ],
+} as const satisfies Release

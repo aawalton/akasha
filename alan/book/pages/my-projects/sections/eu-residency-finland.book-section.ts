@@ -1,0 +1,14 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const euResidencyFinland = {
+  id: "01a06594-c689-700d-8808-9821a33c3e3b",
+  type: "book-section",
+  slug: "eu-residency-finland",
+  title: "Finland",
+  sectionOf: "book-section/second-passport/eu-residency",
+  description:
+    "Finland residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/finland.md.",
+  partOfCollections: ["book-section/second-passport/eu-residency", "alan-book/my-projects"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

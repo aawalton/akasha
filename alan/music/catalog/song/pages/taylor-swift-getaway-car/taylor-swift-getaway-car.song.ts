@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const taylorSwiftGetawayCar = {
+  id: "019ea416-1ee1-714f-9760-f05a767d1962",
+  type: "song",
+  slug: "taylor-swift-getaway-car",
+  title: "Getaway Car",
+  artist: "artist/taylor-swift",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "588811ba-b79c-469f-b0eb-7b9dd056e6d4",
+      externalLink: "https://musicbrainz.org/work/588811ba-b79c-469f-b0eb-7b9dd056e6d4",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "collab",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

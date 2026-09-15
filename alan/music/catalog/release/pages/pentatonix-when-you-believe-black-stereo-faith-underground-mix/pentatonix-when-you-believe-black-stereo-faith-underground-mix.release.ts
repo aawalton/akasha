@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const pentatonixWhenYouBelieveBlackStereoFaithUndergroundMix = {
+  id: "01a0676a-d731-7001-bd85-0fc6e45a1059",
+  type: "release",
+  slug: "pentatonix-when-you-believe-black-stereo-faith-underground-mix",
+  title: "When You Believe (Black Stereo Faith Underground Mix)",
+  partOfCollections: ["artist/pentatonix"],
+  position: 0,
+  ownLength: 5.238983,
+  ownProgress: 5.238983,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-12-21",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "79I4RXQcl8po9x4IRngzqR",
+      externalLink: "https://open.spotify.com/album/79I4RXQcl8po9x4IRngzqR",
+    },
+  ],
+} as const satisfies Release

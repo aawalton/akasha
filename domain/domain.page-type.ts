@@ -1,0 +1,129 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const domain = {
+  id: "01a049c8-3ead-7c52-9ab6-88767954ed5f",
+  parts: [
+    "boolean-property/expands",
+    "build-folder-property/output-directory",
+    "code-file-property/tunnel-routes",
+    "domain/context",
+    "domain/domain-champions",
+    "domain/domain-parent",
+    "domain/domain-purpose",
+    "domain/plain-language",
+    "domain/standard-agent-english",
+    "file-property/typescript-config",
+    "module/domain-reading",
+    "module/domain-rows",
+    "module/work-initiatives",
+    "page-type/directive-kind",
+    "page-type/finding",
+    "page-type/initiative",
+    "page-type/invariant-group",
+    "page-type/invariant-kind",
+    "page-type/list",
+    "page-type/sentence-shape",
+    "page-type/taboo-term",
+    "record-property/directives",
+    "record-property/invariants",
+    "relation-property/directive-kind",
+    "relation-property/invariant-kind",
+    "relation-property/page-domain",
+    "relation-property/parts",
+    "standard-agent-english-property/act",
+    "standard-agent-english-property/aids",
+    "standard-agent-english-property/definition",
+    "standard-agent-english-property/invariant-statement",
+    "standard-agent-english-property/warrant",
+    "text-property/linked-at",
+    "text-property/name",
+    "text-property/plural-slug",
+  ],
+  type: "page-type",
+  slug: "domain",
+  definition: "a bounded area of concern",
+  extends: ["page-type/page"],
+  properties: [
+    { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
+    { pageProperty: "text-property/plural-slug", required: false, many: false },
+    { pageProperty: "record-property/invariants", required: false, many: true, maxCount: null },
+    { pageProperty: "record-property/directives", required: false, many: true, maxCount: null },
+    { pageProperty: "boolean-property/expands", required: false, many: false },
+    { pageProperty: "relation-property/parts", required: false, many: true, maxCount: null },
+    { pageProperty: "code-file-property/tunnel-routes", required: false, many: false },
+    { pageProperty: "file-property/typescript-config", required: false, many: false },
+    { pageProperty: "text-property/linked-at", required: false, many: false },
+    { pageProperty: "build-folder-property/output-directory", required: false, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A page is a domain by its page type rather than by the folder the page sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Everything a domain carries could matter to every domain beneath that domain.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A domain is never weighed against how many domains there are.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A slug and a definition is a whole domain rather than a stub waiting to be filled in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A domain stays even when nothing needs that domain any more.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A domain goes only when that domain no longer fits the structure.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Everything Alan wants done is a finding or an intent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Context a choice does not need does not reach the agent making that choice.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "Agents have the context each choice needs at the time those agents make that choice.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat's attributes represent the choices that seat will make.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Alan Approves Directives",
+      act: "Add a directive to a domain only where Alan has approved that directive.",
+      warrant:
+        "A directive binds every reader of a domain, and a wrong one is obeyed until noticed.",
+      aids: [
+        "Approving the initiative is not approving a directive.",
+        "A directive replacing an old one still needs approval.",
+        "Deleting one is changing it.",
+        "A definition or an invariant needs none.",
+      ],
+    },
+    {
+      directiveKind: "rule",
+      name: "Single Authority",
+      act: "Bind each claim from exactly one document.",
+      warrant:
+        "Where two documents bind one claim, their disagreement is a contradiction nothing can settle.",
+      aids: [
+        "Never summarise a claim another document binds.",
+        "Delete the old line when you move a claim.",
+      ],
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

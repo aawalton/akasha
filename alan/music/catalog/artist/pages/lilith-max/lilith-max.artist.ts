@@ -1,0 +1,30 @@
+import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.types.ts"
+
+export const lilithMax = {
+  id: "019ea4de-a4a8-755f-9d89-5f375589f6e0",
+  type: "artist",
+  slug: "lilith-max",
+  title: "Lilith Max",
+  partOfCollections: ["artist-collection/artists"],
+  position: 0,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "following",
+  rank: "B",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "875cba95-c7a7-491c-964d-171c931c32e5",
+      externalLink: "https://musicbrainz.org/artist/875cba95-c7a7-491c-964d-171c931c32e5",
+      lastSyncedAt: "2026-06-08",
+    },
+    {
+      source: "spotify",
+      externalId: "797SPxZf82IYq3XCM8c9AM",
+      externalLink: "https://open.spotify.com/artist/797SPxZf82IYq3XCM8c9AM",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
+  tags: ["Indie Pop Storyteller"],
+} as const satisfies Artist

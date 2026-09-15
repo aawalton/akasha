@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jadaFacerStuckWithU = {
+  id: "01a0676a-d72a-7036-98b7-7709163320de",
+  type: "release",
+  slug: "jada-facer-stuck-with-u",
+  title: "Stuck with U",
+  partOfCollections: ["artist/jada-facer"],
+  position: 0,
+  ownLength: 3.131917,
+  ownProgress: 3.131917,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-05-28",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0GRRiimsVdiQZtexAvdNgf",
+      externalLink: "https://open.spotify.com/album/0GRRiimsVdiQZtexAvdNgf",
+    },
+  ],
+} as const satisfies Release

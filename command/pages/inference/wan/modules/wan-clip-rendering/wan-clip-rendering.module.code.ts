@@ -1,8 +1,8 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
-import { negativePrompt as negativePromptArgument } from "akasha/command/arguments/pages/negative-prompt.argument.ts"
-import { renderPrompt as promptArgument } from "akasha/command/arguments/pages/render-prompt.argument.ts"
+import { negativePrompt as negativePromptArgument } from "akasha/command/argument/pages/negative-prompt.argument.ts"
+import { renderPrompt as promptArgument } from "akasha/command/argument/pages/render-prompt.argument.ts"
 import {
   answeredWith,
   DATA,
@@ -34,18 +34,18 @@ import {
   WAN_FPS,
   WAN_FULL_STEPS,
   WAN_LIGHTNING_STEPS,
-} from "akasha/infrastructure/inference/generations/wan/modules/backbone/wan-backbone.module.code.ts"
-import type { ExtendDirection } from "akasha/infrastructure/inference/generations/wan/modules/extend-graph/wan-extend-graph.module.code.ts"
+} from "akasha/infrastructure/inference/generation/wan/modules/backbone/wan-backbone.module.code.ts"
+import type { ExtendDirection } from "akasha/infrastructure/inference/generation/wan/modules/extend-graph/wan-extend-graph.module.code.ts"
 import {
   buildExtendGraph,
   computeSkipFirstFrames,
   resolveComfyInputName,
   snapToVaeLength,
-} from "akasha/infrastructure/inference/generations/wan/modules/extend-graph/wan-extend-graph.module.code.ts"
-import { buildI2vGraph } from "akasha/infrastructure/inference/generations/wan/modules/i2v-graph/wan-i2v-graph.module.code.ts"
-import { parseSizeOrNull } from "akasha/infrastructure/inference/generations/wan/modules/size/wan-size.module.code.ts"
-import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
-import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
+} from "akasha/infrastructure/inference/generation/wan/modules/extend-graph/wan-extend-graph.module.code.ts"
+import { buildI2vGraph } from "akasha/infrastructure/inference/generation/wan/modules/i2v-graph/wan-i2v-graph.module.code.ts"
+import { parseSizeOrNull } from "akasha/infrastructure/inference/generation/wan/modules/size/wan-size.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
 
 const SERVICE = "wan-i2v"

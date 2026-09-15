@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0439332HauntedIii3257835 = {
+  id: "01a06730-4e91-7d39-a8e7-d79f4fc4e51c",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0439-332-haunted-iii-3257835",
+  title: "332 Haunted [III]",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 439,
+  ownLength: 5424,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3257835",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3257835/332-haunted-iii",
+    },
+  ],
+  publishedAt: "2026-04-10",
+  prose: "txt",
+} as const satisfies StoryChapterRead

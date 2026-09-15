@@ -11,7 +11,7 @@ import {
 import type {
   Fetcher,
   Sleeper,
-} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const CAPACITOR = "capacitor://localhost"
 

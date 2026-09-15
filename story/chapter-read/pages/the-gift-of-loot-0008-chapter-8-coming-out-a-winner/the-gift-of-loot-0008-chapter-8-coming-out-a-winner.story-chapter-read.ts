@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theGiftOfLoot0008Chapter8ComingOutAWinner = {
+  id: "01a06730-4eda-715a-8929-ea6d2fd11467",
+  type: "story-chapter-read",
+  slug: "the-gift-of-loot-0008-chapter-8-coming-out-a-winner",
+  title: "Chapter 8: Coming Out a Winner",
+  story: "story-read/the-gift-of-loot",
+  position: 8,
+  ownLength: 1517,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3248589",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3248589/chapter-8-coming-out-a-winner",
+    },
+  ],
+  publishedAt: "2026-04-08",
+  prose: "txt",
+} as const satisfies StoryChapterRead

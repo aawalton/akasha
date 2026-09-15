@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0015Chapter105Practice = {
+  id: "01a06731-ad73-7000-83c0-147af1c6eb82",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0015-chapter-105-practice",
+  title: "Chapter: 105 - Practice",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 15,
+  ownLength: 3136,
+  ownProgress: 3136,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:35:46.570Z",
+  publishedAt: "2022-04-13",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "884747",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/884747/chapter-105-practice",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

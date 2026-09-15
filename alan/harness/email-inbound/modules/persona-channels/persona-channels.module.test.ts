@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { channelsOf } from "akasha/alan/harness/email-inbound/modules/persona-channels/persona-channels.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { personasStanding } from "akasha/personas/modules/reading/persona-reading.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { personasStanding } from "akasha/persona/modules/reading/persona-reading.module.code.ts"
 
 const ROOT = akashaRoot()
 

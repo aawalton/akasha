@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0242Chapter1594SenseOfDanger = {
+  id: "01a0672c-eb63-7010-8cbe-11dd9756f2d0",
+  type: "story-chapter-read",
+  slug: "chrysalis-0242-chapter-1594-sense-of-danger",
+  title: "Chapter 1594 - Sense of Danger",
+  story: "story-read/chrysalis",
+  position: 242,
+  ownLength: 1045,
+  ownProgress: 1045,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:51:33.257Z",
+  publishedAt: "2025-06-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2388378",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2388378/chapter-1594-sense-of-danger",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

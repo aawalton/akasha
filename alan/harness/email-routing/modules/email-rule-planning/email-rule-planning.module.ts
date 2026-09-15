@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const emailRulePlanning = {
   id: "01a0a13e-68ba-75e1-9530-f6b30bf6b3c0",

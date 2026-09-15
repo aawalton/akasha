@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0110V5c5HearthAndHome = {
+  id: "01a06731-ad8c-7000-a5bf-b9055d8a58c4",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0110-v5c5-hearth-and-home",
+  title: "v5c5: Hearth and Home",
+  story: "story-read/beware-of-chicken",
+  position: 110,
+  ownLength: 2127,
+  ownProgress: 2127,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:55:16.469Z",
+  publishedAt: "2024-05-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1648536",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1648536/v5c5-hearth-and-home",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

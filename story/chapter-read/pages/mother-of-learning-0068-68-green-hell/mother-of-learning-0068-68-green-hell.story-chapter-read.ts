@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning006868GreenHell = {
+  id: "01a06731-b089-7000-84a6-719ed2bcee77",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0068-68-green-hell",
+  title: "68. Green Hell",
+  story: "story-read/mother-of-learning",
+  position: 68,
+  ownLength: 8418,
+  ownProgress: 8418,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:46:19.886Z",
+  publishedAt: "2018-12-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "319545",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/319545/68-green-hell",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

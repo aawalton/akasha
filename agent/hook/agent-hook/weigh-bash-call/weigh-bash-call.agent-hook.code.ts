@@ -10,10 +10,10 @@ import {
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { hookAgentId } from "akasha/agent/modules/acting-agent/acting-agent.module.code.ts"
 import { seatPageAt } from "akasha/agent/modules/page-reading/agent-page-reading.module.code.ts"
-import { fillingAt } from "akasha/checks/modules/cost/check-cost.module.code.ts"
+import { fillingAt } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { pidAliveOrAssumeAlive } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 
 const SCRIPT_TYPE = "shell-script"

@@ -5,11 +5,11 @@ import {
   movedOnto,
   seatEditsAt,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
   editsIn,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   droppingRecords,
   listingRecords,
@@ -17,8 +17,8 @@ import {
   showingRecords,
   takingRecords,
 } from "akasha/command/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.code.ts"
-import { scratch } from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
-import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
+import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

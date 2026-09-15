@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0205V6c17TheForgingOfABlade = {
+  id: "01a06731-adb7-7007-926c-4671e8f1f58a",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0205-v6c17-the-forging-of-a-blade",
+  title: "v6c17: The Forging of a Blade",
+  story: "story-read/beware-of-chicken",
+  position: 205,
+  ownLength: 3154,
+  ownProgress: 3154,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:58:22.668Z",
+  publishedAt: "2025-04-25",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2229007",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2229007/v6c17-the-forging-of-a-blade",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

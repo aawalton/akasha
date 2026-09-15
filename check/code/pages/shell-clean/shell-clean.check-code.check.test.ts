@@ -1,0 +1,40 @@
+import { afterAll, expect, test } from "bun:test"
+import { shellClean } from "akasha/check/code/pages/shell-clean/shell-clean.check-code.check.code.ts"
+import {
+  CLEAN,
+  FAULT,
+  ONE,
+  rooted,
+  scratch,
+  UNQUOTED,
+} from "akasha/check/code/pages/shell-clean/shell-clean.check-code.decision.test-fixtures.ts"
+import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import { landing } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
+
+afterAll(scratch.sweep)
+
+function judged(text: string): readonly Judged[] {
+  const root = rooted()
+  return shellClean(landing(root, { [ONE]: bytesOf(text) }), shadowAt(root))
+}
+
+test("the check refuses a shell script the change carries that the linter finds fault in", () => {
+  const said = judged(FAULT)
+
+  expect(said.map((one) => one.path)).toEqual([ONE])
+  expect(said[0]?.reason).toContain("SC2086")
+  expect(said[0]?.reason).toContain(UNQUOTED)
+})
+
+test("the check lets through a shell script the linter finds nothing in", () => {
+  expect(judged(CLEAN)).toEqual([])
+})
+
+test("a shell script wakes the check and a file of any other kind does not", () => {
+  const shadow = shadowAt(rooted())
+  const held = [ONE, "akasha/one.ts", "akasha/held.md"]
+
+  expect(held.map((one) => shellClean.isInput(one, shadow))).toEqual([true, false, false])
+})

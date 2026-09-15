@@ -1,0 +1,20 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const arianaGrandeIceCream = {
+  id: "019ea4e1-a93e-7f81-8db1-a23936480bb9",
+  type: "song",
+  slug: "ariana-grande-ice-cream",
+  title: "Ice Cream",
+  artist: "artist/ariana-grande",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "686db009-9a5e-452c-9bc0-518f2ac29fd1",
+      externalLink: "https://musicbrainz.org/work/686db009-9a5e-452c-9bc0-518f2ac29fd1",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: false,
+  written: "collab",
+} as const satisfies Song

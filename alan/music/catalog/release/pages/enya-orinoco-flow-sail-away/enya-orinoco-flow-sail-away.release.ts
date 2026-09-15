@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const enyaOrinocoFlowSailAway = {
+  id: "01a0676a-d726-704b-8507-72f11cfdc601",
+  type: "release",
+  slug: "enya-orinoco-flow-sail-away",
+  title: "Orinoco Flow (Sail Away)",
+  partOfCollections: ["artist/enya"],
+  position: 0,
+  ownLength: 3.764,
+  ownProgress: 3.764,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1988-10-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6euqAQ8Nl6axefUvo2oJMQ",
+      externalLink: "https://open.spotify.com/album/6euqAQ8Nl6axefUvo2oJMQ",
+    },
+  ],
+} as const satisfies Release

@@ -1,7 +1,7 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { inventoryPath as inventoryPathArgument } from "akasha/command/arguments/pages/inventory-path.argument.ts"
-import { itemlink } from "akasha/command/arguments/pages/itemlink.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/command/argument/pages/inventory-path.argument.ts"
+import { itemlink } from "akasha/command/argument/pages/itemlink.argument.ts"
 import {
   INPUT,
   OPERATIONAL,

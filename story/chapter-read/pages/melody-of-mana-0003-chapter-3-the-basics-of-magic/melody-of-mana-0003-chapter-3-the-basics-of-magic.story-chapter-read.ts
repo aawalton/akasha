@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0003Chapter3TheBasicsOfMagic = {
+  id: "01a0672c-ed57-7000-b1d1-0bcbb5e93c94",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0003-chapter-3-the-basics-of-magic",
+  title: "Chapter 3 The basics of magic",
+  story: "story-read/melody-of-mana",
+  position: 3,
+  ownLength: 3670,
+  ownProgress: 3670,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:26:20.314Z",
+  publishedAt: "2021-06-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "700193",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/700193/chapter-3-the-basics-of-magic",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

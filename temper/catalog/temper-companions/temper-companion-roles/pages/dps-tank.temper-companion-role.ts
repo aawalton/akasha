@@ -1,9 +1,0 @@
-import type { TemperCompanionRole } from "akasha/temper/catalog/temper-companions/temper-companion-roles/temper-companion-role.page-type.types.ts"
-
-export const dpsTank = {
-  id: "01a05fcd-70fe-7793-885c-166ed0b5d25e",
-  type: "temper-companion-role",
-  slug: "dps-tank",
-  key: "dps+tank",
-  title: "DPS + Tank",
-} as const satisfies TemperCompanionRole

@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const macBuildLockDir = {
+  id: "01a06289-79d3-72fb-b3b3-690920b50d97",
+  type: "text-property",
+  slug: "mac-build-lock-dir",
+  propertySlug: "mac-build-lock-dir",
+  definition: "where an app's builds take their lock on the mac",
+  maxLength: 200,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

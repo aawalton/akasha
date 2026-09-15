@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash0214214OneMoreSecond = {
+  id: "01a06731-adf4-7000-95eb-ae1dbe72953f",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0214-214-one-more-second",
+  title: "214. One More Second",
+  story: "story-read/god-of-trash",
+  position: 214,
+  ownLength: 2358,
+  unit: "unit/words",
+  publishedAt: "2025-10-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2671451",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2671451/214-one-more-second",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

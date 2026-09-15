@@ -1,5 +1,5 @@
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Asking as Asked } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
@@ -15,11 +15,11 @@ import {
   plannedOver,
   WRITE,
 } from "akasha/command/pages/music/capture/music-capture.command.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export const ROOT = rootOf(process.cwd())
 
-const DAYS = "alan/track/daily/days/pages"
+const DAYS = "alan/track/daily/day/pages"
 
 export const FILED_DAY = `${DAYS}/2026-08-21/day-2026-08-21.day`
 

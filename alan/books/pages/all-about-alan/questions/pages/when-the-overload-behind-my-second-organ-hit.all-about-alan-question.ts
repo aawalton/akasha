@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whenTheOverloadBehindMySecondOrganHit = {
-  id: "01a077e5-4d71-72b2-bfbb-fc20dd7484ef",
-  type: "all-about-alan-question",
-  slug: "when-the-overload-behind-my-second-organ-hit",
-  topic: "all-about-alan-topic/the-scaffolding-i-built",
-  ask: "When did the overload that drove my second permanent organ happen, the way the first organ is anchored to being overwhelmed at Epic?",
-} as const satisfies AllAboutAlanQuestion

@@ -4,7 +4,7 @@ import {
   listEntryRoots,
 } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-imports/dockerfile-imports.module.code.ts"
 
-const AUTH_PROXY = "infrastructure/networks/auth-proxy"
+const AUTH_PROXY = "infrastructure/network/auth-proxy"
 const REACHED = "/require-env"
 
 describe("what a service reaches", () => {

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0020V4c123InductionPart3 = {
+  id: "01a0672c-ec86-7002-8f52-83d4068b782d",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0020-v4c-12-3-induction-part-3",
+  title: "v4c 12.3: Induction part 3",
+  story: "story-read/beware-of-chicken",
+  position: 20,
+  ownLength: 2064,
+  ownProgress: 2064,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:52:00.630Z",
+  publishedAt: "2023-06-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1234534",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1234534/v4c-123-induction-part-3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

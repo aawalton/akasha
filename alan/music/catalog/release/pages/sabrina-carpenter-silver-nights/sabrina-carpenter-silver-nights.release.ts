@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const sabrinaCarpenterSilverNights = {
+  id: "01a0676a-d729-700a-978b-4f0c54407eeb",
+  type: "release",
+  slug: "sabrina-carpenter-silver-nights",
+  title: "Silver Nights",
+  partOfCollections: ["artist/sabrina-carpenter"],
+  position: 0,
+  ownLength: 2.442,
+  ownProgress: 2.442,
+  unit: "unit/minutes",
+  status: "in-progress",
+  publishedAt: "2014-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "43yrS2rNyP9LGthAloWLZM",
+      externalLink: "https://open.spotify.com/album/43yrS2rNyP9LGthAloWLZM",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
+} as const satisfies Release

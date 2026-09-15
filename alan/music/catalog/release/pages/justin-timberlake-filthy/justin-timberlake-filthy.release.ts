@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const justinTimberlakeFilthy = {
+  id: "01a0676a-d71d-7074-a75b-fc1e49855fe9",
+  type: "release",
+  slug: "justin-timberlake-filthy",
+  title: "Filthy",
+  partOfCollections: ["artist/justin-timberlake"],
+  position: 0,
+  ownLength: 4.8991,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2018-01-05",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "730MjVEfvrWeEloF42B5U1",
+      externalLink: "https://open.spotify.com/album/730MjVEfvrWeEloF42B5U1",
+    },
+  ],
+} as const satisfies Release

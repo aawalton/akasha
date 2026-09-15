@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0549Chapter549MoreMeetings = {
+  id: "01a0672c-ed05-7000-a925-5c4e8f7fa76d",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0549-chapter-549-more-meetings",
+  title: "Chapter 549 - More Meetings",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 549,
+  ownLength: 2612,
+  unit: "unit/words",
+  publishedAt: "2018-04-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "206432",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206432/chapter-549-more-meetings",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { editsIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   appending,
   changing,
@@ -52,7 +52,7 @@ import {
   NAMER_CODE,
   NAMER_PAGE,
   scratch,
-} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

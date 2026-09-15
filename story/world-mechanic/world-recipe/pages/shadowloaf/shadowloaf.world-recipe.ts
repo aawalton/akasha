@@ -1,0 +1,9 @@
+import type { WorldRecipe } from "akasha/story/world-mechanic/world-recipe/world-recipe.page-type.types.ts"
+
+export const shadowloaf = {
+  id: "01a0655a-7b80-7d74-a783-5fb2bc809ccd",
+  type: "world-recipe",
+  slug: "shadowloaf",
+  title: "Shadowloaf",
+  world: "world/the-wandering-inn",
+} as const satisfies WorldRecipe

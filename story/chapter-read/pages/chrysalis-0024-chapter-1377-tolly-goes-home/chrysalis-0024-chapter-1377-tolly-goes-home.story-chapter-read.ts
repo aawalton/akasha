@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0024Chapter1377TollyGoesHome = {
+  id: "01a0672c-eb5a-7016-ae76-995b04d262a5",
+  type: "story-chapter-read",
+  slug: "chrysalis-0024-chapter-1377-tolly-goes-home",
+  title: "Chapter 1377 - Tolly Goes Home",
+  story: "story-read/chrysalis",
+  position: 24,
+  ownLength: 1002,
+  ownProgress: 1002,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:44:25.180Z",
+  publishedAt: "2024-07-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1729736",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1729736/chapter-1377-tolly-goes-home",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

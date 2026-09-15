@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-spell.page-type.types.ts"
+
+export const meteorStorm = {
+  id: "01a06572-95d8-769c-a7b3-2ea271f1c300",
+  type: "world-spell",
+  slug: "meteor-storm",
+  title: "Meteor Storm",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

@@ -1,0 +1,48 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const vendoredWorkload = {
+  id: "01a068e5-527b-7fd9-b67c-c38bcf39040a",
+  type: "page-type",
+  slug: "vendored-workload",
+  definition: "a workload the cluster runs that this repository writes no manifest for",
+  extends: ["page-type/service"],
+  parts: [
+    "vendored-workload/barman-cloud",
+    "vendored-workload/cert-manager",
+    "vendored-workload/cert-manager-cainjector",
+    "vendored-workload/cert-manager-webhook",
+    "vendored-workload/cnpg-controller-manager",
+    "vendored-workload/coredns",
+    "vendored-workload/kube-flannel",
+    "vendored-workload/kube-proxy",
+    "vendored-workload/metallb-controller",
+    "vendored-workload/metallb-speaker",
+    "vendored-workload/metrics-server",
+  ],
+  properties: [
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/resource-kind", required: true, many: false },
+    { pageProperty: "text-property/namespace", required: true, many: false },
+    { pageProperty: "text-property/resource-name", required: true, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A vendored workload is one resource with a pod template.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A vendored workload's manifests come from outside this repository.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A vendored workload names no image and no manifest code.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A workload this repository emits manifests for is a cluster service rather than a vendored workload.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

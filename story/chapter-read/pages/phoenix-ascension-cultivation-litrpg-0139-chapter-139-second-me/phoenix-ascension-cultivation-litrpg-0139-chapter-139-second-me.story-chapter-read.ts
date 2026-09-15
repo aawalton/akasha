@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const phoenixAscensionCultivationLitrpg0139Chapter139SecondMe = {
+  id: "01a06730-4e00-79d2-9a69-0b825399f421",
+  type: "story-chapter-read",
+  slug: "phoenix-ascension-cultivation-litrpg-0139-chapter-139-second-me",
+  title: "Chapter 139: Second Me",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
+  position: 139,
+  ownLength: 2118,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3538964",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3538964/chapter-139-second-me",
+    },
+  ],
+  publishedAt: "2026-06-14",
+  prose: "txt",
+} as const satisfies StoryChapterRead

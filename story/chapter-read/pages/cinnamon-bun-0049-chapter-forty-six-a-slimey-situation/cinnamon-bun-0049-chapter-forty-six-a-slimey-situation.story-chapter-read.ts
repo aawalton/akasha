@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0049ChapterFortySixASlimeySituation = {
+  id: "01a0672c-eb04-700b-b4d5-b9d98abbca9b",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0049-chapter-forty-six-a-slimey-situation",
+  title: "Chapter Forty-Six - A Slimey Situation",
+  story: "story-read/cinnamon-bun",
+  position: 49,
+  ownLength: 2044,
+  unit: "unit/words",
+  publishedAt: "2020-06-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "514141",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/514141/chapter-forty-six-a-slimey-situation",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

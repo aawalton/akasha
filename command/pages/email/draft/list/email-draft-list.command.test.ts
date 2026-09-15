@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { max } from "akasha/command/arguments/pages/max.argument.ts"
+import { saidForPart } from "akasha/command/argument/modules/taking/argument-taking.module.test-fixtures.ts"
+import { max } from "akasha/command/argument/pages/max.argument.ts"
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"

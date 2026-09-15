@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0437Chapter1785WorldOfSludge = {
+  id: "01a0672c-eb6a-7010-9e76-016f0c9f4ce7",
+  type: "story-chapter-read",
+  slug: "chrysalis-0437-chapter-1785-world-of-sludge",
+  title: "Chapter 1785 - World of Sludge",
+  story: "story-read/chrysalis",
+  position: 437,
+  ownLength: 874,
+  unit: "unit/words",
+  publishedAt: "2026-05-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3352012",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3352012/chapter-1785-world-of-sludge",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

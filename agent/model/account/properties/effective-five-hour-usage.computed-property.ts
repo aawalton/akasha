@@ -1,4 +1,4 @@
-import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
+import type { ComputedProperty } from "akasha/page/computed-property/computed-property.page-type.types.ts"
 
 export const effectiveFiveHourUsage = {
   id: "01a07659-1795-7ecf-b6af-a6a32cda7a73",

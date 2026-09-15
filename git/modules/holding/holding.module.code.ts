@@ -1,13 +1,13 @@
 import { closeSync, mkdirSync, openSync, rmSync, statSync, unlinkSync, writeSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { keptAt, LANDING_LOCK } from "akasha/files/modules/git-place/git-place.module.code.ts"
+import { keptAt, LANDING_LOCK } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import {
   alive,
   holderOf,
   markIn,
   startedAt,
-} from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
+} from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
 
 export const LOCK_AT = keptAt(LANDING_LOCK)
 

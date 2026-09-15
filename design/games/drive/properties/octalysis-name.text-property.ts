@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const octalysisName = {
+  id: "01a06756-f63f-763c-97cb-c93cfa22c0a7",
+  type: "text-property",
+  slug: "octalysis-name",
+  propertySlug: "name",
+  definition: "what Chou calls a drive",
+  maxLength: 100,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

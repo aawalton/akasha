@@ -1,0 +1,120 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const pageWriting = {
+  id: "01a05abd-fe05-794d-8493-811846971bf6",
+  type: "module",
+  slug: "page-writing",
+  definition: "a write handed to the pages, and the commit it lands as",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A writer is stated as the name and address git takes as an author.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path standing outside `akasha` is refused before anything is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The bodies a write puts and the paths that write takes away are stated apart.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every body a write puts and every path a write takes away lands through a change page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write putting the body a path already holds writes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path taken away that has no body refuses the write.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A batch is authored by the writer whose write arrived first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every writer a batch has is named in the message.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two writes in one batch reaching one path leave the later one standing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A batch refused is refused whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write may state the commit its bodies were read against.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The commit a write states is taken by any name git resolves to a commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The commit a write states is carried through to the landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A write stating a commit is refused where a path no longer has the body that commit had.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write stating a commit lands in a batch of its own.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A write stating no commit is taken as read against the bodies now standing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page a write creates has the values its page type generates.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is formatted before the body lands.",
+    },
+
+    {
+      invariantKind: "departure",
+      statement:
+        "A value kept outside the commit is merged onto the values its page already keeps.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two writes in one batch keeping one page merge in the order the writes arrived.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value kept outside the commit is written after the commit its write landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write refused commits nothing and keeps nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write that throws is refused naming the paths that write carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write that threw after it committed names that commit beside those paths.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write carrying only values kept outside the commit lands no commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page a value is kept for is judged for its path as a body would be.",
+    },
+  ],
+} as const satisfies Module

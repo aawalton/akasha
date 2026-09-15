@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0055Chapter135FirstRounds = {
+  id: "01a06730-4f68-7844-a21c-5e3058446cbf",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0055-chapter-135-first-rounds",
+  title: "Chapter 135: First rounds",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 55,
+  ownLength: 5535,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1343540",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1343540/chapter-135-first-rounds",
+    },
+  ],
+  publishedAt: "2023-09-15",
+  ownProgress: 5535,
+  completedAt: "2026-06-29T21:16:39.292Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

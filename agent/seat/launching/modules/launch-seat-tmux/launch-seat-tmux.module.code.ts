@@ -8,7 +8,7 @@ import {
   underScope,
 } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
 import { removeSubagentPagesOf } from "akasha/agent/subagent/modules/page/subagent-page.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const TMUX_CALL_CEILING_MS = 10_000
 

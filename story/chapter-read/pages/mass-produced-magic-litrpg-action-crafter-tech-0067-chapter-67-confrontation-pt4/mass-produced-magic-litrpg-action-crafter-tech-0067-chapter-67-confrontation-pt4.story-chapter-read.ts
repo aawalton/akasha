@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const massProducedMagicLitrpgActionCrafterTech0067Chapter67ConfrontationPt4 = {
+  id: "01a06731-afb3-7008-a23b-24db03a2208b",
+  type: "story-chapter-read",
+  slug: "mass-produced-magic-litrpg-action-crafter-tech-0067-chapter-67-confrontation-pt4",
+  title: "Chapter 67 – Confrontation Pt4",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
+  position: 67,
+  ownLength: 1555,
+  unit: "unit/words",
+  publishedAt: "2025-03-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2108559",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2108559/chapter-67-confrontation-pt4",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

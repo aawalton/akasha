@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { wisdomIn } from "akasha/alan/attributes/pages/wisdom/wisdom.attribute.code.ts"
+import { wisdomIn } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.code.ts"
 import {
   ATTRIBUTES_COUNTED_FROM,
   charismaOf,

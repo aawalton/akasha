@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const celticWoman2BallroomOfRomance = {
+  id: "01a0676a-d718-7012-8172-b02b26654652",
+  type: "release",
+  slug: "celtic-woman-2-ballroom-of-romance",
+  title: "Ballroom Of Romance",
+  partOfCollections: ["artist/celtic-woman"],
+  position: 0,
+  ownLength: 3.268217,
+  ownProgress: 3.268217,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2019-08-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6cmsz9QejTIg39cN6tpwfc",
+      externalLink: "https://open.spotify.com/album/6cmsz9QejTIg39cN6tpwfc",
+    },
+  ],
+} as const satisfies Release

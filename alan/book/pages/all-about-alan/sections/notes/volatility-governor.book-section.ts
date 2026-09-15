@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const volatilityGovernor = {
+  id: "01a06594-c686-7001-8c3a-414cf88a5472",
+  type: "book-section",
+  slug: "volatility-governor",
+  title: "Volatility governor",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

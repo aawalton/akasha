@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0143ChapterOneHundredAndThirtyEightAvianation = {
+  id: "01a0672c-eb0b-7007-bc4e-1d176b1c5e0f",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0143-chapter-one-hundred-and-thirty-eight-avianation",
+  title: "Chapter One Hundred and Thirty-Eight - Avianation",
+  story: "story-read/cinnamon-bun",
+  position: 143,
+  ownLength: 2016,
+  unit: "unit/words",
+  publishedAt: "2020-12-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "593597",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/593597/chapter-one-hundred-and-thirty-eight-avianation",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

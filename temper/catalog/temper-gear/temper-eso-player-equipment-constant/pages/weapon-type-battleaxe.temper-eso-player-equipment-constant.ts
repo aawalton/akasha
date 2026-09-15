@@ -1,0 +1,13 @@
+import type { TemperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/temper-gear/temper-eso-player-equipment-constant/temper-eso-player-equipment-constant.page-type.types.ts"
+
+export const weaponTypeBattleaxe = {
+  id: "01a05fd7-41c2-7314-84cb-9ea8657a4095",
+  type: "temper-eso-player-equipment-constant",
+  slug: "weapon-type-battleaxe",
+  title: "Weapon Type Battleaxe",
+  key: "weapon-type:battleaxe",
+  constantFamily: "weapon-type",
+  constantId: "battleaxe",
+  esoNum: 5,
+  displayOrder: 5,
+} as const satisfies TemperEsoPlayerEquipmentConstant

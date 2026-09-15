@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0273Chapter259BitOfAChat = {
+  id: "01a06731-ad85-7013-8b4d-9d92bba3ff1c",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0273-chapter-259-bit-of-a-chat",
+  title: "Chapter 259 Bit of a Chat",
+  story: "story-read/melody-of-mana",
+  position: 273,
+  ownLength: 1308,
+  ownProgress: 1308,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:35:15.270Z",
+  publishedAt: "2023-08-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1311896",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1311896/chapter-259-bit-of-a-chat",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

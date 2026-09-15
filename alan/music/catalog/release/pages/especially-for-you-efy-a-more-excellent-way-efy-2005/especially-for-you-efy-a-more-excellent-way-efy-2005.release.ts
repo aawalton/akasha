@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const especiallyForYouEfyAMoreExcellentWayEfy2005 = {
+  id: "01a0676a-d715-7033-92ea-3444ab37a3c4",
+  type: "release",
+  slug: "especially-for-you-efy-a-more-excellent-way-efy-2005",
+  title: "A More Excellent Way: Efy 2005",
+  partOfCollections: ["release-collection/especially-for-you-efy"],
+  position: 2005,
+  ownLength: 55.185233,
+  ownProgress: 55.185233,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2005-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7oWaAPuzsct2coyEk31sOx",
+      externalLink: "https://open.spotify.com/album/7oWaAPuzsct2coyEk31sOx",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

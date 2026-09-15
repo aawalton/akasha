@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0203Chapter695Collapse = {
+  id: "01a06731-ae8b-7001-9896-d1777c0a6eeb",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0203-chapter-695-collapse",
+  title: "Chapter: 695 - Collapse",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 203,
+  ownLength: 2707,
+  ownProgress: 2707,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:41:33.931Z",
+  publishedAt: "2026-04-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3284676",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3284676/chapter-695-collapse",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

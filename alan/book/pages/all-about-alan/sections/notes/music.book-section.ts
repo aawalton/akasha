@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const music = {
+  id: "01a06594-c67b-700b-91eb-b7259ce4c0e7",
+  type: "book-section",
+  slug: "music",
+  title: "Music as cross-cutting bridge",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

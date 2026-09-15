@@ -1,4 +1,4 @@
-import { renderRouterApp } from "akasha/code/router-apps/modules/rendering/router-app-rendering.module.code.tsx"
+import { renderRouterApp } from "akasha/code/router-app/modules/rendering/router-app-rendering.module.code.tsx"
 import { isbot } from "isbot"
 import type { AppLoadContext, EntryContext } from "react-router"
 

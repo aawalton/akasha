@@ -1,0 +1,12 @@
+import type { FileProperty } from "akasha/page/file-property/file-property.page-type.types.ts"
+
+export const curation = {
+  id: "01a08197-ec67-7f32-bb2b-ed882a15dda3",
+  type: "file-property",
+  slug: "curation",
+  propertySlug: "curation",
+  definition: "the root of a curation, naming the parts merged into it",
+  extensions: ["json"],
+  fileName: "ast-unused.config.json",
+  types: "ts",
+} as const satisfies FileProperty

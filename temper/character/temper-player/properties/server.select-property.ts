@@ -1,0 +1,17 @@
+import type { SelectProperty } from "akasha/page/select-property/select-property.page-type.types.ts"
+
+export const server = {
+  id: "01a06e4f-b738-785a-b942-ef91c66319dc",
+  type: "select-property",
+  slug: "server",
+  propertySlug: "server",
+  definition: "the megaserver a player's account trades on",
+  values: ["NA", "EU"],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A megaserver has its own trading prices.",
+    },
+  ],
+  types: "ts",
+} as const satisfies SelectProperty

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theGiftOfLoot0075Chapter75OfficiallyTheTeamPartyBus = {
+  id: "01a06730-4efc-78a6-8875-a969be2b29ef",
+  type: "story-chapter-read",
+  slug: "the-gift-of-loot-0075-chapter-75-officially-the-team-party-bus",
+  title: "Chapter 75: Officially The Team Party Bus",
+  story: "story-read/the-gift-of-loot",
+  position: 75,
+  ownLength: 2970,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3891397",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3891397/chapter-75-officially-the-team-party-bus",
+    },
+  ],
+  publishedAt: "2026-08-31",
+  prose: "txt",
+} as const satisfies StoryChapterRead

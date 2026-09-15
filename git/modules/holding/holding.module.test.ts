@@ -2,8 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   CARRIED,
@@ -17,13 +17,13 @@ import {
   refusedWhereHeld,
 } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   idFiledIn,
   listedFiledIn,
-} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { until } from "akasha/testing-system/test-fixtures/waiting/waiting.test-fixture.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const ROOT = process.cwd()

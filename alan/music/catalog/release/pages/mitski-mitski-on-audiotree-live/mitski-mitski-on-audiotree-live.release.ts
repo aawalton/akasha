@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const mitskiMitskiOnAudiotreeLive = {
+  id: "01a0676a-d724-707c-92f0-29a017f12c59",
+  type: "release",
+  slug: "mitski-mitski-on-audiotree-live",
+  title: "Mitski on Audiotree Live",
+  partOfCollections: ["artist/mitski"],
+  position: 0,
+  ownLength: 13.782717,
+  ownProgress: 13.782717,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2015-07-31",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5lbEsVQlcvV5tT8KBllPdh",
+      externalLink: "https://open.spotify.com/album/5lbEsVQlcvV5tT8KBllPdh",
+    },
+  ],
+} as const satisfies Release

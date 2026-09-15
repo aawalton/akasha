@@ -10,8 +10,8 @@ import { harnessSettingsAt } from "akasha/agent/settings/modules/harness-setting
 import {
   midRefresh,
   REFRESH_WAITED_AT_MOST_MS,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 
 const LOG = "[spawn-settings]"

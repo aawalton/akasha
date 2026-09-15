@@ -3,7 +3,7 @@ import {
   besideOf,
   pageOf,
 } from "akasha/infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts"
-import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 
 const RECIPE = "container-recipe"
 

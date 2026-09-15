@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theTabernacleChoirAtTempleSquare911RisingAbove = {
+  id: "01a0676a-d715-7018-b2c8-c6feb01ca053",
+  type: "release",
+  slug: "the-tabernacle-choir-at-temple-square-9-11-rising-above",
+  title: "9/11 Rising Above",
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
+  position: 0,
+  ownLength: 28.433967,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2011-09-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0J8hQLxbCtsARDb2UzUKtD",
+      externalLink: "https://open.spotify.com/album/0J8hQLxbCtsARDb2UzUKtD",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

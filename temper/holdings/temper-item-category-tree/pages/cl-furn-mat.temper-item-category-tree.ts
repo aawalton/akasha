@@ -1,0 +1,12 @@
+import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-category-tree/temper-item-category-tree.page-type.types.ts"
+
+export const clFurnMat = {
+  id: "01a05fcf-f7c0-7b70-a653-e2810baad59b",
+  type: "temper-item-category-tree",
+  slug: "cl-furn-mat",
+  title: "Furnishing Materials",
+  parent: "clothing",
+  displayOrder: 0,
+  filterTypes: [14],
+  itemTypes: [62],
+} as const satisfies TemperItemCategoryTree

@@ -1,11 +1,11 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { charactersPath as charactersPathArgument } from "akasha/command/arguments/pages/characters-path.argument.ts"
-import { inventoryPath as inventoryPathArgument } from "akasha/command/arguments/pages/inventory-path.argument.ts"
-import { json as jsonArgument } from "akasha/command/arguments/pages/json.argument.ts"
-import { loginChecklist as loginChecklistArgument } from "akasha/command/arguments/pages/login-checklist.argument.ts"
-import { unmapped as unmappedArgument } from "akasha/command/arguments/pages/unmapped.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { charactersPath as charactersPathArgument } from "akasha/command/argument/pages/characters-path.argument.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/command/argument/pages/inventory-path.argument.ts"
+import { json as jsonArgument } from "akasha/command/argument/pages/json.argument.ts"
+import { loginChecklist as loginChecklistArgument } from "akasha/command/argument/pages/login-checklist.argument.ts"
+import { unmapped as unmappedArgument } from "akasha/command/argument/pages/unmapped.argument.ts"
 import {
   DATA,
   OPERATIONAL,

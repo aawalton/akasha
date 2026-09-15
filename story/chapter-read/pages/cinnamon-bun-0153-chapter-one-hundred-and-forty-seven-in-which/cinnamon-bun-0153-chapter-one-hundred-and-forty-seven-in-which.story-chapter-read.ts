@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0153ChapterOneHundredAndFortySevenInWhich = {
+  id: "01a0672c-eb0c-7005-963a-90b482c56455",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0153-chapter-one-hundred-and-forty-seven-in-which",
+  title: "Chapter One Hundred and Forty-Seven - In Which Broccoli Gets to Wear Many Hats",
+  story: "story-read/cinnamon-bun",
+  position: 153,
+  ownLength: 1843,
+  unit: "unit/words",
+  publishedAt: "2021-01-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "610193",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/610193/chapter-one-hundred-and-forty-seven-in-which-broccoli",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

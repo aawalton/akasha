@@ -1,0 +1,9 @@
+import type { MonarchMerchant } from "akasha/alan/harness/monarch/merchant/monarch-merchant.page-type.types.ts"
+
+export const maverik = {
+  id: "01a0655b-fcdc-701e-a3e1-58f95520ba8c",
+  type: "monarch-merchant",
+  slug: "maverik",
+  title: "maverik",
+  merchantPatterns: ["maverik"],
+} as const satisfies MonarchMerchant

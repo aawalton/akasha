@@ -1,16 +1,16 @@
 import { resolve } from "node:path"
 import { auditRefusalsPut } from "akasha/agent/modules/refusals-keeping/refusals-keeping.module.code.ts"
-import { asked, type Told } from "akasha/checks/modules/audit-asking/audit-asking.module.code.ts"
+import { asked, type Told } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
 import {
   commitOf,
   type Running,
   running,
-} from "akasha/checks/modules/audit-serving/audit-serving.module.code.ts"
-import { everythingIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
-import type { Gathered } from "akasha/checks/modules/checking/checking.module.code.ts"
-import { checksAt, checksIn } from "akasha/checks/modules/checking/checking.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { check } from "akasha/command/arguments/pages/check.argument.ts"
+} from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
+import { everythingIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import type { Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
+import { checksAt, checksIn } from "akasha/check/modules/checking/checking.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { check } from "akasha/command/argument/pages/check.argument.ts"
 import { refusedBy } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   askedAnswer,
@@ -19,8 +19,8 @@ import {
 } from "akasha/command/modules/audit-answering/audit-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { audit as page } from "akasha/command/pages/audit/audit.command.ts"
-import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
+import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 

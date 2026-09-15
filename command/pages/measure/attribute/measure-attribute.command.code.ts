@@ -1,6 +1,6 @@
-import { pointsTotalKept } from "akasha/alan/attributes/modules/points/attribute-points.module.code.ts"
-import { levelOf } from "akasha/alan/attributes/properties/attribute-level.computed-property.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { pointsTotalKept } from "akasha/alan/attribute/modules/points/attribute-points.module.code.ts"
+import { levelOf } from "akasha/alan/attribute/properties/attribute-level.computed-property.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import {
   DATA,
   refusedBy,
@@ -18,8 +18,8 @@ import {
 import {
   slugOf,
   slugsIn,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
 const READOUT = "readout"
 

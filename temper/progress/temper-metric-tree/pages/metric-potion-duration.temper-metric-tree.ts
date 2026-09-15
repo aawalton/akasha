@@ -1,0 +1,12 @@
+import type { TemperMetricTree } from "akasha/temper/progress/temper-metric-tree/temper-metric-tree.page-type.types.ts"
+
+export const metricPotionDuration = {
+  id: "019e2fcd-5ab7-75d8-a534-b47a61842f01",
+  type: "temper-metric-tree",
+  slug: "metric-potion-duration",
+  title: "Potion Duration",
+  nodeId: "potion-duration",
+  nodeType: "metric",
+  displayOrder: 1,
+  parent: "subcategory-potions",
+} as const satisfies TemperMetricTree

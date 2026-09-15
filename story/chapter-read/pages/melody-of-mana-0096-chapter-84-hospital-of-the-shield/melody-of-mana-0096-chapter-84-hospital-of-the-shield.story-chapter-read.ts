@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0096Chapter84HospitalOfTheShield = {
+  id: "01a0672c-ed5e-701c-8aa9-5cb906d15eb9",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0096-chapter-84-hospital-of-the-shield",
+  title: "Chapter 84 Hospital of The Shield",
+  story: "story-read/melody-of-mana",
+  position: 96,
+  ownLength: 2099,
+  ownProgress: 2099,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:29:30.890Z",
+  publishedAt: "2022-02-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "836265",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/836265/chapter-84-hospital-of-the-shield",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

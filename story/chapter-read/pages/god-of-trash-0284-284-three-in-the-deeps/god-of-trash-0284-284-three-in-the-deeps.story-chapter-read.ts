@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash0284284ThreeInTheDeeps = {
+  id: "01a06731-adfc-7001-8169-cd9f0a3fab34",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0284-284-three-in-the-deeps",
+  title: "284. Three in the Deeps",
+  story: "story-read/god-of-trash",
+  position: 284,
+  ownLength: 2002,
+  unit: "unit/words",
+  publishedAt: "2026-03-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3134327",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3134327/284-three-in-the-deeps",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

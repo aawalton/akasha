@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0371Chapter1719Dealing = {
+  id: "01a0672c-eb68-7003-8aba-9ddc68e31213",
+  type: "story-chapter-read",
+  slug: "chrysalis-0371-chapter-1719-dealing",
+  title: "Chapter 1719 - Dealing",
+  story: "story-read/chrysalis",
+  position: 371,
+  ownLength: 1133,
+  ownProgress: 1133,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:55:40.469Z",
+  publishedAt: "2026-01-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2969629",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2969629/chapter-1719-dealing",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

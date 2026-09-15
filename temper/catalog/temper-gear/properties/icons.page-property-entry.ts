@@ -1,4 +1,4 @@
-import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
+import type { PagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.types.ts"
 
 export const icons = {
   id: "01a05fd1-d43b-7c0f-bb64-665ec592d68d",

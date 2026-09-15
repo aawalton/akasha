@@ -1,0 +1,14 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const reducedChaining = {
+  id: "01a06594-c67c-700e-afbe-26a8ba4a8ba3",
+  type: "book-section",
+  slug: "reduced-chaining",
+  title: "Reduced chaining (disadvantage)",
+  sectionOf: "alan-book/all-about-alan",
+  description:
+    "Reduced chaining — disadvantage of aphantasia where only conceptual triggers fire, with no sensory or emotional ones.",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

@@ -12,7 +12,7 @@ import {
   type SeatTurnReading,
   type SeatTurnState,
 } from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const ASTRA: ForestRow = {
   id: "01a00000-0000-7000-8000-00000000000a",

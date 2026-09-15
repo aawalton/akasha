@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0034SidestoryAnnouncementOakATreesQuest = {
+  id: "01a0672c-eb03-700a-9a9d-5b96e7af21ee",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0034-sidestory-announcement-oak-a-trees-quest",
+  title: "Sidestory Announcement - Oak: A Tree's Quest",
+  story: "story-read/cinnamon-bun",
+  position: 34,
+  ownLength: 168,
+  unit: "unit/words",
+  publishedAt: "2020-06-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "504423",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/504423/sidestory-announcement-oak-a-trees-quest",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

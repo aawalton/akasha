@@ -1,0 +1,22 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const addonName = {
+  id: "01a0819c-d367-7e7f-bd2f-562afd223044",
+  type: "text-property",
+  slug: "addon-name",
+  propertySlug: "addon-name",
+  definition: "the name the game loads an addon under",
+  maxLength: 100,
+  nameFormat: null,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The name is spelled as the addon's own manifest spells it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The addon roster answers with this name for the addon.",
+    },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

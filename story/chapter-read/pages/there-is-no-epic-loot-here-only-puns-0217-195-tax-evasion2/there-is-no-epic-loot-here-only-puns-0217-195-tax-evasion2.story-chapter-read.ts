@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thereIsNoEpicLootHereOnlyPuns0217195TaxEvasion2 = {
+  id: "01a06730-54da-7d4a-9e64-54f7fa135f8d",
+  type: "story-chapter-read",
+  slug: "there-is-no-epic-loot-here-only-puns-0217-195-tax-evasion2",
+  title: "195: Tax Evasion+2",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
+  position: 217,
+  ownLength: 2766,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1446876",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1446876/195-tax-evasion2",
+    },
+  ],
+  publishedAt: "2023-12-18",
+  prose: "txt",
+} as const satisfies StoryChapterRead

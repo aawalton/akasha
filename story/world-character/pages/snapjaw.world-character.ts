@@ -1,0 +1,13 @@
+import type { WorldCharacter } from "akasha/story/world-character/world-character.page-type.types.ts"
+
+export const snapjaw = {
+  id: "01a06580-2495-72da-aa73-4c4e3caf741d",
+  type: "world-character",
+  slug: "snapjaw",
+  title: "Snapjaw",
+  world: "world/the-wandering-inn",
+  maxLevel: 31,
+  eventCount: 7,
+  firstChapter: 532,
+  lastChapter: 532,
+} as const satisfies WorldCharacter

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const phoebeBridgersMotionSickness = {
+  id: "01a0676a-d725-700a-b861-90571636073d",
+  type: "release",
+  slug: "phoebe-bridgers-motion-sickness",
+  title: "Motion Sickness",
+  partOfCollections: ["artist/phoebe-bridgers"],
+  position: 0,
+  ownLength: 3.829333,
+  ownProgress: 3.829333,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2017-07-18",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "35SwvxbVW5F8uyRaOMvVTd",
+      externalLink: "https://open.spotify.com/album/35SwvxbVW5F8uyRaOMvVTd",
+    },
+  ],
+} as const satisfies Release

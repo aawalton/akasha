@@ -1,0 +1,11 @@
+import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-skill.page-type.types.ts"
+
+export const longRangeShot = {
+  id: "01a0657d-0240-73e1-b7b4-c7ca4742b06f",
+  type: "world-skill",
+  slug: "long-range-shot",
+  title: "Long Range Shot",
+  world: "world/the-wandering-inn",
+  aliases: ["Long-Range Shot"],
+  references: "jsonl",
+} as const satisfies WorldSkill

@@ -2,9 +2,9 @@ import {
   everyTopic,
   type Topic,
   topicTreeIn,
-} from "akasha/alan/books/pages/learn-everything/modules/topic-tree/topic-tree.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
+} from "akasha/alan/book/pages/learn-everything/modules/topic-tree/topic-tree.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   DATA,
   refused,

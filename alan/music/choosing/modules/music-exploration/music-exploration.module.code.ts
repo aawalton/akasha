@@ -1,10 +1,10 @@
-import type { Artist } from "akasha/alan/music/catalog/artists/artist.page-type.types.ts"
-import type { Song } from "akasha/alan/music/catalog/songs/song.page-type.types.ts"
+import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.types.ts"
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
 import {
   isLiked,
   ratingRung,
 } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
-import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export type CatalogArtist = Pick<Artist, "slug" | "title" | "genre" | "rank">
 

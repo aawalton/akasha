@@ -1,0 +1,21 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const zaraLarssonTooGood = {
+  id: "019ea49f-18e8-787e-92df-27e74c2475bc",
+  type: "song",
+  slug: "zara-larsson-too-good",
+  title: "Too Good",
+  artist: "artist/zara-larsson",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "471ad49a-cde4-4069-9786-0547859289fa",
+      externalLink: "https://musicbrainz.org/work/471ad49a-cde4-4069-9786-0547859289fa",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "derivative",
+  performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+} as const satisfies Song

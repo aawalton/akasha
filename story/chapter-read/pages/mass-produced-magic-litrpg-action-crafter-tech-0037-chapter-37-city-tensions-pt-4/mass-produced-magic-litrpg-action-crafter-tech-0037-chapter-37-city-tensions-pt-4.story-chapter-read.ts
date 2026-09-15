@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const massProducedMagicLitrpgActionCrafterTech0037Chapter37CityTensionsPt4 = {
+  id: "01a06731-afb2-7000-962a-9957bf94de0c",
+  type: "story-chapter-read",
+  slug: "mass-produced-magic-litrpg-action-crafter-tech-0037-chapter-37-city-tensions-pt-4",
+  title: "Chapter 37 – City Tensions – Pt 4",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
+  position: 37,
+  ownLength: 2082,
+  unit: "unit/words",
+  publishedAt: "2024-12-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1981189",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1981189/chapter-37-city-tensions-pt-4",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

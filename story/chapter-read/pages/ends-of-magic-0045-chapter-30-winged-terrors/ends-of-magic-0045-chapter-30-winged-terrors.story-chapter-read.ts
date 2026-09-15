@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const endsOfMagic0045Chapter30WingedTerrors = {
+  id: "01a06731-ade8-7000-97fd-e5b5090d6de3",
+  type: "story-chapter-read",
+  slug: "ends-of-magic-0045-chapter-30-winged-terrors",
+  title: "Chapter 30: Winged Terrors",
+  story: "story-read/ends-of-magic",
+  position: 45,
+  ownLength: 2894,
+  ownProgress: 2894,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:08:42.532Z",
+  publishedAt: "2025-11-13",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2757423",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2757423/chapter-30-winged-terrors",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

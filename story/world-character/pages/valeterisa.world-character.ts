@@ -1,0 +1,13 @@
+import type { WorldCharacter } from "akasha/story/world-character/world-character.page-type.types.ts"
+
+export const valeterisa = {
+  id: "01a06580-2495-760b-8c88-7ed4d37e1fd8",
+  type: "world-character",
+  slug: "valeterisa",
+  title: "Archmage Valeterisa",
+  world: "world/the-wandering-inn",
+  maxLevel: 54,
+  eventCount: 4,
+  firstChapter: 607,
+  lastChapter: 607,
+} as const satisfies WorldCharacter

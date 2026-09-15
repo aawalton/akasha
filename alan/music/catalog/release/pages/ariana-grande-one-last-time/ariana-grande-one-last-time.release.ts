@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const arianaGrandeOneLastTime = {
+  id: "01a0676a-d726-702b-9ad8-079dee54b0a1",
+  type: "release",
+  slug: "ariana-grande-one-last-time",
+  title: "One Last Time",
+  partOfCollections: ["artist/ariana-grande"],
+  position: 0,
+  ownLength: 9.9175,
+  ownProgress: 9.9175,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2014-08-22",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2jU2AI6nKiV3y50cnlgAkx",
+      externalLink: "https://open.spotify.com/album/2jU2AI6nKiV3y50cnlgAkx",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0543Chapter503AGift = {
+  id: "01a0672c-ec39-7000-87e3-7f2f3cdd246f",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0543-chapter-503-a-gift",
+  title: "Chapter 503: A Gift",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 543,
+  ownLength: 2467,
+  ownProgress: 2467,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:30:44.126Z",
+  publishedAt: "2026-01-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2932562",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2932562/chapter-503-a-gift",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

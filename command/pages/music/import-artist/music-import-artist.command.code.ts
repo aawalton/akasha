@@ -1,4 +1,4 @@
-import { identitiesWith } from "akasha/alan/collections/externals/modules/external-identity-reading/external-identity-reading.module.code.ts"
+import { identitiesWith } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import {
   artistIn,
   type Catalogue,
@@ -37,16 +37,16 @@ import type {
   MbRecording,
   MbWork,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   landedMechanically,
   type runMechanicalChange,
-} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { artistName as artistNameArgument } from "akasha/command/arguments/pages/artist-name.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { mbid as mbidArgument } from "akasha/command/arguments/pages/mbid.argument.ts"
-import { songLimit } from "akasha/command/arguments/pages/song-limit.argument.ts"
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { artistName as artistNameArgument } from "akasha/command/argument/pages/artist-name.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { mbid as mbidArgument } from "akasha/command/argument/pages/mbid.argument.ts"
+import { songLimit } from "akasha/command/argument/pages/song-limit.argument.ts"
 import {
   answeredWith,
   answering,
@@ -59,17 +59,17 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { musicImportArtist as page } from "akasha/command/pages/music/import-artist/music-import-artist.command.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   composedFor,
   type Put,
   sourceFor,
-} from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+} from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import {
   propertiesIfNamed,
   type Source,
-} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
+} from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { todayYYYYMMDD } from "akasha/utils/sync/modules/today/today.module.code.ts"
 
 const ARTIST = "artist"

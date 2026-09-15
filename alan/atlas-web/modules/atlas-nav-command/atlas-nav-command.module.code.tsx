@@ -1,7 +1,7 @@
 "use client"
 
 import { primaryNavItems } from "akasha/alan/atlas-web/modules/atlas-nav-items/atlas-nav-items.module.code.ts"
-import { useNavCommandBindings } from "akasha/pages/ui/components/modules/use-nav-command-bindings/use-nav-command-bindings.module.code.ts"
+import { useNavCommandBindings } from "akasha/page/ui/components/modules/use-nav-command-bindings/use-nav-command-bindings.module.code.ts"
 import { useNavigate } from "react-router"
 
 export function NavCommands() {

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const katyPerryElectric = {
+  id: "01a0676a-d71c-7063-9bcb-fc3129513637",
+  type: "release",
+  slug: "katy-perry-electric",
+  title: "Electric",
+  partOfCollections: ["artist/katy-perry"],
+  position: 0,
+  ownLength: 3.225717,
+  ownProgress: 3.225717,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-05-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2kjyPzcMPYUZlB9CJzu10f",
+      externalLink: "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f",
+    },
+  ],
+} as const satisfies Release

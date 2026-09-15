@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const seatPage = {
   id: "01a09c49-420c-7e83-819d-68f7d075e037",

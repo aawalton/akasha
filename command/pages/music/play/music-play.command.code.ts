@@ -11,12 +11,12 @@ import {
 } from "akasha/alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts"
 import { startResumePlayback } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { getTrack } from "akasha/alan/music/spotify/modules/tracks/spotify-tracks.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { artist as artistArgument } from "akasha/command/arguments/pages/artist.argument.ts"
-import { deviceId as deviceIdArgument } from "akasha/command/arguments/pages/device-id.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { query as queryArgument } from "akasha/command/arguments/pages/query.argument.ts"
-import { uri as uriArgument } from "akasha/command/arguments/pages/uri.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { artist as artistArgument } from "akasha/command/argument/pages/artist.argument.ts"
+import { deviceId as deviceIdArgument } from "akasha/command/argument/pages/device-id.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { query as queryArgument } from "akasha/command/argument/pages/query.argument.ts"
+import { uri as uriArgument } from "akasha/command/argument/pages/uri.argument.ts"
 import {
   answering,
   INPUT,

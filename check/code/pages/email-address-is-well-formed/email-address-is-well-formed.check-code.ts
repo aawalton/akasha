@@ -1,0 +1,64 @@
+import type { CodeCheck } from "akasha/check/code/check-code.page-type.types.ts"
+
+export const emailAddressIsWellFormed = {
+  id: "01a058ff-b65d-7ee3-a34f-8bb41d52b52d",
+  type: "code-check",
+  slug: "email-address-is-well-formed",
+  definition: "the check refusing a stated email address that is not well formed",
+  runsOnChange: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "Which of a page's keys have an address is read from the page types under `email-address-property`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address is written in lowercase.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address has no whitespace.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address has one `@`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The `@` divides the mailbox from the domain the address stands at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mailbox tagged after `+` is well formed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address reaching 254 characters is the longest there is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address longer than 254 characters is refused for its length alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is judged where the change has that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value stated as a list is judged address by address.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A page stating no address is not judged.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Whether the domain an address stands at is reachable is not judged here.",
+    },
+  ],
+  check: { maxCpuSeconds: 10 },
+  audit: { maxCpuSeconds: 15 },
+} as const satisfies CodeCheck

@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const mitskiBeTheCowboy = {
+  id: "01a0676a-d718-7021-98cf-acb1592fb1bb",
+  type: "release",
+  slug: "mitski-be-the-cowboy",
+  title: "Be the Cowboy",
+  partOfCollections: ["artist/mitski"],
+  position: 0,
+  ownLength: 32.577933,
+  ownProgress: 32.577933,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2018-08-17",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "42cH7mrkfljkqkxA2Ip9Xq",
+      externalLink: "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq",
+    },
+  ],
+} as const satisfies Release

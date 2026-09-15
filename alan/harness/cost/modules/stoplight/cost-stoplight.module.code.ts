@@ -1,5 +1,5 @@
 import { costColorAt } from "akasha/alan/harness/cost/modules/color/cost-color.module.code.ts"
-import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readouts/modules/credential/readout-credential.module.code.ts"
+import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
   HABIT,
   inPlaceOrder,
@@ -9,18 +9,18 @@ import {
   stilled,
   stoplightOf,
   type Values,
-} from "akasha/alan/harness/readouts/modules/group-serving/readout-group-serving.module.code.ts"
-import { stated } from "akasha/alan/harness/readouts/modules/none-left/readout-none-left.module.code.ts"
+} from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
+import { stated } from "akasha/alan/harness/readout/modules/none-left/readout-none-left.module.code.ts"
 import {
   noReading,
   type RingAdmission,
-} from "akasha/alan/harness/readouts/modules/serving/readout-serving.module.code.ts"
+} from "akasha/alan/harness/readout/modules/serving/readout-serving.module.code.ts"
 import {
   BELOW_EVERY_RUNG,
   readingSaid,
-} from "akasha/alan/harness/readouts/modules/tier/readout-tier.module.code.ts"
-import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
-import { askingFor } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const READOUT = "readout"
 

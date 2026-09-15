@@ -1,0 +1,30 @@
+import type { RelationProperty } from "akasha/page/relation-property/relation-property.page-type.types.ts"
+
+export const secrets = {
+  id: "01a081fd-c5ac-72ac-acff-a780301c30e4",
+  type: "relation-property",
+  slug: "secrets",
+  propertySlug: "secrets",
+  definition: "a secret a workload reads",
+  targetPageType: "page-type/secret",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "The secret is named by its slug rather than by the resource carrying that secret.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The resources a workload reads are the placements of the secrets named here.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A resource a workload reads under many keys is named one secret per key.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A resource a controller in the cluster writes is named by no secret here.",
+    },
+  ],
+  types: "ts",
+} as const satisfies RelationProperty

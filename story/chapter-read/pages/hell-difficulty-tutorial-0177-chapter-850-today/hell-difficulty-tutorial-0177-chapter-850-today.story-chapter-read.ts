@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0177Chapter850Today = {
+  id: "01a06731-ad93-7001-8911-9e226d1268cf",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0177-chapter-850-today",
+  title: "Chapter 850 - Today",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 177,
+  ownLength: 2565,
+  unit: "unit/words",
+  publishedAt: "2026-07-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3748196",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3748196/chapter-850-today",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

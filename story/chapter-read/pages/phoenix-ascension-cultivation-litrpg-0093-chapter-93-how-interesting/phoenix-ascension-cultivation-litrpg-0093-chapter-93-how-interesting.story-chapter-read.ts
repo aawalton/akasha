@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const phoenixAscensionCultivationLitrpg0093Chapter93HowInteresting = {
+  id: "01a06730-4df4-74aa-a1b4-b39b75c93dbe",
+  type: "story-chapter-read",
+  slug: "phoenix-ascension-cultivation-litrpg-0093-chapter-93-how-interesting",
+  title: "Chapter 93: How Interesting",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
+  position: 93,
+  ownLength: 2871,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3092782",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3092782/chapter-93-how-interesting",
+    },
+  ],
+  publishedAt: "2026-02-25",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { bodyweight } from "akasha/command/arguments/pages/bodyweight.argument.ts"
+import { bodyweight } from "akasha/command/argument/pages/bodyweight.argument.ts"
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {

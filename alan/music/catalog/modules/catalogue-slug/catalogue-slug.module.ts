@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const catalogueSlug = {
   id: "01a06262-ff4c-7001-86ff-443d16400dc0",

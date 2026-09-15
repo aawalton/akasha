@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const justAddMana0117114Book3Chapter13LibraryWoesPt5 = {
+  id: "01a06731-ae24-7000-b9f4-bf10b68ca55e",
+  type: "story-chapter-read",
+  slug: "just-add-mana-0117-114-book-3-chapter-13-library-woes-pt-5",
+  title: "114 — Book 3, Chapter 13— Library Woes, Pt 5",
+  story: "story-read/just-add-mana",
+  position: 117,
+  ownLength: 3051,
+  unit: "unit/words",
+  publishedAt: "2026-03-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3195803",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3195803/114-book-3-chapter-13--library-woes-pt-5",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

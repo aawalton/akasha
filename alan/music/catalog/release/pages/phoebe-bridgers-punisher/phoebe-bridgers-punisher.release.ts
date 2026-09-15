@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const phoebeBridgersPunisher = {
+  id: "01a0676a-d727-7033-8fd9-5783a93c9ba9",
+  type: "release",
+  slug: "phoebe-bridgers-punisher",
+  title: "Punisher",
+  partOfCollections: ["artist/phoebe-bridgers"],
+  position: 0,
+  ownLength: 40.709083,
+  ownProgress: 40.709083,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-06-18",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Pp6qGEywDdofgFC1oFbSH",
+      externalLink: "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH",
+    },
+  ],
+} as const satisfies Release

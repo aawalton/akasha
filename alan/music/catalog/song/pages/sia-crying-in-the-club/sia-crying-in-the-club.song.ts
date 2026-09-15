@@ -1,0 +1,20 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const siaCryingInTheClub = {
+  id: "019ea4c2-bda1-7eab-a463-99b2c299396a",
+  type: "song",
+  slug: "sia-crying-in-the-club",
+  title: "Crying in the Club",
+  artist: "artist/sia",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "0c64e949-b470-4304-aa18-1bda9f597cf0",
+      externalLink: "https://musicbrainz.org/work/0c64e949-b470-4304-aa18-1bda9f597cf0",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: false,
+  written: "collab",
+} as const satisfies Song

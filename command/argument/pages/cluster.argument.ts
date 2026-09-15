@@ -1,0 +1,12 @@
+import type { Argument } from "akasha/command/argument/argument.page-type.types.ts"
+
+export const cluster = {
+  id: "01a094c1-5e7b-7352-8cf7-28fbf55418ef",
+  type: "argument",
+  slug: "cluster",
+  said: "--cluster",
+  takes: "the cluster acted on",
+  value: "text",
+  placeholder: "name",
+  default: "main",
+} as const satisfies Argument

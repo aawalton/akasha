@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whyIWeightCommitmentAsIDo = {
-  id: "01a077ef-ab2d-7e7e-827e-179bef2598db",
-  type: "all-about-alan-question",
-  slug: "why-i-weight-commitment-as-i-do",
-  topic: "all-about-alan-topic/what-holds-my-marriage",
-  ask: "Why do I weight commitment as I do?",
-} as const satisfies AllAboutAlanQuestion

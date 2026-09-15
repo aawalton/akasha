@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning008888MysteriousWays = {
+  id: "01a06731-b0a5-7000-80ca-f77d724fa9f4",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0088-88-mysterious-ways",
+  title: "88. Mysterious Ways",
+  story: "story-read/mother-of-learning",
+  position: 88,
+  ownLength: 6822,
+  ownProgress: 6822,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:49:25.682Z",
+  publishedAt: "2019-01-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "325392",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/325392/88-mysterious-ways",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

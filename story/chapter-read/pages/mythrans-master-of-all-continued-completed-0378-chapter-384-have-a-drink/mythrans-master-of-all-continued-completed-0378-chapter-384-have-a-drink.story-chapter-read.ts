@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0378Chapter384HaveADrink = {
+  id: "01a0672c-ec7c-7000-ad48-cfeb59f58c38",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0378-chapter-384-have-a-drink",
+  title: "Chapter 384 - Have A Drink",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 378,
+  ownLength: 3323,
+  unit: "unit/words",
+  publishedAt: "2017-10-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "167176",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167176/chapter-384-have-a-drink",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

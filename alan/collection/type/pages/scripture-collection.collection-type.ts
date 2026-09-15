@@ -1,0 +1,10 @@
+import type { CollectionType } from "akasha/alan/collection/type/collection-type.page-type.types.ts"
+
+export const scriptureCollection = {
+  id: "01a06579-855d-7017-a844-bca1465c5748",
+  type: "collection-type",
+  slug: "scripture-collection",
+  title: "Scripture Collection",
+  unit: "unit/words",
+  collectionTypeStatus: "done",
+} as const satisfies CollectionType

@@ -1,0 +1,19 @@
+import type { Day } from "akasha/alan/track/daily/day/day.page-type.types.ts"
+import type { FunLevel } from "akasha/alan/track/daily/day/properties/fun-level.computed-property.types.ts"
+import type { Work } from "akasha/page/computed-property/computed-property.page-type.ts"
+
+const NO_RUNG = 0
+
+const RUNGS = [
+  { from: 2, rung: 4 },
+  { from: 1, rung: 3 },
+  { from: 0.5, rung: 2 },
+  { from: 0.25, rung: 1 },
+] as const
+
+export const work: Work<Day, FunLevel> = (page) => {
+  const points = page.funPoints
+  if (points === undefined) return NO_RUNG
+  for (const { from, rung } of RUNGS) if (points >= from) return rung
+  return NO_RUNG
+}

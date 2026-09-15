@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const howIBuildAnExternalGauge = {
+  id: "01a077e9-0816-7030-8513-afce5c121172",
+  type: "all-about-alan-question",
+  slug: "how-i-build-an-external-gauge",
+  topic: "all-about-alan-topic/how-i-read-myself",
+  ask: "I make the move everywhere and name the move nowhere. What is my method for building an external gauge for a state I cannot read, across proxies, an observer and check-ins?",
+} as const satisfies AllAboutAlanQuestion

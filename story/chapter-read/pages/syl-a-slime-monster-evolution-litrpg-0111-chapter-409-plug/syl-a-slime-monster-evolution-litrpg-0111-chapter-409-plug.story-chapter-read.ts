@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const sylASlimeMonsterEvolutionLitrpg0111Chapter409Plug = {
+  id: "01a06730-4e24-76ee-9041-cd8a6f4e6858",
+  type: "story-chapter-read",
+  slug: "syl-a-slime-monster-evolution-litrpg-0111-chapter-409-plug",
+  title: "Chapter 409 : Plug",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
+  position: 111,
+  ownLength: 2611,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3740300",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3740300/chapter-409-plug",
+    },
+  ],
+  publishedAt: "2026-07-29",
+  prose: "txt",
+} as const satisfies StoryChapterRead

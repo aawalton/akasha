@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const phoenixAscensionCultivationLitrpg0012Chapter12RunAwayRunAway = {
+  id: "01a06730-4de3-7557-8328-90ef1345d1ac",
+  type: "story-chapter-read",
+  slug: "phoenix-ascension-cultivation-litrpg-0012-chapter-12-run-away-run-away",
+  title: "Chapter 12: Run away, run away!",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
+  position: 12,
+  ownLength: 2610,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2540705",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2540705/chapter-12-run-away-run-away",
+    },
+  ],
+  publishedAt: "2025-08-23",
+  prose: "txt",
+} as const satisfies StoryChapterRead

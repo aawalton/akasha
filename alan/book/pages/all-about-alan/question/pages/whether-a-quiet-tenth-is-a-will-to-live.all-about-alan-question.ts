@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const whetherAQuietTenthIsAWillToLive = {
+  id: "01a077ef-20e7-771b-ba07-c274c25c6de1",
+  type: "all-about-alan-question",
+  slug: "whether-a-quiet-tenth-is-a-will-to-live",
+  topic: "all-about-alan-topic/what-has-kept-me-here",
+  ask: "A quiet tenth of me carried me. Is a will to live the right name for that tenth?",
+} as const satisfies AllAboutAlanQuestion

@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, symlinkSync } from "node:fs"
 import { linkFor, linksAt } from "akasha/agent/hook/modules/links/hook-links.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
   editsIn,
   foldedIn,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import { DATA, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   type Folded,
@@ -25,12 +25,12 @@ import { said as gitSaid } from "akasha/git/modules/running/git-running.module.c
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   AKASHA,
   rootEnvName,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing as putting } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 

@@ -1,10 +1,10 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { cursor as cursorArgument } from "akasha/command/arguments/pages/cursor.argument.ts"
-import { everyLine } from "akasha/command/arguments/pages/every-line.argument.ts"
-import { kubeNamespace } from "akasha/command/arguments/pages/kube-namespace.argument.ts"
-import { limit as limitArgument } from "akasha/command/arguments/pages/limit.argument.ts"
-import { pod as podArgument } from "akasha/command/arguments/pages/pod.argument.ts"
-import { since as sinceArgument } from "akasha/command/arguments/pages/since.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { cursor as cursorArgument } from "akasha/command/argument/pages/cursor.argument.ts"
+import { everyLine } from "akasha/command/argument/pages/every-line.argument.ts"
+import { kubeNamespace } from "akasha/command/argument/pages/kube-namespace.argument.ts"
+import { limit as limitArgument } from "akasha/command/argument/pages/limit.argument.ts"
+import { pod as podArgument } from "akasha/command/argument/pages/pod.argument.ts"
+import { since as sinceArgument } from "akasha/command/argument/pages/since.argument.ts"
 import {
   codeOf,
   refused,
@@ -17,7 +17,7 @@ import { infrastructureLoki as page } from "akasha/command/pages/infrastructure/
 import {
   chooseLogsDiagnostic,
   describeBounds,
-} from "akasha/infrastructure/services/clusters/modules/log-bound-saying/log-bound-saying.module.code.ts"
+} from "akasha/infrastructure/service/cluster/modules/log-bound-saying/log-bound-saying.module.code.ts"
 import {
   fetchAllLokiLogs,
   fetchLokiLogs,
@@ -27,7 +27,7 @@ import {
   type LogEntry,
   parseLokiDuration,
   parseLokiPositiveInt,
-} from "akasha/infrastructure/services/clusters/modules/loki-log-fetching/loki-log-fetching.module.code.ts"
+} from "akasha/infrastructure/service/cluster/modules/loki-log-fetching/loki-log-fetching.module.code.ts"
 
 export type Read =
   | {

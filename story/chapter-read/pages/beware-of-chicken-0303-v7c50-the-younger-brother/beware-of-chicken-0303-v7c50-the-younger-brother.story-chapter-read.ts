@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0303V7c50TheYoungerBrother = {
+  id: "01a06731-addd-7001-8687-eba81181aa31",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0303-v7c50-the-younger-brother",
+  title: "v7c50: The Younger Brother",
+  story: "story-read/beware-of-chicken",
+  position: 303,
+  ownLength: 2716,
+  unit: "unit/words",
+  publishedAt: "2026-04-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3311962",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3311962/v7c50-the-younger-brother",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

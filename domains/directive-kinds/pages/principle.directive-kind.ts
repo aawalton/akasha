@@ -1,8 +1,0 @@
-import type { DirectiveKind } from "akasha/domains/directive-kinds/directive-kind.page-type.types.ts"
-
-export const principle = {
-  id: "01a04e1f-cbf6-76a0-af13-340b5a10f80f",
-  type: "directive-kind",
-  slug: "principle",
-  definition: "a truth packed tight so it reaches many cases",
-} as const satisfies DirectiveKind

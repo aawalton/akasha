@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0499Chapter462SecuringTheRift = {
+  id: "01a0672c-ec22-7004-9322-80d468a36bc7",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0499-chapter-462-securing-the-rift",
+  title: "Chapter 462: Securing the Rift",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 499,
+  ownLength: 2239,
+  ownProgress: 2239,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:29:10.005Z",
+  publishedAt: "2025-12-02",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2812137",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2812137/chapter-462-securing-the-rift",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

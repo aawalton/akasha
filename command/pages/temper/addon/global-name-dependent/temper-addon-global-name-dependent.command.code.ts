@@ -1,9 +1,9 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
-import { global as globalArgument } from "akasha/command/arguments/pages/global.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
+import { global as globalArgument } from "akasha/command/argument/pages/global.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   DATA,
   refused,
@@ -12,7 +12,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperAddonGlobalNameDependent as page } from "akasha/command/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import {
   type DependentSourceFile,
   enumerateGlobalDependents,

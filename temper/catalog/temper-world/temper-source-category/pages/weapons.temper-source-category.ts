@@ -1,0 +1,10 @@
+import type { TemperSourceCategory } from "akasha/temper/catalog/temper-world/temper-source-category/temper-source-category.page-type.types.ts"
+
+export const weapons = {
+  id: "019e3104-cc02-77ac-918d-35ca3681139c",
+  type: "temper-source-category",
+  slug: "weapons",
+  title: "Weapons",
+  displayOrder: 5,
+  categoryId: "weapons",
+} as const satisfies TemperSourceCategory

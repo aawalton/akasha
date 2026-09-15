@@ -1,0 +1,14 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const nervousSystemSensitivity = {
+  id: "01a06594-c67b-700d-bbf5-f150c9523c9b",
+  type: "book-section",
+  slug: "nervous-system-sensitivity",
+  title: "Mechanism root: nervous-system sensitivity",
+  sectionOf: "alan-book/all-about-alan",
+  description:
+    "Nervous-system sensitivity — autism mechanism root. Includes the input-doubling mechanism for skin-on-skin contact.",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

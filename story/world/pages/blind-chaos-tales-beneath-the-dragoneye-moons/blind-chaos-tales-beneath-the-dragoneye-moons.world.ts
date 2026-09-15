@@ -1,0 +1,8 @@
+import type { World } from "akasha/story/world/world.page-type.types.ts"
+
+export const blindChaosTalesBeneathTheDragoneyeMoons = {
+  id: "01a063d8-61f2-737e-8718-7c2344b6df3d",
+  type: "world",
+  slug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  title: "Blind Chaos",
+} as const satisfies World

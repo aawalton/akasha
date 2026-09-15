@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0131Chapter206WhatNow = {
+  id: "01a06730-4fb7-7248-844b-ad64a04f8d92",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0131-chapter-206-what-now",
+  title: "Chapter 206: What Now?",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 131,
+  ownLength: 5241,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2284050",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2284050/chapter-206-what-now",
+    },
+  ],
+  publishedAt: "2025-05-16",
+  ownProgress: 5241,
+  completedAt: "2026-06-29T21:20:27.667Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

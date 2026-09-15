@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thereIsNoEpicLootHereOnlyPuns0168150RingingEndorsement = {
+  id: "01a06730-5344-7ec1-869d-c5ce2e997132",
+  type: "story-chapter-read",
+  slug: "there-is-no-epic-loot-here-only-puns-0168-150-ringing-endorsement",
+  title: "150: Ringing Endorsement",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
+  position: 168,
+  ownLength: 3315,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "859898",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/859898/150-ringing-endorsement",
+    },
+  ],
+  publishedAt: "2022-03-07",
+  prose: "txt",
+} as const satisfies StoryChapterRead

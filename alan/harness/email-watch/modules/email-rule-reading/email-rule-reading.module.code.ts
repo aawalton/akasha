@@ -7,8 +7,8 @@ import {
   ruleTypeSlug,
 } from "akasha/alan/harness/email-watch/modules/email-rule-set/email-rule-set.module.code.ts"
 import type { Condition } from "akasha/alan/harness/rules-engine/modules/rule-conditions/rule-conditions.module.code.ts"
-import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { z } from "zod"
 
 export type Action = "notify" | "unsubscribe"

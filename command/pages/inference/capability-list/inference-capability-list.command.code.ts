@@ -1,5 +1,5 @@
 import { wordsOf } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import {
   answering,
   refusedBy,
@@ -21,8 +21,8 @@ import {
 import {
   everyInference,
   type Inference,
-} from "akasha/infrastructure/services/inferences/modules/inference-reading/inference-reading.module.code.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+} from "akasha/infrastructure/service/inference/modules/inference-reading/inference-reading.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const MODEL_TYPE = "--model-type"
 

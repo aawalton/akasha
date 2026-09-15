@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jadaFacerSomewhereOnlyWeKnowAcoustic = {
+  id: "01a0676a-d729-705f-8d2d-887ad56ca1db",
+  type: "release",
+  slug: "jada-facer-somewhere-only-we-know-acoustic",
+  title: "Somewhere Only We Know (Acoustic)",
+  partOfCollections: ["artist/jada-facer"],
+  position: 0,
+  ownLength: 3.439183,
+  ownProgress: 3.439183,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-09-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Y2Z5Xh5En2oaVsUbCzern",
+      externalLink: "https://open.spotify.com/album/6Y2Z5Xh5En2oaVsUbCzern",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0088V4c72RelfectionsAndOneLastTask = {
+  id: "01a06731-ad85-7000-ada3-47bc8cce45bb",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0088-v4c72-relfections-and-one-last-task",
+  title: "v4c72: Relfections and One Last Task",
+  story: "story-read/beware-of-chicken",
+  position: 88,
+  ownLength: 2138,
+  ownProgress: 2138,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:54:28.246Z",
+  publishedAt: "2024-01-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1486686",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1486686/v4c72-relfections-and-one-last-task",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

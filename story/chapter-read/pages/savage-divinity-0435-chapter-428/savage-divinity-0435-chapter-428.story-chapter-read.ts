@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const savageDivinity0435Chapter428 = {
+  id: "01a06730-4ec2-7f57-a17d-86a062da719e",
+  type: "story-chapter-read",
+  slug: "savage-divinity-0435-chapter-428",
+  title: "Chapter 428",
+  story: "story-read/savage-divinity",
+  position: 435,
+  ownLength: 3100,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "339639",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/339639/chapter-428",
+    },
+  ],
+  publishedAt: "2019-03-04",
+  prose: "txt",
+} as const satisfies StoryChapterRead

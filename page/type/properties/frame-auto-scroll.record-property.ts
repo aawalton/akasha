@@ -1,0 +1,17 @@
+import type { RecordProperty } from "akasha/page/record-property/record-property.page-type.types.ts"
+
+export const frameAutoScroll = {
+  id: "01a0683a-620a-738e-922d-fa0b734ddda1",
+  type: "record-property",
+  slug: "frame-auto-scroll",
+  propertySlug: "auto-scroll",
+  definition: "where a page is carried to on its own rather than by the reader's hand",
+  properties: [{ pageProperty: "text-property/load-scroll", required: false, many: false }],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page is carried on its own only as the page opens.",
+    },
+  ],
+  types: "ts",
+} as const satisfies RecordProperty

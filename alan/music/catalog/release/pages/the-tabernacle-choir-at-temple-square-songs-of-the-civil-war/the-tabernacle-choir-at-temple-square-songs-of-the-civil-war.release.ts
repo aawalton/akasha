@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theTabernacleChoirAtTempleSquareSongsOfTheCivilWar = {
+  id: "01a0676a-d729-706c-9d6c-b9638ad6b27f",
+  type: "release",
+  slug: "the-tabernacle-choir-at-temple-square-songs-of-the-civil-war",
+  title: "Songs of the Civil War",
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
+  position: 0,
+  ownLength: 74.5301,
+  ownProgress: 74.5301,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1961-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0G7zshoBfHCYVx0GEPOh0L",
+      externalLink: "https://open.spotify.com/album/0G7zshoBfHCYVx0GEPOh0L",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

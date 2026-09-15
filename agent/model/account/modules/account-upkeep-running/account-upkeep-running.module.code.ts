@@ -10,12 +10,12 @@ import {
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "akasha/infrastructure/services/workstations/modules/tick-sleeping/tick-sleeping.module.code.ts"
+} from "akasha/infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const LOG = "[model-account-upkeep]"
 const TICK_INTERVAL_MS = UPKEEP_PERIOD_MS

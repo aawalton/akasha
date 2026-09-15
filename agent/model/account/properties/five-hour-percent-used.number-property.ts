@@ -1,4 +1,4 @@
-import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
 export const fiveHourPercentUsed = {
   id: "01a054d8-1d39-7bc9-bb38-636d44d7d1fb",

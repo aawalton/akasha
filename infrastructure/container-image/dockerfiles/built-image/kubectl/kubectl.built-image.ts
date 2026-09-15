@@ -1,0 +1,11 @@
+import type { BuiltImage } from "akasha/infrastructure/container-image/dockerfiles/built-image/built-image.page-type.types.ts"
+
+export const kubectl = {
+  id: "01a08196-9015-7321-b20c-98d923881057",
+  type: "built-image",
+  slug: "kubectl",
+  definition: "the image with kubectl",
+  kind: "tool-image",
+  folder: "infrastructure/container-image/dockerfiles",
+  extensions: "json",
+} as const satisfies BuiltImage

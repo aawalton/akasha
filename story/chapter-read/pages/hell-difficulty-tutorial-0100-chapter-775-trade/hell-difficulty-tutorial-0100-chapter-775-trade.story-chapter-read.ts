@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0100Chapter775Trade = {
+  id: "01a06731-ad82-700b-b83b-bd58dcf07e64",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0100-chapter-775-trade",
+  title: "Chapter 775 - Trade",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 100,
+  ownLength: 2252,
+  unit: "unit/words",
+  publishedAt: "2026-03-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3170879",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3170879/chapter-775-trade",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

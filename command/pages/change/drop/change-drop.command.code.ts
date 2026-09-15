@@ -1,5 +1,5 @@
-import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   DROP_WORDS,
@@ -10,7 +10,7 @@ import {
 import { inputIn } from "akasha/command/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { changeDrop as page } from "akasha/command/pages/change/drop/change-drop.command.ts"
-import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 
 const PIPED = "a drop takes the paths it drops piped in, and nothing on the command line"
 

@@ -3,8 +3,8 @@ import {
   editsAt,
   editsIn,
   foldedIn,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -33,7 +33,7 @@ import { changeShow as page } from "akasha/command/pages/change/show/change-show
 import {
   agentPathOf,
   bytesAt,
-} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+} from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 
 const AT = "at"
 

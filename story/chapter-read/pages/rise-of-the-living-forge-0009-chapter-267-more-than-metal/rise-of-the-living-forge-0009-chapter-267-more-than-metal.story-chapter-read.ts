@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0009Chapter267MoreThanMetal = {
+  id: "01a06730-4e07-7ecf-b668-cad8ab44c648",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0009-chapter-267-more-than-metal",
+  title: "Chapter 267: More than metal",
+  story: "story-read/rise-of-the-living-forge",
+  position: 9,
+  ownLength: 1876,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1786683",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1786683/chapter-267-more-than-metal",
+    },
+  ],
+  publishedAt: "2024-09-03",
+  ownProgress: 1876,
+  completedAt: "2026-06-29T19:58:44.810Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

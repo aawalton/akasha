@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const personaChannels = {
   id: "01a0a026-66e5-7676-b4cd-dedec3726a54",

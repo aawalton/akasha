@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning002222Complications = {
+  id: "01a06731-b042-7000-a783-b9614485ba22",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0022-22-complications",
+  title: "22. Complications",
+  story: "story-read/mother-of-learning",
+  position: 22,
+  ownLength: 8377,
+  ownProgress: 8377,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:44:31.080Z",
+  publishedAt: "2018-11-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "305877",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/305877/22-complications",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

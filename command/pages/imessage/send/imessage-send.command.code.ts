@@ -15,12 +15,12 @@ import {
 } from "akasha/alan/harness/imessage/modules/send/imessage-send.module.code.ts"
 import { streamSshLines } from "akasha/alan/harness/ssh-access/modules/ssh-reach/ssh-reach.module.code.ts"
 import type { SshTarget } from "akasha/alan/harness/ssh-access/modules/ssh-target/ssh-target.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { image as imageArgument } from "akasha/command/arguments/pages/image.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { text as textArgument } from "akasha/command/arguments/pages/text.argument.ts"
-import { textFile } from "akasha/command/arguments/pages/text-file.argument.ts"
-import { toHandle } from "akasha/command/arguments/pages/to-handle.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { image as imageArgument } from "akasha/command/argument/pages/image.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { text as textArgument } from "akasha/command/argument/pages/text.argument.ts"
+import { textFile } from "akasha/command/argument/pages/text-file.argument.ts"
+import { toHandle } from "akasha/command/argument/pages/to-handle.argument.ts"
 import {
   answering,
   asJson,

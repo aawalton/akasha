@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0380ChapterThreeHundredAndSixtyNinePassingThe = {
+  id: "01a0672c-eb1e-7007-a5c7-39f9fa79e4b6",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0380-chapter-three-hundred-and-sixty-nine-passing-the",
+  title: "Chapter Three Hundred and Sixty-Nine - Passing the Torch",
+  story: "story-read/cinnamon-bun",
+  position: 380,
+  ownLength: 2059,
+  unit: "unit/words",
+  publishedAt: "2022-12-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1068233",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1068233/chapter-three-hundred-and-sixty-nine-passing-the",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

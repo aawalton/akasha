@@ -47,7 +47,7 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { readStdinOrFile } from "akasha/utils/fs/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 
 export interface StartSeatInput {

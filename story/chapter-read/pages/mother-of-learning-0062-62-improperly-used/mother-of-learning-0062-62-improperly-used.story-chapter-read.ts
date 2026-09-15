@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning006262ImproperlyUsed = {
+  id: "01a06731-b07f-7000-8474-5b628d1762a7",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0062-62-improperly-used",
+  title: "62. Improperly Used",
+  story: "story-read/mother-of-learning",
+  position: 62,
+  ownLength: 7943,
+  ownProgress: 7943,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:46:06.034Z",
+  publishedAt: "2018-12-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "317781",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/317781/62-improperly-used",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

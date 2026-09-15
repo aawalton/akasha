@@ -1,4 +1,4 @@
-import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.types.ts"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifest/manifest.page-type.types.ts"
 
 export const clusterReachSynth = {
   id: "01a091dd-3f89-71f8-8712-76e7c7de9a53",

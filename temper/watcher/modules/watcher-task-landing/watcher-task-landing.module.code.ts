@@ -14,7 +14,7 @@ import {
   writingFor,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 
-const FOLDER = "temper/progressions/temper-tasks/pages"
+const FOLDER = "temper/progress/temper-task/pages"
 
 export const TASK_PAGE_TYPE_SLUG = "temper-task"
 

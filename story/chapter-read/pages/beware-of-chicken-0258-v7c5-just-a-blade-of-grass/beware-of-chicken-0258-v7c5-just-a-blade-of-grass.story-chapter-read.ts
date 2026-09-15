@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0258V7c5JustABladeOfGrass = {
+  id: "01a06731-adc9-7001-9516-afaadb26e874",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0258-v7c5-just-a-blade-of-grass",
+  title: "v7c5: Just a Blade of Grass",
+  story: "story-read/beware-of-chicken",
+  position: 258,
+  ownLength: 1907,
+  ownProgress: 1907,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:00:15.590Z",
+  publishedAt: "2025-11-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2799146",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2799146/v7c5-just-a-blade-of-grass",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

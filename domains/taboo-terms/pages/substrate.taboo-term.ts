@@ -1,9 +1,0 @@
-import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.types.ts"
-
-export const substrate = {
-  id: "01a0593e-da3e-74e4-82a0-944a3ab38b57",
-  type: "taboo-term",
-  slug: "substrate",
-  pattern: "\\bsubstrate\\b",
-  tabooSenses: [{ sense: "the model's own default pull", instead: "the model" }],
-} as const satisfies TabooTerm

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jadaFacerHeavenIsAPlaceOnEarth = {
+  id: "01a0676a-d720-7020-ae75-bdd65bc2437e",
+  type: "release",
+  slug: "jada-facer-heaven-is-a-place-on-earth",
+  title: "Heaven Is A Place On Earth",
+  partOfCollections: ["artist/jada-facer"],
+  position: 0,
+  ownLength: 2.952183,
+  ownProgress: 2.952183,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-07-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6x3l6U2wUnquxNSwgQssxe",
+      externalLink: "https://open.spotify.com/album/6x3l6U2wUnquxNSwgQssxe",
+    },
+  ],
+} as const satisfies Release

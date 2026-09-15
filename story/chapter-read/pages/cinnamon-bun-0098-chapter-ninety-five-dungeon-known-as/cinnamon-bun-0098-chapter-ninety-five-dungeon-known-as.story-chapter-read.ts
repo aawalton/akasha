@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0098ChapterNinetyFiveDungeonKnownAs = {
+  id: "01a0672c-eb08-7006-be04-1d75c70f0849",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0098-chapter-ninety-five-dungeon-known-as",
+  title: "Chapter Ninety-Five - Dungeon Known As...",
+  story: "story-read/cinnamon-bun",
+  position: 98,
+  ownLength: 1988,
+  unit: "unit/words",
+  publishedAt: "2020-09-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "556502",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/556502/chapter-ninety-five-dungeon-known-as",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

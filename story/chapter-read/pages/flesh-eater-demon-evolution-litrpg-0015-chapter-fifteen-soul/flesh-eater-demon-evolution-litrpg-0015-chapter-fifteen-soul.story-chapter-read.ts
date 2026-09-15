@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const fleshEaterDemonEvolutionLitrpg0015ChapterFifteenSoul = {
+  id: "01a06731-af3f-7000-b56b-c408b80639fd",
+  type: "story-chapter-read",
+  slug: "flesh-eater-demon-evolution-litrpg-0015-chapter-fifteen-soul",
+  title: "Chapter Fifteen: Soul",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
+  position: 15,
+  ownLength: 3025,
+  unit: "unit/words",
+  publishedAt: "2025-09-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2577823",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2577823/chapter-fifteen-soul",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

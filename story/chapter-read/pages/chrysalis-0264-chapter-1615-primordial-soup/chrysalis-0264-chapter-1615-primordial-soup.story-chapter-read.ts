@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0264Chapter1615PrimordialSoup = {
+  id: "01a0672c-eb64-7009-89bd-5dfb592edcee",
+  type: "story-chapter-read",
+  slug: "chrysalis-0264-chapter-1615-primordial-soup",
+  title: "Chapter 1615 - Primordial Soup",
+  story: "story-read/chrysalis",
+  position: 264,
+  ownLength: 1233,
+  ownProgress: 1233,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:52:15.772Z",
+  publishedAt: "2025-08-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2490062",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2490062/chapter-1615-primordial-soup",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

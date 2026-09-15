@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theWanderingInn0407InterludeBurningAlcohol = {
+  id: "01a0659d-4ce8-7178-938b-c98e4ebf7c1d",
+  type: "story-chapter-read",
+  slug: "the-wandering-inn-0407-interlude-burning-alcohol",
+  title: "Interlude - Burning Alcohol",
+  story: "story-read/the-wandering-inn",
+  position: 407,
+  ownLength: 18474,
+  ownProgress: 18474,
+  unit: "unit/words",
+  publishedAt: "2020-03-08",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/03/08/interlude-burning-alcohol/",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

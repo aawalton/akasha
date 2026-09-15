@@ -15,11 +15,11 @@ import {
   EXIT,
   OperationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type {
   Asking,
   Landing,
-} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
@@ -34,10 +34,10 @@ import { said as gitIn } from "akasha/git/modules/running/git-running.module.cod
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
-import { refreshedIn } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
-import { declaringUnder } from "akasha/testing-system/test-fixtures/declaring/declaring.test-fixture.code.ts"
+} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { refreshedIn } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import {
   bodyAt,

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0331V7v78QueenBee = {
+  id: "01a06731-adec-7003-8eef-c36736efa00a",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0331-v7v78-queen-bee",
+  title: "v7v78: Queen Bee",
+  story: "story-read/beware-of-chicken",
+  position: 331,
+  ownLength: 2153,
+  unit: "unit/words",
+  publishedAt: "2026-07-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3664584",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3664584/v7v78-queen-bee",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

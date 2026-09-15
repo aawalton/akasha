@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const lilithMaxBearsWolves = {
+  id: "01a0676a-d718-7024-8315-d22a60eb897f",
+  type: "release",
+  slug: "lilith-max-bears-wolves",
+  title: "Bears & Wolves",
+  partOfCollections: ["artist/lilith-max"],
+  position: 0,
+  ownLength: 3.313167,
+  ownProgress: 3.313167,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "A",
+  publishedAt: "2024-11-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2pQqwJbB4bS6kJN1Cw4dlK",
+      externalLink: "https://open.spotify.com/album/2pQqwJbB4bS6kJN1Cw4dlK",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const labyrinthOfTheMadGod0330Chapter49RainyDay = {
+  id: "01a06731-ad8d-7001-9476-0c0929a15d3a",
+  type: "story-chapter-read",
+  slug: "labyrinth-of-the-mad-god-0330-chapter-49-rainy-day",
+  title: "Chapter 49: Rainy Day",
+  story: "story-read/labyrinth-of-the-mad-god",
+  position: 330,
+  ownLength: 1747,
+  unit: "unit/words",
+  publishedAt: "2026-07-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3721071",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3721071/chapter-49-rainy-day",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

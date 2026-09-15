@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0289V7c36SowTheSeeds = {
+  id: "01a06731-add9-7004-8946-d7e78f4eaf88",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0289-v7c36-sow-the-seeds",
+  title: "v7c36: Sow the Seeds",
+  story: "story-read/beware-of-chicken",
+  position: 289,
+  ownLength: 2341,
+  unit: "unit/words",
+  publishedAt: "2026-03-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3128685",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3128685/v7c36-sow-the-seeds",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

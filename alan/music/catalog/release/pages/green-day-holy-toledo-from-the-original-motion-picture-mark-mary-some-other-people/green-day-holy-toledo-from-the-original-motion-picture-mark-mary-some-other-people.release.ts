@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const greenDayHolyToledoFromTheOriginalMotionPictureMarkMarySomeOtherPeople = {
+  id: "01a0676a-d720-704f-8278-094aec2f4a8c",
+  type: "release",
+  slug: "green-day-holy-toledo-from-the-original-motion-picture-mark-mary-some-other-people",
+  title: "Holy Toledo! (from the Original Motion Picture “Mark, Mary & Some Other People”)",
+  partOfCollections: ["artist/green-day"],
+  position: 0,
+  ownLength: 3.158667,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  rank: "C",
+  publishedAt: "2021-11-05",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1kDwdipqS6e3qy6WSj0WI0",
+      externalLink: "https://open.spotify.com/album/1kDwdipqS6e3qy6WSj0WI0",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

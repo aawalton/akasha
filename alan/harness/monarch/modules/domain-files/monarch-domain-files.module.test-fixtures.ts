@@ -1,1 +1,1 @@
-export const TYPES_AT = "akasha/alan/harness/monarch/accounts/monarch-account.page-type.types.ts"
+export const TYPES_AT = "akasha/alan/harness/monarch/account/monarch-account.page-type.types.ts"

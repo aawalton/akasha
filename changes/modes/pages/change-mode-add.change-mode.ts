@@ -1,8 +1,0 @@
-import type { ChangeMode } from "akasha/changes/modes/change-mode.page-type.types.ts"
-
-export const changeModeAdd = {
-  id: "01a07c24-3e2b-7d33-ab6b-a6c0b37887a2",
-  type: "change-mode",
-  slug: "change-mode-add",
-  definition: "something not there before is put there",
-} as const satisfies ChangeMode

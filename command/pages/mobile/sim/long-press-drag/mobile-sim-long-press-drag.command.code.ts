@@ -2,14 +2,14 @@ import type { LongPressDragSpec } from "akasha/alan/harness/mobile-cli/modules/a
 import { longPressDrag } from "akasha/alan/harness/mobile-cli/modules/appium-client/appium-client.module.code.ts"
 import { driving } from "akasha/alan/harness/mobile-cli/modules/sim-driver/sim-driver.module.code.ts"
 import type { SimSessionState } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { dragSteps } from "akasha/command/arguments/pages/drag-steps.argument.ts"
-import { holdMs } from "akasha/command/arguments/pages/hold-ms.argument.ts"
-import { stepMs } from "akasha/command/arguments/pages/step-ms.argument.ts"
-import { toX } from "akasha/command/arguments/pages/to-x.argument.ts"
-import { toY } from "akasha/command/arguments/pages/to-y.argument.ts"
-import { x } from "akasha/command/arguments/pages/x.argument.ts"
-import { y } from "akasha/command/arguments/pages/y.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { dragSteps } from "akasha/command/argument/pages/drag-steps.argument.ts"
+import { holdMs } from "akasha/command/argument/pages/hold-ms.argument.ts"
+import { stepMs } from "akasha/command/argument/pages/step-ms.argument.ts"
+import { toX } from "akasha/command/argument/pages/to-x.argument.ts"
+import { toY } from "akasha/command/argument/pages/to-y.argument.ts"
+import { x } from "akasha/command/argument/pages/x.argument.ts"
+import { y } from "akasha/command/argument/pages/y.argument.ts"
 import {
   answering,
   refusedBy,

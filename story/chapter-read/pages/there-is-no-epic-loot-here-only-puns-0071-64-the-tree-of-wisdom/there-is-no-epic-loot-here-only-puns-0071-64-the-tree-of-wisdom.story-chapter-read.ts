@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thereIsNoEpicLootHereOnlyPuns007164TheTreeOfWisdom = {
+  id: "01a06730-5031-7c1e-930f-2b285cc70202",
+  type: "story-chapter-read",
+  slug: "there-is-no-epic-loot-here-only-puns-0071-64-the-tree-of-wisdom",
+  title: "64: The Tree of 'Wisdom'",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
+  position: 71,
+  ownLength: 4554,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "236827",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/236827/64-the-tree-of-wisdom",
+    },
+  ],
+  publishedAt: "2018-07-22",
+  prose: "txt",
+} as const satisfies StoryChapterRead

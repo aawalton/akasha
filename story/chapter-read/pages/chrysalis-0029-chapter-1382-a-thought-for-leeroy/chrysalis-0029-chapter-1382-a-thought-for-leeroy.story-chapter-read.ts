@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0029Chapter1382AThoughtForLeeroy = {
+  id: "01a0672c-eb5b-7003-82d1-b9e0acb640ed",
+  type: "story-chapter-read",
+  slug: "chrysalis-0029-chapter-1382-a-thought-for-leeroy",
+  title: "Chapter 1382 - A Thought For Leeroy?",
+  story: "story-read/chrysalis",
+  position: 29,
+  ownLength: 1037,
+  ownProgress: 1037,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:44:34.779Z",
+  publishedAt: "2024-07-31",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1738740",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1738740/chapter-1382-a-thought-for-leeroy",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

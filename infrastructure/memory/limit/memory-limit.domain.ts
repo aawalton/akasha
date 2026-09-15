@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const memoryLimit = {
   id: "01a09115-8c65-76a6-bdc1-cfddcc4acd88",

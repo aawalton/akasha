@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const pentatonixBeMyEyes = {
+  id: "01a0676a-d718-701e-8b36-583a282b4fe7",
+  type: "release",
+  slug: "pentatonix-be-my-eyes",
+  title: "Be My Eyes",
+  partOfCollections: ["artist/pentatonix"],
+  position: 0,
+  ownLength: 3.404433,
+  ownProgress: 3.404433,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-10-14",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6Sa0akcBToQpENN4FY6SzQ",
+      externalLink: "https://open.spotify.com/album/6Sa0akcBToQpENN4FY6SzQ",
+    },
+  ],
+} as const satisfies Release

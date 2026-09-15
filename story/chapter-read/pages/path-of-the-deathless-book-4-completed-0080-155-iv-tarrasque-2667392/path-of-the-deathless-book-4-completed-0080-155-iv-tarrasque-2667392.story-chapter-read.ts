@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0080155IvTarrasque2667392 = {
+  id: "01a06730-4df2-7e47-b0d9-fa891a342a39",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0080-155-iv-tarrasque-2667392",
+  title: "155 (IV) Tarrasque",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 80,
+  ownLength: 4244,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2667392",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2667392/155-iv-tarrasque",
+    },
+  ],
+  publishedAt: "2025-10-11",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash0223223MickiesHut = {
+  id: "01a06731-adf4-7009-9f14-abac5f27da65",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0223-223-mickies-hut",
+  title: "223. Mickie's Hut",
+  story: "story-read/god-of-trash",
+  position: 223,
+  ownLength: 2183,
+  unit: "unit/words",
+  publishedAt: "2025-10-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2710288",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2710288/223-mickies-hut",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

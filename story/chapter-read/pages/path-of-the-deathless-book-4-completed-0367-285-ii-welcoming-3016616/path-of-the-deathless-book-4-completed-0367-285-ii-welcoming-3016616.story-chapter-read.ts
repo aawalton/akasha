@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0367285IiWelcoming3016616 = {
+  id: "01a06730-4e62-79d9-b6d3-3f8ae074e85b",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0367-285-ii-welcoming-3016616",
+  title: "285 (II) Welcoming",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 367,
+  ownLength: 3254,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3016616",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3016616/285-ii-welcoming",
+    },
+  ],
+  publishedAt: "2026-02-05",
+  prose: "txt",
+} as const satisfies StoryChapterRead

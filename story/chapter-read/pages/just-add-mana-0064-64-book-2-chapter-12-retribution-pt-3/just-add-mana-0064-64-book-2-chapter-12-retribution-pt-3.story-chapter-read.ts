@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const justAddMana006464Book2Chapter12RetributionPt3 = {
+  id: "01a06731-ade3-7000-8686-f5020426ce0d",
+  type: "story-chapter-read",
+  slug: "just-add-mana-0064-64-book-2-chapter-12-retribution-pt-3",
+  title: "64 — Book 2, Chapter 12 — Retribution, Pt 3",
+  story: "story-read/just-add-mana",
+  position: 64,
+  ownLength: 2654,
+  ownProgress: 2654,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:49:48.205Z",
+  publishedAt: "2025-11-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2783574",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/2783574/64-book-2-chapter-12-retribution-pt-3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

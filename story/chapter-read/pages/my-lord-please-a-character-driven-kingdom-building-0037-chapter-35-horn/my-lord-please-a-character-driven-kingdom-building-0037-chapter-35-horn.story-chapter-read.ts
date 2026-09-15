@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const myLordPleaseACharacterDrivenKingdomBuilding0037Chapter35Horn = {
+  id: "01a06591-3f74-744f-a7c6-438497f2e125",
+  type: "story-chapter-read",
+  slug: "my-lord-please-a-character-driven-kingdom-building-0037-chapter-35-horn",
+  title: "Chapter 35 Horn",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
+  position: 37,
+  ownLength: 2623,
+  unit: "unit/words",
+  publishedAt: "2026-04-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3293579",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3293579/chapter-35-horn",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

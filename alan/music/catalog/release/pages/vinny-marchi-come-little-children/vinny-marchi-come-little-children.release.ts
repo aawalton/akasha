@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const vinnyMarchiComeLittleChildren = {
+  id: "01a0676a-d71b-7018-8757-5eb37e3771c1",
+  type: "release",
+  slug: "vinny-marchi-come-little-children",
+  title: "Come Little Children",
+  partOfCollections: ["artist/vinny-marchi"],
+  position: 0,
+  ownLength: 2.57475,
+  ownProgress: 2.57475,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2022-09-18",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0wBnUeyPiCNNKRUg5MTtWb",
+      externalLink: "https://open.spotify.com/album/0wBnUeyPiCNNKRUg5MTtWb",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
+} as const satisfies Release

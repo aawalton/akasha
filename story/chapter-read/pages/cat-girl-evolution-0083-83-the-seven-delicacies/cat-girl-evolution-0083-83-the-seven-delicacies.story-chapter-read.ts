@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const catGirlEvolution008383TheSevenDelicacies = {
+  id: "01a06731-b008-7000-81fe-cdcf1b14011a",
+  type: "story-chapter-read",
+  slug: "cat-girl-evolution-0083-83-the-seven-delicacies",
+  title: "83 - The Seven Delicacies",
+  story: "story-read/cat-girl-evolution",
+  position: 83,
+  ownLength: 2331,
+  unit: "unit/words",
+  publishedAt: "2026-02-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3000872",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3000872/83-the-seven-delicacies",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

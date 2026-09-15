@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const metaworldHopecore0047Chapter25NotReadyToMakeNice = {
+  id: "01a06731-aee0-7004-8512-b55b989e8169",
+  type: "story-chapter-read",
+  slug: "metaworld-hopecore-0047-chapter-25-not-ready-to-make-nice",
+  title: "Chapter 25 - Not Ready to Make Nice",
+  story: "story-read/metaworld-hopecore",
+  position: 47,
+  ownLength: 2028,
+  unit: "unit/words",
+  publishedAt: "2026-05-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3372849",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3372849/chapter-25-not-ready-to-make-nice",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

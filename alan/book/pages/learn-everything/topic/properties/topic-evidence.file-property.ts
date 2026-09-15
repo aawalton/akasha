@@ -1,0 +1,11 @@
+import type { FileProperty } from "akasha/page/file-property/file-property.page-type.types.ts"
+
+export const topicEvidence = {
+  id: "01a0659f-93da-700d-ae61-1d400bcdb7ff",
+  type: "file-property",
+  slug: "topic-evidence",
+  propertySlug: "topic-evidence",
+  definition: "the probes of a topic Alan cleared and the ones he did not",
+  extensions: ["md"],
+  types: "ts",
+} as const satisfies FileProperty

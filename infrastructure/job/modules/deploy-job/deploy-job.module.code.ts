@@ -1,5 +1,5 @@
 import { HOLD } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
-import { ref } from "akasha/command/arguments/pages/ref.argument.ts"
+import { ref } from "akasha/command/argument/pages/ref.argument.ts"
 import { deploy } from "akasha/command/pages/deploy/deploy.command.ts"
 import {
   type ApiObjectManifest,
@@ -10,13 +10,13 @@ import {
   ORCHESTRATOR_CACHE_MOUNT_PATH,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-types/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { ci } from "akasha/infrastructure/container-image/dockerfiles/built-images/ci/ci.built-image.ts"
+import { ci } from "akasha/infrastructure/container-image/dockerfiles/built-image/ci/ci.built-image.ts"
 import { refFor } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { deployAccount } from "akasha/infrastructure/job/deploy-account/deploy-account.manifest.ts"
 import { dispatcherIn } from "akasha/infrastructure/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"
-import { fileOf } from "akasha/pages/index/modules/property-file/property-file.module.code.ts"
-import { valuedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
+import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
+import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 
 export const JOB_NAMESPACE = "workers"
 

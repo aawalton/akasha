@@ -1,0 +1,13 @@
+import type { WorldCharacter } from "akasha/story/world-character/world-character.page-type.types.ts"
+
+export const mrsha = {
+  id: "01a06580-2495-70df-86a4-4492ec2e0a03",
+  type: "world-character",
+  slug: "mrsha",
+  title: "Mrsha",
+  world: "world/the-wandering-inn",
+  maxLevel: 70,
+  eventCount: 49,
+  firstChapter: 246,
+  lastChapter: 763,
+} as const satisfies WorldCharacter

@@ -1,0 +1,29 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const temperTributePatron = {
+  id: "01a06153-0ea9-7008-ab66-7b7e073ebf51",
+  type: "page-type",
+  slug: "temper-tribute-patron",
+  definition: "a patron a Tales of Tribute deck is built around",
+  extends: ["page-type/temper-pursuit-thing"],
+  parts: [
+    "number-property/card-index",
+    "number-property/eso-patron-id",
+    "page-property-entry/cards",
+    "text-property/base-card-name",
+    "text-property/upgrade-card-name",
+  ],
+  properties: [
+    { pageProperty: "text-property/category", required: true, many: false },
+    { pageProperty: "number-property/eso-patron-id", required: true, many: false },
+    { pageProperty: "number-property/eso-collectible-id", required: true, many: false },
+    { pageProperty: "page-property-entry/cards", required: true, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A patron is reached by the collectible the game grants when the patron is won.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

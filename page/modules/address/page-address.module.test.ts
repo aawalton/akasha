@@ -1,0 +1,123 @@
+import { expect, test } from "bun:test"
+import type { Address } from "akasha/page/modules/address/page-address.module.code.ts"
+import {
+  addressedIn,
+  addressIn,
+  namedAs,
+  slugIn,
+} from "akasha/page/modules/address/page-address.module.code.ts"
+import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
+
+const ID = "01a04b14-4355-7352-9c98-ad67e309f5f6"
+
+function qualified(one: Address): readonly [string, string] {
+  if (one.kind !== "qualified") throw new Error(`expected a qualified address, got ${one.kind}`)
+  return [one.pageTypeSlug, one.slug]
+}
+
+test("a uuid names a page by identity", () => {
+  const one = addressIn(ID)
+  expect(one.kind).toBe("id")
+  if (one.kind === "id") expect(one.id).toBe(ID)
+})
+
+test("a page type and a slug are cut at the first slash", () => {
+  expect(qualified(addressIn("page-type/domain"))).toEqual(["page-type", "domain"])
+})
+
+test("a third part names the collection a slug is unique within", () => {
+  const one = addressIn("book-section/all-about-alan/notes")
+  expect(one.kind).toBe("scoped")
+  if (one.kind !== "scoped") return
+  expect(one.pageTypeSlug).toBe("book-section")
+  expect(one.scope).toBe("all-about-alan")
+  expect(one.slug).toBe("notes")
+})
+
+test("a fourth part is no address, so the slug it would leave carries a slash", () => {
+  const one = addressIn("a/b/c/d")
+  expect(one.kind).toBe("scoped")
+  if (one.kind !== "scoped") return
+  expect(one.scope).toBe("b")
+  expect(one.slug).toBe("c/d")
+})
+
+test("a slug alone is bare, so what narrows it is the relation rather than the value", () => {
+  const one = addressIn("landing")
+  expect(one.kind).toBe("bare")
+  if (one.kind === "bare") expect(one.slug).toBe("landing")
+})
+
+test("a uuid under a page type is read as qualified, so the slash decides before the shape", () => {
+  expect(qualified(addressIn(`page/${ID}`))).toEqual(["page", ID])
+})
+
+test("a uuid in capitals is no id, so one spelling of identity reaches the store", () => {
+  expect(addressIn(ID.toUpperCase()).kind).toBe("bare")
+})
+
+test("a value that is nearly a uuid is not one", () => {
+  expect(addressIn(ID.slice(0, -1)).kind).toBe("bare")
+  expect(addressIn(`${ID}f`).kind).toBe("bare")
+})
+
+test("an empty value is a bare slug rather than a form of its own", () => {
+  expect(addressIn("").kind).toBe("bare")
+})
+
+test("a leading slash names an empty page type rather than no page type", () => {
+  expect(qualified(addressIn("/dup"))).toEqual(["", "dup"])
+})
+
+test("a slug is taken off a qualified address and an id answers nothing", () => {
+  expect(slugIn("page-type/page")).toBe("page")
+  expect(slugIn("page")).toBe("page")
+  expect(slugIn("book-section/all-about-alan/notes")).toBe("notes")
+  expect(slugIn("01a04e92-bfba-7ca8-b12b-37b6a6a4c408")).toBe(null)
+})
+
+test("what an id is judged by is the lower uuid format's own shape", () => {
+  expect(lowerUuid(ID)).toBe(true)
+  expect(addressIn(ID).kind).toBe("id")
+  expect(lowerUuid(ID.toUpperCase())).toBe(false)
+  expect(addressIn(ID.toUpperCase()).kind).toBe("bare")
+})
+
+test("a uuid becomes an address naming a page by the id it keeps", () => {
+  expect(addressedIn(ID)).toEqual({ id: ID })
+})
+
+test("a page type and a slug become an address read by the slug property", () => {
+  expect(addressedIn("page-type/domain")).toEqual({
+    pageTypeSlug: "page-type",
+    propertySlug: "slug",
+    value: "domain",
+  })
+})
+
+test("a slug alone is refused rather than reaching whatever the caller had in mind", () => {
+  expect("refused" in addressedIn("landing")).toBe(true)
+})
+
+test("a parent named by a slug alone is refused, that slug naming pages of two types", () => {
+  expect("refused" in addressedIn("book-section/all-about-alan/notes")).toBe(true)
+})
+
+test("a page type and a slug are named with a slash between them", () => {
+  expect(namedAs("page-type", "domain", null)).toBe("page-type/domain")
+})
+
+test("a scope is named between the page type and the slug", () => {
+  expect(namedAs("book-section", "notes", "all-about-alan")).toBe(
+    "book-section/all-about-alan/notes"
+  )
+})
+
+test("what is named reads back as the address it was named from", () => {
+  expect(addressIn(namedAs("book-section", "notes", "all-about-alan"))).toEqual({
+    kind: "scoped",
+    pageTypeSlug: "book-section",
+    scope: "all-about-alan",
+    slug: "notes",
+  })
+})

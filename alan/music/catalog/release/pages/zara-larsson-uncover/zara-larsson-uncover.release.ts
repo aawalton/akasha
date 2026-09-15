@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const zaraLarssonUncover = {
+  id: "01a0676a-d72f-7031-b5de-b97eab3f250d",
+  type: "release",
+  slug: "zara-larsson-uncover",
+  title: "Uncover",
+  partOfCollections: ["artist/zara-larsson"],
+  position: 0,
+  ownLength: 24.0787,
+  ownProgress: 24.0787,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2012-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0vXJ3rh6Sy7KWjp2P5d7ll",
+      externalLink: "https://open.spotify.com/album/0vXJ3rh6Sy7KWjp2P5d7ll",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
+} as const satisfies Release

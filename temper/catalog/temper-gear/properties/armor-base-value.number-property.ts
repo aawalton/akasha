@@ -1,4 +1,4 @@
-import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
 export const armorBaseValue = {
   id: "01a05fd1-d435-7668-b188-cb30d1aa4efe",

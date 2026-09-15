@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
 import type { RsvpStatus } from "akasha/alan/google/calendar/modules/calendar-event-shapes/calendar-event-shapes.module.code.ts"
 import { SEND_UPDATES } from "akasha/alan/google/calendar/modules/send-updates-narrowing/send-updates-narrowing.module.code.ts"
-import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
-import { calendar } from "akasha/command/arguments/pages/calendar.argument.ts"
-import { event } from "akasha/command/arguments/pages/event.argument.ts"
-import { sendUpdates } from "akasha/command/arguments/pages/send-updates.argument.ts"
-import { status } from "akasha/command/arguments/pages/status.argument.ts"
+import type { Argument } from "akasha/command/argument/argument.page-type.types.ts"
+import { calendar } from "akasha/command/argument/pages/calendar.argument.ts"
+import { event } from "akasha/command/argument/pages/event.argument.ts"
+import { sendUpdates } from "akasha/command/argument/pages/send-updates.argument.ts"
+import { status } from "akasha/command/argument/pages/status.argument.ts"
 import {
   SENDING,
   STATUS,

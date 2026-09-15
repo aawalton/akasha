@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHenderson21ReasonsFeatEllaHendersonAlleFarbenRemix = {
+  id: "01a0676a-d714-7029-8538-dfcb90fddcd9",
+  type: "release",
+  slug: "ella-henderson-21-reasons-feat-ella-henderson-alle-farben-remix",
+  title: "21 Reasons (feat. Ella Henderson) [Alle Farben Remix]",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 5.497333,
+  ownProgress: 5.497333,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-07-22",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6N5kDEZ0GeHb4E9adH1Q9x",
+      externalLink: "https://open.spotify.com/album/6N5kDEZ0GeHb4E9adH1Q9x",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

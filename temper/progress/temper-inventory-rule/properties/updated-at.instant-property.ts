@@ -1,0 +1,22 @@
+import type { InstantProperty } from "akasha/page/instant-property/instant-property.page-type.types.ts"
+
+export const updatedAt = {
+  id: "01a07293-b84f-74d7-90cc-6208d5fc468f",
+  type: "instant-property",
+  slug: "updated-at",
+  propertySlug: "updated-at",
+  definition: "when a rule was last changed by the player who holds it",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "The game is told when a rule changed so the game knows which rules the game has already seen.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "This instant is the moment the player changed the rule rather than the moment the rule landed.",
+    },
+  ],
+  types: "ts",
+} as const satisfies InstantProperty

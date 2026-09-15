@@ -1,0 +1,11 @@
+import type { TemperRotationBreakdownRow } from "akasha/temper/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.types.ts"
+
+export const hps = {
+  id: "019e5d79-3e58-7257-824e-0efba21a4a4e",
+  type: "temper-rotation-breakdown-row",
+  slug: "hps",
+  title: "HPS",
+  key: "hps",
+  description: "Average healing done per second",
+  fullName: "Healing Per Second",
+} as const satisfies TemperRotationBreakdownRow

@@ -1,4 +1,4 @@
-import type { Namespace } from "akasha/command/namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/command/namespace/namespace.page-type.types.ts"
 
 export const initiative = {
   id: "01a082e8-a8ea-7b0b-a8b3-f6c4e7ac5d19",

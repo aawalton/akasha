@@ -1,4 +1,4 @@
-import { READER_PROSE_TYPOGRAPHY } from "akasha/pages/ui/components/modules/reader-typography/reader-typography.module.code.ts"
+import { READER_PROSE_TYPOGRAPHY } from "akasha/page/ui/components/modules/reader-typography/reader-typography.module.code.ts"
 import type { ClientProseSegment } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import {
   SystemCard,

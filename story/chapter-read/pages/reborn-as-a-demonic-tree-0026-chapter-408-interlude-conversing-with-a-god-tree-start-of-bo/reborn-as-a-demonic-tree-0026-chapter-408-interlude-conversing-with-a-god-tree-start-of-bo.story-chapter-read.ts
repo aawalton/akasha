@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const rebornAsADemonicTree0026Chapter408InterludeConversingWithAGodTreeStartOfBo = {
+  id: "01a06730-4dcc-778b-bcc8-d50994e5de1d",
+  type: "story-chapter-read",
+  slug: "reborn-as-a-demonic-tree-0026-chapter-408-interlude-conversing-with-a-god-tree-start-of-bo",
+  title: "Chapter 408: (Interlude) Conversing with a God Tree (Start of Book 7)",
+  story: "story-read/reborn-as-a-demonic-tree",
+  position: 26,
+  ownLength: 3230,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2087194",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2087194/chapter-408-interlude-conversing-with-a-god-tree",
+    },
+  ],
+  publishedAt: "2025-02-24",
+  ownProgress: 3230,
+  completedAt: "2026-06-29T19:02:23.220Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

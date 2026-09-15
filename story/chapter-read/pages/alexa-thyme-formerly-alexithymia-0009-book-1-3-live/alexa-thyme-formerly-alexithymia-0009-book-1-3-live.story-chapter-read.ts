@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const alexaThymeFormerlyAlexithymia0009Book13Live = {
+  id: "01a06585-ef15-7476-8e52-75168f51c673",
+  type: "story-chapter-read",
+  slug: "alexa-thyme-formerly-alexithymia-0009-book-1-3-live",
+  title: "Book 1 - 3 Live.",
+  story: "story-read/alexa-thyme-formerly-alexithymia",
+  position: 9,
+  ownLength: 110,
+  unit: "unit/words",
+  publishedAt: "2024-06-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1693483",
+      externalLink:
+        "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1693483/book-1-3-live",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

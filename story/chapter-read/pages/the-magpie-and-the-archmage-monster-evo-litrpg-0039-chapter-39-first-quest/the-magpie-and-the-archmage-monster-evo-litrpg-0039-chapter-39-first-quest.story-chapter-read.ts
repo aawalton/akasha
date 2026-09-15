@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theMagpieAndTheArchmageMonsterEvoLitrpg0039Chapter39FirstQuest = {
+  id: "01a06730-4fdf-76a4-8ebe-79cfb0a0bcc6",
+  type: "story-chapter-read",
+  slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0039-chapter-39-first-quest",
+  title: "Chapter 39 – First Quest",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
+  position: 39,
+  ownLength: 2138,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2703226",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2703226/chapter-39-first-quest",
+    },
+  ],
+  publishedAt: "2025-10-25",
+  prose: "txt",
+} as const satisfies StoryChapterRead

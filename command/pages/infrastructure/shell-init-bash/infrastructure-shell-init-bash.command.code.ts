@@ -1,7 +1,7 @@
 import { aliasIndexesIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import type { AliasEntry } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
 import { generateBashInit } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import {
   DATA,
   OPERATIONAL,

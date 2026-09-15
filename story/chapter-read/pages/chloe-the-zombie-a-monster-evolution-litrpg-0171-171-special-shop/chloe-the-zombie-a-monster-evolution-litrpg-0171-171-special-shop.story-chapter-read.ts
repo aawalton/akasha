@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chloeTheZombieAMonsterEvolutionLitrpg0171171SpecialShop = {
+  id: "01a06731-ad7e-7008-86cf-ace137869e8c",
+  type: "story-chapter-read",
+  slug: "chloe-the-zombie-a-monster-evolution-litrpg-0171-171-special-shop",
+  title: "171: Special Shop",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
+  position: 171,
+  ownLength: 2236,
+  unit: "unit/words",
+  publishedAt: "2026-06-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3607873",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3607873/171-special-shop",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

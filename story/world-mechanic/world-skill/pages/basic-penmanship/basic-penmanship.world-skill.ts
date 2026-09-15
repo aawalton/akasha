@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-skill.page-type.types.ts"
+
+export const basicPenmanship = {
+  id: "01a06575-97f4-798d-a612-c45799368a17",
+  type: "world-skill",
+  slug: "basic-penmanship",
+  title: "Skill – Basic Penmans—",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

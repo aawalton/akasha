@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const emailZoneReaching = {
   id: "01a0a141-1f7c-70b6-9fb7-3e8b9fc5baba",

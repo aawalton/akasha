@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0094Chapter1222APlanWithinAPlan = {
+  id: "01a06730-4dfa-7a17-a5b5-140899720fd8",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0094-chapter-1222-a-plan-within-a-plan",
+  title: "Chapter 1222 - A Plan Within A Plan",
+  story: "story-read/the-primal-hunter",
+  position: 94,
+  ownLength: 2640,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2856333",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2856333/chapter-1222-a-plan-within-a-plan",
+    },
+  ],
+  publishedAt: "2025-12-17",
+  ownProgress: 2640,
+  completedAt: "2026-06-29T19:32:14.610Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

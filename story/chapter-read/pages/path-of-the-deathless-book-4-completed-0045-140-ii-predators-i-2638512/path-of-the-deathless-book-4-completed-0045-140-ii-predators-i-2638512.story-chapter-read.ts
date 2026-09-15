@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0045140IiPredatorsI2638512 = {
+  id: "01a06730-4de5-794e-9d2b-9a0e1535a14f",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0045-140-ii-predators-i-2638512",
+  title: "140 (II)  Predators [I]",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 45,
+  ownLength: 2543,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2638512",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2638512/140-ii-predators-i",
+    },
+  ],
+  publishedAt: "2025-09-29",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0063103IReforgeI = {
+  id: "01a06730-4ded-737e-9f6b-fbb86570d0d5",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0063-103-i-reforge-i",
+  title: "103 (I) Reforge [I] ",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 63,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2571953/103-i-reforge-i",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

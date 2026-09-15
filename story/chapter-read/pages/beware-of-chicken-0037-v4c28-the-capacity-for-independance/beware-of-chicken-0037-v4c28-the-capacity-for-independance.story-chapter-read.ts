@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0037V4c28TheCapacityForIndependance = {
+  id: "01a06731-ad69-7000-8250-7d223de427a7",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0037-v4c28-the-capacity-for-independance",
+  title: "v4c28: The Capacity for Independance",
+  story: "story-read/beware-of-chicken",
+  position: 37,
+  ownLength: 2549,
+  ownProgress: 2549,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:52:37.140Z",
+  publishedAt: "2023-07-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1292643",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1292643/v4c28-the-capacity-for-independance",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -4,7 +4,7 @@ import { join } from "node:path"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   bundleEntryPathIn,
   compilerConfigBody,

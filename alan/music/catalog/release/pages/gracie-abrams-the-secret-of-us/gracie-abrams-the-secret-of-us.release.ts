@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const gracieAbramsTheSecretOfUs = {
+  id: "01a0676a-d72e-7006-80b2-8b9e15c2efd0",
+  type: "release",
+  slug: "gracie-abrams-the-secret-of-us",
+  title: "The Secret of Us",
+  partOfCollections: ["artist/gracie-abrams"],
+  position: 0,
+  ownLength: 47.661267,
+  ownProgress: 47.661267,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2024-06-21",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "56bdWeO40o3WfAD2Lja4dl",
+      externalLink: "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl",
+    },
+  ],
+} as const satisfies Release

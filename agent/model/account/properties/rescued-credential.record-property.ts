@@ -1,4 +1,4 @@
-import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
+import type { RecordProperty } from "akasha/page/record-property/record-property.page-type.types.ts"
 
 export const rescuedCredential = {
   id: "01a0637b-78bb-77e3-8457-23dd0863e27e",

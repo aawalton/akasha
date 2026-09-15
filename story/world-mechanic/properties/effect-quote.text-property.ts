@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const effectQuote = {
+  id: "01a06558-a991-7e5c-b87e-45f7fdfe52b1",
+  type: "text-property",
+  slug: "effect-quote",
+  propertySlug: "effect-quote",
+  definition: "the sentence what the mechanic did is read out of",
+  maxLength: 1000,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

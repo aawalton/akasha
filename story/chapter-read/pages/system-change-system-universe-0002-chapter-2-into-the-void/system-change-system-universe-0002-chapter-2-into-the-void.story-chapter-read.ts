@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const systemChangeSystemUniverse0002Chapter2IntoTheVoid = {
+  id: "01a06730-4fb7-73fd-8c86-678eca569181",
+  type: "story-chapter-read",
+  slug: "system-change-system-universe-0002-chapter-2-into-the-void",
+  title: "Chapter 2: Into the Void",
+  story: "story-read/system-change-system-universe",
+  position: 2,
+  ownLength: 2121,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "544987",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/544987/chapter-2-into-the-void",
+    },
+  ],
+  publishedAt: "2020-08-26",
+  ownProgress: 2121,
+  completedAt: "2026-06-29T19:56:48.832Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

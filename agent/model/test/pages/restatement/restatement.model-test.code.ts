@@ -6,7 +6,7 @@ import {
   type PageReading,
 } from "akasha/agent/model/test/modules/running/model-test-running.module.code.ts"
 import { restatement as test } from "akasha/agent/model/test/pages/restatement/restatement.model-test.ts"
-import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export type Judging = {
   readonly slug: string

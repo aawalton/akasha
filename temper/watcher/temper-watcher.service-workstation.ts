@@ -1,4 +1,4 @@
-import type { ServiceWorkstation } from "akasha/infrastructure/services/workstations/service-workstation.page-type.types.ts"
+import type { ServiceWorkstation } from "akasha/infrastructure/service/workstation/service-workstation.page-type.types.ts"
 
 export const temperWatcher = {
   id: "01a06039-9c8b-7942-a8fc-234055602831",
@@ -52,7 +52,7 @@ export const temperWatcher = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The watcher reaches every page over pages-service rather than over the checkout.",
+      statement: "The watcher reaches every page over page-service rather than over the checkout.",
     },
   ],
   parts: [

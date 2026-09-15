@@ -18,7 +18,7 @@ import type {
   Album,
   AlbumWithTracks,
 } from "akasha/alan/music/spotify/modules/releases/spotify-releases.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const TODAY = "2026-09-13"
 

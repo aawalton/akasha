@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning009797Illusory = {
+  id: "01a06731-b0b6-7000-8181-76d9510d4a7e",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0097-97-illusory",
+  title: "97. Illusory",
+  story: "story-read/mother-of-learning",
+  position: 97,
+  ownLength: 7025,
+  ownProgress: 7025,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:49:46.664Z",
+  publishedAt: "2019-03-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "344062",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/344062/97-illusory",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

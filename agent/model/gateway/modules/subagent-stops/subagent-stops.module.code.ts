@@ -10,10 +10,10 @@ import {
   dirsOf,
   type Following,
   followFolders,
-} from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
-import { everyOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+} from "akasha/infrastructure/service/workstation/modules/file-following/file-following.module.code.ts"
+import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"
 
 const SUBAGENT = "subagent"

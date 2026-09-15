@@ -1,0 +1,89 @@
+import type { SyntaxRule } from "akasha/check/code/pages/no-refused-syntax/syntax-rule/syntax-rule.page-type.types.ts"
+
+export const noCredentialInScriptText = {
+  id: "01a05031-fa74-7d24-87db-885dfcb18a31",
+  type: "syntax-rule",
+  slug: "no-credential-in-script-text",
+  definition: "the rule refusing a credential named in script text handed to a browser to run",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A first argument that is no function is script text.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The function form is left.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "Its arguments are bound and sent apart from the text rather than written into the text.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "`evaluate` and `evaluateHandle` are read alike.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "`waitForFunction` and `evaluate` are read alike.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Each hands text to the browser to run.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A name a credential would carry is refused wherever the name sits inside the text.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A property's name reads as any name does.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A quoted word spelling `password` is no credential.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The rule reads the names code binds and never the words inside a string.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every file is judged.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "No folder here is the harness and a credential leaks from wherever the credential is written.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A credential in a failing test's trace is leaked as surely as a credential in a run.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A name is judged rather than the value the name has.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "A credential a function form closes over is not seen.",
+    },
+    {
+      invariantKind: "invariant-kind/constraint",
+      statement: "The value never reaches the page and the call fails there instead.",
+    },
+    {
+      invariantKind: "invariant-kind/stopgap",
+      statement: "No file in reach hands text to a browser to run.",
+    },
+    {
+      invariantKind: "invariant-kind/stopgap",
+      statement:
+        "The harness the rule guards sits outside the akasha folder until the harness moves inside.",
+    },
+  ],
+} as const satisfies SyntaxRule

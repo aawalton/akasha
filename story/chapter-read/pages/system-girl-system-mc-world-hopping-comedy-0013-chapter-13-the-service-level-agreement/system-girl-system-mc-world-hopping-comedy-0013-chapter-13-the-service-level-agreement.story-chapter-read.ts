@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const systemGirlSystemMcWorldHoppingComedy0013Chapter13TheServiceLevelAgreement = {
+  id: "01a06730-4deb-7866-9501-660da28aa81a",
+  type: "story-chapter-read",
+  slug: "system-girl-system-mc-world-hopping-comedy-0013-chapter-13-the-service-level-agreement",
+  title: "Chapter 13: The Service Level Agreement",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
+  position: 13,
+  ownLength: 1510,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2600406",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2600406/chapter-13-the-service-level-agreement",
+    },
+  ],
+  publishedAt: "2025-09-14",
+  prose: "txt",
+} as const satisfies StoryChapterRead

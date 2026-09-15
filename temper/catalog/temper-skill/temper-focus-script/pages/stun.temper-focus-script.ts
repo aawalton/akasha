@@ -1,0 +1,13 @@
+import type { TemperFocusScript } from "akasha/temper/catalog/temper-skill/temper-focus-script/temper-focus-script.page-type.types.ts"
+
+export const stun = {
+  id: "01a05fce-2955-7763-98fa-53c47538540c",
+  type: "temper-focus-script",
+  slug: "stun",
+  title: "Stun",
+  key: "stun",
+  icon: "/esoui/art/icons/scribing_primary_stunned.dds",
+  itemId: 204564,
+  uespId: 16,
+  slotType: "focus-slot",
+} as const satisfies TemperFocusScript

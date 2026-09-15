@@ -3,10 +3,10 @@ import {
   madeIn,
 } from "akasha/agent/model/account/modules/making/model-account-making.module.code.ts"
 import { aliasIndexesIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { account as accountArgument } from "akasha/command/arguments/pages/account.argument.ts"
-import { alias } from "akasha/command/arguments/pages/alias.argument.ts"
-import { email as emailArgument } from "akasha/command/arguments/pages/email.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { account as accountArgument } from "akasha/command/argument/pages/account.argument.ts"
+import { alias } from "akasha/command/argument/pages/alias.argument.ts"
+import { email as emailArgument } from "akasha/command/argument/pages/email.argument.ts"
 import {
   answering,
   DATA,
@@ -17,7 +17,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { modelAccountAdd as page } from "akasha/command/pages/model/account/add/model-account-add.command.ts"
-import { readingIn } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const ACCOUNT_SHAPE = /^[a-z][a-z0-9-]*$/
 

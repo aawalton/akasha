@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons0181181StrangerDanger = {
+  id: "01a06731-adb1-7009-929d-e79013360ea5",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0181-181-stranger-danger",
+  title: "181. Stranger Danger",
+  story: "story-read/breaker-of-horizons",
+  position: 181,
+  ownLength: 2115,
+  unit: "unit/words",
+  publishedAt: "2022-02-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "852296",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/852296/181-stranger-danger",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

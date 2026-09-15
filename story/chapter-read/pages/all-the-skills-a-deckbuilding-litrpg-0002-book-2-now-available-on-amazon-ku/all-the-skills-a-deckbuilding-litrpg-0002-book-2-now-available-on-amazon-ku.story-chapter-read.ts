@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const allTheSkillsADeckbuildingLitrpg0002Book2NowAvailableOnAmazonKu = {
+  id: "01a06585-ef15-7b50-adf6-ec240eb2be13",
+  type: "story-chapter-read",
+  slug: "all-the-skills-a-deckbuilding-litrpg-0002-book-2-now-available-on-amazon-ku",
+  title: "Book 2 - Now Available on Amazon KU",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
+  position: 2,
+  ownLength: 70,
+  ownProgress: 70,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:09:46.110Z",
+  publishedAt: "2022-11-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1036452",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/1036452/book-2-now-available-on-amazon-ku",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

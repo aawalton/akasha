@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const endsOfMagic0044Chapter29TerribleNight = {
+  id: "01a06731-ade7-7000-8796-65cb7011f15c",
+  type: "story-chapter-read",
+  slug: "ends-of-magic-0044-chapter-29-terrible-night",
+  title: "Chapter 29: Terrible Night",
+  story: "story-read/ends-of-magic",
+  position: 44,
+  ownLength: 2730,
+  ownProgress: 2730,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:08:40.599Z",
+  publishedAt: "2025-11-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2748448",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2748448/chapter-29-terrible-night",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

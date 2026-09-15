@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const japaneseBreakfastGliderFromSableOriginalVideoGameSoundtrack = {
+  id: "01a0676a-d71f-7004-bac8-05a4ce654cb7",
+  type: "release",
+  slug: "japanese-breakfast-glider-from-sable-original-video-game-soundtrack",
+  title: 'Glider (from "Sable" Original Video Game Soundtrack)',
+  partOfCollections: ["artist/japanese-breakfast"],
+  position: 0,
+  ownLength: 2.85,
+  ownProgress: 2.85,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-08-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "70zXnYjeRgIzhiC7gYJZpO",
+      externalLink: "https://open.spotify.com/album/70zXnYjeRgIzhiC7gYJZpO",
+    },
+  ],
+} as const satisfies Release

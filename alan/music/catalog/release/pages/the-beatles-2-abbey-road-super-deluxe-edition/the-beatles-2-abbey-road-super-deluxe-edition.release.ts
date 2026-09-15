@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theBeatles2AbbeyRoadSuperDeluxeEdition = {
+  id: "01a0676a-d715-704c-bec3-82ad9a00fed4",
+  type: "release",
+  slug: "the-beatles-2-abbey-road-super-deluxe-edition",
+  title: "Abbey Road (Super Deluxe Edition)",
+  partOfCollections: ["artist/the-beatles"],
+  position: 0,
+  ownLength: 133.48335,
+  ownProgress: 133.48335,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2019-09-27",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5iT3F2EhjVQVrO4PKhsP8c",
+      externalLink: "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c",
+    },
+  ],
+} as const satisfies Release

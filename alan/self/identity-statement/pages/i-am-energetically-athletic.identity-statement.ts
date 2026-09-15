@@ -1,0 +1,17 @@
+import type { IdentityStatement } from "akasha/alan/self/identity-statement/identity-statement.page-type.types.ts"
+
+export const iAmEnergeticallyAthletic = {
+  id: "019ea810-a345-7e06-b0fc-1ef0e34c86e0",
+  type: "identity-statement",
+  slug: "i-am-energetically-athletic",
+  title: "I am energetically athletic",
+  about: "myself",
+  identityStatementLevel: 0.5,
+  notionId: "f2ee9d09c17d463aae305fae84309c49",
+  identityStatementRank: "a-rank",
+  replacesStatements: ["identity-statement/i-am-functionally-stable"],
+  identityStatementStatus: "in-progress",
+  identityStatementTags: ["move"],
+  identityStatementValue: "value/health",
+  icon: "file-text",
+} as const satisfies IdentityStatement

@@ -17,7 +17,7 @@ import {
   type VersionWatch,
   workspaceNaming,
 } from "akasha/agent/seat/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"
-import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
 

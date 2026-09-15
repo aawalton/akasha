@@ -1,11 +1,10 @@
-import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const command = {
   id: "01a04bdd-596d-7b81-9204-1a882f474a5f",
   type: "page-type",
   slug: "command",
   definition: "a module reached by name from the command line",
-  pluralSlug: "commands",
   parts: [
     "boolean-property/repeats",
     "command/audit",

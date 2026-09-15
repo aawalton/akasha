@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0409ChapterThreeHundredAndNinetySixCoreStrength = {
+  id: "01a0672c-eb1f-700f-aef7-cbaf80ca4e26",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0409-chapter-three-hundred-and-ninety-six-core-strength",
+  title: "Chapter Three Hundred and Ninety-Six - Core Strength",
+  story: "story-read/cinnamon-bun",
+  position: 409,
+  ownLength: 2047,
+  unit: "unit/words",
+  publishedAt: "2023-04-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1161611",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1161611/chapter-three-hundred-and-ninety-six-core-strength",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

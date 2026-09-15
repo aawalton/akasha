@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const timeCursedKnightTimeLoopPostApoc0109Chapter109Hayyan = {
+  id: "01a06730-55e0-755e-90e3-8b12026e757d",
+  type: "story-chapter-read",
+  slug: "time-cursed-knight-time-loop-post-apoc-0109-chapter-109-hayyan",
+  title: "Chapter 109: Hayyan",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
+  position: 109,
+  ownLength: 2857,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3814332",
+      externalLink:
+        "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3814332/chapter-109-hayyan",
+    },
+  ],
+  publishedAt: "2026-08-14",
+  prose: "txt",
+} as const satisfies StoryChapterRead

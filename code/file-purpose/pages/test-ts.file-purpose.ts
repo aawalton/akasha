@@ -1,0 +1,18 @@
+import type { FilePurpose } from "akasha/code/file-purpose/file-purpose.page-type.types.ts"
+
+export const testTs = {
+  id: "01a06860-a0ef-77a2-b7d4-1fd2a8169652",
+  type: "file-purpose",
+  slug: "test-ts",
+  definition: "a file of TypeScript source holding tests",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file whose name ends `test.ts` is of this purpose.",
+    },
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "The ending sits here as prose until a purpose can state an ending as a property.",
+    },
+  ],
+} as const satisfies FilePurpose

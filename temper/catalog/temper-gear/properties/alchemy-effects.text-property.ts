@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
 export const alchemyEffects = {
   id: "01a05fd1-d435-7be6-b06d-cee7752f59c6",

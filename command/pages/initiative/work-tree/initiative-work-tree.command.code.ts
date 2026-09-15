@@ -3,10 +3,10 @@ import {
   type Drawn,
   drawnNow,
 } from "akasha/agent/seat/fleet/modules/work-tree-drawn/work-tree-drawn.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { colors } from "akasha/command/arguments/pages/colors.argument.ts"
-import { counts } from "akasha/command/arguments/pages/counts.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { colors } from "akasha/command/argument/pages/colors.argument.ts"
+import { counts } from "akasha/command/argument/pages/counts.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -20,7 +20,7 @@ import { initiativeWorkTree as page } from "akasha/command/pages/initiative/work
 import {
   type InitiativeRow,
   initiativesDrawn,
-} from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
+} from "akasha/domain/modules/work-initiatives/work-initiatives.module.code.ts"
 
 const NOTHING_DRAWN: Drawn = { byInitiative: new Map() }
 

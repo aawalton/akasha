@@ -1,0 +1,11 @@
+import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-motif-style/temper-motif-style.page-type.types.ts"
+
+export const systresGuardian = {
+  id: "019e5a46-c4a1-795a-aebc-0b489c59ff75",
+  type: "temper-motif-style",
+  slug: "systres-guardian",
+  title: "Systres Guardian",
+  collectionIndex: 98,
+  sourceDescription: "Delve dailies (High Isle)",
+  dropSources: ["dlc-delve-dailies", "dlc-world-boss-dailies"],
+} as const satisfies TemperMotifStyle

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0464Chapter1810EndOfTheFifth = {
+  id: "01a0672c-eb6b-7011-9241-817b03914d97",
+  type: "story-chapter-read",
+  slug: "chrysalis-0464-chapter-1810-end-of-the-fifth",
+  title: "Chapter 1810 - End of the Fifth",
+  story: "story-read/chrysalis",
+  position: 464,
+  ownLength: 1051,
+  unit: "unit/words",
+  publishedAt: "2026-06-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3512906",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3512906/chapter-1810-end-of-the-fifth",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

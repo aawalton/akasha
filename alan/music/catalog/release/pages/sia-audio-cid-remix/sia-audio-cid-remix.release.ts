@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaAudioCidRemix = {
+  id: "01a0676a-d717-703f-958d-5ee705b90b2c",
+  type: "release",
+  slug: "sia-audio-cid-remix",
+  title: "Audio (CID Remix)",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 2.69955,
+  ownProgress: 2.69955,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-06-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1BuWvOi9Z2Tmgv9eQdooR6",
+      externalLink: "https://open.spotify.com/album/1BuWvOi9Z2Tmgv9eQdooR6",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

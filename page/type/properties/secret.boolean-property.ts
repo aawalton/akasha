@@ -1,0 +1,29 @@
+import type { BooleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.types.ts"
+
+export const secret = {
+  id: "01a0547c-6ae7-7000-897a-83b3e0d40bc4",
+  type: "boolean-property",
+  slug: "secret",
+  propertySlug: "secret",
+  definition: "whether the value a page has for this property is hidden from whoever has the files",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A person who can read the repository can read every other value in that repository from the files.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A secret value is put in through a command that encrypts that value.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "No write of the page's own file has a secret value.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A secret value is withheld from a read that did not ask for that value.",
+    },
+  ],
+  types: "ts",
+} as const satisfies BooleanProperty

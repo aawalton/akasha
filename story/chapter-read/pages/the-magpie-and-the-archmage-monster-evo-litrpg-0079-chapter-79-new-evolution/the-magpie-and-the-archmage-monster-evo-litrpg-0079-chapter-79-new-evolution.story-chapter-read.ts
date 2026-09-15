@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theMagpieAndTheArchmageMonsterEvoLitrpg0079Chapter79NewEvolution = {
+  id: "01a06730-4fe0-7e8f-8e82-39d80f63204f",
+  type: "story-chapter-read",
+  slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0079-chapter-79-new-evolution",
+  title: "Chapter 79 – New Evolution",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
+  position: 79,
+  ownLength: 1979,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3003755",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3003755/chapter-79-new-evolution",
+    },
+  ],
+  publishedAt: "2026-02-02",
+  prose: "txt",
+} as const satisfies StoryChapterRead

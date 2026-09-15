@@ -1,0 +1,39 @@
+import { afterAll, expect, test } from "bun:test"
+import {
+  ONE,
+  PAGE_TYPE,
+  TWO,
+  typing,
+} from "akasha/check/code/pages/key-names-one-property/key-names-one-property.check-code.decision.test-fixtures.ts"
+import { restatementNarrowsSomething } from "akasha/check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.audit.code.ts"
+import {
+  rooted,
+  scratch,
+} from "akasha/check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.test-fixtures.ts"
+import {
+  pathFor,
+  tracked,
+} from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+
+afterAll(scratch.sweep)
+
+const HELD = { pagePropertySlug: "held", required: true, many: false }
+
+test("an audit judges every declarer in the tree, no change naming one of them", () => {
+  const root = rooted()
+  typing(root, "over", TWO, null, [HELD])
+  typing(root, "under", ONE, "over", [HELD])
+
+  const said = restatementNarrowsSomething(tracked(root))
+
+  expect(said.map((one) => one.path)).toEqual([pathFor(PAGE_TYPE, "under")])
+  expect(said[0]?.reason).toContain("narrows nothing")
+})
+
+test("an audit lets through a tree where every restatement narrows something", () => {
+  const root = rooted()
+  typing(root, "over", TWO, null, [{ pagePropertySlug: "held", required: false, many: false }])
+  typing(root, "under", ONE, "over", [HELD])
+
+  expect(restatementNarrowsSomething(tracked(root))).toEqual([])
+})

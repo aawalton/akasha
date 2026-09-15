@@ -1,0 +1,13 @@
+import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rule/code/category-rule-code.page-type.types.ts"
+
+export const utahDmvRegistration = {
+  id: "01a0655b-fcdb-7003-9c50-79517c4f504f",
+  type: "category-rule-code",
+  slug: "utah-dmv-registration",
+  title: "Utah dmv registration",
+  matches: [
+    { key: "merchant", comparison: "is", values: ["utah dmv"] },
+    { key: "sign", comparison: "is", values: ["negative"] },
+  ],
+  category: "monarch-category/transportation",
+} as const satisfies CategoryRuleCode

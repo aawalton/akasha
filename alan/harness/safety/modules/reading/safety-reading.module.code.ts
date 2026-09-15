@@ -1,8 +1,8 @@
 import {
   keepReading,
   readoutPage,
-} from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
-import { levelIn } from "akasha/alan/harness/readouts/pages/upkeep-safety/upkeep-safety.readout.reading.code.ts"
+} from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { levelIn } from "akasha/alan/harness/readout/pages/upkeep-safety/upkeep-safety.readout.reading.code.ts"
 import { openSession } from "akasha/alan/track/daily/modules/day-stretches/day-stretches.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
 

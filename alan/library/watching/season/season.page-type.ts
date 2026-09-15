@@ -1,0 +1,30 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const season = {
+  id: "01a06599-ee09-7003-a52a-e6a01a72f7da",
+  type: "page-type",
+  slug: "season",
+  definition: "one run of a show's episodes",
+  extends: ["page-type/collection-external"],
+  parts: [],
+  properties: [
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/poster-path", required: false, many: false },
+    { pageProperty: "number-property/vote-average", required: false, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The season numbered zero has the episodes sitting outside the run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A season's length is summed from its episodes rather than stated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A season's number is its position among the seasons of its show.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

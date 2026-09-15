@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning007373PloddingAhead = {
+  id: "01a06731-b08e-7000-93b7-e1b47a4100df",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0073-73-plodding-ahead",
+  title: "73. Plodding Ahead",
+  story: "story-read/mother-of-learning",
+  position: 73,
+  ownLength: 7691,
+  ownProgress: 7691,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:46:32.121Z",
+  publishedAt: "2019-01-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "320954",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/320954/73-plodding-ahead",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

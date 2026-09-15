@@ -8,10 +8,10 @@ import { reads } from "akasha/agent/properties/reads.file-property.ts"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { mintedId } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
+} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { mintedId } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"

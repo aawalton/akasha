@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHenderson0800HeavenSpedUp = {
+  id: "01a0676a-d714-7004-9f92-a52b7891f715",
+  type: "release",
+  slug: "ella-henderson-0800-heaven-sped-up",
+  title: "0800 HEAVEN (Sped Up)",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 4.880117,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2023-07-07",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "16un1nPvMlyOnotAu7Rppv",
+      externalLink: "https://open.spotify.com/album/16un1nPvMlyOnotAu7Rppv",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

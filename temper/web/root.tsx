@@ -9,11 +9,11 @@ import {
   authGuard,
 } from "akasha/alan/harness/supabase-rr/modules/auth-guard/auth-guard.module.code.ts"
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
-import { fontPreloading } from "akasha/code/router-apps/modules/font-preload/font-preload.module.code.ts"
+import { fontPreloading } from "akasha/code/router-app/modules/font-preload/font-preload.module.code.ts"
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
-} from "akasha/code/router-apps/modules/router-context-adapters/router-context-adapters.module.code.tsx"
+} from "akasha/code/router-app/modules/router-context-adapters/router-context-adapters.module.code.tsx"
 import {
   Empty,
   EmptyContent,
@@ -27,7 +27,7 @@ import { CommandPalette } from "akasha/design/interfaces/primitives/modules/comm
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { Toaster } from "akasha/design/interfaces/primitives/modules/sonner/sonner.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
+import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect } from "react"
 import {

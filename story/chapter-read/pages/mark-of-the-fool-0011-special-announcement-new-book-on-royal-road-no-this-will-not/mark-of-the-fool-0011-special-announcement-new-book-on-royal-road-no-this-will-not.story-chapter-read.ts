@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const markOfTheFool0011SpecialAnnouncementNewBookOnRoyalRoadNoThisWillNot = {
+  id: "01a06731-ae97-7003-9dc2-40afea24bcc6",
+  type: "story-chapter-read",
+  slug: "mark-of-the-fool-0011-special-announcement-new-book-on-royal-road-no-this-will-not",
+  title: "Special Announcement: New Book on Royal Road (No, this will not slow down Fool lol)",
+  story: "story-read/mark-of-the-fool",
+  position: 11,
+  ownLength: 180,
+  unit: "unit/words",
+  publishedAt: "2023-08-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1319037",
+      externalLink:
+        "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1319037/special-announcement-new-book-on-royal-road-no",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,4 +1,4 @@
-import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
+import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-type.types.ts"
 
 export const hookPayload = {
   id: "01a04f4d-f0ea-791d-8bb4-ce41b59e46b1",

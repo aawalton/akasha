@@ -1,0 +1,10 @@
+import type { TemperMotifStyle } from "akasha/temper/catalog/temper-gear/temper-motif-style/temper-motif-style.page-type.types.ts"
+
+export const dreadhorn = {
+  id: "019e5a46-c3fe-74de-a286-db21cbd42ff3",
+  type: "temper-motif-style",
+  slug: "dreadhorn",
+  title: "Dreadhorn",
+  collectionIndex: 41,
+  sourceDescription: "Falkreath Hold dungeon",
+} as const satisfies TemperMotifStyle

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0173Chapter846BloodOnTheMandibles = {
+  id: "01a06731-ad92-7000-9b4e-a67179e79c9e",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0173-chapter-846-blood-on-the-mandibles",
+  title: "Chapter 846 - Blood on the Mandibles",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 173,
+  ownLength: 2528,
+  unit: "unit/words",
+  publishedAt: "2026-07-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3729965",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3729965/chapter-846-blood-on-the-mandibles",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

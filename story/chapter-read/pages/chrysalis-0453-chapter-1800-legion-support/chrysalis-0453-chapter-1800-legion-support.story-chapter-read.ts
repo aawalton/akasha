@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0453Chapter1800LegionSupport = {
+  id: "01a0672c-eb6b-7006-88cd-9d45849d62b8",
+  type: "story-chapter-read",
+  slug: "chrysalis-0453-chapter-1800-legion-support",
+  title: "Chapter 1800 - Legion Support",
+  story: "story-read/chrysalis",
+  position: 453,
+  ownLength: 1119,
+  unit: "unit/words",
+  publishedAt: "2026-05-31",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3473197",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3473197/chapter-1800-legion-support",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

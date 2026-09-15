@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherAVoiceFundsMoreThanSinging = {
-  id: "01a077eb-e696-7f00-aec3-c3bfde735abb",
-  type: "all-about-alan-question",
-  slug: "whether-a-voice-funds-more-than-singing",
-  topic: "all-about-alan-topic/singing-out-loud",
-  ask: "Does a voice I sing along to fund anything besides the singing, or only that one act?",
-} as const satisfies AllAboutAlanQuestion

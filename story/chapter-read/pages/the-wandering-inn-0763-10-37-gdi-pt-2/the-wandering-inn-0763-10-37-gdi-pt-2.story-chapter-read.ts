@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theWanderingInn07631037GdiPt2 = {
+  id: "01a0659e-17a8-7975-aba2-7fbba153466a",
+  type: "story-chapter-read",
+  slug: "the-wandering-inn-0763-10-37-gdi-pt-2",
+  title: "10.37 GDI (Pt. 2)",
+  story: "story-read/the-wandering-inn",
+  position: 763,
+  ownLength: 34790,
+  ownProgress: 34844,
+  unit: "unit/words",
+  publishedAt: "2025-04-06",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2025/04/06/10-37-gdi-pt-2/",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,9 @@
+import type { TemperNetWorthHour } from "akasha/temper/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.types.ts"
+
+export const hour2026082019 = {
+  id: "01a06009-497d-7182-b38b-0546420eafa7",
+  type: "temper-net-worth-hour",
+  slug: "hour-2026-08-20-19",
+  title: "2026-08-20 19:00 UTC",
+  snapshots: "jsonl",
+} as const satisfies TemperNetWorthHour

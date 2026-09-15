@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const succulentGirlEvolution0007Chapter7Cuddles = {
+  id: "01a06730-4dea-755f-ab3b-d94e58893beb",
+  type: "story-chapter-read",
+  slug: "succulent-girl-evolution-0007-chapter-7-cuddles",
+  title: "Chapter 7: Cuddles",
+  story: "story-read/succulent-girl-evolution",
+  position: 7,
+  ownLength: 2042,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525575",
+      externalLink:
+        "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525575/chapter-7-cuddles",
+    },
+  ],
+  publishedAt: "2025-08-17",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0094Chapter82TheJunkyardCopse = {
+  id: "01a0672c-ed5e-701a-937c-712d563fc9f8",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0094-chapter-82-the-junkyard-copse",
+  title: "Chapter 82 The junkyard copse",
+  story: "story-read/melody-of-mana",
+  position: 94,
+  ownLength: 2010,
+  ownProgress: 2010,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:29:26.741Z",
+  publishedAt: "2022-01-25",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "831463",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/831463/chapter-82-the-junkyard-copse",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

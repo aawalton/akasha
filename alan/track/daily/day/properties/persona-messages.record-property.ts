@@ -1,0 +1,36 @@
+import type { RecordProperty } from "akasha/page/record-property/record-property.page-type.types.ts"
+
+export const personaMessages = {
+  id: "01a082e2-4994-7f71-aa2d-ad0fc9b437f9",
+  type: "record-property",
+  slug: "persona-messages",
+  propertySlug: "persona-messages",
+  definition: "how many messages each persona was written on a day",
+  properties: [
+    { pageProperty: "relation-property/messaged-persona", required: true, many: false },
+    { pageProperty: "number-property/messages-sent", required: true, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "One persona has one record on a day.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A record's count rises as the day runs rather than a record landing per message.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A persona written to on no day has no record on that day.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "No record says when in the day a message was written.",
+    },
+    {
+      invariantKind: "invariant-kind/absence",
+      statement: "Nothing here turns a count into points.",
+    },
+  ],
+  types: "ts",
+} as const satisfies RecordProperty

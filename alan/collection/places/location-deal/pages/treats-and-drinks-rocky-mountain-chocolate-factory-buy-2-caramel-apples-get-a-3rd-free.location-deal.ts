@@ -1,0 +1,22 @@
+import type { LocationDeal } from "akasha/alan/collection/places/location-deal/location-deal.page-type.types.ts"
+
+export const treatsAndDrinksRockyMountainChocolateFactoryBuy2CaramelApplesGetA3rdFree = {
+  id: "019f322c-b142-77dc-a73a-2644474648cc",
+  type: "location-deal",
+  slug: "treats-and-drinks-rocky-mountain-chocolate-factory-buy-2-caramel-apples-get-a-3rd-free",
+  title: "Rocky Mountain Chocolate Factory — Buy 2 Caramel Apples, Get a 3rd FREE!",
+  collection: "location-collection/starving-student-card",
+  dealKey:
+    "ssc:treats-and-drinks:rocky-mountain-chocolate-factory:buy-2-caramel-apples-get-a-3rd-free",
+  finePrint: "Orem & SF",
+  locations: [
+    "location/rocky-mountain-chocolate-factory-orem",
+    "location/rocky-mountain-chocolate-factory-spanish-fork",
+  ],
+  offerText: "Buy 2 Caramel Apples, Get a 3rd FREE!",
+  offerType: "free",
+  section: "Treats & Drinks",
+  struckOut: false,
+  useLimit: "3",
+  usesUsed: 0,
+} as const satisfies LocationDeal

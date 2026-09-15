@@ -1,0 +1,20 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const kiShow = {
+  id: "01a06825-d0ec-71a0-a7ee-80d30e5385ef",
+  type: "page-type",
+  slug: "ki-show",
+  definition: "a story Ki watches in episodes over seasons",
+  extends: ["page-type/ki-collection-template"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A show of Ki's names the seasons that show has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A show of Ki's names the franchise that show belongs to.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

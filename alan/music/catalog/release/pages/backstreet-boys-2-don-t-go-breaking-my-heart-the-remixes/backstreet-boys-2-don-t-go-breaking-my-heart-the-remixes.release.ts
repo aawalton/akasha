@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const backstreetBoys2DonTGoBreakingMyHeartTheRemixes = {
+  id: "01a0676a-d71c-7020-8216-886baf560d15",
+  type: "release",
+  slug: "backstreet-boys-2-don-t-go-breaking-my-heart-the-remixes",
+  title: "Don't Go Breaking My Heart (The Remixes)",
+  partOfCollections: ["artist/backstreet-boys"],
+  position: 0,
+  ownLength: 13.727783,
+  ownProgress: 13.727783,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-07-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "75QKLQOZrGdp0Xj9R0KIKq",
+      externalLink: "https://open.spotify.com/album/75QKLQOZrGdp0Xj9R0KIKq",
+    },
+  ],
+} as const satisfies Release

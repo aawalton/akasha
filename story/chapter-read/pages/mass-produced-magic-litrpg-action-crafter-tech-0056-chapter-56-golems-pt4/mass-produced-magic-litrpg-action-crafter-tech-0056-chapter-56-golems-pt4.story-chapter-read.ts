@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const massProducedMagicLitrpgActionCrafterTech0056Chapter56GolemsPt4 = {
+  id: "01a06731-afb2-7013-91a6-a3036a2a3db7",
+  type: "story-chapter-read",
+  slug: "mass-produced-magic-litrpg-action-crafter-tech-0056-chapter-56-golems-pt4",
+  title: "Chapter 56 – Golems – Pt4",
+  story: "story-read/mass-produced-magic-litrpg-action-crafter-tech",
+  position: 56,
+  ownLength: 1813,
+  unit: "unit/words",
+  publishedAt: "2025-02-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2055870",
+      externalLink:
+        "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2055870/chapter-56-golems-pt4",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

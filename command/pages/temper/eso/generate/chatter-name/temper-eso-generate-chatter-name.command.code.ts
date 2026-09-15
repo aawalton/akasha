@@ -1,8 +1,8 @@
 import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
+import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
 import {
   DATA,
   keeping,
@@ -17,9 +17,9 @@ import {
   type Taking,
 } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
 import { temperEsoGenerateChatterName as page } from "akasha/command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.ts"
-import { fileOf } from "akasha/pages/index/modules/property-file/property-file.module.code.ts"
-import { valuedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
+import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { chatterNamesModule } from "akasha/temper/command/modules/eso-chatter-names/eso-chatter-names.module.code.ts"
 import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 

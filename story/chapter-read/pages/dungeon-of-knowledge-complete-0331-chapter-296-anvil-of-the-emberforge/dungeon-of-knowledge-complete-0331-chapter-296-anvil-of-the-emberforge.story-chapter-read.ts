@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0331Chapter296AnvilOfTheEmberforge = {
+  id: "01a0672c-ebe6-7002-9e12-095d1acca5ff",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0331-chapter-296-anvil-of-the-emberforge",
+  title: "Chapter 296: Anvil of the Emberforge",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 331,
+  ownLength: 2031,
+  ownProgress: 2031,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:22:33.194Z",
+  publishedAt: "2025-06-30",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2397233",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2397233/chapter-296-anvil-of-the-emberforge",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const justAddMana0100100Book2Chapter48ContractualObligations = {
+  id: "01a06731-ae15-7000-9ade-dc6d66b60c72",
+  type: "story-chapter-read",
+  slug: "just-add-mana-0100-100-book-2-chapter-48-contractual-obligations",
+  title: "100 — Book 2, Chapter 48 — Contractual Obligations",
+  story: "story-read/just-add-mana",
+  position: 100,
+  ownLength: 3562,
+  ownProgress: 3562,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:51:05.188Z",
+  publishedAt: "2026-02-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3053722",
+      externalLink:
+        "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3053722/100-book-2-chapter-48-contractual-obligations",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

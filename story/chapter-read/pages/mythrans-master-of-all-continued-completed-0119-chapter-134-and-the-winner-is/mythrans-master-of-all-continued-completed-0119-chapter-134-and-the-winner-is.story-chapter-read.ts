@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0119Chapter134AndTheWinnerIs = {
+  id: "01a0672c-eb63-7001-bad5-c4ba44016d3e",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0119-chapter-134-and-the-winner-is",
+  title: "Chapter 134 - And The Winner Is...",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 119,
+  ownLength: 4124,
+  unit: "unit/words",
+  publishedAt: "2017-01-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "110674",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110674/chapter-134-and-the-winner-is",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

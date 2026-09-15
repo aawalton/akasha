@@ -1,4 +1,4 @@
-import { STEM_CEILING } from "akasha/pages/naming/named-for/modules/page-stem/page-stem.module.code.ts"
+import { STEM_CEILING } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
 import { shortenedToWords } from "akasha/utils/narrow/modules/shortened-to-words/shortened-to-words.module.code.ts"
 
 const FALLBACK_NAME = "untitled"

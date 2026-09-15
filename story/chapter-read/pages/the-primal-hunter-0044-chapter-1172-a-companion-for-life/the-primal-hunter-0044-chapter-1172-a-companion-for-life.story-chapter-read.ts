@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0044Chapter1172ACompanionForLife = {
+  id: "01a06730-4de2-77b1-af73-cabd6c0f435f",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0044-chapter-1172-a-companion-for-life",
+  title: "Chapter 1172 - A Companion For Life",
+  story: "story-read/the-primal-hunter",
+  position: 44,
+  ownLength: 3064,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2648791",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2648791/chapter-1172-a-companion-for-life",
+    },
+  ],
+  publishedAt: "2025-10-03",
+  ownProgress: 3064,
+  completedAt: "2026-06-29T19:30:39.288Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

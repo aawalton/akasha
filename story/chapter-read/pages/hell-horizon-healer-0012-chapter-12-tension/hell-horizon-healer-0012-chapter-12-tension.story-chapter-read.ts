@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellHorizonHealer0012Chapter12Tension = {
+  id: "01a06731-ae7c-7005-b90b-c76a79fd2ef3",
+  type: "story-chapter-read",
+  slug: "hell-horizon-healer-0012-chapter-12-tension",
+  title: "Chapter 12 - Tension",
+  story: "story-read/hell-horizon-healer",
+  position: 12,
+  ownLength: 1602,
+  unit: "unit/words",
+  publishedAt: "2026-06-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3522023",
+      externalLink:
+        "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3522023/chapter-12-tension",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

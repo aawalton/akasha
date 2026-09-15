@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const arianaGrandeYesAndRemixes = {
+  id: "01a0676a-d731-704f-9cbe-feaff57f4cc6",
+  type: "release",
+  slug: "ariana-grande-yes-and-remixes",
+  title: "yes, and? (remixes)",
+  partOfCollections: ["artist/ariana-grande"],
+  position: 0,
+  ownLength: 12.504583,
+  ownProgress: 12.504583,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2024-01-12",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0kHBlnc69hLOSyXAZn2yeX",
+      externalLink: "https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Release

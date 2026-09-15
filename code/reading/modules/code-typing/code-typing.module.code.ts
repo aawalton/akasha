@@ -5,7 +5,7 @@ import {
   stamped,
   writtenTo,
 } from "akasha/code/reading/modules/typing-keeping/typing-keeping.module.code.ts"
-import { calledIn } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
+import { calledIn } from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/modules/sha256-hex/sha256-hex.module.code.ts"
 import ts from "typescript"
 

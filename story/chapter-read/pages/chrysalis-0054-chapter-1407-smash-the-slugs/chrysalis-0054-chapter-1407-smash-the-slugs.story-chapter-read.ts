@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0054Chapter1407SmashTheSlugs = {
+  id: "01a0672c-eb5b-701c-8403-b295d3a06200",
+  type: "story-chapter-read",
+  slug: "chrysalis-0054-chapter-1407-smash-the-slugs",
+  title: "Chapter 1407 - Smash the Slugs!",
+  story: "story-read/chrysalis",
+  position: 54,
+  ownLength: 1201,
+  ownProgress: 1201,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:45:21.612Z",
+  publishedAt: "2024-09-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1797743",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1797743/chapter-1407-smash-the-slugs",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

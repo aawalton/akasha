@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theGiftOfLoot0045Chapter45Level3 = {
+  id: "01a06730-4eed-7e01-92fa-701d783b631d",
+  type: "story-chapter-read",
+  slug: "the-gift-of-loot-0045-chapter-45-level-3",
+  title: "Chapter 45: Level 3",
+  story: "story-read/the-gift-of-loot",
+  position: 45,
+  ownLength: 2947,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3575881",
+      externalLink:
+        "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3575881/chapter-45-level-3",
+    },
+  ],
+  publishedAt: "2026-06-22",
+  prose: "txt",
+} as const satisfies StoryChapterRead

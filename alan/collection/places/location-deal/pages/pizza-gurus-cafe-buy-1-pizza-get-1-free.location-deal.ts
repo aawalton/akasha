@@ -1,0 +1,18 @@
+import type { LocationDeal } from "akasha/alan/collection/places/location-deal/location-deal.page-type.types.ts"
+
+export const pizzaGurusCafeBuy1PizzaGet1Free = {
+  id: "019f322c-a4c8-7288-80ce-87b72d06922d",
+  type: "location-deal",
+  slug: "pizza-gurus-cafe-buy-1-pizza-get-1-free",
+  title: "Gurus Cafe — Buy 1 Pizza, Get 1 FREE!",
+  collection: "location-collection/starving-student-card",
+  dealKey: "ssc:pizza:gurus-cafe:buy-1-pizza-get-1-free",
+  finePrint: "Provo Center St & UVU",
+  locations: ["location/gurus-cafe-provo"],
+  offerText: "Buy 1 Pizza, Get 1 FREE!",
+  offerType: "2-4-1",
+  section: "Pizza",
+  struckOut: false,
+  useLimit: "2",
+  usesUsed: 0,
+} as const satisfies LocationDeal

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const arkendrithyst0195EricksStatusNotAChapterVersion2 = {
+  id: "01a08393-bbff-72f2-af1e-623bd5c3e682",
+  type: "story-chapter-read",
+  slug: "arkendrithyst-0195-ericks-status-not-a-chapter-version-2",
+  story: "story-read/arkendrithyst",
+  position: 195,
+  publishedAt: "2021-04-10",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "662195",
+      externalLink:
+        "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/662195/ericks-status-not-a-chapter-version-2",
+    },
+  ],
+  title: "Erick's Status (not a chapter) version 2!",
+  ownLength: 6850,
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -4,13 +4,13 @@ import {
   type Linking,
   NOTHING_LINKED,
 } from "akasha/command/modules/folder-linking/folder-linking.module.code.ts"
-import { fileOf } from "akasha/pages/index/modules/property-file/property-file.module.code.ts"
+import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import {
   indexThere,
   listedAt,
   readingIn,
   valuedAt,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const MODULE = "module"
 

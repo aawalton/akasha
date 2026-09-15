@@ -1,22 +1,22 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { pathsOf, replayed } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { pathsOf, replayed } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type {
   FileChange,
   Answer as Said,
-} from "akasha/changes/modules/answer/change-answer.module.types.ts"
+} from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   bodyIn,
   foldedIn,
   keptAt,
   keptEdits,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   addedTo,
   ledgerAt,
   type World,
   worldAt,
-} from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   helpAsked,
   helpOfChange,
@@ -24,8 +24,8 @@ import {
   ranBy,
   runAt,
   takesSaid,
-} from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
-import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
+} from "akasha/change/runner/modules/change-loading/change-loading.module.code.ts"
+import { costRecorded, opening } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import { decodeUtf8 } from "akasha/code/bodies/modules/utf8-body/utf8-body.module.code.ts"
 import {
   answeredWith,
@@ -56,13 +56,13 @@ import {
 import {
   changingOf,
   owedIn,
-} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+} from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   slugAt,
   textAt,
   type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 import { meantSaid } from "akasha/utils/text/modules/suggest-closest/suggest-closest.module.code.ts"
 

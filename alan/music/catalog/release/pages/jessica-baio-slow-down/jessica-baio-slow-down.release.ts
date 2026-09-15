@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jessicaBaioSlowDown = {
+  id: "01a0676a-d729-7024-868c-eb9c10e36712",
+  type: "release",
+  slug: "jessica-baio-slow-down",
+  title: "SLOW DOWN",
+  partOfCollections: ["artist/jessica-baio"],
+  position: 0,
+  ownLength: 5.15075,
+  ownProgress: 5.15075,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2024-05-24",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5Ej7j1DuYx8vqML3Ewtxtx",
+      externalLink: "https://open.spotify.com/album/5Ej7j1DuYx8vqML3Ewtxtx",
+    },
+  ],
+} as const satisfies Release

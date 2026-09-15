@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0303Chapter312WaterIsRight = {
+  id: "01a0672c-ec33-7000-9180-47a715ec1d34",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0303-chapter-312-water-is-right",
+  title: "Chapter 312 - Water is Right",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 303,
+  ownLength: 3188,
+  unit: "unit/words",
+  publishedAt: "2017-07-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "149681",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149681/chapter-312-water-is-right",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

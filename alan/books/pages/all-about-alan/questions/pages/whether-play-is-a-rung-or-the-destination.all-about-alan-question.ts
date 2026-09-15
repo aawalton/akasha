@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherPlayIsARungOrTheDestination = {
-  id: "01a077ee-840d-763e-8830-6f84fff489fe",
-  type: "all-about-alan-question",
-  slug: "whether-play-is-a-rung-or-the-destination",
-  topic: "all-about-alan-topic/playing-again",
-  ask: "I took up the rung side and never endorsed the other side. Is play a rung on the way somewhere or the thing I am going toward?",
-} as const satisfies AllAboutAlanQuestion

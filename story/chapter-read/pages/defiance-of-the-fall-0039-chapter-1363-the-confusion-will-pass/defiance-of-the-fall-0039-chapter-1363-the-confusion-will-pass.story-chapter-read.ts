@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const defianceOfTheFall0039Chapter1363TheConfusionWillPass = {
+  id: "01a06591-3c6f-711b-948e-591d185d6f7f",
+  type: "story-chapter-read",
+  slug: "defiance-of-the-fall-0039-chapter-1363-the-confusion-will-pass",
+  title: "Chapter 1,363 - The Confusion Will Pass",
+  story: "story-read/defiance-of-the-fall",
+  position: 39,
+  ownLength: 3034,
+  unit: "unit/words",
+  publishedAt: "2025-10-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2658903",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2658903/chapter-1363-the-confusion-will-pass",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

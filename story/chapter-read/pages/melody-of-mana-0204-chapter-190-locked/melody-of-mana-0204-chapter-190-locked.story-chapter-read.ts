@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0204Chapter190Locked = {
+  id: "01a06731-ad83-7000-89e5-c21d690d975d",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0204-chapter-190-locked",
+  title: "Chapter 190 Locked",
+  story: "story-read/melody-of-mana",
+  position: 204,
+  ownLength: 1528,
+  ownProgress: 1528,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:32:52.591Z",
+  publishedAt: "2022-11-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1046935",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1046935/chapter-190-locked",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

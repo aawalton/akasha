@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaTheGirlYouLostToCocaine = {
+  id: "01a0676a-d72d-7014-80d4-8749656393e1",
+  type: "release",
+  slug: "sia-the-girl-you-lost-to-cocaine",
+  title: "The Girl You Lost To Cocaine",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 45.43285,
+  ownProgress: 45.43285,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2008-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0psPpltnZMSDnU67ma2hID",
+      externalLink: "https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

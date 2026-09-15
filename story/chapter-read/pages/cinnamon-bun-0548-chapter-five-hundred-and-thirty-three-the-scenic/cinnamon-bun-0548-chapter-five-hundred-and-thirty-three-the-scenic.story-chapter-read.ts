@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0548ChapterFiveHundredAndThirtyThreeTheScenic = {
+  id: "01a0672c-eb26-7015-8eb0-05e5902f89d9",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0548-chapter-five-hundred-and-thirty-three-the-scenic",
+  title: "Chapter Five Hundred and Thirty-Three - The Scenic Route",
+  story: "story-read/cinnamon-bun",
+  position: 548,
+  ownLength: 1531,
+  unit: "unit/words",
+  publishedAt: "2025-04-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2206956",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2206956/chapter-five-hundred-and-thirty-three-the-scenic",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

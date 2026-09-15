@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0105Chapter1457SlipperySlugs = {
+  id: "01a0672c-eb5e-7005-85d8-b12603293879",
+  type: "story-chapter-read",
+  slug: "chrysalis-0105-chapter-1457-slippery-slugs",
+  title: "Chapter 1457 - Slippery Slugs",
+  story: "story-read/chrysalis",
+  position: 105,
+  ownLength: 990,
+  ownProgress: 990,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:47:26.400Z",
+  publishedAt: "2024-11-20",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1913600",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1913600/chapter-1457-slippery-slugs",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

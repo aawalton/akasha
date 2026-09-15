@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const celticWoman2SpancilHill = {
+  id: "01a0676a-d729-7071-9ab4-ad28b6812182",
+  type: "release",
+  slug: "celtic-woman-2-spancil-hill",
+  title: "Spancil Hill",
+  partOfCollections: ["artist/celtic-woman"],
+  position: 0,
+  ownLength: 3.308333,
+  ownProgress: 3.308333,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-07-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4vqPZ33aCyf4YmwYSrc0qd",
+      externalLink: "https://open.spotify.com/album/4vqPZ33aCyf4YmwYSrc0qd",
+    },
+  ],
+} as const satisfies Release

@@ -1,9 +1,0 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
-
-export const namedFor = {
-  id: "01a05c53-bc6a-7abd-bdd4-f484ded3d33b",
-  type: "domain",
-  slug: "named-for",
-  definition: "the name a page is filed under, worked out from a rule and what fills the rule",
-  parts: ["module/name-rule", "module/page-stem"],
-} as const satisfies Domain

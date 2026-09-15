@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { declarationSubject } from "akasha/command/arguments/pages/declaration-subject.argument.ts"
+import { declarationSubject } from "akasha/command/argument/pages/declaration-subject.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   domainDeclarationList as listing,

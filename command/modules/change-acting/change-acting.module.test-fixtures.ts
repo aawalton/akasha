@@ -1,15 +1,15 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
   bodyIn,
   editsAt,
   editsIn,
   foldedIn,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { addedTo, ledgerAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
+} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { addedTo, ledgerAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { INPUT, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
@@ -19,11 +19,11 @@ import {
 } from "akasha/command/modules/change-acting/change-acting.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
-import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   indexedRepo,
   NAMER_CODE,
-} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 const PRESENCE_AT = "akasha/subagent-presence.module.ts"
 

@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherAnotherBreathingRatioPaysBackBetter = {
-  id: "01a077ea-34f9-76e0-a6a1-5dcbcad6950a",
-  type: "all-about-alan-question",
-  slug: "whether-another-breathing-ratio-pays-back-better",
-  topic: "all-about-alan-topic/how-i-actually-breathe",
-  ask: "Four-twelve is the only breathing ratio I have run. Would another ratio pay back better?",
-} as const satisfies AllAboutAlanQuestion

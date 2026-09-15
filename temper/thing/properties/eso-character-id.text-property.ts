@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const esoCharacterId = {
+  id: "01a05fba-ce39-7efc-aa9e-99bf36eda42a",
+  type: "text-property",
+  slug: "eso-character-id",
+  propertySlug: "eso-character-id",
+  definition: "the character The Elder Scrolls Online names by this",
+  maxLength: 100,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

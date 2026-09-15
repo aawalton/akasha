@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonDevotee0007Chapter6NoLostLittleGirl = {
+  id: "01a06731-b0e6-7000-8131-c0be9a37c1ef",
+  type: "story-chapter-read",
+  slug: "dungeon-devotee-0007-chapter-6-no-lost-little-girl",
+  title: "Chapter 6: No Lost Little Girl",
+  story: "story-read/dungeon-devotee",
+  position: 7,
+  ownLength: 8118,
+  ownProgress: 8118,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:39:15.339Z",
+  publishedAt: "2022-03-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "855726",
+      externalLink:
+        "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/855726/chapter-6-no-lost-little-girl",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

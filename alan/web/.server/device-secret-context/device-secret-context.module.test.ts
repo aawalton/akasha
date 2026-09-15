@@ -6,12 +6,12 @@ import {
 import type {
   Fetcher,
   Sleeper,
-} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
   DEVICE_SECRET_HEADER,
   generateDeviceSecret,
   hashDeviceSecret,
-} from "akasha/persons/modules/device-secret-keeping/device-secret-keeping.module.code.ts"
+} from "akasha/person/modules/device-secret-keeping/device-secret-keeping.module.code.ts"
 import { z } from "zod"
 
 const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"

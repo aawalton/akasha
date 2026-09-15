@@ -1,4 +1,4 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import {
   DATA,
   refusedBy,
@@ -13,13 +13,13 @@ import {
   PLACES,
 } from "akasha/command/pages/measure/modules/tabling/measure-tabling.module.code.ts"
 import { measurePersona as page } from "akasha/command/pages/measure/persona/measure-persona.command.ts"
-import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
+import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
   displayNameOf,
   personasStanding,
-} from "akasha/personas/modules/reading/persona-reading.module.code.ts"
-import { pointsTotalKept } from "akasha/personas/points/modules/keeping/persona-points-keeping.module.code.ts"
-import { levelOf } from "akasha/personas/properties/persona-relationship-level.computed-property.code.ts"
+} from "akasha/persona/modules/reading/persona-reading.module.code.ts"
+import { pointsTotalKept } from "akasha/persona/points/modules/keeping/persona-points-keeping.module.code.ts"
+import { levelOf } from "akasha/persona/properties/persona-relationship-level.computed-property.code.ts"
 
 const CLOSENESS_LEVEL = "closeness-level"
 

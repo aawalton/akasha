@@ -9,27 +9,27 @@ import { accountPathIn } from "akasha/agent/model/account/modules/reading/model-
 import {
   type Asking,
   landedMechanically,
-} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
-import type { PageOf } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
-import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
+import type { PageOf } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   secretAt,
   uncommittedAt,
-} from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   type Composed,
   cipherFor,
   secretsIn,
   unfit,
-} from "akasha/pages/modules/secret/page-secret.module.code.ts"
+} from "akasha/page/modules/secret/page-secret.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,
-} from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const PUT = "change-mechanical-file/add-file"

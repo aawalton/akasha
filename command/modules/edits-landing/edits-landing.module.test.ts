@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { stating } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import { stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { owingIn } from "akasha/command/modules/edits-landing/edits-landing.module.code.ts"
 
 const ONE = "one.md"

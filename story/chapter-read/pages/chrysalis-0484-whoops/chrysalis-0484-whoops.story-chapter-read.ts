@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0484Whoops = {
+  id: "01a0672c-eb6c-7005-bef4-6087927cb40a",
+  type: "story-chapter-read",
+  slug: "chrysalis-0484-whoops",
+  title: "Whoops!",
+  story: "story-read/chrysalis",
+  position: 484,
+  ownLength: 65,
+  unit: "unit/words",
+  publishedAt: "2026-07-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3683004",
+      externalLink: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3683004/whoops",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

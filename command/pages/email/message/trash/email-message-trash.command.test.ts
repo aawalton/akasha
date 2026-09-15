@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { message } from "akasha/command/arguments/pages/message.argument.ts"
+import { message } from "akasha/command/argument/pages/message.argument.ts"
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"

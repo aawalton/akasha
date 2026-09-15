@@ -9,13 +9,13 @@ import {
 } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { processes } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 import type { AgentProcess } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
-import { readingIn } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
 const CREDENTIAL_PUSH_TIMEOUT_MS = 1_500
 

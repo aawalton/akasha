@@ -1,0 +1,28 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const siaAlive3 = {
+  id: "019ea4c6-6d40-7c03-8b76-a28f384ae1ac",
+  type: "song",
+  slug: "sia-alive-3",
+  title: "Alive",
+  artist: "artist/sia",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "faa011e0-d0f0-4754-a167-880eddd631d3",
+      externalLink: "https://musicbrainz.org/work/faa011e0-d0f0-4754-a167-880eddd631d3",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "collab",
+  rank: "S",
+  singability: "S-",
+  tags: ["suicide"],
+  lyrics: "txt",
+  syncedLyrics: "txt",
+  insights: "txt",
+  personalConnections: "txt",
+} as const satisfies Song

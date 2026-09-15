@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "akasha/code/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.types.ts"
 
 export const skyshardsStringIds = {
   id: "01a061a8-9c6c-77af-ab8d-fc301a1713ff",

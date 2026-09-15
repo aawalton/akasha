@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash008484WeveGotToStopMeetingLikeThis = {
+  id: "01a0672c-edc4-7003-b441-734311a9e147",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0084-84-weve-got-to-stop-meeting-like-this",
+  title: "84. We've Got to Stop Meeting Like This",
+  story: "story-read/god-of-trash",
+  position: 84,
+  ownLength: 2375,
+  unit: "unit/words",
+  publishedAt: "2025-05-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2301027",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2301027/84-weve-got-to-stop-meeting-like-this",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

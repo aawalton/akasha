@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const mitskiCats = {
+  id: "019f0ea2-56b9-7b06-84c9-714e275f5c4d",
+  type: "song",
+  slug: "mitski-cats",
+  title: "Cats",
+  artist: "artist/mitski",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7b7dbb7b-9f39-44c9-ae6a-d5aee7b28f99",
+      externalLink: "https://musicbrainz.org/work/7b7dbb7b-9f39-44c9-ae6a-d5aee7b28f99",
+      lastSyncedAt: "2026-06-28",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "solo",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

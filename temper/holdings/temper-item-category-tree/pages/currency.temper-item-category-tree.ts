@@ -1,0 +1,10 @@
+import type { TemperItemCategoryTree } from "akasha/temper/holdings/temper-item-category-tree/temper-item-category-tree.page-type.types.ts"
+
+export const currency = {
+  id: "01a05fcf-f7d8-7570-8600-f60813841097",
+  type: "temper-item-category-tree",
+  slug: "currency",
+  title: "Currency",
+  displayOrder: 0,
+  priorityOrder: 0,
+} as const satisfies TemperItemCategoryTree

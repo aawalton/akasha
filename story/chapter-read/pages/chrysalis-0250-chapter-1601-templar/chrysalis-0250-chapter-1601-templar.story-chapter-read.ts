@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0250Chapter1601Templar = {
+  id: "01a0672c-eb63-7018-959e-00974fd79b8b",
+  type: "story-chapter-read",
+  slug: "chrysalis-0250-chapter-1601-templar",
+  title: "Chapter 1601 - Templar",
+  story: "story-read/chrysalis",
+  position: 250,
+  ownLength: 1003,
+  ownProgress: 1003,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:51:48.845Z",
+  publishedAt: "2025-07-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2417629",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2417629/chapter-1601-templar",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

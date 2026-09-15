@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0056391ASneakAmbush = {
+  id: "01a06730-4dde-7dac-a751-b0558dcdb2e7",
+  type: "story-chapter-read",
+  slug: "salvos-0056-391-a-sneak-ambush",
+  title: "391. A Sneak Ambush!",
+  story: "story-read/salvos",
+  position: 56,
+  ownLength: 2722,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "956906",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/956906/391-a-sneak-ambush",
+    },
+  ],
+  publishedAt: "2022-07-26",
+  prose: "txt",
+} as const satisfies StoryChapterRead

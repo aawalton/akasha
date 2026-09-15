@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash0299299TrueAuthority = {
+  id: "01a06731-adfe-7004-9105-e24c01f4b63c",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0299-299-true-authority",
+  title: "299. True Authority",
+  story: "story-read/god-of-trash",
+  position: 299,
+  ownLength: 2392,
+  unit: "unit/words",
+  publishedAt: "2026-04-13",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3270265",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3270265/299-true-authority",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

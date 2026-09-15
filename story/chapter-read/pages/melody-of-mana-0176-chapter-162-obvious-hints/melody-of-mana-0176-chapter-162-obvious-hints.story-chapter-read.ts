@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0176Chapter162ObviousHints = {
+  id: "01a06731-ad82-7000-895d-e3171a131989",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0176-chapter-162-obvious-hints",
+  title: "Chapter 162 Obvious Hints",
+  story: "story-read/melody-of-mana",
+  position: 176,
+  ownLength: 2023,
+  ownProgress: 2023,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:31:56.098Z",
+  publishedAt: "2022-08-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "973175",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/973175/chapter-162-obvious-hints",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

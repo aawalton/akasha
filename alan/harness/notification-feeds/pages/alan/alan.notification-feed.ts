@@ -1,8 +1,0 @@
-import type { NotificationFeed } from "akasha/alan/harness/notification-feeds/notification-feed.page-type.types.ts"
-
-export const alan = {
-  id: "01a06864-7aa1-7c13-b966-6dae89eb5283",
-  type: "notification-feed",
-  slug: "alan",
-  person: "person/alan",
-} as const satisfies NotificationFeed

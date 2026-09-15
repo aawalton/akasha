@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0083V4c68NoMoreFace = {
+  id: "01a06731-ad83-7004-b70e-bbd1bb338c3c",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0083-v4c68-no-more-face",
+  title: "v4c68: No More Face",
+  story: "story-read/beware-of-chicken",
+  position: 83,
+  ownLength: 2406,
+  ownProgress: 2406,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:54:17.400Z",
+  publishedAt: "2023-12-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1439452",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1439452/v4c68-no-more-face",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

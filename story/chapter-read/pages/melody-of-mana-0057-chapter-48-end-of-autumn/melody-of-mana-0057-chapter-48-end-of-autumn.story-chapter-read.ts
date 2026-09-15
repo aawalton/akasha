@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0057Chapter48EndOfAutumn = {
+  id: "01a0672c-ed5d-7005-91f9-15a880feeb70",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0057-chapter-48-end-of-autumn",
+  title: "Chapter 48 End of Autumn",
+  story: "story-read/melody-of-mana",
+  position: 57,
+  ownLength: 2400,
+  ownProgress: 2400,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:28:09.673Z",
+  publishedAt: "2021-10-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "759566",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/759566/chapter-48-end-of-autumn",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

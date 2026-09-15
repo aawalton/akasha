@@ -1,0 +1,17 @@
+import type { CodeFileProperty } from "akasha/page/code-file-property/code-file-property.page-type.types.ts"
+
+export const swift = {
+  id: "01a05474-5474-79c9-8775-7972372e85d6",
+  type: "code-file-property",
+  slug: "swift",
+  propertySlug: "swift",
+  definition: "the Swift a page is",
+  extensions: ["swift"],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/gap",
+      statement: "A check judges the Swift a landing carries.",
+    },
+  ],
+  types: "ts",
+} as const satisfies CodeFileProperty

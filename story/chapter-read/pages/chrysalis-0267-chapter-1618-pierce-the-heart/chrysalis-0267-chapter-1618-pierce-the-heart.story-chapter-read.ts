@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0267Chapter1618PierceTheHeart = {
+  id: "01a0672c-eb64-700c-97a5-0dd7b865d19f",
+  type: "story-chapter-read",
+  slug: "chrysalis-0267-chapter-1618-pierce-the-heart",
+  title: "Chapter 1618 - Pierce the Heart",
+  story: "story-read/chrysalis",
+  position: 267,
+  ownLength: 950,
+  ownProgress: 950,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:52:21.582Z",
+  publishedAt: "2025-08-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2498298",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2498298/chapter-1618-pierce-the-heart",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const yaelokreKamahalan = {
+  id: "01a0676a-d722-7035-b4e1-2aa7fe102c9a",
+  type: "release",
+  slug: "yaelokre-kamahalan",
+  title: "Kamahalan",
+  partOfCollections: ["artist/yaelokre"],
+  position: 0,
+  ownLength: 2.470633,
+  ownProgress: 2.470633,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2025-10-23",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "37M3P1OIGcjYu4cPad6Wzq",
+      externalLink: "https://open.spotify.com/album/37M3P1OIGcjYu4cPad6Wzq",
+      lastSyncedAt: "2025-10-30",
+    },
+  ],
+} as const satisfies Release

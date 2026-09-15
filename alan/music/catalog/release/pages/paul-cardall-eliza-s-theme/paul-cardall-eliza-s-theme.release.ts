@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const paulCardallElizaSTheme = {
+  id: "01a0676a-d71c-7064-9468-ae248ae79548",
+  type: "release",
+  slug: "paul-cardall-eliza-s-theme",
+  title: "Eliza's Theme",
+  partOfCollections: ["artist/paul-cardall"],
+  position: 0,
+  ownLength: 3.646933,
+  ownProgress: 3.646933,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-08-18",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1Ys2GeBD9F8i0b5bDnh8yL",
+      externalLink: "https://open.spotify.com/album/1Ys2GeBD9F8i0b5bDnh8yL",
+    },
+  ],
+} as const satisfies Release

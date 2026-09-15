@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0424Chapter387ThePathOfTheElderPart2 = {
+  id: "01a0672c-ec06-7003-a72a-89132602e549",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0424-chapter-387-the-path-of-the-elder-part-2",
+  title: "Chapter 387: The Path of the Elder (Part 2)",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 424,
+  ownLength: 3111,
+  ownProgress: 3111,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:26:24.119Z",
+  publishedAt: "2025-09-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2619940",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2619940/chapter-387-the-path-of-the-elder-part-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

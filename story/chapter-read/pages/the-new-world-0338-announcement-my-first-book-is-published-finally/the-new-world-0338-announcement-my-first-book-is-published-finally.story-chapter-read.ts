@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld0338AnnouncementMyFirstBookIsPublishedFinally = {
+  id: "01a06730-4ed2-77ed-a71d-803d096878f5",
+  type: "story-chapter-read",
+  slug: "the-new-world-0338-announcement-my-first-book-is-published-finally",
+  title: "Announcement: My First Book Is Published. Finally.",
+  story: "story-read/the-new-world",
+  position: 338,
+  ownLength: 280,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1207453",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1207453/announcement-my-first-book-is-published-finally",
+    },
+  ],
+  publishedAt: "2023-05-09",
+  ownProgress: 280,
+  completedAt: "2026-06-29T21:32:50.242Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

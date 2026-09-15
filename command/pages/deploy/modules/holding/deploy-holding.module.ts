@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployHolding = {
   id: "01a0958d-5a26-70f4-b71a-0d770b87de98",

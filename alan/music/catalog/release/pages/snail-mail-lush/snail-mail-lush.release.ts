@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const snailMailLush = {
+  id: "01a0676a-d724-7019-935d-b133bd74a7b6",
+  type: "release",
+  slug: "snail-mail-lush",
+  title: "Lush",
+  partOfCollections: ["artist/snail-mail"],
+  position: 0,
+  ownLength: 38.330383,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2018-06-08",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ZlrWJ4Ev4DhG6mRo5h1AP",
+      externalLink: "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP",
+    },
+  ],
+} as const satisfies Release

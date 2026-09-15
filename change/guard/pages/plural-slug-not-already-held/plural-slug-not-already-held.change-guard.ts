@@ -1,0 +1,46 @@
+import type { ChangeGuard } from "akasha/change/guard/change-guard.page-type.types.ts"
+
+export const pluralSlugNotAlreadyHeld = {
+  id: "01a07984-8ee9-7d24-bca8-2d2d1b16ae97",
+  type: "change-guard",
+  slug: "plural-slug-not-already-held",
+  changeTargetType: "change-target-type/file-content",
+  definition:
+    "the guard refusing an answer writing a page type whose plural slug another page type states",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The page types judged against are read from the index the answer leaves.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page type the answer writes is judged against every other page type.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page that is no page type is judged by nothing here.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page type stating no plural slug is judged by nothing here.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "One plural slug two page types state refuses the answer.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The refusal names the page already stating that plural slug.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A path under no page name is judged by nothing here.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An index a guard cannot read refuses the answer.",
+    },
+  ],
+} as const satisfies ChangeGuard

@@ -1,28 +1,28 @@
 import { existsSync, mkdirSync } from "node:fs"
 import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
-import { addFileOfAnyKind } from "akasha/changes/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
+import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   listedAt,
   typeSlugOf,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
-import { importedFrom, saidAs } from "akasha/pages/modules/body/page-body.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { importedFrom, saidAs } from "akasha/page/modules/body/page-body.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import {
   exportedAs,
   nameFaultIn,
   typedAs,
-} from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { uncommittedPartAt } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"
-import { pagesAtFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+} from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { uncommittedPartAt } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
+import { pagesAtFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { sizeOnDisk } from "akasha/utils/fs/modules/file-size/file-size.module.code.ts"
 
 const PUT = `${addFileOfAnyKind.type}/${addFileOfAnyKind.slug}` as const

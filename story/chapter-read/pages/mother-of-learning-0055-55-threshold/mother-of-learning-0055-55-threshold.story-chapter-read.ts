@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning005555Threshold = {
+  id: "01a06731-b073-7000-8643-bd6643f5a080",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0055-55-threshold",
+  title: "55. Threshold",
+  story: "story-read/mother-of-learning",
+  position: 55,
+  ownLength: 7068,
+  ownProgress: 7068,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:45:50.671Z",
+  publishedAt: "2018-12-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "315711",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/315711/55-threshold",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

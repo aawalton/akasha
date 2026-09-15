@@ -1,0 +1,57 @@
+import {
+  slugStated,
+  typeStated,
+} from "akasha/domain/context/modules/agent-stated/agent-stated.module.code.ts"
+import {
+  blobAt,
+  type Warrant,
+} from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
+import {
+  listedAt,
+  listedFor,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { addressedIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { textUnder } from "akasha/page/modules/value/page-value.module.code.ts"
+
+export const ASSIGNMENT =
+  "A seat answers for the assignment it states, and that assignment is read before the seat is changed."
+
+export const WITHIN =
+  "A seat assigned an initiative answers for the domain that initiative names, and that domain is read before the seat is changed."
+
+const DOMAIN_TYPE = "domain"
+
+const INITIATIVE_TYPE = "initiative"
+
+const KEY = "assignmentSlug"
+
+const DOMAIN_KEY = "domain"
+
+function warrantAt(root: string, path: string, owed: string): readonly Warrant[] {
+  const oid = blobAt(root, path)
+  return oid === null ? [] : [{ path, oid, owed }]
+}
+
+function domainOf(root: string, path: string): readonly Warrant[] {
+  const named = textUnder(root, path, DOMAIN_KEY)
+  if (named === null) return []
+  const address = addressedIn(named)
+  if ("refused" in address) throw new Error(address.refused)
+  const listed = listedFor(root, address)
+  return listed === null ? [] : warrantAt(root, listed.path, WITHIN)
+}
+
+function initiativeOf(root: string, slug: string): readonly Warrant[] {
+  const listed = listedAt(root, INITIATIVE_TYPE, slug)[0]
+  if (listed === undefined) return []
+  return [...warrantAt(root, listed.path, ASSIGNMENT), ...domainOf(root, listed.path)]
+}
+
+export function assignmentItself(root: string, path: string): readonly Warrant[] {
+  const slug = slugStated(root, path, KEY)
+  if (slug === null) return []
+  const stated = typeStated(root, path, KEY) ?? DOMAIN_TYPE
+  if (stated === INITIATIVE_TYPE) return initiativeOf(root, slug)
+  const listed = listedAt(root, stated, slug)[0]
+  return listed === undefined ? [] : warrantAt(root, listed.path, ASSIGNMENT)
+}

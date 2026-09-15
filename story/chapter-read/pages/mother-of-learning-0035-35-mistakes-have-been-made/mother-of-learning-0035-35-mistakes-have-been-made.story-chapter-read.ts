@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning003535MistakesHaveBeenMade = {
+  id: "01a06731-b053-7000-b7e0-e235459f8fbf",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0035-35-mistakes-have-been-made",
+  title: "35. Mistakes Have Been Made",
+  story: "story-read/mother-of-learning",
+  position: 35,
+  ownLength: 7080,
+  ownProgress: 7080,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:45:04.876Z",
+  publishedAt: "2018-11-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "309417",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/309417/35-mistakes-have-been-made",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

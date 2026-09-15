@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0134Chapter121Embers = {
+  id: "01a06731-ad80-7001-9e51-eb37fb78a1bf",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0134-chapter-121-embers",
+  title: "Chapter 121 Embers",
+  story: "story-read/melody-of-mana",
+  position: 134,
+  ownLength: 2024,
+  ownProgress: 2024,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:37:00.197Z",
+  publishedAt: "2022-04-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "889611",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/889611/chapter-121-embers",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

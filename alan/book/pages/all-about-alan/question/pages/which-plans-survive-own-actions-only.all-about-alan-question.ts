@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const whichPlansSurviveOwnActionsOnly = {
+  id: "01a077e6-d639-7df6-b2f0-07758d01d520",
+  type: "all-about-alan-question",
+  slug: "which-plans-survive-own-actions-only",
+  topic: "all-about-alan-topic/where-connection-could-come-from",
+  ask: "Sweeping the plans I already hold, which plans survive the scope that keeps only moves that are my own act?",
+} as const satisfies AllAboutAlanQuestion

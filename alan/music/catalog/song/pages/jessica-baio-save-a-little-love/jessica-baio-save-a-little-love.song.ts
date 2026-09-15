@@ -1,0 +1,19 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const jessicaBaioSaveALittleLove = {
+  id: "019ea4f8-c9a4-7419-8187-d2ef949ae65d",
+  type: "song",
+  slug: "jessica-baio-save-a-little-love",
+  title: "Save a Little Love",
+  artist: "artist/jessica-baio",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "bcd2ef61-27ca-4c89-97bd-89412be188ca",
+      externalLink: "https://musicbrainz.org/recording/bcd2ef61-27ca-4c89-97bd-89412be188ca",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+} as const satisfies Song

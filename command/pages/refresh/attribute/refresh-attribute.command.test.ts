@@ -47,7 +47,7 @@ function keeping(upTo: number): Keeping {
   }
 }
 
-const AT = "alan/attributes/readouts"
+const AT = "alan/attribute/readouts"
 
 const STRENGTH = `${AT}/attribute-strength/attribute-strength.readout.ts`
 

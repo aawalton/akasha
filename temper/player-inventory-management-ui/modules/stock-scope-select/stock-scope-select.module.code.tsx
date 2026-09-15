@@ -8,7 +8,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interfaces/primitives/modules/select-control/select-control.module.code.tsx"
-import { useUserId } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import type {
   MoveToDestination,
   StockScope,

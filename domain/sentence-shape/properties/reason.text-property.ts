@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const reason = {
+  id: "01a05da1-60fe-7007-b28f-f863cb3deabf",
+  type: "text-property",
+  slug: "reason",
+  propertySlug: "reason",
+  definition: "the fact a sentence shape is refused on",
+  maxLength: 200,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

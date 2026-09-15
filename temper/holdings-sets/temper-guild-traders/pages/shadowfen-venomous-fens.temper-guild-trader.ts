@@ -1,9 +1,0 @@
-import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild-traders/temper-guild-trader.page-type.types.ts"
-
-export const shadowfenVenomousFens = {
-  id: "019e2fc6-524a-7f16-980a-64b2bfdf4518",
-  type: "temper-guild-trader",
-  slug: "shadowfen-venomous-fens",
-  title: "Shadowfen: Venomous Fens",
-  kioskId: 58,
-} as const satisfies TemperGuildTrader

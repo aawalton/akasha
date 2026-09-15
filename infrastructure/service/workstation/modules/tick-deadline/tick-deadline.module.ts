@@ -1,0 +1,40 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const tickDeadline = {
+  id: "01a06885-0bab-7000-97bd-58c9925eb768",
+  type: "module",
+  slug: "tick-deadline",
+  definition: "the ceiling a single tick of a long-running service runs under",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A tick that outruns its ceiling loses the race rather than running on unwatched.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ceiling reached is told apart from any other throw by its own error name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tick asked for after the stop was asked is refused before that tick starts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A timer left behind holds the process up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every race clears its own timer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A listener left on the signal outlives the tick.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every race takes its own listener off.",
+    },
+  ],
+} as const satisfies Module

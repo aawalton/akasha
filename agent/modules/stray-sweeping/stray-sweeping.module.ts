@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const straySweeping = {
   id: "01a09ced-1a65-7dd9-a620-2ed6bac65b03",

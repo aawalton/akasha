@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const coldplayVioletHill = {
+  id: "01a0676a-d730-7004-8ccf-bca56239fa40",
+  type: "release",
+  slug: "coldplay-violet-hill",
+  title: "Violet Hill",
+  partOfCollections: ["artist/coldplay"],
+  position: 0,
+  ownLength: 6.5151,
+  ownProgress: 6.5151,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2008-05-06",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2Pc9C27OlgTTtjvFxulqgG",
+      externalLink: "https://open.spotify.com/album/2Pc9C27OlgTTtjvFxulqgG",
+    },
+  ],
+} as const satisfies Release

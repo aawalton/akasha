@@ -5,22 +5,22 @@ import { basename, dirname, join } from "node:path"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { baseModel } from "akasha/command/arguments/pages/base-model.argument.ts"
-import { guidance as guidanceArgument } from "akasha/command/arguments/pages/guidance.argument.ts"
-import { height as heightArgument } from "akasha/command/arguments/pages/height.argument.ts"
-import { loraPaths } from "akasha/command/arguments/pages/lora-paths.argument.ts"
-import { loraScales } from "akasha/command/arguments/pages/lora-scales.argument.ts"
-import { model as modelArgument } from "akasha/command/arguments/pages/model.argument.ts"
-import { negativePrompt as negativePromptArgument } from "akasha/command/arguments/pages/negative-prompt.argument.ts"
-import { negativePromptFile } from "akasha/command/arguments/pages/negative-prompt-file.argument.ts"
-import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
-import { promptFile } from "akasha/command/arguments/pages/prompt-file.argument.ts"
-import { renderPrompt } from "akasha/command/arguments/pages/render-prompt.argument.ts"
-import { seed as seedArgument } from "akasha/command/arguments/pages/seed.argument.ts"
-import { steps as stepsArgument } from "akasha/command/arguments/pages/steps.argument.ts"
-import { timeout as timeoutArgument } from "akasha/command/arguments/pages/timeout.argument.ts"
-import { width as widthArgument } from "akasha/command/arguments/pages/width.argument.ts"
+} from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { baseModel } from "akasha/command/argument/pages/base-model.argument.ts"
+import { guidance as guidanceArgument } from "akasha/command/argument/pages/guidance.argument.ts"
+import { height as heightArgument } from "akasha/command/argument/pages/height.argument.ts"
+import { loraPaths } from "akasha/command/argument/pages/lora-paths.argument.ts"
+import { loraScales } from "akasha/command/argument/pages/lora-scales.argument.ts"
+import { model as modelArgument } from "akasha/command/argument/pages/model.argument.ts"
+import { negativePrompt as negativePromptArgument } from "akasha/command/argument/pages/negative-prompt.argument.ts"
+import { negativePromptFile } from "akasha/command/argument/pages/negative-prompt-file.argument.ts"
+import { output as outputArgument } from "akasha/command/argument/pages/output.argument.ts"
+import { promptFile } from "akasha/command/argument/pages/prompt-file.argument.ts"
+import { renderPrompt } from "akasha/command/argument/pages/render-prompt.argument.ts"
+import { seed as seedArgument } from "akasha/command/argument/pages/seed.argument.ts"
+import { steps as stepsArgument } from "akasha/command/argument/pages/steps.argument.ts"
+import { timeout as timeoutArgument } from "akasha/command/argument/pages/timeout.argument.ts"
+import { width as widthArgument } from "akasha/command/argument/pages/width.argument.ts"
 import {
   answering,
   INPUT,
@@ -39,12 +39,12 @@ import {
   runComfyGraph,
 } from "akasha/infrastructure/inference/clients/modules/comfy-client/comfy-client.module.code.ts"
 import { drawSeed } from "akasha/infrastructure/inference/clients/modules/inference-seed/inference-seed.module.code.ts"
-import { buildModelGraph } from "akasha/infrastructure/inference/generations/zimage/modules/graph/zimage-graph.module.code.ts"
+import { buildModelGraph } from "akasha/infrastructure/inference/generation/zimage/modules/graph/zimage-graph.module.code.ts"
 import {
   MODEL_IDS,
   MODELS,
   toModelId,
-} from "akasha/infrastructure/inference/generations/zimage/modules/models/zimage-models.module.code.ts"
+} from "akasha/infrastructure/inference/generation/zimage/modules/models/zimage-models.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 const DEFAULT_PORT = "8678"

@@ -12,7 +12,7 @@ import {
 import type {
   InitiativeIntent,
   InitiativeRow,
-} from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
+} from "akasha/domain/modules/work-initiatives/work-initiatives.module.code.ts"
 
 const ROOT = "/nowhere"
 

@@ -1,4 +1,4 @@
-import type { Namespace } from "akasha/command/namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/command/namespace/namespace.page-type.types.ts"
 
 export const modelGateway = {
   id: "01a07c0e-f3e6-7abc-9238-d49d16577a96",

@@ -1,0 +1,11 @@
+import type { BuildFolderProperty } from "akasha/page/build-folder-property/build-folder-property.page-type.types.ts"
+
+export const generatedDirectory = {
+  id: "01a081f3-600c-7716-9f7f-3de640dd8b05",
+  type: "build-folder-property",
+  slug: "generated-directory",
+  propertySlug: "generated-directory",
+  definition: "the YAML a synth writes from a manifest",
+  folderName: "generated",
+  types: "ts",
+} as const satisfies BuildFolderProperty

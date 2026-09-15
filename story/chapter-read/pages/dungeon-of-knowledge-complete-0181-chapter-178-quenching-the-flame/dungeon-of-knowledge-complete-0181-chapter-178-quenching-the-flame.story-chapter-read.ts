@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0181Chapter178QuenchingTheFlame = {
+  id: "01a0672c-ebb4-7000-9e1d-2d8fe7fe859d",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0181-chapter-178-quenching-the-flame",
+  title: "Chapter 178: Quenching the Flame",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 181,
+  ownLength: 4988,
+  ownProgress: 4988,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:17:11.740Z",
+  publishedAt: "2025-01-02",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1987972",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1987972/chapter-178-quenching-the-flame",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

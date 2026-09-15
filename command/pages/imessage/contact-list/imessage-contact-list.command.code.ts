@@ -1,8 +1,8 @@
 import { searchContacts } from "akasha/alan/harness/imessage/modules/contacts-db/contacts-db.module.code.ts"
 import { fetchContacts } from "akasha/alan/harness/imessage/modules/remote/imessage-remote.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { contactQuery } from "akasha/command/arguments/pages/contact-query.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { contactQuery } from "akasha/command/argument/pages/contact-query.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   answering,
   asJson,

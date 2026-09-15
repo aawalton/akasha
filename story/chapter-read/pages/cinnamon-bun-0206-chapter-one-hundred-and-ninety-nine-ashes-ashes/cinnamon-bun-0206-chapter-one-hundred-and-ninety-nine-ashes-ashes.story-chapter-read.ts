@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0206ChapterOneHundredAndNinetyNineAshesAshes = {
+  id: "01a0672c-eb12-7007-8e36-ec830b961d38",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0206-chapter-one-hundred-and-ninety-nine-ashes-ashes",
+  title: "Chapter One Hundred and Ninety-Nine - Ashes, Ashes, They All Fall Down",
+  story: "story-read/cinnamon-bun",
+  position: 206,
+  ownLength: 1838,
+  unit: "unit/words",
+  publishedAt: "2021-05-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "689666",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/689666/chapter-one-hundred-and-ninety-nine-ashes-ashes",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

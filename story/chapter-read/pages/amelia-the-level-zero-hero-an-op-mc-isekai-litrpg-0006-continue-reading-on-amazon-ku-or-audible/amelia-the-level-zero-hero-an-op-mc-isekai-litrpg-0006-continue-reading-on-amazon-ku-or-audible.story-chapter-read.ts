@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0006ContinueReadingOnAmazonKuOrAudible = {
+  id: "01a06585-ef22-719a-a4bf-a376335af204",
+  type: "story-chapter-read",
+  slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0006-continue-reading-on-amazon-ku-or-audible",
+  title: "Continue reading on Amazon KU or Audible!",
+  story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  position: 6,
+  ownLength: 84,
+  unit: "unit/words",
+  publishedAt: "2022-12-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1056106",
+      externalLink:
+        "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1056106/continue-reading-on-amazon-ku-or-audible",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,4 +1,4 @@
-import { personasStanding } from "akasha/personas/modules/reading/persona-reading.module.code.ts"
+import { personasStanding } from "akasha/persona/modules/reading/persona-reading.module.code.ts"
 
 export function channelsOf(root: string): ReadonlyMap<string, string> {
   const channels = new Map<string, string>()

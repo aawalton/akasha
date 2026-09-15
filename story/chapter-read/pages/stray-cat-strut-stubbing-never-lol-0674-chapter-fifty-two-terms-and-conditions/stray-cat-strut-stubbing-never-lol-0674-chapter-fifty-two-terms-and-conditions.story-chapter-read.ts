@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0674ChapterFiftyTwoTermsAndConditions = {
+  id: "01a06730-4ed4-7e29-afac-b560d876c429",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0674-chapter-fifty-two-terms-and-conditions",
+  title: "Chapter Fifty-Two - Terms and Conditions",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 674,
+  ownLength: 1630,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2424022",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2424022/chapter-fifty-two-terms-and-conditions",
+    },
+  ],
+  publishedAt: "2025-07-10",
+  prose: "txt",
+} as const satisfies StoryChapterRead

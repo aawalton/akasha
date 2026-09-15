@@ -1,8 +1,8 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { port } from "akasha/command/arguments/pages/port.argument.ts"
-import { seq } from "akasha/command/arguments/pages/seq.argument.ts"
-import { webApp } from "akasha/command/arguments/pages/web-app.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { port } from "akasha/command/argument/pages/port.argument.ts"
+import { seq } from "akasha/command/argument/pages/seq.argument.ts"
+import { webApp } from "akasha/command/argument/pages/web-app.argument.ts"
 import {
   answering,
   keeping,
@@ -11,7 +11,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { starting } from "akasha/command/pages/infrastructure/dev-server/modules/dev-server-running/dev-server-running.module.code.ts"
 import { infrastructureDevServerStart as page } from "akasha/command/pages/infrastructure/dev-server/start/infrastructure-dev-server-start.command.ts"
-import { namingApps } from "akasha/infrastructure/services/web-apps/modules/dev-server-stating/dev-server-stating.module.code.ts"
+import { namingApps } from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
 
 export async function infrastructureDevServerStart(
   argv: readonly string[],

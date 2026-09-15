@@ -1,6 +1,6 @@
 import { mkdirSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
+import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import {
   readMemInfoKb,

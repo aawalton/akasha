@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0556Chapter556PickingThemUpPart3 = {
+  id: "01a0672c-ed07-7000-a0aa-18fe1c3dc5e8",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0556-chapter-556-picking-them-up-part-3",
+  title: "Chapter 556 - Picking Them Up: Part 3",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 556,
+  ownLength: 2606,
+  unit: "unit/words",
+  publishedAt: "2018-04-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "208140",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/208140/chapter-556-picking-them-up-part-3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

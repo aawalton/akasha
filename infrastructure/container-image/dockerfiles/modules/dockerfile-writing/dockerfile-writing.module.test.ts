@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { dockerfileFor } from "akasha/infrastructure/container-image/dockerfiles/modules/dockerfile-writing/dockerfile-writing.module.code.ts"
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const ROOT = process.cwd()
 

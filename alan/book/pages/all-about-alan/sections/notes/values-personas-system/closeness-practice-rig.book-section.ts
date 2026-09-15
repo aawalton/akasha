@@ -1,0 +1,15 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const closenessPracticeRig = {
+  id: "01a06594-c685-7010-ad13-dd3dc563765e",
+  type: "book-section",
+  slug: "closeness-practice-rig",
+  title: "The persona sessions as a closeness-practice rig",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: [
+    "alan-book/all-about-alan",
+    "book-section/all-about-alan/values-personas-system",
+  ],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

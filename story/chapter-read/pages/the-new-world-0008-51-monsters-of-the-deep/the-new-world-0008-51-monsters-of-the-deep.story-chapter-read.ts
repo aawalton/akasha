@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld000851MonstersOfTheDeep = {
+  id: "01a06730-4e32-74c2-ade3-6e3e07c05e46",
+  type: "story-chapter-read",
+  slug: "the-new-world-0008-51-monsters-of-the-deep",
+  title: "51 Monsters of the Deep",
+  story: "story-read/the-new-world",
+  position: 8,
+  ownLength: 3054,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "164412",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/164412/51-monsters-of-the-deep",
+    },
+  ],
+  publishedAt: "2017-09-27",
+  ownProgress: 3054,
+  completedAt: "2026-06-29T21:20:57.963Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

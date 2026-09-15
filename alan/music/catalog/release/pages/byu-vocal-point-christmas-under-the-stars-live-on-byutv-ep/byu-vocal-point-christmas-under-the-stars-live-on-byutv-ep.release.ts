@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const byuVocalPointChristmasUnderTheStarsLiveOnByutvEp = {
+  id: "01a0676a-d71a-7047-8b90-a7b1b7f03aad",
+  type: "release",
+  slug: "byu-vocal-point-christmas-under-the-stars-live-on-byutv-ep",
+  title: "Christmas Under the Stars (Live on BYUtv) - EP",
+  partOfCollections: ["artist/byu-vocal-point"],
+  position: 0,
+  ownLength: 15.774083,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2017-02-17",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5eTmlnGdl96PwATNzrZfFW",
+      externalLink: "https://open.spotify.com/album/5eTmlnGdl96PwATNzrZfFW",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
+} as const satisfies Release

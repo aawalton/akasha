@@ -3,7 +3,7 @@ import {
   linesOf,
   partsIn,
   windowOf,
-} from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
+} from "akasha/check/modules/measuring/check-measuring.module.code.ts"
 import {
   agoOf,
   DAY,
@@ -11,7 +11,7 @@ import {
   HOUR,
   NOW,
   spacedOnce,
-} from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
+} from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
 import {
   costsIn,
   heldIn,
@@ -28,7 +28,7 @@ import {
   THREE,
   TWO,
 } from "akasha/command/pages/measure/change/modules/change-measuring/change-measuring.module.test-fixtures.ts"
-import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
+import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

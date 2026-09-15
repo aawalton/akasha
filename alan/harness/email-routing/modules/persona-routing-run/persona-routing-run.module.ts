@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const personaRoutingRun = {
   id: "01a0a145-492c-7088-9b18-a9912de34fe6",

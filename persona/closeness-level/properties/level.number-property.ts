@@ -1,0 +1,11 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const level = {
+  id: "01a0540e-5113-72f9-856c-77346199f587",
+  type: "number-property",
+  slug: "level",
+  propertySlug: "level",
+  definition: "how far along the closeness ladder this rung is",
+  max: null,
+  types: "ts",
+} as const satisfies NumberProperty

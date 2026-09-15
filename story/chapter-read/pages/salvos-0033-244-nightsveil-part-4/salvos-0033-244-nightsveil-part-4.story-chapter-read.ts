@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0033244NightsveilPart4 = {
+  id: "01a06730-4dd9-7e3a-9cdc-ca62ab658ae8",
+  type: "story-chapter-read",
+  slug: "salvos-0033-244-nightsveil-part-4",
+  title: "244. Nightsveil Part 4",
+  story: "story-read/salvos",
+  position: 33,
+  ownLength: 1971,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "804233",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/804233/244-nightsveil-part-4",
+    },
+  ],
+  publishedAt: "2021-12-11",
+  prose: "txt",
+} as const satisfies StoryChapterRead

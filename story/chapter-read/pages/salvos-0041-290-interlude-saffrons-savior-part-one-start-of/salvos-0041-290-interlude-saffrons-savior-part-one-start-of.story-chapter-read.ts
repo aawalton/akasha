@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0041290InterludeSaffronsSaviorPartOneStartOf = {
+  id: "01a06730-4ddb-7e31-beaf-c92d7447c976",
+  type: "story-chapter-read",
+  slug: "salvos-0041-290-interlude-saffrons-savior-part-one-start-of",
+  title: "290. Interlude - Saffron's Savior Part One (Start of Volume 5 Part 2)",
+  story: "story-read/salvos",
+  position: 41,
+  ownLength: 2311,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "855015",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/855015/290-interlude-saffrons-savior-part-one-start-of",
+    },
+  ],
+  publishedAt: "2022-02-28",
+  prose: "txt",
+} as const satisfies StoryChapterRead

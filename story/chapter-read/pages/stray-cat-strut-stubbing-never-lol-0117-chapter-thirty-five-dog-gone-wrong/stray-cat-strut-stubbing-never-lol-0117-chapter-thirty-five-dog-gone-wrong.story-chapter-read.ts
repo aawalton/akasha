@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0117ChapterThirtyFiveDogGoneWrong = {
+  id: "01a06730-4e0f-7e1d-9d6d-6c24c1b23486",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0117-chapter-thirty-five-dog-gone-wrong",
+  title: "Chapter Thirty-Five - Dog Gone Wrong",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 117,
+  ownLength: 1570,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "638214",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/638214/chapter-thirty-five-dog-gone-wrong",
+    },
+  ],
+  publishedAt: "2021-02-26",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const forgeOfDestiny0117Threads95Diplomacy4 = {
+  id: "01a0672c-eb30-7003-829e-061a8e37305a",
+  type: "story-chapter-read",
+  slug: "forge-of-destiny-0117-threads-95-diplomacy-4",
+  title: "Threads 95-Diplomacy 4",
+  story: "story-read/forge-of-destiny",
+  position: 117,
+  ownLength: 1960,
+  unit: "unit/words",
+  publishedAt: "2021-06-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "699461",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/699461/threads-95-diplomacy-4",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

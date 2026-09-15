@@ -1,9 +1,9 @@
 import { resolve } from "node:path"
-import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { fromInitiative } from "akasha/command/arguments/pages/from-initiative.argument.ts"
-import { statement as statementArgument } from "akasha/command/arguments/pages/statement.argument.ts"
-import { toInitiative } from "akasha/command/arguments/pages/to-initiative.argument.ts"
+import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { fromInitiative } from "akasha/command/argument/pages/from-initiative.argument.ts"
+import { statement as statementArgument } from "akasha/command/argument/pages/statement.argument.ts"
+import { toInitiative } from "akasha/command/argument/pages/to-initiative.argument.ts"
 import {
   answering,
   DATA,
@@ -18,7 +18,7 @@ import {
   type InitiativeIntent,
   type InitiativeRow,
   initiativesDrawn,
-} from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
+} from "akasha/domain/modules/work-initiatives/work-initiatives.module.code.ts"
 
 const PUT = "change-mechanical-file-content/add-property-record"
 

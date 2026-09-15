@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const coldplayBiutyful = {
+  id: "01a0676a-d719-7011-b76e-822579b80dde",
+  type: "release",
+  slug: "coldplay-biutyful",
+  title: "Biutyful",
+  partOfCollections: ["artist/coldplay"],
+  position: 0,
+  ownLength: 3.206567,
+  ownProgress: 3.206567,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-07-06",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "574iaZA34RiT9rM1F2s2IM",
+      externalLink: "https://open.spotify.com/album/574iaZA34RiT9rM1F2s2IM",
+    },
+  ],
+} as const satisfies Release

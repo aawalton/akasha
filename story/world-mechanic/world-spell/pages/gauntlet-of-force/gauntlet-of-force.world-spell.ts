@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-spell.page-type.types.ts"
+
+export const gauntletOfForce = {
+  id: "01a06572-95c6-721c-b35a-b3f63fc0585c",
+  type: "world-spell",
+  slug: "gauntlet-of-force",
+  title: "Gauntlet of Force",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

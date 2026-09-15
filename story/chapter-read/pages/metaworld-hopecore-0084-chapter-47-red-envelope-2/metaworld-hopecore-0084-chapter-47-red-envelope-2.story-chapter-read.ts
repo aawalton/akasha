@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const metaworldHopecore0084Chapter47RedEnvelope2 = {
+  id: "01a06731-aef0-7001-9049-33fe30e57337",
+  type: "story-chapter-read",
+  slug: "metaworld-hopecore-0084-chapter-47-red-envelope-2",
+  title: "CHAPTER 47 - Red Envelope (2) ",
+  story: "story-read/metaworld-hopecore",
+  position: 84,
+  ownLength: 2968,
+  unit: "unit/words",
+  publishedAt: "2026-05-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3437788",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3437788/chapter-47-red-envelope-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

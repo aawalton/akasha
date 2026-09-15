@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const defianceOfTheFall0099Chapter1419CompassFactory = {
+  id: "01a06731-ada1-7000-ba89-8eaa119d3002",
+  type: "story-chapter-read",
+  slug: "defiance-of-the-fall-0099-chapter-1419-compass-factory",
+  title: "Chapter 1,419 - Compass Factory",
+  story: "story-read/defiance-of-the-fall",
+  position: 99,
+  ownLength: 2880,
+  unit: "unit/words",
+  publishedAt: "2026-04-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3244514",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3244514/chapter-1419-compass-factory",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0415Chapter1763Downtown = {
+  id: "01a0672c-eb69-7016-89d3-9468bf790a2a",
+  type: "story-chapter-read",
+  slug: "chrysalis-0415-chapter-1763-downtown",
+  title: "Chapter 1763 - Downtown",
+  story: "story-read/chrysalis",
+  position: 415,
+  ownLength: 1021,
+  unit: "unit/words",
+  publishedAt: "2026-04-02",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3220633",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3220633/chapter-1763-downtown",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

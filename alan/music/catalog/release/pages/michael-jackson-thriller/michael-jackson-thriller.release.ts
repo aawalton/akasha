@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const michaelJacksonThriller = {
+  id: "01a0676a-d72e-7034-b98c-ef8a98a7a914",
+  type: "release",
+  slug: "michael-jackson-thriller",
+  title: "Thriller",
+  partOfCollections: ["artist/michael-jackson"],
+  position: 0,
+  ownLength: 42.3666,
+  ownProgress: 42.3666,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "1982-11-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2ANVost0y2y52ema1E9xAZ",
+      externalLink: "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

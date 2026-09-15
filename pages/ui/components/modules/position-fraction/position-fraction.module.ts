@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
-
-export const positionFraction = {
-  id: "01a05c3b-4fc5-7216-9ef8-0f552ccdcdd3",
-  type: "module",
-  slug: "position-fraction",
-  definition: "Converts playback and scroll positions to clamped 0-1 fractions and back.",
-  code: "ts",
-} as const satisfies Module

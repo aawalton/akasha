@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0519319Curse2Bear3IfYouCurseMeAgain = {
+  id: "01a06730-4ed4-7438-b11d-f3a9d8a1b596",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0519-319-curse-2-bear-3-if-you-curse-me-again",
+  title: "319 Curse 2 Bear 3: If You Curse Me Again",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 519,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3197243/319-curse-2-bear-3-if-you-curse-me-again",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

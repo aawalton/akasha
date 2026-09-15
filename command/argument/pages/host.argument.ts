@@ -1,0 +1,12 @@
+import type { Argument } from "akasha/command/argument/argument.page-type.types.ts"
+
+export const host = {
+  id: "01a094d0-8287-7d0d-be5c-e374fa79fa5e",
+  type: "argument",
+  slug: "host",
+  said: "--host",
+  takes: "which GPU the work runs on",
+  value: "text",
+  placeholder: "where",
+  default: "cluster",
+} as const satisfies Argument

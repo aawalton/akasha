@@ -1,7 +1,7 @@
 import {
   countTap,
   type Tapped,
-} from "akasha/alan/harness/readouts/modules/widget-tap-counting/widget-tap-counting.module.code.ts"
+} from "akasha/alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.code.ts"
 import {
   type DeviceTokenContext,
   resolveDeviceTokenContext,

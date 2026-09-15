@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0140Chapter1492CommanderMeetGoszi = {
+  id: "01a0672c-eb60-7001-9120-ca2335aeb26f",
+  type: "story-chapter-read",
+  slug: "chrysalis-0140-chapter-1492-commander-meet-goszi",
+  title: "Chapter 1492 - Commander, Meet Goszi",
+  story: "story-read/chrysalis",
+  position: 140,
+  ownLength: 1083,
+  ownProgress: 1083,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:48:19.672Z",
+  publishedAt: "2025-01-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2022832",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2022832/chapter-1492-commander-meet-goszi",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

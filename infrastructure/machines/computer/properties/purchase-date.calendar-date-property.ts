@@ -1,0 +1,10 @@
+import type { CalendarDateProperty } from "akasha/page/calendar-date-property/calendar-date-property.page-type.types.ts"
+
+export const purchaseDate = {
+  id: "01a0658c-329a-79ce-ae02-08924526a844",
+  type: "calendar-date-property",
+  slug: "purchase-date",
+  propertySlug: "purchase-date",
+  definition: "the day Alan bought it",
+  types: "ts",
+} as const satisfies CalendarDateProperty

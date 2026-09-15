@@ -1,0 +1,12 @@
+import type { MonarchCategory } from "akasha/alan/harness/monarch/category/monarch-category.page-type.types.ts"
+
+export const shopping = {
+  id: "01a06559-5ea9-7003-8658-3117b67f72f1",
+  type: "monarch-category",
+  slug: "shopping",
+  title: "Shopping",
+  definition: "money spent on things no other category names",
+  monarchId: "148838711654489031",
+  categoryGroup: "General Spending",
+  categoryGroupType: "expense",
+} as const satisfies MonarchCategory

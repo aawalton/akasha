@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const nsync2NSyncUkVersion = {
+  id: "01a0676a-d725-703f-855c-121c9e7c4edd",
+  type: "release",
+  slug: "nsync-2-n-sync-uk-version",
+  title: "'N Sync UK Version",
+  partOfCollections: ["artist/nsync"],
+  position: 0,
+  ownLength: 52.818367,
+  ownProgress: 52.818367,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1997-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6kqqmrKx3jC1IC8uj8nEAe",
+      externalLink: "https://open.spotify.com/album/6kqqmrKx3jC1IC8uj8nEAe",
+    },
+  ],
+} as const satisfies Release

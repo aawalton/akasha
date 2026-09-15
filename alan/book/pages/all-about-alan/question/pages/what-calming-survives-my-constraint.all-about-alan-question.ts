@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const whatCalmingSurvivesMyConstraint = {
+  id: "01a077e9-eb89-7a35-b020-c957a77a7c7b",
+  type: "all-about-alan-question",
+  slug: "what-calming-survives-my-constraint",
+  topic: "all-about-alan-topic/what-calms-me-down",
+  ask: "What calming methods survive the constraint that nothing built on a felt sense or on picturing something has anything in me to work with?",
+} as const satisfies AllAboutAlanQuestion

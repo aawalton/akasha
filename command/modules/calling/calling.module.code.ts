@@ -1,7 +1,7 @@
 import { createRequire } from "node:module"
 import { join, resolve } from "node:path"
-import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import { argumentsNamed } from "akasha/command/arguments/modules/naming/argument-naming.module.code.ts"
+import { costRecorded, opening } from "akasha/check/modules/cost/check-cost.module.code.ts"
+import { argumentsNamed } from "akasha/command/argument/modules/naming/argument-naming.module.code.ts"
 import {
   DATA,
   INPUT,
@@ -48,9 +48,9 @@ import {
   listedById,
   slugsOfType,
   typeSlugById,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 import { meantSaid } from "akasha/utils/text/modules/suggest-closest/suggest-closest.module.code.ts"
 

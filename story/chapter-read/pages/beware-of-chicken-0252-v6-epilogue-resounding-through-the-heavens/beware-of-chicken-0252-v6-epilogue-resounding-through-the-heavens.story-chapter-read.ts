@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0252V6EpilogueResoundingThroughTheHeavens = {
+  id: "01a06731-adc6-7001-b2ae-d132037771ed",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0252-v6-epilogue-resounding-through-the-heavens",
+  title: "v6 Epilogue: Resounding Through the Heavens",
+  story: "story-read/beware-of-chicken",
+  position: 252,
+  ownLength: 1320,
+  ownProgress: 1320,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:00:02.697Z",
+  publishedAt: "2025-09-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2577257",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2577257/v6-epilogue-resounding-through-the-heavens",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

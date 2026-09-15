@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning003636ABattleOfMinds = {
+  id: "01a06731-b054-7000-9f19-ab3da218f9ee",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0036-36-a-battle-of-minds",
+  title: "36. A Battle of Minds",
+  story: "story-read/mother-of-learning",
+  position: 36,
+  ownLength: 7491,
+  ownProgress: 7491,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:45:07.135Z",
+  publishedAt: "2018-11-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "309946",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/309946/36-a-battle-of-minds",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

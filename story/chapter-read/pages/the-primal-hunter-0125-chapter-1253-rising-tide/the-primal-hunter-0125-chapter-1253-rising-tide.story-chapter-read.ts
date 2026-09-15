@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0125Chapter1253RisingTide = {
+  id: "01a06730-4e0c-7ea4-8a4a-a045f667d768",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0125-chapter-1253-rising-tide",
+  title: "Chapter 1253 - Rising Tide",
+  story: "story-read/the-primal-hunter",
+  position: 125,
+  ownLength: 2947,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3036844",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3036844/chapter-1253-rising-tide",
+    },
+  ],
+  publishedAt: "2026-02-11",
+  ownProgress: 2947,
+  completedAt: "2026-06-29T19:34:28.817Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

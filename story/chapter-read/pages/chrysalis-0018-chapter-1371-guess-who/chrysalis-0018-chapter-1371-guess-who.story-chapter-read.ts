@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0018Chapter1371GuessWho = {
+  id: "01a0672c-eb5a-7010-b2aa-0399d14fa0d3",
+  type: "story-chapter-read",
+  slug: "chrysalis-0018-chapter-1371-guess-who",
+  title: "Chapter 1371 - Guess Who?",
+  story: "story-read/chrysalis",
+  position: 18,
+  ownLength: 1191,
+  ownProgress: 1191,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:44:13.699Z",
+  publishedAt: "2024-07-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1720788",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1720788/chapter-1371-guess-who",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

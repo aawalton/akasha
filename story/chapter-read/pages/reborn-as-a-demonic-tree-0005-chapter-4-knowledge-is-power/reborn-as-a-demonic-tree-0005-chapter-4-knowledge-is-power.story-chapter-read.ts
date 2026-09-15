@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const rebornAsADemonicTree0005Chapter4KnowledgeIsPower = {
+  id: "01a06730-4dc4-7a97-ac55-8780cf56c045",
+  type: "story-chapter-read",
+  slug: "reborn-as-a-demonic-tree-0005-chapter-4-knowledge-is-power",
+  title: "Chapter 4: Knowledge is Power",
+  story: "story-read/reborn-as-a-demonic-tree",
+  position: 5,
+  ownLength: 2032,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1081384",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081384/chapter-4-knowledge-is-power",
+    },
+  ],
+  publishedAt: "2023-01-07",
+  ownProgress: 2032,
+  completedAt: "2026-06-29T19:01:39.127Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,11 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const filterTypes = {
+  id: "01a05fcb-fd30-7932-a064-b223a00b2859",
+  type: "number-property",
+  slug: "filter-types",
+  propertySlug: "filter-types",
+  definition: "an inventory filter The Elder Scrolls Online numbers",
+  max: null,
+  types: "ts",
+} as const satisfies NumberProperty

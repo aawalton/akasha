@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Landed, Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import { rowsIn } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { TOGETHER } from "akasha/command/modules/orphaning/orphaning.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
+import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

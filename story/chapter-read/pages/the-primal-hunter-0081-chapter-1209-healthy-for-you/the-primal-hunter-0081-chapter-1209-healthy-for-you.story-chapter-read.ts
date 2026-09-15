@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0081Chapter1209HealthyForYou = {
+  id: "01a06730-4df4-7205-8f8a-a06a95690ac1",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0081-chapter-1209-healthy-for-you",
+  title: 'Chapter 1209 - "Healthy For You."',
+  story: "story-read/the-primal-hunter",
+  position: 81,
+  ownLength: 2706,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2792194",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2792194/chapter-1209-healthy-for-you",
+    },
+  ],
+  publishedAt: "2025-11-25",
+  ownProgress: 2706,
+  completedAt: "2026-06-29T19:31:50.081Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

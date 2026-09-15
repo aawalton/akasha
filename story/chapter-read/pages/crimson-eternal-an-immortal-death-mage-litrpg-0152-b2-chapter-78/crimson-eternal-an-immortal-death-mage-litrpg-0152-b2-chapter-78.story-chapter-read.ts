@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const crimsonEternalAnImmortalDeathMageLitrpg0152B2Chapter78 = {
+  id: "01a0672c-ec74-700f-af48-a0da73e84b5f",
+  type: "story-chapter-read",
+  slug: "crimson-eternal-an-immortal-death-mage-litrpg-0152-b2-chapter-78",
+  title: "B2 | Chapter 78",
+  story: "story-read/crimson-eternal-an-immortal-death-mage-litrpg",
+  position: 152,
+  ownLength: 1491,
+  ownProgress: 1491,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:10:53.248Z",
+  publishedAt: "2024-05-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1619102",
+      externalLink:
+        "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/1619102/b2-chapter-78",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

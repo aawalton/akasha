@@ -2,8 +2,8 @@ import {
   nameOf,
   supervisorOf,
 } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { everySeat } from "akasha/command/arguments/pages/every-seat.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { everySeat } from "akasha/command/argument/pages/every-seat.argument.ts"
 import {
   answering,
   DATA,
@@ -13,13 +13,13 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { seatSupervisorRestart as page } from "akasha/command/pages/seat/supervisor/restart/seat-supervisor-restart.command.ts"
-import type { Holder } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
-import { alive } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
+import type { Holder } from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
+import { alive } from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
 import {
   everyOfType,
   typeSlugOf,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 

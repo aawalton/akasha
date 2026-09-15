@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0192Chapter684TheDiscussionEnds = {
+  id: "01a06731-ae81-7000-9912-cc831ae7d80d",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0192-chapter-684-the-discussion-ends",
+  title: "Chapter: 684 - The Discussion Ends",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 192,
+  ownLength: 3021,
+  ownProgress: 3021,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:41:12.952Z",
+  publishedAt: "2026-03-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3165124",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3165124/chapter-684-the-discussion-ends",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

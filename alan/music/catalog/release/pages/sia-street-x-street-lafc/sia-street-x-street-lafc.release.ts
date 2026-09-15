@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaStreetXStreetLafc = {
+  id: "01a0676a-d72a-702f-9053-2b3b85e9226d",
+  type: "release",
+  slug: "sia-street-x-street-lafc",
+  title: "STREET X STREET (LAFC)",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 2.8857,
+  ownProgress: 2.8857,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-07-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0JRb0dJsfPJtDJ5MIIpGZF",
+      externalLink: "https://open.spotify.com/album/0JRb0dJsfPJtDJ5MIIpGZF",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

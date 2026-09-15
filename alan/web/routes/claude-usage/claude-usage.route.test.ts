@@ -6,7 +6,7 @@ import {
   type ClaudeUsageAnswers,
   type UsageWidgetPayload,
 } from "akasha/alan/web/routes/claude-usage/claude-usage.route.code.ts"
-import type { Asked } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
+import type { Asked } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
 const NOW = Date.parse("2026-09-01T20:00:00.000Z")
 const HOUR = 3_600_000

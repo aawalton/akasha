@@ -4,7 +4,7 @@ import {
   type NameableSeat,
 } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { composedNameOf } from "akasha/agent/seat/name/modules/seat-rename/seat-rename.module.code.ts"
-import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
+import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 export function nameStanding(agent: string, root: string, next: NameableSeat): string | null {
   if (!lowerUuid(agent.toLowerCase())) return null

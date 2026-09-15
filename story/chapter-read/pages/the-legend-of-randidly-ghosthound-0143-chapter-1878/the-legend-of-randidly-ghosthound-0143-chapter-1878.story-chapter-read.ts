@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theLegendOfRandidlyGhosthound0143Chapter1878 = {
+  id: "01a06730-4e0f-7da5-af48-70c780489221",
+  type: "story-chapter-read",
+  slug: "the-legend-of-randidly-ghosthound-0143-chapter-1878",
+  title: "Chapter 1878",
+  story: "story-read/the-legend-of-randidly-ghosthound",
+  position: 143,
+  ownLength: 2075,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "896988",
+      externalLink:
+        "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/896988/chapter-1878",
+    },
+  ],
+  publishedAt: "2022-04-29",
+  ownProgress: 2075,
+  completedAt: "2026-06-29T21:43:03.350Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

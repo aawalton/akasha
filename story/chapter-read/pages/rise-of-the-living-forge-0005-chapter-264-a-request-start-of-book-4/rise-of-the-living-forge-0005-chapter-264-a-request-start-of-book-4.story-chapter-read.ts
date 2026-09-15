@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const riseOfTheLivingForge0005Chapter264ARequestStartOfBook4 = {
+  id: "01a06730-4e07-77e5-9350-4b4cf2c7d76f",
+  type: "story-chapter-read",
+  slug: "rise-of-the-living-forge-0005-chapter-264-a-request-start-of-book-4",
+  title: "Chapter 264: A Request & START OF BOOK 4",
+  story: "story-read/rise-of-the-living-forge",
+  position: 5,
+  ownLength: 1748,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1769793",
+      externalLink:
+        "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1769793/chapter-264-a-request-start-of-book-4",
+    },
+  ],
+  publishedAt: "2024-08-22",
+  ownProgress: 1748,
+  completedAt: "2026-06-29T19:58:37.091Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

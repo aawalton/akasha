@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaFloatingThroughSpaceFeatDavidGuettaJimOumaRemix = {
+  id: "01a0676a-d71e-7016-820c-5c9d32541cc9",
+  type: "release",
+  slug: "sia-floating-through-space-feat-david-guetta-jim-ouma-remix",
+  title: "Floating Through Space (feat. David Guetta) [JIM OUMA Remix]",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 5.474233,
+  ownProgress: 5.474233,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-04-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4zk1FVSi3R3iS6xvoTg8ij",
+      externalLink: "https://open.spotify.com/album/4zk1FVSi3R3iS6xvoTg8ij",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

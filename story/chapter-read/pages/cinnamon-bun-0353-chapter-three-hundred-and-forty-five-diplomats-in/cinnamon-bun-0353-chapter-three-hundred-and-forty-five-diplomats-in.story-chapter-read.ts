@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0353ChapterThreeHundredAndFortyFiveDiplomatsIn = {
+  id: "01a0672c-eb1c-700e-ad71-7763b73e074e",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0353-chapter-three-hundred-and-forty-five-diplomats-in",
+  title: "Chapter Three Hundred and Forty-Five - Diplomats in Distress",
+  story: "story-read/cinnamon-bun",
+  position: 353,
+  ownLength: 2037,
+  unit: "unit/words",
+  publishedAt: "2022-09-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "999969",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/999969/chapter-three-hundred-and-forty-five-diplomats",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

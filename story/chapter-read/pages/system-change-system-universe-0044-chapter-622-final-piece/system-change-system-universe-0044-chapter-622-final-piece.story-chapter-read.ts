@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const systemChangeSystemUniverse0044Chapter622FinalPiece = {
+  id: "01a06730-4fba-7f0d-944f-f7262f07cd4c",
+  type: "story-chapter-read",
+  slug: "system-change-system-universe-0044-chapter-622-final-piece",
+  title: "Chapter 622: Final Piece",
+  story: "story-read/system-change-system-universe",
+  position: 44,
+  ownLength: 2055,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2962880",
+      externalLink:
+        "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2962880/chapter-622-final-piece",
+    },
+  ],
+  publishedAt: "2026-01-21",
+  ownProgress: 2055,
+  completedAt: "2026-06-29T19:58:08.778Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

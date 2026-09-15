@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0625Chapter581ToKillDeath = {
+  id: "01a0672c-ec68-7001-868b-3bee1847c753",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0625-chapter-581-to-kill-death",
+  title: "Chapter 581: To Kill Death",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 625,
+  ownLength: 3532,
+  unit: "unit/words",
+  publishedAt: "2026-03-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3183617",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3183617/chapter-581-to-kill-death",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -2,7 +2,7 @@ import {
   followState,
   readState,
   stateAt,
-} from "akasha/alan/harness/code-editor/data-interfaces/modules/state-reading/state-reading.module.code.ts"
+} from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
 import { countRows } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import { openAgentPage } from "akasha/code/editor/extension/modules/agent-page-opening/agent-page-opening.module.code.ts"
 import type { AgentNode } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"

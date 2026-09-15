@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { scope } from "akasha/command/arguments/pages/scope.argument.ts"
-import { toggle } from "akasha/command/arguments/pages/toggle.argument.ts"
-import { value } from "akasha/command/arguments/pages/value.argument.ts"
+import { scope } from "akasha/command/argument/pages/scope.argument.ts"
+import { toggle } from "akasha/command/argument/pages/toggle.argument.ts"
+import { value } from "akasha/command/argument/pages/value.argument.ts"
 import {
   INPUT,
   OPERATIONAL,

@@ -18,9 +18,9 @@ import {
   shellRepoRoot,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { simRunSharedRepoPaths } from "akasha/alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { app } from "akasha/command/arguments/pages/app.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { app } from "akasha/command/argument/pages/app.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   answering,
   asJson,
@@ -30,7 +30,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mobileCutStatus as page } from "akasha/command/pages/mobile/cut/status/mobile-cut-status.command.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const MAIN = "origin/main"
 

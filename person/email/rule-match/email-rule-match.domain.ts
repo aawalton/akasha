@@ -1,0 +1,9 @@
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+
+export const emailRuleMatch = {
+  id: "01a0675b-16e8-7e4f-aec4-53ce7ef4bf2d",
+  type: "domain",
+  slug: "email-rule-match",
+  definition: "which mail an email rule applies to",
+  parts: ["domain/email-rule-match-condition"],
+} as const satisfies Domain

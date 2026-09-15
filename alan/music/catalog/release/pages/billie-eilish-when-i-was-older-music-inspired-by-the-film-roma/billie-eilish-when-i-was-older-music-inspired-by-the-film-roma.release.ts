@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const billieEilishWhenIWasOlderMusicInspiredByTheFilmRoma = {
+  id: "01a0676a-d730-7055-9afd-85fb9eb9a9b5",
+  type: "release",
+  slug: "billie-eilish-when-i-was-older-music-inspired-by-the-film-roma",
+  title: "WHEN I WAS OLDER (Music Inspired By The Film ROMA)",
+  partOfCollections: ["artist/billie-eilish"],
+  position: 0,
+  ownLength: 4.50865,
+  ownProgress: 4.50865,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2019-01-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0LgnntyagLdfW5Dz2OSYHU",
+      externalLink: "https://open.spotify.com/album/0LgnntyagLdfW5Dz2OSYHU",
+    },
+  ],
+} as const satisfies Release

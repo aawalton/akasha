@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHenderson21ReasonsFeatEllaHenderson = {
+  id: "01a0676a-d714-7028-822d-708dbe646e16",
+  type: "release",
+  slug: "ella-henderson-21-reasons-feat-ella-henderson",
+  title: "21 Reasons (feat. Ella Henderson)",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 2.58755,
+  ownProgress: 2.58755,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-04-29",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "118PKNjhP4NWcrW5OjMwzc",
+      externalLink: "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

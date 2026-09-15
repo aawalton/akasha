@@ -1,0 +1,10 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const frameConfig = {
+  id: "01a05c7d-d06d-78ef-ac98-425ed71ab9d4",
+  type: "module",
+  slug: "frame-config",
+  definition:
+    "what a frame's configuration says about its edges, its focus and where it scrolls on load",
+  code: "ts",
+} as const satisfies Module

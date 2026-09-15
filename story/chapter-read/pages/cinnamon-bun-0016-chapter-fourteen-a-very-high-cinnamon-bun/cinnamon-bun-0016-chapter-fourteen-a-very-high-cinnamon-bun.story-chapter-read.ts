@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0016ChapterFourteenAVeryHighCinnamonBun = {
+  id: "01a0672c-eb02-7006-945c-eee3f14dc989",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0016-chapter-fourteen-a-very-high-cinnamon-bun",
+  title: "Chapter Fourteen - A Very High Cinnamon Bun",
+  story: "story-read/cinnamon-bun",
+  position: 16,
+  ownLength: 2340,
+  unit: "unit/words",
+  publishedAt: "2020-05-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "490458",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/490458/chapter-fourteen-a-very-high-cinnamon-bun",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

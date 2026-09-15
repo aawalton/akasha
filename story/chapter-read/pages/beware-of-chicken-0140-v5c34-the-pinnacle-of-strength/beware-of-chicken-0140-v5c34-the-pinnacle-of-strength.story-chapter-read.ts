@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0140V5c34ThePinnacleOfStrength = {
+  id: "01a06731-ad9b-7001-b8af-24ac6d475d46",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0140-v5c34-the-pinnacle-of-strength",
+  title: "v5c34: The Pinnacle of Strength",
+  story: "story-read/beware-of-chicken",
+  position: 140,
+  ownLength: 1914,
+  ownProgress: 1914,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:56:05.566Z",
+  publishedAt: "2024-08-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1762172",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1762172/v5c34-the-pinnacle-of-strength",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

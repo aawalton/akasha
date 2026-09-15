@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning009898BeneathTheSurface = {
+  id: "01a06731-b0b8-7000-a4a2-e8e73a8e4829",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0098-98-beneath-the-surface",
+  title: "98. Beneath the Surface",
+  story: "story-read/mother-of-learning",
+  position: 98,
+  ownLength: 7244,
+  ownProgress: 7244,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:49:48.780Z",
+  publishedAt: "2019-04-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "353454",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/353454/98-beneath-the-surface",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

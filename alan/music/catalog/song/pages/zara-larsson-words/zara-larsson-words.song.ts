@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const zaraLarssonWords = {
+  id: "019ea49f-0fd6-71c1-8a18-a5455793a37f",
+  type: "song",
+  slug: "zara-larsson-words",
+  title: "Words",
+  artist: "artist/zara-larsson",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "45dc502d-159e-4db2-8868-399656c7d61c",
+      externalLink: "https://musicbrainz.org/work/45dc502d-159e-4db2-8868-399656c7d61c",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "collab",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

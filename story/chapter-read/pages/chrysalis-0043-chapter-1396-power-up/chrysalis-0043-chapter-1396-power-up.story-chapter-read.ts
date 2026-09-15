@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0043Chapter1396PowerUp = {
+  id: "01a0672c-eb5b-7011-bc83-776a8d4f1691",
+  type: "story-chapter-read",
+  slug: "chrysalis-0043-chapter-1396-power-up",
+  title: "Chapter 1396 - Power Up",
+  story: "story-read/chrysalis",
+  position: 43,
+  ownLength: 983,
+  ownProgress: 983,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:45:00.675Z",
+  publishedAt: "2024-08-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1776045",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1776045/chapter-1396-power-up",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

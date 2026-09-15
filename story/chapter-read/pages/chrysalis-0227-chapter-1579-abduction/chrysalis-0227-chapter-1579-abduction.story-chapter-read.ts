@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0227Chapter1579Abduction = {
+  id: "01a0672c-eb63-7001-9e6b-b92d7bb410eb",
+  type: "story-chapter-read",
+  slug: "chrysalis-0227-chapter-1579-abduction",
+  title: "Chapter 1579 - Abduction",
+  story: "story-read/chrysalis",
+  position: 227,
+  ownLength: 969,
+  ownProgress: 969,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:51:04.592Z",
+  publishedAt: "2025-06-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2333911",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2333911/chapter-1579-abduction",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,406 @@
+import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+import {
+  answerStoplightsAdmittedBy,
+  inPlaceOrder,
+  stoplightsInGroup,
+} from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
+import {
+  ANSWERED,
+  agedOut,
+  answeredAfresh,
+  drawn,
+  figureOffScaleOn,
+  GROUP,
+  GROUP_ROW,
+  keysAnswered,
+  keysDrawn,
+  OTHER,
+  OTHER_ROW,
+  offScaleDrawn,
+  oneDrawn,
+  READOUT,
+  READOUT_ROW,
+  rowReading,
+  SCALE_ROW,
+  servingStore,
+  stoplights,
+  storeGoes,
+  WIRE_KEY_NAME,
+} from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
+import { dropRelayed } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
+import { relayedFor } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"
+import { readingHeldOn } from "akasha/alan/harness/readout/modules/serving/readout-serving.module.code.ts"
+
+let store: ReturnType<typeof Bun.serve>
+
+beforeAll(() => {
+  store = servingStore()
+})
+
+afterAll(() => {
+  storeGoes(store)
+})
+
+beforeEach(() => {
+  dropRelayed()
+  answeredAfresh()
+})
+
+test("a refusal a guard answers is served whole rather than made again here", async () => {
+  const refused = await answerStoplightsAdmittedBy(
+    new Request("http://a.test/"),
+    () => new Response("held back", { status: 403 }),
+    GROUP
+  )
+  expect(refused.status).toBe(403)
+  expect(await refused.text()).toBe("held back")
+})
+
+test("a group no readout is left in is answered as no reading rather than as empty", async () => {
+  ANSWERED.readouts = []
+  const answered = await drawn()
+  expect(answered.status).toBe(503)
+  expect(await answered.json()).toEqual({ ok: false, error: "No reading." })
+})
+
+test("every readout the group admits is answered as a stoplight", async () => {
+  const withNothingCarried = await stoplights()
+  expect(withNothingCarried.length).toBe(1)
+
+  relayedFor(READOUT, 3, agedOut())
+  expect((await stoplights()).length).toBe(1)
+
+  dropRelayed()
+  relayedFor(READOUT, 3)
+  expect((await stoplights()).length).toBe(1)
+})
+
+test("a readout carrying no reading is answered as a stoplight carrying no figure", async () => {
+  const [one] = await stoplights()
+  expect(one?.label).toBe("Safety")
+  expect(one?.habit).toBe("safety")
+  expect(one?.readingHeld).toBe("none")
+})
+
+test("a reading taken long ago is answered as a stoplight carrying its figure", async () => {
+  const one = await oneDrawn(3, agedOut())
+  expect(one?.label).toBe("Safety")
+  expect(one?.habit).toBe("safety")
+  expect(one?.reading).toBe("3")
+  expect(one?.readingHeld).toBeUndefined()
+})
+
+test("a stoplight carrying no figure says no reading was taken", async () => {
+  expect((await stoplights())[0]?.readingHeld).toBe("none")
+})
+
+test("a reading of zero is a reading rather than an absence", async () => {
+  relayedFor(READOUT, 0)
+  const [carried] = await stoplights()
+  expect(carried?.reading).toBe("0")
+  expect(carried?.readingHeld).toBeUndefined()
+
+  dropRelayed()
+  const [absent] = await stoplights()
+  expect(absent?.reading).toBe("")
+  expect(absent?.readingHeld).toBe("none")
+})
+
+test("the color of a stoplight carrying no figure is the color below every rung", async () => {
+  const tier = (await stoplights())[0]?.tier ?? "no color was answered"
+  expect(tier).toBe("black")
+  expect(["black", "red", "orange", "yellow", "green", "blue"]).toContain(tier)
+})
+
+test("a stoplight carrying no figure carries the figure as empty text rather than leaving it out", async () => {
+  expect(await keysAnswered()).toContain("reading")
+  expect((await stoplights())[0]?.reading).toBe("")
+})
+
+test("a stoplight carrying no figure carries no tier above and no fraction climbed", async () => {
+  const [never] = await stoplights()
+  expect(never?.nextTier).toBeUndefined()
+  expect(never?.progress).toBeUndefined()
+})
+
+test("a stoplight carrying a reading says nothing of how that reading is held", async () => {
+  relayedFor(READOUT, 2.5)
+  expect(await keysAnswered()).not.toContain("readingHeld")
+})
+
+test("a readout whose page names no wire key is left out rather than answered keyless", async () => {
+  ANSWERED.readouts = [{ ...READOUT_ROW, wireKey: "  " }]
+  expect((await drawn()).status).toBe(503)
+
+  relayedFor(READOUT, 3)
+  expect((await drawn()).status).toBe(503)
+})
+
+test("the color answered is the rung the reading reaches on the scale the readout names", async () => {
+  const one = await oneDrawn(2.5)
+  expect(one?.tier).toBe("yellow")
+  expect(one?.nextTier).toBe("green")
+  expect(one?.progress).toBe(0.5)
+})
+
+test("the label and the key answered are the ones the readout's own page carries", async () => {
+  const one = await oneDrawn(3)
+  expect(one?.label).toBe("Safety")
+  expect(one?.habit).toBe("safety")
+})
+
+test("the wire key is answered under the key the caller names", async () => {
+  relayedFor(READOUT, 3)
+  const keys = await keysAnswered(WIRE_KEY_NAME)
+  expect(keys).toContain(WIRE_KEY_NAME)
+  expect(keys).not.toContain("habit")
+})
+
+test("a caller naming no key for the wire key has the wire key answered under habit", async () => {
+  relayedFor(READOUT, 3)
+  const keys = await keysAnswered()
+  expect(keys).toContain("habit")
+  expect(keys).not.toContain(WIRE_KEY_NAME)
+})
+
+test("the key the caller names is answered first, where the key answered before it was", async () => {
+  relayedFor(READOUT, 3)
+  expect((await keysAnswered(WIRE_KEY_NAME))[0]).toBe(WIRE_KEY_NAME)
+  dropRelayed()
+  relayedFor(READOUT, 3)
+  expect((await keysAnswered())[0]).toBe("habit")
+})
+
+test("the key the caller names carries a stoplight that carries no figure too", async () => {
+  expect(await keysAnswered(WIRE_KEY_NAME)).toContain(WIRE_KEY_NAME)
+  expect(await keysAnswered()).toContain("habit")
+})
+
+test("a reading under ten keeps one decimal place", async () => {
+  expect((await oneDrawn(2.5))?.reading).toBe("2.5")
+  dropRelayed()
+  expect((await oneDrawn(-1.5))?.reading).toBe("-1.5")
+})
+
+test("a reading added up out of hours is floored to one decimal place", async () => {
+  expect((await oneDrawn(-0.008333333333334636))?.reading).toBe("-0.1")
+})
+
+test("a reading is never answered as the whole tail of the float it was added up from", async () => {
+  const said = (await oneDrawn(2.6666666666666665))?.reading ?? ""
+  expect(said.length).toBeLessThanOrEqual(6)
+  expect(said).toBe("2.6")
+})
+
+test("a reading below every rung is black rather than left out", async () => {
+  const one = await oneDrawn(-2)
+  expect(one?.tier).toBe("black")
+  expect(one?.nextTier).toBe("red")
+  expect(one?.progress).toBeUndefined()
+  expect(one?.readingHeld).toBeUndefined()
+})
+
+test("a reading on the highest rung has no tier above that rung", async () => {
+  const one = await oneDrawn(5)
+  expect(one?.tier).toBe("blue")
+  expect(one?.nextTier).toBeUndefined()
+})
+
+test("a reading inside the window is still a reading", async () => {
+  const one = await oneDrawn(3, new Date(Date.now() - 44 * 60_000))
+  expect(one?.reading).toBe("3")
+  expect(one?.readingHeld).toBeUndefined()
+})
+
+test("a readout whose page names no label is left out rather than labelled here", async () => {
+  relayedFor(READOUT, 3)
+  ANSWERED.readouts = [{ ...READOUT_ROW, label: "  " }]
+  expect((await drawn()).status).toBe(503)
+})
+
+test("a readout whose page names no scale is left out rather than colored", async () => {
+  relayedFor(READOUT, 3)
+  ANSWERED.readouts = [{ slug: READOUT, label: "Safety" }]
+  expect((await drawn()).status).toBe(503)
+})
+
+test("a scale the store withholds leaves its readout out rather than colored", async () => {
+  relayedFor(READOUT, 3)
+  ANSWERED.scales = []
+  expect((await drawn()).status).toBe(503)
+})
+
+test("the readouts are answered in the order the place on each page states", () => {
+  const ordered = inPlaceOrder([
+    { slug: "c", place: 9 },
+    { slug: "a", place: 1 },
+    { slug: "b", place: 4 },
+  ])
+  expect(ordered.map((row) => row.slug)).toEqual(["a", "b", "c"])
+})
+
+test("a caller wanting the colors without a route asks for the group on its own", async () => {
+  relayedFor(READOUT, 3)
+  const held = await stoplightsInGroup(GROUP)
+  expect(held.length).toBe(1)
+  expect(held[0]?.habit).toBe("safety")
+  expect(held[0]?.tier).toBe("green")
+})
+
+test("where each reading is read from is handed in rather than settled here", async () => {
+  ANSWERED.readouts = [{ ...READOUT_ROW, lastValue: 2.5, lastValueAt: new Date().toISOString() }]
+  const carried = await stoplightsInGroup(GROUP, "habit", readingHeldOn)
+  expect(carried[0]?.tier).toBe("yellow")
+  expect(carried[0]?.readingHeld).toBeUndefined()
+})
+
+test("a caller handing in nothing has the reading the relay holds read first", async () => {
+  ANSWERED.readouts = rowReading(2.5)
+  relayedFor(READOUT, 5)
+  const [one] = await stoplights()
+  expect(one?.reading).toBe("5")
+  expect(one?.tier).toBe("blue")
+})
+
+test("a caller handing in nothing has the row's own reading read where the relay holds none", async () => {
+  ANSWERED.readouts = rowReading(2.5)
+  const drawnFromTheRow = await stoplightsInGroup(GROUP)
+  expect(drawnFromTheRow[0]?.reading).toBe("2.5")
+  expect(drawnFromTheRow[0]?.tier).toBe("yellow")
+  expect(drawnFromTheRow[0]?.readingHeld).toBeUndefined()
+})
+
+test("a reading on neither the relay nor the row is answered as never taken", async () => {
+  const [one] = await stoplights()
+  expect(one?.reading).toBe("")
+  expect(one?.tier).toBe("black")
+  expect(one?.readingHeld).toBe("none")
+})
+
+test("a reading on the row taken long ago is answered as the figure it holds", async () => {
+  ANSWERED.readouts = rowReading(2.5, agedOut())
+  const [one] = await stoplights()
+  expect(one?.reading).toBe("2.5")
+  expect(one?.tier).toBe("yellow")
+  expect(one?.readingHeld).toBeUndefined()
+})
+
+test("nothing between here and the tile is allowed to keep an answer", async () => {
+  relayedFor(READOUT, 3)
+  expect((await drawn()).headers.get("Cache-Control")).toBe("no-store")
+  dropRelayed()
+  expect((await drawn()).headers.get("Cache-Control")).toBe("no-store")
+})
+
+test("a readout whose page stills the readout is left out rather than answered", async () => {
+  relayedFor(READOUT, 3)
+  relayedFor(OTHER, 3)
+  ANSWERED.readouts = [READOUT_ROW, { ...OTHER_ROW, enabled: false }]
+  expect(await keysDrawn()).toEqual(["safety"])
+})
+
+test("a readout whose page states nothing about being stilled is answered", async () => {
+  relayedFor(READOUT, 3)
+  relayedFor(OTHER, 3)
+  ANSWERED.readouts = [READOUT_ROW, OTHER_ROW]
+  expect(await keysDrawn()).toEqual(["safety", "surplus"])
+})
+
+test("a readout stilled and then stilled no longer is answered again", async () => {
+  relayedFor(READOUT, 3)
+  relayedFor(OTHER, 3)
+  ANSWERED.readouts = [READOUT_ROW, { ...OTHER_ROW, enabled: false }]
+  expect(await keysDrawn()).toEqual(["safety"])
+  ANSWERED.readouts = [READOUT_ROW, { ...OTHER_ROW, enabled: true }]
+  expect(await keysDrawn()).toEqual(["safety", "surplus"])
+})
+
+test("a stilled readout keeps its place for the readouts left beside it", async () => {
+  relayedFor(READOUT, 3)
+  relayedFor(OTHER, 3)
+  ANSWERED.readouts = [{ ...READOUT_ROW, enabled: false }, OTHER_ROW]
+  expect(await keysDrawn()).toEqual(["surplus"])
+})
+
+test("a group every readout of which is stilled is answered as no reading", async () => {
+  relayedFor(READOUT, 3)
+  ANSWERED.readouts = [{ ...READOUT_ROW, enabled: false }]
+  expect((await drawn()).status).toBe(503)
+})
+
+test("a group stating it draws a figure off scale carries that on each reading", async () => {
+  relayedFor(READOUT, 5)
+  ANSWERED.groups = [{ ...GROUP_ROW, figureOffScale: true }]
+  expect(await offScaleDrawn()).toBe(true)
+})
+
+test("a group stating nothing carries no answer about a figure off scale", async () => {
+  relayedFor(READOUT, 5)
+  expect(await offScaleDrawn()).toBeUndefined()
+})
+
+test("a group stating it draws no figure off scale carries no answer either", async () => {
+  relayedFor(READOUT, 5)
+  ANSWERED.groups = [{ ...GROUP_ROW, figureOffScale: false }]
+  expect(await offScaleDrawn()).toBeUndefined()
+})
+
+test("a group the store holds no page for carries no answer", async () => {
+  relayedFor(READOUT, 5)
+  ANSWERED.groups = []
+  expect(await offScaleDrawn()).toBeUndefined()
+})
+
+test("a group drawing a figure off scale carries that on every reading it sends", async () => {
+  relayedFor(READOUT, 5)
+  relayedFor(OTHER, 5)
+  ANSWERED.readouts = [READOUT_ROW, OTHER_ROW]
+  ANSWERED.groups = [{ ...GROUP_ROW, figureOffScale: true }]
+  const sent = await stoplightsInGroup(GROUP)
+  expect(sent.map(figureOffScaleOn)).toEqual([true, true])
+})
+
+test("a scale is still answered as a scale now that groups are answered too", async () => {
+  relayedFor(READOUT, 2.5)
+  expect((await stoplights())[0]?.tier).toBe("yellow")
+  ANSWERED.scales = [SCALE_ROW]
+  expect((await stoplights())[0]?.nextTier).toBe("green")
+})
+
+test("a stoplight whose reading falls with the clock carries the moment and the rate", async () => {
+  const took = new Date()
+  const one = await oneDrawn(2.5, took, 2)
+  expect(one?.takenAt).toBe(took.toISOString())
+  expect(one?.fallsPerHour).toBe(2)
+})
+
+test("a falling stoplight carries the rungs of the scale it was colored with", async () => {
+  const one = await oneDrawn(2.5, new Date(), 2)
+  expect(one?.rungs).toEqual([
+    { at: 0, color: "black" },
+    { at: 1, color: "red" },
+    { at: 2, color: "yellow" },
+    { at: 3, color: "green" },
+    { at: 4, color: "blue" },
+  ])
+})
+
+test("a stoplight whose reading falls at nothing an hour carries neither", async () => {
+  relayedFor(READOUT, 2.5, new Date(), 0)
+  const keys = await keysAnswered()
+  expect(keys).not.toContain("takenAt")
+  expect(keys).not.toContain("fallsPerHour")
+  expect(keys).not.toContain("rungs")
+})
+
+test("a stoplight carrying no figure carries no moment and no rate", async () => {
+  const [one] = await stoplights()
+  expect(one?.reading).toBe("")
+  expect(one?.takenAt).toBeUndefined()
+  expect(one?.fallsPerHour).toBeUndefined()
+})
+
+test("a rate on the readout's own row is carried as the relay's rate is", async () => {
+  ANSWERED.readouts = rowReading(2.5, new Date(), 4)
+  expect((await stoplightsInGroup(GROUP))[0]?.fallsPerHour).toBe(4)
+})

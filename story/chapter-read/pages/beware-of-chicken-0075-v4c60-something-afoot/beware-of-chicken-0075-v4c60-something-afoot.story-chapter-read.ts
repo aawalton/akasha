@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0075V4c60SomethingAfoot = {
+  id: "01a06731-ad82-7003-beb1-a1030e9da95a",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0075-v4c60-something-afoot",
+  title: "v4c60: Something Afoot",
+  story: "story-read/beware-of-chicken",
+  position: 75,
+  ownLength: 1760,
+  ownProgress: 1760,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:53:59.570Z",
+  publishedAt: "2023-11-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1417002",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1417002/v4c60-something-afoot",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherAStarvedGoodChannelFedTheScar = {
-  id: "01a077e4-8397-7061-b25c-caa89089aa41",
-  type: "all-about-alan-question",
-  slug: "whether-a-starved-good-channel-fed-the-scar",
-  topic: "all-about-alan-topic/when-someone-says-something-good",
-  ask: "Did appreciation never landing feed the scar, so that the good channel was starved rather than the bad channel being loud?",
-} as const satisfies AllAboutAlanQuestion

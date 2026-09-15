@@ -1,0 +1,21 @@
+import type { RecordProperty } from "akasha/page/record-property/record-property.page-type.types.ts"
+
+export const topicCapture = {
+  id: "01a0659f-93da-7010-a67c-81b8b0e31d4b",
+  type: "record-property",
+  slug: "topic-capture",
+  propertySlug: "capture",
+  definition: "the transcript a topic's score was read out of, and how far it was read",
+  properties: [
+    { pageProperty: "text-property/capture-source", required: true, many: false },
+    { pageProperty: "number-property/capture-through-line", required: true, many: false },
+    { pageProperty: "instant-property/capture-through-at", required: true, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A topic scored from Alan's own words in the room states no capture.",
+    },
+  ],
+  types: "ts",
+} as const satisfies RecordProperty

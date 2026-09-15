@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const michaelJacksonLoveNeverFeltSoGoodFeddeLeGrandRemixRadioEdit = {
+  id: "01a0676a-d723-7077-8559-299702c96ce3",
+  type: "release",
+  slug: "michael-jackson-love-never-felt-so-good-fedde-le-grand-remix-radio-edit",
+  title: "Love Never Felt So Good (Fedde Le Grand Remix Radio Edit)",
+  partOfCollections: ["artist/michael-jackson"],
+  position: 0,
+  ownLength: 3.43625,
+  ownProgress: 3.43625,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2014-05-19",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6JXkWyhiS8cLHvXeF8kjtd",
+      externalLink: "https://open.spotify.com/album/6JXkWyhiS8cLHvXeF8kjtd",
+      lastSyncedAt: "2025-10-04",
+    },
+  ],
+} as const satisfies Release

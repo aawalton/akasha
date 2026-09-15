@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const emeiLoveMeNot = {
+  id: "01a0676a-d723-7075-aef9-0aef5eee6f81",
+  type: "release",
+  slug: "emei-love-me-not",
+  title: "Love Me Not",
+  partOfCollections: ["artist/emei"],
+  position: 0,
+  ownLength: 2.33925,
+  ownProgress: 2.33925,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2024-02-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7xUn31DxHbMMH8oNTeI4uh",
+      externalLink: "https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh",
+    },
+  ],
+} as const satisfies Release

@@ -1,6 +1,6 @@
 import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { message } from "akasha/command/arguments/pages/message.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { message } from "akasha/command/argument/pages/message.argument.ts"
 import {
   answering,
   asIndentedJson,

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const heWhoFightsWithMonsters0086Chapter1016WorseThings = {
+  id: "01a06731-adff-7000-aa33-8358665fc2af",
+  type: "story-chapter-read",
+  slug: "he-who-fights-with-monsters-0086-chapter-1016-worse-things",
+  title: "Chapter 1016: Worse Things",
+  story: "story-read/he-who-fights-with-monsters",
+  position: 86,
+  ownLength: 2422,
+  unit: "unit/words",
+  publishedAt: "2026-08-31",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3892845",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892845/chapter-1016-worse-things",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

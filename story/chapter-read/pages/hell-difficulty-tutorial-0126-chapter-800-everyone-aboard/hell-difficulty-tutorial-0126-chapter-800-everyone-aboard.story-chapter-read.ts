@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0126Chapter800EveryoneAboard = {
+  id: "01a06731-ad87-7003-9a80-a8dc6493a07c",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0126-chapter-800-everyone-aboard",
+  title: "Chapter 800 - Everyone aboard",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 126,
+  ownLength: 2531,
+  unit: "unit/words",
+  publishedAt: "2026-05-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3368266",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3368266/chapter-800-everyone-aboard",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const katyPerryThisIsHowWeDo = {
+  id: "01a0676a-d72e-702c-b98d-62fe4028d291",
+  type: "release",
+  slug: "katy-perry-this-is-how-we-do",
+  title: "This Is How We Do",
+  partOfCollections: ["artist/katy-perry"],
+  position: 0,
+  ownLength: 3.392383,
+  ownProgress: 3.392383,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2014-08-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4eY1j8WJYPSsSj6BLi6ku2",
+      externalLink: "https://open.spotify.com/album/4eY1j8WJYPSsSj6BLi6ku2",
+    },
+  ],
+} as const satisfies Release

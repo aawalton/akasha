@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const whichPlacesWeEatAreWorthCultivating = {
+  id: "01a077e4-76d2-79db-a413-8827dd58453f",
+  type: "all-about-alan-question",
+  slug: "which-places-we-eat-are-worth-cultivating",
+  topic: "all-about-alan-topic/trusting-a-person-not-an-institution",
+  ask: "The places we eat sit in the audit as one lump, which my framework refuses everywhere else. Which of those places are worth cultivating?",
+} as const satisfies AllAboutAlanQuestion

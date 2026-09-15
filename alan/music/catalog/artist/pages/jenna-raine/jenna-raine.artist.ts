@@ -1,0 +1,24 @@
+import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.types.ts"
+
+export const jennaRaine = {
+  id: "01a06803-676b-701a-9ca9-99798f886cb0",
+  type: "artist",
+  slug: "jenna-raine",
+  title: "Jenna Raine",
+  partOfCollections: ["artist-collection/artists"],
+  position: 0,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "following",
+  rank: "B",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3aHe9rMa5HFTjXHw8tEz0A",
+      externalLink: "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
+  tags: ["Indie Pop Storyteller"],
+} as const satisfies Artist

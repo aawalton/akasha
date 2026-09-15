@@ -1,0 +1,23 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bunnyGirlEvolution0044177CaveSpiderKillingCompetition = {
+  id: "01a06731-ae50-7000-8332-ae61f887263d",
+  type: "story-chapter-read",
+  slug: "bunny-girl-evolution-0044-177-cave-spider-killing-competition",
+  title: "177 - Cave Spider Killing Competition",
+  story: "story-read/bunny-girl-evolution",
+  position: 44,
+  ownLength: 3244,
+  ownProgress: 419,
+  unit: "unit/words",
+  publishedAt: "2026-03-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3110914",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3110914/177-cave-spider-killing-competition",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

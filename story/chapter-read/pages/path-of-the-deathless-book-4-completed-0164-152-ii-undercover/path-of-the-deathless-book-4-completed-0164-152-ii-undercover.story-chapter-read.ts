@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0164152IiUndercover = {
+  id: "01a06730-4e17-77bc-a283-8f9ccc17e22d",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0164-152-ii-undercover",
+  title: "152 (II) Undercover",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 164,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2658881/152-ii-undercover",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

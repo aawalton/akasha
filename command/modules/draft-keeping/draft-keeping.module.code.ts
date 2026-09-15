@@ -1,7 +1,7 @@
 import type { Reading as AsRead } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import { appendEdits } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   DATA,
   OPERATIONAL,

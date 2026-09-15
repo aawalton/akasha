@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const myLordPleaseACharacterDrivenKingdomBuilding0077Chapter72Imposition = {
+  id: "01a06591-3f79-7d77-8c5d-c249ab34385a",
+  type: "story-chapter-read",
+  slug: "my-lord-please-a-character-driven-kingdom-building-0077-chapter-72-imposition",
+  title: "Chapter 72 Imposition",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
+  position: 77,
+  ownLength: 1920,
+  unit: "unit/words",
+  publishedAt: "2026-06-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3497789",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3497789/chapter-72-imposition",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

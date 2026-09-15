@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const paulCardallThanksgiving = {
+  id: "01a0676a-d72c-7013-af80-83eaa59785f8",
+  type: "release",
+  slug: "paul-cardall-thanksgiving",
+  title: "Thanksgiving",
+  partOfCollections: ["artist/paul-cardall"],
+  position: 0,
+  ownLength: 2.35955,
+  ownProgress: 2.35955,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-11-05",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3G8EZFSyWjwSqjc0p2zDjs",
+      externalLink: "https://open.spotify.com/album/3G8EZFSyWjwSqjc0p2zDjs",
+    },
+  ],
+} as const satisfies Release

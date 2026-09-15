@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0305253IiMetamorphosisIv2915439 = {
+  id: "01a06730-4e4c-7a39-aebc-e42aad9fa15c",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0305-253-ii-metamorphosis-iv-2915439",
+  title: "253 (II) Metamorphosis [IV]",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 305,
+  ownLength: 2473,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2915439",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2915439/253-ii-metamorphosis-iv",
+    },
+  ],
+  publishedAt: "2026-01-05",
+  prose: "txt",
+} as const satisfies StoryChapterRead

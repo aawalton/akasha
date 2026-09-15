@@ -1,0 +1,22 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const arianaGrandeFaith = {
+  id: "019ea4e2-5e08-7b3c-8f2e-d4e4a2ca35b0",
+  type: "song",
+  slug: "ariana-grande-faith",
+  title: "Faith",
+  artist: "artist/ariana-grande",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "900751bc-d0a6-4806-b769-ca4128d3c063",
+      externalLink: "https://musicbrainz.org/work/900751bc-d0a6-4806-b769-ca4128d3c063",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "derivative",
+  performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

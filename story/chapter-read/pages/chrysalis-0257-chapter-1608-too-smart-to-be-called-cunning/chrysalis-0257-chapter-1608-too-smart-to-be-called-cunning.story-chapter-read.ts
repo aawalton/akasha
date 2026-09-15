@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0257Chapter1608TooSmartToBeCalledCunning = {
+  id: "01a0672c-eb64-7002-ac20-1d41cc835eb2",
+  type: "story-chapter-read",
+  slug: "chrysalis-0257-chapter-1608-too-smart-to-be-called-cunning",
+  title: "Chapter 1608 - Too Smart to be Called Cunning",
+  story: "story-read/chrysalis",
+  position: 257,
+  ownLength: 884,
+  ownProgress: 884,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:52:02.378Z",
+  publishedAt: "2025-07-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2441635",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2441635/chapter-1608-too-smart-to-be-called-cunning",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

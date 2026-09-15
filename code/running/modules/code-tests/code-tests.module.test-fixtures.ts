@@ -2,7 +2,7 @@ import { RUNNING } from "akasha/code/running/modules/code-tests/code-tests.modul
 import {
   AKASHA,
   rootEnvName,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 export const PASSES =
   'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'

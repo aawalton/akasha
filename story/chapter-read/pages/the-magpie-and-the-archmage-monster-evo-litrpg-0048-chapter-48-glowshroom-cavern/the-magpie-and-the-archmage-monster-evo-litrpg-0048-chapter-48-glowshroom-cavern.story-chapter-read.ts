@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theMagpieAndTheArchmageMonsterEvoLitrpg0048Chapter48GlowshroomCavern = {
+  id: "01a06730-4fdf-7afd-bc9d-489d81d5cead",
+  type: "story-chapter-read",
+  slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0048-chapter-48-glowshroom-cavern",
+  title: "Chapter 48 – Glowshroom Cavern",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
+  position: 48,
+  ownLength: 2065,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2762692",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2762692/chapter-48-glowshroom-cavern",
+    },
+  ],
+  publishedAt: "2025-11-15",
+  prose: "txt",
+} as const satisfies StoryChapterRead

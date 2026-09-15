@@ -1,0 +1,13 @@
+import type { WorldCharacter } from "akasha/story/world-character/world-character.page-type.types.ts"
+
+export const lakenGodart = {
+  id: "01a06580-2494-786b-b1ff-7d1b75543a4e",
+  type: "world-character",
+  slug: "laken-godart",
+  title: "Laken",
+  world: "world/the-wandering-inn",
+  maxLevel: 37,
+  eventCount: 11,
+  firstChapter: 124,
+  lastChapter: 714,
+} as const satisfies WorldCharacter

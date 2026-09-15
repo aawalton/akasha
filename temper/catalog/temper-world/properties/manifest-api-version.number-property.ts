@@ -1,4 +1,4 @@
-import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
 export const manifestApiVersion = {
   id: "01a05fc4-7a93-7cb8-a27f-186ab86221f2",

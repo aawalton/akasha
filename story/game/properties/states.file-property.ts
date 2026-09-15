@@ -1,0 +1,11 @@
+import type { FileProperty } from "akasha/page/file-property/file-property.page-type.types.ts"
+
+export const states = {
+  id: "01a0673c-8e0e-7016-9a4f-051e3200a488",
+  type: "file-property",
+  slug: "states",
+  propertySlug: "states",
+  definition: "what a game's world has been at, sitting by sitting",
+  extensions: ["jsonl"],
+  types: "ts",
+} as const satisfies FileProperty

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0004Chapter4 = {
+  id: "01a06731-ad6c-7002-b4be-00079e0e8a7f",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0004-chapter-4",
+  title: "Chapter 4",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 4,
+  ownLength: 948,
+  unit: "unit/words",
+  publishedAt: "2023-02-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1124120",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/1124120/chapter-4",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

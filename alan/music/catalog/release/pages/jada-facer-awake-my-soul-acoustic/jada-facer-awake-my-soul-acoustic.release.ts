@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jadaFacerAwakeMySoulAcoustic = {
+  id: "01a0676a-d717-7044-b667-7532a108e581",
+  type: "release",
+  slug: "jada-facer-awake-my-soul-acoustic",
+  title: "Awake My Soul (Acoustic)",
+  partOfCollections: ["artist/jada-facer"],
+  position: 0,
+  ownLength: 3.069883,
+  ownProgress: 3.069883,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-07-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0vZBynUf0TqgzUyXllT6s5",
+      externalLink: "https://open.spotify.com/album/0vZBynUf0TqgzUyXllT6s5",
+    },
+  ],
+} as const satisfies Release

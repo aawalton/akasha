@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const coldplayEverglow = {
+  id: "01a0676a-d71d-702e-920a-f764d26e8fc8",
+  type: "release",
+  slug: "coldplay-everglow",
+  title: "Everglow",
+  partOfCollections: ["artist/coldplay"],
+  position: 0,
+  ownLength: 8.821767,
+  ownProgress: 8.821767,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2016-11-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6LRAUvjNMdUieHc8RcpHQU",
+      externalLink: "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU",
+    },
+  ],
+} as const satisfies Release

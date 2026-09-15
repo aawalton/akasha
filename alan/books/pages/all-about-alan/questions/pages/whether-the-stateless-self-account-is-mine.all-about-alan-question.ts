@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherTheStatelessSelfAccountIsMine = {
-  id: "01a077e9-5956-7fa3-bf83-58c12574ba21",
-  type: "all-about-alan-question",
-  slug: "whether-the-stateless-self-account-is-mine",
-  topic: "all-about-alan-topic/the-three-seconds-i-am",
-  ask: "Somebody else's reading is that I am a stateless self, three seconds wide with no continuity I ever experience. Does that reading hold?",
-} as const satisfies AllAboutAlanQuestion

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0177Chapter174Mana = {
+  id: "01a0672c-ebb1-7000-b28f-a23e5a6393b3",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0177-chapter-174-mana",
+  title: "Chapter 174: Mana",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 177,
+  ownLength: 4288,
+  ownProgress: 4288,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:17:02.886Z",
+  publishedAt: "2024-12-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1972860",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1972860/chapter-174-mana",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

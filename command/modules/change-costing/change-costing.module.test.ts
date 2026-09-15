@@ -4,8 +4,8 @@ import {
   CHANGE_DRAFT_SLUG,
   commandPageAt,
 } from "akasha/command/modules/change-costing/change-costing.module.code.ts"
-import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const COMMAND = "command"

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0005Chapter5BigPig = {
+  id: "01a06730-4dca-7f62-912b-31451b5ce4ef",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0005-chapter-5-big-pig",
+  title: "Chapter 5 - Big pig",
+  story: "story-read/the-primal-hunter",
+  position: 5,
+  ownLength: 2805,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "558385",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/558385/chapter-5-big-pig",
+    },
+  ],
+  publishedAt: "2020-09-22",
+  ownProgress: 2805,
+  completedAt: "2026-06-29T19:29:24.595Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

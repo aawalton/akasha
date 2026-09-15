@@ -1,0 +1,14 @@
+import type { PersonaWallpaper } from "akasha/persona/wallpaper/persona-wallpaper.page-type.types.ts"
+
+export const irisL0120260705t175043z = {
+  id: "019efaea-c4a2-76d0-8c26-9cd29a69a50d",
+  type: "persona-wallpaper",
+  slug: "iris-l01-20260705t175043z",
+  title: "Iris — wallpaper L01 (Initiating)",
+  persona: "persona/iris",
+  imagePath: "Iris/iris-L01-20260705T175043Z.png",
+  imageRoot: "wallpapers",
+  relationshipLevel: 1,
+  stage: "initiating",
+  esoDay: "2026-07-05",
+} as const satisfies PersonaWallpaper

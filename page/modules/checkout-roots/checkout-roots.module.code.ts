@@ -1,0 +1,193 @@
+import { existsSync } from "node:fs"
+import { dirname, resolve } from "node:path"
+import { dirOfModule } from "akasha/code/paths/modules/module-directory/module-directory.module.code.ts"
+import type { Repo } from "akasha/page/modules/markdown-document/markdown-document.module.code.ts"
+import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-at.module.code.ts"
+import { canonicalize } from "akasha/page/modules/repo-path/repo-path.module.code.ts"
+import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
+
+export const AKASHA = "akasha"
+
+const MARKER = ".git"
+
+const REPOS: readonly string[] = [AKASHA, "code-editor"]
+
+function checkoutFrom(dir: string): string {
+  if (typeof existsSync !== "function") {
+    throw new Error(
+      `nothing here looks on disk, so nothing says where \`${AKASHA}\` is —` +
+        ` name it in \`${rootEnvName(AKASHA)}\``
+    )
+  }
+  let at = resolve(dir)
+  while (!existsSync(`${at}/${MARKER}`)) {
+    const up = dirname(at)
+    if (up === at) return resolve(dir, "..", "..")
+    at = up
+  }
+  return at
+}
+
+function checkoutFound(): string {
+  const dir = dirOfModule(import.meta)
+  if (dir === undefined || dir === "") {
+    throw new Error(
+      `nothing here says where this file is, so nothing says where \`${AKASHA}\` is — name it in \`${rootEnvName(AKASHA)}\``
+    )
+  }
+  return checkoutFrom(dir)
+}
+
+let heldCheckout: string | null = null
+
+export function checkoutHere(): string {
+  if (heldCheckout === null) heldCheckout = checkoutFound()
+  return heldCheckout
+}
+
+function akashaFound(): string {
+  const stated = process.env[rootEnvName(AKASHA)]
+  if (stated !== undefined && stated !== "") return resolve(stated)
+  return checkoutHere()
+}
+
+let heldHere: string | null = null
+
+export function akashaHere(): string {
+  if (heldHere === null) heldHere = akashaFound()
+  return heldHere
+}
+
+export const QUARANTINE_ROOT = "dirty"
+
+export const VENDOR_ROOT = "node_modules"
+
+export function rootEnvName(repo: string): string {
+  return `${repo.replaceAll("-", "_").toUpperCase()}_ROOT`
+}
+
+export function ownRepoRoot(): string {
+  return rootOf(AKASHA)
+}
+
+export function repos(): readonly string[] {
+  return REPOS
+}
+
+export function addressableNamed(): string {
+  return namesDrawn(repos())
+}
+
+export function isAddressable(value: string): value is Repo {
+  return repos().includes(value)
+}
+
+export function isDirty(relPath: string): boolean {
+  return relPath.split("/")[0] === QUARANTINE_ROOT
+}
+
+export function isVendored(relPath: string): boolean {
+  return relPath.split("/")[0] === VENDOR_ROOT
+}
+
+export function rootBeside(repo: string): string {
+  const here = akashaHere()
+  if (repo === AKASHA) return here
+  return resolve(here, "..", repo)
+}
+
+export function checkoutBeside(repo: string): string {
+  const at = checkoutHere()
+  if (repo === AKASHA) return at
+  return resolve(at, "..", repo)
+}
+
+function rootOf(repo: string): string {
+  const stated = process.env[rootEnvName(repo)]
+  if (stated === undefined || stated === "") return rootBeside(repo)
+  return resolve(stated)
+}
+
+export function akashaRoot(): string {
+  return rootOf(AKASHA)
+}
+
+function clonedHere(): Roots {
+  const at: Record<string, string> = {}
+  for (const repo of repos()) {
+    const root = rootOf(repo)
+    if (existsSync(`${root}/.git`)) at[repo] = root
+  }
+  return at
+}
+
+let held: Roots | null = null
+
+export function rootsHere(): Roots {
+  if (held === null) held = clonedHere()
+  return held
+}
+
+export function resolveRoots(target: Repo = AKASHA): Roots {
+  const at: Record<string, string> = {}
+  for (const repo of repos()) {
+    const root = rootOf(repo)
+    if (existsSync(`${root}/.git`)) at[repo] = canonicalize(root)
+  }
+  return { ...at, target }
+}
+
+export function rootsNamed(at: Readonly<Record<string, string>>, target?: Repo): Roots {
+  const asked = [...Object.keys(at), ...(target === undefined ? [] : [target])]
+  const stray = [...new Set(asked)].filter((one) => !isAddressable(one))
+  if (stray.length > 0) {
+    const named = namesDrawn(stray)
+    const name = stray.length === 1 ? "names" : "name"
+    throw new Error(
+      `${named} ${name} no repository here; the repositories are ${addressableNamed()}`
+    )
+  }
+  const absent = Object.entries(at).filter(([, root]) => !existsSync(root))
+  if (absent.length > 0) {
+    const named = absent.map(([one, root]) => `\`${one}\` at \`${root}\``).join(", ")
+    const name = absent.length === 1 ? "names a repository" : "name repositories"
+    throw new Error(
+      `${named} ${name} here, but nothing is there; give the directory it is` +
+        ` checked out in, or leave the key out to say it is not cloned here`
+    )
+  }
+  return target === undefined ? { ...at } : { ...at, target }
+}
+
+export function targetRepo(roots: Roots): Repo {
+  return roots.target ?? AKASHA
+}
+
+export function rootFor(roots: Roots, repo: string): string {
+  const root = roots[repo]
+  if (root === undefined) {
+    throw new Error(`no \`${repo}\` repository is cloned here, so nothing says where its paths are`)
+  }
+  return root
+}
+
+export function targetRoot(roots: Roots): string {
+  return rootFor(roots, targetRepo(roots))
+}
+
+export interface Touched {
+  readonly repo: string
+  readonly relPath: string
+}
+
+export function locate(absolute: string, roots: Roots = rootsHere()): Touched | null {
+  const at = canonicalize(absolute)
+  for (const repo of repos()) {
+    const root = roots[repo]
+    if (root === undefined) continue
+    const real = canonicalize(root)
+    if (at === real) return { repo, relPath: "" }
+    if (at.startsWith(`${real}/`)) return { repo, relPath: at.slice(real.length + 1) }
+  }
+  return null
+}

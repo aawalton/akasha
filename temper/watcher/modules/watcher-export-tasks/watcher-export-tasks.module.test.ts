@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { asPage, type Page } from "akasha/pages/core/modules/page-types/page-types.module.code.ts"
+import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import type {
   ExportTasksOptions,
   PageCollect,

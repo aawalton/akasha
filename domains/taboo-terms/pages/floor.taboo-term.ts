@@ -1,9 +1,0 @@
-import type { TabooTerm } from "akasha/domains/taboo-terms/taboo-term.page-type.types.ts"
-
-export const floor = {
-  id: "01a0593e-da2b-79fb-9141-ba72e466156a",
-  type: "taboo-term",
-  slug: "floor",
-  pattern: "(?<!\\.)\\bfloor\\b",
-  tabooSenses: [{ sense: "an attribute's value where nobody states one", instead: "its default" }],
-} as const satisfies TabooTerm

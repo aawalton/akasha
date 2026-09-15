@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const allTheSkillsADeckbuildingLitrpg0021Book6Ch14LotsAndLotsAndLotsOfButterflies = {
+  id: "01a06585-ef17-7fde-8d07-dd7177ec8090",
+  type: "story-chapter-read",
+  slug: "all-the-skills-a-deckbuilding-litrpg-0021-book-6-ch14-lots-and-lots-and-lots-of-butterflies",
+  title: "Book 6 Ch14: Lots and Lots and Lots of Butterflies",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
+  position: 21,
+  ownLength: 2274,
+  ownProgress: 2274,
+  unit: "unit/words",
+  publishedAt: "2025-06-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2365227",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2365227/book-6-ch14-lots-and-lots-and-lots-of-butterflies",
+    },
+  ],
+  removedAt: "2026-07-03T13:47:41.662Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

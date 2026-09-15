@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0268Chapter277TwoHeadsAreBetterThanOne = {
+  id: "01a0672c-ec11-7001-95a3-3c8399cb8084",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0268-chapter-277-two-heads-are-better-than-one",
+  title: "Chapter 277 - Two Heads Are Better Than One",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 268,
+  ownLength: 3067,
+  unit: "unit/words",
+  publishedAt: "2017-06-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "141703",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141703/chapter-277-two-heads-are-better-than-one",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

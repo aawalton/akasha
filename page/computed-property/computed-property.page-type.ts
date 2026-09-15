@@ -1,0 +1,115 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export type Reach = {
+  target: <Held>(slug: string) => Held | null
+  naming: <Held>(propertySlug: string) => readonly Held[]
+}
+
+export type Work<Page, Held> = (page: Page, reach: Reach) => Held | null
+
+export const computedProperty = {
+  id: "01a06e70-0f25-77ad-9080-95388ef3ba51",
+  type: "page-type",
+  slug: "computed-property",
+  definition: "a page property a function works out from the page",
+  extends: ["page-type/page-property"],
+  parts: ["select-property/holds"],
+  properties: [
+    { pageProperty: "select-property/holds", required: true, many: false },
+    { pageProperty: "code-file-property/code", required: true, many: false },
+    { pageProperty: "code-file-property/test", required: false, many: false },
+    { pageProperty: "code-file-property/test-fixtures", required: false, many: false },
+    { pageProperty: "text-property/select-values", required: false, many: true, maxCount: null },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A page has no value for a computed property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page file stating a value for a computed property is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A computed property's calculation is a function the code file beside the page exports.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The function a computed property's code file exports is named `work`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A computed property states the kind of value the calculation works out.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A calculation answering another kind than the computed property states is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A calculation is handed the page whose computed property is being worked out.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A calculation reaches another page only through the reach that calculation is handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach names one page or every page naming the page being worked out.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pages naming one page are reached under the relation property that names that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each page a reach answers is worked as lazily as the page handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The shape of a reach is declared here rather than beside the engine working a calculation.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A query may answer with a computed property's key.",
+    },
+
+    {
+      invariantKind: "departure",
+      statement: "A calculation answering absent puts no key in the row.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No calculation is written as an expression the system parses.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A computed property's code is loaded by the engine working it rather than imported.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A calculation answering one of a set of values states that set as page data.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No computed property's type is a hand-written union.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A calculation's `Held` type argument is the type written beside its property.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The compiler reads a computed property's stated kind against what its calculation answers.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const manaDevourerLitrpgmanaCultivation005858ThirdMeeting = {
+  id: "01a06731-ae83-7002-8003-4e07f6ee0895",
+  type: "story-chapter-read",
+  slug: "mana-devourer-litrpgmana-cultivation-0058-58-third-meeting",
+  title: "58. Third Meeting",
+  story: "story-read/mana-devourer-litrpgmana-cultivation",
+  position: 58,
+  ownLength: 3746,
+  unit: "unit/words",
+  publishedAt: "2025-07-31",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2482357",
+      externalLink:
+        "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/2482357/58-third-meeting",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

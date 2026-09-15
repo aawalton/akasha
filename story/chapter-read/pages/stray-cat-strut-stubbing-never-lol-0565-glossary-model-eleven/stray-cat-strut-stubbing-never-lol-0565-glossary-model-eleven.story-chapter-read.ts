@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0565GlossaryModelEleven = {
+  id: "01a06730-4ec2-7a40-bad6-f7cc57919271",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0565-glossary-model-eleven",
+  title: "Glossary: Model Eleven",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 565,
+  ownLength: 955,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1768759",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1768759/glossary-model-eleven",
+    },
+  ],
+  publishedAt: "2024-08-21",
+  prose: "txt",
+} as const satisfies StoryChapterRead

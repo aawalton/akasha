@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chloeTheZombieAMonsterEvolutionLitrpg008181Friends = {
+  id: "01a06731-ad7a-700c-8e7b-b4acf191151a",
+  type: "story-chapter-read",
+  slug: "chloe-the-zombie-a-monster-evolution-litrpg-0081-81-friends",
+  title: "81: Friends",
+  story: "story-read/chloe-the-zombie-a-monster-evolution-litrpg",
+  position: 81,
+  ownLength: 1731,
+  unit: "unit/words",
+  publishedAt: "2025-12-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2821353",
+      externalLink:
+        "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2821353/81-friends",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

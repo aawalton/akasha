@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning005656Obscure = {
+  id: "01a06731-b075-7000-bafa-0e01d9dbb040",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0056-56-obscure",
+  title: "56. Obscure",
+  story: "story-read/mother-of-learning",
+  position: 56,
+  ownLength: 6740,
+  ownProgress: 6740,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:45:52.869Z",
+  publishedAt: "2018-12-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "315980",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/315980/56-obscure",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

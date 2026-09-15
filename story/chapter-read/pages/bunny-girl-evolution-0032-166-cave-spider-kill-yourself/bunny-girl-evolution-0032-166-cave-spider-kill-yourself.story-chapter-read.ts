@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bunnyGirlEvolution0032166CaveSpiderKillYourself = {
+  id: "01a06743-b398-7001-a469-052eebd03d3d",
+  type: "story-chapter-read",
+  slug: "bunny-girl-evolution-0032-166-cave-spider-kill-yourself",
+  title: "166 - Cave Spider, Kill Yourself",
+  story: "story-read/bunny-girl-evolution",
+  position: 32,
+  ownLength: 3528,
+  ownProgress: 3528,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:03:41.648Z",
+  publishedAt: "2026-01-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2973855",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2973855/166-cave-spider-kill-yourself",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

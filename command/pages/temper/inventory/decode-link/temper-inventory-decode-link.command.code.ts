@@ -1,6 +1,6 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { link as linkArgument } from "akasha/command/arguments/pages/link.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { link as linkArgument } from "akasha/command/argument/pages/link.argument.ts"
 import {
   DATA,
   refused,

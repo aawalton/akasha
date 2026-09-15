@@ -1,12 +1,12 @@
-import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { personasStanding } from "akasha/personas/modules/reading/persona-reading.module.code.ts"
-import { peopleStanding } from "akasha/persons/modules/reading/person-reading.module.code.ts"
+import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { personasStanding } from "akasha/persona/modules/reading/persona-reading.module.code.ts"
+import { peopleStanding } from "akasha/person/modules/reading/person-reading.module.code.ts"
 
 export const SLUG_MARK = "<slug>"
 
 const PERSONA_FALLBACK = `personas/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts`
 
-const PERSON_FALLBACK = `persons/pages/${SLUG_MARK}/${SLUG_MARK}.person.ts`
+const PERSON_FALLBACK = `person/pages/${SLUG_MARK}/${SLUG_MARK}.person.ts`
 
 export interface Named {
   readonly slug: string

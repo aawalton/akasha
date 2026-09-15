@@ -1,0 +1,18 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const lengthPropertyId = {
+  id: "01a0683a-620a-7c9f-8c62-ed7e2e10a9ca",
+  type: "text-property",
+  slug: "length-property-id",
+  propertySlug: "length-property-id",
+  definition: "the key of the property holding how long a page is",
+  maxLength: 64,
+  nameFormat: "name-format/lower-camel-case",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page whose length is not known is never recorded as read at its end.",
+    },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePathOfAscension0013PoaTheConceptOfDeathChapter5 = {
+  id: "01a06730-4ff2-7bd7-afb0-ba3e0843d28a",
+  type: "story-chapter-read",
+  slug: "the-path-of-ascension-0013-poa-the-concept-of-death-chapter-5",
+  title: "PoA The Concept of Death Chapter 5",
+  story: "story-read/the-path-of-ascension",
+  position: 13,
+  ownLength: 5208,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "783786",
+      externalLink:
+        "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/783786/poa-the-concept-of-death-chapter-5",
+    },
+  ],
+  publishedAt: "2021-11-10",
+  ownProgress: 5208,
+  completedAt: "2026-06-29T19:17:51.376Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const superSupportive0009NineGorgon = {
+  id: "01a06730-4de7-71f7-a525-0f6a783bce0d",
+  type: "story-chapter-read",
+  slug: "super-supportive-0009-nine-gorgon",
+  title: "NINE: Gorgon",
+  story: "story-read/super-supportive",
+  position: 9,
+  ownLength: 3129,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1114911",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1114911/nine-gorgon",
+    },
+  ],
+  publishedAt: "2023-02-15",
+  prose: "txt",
+} as const satisfies StoryChapterRead

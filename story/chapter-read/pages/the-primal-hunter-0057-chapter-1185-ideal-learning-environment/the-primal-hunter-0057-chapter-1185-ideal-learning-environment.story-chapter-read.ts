@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0057Chapter1185IdealLearningEnvironment = {
+  id: "01a06730-4de8-7e29-8b34-1961b10947d2",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0057-chapter-1185-ideal-learning-environment",
+  title: "Chapter 1185 - Ideal Learning Environment",
+  story: "story-read/the-primal-hunter",
+  position: 57,
+  ownLength: 2778,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2696448",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2696448/chapter-1185-ideal-learning-environment",
+    },
+  ],
+  publishedAt: "2025-10-22",
+  ownProgress: 2778,
+  completedAt: "2026-06-29T19:31:04.288Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

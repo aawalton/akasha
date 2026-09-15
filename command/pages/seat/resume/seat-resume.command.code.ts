@@ -1,11 +1,11 @@
 import { notices } from "akasha/agent/messaging/notice/modules/compose-notices/compose-notices.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { force } from "akasha/command/arguments/pages/force.argument.ts"
-import { notice } from "akasha/command/arguments/pages/notice.argument.ts"
-import { now } from "akasha/command/arguments/pages/now.argument.ts"
-import { seat } from "akasha/command/arguments/pages/seat.argument.ts"
-import { seatPrompt } from "akasha/command/arguments/pages/seat-prompt.argument.ts"
-import { startMode } from "akasha/command/arguments/pages/start-mode.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { force } from "akasha/command/argument/pages/force.argument.ts"
+import { notice } from "akasha/command/argument/pages/notice.argument.ts"
+import { now } from "akasha/command/argument/pages/now.argument.ts"
+import { seat } from "akasha/command/argument/pages/seat.argument.ts"
+import { seatPrompt } from "akasha/command/argument/pages/seat-prompt.argument.ts"
+import { startMode } from "akasha/command/argument/pages/start-mode.argument.ts"
 import {
   faulted,
   refusedBy,

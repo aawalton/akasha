@@ -3,13 +3,13 @@ import {
   buildTelnyxSendRequest,
   parseTelnyxSendResponse,
 } from "akasha/alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { baseUrl } from "akasha/command/arguments/pages/base-url.argument.ts"
-import { fromNumber } from "akasha/command/arguments/pages/from-number.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { text as textArgument } from "akasha/command/arguments/pages/text.argument.ts"
-import { textFile } from "akasha/command/arguments/pages/text-file.argument.ts"
-import { toNumber } from "akasha/command/arguments/pages/to-number.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { baseUrl } from "akasha/command/argument/pages/base-url.argument.ts"
+import { fromNumber } from "akasha/command/argument/pages/from-number.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { text as textArgument } from "akasha/command/argument/pages/text.argument.ts"
+import { textFile } from "akasha/command/argument/pages/text-file.argument.ts"
+import { toNumber } from "akasha/command/argument/pages/to-number.argument.ts"
 import {
   answering,
   asJson,

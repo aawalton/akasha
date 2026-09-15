@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const defianceOfTheFall0006Chapter5Stranded = {
+  id: "01a06591-3c69-749c-845f-c83f3a461626",
+  type: "story-chapter-read",
+  slug: "defiance-of-the-fall-0006-chapter-5-stranded",
+  title: "Chapter 5 - Stranded",
+  story: "story-read/defiance-of-the-fall",
+  position: 6,
+  ownLength: 1269,
+  unit: "unit/words",
+  publishedAt: "2019-05-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "359143",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359143/chapter-5-stranded",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2ElvisNow = {
+  id: "01a0676a-d71d-7001-900a-b4c08090d0ea",
+  type: "release",
+  slug: "elvis-presley-2-elvis-now",
+  title: "Elvis Now",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 42.697933,
+  ownProgress: 42.697933,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1972-02-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2x7QaKvvJ45DcYl78JCf25",
+      externalLink: "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const classPassiveId = {
+  id: "01a05fcf-2468-7692-a8d7-4ab20e4f20c6",
+  type: "text-property",
+  slug: "class-passive-id",
+  propertySlug: "class-passive-id",
+  definition: "the passive a companion's class grants",
+  maxLength: 200,
+  nameFormat: "name-format/lower-kebab-case",
+  types: "ts",
+} as const satisfies TextProperty

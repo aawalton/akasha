@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const coldplaySomethingJustLikeThisRemixes = {
+  id: "01a0676a-d729-705d-846c-37069afc6129",
+  type: "release",
+  slug: "coldplay-something-just-like-this-remixes",
+  title: "Something Just Like This (Remixes)",
+  partOfCollections: ["artist/coldplay"],
+  position: 0,
+  ownLength: 21.3062,
+  ownProgress: 21.3062,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2017-04-28",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4uRfYhBBaSX8N3amojmMBE",
+      externalLink: "https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE",
+    },
+  ],
+} as const satisfies Release

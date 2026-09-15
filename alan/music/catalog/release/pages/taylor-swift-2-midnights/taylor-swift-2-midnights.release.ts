@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const taylorSwift2Midnights = {
+  id: "01a0676a-d724-7065-b42b-23dd8c25dc39",
+  type: "release",
+  slug: "taylor-swift-2-midnights",
+  title: "Midnights",
+  partOfCollections: ["artist/taylor-swift"],
+  position: 0,
+  ownLength: 44.138967,
+  ownProgress: 44.138967,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-10-21",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "151w1FgRZfnKZA9FEcg9Z3",
+      externalLink: "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,29 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const unit = {
+  id: "01a063de-2c60-7014-9620-56bbc19efcd1",
+  type: "page-type",
+  slug: "unit",
+  definition: "what a length is counted in",
+  parts: [
+    "number-property/words",
+    "unit/hours",
+    "unit/minutes",
+    "unit/moments",
+    "unit/seconds",
+    "unit/words",
+  ],
+  extends: ["page-type/domain"],
+  properties: [{ pageProperty: "number-property/words", required: true, many: false }],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A unit says its worth in words.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Words are the unit every other unit is weighed against.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

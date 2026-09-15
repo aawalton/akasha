@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0531Chapter492TheFrozenApocalypseUnleashed = {
+  id: "01a0672c-ec32-7000-9a24-cf944e1451e1",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0531-chapter-492-the-frozen-apocalypse-unleashed",
+  title: "Chapter 492: The Frozen Apocalypse Unleashed",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 531,
+  ownLength: 3849,
+  ownProgress: 3849,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:30:18.058Z",
+  publishedAt: "2025-12-31",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2895675",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2895675/chapter-492-the-frozen-apocalypse-unleashed",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

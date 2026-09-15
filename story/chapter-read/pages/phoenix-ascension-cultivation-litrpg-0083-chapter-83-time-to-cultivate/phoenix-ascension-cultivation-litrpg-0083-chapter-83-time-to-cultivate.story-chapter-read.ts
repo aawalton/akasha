@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const phoenixAscensionCultivationLitrpg0083Chapter83TimeToCultivate = {
+  id: "01a06730-4df3-7de7-8d97-e2f2f66b19fe",
+  type: "story-chapter-read",
+  slug: "phoenix-ascension-cultivation-litrpg-0083-chapter-83-time-to-cultivate",
+  title: "Chapter 83: Time to Cultivate",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
+  position: 83,
+  ownLength: 2454,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3006376",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3006376/chapter-83-time-to-cultivate",
+    },
+  ],
+  publishedAt: "2026-02-02",
+  prose: "txt",
+} as const satisfies StoryChapterRead

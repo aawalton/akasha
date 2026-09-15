@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0102Chapter90EndelSIdeaOfTherapy = {
+  id: "01a0672c-ed5f-7003-857a-c57815e1cd9f",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0102-chapter-90-endel-s-idea-of-therapy",
+  title: "Chapter 90 Endel's Idea of Therapy",
+  story: "story-read/melody-of-mana",
+  position: 102,
+  ownLength: 2253,
+  ownProgress: 2253,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:29:41.981Z",
+  publishedAt: "2022-02-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "848479",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/848479/chapter-90-endels-idea-of-therapy",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

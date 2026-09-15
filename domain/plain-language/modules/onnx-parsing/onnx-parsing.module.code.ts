@@ -1,0 +1,371 @@
+import { readFile } from "node:fs/promises"
+import { dirname, join } from "node:path"
+import { fileURLToPath } from "node:url"
+import {
+  decodeTree,
+  type ParsedSentence,
+} from "akasha/domain/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
+import { makeParseCache } from "akasha/domain/plain-language/modules/parse-cache/parse-cache.module.code.ts"
+import {
+  chunkForEncoder,
+  encodeWordPieces,
+  type SentenceTokens,
+  splitSentences,
+  tokenizeWords,
+} from "akasha/domain/plain-language/modules/word-tokenizing/word-tokenizing.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import * as ort from "onnxruntime-node"
+
+export type ParserDescriptor = {
+  id: string
+  version: string
+  languages: readonly string[]
+  capabilities: readonly string[]
+  modelHash?: string
+}
+
+export type DependencyParser = {
+  descriptor: ParserDescriptor
+  parse: (text: string) => Promise<ParsedSentence[]>
+}
+
+export type OnnxParserOptions = {
+  intraOpNumThreads?: number
+  maxBatchSentences?: number
+}
+
+export type ModelFiles = {
+  parserWeights: string
+  relationWeights: string
+  wordPieces: string
+  modelManifest: string
+}
+
+type Manifest = {
+  format?: string
+  "source_checkpoint_sha256"?: string
+  upos: string[]
+  relations: string[]
+}
+
+type Vocabulary = {
+  model: {
+    vocab: Record<string, number>
+  }
+}
+
+type Loaded = {
+  parser: ort.InferenceSession
+  relations: ort.InferenceSession
+  manifest: Manifest
+  vocab: Record<string, number>
+  maxBatchSentences: number
+}
+
+const PARSER_MODEL = "parser-model"
+
+const COMPACT_PARSER = "compact-parser"
+
+const DEFAULT_MAX_BATCH_SENTENCES = 16
+
+const DEFAULT_INTRA_OP_THREADS = 1
+
+const OTHER_CLASS = "X"
+
+const UNSPECIFIED_RELATION = "dep"
+
+const PARSER_ID = "akasha/compact-onnx-parser"
+
+const UNKNOWN_VERSION = "unknown"
+
+const CAPABILITIES = ["sentence-boundaries", "tokens", "part-of-speech", "dependencies"]
+
+const LANGUAGES = ["en"]
+
+const PARSE_SHAPE = "2"
+
+function modelPageAt(): string {
+  const root = ownRepoRoot()
+  const page = listedAt(root, PARSER_MODEL, COMPACT_PARSER)[0]
+  if (page === undefined) {
+    throw new Error(`no \`${PARSER_MODEL}\` is slugged \`${COMPACT_PARSER}\``)
+  }
+  return join(root, page.path)
+}
+
+function modelFileAt(propertySlug: string, held: string): string {
+  const at = uncommittedBesideAt(modelPageAt(), propertySlug, held)
+  if (at === null) throw new Error(`no \`${propertySlug}\` sits beside the parser model page`)
+  return at
+}
+
+function bundledModel(): ModelFiles {
+  return {
+    parserWeights: modelFileAt("parser-weights", "onnx"),
+    relationWeights: modelFileAt("relation-weights", "onnx"),
+    wordPieces: modelFileAt("word-pieces", "json"),
+    modelManifest: modelFileAt("model-manifest", "json"),
+  }
+}
+
+function int64(values: readonly number[], dimensions: readonly number[]): ort.Tensor {
+  return new ort.Tensor("int64", BigInt64Array.from(values, BigInt), dimensions)
+}
+
+function index3(row: number, item: number, width: number, items: number): number {
+  return (row * items + item) * width
+}
+
+function bestOf(values: Float32Array, start: number, count: number): number {
+  let best = 0
+  for (let index = 1; index < count; index += 1) {
+    const held = values[start + index] ?? Number.NEGATIVE_INFINITY
+    if (held > (values[start + best] ?? Number.NEGATIVE_INFINITY)) best = index
+  }
+  return best
+}
+
+function chanceAt(values: Float32Array, start: number, count: number, chosen: number): number {
+  let top = Number.NEGATIVE_INFINITY
+  for (let index = 0; index < count; index += 1) {
+    const held = values[start + index] ?? Number.NEGATIVE_INFINITY
+    if (held > top) top = held
+  }
+  if (!Number.isFinite(top)) return 0
+  let total = 0
+  for (let index = 0; index < count; index += 1) {
+    total += Math.exp((values[start + index] ?? Number.NEGATIVE_INFINITY) - top)
+  }
+  if (total === 0) return 0
+  return Math.exp((values[start + chosen] ?? Number.NEGATIVE_INFINITY) - top) / total
+}
+
+function floatsOf(held: ort.InferenceSession.ReturnType, name: string): Float32Array {
+  const data = held[name]?.data
+  if (!(data instanceof Float32Array)) throw new Error(`the model gave no \`${name}\` scores`)
+  return data
+}
+
+function tensorOf(held: ort.InferenceSession.ReturnType, name: string): ort.Tensor {
+  const value = held[name]
+  if (!(value instanceof ort.Tensor)) throw new Error(`the model gave no \`${name}\` tensor`)
+  return value
+}
+
+function tensorsIn(held: ort.InferenceSession.ReturnType | undefined): ort.Tensor[] {
+  const found: ort.Tensor[] = []
+  for (const value of Object.values(held ?? {})) {
+    if (value instanceof ort.Tensor) found.push(value)
+  }
+  return found
+}
+
+function headsFor(
+  arc: Float32Array,
+  row: number,
+  count: number,
+  maxWords: number
+): readonly number[] {
+  const headWidth = maxWords + 1
+  const scores: number[][] = []
+  for (let dependent = 0; dependent < count; dependent += 1) {
+    const at = index3(row, dependent, headWidth, maxWords)
+    const line: number[] = []
+    for (let head = 0; head <= count; head += 1) line.push(arc[at + head] ?? 0)
+    scores.push(line)
+  }
+  return decodeTree(scores)
+}
+
+type Scores = {
+  upos: Float32Array
+  arc: Float32Array
+  relation: Float32Array
+  maxWords: number
+}
+
+function builtSentence(
+  manifest: Manifest,
+  sentence: SentenceTokens,
+  row: number,
+  scores: Scores,
+  heads: readonly number[]
+): ParsedSentence {
+  const uposWidth = manifest.upos.length
+  const relationWidth = manifest.relations.length
+  const maxWords = scores.maxWords
+  const headWidth = maxWords + 1
+  const words = sentence.words.length
+  return {
+    text: sentence.text,
+    start: sentence.start,
+    end: sentence.end,
+    tokens: sentence.words.map((word, index) => {
+      const uposAt = index3(row, index, uposWidth, maxWords)
+      const uposPick = bestOf(scores.upos, uposAt, uposWidth)
+      const relationAt = index3(row, index, relationWidth, maxWords)
+      const relationPick = bestOf(scores.relation, relationAt, relationWidth)
+      const headAt = index3(row, index, headWidth, maxWords)
+      const head = heads[row * maxWords + index] ?? 0
+      return {
+        id: index + 1,
+        form: word.form,
+        lemma: word.form.toLowerCase(),
+        upos: manifest.upos[uposPick] ?? OTHER_CLASS,
+        head,
+        deprel: manifest.relations[relationPick] ?? UNSPECIFIED_RELATION,
+        start: word.start,
+        end: word.end,
+        confidence: {
+          upos: chanceAt(scores.upos, uposAt, uposWidth, uposPick),
+          head: chanceAt(scores.arc, headAt, words + 1, head),
+          deprel: chanceAt(scores.relation, relationAt, relationWidth, relationPick),
+        },
+      }
+    }),
+  }
+}
+
+function feedsFor(
+  held: Loaded,
+  sentences: readonly SentenceTokens[]
+): { feeds: Record<string, ort.Tensor>; maxWords: number } {
+  const encoded = sentences.map((sentence) => encodeWordPieces(sentence.words, held.vocab))
+  const batch = sentences.length
+  const maxSubwords = Math.max(...encoded.map((item) => item.inputIds.length))
+  const maxWords = Math.max(...encoded.map((item) => item.wordStarts.length))
+  const inputIds = new Array<number>(batch * maxSubwords).fill(0)
+  const attentionMask = new Array<number>(batch * maxSubwords).fill(0)
+  const wordStarts = new Array<number>(batch * maxWords).fill(0)
+  const wordMask = new Uint8Array(batch * maxWords)
+  for (let row = 0; row < batch; row += 1) {
+    const item = encoded[row]
+    if (item === undefined) continue
+    item.inputIds.forEach((id, column) => {
+      inputIds[row * maxSubwords + column] = id
+      attentionMask[row * maxSubwords + column] = 1
+    })
+    item.wordStarts.forEach((start, column) => {
+      wordStarts[row * maxWords + column] = start
+      wordMask[row * maxWords + column] = 1
+    })
+  }
+  return {
+    feeds: {
+      "input_ids": int64(inputIds, [batch, maxSubwords]),
+      "attention_mask": int64(attentionMask, [batch, maxSubwords]),
+      "word_starts": int64(wordStarts, [batch, maxWords]),
+      "word_mask": new ort.Tensor("bool", wordMask, [batch, maxWords]),
+    },
+    maxWords,
+  }
+}
+
+async function parsedBatch(
+  held: Loaded,
+  sentences: readonly SentenceTokens[]
+): Promise<ParsedSentence[]> {
+  const batch = sentences.length
+  const { feeds, maxWords } = feedsFor(held, sentences)
+  let output: ort.InferenceSession.ReturnType | undefined
+  let relationOutput: ort.InferenceSession.ReturnType | undefined
+  let selectedHeadsTensor: ort.Tensor | undefined
+  try {
+    output = await held.parser.run(feeds)
+    const arc = floatsOf(output, "arc_logits")
+    const selectedHeads = new Array<number>(batch * maxWords).fill(0)
+    for (let row = 0; row < batch; row += 1) {
+      const count = sentences[row]?.words.length ?? 0
+      headsFor(arc, row, count, maxWords).forEach((head, dependent) => {
+        selectedHeads[row * maxWords + dependent] = head
+      })
+    }
+    selectedHeadsTensor = int64(selectedHeads, [batch, maxWords])
+    relationOutput = await held.relations.run({
+      "relation_dependent": tensorOf(output, "relation_dependent"),
+      "relation_heads": tensorOf(output, "relation_heads"),
+      "selected_heads": selectedHeadsTensor,
+    })
+    const scores: Scores = {
+      upos: floatsOf(output, "upos_logits"),
+      arc,
+      relation: floatsOf(relationOutput, "relation_logits"),
+      maxWords,
+    }
+    return sentences.map((sentence, row) =>
+      builtSentence(held.manifest, sentence, row, scores, selectedHeads)
+    )
+  } finally {
+    const open = new Set<ort.Tensor>(Object.values(feeds))
+    for (const tensor of tensorsIn(output)) open.add(tensor)
+    for (const tensor of tensorsIn(relationOutput)) open.add(tensor)
+    if (selectedHeadsTensor !== undefined) open.add(selectedHeadsTensor)
+    for (const tensor of open) tensor.dispose()
+  }
+}
+
+async function parsedText(held: Loaded, text: string): Promise<ParsedSentence[]> {
+  const sentences = splitSentences(text)
+    .map(tokenizeWords)
+    .filter((sentence) => sentence.words.length > 0)
+    .flatMap((sentence) => chunkForEncoder(sentence, held.vocab))
+  if (sentences.length === 0) return []
+  const found: ParsedSentence[] = []
+  for (let start = 0; start < sentences.length; start += held.maxBatchSentences) {
+    const batch = sentences.slice(start, start + held.maxBatchSentences)
+    found.push(...(await parsedBatch(held, batch)))
+  }
+  return found
+}
+
+async function loadOnnxParser(options: OnnxParserOptions = {}): Promise<DependencyParser> {
+  const maxBatchSentences = options.maxBatchSentences ?? DEFAULT_MAX_BATCH_SENTENCES
+  if (!Number.isInteger(maxBatchSentences) || maxBatchSentences < 1) {
+    throw new Error("a batch holds a whole number of sentences, one or more")
+  }
+  const files = bundledModel()
+  const [manifestText, vocabularyText] = await Promise.all([
+    readFile(files.modelManifest, "utf8"),
+    readFile(files.wordPieces, "utf8"),
+  ])
+  const manifest = JSON.parse(manifestText) as Manifest
+  const vocab = (JSON.parse(vocabularyText) as Vocabulary).model.vocab
+  const sessionOptions: ort.InferenceSession.SessionOptions = {
+    executionProviders: ["cpu"],
+    graphOptimizationLevel: "all",
+    intraOpNumThreads: options.intraOpNumThreads ?? DEFAULT_INTRA_OP_THREADS,
+  }
+  const [parser, relations] = await Promise.all([
+    ort.InferenceSession.create(files.parserWeights, sessionOptions),
+    ort.InferenceSession.create(files.relationWeights, sessionOptions),
+  ])
+  const held: Loaded = { parser, relations, manifest, vocab, maxBatchSentences }
+  const descriptor: ParserDescriptor = {
+    id: PARSER_ID,
+    version: manifest.format ?? UNKNOWN_VERSION,
+    languages: LANGUAGES,
+    capabilities: CAPABILITIES,
+    modelHash: manifest["source_checkpoint_sha256"],
+  }
+  const shaped = `${descriptor.modelHash ?? UNKNOWN_VERSION}-shape-${PARSE_SHAPE}`
+  const cache = makeParseCache(shaped, dirname(fileURLToPath(import.meta.url)))
+  return {
+    descriptor,
+    parse: async (text: string) => {
+      const already = cache.read(text)
+      if (already !== null) return already
+      const found = await parsedText(held, text)
+      cache.write(text, found)
+      return found
+    },
+  }
+}
+
+let cached: Promise<DependencyParser> | undefined
+
+export function loadParser(options: OnnxParserOptions = {}): Promise<DependencyParser> {
+  cached ??= loadOnnxParser(options)
+  return cached
+}

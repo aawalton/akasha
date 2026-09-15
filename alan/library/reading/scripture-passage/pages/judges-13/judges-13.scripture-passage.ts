@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/library/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const judges13 = {
+  id: "01a06804-11ae-709a-9b31-704a8fec9cc4",
+  type: "scripture-passage",
+  slug: "judges-13",
+  title: "Judges 13",
+  book: "Judges",
+  position: 13,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "judges13",
+} as const satisfies ScripturePassage

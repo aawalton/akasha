@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const backstreetBoys2InAWorldLikeThis = {
+  id: "01a0676a-d721-7063-8f49-5e96aa53e1bd",
+  type: "release",
+  slug: "backstreet-boys-2-in-a-world-like-this",
+  title: "In a World Like This",
+  partOfCollections: ["artist/backstreet-boys"],
+  position: 0,
+  ownLength: 45.8276,
+  ownProgress: 45.8276,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2013-07-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5UVuMxqcAOWNbHA7F6oTx1",
+      externalLink: "https://open.spotify.com/album/5UVuMxqcAOWNbHA7F6oTx1",
+    },
+  ],
+} as const satisfies Release

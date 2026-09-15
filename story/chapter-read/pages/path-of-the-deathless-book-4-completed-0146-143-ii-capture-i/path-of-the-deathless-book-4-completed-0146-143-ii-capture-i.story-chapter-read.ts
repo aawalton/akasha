@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0146143IiCaptureI = {
+  id: "01a06730-4e11-73b2-93f2-a8a3fcebc42a",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0146-143-ii-capture-i",
+  title: "143 (II)  Capture [I] ",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 146,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2643877/143-ii-capture-i",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

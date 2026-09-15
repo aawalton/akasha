@@ -1,0 +1,15 @@
+import type { Book } from "akasha/alan/library/reading/book/book.page-type.types.ts"
+
+export const defiant = {
+  id: "019db533-f39c-7fff-89d0-2bc7b1b8eb0c",
+  type: "book",
+  slug: "defiant",
+  title: "Defiant",
+  status: "completed",
+  rank: "B",
+  author: "Lynne Graham",
+  unit: "unit/words",
+  position: 4,
+  ownLength: 105000,
+  ownProgress: 105000,
+} as const satisfies Book

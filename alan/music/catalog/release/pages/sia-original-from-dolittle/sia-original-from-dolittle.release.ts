@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const siaOriginalFromDolittle = {
+  id: "01a0676a-d726-7047-855b-7f2f94e1796d",
+  type: "release",
+  slug: "sia-original-from-dolittle",
+  title: "Original (from Dolittle)",
+  partOfCollections: ["artist/sia"],
+  position: 0,
+  ownLength: 3.561117,
+  ownProgress: 3.561117,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-01-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "00CTugKcgZzpPJKpmeNdDS",
+      externalLink: "https://open.spotify.com/album/00CTugKcgZzpPJKpmeNdDS",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

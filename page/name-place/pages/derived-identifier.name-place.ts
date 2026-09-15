@@ -1,0 +1,19 @@
+import type { NamePlace } from "akasha/page/name-place/name-place.page-type.types.ts"
+
+export const derivedIdentifier = {
+  id: "01a04fc9-2ad9-76c1-9144-cbcca3d44196",
+  type: "name-place",
+  slug: "derived-identifier",
+  definition: "the name a value carries inside the function working it out",
+  nameFormat: "name-format/lower-camel-case",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A name inside a function belongs to one call rather than to the file.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A parameter the body does not read opens with an underscore.",
+    },
+  ],
+} as const satisfies NamePlace

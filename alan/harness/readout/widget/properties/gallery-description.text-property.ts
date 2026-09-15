@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const galleryDescription = {
+  id: "01a05480-1c8c-751e-997b-6255f3440ff4",
+  type: "text-property",
+  slug: "gallery-description",
+  propertySlug: "gallery-description",
+  definition: "the sentence the gallery prints under a widget's name",
+  maxLength: 100,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

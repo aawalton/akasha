@@ -3,10 +3,10 @@ import { basename, dirname, extname, join } from "node:path"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { fps as fpsArgument } from "akasha/command/arguments/pages/fps.argument.ts"
-import { outDir as outDirArgument } from "akasha/command/arguments/pages/out-dir.argument.ts"
-import { video as videoArgument } from "akasha/command/arguments/pages/video.argument.ts"
+} from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { fps as fpsArgument } from "akasha/command/argument/pages/fps.argument.ts"
+import { outDir as outDirArgument } from "akasha/command/argument/pages/out-dir.argument.ts"
+import { video as videoArgument } from "akasha/command/argument/pages/video.argument.ts"
 import {
   answering,
   DATA,

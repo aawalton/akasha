@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const levelingUpTheWorld0008174OldComplications = {
+  id: "01a06731-ae8a-7001-ab86-bf96cee281f3",
+  type: "story-chapter-read",
+  slug: "leveling-up-the-world-0008-174-old-complications",
+  title: "174. Old Complications",
+  story: "story-read/leveling-up-the-world",
+  position: 8,
+  ownLength: 3078,
+  ownProgress: 3078,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:40:24.172Z",
+  publishedAt: "2021-06-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "704851",
+      externalLink:
+        "https://www.royalroad.com/fiction/39026/leveling-up-the-world/chapter/704851/174-old-complications",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

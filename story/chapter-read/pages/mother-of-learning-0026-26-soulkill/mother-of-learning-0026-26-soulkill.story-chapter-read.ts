@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning002626Soulkill = {
+  id: "01a06731-b047-7000-be93-8e9d6e83f6a8",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0026-26-soulkill",
+  title: "26. Soulkill",
+  story: "story-read/mother-of-learning",
+  position: 26,
+  ownLength: 14478,
+  ownProgress: 14478,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:44:41.119Z",
+  publishedAt: "2018-11-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "307245",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/307245/26-soulkill",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -6,10 +6,10 @@ import {
   isNativeShell,
   type PluginListenerHandle,
 } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
-import { UserIdContext } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import { decidePermissionAction } from "akasha/persons/modules/push-permission/push-permission.module.code.ts"
-import { registerDeviceTokenSchema } from "akasha/persons/modules/push-register-body/push-register-body.module.code.ts"
-import { decidePushRoute } from "akasha/persons/modules/push-routing/push-routing.module.code.ts"
+import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { decidePermissionAction } from "akasha/person/modules/push-permission/push-permission.module.code.ts"
+import { registerDeviceTokenSchema } from "akasha/person/modules/push-register-body/push-register-body.module.code.ts"
+import { decidePushRoute } from "akasha/person/modules/push-routing/push-routing.module.code.ts"
 import { useContext, useEffect, useRef } from "react"
 import { useNavigate } from "react-router"
 

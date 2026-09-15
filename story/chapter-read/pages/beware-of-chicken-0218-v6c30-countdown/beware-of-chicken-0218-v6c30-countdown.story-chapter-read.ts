@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0218V6c30Countdown = {
+  id: "01a06731-adbb-700b-8ff2-d30c9f56dd7b",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0218-v6c30-countdown",
+  title: "v6c30: Countdown",
+  story: "story-read/beware-of-chicken",
+  position: 218,
+  ownLength: 2711,
+  ownProgress: 2711,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:58:50.378Z",
+  publishedAt: "2025-05-31",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2318621",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2318621/v6c30-countdown",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

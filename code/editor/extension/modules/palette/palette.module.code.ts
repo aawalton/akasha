@@ -8,7 +8,7 @@ import {
   YELLOW,
 } from "akasha/design/interfaces/tokens/modules/semantic-color/semantic-color.module.code.ts"
 import { TEXT_PRIMARY } from "akasha/design/interfaces/tokens/modules/text-color/text-color.module.code.ts"
-import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const PALETTE: Readonly<Record<string, Rgb>> = {
   green: GREEN,

@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const howSomethingGetsAddedToTheRotation = {
-  id: "01a077ef-f63f-784b-9d2d-cb59ff0defe3",
-  type: "all-about-alan-question",
-  slug: "how-something-gets-added-to-the-rotation",
-  topic: "all-about-alan-topic/how-something-joins-the-rotation",
-  ask: "How do I decide to add something to the rotation: does interest fire, or do I put the thing there deliberately?",
-} as const satisfies AllAboutAlanQuestion

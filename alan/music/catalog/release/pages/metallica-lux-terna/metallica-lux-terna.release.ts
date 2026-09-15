@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const metallicaLuxTerna = {
+  id: "01a0676a-d724-701e-a48d-ee5acd41b3a1",
+  type: "release",
+  slug: "metallica-lux-terna",
+  title: "Lux Æterna",
+  partOfCollections: ["artist/metallica"],
+  position: 0,
+  ownLength: 3.427983,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2022-11-28",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7qxhxLR8oZN3LizPQ7z2cb",
+      externalLink: "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb",
+    },
+  ],
+} as const satisfies Release

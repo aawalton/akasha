@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const rebornAsADemonicTree0009Chapter8GrandElderSDeclaration = {
+  id: "01a06730-4dc4-7282-a611-21dee5771091",
+  type: "story-chapter-read",
+  slug: "reborn-as-a-demonic-tree-0009-chapter-8-grand-elder-s-declaration",
+  title: "Chapter 8: Grand Elder’s Declaration",
+  story: "story-read/reborn-as-a-demonic-tree",
+  position: 9,
+  ownLength: 1610,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1081560",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081560/chapter-8-grand-elders-declaration",
+    },
+  ],
+  publishedAt: "2023-01-07",
+  ownProgress: 1610,
+  completedAt: "2026-06-29T19:01:47.653Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

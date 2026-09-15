@@ -1,8 +1,0 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
-
-export const ability = {
-  id: "01a0675b-16d3-7c80-b453-27e91b39430f",
-  type: "domain",
-  slug: "ability",
-  definition: "something a character can do",
-} as const satisfies Domain

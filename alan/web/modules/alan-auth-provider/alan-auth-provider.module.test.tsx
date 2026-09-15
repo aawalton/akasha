@@ -1,6 +1,6 @@
 import { beforeEach, expect, mock, test } from "bun:test"
 import { render } from "@testing-library/react"
-import { UserIdContext } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { act, useContext, useEffect } from "react"
 
 process.env.BASE_URL = "/"
@@ -39,26 +39,26 @@ mock.module(
 )
 
 const appVersionCheck = await import(
-  "akasha/pages/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"
+  "akasha/page/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"
 )
 mock.module(
-  "akasha/pages/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts",
+  "akasha/page/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts",
   () => ({
     ...appVersionCheck,
     useAppVersionCheck: () => undefined,
   })
 )
-mock.module("akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts", () => ({
+mock.module("akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts", () => ({
   emitStoreDiagnostic: () => undefined,
   setStoreDiagnosticsSink: () => undefined,
 }))
-mock.module("akasha/pages/ui-store/modules/report-stall/report-stall.module.code.ts", () => ({
+mock.module("akasha/page/ui-store/modules/report-stall/report-stall.module.code.ts", () => ({
   reportPagesStoreStall: () => Promise.resolve(),
 }))
 const pagesStoreSingleton = await import(
-  "akasha/pages/ui-store/modules/singleton/singleton.module.code.ts"
+  "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 )
-mock.module("akasha/pages/ui-store/modules/singleton/singleton.module.code.ts", () => ({
+mock.module("akasha/page/ui-store/modules/singleton/singleton.module.code.ts", () => ({
   ...pagesStoreSingleton,
   configurePagesStoreAuth: () => Promise.resolve(),
   getPagesStore: () =>

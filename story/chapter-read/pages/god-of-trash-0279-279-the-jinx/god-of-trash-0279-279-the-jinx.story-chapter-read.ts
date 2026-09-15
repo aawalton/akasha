@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash0279279TheJinx = {
+  id: "01a06731-adfb-7006-ad7e-7ae973b5ee11",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0279-279-the-jinx",
+  title: "279. The Jinx",
+  story: "story-read/god-of-trash",
+  position: 279,
+  ownLength: 2112,
+  unit: "unit/words",
+  publishedAt: "2026-02-25",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3092458",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3092458/279-the-jinx",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

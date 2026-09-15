@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0116Chapter103ToTheTempleDistrict = {
+  id: "01a0672c-ed5f-7011-82b9-586af60439c2",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0116-chapter-103-to-the-temple-district",
+  title: "Chapter 103 To The Temple District",
+  story: "story-read/melody-of-mana",
+  position: 116,
+  ownLength: 2203,
+  ownProgress: 2203,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:30:08.244Z",
+  publishedAt: "2022-04-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "878851",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/878851/chapter-103-to-the-temple-district",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

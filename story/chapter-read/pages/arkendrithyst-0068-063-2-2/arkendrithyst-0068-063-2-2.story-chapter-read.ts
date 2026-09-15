@@ -1,0 +1,23 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const arkendrithyst006806322 = {
+  id: "01a06585-ef49-7539-9b2f-9dc03aed03e8",
+  type: "story-chapter-read",
+  slug: "arkendrithyst-0068-063-2-2",
+  title: "063. 2/2",
+  story: "story-read/arkendrithyst",
+  position: 68,
+  ownLength: 6053,
+  ownProgress: 6053,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:08:55.345Z",
+  publishedAt: "2020-01-02",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "440786",
+      externalLink: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/440786/063-22",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

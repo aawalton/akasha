@@ -1,4 +1,4 @@
-import { frameConfigSchema } from "akasha/pages/core/schema/modules/detail-config/detail-config.module.code.ts"
+import { frameConfigSchema } from "akasha/page/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { ACTION_BAR_MESSAGE_KINDS } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import {
   GameAlertsSchema,

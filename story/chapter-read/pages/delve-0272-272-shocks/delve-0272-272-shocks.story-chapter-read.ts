@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const delve0272272Shocks = {
+  id: "01a06731-afe6-7001-b2b2-12b6b5485107",
+  type: "story-chapter-read",
+  slug: "delve-0272-272-shocks",
+  title: "272: Shocks",
+  story: "story-read/delve",
+  position: 272,
+  ownLength: 2202,
+  unit: "unit/words",
+  publishedAt: "2025-09-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2580914",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/2580914/272-shocks",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

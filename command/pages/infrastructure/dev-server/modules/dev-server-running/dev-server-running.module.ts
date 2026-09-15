@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const devServerRunning = {
   id: "01a09401-2596-7b81-9dc3-f483f18f9657",

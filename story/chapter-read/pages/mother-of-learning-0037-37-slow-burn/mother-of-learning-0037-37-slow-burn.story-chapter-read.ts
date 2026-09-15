@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning003737SlowBurn = {
+  id: "01a06731-b055-7000-9ed0-d4b8a3e9650e",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0037-37-slow-burn",
+  title: "37. Slow Burn",
+  story: "story-read/mother-of-learning",
+  position: 37,
+  ownLength: 8036,
+  ownProgress: 8036,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:45:09.616Z",
+  publishedAt: "2018-11-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "310296",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/310296/37-slow-burn",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

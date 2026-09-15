@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0416Chapter1764BoilingCorruption = {
+  id: "01a0672c-eb69-7017-a40a-b8b7c2114571",
+  type: "story-chapter-read",
+  slug: "chrysalis-0416-chapter-1764-boiling-corruption",
+  title: "Chapter 1764 - Boiling Corruption",
+  story: "story-read/chrysalis",
+  position: 416,
+  ownLength: 961,
+  unit: "unit/words",
+  publishedAt: "2026-04-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3224624",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3224624/chapter-1764-boiling-corruption",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

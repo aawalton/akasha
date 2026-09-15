@@ -1,6 +1,6 @@
 import { resolve } from "node:path"
 import { writerIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { sayAnswer } from "akasha/command/modules/answer-bytes/answer-bytes.module.code.ts"
 import {
   asJson,
@@ -18,14 +18,14 @@ import {
   readingIn,
   type Valued,
   valuesOfType,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { AKASHA } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { AKASHA } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   slugAt,
   slugsIn,
   textAt,
   type Value,
-} from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const PROPERTY_ROOT = "page-property"
 

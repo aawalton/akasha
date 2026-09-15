@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
+import { notUtf8 } from "akasha/check/modules/body-not-utf8/body-not-utf8.module.code.ts"
 import { decodeUtf8 } from "akasha/code/bodies/modules/utf8-body/utf8-body.module.code.ts"
 import { fail } from "akasha/command/modules/failing/command-failing.module.code.ts"
 

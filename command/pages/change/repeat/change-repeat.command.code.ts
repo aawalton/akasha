@@ -3,10 +3,10 @@ import {
   editsIn,
   editsWaiting,
   sweptAll,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { atMostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { change } from "akasha/command/arguments/pages/change.argument.ts"
+} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { atMostIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { change } from "akasha/command/argument/pages/change.argument.ts"
 import {
   answering,
   DATA,
@@ -18,10 +18,10 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { type Input, inputIn } from "akasha/command/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { changeRepeat as page } from "akasha/command/pages/change/repeat/change-repeat.command.ts"
-import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const CHANGE_AGENT = "change-agent"

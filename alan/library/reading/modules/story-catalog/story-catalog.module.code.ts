@@ -5,8 +5,8 @@ import {
   type LitrpgRating,
   type LitrpgStory,
 } from "akasha/alan/library/reading/modules/shapes/reading-shapes.module.code.ts"
-import type { ComposedQuery } from "akasha/pages/query/modules/store-questioning/store-questioning.module.code.ts"
-import { askComposed } from "akasha/pages/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+import type { ComposedQuery } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
+import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { z } from "zod"
 
 const CHAPTER_TYPE_BY_STORY_TYPE: Readonly<Record<string, string>> = {

@@ -1,0 +1,10 @@
+import type { MonarchMonth } from "akasha/alan/harness/monarch/month/monarch-month.page-type.types.ts"
+
+export const month202504 = {
+  id: "01a06559-5ec3-7000-8a41-309dec0c6c06",
+  type: "monarch-month",
+  slug: "month-2025-04",
+  title: "April 2025",
+  startsOn: "2025-04-01",
+  transactions: "jsonl",
+} as const satisfies MonarchMonth

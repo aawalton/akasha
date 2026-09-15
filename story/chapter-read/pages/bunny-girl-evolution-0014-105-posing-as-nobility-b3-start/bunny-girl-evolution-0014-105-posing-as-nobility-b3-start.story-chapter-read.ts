@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bunnyGirlEvolution0014105PosingAsNobilityB3Start = {
+  id: "01a06743-b36e-7000-90a2-ff48048e3afb",
+  type: "story-chapter-read",
+  slug: "bunny-girl-evolution-0014-105-posing-as-nobility-b3-start",
+  title: "105 - Posing as Nobility (B3 start)",
+  story: "story-read/bunny-girl-evolution",
+  position: 14,
+  ownLength: 2610,
+  ownProgress: 2610,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:03:06.891Z",
+  publishedAt: "2025-06-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2343893",
+      externalLink:
+        "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/2343893/105-posing-as-nobility-b3-start",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

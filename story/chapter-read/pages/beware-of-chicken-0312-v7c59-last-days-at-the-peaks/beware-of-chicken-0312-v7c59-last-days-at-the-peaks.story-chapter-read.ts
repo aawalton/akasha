@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0312V7c59LastDaysAtThePeaks = {
+  id: "01a06731-ade0-7001-b42a-2190f66b0b97",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0312-v7c59-last-days-at-the-peaks",
+  title: "v7c59: Last Days at the Peaks",
+  story: "story-read/beware-of-chicken",
+  position: 312,
+  ownLength: 3265,
+  unit: "unit/words",
+  publishedAt: "2026-05-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3430209",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3430209/v7c59-last-days-at-the-peaks",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0421ChapterFourHundredAndEightGhostStories = {
+  id: "01a0672c-eb20-7004-81bc-4225e2a78e78",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0421-chapter-four-hundred-and-eight-ghost-stories",
+  title: "Chapter Four Hundred and Eight - Ghost Stories",
+  story: "story-read/cinnamon-bun",
+  position: 421,
+  ownLength: 1971,
+  unit: "unit/words",
+  publishedAt: "2023-05-25",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1224730",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1224730/chapter-four-hundred-and-eight-ghost-stories",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

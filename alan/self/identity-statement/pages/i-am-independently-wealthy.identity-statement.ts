@@ -1,0 +1,16 @@
+import type { IdentityStatement } from "akasha/alan/self/identity-statement/identity-statement.page-type.types.ts"
+
+export const iAmIndependentlyWealthy = {
+  id: "019ea810-a0f8-717c-9ccf-c564d72efbce",
+  type: "identity-statement",
+  slug: "i-am-independently-wealthy",
+  title: "I am independently wealthy",
+  about: "myself",
+  identityStatementLevel: 0,
+  notionId: "26d778e4042a4d44a32081cb1382ad75",
+  identityStatementRank: "a-rank",
+  replacesStatements: ["identity-statement/i-am-comfortably-retired"],
+  identityStatementStatus: "planned",
+  identityStatementValue: "value/wealth",
+  icon: "file-text",
+} as const satisfies IdentityStatement

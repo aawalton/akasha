@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0260Chapter246TurnaboutIsFairPlay = {
+  id: "01a06731-ad85-7006-9e1d-8e17c793dce3",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0260-chapter-246-turnabout-is-fair-play",
+  title: "Chapter 246 Turnabout is Fair Play",
+  story: "story-read/melody-of-mana",
+  position: 260,
+  ownLength: 1659,
+  ownProgress: 1659,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:34:48.150Z",
+  publishedAt: "2023-06-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1248793",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1248793/chapter-246-turnabout-is-fair-play",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

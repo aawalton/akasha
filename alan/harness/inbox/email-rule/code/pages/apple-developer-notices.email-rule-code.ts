@@ -1,0 +1,23 @@
+import type { EmailRuleCode } from "akasha/alan/harness/inbox/email-rule/code/email-rule-code.page-type.types.ts"
+
+export const appleDeveloperNotices = {
+  id: "01a06860-54a2-7e9e-a022-c0af20204aa9",
+  type: "email-rule-code",
+  slug: "apple-developer-notices",
+  title: "Apple developer notices",
+  matches: [
+    {
+      field: "from",
+      comparison: "is",
+      values: ["no_reply@email.apple.com", "testflight_no_reply@email.apple.com"],
+    },
+    {
+      field: "subject",
+      comparison: "contains",
+      values: ["completed processing", "is now available to test"],
+    },
+    { field: "from", comparison: "is", values: ["no_reply@email.apple.com"] },
+    { field: "subject", comparison: "does-not-contain", values: ["your receipt from apple"] },
+  ],
+  filing: "archive",
+} as const satisfies EmailRuleCode

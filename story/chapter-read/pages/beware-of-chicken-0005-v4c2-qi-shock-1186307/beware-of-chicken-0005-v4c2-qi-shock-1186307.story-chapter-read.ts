@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0005V4c2QiShock1186307 = {
+  id: "01a08396-5a32-7746-a3c6-93592233711b",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0005-v4c2-qi-shock-1186307",
+  story: "story-read/beware-of-chicken",
+  position: 5,
+  publishedAt: "2023-04-20",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1186307",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1186307/v4c2-qi-shock",
+    },
+  ],
+  title: "v4c2: Qi Shock",
+  ownLength: 2167,
+  prose: "txt",
+} as const satisfies StoryChapterRead

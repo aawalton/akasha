@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0543340ITheWayOfTripartiteRuinI = {
+  id: "01a06730-4ee7-7345-91b3-99cfb38cdf22",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0543-340-i-the-way-of-tripartite-ruin-i",
+  title: "340 (I)  The Way of Tripartite Ruin [I]",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 543,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3302143/340-i-the-way-of-tripartite-ruin-i",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

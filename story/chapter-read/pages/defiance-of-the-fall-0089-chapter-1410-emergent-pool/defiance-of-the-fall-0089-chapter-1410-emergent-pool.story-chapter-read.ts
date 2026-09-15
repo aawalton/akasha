@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const defianceOfTheFall0089Chapter1410EmergentPool = {
+  id: "01a06731-ad93-7000-a530-744cf1bb8025",
+  type: "story-chapter-read",
+  slug: "defiance-of-the-fall-0089-chapter-1410-emergent-pool",
+  title: "Chapter 1,410 - Emergent Pool",
+  story: "story-read/defiance-of-the-fall",
+  position: 89,
+  ownLength: 2816,
+  unit: "unit/words",
+  publishedAt: "2026-03-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3163202",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3163202/chapter-1410-emergent-pool",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

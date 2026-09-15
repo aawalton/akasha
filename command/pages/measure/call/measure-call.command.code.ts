@@ -1,6 +1,6 @@
-import { linesOf, windowOf } from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { runWindow } from "akasha/command/arguments/pages/run-window.argument.ts"
+import { linesOf, windowOf } from "akasha/check/modules/measuring/check-measuring.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { runWindow } from "akasha/command/argument/pages/run-window.argument.ts"
 import { told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
@@ -9,7 +9,7 @@ import {
   besideIn,
   costsOf,
 } from "akasha/command/pages/measure/modules/gathering/measure-gathering.module.code.ts"
-import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const SEAT = "seat"
 

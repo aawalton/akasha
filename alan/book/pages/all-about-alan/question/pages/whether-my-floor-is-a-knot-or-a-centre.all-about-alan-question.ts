@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const whetherMyFloorIsAKnotOrACentre = {
+  id: "01a077e8-03cf-76a2-80ea-4f56ff1cf073",
+  type: "all-about-alan-question",
+  slug: "whether-my-floor-is-a-knot-or-a-centre",
+  topic: "all-about-alan-topic/what-is-at-my-floor",
+  ask: "Truth is welded to my root and now freedom is too. Is my floor one three-way knot, or self-improvement at the centre with truth and freedom as what it cannot do without?",
+} as const satisfies AllAboutAlanQuestion

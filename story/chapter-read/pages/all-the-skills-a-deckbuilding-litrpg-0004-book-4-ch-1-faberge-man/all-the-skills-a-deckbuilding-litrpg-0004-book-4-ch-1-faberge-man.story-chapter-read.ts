@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const allTheSkillsADeckbuildingLitrpg0004Book4Ch1FabergeMan = {
+  id: "01a06585-ef16-7ef3-9ada-1ceb8622f919",
+  type: "story-chapter-read",
+  slug: "all-the-skills-a-deckbuilding-litrpg-0004-book-4-ch-1-faberge-man",
+  title: "Book 4 Ch 1: Faberge Man",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
+  position: 4,
+  ownLength: 2017,
+  ownProgress: 2017,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:09:49.945Z",
+  publishedAt: "2024-03-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1548522",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/1548522/book-4-ch-1-faberge-man",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

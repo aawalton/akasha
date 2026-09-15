@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld0257298ApplyingInput = {
+  id: "01a06730-4eb7-7e26-a46c-4cfd5d27918a",
+  type: "story-chapter-read",
+  slug: "the-new-world-0257-298-applying-input",
+  title: "298 Applying Input",
+  story: "story-read/the-new-world",
+  position: 257,
+  ownLength: 6585,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "656866",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/656866/298-applying-input",
+    },
+  ],
+  publishedAt: "2021-04-02",
+  ownProgress: 6585,
+  completedAt: "2026-06-29T21:29:58.505Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

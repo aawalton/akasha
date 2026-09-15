@@ -1,0 +1,14 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const assessment = {
+  id: "01a06594-c68d-700c-9ddb-6b1adb48d132",
+  type: "book-section",
+  slug: "assessment",
+  title: "Envelope Assessment Options",
+  sectionOf: "book-section/solar-power/envelope",
+  description:
+    "Assessment options for the envelope — blower door, IR thermography, Manual J, BPI / RESNET audits — with current pricing and what each one resolves.",
+  partOfCollections: ["book-section/solar-power/envelope", "alan-book/my-projects"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

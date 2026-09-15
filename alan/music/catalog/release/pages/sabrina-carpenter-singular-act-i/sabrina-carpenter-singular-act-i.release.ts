@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const sabrinaCarpenterSingularActI = {
+  id: "01a0676a-d729-700f-9cb3-718c855cfc33",
+  type: "release",
+  slug: "sabrina-carpenter-singular-act-i",
+  title: "Singular Act I",
+  partOfCollections: ["artist/sabrina-carpenter"],
+  position: 0,
+  ownLength: 25.064633,
+  ownProgress: 25.064633,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-11-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "29mlGxS6kxq1EHxlX1EAZK",
+      externalLink: "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK",
+      lastSyncedAt: "2025-12-24",
+    },
+  ],
+} as const satisfies Release

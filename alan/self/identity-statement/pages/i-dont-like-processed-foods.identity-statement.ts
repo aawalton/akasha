@@ -1,0 +1,16 @@
+import type { IdentityStatement } from "akasha/alan/self/identity-statement/identity-statement.page-type.types.ts"
+
+export const iDontLikeProcessedFoods = {
+  id: "019ea810-a1d2-722b-ac9f-f1b81fe6d181",
+  type: "identity-statement",
+  slug: "i-dont-like-processed-foods",
+  title: "I don’t like processed foods",
+  identityStatementLevel: 0,
+  notionId: "2d95cf0bf24a80f19dadcc1bfb2d6f1b",
+  parentStatement: "identity-statement/i-am-whole-food-plant-based",
+  identityStatementRank: "b-rank",
+  identityStatementStatus: "planned",
+  identityStatementTags: ["eat"],
+  identityStatementValue: "value/health",
+  icon: "file-text",
+} as const satisfies IdentityStatement

@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const crossGenderInteractionMap = {
+  id: "01a06594-c677-700b-8e01-45da35bfd514",
+  type: "book-section",
+  slug: "cross-gender-interaction-map",
+  title: "Cross-gender interaction map",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

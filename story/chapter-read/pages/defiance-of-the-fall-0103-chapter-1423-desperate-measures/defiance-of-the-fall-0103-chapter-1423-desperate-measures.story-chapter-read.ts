@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const defianceOfTheFall0103Chapter1423DesperateMeasures = {
+  id: "01a06731-ada4-7000-8f54-572a31b7e2bf",
+  type: "story-chapter-read",
+  slug: "defiance-of-the-fall-0103-chapter-1423-desperate-measures",
+  title: "Chapter 1,423 - Desperate Measures",
+  story: "story-read/defiance-of-the-fall",
+  position: 103,
+  ownLength: 2950,
+  unit: "unit/words",
+  publishedAt: "2026-04-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3282290",
+      externalLink:
+        "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3282290/chapter-1423-desperate-measures",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

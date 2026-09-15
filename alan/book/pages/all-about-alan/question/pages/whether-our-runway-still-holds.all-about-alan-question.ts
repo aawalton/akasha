@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const whetherOurRunwayStillHolds = {
+  id: "01a077ea-9e62-7107-9c85-72855d31e557",
+  type: "all-about-alan-question",
+  slug: "whether-our-runway-still-holds",
+  topic: "all-about-alan-topic/the-money-we-are-living-on",
+  ask: "The runway has not been recomputed since retiring, the trip and the new arrangement. Does the eight to eighteen years still hold?",
+} as const satisfies AllAboutAlanQuestion

@@ -14,7 +14,7 @@ import {
   totalOf,
   underRan,
   withinOf,
-} from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
+} from "akasha/check/modules/measuring/check-measuring.module.code.ts"
 
 const ENTRIES = "entries"
 

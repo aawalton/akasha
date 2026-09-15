@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const phoenixAscensionCultivationLitrpg0005Chapter5GoldenCore = {
+  id: "01a06730-4de2-7411-b316-0a8640c743cc",
+  type: "story-chapter-read",
+  slug: "phoenix-ascension-cultivation-litrpg-0005-chapter-5-golden-core",
+  title: "Chapter 5: Golden Core",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
+  position: 5,
+  ownLength: 2643,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2525655",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525655/chapter-5-golden-core",
+    },
+  ],
+  publishedAt: "2025-08-17",
+  prose: "txt",
+} as const satisfies StoryChapterRead

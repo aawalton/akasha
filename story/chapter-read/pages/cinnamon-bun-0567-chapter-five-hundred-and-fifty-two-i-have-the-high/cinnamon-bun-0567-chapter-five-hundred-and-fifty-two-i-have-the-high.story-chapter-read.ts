@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0567ChapterFiveHundredAndFiftyTwoIHaveTheHigh = {
+  id: "01a0672c-eb27-700f-9e3a-b9ed7847524e",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0567-chapter-five-hundred-and-fifty-two-i-have-the-high",
+  title: "Chapter Five Hundred and Fifty-Two - I Have the High Sky",
+  story: "story-read/cinnamon-bun",
+  position: 567,
+  ownLength: 1574,
+  unit: "unit/words",
+  publishedAt: "2025-09-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2572746",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2572746/chapter-five-hundred-and-fifty-two-i-have-the",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

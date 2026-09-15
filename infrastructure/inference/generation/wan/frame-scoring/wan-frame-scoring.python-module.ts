@@ -1,0 +1,10 @@
+import type { PythonModule } from "akasha/code/python-module/python-module.page-type.types.ts"
+
+export const wanFrameScoring = {
+  id: "01a06815-9efd-7022-88a4-0adf23d8e3d9",
+  type: "python-module",
+  slug: "wan-frame-scoring",
+  definition: "how near each frame's face is to a reference face",
+  python: "py",
+  bytecodeDirectory: true,
+} as const satisfies PythonModule

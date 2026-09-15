@@ -16,24 +16,24 @@ import { PullToRefresh } from "akasha/alan/web/modules/pull-to-refresh/pull-to-r
 import {
   LayoutRouterAdapter,
   PagesUIRouterAdapter,
-} from "akasha/code/router-apps/modules/router-context-adapters/router-context-adapters.module.code.tsx"
+} from "akasha/code/router-app/modules/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/modules/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/interfaces/layout/modules/nav-types/nav-types.module.code.ts"
 import { useSidebarState } from "akasha/design/interfaces/layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
-import { createPage } from "akasha/pages/access/modules/create/create.module.code.ts"
-import { NEVER_MATCH_SLUG } from "akasha/pages/access/modules/sentinels/sentinels.module.code.ts"
-import type { ReadonlyJSONValue } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
-import { CreatePageDialog } from "akasha/pages/ui/components/modules/create-page-dialog/create-page-dialog.module.code.tsx"
-import { SortableNavs } from "akasha/pages/ui/components/modules/sortable-navs/sortable-navs.module.code.tsx"
-import { useAppNavItems } from "akasha/pages/ui/components/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"
-import { useActiveQuickAddPageType } from "akasha/pages/ui/components/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"
+import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
+import { NEVER_MATCH_SLUG } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
+import { CreatePageDialog } from "akasha/page/ui/components/modules/create-page-dialog/create-page-dialog.module.code.tsx"
+import { SortableNavs } from "akasha/page/ui/components/modules/sortable-navs/sortable-navs.module.code.tsx"
+import { useAppNavItems } from "akasha/page/ui/components/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"
+import { useActiveQuickAddPageType } from "akasha/page/ui/components/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"
 import {
   type CreateSelectOptionEffect,
   PagesUIOptionCreateProvider,
-} from "akasha/pages/ui/modules/option-create-context/option-create-context.module.code.tsx"
-import { useUserId } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import { useAllPages } from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
-import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
+} from "akasha/page/ui/modules/option-create-context/option-create-context.module.code.tsx"
+import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { useAllPages } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
+import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { LogIn, LogOut } from "lucide-react"
 import { useCallback, useEffect, useMemo, useState } from "react"
 import { Link } from "react-router"

@@ -1,4 +1,4 @@
-import { getPages } from "akasha/pages/access/modules/get/get.module.code.ts"
+import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 
 const PROBE_PAGE_TYPE = "page-type"
 

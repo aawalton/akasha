@@ -1,0 +1,18 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const anchorClaimedBy = {
+  id: "01a0685e-ef8a-79db-8377-e5f878c0cb0c",
+  type: "text-property",
+  slug: "anchor-claimed-by",
+  propertySlug: "claimed-by",
+  definition: "who in the story said the anchor",
+  maxLength: 100,
+  nameFormat: null,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An anchor the story itself tells names nobody here.",
+    },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

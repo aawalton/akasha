@@ -25,7 +25,7 @@ import type { SubscriptionType } from "akasha/agent/model/account/properties/sub
 import type { TerminalAlertedAt } from "akasha/agent/model/account/properties/terminal-alerted-at.instant-property.types.ts"
 import type { TerminalAt } from "akasha/agent/model/account/properties/terminal-at.instant-property.types.ts"
 import type { UsageReadAt } from "akasha/agent/model/account/properties/usage-read-at.instant-property.types.ts"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { Page } from "akasha/page/page.page-type.types.ts"
 
 export type ModelAccount = Page & {
   accountUuid?: AccountUuid

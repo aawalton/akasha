@@ -1,0 +1,8 @@
+import type { World } from "akasha/story/world/world.page-type.types.ts"
+
+export const myLordPleaseACharacterDrivenKingdomBuilding = {
+  id: "01a063d8-61f2-7aee-81e3-35062ab609f1",
+  type: "world",
+  slug: "my-lord-please-a-character-driven-kingdom-building",
+  title: "My Lord! Please! (A Character Driven Kingdom Building Novel)",
+} as const satisfies World

@@ -1,0 +1,10 @@
+import type { PhoneNumberProperty } from "akasha/page/phone-number-property/phone-number-property.page-type.types.ts"
+
+export const phone = {
+  id: "01a053e9-be09-72ca-9b1b-117a48a04491",
+  type: "phone-number-property",
+  slug: "phone",
+  propertySlug: "phone",
+  definition: "the number a person or a persona is reached at",
+  types: "ts",
+} as const satisfies PhoneNumberProperty

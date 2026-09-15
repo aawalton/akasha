@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0580Chapter580TheFinalEvent = {
+  id: "01a0672c-ed12-7000-9721-9886a1702ecb",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0580-chapter-580-the-final-event",
+  title: "Chapter 580 - The Final Event",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 580,
+  ownLength: 3548,
+  unit: "unit/words",
+  publishedAt: "2018-05-08",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "214110",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/214110/chapter-580-the-final-event",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

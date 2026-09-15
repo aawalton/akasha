@@ -1,0 +1,11 @@
+import type { SelectProperty } from "akasha/page/select-property/select-property.page-type.types.ts"
+
+export const toDoPriority = {
+  id: "01a065a1-49b7-7880-b138-f141f4b9971f",
+  type: "select-property",
+  slug: "to-do-priority",
+  propertySlug: "to-do-priority",
+  definition: "how far up the list a to-do stands",
+  values: ["p1", "p2", "p3", "p4"],
+  types: "ts",
+} as const satisfies SelectProperty

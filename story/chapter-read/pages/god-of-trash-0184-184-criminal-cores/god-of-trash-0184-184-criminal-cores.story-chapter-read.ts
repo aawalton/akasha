@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash0184184CriminalCores = {
+  id: "01a0672c-edcc-700d-a2ee-9a4c2f0b74cb",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0184-184-criminal-cores",
+  title: "184. Criminal Cores",
+  story: "story-read/god-of-trash",
+  position: 184,
+  ownLength: 1795,
+  unit: "unit/words",
+  publishedAt: "2025-09-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2595881",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2595881/184-criminal-cores",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

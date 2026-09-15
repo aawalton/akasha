@@ -1,0 +1,11 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const priorityOrder = {
+  id: "01a05fcb-fd32-7c0a-a49a-caef7ddc3592",
+  type: "number-property",
+  slug: "priority-order",
+  propertySlug: "priority-order",
+  definition: "which branch takes an item where more than one branch admits it",
+  max: null,
+  types: "ts",
+} as const satisfies NumberProperty

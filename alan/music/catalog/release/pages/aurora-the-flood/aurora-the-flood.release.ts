@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const auroraTheFlood = {
+  id: "01a0676a-d72d-7012-b11d-f11c9761fcfc",
+  type: "release",
+  slug: "aurora-the-flood",
+  title: "The Flood",
+  partOfCollections: ["artist/aurora"],
+  position: 0,
+  ownLength: 4.495333,
+  ownProgress: 4.495333,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-04-04",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3T120QCrtTGvrVN2lxc8XP",
+      externalLink: "https://open.spotify.com/album/3T120QCrtTGvrVN2lxc8XP",
+    },
+  ],
+} as const satisfies Release

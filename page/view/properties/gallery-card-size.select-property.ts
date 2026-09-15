@@ -1,0 +1,11 @@
+import type { SelectProperty } from "akasha/page/select-property/select-property.page-type.types.ts"
+
+export const galleryCardSize = {
+  id: "01a0680d-4d00-7011-8d69-5f1a4c7b4112",
+  type: "select-property",
+  slug: "gallery-card-size",
+  propertySlug: "gallery-card-size",
+  definition: "how large a gallery draws one card",
+  values: ["small", "medium", "large"],
+  types: "ts",
+} as const satisfies SelectProperty

@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const reneeRappSnowAngelDeluxe = {
+  id: "01a0676a-d729-703a-a4cb-fd4a093ec941",
+  type: "release",
+  slug: "renee-rapp-snow-angel-deluxe",
+  title: "Snow Angel (Deluxe)",
+  partOfCollections: ["artist/renee-rapp"],
+  position: 0,
+  ownLength: 48.696117,
+  ownProgress: 48.696117,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2023-11-17",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7pPV0OFuytqNj7ar82Hizf",
+      externalLink: "https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf",
+    },
+  ],
+} as const satisfies Release

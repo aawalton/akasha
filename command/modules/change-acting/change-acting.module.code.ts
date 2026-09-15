@@ -1,11 +1,11 @@
-import { leftAt, replayed } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { leftAt, replayed } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   bodyIn,
   editsIn,
   keptEdits,
   sweptAll,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   DATA,
   OPERATIONAL,
@@ -20,8 +20,8 @@ import { offRepo, pathAt } from "akasha/command/modules/said-pathing/said-pathin
 import {
   indexThere,
   listedAt,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 export const NO_PAGE = "this call names no agent whose page the edits would be kept beside"

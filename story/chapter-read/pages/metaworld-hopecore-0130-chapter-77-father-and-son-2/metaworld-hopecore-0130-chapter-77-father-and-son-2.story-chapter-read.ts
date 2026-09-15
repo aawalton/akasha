@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const metaworldHopecore0130Chapter77FatherAndSon2 = {
+  id: "01a06731-af1a-7000-9b30-a05eb8a1772d",
+  type: "story-chapter-read",
+  slug: "metaworld-hopecore-0130-chapter-77-father-and-son-2",
+  title: "CHAPTER 77 - Father and Son (2) ",
+  story: "story-read/metaworld-hopecore",
+  position: 130,
+  ownLength: 2168,
+  unit: "unit/words",
+  publishedAt: "2026-07-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3683193",
+      externalLink:
+        "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3683193/chapter-77-father-and-son-2",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

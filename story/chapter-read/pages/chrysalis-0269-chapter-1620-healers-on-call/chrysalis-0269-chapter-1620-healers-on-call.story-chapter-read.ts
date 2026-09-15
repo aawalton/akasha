@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0269Chapter1620HealersOnCall = {
+  id: "01a0672c-eb64-700e-b8e9-9d3d3badbdb1",
+  type: "story-chapter-read",
+  slug: "chrysalis-0269-chapter-1620-healers-on-call",
+  title: "Chapter 1620 - Healers On Call",
+  story: "story-read/chrysalis",
+  position: 269,
+  ownLength: 984,
+  ownProgress: 984,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:52:25.329Z",
+  publishedAt: "2025-08-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2508291",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2508291/chapter-1620-healers-on-call",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

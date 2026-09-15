@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0099Chapter87Confrontation = {
+  id: "01a0672c-ed5f-7000-8bbb-2d3fa4b87d6d",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0099-chapter-87-confrontation",
+  title: "Chapter 87 Confrontation",
+  story: "story-read/melody-of-mana",
+  position: 99,
+  ownLength: 2113,
+  ownProgress: 2113,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:29:36.541Z",
+  publishedAt: "2022-02-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "841686",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/841686/chapter-87-confrontation",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

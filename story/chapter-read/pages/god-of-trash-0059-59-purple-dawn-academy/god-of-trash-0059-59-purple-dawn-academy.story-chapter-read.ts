@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash005959PurpleDawnAcademy = {
+  id: "01a0672c-edbc-7008-839f-a7d04d9a900b",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0059-59-purple-dawn-academy",
+  title: "59. Purple Dawn Academy",
+  story: "story-read/god-of-trash",
+  position: 59,
+  ownLength: 2766,
+  unit: "unit/words",
+  publishedAt: "2025-04-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2238914",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2238914/59-purple-dawn-academy",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

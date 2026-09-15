@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const justinTimberlakeItTakesTwoFeatEricAndreDaveedDiggsKidCudiTrolls = {
+  id: "01a0676a-d722-7017-adc4-a8b46a12a715",
+  type: "release",
+  slug: "justin-timberlake-it-takes-two-feat-eric-andre-daveed-diggs-kid-cudi-trolls",
+  title: "It Takes Two (feat. Eric Andre, Daveed Diggs, Kid Cudi & Trolls)",
+  partOfCollections: ["artist/justin-timberlake"],
+  position: 0,
+  ownLength: 3.652217,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2023-10-11",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7oGTxPAGX6htcQblSqWo0r",
+      externalLink: "https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r",
+    },
+  ],
+} as const satisfies Release

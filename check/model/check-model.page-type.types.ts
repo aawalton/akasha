@@ -1,0 +1,10 @@
+import type { AuditRuns } from "akasha/check/model/properties/audit-runs.number-property.types.ts"
+import type { ChangeRuns } from "akasha/check/model/properties/change-runs.number-property.types.ts"
+import type { ModelTests } from "akasha/check/model/properties/model-tests.relation-property.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+
+export type ModelCheck = Domain & {
+  modelTests: ModelTests
+  changeRuns: ChangeRuns
+  auditRuns: AuditRuns
+}

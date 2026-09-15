@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0196V6c8BrightAndEarly = {
+  id: "01a06731-adb6-7004-86a5-518b89a05cc0",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0196-v6c8-bright-and-early",
+  title: "v6c8: Bright and Early",
+  story: "story-read/beware-of-chicken",
+  position: 196,
+  ownLength: 1880,
+  ownProgress: 1880,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:58:02.789Z",
+  publishedAt: "2025-03-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2151204",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2151204/v6c8-bright-and-early",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

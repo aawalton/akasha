@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0034Chapter50SomeAdvise = {
+  id: "01a06591-3f82-7524-9a89-e5da24568fb2",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0034-chapter-50-some-advise",
+  title: "Chapter 50 - Some Advise",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 34,
+  ownLength: 3264,
+  unit: "unit/words",
+  publishedAt: "2016-10-13",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "97554",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97554/chapter-50-some-advise",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

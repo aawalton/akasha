@@ -1,0 +1,12 @@
+import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pursuits/temper-achievement-category/temper-achievement-category.page-type.types.ts"
+
+export const characterBlackwoodExploration = {
+  id: "01a06168-7251-701c-b6d9-f8a3e4febd80",
+  type: "temper-achievement-category",
+  slug: "character-blackwood-exploration",
+  title: "Exploration",
+  category: "character",
+  displayOrder: 0,
+  parent: "character-blackwood",
+  achievements: "jsonl",
+} as const satisfies TemperAchievementCategory

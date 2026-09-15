@@ -20,7 +20,7 @@ import { getEsoDayWindow } from "akasha/alan/harness/day-boundary/modules/eso-da
 import {
   takeReadings as takeInboxes,
   tasksPage,
-} from "akasha/alan/harness/inboxes/modules/reading/inbox-reading.module.code.ts"
+} from "akasha/alan/harness/inbox/modules/reading/inbox-reading.module.code.ts"
 import {
   READOUT_SLUG as PLANTS_SLUG,
   takeReading as takePlants,
@@ -28,14 +28,14 @@ import {
 import {
   keepSilence,
   readoutPage,
-} from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
+} from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import {
   SETTLE_MS,
   type WatchedReadout,
   type Watching,
   type WatchLogger,
   watchReadings,
-} from "akasha/alan/harness/readouts/modules/watching/readout-watching.module.code.ts"
+} from "akasha/alan/harness/readout/modules/watching/readout-watching.module.code.ts"
 import {
   READOUT_SLUG as SAFETY_SLUG,
   takeReading as takeSafety,
@@ -53,19 +53,19 @@ import { DAY_PAGE_TYPE } from "akasha/alan/track/daily/modules/day-place/day-pla
 import {
   dirsOf,
   followFolders,
-} from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
-import { keepBeat } from "akasha/infrastructure/services/workstations/modules/service-beating/service-beating.module.code.ts"
+} from "akasha/infrastructure/service/workstation/modules/file-following/file-following.module.code.ts"
+import { keepBeat } from "akasha/infrastructure/service/workstation/modules/service-beating/service-beating.module.code.ts"
 import {
   everyOfType,
   listedAt,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
-export const DAYS_AT = "alan/track/daily/days/pages"
+export const DAYS_AT = "alan/track/daily/day/pages"
 
 export const ALAN_SITE = "https://alanwalton.com"
 
@@ -97,7 +97,7 @@ const HIS_SITE: readonly string[] = [ALAN_SITE]
 
 export const FOOD_ENTRY_PAGE_TYPE = "food-entry"
 
-export const FOODS_AT = "alan/track/food-entries/pages"
+export const FOODS_AT = "alan/track/food-entry/pages"
 
 export type DayFiles = {
   readonly folder: string

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jadaFacerAllINeedIsYou = {
+  id: "01a0676a-d716-701b-8478-3c021db56f2b",
+  type: "release",
+  slug: "jada-facer-all-i-need-is-you",
+  title: "All I Need Is You",
+  partOfCollections: ["artist/jada-facer"],
+  position: 0,
+  ownLength: 3.0176,
+  ownProgress: 3.0176,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-11-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6i0Z4wpMYbxQUCmLDvCKLe",
+      externalLink: "https://open.spotify.com/album/6i0Z4wpMYbxQUCmLDvCKLe",
+    },
+  ],
+} as const satisfies Release

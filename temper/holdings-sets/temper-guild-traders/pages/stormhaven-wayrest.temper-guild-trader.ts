@@ -1,9 +1,0 @@
-import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild-traders/temper-guild-trader.page-type.types.ts"
-
-export const stormhavenWayrest = {
-  id: "019e2fc6-5238-70e1-9f22-09a5ccc20d21",
-  type: "temper-guild-trader",
-  slug: "stormhaven-wayrest",
-  title: "Stormhaven: Wayrest",
-  kioskId: 38,
-} as const satisfies TemperGuildTrader

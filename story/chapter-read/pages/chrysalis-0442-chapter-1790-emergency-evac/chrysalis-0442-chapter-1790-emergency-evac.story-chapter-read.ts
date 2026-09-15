@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0442Chapter1790EmergencyEvac = {
+  id: "01a0672c-eb6a-7015-a996-72884bf9b5df",
+  type: "story-chapter-read",
+  slug: "chrysalis-0442-chapter-1790-emergency-evac",
+  title: "Chapter 1790 - Emergency Evac",
+  story: "story-read/chrysalis",
+  position: 442,
+  ownLength: 999,
+  unit: "unit/words",
+  publishedAt: "2026-05-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3380527",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3380527/chapter-1790-emergency-evac",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

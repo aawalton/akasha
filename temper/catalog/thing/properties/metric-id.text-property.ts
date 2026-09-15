@@ -1,0 +1,15 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const metricId = {
+  id: "01a05fb0-3ced-7636-a899-431b497b3f1f",
+  type: "text-property",
+  slug: "metric-id",
+  propertySlug: "metric-id",
+  definition: "the number an effect moves",
+  maxLength: 200,
+  nameFormat: "name-format/lower-kebab-case",
+  invariants: [
+    { invariantKind: "invariant-kind/gap", statement: "This property is a relation to a metric." },
+  ],
+  types: "ts",
+} as const satisfies TextProperty

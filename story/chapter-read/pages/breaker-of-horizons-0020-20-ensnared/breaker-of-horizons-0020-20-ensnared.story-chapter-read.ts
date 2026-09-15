@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons002020Ensnared = {
+  id: "01a06731-ad9c-7001-ad7f-367806207663",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0020-20-ensnared",
+  title: "20. Ensnared",
+  story: "story-read/breaker-of-horizons",
+  position: 20,
+  ownLength: 2134,
+  unit: "unit/words",
+  publishedAt: "2020-07-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "522036",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/522036/20-ensnared",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

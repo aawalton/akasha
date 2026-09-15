@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const paulCardallTheBrokenMiracle = {
+  id: "01a0676a-d72c-7038-a013-6b63371c910b",
+  type: "release",
+  slug: "paul-cardall-the-broken-miracle",
+  title: "The Broken Miracle",
+  partOfCollections: ["artist/paul-cardall"],
+  position: 0,
+  ownLength: 62.925417,
+  ownProgress: 62.925417,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-02-05",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5QyZxY41tqeIlMok3tmscu",
+      externalLink: "https://open.spotify.com/album/5QyZxY41tqeIlMok3tmscu",
+    },
+  ],
+} as const satisfies Release

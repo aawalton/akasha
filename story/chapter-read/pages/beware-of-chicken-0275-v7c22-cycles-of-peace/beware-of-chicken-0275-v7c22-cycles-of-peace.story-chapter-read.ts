@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0275V7c22CyclesOfPeace = {
+  id: "01a06731-add3-7001-ac4c-350b8d4f9d0c",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0275-v7c22-cycles-of-peace",
+  title: "v7c22: Cycles of Peace",
+  story: "story-read/beware-of-chicken",
+  position: 275,
+  ownLength: 2629,
+  ownProgress: 2629,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:00:51.747Z",
+  publishedAt: "2026-01-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2986611",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2986611/v7c22-cycles-of-peace",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

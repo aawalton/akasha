@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { dryRun as dryRunArgument } from "akasha/command/arguments/pages/dry-run.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { dryRun as dryRunArgument } from "akasha/command/argument/pages/dry-run.argument.ts"
 import {
   answeredWith,
   DATA,
@@ -15,12 +15,12 @@ import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.
 import { indexRefresh as page } from "akasha/command/pages/index/refresh/index-refresh.command.ts"
 import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
 import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
-import { refreshedWhole } from "akasha/pages/index/modules/indexing/indexing.module.code.ts"
+import { refreshedWhole } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import {
   type Drift,
   filedUnder,
-} from "akasha/pages/index/modules/keeping/index-keeping.module.code.ts"
-import { indexNamed } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
+import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 
 const DOMAIN_AT = "akasha.domain.ts"

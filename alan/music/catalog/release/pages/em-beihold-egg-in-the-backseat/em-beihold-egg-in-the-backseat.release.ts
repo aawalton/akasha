@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const emBeiholdEggInTheBackseat = {
+  id: "01a0676a-d71c-7060-8732-bfbaad3e437b",
+  type: "release",
+  slug: "em-beihold-egg-in-the-backseat",
+  title: "Egg in the Backseat",
+  partOfCollections: ["artist/em-beihold"],
+  position: 0,
+  ownLength: 19.249033,
+  ownProgress: 19.249033,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2022-07-22",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1iHhuUxL99xxbDjlLwHV8W",
+      externalLink: "https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W",
+    },
+  ],
+} as const satisfies Release

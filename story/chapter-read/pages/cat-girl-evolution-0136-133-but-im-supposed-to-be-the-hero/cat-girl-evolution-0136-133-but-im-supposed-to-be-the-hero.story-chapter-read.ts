@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const catGirlEvolution0136133ButImSupposedToBeTheHero = {
+  id: "01a06731-b01a-7000-9ec5-cf878deb569c",
+  type: "story-chapter-read",
+  slug: "cat-girl-evolution-0136-133-but-im-supposed-to-be-the-hero",
+  title: "133 - But I’m Supposed to Be the Hero",
+  story: "story-read/cat-girl-evolution",
+  position: 136,
+  ownLength: 2708,
+  unit: "unit/words",
+  publishedAt: "2026-06-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3606026",
+      externalLink:
+        "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3606026/133-but-im-supposed-to-be-the-hero",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const tokenName = {
+  id: "01a05fd3-4363-765b-9a4e-764100ade364",
+  type: "text-property",
+  slug: "token-name",
+  propertySlug: "token-name",
+  definition: "the name a token is shown under where tokens are listed",
+  maxLength: 100,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

@@ -1,5 +1,5 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { seat } from "akasha/command/arguments/pages/seat.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { seat } from "akasha/command/argument/pages/seat.argument.ts"
 import { refusedBy } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { ran } from "akasha/command/modules/seat-act-calling/seat-act-calling.module.code.ts"

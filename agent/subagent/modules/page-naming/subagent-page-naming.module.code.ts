@@ -1,10 +1,10 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import { everyOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { pagesAtFor } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { pagesAtFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const SEAT = "seat"
 

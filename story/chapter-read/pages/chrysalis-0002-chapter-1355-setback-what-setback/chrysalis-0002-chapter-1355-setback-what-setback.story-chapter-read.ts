@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0002Chapter1355SetbackWhatSetback = {
+  id: "01a0672c-eb5a-7000-aa8c-05b567b9809c",
+  type: "story-chapter-read",
+  slug: "chrysalis-0002-chapter-1355-setback-what-setback",
+  title: "Chapter 1355 - Setback? What Setback?",
+  story: "story-read/chrysalis",
+  position: 2,
+  ownLength: 1131,
+  ownProgress: 1131,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:43:43.088Z",
+  publishedAt: "2024-06-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1679935",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1679935/chapter-1355-setback-what-setback",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

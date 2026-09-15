@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0255ChapterTwoHundredAndFortySevenDamItAll = {
+  id: "01a0672c-eb15-7009-aa27-9930eb9b0838",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0255-chapter-two-hundred-and-forty-seven-dam-it-all",
+  title: "Chapter Two Hundred and Forty-Seven - Dam It All",
+  story: "story-read/cinnamon-bun",
+  position: 255,
+  ownLength: 1937,
+  unit: "unit/words",
+  publishedAt: "2021-09-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "751706",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/751706/chapter-two-hundred-and-forty-seven-dam-it-all",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

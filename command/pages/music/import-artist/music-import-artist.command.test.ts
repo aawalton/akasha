@@ -6,7 +6,7 @@ import type {
   MbRecording,
   MbWork,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
-import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
@@ -207,12 +207,12 @@ test("the artist page and a song page are composed from the works", async () => 
   expect(found.said.songsLyricsUnread).toBe(0)
   expect(found.said.artistSlug).toBe(ARTIST_SLUG)
 
-  const artistAt = `alan/music/catalog/artists/pages/${ARTIST_SLUG}/${ARTIST_SLUG}.artist.ts`
-  const firstAt = `alan/music/catalog/songs/pages/${ARTIST_SLUG}-first-probe/${ARTIST_SLUG}-first-probe.song.ts`
+  const artistAt = `alan/music/catalog/artist/pages/${ARTIST_SLUG}/${ARTIST_SLUG}.artist.ts`
+  const firstAt = `alan/music/catalog/song/pages/${ARTIST_SLUG}-first-probe/${ARTIST_SLUG}-first-probe.song.ts`
   expect(pathsOf(found)).toContain(artistAt)
   expect(pathsOf(found)).toContain(firstAt)
   expect(pathsOf(found)).toContain(
-    `alan/music/catalog/songs/pages/${ARTIST_SLUG}-first-probe/${ARTIST_SLUG}-first-probe.song.lyrics.txt`
+    `alan/music/catalog/song/pages/${ARTIST_SLUG}-first-probe/${ARTIST_SLUG}-first-probe.song.lyrics.txt`
   )
 
   const artistBody = bodyAt(found, artistAt)
@@ -245,7 +245,7 @@ test("an artist filed under no work is read from their recordings", async () => 
   )
   expect(found.said.derivedFrom).toBe("recordings")
   expect(found.said.songsWritten).toBe(2)
-  const liveAt = `alan/music/catalog/songs/pages/${ARTIST_SLUG}-bare-probe-live/${ARTIST_SLUG}-bare-probe-live.song.ts`
+  const liveAt = `alan/music/catalog/song/pages/${ARTIST_SLUG}-bare-probe-live/${ARTIST_SLUG}-bare-probe-live.song.ts`
   expect(bodyAt(found, liveAt)).toContain(`songType: "derivative"`)
 })
 
@@ -314,9 +314,9 @@ test("the artist, the song and its words are named to the landing at one change 
   expect(said.code).toBe(0)
   expect(seen.message).toBe(`import ${ARTIST_NAME} and 1 songs from MusicBrainz`)
   expect(seen.changes.map((one) => one.at)).toEqual([WRITE, WRITE, WRITE, WRITE])
-  const songAt = `alan/music/catalog/songs/pages/${ARTIST_SLUG}-first-probe/${ARTIST_SLUG}-first-probe.song`
+  const songAt = `alan/music/catalog/song/pages/${ARTIST_SLUG}-first-probe/${ARTIST_SLUG}-first-probe.song`
   expect([...writesIn(seen.changes).keys()]).toEqual([
-    `alan/music/catalog/artists/pages/${ARTIST_SLUG}/${ARTIST_SLUG}.artist.ts`,
+    `alan/music/catalog/artist/pages/${ARTIST_SLUG}/${ARTIST_SLUG}.artist.ts`,
     `${songAt}.ts`,
     `${songAt}.lyrics.txt`,
     `${songAt}.synced-lyrics.txt`,

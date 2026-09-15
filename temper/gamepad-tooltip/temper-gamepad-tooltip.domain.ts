@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperGamepadTooltip = {
   id: "01a090e3-3836-7ac7-aa31-0457b5aa81bb",

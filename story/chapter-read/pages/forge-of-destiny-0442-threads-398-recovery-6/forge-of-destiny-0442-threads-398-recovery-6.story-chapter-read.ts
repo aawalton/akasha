@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const forgeOfDestiny0442Threads398Recovery6 = {
+  id: "01a0672c-eb50-700d-969c-d5525fb2ad58",
+  type: "story-chapter-read",
+  slug: "forge-of-destiny-0442-threads-398-recovery-6",
+  title: "Threads 398-Recovery 6",
+  story: "story-read/forge-of-destiny",
+  position: 442,
+  ownLength: 1556,
+  unit: "unit/words",
+  publishedAt: "2024-08-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1780036",
+      externalLink:
+        "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1780036/threads-398-recovery-6",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

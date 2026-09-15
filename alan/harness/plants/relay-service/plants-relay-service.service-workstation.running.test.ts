@@ -1,5 +1,5 @@
 import { expect, mock, test } from "bun:test"
-import type { Carry } from "akasha/alan/harness/readouts/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
 
 const POINT = "readout/upkeep-plants"
 
@@ -8,11 +8,11 @@ const SHOWN_AT = ["https://alanwalton.com", "https://smilingjenny.me"]
 const BY_POINT = new Map<string, string[]>()
 
 const carrying = await import(
-  "akasha/alan/harness/readouts/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+  "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
 )
 
 mock.module(
-  "akasha/alan/harness/readouts/modules/relay-carrying/readout-relay-carrying.module.code.ts",
+  "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts",
   () => ({
     ...carrying,
     carryEachReading: (carries: readonly Carry[]) => {

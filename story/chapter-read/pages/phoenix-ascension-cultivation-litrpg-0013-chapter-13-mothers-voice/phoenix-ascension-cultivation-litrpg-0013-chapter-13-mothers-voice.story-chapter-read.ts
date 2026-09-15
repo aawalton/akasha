@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const phoenixAscensionCultivationLitrpg0013Chapter13MothersVoice = {
+  id: "01a06730-4de3-7757-a06a-48c80d03111c",
+  type: "story-chapter-read",
+  slug: "phoenix-ascension-cultivation-litrpg-0013-chapter-13-mothers-voice",
+  title: "Chapter 13: Mother's Voice",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
+  position: 13,
+  ownLength: 2653,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2547088",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2547088/chapter-13-mothers-voice",
+    },
+  ],
+  publishedAt: "2025-08-25",
+  prose: "txt",
+} as const satisfies StoryChapterRead

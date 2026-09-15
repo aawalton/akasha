@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const whetherTheWashOutCurvePredictsMyStart = {
+  id: "01a077e8-716f-75c7-9b87-65508bae1e23",
+  type: "all-about-alan-question",
+  slug: "whether-the-wash-out-curve-predicts-my-start",
+  topic: "all-about-alan-topic/what-shortens-my-nights",
+  ask: "With a rough hour as my anchor, does the wash-out curve of the dose predict how much later I start the night?",
+} as const satisfies AllAboutAlanQuestion

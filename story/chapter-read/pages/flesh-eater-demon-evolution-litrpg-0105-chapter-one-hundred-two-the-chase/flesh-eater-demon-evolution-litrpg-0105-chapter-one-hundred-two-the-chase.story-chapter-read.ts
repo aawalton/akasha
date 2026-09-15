@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const fleshEaterDemonEvolutionLitrpg0105ChapterOneHundredTwoTheChase = {
+  id: "01a06731-af66-7007-b34e-c239e57a129b",
+  type: "story-chapter-read",
+  slug: "flesh-eater-demon-evolution-litrpg-0105-chapter-one-hundred-two-the-chase",
+  title: "Chapter One Hundred Two: The Chase",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
+  position: 105,
+  ownLength: 2049,
+  unit: "unit/words",
+  publishedAt: "2026-07-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3629099",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3629099/chapter-one-hundred-two-the-chase",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

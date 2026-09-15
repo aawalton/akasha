@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const everyTropeEverywhereAllAtOnceLitrpgProgression004444Preserve = {
+  id: "01a06731-ae0f-7002-9f73-bbe6712ef43f",
+  type: "story-chapter-read",
+  slug: "every-trope-everywhere-all-at-once-litrpg-progression-0044-44-preserve",
+  title: "44 - Preserve",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
+  position: 44,
+  ownLength: 2043,
+  unit: "unit/words",
+  publishedAt: "2026-06-13",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3531975",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3531975/44-preserve",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

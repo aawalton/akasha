@@ -5,14 +5,14 @@ import {
   LEFT_BY,
   seatEditsAt,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
-import { type BodyOf, expanded } from "akasha/changes/modules/answer/change-answer.module.code.ts"
-import type { FileChange, Held } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { type BodyOf, expanded } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { FileChange, Held } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import {
   appendEdits,
   bodyIn,
   editStated,
   editsIn,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   OPERATIONAL,
   refusedBy,
@@ -35,8 +35,8 @@ import {
 } from "akasha/command/modules/long-body/long-body.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
-import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
-import { textIn } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
+import { textIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 

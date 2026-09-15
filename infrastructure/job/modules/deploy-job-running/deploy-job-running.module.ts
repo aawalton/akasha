@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployJobRunning = {
   id: "01a0a102-c51d-75a9-8995-8d088708ee8d",

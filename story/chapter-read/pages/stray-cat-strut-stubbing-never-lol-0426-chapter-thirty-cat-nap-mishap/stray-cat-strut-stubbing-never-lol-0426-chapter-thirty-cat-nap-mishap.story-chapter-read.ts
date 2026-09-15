@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0426ChapterThirtyCatNapMishap = {
+  id: "01a06730-4e4d-7f88-9210-8a3b126c85fe",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0426-chapter-thirty-cat-nap-mishap",
+  title: "Chapter Thirty - Cat Nap Mishap",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 426,
+  ownLength: 1468,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1350394",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1350394/chapter-thirty-cat-nap-mishap",
+    },
+  ],
+  publishedAt: "2023-09-21",
+  prose: "txt",
+} as const satisfies StoryChapterRead

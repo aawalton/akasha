@@ -35,7 +35,7 @@ import {
   workingOf,
 } from "akasha/agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
-import { recorded } from "akasha/checks/modules/cost/check-cost.module.code.ts"
+import { recorded } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import {
   createSubagentReader,
   type SubagentNode,
@@ -44,8 +44,8 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   valuedAt,
   valuesOfType,
-} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const HOOK = "keep-alan-directives"
 

@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const billieEilishComeOutAndPlay = {
+  id: "01a0676a-d71b-701a-acdf-832a2a252f4f",
+  type: "release",
+  slug: "billie-eilish-come-out-and-play",
+  title: "come out and play",
+  partOfCollections: ["artist/billie-eilish"],
+  position: 0,
+  ownLength: 3.50625,
+  ownProgress: 3.50625,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2018-11-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ifM8RTX9HjtCJtY9452bW",
+      externalLink: "https://open.spotify.com/album/0ifM8RTX9HjtCJtY9452bW",
+    },
+  ],
+} as const satisfies Release

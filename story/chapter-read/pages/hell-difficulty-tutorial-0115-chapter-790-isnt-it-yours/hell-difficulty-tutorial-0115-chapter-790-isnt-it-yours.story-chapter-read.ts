@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0115Chapter790IsntItYours = {
+  id: "01a06731-ad85-7001-b26f-efb70abc265a",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0115-chapter-790-isnt-it-yours",
+  title: "Chapter 790 - Isn't it yours?",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 115,
+  ownLength: 2960,
+  unit: "unit/words",
+  publishedAt: "2026-04-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3253585",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3253585/chapter-790-isnt-it-yours",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

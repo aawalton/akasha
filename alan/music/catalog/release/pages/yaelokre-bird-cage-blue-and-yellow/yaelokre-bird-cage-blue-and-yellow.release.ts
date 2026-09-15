@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const yaelokreBirdCageBlueAndYellow = {
+  id: "01a0676a-d719-7008-a982-361dd3fa133f",
+  type: "release",
+  slug: "yaelokre-bird-cage-blue-and-yellow",
+  title: "Bird cage blue and yellow",
+  partOfCollections: ["artist/yaelokre"],
+  position: 0,
+  ownLength: 3.214217,
+  ownProgress: 3.214217,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2024-09-25",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1sQolI66l35OQFsJIZ3hH9",
+      externalLink: "https://open.spotify.com/album/1sQolI66l35OQFsJIZ3hH9",
+    },
+  ],
+} as const satisfies Release

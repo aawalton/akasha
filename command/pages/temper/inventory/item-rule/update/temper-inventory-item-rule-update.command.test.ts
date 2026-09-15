@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
-import { action } from "akasha/command/arguments/pages/action.argument.ts"
-import { destination } from "akasha/command/arguments/pages/destination.argument.ts"
-import { itemRuleId } from "akasha/command/arguments/pages/item-rule-id.argument.ts"
-import { title } from "akasha/command/arguments/pages/title.argument.ts"
+import { action } from "akasha/command/argument/pages/action.argument.ts"
+import { destination } from "akasha/command/argument/pages/destination.argument.ts"
+import { itemRuleId } from "akasha/command/argument/pages/item-rule-id.argument.ts"
+import { title } from "akasha/command/argument/pages/title.argument.ts"
 import {
   answering,
   INPUT,

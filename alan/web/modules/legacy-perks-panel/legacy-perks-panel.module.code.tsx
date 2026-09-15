@@ -5,7 +5,7 @@ import type { IdleActions } from "akasha/alan/web/modules/use-idle-actions/use-i
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { formatShortNumber as fmt } from "akasha/pages/core/property-types/modules/number/number.module.code.ts"
+import { formatShortNumber as fmt } from "akasha/page/core/property-types/modules/number/number.module.code.ts"
 
 export function LegacyPerksPanel({ state, actions }: { state: GameState; actions: IdleActions }) {
   const surface = useSurface()

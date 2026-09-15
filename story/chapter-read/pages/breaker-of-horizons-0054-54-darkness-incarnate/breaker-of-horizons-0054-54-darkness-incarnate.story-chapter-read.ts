@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons005454DarknessIncarnate = {
+  id: "01a06731-adaa-7002-a1ab-eb7330c43b88",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0054-54-darkness-incarnate",
+  title: "54. Darkness Incarnate",
+  story: "story-read/breaker-of-horizons",
+  position: 54,
+  ownLength: 2260,
+  unit: "unit/words",
+  publishedAt: "2020-11-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "579824",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/579824/54-darkness-incarnate",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

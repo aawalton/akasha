@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0080Chapter755WhereAreYouHeaded = {
+  id: "01a06731-ad7d-7001-9e33-76260fcbf198",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0080-chapter-755-where-are-you-headed",
+  title: "Chapter 755 - Where are you headed?",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 80,
+  ownLength: 4049,
+  unit: "unit/words",
+  publishedAt: "2026-02-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3072472",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3072472/chapter-755-where-are-you-headed",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -104,7 +104,7 @@
     {
       "includes": [
         "design/language/lua-compiler/lualib/**",
-        "design/language/lua-compiler/lualibs/**"
+        "design/language/lua-compiler/lualib-helper/**"
       ],
       "linter": {
         "rules": {
@@ -147,7 +147,7 @@
       }
     },
     {
-      "includes": ["pages/core/**"],
+      "includes": ["page/core/**"],
       "linter": {
         "rules": {
           "style": {

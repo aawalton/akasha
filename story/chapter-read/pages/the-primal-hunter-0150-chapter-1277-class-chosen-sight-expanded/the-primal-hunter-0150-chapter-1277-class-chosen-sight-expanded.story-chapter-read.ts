@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0150Chapter1277ClassChosenSightExpanded = {
+  id: "01a06730-4e14-7d28-aba6-c97b8e79df31",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0150-chapter-1277-class-chosen-sight-expanded",
+  title: "Chapter 1277 - Class Chosen, Sight Expanded",
+  story: "story-read/the-primal-hunter",
+  position: 150,
+  ownLength: 2920,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3184374",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3184374/chapter-1277-class-chosen-sight-expanded",
+    },
+  ],
+  publishedAt: "2026-03-23",
+  ownProgress: 2920,
+  completedAt: "2026-06-29T19:35:02.738Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

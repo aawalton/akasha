@@ -1,0 +1,23 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const siaBigGirlLittleGirl = {
+  id: "019ea4c4-3428-76f2-8235-bec63ca94987",
+  type: "song",
+  slug: "sia-big-girl-little-girl",
+  title: "Big Girl Little Girl",
+  artist: "artist/sia",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "7563f7b1-a78a-4e30-94ce-2ee7b31e7d10",
+      externalLink: "https://musicbrainz.org/work/7563f7b1-a78a-4e30-94ce-2ee7b31e7d10",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "original",
+  performed: true,
+  lyricsSource: "lrclib",
+  written: "collab",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

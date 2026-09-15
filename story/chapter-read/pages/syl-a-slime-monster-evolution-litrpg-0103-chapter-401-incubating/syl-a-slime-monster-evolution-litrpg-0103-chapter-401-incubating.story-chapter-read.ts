@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const sylASlimeMonsterEvolutionLitrpg0103Chapter401Incubating = {
+  id: "01a06730-4e22-792a-9a2e-88ad1f0c4c7d",
+  type: "story-chapter-read",
+  slug: "syl-a-slime-monster-evolution-litrpg-0103-chapter-401-incubating",
+  title: "Chapter 401 : Incubating",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
+  position: 103,
+  ownLength: 2200,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3656131",
+      externalLink:
+        "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3656131/chapter-401-incubating",
+    },
+  ],
+  publishedAt: "2026-07-10",
+  prose: "txt",
+} as const satisfies StoryChapterRead

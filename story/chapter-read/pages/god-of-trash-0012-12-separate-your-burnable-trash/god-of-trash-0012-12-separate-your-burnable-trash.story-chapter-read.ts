@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash001212SeparateYourBurnableTrash = {
+  id: "01a0672c-edb1-7002-aa47-c61eda190315",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0012-12-separate-your-burnable-trash",
+  title: "12. Separate Your Burnable Trash",
+  story: "story-read/god-of-trash",
+  position: 12,
+  ownLength: 3224,
+  unit: "unit/words",
+  publishedAt: "2025-03-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2108446",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2108446/12-separate-your-burnable-trash",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

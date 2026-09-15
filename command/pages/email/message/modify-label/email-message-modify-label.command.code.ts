@@ -1,8 +1,8 @@
 import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { addLabel } from "akasha/command/arguments/pages/add-label.argument.ts"
-import { message } from "akasha/command/arguments/pages/message.argument.ts"
-import { removeLabel } from "akasha/command/arguments/pages/remove-label.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { addLabel } from "akasha/command/argument/pages/add-label.argument.ts"
+import { message } from "akasha/command/argument/pages/message.argument.ts"
+import { removeLabel } from "akasha/command/argument/pages/remove-label.argument.ts"
 import {
   answering,
   asIndentedJson,

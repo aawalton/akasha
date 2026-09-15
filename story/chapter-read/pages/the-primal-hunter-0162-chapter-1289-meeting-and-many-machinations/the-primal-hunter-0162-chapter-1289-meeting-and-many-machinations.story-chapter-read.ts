@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thePrimalHunter0162Chapter1289MeetingAndManyMachinations = {
+  id: "01a06730-4e1a-7b3e-8b71-4376acc03d39",
+  type: "story-chapter-read",
+  slug: "the-primal-hunter-0162-chapter-1289-meeting-and-many-machinations",
+  title: "Chapter 1289 - Meeting & Many Machinations",
+  story: "story-read/the-primal-hunter",
+  position: 162,
+  ownLength: 2939,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3248107",
+      externalLink:
+        "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3248107/chapter-1289-meeting-many-machinations",
+    },
+  ],
+  publishedAt: "2026-04-08",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const kellyClarksonIDareYouFeatMayaBuskila = {
+  id: "01a0676a-d721-700b-9824-ab071bc10754",
+  type: "release",
+  slug: "kelly-clarkson-i-dare-you-feat-maya-buskila",
+  title: "I Dare You (בוא נראה) [feat. Maya Buskila]",
+  partOfCollections: ["artist/kelly-clarkson"],
+  position: 0,
+  ownLength: 3.60205,
+  ownProgress: 3.60205,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-04-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4JpBARyDwcYd9LNCst1wS2",
+      externalLink: "https://open.spotify.com/album/4JpBARyDwcYd9LNCst1wS2",
+      lastSyncedAt: "2026-02-13",
+    },
+  ],
+} as const satisfies Release

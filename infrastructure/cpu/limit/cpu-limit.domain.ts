@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const cpuLimit = {
   id: "01a09185-b1c1-72a5-80f6-cd1ba1a44dd6",

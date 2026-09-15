@@ -1,0 +1,11 @@
+import type { TemperClass } from "akasha/temper/catalog/temper-skill/temper-class/temper-class.page-type.types.ts"
+
+export const arcanist = {
+  id: "01a05fce-294d-703f-b58b-ab87f9e70585",
+  type: "temper-class",
+  slug: "arcanist",
+  title: "Arcanist",
+  key: "arcanist",
+  icon: "📖",
+  esoClassId: 117,
+} as const satisfies TemperClass

@@ -1,4 +1,4 @@
-import { carryEachReading } from "akasha/alan/harness/readouts/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+import { carryEachReading } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
 
 const CARRIES = [
   { point: "readout/upkeep-capacity", to: "https://alanwalton.com" },

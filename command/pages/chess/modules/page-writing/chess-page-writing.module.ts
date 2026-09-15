@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const chessPageWriting = {
   id: "01a0a053-e4b3-7fe7-9b93-694829c915e5",

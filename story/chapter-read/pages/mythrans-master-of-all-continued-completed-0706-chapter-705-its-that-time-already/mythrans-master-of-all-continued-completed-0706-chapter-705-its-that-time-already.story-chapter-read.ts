@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0706Chapter705ItsThatTimeAlready = {
+  id: "01a0672c-ed68-7000-b158-0f6b7c6e3e83",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0706-chapter-705-its-that-time-already",
+  title: "Chapter 705 - It's That Time Already?",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 706,
+  ownLength: 3062,
+  unit: "unit/words",
+  publishedAt: "2018-09-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "291880",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/291880/chapter-705-its-that-time-already",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

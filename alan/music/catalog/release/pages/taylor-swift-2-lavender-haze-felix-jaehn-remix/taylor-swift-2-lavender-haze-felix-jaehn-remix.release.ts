@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const taylorSwift2LavenderHazeFelixJaehnRemix = {
+  id: "01a0676a-d722-7063-909e-6a3bdaf22549",
+  type: "release",
+  slug: "taylor-swift-2-lavender-haze-felix-jaehn-remix",
+  title: "Lavender Haze (Felix Jaehn Remix)",
+  partOfCollections: ["artist/taylor-swift"],
+  position: 0,
+  ownLength: 2.859367,
+  ownProgress: 2.859367,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-02-10",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5h060Rb0cfAGuny0L51zqV",
+      externalLink: "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV",
+    },
+  ],
+} as const satisfies Release

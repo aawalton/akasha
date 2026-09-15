@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/temper-set.page-type.types.ts"
+
+export const crimsonTwilight = {
+  id: "019e66e6-a06b-7961-88d1-19ac431c478f",
+  type: "temper-set",
+  slug: "crimson-twilight",
+  title: "Crimson Twilight",
+  key: "crimson-twilight",
+  esoSetId: 515,
+  subcategoryId: "dungeon",
+  valid: ["*:heavy"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const savageDivinity0169Chapter167 = {
+  id: "01a06591-4218-7bbd-bf6d-e7a86a7509ae",
+  type: "story-chapter-read",
+  slug: "savage-divinity-0169-chapter-167",
+  title: "Chapter 167",
+  story: "story-read/savage-divinity",
+  position: 169,
+  ownLength: 3117,
+  unit: "unit/words",
+  publishedAt: "2017-01-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "115227",
+      externalLink:
+        "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/115227/chapter-167",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

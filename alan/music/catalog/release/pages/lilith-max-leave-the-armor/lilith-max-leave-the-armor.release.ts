@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const lilithMaxLeaveTheArmor = {
+  id: "01a0676a-d722-7068-80a4-c1cfe7857f60",
+  type: "release",
+  slug: "lilith-max-leave-the-armor",
+  title: "Leave the Armor",
+  partOfCollections: ["artist/lilith-max"],
+  position: 0,
+  ownLength: 4.282933,
+  ownProgress: 4.282933,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "C",
+  publishedAt: "2020-08-28",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5FZk4i5tvBkpVarZdP1hqx",
+      externalLink: "https://open.spotify.com/album/5FZk4i5tvBkpVarZdP1hqx",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const underworldBreadMageYuriProgfanSliceOfLife0013Chapter13HomeSweetHome = {
+  id: "01a06730-4f13-7fb7-a062-86227184429e",
+  type: "story-chapter-read",
+  slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0013-chapter-13-home-sweet-home",
+  title: "Chapter 13: Home Sweet Home",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
+  position: 13,
+  ownLength: 1388,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3746004",
+      externalLink:
+        "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3746004/chapter-13-home-sweet-home",
+    },
+  ],
+  publishedAt: "2026-07-30",
+  prose: "txt",
+} as const satisfies StoryChapterRead

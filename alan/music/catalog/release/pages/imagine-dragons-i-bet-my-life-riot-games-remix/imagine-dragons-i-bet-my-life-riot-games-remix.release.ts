@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const imagineDragonsIBetMyLifeRiotGamesRemix = {
+  id: "01a0676a-d721-7003-a894-784ee5939511",
+  type: "release",
+  slug: "imagine-dragons-i-bet-my-life-riot-games-remix",
+  title: "I Bet My Life (Riot Games Remix)",
+  partOfCollections: ["artist/imagine-dragons"],
+  position: 0,
+  ownLength: 3.5131,
+  ownProgress: 3.5131,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2014-09-18",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0ebCNFubPQlnPLuHvbwgTE",
+      externalLink: "https://open.spotify.com/album/0ebCNFubPQlnPLuHvbwgTE",
+    },
+  ],
+} as const satisfies Release

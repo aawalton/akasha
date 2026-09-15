@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0204V6c16TheHillsAndValleysOfLife = {
+  id: "01a06731-adb7-7006-9ed6-5d3c589c8e3a",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0204-v6c16-the-hills-and-valleys-of-life",
+  title: "v6c16: The Hills and Valleys of Life",
+  story: "story-read/beware-of-chicken",
+  position: 204,
+  ownLength: 2354,
+  ownProgress: 2354,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:58:20.505Z",
+  publishedAt: "2025-04-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2221439",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2221439/v6c16-the-hills-and-valleys-of-life",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

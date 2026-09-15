@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const coldplayEverydayLife = {
+  id: "01a0676a-d71d-703a-ade5-0292b88685cc",
+  type: "release",
+  slug: "coldplay-everyday-life",
+  title: "Everyday Life",
+  partOfCollections: ["artist/coldplay"],
+  position: 0,
+  ownLength: 52.936583,
+  ownProgress: 52.936583,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2019-11-22",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2FeyIYDDAQqcOJKOKhvHdr",
+      externalLink: "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr",
+    },
+  ],
+} as const satisfies Release

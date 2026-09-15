@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theMagpieAndTheArchmageMonsterEvoLitrpg0173Chapter173MasterOfDistraction = {
+  id: "01a07252-32f0-72ca-9381-75e19d75d27b",
+  type: "story-chapter-read",
+  slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0173-chapter-173-master-of-distraction",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
+  position: 173,
+  publishedAt: "2026-09-04",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3909956",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3909956/chapter-173-master-of-distraction",
+    },
+  ],
+  title: "Chapter 173 – Master of Distraction",
+  ownLength: 2291,
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const vinnyMarchiHoodieYouStole = {
+  id: "01a0676a-d720-705b-978a-d5734eb72b82",
+  type: "release",
+  slug: "vinny-marchi-hoodie-you-stole",
+  title: "Hoodie You Stole",
+  partOfCollections: ["artist/vinny-marchi"],
+  position: 0,
+  ownLength: 2.833433,
+  ownProgress: 2.833433,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-11-11",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2HoVKgGvezXdY7foswVjgG",
+      externalLink: "https://open.spotify.com/album/2HoVKgGvezXdY7foswVjgG",
+      lastSyncedAt: "2025-10-24",
+    },
+  ],
+} as const satisfies Release

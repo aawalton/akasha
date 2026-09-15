@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const sovereignSightProgressionFantasyCultivation0028Chapter028 = {
+  id: "01a06730-4fb1-7e7c-80d8-edef45fc06bc",
+  type: "story-chapter-read",
+  slug: "sovereign-sight-progression-fantasy-cultivation-0028-chapter-028",
+  title: "Chapter 028",
+  story: "story-read/sovereign-sight-progression-fantasy-cultivation",
+  position: 28,
+  ownLength: 2650,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3621299",
+      externalLink:
+        "https://www.royalroad.com/fiction/171595/sovereign-sight-progression-fantasy-cultivation/chapter/3621299/chapter-028",
+    },
+  ],
+  publishedAt: "2026-07-02",
+  prose: "txt",
+} as const satisfies StoryChapterRead

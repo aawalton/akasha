@@ -1,0 +1,10 @@
+import type { WorldSkill } from "akasha/story/world-mechanic/world-skill/world-skill.page-type.types.ts"
+
+export const forcePalm = {
+  id: "01a06575-980f-7a10-8676-0bb0dbb65055",
+  type: "world-skill",
+  slug: "force-palm",
+  title: "Force Palm",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSkill

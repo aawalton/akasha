@@ -1,0 +1,10 @@
+import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-spell.page-type.types.ts"
+
+export const iceSpears = {
+  id: "01a06572-95c9-74c9-9182-a3b899d8cbf2",
+  type: "world-spell",
+  slug: "ice-spears",
+  title: "Ice Spears",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldSpell

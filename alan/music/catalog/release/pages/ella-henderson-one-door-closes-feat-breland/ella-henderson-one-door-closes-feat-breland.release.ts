@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonOneDoorClosesFeatBreland = {
+  id: "01a0676a-d726-702a-b8f3-0d54ed705b86",
+  type: "release",
+  slug: "ella-henderson-one-door-closes-feat-breland",
+  title: "One Door Closes (feat. Breland)",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 3.118067,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2025-03-21",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5AOYmjNyAFYXsceGhAB6Dr",
+      externalLink: "https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

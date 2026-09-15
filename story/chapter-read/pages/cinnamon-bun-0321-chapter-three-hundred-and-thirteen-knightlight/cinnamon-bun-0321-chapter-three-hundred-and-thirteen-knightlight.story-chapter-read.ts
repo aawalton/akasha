@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0321ChapterThreeHundredAndThirteenKnightlight = {
+  id: "01a0672c-eb1a-7001-9d15-cd9d15b6a0ca",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0321-chapter-three-hundred-and-thirteen-knightlight",
+  title: "Chapter Three Hundred and Thirteen - Knightlight",
+  story: "story-read/cinnamon-bun",
+  position: 321,
+  ownLength: 1979,
+  unit: "unit/words",
+  publishedAt: "2022-05-27",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "915499",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/915499/chapter-three-hundred-and-thirteen-knightlight",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

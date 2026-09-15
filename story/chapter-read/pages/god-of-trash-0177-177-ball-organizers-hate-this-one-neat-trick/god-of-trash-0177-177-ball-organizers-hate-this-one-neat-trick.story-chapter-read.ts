@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash0177177BallOrganizersHateThisOneNeatTrick = {
+  id: "01a0672c-edcc-7006-ba07-c435114b0627",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0177-177-ball-organizers-hate-this-one-neat-trick",
+  title: "177. Ball Organizers Hate This One Neat Trick!",
+  story: "story-read/god-of-trash",
+  position: 177,
+  ownLength: 2047,
+  unit: "unit/words",
+  publishedAt: "2025-09-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2577495",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2577495/177-ball-organizers-hate-this-one-neat-trick",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

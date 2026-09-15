@@ -6,15 +6,15 @@ import { useIsOnline } from "akasha/alan/web/modules/use-is-online/use-is-online
 import { useMediaVariants } from "akasha/alan/web/modules/use-media-variants/use-media-variants.module.code.ts"
 import { useNextUnreadHref } from "akasha/alan/web/modules/use-next-unread/use-next-unread.module.code.ts"
 import { NotFoundNotice } from "akasha/alan/web-capacitor/modules/not-found-notice/not-found-notice.module.code.tsx"
-import { parsePageTypeData } from "akasha/pages/core/schema/modules/pages/pages.module.code.ts"
-import { ViewPageContent } from "akasha/pages/ui/components/modules/view-page-content/view-page-content.module.code.tsx"
+import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
+import { ViewPageContent } from "akasha/page/ui/components/modules/view-page-content/view-page-content.module.code.tsx"
 import {
   useAllPages,
   usePageByIdSuffix,
-} from "akasha/pages/ui/supabase/modules/hooks/hooks.module.code.ts"
-import { useReaderNeighbors } from "akasha/pages/ui/supabase/modules/use-reader-neighbors/use-reader-neighbors.module.code.ts"
-import { parsePageHrefParam } from "akasha/pages/url/modules/page-href/page-href.module.code.ts"
-import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
+} from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
+import { useReaderNeighbors } from "akasha/page/ui/supabase/modules/use-reader-neighbors/use-reader-neighbors.module.code.ts"
+import { parsePageHrefParam } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
+import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useParams } from "react-router"
 
 const NAV_SLUG = "nav"

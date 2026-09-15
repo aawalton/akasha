@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0498ChapterFourHundredAndEightyFourZapZap = {
+  id: "01a0672c-eb23-7012-a0ae-00384d03e73c",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0498-chapter-four-hundred-and-eighty-four-zap-zap",
+  title: "Chapter Four Hundred and Eighty-Four - Zap Zap",
+  story: "story-read/cinnamon-bun",
+  position: 498,
+  ownLength: 1493,
+  unit: "unit/words",
+  publishedAt: "2024-04-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1589692",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1589692/chapter-four-hundred-and-eighty-four-zap-zap",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

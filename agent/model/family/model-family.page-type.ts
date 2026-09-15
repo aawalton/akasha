@@ -1,4 +1,4 @@
-import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const modelFamily = {
   id: "01a0535c-f2cf-7d57-8803-2dbb722ac8bc",

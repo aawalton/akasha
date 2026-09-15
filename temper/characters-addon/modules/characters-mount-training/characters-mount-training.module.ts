@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersMountTraining = {
   id: "01a062e9-b6fe-7012-a825-356778993de1",

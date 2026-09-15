@@ -1,0 +1,14 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const subSystems = {
+  id: "01a06594-c685-7000-af1e-123d2f32bfdd",
+  type: "book-section",
+  slug: "sub-systems",
+  title: "Concrete sub-systems already named",
+  sectionOf: "alan-book/all-about-alan",
+  description:
+    "Concrete sub-systems already named — index of promoted dedicated files plus deferred threads. All starter sub-systems have been promoted.",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0473Chapter436RingingTheDoorbellPart1 = {
+  id: "01a0672c-ec1c-7002-9549-9c40d08bd656",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0473-chapter-436-ringing-the-doorbell-part-1",
+  title: "Chapter 436: Ringing The Doorbell (Part 1)",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 473,
+  ownLength: 1672,
+  ownProgress: 1672,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:28:13.658Z",
+  publishedAt: "2025-11-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2748648",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2748648/chapter-436-ringing-the-doorbell-part-1",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

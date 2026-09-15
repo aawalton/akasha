@@ -1,0 +1,24 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jisooMe = {
+  id: "01a0676a-d724-703f-a8d0-76c47bdca58f",
+  type: "release",
+  slug: "jisoo-me",
+  title: "ME",
+  partOfCollections: ["artist/jisoo"],
+  position: 0,
+  ownLength: 5.610933,
+  ownProgress: 5.610933,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2023-03-31",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4QuczuzDZNzCDli5Gz6DQ0",
+      externalLink: "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0",
+      lastSyncedAt: "2025-11-24",
+    },
+  ],
+} as const satisfies Release

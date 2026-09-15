@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const superSupportive0299TwoHundredNinetySevenWhenWishingWasHavingViii = {
+  id: "01a06730-4f30-71da-8781-43017be5f007",
+  type: "story-chapter-read",
+  slug: "super-supportive-0299-two-hundred-ninety-seven-when-wishing-was-having-viii",
+  title: "TWO HUNDRED NINETY-SEVEN: When Wishing Was Having VIII",
+  story: "story-read/super-supportive",
+  position: 299,
+  ownLength: 3237,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3660257",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3660257/two-hundred-ninety-seven-when-wishing-was-having",
+    },
+  ],
+  publishedAt: "2026-07-11",
+  prose: "txt",
+} as const satisfies StoryChapterRead

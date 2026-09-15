@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0339Chapter346ThatWasQuick = {
+  id: "01a0672c-ec54-7000-9e1f-c17942d461f4",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0339-chapter-346-that-was-quick",
+  title: "Chapter 346 - That Was Quick",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 339,
+  ownLength: 3641,
+  unit: "unit/words",
+  publishedAt: "2017-08-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "158656",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158656/chapter-346-that-was-quick",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

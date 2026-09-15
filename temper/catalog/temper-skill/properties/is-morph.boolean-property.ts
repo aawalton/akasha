@@ -1,0 +1,10 @@
+import type { BooleanProperty } from "akasha/page/boolean-property/boolean-property.page-type.types.ts"
+
+export const isMorph = {
+  id: "01a05fca-cb83-7c29-9709-61ea9622a90d",
+  type: "boolean-property",
+  slug: "is-morph",
+  propertySlug: "is-morph",
+  definition: "whether a skill is a morph of another skill",
+  types: "ts",
+} as const satisfies BooleanProperty

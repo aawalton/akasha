@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thereIsNoEpicLootHereOnlyPuns0120104SpringOfTheSoul = {
+  id: "01a06730-51db-7b7f-8e6c-5892ee216fd0",
+  type: "story-chapter-read",
+  slug: "there-is-no-epic-loot-here-only-puns-0120-104-spring-of-the-soul",
+  title: "104: Spring of the Soul",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
+  position: 120,
+  ownLength: 3249,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "391577",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/391577/104-spring-of-the-soul",
+    },
+  ],
+  publishedAt: "2019-08-12",
+  prose: "txt",
+} as const satisfies StoryChapterRead

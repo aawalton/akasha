@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const landingFinishing = {
   id: "01a094e6-a05f-7213-aac0-264169fdd44c",

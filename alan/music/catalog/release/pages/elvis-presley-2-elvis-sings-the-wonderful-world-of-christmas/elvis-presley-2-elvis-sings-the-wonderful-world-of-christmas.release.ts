@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2ElvisSingsTheWonderfulWorldOfChristmas = {
+  id: "01a0676a-d71d-7008-b0f5-6b69bb89d4f7",
+  type: "release",
+  slug: "elvis-presley-2-elvis-sings-the-wonderful-world-of-christmas",
+  title: "Elvis Sings the Wonderful World of Christmas",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 35.225733,
+  ownProgress: 35.225733,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1971-10-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "67WNQsweOZ94qxgAUDGXAk",
+      externalLink: "https://open.spotify.com/album/67WNQsweOZ94qxgAUDGXAk",
+    },
+  ],
+} as const satisfies Release

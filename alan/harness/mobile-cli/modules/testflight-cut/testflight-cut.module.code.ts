@@ -53,7 +53,7 @@ import {
   VISIBILITY_TIMEOUT_MS,
   visibilityFailureFor,
 } from "akasha/alan/harness/mobile-cli/modules/testflight-poll/testflight-poll.module.code.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 export type Say = (text: string) => void
 

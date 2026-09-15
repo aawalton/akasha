@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash004343GuestTeacher = {
+  id: "01a0672c-edb9-7004-a9a4-d4e1a90850ad",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0043-43-guest-teacher",
+  title: "43. Guest Teacher",
+  story: "story-read/god-of-trash",
+  position: 43,
+  ownLength: 2276,
+  unit: "unit/words",
+  publishedAt: "2025-04-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2179913",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2179913/43-guest-teacher",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

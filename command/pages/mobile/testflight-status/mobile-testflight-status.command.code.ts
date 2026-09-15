@@ -13,9 +13,9 @@ import {
   pollBuildUntilTerminal,
   processingFailureFor,
 } from "akasha/alan/harness/mobile-cli/modules/testflight-poll/testflight-poll.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { app } from "akasha/command/arguments/pages/app.argument.ts"
-import { wait } from "akasha/command/arguments/pages/wait.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { app } from "akasha/command/argument/pages/app.argument.ts"
+import { wait } from "akasha/command/argument/pages/wait.argument.ts"
 import {
   answeredWith,
   answering,

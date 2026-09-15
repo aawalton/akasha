@@ -1,10 +1,10 @@
 import { existsSync, mkdirSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { GIT_AT, TREES } from "akasha/files/modules/git-place/git-place.module.code.ts"
+import { GIT_AT, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
-import { refreshedFrom } from "akasha/pages/index/modules/indexing/indexing.module.code.ts"
-import { indexIn } from "akasha/pages/index/modules/surface/index-surface.module.code.ts"
+import { refreshedFrom } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
+import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 
 export type Pinned = { readonly at: string } | { readonly refused: string }
 

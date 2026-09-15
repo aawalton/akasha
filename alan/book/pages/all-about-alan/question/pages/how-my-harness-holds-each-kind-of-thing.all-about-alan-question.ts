@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const howMyHarnessHoldsEachKindOfThing = {
+  id: "01a077ed-fdca-7106-95ef-f730a4a4789f",
+  type: "all-about-alan-question",
+  slug: "how-my-harness-holds-each-kind-of-thing",
+  topic: "all-about-alan-topic/small-bites-of-many-things",
+  ask: "No worked shape has been written for any of the five. How does my harness hold a book, a show, a course, a project or a game?",
+} as const satisfies AllAboutAlanQuestion

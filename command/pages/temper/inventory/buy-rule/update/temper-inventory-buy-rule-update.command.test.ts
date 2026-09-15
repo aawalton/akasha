@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { buyRuleId } from "akasha/command/arguments/pages/buy-rule-id.argument.ts"
-import { source as sourceArgument } from "akasha/command/arguments/pages/source.argument.ts"
-import { targetQuantity as targetArgument } from "akasha/command/arguments/pages/target-quantity.argument.ts"
+import { buyRuleId } from "akasha/command/argument/pages/buy-rule-id.argument.ts"
+import { source as sourceArgument } from "akasha/command/argument/pages/source.argument.ts"
+import { targetQuantity as targetArgument } from "akasha/command/argument/pages/target-quantity.argument.ts"
 import {
   answering,
   INPUT,

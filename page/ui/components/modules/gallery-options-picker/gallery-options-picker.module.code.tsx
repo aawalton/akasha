@@ -1,0 +1,77 @@
+"use client"
+
+import { FilterGroup } from "akasha/design/interfaces/patterns/modules/filter-group/filter-group.module.code.tsx"
+import {
+  FilterableList,
+  FilterableListItem,
+} from "akasha/design/interfaces/primitives/modules/filterable-list/filterable-list.module.code.tsx"
+import { SubView } from "akasha/design/interfaces/primitives/modules/sub-view/sub-view.module.code.tsx"
+import {
+  GALLERY_CARD_SIZES,
+  type GalleryCardSize,
+} from "akasha/page/core/view/modules/gallery/gallery.module.code.ts"
+
+interface GalleryOptionsPickerProps {
+  coverSource?: string
+  coverSourceOptions?: readonly { id: string; label: string }[]
+  onCoverSourceChange?: (propertyId: string | null) => void
+  cardSize?: GalleryCardSize
+  onCardSizeChange?: (size: GalleryCardSize) => void
+  onBack: () => void
+}
+
+const CARD_SIZE_LABELS: Record<GalleryCardSize, string> = {
+  small: "Small",
+  medium: "Medium",
+  large: "Large",
+}
+
+export function GalleryOptionsPicker({
+  coverSource,
+  coverSourceOptions,
+  onCoverSourceChange,
+  cardSize,
+  onCardSizeChange,
+  onBack,
+}: GalleryOptionsPickerProps) {
+  return (
+    <SubView title="Gallery" onBack={onBack} className="gap-3">
+      {onCoverSourceChange != null && (
+        <FilterGroup label="Cover Source">
+          <FilterableList>
+            <FilterableListItem
+              selected={coverSource == null || coverSource === ""}
+              onSelect={() => onCoverSourceChange(null)}
+            >
+              None
+            </FilterableListItem>
+            {(coverSourceOptions ?? []).map((option) => (
+              <FilterableListItem
+                key={option.id}
+                selected={option.id === coverSource}
+                onSelect={() => onCoverSourceChange(option.id)}
+              >
+                {option.label}
+              </FilterableListItem>
+            ))}
+          </FilterableList>
+        </FilterGroup>
+      )}
+      {onCardSizeChange != null && (
+        <FilterGroup label="Card Size">
+          <FilterableList>
+            {GALLERY_CARD_SIZES.map((size) => (
+              <FilterableListItem
+                key={size}
+                selected={size === (cardSize ?? "medium")}
+                onSelect={() => onCardSizeChange(size)}
+              >
+                {CARD_SIZE_LABELS[size]}
+              </FilterableListItem>
+            ))}
+          </FilterableList>
+        </FilterGroup>
+      )}
+    </SubView>
+  )
+}

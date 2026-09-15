@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jennaRaineUs = {
+  id: "01a0676a-d72f-7059-891c-06623cd448ae",
+  type: "release",
+  slug: "jenna-raine-us",
+  title: "us",
+  partOfCollections: ["artist/jenna-raine"],
+  position: 0,
+  ownLength: 3.27145,
+  ownProgress: 3.27145,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2018-10-26",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1DWa4AfwVt5paG5c9oXkGO",
+      externalLink: "https://open.spotify.com/album/1DWa4AfwVt5paG5c9oXkGO",
+    },
+  ],
+} as const satisfies Release

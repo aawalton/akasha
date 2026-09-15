@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
 export const noticeWarrant = {
   id: "01a0686b-cea8-7a45-9b23-fd9c6d3a0417",

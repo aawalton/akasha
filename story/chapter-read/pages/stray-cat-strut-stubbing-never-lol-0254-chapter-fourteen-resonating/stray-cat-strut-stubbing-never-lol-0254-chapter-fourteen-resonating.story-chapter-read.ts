@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0254ChapterFourteenResonating = {
+  id: "01a06730-4e14-7179-9610-fe193925cca4",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0254-chapter-fourteen-resonating",
+  title: "Chapter Fourteen - Resonating",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 254,
+  ownLength: 1555,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "852318",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/852318/chapter-fourteen-resonating",
+    },
+  ],
+  publishedAt: "2022-02-24",
+  prose: "txt",
+} as const satisfies StoryChapterRead

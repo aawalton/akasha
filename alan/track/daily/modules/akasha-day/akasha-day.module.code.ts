@@ -8,15 +8,15 @@ import {
   SESSIONS_SLUG,
 } from "akasha/alan/track/daily/modules/track-shape/track-shape.module.code.ts"
 import { landTracking } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
-import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import { resolveRoots } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { entriesIn } from "akasha/pages/modules/entries/page-entries.module.code.ts"
-import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { entriesIn } from "akasha/page/modules/entries/page-entries.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   composedFor,
   type Put,
-} from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
+} from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { camelizeKey } from "akasha/utils/slug/modules/camelize-key/camelize-key.module.code.ts"
 
 export type Values = Readonly<Record<string, unknown>>

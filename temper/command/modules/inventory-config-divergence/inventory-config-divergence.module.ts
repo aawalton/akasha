@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inventoryConfigDivergence = {
   id: "01a0964a-e089-7068-b37d-04f4d57c8d1f",

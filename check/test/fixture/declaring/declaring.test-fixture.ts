@@ -1,0 +1,50 @@
+import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-type.types.ts"
+
+export const declaring = {
+  id: "01a04f4e-cc2d-7607-9fbc-82d1c0c0d9be",
+  type: "test-fixture",
+  slug: "declaring",
+  definition: "the pages a test's world must carry before an identity can be filed",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The pages are the system's own imported rather than restated.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A world is served by carrying the pages into its tree.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "Every entry an index has is an entry a rebuild or a settle worked out from a page that exists.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A generator kind a property carried here names is carried too.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A property naming a kind that exists nowhere is refused rather than guessed at.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "The page types a property hangs from are carried apart from the properties themselves.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A world with them settles what a page type of its own declares.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Every type a page type extends up to the root type is carried with it.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A world is served the same way whichever set of pages that world asks for.",
+    },
+  ],
+} as const satisfies TestFixture

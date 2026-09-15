@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theTabernacleChoirAtTempleSquare100YearsCelebratingACenturyOfRecordingExcellence = {
+  id: "01a0676a-d714-700f-82e6-958dd04c1e79",
+  type: "release",
+  slug: "the-tabernacle-choir-at-temple-square-100-years-celebrating-a-century-of-recording-excellence",
+  title: "100 Years: Celebrating a Century of Recording Excellence",
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
+  position: 0,
+  ownLength: 135.914967,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2010-06-15",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6RtntjH8642XPZ7lXcOnSn",
+      externalLink: "https://open.spotify.com/album/6RtntjH8642XPZ7lXcOnSn",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

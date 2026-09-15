@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const leonardCohenCohenLive = {
+  id: "01a0676a-d71b-7009-8a08-d74b4d81022f",
+  type: "release",
+  slug: "leonard-cohen-cohen-live",
+  title: "Cohen Live",
+  partOfCollections: ["artist/leonard-cohen"],
+  position: 0,
+  ownLength: 71.831483,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "1994-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6hpdLjR6verctKUoiTJJoL",
+      externalLink: "https://open.spotify.com/album/6hpdLjR6verctKUoiTJJoL",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
+} as const satisfies Release

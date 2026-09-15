@@ -1,0 +1,36 @@
+import type { ContextWarrant } from "akasha/domain/context/warrant/context-warrant.page-type.types.ts"
+
+export const agentRole = {
+  id: "01a0734f-8b0b-7000-b77c-72cd290f2287",
+  type: "context-warrant",
+  slug: "agent-role",
+  definition: "what an agent must read for the type every role is held to",
+  code: "ts",
+  test: "ts",
+  runsOnRead: true,
+  runsOnWrite: true,
+  transitive: false,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An agent warrants the role page type.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "The invariants and directives every role is held to are on the type rather than on any one role.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An agent stating no role of its own warrants the type all the same.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Only an agent warrants the role page type.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A role page type that cannot be found is no warrant.",
+    },
+  ],
+} as const satisfies ContextWarrant

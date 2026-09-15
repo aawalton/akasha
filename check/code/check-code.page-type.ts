@@ -1,0 +1,253 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const codeCheck = {
+  id: "01a04bc4-7e86-7beb-8dfb-3666785dd3d5",
+  type: "page-type",
+  slug: "code-check",
+  definition: "a module run over a change to judge whether it may land",
+  parts: [
+    "boolean-property/experimental",
+    "boolean-property/runs-on-audit",
+    "boolean-property/runs-on-change",
+    "boolean-property/runs-on-deploy",
+    "code-check/browser-code-reads-the-environment-by-a-name",
+    "code-check/calculation-imports-only-types",
+    "code-check/change-is-reached-through-a-runner",
+    "code-check/change-reaches-its-own-target-type",
+    "code-check/check-reaches-a-path-through-the-index",
+    "code-check/client-reaches-a-server-module-through-a-route",
+    "code-check/command-is-named-by-its-place-in-the-tree",
+    "code-check/command-takes-its-arguments-through-one-reader",
+    "code-check/command-taking-two-words-is-tested-from-words",
+    "code-check/domain-is-named-by-a-parent",
+    "code-check/email-address-is-well-formed",
+    "code-check/extension-host-reaches-no-bun-code",
+    "code-check/file-length",
+    "code-check/folder-matches-a-shape",
+    "code-check/global-declared-once",
+    "code-check/hand-written-global-is-no-method",
+    "code-check/held-addon-names-a-roster-addon",
+    "code-check/id-is-a-uuid-version-7",
+    "code-check/identifier-matches-its-place",
+    "code-check/identifier-names-one-page",
+    "code-check/index-answers-are-level-with-the-change",
+    "code-check/index-is-level-with-the-pages",
+    "code-check/instant-property-slug-closes-with-at",
+    "code-check/introduced-property-is-a-part",
+    "code-check/invariant-restated-on-a-part-narrows-it",
+    "code-check/invariant-statement-is-plain",
+    "code-check/key-names-one-property",
+    "code-check/lint-clean",
+    "code-check/manifest-lands-on-a-file",
+    "code-check/manifest-names-what-is-reached",
+    "code-check/module-sits-under-a-modules-folder",
+    "code-check/name-format-judges-by-one-shape",
+    "code-check/no-class",
+    "code-check/no-code-comments",
+    "code-check/no-color-literal",
+    "code-check/no-enum-or-namespace",
+    "code-check/no-global-in-a-module",
+    "code-check/no-import-cycle",
+    "code-check/no-index-path-spelled",
+    "code-check/no-method-signature",
+    "code-check/no-page-address-spelled",
+    "code-check/no-raw-nul-bytes",
+    "code-check/no-re-export",
+    "code-check/no-refused-syntax",
+    "code-check/no-relative-specifier",
+    "code-check/no-rule-in-two-files",
+    "code-check/no-second-spelling-of-a-name-format",
+    "code-check/no-spacing-literal",
+    "code-check/no-tmp",
+    "code-check/no-unparsed-boundary-read",
+    "code-check/no-unused-exports",
+    "code-check/page-matches-its-type",
+    "code-check/page-named-as-stated",
+    "code-check/page-property-has-its-file",
+    "code-check/parts-list-is-sorted",
+    "code-check/phone-number-is-e164",
+    "code-check/popover-keeps-its-viewport-cap",
+    "code-check/property-is-declared-by-a-type",
+    "code-check/relation-resolves",
+    "code-check/repository-is-written-by-a-change",
+    "code-check/require-import-extension",
+    "code-check/restatement-narrows-something",
+    "code-check/shell-clean",
+
+    "code-check/tests-pass",
+    "code-check/typecheck",
+    "code-check/types-file-runs-nothing",
+    "list/code-comment-forms",
+    "module-property-group/audit",
+    "module-property-group/check",
+    "module-property-group/decision",
+  ],
+  extends: ["page-type/domain"],
+  loadedBy: "module/checking",
+  properties: [
+    { pageProperty: "module-property-group/decision", required: false, many: false },
+    { pageProperty: "module-property-group/check", required: false, many: false },
+    { pageProperty: "module-property-group/audit", required: false, many: false },
+    { pageProperty: "boolean-property/runs-on-change", required: true, many: false },
+    { pageProperty: "boolean-property/runs-on-deploy", required: true, many: false },
+    { pageProperty: "boolean-property/runs-on-audit", required: true, many: false },
+    { pageProperty: "boolean-property/experimental", required: false, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A check is handed the whole change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check decides for itself what work the change warrants.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check takes and gives paths under the root the check was given.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check states each phase the check runs on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Audit is a phase like the other phases.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check states whether the check runs there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check running on no phase has landed and does not yet judge.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That landing is how a check states its rule before that check binds anyone.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A check the change turns on does not judge the change turning that check on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The change phase judges only the paths a change has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check runs at change before the tree's violation count reaches zero.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Running at change has the count from rising while the rest stay fixed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file still with a violation is refused at change the next time that file is touched.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal is the ratchet working rather than the check misfiring.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A mortal page is outside that ratchet.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check reads any path by name.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A check reads the checkout through the overlay for the paths that check cannot name.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A check listing a folder lists it through the overlay, with the change's edits laid over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the change writes is among the files a check lists.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the change takes away is left out of the files a check lists.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A check reads the tree through the overlay, which reads it through the module that reads trees.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Every check listing a folder lists it through the overlay.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The overlay's listing is reached from the shadow a check is handed.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Alan Approves Checks",
+      act: "Add a check to akasha only where Alan has approved that check.",
+      warrant:
+        "A check binds every writer on every change, and a wrong one costs more than what it guards.",
+      aids: [
+        "Approving the initiative is not approving a check.",
+        "A check replacing an old one still needs approval.",
+        "Widening what an approved check reaches needs none.",
+        "How an approved check reads needs none.",
+      ],
+    },
+    {
+      directiveKind: "rule",
+      name: "Fail Closed",
+      act: "Fail a check that could not run.",
+      warrant:
+        "A check that could not look verified nothing, so passing it lets a change land unjudged.",
+      aids: [
+        "A check that threw could not run.",
+        "Never answer for a check by catching its error.",
+      ],
+    },
+    {
+      directiveKind: "principle",
+      name: "Change Reach",
+      act: "Limit what a check measures to what the provisional change could invalidate.",
+      warrant:
+        "An audit pays for its reach once a run; a check pays on every change, by every author.",
+      aids: [
+        "Never scope a check to what the diff touched.",
+        "Reach the whole repo where a change can break it.",
+      ],
+    },
+    {
+      directiveKind: "rule",
+      name: "Dispatch Reach",
+      act: "Run a check on every file class a violation it judges can arrive in.",
+      warrant: "A check the breaking change never runs is clean on the very commit it exists for.",
+      aids: [
+        "Never dispatch from the files the check reads.",
+        "Run it on a file removed, not just one written.",
+      ],
+    },
+    {
+      directiveKind: "rule",
+      name: "Derived Reach",
+      act: "Derive a check's reach wherever a new member can arrive, never from a list in the check.",
+      warrant:
+        "The member arriving after the list was written is the one the check exists to catch.",
+      aids: [
+        "A list moved out of the check is still a list.",
+        "Never take a big count for a whole reach.",
+      ],
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

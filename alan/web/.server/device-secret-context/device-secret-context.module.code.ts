@@ -1,13 +1,13 @@
 import type {
   Fetcher,
   Sleeper,
-} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
   DEVICE_SECRET_HEADER,
   deviceSecretPresented,
   mintDeviceSecret as mintOverTheStore,
   revokeDeviceSecret as revokeOverTheStore,
-} from "akasha/persons/modules/device-secret-keeping/device-secret-keeping.module.code.ts"
+} from "akasha/person/modules/device-secret-keeping/device-secret-keeping.module.code.ts"
 
 export type DeviceSecretAdmission = "admitted" | "refused" | "unread"
 

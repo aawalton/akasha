@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0109Chapter187KingsAndBeasts = {
+  id: "01a06730-4fa2-7c04-9387-07ec70fd585e",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0109-chapter-187-kings-and-beasts",
+  title: "Chapter 187: Kings and Beasts",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 109,
+  ownLength: 5254,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1946463",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1946463/chapter-187-kings-and-beasts",
+    },
+  ],
+  publishedAt: "2024-12-08",
+  ownProgress: 5254,
+  completedAt: "2026-06-29T21:18:31.664Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

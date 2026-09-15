@@ -3,9 +3,9 @@ import {
   DAY,
   HOUR,
   sinceNow,
-} from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
-import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { runWindow } from "akasha/command/arguments/pages/run-window.argument.ts"
+} from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
+import { saidForPart } from "akasha/command/argument/modules/taking/argument-taking.module.test-fixtures.ts"
+import { runWindow } from "akasha/command/argument/pages/run-window.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { measureCommand } from "akasha/command/pages/measure/command/measure-command.command.code.ts"

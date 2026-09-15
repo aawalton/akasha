@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const florenceTheMachineJennyOfOldstonesGameOfThrones = {
+  id: "01a0676a-d722-7022-a6e2-179e5f43f04e",
+  type: "release",
+  slug: "florence-the-machine-jenny-of-oldstones-game-of-thrones",
+  title: "Jenny of Oldstones (Game of Thrones)",
+  partOfCollections: ["artist/florence-the-machine"],
+  position: 0,
+  ownLength: 3.143967,
+  ownProgress: 3.143967,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2019-04-22",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1R6GYgEbpObUZC2btPQlqB",
+      externalLink: "https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB",
+    },
+  ],
+} as const satisfies Release

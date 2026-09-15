@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const endsOfMagic0011BookFourEpilogueTheFallOfAGiant = {
+  id: "01a06731-adc3-7003-a0a3-9da81e738382",
+  type: "story-chapter-read",
+  slug: "ends-of-magic-0011-book-four-epilogue-the-fall-of-a-giant",
+  title: "Book Four Epilogue: The Fall of a Giant",
+  story: "story-read/ends-of-magic",
+  position: 11,
+  ownLength: 3837,
+  ownProgress: 3837,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:07:37.137Z",
+  publishedAt: "2024-03-18",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1558827",
+      externalLink:
+        "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1558827/book-four-epilogue-the-fall-of-a-giant",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

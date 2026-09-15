@@ -1,4 +1,4 @@
-import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
 
 export const rescuedExpiresAtMs = {
   id: "01a0637b-78bb-748c-abf5-487f7793c2a7",

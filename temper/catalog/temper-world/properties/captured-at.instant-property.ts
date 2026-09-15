@@ -1,4 +1,4 @@
-import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
+import type { InstantProperty } from "akasha/page/instant-property/instant-property.page-type.types.ts"
 
 export const capturedAt = {
   id: "01a05fc4-7a90-7e9a-8dd4-57ccc90f06f7",

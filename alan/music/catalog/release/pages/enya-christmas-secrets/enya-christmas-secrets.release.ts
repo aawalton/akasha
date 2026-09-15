@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const enyaChristmasSecrets = {
+  id: "01a0676a-d71a-7040-aba7-b1a9a97f514b",
+  type: "release",
+  slug: "enya-christmas-secrets",
+  title: "Christmas Secrets",
+  partOfCollections: ["artist/enya"],
+  position: 0,
+  ownLength: 46.42545,
+  ownProgress: 46.42545,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2019-12-06",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2fsLmnHfFDrssEdhLMyaML",
+      externalLink: "https://open.spotify.com/album/2fsLmnHfFDrssEdhLMyaML",
+    },
+  ],
+} as const satisfies Release

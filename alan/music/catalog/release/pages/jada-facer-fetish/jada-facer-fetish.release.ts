@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jadaFacerFetish = {
+  id: "01a0676a-d71d-7072-b654-c60a3e2d639b",
+  type: "release",
+  slug: "jada-facer-fetish",
+  title: "Fetish",
+  partOfCollections: ["artist/jada-facer"],
+  position: 0,
+  ownLength: 2.24485,
+  ownProgress: 2.24485,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2017-08-05",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5eRVhY0JHKdCu4gee7gXbI",
+      externalLink: "https://open.spotify.com/album/5eRVhY0JHKdCu4gee7gXbI",
+    },
+  ],
+} as const satisfies Release

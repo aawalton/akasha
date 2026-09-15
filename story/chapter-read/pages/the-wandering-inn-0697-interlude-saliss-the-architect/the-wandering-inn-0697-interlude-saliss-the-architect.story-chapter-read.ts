@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theWanderingInn0697InterludeSalissTheArchitect = {
+  id: "01a0659b-4cc1-735d-bdd8-c8200656e6c3",
+  type: "story-chapter-read",
+  slug: "the-wandering-inn-0697-interlude-saliss-the-architect",
+  title: "Interlude - Saliss the Architect",
+  story: "story-read/the-wandering-inn",
+  position: 697,
+  ownLength: 24141,
+  ownProgress: 24534,
+  unit: "unit/words",
+  publishedAt: "2024-03-13",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2024/03/13/interlude-saliss-the-architect/",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

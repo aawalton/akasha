@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0294Chapter1645TheSnailProcession = {
+  id: "01a0672c-eb65-700c-9cda-c3b786ef84ff",
+  type: "story-chapter-read",
+  slug: "chrysalis-0294-chapter-1645-the-snail-procession",
+  title: "Chapter 1645 - The Snail Procession",
+  story: "story-read/chrysalis",
+  position: 294,
+  ownLength: 961,
+  ownProgress: 961,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:53:13.170Z",
+  publishedAt: "2025-09-15",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2601011",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2601011/chapter-1645-the-snail-procession",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

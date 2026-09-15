@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const thePianoGuys3GoldenHour = {
+  id: "01a0676a-d71f-7019-b9ac-0a8e59d3747e",
+  type: "release",
+  slug: "the-piano-guys-3-golden-hour",
+  title: "Golden Hour",
+  partOfCollections: ["artist/the-piano-guys"],
+  position: 0,
+  ownLength: 2.64285,
+  ownProgress: 2.64285,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-10-21",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "54UrEWWtZyZLVN3BWZHSwL",
+      externalLink: "https://open.spotify.com/album/54UrEWWtZyZLVN3BWZHSwL",
+    },
+  ],
+} as const satisfies Release

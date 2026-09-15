@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0088Chapter1440TurtleSoup = {
+  id: "01a0672c-eb5d-7006-9031-87fb5690af25",
+  type: "story-chapter-read",
+  slug: "chrysalis-0088-chapter-1440-turtle-soup",
+  title: "Chapter 1440 - Turtle Soup",
+  story: "story-read/chrysalis",
+  position: 88,
+  ownLength: 1151,
+  ownProgress: 1151,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:46:44.868Z",
+  publishedAt: "2024-10-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1871701",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1871701/chapter-1440-turtle-soup",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

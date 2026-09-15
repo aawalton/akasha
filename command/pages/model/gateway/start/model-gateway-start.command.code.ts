@@ -1,11 +1,11 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { agentId } from "akasha/command/arguments/pages/agent-id.argument.ts"
-import { gatewayLogDir } from "akasha/command/arguments/pages/gateway-log-dir.argument.ts"
-import { gatewayPort } from "akasha/command/arguments/pages/gateway-port.argument.ts"
-import { keep } from "akasha/command/arguments/pages/keep.argument.ts"
-import { registrationAccount } from "akasha/command/arguments/pages/registration-account.argument.ts"
-import { seconds } from "akasha/command/arguments/pages/seconds.argument.ts"
-import { version } from "akasha/command/arguments/pages/version.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { agentId } from "akasha/command/argument/pages/agent-id.argument.ts"
+import { gatewayLogDir } from "akasha/command/argument/pages/gateway-log-dir.argument.ts"
+import { gatewayPort } from "akasha/command/argument/pages/gateway-port.argument.ts"
+import { keep } from "akasha/command/argument/pages/keep.argument.ts"
+import { registrationAccount } from "akasha/command/argument/pages/registration-account.argument.ts"
+import { seconds } from "akasha/command/argument/pages/seconds.argument.ts"
+import { version } from "akasha/command/argument/pages/version.argument.ts"
 import {
   answering,
   keeping,

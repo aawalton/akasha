@@ -1,8 +1,0 @@
-import type { World } from "akasha/story/worlds/world.page-type.types.ts"
-
-export const darkMatterAscensionLitrpgSwordmageMc = {
-  id: "01a063d8-61f2-7991-be52-3874fb1608a4",
-  type: "world",
-  slug: "dark-matter-ascension-litrpg-swordmage-mc",
-  title: "Dark Matter Ascension",
-} as const satisfies World

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathToProsperityLitrpgVol12Stubbed0001B1Chapter1WorstMorningEver = {
+  id: "01a06730-4dc7-72bf-899b-82fa2e2eb1b9",
+  type: "story-chapter-read",
+  slug: "path-to-prosperity-litrpg-vol-12-stubbed-0001-b1-chapter-1-worst-morning-ever",
+  title: "B1 Chapter 1 - Worst Morning Ever",
+  story: "story-read/path-to-prosperity-litrpg-vol-12-stubbed",
+  position: 1,
+  ownLength: 762,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1697652",
+      externalLink:
+        "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1697652/b1-chapter-1-worst-morning-ever",
+    },
+  ],
+  publishedAt: "2024-06-29",
+  ownProgress: 762,
+  completedAt: "2026-06-29T21:36:19.412Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

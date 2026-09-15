@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0010Chapter10Sage = {
+  id: "01a0672c-eb1a-7000-94de-f79e9737c9f7",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0010-chapter-10-sage",
+  title: "Chapter 10: Sage",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 10,
+  ownLength: 4726,
+  ownProgress: 4726,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:11:20.269Z",
+  publishedAt: "2024-02-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1508598",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1508598/chapter-10-sage",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

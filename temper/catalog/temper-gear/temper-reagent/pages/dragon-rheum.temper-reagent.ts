@@ -1,0 +1,12 @@
+import type { TemperReagent } from "akasha/temper/catalog/temper-gear/temper-reagent/temper-reagent.page-type.types.ts"
+
+export const dragonRheum = {
+  id: "019e21f7-3b16-7b50-8048-57cdd4919874",
+  type: "temper-reagent",
+  slug: "dragon-rheum",
+  title: "Dragon Rheum",
+  key: "dragon-rheum",
+  icon: "resources/dragonrheum.png",
+  itemId: 150671,
+  alchemyEffects: ["restore-magicka", "heroism", "enervation", "speed"],
+} as const satisfies TemperReagent

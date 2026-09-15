@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonTakeCareOfYouAcoustic = {
+  id: "01a0676a-d72b-700e-b312-554974de0356",
+  type: "release",
+  slug: "ella-henderson-take-care-of-you-acoustic",
+  title: "Take Care of You (Acoustic)",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 6.4557,
+  ownProgress: 6.4557,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-07-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3PyP1NAg6qIQQc4z15ZIkz",
+      externalLink: "https://open.spotify.com/album/3PyP1NAg6qIQQc4z15ZIkz",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

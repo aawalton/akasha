@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0010Chapter26TheHospital = {
+  id: "01a06591-3f80-70b6-9022-d93edfd8c6d8",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0010-chapter-26-the-hospital",
+  title: "Chapter 26 - The Hospital",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 10,
+  ownLength: 2866,
+  unit: "unit/words",
+  publishedAt: "2016-09-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "92997",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92997/chapter-26-the-hospital",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

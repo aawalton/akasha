@@ -1,12 +1,12 @@
 import { authorIn } from "akasha/command/modules/commit-author/commit-author.module.code.ts"
-import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
-import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   askingFor,
   type Fetcher,
   type Sleeper,
   writingFor,
-} from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 export const DEPLOYED_COMMIT = "deployedCommit"
 

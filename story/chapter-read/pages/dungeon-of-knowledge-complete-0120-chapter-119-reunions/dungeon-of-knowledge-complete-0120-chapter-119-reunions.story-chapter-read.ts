@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0120Chapter119Reunions = {
+  id: "01a0672c-eb79-7000-a6da-18232fe64f21",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0120-chapter-119-reunions",
+  title: "Chapter 119: Reunions",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 120,
+  ownLength: 6906,
+  ownProgress: 6906,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:15:04.842Z",
+  publishedAt: "2024-08-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1771008",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1771008/chapter-119-reunions",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

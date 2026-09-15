@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0076Chapter576TheConstruct = {
+  id: "01a06731-adc4-7000-aced-fcdec8bca685",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0076-chapter-576-the-construct",
+  title: "Chapter: 576 - The Construct",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 76,
+  ownLength: 2959,
+  ownProgress: 2959,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:37:43.665Z",
+  publishedAt: "2025-06-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2360473",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2360473/chapter-576-the-construct",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

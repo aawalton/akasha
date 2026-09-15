@@ -1,0 +1,11 @@
+import type { NumberProperty } from "akasha/page/number-property/number-property.page-type.types.ts"
+
+export const minPrice = {
+  id: "01a06053-b380-7e76-b2ba-223b0a8e15ed",
+  type: "number-property",
+  slug: "min-price",
+  propertySlug: "min-price",
+  definition: "the lowest gold an item is listed at",
+  max: null,
+  types: "ts",
+} as const satisfies NumberProperty

@@ -1,6 +1,6 @@
 import type { ModelAccount } from "akasha/agent/model/account/model-account.page-type.types.ts"
 import type { EffectiveSevenDayUsage } from "akasha/agent/model/account/properties/effective-seven-day-usage.computed-property.types.ts"
-import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
+import type { Work } from "akasha/page/computed-property/computed-property.page-type.ts"
 
 const CEILING = 100
 

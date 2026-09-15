@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0207V6c19OldWounds = {
+  id: "01a06731-adbb-7000-a9f8-a2c1558bee1b",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0207-v6c19-old-wounds",
+  title: "v6c19: Old Wounds",
+  story: "story-read/beware-of-chicken",
+  position: 207,
+  ownLength: 1811,
+  ownProgress: 1811,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:58:26.869Z",
+  publishedAt: "2025-04-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2239730",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2239730/v6c19-old-wounds",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

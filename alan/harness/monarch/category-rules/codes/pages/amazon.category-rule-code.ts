@@ -1,9 +1,0 @@
-import type { CategoryRuleCode } from "akasha/alan/harness/monarch/category-rules/codes/category-rule-code.page-type.types.ts"
-
-export const amazon = {
-  id: "01a0655b-fccf-7005-93dd-b35019f20d8c",
-  type: "category-rule-code",
-  slug: "amazon",
-  title: "Amazon",
-  matches: [{ key: "merchant", comparison: "is", values: ["amazon"] }],
-} as const satisfies CategoryRuleCode

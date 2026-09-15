@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons009696TenuousTrust = {
+  id: "01a06731-adad-7003-92e6-89bcba55142d",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0096-96-tenuous-trust",
+  title: "96. Tenuous Trust",
+  story: "story-read/breaker-of-horizons",
+  position: 96,
+  ownLength: 1804,
+  unit: "unit/words",
+  publishedAt: "2021-04-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "656220",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/656220/96-tenuous-trust",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

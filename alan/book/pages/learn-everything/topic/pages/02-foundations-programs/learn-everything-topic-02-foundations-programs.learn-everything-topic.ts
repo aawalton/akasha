@@ -1,0 +1,21 @@
+import type { LearnEverythingTopic } from "akasha/alan/book/pages/learn-everything/topic/learn-everything-topic.page-type.types.ts"
+
+export const learnEverythingTopic02FoundationsPrograms = {
+  id: "01a065a7-085b-7004-81a9-273c6601fa6d",
+  type: "learn-everything-topic",
+  slug: "learn-everything-topic-02-foundations-programs",
+  node: "The Branches of Knowledge › Mathematics › History and Foundations of Mathematics › Foundations Programs",
+  masteryLevel: "mastery-level/student",
+  scoredOn: "2026-07-08",
+  status: "resting",
+  partOf: [
+    "learn-everything-topic/learn-everything-topic-01-history-and-foundations-of-mathematics",
+  ],
+  calibrationRead:
+    'Spontaneous self-read only (no rating asked, per continuing steer). Opened overconfident — "this part is easy, went deep here" — then redrew accurately to "this is my frontier" under the first reconstruction probe. Well-calibrated once tested; the opening headline-confidence exceeded the structure actually held.',
+  frontier: "md",
+  integration: "md",
+  misconceptions: "md",
+  bites: "md",
+  topicEvidence: "md",
+} as const satisfies LearnEverythingTopic

@@ -1,0 +1,24 @@
+import type { TemperScribedSkill } from "akasha/temper/catalog/temper-skill/temper-scribed-skill/temper-scribed-skill.page-type.types.ts"
+
+export const scribedVaultPhysicalDamage = {
+  id: "019e6471-15f1-73b1-a7e2-6a13bb1bdb88",
+  type: "temper-scribed-skill",
+  slug: "scribed-vault-physical-damage",
+  title: "Sundering Vault",
+  key: "scribed-vault-physical-damage",
+  baseName: "Vault",
+  description:
+    "Deals 1742 Physical Damage to enemies. Beneficial Signature and Affix scripts only apply to you.",
+  icon: "/esoui/art/icons/ability_grimoire_bow.dds",
+  esoSkillId: 214960,
+  isMorph: false,
+  learnedLevel: 1,
+  lineRankNeeded: 1,
+  morphIndex: 0,
+  rank: 1,
+  skillLineId: "weapon-bow",
+  skillType: "active",
+  subcategoryId: "scribed",
+  focusScriptId: "physical-damage",
+  grimoireId: "vault",
+} as const satisfies TemperScribedSkill

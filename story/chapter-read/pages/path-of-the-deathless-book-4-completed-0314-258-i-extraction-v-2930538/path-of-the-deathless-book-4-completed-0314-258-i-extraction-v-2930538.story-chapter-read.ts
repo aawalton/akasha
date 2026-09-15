@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0314258IExtractionV2930538 = {
+  id: "01a06730-4e4f-7693-9fc9-9b9024a5e9c4",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0314-258-i-extraction-v-2930538",
+  title: "258 (I) Extraction [V]",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 314,
+  ownLength: 3016,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2930538",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2930538/258-i-extraction-v",
+    },
+  ],
+  publishedAt: "2026-01-10",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bookboundBunny0054B3Chapter50Eclipsed = {
+  id: "01a06731-b0ce-7004-83ea-3dd2723e4f13",
+  type: "story-chapter-read",
+  slug: "bookbound-bunny-0054-b3-chapter-50-eclipsed",
+  title: "B3 - Chapter 50 - Eclipsed",
+  story: "story-read/bookbound-bunny",
+  position: 54,
+  ownLength: 2674,
+  unit: "unit/words",
+  publishedAt: "2026-06-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3499818",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3499818/b3-chapter-50-eclipsed",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

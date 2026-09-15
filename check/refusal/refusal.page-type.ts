@@ -1,0 +1,39 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const refusal = {
+  id: "01a0699d-4000-7a11-9c02-3f61b0d24e77",
+  type: "page-type",
+  slug: "refusal",
+  definition: "the words printed when an instrument refuses",
+  extends: ["page-type/page"],
+  mortal: true,
+  parts: ["text-property/refusal-text"],
+  properties: [
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/refusal-text", required: true, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A refusal is words to print and nothing else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal goes when the instrument printing that refusal goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hole marked in the text is filled by the instrument printing the refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The holes a refusal marks are read off the refusal's own text rather than listed beside that text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One refusal is printed at more than one place.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

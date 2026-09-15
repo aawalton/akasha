@@ -1,10 +1,10 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { all as allArgument } from "akasha/command/arguments/pages/all.argument.ts"
-import { domain as domainArgument } from "akasha/command/arguments/pages/domain.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { sideFile as sideFileArgument } from "akasha/command/arguments/pages/side-file.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { all as allArgument } from "akasha/command/argument/pages/all.argument.ts"
+import { domain as domainArgument } from "akasha/command/argument/pages/domain.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { sideFile as sideFileArgument } from "akasha/command/argument/pages/side-file.argument.ts"
 import {
   answering,
   INPUT,

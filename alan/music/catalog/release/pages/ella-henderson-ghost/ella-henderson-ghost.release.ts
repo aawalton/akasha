@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonGhost = {
+  id: "01a0676a-d71e-7056-aa54-1db5e9567bbe",
+  type: "release",
+  slug: "ella-henderson-ghost",
+  title: "Ghost",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 3.601767,
+  ownProgress: 3.601767,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2014-06-08",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6MAEuDumUgxsWaEWA6lddg",
+      externalLink: "https://open.spotify.com/album/6MAEuDumUgxsWaEWA6lddg",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

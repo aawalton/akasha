@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bookboundBunny0085B3Chapter81WatchfulGaze = {
+  id: "01a06731-b0d6-7000-8855-59081130d73a",
+  type: "story-chapter-read",
+  slug: "bookbound-bunny-0085-b3-chapter-81-watchful-gaze",
+  title: "B3 - Chapter 81 - Watchful Gaze",
+  story: "story-read/bookbound-bunny",
+  position: 85,
+  ownLength: 2217,
+  unit: "unit/words",
+  publishedAt: "2026-08-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3846830",
+      externalLink:
+        "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3846830/b3-chapter-81-watchful-gaze",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

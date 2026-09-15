@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const superSupportive0180OneHundredSeventyEightTheElderSCroak = {
+  id: "01a06730-4edd-71ef-8edf-3eea77442624",
+  type: "story-chapter-read",
+  slug: "super-supportive-0180-one-hundred-seventy-eight-the-elder-s-croak",
+  title: "ONE HUNDRED SEVENTY-EIGHT: The Elder's Croak",
+  story: "story-read/super-supportive",
+  position: 180,
+  ownLength: 5293,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1871569",
+      externalLink:
+        "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1871569/one-hundred-seventy-eight-the-elders-croak",
+    },
+  ],
+  publishedAt: "2024-10-28",
+  prose: "txt",
+} as const satisfies StoryChapterRead

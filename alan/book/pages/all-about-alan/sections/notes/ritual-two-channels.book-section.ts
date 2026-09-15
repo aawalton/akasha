@@ -1,0 +1,12 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const ritualTwoChannels = {
+  id: "01a06594-c67c-7012-b0db-3fa3126bc7d8",
+  type: "book-section",
+  slug: "ritual-two-channels",
+  title: "Ritual's two power channels",
+  sectionOf: "alan-book/all-about-alan",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

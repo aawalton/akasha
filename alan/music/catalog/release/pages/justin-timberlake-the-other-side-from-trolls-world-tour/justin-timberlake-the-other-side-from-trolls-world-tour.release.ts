@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const justinTimberlakeTheOtherSideFromTrollsWorldTour = {
+  id: "01a0676a-d72d-704d-9fff-43b8fefb8058",
+  type: "release",
+  slug: "justin-timberlake-the-other-side-from-trolls-world-tour",
+  title: "The Other Side (from Trolls World Tour)",
+  partOfCollections: ["artist/justin-timberlake"],
+  position: 0,
+  ownLength: 3.136433,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2020-02-26",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "50ZTMRi6Biq1i1pWbcaKaJ",
+      externalLink: "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ",
+    },
+  ],
+} as const satisfies Release

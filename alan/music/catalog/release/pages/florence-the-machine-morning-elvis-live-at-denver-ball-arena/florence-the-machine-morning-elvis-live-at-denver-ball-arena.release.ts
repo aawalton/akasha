@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const florenceTheMachineMorningElvisLiveAtDenverBallArena = {
+  id: "01a0676a-d725-7007-9971-958c9eb143f7",
+  type: "release",
+  slug: "florence-the-machine-morning-elvis-live-at-denver-ball-arena",
+  title: "Morning Elvis (Live At Denver Ball Arena)",
+  partOfCollections: ["artist/florence-the-machine"],
+  position: 0,
+  ownLength: 4.26085,
+  ownProgress: 4.26085,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2022-12-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2x9KxA4G0o6qePmduWIoWh",
+      externalLink: "https://open.spotify.com/album/2x9KxA4G0o6qePmduWIoWh",
+    },
+  ],
+} as const satisfies Release

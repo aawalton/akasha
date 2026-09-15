@@ -1,8 +1,0 @@
-import type { OriginKind } from "akasha/personas/origin-kinds/origin-kind.page-type.types.ts"
-
-export const norse = {
-  id: "01a05361-be5f-705a-890c-8e93d76272d7",
-  type: "origin-kind",
-  slug: "norse",
-  definition: "a name from Old Norse",
-} as const satisfies OriginKind

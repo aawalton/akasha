@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const arianaGrandeItWasAMaskedChristmas = {
+  id: "01a0676a-d722-7018-b274-7eb31efdcf4b",
+  type: "release",
+  slug: "ariana-grande-it-was-a-masked-christmas",
+  title: "It Was A… (Masked Christmas)",
+  partOfCollections: ["artist/ariana-grande"],
+  position: 0,
+  ownLength: 3.01515,
+  ownProgress: 3.01515,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-12-07",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7LsTjhsTKJA0Rfwwx1ppXs",
+      externalLink: "https://open.spotify.com/album/7LsTjhsTKJA0Rfwwx1ppXs",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Release

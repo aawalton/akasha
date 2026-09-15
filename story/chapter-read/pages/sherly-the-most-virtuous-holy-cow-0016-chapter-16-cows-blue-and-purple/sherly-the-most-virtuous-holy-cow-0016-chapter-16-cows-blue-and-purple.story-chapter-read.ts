@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const sherlyTheMostVirtuousHolyCow0016Chapter16CowsBlueAndPurple = {
+  id: "01a06730-4faa-7cc1-901b-cb3223c95f75",
+  type: "story-chapter-read",
+  slug: "sherly-the-most-virtuous-holy-cow-0016-chapter-16-cows-blue-and-purple",
+  title: "Chapter 16 - Cows Blue and Purple",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
+  position: 16,
+  ownLength: 2998,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2587549",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2587549/chapter-16-cows-blue-and-purple",
+    },
+  ],
+  publishedAt: "2025-09-09",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const allTheSkillsADeckbuildingLitrpg0028B6Ch21AwakeWithVenom = {
+  id: "01a06585-ef18-77c7-944e-7a2c4d71877a",
+  type: "story-chapter-read",
+  slug: "all-the-skills-a-deckbuilding-litrpg-0028-b6-ch21-awake-with-venom",
+  title: "B6 Ch21: Awake With Venom",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
+  position: 28,
+  ownLength: 1538,
+  ownProgress: 1538,
+  unit: "unit/words",
+  publishedAt: "2025-08-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2536932",
+      externalLink:
+        "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2536932/b6-ch21-awake-with-venom",
+    },
+  ],
+  removedAt: "2026-07-03T13:47:54.004Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

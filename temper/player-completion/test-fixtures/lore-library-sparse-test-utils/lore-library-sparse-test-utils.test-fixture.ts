@@ -1,4 +1,4 @@
-import type { TestFixture } from "akasha/testing-system/test-fixtures/test-fixture.page-type.types.ts"
+import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-type.types.ts"
 
 export const loreLibrarySparseTestUtils = {
   id: "01a08ee1-1c98-7da2-b6af-8e53c812c8c5",

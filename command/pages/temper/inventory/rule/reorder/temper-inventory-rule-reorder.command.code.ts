@@ -1,9 +1,9 @@
-import type { TakenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { after } from "akasha/command/arguments/pages/after.argument.ts"
-import { before } from "akasha/command/arguments/pages/before.argument.ts"
-import { categoryRuleId } from "akasha/command/arguments/pages/category-rule-id.argument.ts"
-import { force } from "akasha/command/arguments/pages/force.argument.ts"
-import { toPosition } from "akasha/command/arguments/pages/to-position.argument.ts"
+import type { TakenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { after } from "akasha/command/argument/pages/after.argument.ts"
+import { before } from "akasha/command/argument/pages/before.argument.ts"
+import { categoryRuleId } from "akasha/command/argument/pages/category-rule-id.argument.ts"
+import { force } from "akasha/command/argument/pages/force.argument.ts"
+import { toPosition } from "akasha/command/argument/pages/to-position.argument.ts"
 import {
   DATA,
   INPUT,

@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const subagentPageless = {
   id: "01a0951d-933c-768f-a4e9-51a54ceda87a",

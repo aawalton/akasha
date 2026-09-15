@@ -1,0 +1,10 @@
+import type { CalendarDateProperty } from "akasha/page/calendar-date-property/calendar-date-property.page-type.types.ts"
+
+export const topicScoredOn = {
+  id: "01a0659f-93da-7005-b11f-60f797d029d6",
+  type: "calendar-date-property",
+  slug: "topic-scored-on",
+  propertySlug: "scored-on",
+  definition: "the day a topic was last scored",
+  types: "ts",
+} as const satisfies CalendarDateProperty

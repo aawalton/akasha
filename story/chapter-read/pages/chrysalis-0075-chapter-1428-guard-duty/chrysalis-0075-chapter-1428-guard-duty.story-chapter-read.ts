@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0075Chapter1428GuardDuty = {
+  id: "01a0672c-eb5c-7014-864f-cd9dd27fd235",
+  type: "story-chapter-read",
+  slug: "chrysalis-0075-chapter-1428-guard-duty",
+  title: "Chapter 1428 - Guard Duty",
+  story: "story-read/chrysalis",
+  position: 75,
+  ownLength: 986,
+  ownProgress: 986,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:46:08.415Z",
+  publishedAt: "2024-10-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1842748",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1842748/chapter-1428-guard-duty",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

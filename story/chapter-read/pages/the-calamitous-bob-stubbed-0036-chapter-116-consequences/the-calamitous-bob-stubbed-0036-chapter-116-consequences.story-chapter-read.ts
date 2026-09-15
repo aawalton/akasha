@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0036Chapter116Consequences = {
+  id: "01a06730-4f55-7dd9-a5e6-dbd07500c4a8",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0036-chapter-116-consequences",
+  title: "Chapter 116: Consequences",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 36,
+  ownLength: 5782,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1203173",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1203173/chapter-116-consequences",
+    },
+  ],
+  publishedAt: "2023-05-05",
+  ownProgress: 5782,
+  completedAt: "2026-06-29T21:15:57.872Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

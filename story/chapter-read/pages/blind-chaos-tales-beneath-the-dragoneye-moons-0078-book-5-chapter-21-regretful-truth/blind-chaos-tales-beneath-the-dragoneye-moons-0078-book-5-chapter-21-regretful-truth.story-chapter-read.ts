@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const blindChaosTalesBeneathTheDragoneyeMoons0078Book5Chapter21RegretfulTruth = {
+  id: "01a06731-aef8-7001-8bbe-cdb7235f0ebe",
+  type: "story-chapter-read",
+  slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0078-book-5-chapter-21-regretful-truth",
+  title: "Book 5 - Chapter 21 - Regretful Truth",
+  story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
+  position: 78,
+  ownLength: 4674,
+  unit: "unit/words",
+  publishedAt: "2026-06-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3489257",
+      externalLink:
+        "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3489257/book-5-chapter-21-regretful-truth",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

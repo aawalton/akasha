@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const myLordPleaseACharacterDrivenKingdomBuilding0121Chapter115Confluence = {
+  id: "01a06591-3f7e-7d23-91b9-808259682d57",
+  type: "story-chapter-read",
+  slug: "my-lord-please-a-character-driven-kingdom-building-0121-chapter-115-confluence",
+  title: "Chapter 115 Confluence",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
+  position: 121,
+  ownLength: 2109,
+  unit: "unit/words",
+  publishedAt: "2026-08-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3826744",
+      externalLink:
+        "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3826744/chapter-115-confluence",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

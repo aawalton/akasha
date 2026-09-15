@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const godOfTrash0322322AChapterAboutDiggingAHole = {
+  id: "01a06731-ae03-7002-a26a-723e4ba1c491",
+  type: "story-chapter-read",
+  slug: "god-of-trash-0322-322-a-chapter-about-digging-a-hole",
+  title: "322. A Chapter About Digging a Hole",
+  story: "story-read/god-of-trash",
+  position: 322,
+  ownLength: 2399,
+  unit: "unit/words",
+  publishedAt: "2026-06-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3521153",
+      externalLink:
+        "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3521153/322-a-chapter-about-digging-a-hole",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

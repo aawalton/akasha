@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0166Chapter152DarkSky = {
+  id: "01a06731-ad81-7012-986b-454e91cca84d",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0166-chapter-152-dark-sky",
+  title: "Chapter 152 Dark Sky",
+  story: "story-read/melody-of-mana",
+  position: 166,
+  ownLength: 1861,
+  ownProgress: 1861,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:31:35.160Z",
+  publishedAt: "2022-07-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "944933",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/944933/chapter-152-dark-sky",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

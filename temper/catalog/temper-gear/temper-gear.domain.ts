@@ -1,11 +1,10 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const temperGear = {
   id: "01a05fba-ce3c-7cc6-bd0f-2d8917043895",
   type: "domain",
   slug: "temper-gear",
   definition: "what a character wears, wields and makes",
-  pluralSlug: "temper-gear",
   parts: [
     "page-type/temper-armor-enchant",
     "page-type/temper-armor-slot",

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0009Chapter1362OnTheEdgeOfTheFifth = {
+  id: "01a0672c-eb5a-7007-b709-ccdbfb217fed",
+  type: "story-chapter-read",
+  slug: "chrysalis-0009-chapter-1362-on-the-edge-of-the-fifth",
+  title: "Chapter 1362 - On the Edge of the Fifth",
+  story: "story-read/chrysalis",
+  position: 9,
+  ownLength: 1050,
+  ownProgress: 1050,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:43:56.458Z",
+  publishedAt: "2024-06-26",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1693178",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1693178/chapter-1362-on-the-edge-of-the-fifth",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

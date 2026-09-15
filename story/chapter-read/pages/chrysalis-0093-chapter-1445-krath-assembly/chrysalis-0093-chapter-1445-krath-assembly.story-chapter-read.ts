@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0093Chapter1445KrathAssembly = {
+  id: "01a0672c-eb5d-700b-809b-58e33d6ee61f",
+  type: "story-chapter-read",
+  slug: "chrysalis-0093-chapter-1445-krath-assembly",
+  title: "Chapter 1445 - Krath Assembly",
+  story: "story-read/chrysalis",
+  position: 93,
+  ownLength: 1008,
+  ownProgress: 1008,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:47:01.231Z",
+  publishedAt: "2024-11-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1883649",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1883649/chapter-1445-krath-assembly",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

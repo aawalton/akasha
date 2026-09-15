@@ -1,0 +1,8 @@
+import type { World } from "akasha/story/world/world.page-type.types.ts"
+
+export const thereIsNoEpicLootHereOnlyPuns = {
+  id: "01a063d8-61f2-79fb-b0cf-709bc367be11",
+  type: "world",
+  slug: "there-is-no-epic-loot-here-only-puns",
+  title: "There is no Epic Loot here, Only Puns",
+} as const satisfies World

@@ -18,9 +18,9 @@ import { subagentStopped } from "akasha/agent/subagent/properties/subagent-stopp
 import {
   type Landing,
   runMechanicalChange,
-} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { subagent } from "akasha/command/arguments/pages/subagent.argument.ts"
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { subagent } from "akasha/command/argument/pages/subagent.argument.ts"
 import {
   DATA,
   refused,
@@ -35,7 +35,7 @@ import {
   stoppedAmong,
   transcriptsSay,
 } from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
-import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
+import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const STOPPED = subagentStopped.propertySlug
 

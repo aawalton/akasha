@@ -1,0 +1,13 @@
+import type { ServiceWorkstation } from "akasha/infrastructure/service/workstation/service-workstation.page-type.types.ts"
+
+export const alanEmailWorker = {
+  id: "01a06829-0193-7263-a1e4-d14db047d74d",
+  type: "service-workstation",
+  slug: "alan-email-worker",
+  definition: "the service deciding Alan's mail against his email rules",
+  enabled: true,
+  needsSecrets: true,
+  systemd: {
+    restartDelaySeconds: 10,
+  },
+} as const satisfies ServiceWorkstation

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0108660ExpandingDomain = {
+  id: "01a06730-4de8-76be-aa05-ebb67cc2b6dc",
+  type: "story-chapter-read",
+  slug: "salvos-0108-660-expanding-domain",
+  title: "660. Expanding Domain",
+  story: "story-read/salvos",
+  position: 108,
+  ownLength: 1570,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1563478",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1563478/660-expanding-domain",
+    },
+  ],
+  publishedAt: "2024-03-22",
+  prose: "txt",
+} as const satisfies StoryChapterRead

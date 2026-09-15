@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const howFarOffMyLiveReadingRuns = {
-  id: "01a07825-d094-7e54-8900-35e3ea009f62",
-  type: "all-about-alan-question",
-  slug: "how-far-off-my-live-reading-runs",
-  topic: "all-about-alan-topic/the-rating-my-budget-rests-on",
-  ask: "My live safety reading runs optimistic until I revise the reading down. By how much, and how long does the optimistic reading govern before the correction lands?",
-} as const satisfies AllAboutAlanQuestion

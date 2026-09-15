@@ -1,0 +1,13 @@
+import type { FitnessCoachingNote } from "akasha/alan/value/health/fitness/coaching/note/fitness-coaching-note.page-type.types.ts"
+
+export const postWorkoutProteinDrinkCreatine = {
+  id: "019f01e1-bc79-7d4c-b0c8-2814987edd4a",
+  type: "fitness-coaching-note",
+  slug: "post-workout-protein-drink-creatine",
+  title: "Post-workout: protein drink + creatine",
+  active: true,
+  focusTags: ["all"],
+  kind: "programming-cue",
+  sortOrder: 11,
+  says: "txt",
+} as const satisfies FitnessCoachingNote

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0152Chapter139ReturnToTheUndercity = {
+  id: "01a06731-ad81-7004-994a-6e33508a922b",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0152-chapter-139-return-to-the-undercity",
+  title: "Chapter 139 Return to the Undercity",
+  story: "story-read/melody-of-mana",
+  position: 152,
+  ownLength: 2118,
+  ownProgress: 2118,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:31:05.769Z",
+  publishedAt: "2022-05-25",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "913771",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/913771/chapter-139-return-to-the-undercity",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

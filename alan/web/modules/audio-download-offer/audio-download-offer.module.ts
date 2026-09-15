@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const audioDownloadOffer = {
   id: "01a0a081-7f6a-7653-89bb-050c3254ad45",

@@ -1,0 +1,18 @@
+import type { TemperCompanionSkill } from "akasha/temper/catalog/temper-companions/temper-companion-skill/temper-companion-skill.page-type.types.ts"
+
+export const bastianBastianFieryFlail = {
+  id: "019e6484-384e-7e08-ba17-77fb370e009b",
+  type: "temper-companion-skill",
+  slug: "bastian-bastian-fiery-flail",
+  key: "bastian-fiery-flail",
+  title: "Fiery Flail",
+  icon: "/esoui/art/icons/ability_companion_dragonknight_001.dds",
+  description:
+    "Your Companion lashes an enemy with flame, dealing $1 Flame Damage and setting them Off Balance for $$2 seconds.",
+  companionId: "bastian",
+  abilityId: 153687,
+  skillLineId: "companion-bastian-ardent-warrior",
+  skillType: "active",
+  validRoles: ["dps"],
+  skillEffects: "jsonl",
+} as const satisfies TemperCompanionSkill

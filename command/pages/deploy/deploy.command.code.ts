@@ -1,12 +1,12 @@
-import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { deploySubject } from "akasha/command/arguments/pages/deploy-subject.argument.ts"
-import { device } from "akasha/command/arguments/pages/device.argument.ts"
-import { dryRun } from "akasha/command/arguments/pages/dry-run.argument.ts"
-import { measured } from "akasha/command/arguments/pages/measured.argument.ts"
-import { noUpload } from "akasha/command/arguments/pages/no-upload.argument.ts"
-import { ref } from "akasha/command/arguments/pages/ref.argument.ts"
-import { simulator } from "akasha/command/arguments/pages/simulator.argument.ts"
+import { costRecorded, opening } from "akasha/check/modules/cost/check-cost.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { deploySubject } from "akasha/command/argument/pages/deploy-subject.argument.ts"
+import { device } from "akasha/command/argument/pages/device.argument.ts"
+import { dryRun } from "akasha/command/argument/pages/dry-run.argument.ts"
+import { measured } from "akasha/command/argument/pages/measured.argument.ts"
+import { noUpload } from "akasha/command/argument/pages/no-upload.argument.ts"
+import { ref } from "akasha/command/argument/pages/ref.argument.ts"
+import { simulator } from "akasha/command/argument/pages/simulator.argument.ts"
 import {
   answeredWith,
   DATA,
@@ -73,10 +73,10 @@ import {
 import {
   appliedWorkload,
   servableNamed,
-} from "akasha/infrastructure/services/clusters/modules/workload-applying/workload-applying.module.code.ts"
-import { putUpEvery } from "akasha/infrastructure/services/workstations/modules/service-putting-up/service-putting-up.module.code.ts"
-import { provingFor } from "akasha/infrastructure/services/workstations/modules/service-running/service-running.module.code.ts"
-import type { Fetcher } from "akasha/pages/service/modules/page-calling/page-calling.module.code.ts"
+} from "akasha/infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"
+import { putUpEvery } from "akasha/infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.code.ts"
+import { provingFor } from "akasha/infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"
+import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { waitedForRoom } from "akasha/utils/system/modules/landing-admission/landing-admission.module.code.ts"
 
 const PUT_UP = "deploy"

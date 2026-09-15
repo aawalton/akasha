@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const systemGirlSystemMcWorldHoppingComedy0042Chapter41TheBlueScreenOfDeath = {
+  id: "01a06730-4dee-7db5-a198-951ab3477883",
+  type: "story-chapter-read",
+  slug: "system-girl-system-mc-world-hopping-comedy-0042-chapter-41-the-blue-screen-of-death",
+  title: "Chapter 41: The Blue Screen of Death",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
+  position: 42,
+  ownLength: 1819,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2806933",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2806933/chapter-41-the-blue-screen-of-death",
+    },
+  ],
+  publishedAt: "2025-11-30",
+  prose: "txt",
+} as const satisfies StoryChapterRead

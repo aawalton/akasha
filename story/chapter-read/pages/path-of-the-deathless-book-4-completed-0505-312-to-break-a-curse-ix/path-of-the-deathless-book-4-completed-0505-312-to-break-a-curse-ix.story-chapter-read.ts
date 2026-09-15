@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0505312ToBreakACurseIx = {
+  id: "01a06730-4ec8-7f42-bd11-d0af9dfb152b",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0505-312-to-break-a-curse-ix",
+  title: "312 To Break a Curse [IX]",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 505,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3149030/312-to-break-a-curse-ix",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

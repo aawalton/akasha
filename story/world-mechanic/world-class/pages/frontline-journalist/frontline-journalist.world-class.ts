@@ -1,0 +1,10 @@
+import type { WorldClass } from "akasha/story/world-mechanic/world-class/world-class.page-type.types.ts"
+
+export const frontlineJournalist = {
+  id: "01a0657e-1366-7c8c-b22e-ee7abdff246e",
+  type: "world-class",
+  slug: "frontline-journalist",
+  title: "Frontline Journalist",
+  world: "world/the-wandering-inn",
+  references: "jsonl",
+} as const satisfies WorldClass

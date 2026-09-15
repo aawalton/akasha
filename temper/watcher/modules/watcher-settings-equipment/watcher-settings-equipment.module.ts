@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherSettingsEquipment = {
   id: "01a06381-35cf-70c2-819c-ef562701572b",
@@ -54,11 +54,11 @@ export const watcherSettingsEquipment = {
     },
     {
       invariantKind: "gap",
-      statement: "`@akasha/pages-service` lists no `character-build` page type.",
+      statement: "`@akasha/page-service` lists no `character-build` page type.",
     },
     {
       invariantKind: "gap",
-      statement: "`@akasha/pages-service` lists no `companion-build` page type.",
+      statement: "`@akasha/page-service` lists no `companion-build` page type.",
     },
   ],
 } as const satisfies Module

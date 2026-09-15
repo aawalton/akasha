@@ -30,11 +30,11 @@ import {
   type UsageRead,
   usageFetched,
 } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import type { PageOf } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
-import { readingIn } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
-import { secretsIn } from "akasha/pages/modules/secret/page-secret.module.code.ts"
-import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
+import type { PageOf } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const MESSAGES_URL = "https://api.anthropic.com/v1/messages"

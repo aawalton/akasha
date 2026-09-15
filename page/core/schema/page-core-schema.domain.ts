@@ -1,0 +1,29 @@
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+
+export const pageCoreSchema = {
+  id: "01a071cb-3d85-7fcd-8315-90eca5831d35",
+  type: "domain",
+  slug: "page-core-schema",
+  definition: "the shape a zod validator names a config value must have",
+  parts: [
+    "module/action-button-config",
+    "module/badge-display",
+    "module/coherence-rules",
+    "module/color-rule-variant",
+    "module/content-tier",
+    "module/cross-type-predicates",
+    "module/detail-config",
+    "module/listing-config",
+    "module/media-config",
+    "module/nav-config",
+    "module/page-type-inheritance",
+    "module/pages",
+    "module/property-config-schemas",
+    "module/quick-add",
+    "module/resolve-select-options",
+    "module/select-option-create",
+    "module/sequence-config",
+    "module/view-data",
+    "module/view-data-locked",
+  ],
+} as const satisfies Domain

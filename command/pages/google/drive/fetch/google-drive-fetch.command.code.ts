@@ -1,8 +1,8 @@
 import { mkdir } from "node:fs/promises"
 import { basename, isAbsolute, join, resolve } from "node:path"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { driveFile } from "akasha/command/arguments/pages/drive-file.argument.ts"
-import { output } from "akasha/command/arguments/pages/output.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { driveFile } from "akasha/command/argument/pages/drive-file.argument.ts"
+import { output } from "akasha/command/argument/pages/output.argument.ts"
 import {
   answeredWith,
   codeOf,

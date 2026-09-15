@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const gamerGirlEvolution001010TurningPointOne = {
+  id: "01a06731-b0dc-7001-8a4f-bffbaa80a36e",
+  type: "story-chapter-read",
+  slug: "gamer-girl-evolution-0010-10-turning-point-one",
+  title: "10 – Turning Point One",
+  story: "story-read/gamer-girl-evolution",
+  position: 10,
+  ownLength: 2511,
+  ownProgress: 2511,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:05:54.525Z",
+  publishedAt: "2025-09-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2620558",
+      externalLink:
+        "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620558/10-turning-point-one",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

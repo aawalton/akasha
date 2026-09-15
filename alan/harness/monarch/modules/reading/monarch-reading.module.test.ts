@@ -3,16 +3,16 @@ import {
   READOUT_SLUG,
   takeReading,
 } from "akasha/alan/harness/monarch/modules/reading/monarch-reading.module.code.ts"
-import { readingKept } from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
-import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { readingKept } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const TAKEN = new Date("2026-08-31T12:00:00.000Z")
 
 const READOUT = "readout"
 
-const READOUT_PAGE = "alan/harness/readouts/pages/probe-readout/probe-readout.readout.ts"
+const READOUT_PAGE = "alan/harness/readout/pages/probe-readout/probe-readout.readout.ts"
 
 const READOUT_ID = "01a057fa-c464-7f2b-9f87-031b5dbedab0"
 

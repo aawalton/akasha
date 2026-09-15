@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0571ChapterFiveHundredAndFiftySixEdgeOfAn = {
+  id: "01a0672c-eb27-7013-a772-49d5115cdc25",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0571-chapter-five-hundred-and-fifty-six-edge-of-an",
+  title: "Chapter Five Hundred and Fifty-Six - Edge of an Empire",
+  story: "story-read/cinnamon-bun",
+  position: 571,
+  ownLength: 1497,
+  unit: "unit/words",
+  publishedAt: "2025-10-01",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2644244",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2644244/chapter-five-hundred-and-fifty-six-edge-of-an",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

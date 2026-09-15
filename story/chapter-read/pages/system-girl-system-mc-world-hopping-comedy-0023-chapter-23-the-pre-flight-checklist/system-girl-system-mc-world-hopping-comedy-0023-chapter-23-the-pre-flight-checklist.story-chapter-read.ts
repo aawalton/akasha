@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const systemGirlSystemMcWorldHoppingComedy0023Chapter23ThePreFlightChecklist = {
+  id: "01a06730-4ded-71e7-8c94-4ca508582fc0",
+  type: "story-chapter-read",
+  slug: "system-girl-system-mc-world-hopping-comedy-0023-chapter-23-the-pre-flight-checklist",
+  title: "Chapter 23: The Pre-Flight Checklist",
+  story: "story-read/system-girl-system-mc-world-hopping-comedy",
+  position: 23,
+  ownLength: 2324,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2649429",
+      externalLink:
+        "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2649429/chapter-23-the-pre-flight-checklist",
+    },
+  ],
+  publishedAt: "2025-10-03",
+  prose: "txt",
+} as const satisfies StoryChapterRead

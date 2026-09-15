@@ -1,0 +1,12 @@
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+
+export const description = {
+  id: "01a05fac-7583-7834-bf07-5cbbd0603ee2",
+  type: "text-property",
+  slug: "description",
+  propertySlug: "description",
+  definition: "what a thing is, said for a reader",
+  maxLength: 2000,
+  nameFormat: null,
+  types: "ts",
+} as const satisfies TextProperty

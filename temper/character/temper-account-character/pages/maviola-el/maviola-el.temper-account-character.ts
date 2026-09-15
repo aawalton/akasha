@@ -1,0 +1,13 @@
+import type { TemperAccountCharacter } from "akasha/temper/character/temper-account-character/temper-account-character.page-type.types.ts"
+
+export const maviolaEl = {
+  id: "019dda20-8c7c-772a-9cbd-3ae77bd7c136",
+  type: "temper-account-character",
+  slug: "maviola-el",
+  title: "Maviola El",
+  displayOrder: 2,
+  completion: "json",
+  esoCharacterId: "8796093024330045",
+  accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  firstName: "Maviola",
+} as const satisfies TemperAccountCharacter

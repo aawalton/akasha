@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const designInterfacesPatterns = {
   id: "01a05c51-8287-7dba-82e4-64786876e805",

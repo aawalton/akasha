@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const katyPerryWavingThroughAWindowFromDearEvanHansen = {
+  id: "01a0676a-d730-7025-b745-a8dc0c93417e",
+  type: "release",
+  slug: "katy-perry-waving-through-a-window-from-dear-evan-hansen",
+  title: "Waving Through A Window (from Dear Evan Hansen)",
+  partOfCollections: ["artist/katy-perry"],
+  position: 0,
+  ownLength: 3.9331,
+  ownProgress: 3.9331,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-11-02",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6BabrVf6FzOZVIZsvpZasb",
+      externalLink: "https://open.spotify.com/album/6BabrVf6FzOZVIZsvpZasb",
+    },
+  ],
+} as const satisfies Release

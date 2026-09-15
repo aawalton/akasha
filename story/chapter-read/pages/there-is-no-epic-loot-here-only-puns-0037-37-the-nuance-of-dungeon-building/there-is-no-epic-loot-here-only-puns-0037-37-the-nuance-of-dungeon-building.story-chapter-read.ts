@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thereIsNoEpicLootHereOnlyPuns003737TheNuanceOfDungeonBuilding = {
+  id: "01a06730-4f89-725a-b78d-e34ab97befd5",
+  type: "story-chapter-read",
+  slug: "there-is-no-epic-loot-here-only-puns-0037-37-the-nuance-of-dungeon-building",
+  title: "37: The Nuance of Dungeon Building",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
+  position: 37,
+  ownLength: 2554,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "194172",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/194172/37-the-nuance-of-dungeon-building",
+    },
+  ],
+  publishedAt: "2018-02-13",
+  prose: "txt",
+} as const satisfies StoryChapterRead

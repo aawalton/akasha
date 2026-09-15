@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const billyJoelKohueptLive = {
+  id: "01a0676a-d722-704c-a8e8-977ef5abaf74",
+  type: "release",
+  slug: "billy-joel-kohuept-live",
+  title: "Kohuept (Live)",
+  partOfCollections: ["artist/billy-joel"],
+  position: 0,
+  ownLength: 72.973683,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "1987-10-26",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7nZUqUuVGjxoTRq8HcdrNv",
+      externalLink: "https://open.spotify.com/album/7nZUqUuVGjxoTRq8HcdrNv",
+    },
+  ],
+} as const satisfies Release

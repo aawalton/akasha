@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const sherlyTheMostVirtuousHolyCow0034Chapter34CowByTheBladesOfGrass = {
+  id: "01a06730-4fab-710d-ac98-e8bf71784b61",
+  type: "story-chapter-read",
+  slug: "sherly-the-most-virtuous-holy-cow-0034-chapter-34-cow-by-the-blades-of-grass",
+  title: "Chapter 34 - Cow by the Blades of Grass",
+  story: "story-read/sherly-the-most-virtuous-holy-cow",
+  position: 34,
+  ownLength: 1841,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3018887",
+      externalLink:
+        "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/3018887/chapter-34-cow-by-the-blades-of-grass",
+    },
+  ],
+  publishedAt: "2026-02-06",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld0199240Omens = {
+  id: "01a06730-4e96-7f7a-965c-ee94973090fc",
+  type: "story-chapter-read",
+  slug: "the-new-world-0199-240-omens",
+  title: "240 Omens",
+  story: "story-read/the-new-world",
+  position: 199,
+  ownLength: 4346,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "429666",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/429666/240-omens",
+    },
+  ],
+  publishedAt: "2019-12-01",
+  ownProgress: 4346,
+  completedAt: "2026-06-29T21:27:47.101Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

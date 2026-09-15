@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0158ChapterOneHundredAndFiftyTwoPeaceThrough = {
+  id: "01a0672c-eb0c-700a-a0cb-a40565367d4e",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0158-chapter-one-hundred-and-fifty-two-peace-through",
+  title: "Chapter One Hundred and Fifty-Two - Peace Through Overwhelming Friendpower",
+  story: "story-read/cinnamon-bun",
+  position: 158,
+  ownLength: 1933,
+  unit: "unit/words",
+  publishedAt: "2021-01-19",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "617199",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/617199/chapter-one-hundred-and-fifty-two-peace-through",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

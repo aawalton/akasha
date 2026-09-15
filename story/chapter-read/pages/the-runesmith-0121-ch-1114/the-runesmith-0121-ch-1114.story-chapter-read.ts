@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theRunesmith0121Ch1114 = {
+  id: "01a06730-4ebe-7e4c-a887-e67d5f8a8bdc",
+  type: "story-chapter-read",
+  slug: "the-runesmith-0121-ch-1114",
+  title: "Ch: 111.4",
+  story: "story-read/the-runesmith",
+  position: 121,
+  ownLength: 2827,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "903813",
+      externalLink: "https://www.royalroad.com/fiction/31474/magic-smithing/chapter/903813/ch-1114",
+    },
+  ],
+  publishedAt: "2022-05-09",
+  prose: "txt",
+} as const satisfies StoryChapterRead

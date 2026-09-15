@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0565Chapter565BreakfastTimeAndAHalf = {
+  id: "01a0672c-ed0b-7000-b868-2419c4581f2e",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0565-chapter-565-breakfast-time-and-a-half",
+  title: "Chapter 565 - Breakfast Time And A Half",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 565,
+  ownLength: 2926,
+  unit: "unit/words",
+  publishedAt: "2018-04-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "210309",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/210309/chapter-565-breakfast-time-and-a-half",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const heWhoFightsWithMonsters0003Chapter3LocalCuisine = {
+  id: "01a06731-adbb-7002-9657-33026fa677b4",
+  type: "story-chapter-read",
+  slug: "he-who-fights-with-monsters-0003-chapter-3-local-cuisine",
+  title: "Chapter 3: Local Cuisine",
+  story: "story-read/he-who-fights-with-monsters",
+  position: 3,
+  ownLength: 1566,
+  ownProgress: 1566,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:03:52.476Z",
+  publishedAt: "2019-07-29",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "386758",
+      externalLink:
+        "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/386758/chapter-3-local-cuisine",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

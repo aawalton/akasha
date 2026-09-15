@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0133Chapter131UnexpectedConflict = {
+  id: "01a0672c-eb84-7001-a05b-224c68166727",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0133-chapter-131-unexpected-conflict",
+  title: "Chapter 131: Unexpected Conflict",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 133,
+  ownLength: 7072,
+  ownProgress: 7072,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:31:28.358Z",
+  publishedAt: "2024-09-17",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1807319",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1807319/chapter-131-unexpected-conflict",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

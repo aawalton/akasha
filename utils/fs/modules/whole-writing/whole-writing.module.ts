@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const wholeWriting = {
   id: "01a09429-a77b-7673-8ae4-d384444c7b7a",

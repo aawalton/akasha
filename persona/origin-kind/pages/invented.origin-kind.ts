@@ -1,0 +1,8 @@
+import type { OriginKind } from "akasha/persona/origin-kind/origin-kind.page-type.types.ts"
+
+export const invented = {
+  id: "01a05361-be5f-7dbd-b452-60cdebc0674e",
+  type: "origin-kind",
+  slug: "invented",
+  definition: "a name made for her rather than taken from anywhere",
+} as const satisfies OriginKind

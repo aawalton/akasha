@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const alexWarrenBurningDownWithJoeJonas = {
+  id: "01a0676a-d719-7045-af72-c4cc409ecfab",
+  type: "release",
+  slug: "alex-warren-burning-down-with-joe-jonas",
+  title: "Burning Down (with Joe Jonas)",
+  partOfCollections: ["artist/alex-warren"],
+  position: 0,
+  ownLength: 2.990617,
+  ownProgress: 2.990617,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2024-12-06",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5sT7X6SG6Vc4jc68TbZKEp",
+      externalLink: "https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp",
+      lastSyncedAt: "2026-01-14",
+    },
+  ],
+} as const satisfies Release

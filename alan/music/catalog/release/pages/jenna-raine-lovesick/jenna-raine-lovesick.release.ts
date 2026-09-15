@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const jennaRaineLovesick = {
+  id: "01a0676a-d724-700e-ad3e-771a55f45d50",
+  type: "release",
+  slug: "jenna-raine-lovesick",
+  title: "Lovesick",
+  partOfCollections: ["artist/jenna-raine"],
+  position: 0,
+  ownLength: 2.529333,
+  ownProgress: 2.529333,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2024-01-26",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0i1zYZV7sWFxu4Nbcpr2Lc",
+      externalLink: "https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc",
+    },
+  ],
+} as const satisfies Release

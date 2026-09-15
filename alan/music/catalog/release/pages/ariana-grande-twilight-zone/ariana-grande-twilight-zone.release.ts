@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const arianaGrandeTwilightZone = {
+  id: "01a0676a-d72f-7026-8f71-bd8fc4a216a7",
+  type: "release",
+  slug: "ariana-grande-twilight-zone",
+  title: "twilight zone",
+  partOfCollections: ["artist/ariana-grande"],
+  position: 0,
+  ownLength: 9.638217,
+  ownProgress: 9.638217,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-06-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2OqSK4OKrorvnUzYunU2lX",
+      externalLink: "https://open.spotify.com/album/2OqSK4OKrorvnUzYunU2lX",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Release

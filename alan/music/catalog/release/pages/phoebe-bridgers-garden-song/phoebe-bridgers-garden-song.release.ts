@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const phoebeBridgersGardenSong = {
+  id: "01a0676a-d71e-704f-bac8-5ef4b6d96cea",
+  type: "release",
+  slug: "phoebe-bridgers-garden-song",
+  title: "Garden Song",
+  partOfCollections: ["artist/phoebe-bridgers"],
+  position: 0,
+  ownLength: 3.66775,
+  ownProgress: 3.66775,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2020-02-26",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5RSEIqWnZsBKKYngHOkpuU",
+      externalLink: "https://open.spotify.com/album/5RSEIqWnZsBKKYngHOkpuU",
+    },
+  ],
+} as const satisfies Release

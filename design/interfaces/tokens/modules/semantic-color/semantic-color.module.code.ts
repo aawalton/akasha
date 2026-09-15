@@ -1,9 +1,9 @@
-import { blue } from "akasha/design/interfaces/colors/pages/blue.color.ts"
-import { green } from "akasha/design/interfaces/colors/pages/green.color.ts"
-import { orange } from "akasha/design/interfaces/colors/pages/orange.color.ts"
-import { purple } from "akasha/design/interfaces/colors/pages/purple.color.ts"
-import { red } from "akasha/design/interfaces/colors/pages/red.color.ts"
-import { yellow } from "akasha/design/interfaces/colors/pages/yellow.color.ts"
+import { blue } from "akasha/design/interfaces/color/pages/blue.color.ts"
+import { green } from "akasha/design/interfaces/color/pages/green.color.ts"
+import { orange } from "akasha/design/interfaces/color/pages/orange.color.ts"
+import { purple } from "akasha/design/interfaces/color/pages/purple.color.ts"
+import { red } from "akasha/design/interfaces/color/pages/red.color.ts"
+import { yellow } from "akasha/design/interfaces/color/pages/yellow.color.ts"
 import {
   type Rgb,
   srgbOf,

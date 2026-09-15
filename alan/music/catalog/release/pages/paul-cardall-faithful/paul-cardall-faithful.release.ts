@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const paulCardallFaithful = {
+  id: "01a0676a-d71d-705d-90ed-d210d8380760",
+  type: "release",
+  slug: "paul-cardall-faithful",
+  title: "Faithful",
+  partOfCollections: ["artist/paul-cardall"],
+  position: 0,
+  ownLength: 45.249733,
+  ownProgress: 45.249733,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2004-05-03",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "4reM22AiywSJDI40oyEcEf",
+      externalLink: "https://open.spotify.com/album/4reM22AiywSJDI40oyEcEf",
+    },
+  ],
+} as const satisfies Release

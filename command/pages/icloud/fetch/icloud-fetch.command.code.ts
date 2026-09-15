@@ -11,10 +11,10 @@ import {
   parseShareToken,
   resolveOutputDir,
 } from "akasha/alan/harness/icloud-photos/modules/album-pulling/album-pulling.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { album } from "akasha/command/arguments/pages/album.argument.ts"
-import { json as jsonArgument } from "akasha/command/arguments/pages/json.argument.ts"
-import { output } from "akasha/command/arguments/pages/output.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { album } from "akasha/command/argument/pages/album.argument.ts"
+import { json as jsonArgument } from "akasha/command/argument/pages/json.argument.ts"
+import { output } from "akasha/command/argument/pages/output.argument.ts"
 import {
   answering,
   DATA,

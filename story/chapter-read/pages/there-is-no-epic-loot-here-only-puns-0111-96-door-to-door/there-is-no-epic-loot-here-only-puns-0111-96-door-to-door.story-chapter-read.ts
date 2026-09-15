@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const thereIsNoEpicLootHereOnlyPuns011196DoorToDoor = {
+  id: "01a06730-519c-7c1b-8ee0-7a4cedaf5174",
+  type: "story-chapter-read",
+  slug: "there-is-no-epic-loot-here-only-puns-0111-96-door-to-door",
+  title: "96: Door to Door",
+  story: "story-read/there-is-no-epic-loot-here-only-puns",
+  position: 111,
+  ownLength: 3604,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "364488",
+      externalLink:
+        "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/364488/96-door-to-door",
+    },
+  ],
+  publishedAt: "2019-05-22",
+  prose: "txt",
+} as const satisfies StoryChapterRead

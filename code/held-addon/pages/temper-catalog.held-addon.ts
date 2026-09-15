@@ -1,0 +1,13 @@
+import type { HeldAddon } from "akasha/code/held-addon/held-addon.page-type.types.ts"
+
+export const temperCatalog = {
+  id: "01a081a0-ef0c-7f9a-9f1c-82ed7871ec3d",
+  type: "held-addon",
+  slug: "temper-catalog",
+  addonName: "TemperCatalog",
+  esoAddon: "eso-addon/temper-catalog-addon",
+  addonKind: "native",
+  heldBy: 13034,
+  adjacents: ["held-addon/temper-characters", "held-addon/temper-data-mining"],
+  tiClean: true,
+} as const satisfies HeldAddon

@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const delve0005005Alone = {
+  id: "01a06731-ad6c-7000-963a-d6000c9c1fa5",
+  type: "story-chapter-read",
+  slug: "delve-0005-005-alone",
+  title: "005: Alone",
+  story: "story-read/delve",
+  position: 5,
+  ownLength: 2632,
+  unit: "unit/words",
+  publishedAt: "2019-06-02",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "368119",
+      externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368119/005-alone",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

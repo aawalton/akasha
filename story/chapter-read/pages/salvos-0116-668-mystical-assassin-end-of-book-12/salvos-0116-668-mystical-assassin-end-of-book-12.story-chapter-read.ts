@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const salvos0116668MysticalAssassinEndOfBook12 = {
+  id: "01a06730-4de8-72a1-9e1b-490778ef7d77",
+  type: "story-chapter-read",
+  slug: "salvos-0116-668-mystical-assassin-end-of-book-12",
+  title: "668. Mystical Assassin (End of Book 12)",
+  story: "story-read/salvos",
+  position: 116,
+  ownLength: 1324,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1572047",
+      externalLink:
+        "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1572047/668-mystical-assassin-end-of-book-12",
+    },
+  ],
+  publishedAt: "2024-03-29",
+  prose: "txt",
+} as const satisfies StoryChapterRead

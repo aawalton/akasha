@@ -1,6 +1,6 @@
 "use client"
 
-import { askComposed } from "akasha/pages/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { useEffect, useState } from "react"
 
 const COMPLETION = "completion"

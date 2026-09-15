@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const elvisPresley2WalkAMileInMyShoesTheEssential70sMasters = {
+  id: "01a0676a-d730-7010-b9ce-d7eb0adc6f3c",
+  type: "release",
+  slug: "elvis-presley-2-walk-a-mile-in-my-shoes-the-essential-70s-masters",
+  title: "Walk a Mile in My Shoes: The Essential '70s Masters",
+  partOfCollections: ["artist/elvis-presley"],
+  position: 0,
+  ownLength: 372.0482,
+  ownProgress: 372.0482,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "1995-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5mzwE7oF97fP2vxdtgf6HH",
+      externalLink: "https://open.spotify.com/album/5mzwE7oF97fP2vxdtgf6HH",
+    },
+  ],
+} as const satisfies Release

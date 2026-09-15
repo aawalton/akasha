@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons005050TheBeginning = {
+  id: "01a06731-ada2-7000-8990-de8fc6dde40e",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0050-50-the-beginning",
+  title: "50. The Beginning",
+  story: "story-read/breaker-of-horizons",
+  position: 50,
+  ownLength: 2318,
+  unit: "unit/words",
+  publishedAt: "2020-10-22",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "572921",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/572921/50-the-beginning",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

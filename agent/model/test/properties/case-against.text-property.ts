@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
 export const caseAgainst = {
   id: "01a090dc-6a68-7d53-96a4-6a504d4d4e74",

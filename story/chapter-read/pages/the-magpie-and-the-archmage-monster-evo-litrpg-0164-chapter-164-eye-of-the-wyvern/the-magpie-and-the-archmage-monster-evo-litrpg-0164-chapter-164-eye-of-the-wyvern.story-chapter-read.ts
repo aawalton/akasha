@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theMagpieAndTheArchmageMonsterEvoLitrpg0164Chapter164EyeOfTheWyvern = {
+  id: "01a06730-4fe4-7f2e-8926-96391c2a2789",
+  type: "story-chapter-read",
+  slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0164-chapter-164-eye-of-the-wyvern",
+  title: "Chapter 164 – Eye of The Wyvern",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
+  position: 164,
+  ownLength: 2083,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3833146",
+      externalLink:
+        "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3833146/chapter-164-eye-of-the-wyvern",
+    },
+  ],
+  publishedAt: "2026-08-19",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const tomLehrerThatSMathematicsIGotItFromAgnes = {
+  id: "01a0676a-d72c-7018-a521-7dceecee8413",
+  type: "release",
+  slug: "tom-lehrer-that-s-mathematics-i-got-it-from-agnes",
+  title: "That's Mathematics / I Got It from Agnes",
+  partOfCollections: ["artist/tom-lehrer"],
+  position: 0,
+  ownLength: 3.4966,
+  ownProgress: 3.4966,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2023-04-20",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "2qDuLJgKeuBVA5yHe6xF2m",
+      externalLink: "https://open.spotify.com/album/2qDuLJgKeuBVA5yHe6xF2m",
+    },
+  ],
+} as const satisfies Release

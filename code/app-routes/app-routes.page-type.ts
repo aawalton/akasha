@@ -1,11 +1,10 @@
-import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const appRoutes = {
   id: "01a08bde-996d-7a1b-9c3e-1dba85f9060d",
   type: "page-type",
   slug: "app-routes",
   definition: "the routes one router app serves",
-  pluralSlug: "app-routes",
   parts: ["code-file-property/app-layout"],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "code-file-property/app-layout", required: false, many: false }],

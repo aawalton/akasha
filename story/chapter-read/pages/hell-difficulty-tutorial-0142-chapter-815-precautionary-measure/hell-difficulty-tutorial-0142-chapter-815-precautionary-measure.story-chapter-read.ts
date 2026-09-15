@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const hellDifficultyTutorial0142Chapter815PrecautionaryMeasure = {
+  id: "01a06731-ad89-7001-834e-00e4314012a2",
+  type: "story-chapter-read",
+  slug: "hell-difficulty-tutorial-0142-chapter-815-precautionary-measure",
+  title: "Chapter 815 - Precautionary measure",
+  story: "story-read/hell-difficulty-tutorial",
+  position: 142,
+  ownLength: 2228,
+  unit: "unit/words",
+  publishedAt: "2026-05-28",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3462181",
+      externalLink:
+        "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3462181/chapter-815-precautionary-measure",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

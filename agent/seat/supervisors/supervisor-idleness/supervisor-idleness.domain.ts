@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const supervisorIdleness = {
   id: "01a09c74-522d-7dde-b3a8-be37b2fa1151",

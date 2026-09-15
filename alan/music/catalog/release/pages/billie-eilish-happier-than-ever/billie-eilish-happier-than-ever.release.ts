@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const billieEilishHappierThanEver = {
+  id: "01a0676a-d71f-7048-8dee-be24cf239e03",
+  type: "release",
+  slug: "billie-eilish-happier-than-ever",
+  title: "Happier Than Ever",
+  partOfCollections: ["artist/billie-eilish"],
+  position: 0,
+  ownLength: 56.263317,
+  ownProgress: 56.263317,
+  unit: "unit/minutes",
+  status: "completed",
+  rank: "B",
+  publishedAt: "2021-07-30",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "0JGOiO34nwfUdDrD612dOp",
+      externalLink: "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp",
+    },
+  ],
+} as const satisfies Release

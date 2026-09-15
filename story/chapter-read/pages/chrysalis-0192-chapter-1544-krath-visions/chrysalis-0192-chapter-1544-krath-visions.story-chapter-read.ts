@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0192Chapter1544KrathVisions = {
+  id: "01a0672c-eb61-7019-af4e-258b5bfdc02d",
+  type: "story-chapter-read",
+  slug: "chrysalis-0192-chapter-1544-krath-visions",
+  title: "Chapter 1544 - Krath Visions",
+  story: "story-read/chrysalis",
+  position: 192,
+  ownLength: 1034,
+  ownProgress: 1034,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:49:57.923Z",
+  publishedAt: "2025-04-04",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2172575",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2172575/chapter-1544-krath-visions",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

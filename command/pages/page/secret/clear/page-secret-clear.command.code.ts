@@ -1,7 +1,7 @@
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { commitMessage } from "akasha/command/arguments/pages/commit-message.argument.ts"
-import { filePath } from "akasha/command/arguments/pages/file-path.argument.ts"
-import { key as keyArgument } from "akasha/command/arguments/pages/key.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { commitMessage } from "akasha/command/argument/pages/commit-message.argument.ts"
+import { filePath } from "akasha/command/argument/pages/file-path.argument.ts"
+import { key as keyArgument } from "akasha/command/argument/pages/key.argument.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking, wrongData } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { pageSecretClear as page } from "akasha/command/pages/page/secret/clear/page-secret-clear.command.ts"
@@ -9,8 +9,8 @@ import {
   caught,
   landedWith,
   targeting,
-} from "akasha/pages/command/modules/page-secret-acting/page-secret-acting.module.code.ts"
-import { secretsIn } from "akasha/pages/modules/secret/page-secret.module.code.ts"
+} from "akasha/page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"
+import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
 
 const ACT = "clear"
 

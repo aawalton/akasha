@@ -1,4 +1,4 @@
-import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export const inferenceHook = {
   id: "01a00688-389f-7000-ba53-42d361243e1c",

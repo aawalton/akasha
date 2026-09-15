@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0015V4c9AFarmerSSon = {
+  id: "01a0672c-ec84-7000-9851-d555eddc2d86",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0015-v4c9-a-farmer-s-son",
+  title: "v4c9: A Farmer's Son",
+  story: "story-read/beware-of-chicken",
+  position: 15,
+  ownLength: 2304,
+  ownProgress: 2304,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:51:49.973Z",
+  publishedAt: "2023-05-21",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1219827",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1219827/v4c9-a-farmers-son",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

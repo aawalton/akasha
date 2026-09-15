@@ -1,9 +1,9 @@
 "use client"
 
-import { upsertPage } from "akasha/pages/access/modules/upsert/upsert.module.code.ts"
-import { askComposed } from "akasha/pages/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
-import { useUserId } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import { useOptimisticUpsertPage } from "akasha/pages/ui/supabase/mutations/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
+import { upsertPage } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
+import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { useOptimisticUpsertPage } from "akasha/page/ui/supabase/mutations/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
 import { getCompanionIdByDefId } from "akasha/temper/companions-core/modules/companions/companions.module.code.ts"
 import type {
   AccountCompletion,

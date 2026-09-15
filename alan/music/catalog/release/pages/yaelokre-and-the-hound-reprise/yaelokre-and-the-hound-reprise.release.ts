@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const yaelokreAndTheHoundReprise = {
+  id: "01a0676a-d717-701a-be3d-bbfa375e2fe7",
+  type: "release",
+  slug: "yaelokre-and-the-hound-reprise",
+  title: "And the Hound (Reprise)",
+  partOfCollections: ["artist/yaelokre"],
+  position: 0,
+  ownLength: 2.27805,
+  ownProgress: 2.27805,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2026-01-09",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "048OiuY493d6ayD7k37QeS",
+      externalLink: "https://open.spotify.com/album/048OiuY493d6ayD7k37QeS",
+      lastSyncedAt: "2026-01-31",
+    },
+  ],
+} as const satisfies Release

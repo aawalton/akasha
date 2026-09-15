@@ -1,4 +1,4 @@
-import { keepPointsBeforeToday } from "akasha/alan/attributes/modules/points/attribute-points.module.code.ts"
+import { keepPointsBeforeToday } from "akasha/alan/attribute/modules/points/attribute-points.module.code.ts"
 import type { Taken } from "akasha/alan/harness/attributes/modules/reading/attributes-reading.module.code.ts"
 import {
   ATTRIBUTE_OF,
@@ -6,7 +6,7 @@ import {
 } from "akasha/alan/harness/attributes/modules/reading/attributes-reading.module.code.ts"
 import { totalAttributes } from "akasha/alan/harness/attributes/modules/totalling/attributes-totalling.module.code.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import {
   answering,
   DATA,

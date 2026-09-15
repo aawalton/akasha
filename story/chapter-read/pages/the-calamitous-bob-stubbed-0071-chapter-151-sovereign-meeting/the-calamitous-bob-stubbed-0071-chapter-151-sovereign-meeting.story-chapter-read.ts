@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0071Chapter151SovereignMeeting = {
+  id: "01a06730-4f78-7480-a937-3117b8546f12",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0071-chapter-151-sovereign-meeting",
+  title: "Chapter 151: Sovereign meeting",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 71,
+  ownLength: 6547,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1504061",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1504061/chapter-151-sovereign-meeting",
+    },
+  ],
+  publishedAt: "2024-02-02",
+  ownProgress: 6547,
+  completedAt: "2026-06-29T21:17:15.491Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

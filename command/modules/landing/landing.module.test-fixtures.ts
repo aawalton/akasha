@@ -1,8 +1,8 @@
 import { expect } from "bun:test"
 import { appendFileSync, cpSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.types.ts"
+import type { Judged, Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Stated } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
 import {
   NO_TEXT,
@@ -16,23 +16,23 @@ import type {
 import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { refreshedFrom } from "akasha/pages/index/modules/indexing/indexing.module.code.ts"
-import { keepBuilt } from "akasha/pages/index/modules/keeping/index-keeping.module.code.ts"
-import { everythingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { indexIn } from "akasha/pages/index/modules/surface/index-surface.module.code.ts"
+import { refreshedFrom } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
+import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
+import { everythingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
   bodyOf,
   butTheStamp,
   thePage,
-} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
-import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
-import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
-import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
-import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
-import { textProperty } from "akasha/pages/text-properties/text-property.page-type.ts"
-import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
-import { excludingIndex } from "akasha/testing-system/test-fixtures/repo-seeding/repo-seeding.test-fixture.code.ts"
-import { everyFileUnder } from "akasha/testing-system/test-fixtures/walking/walking.test-fixture.code.ts"
+} from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { id as idPage } from "akasha/page/properties/id.text-property.ts"
+import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
+import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
+import { bytesOf } from "akasha/check/test/modules/bodying/bodying.module.code.ts"
+import { excludingIndex } from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
+import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { said as saying } from "akasha/utils/run/modules/running/running.module.code.ts"
 

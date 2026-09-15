@@ -1,9 +1,0 @@
-import type { TemperGuildTrader } from "akasha/temper/holdings-sets/temper-guild-traders/temper-guild-trader.page-type.types.ts"
-
-export const khenarthisRoostMistral = {
-  id: "019e2fc6-522c-74b4-af38-a28bad77b6c2",
-  type: "temper-guild-trader",
-  slug: "khenarthis-roost-mistral",
-  title: "Khenarthi's Roost: Mistral",
-  kioskId: 25,
-} as const satisfies TemperGuildTrader

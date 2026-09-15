@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0053V4c40TheInquisition = {
+  id: "01a06731-ad78-7000-8bbe-e117bdb85446",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0053-v4c40-the-inquisition",
+  title: "v4c40: The Inquisition",
+  story: "story-read/beware-of-chicken",
+  position: 53,
+  ownLength: 2087,
+  ownProgress: 2087,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:53:12.078Z",
+  publishedAt: "2023-09-11",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1339125",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1339125/v4c40-the-inquisition",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

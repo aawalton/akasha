@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const whetherEveryGroupWantsTheSameLayers = {
+  id: "01a077f3-1085-7daf-81e3-2fe27de88952",
+  type: "all-about-alan-question",
+  slug: "whether-every-group-wants-the-same-layers",
+  topic: "all-about-alan-topic/the-coloured-circles-i-run-on",
+  ask: "Does every group want the same number of layers, given the argument is about my range in an area and the areas differ?",
+} as const satisfies AllAboutAlanQuestion

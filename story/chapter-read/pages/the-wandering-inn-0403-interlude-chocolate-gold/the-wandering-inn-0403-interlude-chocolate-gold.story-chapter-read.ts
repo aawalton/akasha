@@ -1,0 +1,21 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theWanderingInn0403InterludeChocolateGold = {
+  id: "01a0659d-4cce-7325-ac53-b02f730b51c4",
+  type: "story-chapter-read",
+  slug: "the-wandering-inn-0403-interlude-chocolate-gold",
+  title: "Interlude - Chocolate Gold",
+  story: "story-read/the-wandering-inn",
+  position: 403,
+  ownLength: 6217,
+  ownProgress: 6217,
+  unit: "unit/words",
+  publishedAt: "2020-03-04",
+  externalIdentity: [
+    {
+      source: "the-wandering-inn",
+      externalLink: "https://wanderinginn.com/2020/03/04/interlude-chocolate-gold/",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

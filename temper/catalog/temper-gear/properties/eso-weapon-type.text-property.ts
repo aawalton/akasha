@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
 export const esoWeaponType = {
   id: "01a05fd1-d43b-781e-b83d-8550054c5d2b",

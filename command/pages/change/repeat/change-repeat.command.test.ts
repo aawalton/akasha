@@ -5,7 +5,7 @@ import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-c
 import {
   editsAt,
   editsWaiting,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import { answering } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { NOTHING } from "akasha/command/modules/change-running/change-running.module.test-fixtures.ts"
@@ -26,7 +26,7 @@ import {
   indexedRepo,
   pageOf,
   scratch,
-} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

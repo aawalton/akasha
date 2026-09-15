@@ -1,4 +1,4 @@
-import type { Module } from "akasha/code/modules/module.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const longAnswering = {
   id: "01a0956d-dad6-7000-bca1-cb148c7ff3f1",

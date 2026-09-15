@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/temper-set.page-type.types.ts"
+
+export const syvarrasScales = {
+  id: "019e66e7-6a9d-710d-966e-c48574701466",
+  type: "temper-set",
+  slug: "syvarras-scales",
+  title: "Syvarra's Scales",
+  key: "syvarras-scales",
+  esoSetId: 228,
+  subcategoryId: "overland",
+  valid: ["*"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const bewareOfChicken0210V6c22WorryAndRelief = {
+  id: "01a06731-adbb-7003-890e-523c3f547efd",
+  type: "story-chapter-read",
+  slug: "beware-of-chicken-0210-v6c22-worry-and-relief",
+  title: "v6c22: Worry and Relief",
+  story: "story-read/beware-of-chicken",
+  position: 210,
+  ownLength: 2051,
+  ownProgress: 2051,
+  unit: "unit/words",
+  completedAt: "2026-06-29T18:58:34.138Z",
+  publishedAt: "2025-05-07",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2261399",
+      externalLink:
+        "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2261399/v6c22-worry-and-relief",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

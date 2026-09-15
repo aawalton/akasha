@@ -4,7 +4,7 @@ import {
   pathsIn,
   saidOfNoCommit,
 } from "akasha/command/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
-import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
 

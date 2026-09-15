@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const mythransMasterOfAllContinuedCompleted0307Chapter315aRedheadFever = {
+  id: "01a0672c-ec38-7000-9a87-a2ddde509637",
+  type: "story-chapter-read",
+  slug: "mythrans-master-of-all-continued-completed-0307-chapter-315a-redhead-fever",
+  title: "Chapter 315A - Redhead Fever",
+  story: "story-read/mythrans-master-of-all-continued-completed",
+  position: 307,
+  ownLength: 2212,
+  unit: "unit/words",
+  publishedAt: "2017-07-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "150613",
+      externalLink:
+        "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150613/chapter-315a-redhead-fever",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

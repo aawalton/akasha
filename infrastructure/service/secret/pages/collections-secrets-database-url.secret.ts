@@ -1,0 +1,12 @@
+import type { Secret } from "akasha/infrastructure/service/secret/secret.page-type.types.ts"
+
+export const collectionsSecretsDatabaseUrl = {
+  id: "01a07697-e59e-7dd5-8261-24e05620416d",
+  type: "secret",
+  slug: "collections-secrets-database-url",
+  placements: [
+    { resourceName: "alanwalton-secrets", resourceKey: "DATABASE_URL" },
+    { resourceName: "temper-secrets", resourceKey: "DATABASE_URL" },
+    { resourceName: "temper-secrets", resourceKey: "ZERO_UPSTREAM_DB" },
+  ],
+} as const satisfies Secret

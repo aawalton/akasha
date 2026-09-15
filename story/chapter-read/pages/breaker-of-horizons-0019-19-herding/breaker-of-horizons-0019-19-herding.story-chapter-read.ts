@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons001919Herding = {
+  id: "01a06731-ad9c-7000-8cba-5e4451e2d51f",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0019-19-herding",
+  title: "19. Herding",
+  story: "story-read/breaker-of-horizons",
+  position: 19,
+  ownLength: 2346,
+  unit: "unit/words",
+  publishedAt: "2020-07-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "520519",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/520519/19-herding",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

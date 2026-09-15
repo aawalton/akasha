@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const everyTropeEverywhereAllAtOnceLitrpgProgression001010MatchingHairTies = {
+  id: "01a06731-ae0b-7000-8866-cd687dc66299",
+  type: "story-chapter-read",
+  slug: "every-trope-everywhere-all-at-once-litrpg-progression-0010-10-matching-hair-ties",
+  title: "10 - Matching Hair Ties",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
+  position: 10,
+  ownLength: 1809,
+  unit: "unit/words",
+  publishedAt: "2026-05-15",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3397399",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3397399/10-matching-hair-ties",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const zaraLarssonMidnightSun = {
+  id: "01a0676a-d724-7061-85a8-3380161945e3",
+  type: "release",
+  slug: "zara-larsson-midnight-sun",
+  title: "Midnight Sun",
+  partOfCollections: ["artist/zara-larsson"],
+  position: 0,
+  ownLength: 5.8099,
+  ownProgress: 5.8099,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2025-06-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "014U2yqVgeCNqykPGzgyki",
+      externalLink: "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
+} as const satisfies Release

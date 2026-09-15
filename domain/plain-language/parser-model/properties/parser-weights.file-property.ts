@@ -1,0 +1,24 @@
+import type { FileProperty } from "akasha/page/file-property/file-property.page-type.types.ts"
+
+export const parserWeights = {
+  id: "01a06d3b-743e-7a19-bfa1-9abb1cb17381",
+  type: "file-property",
+  slug: "parser-weights",
+  propertySlug: "parser-weights",
+  definition: "the trained graph saying which word a word hangs off",
+  extensions: ["onnx"],
+  generated: true,
+  runsFileLength: false,
+  holdsBytes: true,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The graph is in the format the runtime already reads.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The graph is kept outside the commit.",
+    },
+  ],
+  types: "ts",
+} as const satisfies FileProperty

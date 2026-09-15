@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherMyStressSignalWasAProxyForSafety = {
-  id: "01a077ec-8fbd-7da4-844f-85df74998758",
-  type: "all-about-alan-question",
-  slug: "whether-my-stress-signal-was-a-proxy-for-safety",
-  topic: "all-about-alan-topic/what-limits-me",
-  ask: "Was the stress signal I tracked for twenty years only ever a proxy for safety, which would dissolve my account of the bottleneck moving rather than confirm it?",
-} as const satisfies AllAboutAlanQuestion

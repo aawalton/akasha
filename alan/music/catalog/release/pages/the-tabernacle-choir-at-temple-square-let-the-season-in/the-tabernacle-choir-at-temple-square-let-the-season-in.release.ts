@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const theTabernacleChoirAtTempleSquareLetTheSeasonIn = {
+  id: "01a0676a-d723-7025-b582-3cbe4c4dd051",
+  type: "release",
+  slug: "the-tabernacle-choir-at-temple-square-let-the-season-in",
+  title: "Let The Season In",
+  partOfCollections: ["artist/the-tabernacle-choir-at-temple-square"],
+  position: 0,
+  ownLength: 58.9617,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2014-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "7u67vcqNB4B9Ee6lxyZoHf",
+      externalLink: "https://open.spotify.com/album/7u67vcqNB4B9Ee6lxyZoHf",
+      lastSyncedAt: "2025-11-27",
+    },
+  ],
+} as const satisfies Release

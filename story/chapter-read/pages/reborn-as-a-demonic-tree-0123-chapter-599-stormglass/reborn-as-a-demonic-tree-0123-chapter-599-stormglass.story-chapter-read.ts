@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const rebornAsADemonicTree0123Chapter599Stormglass = {
+  id: "01a06730-4df9-7b38-8319-ad5cc25563f6",
+  type: "story-chapter-read",
+  slug: "reborn-as-a-demonic-tree-0123-chapter-599-stormglass",
+  title: "Chapter 599: Stormglass",
+  story: "story-read/reborn-as-a-demonic-tree",
+  position: 123,
+  ownLength: 2365,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3765004",
+      externalLink:
+        "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3765004/chapter-599-stormglass",
+    },
+  ],
+  publishedAt: "2026-08-03",
+  prose: "txt",
+} as const satisfies StoryChapterRead

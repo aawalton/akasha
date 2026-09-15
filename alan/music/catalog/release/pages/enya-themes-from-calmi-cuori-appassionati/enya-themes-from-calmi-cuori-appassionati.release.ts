@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const enyaThemesFromCalmiCuoriAppassionati = {
+  id: "01a0676a-d72e-7022-9224-21da55c9e165",
+  type: "release",
+  slug: "enya-themes-from-calmi-cuori-appassionati",
+  title: 'Themes From "Calmi Cuori Appassionati"',
+  partOfCollections: ["artist/enya"],
+  position: 0,
+  ownLength: 49.238967,
+  ownProgress: 49.238967,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2001-01-01",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "6GWptUmmrWPABTWSed7Ow8",
+      externalLink: "https://open.spotify.com/album/6GWptUmmrWPABTWSed7Ow8",
+    },
+  ],
+} as const satisfies Release

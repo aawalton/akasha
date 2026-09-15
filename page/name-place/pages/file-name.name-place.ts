@@ -1,0 +1,35 @@
+import type { NamePlace } from "akasha/page/name-place/name-place.page-type.types.ts"
+
+export const fileName = {
+  id: "01a04fd0-c6e7-7e50-89dc-16bd43ca72b7",
+  type: "name-place",
+  slug: "file-name",
+  definition: "the name a file carries",
+  nameFormat: null,
+  invariants: [
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file's name is built of parts parted by dots.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Each part is a name stated elsewhere.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The first part is the slug of the page the file has or sits beside.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The part after the first part is the slug of that page's page type.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A part after those two is the file's role.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A file naming no role is the page itself.",
+    },
+  ],
+} as const satisfies NamePlace

@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const ellaHendersonMakeItRainWithLove = {
+  id: "01a0676a-d724-702e-9bf9-1abcff906e5d",
+  type: "release",
+  slug: "ella-henderson-make-it-rain-with-love",
+  title: "Make It Rain With Love",
+  partOfCollections: ["artist/ella-henderson"],
+  position: 0,
+  ownLength: 18.961033,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2024-11-22",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5dxEGl5cQtIxqmsBZI3Cr7",
+      externalLink: "https://open.spotify.com/album/5dxEGl5cQtIxqmsBZI3Cr7",
+      lastSyncedAt: "2026-02-19",
+    },
+  ],
+} as const satisfies Release

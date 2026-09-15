@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theCalamitousBobStubbed0020Chapter101Shipping = {
+  id: "01a06730-4f49-7ba7-9fc2-faa59917bb38",
+  type: "story-chapter-read",
+  slug: "the-calamitous-bob-stubbed-0020-chapter-101-shipping",
+  title: "Chapter 101. Shipping",
+  story: "story-read/the-calamitous-bob-stubbed",
+  position: 20,
+  ownLength: 5354,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1086677",
+      externalLink:
+        "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1086677/chapter-101-shipping",
+    },
+  ],
+  publishedAt: "2023-01-13",
+  ownProgress: 5354,
+  completedAt: "2026-06-29T21:15:22.935Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

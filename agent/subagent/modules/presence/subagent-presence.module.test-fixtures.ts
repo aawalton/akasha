@@ -16,17 +16,17 @@ import {
   seatEditsAt,
   seatRefusalsAt,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
-import type { Landing } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { startedAt } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
+import type { Landing } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { startedAt } from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
 import {
   holding,
   LOCK_AT,
   refusedWhereHeld,
 } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
-import { refreshedIn } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { declaringUnder } from "akasha/testing-system/test-fixtures/declaring/declaring.test-fixture.code.ts"
+import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { refreshedIn } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import { keptAt, scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import {
   bodyAt,

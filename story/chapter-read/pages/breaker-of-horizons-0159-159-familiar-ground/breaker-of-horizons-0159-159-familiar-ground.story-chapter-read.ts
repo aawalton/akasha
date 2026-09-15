@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const breakerOfHorizons0159159FamiliarGround = {
+  id: "01a06731-adb0-7009-9aba-8749f3a51ac5",
+  type: "story-chapter-read",
+  slug: "breaker-of-horizons-0159-159-familiar-ground",
+  title: "159. Familiar Ground",
+  story: "story-read/breaker-of-horizons",
+  position: 159,
+  ownLength: 2205,
+  unit: "unit/words",
+  publishedAt: "2021-12-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "803268",
+      externalLink:
+        "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/803268/159-familiar-ground",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

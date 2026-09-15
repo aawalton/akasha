@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0323Chapter1673ShakeYourMoneyMakerPt3 = {
+  id: "01a0672c-eb66-7010-abac-8b86067a66e1",
+  type: "story-chapter-read",
+  slug: "chrysalis-0323-chapter-1673-shake-your-money-maker-pt-3",
+  title: "Chapter 1673 - Shake Your Money Maker pt 3",
+  story: "story-read/chrysalis",
+  position: 323,
+  ownLength: 1405,
+  ownProgress: 1405,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:54:08.761Z",
+  publishedAt: "2025-10-23",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2697697",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2697697/chapter-1673-shake-your-money-maker-pt-3",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const strayCatStrutStubbingNeverLol0224ChapterFiftySixSpeakingUp = {
+  id: "01a06730-4e13-7611-b81d-4450c80ede92",
+  type: "story-chapter-read",
+  slug: "stray-cat-strut-stubbing-never-lol-0224-chapter-fifty-six-speaking-up",
+  title: "Chapter Fifty-Six - Speaking Up",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
+  position: 224,
+  ownLength: 1547,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "788391",
+      externalLink:
+        "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/788391/chapter-fifty-six-speaking-up",
+    },
+  ],
+  publishedAt: "2021-11-16",
+  prose: "txt",
+} as const satisfies StoryChapterRead

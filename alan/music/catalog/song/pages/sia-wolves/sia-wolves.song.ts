@@ -1,0 +1,22 @@
+import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.ts"
+
+export const siaWolves = {
+  id: "019ea4cb-3247-7881-ae1b-fdb2b630fed2",
+  type: "song",
+  slug: "sia-wolves",
+  title: "Wolves",
+  artist: "artist/sia",
+  externalIdentity: [
+    {
+      source: "musicbrainz",
+      externalId: "26022377-f20c-4d6b-b465-74b9f157c084",
+      externalLink: "https://musicbrainz.org/work/26022377-f20c-4d6b-b465-74b9f157c084",
+      lastSyncedAt: "2026-06-08",
+    },
+  ],
+  songType: "derivative",
+  performed: true,
+  lyricsSource: "lrclib",
+  lyrics: "txt",
+  syncedLyrics: "txt",
+} as const satisfies Song

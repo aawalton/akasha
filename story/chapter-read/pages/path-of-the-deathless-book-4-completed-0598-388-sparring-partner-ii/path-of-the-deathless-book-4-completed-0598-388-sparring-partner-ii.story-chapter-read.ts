@@ -1,0 +1,20 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0598388SparringPartnerIi = {
+  id: "01a06730-4efd-771f-9649-81b1bbed0196",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0598-388-sparring-partner-ii",
+  title: "388 Sparring Partner [II]",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 598,
+  ownLength: 0,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3576854/388-sparring-partner-ii",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

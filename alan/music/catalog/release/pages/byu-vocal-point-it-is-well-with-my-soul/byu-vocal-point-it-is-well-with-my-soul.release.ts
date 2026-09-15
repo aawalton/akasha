@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const byuVocalPointItIsWellWithMySoul = {
+  id: "01a0676a-d722-7007-bf28-1a9f6885fa2d",
+  type: "release",
+  slug: "byu-vocal-point-it-is-well-with-my-soul",
+  title: "It Is Well with My Soul",
+  partOfCollections: ["artist/byu-vocal-point"],
+  position: 0,
+  ownLength: 3.941517,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2017-02-17",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "5MUAjmccKfREZ5rdSN6vBu",
+      externalLink: "https://open.spotify.com/album/5MUAjmccKfREZ5rdSN6vBu",
+      lastSyncedAt: "2026-03-02",
+    },
+  ],
+} as const satisfies Release

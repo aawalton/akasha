@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const snailMailTwoLegsSnailMailVersion = {
+  id: "01a0676a-d72f-7028-8c94-f8873eb34563",
+  type: "release",
+  slug: "snail-mail-two-legs-snail-mail-version",
+  title: "Two Legs (Snail Mail Version)",
+  partOfCollections: ["artist/snail-mail"],
+  position: 0,
+  ownLength: 4.206733,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2025-04-23",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "3RmEXZXd4bdfVB2WMnc9IX",
+      externalLink: "https://open.spotify.com/album/3RmEXZXd4bdfVB2WMnc9IX",
+    },
+  ],
+} as const satisfies Release

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const fleshEaterDemonEvolutionLitrpg0072ChapterSeventyOneTheSecondCircle = {
+  id: "01a06731-af5f-7001-861a-b1894a76c981",
+  type: "story-chapter-read",
+  slug: "flesh-eater-demon-evolution-litrpg-0072-chapter-seventy-one-the-second-circle",
+  title: "Chapter Seventy-One: The Second Circle",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
+  position: 72,
+  ownLength: 3101,
+  unit: "unit/words",
+  publishedAt: "2026-03-14",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3150446",
+      externalLink:
+        "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3150446/chapter-seventy-one-the-second-circle",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

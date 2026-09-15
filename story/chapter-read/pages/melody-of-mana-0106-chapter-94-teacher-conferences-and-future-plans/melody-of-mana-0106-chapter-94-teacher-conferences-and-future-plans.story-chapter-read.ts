@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const melodyOfMana0106Chapter94TeacherConferencesAndFuturePlans = {
+  id: "01a0672c-ed5f-7007-b216-a9f45babd902",
+  type: "story-chapter-read",
+  slug: "melody-of-mana-0106-chapter-94-teacher-conferences-and-future-plans",
+  title: "Chapter 94 Teacher Conferences and Future Plans",
+  story: "story-read/melody-of-mana",
+  position: 106,
+  ownLength: 2001,
+  ownProgress: 2001,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:29:49.588Z",
+  publishedAt: "2022-03-09",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "860865",
+      externalLink:
+        "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/860865/chapter-94-teacher-conferences-and-future-plans",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

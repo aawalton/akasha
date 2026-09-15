@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0216Chapter206HowADungeonGrowsPart1 = {
+  id: "01a0672c-ebcb-7003-8a9d-4b92acab1bee",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0216-chapter-206-how-a-dungeon-grows-part-1",
+  title: "Chapter 206: How a Dungeon Grows (Part 1)",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 216,
+  ownLength: 2125,
+  ownProgress: 2125,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:18:28.085Z",
+  publishedAt: "2025-03-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2100996",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2100996/chapter-206-how-a-dungeon-grows-part-1",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

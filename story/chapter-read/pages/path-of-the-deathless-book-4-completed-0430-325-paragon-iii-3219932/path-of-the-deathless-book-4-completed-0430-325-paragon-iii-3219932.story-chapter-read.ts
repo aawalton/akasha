@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const pathOfTheDeathlessBook4Completed0430325ParagonIii3219932 = {
+  id: "01a06730-4e8c-7f24-b4f3-5c1cf371c14a",
+  type: "story-chapter-read",
+  slug: "path-of-the-deathless-book-4-completed-0430-325-paragon-iii-3219932",
+  title: "325 Paragon [III]",
+  story: "story-read/path-of-the-deathless-book-4-completed",
+  position: 430,
+  ownLength: 5943,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3219932",
+      externalLink:
+        "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3219932/325-paragon-iii",
+    },
+  ],
+  publishedAt: "2026-04-01",
+  prose: "txt",
+} as const satisfies StoryChapterRead

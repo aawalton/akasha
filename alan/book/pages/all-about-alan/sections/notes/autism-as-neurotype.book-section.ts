@@ -1,0 +1,13 @@
+import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+
+export const autismAsNeurotype = {
+  id: "01a06594-c675-7003-91cf-ffd9b4bb8cc6",
+  type: "book-section",
+  slug: "autism-as-neurotype",
+  title: "Autism as neurotype (working definition)",
+  sectionOf: "alan-book/all-about-alan",
+  description: "Autism as a neurotype — Alan's working definition in his own terms.",
+  partOfCollections: ["alan-book/all-about-alan", "book-section/all-about-alan/notes"],
+  unit: "unit/words",
+  chapterText: "md",
+} as const satisfies BookSection

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const everyTropeEverywhereAllAtOnceLitrpgProgression005151ItIsnTOver = {
+  id: "01a06731-ae0f-7009-877b-6cd20a08dc95",
+  type: "story-chapter-read",
+  slug: "every-trope-everywhere-all-at-once-litrpg-progression-0051-51-it-isn-t-over",
+  title: "51 - It isn't Over",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
+  position: 51,
+  ownLength: 1664,
+  unit: "unit/words",
+  publishedAt: "2026-06-20",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3563980",
+      externalLink:
+        "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3563980/51-it-isnt-over",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,32 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const performance = {
+  id: "01a08786-9212-746c-80e0-13134209de62",
+  type: "page-type",
+  slug: "performance",
+  definition: "code that measures how fast something is",
+  extends: ["page-type/module"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A performance is run by naming that performance rather than by a check.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A performance run reports the measurement rather than refusing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A performance's test judges that performance's code rather than measuring.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One performance is run at a time.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No ceiling on processor time bounds a performance's run.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PageType

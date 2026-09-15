@@ -1,4 +1,4 @@
-import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
+import type { RecordProperty } from "akasha/page/record-property/record-property.page-type.types.ts"
 
 export const request = {
   id: "01a0542c-d18b-71bb-99a6-64c5edfe6321",

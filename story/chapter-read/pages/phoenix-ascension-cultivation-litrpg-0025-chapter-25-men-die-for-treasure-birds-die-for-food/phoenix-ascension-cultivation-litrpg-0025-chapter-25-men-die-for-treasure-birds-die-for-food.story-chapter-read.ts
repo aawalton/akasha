@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const phoenixAscensionCultivationLitrpg0025Chapter25MenDieForTreasureBirdsDieForFood = {
+  id: "01a06730-4de6-718f-b178-5f2bfb425920",
+  type: "story-chapter-read",
+  slug: "phoenix-ascension-cultivation-litrpg-0025-chapter-25-men-die-for-treasure-birds-die-for-food",
+  title: "Chapter 25: Men die for treasure, birds die for food",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
+  position: 25,
+  ownLength: 2323,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2615434",
+      externalLink:
+        "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2615434/chapter-25-men-die-for-treasure-birds-die-for",
+    },
+  ],
+  publishedAt: "2025-09-20",
+  prose: "txt",
+} as const satisfies StoryChapterRead

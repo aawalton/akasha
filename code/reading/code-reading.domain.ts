@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const codeReading = {
   id: "01a09b3a-9daa-7aac-8778-f72dbc1e9b71",

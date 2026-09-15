@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { questTracePath } from "akasha/command/arguments/pages/quest-trace-path.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { questTracePath } from "akasha/command/argument/pages/quest-trace-path.argument.ts"
 import {
   asJson,
   DATA,

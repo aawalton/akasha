@@ -1,0 +1,22 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const billyJoel12GardensLive = {
+  id: "01a0676a-d714-7011-a690-7e6eb3210b34",
+  type: "release",
+  slug: "billy-joel-12-gardens-live",
+  title: "12 Gardens Live",
+  partOfCollections: ["artist/billy-joel"],
+  position: 0,
+  ownLength: 157.525167,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2006-06-13",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "58UpluZ9XMHS7xSyX8E6D2",
+      externalLink: "https://open.spotify.com/album/58UpluZ9XMHS7xSyX8E6D2",
+    },
+  ],
+} as const satisfies Release

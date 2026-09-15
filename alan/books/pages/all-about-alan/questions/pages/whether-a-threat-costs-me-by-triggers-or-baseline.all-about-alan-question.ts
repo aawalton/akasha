@@ -1,9 +1,0 @@
-import type { AllAboutAlanQuestion } from "akasha/alan/books/pages/all-about-alan/questions/all-about-alan-question.page-type.types.ts"
-
-export const whetherAThreatCostsMeByTriggersOrBaseline = {
-  id: "01a077f1-b1c2-79a5-b049-6a02cf251bf0",
-  type: "all-about-alan-question",
-  slug: "whether-a-threat-costs-me-by-triggers-or-baseline",
-  topic: "all-about-alan-topic/why-a-threat-stays-fresh",
-  ask: "Does a threat cost me by firing on partial matches, so the daily cost tracks how many triggers I meet, or by holding my baseline up with no trigger at all?",
-} as const satisfies AllAboutAlanQuestion

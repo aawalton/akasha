@@ -1,0 +1,38 @@
+import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import type { Manifest } from "akasha/code/workspace/modules/manifest-finding/manifest-finding.module.code.ts"
+import { reachesIn } from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
+
+const GLOB = "*"
+
+const SAID = "a way into a package lands on a file that is there"
+
+export type Asking = {
+  readonly textAt: (path: string) => string | null
+  readonly there: (path: string) => boolean
+}
+
+export function missingIn(
+  folder: string,
+  text: string,
+  there: (path: string) => boolean
+): readonly string[] {
+  const said: string[] = []
+  for (const [specifier, path] of reachesIn(folder, text)) {
+    if (path.includes(GLOB)) continue
+    if (there(path)) continue
+    said.push(`names \`${specifier}\`, which lands on ${path}, where no file is — ${SAID}`)
+  }
+  return said
+}
+
+export function refusalsOver(manifests: readonly Manifest[], asking: Asking): readonly Judged[] {
+  const said: Judged[] = []
+  for (const one of manifests) {
+    const text = asking.textAt(one.at)
+    if (text === null) continue
+    for (const reason of missingIn(one.folder, text, asking.there)) {
+      said.push({ path: one.at, reason })
+    }
+  }
+  return said.sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
+}

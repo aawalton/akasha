@@ -7,11 +7,11 @@ import {
   addToQueue,
   startResumePlayback,
 } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { artist as artistArgument } from "akasha/command/arguments/pages/artist.argument.ts"
-import { deviceId as deviceIdArgument } from "akasha/command/arguments/pages/device-id.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
-import { query as queryArgument } from "akasha/command/arguments/pages/query.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { artist as artistArgument } from "akasha/command/argument/pages/artist.argument.ts"
+import { deviceId as deviceIdArgument } from "akasha/command/argument/pages/device-id.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
+import { query as queryArgument } from "akasha/command/argument/pages/query.argument.ts"
 import {
   answering,
   INPUT,

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const motherOfLearning007575SoulStealer = {
+  id: "01a06731-b093-7000-bf0a-d1c67946a2b6",
+  type: "story-chapter-read",
+  slug: "mother-of-learning-0075-75-soul-stealer",
+  title: "75. Soul Stealer",
+  story: "story-read/mother-of-learning",
+  position: 75,
+  ownLength: 9610,
+  ownProgress: 9610,
+  unit: "unit/words",
+  completedAt: "2026-06-29T22:46:37.013Z",
+  publishedAt: "2019-01-05",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "321479",
+      externalLink:
+        "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/321479/75-soul-stealer",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const lightCleric0024Chapter23 = {
+  id: "01a06731-afe9-7000-8a82-76309566039a",
+  type: "story-chapter-read",
+  slug: "light-cleric-0024-chapter-23",
+  title: "Chapter 23",
+  story: "story-read/light-cleric",
+  position: 24,
+  ownLength: 2428,
+  unit: "unit/words",
+  publishedAt: "2021-07-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "722073",
+      externalLink:
+        "https://www.royalroad.com/fiction/38443/light-cleric/chapter/722073/chapter-23",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

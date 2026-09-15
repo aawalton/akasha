@@ -1,10 +1,10 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
-import { addonsDir as addonsDirArgument } from "akasha/command/arguments/pages/addons-dir.argument.ts"
-import { codeRoot } from "akasha/command/arguments/pages/code-root.argument.ts"
-import { communityAddon } from "akasha/command/arguments/pages/community-addon.argument.ts"
-import { force } from "akasha/command/arguments/pages/force.argument.ts"
-import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { addonsDir as addonsDirArgument } from "akasha/command/argument/pages/addons-dir.argument.ts"
+import { codeRoot } from "akasha/command/argument/pages/code-root.argument.ts"
+import { communityAddon } from "akasha/command/argument/pages/community-addon.argument.ts"
+import { force } from "akasha/command/argument/pages/force.argument.ts"
+import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {
   answering,
   OPERATIONAL,

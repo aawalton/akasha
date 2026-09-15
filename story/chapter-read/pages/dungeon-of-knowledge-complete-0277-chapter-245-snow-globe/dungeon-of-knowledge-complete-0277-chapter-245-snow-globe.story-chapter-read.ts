@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const dungeonOfKnowledgeComplete0277Chapter245SnowGlobe = {
+  id: "01a0672c-ebdb-7000-b299-cff11c63fa55",
+  type: "story-chapter-read",
+  slug: "dungeon-of-knowledge-complete-0277-chapter-245-snow-globe",
+  title: "Chapter 245: Snow Globe",
+  story: "story-read/dungeon-of-knowledge-complete",
+  position: 277,
+  ownLength: 2225,
+  ownProgress: 2225,
+  unit: "unit/words",
+  completedAt: "2026-06-29T20:20:37.255Z",
+  publishedAt: "2025-05-10",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2269277",
+      externalLink:
+        "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2269277/chapter-245-snow-globe",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

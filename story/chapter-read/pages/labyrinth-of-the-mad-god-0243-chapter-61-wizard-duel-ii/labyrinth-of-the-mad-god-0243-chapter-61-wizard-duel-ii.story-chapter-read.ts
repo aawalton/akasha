@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const labyrinthOfTheMadGod0243Chapter61WizardDuelIi = {
+  id: "01a06731-ad7c-7001-9474-3c67e5d925a0",
+  type: "story-chapter-read",
+  slug: "labyrinth-of-the-mad-god-0243-chapter-61-wizard-duel-ii",
+  title: "Chapter 61: Wizard Duel II",
+  story: "story-read/labyrinth-of-the-mad-god",
+  position: 243,
+  ownLength: 1502,
+  unit: "unit/words",
+  publishedAt: "2025-11-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2729505",
+      externalLink:
+        "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2729505/chapter-61-wizard-duel-ii",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

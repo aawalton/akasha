@@ -3,7 +3,7 @@ import { join } from "node:path"
 import {
   type Plan,
   planFor,
-} from "akasha/code/ios-apps/modules/app-building/app-building.module.code.ts"
+} from "akasha/code/ios-app/modules/app-building/app-building.module.code.ts"
 import { quoted } from "akasha/code/shell/modules/quoting/quoting.module.code.ts"
 import {
   answeredWith,

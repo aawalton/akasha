@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0036ChapterThirtyThreeTheFirstStepInAShort = {
+  id: "01a0672c-eb03-700c-ab71-51dbf561dc1d",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0036-chapter-thirty-three-the-first-step-in-a-short",
+  title: "Chapter Thirty-Three - The First Step in a Short Journey",
+  story: "story-read/cinnamon-bun",
+  position: 36,
+  ownLength: 2034,
+  unit: "unit/words",
+  publishedAt: "2020-06-03",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "505231",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/505231/chapter-thirty-three-the-first-step-in-a-short",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

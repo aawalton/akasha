@@ -27,9 +27,9 @@ import {
   AKASHA,
   resolveRoots,
   rootFor,
-} from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
-import { loadedFrom } from "akasha/pages/modules/value/page-value.module.code.ts"
-import { slugAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
+import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const BASIS: CutFingerprint = {
   buildNumber: 198,

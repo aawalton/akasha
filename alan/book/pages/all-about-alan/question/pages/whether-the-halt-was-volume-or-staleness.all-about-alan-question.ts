@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "akasha/alan/book/pages/all-about-alan/question/all-about-alan-question.page-type.types.ts"
+
+export const whetherTheHaltWasVolumeOrStaleness = {
+  id: "01a077e9-e11c-7b00-bdb0-93db64783841",
+  type: "all-about-alan-question",
+  slug: "whether-the-halt-was-volume-or-staleness",
+  topic: "all-about-alan-topic/why-i-rebuilt-everything",
+  ask: "Did the halt come from the sheer volume, or from how much of the three million lines had gone stale?",
+} as const satisfies AllAboutAlanQuestion

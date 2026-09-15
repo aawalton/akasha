@@ -1,0 +1,14 @@
+import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/temper-set.page-type.types.ts"
+
+export const prisonersRags = {
+  id: "019e66e7-6a7b-703e-9f22-6987d030e05e",
+  type: "temper-set",
+  slug: "prisoners-rags",
+  title: "Prisoner's Rags",
+  key: "prisoners-rags",
+  esoSetId: 26,
+  subcategoryId: "overland",
+  valid: ["*:light"],
+  bonuses: "jsonl",
+  icons: "jsonl",
+} as const satisfies TemperSet

@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const cinnamonBun0166ChapterOneHundredAndSixtyYoureGroundedYoung = {
+  id: "01a0672c-eb0e-7000-b499-3899b7e35790",
+  type: "story-chapter-read",
+  slug: "cinnamon-bun-0166-chapter-one-hundred-and-sixty-youre-grounded-young",
+  title: "Chapter One Hundred and Sixty - You're Grounded, Young Lady",
+  story: "story-read/cinnamon-bun",
+  position: 166,
+  ownLength: 1935,
+  unit: "unit/words",
+  publishedAt: "2021-02-16",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "632735",
+      externalLink:
+        "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/632735/chapter-one-hundred-and-sixty-youre-grounded-young",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const millennialMageASliceOfLifeProgressionFantasy0113Chapter611RocAndRoll = {
+  id: "01a06731-adf8-7000-8bc0-5c1e29384322",
+  type: "story-chapter-read",
+  slug: "millennial-mage-a-slice-of-life-progression-fantasy-0113-chapter-611-roc-and-roll",
+  title: "Chapter: 611 - Roc and Roll",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  position: 113,
+  ownLength: 2676,
+  ownProgress: 2676,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:38:54.802Z",
+  publishedAt: "2025-09-12",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2594671",
+      externalLink:
+        "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2594671/chapter-611-roc-and-roll",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

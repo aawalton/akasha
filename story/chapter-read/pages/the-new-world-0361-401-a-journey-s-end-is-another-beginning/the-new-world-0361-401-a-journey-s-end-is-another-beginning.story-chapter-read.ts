@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const theNewWorld0361401AJourneySEndIsAnotherBeginning = {
+  id: "01a06730-4ee0-7cfb-9813-ab188715962f",
+  type: "story-chapter-read",
+  slug: "the-new-world-0361-401-a-journey-s-end-is-another-beginning",
+  title: "401 A Journey's End Is Another Beginning",
+  story: "story-read/the-new-world",
+  position: 361,
+  ownLength: 4664,
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2140397",
+      externalLink:
+        "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2140397/401-a-journeys-end-is-another-beginning",
+    },
+  ],
+  publishedAt: "2025-03-21",
+  ownProgress: 4664,
+  completedAt: "2026-06-29T21:33:40.371Z",
+  prose: "txt",
+} as const satisfies StoryChapterRead

@@ -9,15 +9,15 @@ import { NativeAuthRefreshSync } from "akasha/alan/web/modules/native-auth-refre
 import { setOfflineCacheUserKey } from "akasha/alan/web/modules/offline-cache-namespace/offline-cache-namespace.module.code.ts"
 import { OfflineTextSync } from "akasha/alan/web/modules/offline-text-sync/offline-text-sync.module.code.tsx"
 import { PushRegistrationSync } from "akasha/alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx"
-import { useAppVersionCheck } from "akasha/pages/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"
-import { UserIdContext } from "akasha/pages/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import { emitStoreDiagnostic } from "akasha/pages/ui-store/modules/diagnostics/diagnostics.module.code.ts"
-import { reportPagesStoreStall } from "akasha/pages/ui-store/modules/report-stall/report-stall.module.code.ts"
+import { useAppVersionCheck } from "akasha/page/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"
+import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { emitStoreDiagnostic } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
+import { reportPagesStoreStall } from "akasha/page/ui-store/modules/report-stall/report-stall.module.code.ts"
 import {
   configurePagesStoreAuth,
   getPagesStore,
-} from "akasha/pages/ui-store/modules/singleton/singleton.module.code.ts"
-import { toPageTypeSlug } from "akasha/pages/url/modules/page-type-slug/page-type-slug.module.code.ts"
+} from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
+import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useRef, useState } from "react"
 import { useNavigate } from "react-router"
 import { z } from "zod"

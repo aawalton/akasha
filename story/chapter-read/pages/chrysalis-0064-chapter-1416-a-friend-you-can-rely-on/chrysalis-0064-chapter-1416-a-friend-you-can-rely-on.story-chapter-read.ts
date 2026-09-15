@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0064Chapter1416AFriendYouCanRelyOn = {
+  id: "01a0672c-eb5c-7009-903c-2127e39015c1",
+  type: "story-chapter-read",
+  slug: "chrysalis-0064-chapter-1416-a-friend-you-can-rely-on",
+  title: "Chapter 1416 - A Friend You Can Rely On",
+  story: "story-read/chrysalis",
+  position: 64,
+  ownLength: 897,
+  ownProgress: 897,
+  unit: "unit/words",
+  completedAt: "2026-06-29T19:45:40.814Z",
+  publishedAt: "2024-09-24",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1817224",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/1817224/chapter-1416-a-friend-you-can-rely-on",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead

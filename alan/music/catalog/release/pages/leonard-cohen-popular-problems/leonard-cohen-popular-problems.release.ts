@@ -1,0 +1,23 @@
+import type { Release } from "akasha/alan/music/catalog/release/release.page-type.types.ts"
+
+export const leonardCohenPopularProblems = {
+  id: "01a0676a-d727-7007-8fb7-978d59065bfd",
+  type: "release",
+  slug: "leonard-cohen-popular-problems",
+  title: "Popular Problems",
+  partOfCollections: ["artist/leonard-cohen"],
+  position: 0,
+  ownLength: 36.000617,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2014-09-16",
+  externalIdentity: [
+    {
+      source: "spotify",
+      externalId: "1WkGbKUjhOMru7uYl25jJb",
+      externalLink: "https://open.spotify.com/album/1WkGbKUjhOMru7uYl25jJb",
+      lastSyncedAt: "2025-10-10",
+    },
+  ],
+} as const satisfies Release

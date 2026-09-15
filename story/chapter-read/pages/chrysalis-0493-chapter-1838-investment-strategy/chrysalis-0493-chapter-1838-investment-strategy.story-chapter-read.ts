@@ -1,0 +1,22 @@
+import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-read.page-type.types.ts"
+
+export const chrysalis0493Chapter1838InvestmentStrategy = {
+  id: "01a0672c-eb6c-700e-afa4-ff505a3edf3f",
+  type: "story-chapter-read",
+  slug: "chrysalis-0493-chapter-1838-investment-strategy",
+  title: "Chapter 1838 -  Investment Strategy",
+  story: "story-read/chrysalis",
+  position: 493,
+  ownLength: 957,
+  unit: "unit/words",
+  publishedAt: "2026-08-06",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3776185",
+      externalLink:
+        "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3776185/chapter-1838-investment-strategy",
+    },
+  ],
+  prose: "txt",
+} as const satisfies StoryChapterRead
