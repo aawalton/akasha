@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jisooAmortage = {
   id: "01a0676a-d717-700e-97e1-25c52ba10744",
-  type: "release",
+  type: "page-type/release",
   slug: "jisoo-amortage",
   title: "AMORTAGE",
   partOfCollections: ["artist/jisoo"],

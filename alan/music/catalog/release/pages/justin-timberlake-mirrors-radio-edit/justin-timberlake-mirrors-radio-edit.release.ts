@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeMirrorsRadioEdit = {
   id: "01a0676a-d724-7074-9976-6a15a1038caa",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-mirrors-radio-edit",
   title: "Mirrors (Radio Edit)",
   partOfCollections: ["artist/justin-timberlake"],

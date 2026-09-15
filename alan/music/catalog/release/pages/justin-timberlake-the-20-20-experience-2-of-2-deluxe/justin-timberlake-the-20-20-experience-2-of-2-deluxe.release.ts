@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeThe2020Experience2Of2Deluxe = {
   id: "01a0676a-d72c-7021-bb99-89cf11a0fd7c",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-the-20-20-experience-2-of-2-deluxe",
   title: "The 20/20 Experience - 2 of 2 (Deluxe)",
   partOfCollections: ["artist/justin-timberlake"],

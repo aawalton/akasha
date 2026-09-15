@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jessicaBaioCrossedTheLine = {
   id: "01a0676a-d71b-703f-88f7-cc2639836f56",
-  type: "release",
+  type: "page-type/release",
   slug: "jessica-baio-crossed-the-line",
   title: "crossed the line",
   partOfCollections: ["artist/jessica-baio"],

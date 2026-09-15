@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryOneOfTheBoys = {
   id: "01a0676a-d726-7034-a9f9-6ac805013c90",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-one-of-the-boys",
   title: "One Of The Boys",
   partOfCollections: ["artist/katy-perry"],

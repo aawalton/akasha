@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlake3dJustinTimberlakeRemix = {
   id: "01a0676a-d715-700a-82e5-f0701e39ee21",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-3d-justin-timberlake-remix",
   title: "3D (Justin Timberlake Remix)",
   partOfCollections: ["artist/justin-timberlake"],

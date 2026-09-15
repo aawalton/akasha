@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeTheOtherSideFromTrollsWorldTourOliverHeldensRemix = {
   id: "01a0676a-d72d-704e-9106-e6bf2a054d95",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-the-other-side-from-trolls-world-tour-oliver-heldens-remix",
   title: "The Other Side (from Trolls World Tour) [Oliver Heldens Remix]",
   partOfCollections: ["artist/justin-timberlake"],

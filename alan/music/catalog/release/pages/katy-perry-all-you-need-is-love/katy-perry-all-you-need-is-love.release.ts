@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryAllYouNeedIsLove = {
   id: "01a0676a-d716-702c-b0cd-d7e3d905a320",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-all-you-need-is-love",
   title: "All You Need Is Love",
   partOfCollections: ["artist/katy-perry"],

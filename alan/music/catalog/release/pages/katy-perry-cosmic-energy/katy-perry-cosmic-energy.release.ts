@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryCosmicEnergy = {
   id: "01a0676a-d71b-702c-a6d8-c23ff45adc2c",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-cosmic-energy",
   title: "Cosmic Energy",
   partOfCollections: ["artist/katy-perry"],

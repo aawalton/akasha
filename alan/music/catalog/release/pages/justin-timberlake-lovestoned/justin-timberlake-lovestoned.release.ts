@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeLovestoned = {
   id: "01a0676a-d724-700f-97c1-31c8465b37b0",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-lovestoned",
   title: "LoveStoned",
   partOfCollections: ["artist/justin-timberlake"],

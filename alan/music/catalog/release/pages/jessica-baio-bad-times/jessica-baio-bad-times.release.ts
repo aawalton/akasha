@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jessicaBaioBadTimes = {
   id: "01a0676a-d718-700f-9fea-50b7de504f52",
-  type: "release",
+  type: "page-type/release",
   slug: "jessica-baio-bad-times",
   title: "bad times",
   partOfCollections: ["artist/jessica-baio"],

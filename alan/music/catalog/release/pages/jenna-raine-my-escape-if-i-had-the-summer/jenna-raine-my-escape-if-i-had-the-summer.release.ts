@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jennaRaineMyEscapeIfIHadTheSummer = {
   id: "01a0676a-d725-7025-ae81-669962af88e7",
-  type: "release",
+  type: "page-type/release",
   slug: "jenna-raine-my-escape-if-i-had-the-summer",
   title: "My Escape / If I Had the Summer",
   partOfCollections: ["artist/jenna-raine"],

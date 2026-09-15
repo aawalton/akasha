@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const kDaPopStars = {
   id: "01a0676a-d727-7006-9fcf-952905cdd20e",
-  type: "release",
+  type: "page-type/release",
   slug: "k-da-pop-stars",
   title: "POP/STARS",
   partOfCollections: ["artist/k-da"],

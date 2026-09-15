@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeDonTSlackFromTrollsWorldTour = {
   id: "01a0676a-d71c-7024-a96a-66bac9b87955",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-don-t-slack-from-trolls-world-tour",
   title: "Don't Slack (from Trolls World Tour)",
   partOfCollections: ["artist/justin-timberlake"],

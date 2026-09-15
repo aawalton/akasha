@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryOneOfTheBoys15thAnniversaryEdition = {
   id: "01a0676a-d726-7035-8025-d99dec21d9c5",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-one-of-the-boys-15th-anniversary-edition",
   title: "One Of The Boys (15th Anniversary Edition)",
   partOfCollections: ["artist/katy-perry"],

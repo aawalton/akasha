@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const japaneseBreakfastSableOriginalVideoGameSoundtrack = {
   id: "01a0676a-d728-7036-a881-e8231ea7f273",
-  type: "release",
+  type: "page-type/release",
   slug: "japanese-breakfast-sable-original-video-game-soundtrack",
   title: "Sable (Original Video Game Soundtrack)",
   partOfCollections: ["artist/japanese-breakfast"],

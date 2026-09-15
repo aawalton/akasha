@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeFuturesexLovesounds = {
   id: "01a0676a-d71e-7049-9dea-2f91b76f568c",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-futuresex-lovesounds",
   title: "FutureSex/LoveSounds",
   partOfCollections: ["artist/justin-timberlake"],

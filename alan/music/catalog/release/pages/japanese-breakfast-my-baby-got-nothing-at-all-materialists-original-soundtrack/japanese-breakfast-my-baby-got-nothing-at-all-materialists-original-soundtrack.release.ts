@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const japaneseBreakfastMyBabyGotNothingAtAllMaterialistsOriginalSoundtrack = {
   id: "01a0676a-d725-7022-b0f7-29821e4ad86d",
-  type: "release",
+  type: "page-type/release",
   slug: "japanese-breakfast-my-baby-got-nothing-at-all-materialists-original-soundtrack",
   title: "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
   partOfCollections: ["artist/japanese-breakfast"],

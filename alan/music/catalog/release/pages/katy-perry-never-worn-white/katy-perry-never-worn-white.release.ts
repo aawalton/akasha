@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryNeverWornWhite = {
   id: "01a0676a-d725-704f-b542-27c0dd4b5c54",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-never-worn-white",
   title: "Never Worn White",
   partOfCollections: ["artist/katy-perry"],

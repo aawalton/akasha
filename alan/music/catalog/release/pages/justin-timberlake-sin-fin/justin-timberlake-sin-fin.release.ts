@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeSinFin = {
   id: "01a0676a-d729-700b-9b01-92511d89ee60",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-sin-fin",
   title: "Sin Fin",
   partOfCollections: ["artist/justin-timberlake"],

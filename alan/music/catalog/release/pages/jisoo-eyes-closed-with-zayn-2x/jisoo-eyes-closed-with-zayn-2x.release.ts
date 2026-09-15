@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jisooEyesClosedWithZayn2x = {
   id: "01a0676a-d71d-7058-9156-7c522c67c169",
-  type: "release",
+  type: "page-type/release",
   slug: "jisoo-eyes-closed-with-zayn-2x",
   title: "EYES CLOSED (with ZAYN) [2X]",
   partOfCollections: ["artist/jisoo"],

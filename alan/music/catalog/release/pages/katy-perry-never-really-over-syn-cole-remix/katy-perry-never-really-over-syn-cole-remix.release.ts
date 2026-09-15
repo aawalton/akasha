@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryNeverReallyOverSynColeRemix = {
   id: "01a0676a-d725-704d-9996-8db7282ec9da",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-never-really-over-syn-cole-remix",
   title: "Never Really Over (Syn Cole Remix)",
   partOfCollections: ["artist/katy-perry"],

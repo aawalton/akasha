@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryBonAppetit3lauRemix = {
   id: "01a0676a-d719-701d-884e-deadaa8e740f",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-bon-appetit-3lau-remix",
   title: "Bon Appétit (3LAU Remix)",
   partOfCollections: ["artist/katy-perry"],

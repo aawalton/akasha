@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeSoulmate = {
   id: "01a0676a-d729-706d-bdd2-6bb82fa488f8",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-soulmate",
   title: "SoulMate",
   partOfCollections: ["artist/justin-timberlake"],

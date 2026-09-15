@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jennaRaineGoodGrief = {
   id: "01a0676a-d71f-701c-94ec-df5f14810ec4",
-  type: "release",
+  type: "page-type/release",
   slug: "jenna-raine-good-grief",
   title: "Good Grief",
   partOfCollections: ["artist/jenna-raine"],

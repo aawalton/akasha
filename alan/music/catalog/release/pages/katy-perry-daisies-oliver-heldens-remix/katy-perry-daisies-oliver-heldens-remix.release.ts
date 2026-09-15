@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryDaisiesOliverHeldensRemix = {
   id: "01a0676a-d71b-704f-bf2e-fb6b22cf1f18",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-daisies-oliver-heldens-remix",
   title: "Daisies (Oliver Heldens Remix)",
   partOfCollections: ["artist/katy-perry"],

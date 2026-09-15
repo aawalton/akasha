@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jennaRaineBigDumbHeartChapter2 = {
   id: "01a0676a-d719-7000-83ae-e0a7cec94946",
-  type: "release",
+  type: "page-type/release",
   slug: "jenna-raine-big-dumb-heart-chapter-2",
   title: "Big Dumb Heart, Chapter 2",
   partOfCollections: ["artist/jenna-raine"],

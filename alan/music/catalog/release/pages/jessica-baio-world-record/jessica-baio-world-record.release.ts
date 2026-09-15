@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jessicaBaioWorldRecord = {
   id: "01a0676a-d731-7038-b2fb-a3e32166d11d",
-  type: "release",
+  type: "page-type/release",
   slug: "jessica-baio-world-record",
   title: "world record",
   partOfCollections: ["artist/jessica-baio"],

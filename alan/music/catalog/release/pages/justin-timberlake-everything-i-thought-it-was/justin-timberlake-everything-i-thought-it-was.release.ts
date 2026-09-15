@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeEverythingIThoughtItWas = {
   id: "01a0676a-d71d-7040-b292-1508b1ead3dd",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-everything-i-thought-it-was",
   title: "Everything I Thought It Was",
   partOfCollections: ["artist/justin-timberlake"],

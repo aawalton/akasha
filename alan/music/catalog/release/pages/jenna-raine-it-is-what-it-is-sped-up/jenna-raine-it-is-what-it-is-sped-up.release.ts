@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jennaRaineItIsWhatItIsSpedUp = {
   id: "01a0676a-d722-7008-8bf9-bf1f94b7a77d",
-  type: "release",
+  type: "page-type/release",
   slug: "jenna-raine-it-is-what-it-is-sped-up",
   title: "It Is What It Is (Sped Up)",
   partOfCollections: ["artist/jenna-raine"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const japaneseBreakfastJubilee = {
   id: "01a0676a-d722-702d-b4da-b9358fb61ead",
-  type: "release",
+  type: "page-type/release",
   slug: "japanese-breakfast-jubilee",
   title: "Jubilee",
   partOfCollections: ["artist/japanese-breakfast"],

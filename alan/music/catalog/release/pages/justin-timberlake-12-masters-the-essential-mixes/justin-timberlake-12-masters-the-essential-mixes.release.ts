@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlake12MastersTheEssentialMixes = {
   id: "01a0676a-d714-7012-9aa9-ef806cd76a19",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-12-masters-the-essential-mixes",
   title: '12" Masters - The Essential Mixes',
   partOfCollections: ["artist/justin-timberlake"],

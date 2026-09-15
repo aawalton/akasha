@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const japaneseBreakfastNobodySeesMeLikeYouDo = {
   id: "01a0676a-d725-706f-bdb5-ae2e2f1813cd",
-  type: "release",
+  type: "page-type/release",
   slug: "japanese-breakfast-nobody-sees-me-like-you-do",
   title: "Nobody Sees Me Like You Do",
   partOfCollections: ["artist/japanese-breakfast"],

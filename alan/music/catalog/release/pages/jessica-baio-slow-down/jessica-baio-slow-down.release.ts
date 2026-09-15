@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jessicaBaioSlowDown = {
   id: "01a0676a-d729-7024-868c-eb9c10e36712",
-  type: "release",
+  type: "page-type/release",
   slug: "jessica-baio-slow-down",
   title: "SLOW DOWN",
   partOfCollections: ["artist/jessica-baio"],

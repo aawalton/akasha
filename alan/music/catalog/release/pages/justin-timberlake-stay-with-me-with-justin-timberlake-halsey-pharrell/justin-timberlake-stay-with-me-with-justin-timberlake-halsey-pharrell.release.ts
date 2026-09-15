@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeStayWithMeWithJustinTimberlakeHalseyPharrell = {
   id: "01a0676a-d72a-701c-b3b2-50b716f3c66b",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-stay-with-me-with-justin-timberlake-halsey-pharrell",
   title: "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
   partOfCollections: ["artist/justin-timberlake"],

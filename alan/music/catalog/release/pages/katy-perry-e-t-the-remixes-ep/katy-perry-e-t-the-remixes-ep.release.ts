@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryETTheRemixesEp = {
   id: "01a0676a-d71c-7049-a6da-0c2c689d2d95",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-e-t-the-remixes-ep",
   title: "E.T. (The Remixes) - EP",
   partOfCollections: ["artist/katy-perry"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeJustBeFeatJustinTimberlake = {
   id: "01a0676a-d722-7030-a93b-20796ef3afa3",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-just-be-feat-justin-timberlake",
   title: "JUST BE (feat. Justin Timberlake)",
   partOfCollections: ["artist/justin-timberlake"],

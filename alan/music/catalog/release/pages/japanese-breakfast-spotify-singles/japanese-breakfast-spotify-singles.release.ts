@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const japaneseBreakfastSpotifySingles = {
   id: "01a0676a-d72a-7008-b133-43eff68419e7",
-  type: "release",
+  type: "page-type/release",
   slug: "japanese-breakfast-spotify-singles",
   title: "Spotify Singles",
   partOfCollections: ["artist/japanese-breakfast"],

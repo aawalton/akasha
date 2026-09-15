@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryBonAppetitMartinJensenRemix = {
   id: "01a0676a-d719-701e-b199-2cb110203221",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-bon-appetit-martin-jensen-remix",
   title: "Bon Appétit (Martin Jensen Remix)",
   partOfCollections: ["artist/katy-perry"],

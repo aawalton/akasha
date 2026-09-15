@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jessicaBaioAllISawWasYouFeatJessicaBaio = {
   id: "01a0676a-d716-701c-baec-3a876d0a9eda",
-  type: "release",
+  type: "page-type/release",
   slug: "jessica-baio-all-i-saw-was-you-feat-jessica-baio",
   title: "ALL I SAW WAS YOU (feat. Jessica Baio)",
   partOfCollections: ["artist/jessica-baio"],

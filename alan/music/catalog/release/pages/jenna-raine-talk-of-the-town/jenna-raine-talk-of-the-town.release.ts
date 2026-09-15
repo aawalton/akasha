@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jennaRaineTalkOfTheTown = {
   id: "01a0676a-d72c-7001-a24e-cb2b7cf1ae86",
-  type: "release",
+  type: "page-type/release",
   slug: "jenna-raine-talk-of-the-town",
   title: "Talk Of The Town",
   partOfCollections: ["artist/jenna-raine"],

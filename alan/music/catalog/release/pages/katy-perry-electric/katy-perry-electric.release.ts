@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryElectric = {
   id: "01a0676a-d71c-7063-9bcb-fc3129513637",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-electric",
   title: "Electric",
   partOfCollections: ["artist/katy-perry"],

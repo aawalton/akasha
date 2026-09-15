@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const japaneseBreakfastForMelancholyBrunettesSadWomen = {
   id: "01a0676a-d71e-7026-81b2-9a6f0cf10ff8",
-  type: "release",
+  type: "page-type/release",
   slug: "japanese-breakfast-for-melancholy-brunettes-sad-women",
   title: "For Melancholy Brunettes (& sad women)",
   partOfCollections: ["artist/japanese-breakfast"],

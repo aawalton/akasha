@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeTheOtherSideFromTrollsWorldTourOvyOnTheDrumsRemix = {
   id: "01a0676a-d72d-704f-9d17-a5596385bba2",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-the-other-side-from-trolls-world-tour-ovy-on-the-drums-remix",
   title: "The Other Side (from Trolls World Tour) [Ovy On The Drums Remix]",
   partOfCollections: ["artist/justin-timberlake"],

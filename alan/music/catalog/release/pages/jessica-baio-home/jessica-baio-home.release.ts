@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jessicaBaioHome = {
   id: "01a0676a-d720-7050-b90e-2fddd0b19775",
-  type: "release",
+  type: "page-type/release",
   slug: "jessica-baio-home",
   title: "home",
   partOfCollections: ["artist/jessica-baio"],

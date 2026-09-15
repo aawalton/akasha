@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryCaliforniaGurlsFeatSnoopDogg = {
   id: "01a0676a-d719-7051-a10d-6cdf1bac5d20",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-california-gurls-feat-snoop-dogg",
   title: "California Gurls (feat. Snoop Dogg)",
   partOfCollections: ["artist/katy-perry"],

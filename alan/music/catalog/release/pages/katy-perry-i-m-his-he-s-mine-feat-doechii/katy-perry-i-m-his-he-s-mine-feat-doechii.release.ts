@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryIMHisHeSMineFeatDoechii = {
   id: "01a0676a-d721-7031-b804-77da92142659",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-i-m-his-he-s-mine-feat-doechii",
   title: "I'M HIS, HE'S MINE (feat. Doechii)",
   partOfCollections: ["artist/katy-perry"],

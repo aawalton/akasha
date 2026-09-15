@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryConCalmaRemix = {
   id: "01a0676a-d71b-7020-873d-78c68f5cfb1d",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-con-calma-remix",
   title: "Con Calma (Remix)",
   partOfCollections: ["artist/katy-perry"],

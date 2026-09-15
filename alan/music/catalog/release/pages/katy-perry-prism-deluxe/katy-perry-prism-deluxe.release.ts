@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const katyPerryPrismDeluxe = {
   id: "01a0676a-d727-7022-a6dd-96f0b0934243",
-  type: "release",
+  type: "page-type/release",
   slug: "katy-perry-prism-deluxe",
   title: "PRISM (Deluxe)",
   partOfCollections: ["artist/katy-perry"],

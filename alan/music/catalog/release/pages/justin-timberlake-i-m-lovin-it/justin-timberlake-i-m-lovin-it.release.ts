@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeIMLovinIt = {
   id: "01a0676a-d721-7032-84be-8a8eaf4976d8",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-i-m-lovin-it",
   title: "I'm Lovin' It",
   partOfCollections: ["artist/justin-timberlake"],

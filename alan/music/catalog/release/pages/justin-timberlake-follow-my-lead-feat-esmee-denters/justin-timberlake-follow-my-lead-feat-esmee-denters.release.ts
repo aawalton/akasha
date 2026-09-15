@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeFollowMyLeadFeatEsmeeDenters = {
   id: "01a0676a-d71e-701e-8ba1-ef60f318aa6b",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-follow-my-lead-feat-esmee-denters",
   title: "Follow My Lead (feat. Esmee Denters)",
   partOfCollections: ["artist/justin-timberlake"],

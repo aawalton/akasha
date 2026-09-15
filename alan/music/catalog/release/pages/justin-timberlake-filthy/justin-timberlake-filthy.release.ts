@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeFilthy = {
   id: "01a0676a-d71d-7074-a75b-fc1e49855fe9",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-filthy",
   title: "Filthy",
   partOfCollections: ["artist/justin-timberlake"],

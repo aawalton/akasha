@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeBetterDaysLive = {
   id: "01a0676a-d718-704d-85c3-cf6521a106ec",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-better-days-live",
   title: "Better Days (Live)",
   partOfCollections: ["artist/justin-timberlake"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeItTakesTwoFeatEricAndreDaveedDiggsKidCudiTrolls = {
   id: "01a0676a-d722-7017-adc4-a8b46a12a715",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-it-takes-two-feat-eric-andre-daveed-diggs-kid-cudi-trolls",
   title: "It Takes Two (feat. Eric Andre, Daveed Diggs, Kid Cudi & Trolls)",
   partOfCollections: ["artist/justin-timberlake"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jessicaBaioBadTattoo = {
   id: "01a0676a-d718-700e-bcdc-618058cf8088",
-  type: "release",
+  type: "page-type/release",
   slug: "jessica-baio-bad-tattoo",
   title: "bad tattoo",
   partOfCollections: ["artist/jessica-baio"],

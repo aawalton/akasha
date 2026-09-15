@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const jessicaBaioRadioFeatTrippieReddJessicaBaioKabu = {
   id: "01a0676a-d727-703f-bfe9-ba747458d78f",
-  type: "release",
+  type: "page-type/release",
   slug: "jessica-baio-radio-feat-trippie-redd-jessica-baio-kabu",
   title: "Radio (feat. Trippie Redd, Jessica Baio & KABU)",
   partOfCollections: ["artist/jessica-baio"],

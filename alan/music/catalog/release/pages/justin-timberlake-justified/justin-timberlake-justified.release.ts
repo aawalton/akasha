@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeJustified = {
   id: "01a0676a-d722-7032-be3b-50c0280e0bc5",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-justified",
   title: "Justified",
   partOfCollections: ["artist/justin-timberlake"],

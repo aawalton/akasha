@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const justinTimberlakeTheBookOfLoveOriginalMotionPictureSoundtrack = {
   id: "01a0676a-d72c-7034-bf36-4e57aacaa935",
-  type: "release",
+  type: "page-type/release",
   slug: "justin-timberlake-the-book-of-love-original-motion-picture-soundtrack",
   title: "The Book of Love (Original Motion Picture Soundtrack)",
   partOfCollections: ["artist/justin-timberlake"],
