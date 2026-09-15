@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const summonBlackHole = {
   id: "01a06572-95e4-7442-b8c6-d2f0bfbeba37",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "summon-black-hole",
   title: "Summon Black Hole",
   world: "world/the-wandering-inn",

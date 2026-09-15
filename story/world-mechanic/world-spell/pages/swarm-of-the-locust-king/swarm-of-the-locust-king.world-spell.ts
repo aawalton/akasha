@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const swarmOfTheLocustKing = {
   id: "01a06572-95e4-7d0e-b221-9be71265d801",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "swarm-of-the-locust-king",
   title: "Swarm of the Locust King",
   world: "world/the-wandering-inn",

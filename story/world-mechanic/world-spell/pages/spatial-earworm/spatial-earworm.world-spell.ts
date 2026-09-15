@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const spatialEarworm = {
   id: "01a06572-95e1-7830-b2e0-48aad73e5d33",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "spatial-earworm",
   title: "Spatial Earworm",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const sphereOfAnonymity = {
   id: "01a06572-95e2-72c7-ae67-b5726a58b74a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "sphere-of-anonymity",
   title: "Sphere of Anonymity",
   world: "world/the-wandering-inn",

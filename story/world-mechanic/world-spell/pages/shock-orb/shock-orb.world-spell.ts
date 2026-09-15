@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const shockOrb = {
   id: "01a06572-95e0-7a37-9377-47379f631487",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "shock-orb",
   title: "Shock Orb",
   world: "world/the-wandering-inn",

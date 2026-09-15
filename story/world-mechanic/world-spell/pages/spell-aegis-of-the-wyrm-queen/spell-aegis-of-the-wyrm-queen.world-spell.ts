@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const spellAegisOfTheWyrmQueen = {
   id: "01a06572-95e2-70d5-b78a-a47fd9eab330",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "spell-aegis-of-the-wyrm-queen",
   title: "Spell-Aegis of the Wyrm Queen",
   world: "world/the-wandering-inn",

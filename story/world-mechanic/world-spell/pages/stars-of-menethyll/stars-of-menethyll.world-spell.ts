@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const starsOfMenethyll = {
   id: "01a06572-95e2-726d-b74d-85fc6f788ff5",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "stars-of-menethyll",
   title: "Stars of Menethyll",
   world: "world/the-wandering-inn",

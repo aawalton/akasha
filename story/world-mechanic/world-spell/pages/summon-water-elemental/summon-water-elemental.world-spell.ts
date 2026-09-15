@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const summonWaterElemental = {
   id: "01a06572-95e4-760e-a895-90ff274c29eb",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "summon-water-elemental",
   title: "Summon Water Elemental",
   world: "world/the-wandering-inn",

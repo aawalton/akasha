@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const sprayOfNeedles = {
   id: "01a06572-95e2-7e41-8fcb-cf767623c061",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "spray-of-needles",
   title: "Spray of Needles",
   world: "world/the-wandering-inn",

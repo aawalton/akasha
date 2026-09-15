@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const sharkskinHide = {
   id: "01a06572-95df-777c-bffd-a0ec00cc77a8",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "sharkskin-hide",
   title: "Sharkskin Hide",
   world: "world/the-wandering-inn",

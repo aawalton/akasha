@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const slickSpellIceFloor = {
   id: "01a06572-95e1-7026-b38e-452828039990",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "slick-spell-ice-floor",
   title: "Slick Spell: Ice Floor",
   world: "world/the-wandering-inn",

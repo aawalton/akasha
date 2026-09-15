@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const stormKeep = {
   id: "01a06572-95e4-7030-9ed1-858749c410fd",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "storm-keep",
   title: "Storm Keep",
   world: "world/the-wandering-inn",

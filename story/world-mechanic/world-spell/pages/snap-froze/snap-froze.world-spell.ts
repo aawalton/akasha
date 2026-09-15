@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const snapFroze = {
   id: "01a06572-95e1-7bf2-bb51-871d51fb1d1b",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "snap-froze",
   title: "Snap Froze",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const silkenTouch = {
   id: "01a06572-95e1-75a5-bf5b-75232209a42d",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "silken-touch",
   title: "Silken Touch",
   world: "world/the-wandering-inn",

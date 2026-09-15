@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const stiffenFabric = {
   id: "01a06572-95e3-73c7-9878-7dd9ec08ac91",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "stiffen-fabric",
   title: "Stiffen Fabric",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const shipSpellDepthExplosion = {
   id: "01a06572-95e0-78fd-9461-0cd878dfac65",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "ship-spell-depth-explosion",
   title: "Ship Spell: Depth Explosion",
   world: "world/the-wandering-inn",

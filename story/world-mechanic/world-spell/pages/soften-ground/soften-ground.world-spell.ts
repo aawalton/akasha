@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const softenGround = {
   id: "01a06572-95e1-7581-8322-dbdfb0d65536",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "soften-ground",
   title: "Soften Ground",
   world: "world/the-wandering-inn",

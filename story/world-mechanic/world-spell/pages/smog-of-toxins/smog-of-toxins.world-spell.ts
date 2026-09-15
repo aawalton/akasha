@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const smogOfToxins = {
   id: "01a06572-95e1-7ae1-9c8b-b6af8a98cd9f",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "smog-of-toxins",
   title: "Smog of Toxins",
   world: "world/the-wandering-inn",

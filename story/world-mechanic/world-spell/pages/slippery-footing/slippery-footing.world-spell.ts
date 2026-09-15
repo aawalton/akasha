@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const slipperyFooting = {
   id: "01a06572-95e1-742b-826c-9476d1087ff9",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "slippery-footing",
   title: "Slippery Footing",
   world: "world/the-wandering-inn",

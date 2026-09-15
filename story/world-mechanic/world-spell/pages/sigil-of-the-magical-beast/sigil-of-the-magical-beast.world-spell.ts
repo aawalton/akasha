@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const sigilOfTheMagicalBeast = {
   id: "01a06572-95e0-796a-940f-0eeceac41ee2",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "sigil-of-the-magical-beast",
   title: "Sigil of the Magical Beast",
   world: "world/the-wandering-inn",

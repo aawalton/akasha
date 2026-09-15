@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const summonSpectralSkeletalWarriors = {
   id: "01a06572-95e4-7a43-b7ad-9c6bdc21588e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "summon-spectral-skeletal-warriors",
   title: "Summon Spectral Skeletal Warriors",
   world: "world/the-wandering-inn",

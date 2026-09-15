@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const splintersprayShatterbolt = {
   id: "01a06572-95e2-7b47-9635-cbf767fd98fc",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "splinterspray-shatterbolt",
   title: "Splinterspray Shatterbolt",
   world: "world/the-wandering-inn",

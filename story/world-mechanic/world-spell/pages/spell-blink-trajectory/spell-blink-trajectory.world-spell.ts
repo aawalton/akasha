@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const spellBlinkTrajectory = {
   id: "01a06572-95e2-706a-b689-4e7f87f2b99c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "spell-blink-trajectory",
   title: "Spell: Blink Trajectory",
   world: "world/the-wandering-inn",

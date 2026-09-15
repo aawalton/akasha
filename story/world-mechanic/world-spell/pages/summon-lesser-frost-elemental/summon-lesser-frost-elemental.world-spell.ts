@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const summonLesserFrostElemental = {
   id: "01a06572-95e4-750a-8a51-5f0f8a32e68a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "summon-lesser-frost-elemental",
   title: "Summon Lesser Frost Elemental",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const sproutwoodCurse = {
   id: "01a06572-95e2-763e-ad74-94f4be0dcd69",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "sproutwood-curse",
   title: "Sproutwood Curse",
   world: "world/the-wandering-inn",

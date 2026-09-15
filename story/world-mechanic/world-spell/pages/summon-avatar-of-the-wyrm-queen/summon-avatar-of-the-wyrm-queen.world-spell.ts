@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const summonAvatarOfTheWyrmQueen = {
   id: "01a06572-95e4-7bea-acfa-1afa9ee40f55",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "summon-avatar-of-the-wyrm-queen",
   title: "Summon: Avatar of the Wyrm Queen",
   world: "world/the-wandering-inn",

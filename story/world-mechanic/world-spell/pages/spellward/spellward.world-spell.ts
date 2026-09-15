@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const spellward = {
   id: "01a06572-95e2-7b54-9974-489a94c6696c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "spellward",
   title: "Spellward",
   world: "world/the-wandering-inn",

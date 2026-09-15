@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const summonGreaterEarthElemental = {
   id: "01a06572-95e4-7619-ae83-e563f84ea807",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "summon-greater-earth-elemental",
   title: "Summon Greater Earth Elemental",
   world: "world/the-wandering-inn",

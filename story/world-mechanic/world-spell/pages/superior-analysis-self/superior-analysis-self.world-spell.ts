@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const superiorAnalysisSelf = {
   id: "01a06572-95e4-79bb-8180-4a8d8451b37a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "superior-analysis-self",
   title: "Superior Analysis: Self",
   world: "world/the-wandering-inn",

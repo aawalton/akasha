@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const shieldSpiderSNestingGround = {
   id: "01a06572-95e0-7225-a3a8-d9abe73e7787",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "shield-spider-s-nesting-ground",
   title: "Shield Spider’s Nesting Ground",
   world: "world/the-wandering-inn",

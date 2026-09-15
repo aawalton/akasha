@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const summonSkeletons = {
   id: "01a06572-95e4-7004-a7a0-d2e75588fb17",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "summon-skeletons",
   title: "Summon Skeletons",
   world: "world/the-wandering-inn",
