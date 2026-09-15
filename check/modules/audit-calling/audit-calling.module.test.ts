@@ -7,6 +7,7 @@ import {
   originOf,
   ranIn,
   roundAsked,
+  type Sending,
 } from "akasha/check/modules/audit-calling/audit-calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
@@ -99,6 +100,21 @@ test("the checks asked for reach the service as the body of one call", async () 
   )
   expect(bodies).toEqual(['{"checks":["typecheck"]}'])
   expect(held).toEqual({ ran: [A_RUN] })
+})
+
+test("the wait the runtime puts on a request of its own accord is turned off", async () => {
+  const sent: Sending[] = []
+  await roundAsked(
+    ROOT,
+    [],
+    (_url, init) => {
+      sent.push(init)
+      return Promise.resolve(answering({ ran: [A_RUN], turned: [], refused: [] }))
+    },
+    NEVER_WAITS
+  )
+  expect(sent[0]?.timeout).toBe(false)
+  expect(sent[0]?.signal?.aborted).toBe(false)
 })
 
 test("a connection the service refused is asked again, three times in all", async () => {

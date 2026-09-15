@@ -21,7 +21,9 @@ const UNJUDGED = "so no check was judged"
 
 const NO_PORT = `no page states the port a round of the audit service is asked for on, ${UNJUDGED}`
 
-export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
+export type Sending = RequestInit & { readonly timeout?: boolean }
+
+export type Fetcher = (url: string, init: Sending) => Promise<Response>
 
 export type Sleeper = (waited: number) => Promise<void>
 
@@ -82,6 +84,7 @@ export async function roundAsked(
         headers: { "content-type": "application/json", accept: "application/json" },
         body: JSON.stringify({ checks }),
         signal: AbortSignal.timeout(WORKING_MS),
+        timeout: false,
       })
       return ranIn(await answered.json())
     } catch (thrown) {

@@ -38,6 +38,18 @@ export const auditCalling = {
         "An audit runs for a quarter of an hour, so a wait that is over means still working.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The runtime puts a wait of five minutes on a request of its own accord.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That wait is turned off here, a round outrunning it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The wait a round is held to is six hours, stated here rather than by a default.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "A service answering nothing is refused by name, saying what puts that service up.",
