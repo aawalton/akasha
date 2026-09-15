@@ -2,7 +2,7 @@ import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/tem
 
 export const shockResist = {
   id: "019e5c85-d955-74d8-9a9a-3e66c22bcecb",
-  type: "temper-jewelry-enchant",
+  type: "page-type/temper-jewelry-enchant",
   slug: "shock-resist",
   title: "Shock Resist",
   key: "shock-resist",

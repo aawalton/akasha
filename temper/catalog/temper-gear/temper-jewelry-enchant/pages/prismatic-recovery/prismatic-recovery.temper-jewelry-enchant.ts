@@ -2,7 +2,7 @@ import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/tem
 
 export const prismaticRecovery = {
   id: "019e5c85-d94b-7840-9864-0746ea707834",
-  type: "temper-jewelry-enchant",
+  type: "page-type/temper-jewelry-enchant",
   slug: "prismatic-recovery",
   title: "Prismatic Recovery",
   key: "prismatic-recovery",

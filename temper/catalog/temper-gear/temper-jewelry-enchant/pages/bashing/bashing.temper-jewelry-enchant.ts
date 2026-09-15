@@ -2,7 +2,7 @@ import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/tem
 
 export const bashing = {
   id: "019e5c85-d95d-7f46-b068-c3b9e8d6ab01",
-  type: "temper-jewelry-enchant",
+  type: "page-type/temper-jewelry-enchant",
   slug: "bashing",
   title: "Bashing",
   key: "bashing",

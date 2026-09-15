@@ -2,7 +2,7 @@ import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/tem
 
 export const reduceSkillCost = {
   id: "019e5c85-d950-7c44-917e-caefd8e9f59a",
-  type: "temper-jewelry-enchant",
+  type: "page-type/temper-jewelry-enchant",
   slug: "reduce-skill-cost",
   title: "Reduce Skill Cost",
   key: "reduce-skill-cost",

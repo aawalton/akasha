@@ -2,7 +2,7 @@ import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/tem
 
 export const diseaseResist = {
   id: "019e5c85-d958-7929-b633-93f9969ac5f2",
-  type: "temper-jewelry-enchant",
+  type: "page-type/temper-jewelry-enchant",
   slug: "disease-resist",
   title: "Disease Resist",
   key: "disease-resist",

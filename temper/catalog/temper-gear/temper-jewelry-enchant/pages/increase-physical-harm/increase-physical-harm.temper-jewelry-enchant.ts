@@ -2,7 +2,7 @@ import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/tem
 
 export const increasePhysicalHarm = {
   id: "019e5c85-d93e-7184-bf02-d3098e13d12b",
-  type: "temper-jewelry-enchant",
+  type: "page-type/temper-jewelry-enchant",
   slug: "increase-physical-harm",
   title: "Increase Physical Harm",
   key: "increase-physical-harm",

@@ -2,7 +2,7 @@ import type { TemperJewelryEnchant } from "akasha/temper/catalog/temper-gear/tem
 
 export const frostResist = {
   id: "019e5c85-d953-7c74-99c6-3940984cf7de",
-  type: "temper-jewelry-enchant",
+  type: "page-type/temper-jewelry-enchant",
   slug: "frost-resist",
   title: "Frost Resist",
   key: "frost-resist",
