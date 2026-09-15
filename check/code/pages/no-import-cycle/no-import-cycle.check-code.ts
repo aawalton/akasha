@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noImportCycle = {
   id: "01a05002-dac4-7a35-80c3-fbc46969dbab",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-import-cycle",
   definition: "the check refusing a module under akasha that imports its way back around to itself",
   runsOnChange: true,

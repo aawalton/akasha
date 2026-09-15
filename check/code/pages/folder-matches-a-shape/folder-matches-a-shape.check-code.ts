@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const folderMatchesAShape = {
   id: "01a04e33-f281-7900-a29d-0b79e444ca98",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "folder-matches-a-shape",
   definition: "the check refusing a folder matching none of the folder shapes",
   parts: [

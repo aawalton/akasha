@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noTmp = {
   id: "01a04ecb-5cd1-7000-8159-83b7e93d72b9",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-tmp",
   definition: "the check refusing a reach for /tmp, where no scratch of ours sits",
   runsOnChange: true,

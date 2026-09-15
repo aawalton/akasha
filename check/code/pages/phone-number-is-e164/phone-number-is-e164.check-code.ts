@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const phoneNumberIsE164 = {
   id: "01a058ff-c2b0-7d9c-814a-e78f75d41f67",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "phone-number-is-e164",
   definition: "the check refusing a phone number that is not written in E.164",
   runsOnChange: true,

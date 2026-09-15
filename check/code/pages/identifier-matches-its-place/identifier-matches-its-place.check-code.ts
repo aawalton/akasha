@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const identifierMatchesItsPlace = {
   id: "01a0500d-f968-74e7-b9a7-8394faa7a890",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "identifier-matches-its-place",
   definition: "the check refusing a declared name not written in the format its place states",
   runsOnChange: false,

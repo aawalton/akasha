@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const commandIsNamedByItsPlaceInTheTree = {
   id: "01a08d69-0b2e-7025-abd3-c4abe10799be",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "command-is-named-by-its-place-in-the-tree",
   definition:
     "the check refusing a command, a namespace or a module misplaced or misnamed in the command tree",

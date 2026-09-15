@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const nameFormatJudgesByOneShape = {
   id: "01a05946-775f-7000-9f76-45d9dcf376ed",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "name-format-judges-by-one-shape",
   definition: "the check refusing a name format not judging by one shape its own code hands over",
   runsOnChange: true,

@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const heldAddonNamesARosterAddon = {
   id: "01a0824c-b5c0-7a41-9d3e-5c8f0b621e74",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "held-addon-names-a-roster-addon",
   definition:
     "the check refusing a `held-addon` page naming an addon the roster finds nowhere or elsewhere",

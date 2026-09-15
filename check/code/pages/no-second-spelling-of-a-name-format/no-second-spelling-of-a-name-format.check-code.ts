@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noSecondSpellingOfANameFormat = {
   id: "01a05941-9823-7000-aff4-004b3f68b23c",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-second-spelling-of-a-name-format",
   definition: "the check refusing a regex spelling the shape a name format states",
   runsOnChange: true,

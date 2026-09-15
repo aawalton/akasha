@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noUnusedExports = {
   id: "01a09577-1c6e-70ac-9225-958238aed3c2",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-unused-exports",
   definition: "the check refusing a file exporting a value no other file names",
   runsOnChange: true,

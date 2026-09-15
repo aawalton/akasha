@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const changeReachesItsOwnTargetType = {
   id: "01a09c40-0ec4-7764-a533-6c87a8f60dd9",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "change-reaches-its-own-target-type",
   definition: "the check refusing a change that reaches a change acting on another target type",
   runsOnChange: true,

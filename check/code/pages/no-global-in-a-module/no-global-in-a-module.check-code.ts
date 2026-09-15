@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noGlobalInAModule = {
   id: "01a061f4-5ea3-75e0-bcb9-903223ba2331",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-global-in-a-module",
   definition: "the check refusing a module body that declares a global",
   runsOnChange: true,

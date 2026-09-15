@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const restatementNarrowsSomething = {
   id: "01a058ff-fbf9-76dc-8437-ad9a61e75657",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "restatement-narrows-something",
   definition: "the check refusing a restatement of an inherited property that narrows nothing",
   runsOnChange: true,

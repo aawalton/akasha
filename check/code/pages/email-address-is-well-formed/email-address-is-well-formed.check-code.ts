@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const emailAddressIsWellFormed = {
   id: "01a058ff-b65d-7ee3-a34f-8bb41d52b52d",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "email-address-is-well-formed",
   definition: "the check refusing a stated email address that is not well formed",
   runsOnChange: true,

@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const moduleSitsUnderAModulesFolder = {
   id: "01a095ee-d67a-7507-8e3e-82b54865302b",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "module-sits-under-a-modules-folder",
   definition: "the check refusing a module page whose folder sits under no modules folder",
   runsOnChange: true,

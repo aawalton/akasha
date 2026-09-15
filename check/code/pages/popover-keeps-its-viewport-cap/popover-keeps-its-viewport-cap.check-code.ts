@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const popoverKeepsItsViewportCap = {
   id: "01a082e9-5908-74cf-8d6f-521d3e9c7a79",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "popover-keeps-its-viewport-cap",
   definition:
     "the check refusing a popover whose class or prop undoes the viewport cap its wrapper sets",

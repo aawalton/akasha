@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const manifestLandsOnAFile = {
   id: "01a05d75-de6d-726c-b07d-520ab5bfd098",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "manifest-lands-on-a-file",
   definition: "the check refusing a way into a package that lands where no file is",
   runsOnChange: true,

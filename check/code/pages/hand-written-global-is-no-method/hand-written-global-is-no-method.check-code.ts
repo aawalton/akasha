@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const handWrittenGlobalIsNoMethod = {
   id: "01a0823c-3bff-7d55-9301-1297ad069ef4",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "hand-written-global-is-no-method",
   definition:
     "the check refusing a hand-written global the generated declarations carry only as a method",

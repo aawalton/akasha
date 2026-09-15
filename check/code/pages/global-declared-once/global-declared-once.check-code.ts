@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const globalDeclaredOnce = {
   id: "01a061ca-2484-773a-8dc7-e6a08fe588f9",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "global-declared-once",
   definition: "the check refusing a global name a declaration file and another file both declare",
   runsOnChange: true,

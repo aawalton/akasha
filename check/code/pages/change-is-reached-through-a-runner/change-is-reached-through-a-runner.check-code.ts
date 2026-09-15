@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const changeIsReachedThroughARunner = {
   id: "01a09bac-a3ec-74c7-8af0-d1eee1c41021",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "change-is-reached-through-a-runner",
   definition: "the check refusing an import of a change's code from outside that change",
   runsOnChange: true,

@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noPageAddressSpelled = {
   id: "01a0a060-1c0f-7aff-bb8a-1a01821f994f",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-page-address-spelled",
   definition: "the check refusing code that spells a page's address as a plain string",
   runsOnChange: true,

@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noUnparsedBoundaryRead = {
   id: "01a0827e-df53-7d03-80a4-b3305001f92e",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-unparsed-boundary-read",
   definition: "the check refusing a read across a boundary that no parse follows",
   runsOnChange: false,

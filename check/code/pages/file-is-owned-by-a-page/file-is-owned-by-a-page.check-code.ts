@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const fileIsOwnedByAPage = {
   id: "01a0a5ad-d1e4-73c6-a833-d7a166ad8a9b",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "file-is-owned-by-a-page",
   definition: "the check refusing a file that belongs to no page",
   runsOnChange: true,

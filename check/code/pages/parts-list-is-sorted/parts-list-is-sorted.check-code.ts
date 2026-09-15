@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const partsListIsSorted = {
   id: "01a09558-e9b5-7e59-a4ac-0ca6ead600aa",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "parts-list-is-sorted",
   definition: "the check refusing a page naming its parts out of order",
   runsOnChange: true,

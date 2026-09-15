@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const indexIsLevelWithThePages = {
   id: "01a091e9-689c-7003-b37b-c2bee87ff75b",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "index-is-level-with-the-pages",
   definition: "the check refusing an index entry that differs from what the pages say",
   runsOnChange: false,

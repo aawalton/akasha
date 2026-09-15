@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const clientReachesAServerModuleThroughARoute = {
   id: "01a0826b-f1ac-77a7-8379-299804f515d2",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "client-reaches-a-server-module-through-a-route",
   definition:
     "the check refusing a router app module the browser bundle holds that reaches a server module",

@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noSpacingLiteral = {
   id: "01a0827a-4d80-79bc-bbe8-8a9a67dd2103",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-spacing-literal",
   definition:
     "the check refusing a gap or padding written out rather than taken from a spacing step",

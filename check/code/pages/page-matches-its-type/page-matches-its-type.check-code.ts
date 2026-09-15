@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const pageMatchesItsType = {
   id: "01a04e92-bfba-7ca8-b12b-37b6a6a4c408",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "page-matches-its-type",
   definition: "the check refusing a page that does not carry what its page type declares",
   parts: ["module/entry-reasons", "module/page-reasons"],

@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noMethodSignature = {
   id: "01a04bc8-6c64-7482-a9b8-f0d6e14e546d",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-method-signature",
   definition: "the check refusing a method signature in an interface or a type literal",
   runsOnChange: true,

@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noClass = {
   id: "01a04bc8-6c37-77b0-9ff6-5922a789c962",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-class",
   definition: "the check refusing a class that is neither an error type nor a React error boundary",
   runsOnChange: true,

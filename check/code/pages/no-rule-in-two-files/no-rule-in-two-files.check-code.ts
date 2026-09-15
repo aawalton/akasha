@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noRuleInTwoFiles = {
   id: "01a04ea7-b2ea-7085-ba99-952e24d4a8bb",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-rule-in-two-files",
   definition: "the check refusing a function whose rule is spelled in another file as well",
   runsOnChange: true,

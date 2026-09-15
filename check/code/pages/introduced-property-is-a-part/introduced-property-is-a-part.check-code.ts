@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const introducedPropertyIsAPart = {
   id: "01a04f09-8646-7461-b69d-e026cd6561bf",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "introduced-property-is-a-part",
   definition: "the check with a page type to naming the properties it introduces among its parts",
   runsOnChange: true,

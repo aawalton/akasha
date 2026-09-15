@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const lintClean = {
   id: "01a04eec-d235-7000-9f19-d65076b0c634",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "lint-clean",
   definition: "the check refusing a change the linter finds fault in",
   runsOnChange: true,

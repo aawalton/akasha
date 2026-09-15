@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const calculationImportsOnlyTypes = {
   id: "01a07222-b261-7961-a84e-6a8e0c0e5ed3",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "calculation-imports-only-types",
   definition: "the check refusing an import a calculation cannot fold into its own text",
   runsOnChange: true,

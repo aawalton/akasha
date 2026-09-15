@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noRelativeSpecifier = {
   id: "01a08dcb-ceb8-77ee-8fe5-5b6e6337e648",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-relative-specifier",
   definition: "the check refusing a specifier naming a file by a relative path",
   runsOnChange: true,

@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noIndexPathSpelled = {
   id: "01a05350-50b5-76df-9760-b09c77c2ee7c",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-index-path-spelled",
   definition: "the check refusing code outside the index folder that spells a path into the index",
   runsOnChange: true,

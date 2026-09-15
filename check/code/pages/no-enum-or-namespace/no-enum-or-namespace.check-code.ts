@@ -2,7 +2,7 @@ import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
 export const noEnumOrNamespace = {
   id: "01a04bc8-6c55-748f-89e3-72c3b8da2444",
-  type: "check-code",
+  type: "page-type/check-code",
   slug: "no-enum-or-namespace",
   definition: "the check refusing an enum or a named namespace",
   runsOnChange: true,
