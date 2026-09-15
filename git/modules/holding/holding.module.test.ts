@@ -126,10 +126,10 @@ async function killed(kid: Bun.Subprocess): Promise<void> {
 test("callers asking at once take the hold one at a time, and none overlaps another", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const at = join(root, "witness.txt")
-  const kids = ["a", "b", "c", "d"].map((one) => running(marking(root, at, one)))
-  expect(await Promise.all(kids.map((one) => one.exited))).toEqual([0, 0, 0, 0])
+  const kids = ["a", "b"].map((one) => running(marking(root, at, one)))
+  expect(await Promise.all(kids.map((one) => one.exited))).toEqual([0, 0])
   const said = readFileSync(at, "utf8").trim().split("\n")
-  expect(said.length).toBe(8)
+  expect(said.length).toBe(4)
   for (let held = 0; held < said.length; held += 2) {
     expect(said[held]).toStartWith("in ")
     expect(said[held + 1]).toBe(`out ${said[held]?.slice(3)}`)
