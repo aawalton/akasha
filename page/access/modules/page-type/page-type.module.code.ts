@@ -1,13 +1,5 @@
-import { validateTemperTitlePrefix } from "akasha/page/access/modules/domain-title-prefix/domain-title-prefix.module.code.ts"
 import { isFileBacked } from "akasha/page/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
-import {
-  createFilePage,
-  patchFilePages,
-  refuseJsonPatch,
-} from "akasha/page/access/modules/file-write/file-write.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
-import { validateSlugReserved } from "akasha/page/access/modules/reserved-slugs/reserved-slugs.module.code.ts"
-import type { JsonPatch, PageSelect } from "akasha/page/access/modules/types/types.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { resolveDescendantPageTypeIds } from "akasha/page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
 import {
@@ -29,44 +21,6 @@ class PageTypesMissing extends Error {
 async function requirePageTypeOnFiles(): Promise<undefined> {
   if (await isFileBacked(PAGE_TYPE_SLUG)) return
   throw new PageTypesMissing([PAGE_TYPE_SLUG])
-}
-
-export type CreatePageTypeArgs = {
-  properties: Partial<Page>
-  select?: PageSelect
-}
-
-export async function createPageType(args: CreatePageTypeArgs): Promise<Page> {
-  validateSlugReserved(args.properties.slug, "slug")
-  validateTemperTitlePrefix(args.properties.slug, args.properties.title)
-  await requirePageTypeOnFiles()
-  return createFilePage(
-    { pageTypeSlug: PAGE_TYPE_SLUG, properties: args.properties, select: args.select },
-    "createPageType"
-  )
-}
-
-export type PatchPageTypeByIdArgs = {
-  id: string
-  set: Partial<Page>
-  patch?: JsonPatch
-  select?: PageSelect
-}
-
-export async function patchPageTypeById(args: PatchPageTypeByIdArgs): Promise<Page | null> {
-  validateSlugReserved(args.set.slug, "slug")
-  await requirePageTypeOnFiles()
-  refuseJsonPatch("patchPageTypeById", PAGE_TYPE_SLUG, args.patch)
-  const patched = await patchFilePages(
-    {
-      pageTypeSlug: PAGE_TYPE_SLUG,
-      where: [{ key: "id", eq: args.id }],
-      set: args.set,
-      select: args.select,
-    },
-    "patchPageTypeById"
-  )
-  return patched[0] ?? null
 }
 
 async function pageTypeFromFiles(where: string, key: string, value: string): Promise<Page | null> {

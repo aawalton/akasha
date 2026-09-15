@@ -4,6 +4,6 @@ export const pageType = {
   id: "01a05bd6-c534-796f-8348-a756c14de572",
   type: "module",
   slug: "page-type",
-  definition: "a page type created, patched and read",
+  definition: "a page type read by slug, with every page type under it",
   code: "ts",
 } as const satisfies Module
