@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0050050TheMinMaxerSChoice = {
   id: "01a06730-50b1-77dd-97dd-5b73a0ee0f91",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0050-050-the-min-maxer-s-choice",
   title: "050 - The Min-Maxer's Choice",
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

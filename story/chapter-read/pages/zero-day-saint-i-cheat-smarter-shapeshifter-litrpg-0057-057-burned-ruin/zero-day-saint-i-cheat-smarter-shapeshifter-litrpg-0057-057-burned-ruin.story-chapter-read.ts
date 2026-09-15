@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0057057BurnedRuin = {
   id: "01a06730-50b1-7447-9dd5-1a4ad7c11d89",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0057-057-burned-ruin",
   title: "057 - Burned Ruin",
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

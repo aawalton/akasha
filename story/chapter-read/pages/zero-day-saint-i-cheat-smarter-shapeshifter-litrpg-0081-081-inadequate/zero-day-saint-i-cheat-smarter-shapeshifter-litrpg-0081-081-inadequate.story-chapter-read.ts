@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0081081Inadequate = {
   id: "01a07f9f-bb09-7561-9dc0-01bdf8f44e15",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0081-081-inadequate",
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 81,

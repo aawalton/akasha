@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0041041MoreThanItReallyIs = {
   id: "01a06730-50b0-710f-b2f3-334588353b00",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0041-041-more-than-it-really-is",
   title: "041 - More Than It Really Is",
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

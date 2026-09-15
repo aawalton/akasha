@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0069069EverybodyOrEveryBody = {
   id: "01a06730-50b2-738d-ace2-19633af8803d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0069-069-everybody-or-every-body",
   title: "069 - Everybody or Every Body",
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

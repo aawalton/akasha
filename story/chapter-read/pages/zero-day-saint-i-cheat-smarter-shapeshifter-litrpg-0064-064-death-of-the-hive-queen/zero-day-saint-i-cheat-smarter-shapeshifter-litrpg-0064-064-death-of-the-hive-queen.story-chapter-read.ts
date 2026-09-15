@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0064064DeathOfTheHiveQueen = {
   id: "01a06730-50b1-78d4-a0be-e36f5f8d2586",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0064-064-death-of-the-hive-queen",
   title: "064 - Death of the Hive Queen",
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0022022SpeakMeALullaby = {
   id: "01a06730-50ae-78da-a9bf-52400798e590",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0022-022-speak-me-a-lullaby",
   title: "022 - Speak Me A Lullaby",
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

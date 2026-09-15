@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0032032RuthlessKindness = {
   id: "01a06730-50af-7149-bbed-04e8d00209d5",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0032-032-ruthless-kindness",
   title: "032 - Ruthless Kindness",
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
