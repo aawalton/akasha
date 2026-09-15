@@ -3,6 +3,7 @@ import type { PointsBeforeToday } from "akasha/alan/attribute/properties/points-
 import type { PointsToday } from "akasha/alan/attribute/properties/points-today.number-property.types.ts"
 import type { PointsTotal } from "akasha/alan/attribute/properties/points-total.number-property.types.ts"
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+import type { Phone } from "akasha/person/properties/phone.phone-number-property.types.ts"
 import type { Appearance } from "akasha/persona/properties/appearance.file-property.types.ts"
 import type { ChampionedDomain } from "akasha/persona/properties/championed-domain.relation-property.types.ts"
 import type { DesktopWallpaper } from "akasha/persona/properties/desktop-wallpaper.file-property.types.ts"
@@ -18,7 +19,6 @@ import type { Purpose } from "akasha/persona/properties/purpose.text-property.ty
 import type { ValueSlug } from "akasha/persona/properties/value-slug.text-property.types.ts"
 import type { VoiceInstruction } from "akasha/persona/properties/voice-instruction.text-property.types.ts"
 import type { VoiceReferenceSha256 } from "akasha/persona/properties/voice-reference-sha256.text-property.types.ts"
-import type { Phone } from "akasha/person/properties/phone.phone-number-property.types.ts"
 
 export type Persona = Domain & {
   purpose?: Purpose

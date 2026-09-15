@@ -1,3 +1,4 @@
+import type { Collection } from "akasha/alan/collection/places/location/properties/collection.relation-property.types.ts"
 import type { DealKey } from "akasha/alan/collection/places/location-deal/properties/deal-key.text-property.types.ts"
 import type { FinePrint } from "akasha/alan/collection/places/location-deal/properties/fine-print.text-property.types.ts"
 import type { Locations } from "akasha/alan/collection/places/location-deal/properties/locations.relation-property.types.ts"
@@ -8,7 +9,6 @@ import type { Section } from "akasha/alan/collection/places/location-deal/proper
 import type { StruckOut } from "akasha/alan/collection/places/location-deal/properties/struck-out.boolean-property.types.ts"
 import type { UseLimit } from "akasha/alan/collection/places/location-deal/properties/use-limit.select-property.types.ts"
 import type { UsesUsed } from "akasha/alan/collection/places/location-deal/properties/uses-used.number-property.types.ts"
-import type { Collection } from "akasha/alan/collection/places/location/properties/collection.relation-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 

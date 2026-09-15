@@ -25,7 +25,7 @@ export const page = {
     "domain/id",
     "domain/identity",
     "domain/naming",
-    "domain/page-commands",
+    "domain/page-command",
     "domain/page-edge",
     "domain/page-storage",
     "domain/page-access",
