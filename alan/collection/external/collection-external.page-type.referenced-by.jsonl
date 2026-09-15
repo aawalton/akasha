@@ -39,6 +39,7 @@
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/music/catalog/artist/artist.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/music/catalog/release/release.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/music/catalog/song/song.page-type.types.ts"}
+{"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/music/catalog/track/track.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"design/game/achievement/achievement.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"person/pages/ki/collection-template/ki-collection-template.page-type.types.ts"}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"story/chapter-read/story-chapter-read.page-type.types.ts"}

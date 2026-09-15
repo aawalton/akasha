@@ -50,6 +50,7 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/music/catalog/release-collection/release-collection.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/music/catalog/release/release.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/music/catalog/song/song.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/music/catalog/track/track.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/relating/connection-activity/connection-activity.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/relating/relationship-deposit/relationship-deposit.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/relating/relationship-topic/relationship-topic.page-type.types.ts"}
