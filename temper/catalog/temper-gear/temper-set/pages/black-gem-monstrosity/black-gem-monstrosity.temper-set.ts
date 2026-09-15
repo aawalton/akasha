@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const blackGemMonstrosity = {
   id: "019e66e7-69fe-703b-873d-5e18b02508e2",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "black-gem-monstrosity",
   title: "Black Gem Monstrosity",
   key: "black-gem-monstrosity",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const armsOfTheAncestors = {
   id: "019e6484-6048-741b-b539-5ae38154b1ca",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "arms-of-the-ancestors",
   title: "Arms of the Ancestors",
   key: "arms-of-the-ancestors",

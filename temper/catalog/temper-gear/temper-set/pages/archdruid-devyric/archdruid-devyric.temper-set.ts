@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const archdruidDevyric = {
   id: "019e6484-5fec-7c16-b071-ab7edee0fff0",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "archdruid-devyric",
   title: "Archdruid Devyric",
   key: "archdruid-devyric",

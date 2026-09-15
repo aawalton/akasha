@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const bastionOfTheHeartland = {
   id: "019e66ec-7632-79af-a1a2-50d031559c64",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "bastion-of-the-heartland",
   title: "Bastion of the Heartland",
   key: "bastion-of-the-heartland",

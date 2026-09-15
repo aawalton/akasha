@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const dreamersMantle = {
   id: "019e66e7-6a5a-7731-b67f-2b3e78d51ee1",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "dreamers-mantle",
   title: "Dreamer's Mantle",
   key: "dreamers-mantle",

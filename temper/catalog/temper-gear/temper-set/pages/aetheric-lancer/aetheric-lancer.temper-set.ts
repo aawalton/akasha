@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const aethericLancer = {
   id: "019e6484-5fdd-7a3b-91bf-4a134f3e17a3",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "aetheric-lancer",
   title: "Aetheric Lancer",
   key: "aetheric-lancer",

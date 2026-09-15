@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const corpseburster = {
   id: "019e6484-5fe0-7edb-82e0-ca0b3d2c4fe9",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "corpseburster",
   title: "Corpseburster",
   key: "corpseburster",

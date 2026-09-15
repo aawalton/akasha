@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const crushingWall = {
   id: "019e6484-5fa4-7ff7-b288-ff59644ed30f",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "crushing-wall",
   title: "Crushing Wall",
   key: "crushing-wall",

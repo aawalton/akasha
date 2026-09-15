@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const engineGuardian = {
   id: "019e6484-5ff5-7d63-a4b4-a7468c5ee893",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "engine-guardian",
   title: "Engine Guardian",
   key: "engine-guardian",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const dragonsDefilement = {
   id: "019e66e6-a070-7b41-8402-398b175eca17",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "dragons-defilement",
   title: "Dragon's Defilement",
   key: "dragons-defilement",

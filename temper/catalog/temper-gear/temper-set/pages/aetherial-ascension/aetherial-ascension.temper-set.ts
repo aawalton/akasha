@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const aetherialAscension = {
   id: "019e668e-9a31-7037-b952-5dfe7ab07374",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "aetherial-ascension",
   title: "Aetherial Ascension",
   key: "aetherial-ascension",

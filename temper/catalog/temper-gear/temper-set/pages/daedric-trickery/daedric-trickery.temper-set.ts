@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const daedricTrickery = {
   id: "019e668e-9a3c-7ba1-9d36-703bdcbe0c50",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "daedric-trickery",
   title: "Daedric Trickery",
   key: "daedric-trickery",

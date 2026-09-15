@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const frostbite = {
   id: "019e66e7-6a60-76b3-a505-da5def8b7a30",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "frostbite",
   title: "Frostbite",
   key: "frostbite",

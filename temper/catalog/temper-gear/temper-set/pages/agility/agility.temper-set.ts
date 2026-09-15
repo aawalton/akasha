@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const agility = {
   id: "019e66ec-75ff-77ee-94a0-d4771dbf0c16",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "agility",
   title: "Agility",
   key: "agility",

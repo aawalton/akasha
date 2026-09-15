@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const brandsOfImperium = {
   id: "019e66e6-a065-77ce-99a0-39a5608af262",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "brands-of-imperium",
   title: "Brands of Imperium",
   key: "brands-of-imperium",

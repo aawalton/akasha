@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const automatedDefense = {
   id: "019e66ec-7a52-7bb7-9d34-d2b8de74a8ad",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "automated-defense",
   title: "Automated Defense",
   key: "automated-defense",

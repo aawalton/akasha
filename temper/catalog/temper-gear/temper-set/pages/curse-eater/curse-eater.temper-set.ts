@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const curseEater = {
   id: "019e66ec-76c4-71fb-b5dd-82b0b0004ad1",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "curse-eater",
   title: "Curse Eater",
   key: "curse-eater",

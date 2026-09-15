@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const barSakka = {
   id: "019e66e7-69fb-7061-8c1d-cfc0e6d93b3a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "bar-sakka",
   title: "Bar-Sakka",
   key: "bar-sakka",

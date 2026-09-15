@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const gossamer = {
   id: "019e66e6-a084-72cf-9272-e2e9734e3aef",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "gossamer",
   title: "Gossamer",
   key: "gossamer",

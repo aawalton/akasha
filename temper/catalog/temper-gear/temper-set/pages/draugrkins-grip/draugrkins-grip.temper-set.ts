@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const draugrkinsGrip = {
   id: "019e66e6-a073-7cd7-ba5c-0bb4d134e064",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "draugrkins-grip",
   title: "Draugrkin's Grip",
   key: "draugrkins-grip",

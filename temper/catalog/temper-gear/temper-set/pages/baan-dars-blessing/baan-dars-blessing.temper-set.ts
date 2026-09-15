@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const baanDarsBlessing = {
   id: "019e66ec-7625-7e88-b717-729443ee2bcb",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "baan-dars-blessing",
   title: "Baan Dar's Blessing",
   key: "baan-dars-blessing",

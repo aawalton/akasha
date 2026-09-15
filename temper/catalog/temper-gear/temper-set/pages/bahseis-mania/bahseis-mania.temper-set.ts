@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const bahseisMania = {
   id: "019e66ec-7a62-7407-9923-d33394527315",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "bahseis-mania",
   title: "Bahsei's Mania",
   key: "bahseis-mania",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const desertRose = {
   id: "019e66ec-76e9-752f-8afe-b2fdd490a0fd",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "desert-rose",
   title: "Desert Rose",
   key: "desert-rose",

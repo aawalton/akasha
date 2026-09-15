@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const blindPathInduction = {
   id: "019e66e6-a061-76a6-abd0-5f103991244d",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "blind-path-induction",
   title: "Blind Path Induction",
   key: "blind-path-induction",

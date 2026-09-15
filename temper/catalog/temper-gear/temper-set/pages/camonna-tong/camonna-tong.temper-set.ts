@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const camonnaTong = {
   id: "019e66e7-6a4f-7e4e-92ca-abb3e812dd9c",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "camonna-tong",
   title: "Camonna Tong",
   key: "camonna-tong",

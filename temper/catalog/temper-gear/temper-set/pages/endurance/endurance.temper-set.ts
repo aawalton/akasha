@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const endurance = {
   id: "019e66ec-770e-7e38-87c5-688389338db7",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "endurance",
   title: "Endurance",
   key: "endurance",

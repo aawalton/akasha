@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const drozakarsClaws = {
   id: "019e66e6-a077-7337-b29f-196bc51a7435",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "drozakars-claws",
   title: "Dro'Zakar's Claws",
   key: "drozakars-claws",

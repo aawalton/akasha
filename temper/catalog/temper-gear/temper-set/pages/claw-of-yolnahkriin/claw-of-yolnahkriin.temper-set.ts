@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const clawOfYolnahkriin = {
   id: "019e66ec-7a8f-721d-b96b-06a4d918c269",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "claw-of-yolnahkriin",
   title: "Claw of Yolnahkriin",
   key: "claw-of-yolnahkriin",

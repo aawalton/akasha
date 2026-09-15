@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const chokethorn = {
   id: "019e6484-5ff1-7c8b-8507-714924b32dda",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "chokethorn",
   title: "Chokethorn",
   key: "chokethorn",

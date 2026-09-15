@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const blackFoundrySteel = {
   id: "019e66e7-69fc-7757-b1d1-f34d785c6d8b",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "black-foundry-steel",
   title: "Black Foundry Steel",
   key: "black-foundry-steel",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const cruelFlurry = {
   id: "019e6484-5fa2-7b0d-ba4d-cfb7621ac350",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "cruel-flurry",
   title: "Cruel Flurry",
   key: "cruel-flurry",

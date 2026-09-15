@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const baronThirsk = {
   id: "019e6484-5fee-7a8b-8960-847177b4607f",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "baron-thirsk",
   title: "Baron Thirsk",
   key: "baron-thirsk",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const adamantLurker = {
   id: "019e66e7-6a3d-7a06-bf5e-e1a74c59d2d7",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "adamant-lurker",
   title: "Adamant Lurker",
   key: "adamant-lurker",

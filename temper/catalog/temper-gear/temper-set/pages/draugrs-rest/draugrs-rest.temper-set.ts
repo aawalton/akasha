@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const draugrsRest = {
   id: "019e66e6-a074-7d4b-8901-0f8be5febad0",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "draugrs-rest",
   title: "Draugr's Rest",
   key: "draugrs-rest",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const briarheart = {
   id: "019e66e7-6a4c-74d1-9c80-a8e8faf6af61",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "briarheart",
   title: "Briarheart",
   key: "briarheart",

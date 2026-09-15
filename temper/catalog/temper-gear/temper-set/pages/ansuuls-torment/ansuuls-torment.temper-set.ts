@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const ansuulsTorment = {
   id: "019e66ec-7a36-79c4-86d5-f6308838774f",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "ansuuls-torment",
   title: "Ansuul's Torment",
   key: "ansuuls-torment",

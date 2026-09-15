@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const defensivePosition = {
   id: "019e66ec-7aca-7af0-8deb-91f46cebf23c",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "defensive-position",
   title: "Defensive Position",
   key: "defensive-position",

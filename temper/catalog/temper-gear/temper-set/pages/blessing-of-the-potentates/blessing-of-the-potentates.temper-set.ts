@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const blessingOfThePotentates = {
   id: "019e66ec-766f-7a86-8564-a64d14c4d7c4",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "blessing-of-the-potentates",
   title: "Blessing of the Potentates",
   key: "blessing-of-the-potentates",

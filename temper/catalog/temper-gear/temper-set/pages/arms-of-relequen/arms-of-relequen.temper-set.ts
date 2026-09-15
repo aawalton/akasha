@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const armsOfRelequen = {
   id: "019e66ec-7a44-770e-a73a-4f69beb07301",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "arms-of-relequen",
   title: "Arms of Relequen",
   key: "arms-of-relequen",

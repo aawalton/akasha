@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const blooddrinker = {
   id: "019e66e6-a063-783b-890a-c9c5b6e18419",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "blooddrinker",
   title: "Blooddrinker",
   key: "blooddrinker",

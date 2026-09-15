@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const defiler = {
   id: "019e66e7-6a56-7f70-bb01-3a901eb5d8bd",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "defiler",
   title: "Defiler",
   key: "defiler",

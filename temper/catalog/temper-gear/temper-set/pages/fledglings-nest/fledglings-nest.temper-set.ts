@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const fledglingsNest = {
   id: "019e66e7-6a05-7a13-a977-920c383ddbe1",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "fledglings-nest",
   title: "Fledgling's Nest",
   key: "fledglings-nest",

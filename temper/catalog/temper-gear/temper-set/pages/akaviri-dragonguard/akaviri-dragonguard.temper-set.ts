@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const akaviriDragonguard = {
   id: "019e66e7-6a3e-7cd9-89ee-04276d727ade",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "akaviri-dragonguard",
   title: "Akaviri Dragonguard",
   key: "akaviri-dragonguard",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const giantSpider = {
   id: "019e6484-604a-7aee-84d6-770c3afbe211",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "giant-spider",
   title: "Giant Spider",
   key: "giant-spider",

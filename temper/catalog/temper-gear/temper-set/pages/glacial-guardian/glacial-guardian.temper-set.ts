@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const glacialGuardian = {
   id: "019e66e6-a082-7e3c-9f5b-f6eaf77fe0c6",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "glacial-guardian",
   title: "Glacial Guardian",
   key: "glacial-guardian",

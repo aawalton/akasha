@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const foolkillersWard = {
   id: "019e66e6-a080-7671-8dc6-fc6ab289847a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "foolkillers-ward",
   title: "Foolkiller's Ward",
   key: "foolkillers-ward",

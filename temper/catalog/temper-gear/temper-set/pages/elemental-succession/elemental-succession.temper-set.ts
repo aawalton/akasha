@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const elementalSuccession = {
   id: "019e6484-5fa9-7498-a3d1-0deb1cf2af01",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "elemental-succession",
   title: "Elemental Succession",
   key: "elemental-succession",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const dauntlessCombatant = {
   id: "019e668e-9a3e-7845-8daf-074ad9abb7a2",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "dauntless-combatant",
   title: "Dauntless Combatant",
   key: "dauntless-combatant",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const dreughKingSlayer = {
   id: "019e66e6-a076-7290-9ce7-38d4dcd870cf",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "dreugh-king-slayer",
   title: "Dreugh King Slayer",
   key: "dreugh-king-slayer",

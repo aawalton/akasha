@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const fasallasGuile = {
   id: "019e66ec-7736-7152-8949-ec9236ca243b",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "fasallas-guile",
   title: "Fasalla's Guile",
   key: "fasallas-guile",

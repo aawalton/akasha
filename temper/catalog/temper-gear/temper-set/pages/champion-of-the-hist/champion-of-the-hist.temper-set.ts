@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const championOfTheHist = {
   id: "019e66e7-6a51-712a-b471-30dc376d2d58",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "champion-of-the-hist",
   title: "Champion of the Hist",
   key: "champion-of-the-hist",

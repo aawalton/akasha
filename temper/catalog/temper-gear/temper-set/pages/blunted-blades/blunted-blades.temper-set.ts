@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const bluntedBlades = {
   id: "019e66ec-767b-7b43-911b-a62d244d491b",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "blunted-blades",
   title: "Blunted Blades",
   key: "blunted-blades",

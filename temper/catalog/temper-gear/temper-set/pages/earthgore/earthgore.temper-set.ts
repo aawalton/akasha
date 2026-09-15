@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const earthgore = {
   id: "019e6484-5ff3-7d78-a5bf-cb43c78d41b1",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "earthgore",
   title: "Earthgore",
   key: "earthgore",

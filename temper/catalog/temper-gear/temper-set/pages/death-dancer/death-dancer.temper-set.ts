@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const deathDancer = {
   id: "019e66e7-6a01-7f7c-a056-a423f88159ab",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "death-dancer",
   title: "Death-Dancer",
   key: "death-dancer",

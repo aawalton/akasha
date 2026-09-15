@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const falseGodsDevotion = {
   id: "019e66ec-7b22-7975-ba6b-a531670ceb50",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "false-gods-devotion",
   title: "False God's Devotion",
   key: "false-gods-devotion",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const cleverAlchemist = {
   id: "019e668e-9a3a-71a5-b679-d9ec13c550ab",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "clever-alchemist",
   title: "Clever Alchemist",
   key: "clever-alchemist",

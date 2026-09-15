@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const darkstride = {
   id: "019e66e7-6a53-778e-b687-f4f555d7f161",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "darkstride",
   title: "Darkstride",
   key: "darkstride",

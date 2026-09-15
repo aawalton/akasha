@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const deadlandsAssassin = {
   id: "019e66e7-6a55-7cb7-9264-cc3fd7442c27",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "deadlands-assassin",
   title: "Deadlands Assassin",
   key: "deadlands-assassin",

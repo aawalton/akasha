@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const glorgolochTheDestroyer = {
   id: "019e6484-5ff8-70eb-9d0a-31724d8a7fd0",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "glorgoloch-the-destroyer",
   title: "Glorgoloch the Destroyer",
   key: "glorgoloch-the-destroyer",

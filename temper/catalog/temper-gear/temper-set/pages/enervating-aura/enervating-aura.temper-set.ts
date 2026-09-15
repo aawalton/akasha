@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const enervatingAura = {
   id: "019e66ec-771b-7fbf-9254-0d86cce5fb5b",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "enervating-aura",
   title: "Enervating Aura",
   key: "enervating-aura",

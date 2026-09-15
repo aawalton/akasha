@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const frenziedMomentum = {
   id: "019e6484-5faf-763b-9a49-86cb0efee1cd",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "frenzied-momentum",
   title: "Frenzied Momentum",
   key: "frenzied-momentum",

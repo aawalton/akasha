@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const barkskin = {
   id: "019e66e6-a05f-7706-b798-a9a6bf86c2f6",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "barkskin",
   title: "Barkskin",
   key: "barkskin",

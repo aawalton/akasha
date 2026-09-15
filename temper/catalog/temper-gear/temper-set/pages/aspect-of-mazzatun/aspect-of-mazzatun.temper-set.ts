@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const aspectOfMazzatun = {
   id: "019e66e6-a05b-72fd-b6e2-93703b94edcf",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "aspect-of-mazzatun",
   title: "Aspect of Mazzatun",
   key: "aspect-of-mazzatun",

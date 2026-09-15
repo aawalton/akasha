@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const ayleidRefuge = {
   id: "019e66e7-6a42-75d9-b70b-beaec268331d",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "ayleid-refuge",
   title: "Ayleid Refuge",
   key: "ayleid-refuge",

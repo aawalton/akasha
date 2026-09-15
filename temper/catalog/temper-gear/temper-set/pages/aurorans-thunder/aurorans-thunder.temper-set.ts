@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const auroransThunder = {
   id: "019e66e6-a05c-73a2-9f28-66af896f0877",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "aurorans-thunder",
   title: "Auroran's Thunder",
   key: "aurorans-thunder",

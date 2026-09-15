@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const caluurionsLegacy = {
   id: "019e66e6-a067-77e3-ac4b-94827454e133",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "caluurions-legacy",
   title: "Caluurion's Legacy",
   key: "caluurions-legacy",

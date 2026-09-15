@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const coralRiptide = {
   id: "019e66ec-7aac-7c31-b0c9-2b463831b951",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "coral-riptide",
   title: "Coral Riptide",
   key: "coral-riptide",

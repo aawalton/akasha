@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const beaconOfOblivion = {
   id: "019e6484-5fdf-7d68-8c00-78f2a31154d3",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "beacon-of-oblivion",
   title: "Beacon of Oblivion",
   key: "beacon-of-oblivion",

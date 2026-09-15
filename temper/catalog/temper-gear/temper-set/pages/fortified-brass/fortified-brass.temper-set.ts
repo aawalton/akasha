@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const fortifiedBrass = {
   id: "019e668e-9a45-775c-9752-af3d45122b1a",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "fortified-brass",
   title: "Fortified Brass",
   key: "fortified-brass",

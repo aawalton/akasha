@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const fellowshipsFortitude = {
   id: "019e66e7-6a04-7600-a1ec-dc13b6710115",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "fellowships-fortitude",
   title: "Fellowship's Fortitude",
   key: "fellowships-fortitude",

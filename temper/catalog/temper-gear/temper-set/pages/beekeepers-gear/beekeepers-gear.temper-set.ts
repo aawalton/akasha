@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const beekeepersGear = {
   id: "019e66e7-6a47-737d-aed5-99f54cc1fc12",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "beekeepers-gear",
   title: "Beekeeper's Gear",
   key: "beekeepers-gear",

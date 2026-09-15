@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const eagleEye = {
   id: "019e66ec-76f5-7e48-93f0-c502da95dd60",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "eagle-eye",
   title: "Eagle Eye",
   key: "eagle-eye",

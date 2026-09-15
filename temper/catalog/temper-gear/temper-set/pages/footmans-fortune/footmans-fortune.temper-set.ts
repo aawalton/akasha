@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const footmansFortune = {
   id: "019e6484-5fac-7e79-8042-1b75ce538721",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "footmans-fortune",
   title: "Footman's Fortune",
   key: "footmans-fortune",

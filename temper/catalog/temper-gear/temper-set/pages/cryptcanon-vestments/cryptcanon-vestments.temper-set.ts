@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const cryptcanonVestments = {
   id: "019e6484-6028-76b1-b968-c2db0d0ac512",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "cryptcanon-vestments",
   title: "Cryptcanon Vestments",
   key: "cryptcanon-vestments",

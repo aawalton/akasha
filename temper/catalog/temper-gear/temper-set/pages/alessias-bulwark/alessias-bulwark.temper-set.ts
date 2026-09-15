@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const alessiasBulwark = {
   id: "019e668e-9a32-7370-9df7-cea170ae527d",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "alessias-bulwark",
   title: "Alessia's Bulwark",
   key: "alessias-bulwark",

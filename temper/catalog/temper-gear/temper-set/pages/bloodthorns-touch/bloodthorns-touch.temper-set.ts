@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const bloodthornsTouch = {
   id: "019e66e7-6a49-78cf-8dc8-62e1fcaea763",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "bloodthorns-touch",
   title: "Bloodthorn's Touch",
   key: "bloodthorns-touch",

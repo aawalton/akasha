@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const esotericEnvironmentGreaves = {
   id: "019e6484-602b-737a-aba2-f774183c3e7f",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "esoteric-environment-greaves",
   title: "Esoteric Environment Greaves",
   key: "esoteric-environment-greaves",

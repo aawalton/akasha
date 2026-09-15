@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const ashenGrip = {
   id: "019e668e-9a36-7ae5-b98c-b140c60c3a9e",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "ashen-grip",
   title: "Ashen Grip",
   key: "ashen-grip",

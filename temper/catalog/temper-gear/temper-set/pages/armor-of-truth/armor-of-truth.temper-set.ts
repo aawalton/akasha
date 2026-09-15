@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const armorOfTruth = {
   id: "019e66e6-a05a-7377-8110-0449e2c7c6d6",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "armor-of-truth",
   title: "Armor of Truth",
   key: "armor-of-truth",

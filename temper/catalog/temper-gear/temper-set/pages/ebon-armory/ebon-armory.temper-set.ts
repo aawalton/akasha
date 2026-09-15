@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const ebonArmory = {
   id: "019e66e6-a07a-7c67-a6ba-cc925d7d3b03",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "ebon-armory",
   title: "Ebon Armory",
   key: "ebon-armory",

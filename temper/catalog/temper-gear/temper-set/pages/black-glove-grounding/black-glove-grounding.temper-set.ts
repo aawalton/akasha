@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const blackGloveGrounding = {
   id: "019e66e6-a060-7649-ac9b-c8cf5ef4d955",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "black-glove-grounding",
   title: "Black-Glove Grounding",
   key: "black-glove-grounding",

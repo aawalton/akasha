@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const armorOfTheCode = {
   id: "019e6484-6046-7084-9dfd-723b3d203577",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "armor-of-the-code",
   title: "Armor of the Code",
   key: "armor-of-the-code",

@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const elementalCatalyst = {
   id: "019e66e6-a07b-7d69-ba01-6eea8194b308",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "elemental-catalyst",
   title: "Elemental Catalyst",
   key: "elemental-catalyst",

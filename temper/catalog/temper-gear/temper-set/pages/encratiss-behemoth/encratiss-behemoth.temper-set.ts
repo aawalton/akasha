@@ -2,7 +2,7 @@ import type { TemperSet } from "akasha/temper/catalog/temper-gear/temper-set/tem
 
 export const encratissBehemoth = {
   id: "019e6484-5ff4-7d41-904b-e34338afa40f",
-  type: "temper-set",
+  type: "page-type/temper-set",
   slug: "encratiss-behemoth",
   title: "Encratis's Behemoth",
   key: "encratiss-behemoth",
