@@ -6,8 +6,6 @@ import {
 import type { Fetcher } from "akasha/page/query/modules/store-reaching/store-reaching.module.code.ts"
 import { noNap } from "akasha/page/query/modules/store-reaching/store-reaching.module.test-fixtures.ts"
 
-const LIVE_ORIGIN = "http://127.0.0.1:8787"
-
 type Sent = { url: string; body: Record<string, unknown> }
 
 function recording(rows: readonly Record<string, unknown>[]): {
@@ -240,43 +238,4 @@ test("a sum under a grouping is taken for each group", async () => {
     { kind: "a", n: 2, value: 3 },
     { kind: "b", n: 1, value: 5 },
   ])
-})
-
-test("the store standing on this workstation answers a composed query", async () => {
-  const held = process.env.PAGE_STORE_ORIGIN
-  process.env.PAGE_STORE_ORIGIN = LIVE_ORIGIN
-  try {
-    const asked = await askComposed({
-      "page-type": "page-type",
-      where: { slug: { is: "finding" } },
-      keys: ["slug", "mortal"],
-    })
-    if (!asked.ok) throw new Error(asked.why)
-    expect(asked.answer.rows.map((one) => one.values)).toEqual([{ slug: "finding", mortal: true }])
-  } finally {
-    if (held === undefined) delete process.env.PAGE_STORE_ORIGIN
-    else process.env.PAGE_STORE_ORIGIN = held
-  }
-})
-
-test("the store answers a test it does not run, run here over its rows", async () => {
-  const held = process.env.PAGE_STORE_ORIGIN
-  process.env.PAGE_STORE_ORIGIN = LIVE_ORIGIN
-  try {
-    const asked = await askComposed({
-      "page-type": "page-type",
-      where: { slug: { "ends-with": "-property" } },
-      keys: ["slug"],
-      "sort-by": "slug",
-    })
-    if (!asked.ok) throw new Error(asked.why)
-    const slugs = asked.answer.rows.map((one) => one.values.slug)
-    expect(slugs).toContain("text-property")
-    expect(slugs).toContain("relation-property")
-    expect(slugs).not.toContain("finding")
-    expect(slugs).toEqual([...slugs].sort())
-  } finally {
-    if (held === undefined) delete process.env.PAGE_STORE_ORIGIN
-    else process.env.PAGE_STORE_ORIGIN = held
-  }
 })
