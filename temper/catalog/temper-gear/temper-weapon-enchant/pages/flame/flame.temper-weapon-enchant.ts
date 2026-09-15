@@ -2,7 +2,7 @@ import type { TemperWeaponEnchant } from "akasha/temper/catalog/temper-gear/temp
 
 export const flame = {
   id: "019e5c0d-dcf6-70c2-b137-99c98be7f05f",
-  type: "temper-weapon-enchant",
+  type: "page-type/temper-weapon-enchant",
   slug: "flame",
   title: "Flame",
   key: "flame",

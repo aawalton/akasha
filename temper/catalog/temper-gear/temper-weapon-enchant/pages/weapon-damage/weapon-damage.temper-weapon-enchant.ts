@@ -2,7 +2,7 @@ import type { TemperWeaponEnchant } from "akasha/temper/catalog/temper-gear/temp
 
 export const weaponDamage = {
   id: "019e5c0d-dce7-7d85-8573-0a1869cbe34c",
-  type: "temper-weapon-enchant",
+  type: "page-type/temper-weapon-enchant",
   slug: "weapon-damage",
   title: "Weapon Damage",
   key: "weapon-damage",

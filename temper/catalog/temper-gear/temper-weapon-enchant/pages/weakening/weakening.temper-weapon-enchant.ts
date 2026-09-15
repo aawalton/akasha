@@ -2,7 +2,7 @@ import type { TemperWeaponEnchant } from "akasha/temper/catalog/temper-gear/temp
 
 export const weakening = {
   id: "019e5c0d-dcfb-74c1-8cd6-816b879f6357",
-  type: "temper-weapon-enchant",
+  type: "page-type/temper-weapon-enchant",
   slug: "weakening",
   title: "Weakening",
   key: "weakening",

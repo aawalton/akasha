@@ -2,7 +2,7 @@ import type { TemperWeaponEnchant } from "akasha/temper/catalog/temper-gear/temp
 
 export const shock = {
   id: "019e5c0d-dcf9-7174-9596-b3de8225e9d7",
-  type: "temper-weapon-enchant",
+  type: "page-type/temper-weapon-enchant",
   slug: "shock",
   title: "Shock",
   key: "shock",

@@ -2,7 +2,7 @@ import type { TemperWeaponEnchant } from "akasha/temper/catalog/temper-gear/temp
 
 export const foulness = {
   id: "019e5c0d-dcfd-78d4-9209-d0659cdd162f",
-  type: "temper-weapon-enchant",
+  type: "page-type/temper-weapon-enchant",
   slug: "foulness",
   title: "Foulness",
   key: "foulness",

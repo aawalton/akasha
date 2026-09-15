@@ -2,7 +2,7 @@ import type { TemperWeaponEnchant } from "akasha/temper/catalog/temper-gear/temp
 
 export const prismaticOnslaught = {
   id: "019e5c0d-dcfe-794e-92b0-c1c3a698dafd",
-  type: "temper-weapon-enchant",
+  type: "page-type/temper-weapon-enchant",
   slug: "prismatic-onslaught",
   title: "Prismatic Onslaught",
   key: "prismatic-onslaught",
