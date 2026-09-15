@@ -10,7 +10,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "Every key the watcher names on a page is one that page type declares.",
       workingMemory:
-        'The reads are done: the ten that filtered on `userId` name `accountPage`, and no `key: "userId"` is left in temper. The writes are not: every create sends `userId`, `buildName` and `buildMetadata`, which neither build page type declares, and about twenty browser readers take `build.buildMetadata` or `build.userId`, which read empty. Write title, description, roles, targetCount and accountPage instead. No build page has an accountPage yet.',
+        "The build half is done. The watcher writes no build page; the browser does. `character-build` now declares `characterName`, and `temper-build-version` declares `characterName`, `roles`, `baseRoles` and `targetCount`, closing the gap it stated. Both build hooks, the version dialog, both version routes and both management cards write and read declared keys now, and the dead `roleId` is gone. The composer refuses the old shape and accepts every new one. Left: the watcher's own page types.",
     },
     {
       statement: "Reading one page costs bytes in proportion to that page.",
