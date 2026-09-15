@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0293AiPocryphaTwoAiWrittenChapterSegments = {
   id: "01a06730-4e15-7e86-a719-92f0e20bbe3e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0293-ai-pocrypha-two-ai-written-chapter-segments",
   title: "Ai-pocrypha Two - AI Written Chapter Segments",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

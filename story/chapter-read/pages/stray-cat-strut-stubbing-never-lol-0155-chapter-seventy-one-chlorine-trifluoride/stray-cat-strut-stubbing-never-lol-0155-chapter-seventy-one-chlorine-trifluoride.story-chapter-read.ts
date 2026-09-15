@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0155ChapterSeventyOneChlorineTrifluoride = {
   id: "01a06730-4e10-76b8-8627-0ef56652f0c8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0155-chapter-seventy-one-chlorine-trifluoride",
   title: "Chapter Seventy-One - Chlorine Trifluoride",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

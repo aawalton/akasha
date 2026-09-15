@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0320ChapterSixOutrank = {
   id: "01a06730-4e16-7cf5-823c-7679818bf99e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0320-chapter-six-outrank",
   title: "Chapter Six - Outrank",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

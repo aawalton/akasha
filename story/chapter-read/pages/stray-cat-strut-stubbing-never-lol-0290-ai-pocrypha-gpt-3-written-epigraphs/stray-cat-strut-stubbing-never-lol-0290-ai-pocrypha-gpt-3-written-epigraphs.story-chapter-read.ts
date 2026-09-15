@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0290AiPocryphaGpt3WrittenEpigraphs = {
   id: "01a06730-4e15-72e0-9200-63763bfd8e39",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0290-ai-pocrypha-gpt-3-written-epigraphs",
   title: "AI-pocrypha - GPT-3 Written Epigraphs",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

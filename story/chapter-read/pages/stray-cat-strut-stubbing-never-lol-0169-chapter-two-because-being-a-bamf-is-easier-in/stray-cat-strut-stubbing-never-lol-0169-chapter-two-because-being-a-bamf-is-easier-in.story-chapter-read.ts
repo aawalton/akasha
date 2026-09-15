@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0169ChapterTwoBecauseBeingABamfIsEasierIn = {
   id: "01a06730-4e11-79b6-b144-181e7cc4cd89",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0169-chapter-two-because-being-a-bamf-is-easier-in",
   title: "Chapter Two - Because being a BAMF is Easier in Power Armour",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

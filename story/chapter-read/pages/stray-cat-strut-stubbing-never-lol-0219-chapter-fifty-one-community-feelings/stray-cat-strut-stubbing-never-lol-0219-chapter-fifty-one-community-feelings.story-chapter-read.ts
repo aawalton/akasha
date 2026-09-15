@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0219ChapterFiftyOneCommunityFeelings = {
   id: "01a06730-4e13-724f-b4f8-fee97ea4366f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0219-chapter-fifty-one-community-feelings",
   title: "Chapter Fifty-One - Community Feelings",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

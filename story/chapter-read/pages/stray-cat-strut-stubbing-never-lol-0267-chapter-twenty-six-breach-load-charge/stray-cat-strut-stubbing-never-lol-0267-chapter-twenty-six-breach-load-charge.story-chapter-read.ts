@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0267ChapterTwentySixBreachLoadCharge = {
   id: "01a06730-4e15-7fa0-b24e-f4f3decb6f37",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0267-chapter-twenty-six-breach-load-charge",
   title: "Chapter Twenty-Six - Breach, Load, Charge",
   story: "story-read/stray-cat-strut-stubbing-never-lol",

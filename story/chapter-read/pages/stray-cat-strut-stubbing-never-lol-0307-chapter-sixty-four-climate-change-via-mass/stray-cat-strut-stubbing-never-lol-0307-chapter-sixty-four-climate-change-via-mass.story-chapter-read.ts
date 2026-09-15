@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const strayCatStrutStubbingNeverLol0307ChapterSixtyFourClimateChangeViaMass = {
   id: "01a06730-4e16-7107-bac8-ca922e24536d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0307-chapter-sixty-four-climate-change-via-mass",
   title: "Chapter Sixty-Four - Climate Change Via Mass Destruction",
   story: "story-read/stray-cat-strut-stubbing-never-lol",
