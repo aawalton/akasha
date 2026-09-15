@@ -2,7 +2,7 @@ import type { StoryElementPlayed } from "akasha/story/element-played/story-eleme
 
 export const coffeeShopDateAbby = {
   id: "01a0682a-d9b4-7600-943f-b81d4fb06b1f",
-  type: "story-element-played",
+  type: "page-type/story-element-played",
   slug: "coffee-shop-date-abby",
   playedStory: "story-played/coffee-shop-date",
   elementKind: "agent",
