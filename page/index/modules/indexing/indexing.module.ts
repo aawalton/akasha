@@ -64,7 +64,7 @@ export const indexing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A refresh writes what each page carries beside that page as a settle does.",
+      statement: "A refresh writes what each page carries beside that page.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -107,6 +107,11 @@ export const indexing = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A refresh that stopped part way leaves an index every reader still reads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A settle writes no such file, so the change landing the page writes it into that commit.",
     },
   ],
 } as const satisfies Module

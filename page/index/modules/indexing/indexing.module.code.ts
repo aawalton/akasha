@@ -254,7 +254,6 @@ export function indexingAt(root: string, repo: string): Indexing {
       const found = settlingOver(readingAt(root, repo), repo, moving, (path) => valueAt(path, repo))
       filedInto(root, found.filings)
       besideInto(repo, found.references)
-      wholeInto(repo, found.carried)
       wholeInto(repo, found.beside, false)
       return [...found.noted, ...found.refusedBefore, ...found.refused]
     },
