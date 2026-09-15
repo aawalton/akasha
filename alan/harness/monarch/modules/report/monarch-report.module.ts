@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchReport = {
   id: "01a06867-e5ed-751c-b661-1084d5afcf9e",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-report",
   definition: "what the rules would do to the history, said as evidence rather than as a proposal",
   code: "ts",

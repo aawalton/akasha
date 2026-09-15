@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const surplusFallTier = {
   id: "01a0697e-ded3-7adb-9d6e-f852cfc9ffd7",
-  type: "module",
+  type: "page-type/module",
   slug: "surplus-fall-tier",
   definition:
     "the five colours a surplus reading is placed in, and whether today has gone below its open",

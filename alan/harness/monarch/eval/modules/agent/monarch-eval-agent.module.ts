@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchEvalAgent = {
   id: "01a06867-fdff-757f-b949-c56622460db1",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-eval-agent",
   definition: "the categories an agent proposes for a batch of transactions, and what it was asked",
   code: "ts",

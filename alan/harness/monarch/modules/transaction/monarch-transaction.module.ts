@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchTransaction = {
   id: "01a0685f-4ed9-79ad-a2e6-7f7ef50b5218",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-transaction",
   definition:
     "what every reader of a Monarch row agrees a transaction is, and the windows judged against it",

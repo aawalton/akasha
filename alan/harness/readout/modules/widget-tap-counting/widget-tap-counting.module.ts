@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const widgetTapCounting = {
   id: "01a078a8-b96f-765d-99ff-5703d9b2edd3",
-  type: "module",
+  type: "page-type/module",
   slug: "widget-tap-counting",
   definition: "the taps a widget has taken, counted through the page store",
   code: "ts",

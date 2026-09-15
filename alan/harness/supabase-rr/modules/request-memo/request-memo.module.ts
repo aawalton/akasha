@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const requestMemo = {
   id: "01a05c97-8af5-7794-b233-1ff5ec092cb8",
-  type: "module",
+  type: "page-type/module",
   slug: "request-memo",
   definition: "a value worked out once for a request and held against the request itself",
   code: "ts",

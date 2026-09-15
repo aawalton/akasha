@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const rulePartition = {
   id: "01a0657b-9adc-7005-95a5-a56941403096",
-  type: "module",
+  type: "page-type/module",
   slug: "rule-partition",
   definition: "whether the conditions a rule states hold of one case",
   code: "ts",

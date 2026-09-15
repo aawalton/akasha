@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const releaseSyncing = {
   id: "01a09c80-78b1-747b-b16d-c003ab8e4aa7",
-  type: "module",
+  type: "page-type/module",
   slug: "release-syncing",
   definition: "the releases Spotify holds for an artist Alan follows, filed as pages",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const exportOptionsPlist = {
   id: "01a05cee-e560-75d1-bc5d-3afdaa86f77d",
-  type: "module",
+  type: "page-type/module",
   slug: "export-options-plist",
   definition: "the plist that tells Xcode which profile signs which bundle",
   code: "ts",

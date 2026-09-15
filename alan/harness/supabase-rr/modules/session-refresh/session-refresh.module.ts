@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sessionRefresh = {
   id: "01a05c97-8af7-7b0e-b1d4-de7dac00edd4",
-  type: "module",
+  type: "page-type/module",
   slug: "session-refresh",
   definition: "the session refreshed as a request arrives, with the cookies that refresh sets",
   code: "ts",

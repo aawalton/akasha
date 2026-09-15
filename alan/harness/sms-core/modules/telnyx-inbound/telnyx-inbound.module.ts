@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const telnyxInbound = {
   id: "01a05b6f-999d-7889-a400-39692d7f8c8b",
-  type: "module",
+  type: "page-type/module",
   slug: "telnyx-inbound",
   definition: "the fields of a Telnyx sms webhook lifted out of its envelope",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const readoutTier = {
   id: "01a05f42-92f5-7001-98d7-66166fa0b0f6",
-  type: "module",
+  type: "page-type/module",
   slug: "readout-tier",
   definition: "the rung a reading reaches on the scale it is read against",
   code: "ts",

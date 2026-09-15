@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const musicExploration = {
   id: "01a06281-4d9d-7002-aee3-ff60658dc599",
-  type: "module",
+  type: "page-type/module",
   slug: "music-exploration",
   definition: "the next artist or song for Alan to hear for the first time",
   code: "ts",

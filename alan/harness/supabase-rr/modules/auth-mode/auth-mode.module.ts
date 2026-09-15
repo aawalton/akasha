@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const authMode = {
   id: "01a05c97-8af4-7bdc-b115-0dac324f2446",
-  type: "module",
+  type: "page-type/module",
   slug: "auth-mode",
   definition: "how a browser keeps a session, by cookie or by its own store",
   code: "ts",

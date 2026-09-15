@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const rootLoader = {
   id: "01a08e19-0b33-7af0-8d2b-7653014c38dc",
-  type: "module",
+  type: "page-type/module",
   slug: "root-loader",
   definition: "what a root route answers once its request is guarded",
   code: "ts",

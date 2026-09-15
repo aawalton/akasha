@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchAmazonNotes = {
   id: "01a06867-fdff-7f9c-9aa9-9feb98cf40cb",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-amazon-notes",
   definition: "the Amazon order confirmations matched to charges and written on as notes",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const iosSigning = {
   id: "01a05cee-e560-71dd-8e89-cb8b5c1119d9",
-  type: "module",
+  type: "page-type/module",
   slug: "ios-signing",
   definition:
     "how a mac build gets its App Store distribution certificate and provisioning profile",

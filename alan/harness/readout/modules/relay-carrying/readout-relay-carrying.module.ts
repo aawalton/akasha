@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const readoutRelayCarrying = {
   id: "01a09223-fc31-7916-b4e3-8b43923da124",
-  type: "module",
+  type: "page-type/module",
   slug: "readout-relay-carrying",
   definition: "the readings one run carries, each named by a readout point and the site showing it",
   code: "ts",

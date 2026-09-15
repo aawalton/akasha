@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const spotifyReleases = {
   id: "01a09c6f-017f-70b7-a662-48904bec6460",
-  type: "module",
+  type: "page-type/module",
   slug: "spotify-releases",
   definition: "the albums an artist put out, and the tracks one of those albums holds",
   code: "ts",

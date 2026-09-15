@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchCandidate = {
   id: "01a06866-06f1-7e0b-a8bd-0233e7915dee",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-candidate",
   definition:
     "a rule stated on the command line rather than on a page, checked as a page's would be",

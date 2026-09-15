@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const testflightDeployScript = {
   id: "01a05cee-e560-7155-aa17-bd611c29ba2d",
-  type: "module",
+  type: "page-type/module",
   slug: "testflight-deploy-script",
   definition: "the bash script a mac runs to archive an ios app and upload it to testflight",
   code: "ts",

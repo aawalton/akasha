@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchRuleClauses = {
   id: "01a06865-ecc3-70d0-8b6b-c9ad4a35783b",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-rule-clauses",
   definition: "what one rule page states, read into a checked rule",
   code: "ts",

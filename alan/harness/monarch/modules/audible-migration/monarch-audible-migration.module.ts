@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchAudibleMigration = {
   id: "01a06866-06f1-7168-a141-d8d56c28cd00",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-audible-migration",
   definition:
     "the Audible charges already standing, carried onto the budget scheme that replaced them",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchGmailCache = {
   id: "01a0685f-4ed9-790d-8078-7ac8bc7dde66",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-gmail-cache",
   definition: "the Amazon mail this harness reads, fetched once and kept on disk",
   code: "ts",

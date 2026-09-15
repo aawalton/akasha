@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchProvenance = {
   id: "01a0685f-4ed9-7719-bfc4-bcec345f8656",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-provenance",
   definition: "what is written down about who decided a transaction's category",
   code: "ts",

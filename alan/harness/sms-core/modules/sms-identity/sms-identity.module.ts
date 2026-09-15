@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const smsIdentity = {
   id: "01a05b6f-999d-727d-ab08-10b32928a6d8",
-  type: "module",
+  type: "page-type/module",
   slug: "sms-identity",
   definition: "what becomes of a message, decided from the phone it came from",
   code: "ts",

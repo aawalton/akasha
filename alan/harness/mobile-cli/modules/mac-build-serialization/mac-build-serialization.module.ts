@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const macBuildSerialization = {
   id: "01a05cee-e560-7580-bebc-253f65ce563a",
-  type: "module",
+  type: "page-type/module",
   slug: "mac-build-serialization",
   definition: "the shell that serialises mac builds behind a directory lock and numbers each one",
   code: "ts",

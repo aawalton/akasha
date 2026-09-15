@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const securityHeaders = {
   id: "01a05c48-deeb-7008-8b99-8ccaf9ccafa6",
-  type: "module",
+  type: "page-type/module",
   slug: "security-headers",
   definition: "the content security policy and the fixed headers built for one response",
   code: "ts",

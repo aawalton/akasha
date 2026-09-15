@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const trackSyncing = {
   id: "01a0a593-09e4-757b-a4e7-c505b16e801a",
-  type: "module",
+  type: "page-type/module",
   slug: "track-syncing",
   definition: "the tracks a release carries, filed as pages",
   code: "ts",

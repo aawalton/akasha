@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const notificationFeedRows = {
   id: "01a069b6-bb6b-7ec9-bdcf-8f130bb46a4d",
-  type: "module",
+  type: "page-type/module",
   slug: "notification-feed-rows",
   definition: "one person's notifications, read from and written to the feed page's own sidecar",
   code: "ts",

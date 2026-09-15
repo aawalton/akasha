@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const handleInbound = {
   id: "01a05b6f-999d-7cde-afd6-ca387a8bb110",
-  type: "module",
+  type: "page-type/module",
   slug: "handle-inbound",
   definition: "one inbound webhook carried from its signature to the seat that receives it",
   code: "ts",

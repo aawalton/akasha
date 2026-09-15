@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const ruleConditions = {
   id: "01a0657b-9adc-7004-9d71-1576f12eb0cf",
-  type: "module",
+  type: "page-type/module",
   slug: "rule-conditions",
   definition: "the fields a rule set declares, and the conditions a rule's match is made of",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const supabaseProvider = {
   id: "01a05c97-8af8-7ba9-a0c7-5a2cbcbfacfc",
-  type: "module",
+  type: "page-type/module",
   slug: "supabase-provider",
   definition: "the Supabase client a React tree reaches by context",
   code: "tsx",

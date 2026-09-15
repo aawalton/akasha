@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchRuleAmounts = {
   id: "01a06863-264d-7413-a29a-4e2976d1dc3b",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-rule-amounts",
   definition:
     "the amount clause a rule states, weighed against a transaction and said back in words",

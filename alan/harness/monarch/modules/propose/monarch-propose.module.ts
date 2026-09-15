@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchPropose = {
   id: "01a06867-fdff-7c1a-91f8-4e475fdf3880",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-propose",
   definition: "the rules run over the whole history and reported on, writing nothing",
   code: "ts",

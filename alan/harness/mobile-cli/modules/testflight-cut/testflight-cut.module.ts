@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const testflightCut = {
   id: "01a0611b-8cc6-7a38-9968-530fd511dd04",
-  type: "module",
+  type: "page-type/module",
   slug: "testflight-cut",
   definition: "the run taking one iOS app from a pinned commit to a TestFlight build",
   code: "ts",

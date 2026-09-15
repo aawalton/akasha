@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const serviceRole = {
   id: "01a05c75-871a-75ee-b566-9d7b5f975f72",
-  type: "module",
+  type: "page-type/module",
   slug: "service-role",
   definition: "the Supabase client acting as the service role, past every row policy",
   code: "ts",

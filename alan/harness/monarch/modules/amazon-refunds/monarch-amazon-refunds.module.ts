@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchAmazonRefunds = {
   id: "01a06868-1535-7f8d-b4a1-c65d6300210e",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-amazon-refunds",
   definition: "the Amazon refund notices matched to credits and written on as notes",
   code: "ts",

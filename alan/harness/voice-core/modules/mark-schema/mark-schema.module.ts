@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const markSchema = {
   id: "01a05b55-e06e-7c35-ae5b-23e9ba1006ae",
-  type: "module",
+  type: "page-type/module",
   slug: "mark-schema",
   definition: "the shape of a mark saying which sentence starts and how far into the audio it does",
   code: "ts",

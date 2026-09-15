@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const readoutWatching = {
   id: "01a08c0f-6f8d-71b1-8b17-155ca606cb6a",
-  type: "module",
+  type: "page-type/module",
   slug: "readout-watching",
   definition: "the readings taken again as the files those readings are read from change",
   code: "ts",

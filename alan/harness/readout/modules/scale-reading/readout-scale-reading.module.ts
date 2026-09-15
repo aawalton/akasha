@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const readoutScaleReading = {
   id: "01a05b54-a904-78de-9a09-417c68322618",
-  type: "module",
+  type: "page-type/module",
   slug: "readout-scale-reading",
   definition: "the rungs a readout scale page states, read from the store",
   code: "ts",

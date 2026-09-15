@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const cutFingerprint = {
   id: "01a05fab-665d-7f4c-bb6b-46467c1b1df8",
-  type: "module",
+  type: "page-type/module",
   slug: "cut-fingerprint",
   definition: "the fingerprint a taken cut is remembered by",
   code: "ts",

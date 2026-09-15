@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchRuleDescribe = {
   id: "01a06865-ecc3-7e80-81ec-7da942f39d07",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-rule-describe",
   definition: "a rule said back in one line, as the clauses it narrows on",
   code: "ts",

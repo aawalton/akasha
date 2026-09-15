@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const akashaDay = {
   id: "01a069d3-579d-7fa0-9114-43050587d24b",
-  type: "module",
+  type: "page-type/module",
   slug: "akasha-day",
   definition: "how a day page and the rows beside it are landed into the akasha page store",
   code: "ts",

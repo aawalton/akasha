@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchEvalRun = {
   id: "01a06868-1535-7f9d-812e-7f071e571d5b",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-eval-run",
   definition: "one scored run of the agent over a drawn sample, kept as a file",
   code: "ts",

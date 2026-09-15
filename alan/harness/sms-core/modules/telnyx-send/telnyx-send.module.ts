@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const telnyxSend = {
   id: "01a05b6f-999d-731e-a182-ed95ac7ecc35",
-  type: "module",
+  type: "page-type/module",
   slug: "telnyx-send",
   definition: "one outgoing message put into the request Telnyx wants and the answer read back",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchLandFiles = {
   id: "01a06863-ac0c-7ade-b991-f9f1ddf1dbed",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-land-files",
   definition:
     "the month pages and their transaction sidecars, composed from Monarch's rows and landed",

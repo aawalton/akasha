@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const verifySignature = {
   id: "01a05b6f-999d-7522-a55b-564a85f90c43",
-  type: "module",
+  type: "page-type/module",
   slug: "verify-signature",
   definition: "whether an inbound webhook truly came from Telnyx",
   code: "ts",

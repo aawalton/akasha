@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dayNarrowTypes = {
   id: "01a06972-b45a-7000-a0e1-63aa928df10a",
-  type: "module",
+  type: "page-type/module",
   slug: "day-narrow-types",
   definition: "the narrow types the daily tracking readers share",
   code: "ts",

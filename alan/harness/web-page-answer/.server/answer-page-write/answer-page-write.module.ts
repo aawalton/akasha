@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const answerPageWrite = {
   id: "01a0640f-8510-7ab5-87bf-f593cb1eb7a7",
-  type: "module",
+  type: "page-type/module",
   slug: "answer-page-write",
   definition: "a page write asked for over http, run and answered",
   code: "ts",

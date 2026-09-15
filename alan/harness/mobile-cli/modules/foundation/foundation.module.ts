@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const foundation = {
   id: "01a05cee-e560-7247-8f2f-0960f65d785d",
-  type: "module",
+  type: "page-type/module",
   slug: "foundation",
   definition:
     "the shell fragments and App Store Connect identifiers shared by every generated mac build script",

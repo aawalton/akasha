@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchRules = {
   id: "01a06863-ac0c-70d6-942f-2e0d22cae9d5",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-rules",
   definition:
     "what a category rule is, and what one decides about a transaction and the rows around it",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchRuleDates = {
   id: "01a06863-264d-72d3-8755-d1ae86342ec3",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-rule-dates",
   definition:
     "the date and month clauses a rule states, weighed against a transaction and said back in words",

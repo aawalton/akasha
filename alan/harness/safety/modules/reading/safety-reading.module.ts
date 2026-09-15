@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const safetyReading = {
   id: "01a069bc-9375-7eee-b662-6f844c8880b6",
-  type: "module",
+  type: "page-type/module",
   slug: "safety-reading",
   definition:
     "the safety level Alan logged, taken from his open block and kept on the safety readout",

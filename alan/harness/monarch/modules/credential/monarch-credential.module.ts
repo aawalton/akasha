@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchCredential = {
   id: "01a0685f-4ed9-74ca-87d5-38f3cedf684a",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-credential",
   definition: "the Monarch session headers, built from the cookie a signed-in browser holds",
   code: "ts",

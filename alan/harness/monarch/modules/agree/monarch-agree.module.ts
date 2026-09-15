@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchAgree = {
   id: "01a06867-e5ed-703d-b129-e891c8fed291",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-agree",
   definition:
     "the rules' two paths to a neighbourhood weighed against each other over the live history",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchMerchantNaming = {
   id: "01a06863-264d-729e-aab5-0dd77d14abc2",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-merchant-naming",
   definition: "the merchant a transaction's own words name, drawn from the merchant pages",
   code: "ts",

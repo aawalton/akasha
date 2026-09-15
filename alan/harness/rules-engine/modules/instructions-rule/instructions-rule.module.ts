@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const instructionsRule = {
   id: "01a06983-278f-7052-b16d-0d1564be6053",
-  type: "module",
+  type: "page-type/module",
   slug: "instructions-rule",
   definition: "a rule made to supply the refusal text the command acting on it prints",
   code: "ts",

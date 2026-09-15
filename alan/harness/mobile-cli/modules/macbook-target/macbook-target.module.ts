@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const macbookTarget = {
   id: "01a05cee-e560-7367-9a9b-49ae85f1844f",
-  type: "module",
+  type: "page-type/module",
   slug: "macbook-target",
   definition: "the one macbook's ssh target: its user, its address and its key path",
   code: "ts",

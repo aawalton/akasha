@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchReading = {
   id: "01a057fa-c464-7f2b-9f87-031b5dbedaa9",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-reading",
   definition: "the unreviewed count taken from Monarch and kept on its readout",
   code: "ts",

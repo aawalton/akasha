@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dayMessagesMining = {
   id: "01a082fc-e5c5-79e4-9bcb-7eacb82bf302",
-  type: "module",
+  type: "page-type/module",
   slug: "day-messages-mining",
   definition: "each day's counts built again out of the Claude transcripts on this machine",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const surplusFallReadout = {
   id: "01a0697e-ded3-77d5-9cd4-07afe269931b",
-  type: "module",
+  type: "page-type/module",
   slug: "surplus-fall-readout",
   definition:
     "the one readout of the surplus group, its scale, and the two readings a day is judged by",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const readingShapes = {
   id: "01a0657b-06a7-7ae0-baf9-5cce272d89ba",
-  type: "module",
+  type: "page-type/module",
   slug: "reading-shapes",
   definition: "the story, the chapter, the rating and the catalog a choice is made over",
   code: "ts",

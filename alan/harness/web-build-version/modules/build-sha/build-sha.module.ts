@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const buildSha = {
   id: "01a05c48-deeb-700e-a808-4f4784f43278",
-  type: "module",
+  type: "page-type/module",
   slug: "build-sha",
   definition: "the forty hexadecimal characters a commit is named by, read out of one string",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const simRunTree = {
   id: "01a05cee-e560-74ed-a1cf-c9f340983fda",
-  type: "module",
+  type: "page-type/module",
   slug: "sim-run-tree",
   definition: "the repo-root paths a mobile sim run is built from",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const offlineReading = {
   id: "01a0657b-06ac-7293-a09b-01ff92f25730",
-  type: "module",
+  type: "page-type/module",
   slug: "offline-reading",
   definition: "the chapters carried onto a device",
   code: "ts",

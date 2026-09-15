@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const monarchEvalPopulation = {
   id: "01a06867-e5ed-70fd-8fee-bffe0cd3c068",
-  type: "module",
+  type: "page-type/module",
   slug: "monarch-eval-population",
   definition: "which transactions an agent can be scored on, and the sample drawn from them",
   code: "ts",

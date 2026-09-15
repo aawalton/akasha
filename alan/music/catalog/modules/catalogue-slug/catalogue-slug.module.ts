@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const catalogueSlug = {
   id: "01a06262-ff4c-7001-86ff-443d16400dc0",
-  type: "module",
+  type: "page-type/module",
   slug: "catalogue-slug",
   definition: "the name a page in the catalogue is reached by",
   code: "ts",

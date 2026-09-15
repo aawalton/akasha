@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const cookieOptions = {
   id: "01a05c97-8af4-7772-ae68-32f3856000e6",
-  type: "module",
+  type: "page-type/module",
   slug: "cookie-options",
   definition: "the domain a Supabase cookie is set on, read from the environment",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const spotifyPersonalization = {
   id: "01a06261-dc1d-700b-8dad-bfbcd632cbad",
-  type: "module",
+  type: "page-type/module",
   slug: "spotify-personalization",
   definition: "the artists and tracks Alan has heard most over a window",
   code: "ts",
