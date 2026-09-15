@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0106106LambsToTheSlaughter = {
   id: "01a0672c-edc7-7005-a7c3-155150fa418a",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0106-106-lambs-to-the-slaughter",
   title: "106. Lambs to the Slaughter",
   story: "story-read/god-of-trash",

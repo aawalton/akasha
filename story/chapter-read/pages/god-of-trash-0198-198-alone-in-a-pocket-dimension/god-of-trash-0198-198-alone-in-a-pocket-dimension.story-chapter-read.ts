@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0198198AloneInAPocketDimension = {
   id: "01a0672c-edcd-700a-84d0-75285af5d366",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0198-198-alone-in-a-pocket-dimension",
   title: "198. Alone in a Pocket Dimension",
   story: "story-read/god-of-trash",

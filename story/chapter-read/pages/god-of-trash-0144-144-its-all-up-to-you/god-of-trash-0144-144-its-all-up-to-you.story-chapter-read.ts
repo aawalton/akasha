@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0144144ItsAllUpToYou = {
   id: "01a0672c-edca-700a-a0e4-7246dd33962d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0144-144-its-all-up-to-you",
   title: "144. It's All Up To You",
   story: "story-read/god-of-trash",

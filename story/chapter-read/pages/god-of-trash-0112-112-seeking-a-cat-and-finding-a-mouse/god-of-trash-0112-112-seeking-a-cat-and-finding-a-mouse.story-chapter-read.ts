@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0112112SeekingACatAndFindingAMouse = {
   id: "01a0672c-edc7-700b-a628-e25c0c3b3e7d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0112-112-seeking-a-cat-and-finding-a-mouse",
   title: "112. Seeking a Cat and Finding a Mouse",
   story: "story-read/god-of-trash",

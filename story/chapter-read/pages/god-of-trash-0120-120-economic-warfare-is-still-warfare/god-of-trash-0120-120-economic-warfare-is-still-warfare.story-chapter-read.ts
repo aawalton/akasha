@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0120120EconomicWarfareIsStillWarfare = {
   id: "01a0672c-edc8-7007-af9a-b32c92e3a41d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0120-120-economic-warfare-is-still-warfare",
   title: "120. Economic Warfare is Still Warfare",
   story: "story-read/god-of-trash",

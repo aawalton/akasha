@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0169169AdeliseInfernon = {
   id: "01a0672c-edcb-700e-b3a7-ea9cfe4a75e7",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0169-169-adelise-infernon",
   title: "169. Adelise Infernon",
   story: "story-read/god-of-trash",

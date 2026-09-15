@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0143143TheCreativeApplicationOfForce = {
   id: "01a0672c-edca-7009-b038-9b701eabbc28",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0143-143-the-creative-application-of-force",
   title: "143. The Creative Application of Force",
   story: "story-read/god-of-trash",

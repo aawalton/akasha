@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0175175EverythingsSofterWhenItsWet = {
   id: "01a0672c-edcc-7004-be4d-0e9dd94f9b0c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0175-175-everythings-softer-when-its-wet",
   title: "175. Everything's Softer When It's Wet",
   story: "story-read/god-of-trash",

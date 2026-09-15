@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0183183TheTimeHasCome = {
   id: "01a0672c-edcc-700c-bf93-57468ccabe33",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0183-183-the-time-has-come",
   title: "183. The Time Has Come",
   story: "story-read/god-of-trash",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0209209TheFinalBlow = {
   id: "01a06731-adf3-7000-858d-7535f2b600ce",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0209-209-the-final-blow",
   title: "209. The Final Blow",
   story: "story-read/god-of-trash",

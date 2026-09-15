@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0174174CrashingABallForFunAndProfit = {
   id: "01a0672c-edcc-7003-9937-ecf012c5651e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0174-174-crashing-a-ball-for-fun-and-profit",
   title: "174. Crashing a Ball for Fun and Profit",
   story: "story-read/god-of-trash",

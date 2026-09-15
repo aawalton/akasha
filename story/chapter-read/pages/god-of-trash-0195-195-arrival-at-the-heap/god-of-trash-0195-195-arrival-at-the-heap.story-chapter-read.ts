@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0195195ArrivalAtTheHeap = {
   id: "01a0672c-edcd-7007-b067-03d9bd1c8f78",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0195-195-arrival-at-the-heap",
   title: "195. Arrival at the Heap",
   story: "story-read/god-of-trash",

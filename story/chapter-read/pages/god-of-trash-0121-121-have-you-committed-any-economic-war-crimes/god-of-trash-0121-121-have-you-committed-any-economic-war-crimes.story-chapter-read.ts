@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0121121HaveYouCommittedAnyEconomicWarCrimes = {
   id: "01a0672c-edc8-7008-9cfa-dea657a529d0",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0121-121-have-you-committed-any-economic-war-crimes",
   title: "121. Have You Committed Any Economic War Crimes Today?",
   story: "story-read/god-of-trash",

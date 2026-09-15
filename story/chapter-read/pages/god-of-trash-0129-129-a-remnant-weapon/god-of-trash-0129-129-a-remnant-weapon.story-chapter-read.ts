@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0129129ARemnantWeapon = {
   id: "01a0672c-edc9-7005-86e9-0faaf10073e4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0129-129-a-remnant-weapon",
   title: "129. A Remnant Weapon",
   story: "story-read/god-of-trash",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0200200MyriadRealmsInTheDark = {
   id: "01a06731-adf2-7000-bc4a-513e8cf81140",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0200-200-myriad-realms-in-the-dark",
   title: "200. Myriad Realms in the Dark",
   story: "story-read/god-of-trash",

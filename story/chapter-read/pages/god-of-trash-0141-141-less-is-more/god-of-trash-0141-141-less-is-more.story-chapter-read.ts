@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const godOfTrash0141141LessIsMore = {
   id: "01a0672c-edca-7007-b01c-aed26148ec36",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "god-of-trash-0141-141-less-is-more",
   title: "141. Less is More",
   story: "story-read/god-of-trash",
