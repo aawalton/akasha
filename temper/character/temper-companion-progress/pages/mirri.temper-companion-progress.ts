@@ -2,7 +2,7 @@ import type { TemperCompanionProgress } from "akasha/temper/character/temper-com
 
 export const mirri = {
   id: "019dda20-e3d4-7ab6-b3df-6c2fa1e10f54",
-  type: "temper-companion-progress",
+  type: "page-type/temper-companion-progress",
   slug: "mirri",
   title: "Mirri Elendis",
   companionId: "mirri",
