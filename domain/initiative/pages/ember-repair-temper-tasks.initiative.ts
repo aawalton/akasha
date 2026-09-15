@@ -8,11 +8,6 @@ export const emberRepairTemperTasks = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "Every key the watcher names on a page is one that page type declares.",
-      workingMemory:
-        "The build half is done. The watcher writes no build page; the browser does. `character-build` now declares `characterName`, and `temper-build-version` declares `characterName`, `roles`, `baseRoles` and `targetCount`, closing the gap it stated. Both build hooks, the version dialog, both version routes and both management cards write and read declared keys now, and the dead `roleId` is gone. The composer refuses the old shape and accepts every new one. Left: the watcher's own page types.",
-    },
-    {
       statement: "Reading one page costs bytes in proportion to that page.",
       workingMemory:
         "The narrow is pushed and honoured, and saves 656 bytes of 429,204,036, because 161 of the 162 snapshots are one account's. A projection saves the rest: the same ask with keys answers 22,528 bytes. The whole-population fetch is deliberate, since a cursor pages over one sorted snapshot, so leave that alone. The body parses at 2,388 MB resident and is killed outright under a 900M cap, so the field failure was allocation rather than syntax.",
