@@ -9,6 +9,7 @@ import {
   listedById,
   typeSlugOf,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { importedFrom } from "akasha/page/modules/body/page-body.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
@@ -17,6 +18,8 @@ const AKASHA_FILE_CEILING_BYTES = 15_000
 const RUN_LINE_BUDGET_BYTES = 13_501
 
 const MODULE_PAGE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
+
+const PAGE_TYPE = "page-type"
 
 const TYPES = "types"
 
@@ -129,14 +132,14 @@ function pageIdFor(root: string, spec: SeriesSpec, slug: string): string {
 }
 
 function renderPageFile(root: string, spec: SeriesSpec, slug: string, definition: string): string {
-  const typeSlug = JSON.stringify(typeSlugOf(root, MODULE_PAGE_TYPE))
+  const typeSlug = typeSlugOf(root, MODULE_PAGE_TYPE)
   return (
     [
       `import type { Module } from "${typesAt(root)}"`,
       "",
       `export const ${kebabToCamel(slug)} = {`,
       `  id: ${JSON.stringify(pageIdFor(root, spec, slug))},`,
-      `  type: ${typeSlug},`,
+      `  type: ${JSON.stringify(namedAs(PAGE_TYPE, typeSlug, null))},`,
       `  slug: ${JSON.stringify(slug)},`,
       `  definition: ${JSON.stringify(definition)},`,
       '  code: "ts",',
