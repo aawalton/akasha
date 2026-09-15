@@ -1,4 +1,3 @@
-import { clearedOff } from "akasha/command/modules/folder-clearing/folder-clearing.module.code.ts"
 import {
   type Linking,
   linkedOver,
@@ -24,11 +23,10 @@ export const NOTHING_FINISHED: Finished = {
 
 export function finishedOver(
   root: string,
-  gone: readonly string[],
+  cleared: readonly string[],
   moves: readonly FileMove[],
   home: string
 ): Finished {
-  const cleared = clearedOff(root, gone)
   const linked = linkedOver(root, moves, home)
   const placed = linkedInPlace(root, home)
   const units = unitsLanded(root, home)

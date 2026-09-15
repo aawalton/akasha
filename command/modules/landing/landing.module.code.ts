@@ -27,6 +27,7 @@ import {
   draftedBy,
 } from "akasha/command/modules/draft-keeping/draft-keeping.module.code.ts"
 import {
+  clearedOff,
   clearedUnder,
   isFolder,
 } from "akasha/command/modules/folder-clearing/folder-clearing.module.code.ts"
@@ -97,6 +98,16 @@ export type Refused = {
 }
 
 export type Committing = { commit: string | null }
+
+type Held = {
+  readonly cleared: readonly string[]
+  readonly base: string
+  readonly commit: string | null
+  readonly wrote: readonly string[]
+  readonly took: readonly string[]
+  readonly noted: readonly string[]
+  readonly untracked: readonly string[]
+}
 
 const AGAIN_WRITTEN =
   "nothing was written — the edits kept do not rebase, and reading those bodies again does not" +
@@ -355,7 +366,7 @@ export async function landing(
     }
   }
   const split = heldBack(root, edits)
-  return holding(root, () => {
+  const landed = holding(root, (): Held | Refused => {
     const base = baseOf(root)
     const paths = edits.map((one) => one.path)
     const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN, facing)
@@ -399,8 +410,8 @@ export async function landing(
           const untracked = [...new Set([...aside.took, ...ignoredGone.took])].sort()
           aside.done()
           const gone = [...put.took, ...then.took, ...moves.map((one) => one.from), ...untracked]
-          const finished = finishedOver(root, gone, moves, homedir())
-          return { ...finished, base, commit, wrote, took, noted, untracked }
+          const cleared = clearedOff(root, gone)
+          return { cleared, base, commit, wrote, took, noted, untracked }
         } catch (failed) {
           aside.back()
           throw failed
@@ -417,4 +428,7 @@ export async function landing(
       throw new Error(alsoSaid(saidBy(thrown), back, off))
     }
   })
+  if ("refusals" in landed) return landed
+  const { cleared, ...ended } = landed
+  return { ...finishedOver(root, cleared, moves, homedir()), ...ended }
 }

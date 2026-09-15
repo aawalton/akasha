@@ -11,7 +11,7 @@ export const landingFinishing = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The folders are cleared before any link is placed.",
+      statement: "What the landing cleared is handed in rather than cleared here.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -19,12 +19,11 @@ export const landingFinishing = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here draws a picture for the editor.",
+      statement: "Nothing here is done while the landing holds the lock.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A folder left with nothing by a path the repository ignores is cleared off the disk.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here draws a picture for the editor.",
     },
     {
       decisionKind: "decision-kind/departure",

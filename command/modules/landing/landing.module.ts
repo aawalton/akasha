@@ -164,6 +164,19 @@ export const landing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A folder left with nothing by a path the repository ignores is cleared off the disk.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The folders are cleared inside the hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A landing is finished after the hold is let go rather than inside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change that commits nothing is finished all the same.",
     },
     {
