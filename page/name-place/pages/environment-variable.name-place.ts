@@ -2,7 +2,7 @@ import type { NamePlace } from "akasha/page/name-place/name-place.page-type.type
 
 export const environmentVariable = {
   id: "01a04fed-2fc0-7d40-b4e0-e630cdde2957",
-  type: "name-place",
+  type: "page-type/name-place",
   slug: "environment-variable",
   definition: "the name a value handed to a process from outside is read under",
   nameFormat: "name-format/upper-snake-case",

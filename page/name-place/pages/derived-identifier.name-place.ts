@@ -2,7 +2,7 @@ import type { NamePlace } from "akasha/page/name-place/name-place.page-type.type
 
 export const derivedIdentifier = {
   id: "01a04fc9-2ad9-76c1-9144-cbcca3d44196",
-  type: "name-place",
+  type: "page-type/name-place",
   slug: "derived-identifier",
   definition: "the name a value carries inside the function working it out",
   nameFormat: "name-format/lower-camel-case",

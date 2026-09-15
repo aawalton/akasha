@@ -2,7 +2,7 @@ import type { NamePlace } from "akasha/page/name-place/name-place.page-type.type
 
 export const componentIdentifier = {
   id: "01a04fc9-2ada-7231-b57f-de98579a51d4",
-  type: "name-place",
+  type: "page-type/name-place",
   slug: "component-identifier",
   definition: "the name a view component carries in code",
   nameFormat: "name-format/upper-camel-case",

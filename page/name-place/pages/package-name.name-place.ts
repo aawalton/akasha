@@ -2,7 +2,7 @@ import type { NamePlace } from "akasha/page/name-place/name-place.page-type.type
 
 export const packageName = {
   id: "01a04fed-2fc1-7a67-b2fe-8402f52dd5c8",
-  type: "name-place",
+  type: "page-type/name-place",
   slug: "package-name",
   definition: "the name a package is required by",
   nameFormat: null,

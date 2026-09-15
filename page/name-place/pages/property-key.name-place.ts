@@ -2,7 +2,7 @@ import type { NamePlace } from "akasha/page/name-place/name-place.page-type.type
 
 export const propertyKey = {
   id: "01a04fed-2fbf-7545-aff5-168ae23e9052",
-  type: "name-place",
+  type: "page-type/name-place",
   slug: "property-key",
   definition: "the key a page has one of its values under",
   nameFormat: "name-format/lower-camel-case",

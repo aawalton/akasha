@@ -2,7 +2,7 @@ import type { NamePlace } from "akasha/page/name-place/name-place.page-type.type
 
 export const functionIdentifier = {
   id: "01a04fc9-2ad7-7c2a-aab9-6def70b88cca",
-  type: "name-place",
+  type: "page-type/name-place",
   slug: "function-identifier",
   definition: "the name a function carries in code",
   nameFormat: "name-format/lower-camel-case",

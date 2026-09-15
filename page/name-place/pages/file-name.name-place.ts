@@ -2,7 +2,7 @@ import type { NamePlace } from "akasha/page/name-place/name-place.page-type.type
 
 export const fileName = {
   id: "01a04fd0-c6e7-7e50-89dc-16bd43ca72b7",
-  type: "name-place",
+  type: "page-type/name-place",
   slug: "file-name",
   definition: "the name a file carries",
   nameFormat: null,

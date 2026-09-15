@@ -2,7 +2,7 @@ import type { NamePlace } from "akasha/page/name-place/name-place.page-type.type
 
 export const foreignName = {
   id: "01a04feb-819f-7c88-a837-385bf1c6a294",
-  type: "name-place",
+  type: "page-type/name-place",
   slug: "foreign-name",
   definition: "a name whose owner is outside akasha",
   nameFormat: null,

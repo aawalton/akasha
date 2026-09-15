@@ -2,7 +2,7 @@ import type { NamePlace } from "akasha/page/name-place/name-place.page-type.type
 
 export const constantIdentifier = {
   id: "01a04fc9-2ad8-7f99-9d3a-bbae29319b17",
-  type: "name-place",
+  type: "page-type/name-place",
   slug: "constant-identifier",
   definition: "the name data carries at the top of a file, outside any function",
   nameFormat: "name-format/upper-snake-case",
