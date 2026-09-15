@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const createPebble = {
   id: "01a06572-95bb-78a7-ba7e-b9e3e4e01627",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "create-pebble",
   title: "Create: Pebble",
   world: "world/the-wandering-inn",

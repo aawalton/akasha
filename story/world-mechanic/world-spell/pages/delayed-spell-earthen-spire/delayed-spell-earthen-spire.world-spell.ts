@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const delayedSpellEarthenSpire = {
   id: "01a06572-95bc-7265-a146-861beb674e27",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "delayed-spell-earthen-spire",
   title: "Delayed Spell: Earthen Spire",
   world: "world/the-wandering-inn",

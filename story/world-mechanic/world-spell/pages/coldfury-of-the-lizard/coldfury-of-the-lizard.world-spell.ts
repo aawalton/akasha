@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const coldfuryOfTheLizard = {
   id: "01a06572-95b9-71d5-b322-d97d8a1fd841",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "coldfury-of-the-lizard",
   title: "Coldfury of the Lizard",
   world: "world/the-wandering-inn",

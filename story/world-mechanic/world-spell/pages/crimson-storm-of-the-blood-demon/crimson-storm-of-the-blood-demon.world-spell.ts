@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const crimsonStormOfTheBloodDemon = {
   id: "01a06572-95bb-762b-bbee-b963928fa54e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "crimson-storm-of-the-blood-demon",
   title: "Crimson Storm of the Blood Demon",
   world: "world/the-wandering-inn",

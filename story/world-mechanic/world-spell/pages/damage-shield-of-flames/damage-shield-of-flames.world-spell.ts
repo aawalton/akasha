@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const damageShieldOfFlames = {
   id: "01a06572-95bb-7590-9b0e-31b8015e5032",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "damage-shield-of-flames",
   title: "Damage Shield of Flames",
   world: "world/the-wandering-inn",

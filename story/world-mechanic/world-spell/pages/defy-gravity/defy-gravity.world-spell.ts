@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const defyGravity = {
   id: "01a06572-95bc-744f-a757-127ce1543b6e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "defy-gravity",
   title: "Defy Gravity",
   world: "world/the-wandering-inn",

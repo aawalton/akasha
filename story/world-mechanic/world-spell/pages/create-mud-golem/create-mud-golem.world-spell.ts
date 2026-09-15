@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const createMudGolem = {
   id: "01a06572-95bb-705d-b4cd-cc819bd5197e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "create-mud-golem",
   title: "Create Mud Golem",
   world: "world/the-wandering-inn",

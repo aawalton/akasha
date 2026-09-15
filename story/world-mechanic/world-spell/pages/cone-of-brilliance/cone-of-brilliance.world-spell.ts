@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const coneOfBrilliance = {
   id: "01a06572-95b9-7081-ac5f-1915c04d3742",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "cone-of-brilliance",
   title: "Cone of Brilliance",
   world: "world/the-wandering-inn",

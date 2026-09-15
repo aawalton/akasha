@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const bubbleOfAntimagic = {
   id: "01a06572-95b7-70b9-bcdb-8114e65c3c83",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "bubble-of-antimagic",
   title: "Bubble of Antimagic",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const boundSpellAgeOfFrost = {
   id: "01a06572-95b7-7bcc-b222-1ddc8c564aaa",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "bound-spell-age-of-frost",
   title: "Bound Spell: Age of Frost",
   world: "world/the-wandering-inn",

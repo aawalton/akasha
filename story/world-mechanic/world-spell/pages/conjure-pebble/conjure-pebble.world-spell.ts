@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const conjurePebble = {
   id: "01a06572-95ba-7141-b9a8-984f38c1de11",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "conjure-pebble",
   title: "Conjure Pebble",
   world: "world/the-wandering-inn",

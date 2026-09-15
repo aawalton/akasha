@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const bubbleOfPurity = {
   id: "01a06572-95b7-79d6-a06b-43afefb26df9",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "bubble-of-purity",
   title: "Bubble of Purity",
   world: "world/the-wandering-inn",

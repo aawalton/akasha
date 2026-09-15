@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const curseOfTheFrozenFlesh = {
   id: "01a06572-95bb-7c77-91c5-d0beb315a940",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "curse-of-the-frozen-flesh",
   title: "Curse of the Frozen Flesh",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const crossFlameblast = {
   id: "01a06572-95bb-7ef3-abc1-d9ba81d18162",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "cross-flameblast",
   title: "Cross Flameblast",
   world: "world/the-wandering-inn",

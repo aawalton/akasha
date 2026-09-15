@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const cloakedScrying = {
   id: "01a06572-95b9-7800-99d3-df1d58e8d73d",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "cloaked-scrying",
   title: "Cloaked Scrying",
   world: "world/the-wandering-inn",

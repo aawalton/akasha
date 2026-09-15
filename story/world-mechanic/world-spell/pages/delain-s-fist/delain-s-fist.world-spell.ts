@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const delainSFist = {
   id: "01a06572-95bc-7505-86c4-1370f44b757d",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "delain-s-fist",
   title: "Delain’s Fist",
   world: "world/the-wandering-inn",

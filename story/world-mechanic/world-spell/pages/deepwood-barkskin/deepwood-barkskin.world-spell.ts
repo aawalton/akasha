@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const deepwoodBarkskin = {
   id: "01a06572-95bc-74e2-a1cc-ef8696e6907a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "deepwood-barkskin",
   title: "Deepwood Barkskin",
   world: "world/the-wandering-inn",

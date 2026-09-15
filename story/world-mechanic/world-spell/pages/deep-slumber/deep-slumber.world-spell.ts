@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const deepSlumber = {
   id: "01a06572-95bc-789f-97a9-ccab47c4edb9",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "deep-slumber",
   title: "Deep Slumber",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const cloneOfCete = {
   id: "01a06572-95b9-7703-9348-bfa6fa19c692",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "clone-of-cete",
   title: "Clone of Cete",
   world: "world/the-wandering-inn",

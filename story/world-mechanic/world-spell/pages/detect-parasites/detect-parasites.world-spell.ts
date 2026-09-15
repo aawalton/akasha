@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const detectParasites = {
   id: "01a06572-95bd-73a3-8a33-3a936d1bc987",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "detect-parasites",
   title: "Detect Parasites",
   world: "world/the-wandering-inn",

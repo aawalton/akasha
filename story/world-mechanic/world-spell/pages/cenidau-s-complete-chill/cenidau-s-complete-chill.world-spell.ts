@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const cenidauSCompleteChill = {
   id: "01a06572-95b8-7ff6-baa0-143207158517",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "cenidau-s-complete-chill",
   title: "Cenidau’s Complete Chill",
   world: "world/the-wandering-inn",

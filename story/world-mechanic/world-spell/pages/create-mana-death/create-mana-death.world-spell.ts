@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const createManaDeath = {
   id: "01a06572-95bb-7367-af6b-2920918b8efe",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "create-mana-death",
   title: "Create Mana: Death",
   world: "world/the-wandering-inn",

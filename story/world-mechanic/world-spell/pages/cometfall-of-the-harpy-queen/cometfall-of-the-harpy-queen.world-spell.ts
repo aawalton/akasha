@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const cometfallOfTheHarpyQueen = {
   id: "01a06572-95b9-7b5a-9e1e-6cbd08e6ef93",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "cometfall-of-the-harpy-queen",
   title: "Cometfall of the Harpy Queen",
   world: "world/the-wandering-inn",

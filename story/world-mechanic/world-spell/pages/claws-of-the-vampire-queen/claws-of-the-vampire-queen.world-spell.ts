@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const clawsOfTheVampireQueen = {
   id: "01a06572-95b9-7592-b453-c664e1cfd03e",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "claws-of-the-vampire-queen",
   title: "Claws of the Vampire Queen",
   world: "world/the-wandering-inn",

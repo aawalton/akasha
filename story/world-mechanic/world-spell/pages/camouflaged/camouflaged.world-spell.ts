@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const camouflaged = {
   id: "01a06572-95b8-7b49-8480-539e020f0f0c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "camouflaged",
   title: "Camouflaged",
   world: "world/the-wandering-inn",

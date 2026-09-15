@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const bountifulAir = {
   id: "01a06572-95b7-776b-86af-434388e3b307",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "bountiful-air",
   title: "Bountiful Air",
   world: "world/the-wandering-inn",

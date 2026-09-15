@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const concealedPresence = {
   id: "01a06572-95b9-7949-9a23-08249a69dcc5",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "concealed-presence",
   title: "Concealed Presence",
   world: "world/the-wandering-inn",

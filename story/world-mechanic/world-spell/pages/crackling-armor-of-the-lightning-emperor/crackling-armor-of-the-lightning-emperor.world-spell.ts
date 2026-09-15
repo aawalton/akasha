@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const cracklingArmorOfTheLightningEmperor = {
   id: "01a06572-95bb-707a-bf6c-d9d52f655671",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "crackling-armor-of-the-lightning-emperor",
   title: "Crackling Armor of the Lightning Emperor",
   world: "world/the-wandering-inn",

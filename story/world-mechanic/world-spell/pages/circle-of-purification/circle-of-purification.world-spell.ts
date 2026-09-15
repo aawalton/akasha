@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const circleOfPurification = {
   id: "01a06572-95b9-7cae-9099-efa9950276fe",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "circle-of-purification",
   title: "Circle of Purification",
   world: "world/the-wandering-inn",

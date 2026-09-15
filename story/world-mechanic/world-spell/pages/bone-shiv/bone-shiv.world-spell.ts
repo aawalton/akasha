@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const boneShiv = {
   id: "01a06572-95b7-748f-bd47-7ca1d1311930",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "bone-shiv",
   title: "Bone Shiv",
   world: "world/the-wandering-inn",

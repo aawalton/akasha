@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const boundSpellMassSlowTimeMinor = {
   id: "01a06572-95b7-783a-82b8-be0b2a76f761",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "bound-spell-mass-slow-time-minor",
   title: "Bound Spell – Mass Slow Time (Minor)",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const conjureMidnightFamiliar = {
   id: "01a06572-95ba-7fb0-85a9-42a06d787234",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "conjure-midnight-familiar",
   title: "Conjure Midnight Familiar",
   world: "world/the-wandering-inn",

@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const crystalizedThoughts = {
   id: "01a06572-95bb-7b43-a369-118c4b165a91",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "crystalized-thoughts",
   title: "Crystalized Thoughts",
   world: "world/the-wandering-inn",

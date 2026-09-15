@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const deafenEars = {
   id: "01a06572-95bb-750f-b896-8ae9d3e1171a",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "deafen-ears",
   title: "Deafen Ears",
   world: "world/the-wandering-inn",

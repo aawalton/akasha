@@ -2,7 +2,7 @@ import type { WorldSpell } from "akasha/story/world-mechanic/world-spell/world-s
 
 export const deathlance = {
   id: "01a06572-95bc-7057-b898-7747afa9e58c",
-  type: "world-spell",
+  type: "page-type/world-spell",
   slug: "deathlance",
   title: "Deathlance",
   world: "world/the-wandering-inn",
