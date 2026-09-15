@@ -6,7 +6,7 @@ export const repo = {
   slug: "repo",
   definition: "a domain whose subject is one repository",
   extends: ["page-type/domain"],
-  parts: ["repo/akasha-repo"],
+  parts: ["repo/akasha-repo", "repo/code-editor-repo"],
   invariants: [
     {
       invariantKind: "departure",
