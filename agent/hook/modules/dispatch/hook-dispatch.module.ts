@@ -107,10 +107,5 @@ export const hookDispatch = {
       statement:
         "What event a hook runs at, and what tools it is over, are read from that hook's page.",
     },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement:
-        "An index refusing to be read refuses the call and says why, rather than naming no hook.",
-    },
   ],
 } as const satisfies Module
