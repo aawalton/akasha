@@ -6,7 +6,3 @@ export function numberOf(value: unknown): number | undefined {
   const parsed = Number(trimmed)
   return Number.isFinite(parsed) ? parsed : undefined
 }
-
-export function textOf(value: unknown): string | undefined {
-  return typeof value === "string" && value.length > 0 ? value : undefined
-}
