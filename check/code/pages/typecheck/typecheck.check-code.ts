@@ -278,6 +278,10 @@ export const typecheck = {
       decisionKind: "decision-kind/departure",
       statement: "A declaration file the change moves is found where that change leaves it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A diagnostic landing on those types is dropped rather than reported.",
+    },
   ],
   check: { maxCpuSeconds: 300 },
   audit: { maxCpuSeconds: 150 },

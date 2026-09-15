@@ -329,6 +329,7 @@ export async function refusalsOver(change: Change, shadow: Shadow): Promise<read
   const seen = new Set<string>()
   const said: Judged[] = []
   for (const one of await foundIn(change, shadow)) {
+    if (generatedRoutes(one.path)) continue
     const key = `${one.path}\n${one.reason}`
     if (seen.has(key)) continue
     seen.add(key)

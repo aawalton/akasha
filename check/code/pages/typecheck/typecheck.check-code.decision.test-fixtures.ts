@@ -338,6 +338,15 @@ export function orphans(root: string, also: Readonly<Record<string, string>>): r
   return orphanedIn(held, shadowAsked(held).index)
 }
 
+const ROUTED_AT = "akasha/app/.react-router/types/held.d.ts"
+
+export function routing(): string {
+  return staged({
+    [ROUTED_AT]: "declare const HELD: number = 1\n",
+    [GONE_AT]: "export const gone = 1\n",
+  })
+}
+
 export const READER_AT = "akasha/reader.module.ts"
 
 const PACKAGE_AT = "akasha/persons/package.json"

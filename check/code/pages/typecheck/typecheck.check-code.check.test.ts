@@ -3,9 +3,11 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { typecheck } from "akasha/check/code/pages/typecheck/typecheck.check-code.check.code.ts"
 import {
+  GONE_AT,
   numbered,
   ONE_NUMBER,
   RACED_AT,
+  routing,
   shut,
   TWO_BREAKS,
   vanishing,
@@ -56,6 +58,11 @@ test("a file taken away after the check read it is judged on the body that read 
   expect(existsSync(join(given.root, RACED_AT))).toBe(false)
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(RACED_AT)
+})
+
+test("a diagnostic landing on generated route types is dropped rather than reported", async () => {
+  const given = change(routing(), { [GONE_AT]: null })
+  expect(await typecheck(given, shadowAsked(given))).toEqual([])
 })
 
 test("a file that is there and will not open refuses the run rather than the file", async () => {
