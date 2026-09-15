@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const scripturePassage1Chronicles19 = {
   id: "01a06804-11a8-700a-b1b5-a78fab73e160",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "scripture-passage-1-chronicles-19",
   title: "1 Chronicles 19",
   book: "1 Chronicles",

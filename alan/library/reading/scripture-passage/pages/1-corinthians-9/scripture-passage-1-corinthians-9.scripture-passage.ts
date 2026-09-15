@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const scripturePassage1Corinthians9 = {
   id: "01a06804-11a8-702c-92a9-0cc2a756dad4",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "scripture-passage-1-corinthians-9",
   title: "1 Corinthians 9",
   book: "1 Corinthians",

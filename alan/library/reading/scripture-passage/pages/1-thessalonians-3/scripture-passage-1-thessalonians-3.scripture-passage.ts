@@ -2,7 +2,7 @@ import type { ScripturePassage } from "akasha/alan/library/reading/scripture-pas
 
 export const scripturePassage1Thessalonians3 = {
   id: "01a06804-11a9-7037-b25a-046428ea36f3",
-  type: "scripture-passage",
+  type: "page-type/scripture-passage",
   slug: "scripture-passage-1-thessalonians-3",
   title: "1 Thessalonians 3",
   book: "1 Thessalonians",
