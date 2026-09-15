@@ -8,6 +8,7 @@ import {
   readAllTransactions,
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
 import { transferBudget } from "akasha/alan/harness/monarch/modules/transaction-create/monarch-transaction-create.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const CASH_ACCOUNT_ID = "151732808422660966"
 const AUDIBLE_CATEGORY_ID = "251492769795545969"
@@ -44,7 +45,7 @@ async function audibleCharges(): Promise<readonly Charge[]> {
     if ((line.merchant ?? "") === MERCHANT) continue
     if (!names(line.merchant) && !names(line.statementLine) && !names(line.transactionNote))
       continue
-    const slug = line.category
+    const slug = line.category === undefined ? undefined : slugOf(line.category)
     held.push({
       monarchId: line.monarchId,
       date: line.transactionDay,
