@@ -1,14 +1,9 @@
 import { judgingOver } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.code.ts"
 import {
   ancestorsOf,
-  type Grouped,
   groupedOver,
   reachedFolders,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
-import {
-  answeringTo,
-  type Holds,
-} from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-naming/folder-naming.module.code.ts"
 import {
   bodyOf,
   FILES,
@@ -66,17 +61,8 @@ export function foldersTouchedBy(
   return found
 }
 
-export function foldersJudgedBy(
-  change: Change,
-  naming: Naming,
-  grouped: Grouped,
-  holds: Holds,
-  heldNames: ReadonlySet<string>
-): ReadonlySet<string> {
+export function foldersJudgedBy(change: Change, naming: Naming): ReadonlySet<string> {
   const found = new Set<string>(foldersTouchedBy(change, naming))
-  for (const above of foldersAbove(change)) {
-    for (const under of answeringTo(above, grouped, holds, heldNames)) found.add(under)
-  }
   if (change.changed.length > 0) found.add(ROOT)
   return found
 }
@@ -87,8 +73,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const judging = judgingOver({ root: change.root, shadow, grouped })
   const stated = shadow.index.fileKeysAt()
   const naming = reachingOf(shadow.index.manifestsBeside(stated), (path) => textIn(change, path))
-  const folders = foldersJudgedBy(change, naming, grouped, judging.holds, judging.heldNames)
-  return judging.refusalsAt(folders)
+  return judging.refusalsAt(foldersJudgedBy(change, naming))
 }
 
 export const folderMatchesAShape = input(FILES, refusalsIn)

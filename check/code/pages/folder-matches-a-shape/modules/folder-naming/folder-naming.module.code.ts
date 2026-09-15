@@ -1,6 +1,5 @@
 import { basename } from "node:path"
 import type { Wanted } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
-import type { Grouped } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
 import { folderOf } from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
 import { strippedOf } from "akasha/page/naming/modules/folder-named/folder-named.module.code.ts"
 
@@ -23,25 +22,6 @@ export function namingFolderOf(folder: string, holds: Holds, held: ReadonlySet<s
   let at = folderOf(folder)
   while (at !== "" && heldFolder(at, holds, held)) at = folderOf(at)
   return at
-}
-
-export function answeringTo(
-  folder: string,
-  grouped: Grouped,
-  holds: Holds,
-  held: ReadonlySet<string>
-): readonly string[] {
-  const found: string[] = []
-  const asked: string[] = [folder]
-  while (asked.length > 0) {
-    const at = asked.pop()
-    if (at === undefined) break
-    for (const one of grouped.foldersIn(at)) {
-      found.push(one)
-      if (heldFolder(one, holds, held)) asked.push(one)
-    }
-  }
-  return found
 }
 
 export function namedUnder(

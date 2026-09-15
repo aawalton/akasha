@@ -109,20 +109,17 @@ export const folderMatchesAShape = {
       statement: "Every folder above a changed path is judged.",
     },
     {
-      invariantKind: "departure",
-      statement: "Every folder answering to a folder above a changed path is judged.",
+      invariantKind: "absence",
+      statement: "A folder the change reaches no path inside is judged.",
     },
     {
       invariantKind: "departure",
-      statement: "That folder is judged though the change has no path inside that folder.",
+      statement:
+        "A folder under a judged folder is judged only where the change reaches inside it.",
     },
     {
       invariantKind: "departure",
       statement: "The workspace root is judged by every change with a path.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "No folder answers to the workspace root.",
     },
     {
       invariantKind: "departure",

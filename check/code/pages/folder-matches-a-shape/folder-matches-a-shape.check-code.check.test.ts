@@ -5,11 +5,6 @@ import {
   foldersTouchedBy,
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.check.code.ts"
 import {
-  grouping,
-  HELD_IN_TESTS,
-  holding,
-} from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
-import {
   ancestorsOf,
   reachedFolders,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
@@ -101,50 +96,23 @@ test("a path the change takes away still carries the folders above it", () => {
   expect(said.has("akasha/a")).toBe(true)
 })
 
-test("a folder answering to a changed page is judged though no path inside it changed", () => {
-  const holds = holding({ "akasha/foo": ["foo"] })
-  const grouped = grouping({
-    akasha: ["akasha/foo"],
-    "akasha/foo": ["akasha/foo/foo-shapes", "akasha/foo/modules"],
-    "akasha/foo/modules": ["akasha/foo/modules/deep"],
-  })
+test("a folder under a changed folder holding no changed path is judged by nothing here", () => {
   const said = foldersJudgedBy(
     change(["akasha/foo/foo.module.ts"], { "akasha/foo/foo.module.ts": "" }, {}),
-    NAMING_NONE,
-    grouped,
-    holds,
-    HELD_IN_TESTS
+    NAMING_NONE
   )
-  expect([...said].sort()).toEqual([
-    "",
-    "akasha",
-    "akasha/foo",
-    "akasha/foo/foo-shapes",
-    "akasha/foo/modules",
-    "akasha/foo/modules/deep",
-  ])
+  expect([...said].sort()).toEqual(["", "akasha", "akasha/foo"])
 })
 
-test("the workspace root is judged, and no folder answers to it", () => {
-  const holds = holding({})
-  const grouped = grouping({ "": ["one", "two"] })
+test("the workspace root is judged by a change carrying a path", () => {
   const said = foldersJudgedBy(
     change(["one/one.module.ts"], { "one/one.module.ts": "" }, {}),
-    NAMING_NONE,
-    grouped,
-    holds,
-    HELD_IN_TESTS
+    NAMING_NONE
   )
   expect([...said].sort()).toEqual(["", "one"])
 })
 
 test("a change carrying no path judges no folder at all", () => {
-  const said = foldersJudgedBy(
-    change([], {}, {}),
-    NAMING_NONE,
-    grouping({}),
-    holding({}),
-    HELD_IN_TESTS
-  )
+  const said = foldersJudgedBy(change([], {}, {}), NAMING_NONE)
   expect([...said]).toEqual([])
 })

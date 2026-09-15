@@ -1,10 +1,6 @@
 import { expect, test } from "bun:test"
+import { holding } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import {
-  grouping,
-  holding,
-} from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
-import {
-  answeringTo,
   heldFolder,
   namedUnder,
   namingFolderOf,
@@ -112,44 +108,7 @@ test("a folder named for no part is never looked through", () => {
   expect(namingFolderOf("akasha/foo/other/deep", holds, HELD)).toBe("akasha/foo/other")
 })
 
-test("the folders sitting in a folder answer to that folder", () => {
-  const grouped = grouping({ "akasha/foo": ["akasha/foo/one", "akasha/foo/two"] })
-  expect(answeringTo("akasha/foo", grouped, holding({}), HELD)).toEqual([
-    "akasha/foo/one",
-    "akasha/foo/two",
-  ])
-})
-
-test("a part is looked through, so the folders in it answer to the folder above that part", () => {
+test("a part is looked through, so a folder in it is named against the folder above that part", () => {
   const holds = holding({ "akasha/foo": ["foo"] })
-  const grouped = grouping({
-    "akasha/foo": ["akasha/foo/modules"],
-    "akasha/foo/modules": ["akasha/foo/modules/one"],
-  })
-  expect([...answeringTo("akasha/foo", grouped, holds, HELD)].sort()).toEqual([
-    "akasha/foo/modules",
-    "akasha/foo/modules/one",
-  ])
   expect(namingFolderOf("akasha/foo/modules/one", holds, HELD)).toBe("akasha/foo")
-})
-
-test("a folder named `pages` the page in it names ends the descent", () => {
-  const holds = holding({ "akasha/pages-system/pages": ["page", "pages"] })
-  const grouped = grouping({
-    "akasha/pages-system": ["akasha/pages-system/pages"],
-    "akasha/pages-system/pages": ["akasha/pages-system/pages/modules/address"],
-  })
-  expect(answeringTo("akasha/pages-system", grouped, holds, HELD)).toEqual([
-    "akasha/pages-system/pages",
-  ])
-})
-
-test("a folder that is no part ends the descent, that folder naming the folders in it", () => {
-  const holds = holding({ "akasha/foo": ["foo"] })
-  const grouped = grouping({
-    "akasha/foo": ["akasha/foo/other"],
-    "akasha/foo/other": ["akasha/foo/other/deep"],
-  })
-  expect(answeringTo("akasha/foo", grouped, holds, HELD)).toEqual(["akasha/foo/other"])
-  expect(namingFolderOf("akasha/foo/other/deep", holds, HELD)).toBe("akasha/foo/other")
 })
