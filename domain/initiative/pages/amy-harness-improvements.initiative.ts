@@ -6,12 +6,7 @@ export const amyHarnessImprovements = {
   slug: "amy-harness-improvements",
   domain: "domain/alan-harness",
   persona: "persona/amy",
-  intentStack: [
-    {
-      statement:
-        "A seat stopped deliberately comes back from git history when Alan resumes it by name.",
-    },
-  ],
+  intentStack: [],
 
   constraints: [
     "This initiative stays when its last intent goes, rather than dying as a finished initiative does.",
