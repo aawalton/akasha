@@ -6,7 +6,7 @@ import {
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { pageOf, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
 
 const OS = new Set(["node:os", "os"])
@@ -95,7 +95,7 @@ export function allowedIn(path: string, shadow: Shadow): boolean {
   const page = shadow.pageOf(join(dirname(path), `${pageOf(said)}${TS}`))
   if (page === null) return false
   if (page[ALLOWS] === true) return true
-  const slug = textAt(page, TYPE) ?? textAt(page, WAS_TYPE_SLUG)
+  const slug = slugAt(page, TYPE) ?? slugAt(page, WAS_TYPE_SLUG)
   if (slug === null) return false
   return shadow.index.pageAt(PAGE_TYPE, slug)?.[ALLOWS] === true
 }
