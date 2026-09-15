@@ -5,9 +5,9 @@ import { arriving } from "akasha/checks/test-fixtures/scratch/check-scratch.test
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
-const AT = "commands/pages/humming/leaf/humming-leaf.command.code.ts"
+const AT = "command/pages/humming/leaf/humming-leaf.command.code.ts"
 
-const NOTES_AT = "commands/pages/humming/leaf/notes.md"
+const NOTES_AT = "command/pages/humming/leaf/notes.md"
 
 const READS =
   "export function hummingLeaf(argv: readonly string[]): Answer {\n" +

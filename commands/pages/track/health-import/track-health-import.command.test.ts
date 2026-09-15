@@ -7,14 +7,14 @@ import {
   MAX_IMPORT_BATCH,
   NO_LOWER_BOUND,
 } from "akasha/alan/harness/health-samples-import/modules/health-import-run/health-import-run.module.code.ts"
-import { batch as batchArgument } from "akasha/commands/arguments/pages/batch.argument.ts"
-import { firstDay } from "akasha/commands/arguments/pages/first-day.argument.ts"
+import { batch as batchArgument } from "akasha/command/arguments/pages/batch.argument.ts"
+import { firstDay } from "akasha/command/arguments/pages/first-day.argument.ts"
 import {
   DATA,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   healthImported,
   linesOf,
@@ -23,7 +23,7 @@ import {
   type Taken,
   taken,
   trackHealthImport,
-} from "akasha/commands/pages/track/health-import/track-health-import.command.code.ts"
+} from "akasha/command/pages/track/health-import/track-health-import.command.code.ts"
 
 const SOURCE = "/Users/nobody/Downloads/export.zip"
 

@@ -9,13 +9,13 @@ import {
   answeredWith,
   keeping,
   partWay,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { commitSaid } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
+import { commitSaid } from "akasha/command/modules/landing-saying/landing-saying.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 export const DAYS_AT = "alan/track/daily/days/pages/"

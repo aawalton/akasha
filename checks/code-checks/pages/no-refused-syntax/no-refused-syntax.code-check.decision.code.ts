@@ -15,7 +15,7 @@ import {
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
-import type { Naming } from "akasha/commands/modules/walking/command-walking.module.code.ts"
+import type { Naming } from "akasha/command/modules/walking/command-walking.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"

@@ -9,9 +9,9 @@ import {
   puzzleToRow,
 } from "akasha/alan/chess/modules/puzzle-lichess/chess-puzzle-lichess.module.code.ts"
 import { lichess as set } from "akasha/alan/chess/puzzle-sets/pages/lichess/lichess.chess-puzzle-set.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { limit as limitArgument } from "akasha/command/arguments/pages/limit.argument.ts"
 import {
   answering,
   INPUT,
@@ -21,13 +21,13 @@ import {
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   type Writing,
   writingIn,
-} from "akasha/commands/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"
-import { chessPuzzlesImport as page } from "akasha/commands/pages/chess/puzzles/import/chess-puzzles-import.command.ts"
+} from "akasha/command/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"
+import { chessPuzzlesImport as page } from "akasha/command/pages/chess/puzzles/import/chess-puzzles-import.command.ts"
 import { uuidVersion7 } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Naming } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"

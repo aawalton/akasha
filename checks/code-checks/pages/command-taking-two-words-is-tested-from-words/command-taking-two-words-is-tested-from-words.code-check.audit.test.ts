@@ -4,9 +4,9 @@ import { treed } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fi
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
-const AT = "commands/pages/humming/leaf/humming-leaf.command.ts"
+const AT = "command/pages/humming/leaf/humming-leaf.command.ts"
 
-const BESIDE = "commands/pages/humming/leaf/humming-leaf.command.test.ts"
+const BESIDE = "command/pages/humming/leaf/humming-leaf.command.test.ts"
 
 const PAGE = `export const hummingLeaf = {
   slug: "humming-leaf",

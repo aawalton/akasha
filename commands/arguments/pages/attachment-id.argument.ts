@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const attachmentId = {
   id: "01a094e7-2e6f-72fe-bb36-97a157784a71",

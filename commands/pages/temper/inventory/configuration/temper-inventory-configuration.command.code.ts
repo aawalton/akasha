@@ -1,24 +1,24 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { section as sectionArgument } from "akasha/commands/arguments/pages/section.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/command/arguments/pages/inventory-path.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { section as sectionArgument } from "akasha/command/arguments/pages/section.argument.ts"
 import {
   asJson,
   OPERATIONAL,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { temperInventoryConfiguration as page } from "akasha/commands/pages/temper/inventory/configuration/temper-inventory-configuration.command.ts"
-import type { Divergence } from "akasha/temper/commands/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { temperInventoryConfiguration as page } from "akasha/command/pages/temper/inventory/configuration/temper-inventory-configuration.command.ts"
+import type { Divergence } from "akasha/temper/command/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"
 import {
   compiledFromRecords,
   divergenceBetween,
-} from "akasha/temper/commands/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"
-import { loadTemperInventoryConfigFromPath } from "akasha/temper/commands/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
+} from "akasha/temper/command/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"
+import { loadTemperInventoryConfigFromPath } from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"

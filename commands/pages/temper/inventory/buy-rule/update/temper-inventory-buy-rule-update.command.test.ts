@@ -1,30 +1,30 @@
 import { expect, test } from "bun:test"
-import { buyRuleId } from "akasha/commands/arguments/pages/buy-rule-id.argument.ts"
-import { source as sourceArgument } from "akasha/commands/arguments/pages/source.argument.ts"
-import { targetQuantity as targetArgument } from "akasha/commands/arguments/pages/target-quantity.argument.ts"
+import { buyRuleId } from "akasha/command/arguments/pages/buy-rule-id.argument.ts"
+import { source as sourceArgument } from "akasha/command/arguments/pages/source.argument.ts"
+import { targetQuantity as targetArgument } from "akasha/command/arguments/pages/target-quantity.argument.ts"
 import {
   answering,
   INPUT,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   changing,
   type Taken,
   temperInventoryBuyRuleUpdate,
-} from "akasha/commands/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.code.ts"
-import { temperInventoryBuyRuleUpdate as page } from "akasha/commands/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.ts"
+} from "akasha/command/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.code.ts"
+import { temperInventoryBuyRuleUpdate as page } from "akasha/command/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.ts"
 import {
   type Writing,
   wroteSaid,
-} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   BUY_HELD,
   BUY_LOCKED,
   UNREADABLE,
   WROTE,
   writingThat,
-} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
+} from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const CALLED_AS = "akasha temper inventory buy-rule update"

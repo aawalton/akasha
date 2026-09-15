@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const repeatState = {
   id: "01a0a029-4e93-7ad0-a071-0c44a240c5a9",

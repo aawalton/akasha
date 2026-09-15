@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import { framesOf, whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { framesOf, whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
   EVERY_FRAME,
   FIRST_FRAME,
   PATHLESS,
-} from "akasha/commands/modules/fault-saying/fault-saying.module.test-fixtures.ts"
+} from "akasha/command/modules/fault-saying/fault-saying.module.test-fixtures.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 test("an Error says its message and nothing about its kind", () => {

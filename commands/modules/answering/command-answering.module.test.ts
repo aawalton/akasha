@@ -23,7 +23,7 @@ import {
   told,
   UNCLASSIFIED,
   unclassified,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
 
 test("what was done by then is named in one sentence", () => {
   expect(partWay([])).toEqual([])

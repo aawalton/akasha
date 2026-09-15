@@ -10,10 +10,10 @@ import {
   askedIn,
   type Carried,
   messageFor,
-} from "akasha/commands/modules/applying/applying.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Running } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
-import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
+} from "akasha/command/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
+import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   A,
   ADMITS,
@@ -25,7 +25,7 @@ import {
   repoWith,
   rowsIn,
   scratch,
-} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+} from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
 import { noImportersFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 

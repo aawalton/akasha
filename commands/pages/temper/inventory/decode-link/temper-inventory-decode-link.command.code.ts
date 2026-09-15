@@ -1,14 +1,14 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { link as linkArgument } from "akasha/commands/arguments/pages/link.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { link as linkArgument } from "akasha/command/arguments/pages/link.argument.ts"
 import {
   DATA,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { temperInventoryDecodeLink as page } from "akasha/commands/pages/temper/inventory/decode-link/temper-inventory-decode-link.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { temperInventoryDecodeLink as page } from "akasha/command/pages/temper/inventory/decode-link/temper-inventory-decode-link.command.ts"
 import type { ParsedItemLink } from "akasha/temper/items-core/modules/item-link-parser/item-link-parser.module.code.ts"
 import { parseItemLink } from "akasha/temper/items-core/modules/item-link-parser/item-link-parser.module.code.ts"
 

@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { DATA, OK, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { DATA, OK, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   CHOSEN,
   changeDraft,
   drafted,
-} from "akasha/commands/pages/change/draft/change-draft.command.code.ts"
+} from "akasha/command/pages/change/draft/change-draft.command.code.ts"
 import { REFUSES_CODE } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
 import {
   applied,

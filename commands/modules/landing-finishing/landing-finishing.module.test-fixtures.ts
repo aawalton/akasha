@@ -1,13 +1,13 @@
 import { readlinkSync } from "node:fs"
 import { join } from "node:path"
-import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   ADMITS,
   carriedRepo,
   pageLanded,
   rowsIn,
   scratch,
-} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+} from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
 const LINKED = "01a04e11-0000-7000-8000-000000000003"

@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const timeout = {
   id: "01a09484-58e2-7701-bb2c-09511000f548",

@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const savedVariablesFile = {
   id: "01a094d0-693a-7ef0-af92-ab257f8957a0",

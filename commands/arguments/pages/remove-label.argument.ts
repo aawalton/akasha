@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const removeLabel = {
   id: "01a094de-f31a-7dfe-9c1a-412a0e83423e",

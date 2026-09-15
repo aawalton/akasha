@@ -50,7 +50,7 @@ function bodied(path: string): boolean {
 
 const OURS: Selector<Paged> = {
   named:
-    "the pages and the TypeScript under `commands/`, and commands and namespaces wherever they sit",
+    "the pages and the TypeScript under `command/`, and commands and namespaces wherever they sit",
   isInput: (path, shadow) => (PAGES.isInput(path, shadow) && ours(path, shadow)) || bodied(path),
   from: (change, shadow) => PAGES.from(change, shadow).filter((one) => ours(one.path, shadow)),
 }

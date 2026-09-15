@@ -1,4 +1,4 @@
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import type { Ran } from "akasha/infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"
 import { NO_CODE } from "akasha/utils/run/modules/running/running.module.code.ts"
 

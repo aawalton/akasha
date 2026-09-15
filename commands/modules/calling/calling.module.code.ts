@@ -1,18 +1,18 @@
 import { createRequire } from "node:module"
 import { join, resolve } from "node:path"
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import { argumentsNamed } from "akasha/commands/arguments/modules/naming/argument-naming.module.code.ts"
+import { argumentsNamed } from "akasha/command/arguments/modules/naming/argument-naming.module.code.ts"
 import {
   DATA,
   INPUT,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   helpOf,
   rulesIn,
   surfaceOf,
-} from "akasha/commands/modules/help-writing/help-writing.module.code.ts"
+} from "akasha/command/modules/help-writing/help-writing.module.code.ts"
 import {
   definitionOf,
   type Levels,
@@ -21,25 +21,25 @@ import {
   levelsIn,
   levelsOf,
   valuedUnder,
-} from "akasha/commands/modules/leveling/command-leveling.module.code.ts"
+} from "akasha/command/modules/leveling/command-leveling.module.code.ts"
 import {
   byName,
   type Held,
   listingOf,
   partsOf,
-} from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
+} from "akasha/command/modules/namespace-listing/namespace-listing.module.code.ts"
 import {
   secondsIn,
   watching,
-} from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
+} from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import {
   type Level,
   pathOf,
   type Reached,
   saidIn,
   walkingIn,
-} from "akasha/commands/modules/walking/command-walking.module.code.ts"
-import { indexRefresh } from "akasha/commands/pages/index/refresh/index-refresh.command.code.ts"
+} from "akasha/command/modules/walking/command-walking.module.code.ts"
+import { indexRefresh } from "akasha/command/pages/index/refresh/index-refresh.command.code.ts"
 import {
   idsNaming,
   indexNamed,

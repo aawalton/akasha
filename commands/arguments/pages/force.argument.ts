@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const force = {
   id: "01a094a7-cd7d-7f4e-a42f-d49cc0c00c5b",

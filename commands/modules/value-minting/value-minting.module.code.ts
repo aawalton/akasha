@@ -7,7 +7,7 @@ import { insertedInto } from "akasha/code/reading/modules/value-inserting/value-
 import {
   baseOf,
   changeOf,
-} from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+} from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { uuidVersion7 } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import type { Answering } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
 import type { Generated } from "akasha/pages/index/modules/generated-properties/generated-properties.module.code.ts"

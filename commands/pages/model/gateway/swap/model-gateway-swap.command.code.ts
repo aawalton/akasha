@@ -6,10 +6,10 @@ import {
   setRequestedAction,
   waitForActionCleared,
 } from "akasha/agent/seat/supervisors/supervisor-action/modules/seat-action/seat-action.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { fleet } from "akasha/commands/arguments/pages/fleet.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { fleet } from "akasha/command/arguments/pages/fleet.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { seat } from "akasha/command/arguments/pages/seat.argument.ts"
 import {
   answeredWith,
   answering,
@@ -20,11 +20,11 @@ import {
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { liveSeats } from "akasha/commands/pages/model/gateway/modules/live-gateway-seat/live-gateway-seat.module.code.ts"
-import { modelGatewaySwap as page } from "akasha/commands/pages/model/gateway/swap/model-gateway-swap.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { liveSeats } from "akasha/command/pages/model/gateway/modules/live-gateway-seat/live-gateway-seat.module.code.ts"
+import { modelGatewaySwap as page } from "akasha/command/pages/model/gateway/swap/model-gateway-swap.command.ts"
 import { pidAliveOrRefuse } from "akasha/utils/process/modules/pid-signal/pid-signal.module.code.ts"
 
 const ACTION = "swap-proxy"

@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const trackSessionList = {
   id: "01a07979-8035-7a44-ae7e-9077fced1824",

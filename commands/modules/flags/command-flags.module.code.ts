@@ -1,4 +1,4 @@
-import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
+import { textAt } from "akasha/command/modules/body-reaching/body-reaching.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 import { meantSaid } from "akasha/utils/text/modules/suggest-closest/suggest-closest.module.code.ts"
 

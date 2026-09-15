@@ -5,9 +5,9 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Seeking } from "akasha/commands/pages/music/seek/music-seek.command.code.ts"
-import { seeking } from "akasha/commands/pages/music/seek/music-seek.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Seeking } from "akasha/command/pages/music/seek/music-seek.command.code.ts"
+import { seeking } from "akasha/command/pages/music/seek/music-seek.command.code.ts"
 
 const CALLED = "akasha music seek"
 

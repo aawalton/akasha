@@ -1,15 +1,15 @@
 import { expect, test } from "bun:test"
 import type { Leaf } from "akasha/alan/books/pages/learn-everything/modules/seeded-draw/seeded-draw.module.code.ts"
-import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   alanLearnNext,
   sweepOf,
-} from "akasha/commands/pages/alan/learn-next/alan-learn-next.command.code.ts"
-import { alanLearnNext as page } from "akasha/commands/pages/alan/learn-next/alan-learn-next.command.ts"
+} from "akasha/command/pages/alan/learn-next/alan-learn-next.command.code.ts"
+import { alanLearnNext as page } from "akasha/command/pages/alan/learn-next/alan-learn-next.command.ts"
 
 const CALLED_AS = "akasha alan learn-next"
 

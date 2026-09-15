@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { charactersPath } from "akasha/commands/arguments/pages/characters-path.argument.ts"
-import { inventoryPath } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { temperInventoryCapacityAudit as page } from "akasha/commands/pages/temper/inventory/capacity-audit/temper-inventory-capacity-audit.command.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { charactersPath } from "akasha/command/arguments/pages/characters-path.argument.ts"
+import { inventoryPath } from "akasha/command/arguments/pages/inventory-path.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { temperInventoryCapacityAudit as page } from "akasha/command/pages/temper/inventory/capacity-audit/temper-inventory-capacity-audit.command.ts"
 
 const CALLED = "akasha temper inventory capacity-audit"
 

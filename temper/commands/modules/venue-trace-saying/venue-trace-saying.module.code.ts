@@ -2,7 +2,7 @@ import type {
   BankTraceBracket,
   BankTraceSettling,
   BankTraceStacking,
-} from "akasha/temper/commands/modules/bank-trace-reading/bank-trace-reading.module.code.ts"
+} from "akasha/temper/command/modules/bank-trace-reading/bank-trace-reading.module.code.ts"
 
 export function msSaid(value: number | undefined): string {
   return value === undefined ? "nil" : `${value}ms`

@@ -16,18 +16,18 @@ import {
   fetchMessages,
   resolveContactHandleRowids,
 } from "akasha/alan/harness/imessage/modules/remote/imessage-remote.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { contact } from "akasha/commands/arguments/pages/contact.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { contact } from "akasha/command/arguments/pages/contact.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { limit as limitArgument } from "akasha/command/arguments/pages/limit.argument.ts"
 import {
   answering,
   asJson,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { imessageUnreadList as page } from "akasha/commands/pages/imessage/unread-list/imessage-unread-list.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { imessageUnreadList as page } from "akasha/command/pages/imessage/unread-list/imessage-unread-list.command.ts"
 
 function unreadLines(messages: readonly ImessageMessage[], name: NameFor): readonly string[] {
   return oldestFirst(messages).map((one) =>

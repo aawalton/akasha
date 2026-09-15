@@ -5,8 +5,8 @@ import {
   git,
   gitOver,
   repoWith,
-} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
-import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+} from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
   bodyAt,
   commitThere,

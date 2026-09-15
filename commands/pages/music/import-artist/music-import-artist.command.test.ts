@@ -7,12 +7,12 @@ import type {
   MbWork,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   type Gathered,
   gathered,
@@ -23,7 +23,7 @@ import {
   rowsOf,
   taken,
   WRITE,
-} from "akasha/commands/pages/music/import-artist/music-import-artist.command.code.ts"
+} from "akasha/command/pages/music/import-artist/music-import-artist.command.code.ts"
 
 const ROOT = rootOf(process.cwd())
 

@@ -8,7 +8,7 @@ import {
   openedDayOf,
   openedDayWindow,
 } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
-import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

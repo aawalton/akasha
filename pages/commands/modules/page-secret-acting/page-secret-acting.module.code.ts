@@ -10,11 +10,11 @@ import {
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import type { Committing } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { mistaking, wrongData } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import type { Committing } from "akasha/command/modules/landing/landing.module.code.ts"
+import { mistaking, wrongData } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { secretAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { cipherFor, type Secrets } from "akasha/pages/modules/secret/page-secret.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"

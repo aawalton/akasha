@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   appNamesIn,
   namingApps,

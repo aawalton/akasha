@@ -13,17 +13,17 @@ import {
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   type Applying,
   type Chosen,
   changing,
   type Loading,
   type Over,
-} from "akasha/commands/modules/change-running/change-running.module.code.ts"
-import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { piping } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
+} from "akasha/command/modules/change-running/change-running.module.code.ts"
+import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
+import { piping } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import {
   idOf,
   indexedRepo,

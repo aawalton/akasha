@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { readingAt } from "akasha/commands/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
+import { readingAt } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import { COOLDOWN_SECONDS } from "akasha/infrastructure/services/modules/deploy-choosing/deploy-choosing.module.code.ts"
 import type { Subject } from "akasha/infrastructure/services/modules/deploy-subject-listing/deploy-subject-listing.module.code.ts"
 import {

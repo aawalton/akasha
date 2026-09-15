@@ -34,7 +34,7 @@ import {
   type Landing,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   listedAt,
   listedById,

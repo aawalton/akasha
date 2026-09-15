@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const cutAt = {
   id: "01a094c8-b5af-7d33-a6ee-de87ed6edf18",

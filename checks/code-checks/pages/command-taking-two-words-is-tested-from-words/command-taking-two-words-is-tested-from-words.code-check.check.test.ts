@@ -6,11 +6,11 @@ import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
-const AT = "commands/pages/humming/leaf/humming-leaf.command.ts"
+const AT = "command/pages/humming/leaf/humming-leaf.command.ts"
 
-const BESIDE = "commands/pages/humming/leaf/humming-leaf.command.test.ts"
+const BESIDE = "command/pages/humming/leaf/humming-leaf.command.test.ts"
 
-const NOTES_AT = "commands/pages/humming/leaf/notes.md"
+const NOTES_AT = "command/pages/humming/leaf/notes.md"
 
 const PAGE = `export const hummingLeaf = {
   slug: "humming-leaf",

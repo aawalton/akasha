@@ -3,8 +3,8 @@ import type {
   IngestArgs,
   ParsedPuzzle,
 } from "akasha/alan/chess/modules/puzzle-lichess/chess-puzzle-lichess.module.code.ts"
-import type { Importing } from "akasha/commands/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"
-import { importing } from "akasha/commands/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"
+import type { Importing } from "akasha/command/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"
+import { importing } from "akasha/command/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import type { Naming } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 

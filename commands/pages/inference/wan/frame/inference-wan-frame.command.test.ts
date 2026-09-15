@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { pathUnder } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
-import { inferenceWanFrame } from "akasha/commands/pages/inference/wan/frame/inference-wan-frame.command.code.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { pathUnder } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
+import { inferenceWanFrame } from "akasha/command/pages/inference/wan/frame/inference-wan-frame.command.code.ts"
 
 function given(root: string): Given {
   return { root, calledAs: "akasha inference wan frame", from: root, writer: null, agentId: null }

@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const relationship = {
   id: "01a094b0-d1b3-798e-953c-cd86b1e48d6f",

@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const changeSubagentTake = {
   id: "01a09cec-a352-7ed6-beaf-24fa8359fc60",

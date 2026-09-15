@@ -1,23 +1,23 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { categoryRuleId } from "akasha/commands/arguments/pages/category-rule-id.argument.ts"
-import { charactersPath as charactersPathArgument } from "akasha/commands/arguments/pages/characters-path.argument.ts"
-import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { categoryRuleId } from "akasha/command/arguments/pages/category-rule-id.argument.ts"
+import { charactersPath as charactersPathArgument } from "akasha/command/arguments/pages/characters-path.argument.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/command/arguments/pages/inventory-path.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
 import {
   DATA,
   OPERATIONAL,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { temperInventoryRuleTakes as page } from "akasha/commands/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { temperInventoryRuleTakes as page } from "akasha/command/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.ts"
 import {
   planInputs,
   ruleMatcher,
-} from "akasha/temper/commands/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+} from "akasha/temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
 const TAKES = [categoryRuleId, json, inventoryPathArgument, charactersPathArgument]

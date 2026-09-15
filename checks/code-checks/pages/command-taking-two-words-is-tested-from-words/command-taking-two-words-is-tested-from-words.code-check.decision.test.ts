@@ -4,9 +4,9 @@ import {
   testPathOf,
 } from "akasha/checks/code-checks/pages/command-taking-two-words-is-tested-from-words/command-taking-two-words-is-tested-from-words.code-check.decision.code.ts"
 
-const AT = "commands/pages/humming/leaf/humming-leaf.command.ts"
+const AT = "command/pages/humming/leaf/humming-leaf.command.ts"
 
-const BESIDE = "commands/pages/humming/leaf/humming-leaf.command.test.ts"
+const BESIDE = "command/pages/humming/leaf/humming-leaf.command.test.ts"
 
 function paged(held: string): string {
   return `export const hummingLeaf = {
@@ -67,12 +67,12 @@ test("a command with no test beside it is refused by name", () => {
   expect(found(AT, TWO, null)[0]).toContain("is not there")
 })
 
-test("a file outside `commands/pages` is judged nothing", () => {
+test("a file outside `command/pages` is judged nothing", () => {
   expect(found("checks/held/held.command.ts", TWO, KEYED)).toEqual([])
 })
 
 test("a command's code is judged nothing", () => {
-  expect(found("commands/pages/humming/leaf/humming-leaf.command.code.ts", TWO, KEYED)).toEqual([])
+  expect(found("command/pages/humming/leaf/humming-leaf.command.code.ts", TWO, KEYED)).toEqual([])
 })
 
 test("a command page names the test beside it", () => {
@@ -80,5 +80,5 @@ test("a command page names the test beside it", () => {
 })
 
 test("a path that is no command page names no test", () => {
-  expect(testPathOf("commands/modules/held/held.module.ts")).toBeNull()
+  expect(testPathOf("command/modules/held/held.module.ts")).toBeNull()
 })

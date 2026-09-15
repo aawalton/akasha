@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const reactionFile = {
   id: "01a094e5-aa06-7d5d-bda7-1f039460309c",

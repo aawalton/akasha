@@ -7,68 +7,68 @@ import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { textIn, textOf } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
-import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { DATA, INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   sweptOff,
   takenIn,
-} from "akasha/commands/modules/beside-sweeping/beside-sweeping.module.code.ts"
+} from "akasha/command/modules/beside-sweeping/beside-sweeping.module.code.ts"
 import {
   commitNamed,
   unfresh,
-} from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
+} from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 import {
   attributed,
   attributionHeld,
-} from "akasha/commands/modules/commit-attribution/commit-attribution.module.code.ts"
+} from "akasha/command/modules/commit-attribution/commit-attribution.module.code.ts"
 import {
   type Drafted,
   type Drafting,
   draftedBy,
-} from "akasha/commands/modules/draft-keeping/draft-keeping.module.code.ts"
-import { editorStateLoading } from "akasha/commands/modules/editor-state-landing/editor-state-landing.module.code.ts"
+} from "akasha/command/modules/draft-keeping/draft-keeping.module.code.ts"
+import { editorStateLoading } from "akasha/command/modules/editor-state-landing/editor-state-landing.module.code.ts"
 import {
   clearedUnder,
   isFolder,
-} from "akasha/commands/modules/folder-clearing/folder-clearing.module.code.ts"
+} from "akasha/command/modules/folder-clearing/folder-clearing.module.code.ts"
 import {
   indexingLoaded,
   type Keeping,
-} from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
+} from "akasha/command/modules/gate-building/gate-building.module.code.ts"
 import {
   asideFrom,
   heldBack,
-} from "akasha/commands/modules/ignored-pathing/ignored-pathing.module.code.ts"
+} from "akasha/command/modules/ignored-pathing/ignored-pathing.module.code.ts"
 import {
   type Bodied,
   baseOf,
   changeOf,
   splitIn,
-} from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+} from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
   type Finished,
   finishedOver,
   NOTHING_FINISHED,
-} from "akasha/commands/modules/landing-finishing/landing-finishing.module.code.ts"
+} from "akasha/command/modules/landing-finishing/landing-finishing.module.code.ts"
 import {
   alsoFailed,
   alsoSaid,
-} from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
+} from "akasha/command/modules/landing-saying/landing-saying.module.code.ts"
 import {
   absentAfter,
   orphaningIn,
   orphaningSaid,
-} from "akasha/commands/modules/orphaning/orphaning.module.code.ts"
-import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
+} from "akasha/command/modules/orphaning/orphaning.module.code.ts"
+import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import {
   asideOnto,
   movedOnto,
   movesHeld,
-} from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
+} from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import {
   outsideRoot,
   writesOutside,
-} from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
-import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
+} from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
+import { allowedThrough } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import {
   bodyAt,
   readingEnded,

@@ -1,7 +1,7 @@
 import { chmodSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { filePath } from "akasha/command/arguments/pages/file-path.argument.ts"
 import {
   answeredWith,
   DATA,
@@ -10,10 +10,10 @@ import {
   partWay,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
-import { gitRestore as page } from "akasha/commands/pages/git/restore/git-restore.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { offRepo, pathAt } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
+import { gitRestore as page } from "akasha/command/pages/git/restore/git-restore.command.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { anythingThere } from "akasha/utils/fs/modules/anything-there/anything-there.module.code.ts"

@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const attendees = {
   id: "01a094d8-04a3-761e-a6a8-e3f059a7be9b",

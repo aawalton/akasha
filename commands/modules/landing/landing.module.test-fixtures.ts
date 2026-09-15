@@ -3,18 +3,18 @@ import { appendFileSync, cpSync, existsSync, mkdirSync, readFileSync, writeFileS
 import { join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
-import type { Stated } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
+import type { Stated } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
 import {
   NO_TEXT,
   rowsFrom,
-} from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
+} from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
 import type {
   Committing,
   Landed,
   Refused,
-} from "akasha/commands/modules/landing/landing.module.code.ts"
-import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+} from "akasha/command/modules/landing/landing.module.code.ts"
+import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedFrom } from "akasha/pages/index/modules/indexing/indexing.module.code.ts"
 import { keepBuilt } from "akasha/pages/index/modules/keeping/index-keeping.module.code.ts"

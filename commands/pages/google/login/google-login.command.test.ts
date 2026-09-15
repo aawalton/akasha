@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { callbackUrl } from "akasha/commands/arguments/pages/callback-url.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { googleLogin } from "akasha/commands/pages/google/login/google-login.command.code.ts"
-import { googleLogin as page } from "akasha/commands/pages/google/login/google-login.command.ts"
+import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+import { callbackUrl } from "akasha/command/arguments/pages/callback-url.argument.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { googleLogin } from "akasha/command/pages/google/login/google-login.command.code.ts"
+import { googleLogin as page } from "akasha/command/pages/google/login/google-login.command.ts"
 
 const CALLED_AS = "akasha google login"
 

@@ -5,8 +5,8 @@ import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-ch
 import {
   OPERATIONAL,
   partWay,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
 import {
   appendedOnto,
   askingFor,
@@ -21,7 +21,7 @@ import {
   readPlay,
   rowsOf,
   WRITE,
-} from "akasha/commands/pages/music/capture/music-capture.command.code.ts"
+} from "akasha/command/pages/music/capture/music-capture.command.code.ts"
 import {
   bodyAt,
   changesOver,
@@ -50,7 +50,7 @@ import {
   TOLD_NOTHING,
   type Told,
   TWO_PLAYS,
-} from "akasha/commands/pages/music/capture/music-capture.command.test-fixtures.ts"
+} from "akasha/command/pages/music/capture/music-capture.command.test-fixtures.ts"
 import { statesVersionSeven } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
 
 test("a track Spotify names no id for is read as no play", () => {

@@ -3,14 +3,14 @@ import {
   DATA,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   dropping,
   listingKept,
   noPageSaid,
   staleIn,
   stalling,
-} from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
+} from "akasha/command/modules/change-acting/change-acting.module.code.ts"
 import {
   DROPS,
   droppedPathIn,
@@ -28,7 +28,7 @@ import {
   STALE_AT,
   staleKept,
   thrownBy,
-} from "akasha/commands/modules/change-acting/change-acting.module.test-fixtures.ts"
+} from "akasha/command/modules/change-acting/change-acting.module.test-fixtures.ts"
 import { scratch } from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)

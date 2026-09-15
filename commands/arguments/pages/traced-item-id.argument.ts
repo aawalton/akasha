@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const tracedItemId = {
   id: "01a094c9-a756-79fc-ae7e-4ffca8b41ce5",

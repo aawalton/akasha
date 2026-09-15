@@ -3,7 +3,7 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 
-import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   A,
   ADMITS,
@@ -39,11 +39,11 @@ import {
   splitLanded,
   splitThrew,
   THROWN,
-} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+} from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import {
   baseOf,
   changeOf,
-} from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+} from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { readingEnded } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import {
   everythingFiled,

@@ -1,4 +1,4 @@
-import type { CharacterKnowledge } from "akasha/temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import type { CharacterKnowledge } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   computeBankStock,
   computeItemStock,

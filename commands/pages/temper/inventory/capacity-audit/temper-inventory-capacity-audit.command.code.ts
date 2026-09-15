@@ -1,22 +1,22 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { charactersPath as charactersPathArgument } from "akasha/commands/arguments/pages/characters-path.argument.ts"
-import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { charactersPath as charactersPathArgument } from "akasha/command/arguments/pages/characters-path.argument.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/command/arguments/pages/inventory-path.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
 import {
   OPERATIONAL,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { temperInventoryCapacityAudit as page } from "akasha/commands/pages/temper/inventory/capacity-audit/temper-inventory-capacity-audit.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { temperInventoryCapacityAudit as page } from "akasha/command/pages/temper/inventory/capacity-audit/temper-inventory-capacity-audit.command.ts"
 import {
   capacityFilter,
   planInputs,
   ruleMatcher,
-} from "akasha/temper/commands/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+} from "akasha/temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
 import type { CapacityAudit } from "akasha/temper/items-rules-routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 
 const TAKES = [json, inventoryPathArgument, charactersPathArgument]

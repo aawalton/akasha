@@ -75,6 +75,6 @@ test("a page of another type sharing the command slug does not move where the co
   if ("refused" in cast) throw new Error(cast.refused)
 
   expect(
-    repositoryIsWrittenByAChange.isInput("commands/one/one.command.code.ts", cast.shadow)
+    repositoryIsWrittenByAChange.isInput("command/one/one.command.code.ts", cast.shadow)
   ).toBe(false)
 })

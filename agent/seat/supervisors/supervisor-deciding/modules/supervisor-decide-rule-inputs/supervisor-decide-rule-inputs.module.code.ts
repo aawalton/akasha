@@ -22,7 +22,7 @@ import {
   obj,
   oneOf,
   str,
-} from "akasha/commands/modules/argument-narrowing/argument-narrowing.module.code.ts"
+} from "akasha/command/modules/argument-narrowing/argument-narrowing.module.code.ts"
 
 export function idleObservation(value: unknown, path: string): IdleObservation {
   const o = obj(value, path)

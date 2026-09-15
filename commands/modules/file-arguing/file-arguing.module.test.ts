@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { builtIn, VALUED } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
-import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { builtIn, VALUED } from "akasha/command/modules/file-arguing/file-arguing.module.code.ts"
+import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
+import { TERMINAL } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 

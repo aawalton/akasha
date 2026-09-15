@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Gathered, Phase } from "akasha/checks/modules/checking/checking.module.code.ts"
-import { ROOT } from "akasha/commands/modules/audit-answering/audit-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { ROOT } from "akasha/command/modules/audit-answering/audit-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   audit,
   leftOutOf,
@@ -11,7 +11,7 @@ import {
   ranHere,
   waitingOn,
   wrongIn,
-} from "akasha/commands/pages/audit/audit.command.code.ts"
+} from "akasha/command/pages/audit/audit.command.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 function gathered(

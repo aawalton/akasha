@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   categoriesSaid,
   categoryRows,
-} from "akasha/commands/pages/temper/inventory/category-list/temper-inventory-category-list.command.code.ts"
+} from "akasha/command/pages/temper/inventory/category-list/temper-inventory-category-list.command.code.ts"
 import {
   ITEM_CATEGORY_PRIORITY,
   ITEM_CATEGORY_TREE,

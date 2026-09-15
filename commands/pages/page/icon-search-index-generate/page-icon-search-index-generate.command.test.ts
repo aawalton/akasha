@@ -3,8 +3,8 @@ import {
   keeping,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   pageIconSearchIndexGenerate,
   type Stageable,
@@ -12,7 +12,7 @@ import {
   stagedSaid,
   stageSaid,
   wroteStage,
-} from "akasha/commands/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.code.ts"
+} from "akasha/command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.code.ts"
 
 const CALLED_AS = "akasha page icon-search-index-generate"
 

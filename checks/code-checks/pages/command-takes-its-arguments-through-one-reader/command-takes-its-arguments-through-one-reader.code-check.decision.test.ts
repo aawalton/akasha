@@ -7,15 +7,15 @@ import {
   slugOf,
 } from "akasha/checks/code-checks/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.code-check.decision.code.ts"
 
-const AT = "commands/pages/humming/deep-song/humming-deep-song.command.code.ts"
+const AT = "command/pages/humming/deep-song/humming-deep-song.command.code.ts"
 
-const PAGE_AT = "commands/pages/humming/deep-song/humming-deep-song.command.ts"
+const PAGE_AT = "command/pages/humming/deep-song/humming-deep-song.command.ts"
 
 const OUTSIDE_AT = "akasha/humming/held.module.code.ts"
 
-const BESIDE_AT = "commands/pages/humming/humming-arguing/humming-arguing.module.code.ts"
+const BESIDE_AT = "command/pages/humming/humming-arguing/humming-arguing.module.code.ts"
 
-const FAR_AT = "temper/commands/word-reading/word-reading.module.code.ts"
+const FAR_AT = "temper/command/word-reading/word-reading.module.code.ts"
 
 const READER =
   "export function saidFor(argv: readonly string[]): number {\n  return argv.length\n}\n"
@@ -145,9 +145,9 @@ test("a module's refusals are named in the order the lines run", () => {
   expect(said[1]).toContain("line 5")
 })
 
-const ONWARD_AT = "temper/commands/onward/onward.module.code.ts"
+const ONWARD_AT = "temper/command/onward/onward.module.code.ts"
 
-const TAKEN_AT = "commands/arguments/word-taking/word-taking.module.code.ts"
+const TAKEN_AT = "command/arguments/word-taking/word-taking.module.code.ts"
 
 function brings(at: string, name: string): string {
   return `import { ${name} } from "akasha/${at}"\n`

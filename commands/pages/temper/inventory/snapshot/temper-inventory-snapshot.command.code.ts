@@ -2,21 +2,21 @@ import { existsSync } from "node:fs"
 import { readFile, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { jsonOneLine as jsonOneLineArgument } from "akasha/commands/arguments/pages/json-one-line.argument.ts"
-import { latest as latestArgument } from "akasha/commands/arguments/pages/latest.argument.ts"
-import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
-import { snapshot as snapshotArgument } from "akasha/commands/arguments/pages/snapshot.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { jsonOneLine as jsonOneLineArgument } from "akasha/command/arguments/pages/json-one-line.argument.ts"
+import { latest as latestArgument } from "akasha/command/arguments/pages/latest.argument.ts"
+import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
+import { snapshot as snapshotArgument } from "akasha/command/arguments/pages/snapshot.argument.ts"
 import {
   DATA,
   OPERATIONAL,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { temperInventorySnapshot as page } from "akasha/commands/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { temperInventorySnapshot as page } from "akasha/command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.ts"
 import {
   listedAt,
   listedById,

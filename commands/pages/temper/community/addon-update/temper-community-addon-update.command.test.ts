@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   amongDone,
   carriedNothingSaid,
   outcomesFor,
   temperCommunityAddonUpdate,
   wentSaid,
-} from "akasha/commands/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts"
+} from "akasha/command/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts"
 import {
   clearedSaid,
   laidSaid,

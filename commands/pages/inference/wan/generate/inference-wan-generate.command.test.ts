@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import { DATA, refused } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { DATA, refused } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   inferenceWanGenerate,
   readGenerate,
-} from "akasha/commands/pages/inference/wan/generate/inference-wan-generate.command.code.ts"
+} from "akasha/command/pages/inference/wan/generate/inference-wan-generate.command.code.ts"
 
 const CALLED = "akasha inference wan generate"
 

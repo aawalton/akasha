@@ -7,7 +7,7 @@ import {
   recordedCommit,
   saidOfNoRecord,
   saidOfNoRefusal,
-} from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
+} from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
 import {
   ASK_AT,
   type Fetcher,

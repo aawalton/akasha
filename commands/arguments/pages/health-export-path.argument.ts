@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const healthExportPath = {
   id: "01a09505-b814-7a17-8d68-ae62c9e3a739",

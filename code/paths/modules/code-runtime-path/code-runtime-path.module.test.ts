@@ -82,8 +82,8 @@ test("the compose-notices test nested under a namespace still reaches the reposi
   expect(
     rewrote(
       'const held = resolve(import.meta.dir, "../../..")\n',
-      "commands/pages/compose-notices/one.command.test.ts",
-      "commands/pages/seat/compose-notices/one.command.test.ts",
+      "command/pages/compose-notices/one.command.test.ts",
+      "command/pages/seat/compose-notices/one.command.test.ts",
       holding(ROOT)
     )
   ).toBe('const held = resolve(import.meta.dir, "../../../..")\n')
@@ -109,8 +109,8 @@ test("a walk to the top asks whether the root itself is held", () => {
   const asked: string[] = []
   runtimePatches(
     'const held = resolve(import.meta.dir, "../../..")\n',
-    "commands/pages/compose-notices/one.command.test.ts",
-    "commands/pages/seat/compose-notices/one.command.test.ts",
+    "command/pages/compose-notices/one.command.test.ts",
+    "command/pages/seat/compose-notices/one.command.test.ts",
     NOTHING_MOVED,
     (absolute) => {
       asked.push(absolute)

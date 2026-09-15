@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const toggleTarget = {
   id: "01a09513-aedf-7b06-86e0-68e1b5191e05",

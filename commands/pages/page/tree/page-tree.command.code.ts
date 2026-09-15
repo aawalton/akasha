@@ -1,19 +1,19 @@
 import { resolve } from "node:path"
 import { writerIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { sayAnswer } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { sayAnswer } from "akasha/command/modules/answer-bytes/answer-bytes.module.code.ts"
 import {
   asJson,
   DATA,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { authorIn } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { rootIn } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { pathOf } from "akasha/commands/modules/walking/command-walking.module.code.ts"
-import { page } from "akasha/commands/pages/page/page.namespace.ts"
-import { pageTree as treePage } from "akasha/commands/pages/page/tree/page-tree.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { authorIn } from "akasha/command/modules/commit-author/commit-author.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { rootIn } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { pathOf } from "akasha/command/modules/walking/command-walking.module.code.ts"
+import { page } from "akasha/command/pages/page/page.namespace.ts"
+import { pageTree as treePage } from "akasha/command/pages/page/tree/page-tree.command.ts"
 import {
   readingIn,
   type Valued,

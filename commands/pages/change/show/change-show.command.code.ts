@@ -4,32 +4,32 @@ import {
   editsIn,
   foldedIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   DATA,
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given as Arguments } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given as Arguments } from "akasha/command/modules/argument-reading/argument-reading.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   noPageSaid,
   stalling,
-} from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
+} from "akasha/command/modules/change-acting/change-acting.module.code.ts"
 import {
   argumentsIn,
   worldFor,
-} from "akasha/commands/modules/change-running/change-running.module.code.ts"
+} from "akasha/command/modules/change-running/change-running.module.code.ts"
 import {
   ANSWER_CEILING,
   countLines,
   numbered,
-} from "akasha/commands/modules/long-body/long-body.module.code.ts"
-import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
-import { changeShow as page } from "akasha/commands/pages/change/show/change-show.command.ts"
+} from "akasha/command/modules/long-body/long-body.module.code.ts"
+import { inputIn } from "akasha/command/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { offRepo, pathAt } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
+import { changeShow as page } from "akasha/command/pages/change/show/change-show.command.ts"
 import {
   agentPathOf,
   bytesAt,

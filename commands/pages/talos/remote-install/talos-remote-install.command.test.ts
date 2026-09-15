@@ -4,16 +4,16 @@ import {
   answering,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type {
   Named,
   Reaching,
   Waiting,
-} from "akasha/commands/pages/talos/remote-install/talos-remote-install.command.code.ts"
+} from "akasha/command/pages/talos/remote-install/talos-remote-install.command.code.ts"
 import {
   handedOver,
   handoverSaid,
-} from "akasha/commands/pages/talos/remote-install/talos-remote-install.command.code.ts"
+} from "akasha/command/pages/talos/remote-install/talos-remote-install.command.code.ts"
 
 const READ: Named = {
   node: "one",

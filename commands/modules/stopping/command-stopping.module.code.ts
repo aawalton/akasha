@@ -8,7 +8,7 @@ export const MEASURED_ALLOWED = 1800
 
 export type Watch = { readonly ended: () => void }
 
-const LIVE = Symbol.for("akasha/commands/modules/stopping/live")
+const LIVE = Symbol.for("akasha/command/modules/stopping/live")
 
 type Holder = { live: Worker | null }
 

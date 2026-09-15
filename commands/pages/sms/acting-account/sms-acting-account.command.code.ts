@@ -1,10 +1,10 @@
 import { extractActingAccountUserId } from "akasha/alan/harness/sms-core/modules/acting-account/acting-account.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { surfaceFile } from "akasha/commands/arguments/pages/surface-file.argument.ts"
-import { refusedBy, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { heldAt } from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import { smsActingAccount as page } from "akasha/commands/pages/sms/acting-account/sms-acting-account.command.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { surfaceFile } from "akasha/command/arguments/pages/surface-file.argument.ts"
+import { refusedBy, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
+import { smsActingAccount as page } from "akasha/command/pages/sms/acting-account/sms-acting-account.command.ts"
 
 export function smsActingAccount(argv: readonly string[], given: Given): Answer {
   const read = takenFor(argv, given.calledAs, page, [surfaceFile])

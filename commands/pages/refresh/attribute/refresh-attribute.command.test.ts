@@ -4,15 +4,15 @@ import {
   answering,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Keeping } from "akasha/commands/pages/refresh/attribute/refresh-attribute.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Keeping } from "akasha/command/pages/refresh/attribute/refresh-attribute.command.code.ts"
 import {
   keptEach,
   refreshAttribute,
   saidOf,
   slugsIn,
-} from "akasha/commands/pages/refresh/attribute/refresh-attribute.command.code.ts"
+} from "akasha/command/pages/refresh/attribute/refresh-attribute.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Sweeping } from "akasha/commands/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.code.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Sweeping } from "akasha/command/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.code.ts"
 import {
   infrastructureServiceSweep,
   sweptBy,
   sweptEach,
-} from "akasha/commands/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.code.ts"
+} from "akasha/command/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.code.ts"
 
 const HOME = "/nowhere"
 

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { temperInventoryDecodeLink } from "akasha/commands/pages/temper/inventory/decode-link/temper-inventory-decode-link.command.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { temperInventoryDecodeLink } from "akasha/command/pages/temper/inventory/decode-link/temper-inventory-decode-link.command.code.ts"
 
 const CALLED_AS = "akasha temper inventory decode-link"
 

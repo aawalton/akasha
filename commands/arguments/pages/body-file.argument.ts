@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const bodyFile = {
   id: "01a094e3-5fae-7680-82b6-55f4d63533b2",

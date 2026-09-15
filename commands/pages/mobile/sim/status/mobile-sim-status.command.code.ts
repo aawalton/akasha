@@ -4,15 +4,15 @@ import {
   loadSessionState,
   SIM_SESSION_PATH,
 } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   answering,
   keyedLines,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mobileSimStatus as page } from "akasha/commands/pages/mobile/sim/status/mobile-sim-status.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mobileSimStatus as page } from "akasha/command/pages/mobile/sim/status/mobile-sim-status.command.ts"
 
 const A_SECOND = 1_000
 

@@ -1,20 +1,20 @@
-import { force as forceArgument } from "akasha/commands/arguments/pages/force.argument.ts"
+import { force as forceArgument } from "akasha/command/arguments/pages/force.argument.ts"
 import {
   asIndentedJson,
   DATA,
   INPUT,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { emitTsv } from "akasha/temper/commands/modules/format-output/format-output.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
+import { emitTsv } from "akasha/temper/command/modules/format-output/format-output.module.code.ts"
 import {
   BUY_RULE_COLUMNS,
   ITEM_RULE_COLUMNS,
   itemRuleRow,
   RULE_SHOW_COLUMNS,
-} from "akasha/temper/commands/modules/inventory-rule-rows/inventory-rule-rows.module.code.ts"
-import { inventorySettings } from "akasha/temper/commands/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"
+} from "akasha/temper/command/modules/inventory-rule-rows/inventory-rule-rows.module.code.ts"
+import { inventorySettings } from "akasha/temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"
 import {
   duplicateBuyRule,
   lockBuyRule,

@@ -9,7 +9,7 @@ import {
   taggedFor,
   termOf,
   tokensIn,
-} from "akasha/commands/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
+} from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 
 const ROOT = "/var/home/walton/repos/akasha"
 

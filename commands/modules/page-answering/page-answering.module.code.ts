@@ -1,14 +1,14 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 import type {
   Commanding,
   TakenFor,
-} from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   answering,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 
 export type Taking<Page extends Commanding, Pages extends readonly Argument[]> = TakenFor<
   Page,

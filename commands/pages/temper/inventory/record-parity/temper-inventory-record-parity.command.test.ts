@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   agreementSaid,
   answerFor,
@@ -9,8 +9,8 @@ import {
   rowsSaid,
   type StackReading,
   uncoveredSaid,
-} from "akasha/commands/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts"
-import type { Verdict } from "akasha/temper/commands/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"
+} from "akasha/command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts"
+import type { Verdict } from "akasha/temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"
 
 const LOCKPICK = 30357
 

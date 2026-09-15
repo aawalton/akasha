@@ -6,12 +6,12 @@ import {
   sinceNow,
   TWO,
 } from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
-import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { runWindow } from "akasha/commands/arguments/pages/run-window.argument.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { measureTest } from "akasha/commands/pages/measure/test/measure-test.command.code.ts"
-import { measureTest as page } from "akasha/commands/pages/measure/test/measure-test.command.ts"
+import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+import { runWindow } from "akasha/command/arguments/pages/run-window.argument.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { measureTest } from "akasha/command/pages/measure/test/measure-test.command.code.ts"
+import { measureTest as page } from "akasha/command/pages/measure/test/measure-test.command.ts"
 import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 

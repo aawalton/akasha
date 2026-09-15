@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const destinationChain = {
   id: "01a094d9-00b5-7ff2-9892-2dd6dc2a1e81",

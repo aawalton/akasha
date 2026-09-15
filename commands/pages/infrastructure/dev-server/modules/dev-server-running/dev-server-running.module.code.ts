@@ -1,6 +1,6 @@
 import { existsSync, openSync, unlinkSync } from "node:fs"
-import { seq as seqArgument } from "akasha/commands/arguments/pages/seq.argument.ts"
-import { webApp } from "akasha/commands/arguments/pages/web-app.argument.ts"
+import { seq as seqArgument } from "akasha/command/arguments/pages/seq.argument.ts"
+import { webApp } from "akasha/command/arguments/pages/web-app.argument.ts"
 import {
   answeredWith,
   asJson,
@@ -8,8 +8,8 @@ import {
   OPERATIONAL,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   readEnvLocal,
   resolveEnvLocalPath,

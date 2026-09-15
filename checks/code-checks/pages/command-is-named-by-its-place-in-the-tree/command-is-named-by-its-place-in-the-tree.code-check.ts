@@ -12,7 +12,7 @@ export const commandIsNamedByItsPlaceInTheTree = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The command tree and the folder tree under `commands/` are one tree said twice.",
+      statement: "The command tree and the folder tree under `command/` are one tree said twice.",
     },
     {
       invariantKind: "departure",
@@ -24,7 +24,7 @@ export const commandIsNamedByItsPlaceInTheTree = {
     },
     {
       invariantKind: "departure",
-      statement: "A page under `commands/` is input here though that page is no level of the tree.",
+      statement: "A page under `command/` is input here though that page is no level of the tree.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const commandIsNamedByItsPlaceInTheTree = {
     {
       invariantKind: "departure",
       statement:
-        "A page the `command` page type names sits in a folder directly in `commands/pages/`.",
+        "A page the `command` page type names sits in a folder directly in `command/pages/`.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,7 @@ export const commandIsNamedByItsPlaceInTheTree = {
     {
       invariantKind: "departure",
       statement:
-        "A command's slug is its path under `commands/pages` with a hyphen for each slash.",
+        "A command's slug is its path under `command/pages` with a hyphen for each slash.",
     },
     {
       invariantKind: "departure",
@@ -73,7 +73,7 @@ export const commandIsNamedByItsPlaceInTheTree = {
     {
       invariantKind: "departure",
       statement:
-        "A module under `commands/pages` sits under the lowest level every page reaching it sits under.",
+        "A module under `command/pages` sits under the lowest level every page reaching it sits under.",
     },
     {
       invariantKind: "departure",
@@ -100,21 +100,21 @@ export const commandIsNamedByItsPlaceInTheTree = {
     {
       invariantKind: "departure",
       statement:
-        "A module reached from two levels with no level above both sits in `commands/modules`.",
+        "A module reached from two levels with no level above both sits in `command/modules`.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A module no page under `commands/pages` reaches sits in `commands/modules` as well.",
+        "A module no page under `command/pages` reaches sits in `command/modules` as well.",
     },
     {
       invariantKind: "absence",
-      statement: "A page outside `commands/pages` reaching a module is counted by nothing here.",
+      statement: "A page outside `command/pages` reaching a module is counted by nothing here.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A change to a body under `commands/` leaves every module under `commands/pages` judged.",
+        "A change to a body under `command/` leaves every module under `command/pages` judged.",
     },
     {
       invariantKind: "absence",
@@ -122,17 +122,17 @@ export const commandIsNamedByItsPlaceInTheTree = {
     },
     {
       invariantKind: "departure",
-      statement: "A module under `commands/` is named among the parts of a page under `commands/`.",
+      statement: "A module under `command/` is named among the parts of a page under `command/`.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A module under `commands/pages` is named among the parts of the command or the namespace beside it.",
+        "A module under `command/pages` is named among the parts of the command or the namespace beside it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A module under `commands/pages` sits in a folder directly inside the folder of the page naming it.",
+        "A module under `command/pages` sits in a folder directly inside the folder of the page naming it.",
     },
     {
       invariantKind: "absence",

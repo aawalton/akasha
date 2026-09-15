@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   agreementSaid,
   answerFor,
@@ -10,7 +10,7 @@ import {
   type StackReading,
   sideOf,
   sidesAgree,
-} from "akasha/commands/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts"
+} from "akasha/command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts"
 import type { WalkOutcome } from "akasha/temper/items-rules-eval/modules/eval-result/eval-result.module.code.ts"
 
 const EDICT = 71779

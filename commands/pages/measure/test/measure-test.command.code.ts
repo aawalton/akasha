@@ -1,16 +1,16 @@
 import { readdirSync } from "node:fs"
 import { join } from "node:path"
 import { linesOf, windowOf } from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { runWindow } from "akasha/commands/arguments/pages/run-window.argument.ts"
-import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { runWindow } from "akasha/command/arguments/pages/run-window.argument.ts"
+import { told } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
   costsOf,
   readIn,
-} from "akasha/commands/pages/measure/modules/gathering/measure-gathering.module.code.ts"
-import { measureTest as page } from "akasha/commands/pages/measure/test/measure-test.command.ts"
+} from "akasha/command/pages/measure/modules/gathering/measure-gathering.module.code.ts"
+import { measureTest as page } from "akasha/command/pages/measure/test/measure-test.command.ts"
 
 const TEST = "test"
 

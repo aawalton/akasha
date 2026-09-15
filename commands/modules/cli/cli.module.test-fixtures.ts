@@ -1,1 +1,1 @@
-export const COMMAND_TYPE_AT = "akasha/commands/command.page-type.ts"
+export const COMMAND_TYPE_AT = "akasha/command/command.page-type.ts"

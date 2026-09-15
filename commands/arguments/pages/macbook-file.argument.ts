@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const macbookFile = {
   id: "01a094e3-2570-7c3a-a100-1fe8d00a2405",

@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const promptFile = {
   id: "01a094d8-1ebc-7412-b4d3-ea11fd0ef809",

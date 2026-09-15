@@ -2,23 +2,23 @@ import { readFile, writeFile } from "node:fs/promises"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { alphaMatting as alphaMattingArgument } from "akasha/commands/arguments/pages/alpha-matting.argument.ts"
-import { cutout as cutoutArgument } from "akasha/commands/arguments/pages/cutout.argument.ts"
-import { cutoutOut as cutoutOutArgument } from "akasha/commands/arguments/pages/cutout-out.argument.ts"
-import { flatten as flattenArgument } from "akasha/commands/arguments/pages/flatten.argument.ts"
-import { flattenOut as flattenOutArgument } from "akasha/commands/arguments/pages/flatten-out.argument.ts"
-import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
-import { matteOut as matteOutArgument } from "akasha/commands/arguments/pages/matte-out.argument.ts"
-import { rembgSession } from "akasha/commands/arguments/pages/rembg-session.argument.ts"
-import { timeout as timeoutArgument } from "akasha/commands/arguments/pages/timeout.argument.ts"
+} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { alphaMatting as alphaMattingArgument } from "akasha/command/arguments/pages/alpha-matting.argument.ts"
+import { cutout as cutoutArgument } from "akasha/command/arguments/pages/cutout.argument.ts"
+import { cutoutOut as cutoutOutArgument } from "akasha/command/arguments/pages/cutout-out.argument.ts"
+import { flatten as flattenArgument } from "akasha/command/arguments/pages/flatten.argument.ts"
+import { flattenOut as flattenOutArgument } from "akasha/command/arguments/pages/flatten-out.argument.ts"
+import { image as imageArgument } from "akasha/command/arguments/pages/image.argument.ts"
+import { matteOut as matteOutArgument } from "akasha/command/arguments/pages/matte-out.argument.ts"
+import { rembgSession } from "akasha/command/arguments/pages/rembg-session.argument.ts"
+import { timeout as timeoutArgument } from "akasha/command/arguments/pages/timeout.argument.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { inferenceSegment as page } from "akasha/commands/pages/inference/segment/inference-segment.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { inferenceSegment as page } from "akasha/command/pages/inference/segment/inference-segment.command.ts"
 import {
   ensureOutputDir,
   resolveOutputPath,
@@ -32,7 +32,7 @@ import {
 import {
   serviceNamed,
   wroteTo,
-} from "akasha/infrastructure/inference/commands/modules/inference-answering/inference-answering.module.code.ts"
+} from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/modules/sha256-hex/sha256-hex.module.code.ts"

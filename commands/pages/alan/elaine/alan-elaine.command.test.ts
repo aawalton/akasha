@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   alanElaine,
   NAMED,
   sinceDay,
   windowIn,
-} from "akasha/commands/pages/alan/elaine/alan-elaine.command.code.ts"
-import { alanElaine as page } from "akasha/commands/pages/alan/elaine/alan-elaine.command.ts"
+} from "akasha/command/pages/alan/elaine/alan-elaine.command.code.ts"
+import { alanElaine as page } from "akasha/command/pages/alan/elaine/alan-elaine.command.ts"
 
 const CALLED_AS = "akasha alan elaine"
 

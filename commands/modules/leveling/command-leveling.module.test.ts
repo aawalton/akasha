@@ -5,13 +5,13 @@ import {
   namespacesIn,
   rootWith,
   sweep,
-} from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
+} from "akasha/command/modules/calling/calling.module.test-fixtures.ts"
 import {
   levelNamed,
   levelOfPart,
   levelsIn,
   levelsOf,
-} from "akasha/commands/modules/leveling/command-leveling.module.code.ts"
+} from "akasha/command/modules/leveling/command-leveling.module.code.ts"
 
 afterAll(sweep)
 

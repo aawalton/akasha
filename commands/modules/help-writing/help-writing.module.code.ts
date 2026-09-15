@@ -2,7 +2,7 @@ import {
   directivesIn,
   ruleOf,
 } from "akasha/agent/model/test/pages/directive-kept/directive-kept.model-test.code.ts"
-import { widest } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
+import { widest } from "akasha/command/modules/namespace-listing/namespace-listing.module.code.ts"
 import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const ARGUMENTS = "arguments"

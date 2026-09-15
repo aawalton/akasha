@@ -1,15 +1,15 @@
 import { seatEditsAt } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { noPageSaid } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
-import { inputIn, type Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { noPageSaid } from "akasha/command/modules/change-acting/change-acting.module.code.ts"
+import { inputIn, type Piping } from "akasha/command/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
   askedIn,
   TAKE_WORDS,
   takingRecords,
-} from "akasha/commands/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.code.ts"
-import { changeSubagentTake as page } from "akasha/commands/pages/change/subagent/take/change-subagent-take.command.ts"
+} from "akasha/command/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.code.ts"
+import { changeSubagentTake as page } from "akasha/command/pages/change/subagent/take/change-subagent-take.command.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 
 const PIPED = "a take takes the paths it reaches piped in, and nothing on the command line"

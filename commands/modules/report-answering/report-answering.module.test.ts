@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { OK, OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { reportedBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
+import { OK, OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { reportedBy } from "akasha/command/modules/report-answering/report-answering.module.code.ts"
 
 test("the lines gathered are the report, with nothing refused", () => {
   const said = reportedBy(() => ["one", "two"])

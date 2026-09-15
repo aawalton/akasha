@@ -1,18 +1,18 @@
 import { existsSync } from "node:fs"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { force } from "akasha/commands/arguments/pages/force.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { seq } from "akasha/commands/arguments/pages/seq.argument.ts"
-import { webApp } from "akasha/commands/arguments/pages/web-app.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { force } from "akasha/command/arguments/pages/force.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { seq } from "akasha/command/arguments/pages/seq.argument.ts"
+import { webApp } from "akasha/command/arguments/pages/web-app.argument.ts"
 import {
   answering,
   INPUT,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { infrastructureDevServerBootstrap as page } from "akasha/commands/pages/infrastructure/dev-server/bootstrap/infrastructure-dev-server-bootstrap.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { infrastructureDevServerBootstrap as page } from "akasha/command/pages/infrastructure/dev-server/bootstrap/infrastructure-dev-server-bootstrap.command.ts"
 import {
   resolveEnvLocalPath,
   writeEnvLocalFromPages,

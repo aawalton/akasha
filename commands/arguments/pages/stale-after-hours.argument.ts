@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const staleAfterHours = {
   id: "01a094d1-844b-7dc6-bc52-0066add1a813",

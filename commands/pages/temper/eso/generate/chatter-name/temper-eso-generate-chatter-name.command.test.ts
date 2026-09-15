@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Answering, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Answering, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   chattering,
   temperEsoGenerateChatterName,
-} from "akasha/commands/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"
+} from "akasha/command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

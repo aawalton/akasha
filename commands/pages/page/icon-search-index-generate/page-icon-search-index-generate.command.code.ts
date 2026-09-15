@@ -6,18 +6,18 @@ import {
   landingAt,
   removingAt,
 } from "akasha/code/modules/modules/name-series/name-series.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
-import { stage as stageArgument } from "akasha/commands/arguments/pages/stage.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
+import { stage as stageArgument } from "akasha/command/arguments/pages/stage.argument.ts"
 import {
   answering,
   keeping,
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { pageIconSearchIndexGenerate as page } from "akasha/commands/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { pageIconSearchIndexGenerate as page } from "akasha/command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts"
 import {
   AGGREGATE,
   bytesIn,
@@ -28,7 +28,7 @@ import {
   rendered,
   type Staged,
   standingIn,
-} from "akasha/pages/commands/modules/icon-index-rendering/icon-index-rendering.module.code.ts"
+} from "akasha/pages/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const LUCIDE_TAG = "0.576.0"

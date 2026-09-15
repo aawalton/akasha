@@ -1,19 +1,19 @@
 import { resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { fromInitiative } from "akasha/commands/arguments/pages/from-initiative.argument.ts"
-import { statement as statementArgument } from "akasha/commands/arguments/pages/statement.argument.ts"
-import { toInitiative } from "akasha/commands/arguments/pages/to-initiative.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { fromInitiative } from "akasha/command/arguments/pages/from-initiative.argument.ts"
+import { statement as statementArgument } from "akasha/command/arguments/pages/statement.argument.ts"
+import { toInitiative } from "akasha/command/arguments/pages/to-initiative.argument.ts"
 import {
   answering,
   DATA,
   keeping,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { initiativeHandIntent as page } from "akasha/commands/pages/initiative/hand-intent/initiative-hand-intent.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { initiativeHandIntent as page } from "akasha/command/pages/initiative/hand-intent/initiative-hand-intent.command.ts"
 import {
   type InitiativeIntent,
   type InitiativeRow,

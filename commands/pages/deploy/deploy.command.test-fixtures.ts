@@ -1,4 +1,4 @@
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 
 export function given(root: string): Given {

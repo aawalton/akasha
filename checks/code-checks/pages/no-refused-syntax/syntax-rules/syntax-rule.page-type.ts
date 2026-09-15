@@ -1,4 +1,4 @@
-import type { Naming } from "akasha/commands/modules/walking/command-walking.module.code.ts"
+import type { Naming } from "akasha/command/modules/walking/command-walking.module.code.ts"
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 import type { SourceFile } from "typescript"
 

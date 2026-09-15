@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const sendUpdates = {
   id: "01a094cd-b8ce-74c1-9647-77c168cacdd7",

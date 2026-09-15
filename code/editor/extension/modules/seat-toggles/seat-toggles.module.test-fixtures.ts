@@ -3,7 +3,7 @@ import * as path from "node:path"
 import { VIEW_ID } from "akasha/code/editor/extension/modules/agent-tree-ids/agent-tree-ids.module.code.ts"
 import type { SeatMode } from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
 import { seatContextValue } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { z } from "zod"
 
 const MENU_ITEM_SCHEMA = z.object({

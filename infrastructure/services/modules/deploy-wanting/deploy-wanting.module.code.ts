@@ -1,21 +1,21 @@
 import {
   changedBetween,
   sinceCommit,
-} from "akasha/commands/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"
+} from "akasha/command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"
 import {
   commitRecordedIn,
   endedIn,
   refusedAtIn,
-} from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
+} from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
 import {
   closureIn,
   type Reading,
   readingAt,
-} from "akasha/commands/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
+} from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import {
   type Named,
   WORKSTATION_SERVICE,
-} from "akasha/commands/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
+} from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import type {
   Candidate,

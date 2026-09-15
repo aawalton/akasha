@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { infrastructureServiceStart } from "akasha/commands/pages/infrastructure/service/start/infrastructure-service-start.command.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { infrastructureServiceStart } from "akasha/command/pages/infrastructure/service/start/infrastructure-service-start.command.code.ts"
 
 const HERE: Given = {
   root: process.cwd(),

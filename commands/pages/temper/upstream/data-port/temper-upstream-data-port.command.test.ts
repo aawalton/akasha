@@ -2,13 +2,13 @@ import { expect, test } from "bun:test"
 import {
   INPUT,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   portedBy,
   temperUpstreamDataPort,
-} from "akasha/commands/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts"
+} from "akasha/command/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts"
 
 const ROOT = "/nowhere"
 

@@ -8,7 +8,7 @@ import {
   sinceOf,
   storeIn,
   totalOf,
-} from "akasha/commands/pages/measure/model/account/cost/modules/model-account-costing/model-account-costing.module.code.ts"
+} from "akasha/command/pages/measure/model/account/cost/modules/model-account-costing/model-account-costing.module.code.ts"
 import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 

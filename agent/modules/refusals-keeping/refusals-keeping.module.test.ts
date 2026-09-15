@@ -11,7 +11,7 @@ import {
   refusalsAt,
   refusalsPut,
 } from "akasha/agent/modules/refusals-keeping/refusals-keeping.module.code.ts"
-import { ANSWER_CEILING } from "akasha/commands/modules/long-body/long-body.module.code.ts"
+import { ANSWER_CEILING } from "akasha/command/modules/long-body/long-body.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 

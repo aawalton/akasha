@@ -51,8 +51,8 @@ import {
   num,
   obj,
   str,
-} from "akasha/commands/modules/argument-narrowing/argument-narrowing.module.code.ts"
-import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
+} from "akasha/command/modules/argument-narrowing/argument-narrowing.module.code.ts"
+import { fail } from "akasha/command/modules/failing/command-failing.module.code.ts"
 
 function sub(
   value: unknown,

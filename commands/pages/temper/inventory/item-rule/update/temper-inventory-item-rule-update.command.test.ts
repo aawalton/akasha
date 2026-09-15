@@ -1,31 +1,31 @@
 import { expect, test } from "bun:test"
-import { action } from "akasha/commands/arguments/pages/action.argument.ts"
-import { destination } from "akasha/commands/arguments/pages/destination.argument.ts"
-import { itemRuleId } from "akasha/commands/arguments/pages/item-rule-id.argument.ts"
-import { title } from "akasha/commands/arguments/pages/title.argument.ts"
+import { action } from "akasha/command/arguments/pages/action.argument.ts"
+import { destination } from "akasha/command/arguments/pages/destination.argument.ts"
+import { itemRuleId } from "akasha/command/arguments/pages/item-rule-id.argument.ts"
+import { title } from "akasha/command/arguments/pages/title.argument.ts"
 import {
   answering,
   INPUT,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   changing,
   type Taken,
   temperInventoryItemRuleUpdate,
-} from "akasha/commands/pages/temper/inventory/item-rule/update/temper-inventory-item-rule-update.command.code.ts"
-import { temperInventoryItemRuleUpdate as page } from "akasha/commands/pages/temper/inventory/item-rule/update/temper-inventory-item-rule-update.command.ts"
+} from "akasha/command/pages/temper/inventory/item-rule/update/temper-inventory-item-rule-update.command.code.ts"
+import { temperInventoryItemRuleUpdate as page } from "akasha/command/pages/temper/inventory/item-rule/update/temper-inventory-item-rule-update.command.ts"
 import {
   type Writing,
   wroteSaid,
-} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   ITEM_HELD,
   ITEM_LOCKED,
   UNREADABLE,
   WROTE,
   writingThat,
-} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
+} from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const CALLED_AS = "akasha temper inventory item-rule update"

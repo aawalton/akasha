@@ -13,7 +13,7 @@ import {
   orderingOf,
   shownSaid,
 } from "akasha/code/editor/extension/modules/work-tree-dragging/work-tree-dragging.module.code.ts"
-import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
+import { PUT_BACK } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 
 function rowOf(kind: WorkTreeRow["kind"], key: string): WorkTreeRow {
   return { kind, key, label: key, at: null, color: null, detail: null, note: null, children: [] }

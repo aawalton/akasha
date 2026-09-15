@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"

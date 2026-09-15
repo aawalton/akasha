@@ -6,7 +6,7 @@ import { inputError } from "akasha/alan/harness/errors-core/modules/exit-code/ex
 import type {
   CommandHelp,
   HelpFlag,
-} from "akasha/commands/modules/declaring/command-declaring.module.code.ts"
+} from "akasha/command/modules/declaring/command-declaring.module.code.ts"
 import { expandTilde } from "akasha/utils/fs/modules/expand-tilde/expand-tilde.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import { suggestClosest } from "akasha/utils/text/modules/suggest-closest/suggest-closest.module.code.ts"

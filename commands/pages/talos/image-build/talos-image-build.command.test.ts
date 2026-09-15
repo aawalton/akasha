@@ -4,20 +4,20 @@ import {
   answering,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type {
   Fetching,
   Registering,
   Writing,
-} from "akasha/commands/pages/talos/image-build/talos-image-build.command.code.ts"
+} from "akasha/command/pages/talos/image-build/talos-image-build.command.code.ts"
 import {
   isoSaid,
   registeredSchematic,
   schematicSaid,
   talosImageBuild,
   wroteIso,
-} from "akasha/commands/pages/talos/image-build/talos-image-build.command.code.ts"
+} from "akasha/command/pages/talos/image-build/talos-image-build.command.code.ts"
 
 const YAML = "customization: {}\n"
 

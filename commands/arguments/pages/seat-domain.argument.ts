@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const seatDomain = {
   id: "01a094e7-3ac9-7a8b-846c-76e703cc0f1f",

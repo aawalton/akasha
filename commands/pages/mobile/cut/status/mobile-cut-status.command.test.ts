@@ -3,10 +3,10 @@ import { fetchedSaid } from "akasha/alan/harness/mobile-cli/modules/git-tree-has
 import {
   OPERATIONAL,
   partWay,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mobileCutStatus } from "akasha/commands/pages/mobile/cut/status/mobile-cut-status.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mobileCutStatus } from "akasha/command/pages/mobile/cut/status/mobile-cut-status.command.code.ts"
 
 const ARGV: readonly string[] = []
 

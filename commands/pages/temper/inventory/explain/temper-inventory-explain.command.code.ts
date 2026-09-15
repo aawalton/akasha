@@ -1,11 +1,11 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { char as charArgument } from "akasha/commands/arguments/pages/char.argument.ts"
-import { charactersPath as charactersPathArgument } from "akasha/commands/arguments/pages/characters-path.argument.ts"
-import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
-import { item as itemArgument } from "akasha/commands/arguments/pages/item.argument.ts"
-import { json as jsonArgument } from "akasha/commands/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { char as charArgument } from "akasha/command/arguments/pages/char.argument.ts"
+import { charactersPath as charactersPathArgument } from "akasha/command/arguments/pages/characters-path.argument.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/command/arguments/pages/inventory-path.argument.ts"
+import { item as itemArgument } from "akasha/command/arguments/pages/item.argument.ts"
+import { json as jsonArgument } from "akasha/command/arguments/pages/json.argument.ts"
 import {
   asJson,
   DATA,
@@ -13,19 +13,19 @@ import {
   OPERATIONAL,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { temperInventoryExplain as page } from "akasha/commands/pages/temper/inventory/explain/temper-inventory-explain.command.ts"
-import type { CharacterKnowledge } from "akasha/temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { temperInventoryExplain as page } from "akasha/command/pages/temper/inventory/explain/temper-inventory-explain.command.ts"
+import type { CharacterKnowledge } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   allBagItems,
   type ExplainCapabilities,
   explainCapabilities,
   type ResolvedInventoryItem,
   resolveItemFromInventory,
-} from "akasha/temper/commands/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
+} from "akasha/temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
   formatExplainWalk,

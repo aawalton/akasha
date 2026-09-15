@@ -8,7 +8,7 @@ import {
   writingIn,
   writtenOver,
 } from "akasha/code/module-property-groups/modules/group-writing/group-writing.module.code.ts"
-import { bodyIn as bodyOf } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
+import { bodyIn as bodyOf } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"

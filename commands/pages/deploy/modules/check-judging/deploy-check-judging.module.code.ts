@@ -1,10 +1,10 @@
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { gateFor } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
+import { gateFor } from "akasha/command/modules/gate-building/gate-building.module.code.ts"
 import {
   commitAt,
   pathsIn,
-} from "akasha/commands/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
-import { carriedWith } from "akasha/commands/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
+} from "akasha/command/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
+import { carriedWith } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import {
   bodyAt,
   readingEnded,

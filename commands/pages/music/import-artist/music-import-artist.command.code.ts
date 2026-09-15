@@ -42,11 +42,11 @@ import {
   landedMechanically,
   type runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { artistName as artistNameArgument } from "akasha/commands/arguments/pages/artist-name.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { mbid as mbidArgument } from "akasha/commands/arguments/pages/mbid.argument.ts"
-import { songLimit } from "akasha/commands/arguments/pages/song-limit.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { artistName as artistNameArgument } from "akasha/command/arguments/pages/artist-name.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { mbid as mbidArgument } from "akasha/command/arguments/pages/mbid.argument.ts"
+import { songLimit } from "akasha/command/arguments/pages/song-limit.argument.ts"
 import {
   answeredWith,
   answering,
@@ -56,9 +56,9 @@ import {
   OPERATIONAL,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { musicImportArtist as page } from "akasha/commands/pages/music/import-artist/music-import-artist.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { musicImportArtist as page } from "akasha/command/pages/music/import-artist/music-import-artist.command.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {

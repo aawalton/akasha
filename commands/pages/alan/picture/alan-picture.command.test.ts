@@ -3,14 +3,14 @@ import {
   DATA,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   alanPicture,
   type Fetching,
   keptAt,
   pictureBrought,
   readIn,
-} from "akasha/commands/pages/alan/picture/alan-picture.command.code.ts"
+} from "akasha/command/pages/alan/picture/alan-picture.command.code.ts"
 
 const CALLED_AS = "akasha alan picture"
 

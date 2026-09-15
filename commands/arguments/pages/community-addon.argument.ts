@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const communityAddon = {
   id: "01a094c8-dfc5-7d7f-abf8-6ee4e76c33a4",

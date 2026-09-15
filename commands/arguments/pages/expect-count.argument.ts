@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const expectCount = {
   id: "01a094ce-542c-783c-b1f8-7cc98a0368a6",

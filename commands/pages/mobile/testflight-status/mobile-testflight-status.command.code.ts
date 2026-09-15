@@ -13,18 +13,18 @@ import {
   pollBuildUntilTerminal,
   processingFailureFor,
 } from "akasha/alan/harness/mobile-cli/modules/testflight-poll/testflight-poll.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { app } from "akasha/commands/arguments/pages/app.argument.ts"
-import { wait } from "akasha/commands/arguments/pages/wait.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { app } from "akasha/command/arguments/pages/app.argument.ts"
+import { wait } from "akasha/command/arguments/pages/wait.argument.ts"
 import {
   answeredWith,
   answering,
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mobileTestflightStatus as page } from "akasha/commands/pages/mobile/testflight-status/mobile-testflight-status.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mobileTestflightStatus as page } from "akasha/command/pages/mobile/testflight-status/mobile-testflight-status.command.ts"
 
 const A_SECOND = 1_000
 

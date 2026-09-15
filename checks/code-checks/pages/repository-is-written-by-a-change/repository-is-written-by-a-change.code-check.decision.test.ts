@@ -15,7 +15,7 @@ import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)
 
-const AT = "commands/pages/one/one.command.code.ts"
+const AT = "command/pages/one/one.command.code.ts"
 
 const IGNORED =
   "# a note\n\n*.uncommitted.*\n.claude/\nnode_modules/\ndist/\n*.d.ts\n!**/types/**/*.d.ts\n"

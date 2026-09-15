@@ -2,14 +2,14 @@ import { expect, test } from "bun:test"
 import {
   INPUT,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   copiedBy,
   type Named,
   temperAddonCopyMetadata,
-} from "akasha/commands/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.code.ts"
+} from "akasha/command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.code.ts"
 
 const NAMED: Named = {
   root: "/nowhere",

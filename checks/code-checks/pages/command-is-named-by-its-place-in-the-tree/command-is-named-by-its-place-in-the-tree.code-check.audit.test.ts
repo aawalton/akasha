@@ -16,11 +16,11 @@ const NS = "01a08d69-0b2e-7201-8000-000000000001"
 
 const CMD = "01a08d69-0b2e-7202-8000-000000000002"
 
-const NS_AT = "commands/pages/warbling/warbling.namespace.ts"
+const NS_AT = "command/pages/warbling/warbling.namespace.ts"
 
-const UNDER = "commands/pages/warbling/humming/warbling-humming.command.ts"
+const UNDER = "command/pages/warbling/humming/warbling-humming.command.ts"
 
-const BESIDE = "commands/pages/warbling/warbling-humming.command.ts"
+const BESIDE = "command/pages/warbling/warbling-humming.command.ts"
 
 const scratch = scratchWorld()
 
@@ -50,7 +50,7 @@ test("an audit refuses a command sitting beside the namespace naming it", () => 
   const said = commandIsNamedByItsPlaceInTheTree(rooted(BESIDE))
 
   expect(said.map((one) => one.path)).toEqual([BESIDE])
-  expect(said[0]?.reason).toContain("commands/pages/warbling/humming")
+  expect(said[0]?.reason).toContain("command/pages/warbling/humming")
 })
 
 test("an audit lets a command in a folder directly inside its namespace through", () => {

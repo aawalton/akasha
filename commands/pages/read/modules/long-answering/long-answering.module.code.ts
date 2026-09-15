@@ -1,12 +1,12 @@
 import { type Reading, reachOf } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import type { Run } from "akasha/commands/modules/long-body/long-body.module.code.ts"
+import type { Run } from "akasha/command/modules/long-body/long-body.module.code.ts"
 import {
   linesOf,
   moreCall,
   runFrom,
   runLines,
   tooWide,
-} from "akasha/commands/modules/long-body/long-body.module.code.ts"
+} from "akasha/command/modules/long-body/long-body.module.code.ts"
 
 export type Longing = {
   readonly calledAs: string

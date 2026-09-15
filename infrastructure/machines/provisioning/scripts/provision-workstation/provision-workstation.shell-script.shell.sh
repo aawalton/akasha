@@ -6,7 +6,7 @@ HERE="$(cd -- "$(dirname -- "$(readlink -f -- "$0")")" && pwd -P)"
 . "$HERE/../repo-roots/repo-roots.shell-script.shell.sh"
 AKASHA="$AKASHA_ROOT"
 FILES="$AKASHA_ROOT/infrastructure/machines/provisioning/provisioned-files/pages"
-DISPATCHER="$AKASHA/commands/modules/cli/cli.module.code.ts"
+DISPATCHER="$AKASHA/command/modules/cli/cli.module.code.ts"
 SUDOERS_FILE="/etc/sudoers.d/walton-nopasswd"
 SUDOERS_LINE="$(whoami) ALL=(ALL) NOPASSWD: ALL"
 

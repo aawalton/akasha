@@ -1,18 +1,18 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { dryRun as dryRunArgument } from "akasha/commands/arguments/pages/dry-run.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { dryRun as dryRunArgument } from "akasha/command/arguments/pages/dry-run.argument.ts"
 import {
   answeredWith,
   DATA,
   OK,
   OPERATIONAL,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { indexRefresh as page } from "akasha/commands/pages/index/refresh/index-refresh.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { indexRefresh as page } from "akasha/command/pages/index/refresh/index-refresh.command.ts"
 import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
 import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedWhole } from "akasha/pages/index/modules/indexing/indexing.module.code.ts"

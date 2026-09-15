@@ -1,16 +1,16 @@
 import { aliasIndexesIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import type { AliasEntry } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
 import { generateBashInit } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   DATA,
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { infrastructureShellInitBash as page } from "akasha/commands/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { infrastructureShellInitBash as page } from "akasha/command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.ts"
 
 const NO_ACCOUNT =
   "no model account page was read, so the set would carry no account launcher at all — " +

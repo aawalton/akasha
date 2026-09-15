@@ -44,8 +44,8 @@ import {
   createSubagentReader,
   type SubagentNode,
 } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { remove } from "akasha/commands/arguments/pages/remove.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { remove } from "akasha/command/arguments/pages/remove.argument.ts"
 import {
   answeredWith,
   answering,
@@ -53,9 +53,9 @@ import {
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { agentSubagentSweep as page } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { agentSubagentSweep as page } from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.ts"
 
 export const TAKE = "change-mechanical/remove-file-of-any-kind"
 

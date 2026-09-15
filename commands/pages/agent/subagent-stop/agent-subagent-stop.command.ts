@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const agentSubagentStop = {
   id: "01a09c5f-3b45-7a00-b0e7-238c94f217aa",

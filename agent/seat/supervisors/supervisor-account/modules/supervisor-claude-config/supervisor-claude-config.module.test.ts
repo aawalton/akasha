@@ -5,7 +5,7 @@ import {
   readClaudeConfigDeclaration,
   reconcileClaudeConfig,
 } from "akasha/agent/seat/supervisors/supervisor-account/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 
 test("a leading home token is expanded and one elsewhere is not", () => {
   expect(expandHome("$HOME/.claude", "/home/walton")).toBe("/home/walton/.claude")

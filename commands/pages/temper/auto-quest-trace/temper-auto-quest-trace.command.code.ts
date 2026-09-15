@@ -1,17 +1,17 @@
 import { readFileSync } from "node:fs"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { questTracePath } from "akasha/commands/arguments/pages/quest-trace-path.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { questTracePath } from "akasha/command/arguments/pages/quest-trace-path.argument.ts"
 import {
   asJson,
   DATA,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { temperAutoQuestTrace as page } from "akasha/commands/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.ts"
-import { saidShort } from "akasha/temper/commands/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { temperAutoQuestTrace as page } from "akasha/command/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.ts"
+import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { TEMPER_QUESTS_SAVED_VARIABLES } from "akasha/temper/quests-trace/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/modules/lua-parser/lua-parser.module.code.ts"

@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { inventoryPath } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { section } from "akasha/commands/arguments/pages/section.argument.ts"
-import { sectionIn } from "akasha/commands/pages/temper/inventory/configuration/temper-inventory-configuration.command.code.ts"
-import { temperInventoryConfiguration as page } from "akasha/commands/pages/temper/inventory/configuration/temper-inventory-configuration.command.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { inventoryPath } from "akasha/command/arguments/pages/inventory-path.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { section } from "akasha/command/arguments/pages/section.argument.ts"
+import { sectionIn } from "akasha/command/pages/temper/inventory/configuration/temper-inventory-configuration.command.code.ts"
+import { temperInventoryConfiguration as page } from "akasha/command/pages/temper/inventory/configuration/temper-inventory-configuration.command.ts"
 
 const CALLED = "akasha temper inventory configuration"
 

@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const pod = {
   id: "01a094eb-2b5e-7dc3-a279-52a2d84c74b3",

@@ -4,7 +4,7 @@ import {
   CLAUDE_AUTHOR,
   forgetCommitAuthor,
   WRITER_NAMED,
-} from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
+} from "akasha/command/modules/commit-author/commit-author.module.code.ts"
 
 const SOMEONE = "Someone <one@two.three>"
 

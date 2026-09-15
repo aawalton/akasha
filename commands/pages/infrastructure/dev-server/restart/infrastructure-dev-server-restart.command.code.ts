@@ -1,20 +1,20 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { port } from "akasha/commands/arguments/pages/port.argument.ts"
-import { seq } from "akasha/commands/arguments/pages/seq.argument.ts"
-import { webApp } from "akasha/commands/arguments/pages/web-app.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { port } from "akasha/command/arguments/pages/port.argument.ts"
+import { seq } from "akasha/command/arguments/pages/seq.argument.ts"
+import { webApp } from "akasha/command/arguments/pages/web-app.argument.ts"
 import {
   answering,
   keeping,
   OK,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   starting,
   stopping,
-} from "akasha/commands/pages/infrastructure/dev-server/modules/dev-server-running/dev-server-running.module.code.ts"
-import { infrastructureDevServerRestart as page } from "akasha/commands/pages/infrastructure/dev-server/restart/infrastructure-dev-server-restart.command.ts"
+} from "akasha/command/pages/infrastructure/dev-server/modules/dev-server-running/dev-server-running.module.code.ts"
+import { infrastructureDevServerRestart as page } from "akasha/command/pages/infrastructure/dev-server/restart/infrastructure-dev-server-restart.command.ts"
 import { namingApps } from "akasha/infrastructure/services/web-apps/modules/dev-server-stating/dev-server-stating.module.code.ts"
 
 export async function infrastructureDevServerRestart(

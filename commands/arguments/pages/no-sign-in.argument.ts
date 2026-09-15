@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const noSignIn = {
   id: "01a094cc-04da-77c3-b0e9-58945ba5e825",

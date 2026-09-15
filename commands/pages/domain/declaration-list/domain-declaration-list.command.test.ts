@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { declarationSubject } from "akasha/commands/arguments/pages/declaration-subject.argument.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { declarationSubject } from "akasha/command/arguments/pages/declaration-subject.argument.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   domainDeclarationList as listing,
   wrongIn,
-} from "akasha/commands/pages/domain/declaration-list/domain-declaration-list.command.code.ts"
-import { domainDeclarationList } from "akasha/commands/pages/domain/declaration-list/domain-declaration-list.command.ts"
+} from "akasha/command/pages/domain/declaration-list/domain-declaration-list.command.code.ts"
+import { domainDeclarationList } from "akasha/command/pages/domain/declaration-list/domain-declaration-list.command.ts"
 
 const SUBJECT = declarationSubject.said
 

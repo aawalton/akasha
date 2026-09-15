@@ -3,12 +3,12 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { baseOf as headOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { DATA, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { baseOf as headOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
   CHOSEN,
   changeApply,
-} from "akasha/commands/pages/change/apply/change-apply.command.code.ts"
+} from "akasha/command/pages/change/apply/change-apply.command.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { REFUSES_CODE } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
 import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"

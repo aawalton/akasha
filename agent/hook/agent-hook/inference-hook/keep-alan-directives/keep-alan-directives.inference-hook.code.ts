@@ -40,7 +40,7 @@ import {
   createSubagentReader,
   type SubagentNode,
 } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   valuedAt,
   valuesOfType,

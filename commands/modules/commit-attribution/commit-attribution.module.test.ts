@@ -6,7 +6,7 @@ import {
   attributionLines,
   modelNamed,
   SESSION_NAMED,
-} from "akasha/commands/modules/commit-attribution/commit-attribution.module.code.ts"
+} from "akasha/command/modules/commit-attribution/commit-attribution.module.code.ts"
 
 const SESSION = "session_015hThfHxKwTU3dXSpN4iZBP"
 

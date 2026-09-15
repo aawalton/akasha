@@ -17,8 +17,8 @@ import {
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   missedIn,
   namedIn,
@@ -27,14 +27,14 @@ import {
   saidOf,
   type Words,
   wording,
-} from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+} from "akasha/command/modules/change-acting/change-acting.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
   ANSWER_CEILING,
   countLines,
-} from "akasha/commands/modules/long-body/long-body.module.code.ts"
-import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+} from "akasha/command/modules/long-body/long-body.module.code.ts"
+import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
 import { textIn } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { textThere } from "akasha/utils/fs/modules/text-there/text-there.module.code.ts"

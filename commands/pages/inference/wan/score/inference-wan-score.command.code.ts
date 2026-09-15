@@ -2,10 +2,10 @@ import { basename, dirname, join } from "node:path"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { floor as floorArgument } from "akasha/commands/arguments/pages/floor.argument.ts"
-import { framesDir as framesDirArgument } from "akasha/commands/arguments/pages/frames-dir.argument.ts"
-import { reference as referenceArgument } from "akasha/commands/arguments/pages/reference.argument.ts"
+} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { floor as floorArgument } from "akasha/command/arguments/pages/floor.argument.ts"
+import { framesDir as framesDirArgument } from "akasha/command/arguments/pages/frames-dir.argument.ts"
+import { reference as referenceArgument } from "akasha/command/arguments/pages/reference.argument.ts"
 import {
   answering,
   DATA,
@@ -13,15 +13,15 @@ import {
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { pathUnder } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { pathUnder } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
 import {
   homeIn,
   imageIn,
   spawned,
-} from "akasha/commands/pages/inference/wan/modules/wan-hosting/wan-hosting.module.code.ts"
-import { inferenceWanScore as page } from "akasha/commands/pages/inference/wan/score/inference-wan-score.command.ts"
+} from "akasha/command/pages/inference/wan/modules/wan-hosting/wan-hosting.module.code.ts"
+import { inferenceWanScore as page } from "akasha/command/pages/inference/wan/score/inference-wan-score.command.ts"
 
 const REJECTED_INPUTS = 2
 

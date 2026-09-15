@@ -1,25 +1,25 @@
 import { composedIn } from "akasha/alan/google/email/modules/email-command-reading/email-command-reading.module.code.ts"
 import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { attach } from "akasha/commands/arguments/pages/attach.argument.ts"
-import { bcc } from "akasha/commands/arguments/pages/bcc.argument.ts"
-import { body } from "akasha/commands/arguments/pages/body.argument.ts"
-import { bodyFile } from "akasha/commands/arguments/pages/body-file.argument.ts"
-import { cc } from "akasha/commands/arguments/pages/cc.argument.ts"
-import { replyToMessage } from "akasha/commands/arguments/pages/reply-to-message.argument.ts"
-import { sendAs } from "akasha/commands/arguments/pages/send-as.argument.ts"
-import { subject } from "akasha/commands/arguments/pages/subject.argument.ts"
-import { subjectFile } from "akasha/commands/arguments/pages/subject-file.argument.ts"
-import { thread } from "akasha/commands/arguments/pages/thread.argument.ts"
-import { toAddress } from "akasha/commands/arguments/pages/to-address.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { attach } from "akasha/command/arguments/pages/attach.argument.ts"
+import { bcc } from "akasha/command/arguments/pages/bcc.argument.ts"
+import { body } from "akasha/command/arguments/pages/body.argument.ts"
+import { bodyFile } from "akasha/command/arguments/pages/body-file.argument.ts"
+import { cc } from "akasha/command/arguments/pages/cc.argument.ts"
+import { replyToMessage } from "akasha/command/arguments/pages/reply-to-message.argument.ts"
+import { sendAs } from "akasha/command/arguments/pages/send-as.argument.ts"
+import { subject } from "akasha/command/arguments/pages/subject.argument.ts"
+import { subjectFile } from "akasha/command/arguments/pages/subject-file.argument.ts"
+import { thread } from "akasha/command/arguments/pages/thread.argument.ts"
+import { toAddress } from "akasha/command/arguments/pages/to-address.argument.ts"
 import {
   answering,
   asIndentedJson,
   INPUT,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { emailMessageSend as page } from "akasha/commands/pages/email/message/send/email-message-send.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { emailMessageSend as page } from "akasha/command/pages/email/message/send/email-message-send.command.ts"
 
 const TAKES = [
   toAddress,

@@ -5,19 +5,19 @@ import type {
   SearchResponse,
 } from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
 import { search } from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { artist as artistArgument } from "akasha/commands/arguments/pages/artist.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
-import { query as queryArgument } from "akasha/commands/arguments/pages/query.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { artist as artistArgument } from "akasha/command/arguments/pages/artist.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { limit as limitArgument } from "akasha/command/arguments/pages/limit.argument.ts"
+import { query as queryArgument } from "akasha/command/arguments/pages/query.argument.ts"
 import {
   INPUT,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { musicSearch as page } from "akasha/commands/pages/music/search/music-search.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { musicSearch as page } from "akasha/command/pages/music/search/music-search.command.ts"
 
 const MAX_FETCH = 10
 

@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { descent } from "akasha/commands/arguments/pages/descent.argument.ts"
-import { paths } from "akasha/commands/arguments/pages/paths.argument.ts"
-import { rootDomain } from "akasha/commands/arguments/pages/root-domain.argument.ts"
-import { up } from "akasha/commands/arguments/pages/up.argument.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { domainDag as drawing } from "akasha/commands/pages/domain/dag/domain-dag.command.code.ts"
-import { domainDag } from "akasha/commands/pages/domain/dag/domain-dag.command.ts"
+import { descent } from "akasha/command/arguments/pages/descent.argument.ts"
+import { paths } from "akasha/command/arguments/pages/paths.argument.ts"
+import { rootDomain } from "akasha/command/arguments/pages/root-domain.argument.ts"
+import { up } from "akasha/command/arguments/pages/up.argument.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { domainDag as drawing } from "akasha/command/pages/domain/dag/domain-dag.command.code.ts"
+import { domainDag } from "akasha/command/pages/domain/dag/domain-dag.command.ts"
 
 const NOWHERE = "/nowhere"
 

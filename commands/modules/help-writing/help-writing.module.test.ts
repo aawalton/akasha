@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { calling, HELP, HELP_SHORT } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { calling, HELP, HELP_SHORT } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   ANSWERS,
   argumentsFiled,
   OUTSIDE,
   rootWith,
   sweep,
-} from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
+} from "akasha/command/modules/calling/calling.module.test-fixtures.ts"
 import {
   argumentsIn,
   helpOf,
@@ -15,7 +15,7 @@ import {
   statementsIn,
   surfaceOf,
   type Taken,
-} from "akasha/commands/modules/help-writing/help-writing.module.code.ts"
+} from "akasha/command/modules/help-writing/help-writing.module.code.ts"
 
 afterAll(sweep)
 

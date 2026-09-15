@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const dryRun = {
   id: "01a0940b-b3ad-7c34-aa15-e18d5160f624",

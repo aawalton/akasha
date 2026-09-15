@@ -6,11 +6,11 @@ import {
   DATA,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   type Landing,
   landedWith,
@@ -20,7 +20,7 @@ import {
   type Target,
   undeclared,
   valueIn,
-} from "akasha/pages/commands/modules/page-secret-acting/page-secret-acting.module.code.ts"
+} from "akasha/pages/command/modules/page-secret-acting/page-secret-acting.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const AT = "akasha/agent/model/account/pages/one.model-account.ts"

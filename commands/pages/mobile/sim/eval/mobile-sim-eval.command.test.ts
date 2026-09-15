@@ -6,16 +6,16 @@ import {
   answering,
   OPERATIONAL,
   partWay,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Running } from "akasha/commands/pages/mobile/sim/eval/mobile-sim-eval.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Running } from "akasha/command/pages/mobile/sim/eval/mobile-sim-eval.command.code.ts"
 import {
   evaluated,
   mobileSimEval,
   scriptIn,
   sentSaid,
-} from "akasha/commands/pages/mobile/sim/eval/mobile-sim-eval.command.code.ts"
+} from "akasha/command/pages/mobile/sim/eval/mobile-sim-eval.command.code.ts"
 
 const ARGV = ["--script", "return 1"]
 

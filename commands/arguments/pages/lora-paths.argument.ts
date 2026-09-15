@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const loraPaths = {
   id: "01a094d8-ef44-7277-a6d0-383be90fed6f",

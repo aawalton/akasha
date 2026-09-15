@@ -6,16 +6,16 @@ import {
 } from "akasha/alan/harness/attributes/modules/reading/attributes-reading.module.code.ts"
 import { totalAttributes } from "akasha/alan/harness/attributes/modules/totalling/attributes-totalling.module.code.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   answering,
   DATA,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { refreshAttribute as page } from "akasha/commands/pages/refresh/attribute/refresh-attribute.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { refreshAttribute as page } from "akasha/command/pages/refresh/attribute/refresh-attribute.command.ts"
 
 const NOTHING_REBUILT =
   "no attribute could be added up over the days before today, so nothing was rebuilt. A figure " +

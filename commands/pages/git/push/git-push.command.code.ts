@@ -1,14 +1,14 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { dryRun } from "akasha/command/arguments/pages/dry-run.argument.ts"
 import {
   INPUT,
   OPERATIONAL,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { gitPush as page } from "akasha/commands/pages/git/push/git-push.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { gitPush as page } from "akasha/command/pages/git/push/git-push.command.ts"
 import { git } from "akasha/git/modules/capping/git-capping.module.code.ts"
 import { pushBranch, remoteOf } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 

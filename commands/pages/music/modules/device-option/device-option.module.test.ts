@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   optionFor,
   whereOf,
-} from "akasha/commands/pages/music/modules/device-option/device-option.module.code.ts"
+} from "akasha/command/pages/music/modules/device-option/device-option.module.code.ts"
 
 test("a call naming no device leaves the option empty", () => {
   expect(optionFor(undefined)).toEqual({})

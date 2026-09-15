@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
+import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import {
   markedLine,
   markingIn,
   pipedIn,
-} from "akasha/commands/modules/piping/piping.module.code.ts"
-import { TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
+} from "akasha/command/modules/piping/piping.module.code.ts"
+import { TERMINAL } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"

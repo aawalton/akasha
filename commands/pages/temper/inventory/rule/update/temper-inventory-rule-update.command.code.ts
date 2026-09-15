@@ -1,25 +1,25 @@
-import type { TakenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { action } from "akasha/commands/arguments/pages/action.argument.ts"
-import { active } from "akasha/commands/arguments/pages/active.argument.ts"
-import { category } from "akasha/commands/arguments/pages/category.argument.ts"
-import { categoryRuleId } from "akasha/commands/arguments/pages/category-rule-id.argument.ts"
-import { conditions } from "akasha/commands/arguments/pages/conditions.argument.ts"
-import { destination } from "akasha/commands/arguments/pages/destination.argument.ts"
-import { destinationChain } from "akasha/commands/arguments/pages/destination-chain.argument.ts"
-import { force } from "akasha/commands/arguments/pages/force.argument.ts"
-import { goal } from "akasha/commands/arguments/pages/goal.argument.ts"
-import { notes } from "akasha/commands/arguments/pages/notes.argument.ts"
-import { stockScope } from "akasha/commands/arguments/pages/stock-scope.argument.ts"
-import { title } from "akasha/commands/arguments/pages/title.argument.ts"
+import type { TakenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { action } from "akasha/command/arguments/pages/action.argument.ts"
+import { active } from "akasha/command/arguments/pages/active.argument.ts"
+import { category } from "akasha/command/arguments/pages/category.argument.ts"
+import { categoryRuleId } from "akasha/command/arguments/pages/category-rule-id.argument.ts"
+import { conditions } from "akasha/command/arguments/pages/conditions.argument.ts"
+import { destination } from "akasha/command/arguments/pages/destination.argument.ts"
+import { destinationChain } from "akasha/command/arguments/pages/destination-chain.argument.ts"
+import { force } from "akasha/command/arguments/pages/force.argument.ts"
+import { goal } from "akasha/command/arguments/pages/goal.argument.ts"
+import { notes } from "akasha/command/arguments/pages/notes.argument.ts"
+import { stockScope } from "akasha/command/arguments/pages/stock-scope.argument.ts"
+import { title } from "akasha/command/arguments/pages/title.argument.ts"
 import {
   INPUT,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answeredByPage } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
-import { temperInventoryRuleUpdate as page } from "akasha/commands/pages/temper/inventory/rule/update/temper-inventory-rule-update.command.ts"
-import { emitJson } from "akasha/temper/commands/modules/format-output/format-output.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { answeredByPage } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
+import { temperInventoryRuleUpdate as page } from "akasha/command/pages/temper/inventory/rule/update/temper-inventory-rule-update.command.ts"
+import { emitJson } from "akasha/temper/command/modules/format-output/format-output.module.code.ts"
 import {
   lockedOff,
   named,
@@ -28,7 +28,7 @@ import {
   type Writing,
   webOf,
   wroteSaid,
-} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   narrowCategoryId,
   narrowItemAction,
@@ -36,7 +36,7 @@ import {
   narrowStockScope,
   parseConditionsJson,
   parseDestinationChainJson,
-} from "akasha/temper/commands/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+} from "akasha/temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 import { bulkUpdateCategoryRules } from "akasha/temper/items-rules-core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 
 const CHANGED = [

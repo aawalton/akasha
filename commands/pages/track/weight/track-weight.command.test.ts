@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { bodyweight } from "akasha/commands/arguments/pages/bodyweight.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { bodyweight } from "akasha/command/arguments/pages/bodyweight.argument.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   poundsIn,
   trackWeight,
-} from "akasha/commands/pages/track/weight/track-weight.command.code.ts"
+} from "akasha/command/pages/track/weight/track-weight.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

@@ -5,19 +5,19 @@ import {
   sweptAll,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { atMostIn } from "akasha/changes/modules/value-carrying/value-carrying.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { change } from "akasha/commands/arguments/pages/change.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { change } from "akasha/command/arguments/pages/change.argument.ts"
 import {
   answering,
   DATA,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { readingIn } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { type Input, inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { changeRepeat as page } from "akasha/commands/pages/change/repeat/change-repeat.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { readingIn } from "akasha/command/modules/argument-reading/argument-reading.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { type Input, inputIn } from "akasha/command/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { changeRepeat as page } from "akasha/command/pages/change/repeat/change-repeat.command.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"

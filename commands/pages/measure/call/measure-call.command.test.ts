@@ -6,15 +6,15 @@ import {
   sinceNow,
   TWO,
 } from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
-import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { runWindow } from "akasha/commands/arguments/pages/run-window.argument.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+import { runWindow } from "akasha/command/arguments/pages/run-window.argument.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   measureCall,
   shortened,
-} from "akasha/commands/pages/measure/call/measure-call.command.code.ts"
-import { measureCall as page } from "akasha/commands/pages/measure/call/measure-call.command.ts"
+} from "akasha/command/pages/measure/call/measure-call.command.code.ts"
+import { measureCall as page } from "akasha/command/pages/measure/call/measure-call.command.ts"
 import { valueAlsoFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"

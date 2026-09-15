@@ -8,7 +8,7 @@ import {
   foldersUnder,
   isFolder,
   wouldClear,
-} from "akasha/commands/modules/folder-clearing/folder-clearing.module.code.ts"
+} from "akasha/command/modules/folder-clearing/folder-clearing.module.code.ts"
 import {
   put,
   there,

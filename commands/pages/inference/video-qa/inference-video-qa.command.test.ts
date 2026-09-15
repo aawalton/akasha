@@ -2,13 +2,13 @@ import { expect, test } from "bun:test"
 import {
   OPERATIONAL,
   partWay,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   decodedSaid,
   inferenceVideoQa,
-} from "akasha/commands/pages/inference/video-qa/inference-video-qa.command.code.ts"
+} from "akasha/command/pages/inference/video-qa/inference-video-qa.command.code.ts"
 
 function given(root: string): Given {
   return { root, calledAs: "akasha inference video-qa", from: root, writer: null, agentId: null }

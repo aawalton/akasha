@@ -13,17 +13,17 @@ import {
 } from "akasha/alan/harness/supabase-server/modules/throwaway-user/throwaway-user.module.code.ts"
 import { readBrowserTestEnv } from "akasha/code/browser/test-harness/modules/browser-test-env/browser-test-env.module.code.ts"
 import { launchAndSignIn } from "akasha/code/browser/test-harness/modules/harness-launch/harness-launch.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
-import { signInPath as signInPathArgument } from "akasha/commands/arguments/pages/sign-in-path.argument.ts"
-import { url as urlArgument } from "akasha/commands/arguments/pages/url.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
+import { signInPath as signInPathArgument } from "akasha/command/arguments/pages/sign-in-path.argument.ts"
+import { url as urlArgument } from "akasha/command/arguments/pages/url.argument.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { browserTestStorageState as page } from "akasha/commands/pages/browser/test-storage-state/browser-test-storage-state.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { browserTestStorageState as page } from "akasha/command/pages/browser/test-storage-state/browser-test-storage-state.command.ts"
 
 const OWNER_ONLY = 0o600
 

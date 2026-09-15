@@ -5,22 +5,22 @@ import { basename, dirname, join } from "node:path"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { baseModel } from "akasha/commands/arguments/pages/base-model.argument.ts"
-import { guidance as guidanceArgument } from "akasha/commands/arguments/pages/guidance.argument.ts"
-import { height as heightArgument } from "akasha/commands/arguments/pages/height.argument.ts"
-import { loraPaths } from "akasha/commands/arguments/pages/lora-paths.argument.ts"
-import { loraScales } from "akasha/commands/arguments/pages/lora-scales.argument.ts"
-import { model as modelArgument } from "akasha/commands/arguments/pages/model.argument.ts"
-import { negativePrompt as negativePromptArgument } from "akasha/commands/arguments/pages/negative-prompt.argument.ts"
-import { negativePromptFile } from "akasha/commands/arguments/pages/negative-prompt-file.argument.ts"
-import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
-import { promptFile } from "akasha/commands/arguments/pages/prompt-file.argument.ts"
-import { renderPrompt } from "akasha/commands/arguments/pages/render-prompt.argument.ts"
-import { seed as seedArgument } from "akasha/commands/arguments/pages/seed.argument.ts"
-import { steps as stepsArgument } from "akasha/commands/arguments/pages/steps.argument.ts"
-import { timeout as timeoutArgument } from "akasha/commands/arguments/pages/timeout.argument.ts"
-import { width as widthArgument } from "akasha/commands/arguments/pages/width.argument.ts"
+} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { baseModel } from "akasha/command/arguments/pages/base-model.argument.ts"
+import { guidance as guidanceArgument } from "akasha/command/arguments/pages/guidance.argument.ts"
+import { height as heightArgument } from "akasha/command/arguments/pages/height.argument.ts"
+import { loraPaths } from "akasha/command/arguments/pages/lora-paths.argument.ts"
+import { loraScales } from "akasha/command/arguments/pages/lora-scales.argument.ts"
+import { model as modelArgument } from "akasha/command/arguments/pages/model.argument.ts"
+import { negativePrompt as negativePromptArgument } from "akasha/command/arguments/pages/negative-prompt.argument.ts"
+import { negativePromptFile } from "akasha/command/arguments/pages/negative-prompt-file.argument.ts"
+import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
+import { promptFile } from "akasha/command/arguments/pages/prompt-file.argument.ts"
+import { renderPrompt } from "akasha/command/arguments/pages/render-prompt.argument.ts"
+import { seed as seedArgument } from "akasha/command/arguments/pages/seed.argument.ts"
+import { steps as stepsArgument } from "akasha/command/arguments/pages/steps.argument.ts"
+import { timeout as timeoutArgument } from "akasha/command/arguments/pages/timeout.argument.ts"
+import { width as widthArgument } from "akasha/command/arguments/pages/width.argument.ts"
 import {
   answering,
   INPUT,
@@ -28,12 +28,12 @@ import {
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import { pathUnder } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
-import { inferenceZimage as page } from "akasha/commands/pages/inference/zimage/inference-zimage.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
+import { pathUnder } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
+import { inferenceZimage as page } from "akasha/command/pages/inference/zimage/inference-zimage.command.ts"
 import {
   fetchImage,
   runComfyGraph,

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { CharacterKnowledge } from "akasha/temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
-import { buildCliEvalEnv } from "akasha/temper/commands/modules/inventory-eval-env/inventory-eval-env.module.code.ts"
+import type { CharacterKnowledge } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import { buildCliEvalEnv } from "akasha/temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items-rules-core/modules/scribing-total-script-count/scribing-total-script-count.module.code.ts"

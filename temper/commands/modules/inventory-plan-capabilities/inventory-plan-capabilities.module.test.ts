@@ -9,7 +9,7 @@ import {
   planChecklist,
   planInputs,
   ruleMatcher,
-} from "akasha/temper/commands/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+} from "akasha/temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
 
 describe("planInputs", () => {
   test("hands over the two default saved variables paths and the two loaders", async () => {

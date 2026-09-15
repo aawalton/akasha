@@ -71,7 +71,7 @@ export const commandTakesItsArgumentsThroughOneReader = {
     },
     {
       invariantKind: "departure",
-      statement: "A module's code under `commands/pages` is judged as well.",
+      statement: "A module's code under `command/pages` is judged as well.",
     },
     {
       invariantKind: "departure",
@@ -79,7 +79,7 @@ export const commandTakesItsArgumentsThroughOneReader = {
     },
     {
       invariantKind: "departure",
-      statement: "A file outside `commands/pages` is refused nothing.",
+      statement: "A file outside `command/pages` is refused nothing.",
     },
     {
       invariantKind: "departure",

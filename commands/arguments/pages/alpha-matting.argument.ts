@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const alphaMatting = {
   id: "01a0950e-47c2-794c-87e2-2ec3480b0c9a",

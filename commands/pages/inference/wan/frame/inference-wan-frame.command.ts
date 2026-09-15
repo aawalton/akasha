@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const inferenceWanFrame = {
   id: "01a093fb-2ee0-78a1-878b-af3bc16c19c1",

@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const snapshot = {
   id: "01a094cb-f4f8-7109-9fa0-5f342220a31f",

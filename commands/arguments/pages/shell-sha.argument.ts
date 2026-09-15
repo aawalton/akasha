@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const shellSha = {
   id: "01a094c8-8da6-7f0c-8b6a-c33ad0740c67",

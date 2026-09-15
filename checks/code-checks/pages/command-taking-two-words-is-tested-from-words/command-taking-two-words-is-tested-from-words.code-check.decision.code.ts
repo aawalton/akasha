@@ -2,7 +2,7 @@ import { bodyOf, onDisk } from "akasha/checks/modules/change-walking/change-walk
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
-const COMMANDS_AT = "commands/pages/"
+const COMMANDS_AT = "command/pages/"
 
 const PAGE_AT = ".command.ts"
 

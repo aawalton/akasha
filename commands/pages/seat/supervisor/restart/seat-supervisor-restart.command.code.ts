@@ -2,17 +2,17 @@ import {
   nameOf,
   supervisorOf,
 } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { everySeat } from "akasha/commands/arguments/pages/every-seat.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { everySeat } from "akasha/command/arguments/pages/every-seat.argument.ts"
 import {
   answering,
   DATA,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { seatSupervisorRestart as page } from "akasha/commands/pages/seat/supervisor/restart/seat-supervisor-restart.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { seatSupervisorRestart as page } from "akasha/command/pages/seat/supervisor/restart/seat-supervisor-restart.command.ts"
 import type { Holder } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
 import { alive } from "akasha/files/modules/lock-holder/lock-holder.module.code.ts"
 import {

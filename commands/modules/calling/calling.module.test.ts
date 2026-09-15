@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { calling, commandsIn, HELP } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { DATA, INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { calling, commandsIn, HELP } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   ANSWERS,
   ANSWERS_LATER,
@@ -27,7 +27,7 @@ import {
   TYPED,
   trackSession,
   WILL_NOT_LOAD,
-} from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
+} from "akasha/command/modules/calling/calling.module.test-fixtures.ts"
 import {
   idTakenFrom,
   indexTakenFrom,

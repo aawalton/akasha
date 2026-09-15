@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const addonName = {
   id: "01a094c8-7fcd-791f-91d7-b42fd00d4f12",

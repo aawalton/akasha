@@ -16,7 +16,7 @@ import {
   longWhole,
   tooWideRead,
   wholeNumbered,
-} from "akasha/commands/pages/read/modules/long-answering/long-answering.module.test-fixtures.ts"
+} from "akasha/command/pages/read/modules/long-answering/long-answering.module.test-fixtures.ts"
 import {
   ANSWER_CEILING,
   costOf,
@@ -26,7 +26,7 @@ import {
   PAGE_CEILING,
   readWith,
   restCall,
-} from "akasha/commands/pages/read/read.command.code.ts"
+} from "akasha/command/pages/read/read.command.code.ts"
 import {
   AGENT,
   absoluteRead,
@@ -73,7 +73,7 @@ import {
   WARRANTED,
   waitedOut,
   wholeIn,
-} from "akasha/commands/pages/read/read.command.test-fixtures.ts"
+} from "akasha/command/pages/read/read.command.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

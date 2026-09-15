@@ -1,24 +1,24 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { char as charArgument } from "akasha/commands/arguments/pages/char.argument.ts"
-import { charactersPath as charactersPathArgument } from "akasha/commands/arguments/pages/characters-path.argument.ts"
-import { itemKey as itemKeyArgument } from "akasha/commands/arguments/pages/item-key.argument.ts"
-import { json as jsonArgument } from "akasha/commands/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { char as charArgument } from "akasha/command/arguments/pages/char.argument.ts"
+import { charactersPath as charactersPathArgument } from "akasha/command/arguments/pages/characters-path.argument.ts"
+import { itemKey as itemKeyArgument } from "akasha/command/arguments/pages/item-key.argument.ts"
+import { json as jsonArgument } from "akasha/command/arguments/pages/json.argument.ts"
 import {
   asJson,
   INPUT,
   OPERATIONAL,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { temperInventoryKnowledge as page } from "akasha/commands/pages/temper/inventory/knowledge/temper-inventory-knowledge.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { temperInventoryKnowledge as page } from "akasha/command/pages/temper/inventory/knowledge/temper-inventory-knowledge.command.ts"
 import {
   type CharacterKnowledge,
   loadTemperCharactersFromPath,
-} from "akasha/temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+} from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { wholeNumberIn } from "akasha/utils/narrow/modules/whole-number-in/whole-number-in.module.code.ts"

@@ -1,28 +1,28 @@
-import type { TakenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { active } from "akasha/commands/arguments/pages/active.argument.ts"
-import { goal } from "akasha/commands/arguments/pages/goal.argument.ts"
-import { itemId } from "akasha/commands/arguments/pages/item-id.argument.ts"
-import { itemName } from "akasha/commands/arguments/pages/item-name.argument.ts"
-import { notes } from "akasha/commands/arguments/pages/notes.argument.ts"
-import { source as sourceArgument } from "akasha/commands/arguments/pages/source.argument.ts"
-import { targetQuantity } from "akasha/commands/arguments/pages/target-quantity.argument.ts"
-import { title } from "akasha/commands/arguments/pages/title.argument.ts"
+import type { TakenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { active } from "akasha/command/arguments/pages/active.argument.ts"
+import { goal } from "akasha/command/arguments/pages/goal.argument.ts"
+import { itemId } from "akasha/command/arguments/pages/item-id.argument.ts"
+import { itemName } from "akasha/command/arguments/pages/item-name.argument.ts"
+import { notes } from "akasha/command/arguments/pages/notes.argument.ts"
+import { source as sourceArgument } from "akasha/command/arguments/pages/source.argument.ts"
+import { targetQuantity } from "akasha/command/arguments/pages/target-quantity.argument.ts"
+import { title } from "akasha/command/arguments/pages/title.argument.ts"
 import {
   DATA,
   INPUT,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answeredByPage } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
-import { temperInventoryBuyRuleCreate as page } from "akasha/commands/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { answeredByPage } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
+import { temperInventoryBuyRuleCreate as page } from "akasha/command/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.ts"
 import {
   settingsOf,
   type Writing,
   webOf,
   wroteSaid,
-} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import { BUY_SOURCE_VALUES } from "akasha/temper/commands/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+} from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import { BUY_SOURCE_VALUES } from "akasha/temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 import {
   addBuyRule,
   bulkUpdateBuyRules,

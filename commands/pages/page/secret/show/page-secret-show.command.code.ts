@@ -1,14 +1,14 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
-import { key as keyArgument } from "akasha/commands/arguments/pages/key.argument.ts"
-import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking, wrongData } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { pageSecretShow as page } from "akasha/commands/pages/page/secret/show/page-secret-show.command.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { filePath } from "akasha/command/arguments/pages/file-path.argument.ts"
+import { key as keyArgument } from "akasha/command/arguments/pages/key.argument.ts"
+import { told } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking, wrongData } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { pageSecretShow as page } from "akasha/command/pages/page/secret/show/page-secret-show.command.ts"
 import {
   caught,
   targeting,
-} from "akasha/pages/commands/modules/page-secret-acting/page-secret-acting.module.code.ts"
+} from "akasha/pages/command/modules/page-secret-acting/page-secret-acting.module.code.ts"
 import { secretsIn } from "akasha/pages/modules/secret/page-secret.module.code.ts"
 
 export async function pageSecretShow(argv: readonly string[], given: Given): Promise<Answer> {

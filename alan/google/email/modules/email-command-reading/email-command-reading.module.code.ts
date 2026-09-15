@@ -1,13 +1,13 @@
 import { isAbsolute, resolve } from "node:path"
 import { buildComposeInput } from "akasha/alan/google/email/modules/compose-input-from-arguments/compose-input-from-arguments.module.code.ts"
 import type { ComposeInput } from "akasha/alan/google/email/modules/email-shapes/email-shapes.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   type Filing,
   filledIn,
-} from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
+} from "akasha/command/modules/filling/command-filling.module.code.ts"
+import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
+import { inputIn } from "akasha/command/modules/piping/piping.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const INPUT_MARK = "-"

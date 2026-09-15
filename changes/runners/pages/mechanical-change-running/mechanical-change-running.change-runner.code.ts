@@ -13,14 +13,14 @@ import {
   runAt,
 } from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
 import type { Changes } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
-import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { type Applied, applied } from "akasha/commands/modules/applying/applying.module.code.ts"
-import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { runningOf } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
-import { landingFrom } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
-import { NO_GATE } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
-import type { Committing, Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { DATA, INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { type Applied, applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import type { Kind } from "akasha/command/modules/calling/calling.module.code.ts"
+import { runningOf } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
+import { landingFrom } from "akasha/command/modules/edits-landing/edits-landing.module.code.ts"
+import { NO_GATE } from "akasha/command/modules/gate-building/gate-building.module.code.ts"
+import type { Committing, Refused } from "akasha/command/modules/landing/landing.module.code.ts"
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 
 const NOTHING_ASKED = "no change was named, so nothing is run and nothing lands"
 

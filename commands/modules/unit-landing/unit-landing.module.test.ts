@@ -10,7 +10,7 @@ import {
   unitsLanded,
   type Weighing,
   weighedIn,
-} from "akasha/commands/modules/unit-landing/unit-landing.module.code.ts"
+} from "akasha/command/modules/unit-landing/unit-landing.module.code.ts"
 import {
   homeWith,
   nothingWeighed,
@@ -23,7 +23,7 @@ import {
   UNIT,
   WAS,
   without,
-} from "akasha/commands/modules/unit-landing/unit-landing.module.test-fixtures.ts"
+} from "akasha/command/modules/unit-landing/unit-landing.module.test-fixtures.ts"
 import {
   type Ran,
   stagingDir,

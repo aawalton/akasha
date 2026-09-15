@@ -1,15 +1,15 @@
 import { writeDailyReading } from "akasha/alan/track/daily/modules/write-daily-points/write-daily-points.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { bodyweight } from "akasha/commands/arguments/pages/bodyweight.argument.ts"
-import { day as dayArgument } from "akasha/commands/arguments/pages/day.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { bodyweight } from "akasha/command/arguments/pages/bodyweight.argument.ts"
+import { day as dayArgument } from "akasha/command/arguments/pages/day.argument.ts"
 import {
   faulted,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { dayNow } from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
-import { trackWeight as page } from "akasha/commands/pages/track/weight/track-weight.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { dayNow } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
+import { trackWeight as page } from "akasha/command/pages/track/weight/track-weight.command.ts"
 
 export function poundsIn(said: string): number | string {
   const pounds = Number(said)

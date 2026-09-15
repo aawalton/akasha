@@ -4,13 +4,13 @@ import type { MobileApp } from "akasha/alan/harness/mobile-cli/modules/mobile-ap
 import {
   INPUT,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Ran } from "akasha/commands/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Ran } from "akasha/command/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts"
 import {
   doneIn,
   installedOnDevice,
   scriptOf,
-} from "akasha/commands/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts"
+} from "akasha/command/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts"
 
 const UDID = "00008030-000B0C0D0E0F1112"
 

@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const conditions = {
   id: "01a094bd-4eee-7bbb-9bbe-14b4245a9c56",

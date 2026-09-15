@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const measureGuard = {
   id: "01a09bab-b70c-74dd-9daa-6859cb57c2c4",

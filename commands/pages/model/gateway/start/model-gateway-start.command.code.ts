@@ -1,20 +1,20 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { agentId } from "akasha/commands/arguments/pages/agent-id.argument.ts"
-import { gatewayLogDir } from "akasha/commands/arguments/pages/gateway-log-dir.argument.ts"
-import { gatewayPort } from "akasha/commands/arguments/pages/gateway-port.argument.ts"
-import { keep } from "akasha/commands/arguments/pages/keep.argument.ts"
-import { registrationAccount } from "akasha/commands/arguments/pages/registration-account.argument.ts"
-import { seconds } from "akasha/commands/arguments/pages/seconds.argument.ts"
-import { version } from "akasha/commands/arguments/pages/version.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { agentId } from "akasha/command/arguments/pages/agent-id.argument.ts"
+import { gatewayLogDir } from "akasha/command/arguments/pages/gateway-log-dir.argument.ts"
+import { gatewayPort } from "akasha/command/arguments/pages/gateway-port.argument.ts"
+import { keep } from "akasha/command/arguments/pages/keep.argument.ts"
+import { registrationAccount } from "akasha/command/arguments/pages/registration-account.argument.ts"
+import { seconds } from "akasha/command/arguments/pages/seconds.argument.ts"
+import { version } from "akasha/command/arguments/pages/version.argument.ts"
 import {
   answering,
   keeping,
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { modelGatewayStart as page } from "akasha/commands/pages/model/gateway/start/model-gateway-start.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { modelGatewayStart as page } from "akasha/command/pages/model/gateway/start/model-gateway-start.command.ts"
 import {
   type Asked,
   agentIdFor,
@@ -25,7 +25,7 @@ import {
   type RunSeams,
   saidOf,
   startedOn,
-} from "akasha/commands/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"
+} from "akasha/command/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"
 
 const MS = 1000
 

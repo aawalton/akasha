@@ -26,7 +26,7 @@ export const commandExportNamedForItsSlug = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A file outside `commands/pages` is refused nothing.",
+      statement: "A file outside `command/pages` is refused nothing.",
     },
     {
       invariantKind: "invariant-kind/absence",

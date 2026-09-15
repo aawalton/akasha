@@ -1,22 +1,22 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   CALLED_AS,
   NAMING_THEM,
   PAGES,
-} from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+} from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
 import {
   INPUT,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type {
   Generating,
   Taking,
-} from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
-import { answeredByPage } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
+} from "akasha/command/modules/page-answering/page-answering.module.code.ts"
+import { answeredByPage } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
 
 type Handed = Taking<typeof NAMING_THEM, typeof PAGES>
 

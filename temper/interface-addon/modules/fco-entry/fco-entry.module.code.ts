@@ -49,7 +49,7 @@ import { questChanges } from "akasha/temper/interface-addon/modules/fco-quest/fc
 import { getSettings } from "akasha/temper/interface-addon/modules/fco-settings/fco-settings.module.code.ts"
 import { buildAddonMenu } from "akasha/temper/interface-addon/modules/fco-settings-menu/fco-settings-menu.module.code.ts"
 import { skillChanges } from "akasha/temper/interface-addon/modules/fco-skills/fco-skills.module.code.ts"
-import { slashCommands } from "akasha/temper/interface-addon/modules/fco-slash-commands/fco-slash-commands.module.code.ts"
+import { slashCommands } from "akasha/temper/interface-addon/modules/fco-slash-command/fco-slash-commands.module.code.ts"
 import { soundChanges } from "akasha/temper/interface-addon/modules/fco-sounds/fco-sounds.module.code.ts"
 import {
   hookStableScene,

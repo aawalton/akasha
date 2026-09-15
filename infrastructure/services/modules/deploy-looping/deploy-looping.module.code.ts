@@ -1,10 +1,10 @@
 import { join } from "node:path"
-import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   recordedEnding,
   recordedRefusal,
-} from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
-import { heldNow } from "akasha/commands/pages/deploy/modules/holding/deploy-holding.module.code.ts"
+} from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
+import { heldNow } from "akasha/command/pages/deploy/modules/holding/deploy-holding.module.code.ts"
 import {
   CLUSTER_SERVICE,
   CONTAINER_RECIPE,
@@ -14,11 +14,11 @@ import {
   type Kind,
   WEB_APP,
   WORKSTATION_SERVICE,
-} from "akasha/commands/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
+} from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import {
   saidOfNoTree,
   treeIn,
-} from "akasha/commands/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
+} from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import {
   type Candidate,

@@ -86,7 +86,7 @@ function atomicWriteStorageState(path: string, contents: string): undefined {
 async function runExport(): Promise<undefined> {
   console.log(`${LOG} re-exporting playwright storage state`)
   const { exportBrowserTestStorageState } = await import(
-    "akasha/commands/pages/browser/test-storage-state/browser-test-storage-state.command.code.ts"
+    "akasha/command/pages/browser/test-storage-state/browser-test-storage-state.command.code.ts"
   )
   try {
     for (const line of await exportBrowserTestStorageState()) console.log(`${LOG} ${line}`)

@@ -4,9 +4,9 @@ import {
   DATA,
   OPERATIONAL,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   type Asked,
   addressFor,
@@ -14,8 +14,8 @@ import {
   filedBy,
   slotFrom,
   wrongIn,
-} from "akasha/commands/pages/model/account/add/model-account-add.command.code.ts"
-import { modelAccountAdd as page } from "akasha/commands/pages/model/account/add/model-account-add.command.ts"
+} from "akasha/command/pages/model/account/add/model-account-add.command.code.ts"
+import { modelAccountAdd as page } from "akasha/command/pages/model/account/add/model-account-add.command.ts"
 
 const ASKED: Asked = { account: "tempereso", email: "a@b.c", alias: null }
 

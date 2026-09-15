@@ -3,12 +3,12 @@ import {
   type SeatWhoami,
   seatWhoami,
 } from "akasha/agent/seat/declaration/modules/seat-whoami/seat-whoami.module.code.ts"
-import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
+import { fail } from "akasha/command/modules/failing/command-failing.module.code.ts"
 import {
   readPayload,
   record,
   rejectUnknownFlags,
-} from "akasha/commands/modules/payload/payload.module.code.ts"
+} from "akasha/command/modules/payload/payload.module.code.ts"
 
 const VALUES: readonly (readonly [string, string])[] = [
   ["agent", "--agent"],

@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { calendar } from "akasha/commands/arguments/pages/calendar.argument.ts"
-import { event } from "akasha/commands/arguments/pages/event.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { googleCalendarEventShow } from "akasha/commands/pages/google/calendar/event/show/google-calendar-event-show.command.code.ts"
-import { googleCalendarEventShow as page } from "akasha/commands/pages/google/calendar/event/show/google-calendar-event-show.command.ts"
+import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+import { calendar } from "akasha/command/arguments/pages/calendar.argument.ts"
+import { event } from "akasha/command/arguments/pages/event.argument.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { googleCalendarEventShow } from "akasha/command/pages/google/calendar/event/show/google-calendar-event-show.command.code.ts"
+import { googleCalendarEventShow as page } from "akasha/command/pages/google/calendar/event/show/google-calendar-event-show.command.ts"
 
 const CALLED_AS = "akasha google calendar event show"
 

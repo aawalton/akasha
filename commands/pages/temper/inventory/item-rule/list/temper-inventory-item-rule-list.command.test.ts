@@ -1,17 +1,17 @@
 import { expect, test } from "bun:test"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   listing,
   temperInventoryItemRuleList,
-} from "akasha/commands/pages/temper/inventory/item-rule/list/temper-inventory-item-rule-list.command.code.ts"
-import { temperInventoryItemRuleList as page } from "akasha/commands/pages/temper/inventory/item-rule/list/temper-inventory-item-rule-list.command.ts"
+} from "akasha/command/pages/temper/inventory/item-rule/list/temper-inventory-item-rule-list.command.code.ts"
+import { temperInventoryItemRuleList as page } from "akasha/command/pages/temper/inventory/item-rule/list/temper-inventory-item-rule-list.command.ts"
 import {
   ITEM_HELD,
   ITEM_LOCKED,
   WROTE,
-} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
+} from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const CALLED_AS = "akasha temper inventory item-rule list"

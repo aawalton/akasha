@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const musicRepeat = {
   id: "01a0a029-748e-779a-a462-6cd1bf166536",

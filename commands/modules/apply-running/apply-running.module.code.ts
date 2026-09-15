@@ -13,33 +13,33 @@ import {
   answeredWith,
   DATA,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   applying,
   askedIn,
   type Carried,
   pathsIn,
   type Taken,
-} from "akasha/commands/modules/applying/applying.module.code.ts"
+} from "akasha/command/modules/applying/applying.module.code.ts"
 import {
   type Given as Arguments,
   readingIn,
-} from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { noPageSaid } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
+} from "akasha/command/modules/argument-reading/argument-reading.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { noPageSaid } from "akasha/command/modules/change-acting/change-acting.module.code.ts"
 import {
   APPLY,
   CHANGE_APPLY_SLUG,
   commandPageAt,
-} from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
-import type { Running } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
-import { landingFrom } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
-import { inputIn, type Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+} from "akasha/command/modules/change-costing/change-costing.module.code.ts"
+import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
+import { landingFrom } from "akasha/command/modules/edits-landing/edits-landing.module.code.ts"
+import { inputIn, type Piping } from "akasha/command/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
   allowedAgain,
   MEASURED_ALLOWED,
-} from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
+} from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import { everyOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"

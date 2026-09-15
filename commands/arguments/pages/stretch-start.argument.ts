@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const stretchStart = {
   id: "01a094e4-0b33-7623-8b78-bc4fa4db5f37",

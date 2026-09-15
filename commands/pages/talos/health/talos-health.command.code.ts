@@ -1,18 +1,18 @@
 import { existsSync } from "node:fs"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { cluster as clusterArgument } from "akasha/commands/arguments/pages/cluster.argument.ts"
-import { controlPlaneIps } from "akasha/commands/arguments/pages/control-plane-ips.argument.ts"
-import { ip as ipArgument } from "akasha/commands/arguments/pages/ip.argument.ts"
-import { workerIps } from "akasha/commands/arguments/pages/worker-ips.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { cluster as clusterArgument } from "akasha/command/arguments/pages/cluster.argument.ts"
+import { controlPlaneIps } from "akasha/command/arguments/pages/control-plane-ips.argument.ts"
+import { ip as ipArgument } from "akasha/command/arguments/pages/ip.argument.ts"
+import { workerIps } from "akasha/command/arguments/pages/worker-ips.argument.ts"
 import {
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { talosHealth as page } from "akasha/commands/pages/talos/health/talos-health.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { talosHealth as page } from "akasha/command/pages/talos/health/talos-health.command.ts"
 import { clusterTalosconfigPath } from "akasha/infrastructure/cluster/provisioning/talos/modules/paths/paths.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/modules/talosctl/talosctl.module.code.ts"
 

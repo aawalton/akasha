@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const gatewayPort = {
   id: "01a094fd-2959-7908-b243-c680fc00dc1a",

@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import { DATA, refused } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { DATA, refused } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   inferenceWanExtend,
   readExtend,
-} from "akasha/commands/pages/inference/wan/extend/inference-wan-extend.command.code.ts"
+} from "akasha/command/pages/inference/wan/extend/inference-wan-extend.command.code.ts"
 
 function given(root: string): Given {
   return { root, calledAs: "akasha inference wan extend", from: root, writer: null, agentId: null }

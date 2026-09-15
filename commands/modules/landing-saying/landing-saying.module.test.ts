@@ -4,7 +4,7 @@ import {
   defaultMessage,
   formattedSaid,
   landedSaid,
-} from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
+} from "akasha/command/modules/landing-saying/landing-saying.module.code.ts"
 
 test("every body a landing landed is named in the report", () => {
   expect(landedSaid(["akasha/one.ts", "akasha/two.ts"])).toEqual([

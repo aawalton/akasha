@@ -9,8 +9,8 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { ran } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { ran } from "akasha/command/modules/seat-act-calling/seat-act-calling.module.code.ts"
 
 test("an act that wrote nothing and threw nothing is answered as nothing done", async () => {
   expect(await ran(async () => {})).toEqual({ report: [], refusals: [], code: OK })

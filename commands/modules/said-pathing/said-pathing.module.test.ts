@@ -10,7 +10,7 @@ import {
   pathUnder,
   underGitIn,
   writesOutside,
-} from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
+} from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
 import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 

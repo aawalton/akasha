@@ -4,7 +4,7 @@ import { join } from "node:path"
 import {
   drafting,
   keptText,
-} from "akasha/commands/modules/draft-keeping/draft-keeping.module.test-fixtures.ts"
+} from "akasha/command/modules/draft-keeping/draft-keeping.module.test-fixtures.ts"
 import {
   A,
   ADMITS,
@@ -16,8 +16,8 @@ import {
   pagesRepo,
   REFUSES,
   scratch,
-} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
-import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+} from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 
 afterAll(scratch.sweep)
 

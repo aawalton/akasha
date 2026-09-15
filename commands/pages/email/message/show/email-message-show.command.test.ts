@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { message } from "akasha/commands/arguments/pages/message.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { emailMessageShow } from "akasha/commands/pages/email/message/show/email-message-show.command.code.ts"
-import { emailMessageShow as page } from "akasha/commands/pages/email/message/show/email-message-show.command.ts"
+import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+import { message } from "akasha/command/arguments/pages/message.argument.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { emailMessageShow } from "akasha/command/pages/email/message/show/email-message-show.command.code.ts"
+import { emailMessageShow as page } from "akasha/command/pages/email/message/show/email-message-show.command.ts"
 
 const CALLED_AS = "akasha email message show"
 

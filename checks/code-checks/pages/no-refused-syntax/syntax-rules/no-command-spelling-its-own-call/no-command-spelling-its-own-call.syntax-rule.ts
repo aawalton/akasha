@@ -12,7 +12,7 @@ export const noCommandSpellingItsOwnCall = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "A command's call is the folders under `commands/pages` the file sits in, a space for each slash.",
+        "A command's call is the folders under `command/pages` the file sits in, a space for each slash.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -44,7 +44,7 @@ export const noCommandSpellingItsOwnCall = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A file outside `commands/pages` is refused nothing.",
+      statement: "A file outside `command/pages` is refused nothing.",
     },
     {
       invariantKind: "invariant-kind/absence",

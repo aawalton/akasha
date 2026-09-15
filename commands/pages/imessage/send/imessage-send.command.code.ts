@@ -15,22 +15,22 @@ import {
 } from "akasha/alan/harness/imessage/modules/send/imessage-send.module.code.ts"
 import { streamSshLines } from "akasha/alan/harness/ssh-access/modules/ssh-reach/ssh-reach.module.code.ts"
 import type { SshTarget } from "akasha/alan/harness/ssh-access/modules/ssh-target/ssh-target.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { text as textArgument } from "akasha/commands/arguments/pages/text.argument.ts"
-import { textFile } from "akasha/commands/arguments/pages/text-file.argument.ts"
-import { toHandle } from "akasha/commands/arguments/pages/to-handle.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { image as imageArgument } from "akasha/command/arguments/pages/image.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { text as textArgument } from "akasha/command/arguments/pages/text.argument.ts"
+import { textFile } from "akasha/command/arguments/pages/text-file.argument.ts"
+import { toHandle } from "akasha/command/arguments/pages/to-handle.argument.ts"
 import {
   answering,
   asJson,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import { imessageSend as page } from "akasha/commands/pages/imessage/send/imessage-send.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
+import { imessageSend as page } from "akasha/command/pages/imessage/send/imessage-send.command.ts"
 
 const IMAGE = imageArgument.said
 

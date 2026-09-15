@@ -19,11 +19,11 @@ const NS = "01a08d69-0b2e-7101-8000-000000000001"
 
 const CMD = "01a08d69-0b2e-7102-8000-000000000002"
 
-const NS_AT = "commands/pages/warbling/warbling.namespace.ts"
+const NS_AT = "command/pages/warbling/warbling.namespace.ts"
 
-const UNDER = "commands/pages/warbling/humming/warbling-humming.command.ts"
+const UNDER = "command/pages/warbling/humming/warbling-humming.command.ts"
 
-const BESIDE = "commands/pages/warbling/warbling-humming.command.ts"
+const BESIDE = "command/pages/warbling/warbling-humming.command.ts"
 
 const scratch = scratchWorld()
 
@@ -60,7 +60,7 @@ test("a namespace naming a command leaves that command judged, though it did not
   const said = judged(landing(rooted(BESIDE), { [NS_AT]: namespaceBody() }))
 
   expect(said.map((one) => one.path)).toEqual([BESIDE])
-  expect(said[0]?.reason).toContain("commands/pages/warbling/humming")
+  expect(said[0]?.reason).toContain("command/pages/warbling/humming")
 })
 
 test("a namespace naming a command already in its own folder is let through", () => {
@@ -69,11 +69,11 @@ test("a namespace naming a command already in its own folder is let through", ()
 
 const MOD = "01a08d69-0b2e-7103-8000-000000000003"
 
-const MOD_AT = "commands/pages/warbling/humming/modules/trilling/trilling.module.ts"
+const MOD_AT = "command/pages/warbling/humming/modules/trilling/trilling.module.ts"
 
-const MOD_CODE = "commands/pages/warbling/humming/modules/trilling/trilling.module.code.ts"
+const MOD_CODE = "command/pages/warbling/humming/modules/trilling/trilling.module.code.ts"
 
-const CMD_CODE = "commands/pages/warbling/humming/warbling-humming.command.code.ts"
+const CMD_CODE = "command/pages/warbling/humming/warbling-humming.command.code.ts"
 
 const BYTES = new TextEncoder()
 

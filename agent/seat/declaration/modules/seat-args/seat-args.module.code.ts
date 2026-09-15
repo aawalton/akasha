@@ -10,7 +10,7 @@ import {
   type Principal,
   principals,
 } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
-import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
+import { fail } from "akasha/command/modules/failing/command-failing.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

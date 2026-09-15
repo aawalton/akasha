@@ -6,20 +6,20 @@ import {
   resolveAndBootSim,
 } from "akasha/alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts"
 import { loadSessionState } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { app } from "akasha/commands/arguments/pages/app.argument.ts"
-import { asRealUser } from "akasha/commands/arguments/pages/as-real-user.argument.ts"
-import { kbDebug } from "akasha/commands/arguments/pages/kb-debug.argument.ts"
-import { route } from "akasha/commands/arguments/pages/route.argument.ts"
-import { udid as udidArgument } from "akasha/commands/arguments/pages/udid.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { app } from "akasha/command/arguments/pages/app.argument.ts"
+import { asRealUser } from "akasha/command/arguments/pages/as-real-user.argument.ts"
+import { kbDebug } from "akasha/command/arguments/pages/kb-debug.argument.ts"
+import { route } from "akasha/command/arguments/pages/route.argument.ts"
+import { udid as udidArgument } from "akasha/command/arguments/pages/udid.argument.ts"
 import {
   answering,
   keyedLines,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mobileSimOpenUrl as page } from "akasha/commands/pages/mobile/sim/open-url/mobile-sim-open-url.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mobileSimOpenUrl as page } from "akasha/command/pages/mobile/sim/open-url/mobile-sim-open-url.command.ts"
 
 const TAKES = [app, udidArgument, route, kbDebug, asRealUser]
 

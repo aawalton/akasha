@@ -2,22 +2,22 @@ import type { LongPressDragSpec } from "akasha/alan/harness/mobile-cli/modules/a
 import { longPressDrag } from "akasha/alan/harness/mobile-cli/modules/appium-client/appium-client.module.code.ts"
 import { driving } from "akasha/alan/harness/mobile-cli/modules/sim-driver/sim-driver.module.code.ts"
 import type { SimSessionState } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { dragSteps } from "akasha/commands/arguments/pages/drag-steps.argument.ts"
-import { holdMs } from "akasha/commands/arguments/pages/hold-ms.argument.ts"
-import { stepMs } from "akasha/commands/arguments/pages/step-ms.argument.ts"
-import { toX } from "akasha/commands/arguments/pages/to-x.argument.ts"
-import { toY } from "akasha/commands/arguments/pages/to-y.argument.ts"
-import { x } from "akasha/commands/arguments/pages/x.argument.ts"
-import { y } from "akasha/commands/arguments/pages/y.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { dragSteps } from "akasha/command/arguments/pages/drag-steps.argument.ts"
+import { holdMs } from "akasha/command/arguments/pages/hold-ms.argument.ts"
+import { stepMs } from "akasha/command/arguments/pages/step-ms.argument.ts"
+import { toX } from "akasha/command/arguments/pages/to-x.argument.ts"
+import { toY } from "akasha/command/arguments/pages/to-y.argument.ts"
+import { x } from "akasha/command/arguments/pages/x.argument.ts"
+import { y } from "akasha/command/arguments/pages/y.argument.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 
-import { mobileSimLongPressDrag as page } from "akasha/commands/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.ts"
+import { mobileSimLongPressDrag as page } from "akasha/command/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.ts"
 
 const TAKES = [x, y, toX, toY, holdMs, dragSteps, stepMs]
 

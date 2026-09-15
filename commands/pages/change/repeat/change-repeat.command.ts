@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const changeRepeat = {
   id: "01a091e2-0bc2-799b-9f8f-d9a05bfc3696",

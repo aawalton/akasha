@@ -32,7 +32,7 @@ import {
 import type { Route } from "./+types/root"
 import "akasha/alan/web/look/alan-web-look.stylesheet.styles.css"
 import "akasha/alan/web/modules/capability-registrations/capability-registrations.module.code.ts"
-import { NavCommands } from "akasha/alan/web/modules/nav-commands/nav-commands.module.code.tsx"
+import { NavCommands } from "akasha/alan/web/modules/nav-command/nav-commands.module.code.tsx"
 import { StatusBarSync } from "akasha/alan/web/modules/status-bar-sync/status-bar-sync.module.code.tsx"
 import { PagesUICapabilityHosts } from "akasha/pages/ui/capabilities/modules/capability-hosts/capability-hosts.module.code.tsx"
 

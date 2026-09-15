@@ -2,16 +2,16 @@ import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { screenshot } from "akasha/alan/harness/mobile-cli/modules/appium-client/appium-client.module.code.ts"
 import { driving } from "akasha/alan/harness/mobile-cli/modules/sim-driver/sim-driver.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { output } from "akasha/commands/arguments/pages/output.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { output } from "akasha/command/arguments/pages/output.argument.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 
-import { mobileSimScreenshot as page } from "akasha/commands/pages/mobile/sim/screenshot/mobile-sim-screenshot.command.ts"
+import { mobileSimScreenshot as page } from "akasha/command/pages/mobile/sim/screenshot/mobile-sim-screenshot.command.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export type Read = {

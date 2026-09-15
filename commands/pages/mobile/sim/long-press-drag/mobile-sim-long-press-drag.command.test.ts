@@ -6,18 +6,18 @@ import {
   OPERATIONAL,
   partWay,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type {
   Pressing,
   Read,
-} from "akasha/commands/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.code.ts"
+} from "akasha/command/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.code.ts"
 import {
   dragged,
   mobileSimLongPressDrag,
   sentSaid,
-} from "akasha/commands/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.code.ts"
+} from "akasha/command/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.code.ts"
 
 const CORNERS = ["--x", "1", "--y", "2", "--to-x", "3", "--to-y", "4"]
 

@@ -17,30 +17,30 @@ import {
   OK,
   OPERATIONAL,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given as Arguments } from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Running } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
-import { preparing } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given as Arguments } from "akasha/command/modules/argument-reading/argument-reading.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
+import { preparing } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
   gateBuilt,
   NO_GATE,
-} from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
+} from "akasha/command/modules/gate-building/gate-building.module.code.ts"
 import {
   type Committing,
   landing,
   type Refused,
-} from "akasha/commands/modules/landing/landing.module.code.ts"
-import { carryLanded } from "akasha/commands/modules/landing-reading/landing-reading.module.code.ts"
+} from "akasha/command/modules/landing/landing.module.code.ts"
+import { carryLanded } from "akasha/command/modules/landing-reading/landing-reading.module.code.ts"
 import {
   commitSaid,
   defaultMessage,
   formattedSaid,
   landedSaid,
-} from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
-import type { FileMove } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+} from "akasha/command/modules/landing-saying/landing-saying.module.code.ts"
+import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import {
   bypassedIn,

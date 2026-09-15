@@ -5,9 +5,9 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Skipping } from "akasha/commands/pages/music/skip/music-skip.command.code.ts"
-import { skipping } from "akasha/commands/pages/music/skip/music-skip.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Skipping } from "akasha/command/pages/music/skip/music-skip.command.code.ts"
+import { skipping } from "akasha/command/pages/music/skip/music-skip.command.code.ts"
 
 const CALLED = "akasha music skip"
 

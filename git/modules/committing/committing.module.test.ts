@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { chmodSync, existsSync, mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   ADMITS,
   bytes,
   edged,
   rowsIn,
-} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+} from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import {
   AUTHOR,
   committed,

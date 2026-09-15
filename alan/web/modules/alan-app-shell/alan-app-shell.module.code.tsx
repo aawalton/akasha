@@ -11,7 +11,7 @@ import {
 } from "akasha/alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"
 import { EdgeSwipeNav } from "akasha/alan/web/modules/edge-swipe-nav/edge-swipe-nav.module.code.tsx"
 import { MiniPlayerBar } from "akasha/alan/web/modules/mini-player-bar/mini-player-bar.module.code.tsx"
-import { DynamicNavCommands } from "akasha/alan/web/modules/nav-commands/nav-commands.module.code.tsx"
+import { DynamicNavCommands } from "akasha/alan/web/modules/nav-command/nav-commands.module.code.tsx"
 import { PullToRefresh } from "akasha/alan/web/modules/pull-to-refresh/pull-to-refresh.module.code.tsx"
 import {
   LayoutRouterAdapter,

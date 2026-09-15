@@ -3,7 +3,7 @@ import {
   callHarness,
   LANDING_TIMEOUT_MS,
 } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
-import { agentSubagentStop } from "akasha/commands/pages/agent/subagent-stop/agent-subagent-stop.command.ts"
+import { agentSubagentStop } from "akasha/command/pages/agent/subagent-stop/agent-subagent-stop.command.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import * as vscode from "vscode"

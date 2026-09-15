@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const vocalLanguage = {
   id: "01a094d6-9f7a-746d-b3da-972ef9fc4fc3",

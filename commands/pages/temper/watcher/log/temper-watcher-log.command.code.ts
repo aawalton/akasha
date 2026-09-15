@@ -1,20 +1,20 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { jsonInOneObject } from "akasha/commands/arguments/pages/json-in-one-object.argument.ts"
-import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
-import { logDir as logDirArgument } from "akasha/commands/arguments/pages/log-dir.argument.ts"
-import { since as sinceArgument } from "akasha/commands/arguments/pages/since.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { jsonInOneObject } from "akasha/command/arguments/pages/json-in-one-object.argument.ts"
+import { limit as limitArgument } from "akasha/command/arguments/pages/limit.argument.ts"
+import { logDir as logDirArgument } from "akasha/command/arguments/pages/log-dir.argument.ts"
+import { since as sinceArgument } from "akasha/command/arguments/pages/since.argument.ts"
 import {
   asJson,
   DATA,
   INPUT,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { temperWatcherLog as page } from "akasha/commands/pages/temper/watcher/log/temper-watcher-log.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { temperWatcherLog as page } from "akasha/command/pages/temper/watcher/log/temper-watcher-log.command.ts"
 import type {
   LogSource,
   WatcherLogLine,

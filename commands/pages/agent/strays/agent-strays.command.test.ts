@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
 import type { TimesOf } from "akasha/agent/modules/stray-sweeping/stray-sweeping.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   agentStrays,
   reportOf,
-} from "akasha/commands/pages/agent/strays/agent-strays.command.code.ts"
+} from "akasha/command/pages/agent/strays/agent-strays.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

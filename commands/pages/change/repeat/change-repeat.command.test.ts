@@ -6,10 +6,10 @@ import {
   editsAt,
   editsWaiting,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { answering } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { NOTHING } from "akasha/commands/modules/change-running/change-running.module.test-fixtures.ts"
-import { piping } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
+import { answering } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { NOTHING } from "akasha/command/modules/change-running/change-running.module.test-fixtures.ts"
+import { piping } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import {
   changeRepeat,
   clearing,
@@ -20,7 +20,7 @@ import {
   repeating,
   saidBy,
   takesAtMost,
-} from "akasha/commands/pages/change/repeat/change-repeat.command.code.ts"
+} from "akasha/command/pages/change/repeat/change-repeat.command.code.ts"
 import {
   idOf,
   indexedRepo,

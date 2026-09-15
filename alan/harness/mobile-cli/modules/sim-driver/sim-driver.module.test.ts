@@ -13,7 +13,7 @@ import {
   answering,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
 
 const SESSION = "3f0c9a11"
 

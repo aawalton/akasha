@@ -1,6 +1,6 @@
 import { join } from "node:path"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { DAYS_AT } from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { DAYS_AT } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import { indexedRepo } from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 export const DAY = "2026-09-01"

@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   type Drawn,
   measureAttribute,
   measuredIn,
-} from "akasha/commands/pages/measure/attribute/measure-attribute.command.code.ts"
+} from "akasha/command/pages/measure/attribute/measure-attribute.command.code.ts"
 
 const NOWHERE = "/nowhere"
 

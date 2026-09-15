@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratch } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
-import { NOTHING_FINISHED } from "akasha/commands/modules/landing-finishing/landing-finishing.module.code.ts"
-import { linkMoved } from "akasha/commands/modules/landing-finishing/landing-finishing.module.test-fixtures.ts"
+import { scratch } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
+import { NOTHING_FINISHED } from "akasha/command/modules/landing-finishing/landing-finishing.module.code.ts"
+import { linkMoved } from "akasha/command/modules/landing-finishing/landing-finishing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

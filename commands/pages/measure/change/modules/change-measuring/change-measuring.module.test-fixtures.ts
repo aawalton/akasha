@@ -18,9 +18,9 @@ const CHANGE_SLUG = "change-draft"
 
 const APPLY_SLUG = "change-apply"
 
-export const CHANGE_AT = `commands/pages/change/draft/${CHANGE_SLUG}.${COMMAND}`
+export const CHANGE_AT = `command/pages/change/draft/${CHANGE_SLUG}.${COMMAND}`
 
-export const APPLY_AT = `commands/pages/change/apply/${APPLY_SLUG}.${COMMAND}`
+export const APPLY_AT = `command/pages/change/apply/${APPLY_SLUG}.${COMMAND}`
 
 const SLUGGED: Readonly<Record<string, string>> = {
   [CHANGE_AT]: CHANGE_SLUG,

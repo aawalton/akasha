@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const bodyweight = {
   id: "01a094e5-8f0c-7209-a286-e38af1d0e4e9",

@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { seatPathForName } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { landedMechanically } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   listedAt,
   readingIn,

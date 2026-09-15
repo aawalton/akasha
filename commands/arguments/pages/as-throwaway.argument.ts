@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const asThrowaway = {
   id: "01a094cc-1c6f-7643-a55b-a70345315ca0",

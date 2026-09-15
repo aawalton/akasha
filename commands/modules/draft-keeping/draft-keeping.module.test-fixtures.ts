@@ -6,15 +6,15 @@ import type { Judging } from "akasha/checks/modules/judging/judging.module.code.
 import type {
   Drafted,
   Drafting,
-} from "akasha/commands/modules/draft-keeping/draft-keeping.module.code.ts"
-import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
+} from "akasha/command/modules/draft-keeping/draft-keeping.module.code.ts"
+import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
+import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   ADMITS,
   type Held,
   PAGE,
   statedIn,
-} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+} from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 
 const DRAFT: Drafting = { page: PAGE }
 

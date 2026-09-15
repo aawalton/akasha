@@ -1,15 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { temperAddonTypecheck } from "akasha/commands/pages/temper/addon/typecheck/temper-addon-typecheck.command.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { temperAddonTypecheck } from "akasha/command/pages/temper/addon/typecheck/temper-addon-typecheck.command.code.ts"
 import { valueAlsoFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import {
   listedAndValued,
   nothingFiled,
 } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
-import { manifestFor } from "akasha/temper/commands/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.code.ts"
+import { manifestFor } from "akasha/temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

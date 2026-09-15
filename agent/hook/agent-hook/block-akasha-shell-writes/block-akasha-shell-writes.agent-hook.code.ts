@@ -20,7 +20,7 @@ import {
   segmentsOf,
   wordsOf,
 } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { gitIgnoring } from "akasha/git/modules/pathspec/git-pathspec.module.code.ts"
 import { z } from "zod"
 

@@ -1,14 +1,14 @@
 import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { message } from "akasha/commands/arguments/pages/message.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { message } from "akasha/command/arguments/pages/message.argument.ts"
 import {
   answering,
   asIndentedJson,
   INPUT,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { emailMessageTrash as page } from "akasha/commands/pages/email/message/trash/email-message-trash.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { emailMessageTrash as page } from "akasha/command/pages/email/message/trash/email-message-trash.command.ts"
 
 export function emailMessageTrash(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [message])

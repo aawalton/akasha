@@ -18,8 +18,8 @@ import {
   NOTHING_LOCKED,
   sameBytes,
 } from "akasha/code/workspaces/modules/manifest-locking/manifest-locking.module.code.ts"
-import { bodyIn as bodyOf } from "akasha/commands/modules/change-preparing/change-preparing.module.code.ts"
-import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { bodyIn as bodyOf } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { anythingThere as linkThere } from "akasha/utils/fs/modules/anything-there/anything-there.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

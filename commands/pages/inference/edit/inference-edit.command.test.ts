@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   configOf,
   inferenceEdit,
   refsIn,
-} from "akasha/commands/pages/inference/edit/inference-edit.command.code.ts"
+} from "akasha/command/pages/inference/edit/inference-edit.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

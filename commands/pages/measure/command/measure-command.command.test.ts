@@ -4,19 +4,19 @@ import {
   HOUR,
   sinceNow,
 } from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
-import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { runWindow } from "akasha/commands/arguments/pages/run-window.argument.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { measureCommand } from "akasha/commands/pages/measure/command/measure-command.command.code.ts"
-import { measureCommand as page } from "akasha/commands/pages/measure/command/measure-command.command.ts"
+import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+import { runWindow } from "akasha/command/arguments/pages/run-window.argument.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { measureCommand } from "akasha/command/pages/measure/command/measure-command.command.code.ts"
+import { measureCommand as page } from "akasha/command/pages/measure/command/measure-command.command.ts"
 import {
   ONE,
   pageAt,
   rowsInto,
   THREE,
   TWO,
-} from "akasha/commands/pages/measure/command/modules/command-measuring/command-measuring.module.test-fixtures.ts"
+} from "akasha/command/pages/measure/command/modules/command-measuring/command-measuring.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const CALLED_AS = "akasha measure command"
@@ -87,7 +87,7 @@ test("the window joined to an empty value is refused rather than read as nothing
 })
 
 test("a call naming no window reads the runs of the past twenty-four hours", () => {
-  const root = rowsInto(scratch.rootFor("measure-command-"), pageAt("commands/pages", "index"), [
+  const root = rowsInto(scratch.rootFor("measure-command-"), pageAt("command/pages", "index"), [
     { runId: ONE, ran: "index", ranAt: sinceNow(HOUR) },
     { runId: TWO, ran: "read", ranAt: sinceNow(2 * HOUR) },
     { runId: THREE, ran: "deploy", ranAt: sinceNow(DAY + HOUR) },

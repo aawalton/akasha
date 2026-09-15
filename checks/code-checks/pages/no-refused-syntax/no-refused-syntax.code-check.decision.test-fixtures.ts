@@ -6,7 +6,7 @@ import type {
   Typing,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
-import type { Naming } from "akasha/commands/modules/walking/command-walking.module.code.ts"
+import type { Naming } from "akasha/command/modules/walking/command-walking.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
@@ -143,7 +143,7 @@ export function modulesFiled(root: string): undefined {
 
 const LEVEL_PAGES: readonly (readonly [string, Held])[] = [
   [
-    "akasha/commands/pages/change/change.namespace.ts",
+    "akasha/command/pages/change/change.namespace.ts",
     {
       id: "01a0596b-0000-7000-8000-000000000005",
       pageTypeSlug: NAMESPACE,
@@ -152,7 +152,7 @@ const LEVEL_PAGES: readonly (readonly [string, Held])[] = [
     },
   ],
   [
-    "akasha/commands/pages/change/draft/change-draft.command.ts",
+    "akasha/command/pages/change/draft/change-draft.command.ts",
     {
       id: "01a0596b-0000-7000-8000-000000000006",
       pageTypeSlug: COMMAND,

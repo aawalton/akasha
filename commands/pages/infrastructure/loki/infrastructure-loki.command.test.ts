@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   infrastructureLoki,
   readIn,
-} from "akasha/commands/pages/infrastructure/loki/infrastructure-loki.command.code.ts"
+} from "akasha/command/pages/infrastructure/loki/infrastructure-loki.command.code.ts"
 
 const CALLED = "akasha infrastructure loki"
 

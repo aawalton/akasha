@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   parityAddonTrace,
   parityRouting,
-} from "akasha/temper/commands/modules/inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts"
+} from "akasha/temper/command/modules/inventory-parity-capabilities/inventory-parity-capabilities.module.code.ts"
 
 describe("parityAddonTrace", () => {
   test("hands over reading a trace off addon content", async () => {

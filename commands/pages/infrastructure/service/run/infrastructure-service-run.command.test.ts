@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   calledBy,
   infrastructureServiceRun,
-} from "akasha/commands/pages/infrastructure/service/run/infrastructure-service-run.command.code.ts"
+} from "akasha/command/pages/infrastructure/service/run/infrastructure-service-run.command.code.ts"
 
 const HERE: Given = {
   root: process.cwd(),

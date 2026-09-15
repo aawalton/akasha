@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const emailMessageList = {
   id: "01a06810-cf11-7ea4-b544-6691871388cf",

@@ -1,27 +1,27 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { charactersPath as charactersPathArgument } from "akasha/commands/arguments/pages/characters-path.argument.ts"
-import { inventoryPath as inventoryPathArgument } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
-import { json as jsonArgument } from "akasha/commands/arguments/pages/json.argument.ts"
-import { loginChecklist as loginChecklistArgument } from "akasha/commands/arguments/pages/login-checklist.argument.ts"
-import { unmapped as unmappedArgument } from "akasha/commands/arguments/pages/unmapped.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { charactersPath as charactersPathArgument } from "akasha/command/arguments/pages/characters-path.argument.ts"
+import { inventoryPath as inventoryPathArgument } from "akasha/command/arguments/pages/inventory-path.argument.ts"
+import { json as jsonArgument } from "akasha/command/arguments/pages/json.argument.ts"
+import { loginChecklist as loginChecklistArgument } from "akasha/command/arguments/pages/login-checklist.argument.ts"
+import { unmapped as unmappedArgument } from "akasha/command/arguments/pages/unmapped.argument.ts"
 import {
   DATA,
   OPERATIONAL,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { temperInventoryPlan as page } from "akasha/commands/pages/temper/inventory/plan/temper-inventory-plan.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { temperInventoryPlan as page } from "akasha/command/pages/temper/inventory/plan/temper-inventory-plan.command.ts"
 import {
   gatheredByItem,
   ordered,
   type TakenStack,
-} from "akasha/commands/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.code.ts"
-import type { CharacterKnowledge } from "akasha/temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+} from "akasha/command/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.code.ts"
+import type { CharacterKnowledge } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   capacityFilter,
   classifyItem,
@@ -33,7 +33,7 @@ import {
   planInputs,
   ruleMatcher,
   ruleOutcomes,
-} from "akasha/temper/commands/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+} from "akasha/temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import type { ClassifiableItem } from "akasha/temper/items-core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import {

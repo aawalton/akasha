@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const sshKey = {
   id: "01a094e9-3ded-7a54-95f3-aab5f7e53c03",

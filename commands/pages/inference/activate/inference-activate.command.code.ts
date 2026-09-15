@@ -1,12 +1,12 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { poolService } from "akasha/commands/arguments/pages/pool-service.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { poolService } from "akasha/command/arguments/pages/pool-service.argument.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { inferenceActivate as page } from "akasha/commands/pages/inference/activate/inference-activate.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { inferenceActivate as page } from "akasha/command/pages/inference/activate/inference-activate.command.ts"
 import {
   copActivate,
   findCop,

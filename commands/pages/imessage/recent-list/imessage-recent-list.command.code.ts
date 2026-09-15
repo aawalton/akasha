@@ -9,16 +9,16 @@ import {
   fetchMessages,
   resolveContactHandleRowids,
 } from "akasha/alan/harness/imessage/modules/remote/imessage-remote.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { contact } from "akasha/commands/arguments/pages/contact.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { contact } from "akasha/command/arguments/pages/contact.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { limit as limitArgument } from "akasha/command/arguments/pages/limit.argument.ts"
 import {
   answering,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { imessageRecentList as page } from "akasha/commands/pages/imessage/recent-list/imessage-recent-list.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { imessageRecentList as page } from "akasha/command/pages/imessage/recent-list/imessage-recent-list.command.ts"
 
 export function imessageRecentList(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [json, limitArgument, contact])

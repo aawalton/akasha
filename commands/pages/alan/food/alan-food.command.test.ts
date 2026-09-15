@@ -5,8 +5,8 @@ import {
   OK,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   alanFood,
   foodLogged,
@@ -18,7 +18,7 @@ import {
   stemFor,
   stemOfSlug,
   wallClockIn,
-} from "akasha/commands/pages/alan/food/alan-food.command.code.ts"
+} from "akasha/command/pages/alan/food/alan-food.command.code.ts"
 
 const CALLED_AS = "akasha alan food"
 

@@ -5,18 +5,18 @@ import {
   answering,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type {
   Read,
   Touching,
-} from "akasha/commands/pages/mobile/sim/tap/mobile-sim-tap.command.code.ts"
+} from "akasha/command/pages/mobile/sim/tap/mobile-sim-tap.command.code.ts"
 import {
   mobileSimTap,
   sentSaid,
   tapped,
-} from "akasha/commands/pages/mobile/sim/tap/mobile-sim-tap.command.code.ts"
+} from "akasha/command/pages/mobile/sim/tap/mobile-sim-tap.command.code.ts"
 
 const AT_A_POINT = ["--x", "10", "--y", "20"]
 

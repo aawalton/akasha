@@ -1,4 +1,4 @@
-import { agentSubagentSweep } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
+import { agentSubagentSweep } from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const REMOVE = "--remove"

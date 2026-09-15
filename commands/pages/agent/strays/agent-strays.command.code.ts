@@ -8,14 +8,14 @@ import {
   timesOf,
   unreadSaid,
 } from "akasha/agent/modules/stray-sweeping/stray-sweeping.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { agentStrays as page } from "akasha/commands/pages/agent/strays/agent-strays.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { agentStrays as page } from "akasha/command/pages/agent/strays/agent-strays.command.ts"
 
 const NOTHING = "nothing is stray"
 

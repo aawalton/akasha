@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { relative } from "node:path"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { edgesInto, reachingInto } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import {
   APART_AT,

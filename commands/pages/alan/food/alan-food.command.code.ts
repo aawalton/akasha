@@ -8,14 +8,14 @@ import {
   written,
 } from "akasha/alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { date as dateArgument } from "akasha/commands/arguments/pages/date.argument.ts"
-import { estimatedCalories as caloriesArgument } from "akasha/commands/arguments/pages/estimated-calories.argument.ts"
-import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
-import { json as jsonArgument } from "akasha/commands/arguments/pages/json.argument.ts"
-import { plantGrams as gramsArgument } from "akasha/commands/arguments/pages/plant-grams.argument.ts"
-import { time as timeArgument } from "akasha/commands/arguments/pages/time.argument.ts"
-import { title as titleArgument } from "akasha/commands/arguments/pages/title.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { date as dateArgument } from "akasha/command/arguments/pages/date.argument.ts"
+import { estimatedCalories as caloriesArgument } from "akasha/command/arguments/pages/estimated-calories.argument.ts"
+import { image as imageArgument } from "akasha/command/arguments/pages/image.argument.ts"
+import { json as jsonArgument } from "akasha/command/arguments/pages/json.argument.ts"
+import { plantGrams as gramsArgument } from "akasha/command/arguments/pages/plant-grams.argument.ts"
+import { time as timeArgument } from "akasha/command/arguments/pages/time.argument.ts"
+import { title as titleArgument } from "akasha/command/arguments/pages/title.argument.ts"
 import {
   answering,
   DATA,
@@ -24,10 +24,10 @@ import {
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { alanFood as page } from "akasha/commands/pages/alan/food/alan-food.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { alanFood as page } from "akasha/command/pages/alan/food/alan-food.command.ts"
 import { imageObjectKey } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import {
   type ObjectStore,

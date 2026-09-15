@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { isFolder } from "akasha/commands/modules/folder-clearing/folder-clearing.module.code.ts"
-import type { Bodied } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { isFolder } from "akasha/command/modules/folder-clearing/folder-clearing.module.code.ts"
+import type { Bodied } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { gitIgnoring } from "akasha/git/modules/pathspec/git-pathspec.module.code.ts"
 
 export type Parted = {

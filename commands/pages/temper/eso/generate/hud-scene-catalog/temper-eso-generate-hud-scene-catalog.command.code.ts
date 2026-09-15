@@ -5,23 +5,23 @@ import {
   type Asking,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
 import {
   DATA,
   keeping,
   OPERATIONAL,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   answeredByPage,
   type Generating,
   type Taking,
-} from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
-import { temperEsoGenerateHudSceneCatalog as page } from "akasha/commands/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts"
+} from "akasha/command/modules/page-answering/page-answering.module.code.ts"
+import { temperEsoGenerateHudSceneCatalog as page } from "akasha/command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
-import { saidShort } from "akasha/temper/commands/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
+import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/modules/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiDir } from "akasha/temper/eso-paths/modules/eso-paths/eso-paths.module.code.ts"
 import type { HudComponentRecord } from "akasha/temper/hud-components/modules/hud-component-record/hud-component-record.module.code.ts"

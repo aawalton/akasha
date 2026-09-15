@@ -4,8 +4,8 @@ import {
   OK,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   isSpawnedSettings,
   objectIn,
@@ -14,7 +14,7 @@ import {
   refreshedRows,
   seatRefreshSettings,
   settingsPathIn,
-} from "akasha/commands/pages/seat/refresh-settings/seat-refresh-settings.command.code.ts"
+} from "akasha/command/pages/seat/refresh-settings/seat-refresh-settings.command.code.ts"
 
 const GIVEN: Given = {
   root: "/repo",

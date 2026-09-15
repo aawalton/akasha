@@ -4,8 +4,8 @@ import type {
   SearchResponse,
 } from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
 import { searchResponseSchema } from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
-import type { Finding } from "akasha/commands/pages/music/search/music-search.command.code.ts"
-import { searchWith } from "akasha/commands/pages/music/search/music-search.command.code.ts"
+import type { Finding } from "akasha/command/pages/music/search/music-search.command.code.ts"
+import { searchWith } from "akasha/command/pages/music/search/music-search.command.code.ts"
 
 const CALLED = "akasha music search"
 

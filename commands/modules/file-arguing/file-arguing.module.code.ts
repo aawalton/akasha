@@ -3,13 +3,13 @@ import { join, resolve } from "node:path"
 import { leftAt } from "akasha/changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
-import { bytesAt, textOf } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
+import { bytesAt, textOf } from "akasha/command/modules/body-reaching/body-reaching.module.code.ts"
 import {
   type Answer,
   type Given,
   type Kind,
   kindNamed,
-} from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   BREAK_GLASS,
   CONTENT_FILE,
@@ -20,19 +20,19 @@ import {
   messageIn,
   REMOVE,
   unknownIn,
-} from "akasha/commands/modules/flags/command-flags.module.code.ts"
-import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { defaultMessage } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
-import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { markingIn, pipedIn, RUNS_SAID } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { mistaking, troubling } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { unrestatedIn } from "akasha/commands/modules/restating/restating.module.code.ts"
+} from "akasha/command/modules/flags/command-flags.module.code.ts"
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { defaultMessage } from "akasha/command/modules/landing-saying/landing-saying.module.code.ts"
+import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
+import { markingIn, pipedIn, RUNS_SAID } from "akasha/command/modules/piping/piping.module.code.ts"
+import { mistaking, troubling } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { unrestatedIn } from "akasha/command/modules/restating/restating.module.code.ts"
 import {
   barredIn,
   offRepo,
   pathAt,
-} from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
-import { unwarrantedIn } from "akasha/commands/modules/warrant-owing/warrant-owing.module.code.ts"
+} from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
+import { unwarrantedIn } from "akasha/command/modules/warrant-owing/warrant-owing.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { fileKeysAt } from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
 import { besideAll } from "akasha/pages/modules/beside/page-beside.module.code.ts"

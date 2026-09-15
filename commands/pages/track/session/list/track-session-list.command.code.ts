@@ -1,15 +1,15 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { day } from "akasha/commands/arguments/pages/day.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { day } from "akasha/command/arguments/pages/day.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
   dayNow,
   heldFor,
   shownOf,
-} from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
-import { trackSessionList as page } from "akasha/commands/pages/track/session/list/track-session-list.command.ts"
-import { telling } from "akasha/commands/pages/track/session/modules/session-acting/session-acting.module.code.ts"
+} from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
+import { trackSessionList as page } from "akasha/command/pages/track/session/list/track-session-list.command.ts"
+import { telling } from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 
 const NAMED = [json, day]
 

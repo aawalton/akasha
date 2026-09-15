@@ -1,17 +1,17 @@
 import { expect, test } from "bun:test"
-import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { cluster } from "akasha/commands/arguments/pages/cluster.argument.ts"
-import { controlPlaneIps } from "akasha/commands/arguments/pages/control-plane-ips.argument.ts"
-import { ip } from "akasha/commands/arguments/pages/ip.argument.ts"
-import { workerIps } from "akasha/commands/arguments/pages/worker-ips.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+import { cluster } from "akasha/command/arguments/pages/cluster.argument.ts"
+import { controlPlaneIps } from "akasha/command/arguments/pages/control-plane-ips.argument.ts"
+import { ip } from "akasha/command/arguments/pages/ip.argument.ts"
+import { workerIps } from "akasha/command/arguments/pages/worker-ips.argument.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   commaed,
   talosHealth,
-} from "akasha/commands/pages/talos/health/talos-health.command.code.ts"
-import { talosHealth as page } from "akasha/commands/pages/talos/health/talos-health.command.ts"
+} from "akasha/command/pages/talos/health/talos-health.command.code.ts"
+import { talosHealth as page } from "akasha/command/pages/talos/health/talos-health.command.ts"
 
 const CALLED_AS = "akasha talos health"
 

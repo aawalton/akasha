@@ -1,18 +1,18 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { node as nodeArgument } from "akasha/commands/arguments/pages/node.argument.ts"
-import { output } from "akasha/commands/arguments/pages/output.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { node as nodeArgument } from "akasha/command/arguments/pages/node.argument.ts"
+import { output } from "akasha/command/arguments/pages/output.argument.ts"
 import {
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { lines } from "akasha/commands/modules/yaml-lines/yaml-lines.module.code.ts"
-import { talosConfigGen as page } from "akasha/commands/pages/talos/config-gen/talos-config-gen.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { lines } from "akasha/command/modules/yaml-lines/yaml-lines.module.code.ts"
+import { talosConfigGen as page } from "akasha/command/pages/talos/config-gen/talos-config-gen.command.ts"
 import {
   buildNodePatch,
   PLACEHOLDER_SCHEMATIC_ID,

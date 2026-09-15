@@ -1,26 +1,26 @@
-import type { TakenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { after } from "akasha/commands/arguments/pages/after.argument.ts"
-import { before } from "akasha/commands/arguments/pages/before.argument.ts"
-import { categoryRuleId } from "akasha/commands/arguments/pages/category-rule-id.argument.ts"
-import { force } from "akasha/commands/arguments/pages/force.argument.ts"
-import { toPosition } from "akasha/commands/arguments/pages/to-position.argument.ts"
+import type { TakenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { after } from "akasha/command/arguments/pages/after.argument.ts"
+import { before } from "akasha/command/arguments/pages/before.argument.ts"
+import { categoryRuleId } from "akasha/command/arguments/pages/category-rule-id.argument.ts"
+import { force } from "akasha/command/arguments/pages/force.argument.ts"
+import { toPosition } from "akasha/command/arguments/pages/to-position.argument.ts"
 import {
   DATA,
   INPUT,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answeredByPage } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
-import { temperInventoryRuleReorder as page } from "akasha/commands/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.ts"
-import { emitJson } from "akasha/temper/commands/modules/format-output/format-output.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { answeredByPage } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
+import { temperInventoryRuleReorder as page } from "akasha/command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.ts"
+import { emitJson } from "akasha/temper/command/modules/format-output/format-output.module.code.ts"
 import {
   lockedOff,
   settingsOf,
   unfound,
   type Writing,
   wroteSaid,
-} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   reorderCategoryRule,
   resolveAnchorIndex,

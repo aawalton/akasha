@@ -2,13 +2,13 @@ import { expect, test } from "bun:test"
 import {
   INPUT,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   modelGatewayStart,
   wrongIn,
-} from "akasha/commands/pages/model/gateway/start/model-gateway-start.command.code.ts"
-import type { RunSeams } from "akasha/commands/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"
+} from "akasha/command/pages/model/gateway/start/model-gateway-start.command.code.ts"
+import type { RunSeams } from "akasha/command/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"
 
 const LOG_AT = "/var/tmp/run/akasha-gateway-under-test"
 

@@ -1,15 +1,15 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { addonName } from "akasha/commands/arguments/pages/addon-name.argument.ts"
-import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { addonName } from "akasha/command/arguments/pages/addon-name.argument.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
 import {
   DATA,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { temperAddonResolve as page } from "akasha/commands/pages/temper/addon/resolve/temper-addon-resolve.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { temperAddonResolve as page } from "akasha/command/pages/temper/addon/resolve/temper-addon-resolve.command.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import {
   listAllAddons,

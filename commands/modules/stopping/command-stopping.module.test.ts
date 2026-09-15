@@ -8,7 +8,7 @@ import {
   secondsIn,
   watching,
   watchOf,
-} from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
+} from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 
 const NAMED = "akasha one"
 

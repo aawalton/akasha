@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const shuffleState = {
   id: "01a0a027-e111-7251-a3b3-9db653ec1ed9",

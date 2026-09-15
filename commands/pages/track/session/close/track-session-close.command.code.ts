@@ -1,22 +1,22 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { at } from "akasha/commands/arguments/pages/at.argument.ts"
-import { day } from "akasha/commands/arguments/pages/day.argument.ts"
-import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { at } from "akasha/command/arguments/pages/at.argument.ts"
+import { day } from "akasha/command/arguments/pages/day.argument.ts"
+import { dryRun } from "akasha/command/arguments/pages/dry-run.argument.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
   faultsIn,
   instantIn,
   sayingFor,
   shownOf,
-} from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
-import { trackSessionClose as page } from "akasha/commands/pages/track/session/close/track-session-close.command.ts"
+} from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
+import { trackSessionClose as page } from "akasha/command/pages/track/session/close/track-session-close.command.ts"
 import {
   endingIn,
   landed,
   standingFor,
   telling,
-} from "akasha/commands/pages/track/session/modules/session-acting/session-acting.module.code.ts"
+} from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 
 const NAMED = [dryRun, day, at]
 

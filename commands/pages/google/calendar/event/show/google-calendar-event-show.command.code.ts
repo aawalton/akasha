@@ -1,14 +1,14 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { calendar } from "akasha/commands/arguments/pages/calendar.argument.ts"
-import { event } from "akasha/commands/arguments/pages/event.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { calendar } from "akasha/command/arguments/pages/calendar.argument.ts"
+import { event } from "akasha/command/arguments/pages/event.argument.ts"
 import {
   answeredAsJson,
   asAkasha,
   eventsIn,
-} from "akasha/commands/modules/calendar-eventing/calendar-eventing.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { googleCalendarEventShow as page } from "akasha/commands/pages/google/calendar/event/show/google-calendar-event-show.command.ts"
+} from "akasha/command/modules/calendar-eventing/calendar-eventing.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { googleCalendarEventShow as page } from "akasha/command/pages/google/calendar/event/show/google-calendar-event-show.command.ts"
 
 export function googleCalendarEventShow(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [event, calendar])

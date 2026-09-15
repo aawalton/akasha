@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const domainDeclarationList = {
   id: "01a07c03-ab2b-79aa-bfa7-3e62543a4164",

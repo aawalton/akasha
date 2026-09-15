@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const alanPicture = {
   id: "01a09c65-6c45-74f6-9f46-fbb5c1eb8702",

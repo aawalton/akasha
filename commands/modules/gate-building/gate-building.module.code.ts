@@ -1,5 +1,5 @@
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import type { Indexing } from "akasha/pages/index/modules/indexing/indexing.module.code.ts"
 
 const CHANGE = "change"

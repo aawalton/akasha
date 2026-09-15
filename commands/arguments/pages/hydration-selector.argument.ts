@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const hydrationSelector = {
   id: "01a094cb-db8d-732a-abbc-570ad238d494",

@@ -3,7 +3,7 @@ import {
   baseOf,
   changeOf,
   diskAt,
-} from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+} from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { commitThere } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {

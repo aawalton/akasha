@@ -1,16 +1,16 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { at } from "akasha/commands/arguments/pages/at.argument.ts"
-import { day } from "akasha/commands/arguments/pages/day.argument.ts"
-import { difficulty } from "akasha/commands/arguments/pages/difficulty.argument.ts"
-import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
-import { fromFile } from "akasha/commands/arguments/pages/from-file.argument.ts"
-import { id } from "akasha/commands/arguments/pages/id.argument.ts"
-import { last } from "akasha/commands/arguments/pages/last.argument.ts"
-import { open } from "akasha/commands/arguments/pages/open.argument.ts"
-import { relationship } from "akasha/commands/arguments/pages/relationship.argument.ts"
-import { safety } from "akasha/commands/arguments/pages/safety.argument.ts"
-import { title } from "akasha/commands/arguments/pages/title.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { at } from "akasha/command/arguments/pages/at.argument.ts"
+import { day } from "akasha/command/arguments/pages/day.argument.ts"
+import { difficulty } from "akasha/command/arguments/pages/difficulty.argument.ts"
+import { dryRun } from "akasha/command/arguments/pages/dry-run.argument.ts"
+import { fromFile } from "akasha/command/arguments/pages/from-file.argument.ts"
+import { id } from "akasha/command/arguments/pages/id.argument.ts"
+import { last } from "akasha/command/arguments/pages/last.argument.ts"
+import { open } from "akasha/command/arguments/pages/open.argument.ts"
+import { relationship } from "akasha/command/arguments/pages/relationship.argument.ts"
+import { safety } from "akasha/command/arguments/pages/safety.argument.ts"
+import { title } from "akasha/command/arguments/pages/title.argument.ts"
 import {
   addressed,
   anchoredIn,
@@ -18,9 +18,9 @@ import {
   levelsFor,
   type Row,
   sayingFor,
-} from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
-import { trackSessionFile } from "akasha/commands/pages/track/session/file/track-session-file.command.ts"
-import { trackSessionOpen } from "akasha/commands/pages/track/session/open/track-session-open.command.ts"
+} from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
+import { trackSessionFile } from "akasha/command/pages/track/session/file/track-session-file.command.ts"
+import { trackSessionOpen } from "akasha/command/pages/track/session/open/track-session-open.command.ts"
 
 const NOW = new Date("2026-09-01T20:00:00.000Z")
 

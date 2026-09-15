@@ -4,17 +4,17 @@ import {
   answering,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type {
   Downloading,
   Target,
-} from "akasha/commands/pages/icloud/fetch/icloud-fetch.command.code.ts"
+} from "akasha/command/pages/icloud/fetch/icloud-fetch.command.code.ts"
 import {
   folderOf,
   icloudFetch,
   wroteEach,
-} from "akasha/commands/pages/icloud/fetch/icloud-fetch.command.code.ts"
+} from "akasha/command/pages/icloud/fetch/icloud-fetch.command.code.ts"
 
 const ALBUM = "https://share.icloud.com/photos/0ABCdef"
 

@@ -7,8 +7,8 @@ import {
   type Serving,
   servingFrom,
 } from "akasha/code/editor/extension/modules/command-server-client/command-server-client.module.code.ts"
-import { answerBytesSaid } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
-import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { answerBytesSaid } from "akasha/command/modules/answer-bytes/answer-bytes.module.code.ts"
+import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
 
 export function akashaRoot(): string {
   return rootStated(process.env) ?? path.join(os.homedir(), "repos", "akasha")

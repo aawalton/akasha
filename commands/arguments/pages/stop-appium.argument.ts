@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const stopAppium = {
   id: "01a094c4-10e3-7bc4-90cd-1c63e9ce7a33",

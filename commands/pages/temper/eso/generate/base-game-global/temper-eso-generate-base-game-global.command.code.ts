@@ -6,32 +6,32 @@ import {
   renderSeries,
   stageSeries,
 } from "akasha/code/modules/modules/name-series/name-series.module.code.ts"
-import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
-import { esoRoot as esoRootArgument } from "akasha/commands/arguments/pages/eso-root.argument.ts"
-import { stage as stageArgument } from "akasha/commands/arguments/pages/stage.argument.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
+import { esoRoot as esoRootArgument } from "akasha/command/arguments/pages/eso-root.argument.ts"
+import { stage as stageArgument } from "akasha/command/arguments/pages/stage.argument.ts"
 import {
   DATA,
   naming,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   answeredByPage,
   type Generating,
   type Taking,
-} from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
-import { temperEsoGenerateBaseGameGlobal as page } from "akasha/commands/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts"
+} from "akasha/command/modules/page-answering/page-answering.module.code.ts"
+import { temperEsoGenerateBaseGameGlobal as page } from "akasha/command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/modules/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import {
   extractGlobalNames,
   extractStringIdNames,
-} from "akasha/temper/commands/modules/eso-base-game-globals/eso-base-game-globals.module.code.ts"
+} from "akasha/temper/command/modules/eso-base-game-globals/eso-base-game-globals.module.code.ts"
 import {
   saidShort,
   stagingAt,
-} from "akasha/temper/commands/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
+} from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,

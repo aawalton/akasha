@@ -5,10 +5,10 @@ import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.
 import {
   DATA,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { unfresh } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
-import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { unfresh } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
+import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 
 export type Drafting = {
   readonly page: string

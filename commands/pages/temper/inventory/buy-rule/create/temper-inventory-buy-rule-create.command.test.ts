@@ -1,21 +1,21 @@
 import { expect, test } from "bun:test"
-import { active } from "akasha/commands/arguments/pages/active.argument.ts"
-import { itemId } from "akasha/commands/arguments/pages/item-id.argument.ts"
-import { source as sourceArgument } from "akasha/commands/arguments/pages/source.argument.ts"
-import { targetQuantity } from "akasha/commands/arguments/pages/target-quantity.argument.ts"
-import { answering } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { active } from "akasha/command/arguments/pages/active.argument.ts"
+import { itemId } from "akasha/command/arguments/pages/item-id.argument.ts"
+import { source as sourceArgument } from "akasha/command/arguments/pages/source.argument.ts"
+import { targetQuantity } from "akasha/command/arguments/pages/target-quantity.argument.ts"
+import { answering } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   making,
   type Taken,
   temperInventoryBuyRuleCreate,
-} from "akasha/commands/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.code.ts"
-import { temperInventoryBuyRuleCreate as page } from "akasha/commands/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.ts"
+} from "akasha/command/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.code.ts"
+import { temperInventoryBuyRuleCreate as page } from "akasha/command/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.ts"
 import {
   WROTE,
   writingThat,
-} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
+} from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
 
 const CALLED_AS = "akasha temper inventory buy-rule create"
 

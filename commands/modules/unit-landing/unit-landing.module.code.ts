@@ -1,8 +1,8 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import type { Linking } from "akasha/commands/modules/folder-linking/folder-linking.module.code.ts"
-import { treeIn } from "akasha/commands/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import type { Linking } from "akasha/command/modules/folder-linking/folder-linking.module.code.ts"
+import { treeIn } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import {
   asked,
   type Running,

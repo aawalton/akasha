@@ -5,7 +5,7 @@ import {
   notices,
   render,
 } from "akasha/agent/messaging/notice/modules/compose-notices/compose-notices.module.code.ts"
-import { ROOT_NAMED } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { ROOT_NAMED } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 function scratch(): string {

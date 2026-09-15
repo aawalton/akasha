@@ -6,17 +6,17 @@ import {
   namesNoDay,
   readMountainWallTime,
 } from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
-import { at } from "akasha/commands/arguments/pages/at.argument.ts"
-import { id } from "akasha/commands/arguments/pages/id.argument.ts"
-import { last } from "akasha/commands/arguments/pages/last.argument.ts"
-import { open } from "akasha/commands/arguments/pages/open.argument.ts"
+import { at } from "akasha/command/arguments/pages/at.argument.ts"
+import { id } from "akasha/command/arguments/pages/id.argument.ts"
+import { last } from "akasha/command/arguments/pages/last.argument.ts"
+import { open } from "akasha/command/arguments/pages/open.argument.ts"
 import {
   type ActivityDifficulty,
   difficultyForTitle,
   readDifficulty,
   readSafety,
-} from "akasha/commands/pages/track/modules/session-leveling/session-leveling.module.code.ts"
-import { dayBefore } from "akasha/commands/pages/track/modules/waking/waking.module.code.ts"
+} from "akasha/command/pages/track/modules/session-leveling/session-leveling.module.code.ts"
+import { dayBefore } from "akasha/command/pages/track/modules/waking/waking.module.code.ts"
 import {
   statesVersionSeven,
   uuidVersion7,

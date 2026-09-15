@@ -4,7 +4,7 @@ import {
   readInventoryRuleSettings,
   writeAutomationSettings,
   writeInventoryRuleSettings,
-} from "akasha/temper/commands/modules/inventory-settings-access/inventory-settings-access.module.code.ts"
+} from "akasha/temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts"
 import type {
   AutomationSettings,
   CharacterAutomationToggles,

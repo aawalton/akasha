@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const expectAttrSelector = {
   id: "01a094ce-67ff-7279-a6dc-2f38ef7cd0cb",

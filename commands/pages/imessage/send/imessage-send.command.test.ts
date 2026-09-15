@@ -5,21 +5,21 @@ import {
   SENT_TEXT,
   sentSaid,
 } from "akasha/alan/harness/imessage/modules/send/imessage-send.module.code.ts"
-import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
-import { text as textArgument } from "akasha/commands/arguments/pages/text.argument.ts"
-import { textFile } from "akasha/commands/arguments/pages/text-file.argument.ts"
-import { toHandle } from "akasha/commands/arguments/pages/to-handle.argument.ts"
+import { image as imageArgument } from "akasha/command/arguments/pages/image.argument.ts"
+import { text as textArgument } from "akasha/command/arguments/pages/text.argument.ts"
+import { textFile } from "akasha/command/arguments/pages/text-file.argument.ts"
+import { toHandle } from "akasha/command/arguments/pages/to-handle.argument.ts"
 import {
   answering,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Lines } from "akasha/commands/pages/imessage/send/imessage-send.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Lines } from "akasha/command/pages/imessage/send/imessage-send.command.code.ts"
 import {
   imessageSend,
   sent,
-} from "akasha/commands/pages/imessage/send/imessage-send.command.code.ts"
+} from "akasha/command/pages/imessage/send/imessage-send.command.code.ts"
 
 const TEXT = sentSaid(SENT_TEXT) as string
 

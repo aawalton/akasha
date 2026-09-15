@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const inventoryPath = {
   id: "01a094ad-03b9-7df2-b5a7-13a9d9c389ca",

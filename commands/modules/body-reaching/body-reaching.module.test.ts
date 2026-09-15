@@ -5,7 +5,7 @@ import {
   bytesAt,
   textAt,
   textOf,
-} from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
+} from "akasha/command/modules/body-reaching/body-reaching.module.code.ts"
 import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 

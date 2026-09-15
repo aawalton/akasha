@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   colorsSaid,
   countOf,
@@ -8,7 +8,7 @@ import {
   shownIn,
   treeOf,
   walk,
-} from "akasha/commands/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
+} from "akasha/command/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
 import type {
   InitiativeIntent,
   InitiativeRow,

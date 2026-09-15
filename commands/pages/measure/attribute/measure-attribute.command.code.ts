@@ -1,20 +1,20 @@
 import { pointsTotalKept } from "akasha/alan/attributes/modules/points/attribute-points.module.code.ts"
 import { levelOf } from "akasha/alan/attributes/properties/attribute-level.computed-property.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   DATA,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { measureAttribute as page } from "akasha/commands/pages/measure/attribute/measure-attribute.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { measureAttribute as page } from "akasha/command/pages/measure/attribute/measure-attribute.command.ts"
 import {
   flooredTo,
   linesOf,
   type Measured,
   PLACES,
-} from "akasha/commands/pages/measure/modules/tabling/measure-tabling.module.code.ts"
+} from "akasha/command/pages/measure/modules/tabling/measure-tabling.module.code.ts"
 import {
   slugOf,
   slugsIn,

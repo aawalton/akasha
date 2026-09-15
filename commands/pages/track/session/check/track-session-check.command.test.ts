@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { day } from "akasha/commands/arguments/pages/day.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { trackSessionCheck } from "akasha/commands/pages/track/session/check/track-session-check.command.code.ts"
-import { trackSessionCheck as page } from "akasha/commands/pages/track/session/check/track-session-check.command.ts"
+import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+import { day } from "akasha/command/arguments/pages/day.argument.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { trackSessionCheck } from "akasha/command/pages/track/session/check/track-session-check.command.code.ts"
+import { trackSessionCheck as page } from "akasha/command/pages/track/session/check/track-session-check.command.ts"
 
 const CALLED_AS = "akasha track session check"
 

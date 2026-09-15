@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
 import {
   generatedBy,
   type Named,
-} from "akasha/commands/pages/talos/secret-gen/talos-secret-gen.command.code.ts"
+} from "akasha/command/pages/talos/secret-gen/talos-secret-gen.command.code.ts"
 
 const ASKED: Named = { cluster: "main", force: true }
 

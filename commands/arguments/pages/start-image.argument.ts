@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const startImage = {
   id: "01a094d4-3536-7aff-9a39-8bee6d7fdb67",

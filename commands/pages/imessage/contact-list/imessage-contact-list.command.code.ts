@@ -1,16 +1,16 @@
 import { searchContacts } from "akasha/alan/harness/imessage/modules/contacts-db/contacts-db.module.code.ts"
 import { fetchContacts } from "akasha/alan/harness/imessage/modules/remote/imessage-remote.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { contactQuery } from "akasha/commands/arguments/pages/contact-query.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { contactQuery } from "akasha/command/arguments/pages/contact-query.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
 import {
   answering,
   asJson,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { imessageContactList as page } from "akasha/commands/pages/imessage/contact-list/imessage-contact-list.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { imessageContactList as page } from "akasha/command/pages/imessage/contact-list/imessage-contact-list.command.ts"
 
 export function imessageContactList(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [json, contactQuery])

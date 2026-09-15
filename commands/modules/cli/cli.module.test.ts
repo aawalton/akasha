@@ -6,14 +6,14 @@ import {
   INPUT,
   OK,
   UNCLASSIFIED,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { outsideOf, saidOf, unclassifying } from "akasha/commands/modules/cli/cli.module.code.ts"
-import { COMMAND_TYPE_AT } from "akasha/commands/modules/cli/cli.module.test-fixtures.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { outsideOf, saidOf, unclassifying } from "akasha/command/modules/cli/cli.module.code.ts"
+import { COMMAND_TYPE_AT } from "akasha/command/modules/cli/cli.module.test-fixtures.ts"
 import {
   CLAUDE_AUTHOR,
   forgetCommitAuthor,
-} from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
-import { MARKED } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+} from "akasha/command/modules/commit-author/commit-author.module.code.ts"
+import { MARKED } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   idFiled,
   listedFiled,

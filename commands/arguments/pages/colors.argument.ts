@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const colors = {
   id: "01a094ee-82ec-7f31-a6e7-d2f7b11a6869",

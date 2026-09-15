@@ -2,8 +2,8 @@ import {
   DATA,
   INPUT,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 
 const NOTHING = "nothing was judged and nothing was written"
 

@@ -5,17 +5,17 @@ import {
   landedMechanically,
   type runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { gradeTarget } from "akasha/commands/arguments/pages/grade-target.argument.ts"
-import { insights } from "akasha/commands/arguments/pages/insights.argument.ts"
-import { insightsFile } from "akasha/commands/arguments/pages/insights-file.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { personalConnections } from "akasha/commands/arguments/pages/personal-connections.argument.ts"
-import { personalConnectionsFile } from "akasha/commands/arguments/pages/personal-connections-file.argument.ts"
-import { rating } from "akasha/commands/arguments/pages/rating.argument.ts"
-import { reaction } from "akasha/commands/arguments/pages/reaction.argument.ts"
-import { reactionFile } from "akasha/commands/arguments/pages/reaction-file.argument.ts"
-import { slug as slugArgument } from "akasha/commands/arguments/pages/slug.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { gradeTarget } from "akasha/command/arguments/pages/grade-target.argument.ts"
+import { insights } from "akasha/command/arguments/pages/insights.argument.ts"
+import { insightsFile } from "akasha/command/arguments/pages/insights-file.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { personalConnections } from "akasha/command/arguments/pages/personal-connections.argument.ts"
+import { personalConnectionsFile } from "akasha/command/arguments/pages/personal-connections-file.argument.ts"
+import { rating } from "akasha/command/arguments/pages/rating.argument.ts"
+import { reaction } from "akasha/command/arguments/pages/reaction.argument.ts"
+import { reactionFile } from "akasha/command/arguments/pages/reaction-file.argument.ts"
+import { slug as slugArgument } from "akasha/command/arguments/pages/slug.argument.ts"
 import {
   answeredWith,
   answering,
@@ -26,15 +26,15 @@ import {
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { textAt } from "akasha/command/modules/body-reaching/body-reaching.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   type Filing,
   filledIn,
-} from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { musicRate as page } from "akasha/commands/pages/music/rate/music-rate.command.ts"
+} from "akasha/command/modules/filling/command-filling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { musicRate as page } from "akasha/command/pages/music/rate/music-rate.command.ts"
 import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"

@@ -9,9 +9,9 @@ import { pathsIn } from "akasha/changes/modules/answer/change-answer.module.code
 import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { type World, worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
-import { landingFrom } from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
-import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { movedOnto } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
+import { landingFrom } from "akasha/command/modules/edits-landing/edits-landing.module.code.ts"
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { movedOnto } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import {
   carriedPage,
   indexedRepo,

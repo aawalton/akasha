@@ -4,16 +4,16 @@ import {
   answering,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type {
   Applied,
   Keeping,
   Running,
-} from "akasha/commands/pages/talos/apply/talos-apply.command.code.ts"
+} from "akasha/command/pages/talos/apply/talos-apply.command.code.ts"
 import {
   tookSaid,
   wroteConfig,
-} from "akasha/commands/pages/talos/apply/talos-apply.command.code.ts"
+} from "akasha/command/pages/talos/apply/talos-apply.command.code.ts"
 
 const APPLIED: Applied = {
   cluster: "home",

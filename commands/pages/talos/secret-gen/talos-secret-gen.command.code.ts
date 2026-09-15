@@ -1,18 +1,18 @@
 import { existsSync } from "node:fs"
 import { mkdir, mkdtemp, rm, stat } from "node:fs/promises"
 import { dirname, join } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { cluster } from "akasha/commands/arguments/pages/cluster.argument.ts"
-import { force } from "akasha/commands/arguments/pages/force.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { cluster } from "akasha/command/arguments/pages/cluster.argument.ts"
+import { force } from "akasha/command/arguments/pages/force.argument.ts"
 import {
   answering,
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { talosSecretGen as page } from "akasha/commands/pages/talos/secret-gen/talos-secret-gen.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { talosSecretGen as page } from "akasha/command/pages/talos/secret-gen/talos-secret-gen.command.ts"
 import { clusterSecretsSopsPath } from "akasha/infrastructure/cluster/provisioning/talos/modules/paths/paths.module.code.ts"
 import { encryptFile } from "akasha/infrastructure/cluster/provisioning/talos/modules/sops/sops.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/modules/talosctl/talosctl.module.code.ts"

@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const messageQuery = {
   id: "01a094e4-ed10-7e2d-a4ea-25d7563eaa55",

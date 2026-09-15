@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Kind } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   idFiled,
   listedFiled,
@@ -21,9 +21,9 @@ export const COMMAND = "command"
 
 export const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
 
-const REPAIR_AT = "commands/pages/index/refresh/index-refresh.command.code.ts"
+const REPAIR_AT = "command/pages/index/refresh/index-refresh.command.code.ts"
 
-const BOOTSTRAP_AT = "commands/pages/index/refresh/index-refresh.command.ts"
+const BOOTSTRAP_AT = "command/pages/index/refresh/index-refresh.command.ts"
 
 export const ANSWERS = `export function held(argv, given) {
   return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }

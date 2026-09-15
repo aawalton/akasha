@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { initiative } from "akasha/commands/arguments/pages/initiative.argument.ts"
-import { statement } from "akasha/commands/arguments/pages/statement.argument.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { initiative } from "akasha/command/arguments/pages/initiative.argument.ts"
+import { statement } from "akasha/command/arguments/pages/statement.argument.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   droppedBy,
   initiativeDeleteIntent,
@@ -12,8 +12,8 @@ import {
   noInitiative,
   saidFor,
   wrongIn,
-} from "akasha/commands/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts"
-import { initiativeDeleteIntent as page } from "akasha/commands/pages/initiative/delete-intent/initiative-delete-intent.command.ts"
+} from "akasha/command/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts"
+import { initiativeDeleteIntent as page } from "akasha/command/pages/initiative/delete-intent/initiative-delete-intent.command.ts"
 
 test("a call naming three words is refused", async () => {
   const said = await initiativeDeleteIntent(["one", "two", "three"], GIVEN)

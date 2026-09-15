@@ -3,7 +3,7 @@ import { invariantStatementIsPlain } from "akasha/checks/code-checks/pages/invar
 import { paged } from "akasha/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.decision.test-fixtures.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { arriving } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const AT = "akasha/held.check.ts"

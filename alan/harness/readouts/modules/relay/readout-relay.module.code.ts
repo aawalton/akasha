@@ -6,7 +6,7 @@ import {
   type Reading,
   readingKept,
 } from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
-import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 import { z } from "zod"
 

@@ -1,29 +1,29 @@
 import { expect, test } from "bun:test"
-import { after } from "akasha/commands/arguments/pages/after.argument.ts"
-import { before } from "akasha/commands/arguments/pages/before.argument.ts"
-import { categoryRuleId } from "akasha/commands/arguments/pages/category-rule-id.argument.ts"
-import { toPosition } from "akasha/commands/arguments/pages/to-position.argument.ts"
+import { after } from "akasha/command/arguments/pages/after.argument.ts"
+import { before } from "akasha/command/arguments/pages/before.argument.ts"
+import { categoryRuleId } from "akasha/command/arguments/pages/category-rule-id.argument.ts"
+import { toPosition } from "akasha/command/arguments/pages/to-position.argument.ts"
 import {
   answering,
   DATA,
   INPUT,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   moving,
   type Taken,
   temperInventoryRuleReorder,
-} from "akasha/commands/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.code.ts"
-import { temperInventoryRuleReorder as page } from "akasha/commands/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.ts"
-import { wroteSaid } from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "akasha/command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.code.ts"
+import { temperInventoryRuleReorder as page } from "akasha/command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.ts"
+import { wroteSaid } from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   HELD,
   LOCKED_ID,
   UNREADABLE,
   WROTE,
   writingThat,
-} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
+} from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const CALLED_AS = "akasha temper inventory rule reorder"

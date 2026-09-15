@@ -11,7 +11,7 @@ import { collectAntiquityLore } from "akasha/temper/characters-addon/modules/cha
 import { collectBagSize } from "akasha/temper/characters-addon/modules/characters-bag-size/characters-bag-size.module.code.ts"
 import { collectCadwell } from "akasha/temper/characters-addon/modules/characters-cadwell/characters-cadwell.module.code.ts"
 import { collectCollectibles } from "akasha/temper/characters-addon/modules/characters-collectibles/characters-collectibles.module.code.ts"
-import { registerCommands } from "akasha/temper/characters-addon/modules/characters-commands/characters-commands.module.code.ts"
+import { registerCommands } from "akasha/temper/characters-addon/modules/characters-command/characters-commands.module.code.ts"
 import { currentCharacterEntry } from "akasha/temper/characters-addon/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import {
   probeDailyWrits,

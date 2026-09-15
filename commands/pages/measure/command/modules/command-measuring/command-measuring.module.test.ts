@@ -11,7 +11,7 @@ import {
   costsIn,
   foundIn,
   heldIn,
-} from "akasha/commands/pages/measure/command/modules/command-measuring/command-measuring.module.code.ts"
+} from "akasha/command/pages/measure/command/modules/command-measuring/command-measuring.module.code.ts"
 import {
   lineOf,
   ONE,
@@ -19,7 +19,7 @@ import {
   rowsInto,
   THREE,
   TWO,
-} from "akasha/commands/pages/measure/command/modules/command-measuring/command-measuring.module.test-fixtures.ts"
+} from "akasha/command/pages/measure/command/modules/command-measuring/command-measuring.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
@@ -31,9 +31,9 @@ const LAST_ONE = { by: "runs", runs: 1 } as const
 
 const DAY_BACK = { by: "period", ms: DAY, said: "24h" } as const
 
-const INDEX_AT = pageAt("commands/pages", "index")
+const INDEX_AT = pageAt("command/pages", "index")
 
-const READ_AT = pageAt("commands/pages", "read")
+const READ_AT = pageAt("command/pages", "read")
 
 const HALF = '{"runId":"one","ranAt":"2026-09-05T11'
 
@@ -59,17 +59,17 @@ test("every command page is reached by walking the tree rather than by a folder 
 
 test("a folder git or a package manager owns is walked past", () => {
   const root = rowsInto(rootFor(), INDEX_AT, [{}])
-  put(root, `.git/${pageAt("commands/pages", "index")}`, "")
-  put(root, `node_modules/${pageAt("commands/pages", "index")}`, "")
+  put(root, `.git/${pageAt("command/pages", "index")}`, "")
+  put(root, `node_modules/${pageAt("command/pages", "index")}`, "")
 
   expect(foundIn(root, "")).toEqual([INDEX_AT])
 })
 
 test("every numbered file of a page's rows is read rather than the first alone", () => {
   const root = rootFor()
-  rowsInto(root, pageAt("commands/pages", "index", 1), [{ runId: ONE }])
-  rowsInto(root, pageAt("commands/pages", "index", 2), [{ runId: TWO }])
-  rowsInto(root, pageAt("commands/pages", "index", 3), [{ runId: THREE }])
+  rowsInto(root, pageAt("command/pages", "index", 1), [{ runId: ONE }])
+  rowsInto(root, pageAt("command/pages", "index", 2), [{ runId: TWO }])
+  rowsInto(root, pageAt("command/pages", "index", 3), [{ runId: THREE }])
 
   expect(heldIn(root).runs.length).toBe(3)
 })

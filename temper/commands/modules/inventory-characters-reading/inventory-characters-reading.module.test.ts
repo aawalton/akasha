@@ -4,7 +4,7 @@ import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exi
 import {
   loadTemperCharactersFromPath,
   parseTemperCharacters,
-} from "akasha/temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+} from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()

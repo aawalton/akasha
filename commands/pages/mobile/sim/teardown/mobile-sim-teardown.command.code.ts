@@ -5,15 +5,15 @@ import {
   clearSessionState,
   loadSessionState,
 } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { stopAppium as stopAppiumArgument } from "akasha/commands/arguments/pages/stop-appium.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { stopAppium as stopAppiumArgument } from "akasha/command/arguments/pages/stop-appium.argument.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mobileSimTeardown as page } from "akasha/commands/pages/mobile/sim/teardown/mobile-sim-teardown.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mobileSimTeardown as page } from "akasha/command/pages/mobile/sim/teardown/mobile-sim-teardown.command.ts"
 
 export type Read = {
   readonly stopAppium: boolean

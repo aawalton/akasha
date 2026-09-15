@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { argumentsNamed } from "akasha/commands/arguments/modules/naming/argument-naming.module.code.ts"
+import { argumentsNamed } from "akasha/command/arguments/modules/naming/argument-naming.module.code.ts"
 import {
   ANSWERS,
   argumentsFiled,
   rootWith,
   sweep,
-} from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
+} from "akasha/command/modules/calling/calling.module.test-fixtures.ts"
 
 afterAll(sweep)
 

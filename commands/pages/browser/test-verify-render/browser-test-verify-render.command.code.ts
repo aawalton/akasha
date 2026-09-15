@@ -5,7 +5,7 @@ import {
   planRenderSettleWait,
   planTitleSettleWait,
   planVerifyRenderSession,
-} from "akasha/code/browser/commands/modules/verify-render-plan/verify-render-plan.module.code.ts"
+} from "akasha/code/browser/command/modules/verify-render-plan/verify-render-plan.module.code.ts"
 import {
   readBrowserTestEnv,
   readRealUserOptInEnv,
@@ -25,31 +25,31 @@ import {
   createReadOnlyRealUserHarness,
   createReadOnlyThrowawayHarness,
 } from "akasha/code/browser/test-harness/modules/read-only-harness/read-only-harness.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { asThrowaway } from "akasha/commands/arguments/pages/as-throwaway.argument.ts"
-import { expectAttr } from "akasha/commands/arguments/pages/expect-attr.argument.ts"
-import { expectAttrMode } from "akasha/commands/arguments/pages/expect-attr-mode.argument.ts"
-import { expectAttrSelector } from "akasha/commands/arguments/pages/expect-attr-selector.argument.ts"
-import { expectAttrValue } from "akasha/commands/arguments/pages/expect-attr-value.argument.ts"
-import { expectCount } from "akasha/commands/arguments/pages/expect-count.argument.ts"
-import { expectCountSelector } from "akasha/commands/arguments/pages/expect-count-selector.argument.ts"
-import { expectText } from "akasha/commands/arguments/pages/expect-text.argument.ts"
-import { expectTitle } from "akasha/commands/arguments/pages/expect-title.argument.ts"
-import { hydrationSelector } from "akasha/commands/arguments/pages/hydration-selector.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { noSignIn } from "akasha/commands/arguments/pages/no-sign-in.argument.ts"
-import { pageType } from "akasha/commands/arguments/pages/page-type.argument.ts"
-import { path as pathArgument } from "akasha/commands/arguments/pages/path.argument.ts"
-import { rootSelector } from "akasha/commands/arguments/pages/root-selector.argument.ts"
-import { signInPath as signInPathArgument } from "akasha/commands/arguments/pages/sign-in-path.argument.ts"
-import { timeoutMs } from "akasha/commands/arguments/pages/timeout-ms.argument.ts"
-import { url } from "akasha/commands/arguments/pages/url.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { asThrowaway } from "akasha/command/arguments/pages/as-throwaway.argument.ts"
+import { expectAttr } from "akasha/command/arguments/pages/expect-attr.argument.ts"
+import { expectAttrMode } from "akasha/command/arguments/pages/expect-attr-mode.argument.ts"
+import { expectAttrSelector } from "akasha/command/arguments/pages/expect-attr-selector.argument.ts"
+import { expectAttrValue } from "akasha/command/arguments/pages/expect-attr-value.argument.ts"
+import { expectCount } from "akasha/command/arguments/pages/expect-count.argument.ts"
+import { expectCountSelector } from "akasha/command/arguments/pages/expect-count-selector.argument.ts"
+import { expectText } from "akasha/command/arguments/pages/expect-text.argument.ts"
+import { expectTitle } from "akasha/command/arguments/pages/expect-title.argument.ts"
+import { hydrationSelector } from "akasha/command/arguments/pages/hydration-selector.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { noSignIn } from "akasha/command/arguments/pages/no-sign-in.argument.ts"
+import { pageType } from "akasha/command/arguments/pages/page-type.argument.ts"
+import { path as pathArgument } from "akasha/command/arguments/pages/path.argument.ts"
+import { rootSelector } from "akasha/command/arguments/pages/root-selector.argument.ts"
+import { signInPath as signInPathArgument } from "akasha/command/arguments/pages/sign-in-path.argument.ts"
+import { timeoutMs } from "akasha/command/arguments/pages/timeout-ms.argument.ts"
+import { url } from "akasha/command/arguments/pages/url.argument.ts"
 import {
   answeredWith,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { browserTestVerifyRender as page } from "akasha/commands/pages/browser/test-verify-render/browser-test-verify-render.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { browserTestVerifyRender as page } from "akasha/command/pages/browser/test-verify-render/browser-test-verify-render.command.ts"
 
 const EXPECT_TEXT = expectText.said
 

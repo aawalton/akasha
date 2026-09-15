@@ -6,28 +6,28 @@ import {
   renderSeries,
   stageSeries,
 } from "akasha/code/modules/modules/name-series/name-series.module.code.ts"
-import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
-import { esoRoot } from "akasha/commands/arguments/pages/eso-root.argument.ts"
-import { stage } from "akasha/commands/arguments/pages/stage.argument.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
+import { esoRoot } from "akasha/command/arguments/pages/eso-root.argument.ts"
+import { stage } from "akasha/command/arguments/pages/stage.argument.ts"
 import {
   DATA,
   naming,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   answeredByPage,
   type Taking,
-} from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
-import { temperEsoGenerateColonMethod as page } from "akasha/commands/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.ts"
+} from "akasha/command/modules/page-answering/page-answering.module.code.ts"
+import { temperEsoGenerateColonMethod as page } from "akasha/command/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { esoDocPathForLuaRoot } from "akasha/temper/build-deploy-checks/modules/eso-doc-api-version/eso-doc-api-version.module.code.ts"
-import { extractColonMethodNames } from "akasha/temper/commands/modules/eso-colon-methods/eso-colon-methods.module.code.ts"
+import { extractColonMethodNames } from "akasha/temper/command/modules/eso-colon-methods/eso-colon-methods.module.code.ts"
 import {
   saidShort,
   stagingAt,
-} from "akasha/temper/commands/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
+} from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,

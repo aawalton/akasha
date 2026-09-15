@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { temperInventorySnapshot } from "akasha/commands/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.code.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { temperInventorySnapshot } from "akasha/command/pages/temper/inventory/snapshot/temper-inventory-snapshot.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

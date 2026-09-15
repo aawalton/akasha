@@ -11,7 +11,7 @@ const ROOT = ""
 
 const SLASH = "/"
 
-export const INDEX_AT = ""
+export const INDEX_AT = ".index"
 
 export const BUILT_AT = ".built"
 

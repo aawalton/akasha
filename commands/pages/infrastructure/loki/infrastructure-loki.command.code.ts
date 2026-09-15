@@ -1,19 +1,19 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { cursor as cursorArgument } from "akasha/commands/arguments/pages/cursor.argument.ts"
-import { everyLine } from "akasha/commands/arguments/pages/every-line.argument.ts"
-import { kubeNamespace } from "akasha/commands/arguments/pages/kube-namespace.argument.ts"
-import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
-import { pod as podArgument } from "akasha/commands/arguments/pages/pod.argument.ts"
-import { since as sinceArgument } from "akasha/commands/arguments/pages/since.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { cursor as cursorArgument } from "akasha/command/arguments/pages/cursor.argument.ts"
+import { everyLine } from "akasha/command/arguments/pages/every-line.argument.ts"
+import { kubeNamespace } from "akasha/command/arguments/pages/kube-namespace.argument.ts"
+import { limit as limitArgument } from "akasha/command/arguments/pages/limit.argument.ts"
+import { pod as podArgument } from "akasha/command/arguments/pages/pod.argument.ts"
+import { since as sinceArgument } from "akasha/command/arguments/pages/since.argument.ts"
 import {
   codeOf,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { infrastructureLoki as page } from "akasha/commands/pages/infrastructure/loki/infrastructure-loki.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { infrastructureLoki as page } from "akasha/command/pages/infrastructure/loki/infrastructure-loki.command.ts"
 import {
   chooseLogsDiagnostic,
   describeBounds,

@@ -11,8 +11,8 @@ import {
   nameFor,
   singleLine,
 } from "akasha/alan/harness/imessage/modules/message-lines/message-lines.module.code.ts"
-import { asJson, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { asJson, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 
 const SENT = "→"
 

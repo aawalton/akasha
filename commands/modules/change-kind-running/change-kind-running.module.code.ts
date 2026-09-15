@@ -1,4 +1,4 @@
-import type { Kind } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Kind } from "akasha/command/modules/calling/calling.module.code.ts"
 
 export type Running = {
   readonly checks: boolean

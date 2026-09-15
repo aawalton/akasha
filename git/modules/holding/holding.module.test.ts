@@ -4,12 +4,12 @@ import { join } from "node:path"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   CARRIED,
   CARRIED_IN,
-} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
-import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+} from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
   heldSaid,
   holding,

@@ -4,7 +4,7 @@ import type { World } from "akasha/changes/modules/shadow/change-shadow.module.c
 import {
   entriedIn,
   identifiedOver,
-} from "akasha/commands/modules/value-minting/value-minting.module.code.ts"
+} from "akasha/command/modules/value-minting/value-minting.module.code.ts"
 
 export type Asked = {
   readonly at: string

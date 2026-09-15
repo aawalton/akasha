@@ -1,35 +1,35 @@
 import { readFileSync } from "node:fs"
 import { readMountainWallTime } from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { day } from "akasha/commands/arguments/pages/day.argument.ts"
-import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
-import { fromFile } from "akasha/commands/arguments/pages/from-file.argument.ts"
-import { relationship } from "akasha/commands/arguments/pages/relationship.argument.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { day } from "akasha/command/arguments/pages/day.argument.ts"
+import { dryRun } from "akasha/command/arguments/pages/dry-run.argument.ts"
+import { fromFile } from "akasha/command/arguments/pages/from-file.argument.ts"
+import { relationship } from "akasha/command/arguments/pages/relationship.argument.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
   difficultyForTitle,
   readDifficulty,
   readSafety,
-} from "akasha/commands/pages/track/modules/session-leveling/session-leveling.module.code.ts"
+} from "akasha/command/pages/track/modules/session-leveling/session-leveling.module.code.ts"
 import {
   anchoredIn,
   faultsIn,
   mintedAt,
   type Row,
   shownOf,
-} from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
-import { trackSessionFile as page } from "akasha/commands/pages/track/session/file/track-session-file.command.ts"
+} from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
+import { trackSessionFile as page } from "akasha/command/pages/track/session/file/track-session-file.command.ts"
 import {
   landed,
   standingFor,
   taggingFor,
   telling,
-} from "akasha/commands/pages/track/session/modules/session-acting/session-acting.module.code.ts"
+} from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 import {
   taggedFor,
   taggingOf,
-} from "akasha/commands/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
+} from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 
 const LINE = /^(\S+)\s+(.+?)(?:\s+s(-?[\d.]+)d([\d.]+))?$/
 

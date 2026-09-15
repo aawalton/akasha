@@ -1,18 +1,18 @@
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { answeredByPage } from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
-import { temperInventoryBuyRuleList as page } from "akasha/commands/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.ts"
-import { emitJson } from "akasha/temper/commands/modules/format-output/format-output.module.code.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { told } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { answeredByPage } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
+import { temperInventoryBuyRuleList as page } from "akasha/command/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.ts"
+import { emitJson } from "akasha/temper/command/modules/format-output/format-output.module.code.ts"
 import {
   settingsOf,
   toldRows,
-} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   latestSnapshot,
   snapshotDatabase,
-} from "akasha/temper/commands/modules/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"
+} from "akasha/temper/command/modules/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"
 import { computeItemStock } from "akasha/temper/items-core/modules/compute-item-stock/compute-item-stock.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { computeBuyShortfall } from "akasha/temper/items-rules-core/modules/buy-rule-eval/buy-rule-eval.module.code.ts"

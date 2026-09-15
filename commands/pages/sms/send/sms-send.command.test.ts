@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Named } from "akasha/commands/pages/sms/send/sms-send.command.code.ts"
-import { sentBy, sentSaid } from "akasha/commands/pages/sms/send/sms-send.command.code.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Named } from "akasha/command/pages/sms/send/sms-send.command.code.ts"
+import { sentBy, sentSaid } from "akasha/command/pages/sms/send/sms-send.command.code.ts"
 
 const NAMED: Named = {
   apiKey: "not-a-key",

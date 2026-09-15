@@ -14,7 +14,7 @@ const MODULE = "module"
 
 export const COMMANDS = "commands"
 
-export const PAGES_AT = "commands/pages"
+export const PAGES_AT = "command/pages"
 
 const MODULES = "modules"
 
@@ -74,7 +74,7 @@ function slugReason(slug: string, above: string): string {
 function folderReason(at: string, wanted: string): string {
   return (
     `the page sits in \`${at}\`, and the parts above it name \`${wanted}\` — the command tree ` +
-    "and the folder tree under `commands/` are one tree said twice"
+    "and the folder tree under `command/` are one tree said twice"
   )
 }
 
@@ -95,14 +95,14 @@ function namingReason(at: string): string {
 function outsideReason(at: string): string {
   return (
     `the page naming this module among its parts is in \`${at}\` — a module under ` +
-    "`commands/` is named by a page under `commands/`"
+    "`command/` is named by a page under `command/`"
   )
 }
 
 function moduleNamingReason(at: string): string {
   return (
     `the page naming this module among its parts is in \`${at}\` — a module under ` +
-    "`commands/pages` is named by the command or the namespace beside it"
+    "`command/pages` is named by the command or the namespace beside it"
   )
 }
 
@@ -116,7 +116,7 @@ function moduleFolderReason(at: string, wanted: string): string {
 function placeReason(at: string, wanted: string): string {
   return (
     `the module sits in \`${at}\`, and the pages reaching it sit under \`${wanted}\` — a module ` +
-    "under `commands/pages` sits under the lowest level whose pages reach it"
+    "under `command/pages` sits under the lowest level whose pages reach it"
   )
 }
 

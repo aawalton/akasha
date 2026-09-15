@@ -1,14 +1,14 @@
 import { expect, test } from "bun:test"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   declaredIn,
   declaring,
   heldAlready,
   temperEsoGenerateDeclaration,
   typeFaultsIn,
-} from "akasha/commands/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"
+} from "akasha/command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"
 import type { SelectedTokens } from "akasha/temper/eso-declaration/modules/eso-token-scope/eso-token-scope.module.code.ts"
 
 const NOTHING: SelectedTokens = { functions: [], objects: [], events: [], enums: [] }

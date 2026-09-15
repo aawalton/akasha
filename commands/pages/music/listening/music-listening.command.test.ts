@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   musicListening,
   saidOf,
   windowOf,
-} from "akasha/commands/pages/music/listening/music-listening.command.code.ts"
+} from "akasha/command/pages/music/listening/music-listening.command.code.ts"
 
 const GIVEN: Given = {
   root: ".",

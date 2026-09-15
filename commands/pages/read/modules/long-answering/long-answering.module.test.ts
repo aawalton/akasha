@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
 import type { Reading } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import { lettered } from "akasha/commands/modules/long-body/long-body.module.test-fixtures.ts"
+import { lettered } from "akasha/command/modules/long-body/long-body.module.test-fixtures.ts"
 import {
   afterIn,
   budgetFor,
   longAnswer,
   reachedTo,
-} from "akasha/commands/pages/read/modules/long-answering/long-answering.module.code.ts"
+} from "akasha/command/pages/read/modules/long-answering/long-answering.module.code.ts"
 
 const CALLED_AS = "akasha read"
 

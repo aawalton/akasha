@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const refAudio = {
   id: "01a094d7-3417-7b35-bfc5-a3834962c4d0",

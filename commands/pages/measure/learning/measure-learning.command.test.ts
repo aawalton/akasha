@@ -1,14 +1,14 @@
 import { expect, test } from "bun:test"
-import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   measureLearning,
   type Reading,
   saidOf,
-} from "akasha/commands/pages/measure/learning/measure-learning.command.code.ts"
-import { measureLearning as page } from "akasha/commands/pages/measure/learning/measure-learning.command.ts"
+} from "akasha/command/pages/measure/learning/measure-learning.command.code.ts"
+import { measureLearning as page } from "akasha/command/pages/measure/learning/measure-learning.command.ts"
 
 const CALLED_AS = "akasha measure learning"
 

@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const errorsPath = {
   id: "01a094d0-c7f9-7d85-aa2f-80cb2cd54852",

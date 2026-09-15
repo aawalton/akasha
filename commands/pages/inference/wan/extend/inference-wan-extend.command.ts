@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const inferenceWanExtend = {
   id: "01a093fb-0896-7f06-b8ca-489590932fe3",

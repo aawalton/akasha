@@ -3,13 +3,13 @@ import {
   DATA,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answering, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Staging } from "akasha/commands/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answering, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Staging } from "akasha/command/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.code.ts"
 import {
   methoding,
   temperEsoGenerateColonMethod,
-} from "akasha/commands/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.code.ts"
+} from "akasha/command/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

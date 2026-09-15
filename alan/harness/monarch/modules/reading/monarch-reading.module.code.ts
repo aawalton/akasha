@@ -4,7 +4,7 @@ import {
   readoutPage,
 } from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
 import { fetchRingCountsFromMonarch } from "akasha/alan/harness/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.reading.code.ts"
-import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 export const READOUT_SLUG = "monarch-unreviewed-transactions"

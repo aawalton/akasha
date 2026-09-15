@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const infrastructureServiceStop = {
   id: "01a09408-a1a1-7e96-9e19-38cfb6a5715e",

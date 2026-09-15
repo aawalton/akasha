@@ -7,7 +7,7 @@ import {
   strayAmong,
   trackedIn,
 } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
-import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
+import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 
 const ROOT = "/nowhere"
 

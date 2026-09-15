@@ -1,14 +1,14 @@
 import { existsSync } from "node:fs"
 import { mkdir } from "node:fs/promises"
 import { dirname, resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { cluster as clusterArgument } from "akasha/commands/arguments/pages/cluster.argument.ts"
-import { ip as ipArgument } from "akasha/commands/arguments/pages/ip.argument.ts"
-import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
-import { answering, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { talosKubeconfig as page } from "akasha/commands/pages/talos/kubeconfig/talos-kubeconfig.command.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { cluster as clusterArgument } from "akasha/command/arguments/pages/cluster.argument.ts"
+import { ip as ipArgument } from "akasha/command/arguments/pages/ip.argument.ts"
+import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
+import { answering, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { talosKubeconfig as page } from "akasha/command/pages/talos/kubeconfig/talos-kubeconfig.command.ts"
 import {
   clusterKubeconfigPath,
   clusterTalosconfigPath,

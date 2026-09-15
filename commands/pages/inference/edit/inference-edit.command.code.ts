@@ -2,25 +2,25 @@ import { readFile, writeFile } from "node:fs/promises"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { aspectRatio as aspectRatioArgument } from "akasha/commands/arguments/pages/aspect-ratio.argument.ts"
-import { engine as engineArgument } from "akasha/commands/arguments/pages/engine.argument.ts"
-import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
-import { noPersist } from "akasha/commands/arguments/pages/no-persist.argument.ts"
-import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
-import { promptFile } from "akasha/commands/arguments/pages/prompt-file.argument.ts"
-import { refs } from "akasha/commands/arguments/pages/refs.argument.ts"
-import { renderPrompt } from "akasha/commands/arguments/pages/render-prompt.argument.ts"
-import { size as sizeArgument } from "akasha/commands/arguments/pages/size.argument.ts"
-import { timeout as timeoutArgument } from "akasha/commands/arguments/pages/timeout.argument.ts"
+} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { aspectRatio as aspectRatioArgument } from "akasha/command/arguments/pages/aspect-ratio.argument.ts"
+import { engine as engineArgument } from "akasha/command/arguments/pages/engine.argument.ts"
+import { image as imageArgument } from "akasha/command/arguments/pages/image.argument.ts"
+import { noPersist } from "akasha/command/arguments/pages/no-persist.argument.ts"
+import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
+import { promptFile } from "akasha/command/arguments/pages/prompt-file.argument.ts"
+import { refs } from "akasha/command/arguments/pages/refs.argument.ts"
+import { renderPrompt } from "akasha/command/arguments/pages/render-prompt.argument.ts"
+import { size as sizeArgument } from "akasha/command/arguments/pages/size.argument.ts"
+import { timeout as timeoutArgument } from "akasha/command/arguments/pages/timeout.argument.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import { inferenceEdit as page } from "akasha/commands/pages/inference/edit/inference-edit.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
+import { inferenceEdit as page } from "akasha/command/pages/inference/edit/inference-edit.command.ts"
 import type { GeminiImageConfig } from "akasha/infrastructure/inference/clients/modules/gemini-image-client/gemini-image-client.module.code.ts"
 import {
   imageFormatForPath,
@@ -31,7 +31,7 @@ import {
   ensureOutputDir,
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
-import { wroteTo } from "akasha/infrastructure/inference/commands/modules/inference-answering/inference-answering.module.code.ts"
+import { wroteTo } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"
 import { sha256Hex } from "akasha/utils/hashing/modules/sha256-hex/sha256-hex.module.code.ts"

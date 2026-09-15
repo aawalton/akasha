@@ -2,9 +2,9 @@ import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Reading } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { partly, readingIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { numbered } from "akasha/commands/modules/long-body/long-body.module.code.ts"
-import { ANSWER_CEILING } from "akasha/commands/pages/read/read.command.code.ts"
+import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
+import { numbered } from "akasha/command/modules/long-body/long-body.module.code.ts"
+import { ANSWER_CEILING } from "akasha/command/pages/read/read.command.code.ts"
 import {
   AGENT,
   givenFor,
@@ -13,7 +13,7 @@ import {
   namingEach,
   read,
   rootWith,
-} from "akasha/commands/pages/read/read.command.test-fixtures.ts"
+} from "akasha/command/pages/read/read.command.test-fixtures.ts"
 
 export const LONG = "akasha/one/long.ts"
 

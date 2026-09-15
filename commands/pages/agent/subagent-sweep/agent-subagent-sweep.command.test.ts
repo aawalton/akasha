@@ -5,7 +5,7 @@ import {
   agentSubagentSweep,
   runningOwnIn,
   TAKE,
-} from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
+} from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import {
   ACTING,
   ACTS,
@@ -52,7 +52,7 @@ import {
   unlandedBy,
   world,
   worldWith,
-} from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"
+} from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"
 
 test("a page whose agent no live process answers for is named stale", async () => {
   const { root, base } = worldWith()

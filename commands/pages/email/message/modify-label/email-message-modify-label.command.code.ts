@@ -1,16 +1,16 @@
 import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { addLabel } from "akasha/commands/arguments/pages/add-label.argument.ts"
-import { message } from "akasha/commands/arguments/pages/message.argument.ts"
-import { removeLabel } from "akasha/commands/arguments/pages/remove-label.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { addLabel } from "akasha/command/arguments/pages/add-label.argument.ts"
+import { message } from "akasha/command/arguments/pages/message.argument.ts"
+import { removeLabel } from "akasha/command/arguments/pages/remove-label.argument.ts"
 import {
   answering,
   asIndentedJson,
   INPUT,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { emailMessageModifyLabel as page } from "akasha/commands/pages/email/message/modify-label/email-message-modify-label.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { emailMessageModifyLabel as page } from "akasha/command/pages/email/message/modify-label/email-message-modify-label.command.ts"
 
 export function emailMessageModifyLabel(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [message, addLabel, removeLabel])

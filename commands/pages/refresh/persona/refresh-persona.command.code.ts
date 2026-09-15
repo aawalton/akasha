@@ -3,16 +3,16 @@ import {
   rebuildPoints,
   saidOf,
 } from "akasha/alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   answering,
   DATA,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { refreshPersona as page } from "akasha/commands/pages/refresh/persona/refresh-persona.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { refreshPersona as page } from "akasha/command/pages/refresh/persona/refresh-persona.command.ts"
 
 const NOTHING_REBUILT =
   "no persona was written to on any day before today, so nothing was rebuilt. A figure Alan did " +

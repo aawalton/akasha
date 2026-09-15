@@ -1,5 +1,5 @@
-import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
+import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { PUT_BACK } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 import { LOCK_AT } from "akasha/git/modules/holding/holding.module.code.ts"
 
 export type Went = { readonly went: true } | { readonly why: string }

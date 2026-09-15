@@ -4,10 +4,10 @@ import {
   SNAPSHOT_METRICS,
   summarizeSnapshot,
 } from "akasha/alan/harness/health-samples-import/modules/health-snapshot/health-snapshot.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { days as daysArgument } from "akasha/commands/arguments/pages/days.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { macbookFile } from "akasha/commands/arguments/pages/macbook-file.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { days as daysArgument } from "akasha/command/arguments/pages/days.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { macbookFile } from "akasha/command/arguments/pages/macbook-file.argument.ts"
 import {
   asJson,
   DATA,
@@ -15,11 +15,11 @@ import {
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { lines } from "akasha/commands/modules/yaml-lines/yaml-lines.module.code.ts"
-import { alanElaine as page } from "akasha/commands/pages/alan/elaine/alan-elaine.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { lines } from "akasha/command/modules/yaml-lines/yaml-lines.module.code.ts"
+import { alanElaine as page } from "akasha/command/pages/alan/elaine/alan-elaine.command.ts"
 
 export const NAMED = [json, daysArgument, macbookFile] as const
 

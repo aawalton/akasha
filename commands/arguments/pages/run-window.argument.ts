@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const runWindow = {
   id: "01a094f1-18d5-7594-a907-2d8adf4ebe84",

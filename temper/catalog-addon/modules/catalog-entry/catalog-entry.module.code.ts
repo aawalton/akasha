@@ -32,7 +32,7 @@ import {
   clearCatalogs,
   parseLuaCommand,
   printStatus,
-} from "akasha/temper/catalog-addon/modules/catalog-commands/catalog-commands.module.code.ts"
+} from "akasha/temper/catalog-addon/modules/catalog-command/catalog-commands.module.code.ts"
 import {
   ADDON_NAME,
   AUTO_START_DELAY,

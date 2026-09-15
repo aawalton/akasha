@@ -1,11 +1,11 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 import {
   type Naming,
   type Read,
   type SaidAs,
   takingIn,
-} from "akasha/commands/arguments/modules/word-reading/argument-word-reading.module.code.ts"
-import { slugOfPart } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
+} from "akasha/command/arguments/modules/word-reading/argument-word-reading.module.code.ts"
+import { slugOfPart } from "akasha/command/modules/namespace-listing/namespace-listing.module.code.ts"
 
 export type Named = {
   readonly argument: string

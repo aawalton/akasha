@@ -11,19 +11,19 @@ import {
   parseShareToken,
   resolveOutputDir,
 } from "akasha/alan/harness/icloud-photos/modules/album-pulling/album-pulling.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { album } from "akasha/commands/arguments/pages/album.argument.ts"
-import { json as jsonArgument } from "akasha/commands/arguments/pages/json.argument.ts"
-import { output } from "akasha/commands/arguments/pages/output.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { album } from "akasha/command/arguments/pages/album.argument.ts"
+import { json as jsonArgument } from "akasha/command/arguments/pages/json.argument.ts"
+import { output } from "akasha/command/arguments/pages/output.argument.ts"
 import {
   answering,
   DATA,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { icloudFetch as page } from "akasha/commands/pages/icloud/fetch/icloud-fetch.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { icloudFetch as page } from "akasha/command/pages/icloud/fetch/icloud-fetch.command.ts"
 
 export type Asked = {
   readonly album: string

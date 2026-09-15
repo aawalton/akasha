@@ -11,12 +11,12 @@ import {
 } from "akasha/alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts"
 import { startResumePlayback } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { getTrack } from "akasha/alan/music/spotify/modules/tracks/spotify-tracks.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { artist as artistArgument } from "akasha/commands/arguments/pages/artist.argument.ts"
-import { deviceId as deviceIdArgument } from "akasha/commands/arguments/pages/device-id.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { query as queryArgument } from "akasha/commands/arguments/pages/query.argument.ts"
-import { uri as uriArgument } from "akasha/commands/arguments/pages/uri.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { artist as artistArgument } from "akasha/command/arguments/pages/artist.argument.ts"
+import { deviceId as deviceIdArgument } from "akasha/command/arguments/pages/device-id.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { query as queryArgument } from "akasha/command/arguments/pages/query.argument.ts"
+import { uri as uriArgument } from "akasha/command/arguments/pages/uri.argument.ts"
 import {
   answering,
   INPUT,
@@ -24,9 +24,9 @@ import {
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { musicPlay as page } from "akasha/commands/pages/music/play/music-play.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { musicPlay as page } from "akasha/command/pages/music/play/music-play.command.ts"
 
 const NAMED = [artistArgument, deviceIdArgument, json, queryArgument, uriArgument]
 

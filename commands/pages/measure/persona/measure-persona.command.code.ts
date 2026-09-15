@@ -1,18 +1,18 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   DATA,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
   flooredTo,
   linesOf,
   type Measured,
   PLACES,
-} from "akasha/commands/pages/measure/modules/tabling/measure-tabling.module.code.ts"
-import { measurePersona as page } from "akasha/commands/pages/measure/persona/measure-persona.command.ts"
+} from "akasha/command/pages/measure/modules/tabling/measure-tabling.module.code.ts"
+import { measurePersona as page } from "akasha/command/pages/measure/persona/measure-persona.command.ts"
 import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 import {
   displayNameOf,

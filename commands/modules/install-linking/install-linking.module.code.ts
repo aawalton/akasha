@@ -1,10 +1,10 @@
 import { lstatSync, mkdirSync, readlinkSync, rmSync, symlinkSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
   atHome,
   type Linking,
-} from "akasha/commands/modules/folder-linking/folder-linking.module.code.ts"
+} from "akasha/command/modules/folder-linking/folder-linking.module.code.ts"
 import { fileOf } from "akasha/pages/index/modules/property-file/property-file.module.code.ts"
 import {
   indexThere,

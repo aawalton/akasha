@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import { message } from "akasha/commands/arguments/pages/message.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { emailMessageTrash } from "akasha/commands/pages/email/message/trash/email-message-trash.command.code.ts"
-import { emailMessageTrash as page } from "akasha/commands/pages/email/message/trash/email-message-trash.command.ts"
+import { message } from "akasha/command/arguments/pages/message.argument.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { emailMessageTrash } from "akasha/command/pages/email/message/trash/email-message-trash.command.code.ts"
+import { emailMessageTrash as page } from "akasha/command/pages/email/message/trash/email-message-trash.command.ts"
 
 const CALLED_AS = "akasha email message trash"
 

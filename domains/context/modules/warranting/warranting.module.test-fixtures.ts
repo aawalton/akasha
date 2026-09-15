@@ -5,7 +5,7 @@ import {
   SUBAGENT_MARK,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import type { Warrant } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import {
   idFiled,

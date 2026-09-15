@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { categoryRuleId } from "akasha/commands/arguments/pages/category-rule-id.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { temperInventoryRuleUnlock } from "akasha/commands/pages/temper/inventory/rule/unlock/temper-inventory-rule-unlock.command.code.ts"
-import { temperInventoryRuleUnlock as page } from "akasha/commands/pages/temper/inventory/rule/unlock/temper-inventory-rule-unlock.command.ts"
+import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+import { categoryRuleId } from "akasha/command/arguments/pages/category-rule-id.argument.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { temperInventoryRuleUnlock } from "akasha/command/pages/temper/inventory/rule/unlock/temper-inventory-rule-unlock.command.code.ts"
+import { temperInventoryRuleUnlock as page } from "akasha/command/pages/temper/inventory/rule/unlock/temper-inventory-rule-unlock.command.ts"
 
 const CALLED_AS = "akasha temper inventory rule unlock"
 

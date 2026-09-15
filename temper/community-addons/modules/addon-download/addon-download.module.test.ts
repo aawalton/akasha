@@ -4,7 +4,7 @@ import {
   answering,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Laying } from "akasha/temper/community-addons/modules/addon-download/addon-download.module.code.ts"
 import { layEach } from "akasha/temper/community-addons/modules/addon-download/addon-download.module.code.ts"
 

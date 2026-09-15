@@ -6,9 +6,9 @@ import {
   type Asking,
   landedMechanically,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
-import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import { importedFrom, saidAs } from "akasha/pages/modules/body/page-body.module.code.ts"

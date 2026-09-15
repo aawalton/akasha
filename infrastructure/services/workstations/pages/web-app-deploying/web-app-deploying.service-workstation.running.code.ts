@@ -1,4 +1,4 @@
-import { WEB_APP } from "akasha/commands/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
+import { WEB_APP } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { ticked } from "akasha/infrastructure/services/modules/deploy-looping/deploy-looping.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/services/workstations/modules/service-checkout/service-checkout.module.code.ts"
 

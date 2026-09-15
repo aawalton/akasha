@@ -3,25 +3,25 @@ import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-c
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { mode as modeArgument } from "akasha/commands/arguments/pages/mode.argument.ts"
-import { noPersist } from "akasha/commands/arguments/pages/no-persist.argument.ts"
-import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
-import { priority as priorityArgument } from "akasha/commands/arguments/pages/priority.argument.ts"
-import { refAudio as refAudioArgument } from "akasha/commands/arguments/pages/ref-audio.argument.ts"
-import { refText as refTextArgument } from "akasha/commands/arguments/pages/ref-text.argument.ts"
-import { refTextFile } from "akasha/commands/arguments/pages/ref-text-file.argument.ts"
-import { spokenText } from "akasha/commands/arguments/pages/spoken-text.argument.ts"
-import { textFile } from "akasha/commands/arguments/pages/text-file.argument.ts"
-import { timeout as timeoutArgument } from "akasha/commands/arguments/pages/timeout.argument.ts"
+} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { mode as modeArgument } from "akasha/command/arguments/pages/mode.argument.ts"
+import { noPersist } from "akasha/command/arguments/pages/no-persist.argument.ts"
+import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
+import { priority as priorityArgument } from "akasha/command/arguments/pages/priority.argument.ts"
+import { refAudio as refAudioArgument } from "akasha/command/arguments/pages/ref-audio.argument.ts"
+import { refText as refTextArgument } from "akasha/command/arguments/pages/ref-text.argument.ts"
+import { refTextFile } from "akasha/command/arguments/pages/ref-text-file.argument.ts"
+import { spokenText } from "akasha/command/arguments/pages/spoken-text.argument.ts"
+import { textFile } from "akasha/command/arguments/pages/text-file.argument.ts"
+import { timeout as timeoutArgument } from "akasha/command/arguments/pages/timeout.argument.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import { inferenceVoiceClone as page } from "akasha/commands/pages/inference/voice/clone/inference-voice-clone.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
+import { inferenceVoiceClone as page } from "akasha/command/pages/inference/voice/clone/inference-voice-clone.command.ts"
 import { buildCopFetchInit } from "akasha/infrastructure/inference/clients/modules/cop-fetch/cop-fetch.module.code.ts"
 import {
   ensureOutputDir,
@@ -36,7 +36,7 @@ import {
   serviceNamed,
   targetOf,
   wroteTo,
-} from "akasha/infrastructure/inference/commands/modules/inference-answering/inference-answering.module.code.ts"
+} from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
 import { scpUpload } from "akasha/infrastructure/inference/pool/modules/inference-ssh/inference-ssh.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/runs/modules/store/inference-run-store.module.code.ts"

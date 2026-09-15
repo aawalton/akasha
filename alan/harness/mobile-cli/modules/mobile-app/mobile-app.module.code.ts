@@ -1,5 +1,5 @@
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
   everyOfType,
   listedAt,

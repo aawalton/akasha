@@ -10,7 +10,7 @@ import {
   turnColorIn,
   turnStateSaid,
 } from "akasha/code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { z } from "zod"
 
 const SHADES_SCHEMA = z.object({

@@ -8,7 +8,7 @@ import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import ts from "typescript"
 
-const COMMANDS_AT = "commands/pages/"
+const COMMANDS_AT = "command/pages/"
 
 const CODE_NAMED = /^(.+)\.command\.code\.tsx?$/
 

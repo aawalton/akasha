@@ -4,9 +4,9 @@ import {
   answering,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Staging } from "akasha/commands/pages/inference/zimage/inference-zimage.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Staging } from "akasha/command/pages/inference/zimage/inference-zimage.command.code.ts"
 import {
   at,
   copiedSaid,
@@ -15,7 +15,7 @@ import {
   scratchAt,
   stagedInto,
   stagedSaid,
-} from "akasha/commands/pages/inference/zimage/inference-zimage.command.code.ts"
+} from "akasha/command/pages/inference/zimage/inference-zimage.command.code.ts"
 
 function given(root: string): Given {
   return { root, calledAs: "akasha inference zimage", from: root, writer: null, agentId: null }

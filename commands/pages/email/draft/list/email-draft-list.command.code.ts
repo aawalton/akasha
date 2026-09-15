@@ -1,14 +1,14 @@
 import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { max } from "akasha/commands/arguments/pages/max.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { max } from "akasha/command/arguments/pages/max.argument.ts"
 import {
   answering,
   asIndentedJson,
   INPUT,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { emailDraftList as page } from "akasha/commands/pages/email/draft/list/email-draft-list.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { emailDraftList as page } from "akasha/command/pages/email/draft/list/email-draft-list.command.ts"
 
 export function emailDraftList(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [max])

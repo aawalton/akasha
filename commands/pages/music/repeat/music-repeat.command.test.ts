@@ -8,9 +8,9 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Repeating } from "akasha/commands/pages/music/repeat/music-repeat.command.code.ts"
-import { repeating } from "akasha/commands/pages/music/repeat/music-repeat.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Repeating } from "akasha/command/pages/music/repeat/music-repeat.command.code.ts"
+import { repeating } from "akasha/command/pages/music/repeat/music-repeat.command.code.ts"
 
 const CALLED = "akasha music repeat"
 

@@ -1,19 +1,19 @@
 import { narrowSendUpdates } from "akasha/alan/google/calendar/modules/send-updates-narrowing/send-updates-narrowing.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { calendar } from "akasha/commands/arguments/pages/calendar.argument.ts"
-import { event } from "akasha/commands/arguments/pages/event.argument.ts"
-import { sendUpdates } from "akasha/commands/arguments/pages/send-updates.argument.ts"
-import { status } from "akasha/commands/arguments/pages/status.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { calendar } from "akasha/command/arguments/pages/calendar.argument.ts"
+import { event } from "akasha/command/arguments/pages/event.argument.ts"
+import { sendUpdates } from "akasha/command/arguments/pages/send-updates.argument.ts"
+import { status } from "akasha/command/arguments/pages/status.argument.ts"
 import {
   answeredAsJson,
   asAlan,
   eventsIn,
   rsvpStatusIn,
   sendingRefused,
-} from "akasha/commands/modules/calendar-eventing/calendar-eventing.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { googleCalendarEventRsvp as page } from "akasha/commands/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.ts"
+} from "akasha/command/modules/calendar-eventing/calendar-eventing.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { googleCalendarEventRsvp as page } from "akasha/command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.ts"
 
 export function googleCalendarEventRsvp(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [event, calendar, sendUpdates, status])

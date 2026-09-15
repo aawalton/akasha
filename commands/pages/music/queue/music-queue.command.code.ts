@@ -7,21 +7,21 @@ import {
   addToQueue,
   startResumePlayback,
 } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { artist as artistArgument } from "akasha/commands/arguments/pages/artist.argument.ts"
-import { deviceId as deviceIdArgument } from "akasha/commands/arguments/pages/device-id.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { query as queryArgument } from "akasha/commands/arguments/pages/query.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { artist as artistArgument } from "akasha/command/arguments/pages/artist.argument.ts"
+import { deviceId as deviceIdArgument } from "akasha/command/arguments/pages/device-id.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { query as queryArgument } from "akasha/command/arguments/pages/query.argument.ts"
 import {
   answering,
   INPUT,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Starting } from "akasha/commands/pages/music/play/music-play.command.code.ts"
-import { startedOn } from "akasha/commands/pages/music/play/music-play.command.code.ts"
-import { musicQueue as page } from "akasha/commands/pages/music/queue/music-queue.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Starting } from "akasha/command/pages/music/play/music-play.command.code.ts"
+import { startedOn } from "akasha/command/pages/music/play/music-play.command.code.ts"
+import { musicQueue as page } from "akasha/command/pages/music/queue/music-queue.command.ts"
 
 const NAMED = [artistArgument, deviceIdArgument, json, queryArgument]
 

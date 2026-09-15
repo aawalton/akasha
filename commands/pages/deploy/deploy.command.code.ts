@@ -1,12 +1,12 @@
 import { costRecorded, opening } from "akasha/checks/modules/cost/check-cost.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { deploySubject } from "akasha/commands/arguments/pages/deploy-subject.argument.ts"
-import { device } from "akasha/commands/arguments/pages/device.argument.ts"
-import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
-import { measured } from "akasha/commands/arguments/pages/measured.argument.ts"
-import { noUpload } from "akasha/commands/arguments/pages/no-upload.argument.ts"
-import { ref } from "akasha/commands/arguments/pages/ref.argument.ts"
-import { simulator } from "akasha/commands/arguments/pages/simulator.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { deploySubject } from "akasha/command/arguments/pages/deploy-subject.argument.ts"
+import { device } from "akasha/command/arguments/pages/device.argument.ts"
+import { dryRun } from "akasha/command/arguments/pages/dry-run.argument.ts"
+import { measured } from "akasha/command/arguments/pages/measured.argument.ts"
+import { noUpload } from "akasha/command/arguments/pages/no-upload.argument.ts"
+import { ref } from "akasha/command/arguments/pages/ref.argument.ts"
+import { simulator } from "akasha/command/arguments/pages/simulator.argument.ts"
 import {
   answeredWith,
   DATA,
@@ -17,40 +17,40 @@ import {
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { allowedThrough } from "akasha/commands/modules/stopping/command-stopping.module.code.ts"
-import { deploy as page } from "akasha/commands/pages/deploy/deploy.command.ts"
-import { putUpAddon } from "akasha/commands/pages/deploy/modules/addon-installing/deploy-addon-installing.module.code.ts"
-import { publishedBundleFor } from "akasha/commands/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { allowedThrough } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
+import { deploy as page } from "akasha/command/pages/deploy/deploy.command.ts"
+import { putUpAddon } from "akasha/command/pages/deploy/modules/addon-installing/deploy-addon-installing.module.code.ts"
+import { publishedBundleFor } from "akasha/command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"
 import {
   changedBetween,
   judgedOnDeploy,
   sinceCommit,
-} from "akasha/commands/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"
+} from "akasha/command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"
 import {
   AT_HEAD,
   commitAt,
   saidOfNoCommit,
-} from "akasha/commands/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
+} from "akasha/command/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
 import {
   commitRecordedIn,
   recordedCommit,
   recordedEnding,
   recordedRefusal,
-} from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
-import { installedOnDevice } from "akasha/commands/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts"
+} from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
+import { installedOnDevice } from "akasha/command/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts"
 import {
   closureFor,
   closuresOf,
   touchedIn,
   unionOf,
-} from "akasha/commands/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
-import { heldWhile } from "akasha/commands/pages/deploy/modules/holding/deploy-holding.module.code.ts"
-import { pushedImage } from "akasha/commands/pages/deploy/modules/image-pushing/deploy-image-pushing.module.code.ts"
-import { putUpInferenceService } from "akasha/commands/pages/deploy/modules/inference-installing/deploy-inference-installing.module.code.ts"
-import { shipIosApp } from "akasha/commands/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts"
+} from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
+import { heldWhile } from "akasha/command/pages/deploy/modules/holding/deploy-holding.module.code.ts"
+import { pushedImage } from "akasha/command/pages/deploy/modules/image-pushing/deploy-image-pushing.module.code.ts"
+import { putUpInferenceService } from "akasha/command/pages/deploy/modules/inference-installing/deploy-inference-installing.module.code.ts"
+import { shipIosApp } from "akasha/command/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts"
 import {
   CLUSTER_SERVICE,
   CONTAINER_RECIPE,
@@ -61,10 +61,10 @@ import {
   type Named as Read,
   WEB_APP,
   WORKSTATION_SERVICE,
-} from "akasha/commands/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
-import { installedOnSimulator } from "akasha/commands/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"
-import { pinnedTree } from "akasha/commands/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
-import { putUpWebApp } from "akasha/commands/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"
+} from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
+import { installedOnSimulator } from "akasha/command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"
+import { pinnedTree } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
+import { putUpWebApp } from "akasha/command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"
 import { IN_CLUSTER } from "akasha/infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"
 import {
   type Ended,

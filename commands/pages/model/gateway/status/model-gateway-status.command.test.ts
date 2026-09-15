@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   driftOf,
   modelGatewayStatus,
   shortOf,
-} from "akasha/commands/pages/model/gateway/status/model-gateway-status.command.code.ts"
+} from "akasha/command/pages/model/gateway/status/model-gateway-status.command.code.ts"
 
 const CALLED_AS = "akasha model gateway status"
 

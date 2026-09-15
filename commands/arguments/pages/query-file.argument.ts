@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const queryFile = {
   id: "01a094e4-07d3-7bc0-bb19-f78d5a663e33",

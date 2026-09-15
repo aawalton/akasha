@@ -4,19 +4,19 @@ import type { SimSessionState } from "akasha/alan/harness/mobile-cli/modules/sim
 import {
   answering,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type {
   Read,
   Typing,
-} from "akasha/commands/pages/mobile/sim/type/mobile-sim-type.command.code.ts"
+} from "akasha/command/pages/mobile/sim/type/mobile-sim-type.command.code.ts"
 import {
   mobileSimType,
   sentSaid,
   tappedSaid,
   textIn,
   typedIn,
-} from "akasha/commands/pages/mobile/sim/type/mobile-sim-type.command.code.ts"
+} from "akasha/command/pages/mobile/sim/type/mobile-sim-type.command.code.ts"
 
 const SELECTOR = "#password"
 

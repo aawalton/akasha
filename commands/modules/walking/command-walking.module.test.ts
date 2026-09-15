@@ -7,7 +7,7 @@ import {
   saidIn,
   walkingIn,
   wordsIn,
-} from "akasha/commands/modules/walking/command-walking.module.code.ts"
+} from "akasha/command/modules/walking/command-walking.module.code.ts"
 
 const NAMED: Naming = (slug) =>
   ({ "track-session-open": "open", "track-session": "session", track: "track" })[slug] ?? null

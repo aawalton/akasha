@@ -5,9 +5,9 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Shuffling } from "akasha/commands/pages/music/shuffle/music-shuffle.command.code.ts"
-import { shuffling } from "akasha/commands/pages/music/shuffle/music-shuffle.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Shuffling } from "akasha/command/pages/music/shuffle/music-shuffle.command.code.ts"
+import { shuffling } from "akasha/command/pages/music/shuffle/music-shuffle.command.code.ts"
 
 const CALLED = "akasha music shuffle"
 

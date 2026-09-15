@@ -1,18 +1,18 @@
 import { notices } from "akasha/agent/messaging/notice/modules/compose-notices/compose-notices.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { force } from "akasha/commands/arguments/pages/force.argument.ts"
-import { notice } from "akasha/commands/arguments/pages/notice.argument.ts"
-import { now } from "akasha/commands/arguments/pages/now.argument.ts"
-import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
-import { seatPrompt } from "akasha/commands/arguments/pages/seat-prompt.argument.ts"
-import { startMode } from "akasha/commands/arguments/pages/start-mode.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { force } from "akasha/command/arguments/pages/force.argument.ts"
+import { notice } from "akasha/command/arguments/pages/notice.argument.ts"
+import { now } from "akasha/command/arguments/pages/now.argument.ts"
+import { seat } from "akasha/command/arguments/pages/seat.argument.ts"
+import { seatPrompt } from "akasha/command/arguments/pages/seat-prompt.argument.ts"
+import { startMode } from "akasha/command/arguments/pages/start-mode.argument.ts"
 import {
   faulted,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { ran } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
-import { seatResume as page } from "akasha/commands/pages/seat/resume/seat-resume.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { ran } from "akasha/command/modules/seat-act-calling/seat-act-calling.module.code.ts"
+import { seatResume as page } from "akasha/command/pages/seat/resume/seat-resume.command.ts"
 
 const TARGET = "--agent-id"
 

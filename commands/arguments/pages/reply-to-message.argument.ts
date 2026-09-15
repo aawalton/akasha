@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const replyToMessage = {
   id: "01a094ef-2ca9-7d57-b2c1-fedc976540ae",

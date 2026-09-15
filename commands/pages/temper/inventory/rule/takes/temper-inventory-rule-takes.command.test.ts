@@ -5,7 +5,7 @@ import {
   type RuleTakes,
   takerOf,
   takesSaid,
-} from "akasha/commands/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.code.ts"
+} from "akasha/command/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
 function affected(

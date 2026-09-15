@@ -3,10 +3,10 @@ import { basename, dirname, extname, join } from "node:path"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { fps as fpsArgument } from "akasha/commands/arguments/pages/fps.argument.ts"
-import { outDir as outDirArgument } from "akasha/commands/arguments/pages/out-dir.argument.ts"
-import { video as videoArgument } from "akasha/commands/arguments/pages/video.argument.ts"
+} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { fps as fpsArgument } from "akasha/command/arguments/pages/fps.argument.ts"
+import { outDir as outDirArgument } from "akasha/command/arguments/pages/out-dir.argument.ts"
+import { video as videoArgument } from "akasha/command/arguments/pages/video.argument.ts"
 import {
   answering,
   DATA,
@@ -15,11 +15,11 @@ import {
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { pathUnder } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
-import { inferenceWanFrame as page } from "akasha/commands/pages/inference/wan/frame/inference-wan-frame.command.ts"
-import { spawned } from "akasha/commands/pages/inference/wan/modules/wan-hosting/wan-hosting.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { pathUnder } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
+import { inferenceWanFrame as page } from "akasha/command/pages/inference/wan/frame/inference-wan-frame.command.ts"
+import { spawned } from "akasha/command/pages/inference/wan/modules/wan-hosting/wan-hosting.module.code.ts"
 
 const FRAME_PATTERN = /^frame-\d{4}\.png$/
 

@@ -10,7 +10,7 @@ import {
 } from "akasha/checks/modules/checking/checking.module.code.ts"
 import type { Cost } from "akasha/checks/modules/cost/check-cost.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   idFiled,
   listedFiled,

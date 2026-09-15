@@ -2,8 +2,8 @@ import {
   type Filing,
   filledIn,
   type Prose,
-} from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import { inputIn, type Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
+} from "akasha/command/modules/filling/command-filling.module.code.ts"
+import { inputIn, type Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 
 export function proseIn(
   root: string,

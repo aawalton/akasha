@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const emailAttachmentShow = {
   id: "01a06810-cf11-75ef-84b0-74beeb5d5383",

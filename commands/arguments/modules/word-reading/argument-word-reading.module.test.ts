@@ -24,7 +24,7 @@ import {
   TO,
   taken,
   WORD_AND_FLAG,
-} from "akasha/commands/arguments/modules/word-reading/argument-word-reading.module.test-fixtures.ts"
+} from "akasha/command/arguments/modules/word-reading/argument-word-reading.module.test-fixtures.ts"
 
 test("an argument carrying no value is true where it is said and false where it is not", () => {
   expect(taken(["--dry-run"], [DRY_RUN])).toEqual({ dryRun: true })

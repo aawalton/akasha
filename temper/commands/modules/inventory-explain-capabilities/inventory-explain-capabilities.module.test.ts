@@ -4,7 +4,7 @@ import {
   type ExplainCapabilities,
   explainCapabilities,
   resolveItemFromInventory,
-} from "akasha/temper/commands/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
+} from "akasha/temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 import type {
   InventoryDatabase,
   InventoryItemData,

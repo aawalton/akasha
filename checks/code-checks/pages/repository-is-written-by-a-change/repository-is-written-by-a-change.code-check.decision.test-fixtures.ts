@@ -20,7 +20,7 @@ export const READS = 'import { join } from "node:path"\nexport const a = join("b
 
 const CHANGE_AT = "changes/change.page-type.ts"
 
-const COMMAND_AT = "commands/command.page-type.ts"
+const COMMAND_AT = "command/command.page-type.ts"
 
 const NAMESAKE_AT = "design/primitives/command/command.module.ts"
 

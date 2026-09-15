@@ -1,17 +1,17 @@
 import { wordsOf } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { inferenceCapabilityList as page } from "akasha/commands/pages/inference/capability-list/inference-capability-list.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { inferenceCapabilityList as page } from "akasha/command/pages/inference/capability-list/inference-capability-list.command.ts"
 import {
   boundTo,
   targetOf,
-} from "akasha/infrastructure/inference/commands/modules/inference-answering/inference-answering.module.code.ts"
+} from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
 import { getHost } from "akasha/infrastructure/inference/pool/modules/inference-hosts/inference-hosts.module.code.ts"
 import { runSshCapture } from "akasha/infrastructure/inference/pool/modules/inference-ssh/inference-ssh.module.code.ts"
 import {

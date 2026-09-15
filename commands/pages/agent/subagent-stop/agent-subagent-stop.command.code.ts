@@ -19,22 +19,22 @@ import {
   type Landing,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { subagent } from "akasha/commands/arguments/pages/subagent.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { subagent } from "akasha/command/arguments/pages/subagent.argument.ts"
 import {
   DATA,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { agentSubagentStop as page } from "akasha/commands/pages/agent/subagent-stop/agent-subagent-stop.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { agentSubagentStop as page } from "akasha/command/pages/agent/subagent-stop/agent-subagent-stop.command.ts"
 import {
   type OwnIds,
   type RunningSaid,
   stoppedAmong,
   transcriptsSay,
-} from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
+} from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const STOPPED = subagentStopped.propertySlug

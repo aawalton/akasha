@@ -1,12 +1,12 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { inferenceStatus as page } from "akasha/commands/pages/inference/status/inference-status.command.ts"
-import { targetOf } from "akasha/infrastructure/inference/commands/modules/inference-answering/inference-answering.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { inferenceStatus as page } from "akasha/command/pages/inference/status/inference-status.command.ts"
+import { targetOf } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
 import { HOSTS } from "akasha/infrastructure/inference/pool/modules/inference-hosts/inference-hosts.module.code.ts"
 import { runSshCapture } from "akasha/infrastructure/inference/pool/modules/inference-ssh/inference-ssh.module.code.ts"
 import {

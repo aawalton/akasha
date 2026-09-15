@@ -2,8 +2,8 @@ import {
   type Held,
   partsOf,
   slugOfPart,
-} from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
-import type { Level, Naming } from "akasha/commands/modules/walking/command-walking.module.code.ts"
+} from "akasha/command/modules/namespace-listing/namespace-listing.module.code.ts"
+import type { Level, Naming } from "akasha/command/modules/walking/command-walking.module.code.ts"
 import {
   type Valued,
   valuesOfType,

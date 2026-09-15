@@ -19,7 +19,7 @@ import {
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { running as runningChange } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   idFiled,
   listedFiled,

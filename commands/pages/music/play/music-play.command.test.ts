@@ -10,8 +10,8 @@ import type {
 import type {
   Playing,
   StartResumeOptions,
-} from "akasha/commands/pages/music/play/music-play.command.code.ts"
-import { playing } from "akasha/commands/pages/music/play/music-play.command.code.ts"
+} from "akasha/command/pages/music/play/music-play.command.code.ts"
+import { playing } from "akasha/command/pages/music/play/music-play.command.code.ts"
 
 const CALLED = "akasha music play"
 

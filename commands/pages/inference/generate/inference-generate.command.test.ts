@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   generates,
   inferenceGenerate,
-} from "akasha/commands/pages/inference/generate/inference-generate.command.code.ts"
+} from "akasha/command/pages/inference/generate/inference-generate.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

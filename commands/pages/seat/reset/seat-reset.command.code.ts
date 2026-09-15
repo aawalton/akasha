@@ -1,9 +1,9 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { seat } from "akasha/commands/arguments/pages/seat.argument.ts"
-import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { ran } from "akasha/commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
-import { seatReset as page } from "akasha/commands/pages/seat/reset/seat-reset.command.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { seat } from "akasha/command/arguments/pages/seat.argument.ts"
+import { refusedBy } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { ran } from "akasha/command/modules/seat-act-calling/seat-act-calling.module.code.ts"
+import { seatReset as page } from "akasha/command/pages/seat/reset/seat-reset.command.ts"
 
 export async function seatReset(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [seat])

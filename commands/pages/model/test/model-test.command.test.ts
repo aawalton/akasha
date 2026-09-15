@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
 import type { Judged } from "akasha/agent/model/test/modules/running/model-test-running.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   modelTest,
   rowOf,
   scoreOf,
   shownOf,
-} from "akasha/commands/pages/model/test/model-test.command.code.ts"
+} from "akasha/command/pages/model/test/model-test.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

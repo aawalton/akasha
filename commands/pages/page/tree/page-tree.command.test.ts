@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   answersFrom,
   pageAnswers,
   pageTree,
   propertyKindsIn,
-} from "akasha/commands/pages/page/tree/page-tree.command.code.ts"
+} from "akasha/command/pages/page/tree/page-tree.command.code.ts"
 import type { Valued } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 const ROOT = "/nowhere"

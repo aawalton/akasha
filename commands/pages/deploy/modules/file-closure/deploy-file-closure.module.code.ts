@@ -7,7 +7,7 @@ import {
   type Named,
   WEB_APP,
   WORKSTATION_SERVICE,
-} from "akasha/commands/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
+} from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { bodyAt as bodyInCommit } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 import { deployableNamed } from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.code.ts"

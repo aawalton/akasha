@@ -4,15 +4,15 @@ import type { SimSessionState } from "akasha/alan/harness/mobile-cli/modules/sim
 import {
   answering,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Tearing } from "akasha/commands/pages/mobile/sim/teardown/mobile-sim-teardown.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Tearing } from "akasha/command/pages/mobile/sim/teardown/mobile-sim-teardown.command.code.ts"
 import {
   CLEARED,
   mobileSimTeardown,
   STOPPED,
   tornDown,
-} from "akasha/commands/pages/mobile/sim/teardown/mobile-sim-teardown.command.code.ts"
+} from "akasha/command/pages/mobile/sim/teardown/mobile-sim-teardown.command.code.ts"
 
 const SESSION = "3f0c9a11"
 

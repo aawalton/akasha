@@ -4,19 +4,19 @@ import {
   HOUR,
   sinceNow,
 } from "akasha/checks/modules/measuring/check-measuring.module.test-fixtures.ts"
-import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { runWindow } from "akasha/commands/arguments/pages/run-window.argument.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { measureChange } from "akasha/commands/pages/measure/change/measure-change.command.code.ts"
-import { measureChange as page } from "akasha/commands/pages/measure/change/measure-change.command.ts"
+import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+import { runWindow } from "akasha/command/arguments/pages/run-window.argument.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { measureChange } from "akasha/command/pages/measure/change/measure-change.command.code.ts"
+import { measureChange as page } from "akasha/command/pages/measure/change/measure-change.command.ts"
 import {
   CHANGE_AT,
   ONE,
   rowsInto,
   THREE,
   TWO,
-} from "akasha/commands/pages/measure/change/modules/change-measuring/change-measuring.module.test-fixtures.ts"
+} from "akasha/command/pages/measure/change/modules/change-measuring/change-measuring.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const CALLED_AS = "akasha measure change"

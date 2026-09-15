@@ -21,8 +21,8 @@ const NAMED: ReadonlyMap<number, string> = new Map(
 const INSTEAD = "import it from the command-answering module instead"
 
 const BUILDS_THE_ANSWER: readonly string[] = [
-  "commands/modules/answering/",
-  "commands/modules/refusing/",
+  "command/modules/answering/",
+  "command/modules/refusing/",
 ]
 
 const HANDED_A_CODE: ReadonlySet<string> = new Set(["answeredWith", "refused", "refusedBy"])

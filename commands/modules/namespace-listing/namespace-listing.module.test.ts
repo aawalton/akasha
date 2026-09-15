@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { calling } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { calling } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   ANSWERS,
   COMMAND,
@@ -7,13 +7,13 @@ import {
   OUTSIDE,
   rootWith,
   sweep,
-} from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
+} from "akasha/command/modules/calling/calling.module.test-fixtures.ts"
 import {
   type Held,
   listingOf,
   partsOf,
   slugOfPart,
-} from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
+} from "akasha/command/modules/namespace-listing/namespace-listing.module.code.ts"
 
 afterAll(sweep)
 

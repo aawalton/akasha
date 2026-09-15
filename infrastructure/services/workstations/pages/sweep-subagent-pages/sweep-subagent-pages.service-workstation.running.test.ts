@@ -1,18 +1,18 @@
 import { expect, mock, test } from "bun:test"
-import { OK, OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { OK, OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
 
 const CALLED: (readonly string[])[] = []
 
 const WROTE: string[] = []
 
 const sweeping = await import(
-  "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
+  "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 )
 
 let answer = { code: OK, report: [] as string[], refusals: [] as string[] }
 
 mock.module(
-  "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts",
+  "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts",
   () => ({
     ...sweeping,
     agentSubagentSweep: (argv: readonly string[]) => {
@@ -106,7 +106,7 @@ test("a tick a held lock refused says the refusal and still ends well", async ()
 
 test("a sweep that threw is carried out rather than swallowed, so a failed run fails the unit", async () => {
   mock.module(
-    "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts",
+    "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts",
     () => ({
       ...sweeping,
       agentSubagentSweep: () => Promise.reject(new Error("the index could not be read")),

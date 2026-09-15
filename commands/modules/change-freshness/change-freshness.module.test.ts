@@ -12,8 +12,8 @@ import {
   movedOnDisk,
   PUT_BACK,
   unfresh,
-} from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
-import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
+} from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
+import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   A,
   ADMITS,
@@ -21,7 +21,7 @@ import {
   MODULE_AT,
   rowsIn,
   TYPE,
-} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
+} from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import type { Facing } from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"

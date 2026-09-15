@@ -5,7 +5,7 @@ import {
   askedAnswer,
   brokenBy,
   codeOf,
-} from "akasha/commands/modules/audit-answering/audit-answering.module.code.ts"
+} from "akasha/command/modules/audit-answering/audit-answering.module.code.ts"
 
 const ANSWERED: Told = { refusals: [], unrun: [], unanswered: [], broken: null }
 

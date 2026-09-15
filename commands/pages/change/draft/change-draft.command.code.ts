@@ -1,22 +1,22 @@
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { loadedAt } from "akasha/changes/runners/modules/change-loading/change-loading.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { change as changeArgument } from "akasha/commands/arguments/pages/change.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { change as changeArgument } from "akasha/command/arguments/pages/change.argument.ts"
 import {
   answering,
   OPERATIONAL,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { noPageSaid } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
-import { CHANGE_DRAFT_SLUG } from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { noPageSaid } from "akasha/command/modules/change-acting/change-acting.module.code.ts"
+import { CHANGE_DRAFT_SLUG } from "akasha/command/modules/change-costing/change-costing.module.code.ts"
 import {
   type Chosen,
   changing,
-} from "akasha/commands/modules/change-running/change-running.module.code.ts"
-import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { changeDraft as draftPage } from "akasha/commands/pages/change/draft/change-draft.command.ts"
+} from "akasha/command/modules/change-running/change-running.module.code.ts"
+import { inputIn } from "akasha/command/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { changeDraft as draftPage } from "akasha/command/pages/change/draft/change-draft.command.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 
 const NAMED = [changeArgument]

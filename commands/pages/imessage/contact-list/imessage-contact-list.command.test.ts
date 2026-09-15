@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { saidForPart } from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
-import { contactQuery } from "akasha/commands/arguments/pages/contact-query.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { imessageContactList } from "akasha/commands/pages/imessage/contact-list/imessage-contact-list.command.code.ts"
-import { imessageContactList as page } from "akasha/commands/pages/imessage/contact-list/imessage-contact-list.command.ts"
+import { saidForPart } from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+import { contactQuery } from "akasha/command/arguments/pages/contact-query.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { imessageContactList } from "akasha/command/pages/imessage/contact-list/imessage-contact-list.command.code.ts"
+import { imessageContactList as page } from "akasha/command/pages/imessage/contact-list/imessage-contact-list.command.ts"
 
 const CALLED_AS = "akasha imessage contact-list"
 

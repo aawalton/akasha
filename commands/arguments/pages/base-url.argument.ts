@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const baseUrl = {
   id: "01a094ed-029a-7f87-b771-36ed1ab7d9cc",

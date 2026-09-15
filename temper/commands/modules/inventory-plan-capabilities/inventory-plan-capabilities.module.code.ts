@@ -1,14 +1,14 @@
-import { loadTemperCharactersFromPath } from "akasha/temper/commands/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import { loadTemperCharactersFromPath } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   loadTemperInventoryConfigFromPath,
   parseTemperInventoryConfig,
-} from "akasha/temper/commands/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
+} from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
 import {
   buildMatcherContext,
   DEFAULT_CHARACTERS_PATH,
   DEFAULT_INVENTORY_PATH,
   loadInventoryPlanInputs,
-} from "akasha/temper/commands/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"
+} from "akasha/temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items-core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items-core/modules/inventory-parser/inventory-parser.module.code.ts"
 import { itemOutcomes } from "akasha/temper/items-rules-matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.code.ts"

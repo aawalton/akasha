@@ -3,13 +3,13 @@ import {
   buildTelnyxSendRequest,
   parseTelnyxSendResponse,
 } from "akasha/alan/harness/sms-core/modules/telnyx-send/telnyx-send.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { baseUrl } from "akasha/commands/arguments/pages/base-url.argument.ts"
-import { fromNumber } from "akasha/commands/arguments/pages/from-number.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { text as textArgument } from "akasha/commands/arguments/pages/text.argument.ts"
-import { textFile } from "akasha/commands/arguments/pages/text-file.argument.ts"
-import { toNumber } from "akasha/commands/arguments/pages/to-number.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { baseUrl } from "akasha/command/arguments/pages/base-url.argument.ts"
+import { fromNumber } from "akasha/command/arguments/pages/from-number.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { text as textArgument } from "akasha/command/arguments/pages/text.argument.ts"
+import { textFile } from "akasha/command/arguments/pages/text-file.argument.ts"
+import { toNumber } from "akasha/command/arguments/pages/to-number.argument.ts"
 import {
   answering,
   asJson,
@@ -17,10 +17,10 @@ import {
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import { smsSend as page } from "akasha/commands/pages/sms/send/sms-send.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
+import { smsSend as page } from "akasha/command/pages/sms/send/sms-send.command.ts"
 import { requireEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 
 const KEY_NAMED = "TELNYX_API_KEY"

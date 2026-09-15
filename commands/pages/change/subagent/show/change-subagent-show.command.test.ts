@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { changeSubagentShow } from "akasha/commands/pages/change/subagent/show/change-subagent-show.command.code.ts"
+import { changeSubagentShow } from "akasha/command/pages/change/subagent/show/change-subagent-show.command.code.ts"
 
 const OUTSIDE = {
   root: "/elsewhere",

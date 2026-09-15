@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
 import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   fetchedBy,
   madeSaid,
   type Named,
-} from "akasha/commands/pages/talos/kubeconfig/talos-kubeconfig.command.code.ts"
+} from "akasha/command/pages/talos/kubeconfig/talos-kubeconfig.command.code.ts"
 
 const ASKED: Named = { ip: "10.0.0.4", cluster: "main" }
 

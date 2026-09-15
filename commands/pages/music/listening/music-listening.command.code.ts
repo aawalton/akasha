@@ -8,18 +8,18 @@ import {
   getCurrentlyPlaying,
   getRecentlyPlayed,
 } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { limit as limitArgument } from "akasha/commands/arguments/pages/limit.argument.ts"
-import { window as windowArgument } from "akasha/commands/arguments/pages/window.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { limit as limitArgument } from "akasha/command/arguments/pages/limit.argument.ts"
+import { window as windowArgument } from "akasha/command/arguments/pages/window.argument.ts"
 import {
   INPUT,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { musicListening as page } from "akasha/commands/pages/music/listening/music-listening.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { musicListening as page } from "akasha/command/pages/music/listening/music-listening.command.ts"
 
 const NAMED = [json, limitArgument, windowArgument]
 

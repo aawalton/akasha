@@ -22,11 +22,11 @@ import {
   applyMove,
   evaluate,
 } from "akasha/alan/chess/modules/position/chess-position.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { band as bandArgument } from "akasha/commands/arguments/pages/band.argument.ts"
-import { color as colorArgument } from "akasha/commands/arguments/pages/color.argument.ts"
-import { fen as fenArgument } from "akasha/commands/arguments/pages/fen.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { band as bandArgument } from "akasha/command/arguments/pages/band.argument.ts"
+import { color as colorArgument } from "akasha/command/arguments/pages/color.argument.ts"
+import { fen as fenArgument } from "akasha/command/arguments/pages/fen.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
 import {
   answering,
   INPUT,
@@ -36,13 +36,13 @@ import {
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   type Writing,
   writingIn,
-} from "akasha/commands/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"
-import { chessPlay as page } from "akasha/commands/pages/chess/play/chess-play.command.ts"
+} from "akasha/command/pages/chess/modules/page-writing/chess-page-writing.module.code.ts"
+import { chessPlay as page } from "akasha/command/pages/chess/play/chess-play.command.ts"
 import type { Naming } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 
 const NAMED = [bandArgument, colorArgument, fenArgument, json]

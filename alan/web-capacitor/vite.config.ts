@@ -1,7 +1,7 @@
 import path from "node:path"
 import { supabaseClientEnvGuard } from "akasha/alan/harness/supabase-rr/modules/client-env-guard/client-env-guard.module.code.ts"
 import { buildShaDefine } from "akasha/alan/harness/web-build-version/modules/build-sha-define/build-sha-define.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { reactRouter } from "@react-router/dev/vite"
 import tailwindcss from "@tailwindcss/vite"
 import { defineConfig, type Plugin } from "vite"

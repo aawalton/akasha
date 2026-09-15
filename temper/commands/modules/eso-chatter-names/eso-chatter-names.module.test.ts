@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { chatterNamesModule } from "akasha/temper/commands/modules/eso-chatter-names/eso-chatter-names.module.code.ts"
+import { chatterNamesModule } from "akasha/temper/command/modules/eso-chatter-names/eso-chatter-names.module.code.ts"
 
 const SOURCE = `declare const CHATTER_BEGIN: number
 declare const CHATTER_ACCEPT_QUEST_BESTOWAL: number

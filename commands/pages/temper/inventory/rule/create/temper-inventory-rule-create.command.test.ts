@@ -1,21 +1,21 @@
 import { expect, test } from "bun:test"
-import { action } from "akasha/commands/arguments/pages/action.argument.ts"
-import { category } from "akasha/commands/arguments/pages/category.argument.ts"
-import { conditions } from "akasha/commands/arguments/pages/conditions.argument.ts"
-import { answering } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { action } from "akasha/command/arguments/pages/action.argument.ts"
+import { category } from "akasha/command/arguments/pages/category.argument.ts"
+import { conditions } from "akasha/command/arguments/pages/conditions.argument.ts"
+import { answering } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   making,
   type Taken,
   temperInventoryRuleCreate,
-} from "akasha/commands/pages/temper/inventory/rule/create/temper-inventory-rule-create.command.code.ts"
-import { temperInventoryRuleCreate as page } from "akasha/commands/pages/temper/inventory/rule/create/temper-inventory-rule-create.command.ts"
+} from "akasha/command/pages/temper/inventory/rule/create/temper-inventory-rule-create.command.code.ts"
+import { temperInventoryRuleCreate as page } from "akasha/command/pages/temper/inventory/rule/create/temper-inventory-rule-create.command.ts"
 import {
   UNREADABLE,
   WROTE,
   writingThat,
-} from "akasha/temper/commands/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
+} from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
 
 const CALLED_AS = "akasha temper inventory rule create"
 

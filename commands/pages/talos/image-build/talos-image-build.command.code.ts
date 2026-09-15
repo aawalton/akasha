@@ -1,19 +1,19 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { download } from "akasha/commands/arguments/pages/download.argument.ts"
-import { node as nodeArgument } from "akasha/commands/arguments/pages/node.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { download } from "akasha/command/arguments/pages/download.argument.ts"
+import { node as nodeArgument } from "akasha/command/arguments/pages/node.argument.ts"
 import {
   answeredWith,
   answering,
   naming,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { talosImageBuild as page } from "akasha/commands/pages/talos/image-build/talos-image-build.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { talosImageBuild as page } from "akasha/command/pages/talos/image-build/talos-image-build.command.ts"
 import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/modules/build-schematic/build-schematic.module.code.ts"
 import { emitSchematicYaml } from "akasha/infrastructure/cluster/provisioning/talos/modules/emit-yaml/emit-yaml.module.code.ts"
 import {

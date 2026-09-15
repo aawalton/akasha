@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const instruct = {
   id: "01a094eb-2abc-7a6f-9ba0-75646b785e0d",

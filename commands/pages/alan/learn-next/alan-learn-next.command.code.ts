@@ -8,16 +8,16 @@ import {
   type Topic,
   topicTreeIn,
 } from "akasha/alan/books/pages/learn-everything/modules/topic-tree/topic-tree.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
 import {
   DATA,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { alanLearnNext as page } from "akasha/commands/pages/alan/learn-next/alan-learn-next.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { alanLearnNext as page } from "akasha/command/pages/alan/learn-next/alan-learn-next.command.ts"
 
 const UNOPENED = "unopened"
 

@@ -1,10 +1,10 @@
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { filing } from "akasha/commands/modules/mechanical-filing/mechanical-filing.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import type { ActivityDifficulty } from "akasha/commands/pages/track/modules/session-leveling/session-leveling.module.code.ts"
+import { told } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { filing } from "akasha/command/modules/mechanical-filing/mechanical-filing.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import type { ActivityDifficulty } from "akasha/command/pages/track/modules/session-leveling/session-leveling.module.code.ts"
 import {
   type Anchoring,
   activitiesIn,
@@ -14,24 +14,24 @@ import {
   linesOf,
   openIn,
   type Row,
-} from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
+} from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
 import {
   dayBefore,
   sleeping,
-} from "akasha/commands/pages/track/modules/waking/waking.module.code.ts"
+} from "akasha/command/pages/track/modules/waking/waking.module.code.ts"
 import {
   besideArgv,
   type Landing,
   pathUnder,
-} from "akasha/commands/pages/track/session/modules/day-landing/day-landing.module.code.ts"
+} from "akasha/command/pages/track/session/modules/day-landing/day-landing.module.code.ts"
 import type {
   RelationshipPage,
   Tagged,
-} from "akasha/commands/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
+} from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 import {
   relationshipsFor,
   relationshipsIn,
-} from "akasha/commands/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
+} from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export type Standing = {

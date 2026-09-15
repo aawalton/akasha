@@ -1,15 +1,15 @@
 import { readMountainWallTime } from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { day } from "akasha/commands/arguments/pages/day.argument.ts"
-import { difficulty } from "akasha/commands/arguments/pages/difficulty.argument.ts"
-import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
-import { relationship } from "akasha/commands/arguments/pages/relationship.argument.ts"
-import { safety } from "akasha/commands/arguments/pages/safety.argument.ts"
-import { stretchEnd } from "akasha/commands/arguments/pages/stretch-end.argument.ts"
-import { stretchStart } from "akasha/commands/arguments/pages/stretch-start.argument.ts"
-import { title } from "akasha/commands/arguments/pages/title.argument.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { day } from "akasha/command/arguments/pages/day.argument.ts"
+import { difficulty } from "akasha/command/arguments/pages/difficulty.argument.ts"
+import { dryRun } from "akasha/command/arguments/pages/dry-run.argument.ts"
+import { relationship } from "akasha/command/arguments/pages/relationship.argument.ts"
+import { safety } from "akasha/command/arguments/pages/safety.argument.ts"
+import { stretchEnd } from "akasha/command/arguments/pages/stretch-end.argument.ts"
+import { stretchStart } from "akasha/command/arguments/pages/stretch-start.argument.ts"
+import { title } from "akasha/command/arguments/pages/title.argument.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
   anchoredIn,
   faultsIn,
@@ -19,18 +19,18 @@ import {
   type Row,
   sayingFor,
   shownOf,
-} from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
-import { trackSessionLog as page } from "akasha/commands/pages/track/session/log/track-session-log.command.ts"
+} from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
+import { trackSessionLog as page } from "akasha/command/pages/track/session/log/track-session-log.command.ts"
 import {
   landed,
   standingFor,
   taggingFor,
   telling,
-} from "akasha/commands/pages/track/session/modules/session-acting/session-acting.module.code.ts"
+} from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 import {
   taggedFor,
   taggingOf,
-} from "akasha/commands/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
+} from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 
 const NAMED = [dryRun, day, safety, difficulty, title, stretchStart, stretchEnd, relationship]
 

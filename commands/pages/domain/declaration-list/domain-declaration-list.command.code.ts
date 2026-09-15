@@ -1,14 +1,14 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { declarationSubject } from "akasha/commands/arguments/pages/declaration-subject.argument.ts"
-import { refusedBy } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { reportedBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
-import { domainDeclarationList as page } from "akasha/commands/pages/domain/declaration-list/domain-declaration-list.command.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { declarationSubject } from "akasha/command/arguments/pages/declaration-subject.argument.ts"
+import { refusedBy } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { reportedBy } from "akasha/command/modules/report-answering/report-answering.module.code.ts"
+import { domainDeclarationList as page } from "akasha/command/pages/domain/declaration-list/domain-declaration-list.command.ts"
 import {
   declarationLines,
   SUBJECTS,
-} from "akasha/commands/pages/domain/modules/drawing/domain-drawing.module.code.ts"
+} from "akasha/command/pages/domain/modules/drawing/domain-drawing.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 export function wrongIn(said: readonly string[]): readonly string[] {

@@ -1,6 +1,6 @@
 import { HOLD } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
-import { ref } from "akasha/commands/arguments/pages/ref.argument.ts"
-import { deploy } from "akasha/commands/pages/deploy/deploy.command.ts"
+import { ref } from "akasha/command/arguments/pages/ref.argument.ts"
+import { deploy } from "akasha/command/pages/deploy/deploy.command.ts"
 import {
   type ApiObjectManifest,
   synthOne,

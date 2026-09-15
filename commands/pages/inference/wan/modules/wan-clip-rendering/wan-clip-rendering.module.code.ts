@@ -1,8 +1,8 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
-import { negativePrompt as negativePromptArgument } from "akasha/commands/arguments/pages/negative-prompt.argument.ts"
-import { renderPrompt as promptArgument } from "akasha/commands/arguments/pages/render-prompt.argument.ts"
+import { negativePrompt as negativePromptArgument } from "akasha/command/arguments/pages/negative-prompt.argument.ts"
+import { renderPrompt as promptArgument } from "akasha/command/arguments/pages/render-prompt.argument.ts"
 import {
   answeredWith,
   DATA,
@@ -10,19 +10,19 @@ import {
   OPERATIONAL,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { filing, filledIn } from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import { pathUnder } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
-import type { Taken as Extend } from "akasha/commands/pages/inference/wan/extend/inference-wan-extend.command.code.ts"
-import type { Taken as Generate } from "akasha/commands/pages/inference/wan/generate/inference-wan-generate.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
+import { pathUnder } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
+import type { Taken as Extend } from "akasha/command/pages/inference/wan/extend/inference-wan-extend.command.code.ts"
+import type { Taken as Generate } from "akasha/command/pages/inference/wan/generate/inference-wan-generate.command.code.ts"
 import {
   framesIn,
   homeIn,
   portIn,
   sizeIn,
-} from "akasha/commands/pages/inference/wan/modules/wan-hosting/wan-hosting.module.code.ts"
+} from "akasha/command/pages/inference/wan/modules/wan-hosting/wan-hosting.module.code.ts"
 import {
   fetchImage,
   runComfyGraph,

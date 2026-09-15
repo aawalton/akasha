@@ -1,19 +1,19 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { addonsDir as addonsDirArgument } from "akasha/commands/arguments/pages/addons-dir.argument.ts"
-import { codeRoot } from "akasha/commands/arguments/pages/code-root.argument.ts"
-import { force } from "akasha/commands/arguments/pages/force.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { only as onlyArgument } from "akasha/commands/arguments/pages/only.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { addonsDir as addonsDirArgument } from "akasha/command/arguments/pages/addons-dir.argument.ts"
+import { codeRoot } from "akasha/command/arguments/pages/code-root.argument.ts"
+import { force } from "akasha/command/arguments/pages/force.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { only as onlyArgument } from "akasha/command/arguments/pages/only.argument.ts"
 import {
   answeredWith,
   INPUT,
   OK,
   OPERATIONAL,
   refused,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { temperCommunityAddonUpdate as page } from "akasha/commands/pages/temper/community/addon-update/temper-community-addon-update.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { temperCommunityAddonUpdate as page } from "akasha/command/pages/temper/community/addon-update/temper-community-addon-update.command.ts"
 import { listDeployables } from "akasha/temper/addons-resolve/modules/deployable-addons/deployable-addons.module.code.ts"
 import {
   clearedSaid,

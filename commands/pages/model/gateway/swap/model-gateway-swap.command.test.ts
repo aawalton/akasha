@@ -1,20 +1,20 @@
 import { expect, test } from "bun:test"
 import type { SeatMatch } from "akasha/agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { fleet } from "akasha/commands/arguments/pages/fleet.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { fleet } from "akasha/command/arguments/pages/fleet.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type {
   Asking,
   Outcome,
   Seams,
-} from "akasha/commands/pages/model/gateway/swap/model-gateway-swap.command.code.ts"
+} from "akasha/command/pages/model/gateway/swap/model-gateway-swap.command.code.ts"
 import {
   askedEach,
   askedSaid,
   modelGatewaySwap,
-} from "akasha/commands/pages/model/gateway/swap/model-gateway-swap.command.code.ts"
+} from "akasha/command/pages/model/gateway/swap/model-gateway-swap.command.code.ts"
 
 const SEATS = ["awen", "athena"]
 

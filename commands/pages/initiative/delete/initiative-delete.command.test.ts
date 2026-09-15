@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   initiativeDelete,
   messageFor,
@@ -10,7 +10,7 @@ import {
   noInitiative,
   saidFor,
   takenAwayBy,
-} from "akasha/commands/pages/initiative/delete/initiative-delete.command.code.ts"
+} from "akasha/command/pages/initiative/delete/initiative-delete.command.code.ts"
 
 const SEAT = { path: "agent/seat/pages/hum/hum.seat.ts", propertySlug: "assignment-slug" }
 

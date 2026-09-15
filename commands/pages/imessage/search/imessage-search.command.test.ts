@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
-import { messageQuery } from "akasha/commands/arguments/pages/message-query.argument.ts"
-import { queryFile } from "akasha/commands/arguments/pages/query-file.argument.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { imessageSearch } from "akasha/commands/pages/imessage/search/imessage-search.command.code.ts"
+import { messageQuery } from "akasha/command/arguments/pages/message-query.argument.ts"
+import { queryFile } from "akasha/command/arguments/pages/query-file.argument.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { imessageSearch } from "akasha/command/pages/imessage/search/imessage-search.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

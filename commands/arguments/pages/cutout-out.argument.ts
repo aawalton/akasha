@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const cutoutOut = {
   id: "01a0950d-0dd6-7376-b203-a05ae692dbfb",

@@ -7,10 +7,10 @@ import {
   PROTOCOL,
 } from "akasha/code/editor/extension/modules/harness-wire/harness-wire.module.code.ts"
 import { module } from "akasha/code/modules/module.page-type.ts"
-import { command } from "akasha/commands/command.page-type.ts"
-import { sayAnswer } from "akasha/commands/modules/answer-bytes/answer-bytes.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { command } from "akasha/command/command.page-type.ts"
+import { sayAnswer } from "akasha/command/modules/answer-bytes/answer-bytes.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { duringOneCall } from "akasha/utils/modules/during-call/during-call.module.code.ts"
 
 const HERE = import.meta.path

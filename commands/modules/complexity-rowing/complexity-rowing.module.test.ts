@@ -4,8 +4,8 @@ import {
   cyclomaticLines,
   summaryOf,
   type Wanted,
-} from "akasha/commands/modules/complexity-rowing/complexity-rowing.module.code.ts"
-import { reportedBy } from "akasha/commands/modules/report-answering/report-answering.module.code.ts"
+} from "akasha/command/modules/complexity-rowing/complexity-rowing.module.code.ts"
+import { reportedBy } from "akasha/command/modules/report-answering/report-answering.module.code.ts"
 
 const OWN = join(import.meta.dir, "complexity-rowing.module.code.ts")
 

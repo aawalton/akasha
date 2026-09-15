@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   buildIn,
   mobileCutRecord,
   momentIn,
-} from "akasha/commands/pages/mobile/cut/record/mobile-cut-record.command.code.ts"
+} from "akasha/command/pages/mobile/cut/record/mobile-cut-record.command.code.ts"
 
 const GOOD = ["--build-number", "3", "--main-sha", "deadbeefcafe"]
 

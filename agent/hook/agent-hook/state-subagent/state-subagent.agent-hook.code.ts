@@ -9,7 +9,7 @@ import {
   seatNamedIn,
   takingDown,
 } from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 
 const HOOK = "state-subagent"
 

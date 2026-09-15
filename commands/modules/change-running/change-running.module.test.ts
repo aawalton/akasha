@@ -12,7 +12,7 @@ import {
   pathsNamedBy,
   stamped,
   textIn,
-} from "akasha/commands/modules/change-running/change-running.module.code.ts"
+} from "akasha/command/modules/change-running/change-running.module.code.ts"
 import {
   APPLIED,
   acting,
@@ -46,8 +46,8 @@ import {
   SPARE_PAGE,
   saysApply,
   taking,
-} from "akasha/commands/modules/change-running/change-running.module.test-fixtures.ts"
-import { piping } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
+} from "akasha/command/modules/change-running/change-running.module.test-fixtures.ts"
+import { piping } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import {
   NAMER_CODE,
   NAMER_PAGE,

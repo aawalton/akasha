@@ -7,16 +7,16 @@ import type {
 import { selectNextExploration } from "akasha/alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"
 import type { MusicRating } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/modules/rating-ladder/rating-ladder.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
 import {
   DATA,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { musicNext as page } from "akasha/commands/pages/music/next/music-next.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { musicNext as page } from "akasha/command/pages/music/next/music-next.command.ts"
 import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"

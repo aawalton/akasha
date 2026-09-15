@@ -10,7 +10,7 @@ import {
 
 const BUILT = 'const one = { report: [], refusals: ["why"], code: 3 }\n'
 
-const WHERE_IT_IS_BUILT = "akasha/commands/modules/refusing/probe.module.code.ts"
+const WHERE_IT_IS_BUILT = "akasha/command/modules/refusing/probe.module.code.ts"
 
 test("a file declaring no exit code is refused nothing", () => {
   expect(noSecondExitCode(parsed("export const one = 1\n"))).toEqual([])

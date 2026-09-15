@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   noPerformance,
   thereAre,
-} from "akasha/commands/pages/measure/performance/measure-performance.command.code.ts"
+} from "akasha/command/pages/measure/performance/measure-performance.command.code.ts"
 
 const THERE: readonly string[] = ["landing-throughput"]
 

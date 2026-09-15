@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import {
   bindsFor,

@@ -1,13 +1,13 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { day } from "akasha/commands/arguments/pages/day.argument.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { faultsIn } from "akasha/commands/pages/track/modules/session-rows/session-rows.module.code.ts"
-import { trackSessionCheck as page } from "akasha/commands/pages/track/session/check/track-session-check.command.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { day } from "akasha/command/arguments/pages/day.argument.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { faultsIn } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
+import { trackSessionCheck as page } from "akasha/command/pages/track/session/check/track-session-check.command.ts"
 import {
   standingFor,
   telling,
-} from "akasha/commands/pages/track/session/modules/session-acting/session-acting.module.code.ts"
+} from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 
 const NAMED = [day]
 

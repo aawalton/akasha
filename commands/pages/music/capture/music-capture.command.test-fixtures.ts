@@ -1,9 +1,9 @@
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   changesFor,
   heardPageIn,
@@ -14,7 +14,7 @@ import {
   type Plays,
   plannedOver,
   WRITE,
-} from "akasha/commands/pages/music/capture/music-capture.command.code.ts"
+} from "akasha/command/pages/music/capture/music-capture.command.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export const ROOT = rootOf(process.cwd())

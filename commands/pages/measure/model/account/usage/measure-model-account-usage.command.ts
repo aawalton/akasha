@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const measureModelAccountUsage = {
   id: "01a0796e-6118-7440-9744-e4d725a51a0a",

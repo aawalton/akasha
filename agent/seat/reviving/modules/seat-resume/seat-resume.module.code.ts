@@ -46,7 +46,7 @@ import {
   inputError,
   operationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { parseArgs } from "akasha/commands/modules/parse-args/parse-args.module.code.ts"
+import { parseArgs } from "akasha/command/modules/parse-args/parse-args.module.code.ts"
 import { readStdinOrFile } from "akasha/utils/fs/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 import { shape } from "akasha/utils/narrow/modules/shape/shape.module.code.ts"
 

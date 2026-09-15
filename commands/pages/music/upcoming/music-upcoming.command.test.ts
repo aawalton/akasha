@@ -4,16 +4,16 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type {
   Queued,
   Upcoming,
-} from "akasha/commands/pages/music/upcoming/music-upcoming.command.code.ts"
+} from "akasha/command/pages/music/upcoming/music-upcoming.command.code.ts"
 import {
   envelopeOf,
   linesOf,
   upcoming,
-} from "akasha/commands/pages/music/upcoming/music-upcoming.command.code.ts"
+} from "akasha/command/pages/music/upcoming/music-upcoming.command.code.ts"
 
 const CALLED = "akasha music upcoming"
 

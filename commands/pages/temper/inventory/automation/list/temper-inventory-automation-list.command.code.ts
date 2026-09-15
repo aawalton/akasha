@@ -1,18 +1,18 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
 import {
   OPERATIONAL,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { temperInventoryAutomationList as page } from "akasha/commands/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { temperInventoryAutomationList as page } from "akasha/command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.ts"
 import {
   inventorySettings,
   type Toggles,
-} from "akasha/temper/commands/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"
+} from "akasha/temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
 
 const SPACES = 2

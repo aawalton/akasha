@@ -1,20 +1,20 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
-import { packageName } from "akasha/commands/arguments/pages/package-name.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
+import { packageName } from "akasha/command/arguments/pages/package-name.argument.ts"
 import {
   answeredWith,
   DATA,
   OK,
   OPERATIONAL,
   refused,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { temperPackageTypecheck as page } from "akasha/commands/pages/temper/package-typecheck/temper-package-typecheck.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { temperPackageTypecheck as page } from "akasha/command/pages/temper/package-typecheck/temper-package-typecheck.command.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
-import { inNameOrder } from "akasha/temper/commands/modules/name-ordering/name-ordering.module.code.ts"
+import { inNameOrder } from "akasha/temper/command/modules/name-ordering/name-ordering.module.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 
 const NAMED = [codeRootArgument, packageName]

@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const gitSweep = {
   id: "01a091c8-1761-7abf-827f-f2622036c56c",

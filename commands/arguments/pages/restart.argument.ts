@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const restart = {
   id: "01a094e6-82a2-7c28-8dbb-4993c43e4e8d",

@@ -8,7 +8,7 @@ import {
   narrowStockScope,
   parseConditionsJson,
   parseDestinationChainJson,
-} from "akasha/temper/commands/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+} from "akasha/temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 
 test("a buy source the rules package declares is taken", () => {
   expect(BUY_SOURCE_VALUES).toEqual(["merchant"])

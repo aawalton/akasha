@@ -1,19 +1,19 @@
 import { existsSync } from "node:fs"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { seq } from "akasha/commands/arguments/pages/seq.argument.ts"
-import { tail } from "akasha/commands/arguments/pages/tail.argument.ts"
-import { webApp } from "akasha/commands/arguments/pages/web-app.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { seq } from "akasha/command/arguments/pages/seq.argument.ts"
+import { tail } from "akasha/command/arguments/pages/tail.argument.ts"
+import { webApp } from "akasha/command/arguments/pages/web-app.argument.ts"
 import {
   codeOf,
   DATA,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { infrastructureDevServerLog as page } from "akasha/commands/pages/infrastructure/dev-server/log/infrastructure-dev-server-log.command.ts"
-import { lastLinesOf } from "akasha/commands/pages/infrastructure/dev-server/log/modules/last-lines/last-lines.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { infrastructureDevServerLog as page } from "akasha/command/pages/infrastructure/dev-server/log/infrastructure-dev-server-log.command.ts"
+import { lastLinesOf } from "akasha/command/pages/infrastructure/dev-server/log/modules/last-lines/last-lines.module.code.ts"
 import {
   logFilePath,
   lookupApp,

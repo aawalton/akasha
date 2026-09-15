@@ -1,17 +1,17 @@
 import { readFileSync } from "node:fs"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { errorsPath as errorsPathArgument } from "akasha/commands/arguments/pages/errors-path.argument.ts"
-import { includeStale as includeStaleArgument } from "akasha/commands/arguments/pages/include-stale.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { staleAfterHours as staleAfterHoursArgument } from "akasha/commands/arguments/pages/stale-after-hours.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { errorsPath as errorsPathArgument } from "akasha/command/arguments/pages/errors-path.argument.ts"
+import { includeStale as includeStaleArgument } from "akasha/command/arguments/pages/include-stale.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { staleAfterHours as staleAfterHoursArgument } from "akasha/command/arguments/pages/stale-after-hours.argument.ts"
 import {
   DATA,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { temperErrorList as page } from "akasha/commands/pages/temper/error-list/temper-error-list.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { temperErrorList as page } from "akasha/command/pages/temper/error-list/temper-error-list.command.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { listAllAddons } from "akasha/temper/addons-resolve/modules/addon-roster/addon-roster.module.code.ts"
 import type { ErrorEntry } from "akasha/temper/capture-errors/modules/errors-payload/errors-payload.module.code.ts"

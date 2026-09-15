@@ -13,7 +13,7 @@ import {
   linkedInPlace,
   machineNow,
   weighedIn,
-} from "akasha/commands/modules/install-linking/install-linking.module.code.ts"
+} from "akasha/command/modules/install-linking/install-linking.module.code.ts"
 import { valuedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   aProperty,

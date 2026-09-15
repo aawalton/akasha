@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const gradeTarget = {
   id: "01a09514-c56e-72ac-8c78-574b5fb4c1ff",

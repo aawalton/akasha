@@ -1,8 +1,8 @@
 import {
   argumentsIn,
   type Taken,
-} from "akasha/commands/modules/help-writing/help-writing.module.code.ts"
-import { slugOfPart } from "akasha/commands/modules/namespace-listing/namespace-listing.module.code.ts"
+} from "akasha/command/modules/help-writing/help-writing.module.code.ts"
+import { slugOfPart } from "akasha/command/modules/namespace-listing/namespace-listing.module.code.ts"
 import {
   typeSlugById,
   valuesOfType,

@@ -4,9 +4,9 @@ import { join } from "node:path"
 import {
   DATA,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { given } from "akasha/commands/pages/deploy/deploy.command.test-fixtures.ts"
-import { putUpWebApp } from "akasha/commands/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { given } from "akasha/command/pages/deploy/deploy.command.test-fixtures.ts"
+import { putUpWebApp } from "akasha/command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"
 import { seededWorld } from "akasha/infrastructure/services/clusters/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import { said } from "akasha/utils/run/modules/running/running.module.code.ts"
 

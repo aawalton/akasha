@@ -85,7 +85,7 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "The index is written under `` at the root of the checkout reading it.",
+      statement: "The index is written under `.index` at the root of the checkout reading it.",
     },
     {
       invariantKind: "departure",

@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const rootSelector = {
   id: "01a094cb-c621-7e98-9170-1cb3be49e71d",

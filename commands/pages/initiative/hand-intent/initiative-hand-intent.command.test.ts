@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { fromInitiative } from "akasha/commands/arguments/pages/from-initiative.argument.ts"
-import { statement } from "akasha/commands/arguments/pages/statement.argument.ts"
-import { toInitiative } from "akasha/commands/arguments/pages/to-initiative.argument.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { fromInitiative } from "akasha/command/arguments/pages/from-initiative.argument.ts"
+import { statement } from "akasha/command/arguments/pages/statement.argument.ts"
+import { toInitiative } from "akasha/command/arguments/pages/to-initiative.argument.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   handedBy,
   heldAlready,
@@ -18,8 +18,8 @@ import {
   saidFor,
   statingIn,
   wrongIn,
-} from "akasha/commands/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts"
-import { initiativeHandIntent as page } from "akasha/commands/pages/initiative/hand-intent/initiative-hand-intent.command.ts"
+} from "akasha/command/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts"
+import { initiativeHandIntent as page } from "akasha/command/pages/initiative/hand-intent/initiative-hand-intent.command.ts"
 
 const ASKED = { from: "one", statement: "A thing is so.", to: "two" }
 

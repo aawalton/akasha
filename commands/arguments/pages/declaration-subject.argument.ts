@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const declarationSubject = {
   id: "01a094f4-66b6-79a6-9bd8-613b62a8c8ad",

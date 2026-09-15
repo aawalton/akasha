@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { answeredAsJson } from "akasha/commands/modules/calendar-eventing/calendar-eventing.module.code.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { answeredAsJson } from "akasha/command/modules/calendar-eventing/calendar-eventing.module.code.ts"
 
 const TOOK_IT = "work@example.com took the change to event abc123"
 

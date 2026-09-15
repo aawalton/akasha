@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const subjectFile = {
   id: "01a094e3-4c26-7dc8-a762-277ee4dcc981",

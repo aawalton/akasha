@@ -1,15 +1,15 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { driveFile } from "akasha/commands/arguments/pages/drive-file.argument.ts"
-import { output } from "akasha/commands/arguments/pages/output.argument.ts"
-import { DATA } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { driveFile } from "akasha/command/arguments/pages/drive-file.argument.ts"
+import { output } from "akasha/command/arguments/pages/output.argument.ts"
+import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   fetchRefused,
   folderOf,
   madeSaid,
   wroteFile,
-} from "akasha/commands/pages/google/drive/fetch/google-drive-fetch.command.code.ts"
-import { googleDriveFetch as page } from "akasha/commands/pages/google/drive/fetch/google-drive-fetch.command.ts"
+} from "akasha/command/pages/google/drive/fetch/google-drive-fetch.command.code.ts"
+import { googleDriveFetch as page } from "akasha/command/pages/google/drive/fetch/google-drive-fetch.command.ts"
 
 const CALLED_AS = "akasha google drive fetch"
 

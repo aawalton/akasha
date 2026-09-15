@@ -1,5 +1,5 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { dryRun } from "akasha/command/arguments/pages/dry-run.argument.ts"
 import {
   answeredWith,
   INPUT,
@@ -8,9 +8,9 @@ import {
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { gitSweep as page } from "akasha/commands/pages/git/sweep/git-sweep.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { gitSweep as page } from "akasha/command/pages/git/sweep/git-sweep.command.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
 import type {
   Found,

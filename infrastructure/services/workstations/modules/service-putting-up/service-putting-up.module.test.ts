@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { putUpEvery } from "akasha/infrastructure/services/workstations/modules/service-putting-up/service-putting-up.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)

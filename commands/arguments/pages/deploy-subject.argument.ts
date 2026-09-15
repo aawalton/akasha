@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const deploySubject = {
   id: "01a094ff-7a04-7c50-8f97-e1dca1e73810",

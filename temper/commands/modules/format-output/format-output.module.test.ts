@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   emitJson,
   emitTsv,
-} from "akasha/temper/commands/modules/format-output/format-output.module.code.ts"
+} from "akasha/temper/command/modules/format-output/format-output.module.code.ts"
 
 test("rows are drawn under the columns named, in the order named", () => {
   expect(emitTsv([{ b: 2, a: 1 }], ["a", "b"])).toBe("a\tb\n1\t2")

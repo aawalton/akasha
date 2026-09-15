@@ -1,4 +1,4 @@
-import { authorIn } from "akasha/commands/modules/commit-author/commit-author.module.code.ts"
+import { authorIn } from "akasha/command/modules/commit-author/commit-author.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import {

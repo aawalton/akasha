@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mobileSimStatus } from "akasha/commands/pages/mobile/sim/status/mobile-sim-status.command.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mobileSimStatus } from "akasha/command/pages/mobile/sim/status/mobile-sim-status.command.code.ts"
 
 const CALLED_AS = "akasha mobile sim status"
 

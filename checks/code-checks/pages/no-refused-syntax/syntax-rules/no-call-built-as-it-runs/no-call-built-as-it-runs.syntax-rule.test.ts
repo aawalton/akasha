@@ -14,9 +14,9 @@ import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.mo
 
 const CODE_AT = "temper/one/one.module.code.ts"
 
-const OWN_AT = "commands/pages/temper/addon/temper-addon.command.code.ts"
+const OWN_AT = "command/pages/temper/addon/temper-addon.command.code.ts"
 
-const PAGE_AT = "commands/pages/temper/addon/temper-addon.command.ts"
+const PAGE_AT = "command/pages/temper/addon/temper-addon.command.ts"
 
 const HOLDS_NO_CODE = "temper/one/one.module.test.ts"
 

@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const buildInputTreeHash = {
   id: "01a094c8-a173-739a-bd07-d6b775d51a5c",

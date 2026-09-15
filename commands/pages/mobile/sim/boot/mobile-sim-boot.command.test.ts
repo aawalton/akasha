@@ -7,16 +7,16 @@ import {
 import {
   answering,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type {
   Booting,
   Read,
-} from "akasha/commands/pages/mobile/sim/boot/mobile-sim-boot.command.code.ts"
+} from "akasha/command/pages/mobile/sim/boot/mobile-sim-boot.command.code.ts"
 import {
   booted,
   mobileSimBoot,
-} from "akasha/commands/pages/mobile/sim/boot/mobile-sim-boot.command.code.ts"
+} from "akasha/command/pages/mobile/sim/boot/mobile-sim-boot.command.code.ts"
 
 const BASE = "http://mac:4723"
 

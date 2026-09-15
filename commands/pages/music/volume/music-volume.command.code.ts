@@ -1,22 +1,22 @@
 import type { DeviceOption } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { setVolume } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { deviceId as deviceIdArgument } from "akasha/commands/arguments/pages/device-id.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { percent as percentArgument } from "akasha/commands/arguments/pages/percent.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { deviceId as deviceIdArgument } from "akasha/command/arguments/pages/device-id.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { percent as percentArgument } from "akasha/command/arguments/pages/percent.argument.ts"
 import {
   answering,
   INPUT,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   optionFor,
   whereOf,
-} from "akasha/commands/pages/music/modules/device-option/device-option.module.code.ts"
-import { musicVolume as page } from "akasha/commands/pages/music/volume/music-volume.command.ts"
+} from "akasha/command/pages/music/modules/device-option/device-option.module.code.ts"
+import { musicVolume as page } from "akasha/command/pages/music/volume/music-volume.command.ts"
 
 const NAMED = [deviceIdArgument, json, percentArgument]
 

@@ -10,15 +10,15 @@ import type {
   Typing,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
-import type { Naming } from "akasha/commands/modules/walking/command-walking.module.code.ts"
+import type { Naming } from "akasha/command/modules/walking/command-walking.module.code.ts"
 
-const HUMMED_AT = "commands/pages/humming/deep-song/humming-deep-song.command.code.ts"
+const HUMMED_AT = "command/pages/humming/deep-song/humming-deep-song.command.code.ts"
 
-const HUMMED_PAGE_AT = "commands/pages/humming/deep-song/humming-deep-song.command.ts"
+const HUMMED_PAGE_AT = "command/pages/humming/deep-song/humming-deep-song.command.ts"
 
-const HUMMED_TEST_AT = "commands/pages/humming/deep-song/humming-deep-song.command.test.ts"
+const HUMMED_TEST_AT = "command/pages/humming/deep-song/humming-deep-song.command.test.ts"
 
-const LEAF_AT = "commands/pages/humming/leaf/humming-leaf.command.code.ts"
+const LEAF_AT = "command/pages/humming/leaf/humming-leaf.command.code.ts"
 
 const OUTSIDE_AT = "checks/one/one.module.code.ts"
 
@@ -92,7 +92,7 @@ test("the tail of a template literal is judged too", () => {
 
 test("a specifier naming the command's own folder is left alone", () => {
   const text =
-    'import { one } from "akasha/commands/pages/humming/leaf/humming-leaf.module.code.ts"\n'
+    'import { one } from "akasha/command/pages/humming/leaf/humming-leaf.module.code.ts"\n'
   expect(noCommandSpellingItsOwnCall(at(LEAF_AT, text))).toEqual([])
 })
 

@@ -3,22 +3,22 @@ import {
   type Judged,
   runningOf,
 } from "akasha/agent/model/test/modules/running/model-test-running.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { broken as brokenArgument } from "akasha/commands/arguments/pages/broken.argument.ts"
-import { cases } from "akasha/commands/arguments/pages/cases.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
-import { modelTest as modelTestArgument } from "akasha/commands/arguments/pages/model-test.argument.ts"
-import { show } from "akasha/commands/arguments/pages/show.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { broken as brokenArgument } from "akasha/command/arguments/pages/broken.argument.ts"
+import { cases } from "akasha/command/arguments/pages/cases.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
+import { modelTest as modelTestArgument } from "akasha/command/arguments/pages/model-test.argument.ts"
+import { show } from "akasha/command/arguments/pages/show.argument.ts"
 import {
   answeredWith,
   codeOf,
   DATA,
   OK,
   refusedBy,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { modelTest as page } from "akasha/commands/pages/model/test/model-test.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { modelTest as page } from "akasha/command/pages/model/test/model-test.command.ts"
 
 const UNREACHED = "unreached"
 

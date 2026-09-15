@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const infrastructureServiceSweep = {
   id: "01a09409-1cc5-728a-ba59-c959fa5540ed",

@@ -7,7 +7,7 @@ import {
   identifiedOver,
   mintedFor,
   mintingOnto,
-} from "akasha/commands/modules/value-minting/value-minting.module.code.ts"
+} from "akasha/command/modules/value-minting/value-minting.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { statesVersionSeven } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import {

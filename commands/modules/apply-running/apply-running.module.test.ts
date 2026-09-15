@@ -7,20 +7,20 @@ import {
   editsIn,
   foldedIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { DATA, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { DATA, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   type Folded,
   folding,
   mendedInto,
   runningOver,
   undone,
-} from "akasha/commands/modules/apply-running/apply-running.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/apply-running/apply-running.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   type Landing,
   landingFrom,
-} from "akasha/commands/modules/edits-landing/edits-landing.module.code.ts"
-import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
+} from "akasha/command/modules/edits-landing/edits-landing.module.code.ts"
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   listedFiled,

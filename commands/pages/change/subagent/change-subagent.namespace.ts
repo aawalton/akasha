@@ -1,4 +1,4 @@
-import type { Namespace } from "akasha/commands/namespaces/namespace.page-type.types.ts"
+import type { Namespace } from "akasha/command/namespaces/namespace.page-type.types.ts"
 
 export const changeSubagent = {
   id: "01a09c36-a09c-75e0-ab57-9febb4e5a990",

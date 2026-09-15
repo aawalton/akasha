@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   artistsOf,
   musicArtistList,
@@ -7,7 +7,7 @@ import {
   rungsOf,
   saidOf,
   statusSaid,
-} from "akasha/commands/pages/music/artist-list/music-artist-list.command.code.ts"
+} from "akasha/command/pages/music/artist-list/music-artist-list.command.code.ts"
 import { indexThere } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 

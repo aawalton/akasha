@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
 import {
   exportedBy,
   healable,
-} from "akasha/commands/pages/browser/test-storage-state/browser-test-storage-state.command.code.ts"
+} from "akasha/command/pages/browser/test-storage-state/browser-test-storage-state.command.code.ts"
 
 const ASKED = { url: "https://nowhere.test", output: "/nowhere/storage-state.json" }
 

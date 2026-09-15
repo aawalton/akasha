@@ -1,15 +1,15 @@
 import { expect, test } from "bun:test"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { answering, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { answering, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type {
   Made,
   Putting,
-} from "akasha/commands/pages/inference/segment/inference-segment.command.code.ts"
+} from "akasha/command/pages/inference/segment/inference-segment.command.code.ts"
 import {
   inferenceSegment,
   wroteEach,
-} from "akasha/commands/pages/inference/segment/inference-segment.command.code.ts"
+} from "akasha/command/pages/inference/segment/inference-segment.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

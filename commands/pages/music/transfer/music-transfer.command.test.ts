@@ -4,9 +4,9 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Moving } from "akasha/commands/pages/music/transfer/music-transfer.command.code.ts"
-import { moving } from "akasha/commands/pages/music/transfer/music-transfer.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Moving } from "akasha/command/pages/music/transfer/music-transfer.command.code.ts"
+import { moving } from "akasha/command/pages/music/transfer/music-transfer.command.code.ts"
 
 const CALLED = "akasha music transfer"
 

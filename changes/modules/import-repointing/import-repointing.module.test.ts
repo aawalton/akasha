@@ -216,7 +216,7 @@ test("a bare path from the root in a body that is no code follows the file that 
 })
 
 test("a manifest's way in follows the file that moved", () => {
-  const was = "commands/akasha/akasha.command.code.ts"
+  const was = "command/akasha/akasha.command.code.ts"
   const now = "cli/akasha/akasha.command.code.ts"
   const text = `{\n  "main": "${was}"\n}\n`
 

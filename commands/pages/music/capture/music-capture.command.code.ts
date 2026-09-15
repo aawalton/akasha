@@ -5,9 +5,9 @@ import {
   landedMechanically,
   type runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { dryRun } from "akasha/commands/arguments/pages/dry-run.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { dryRun } from "akasha/command/arguments/pages/dry-run.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
 import {
   answeredWith,
   answering,
@@ -17,9 +17,9 @@ import {
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { textAt } from "akasha/commands/modules/body-reaching/body-reaching.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { textAt } from "akasha/command/modules/body-reaching/body-reaching.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   buildPlayRow,
   esoDayOfPlay,
@@ -30,8 +30,8 @@ import {
   playKeyOf,
   resumeCursorMs,
   sumNewMusicMinutes,
-} from "akasha/commands/pages/music/capture/modules/play-row/play-row.module.code.ts"
-import { musicCapture as page } from "akasha/commands/pages/music/capture/music-capture.command.ts"
+} from "akasha/command/pages/music/capture/modules/play-row/play-row.module.code.ts"
+import { musicCapture as page } from "akasha/command/pages/music/capture/music-capture.command.ts"
 import { uuidVersion7 } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import {
   everyOfType,

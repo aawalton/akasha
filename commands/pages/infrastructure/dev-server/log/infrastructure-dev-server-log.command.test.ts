@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { infrastructureDevServerLog } from "akasha/commands/pages/infrastructure/dev-server/log/infrastructure-dev-server-log.command.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { infrastructureDevServerLog } from "akasha/command/pages/infrastructure/dev-server/log/infrastructure-dev-server-log.command.code.ts"
 
 const root = join(import.meta.dir, "..", "..", "..", "..", "..")
 

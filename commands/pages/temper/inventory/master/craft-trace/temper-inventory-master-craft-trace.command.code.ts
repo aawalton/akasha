@@ -1,19 +1,19 @@
 import { resolve } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { inventoryPath } from "akasha/commands/arguments/pages/inventory-path.argument.ts"
-import { json } from "akasha/commands/arguments/pages/json.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { inventoryPath } from "akasha/command/arguments/pages/inventory-path.argument.ts"
+import { json } from "akasha/command/arguments/pages/json.argument.ts"
 import {
   asJson,
   OPERATIONAL,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { numSaid } from "akasha/commands/modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
-import { temperInventoryMasterCraftTrace as page } from "akasha/commands/pages/temper/inventory/master/craft-trace/temper-inventory-master-craft-trace.command.ts"
-import { readMasterCraftTraces } from "akasha/temper/commands/modules/master-craft-trace-reading/master-craft-trace-reading.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { numSaid } from "akasha/command/modules/inventory-trace-saying/inventory-trace-saying.module.code.ts"
+import { temperInventoryMasterCraftTrace as page } from "akasha/command/pages/temper/inventory/master/craft-trace/temper-inventory-master-craft-trace.command.ts"
+import { readMasterCraftTraces } from "akasha/temper/command/modules/master-craft-trace-reading/master-craft-trace-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
 const INVENTORY_LUA = "TemperInventory.lua"

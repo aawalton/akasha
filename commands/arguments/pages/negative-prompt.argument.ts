@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const negativePrompt = {
   id: "01a094e9-0e55-76b8-930a-c6274a542e1e",

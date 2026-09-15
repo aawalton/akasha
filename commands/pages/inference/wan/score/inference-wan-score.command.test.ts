@@ -5,14 +5,14 @@ import {
   OPERATIONAL,
   partWay,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Scoring } from "akasha/commands/pages/inference/wan/score/inference-wan-score.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Scoring } from "akasha/command/pages/inference/wan/score/inference-wan-score.command.code.ts"
 import {
   inferenceWanScore,
   relabelledSaid,
-} from "akasha/commands/pages/inference/wan/score/inference-wan-score.command.code.ts"
+} from "akasha/command/pages/inference/wan/score/inference-wan-score.command.code.ts"
 
 function given(root: string): Given {
   return { root, calledAs: "akasha inference wan score", from: root, writer: null, agentId: null }

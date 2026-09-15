@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { inferenceMusic } from "akasha/commands/pages/inference/music/inference-music.command.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { inferenceMusic } from "akasha/command/pages/inference/music/inference-music.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

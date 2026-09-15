@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const driveFile = {
   id: "01a094dc-4628-78d1-ae8f-38f7c58ec5d8",

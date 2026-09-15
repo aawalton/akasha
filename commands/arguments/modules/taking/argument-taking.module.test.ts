@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
 import {
   LIMIT_PAGE,
   NAMING_NONE,
@@ -13,7 +13,7 @@ import {
   pageTaken,
   SEAT_PAGE,
   TAIL_PAGE,
-} from "akasha/commands/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
+} from "akasha/command/arguments/modules/taking/argument-taking.module.test-fixtures.ts"
 
 test("a command page's entries are read against the argument pages its code names", () => {
   expect(pageTaken(["--seat", "athena"], NAMING_THEM, PAGES)).toEqual({

@@ -3,7 +3,7 @@ import {
   answering,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   AGENT_PREFIX,
   type Asked,
@@ -16,7 +16,7 @@ import {
   spawnedSaid,
   startedOn,
   wroteSaid,
-} from "akasha/commands/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"
+} from "akasha/command/pages/model/gateway/start/modules/proxy-run/proxy-run.module.code.ts"
 
 const ASKED: Asked = {
   agentId: "model-gateway-start-test",

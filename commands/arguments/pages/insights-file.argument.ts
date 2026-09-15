@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const insightsFile = {
   id: "01a094e5-cf0d-7679-bfe0-da2e4cbf8138",

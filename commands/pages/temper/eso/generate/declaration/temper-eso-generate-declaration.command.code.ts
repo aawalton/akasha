@@ -11,25 +11,25 @@ import {
   type Stated,
   statedIn,
 } from "akasha/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.decision.code.ts"
-import { codeRoot as codeRootArgument } from "akasha/commands/arguments/pages/code-root.argument.ts"
+import { codeRoot as codeRootArgument } from "akasha/command/arguments/pages/code-root.argument.ts"
 import {
   DATA,
   keeping,
   OPERATIONAL,
   refused,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   answeredByPage,
   type Generating,
   type Taking,
-} from "akasha/commands/modules/page-answering/page-answering.module.code.ts"
-import { temperEsoGenerateDeclaration as page } from "akasha/commands/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts"
+} from "akasha/command/modules/page-answering/page-answering.module.code.ts"
+import { temperEsoGenerateDeclaration as page } from "akasha/command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
-import { saidShort } from "akasha/temper/commands/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
+import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import {
   generateEnumsFile,
   generateEventsFile,

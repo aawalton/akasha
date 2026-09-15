@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const toAddress = {
   id: "01a09513-aee1-7e3a-8a9e-c4bb6d3526ac",

@@ -4,7 +4,7 @@ import { treed } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fi
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
-const AT = "commands/pages/humming/leaf/humming-leaf.command.code.ts"
+const AT = "command/pages/humming/leaf/humming-leaf.command.code.ts"
 
 const READS =
   "export function hummingLeaf(argv: readonly string[]): Answer {\n" +

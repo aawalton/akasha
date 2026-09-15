@@ -8,16 +8,16 @@ import {
   answering,
   OPERATIONAL,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type {
   Restarting,
   Seat,
-} from "akasha/commands/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"
+} from "akasha/command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"
 import {
   restartedEach,
   seatSupervisorRestart,
-} from "akasha/commands/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"
+} from "akasha/command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"
 
 const SEATS: readonly Seat[] = [
   { page: "athena.seat.ts", name: "athena", holder: null },

@@ -21,15 +21,15 @@ import type {
   Landing,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
-import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
+import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   agentSubagentSweep,
   type RunningSaid,
   type SeatTranscripts,
   TAKE,
-} from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
+} from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   listedFiled,

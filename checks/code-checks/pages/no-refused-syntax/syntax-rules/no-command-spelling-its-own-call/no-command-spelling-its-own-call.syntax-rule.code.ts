@@ -9,7 +9,7 @@ import {
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
-const COMMANDS_AT = "commands/pages/"
+const COMMANDS_AT = "command/pages/"
 
 export const mark: Marking = (_text, path) => path.startsWith(COMMANDS_AT)
 

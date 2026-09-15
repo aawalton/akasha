@@ -12,11 +12,11 @@ import {
   answering,
   naming,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { builtIn } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
-import { commitSaid } from "akasha/commands/modules/landing-saying/landing-saying.module.code.ts"
-import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { builtIn } from "akasha/command/modules/file-arguing/file-arguing.module.code.ts"
+import { commitSaid } from "akasha/command/modules/landing-saying/landing-saying.module.code.ts"
+import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 

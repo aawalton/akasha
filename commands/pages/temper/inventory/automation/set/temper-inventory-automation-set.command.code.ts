@@ -1,19 +1,19 @@
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { scope } from "akasha/commands/arguments/pages/scope.argument.ts"
-import { toggle } from "akasha/commands/arguments/pages/toggle.argument.ts"
-import { toggleTarget } from "akasha/commands/arguments/pages/toggle-target.argument.ts"
-import { value } from "akasha/commands/arguments/pages/value.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { scope } from "akasha/command/arguments/pages/scope.argument.ts"
+import { toggle } from "akasha/command/arguments/pages/toggle.argument.ts"
+import { toggleTarget } from "akasha/command/arguments/pages/toggle-target.argument.ts"
+import { value } from "akasha/command/arguments/pages/value.argument.ts"
 import {
   INPUT,
   OPERATIONAL,
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { temperInventoryAutomationSet as page } from "akasha/commands/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts"
-import { inventorySettings } from "akasha/temper/commands/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { temperInventoryAutomationSet as page } from "akasha/command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts"
+import { inventorySettings } from "akasha/temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"
 import {
   type AutomationScope,
   applyToggle,

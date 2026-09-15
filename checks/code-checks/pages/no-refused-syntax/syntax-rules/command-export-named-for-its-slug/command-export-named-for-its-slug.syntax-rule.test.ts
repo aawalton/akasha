@@ -10,15 +10,15 @@ import type {
   Typing,
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/syntax-rule.page-type.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
-import type { Naming } from "akasha/commands/modules/walking/command-walking.module.code.ts"
+import type { Naming } from "akasha/command/modules/walking/command-walking.module.code.ts"
 
-const SONG_AT = "commands/pages/humming/deep-song/humming-deep-song.command.code.ts"
+const SONG_AT = "command/pages/humming/deep-song/humming-deep-song.command.code.ts"
 
-const SONG_TEST_AT = "commands/pages/humming/deep-song/humming-deep-song.command.test.ts"
+const SONG_TEST_AT = "command/pages/humming/deep-song/humming-deep-song.command.test.ts"
 
-const SONG_PAGE_AT = "commands/pages/humming/deep-song/humming-deep-song.command.ts"
+const SONG_PAGE_AT = "command/pages/humming/deep-song/humming-deep-song.command.ts"
 
-const MODULE_AT = "commands/pages/humming/deep-song/song-tabling.module.code.ts"
+const MODULE_AT = "command/pages/humming/deep-song/song-tabling.module.code.ts"
 
 const OUTSIDE_AT = "checks/one/one.module.code.ts"
 

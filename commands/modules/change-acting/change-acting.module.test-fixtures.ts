@@ -10,15 +10,15 @@ import {
   foldedIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { addedTo, ledgerAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { INPUT, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   DROP_WORDS,
   dropping,
   pipedPathsIn,
-} from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
-import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+} from "akasha/command/modules/change-acting/change-acting.module.code.ts"
+import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import {
   indexedRepo,

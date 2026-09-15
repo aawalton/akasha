@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const renderPrompt = {
   id: "01a09512-a8c0-753f-ae4d-e53c37a7a4c5",

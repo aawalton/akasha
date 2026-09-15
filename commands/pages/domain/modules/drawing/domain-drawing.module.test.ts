@@ -1,14 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   domainsIn,
   type Entry,
   heldBy,
   kindsUnderDomain,
   treeLines,
-} from "akasha/commands/pages/domain/modules/drawing/domain-drawing.module.code.ts"
+} from "akasha/command/pages/domain/modules/drawing/domain-drawing.module.code.ts"
 import {
   idFiled,
   listedFiled,

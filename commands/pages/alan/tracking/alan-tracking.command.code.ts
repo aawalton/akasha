@@ -5,23 +5,23 @@ import {
 } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { MECHANICAL_KIND } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { commitMessage } from "akasha/commands/arguments/pages/commit-message.argument.ts"
-import { contentFile } from "akasha/commands/arguments/pages/content-file.argument.ts"
-import { filePath } from "akasha/commands/arguments/pages/file-path.argument.ts"
-import { messageFile } from "akasha/commands/arguments/pages/message-file.argument.ts"
-import { removePath } from "akasha/commands/arguments/pages/remove-path.argument.ts"
-import { answering } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { commitMessage } from "akasha/command/arguments/pages/commit-message.argument.ts"
+import { contentFile } from "akasha/command/arguments/pages/content-file.argument.ts"
+import { filePath } from "akasha/command/arguments/pages/file-path.argument.ts"
+import { messageFile } from "akasha/command/arguments/pages/message-file.argument.ts"
+import { removePath } from "akasha/command/arguments/pages/remove-path.argument.ts"
+import { answering } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   type Asking,
   builtOf,
-} from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
-import { messageFrom } from "akasha/commands/modules/flags/command-flags.module.code.ts"
-import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { pathAt } from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
-import { alanTracking as page } from "akasha/commands/pages/alan/tracking/alan-tracking.command.ts"
+} from "akasha/command/modules/file-arguing/file-arguing.module.code.ts"
+import { messageFrom } from "akasha/command/modules/flags/command-flags.module.code.ts"
+import { inputIn } from "akasha/command/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { pathAt } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
+import { alanTracking as page } from "akasha/command/pages/alan/tracking/alan-tracking.command.ts"
 
 const NAMED = [commitMessage, messageFile, contentFile, filePath, removePath]
 

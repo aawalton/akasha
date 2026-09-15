@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const inferenceWanGenerate = {
   id: "01a093fa-cf48-7c82-9dc2-020adb45aa53",

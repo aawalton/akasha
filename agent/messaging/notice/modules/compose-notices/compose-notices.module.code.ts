@@ -1,5 +1,5 @@
 import { writeFileSync } from "node:fs"
-import { fail } from "akasha/commands/modules/failing/command-failing.module.code.ts"
+import { fail } from "akasha/command/modules/failing/command-failing.module.code.ts"
 import {
   listedAt,
   valuesOfType,

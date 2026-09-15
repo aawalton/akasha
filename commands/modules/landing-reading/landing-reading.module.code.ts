@@ -5,7 +5,7 @@ import {
   dropReadings,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import type { Running } from "akasha/commands/modules/change-kind-running/change-kind-running.module.code.ts"
+import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 
 export function carryLanded(

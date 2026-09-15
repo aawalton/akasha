@@ -2,12 +2,12 @@ import { expect, test } from "bun:test"
 import {
   answeredWith,
   OK,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   staging,
   temperEsoGenerateBaseGameGlobal,
-} from "akasha/commands/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts"
+} from "akasha/command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts"
 
 const GIVEN: Given = {
   root: "/nowhere",

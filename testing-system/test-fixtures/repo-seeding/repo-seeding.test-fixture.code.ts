@@ -5,18 +5,18 @@ import type { Phase } from "akasha/checks/modules/checking/checking.module.code.
 import {
   answeredWith,
   OK,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { applyWith } from "akasha/commands/modules/apply-running/apply-running.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { CHANGE_APPLY_SLUG } from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { applyWith } from "akasha/command/modules/apply-running/apply-running.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { CHANGE_APPLY_SLUG } from "akasha/command/modules/change-costing/change-costing.module.code.ts"
 import {
   appending,
   textIn,
-} from "akasha/commands/modules/change-running/change-running.module.code.ts"
-import { builtIn } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
-import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+} from "akasha/command/modules/change-running/change-running.module.code.ts"
+import { builtIn } from "akasha/command/modules/file-arguing/file-arguing.module.code.ts"
+import { inputIn } from "akasha/command/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { warrantsSeeded } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"

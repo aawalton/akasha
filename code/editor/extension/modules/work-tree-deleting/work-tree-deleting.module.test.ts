@@ -13,7 +13,7 @@ import {
   type WorkDeleteWatch,
 } from "akasha/code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.code.ts"
 import { rowOf } from "akasha/code/editor/extension/modules/work-tree-holding/work-tree-holding.module.test-fixtures.ts"
-import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
+import { PUT_BACK } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 
 const INTENT = rowOf("intent", "held#2", "A thing is so.")
 

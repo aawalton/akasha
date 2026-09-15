@@ -7,24 +7,24 @@ import {
   FOOD_ENTRIES_AT,
   outsideTracked,
 } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
-import { OPERATIONAL } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { MECHANICAL } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
-import { builtIn } from "akasha/commands/modules/file-arguing/file-arguing.module.code.ts"
-import { scratch } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
-import { inputIn } from "akasha/commands/modules/piping/piping.module.code.ts"
+import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { MECHANICAL } from "akasha/command/modules/calling/calling.module.test-fixtures.ts"
+import { builtIn } from "akasha/command/modules/file-arguing/file-arguing.module.code.ts"
+import { scratch } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
+import { inputIn } from "akasha/command/modules/piping/piping.module.code.ts"
 import {
   alanTracking,
   strayIn,
   type Taken,
   trackedBy,
-} from "akasha/commands/pages/alan/tracking/alan-tracking.command.code.ts"
+} from "akasha/command/pages/alan/tracking/alan-tracking.command.code.ts"
 import {
   BESIDE_FOOD_ENTRIES,
   OUTSIDE_AKASHA,
   STRAY_PAGE,
-} from "akasha/commands/pages/alan/tracking/alan-tracking.command.test-fixtures.ts"
+} from "akasha/command/pages/alan/tracking/alan-tracking.command.test-fixtures.ts"
 
 const ROOT = "/nowhere"
 
@@ -65,7 +65,7 @@ test("a path under the food entries is no stray", () => {
 })
 
 test("a path elsewhere under akasha is a stray", () => {
-  const at = "commands/thrumming/thrum-tracking.command.ts"
+  const at = "command/thrumming/thrum-tracking.command.ts"
   const said = strayIn(ROOT, { filePath: at, removePath: [] })
   expect(said).toEqual([outsideTracked(at)])
 })

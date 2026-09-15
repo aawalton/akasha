@@ -1,6 +1,6 @@
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Weighing } from "akasha/commands/modules/unit-landing/unit-landing.module.code.ts"
+import type { Weighing } from "akasha/command/modules/unit-landing/unit-landing.module.code.ts"
 import {
   type Ran,
   stagingDir,

@@ -1,14 +1,14 @@
 import { expect, test } from "bun:test"
-import { INPUT, OK } from "akasha/commands/modules/answering/command-answering.module.code.ts"
+import { INPUT, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type {
   NowPlayingCurrent,
   NowPlayingState,
-} from "akasha/commands/pages/music/now-playing/music-now-playing.command.code.ts"
+} from "akasha/command/pages/music/now-playing/music-now-playing.command.code.ts"
 import {
   envelopeOf,
   lineOf,
   nowPlayingWith,
-} from "akasha/commands/pages/music/now-playing/music-now-playing.command.code.ts"
+} from "akasha/command/pages/music/now-playing/music-now-playing.command.code.ts"
 
 const CALLED = "akasha music now-playing"
 

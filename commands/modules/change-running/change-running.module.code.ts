@@ -33,26 +33,26 @@ import {
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   type Given as Arguments,
   readingIn,
-} from "akasha/commands/modules/argument-reading/argument-reading.module.code.ts"
-import type { Answer } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/argument-reading/argument-reading.module.code.ts"
+import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   NO_PAGE,
   saidOf,
   stalling,
-} from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
-import { underIts } from "akasha/commands/modules/change-ceiling/change-ceiling.module.code.ts"
-import { commandPageAt } from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
-import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
+} from "akasha/command/modules/change-acting/change-acting.module.code.ts"
+import { underIts } from "akasha/command/modules/change-ceiling/change-ceiling.module.code.ts"
+import { commandPageAt } from "akasha/command/modules/change-costing/change-costing.module.code.ts"
+import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
   offRepo,
   pathAt,
   underGitIn,
-} from "akasha/commands/modules/said-pathing/said-pathing.module.code.ts"
+} from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
 import {
   changingOf,
   owedIn,

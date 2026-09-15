@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const gatewayLogDir = {
   id: "01a094fc-bd55-748a-baaf-dfeaad5bae3d",

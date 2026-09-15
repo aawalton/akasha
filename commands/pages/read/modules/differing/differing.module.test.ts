@@ -5,7 +5,7 @@ import { blobIdOf } from "akasha/agent/modules/read-record/read-record.module.co
 import {
   bodyRead,
   differenceOf,
-} from "akasha/commands/pages/read/modules/differing/differing.module.code.ts"
+} from "akasha/command/pages/read/modules/differing/differing.module.code.ts"
 import { bytesOf as bodyOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import {
   SCRATCH_AT,

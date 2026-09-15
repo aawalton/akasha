@@ -4,25 +4,25 @@ import { join } from "node:path"
 import {
   type TakenFor,
   takenFor,
-} from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { host as hostArgument } from "akasha/commands/arguments/pages/host.argument.ts"
-import { image as imageArgument } from "akasha/commands/arguments/pages/image.argument.ts"
-import { noPersist } from "akasha/commands/arguments/pages/no-persist.argument.ts"
-import { output } from "akasha/commands/arguments/pages/output.argument.ts"
-import { resolution as resolutionArgument } from "akasha/commands/arguments/pages/resolution.argument.ts"
-import { seed as seedArgument } from "akasha/commands/arguments/pages/seed.argument.ts"
+} from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { host as hostArgument } from "akasha/command/arguments/pages/host.argument.ts"
+import { image as imageArgument } from "akasha/command/arguments/pages/image.argument.ts"
+import { noPersist } from "akasha/command/arguments/pages/no-persist.argument.ts"
+import { output } from "akasha/command/arguments/pages/output.argument.ts"
+import { resolution as resolutionArgument } from "akasha/command/arguments/pages/resolution.argument.ts"
+import { seed as seedArgument } from "akasha/command/arguments/pages/seed.argument.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { inferenceUpscale as page } from "akasha/commands/pages/inference/upscale/inference-upscale.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { inferenceUpscale as page } from "akasha/command/pages/inference/upscale/inference-upscale.command.ts"
 import {
   ensureOutputDir,
   resolveOutputPath,
 } from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
-import { wroteTo } from "akasha/infrastructure/inference/commands/modules/inference-answering/inference-answering.module.code.ts"
+import { wroteTo } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
 import { runClusterUpscale } from "akasha/infrastructure/inference/generations/upscale/modules/cluster/upscale-cluster.module.code.ts"
 import { runWorkstationUpscale } from "akasha/infrastructure/inference/generations/upscale/modules/workstation/upscale-workstation.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/runs/modules/record/inference-run-record.module.code.ts"

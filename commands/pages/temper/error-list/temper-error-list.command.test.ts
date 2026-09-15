@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { temperErrorList } from "akasha/commands/pages/temper/error-list/temper-error-list.command.code.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { temperErrorList } from "akasha/command/pages/temper/error-list/temper-error-list.command.code.ts"
 
 const SAYS = "is no whole number of nought or more"
 

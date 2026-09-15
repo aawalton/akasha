@@ -1,10 +1,10 @@
 import { join } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { performance as performanceArgument } from "akasha/commands/arguments/pages/performance.argument.ts"
-import { faulted, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { measurePerformance as page } from "akasha/commands/pages/measure/performance/measure-performance.command.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { performance as performanceArgument } from "akasha/command/arguments/pages/performance.argument.ts"
+import { faulted, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { measurePerformance as page } from "akasha/command/pages/measure/performance/measure-performance.command.ts"
 import {
   listedAt,
   slugsOfType,

@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import { message } from "akasha/commands/arguments/pages/message.argument.ts"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { emailUnsubscribe } from "akasha/commands/pages/email/unsubscribe/email-unsubscribe.command.code.ts"
-import { emailUnsubscribe as page } from "akasha/commands/pages/email/unsubscribe/email-unsubscribe.command.ts"
+import { message } from "akasha/command/arguments/pages/message.argument.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { emailUnsubscribe } from "akasha/command/pages/email/unsubscribe/email-unsubscribe.command.code.ts"
+import { emailUnsubscribe as page } from "akasha/command/pages/email/unsubscribe/email-unsubscribe.command.ts"
 
 const CALLED_AS = "akasha email unsubscribe"
 

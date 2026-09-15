@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { DATA, INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { temperPackageTypecheck } from "akasha/commands/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts"
+import { DATA, INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { temperPackageTypecheck } from "akasha/command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts"
 
 const GIVEN: Given = {
   root: ".",

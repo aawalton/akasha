@@ -6,12 +6,12 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   classed,
   indexRefresh,
-} from "akasha/commands/pages/index/refresh/index-refresh.command.code.ts"
+} from "akasha/command/pages/index/refresh/index-refresh.command.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   indexNamed,
@@ -34,9 +34,9 @@ import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.modu
 
 const TREE = "."
 
-const CODE_AT = "commands/pages/thrumming/refresh/thrum-refresh.command.code.ts"
+const CODE_AT = "command/pages/thrumming/refresh/thrum-refresh.command.code.ts"
 
-const PAGE_AT = "commands/pages/thrumming/refresh/thrum-refresh.command.ts"
+const PAGE_AT = "command/pages/thrumming/refresh/thrum-refresh.command.ts"
 
 const LOCK_AT = ".git/akasha-landing.lock"
 

@@ -2,16 +2,16 @@ import {
   ensureAppium,
   resolveAndBootSim,
 } from "akasha/alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { udid as udidArgument } from "akasha/commands/arguments/pages/udid.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { udid as udidArgument } from "akasha/command/arguments/pages/udid.argument.ts"
 import {
   answering,
   keyedLines,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mobileSimBoot as page } from "akasha/commands/pages/mobile/sim/boot/mobile-sim-boot.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mobileSimBoot as page } from "akasha/command/pages/mobile/sim/boot/mobile-sim-boot.command.ts"
 
 export type Read = {
   readonly udid: string | undefined

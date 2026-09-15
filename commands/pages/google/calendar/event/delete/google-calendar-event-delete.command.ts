@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const googleCalendarEventDelete = {
   id: "01a08cf5-8fad-7e36-be9f-9248e12362cb",

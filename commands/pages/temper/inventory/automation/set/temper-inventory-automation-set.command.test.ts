@@ -1,20 +1,20 @@
 import { expect, test } from "bun:test"
-import { scope } from "akasha/commands/arguments/pages/scope.argument.ts"
-import { toggle } from "akasha/commands/arguments/pages/toggle.argument.ts"
-import { value } from "akasha/commands/arguments/pages/value.argument.ts"
+import { scope } from "akasha/command/arguments/pages/scope.argument.ts"
+import { toggle } from "akasha/command/arguments/pages/toggle.argument.ts"
+import { value } from "akasha/command/arguments/pages/value.argument.ts"
 import {
   INPUT,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   type Asking,
   changing,
   type Toggling,
   temperInventoryAutomationSet,
-} from "akasha/commands/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.code.ts"
-import { temperInventoryAutomationSet as page } from "akasha/commands/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts"
+} from "akasha/command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.code.ts"
+import { temperInventoryAutomationSet as page } from "akasha/command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts"
 import type { AutomationSettings } from "akasha/temper/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
 
 const CALLED_AS = "akasha temper inventory automation set"

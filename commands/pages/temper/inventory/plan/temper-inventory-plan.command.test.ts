@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { INPUT } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   endingRuleIds,
   planSaid,
@@ -8,7 +8,7 @@ import {
   undecidedByItem,
   unmappedItems,
   unmappedSaid,
-} from "akasha/commands/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"
+} from "akasha/command/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts"
 import {
   type CompiledOrderedRule,
   IMPLICIT_TERMINAL_COMPILED_RULE,

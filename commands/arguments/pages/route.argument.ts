@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const route = {
   id: "01a094bc-bb9c-7f6e-b0a1-d3f7f1111f93",

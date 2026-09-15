@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { AppliedMove } from "akasha/alan/chess/modules/game-loop/chess-game-loop.module.code.ts"
-import type { Playing } from "akasha/commands/pages/chess/play/chess-play.command.code.ts"
-import { playing } from "akasha/commands/pages/chess/play/chess-play.command.code.ts"
+import type { Playing } from "akasha/command/pages/chess/play/chess-play.command.code.ts"
+import { playing } from "akasha/command/pages/chess/play/chess-play.command.code.ts"
 import type { Naming } from "akasha/pages/service/modules/page-composing/page-composing.module.code.ts"
 
 const CALLED = "akasha chess play"

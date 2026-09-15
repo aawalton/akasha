@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const webApp = {
   id: "01a094b5-b34b-7163-b5b1-7e00a8ef3ddf",

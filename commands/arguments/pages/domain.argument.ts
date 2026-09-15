@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const domain = {
   id: "01a094cf-a9b1-79b8-a44c-c196bc2a76d3",

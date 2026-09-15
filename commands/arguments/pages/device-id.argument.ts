@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const deviceId = {
   id: "01a094c0-6f94-7138-928e-ec6863b9e4c1",

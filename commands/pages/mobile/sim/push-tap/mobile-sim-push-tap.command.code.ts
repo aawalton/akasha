@@ -26,12 +26,12 @@ import {
   resolveWdaLocalPort,
   WDA_LOCAL_PORT_ENV,
 } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { app } from "akasha/commands/arguments/pages/app.argument.ts"
-import { route } from "akasha/commands/arguments/pages/route.argument.ts"
-import { title } from "akasha/commands/arguments/pages/title.argument.ts"
-import { udid as udidArgument } from "akasha/commands/arguments/pages/udid.argument.ts"
-import { warm } from "akasha/commands/arguments/pages/warm.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { app } from "akasha/command/arguments/pages/app.argument.ts"
+import { route } from "akasha/command/arguments/pages/route.argument.ts"
+import { title } from "akasha/command/arguments/pages/title.argument.ts"
+import { udid as udidArgument } from "akasha/command/arguments/pages/udid.argument.ts"
+import { warm } from "akasha/command/arguments/pages/warm.argument.ts"
 import {
   answeredWith,
   answering,
@@ -39,9 +39,9 @@ import {
   partWay,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mobileSimPushTap as page } from "akasha/commands/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mobileSimPushTap as page } from "akasha/command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.ts"
 import { optionalEnv } from "akasha/utils/narrow/modules/require-env/require-env.module.code.ts"
 import { z } from "zod"
 

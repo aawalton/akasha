@@ -11,7 +11,7 @@ import {
   type Swept,
   sweptReadings,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const HOOK = "clear-reads-on-context-replaced"

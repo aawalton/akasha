@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const rembgSession = {
   id: "01a09506-6bd7-7fd0-9a35-1080466bbab0",

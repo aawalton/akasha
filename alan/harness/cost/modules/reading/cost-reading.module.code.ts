@@ -4,7 +4,7 @@ import {
 } from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
 import { multiplierIn } from "akasha/alan/harness/readouts/pages/cost-multiplier/cost-multiplier.readout.reading.code.ts"
 import { openSession } from "akasha/alan/track/daily/modules/day-stretches/day-stretches.module.code.ts"
-import { rootStated } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
 
 export const READOUT_SLUG = "cost-multiplier"
 

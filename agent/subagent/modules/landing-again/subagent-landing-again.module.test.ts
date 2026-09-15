@@ -8,7 +8,7 @@ import {
   type Went,
   worthAnotherTry,
 } from "akasha/agent/subagent/modules/landing-again/subagent-landing-again.module.code.ts"
-import { PUT_BACK } from "akasha/commands/modules/change-freshness/change-freshness.module.code.ts"
+import { PUT_BACK } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 import { heldSaid, WAITED_AT_MOST } from "akasha/git/modules/holding/holding.module.code.ts"
 
 const GOING: Went = { went: true }

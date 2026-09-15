@@ -27,7 +27,7 @@ import {
   sparingOver,
 } from "akasha/checks/modules/mortal-sparing/mortal-sparing.module.code.ts"
 import { refusalText } from "akasha/checks/modules/refusal-text/refusal-text.module.code.ts"
-import { framesOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
+import { framesOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
   everyOfType,
   typeSlugOf,

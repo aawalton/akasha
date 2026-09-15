@@ -1,9 +1,9 @@
 import { mkdir, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { output as outputArgument } from "akasha/commands/arguments/pages/output.argument.ts"
-import { picture as pictureArgument } from "akasha/commands/arguments/pages/picture.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { output as outputArgument } from "akasha/command/arguments/pages/output.argument.ts"
+import { picture as pictureArgument } from "akasha/command/arguments/pages/picture.argument.ts"
 import {
   answering,
   DATA,
@@ -11,9 +11,9 @@ import {
   refused,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { alanPicture as page } from "akasha/commands/pages/alan/picture/alan-picture.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { alanPicture as page } from "akasha/command/pages/alan/picture/alan-picture.command.ts"
 import { imageObjectReadKeys } from "akasha/infrastructure/storage/object-store/modules/key/object-store-key.module.code.ts"
 import {
   type ObjectStore,

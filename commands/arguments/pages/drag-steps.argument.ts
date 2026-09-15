@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const dragSteps = {
   id: "01a094c5-af47-7e5f-88a6-9a7255eb793c",

@@ -8,7 +8,7 @@ import {
   type Verdict,
   verdictRecordedOn,
   verdictSaid,
-} from "akasha/temper/commands/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"
+} from "akasha/temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"
 import type { InventoryItemData } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"

@@ -4,15 +4,15 @@ import type { Plan } from "akasha/code/ios-apps/modules/app-building/app-buildin
 import {
   DATA,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import type { Running } from "akasha/commands/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import type { Running } from "akasha/command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"
 import {
   installedBy,
   installedFrom,
   installedOnSimulator,
-} from "akasha/commands/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"
+} from "akasha/command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"
 import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

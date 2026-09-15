@@ -1,5 +1,5 @@
-import { commitRecordedIn } from "akasha/commands/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
-import { kindNamed } from "akasha/commands/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
+import { commitRecordedIn } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
+import { kindNamed } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { type PushOutcome, pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import {
   JOB_NAMESPACE,

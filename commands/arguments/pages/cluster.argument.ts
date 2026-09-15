@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const cluster = {
   id: "01a094c1-5e7b-7352-8cf7-28fbf55418ef",

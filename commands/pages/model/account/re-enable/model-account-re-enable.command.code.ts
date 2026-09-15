@@ -2,18 +2,18 @@ import {
   markedIn,
   subscriptionMarks,
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { account } from "akasha/commands/arguments/pages/account.argument.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { account } from "akasha/command/arguments/pages/account.argument.ts"
 import {
   DATA,
   OPERATIONAL,
   refusedBy,
   told,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { modelAccountReEnable as page } from "akasha/commands/pages/model/account/re-enable/model-account-re-enable.command.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { modelAccountReEnable as page } from "akasha/command/pages/model/account/re-enable/model-account-re-enable.command.ts"
 import { readingIn } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 

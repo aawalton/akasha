@@ -3,14 +3,14 @@ import {
   CHANGE_APPLY_SLUG,
   CHANGE_DRAFT_SLUG,
   commandPageAt,
-} from "akasha/commands/modules/change-costing/change-costing.module.code.ts"
+} from "akasha/command/modules/change-costing/change-costing.module.code.ts"
 import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const COMMAND = "command"
 
-const DRAFT_AT = "commands/pages/thrumming/draft/thrum-draft.command.ts"
+const DRAFT_AT = "command/pages/thrumming/draft/thrum-draft.command.ts"
 
 const DRAFT_ID = "01a08179-3176-7aa0-8d0b-d07d8da49eb2"
 

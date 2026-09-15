@@ -10,8 +10,8 @@ import {
   runLines,
   tooWide,
   widthOf,
-} from "akasha/commands/modules/long-body/long-body.module.code.ts"
-import { lettered } from "akasha/commands/modules/long-body/long-body.module.test-fixtures.ts"
+} from "akasha/command/modules/long-body/long-body.module.code.ts"
+import { lettered } from "akasha/command/modules/long-body/long-body.module.test-fixtures.ts"
 
 const CALLED_AS = "akasha read"
 

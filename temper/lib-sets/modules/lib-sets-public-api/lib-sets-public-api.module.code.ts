@@ -40,7 +40,7 @@ import "akasha/temper/lib-sets/modules/lib-sets-core-api-search-favorites/lib-se
 
 import "akasha/temper/lib-sets/modules/lib-sets-core-lifecycle-ui-buttons/lib-sets-core-lifecycle-ui-buttons.module.code.ts"
 import "akasha/temper/lib-sets/modules/lib-sets-core-lifecycle-inventory-contextmenu/lib-sets-core-lifecycle-inventory-contextmenu.module.code.ts"
-import "akasha/temper/lib-sets/modules/lib-sets-core-lifecycle-slash-commands/lib-sets-core-lifecycle-slash-commands.module.code.ts"
+import "akasha/temper/lib-sets/modules/lib-sets-core-lifecycle-slash-command/lib-sets-core-lifecycle-slash-commands.module.code.ts"
 import "akasha/temper/lib-sets/modules/lib-sets-core-lifecycle-loaded/lib-sets-core-lifecycle-loaded.module.code.ts"
 
 import "akasha/temper/lib-sets/modules/lib-sets-tip-tooltips-index/lib-sets-tip-tooltips-index.module.code.ts"

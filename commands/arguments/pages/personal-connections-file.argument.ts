@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const personalConnectionsFile = {
   id: "01a094e5-bce6-7760-8053-279c4f482aae",

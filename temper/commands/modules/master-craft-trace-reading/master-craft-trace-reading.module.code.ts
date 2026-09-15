@@ -1,4 +1,4 @@
-import { readInventoryDiagnostic } from "akasha/temper/commands/modules/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
+import { readInventoryDiagnostic } from "akasha/temper/command/modules/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/saved-variables/modules/lua-array/lua-array.module.code.ts"
 import { z } from "zod"
 

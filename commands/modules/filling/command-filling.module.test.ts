@@ -5,9 +5,9 @@ import {
   filing,
   filledIn,
   heldAt,
-} from "akasha/commands/modules/filling/command-filling.module.code.ts"
-import { proseIn } from "akasha/commands/modules/filling/command-filling.module.test-fixtures.ts"
-import { piping, TERMINAL } from "akasha/commands/modules/piping/piping.module.test-fixtures.ts"
+} from "akasha/command/modules/filling/command-filling.module.code.ts"
+import { proseIn } from "akasha/command/modules/filling/command-filling.module.test-fixtures.ts"
+import { piping, TERMINAL } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const TEXT = filing("--text")

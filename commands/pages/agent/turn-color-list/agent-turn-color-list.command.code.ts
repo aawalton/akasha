@@ -4,13 +4,13 @@ import {
   SEAT_TURN_STATES,
   type SeatTurnState,
 } from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
-import { takenFor } from "akasha/commands/arguments/modules/taking/argument-taking.module.code.ts"
-import { agent as agentArgument } from "akasha/commands/arguments/pages/agent.argument.ts"
-import { turnState } from "akasha/commands/arguments/pages/turn-state.argument.ts"
-import { faulted, told } from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { agentTurnColorList as page } from "akasha/commands/pages/agent/turn-color-list/agent-turn-color-list.command.ts"
+import { takenFor } from "akasha/command/arguments/modules/taking/argument-taking.module.code.ts"
+import { agent as agentArgument } from "akasha/command/arguments/pages/agent.argument.ts"
+import { turnState } from "akasha/command/arguments/pages/turn-state.argument.ts"
+import { faulted, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { agentTurnColorList as page } from "akasha/command/pages/agent/turn-color-list/agent-turn-color-list.command.ts"
 
 const NAMED = [agentArgument, turnState]
 

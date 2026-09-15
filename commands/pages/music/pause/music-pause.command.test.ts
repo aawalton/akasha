@@ -5,9 +5,9 @@ import {
   INPUT,
   OK,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Holding } from "akasha/commands/pages/music/pause/music-pause.command.code.ts"
-import { holding } from "akasha/commands/pages/music/pause/music-pause.command.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Holding } from "akasha/command/pages/music/pause/music-pause.command.code.ts"
+import { holding } from "akasha/command/pages/music/pause/music-pause.command.code.ts"
 
 const CALLED = "akasha music pause"
 

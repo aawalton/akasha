@@ -24,7 +24,7 @@ export const faultSaying = {
     {
       invariantKind: "departure",
       statement:
-        "A reader outside `commands/` reaches this module by its path rather than by a package alias.",
+        "A reader outside `command/` reaches this module by its path rather than by a package alias.",
     },
     {
       invariantKind: "absence",

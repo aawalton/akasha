@@ -1,4 +1,4 @@
-import type { Command } from "akasha/commands/command.page-type.types.ts"
+import type { Command } from "akasha/command/command.page-type.types.ts"
 
 export const chessPlay = {
   id: "01a0a03d-5a6a-7d7d-981a-14813c990218",

@@ -5,18 +5,18 @@ import { PUSH_TAP_APNS_AT } from "akasha/alan/harness/mobile-cli/modules/push-ta
 import {
   answering,
   OPERATIONAL,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type {
   Probing,
   Read,
-} from "akasha/commands/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"
+} from "akasha/command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"
 import {
   mobileSimPushTap,
   probed,
   pushSaid,
   puttingSaid,
-} from "akasha/commands/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"
+} from "akasha/command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"
 
 const UDID = "3F0C9A11-0000-4000-8000-000000000001"
 

@@ -1,4 +1,4 @@
-import type { Argument } from "akasha/commands/arguments/argument.page-type.types.ts"
+import type { Argument } from "akasha/command/arguments/argument.page-type.types.ts"
 
 export const firstDay = {
   id: "01a094ef-4c48-7091-a5b4-46ff34ef1cee",

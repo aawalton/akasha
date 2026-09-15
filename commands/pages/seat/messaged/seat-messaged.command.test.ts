@@ -5,7 +5,7 @@ import {
   noSeat,
   personaIn,
   type Seated,
-} from "akasha/commands/pages/seat/messaged/seat-messaged.command.code.ts"
+} from "akasha/command/pages/seat/messaged/seat-messaged.command.code.ts"
 import type { Persona } from "akasha/personas/modules/reading/persona-reading.module.code.ts"
 
 const SEATS: readonly Seated[] = [

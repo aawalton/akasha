@@ -4,7 +4,7 @@ import {
   ITEM_RULE_COLUMNS,
   itemRuleRow,
   RULE_SHOW_COLUMNS,
-} from "akasha/temper/commands/modules/inventory-rule-rows/inventory-rule-rows.module.code.ts"
+} from "akasha/temper/command/modules/inventory-rule-rows/inventory-rule-rows.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const RULE: ItemRule = {

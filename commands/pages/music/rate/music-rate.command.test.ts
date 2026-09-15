@@ -6,13 +6,13 @@ import type { Asking } from "akasha/changes/runners/pages/mechanical-change-runn
 import {
   OPERATIONAL,
   partWay,
-} from "akasha/commands/modules/answering/command-answering.module.code.ts"
-import { throwingAfter } from "akasha/commands/modules/answering/command-answering.module.test-fixtures.ts"
-import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
-import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
-import { refusingWith } from "akasha/commands/modules/calling/calling.module.test-fixtures.ts"
-import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { throwingAfter } from "akasha/command/modules/answering/command-answering.module.test-fixtures.ts"
+import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { refusingWith } from "akasha/command/modules/calling/calling.module.test-fixtures.ts"
+import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   ARTIST,
   type Landing,
@@ -22,7 +22,7 @@ import {
   taken,
   valuesFor,
   WRITE,
-} from "akasha/commands/pages/music/rate/music-rate.command.code.ts"
+} from "akasha/command/pages/music/rate/music-rate.command.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()

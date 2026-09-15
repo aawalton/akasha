@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
+import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
   ADMITS,
   BROKEN,
@@ -12,9 +12,9 @@ import {
   PAGE,
   rowsIn,
   scratch,
-} from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
-import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { asideOnto } from "akasha/commands/modules/path-moving/path-moving.module.code.ts"
+} from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { asideOnto } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import {
   ASIDE_OUT,
   asideCleared,
@@ -27,7 +27,7 @@ import {
   MOVED_TO,
   moved,
   PAGE_TO,
-} from "akasha/commands/modules/path-moving/path-moving.module.test-fixtures.ts"
+} from "akasha/command/modules/path-moving/path-moving.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
