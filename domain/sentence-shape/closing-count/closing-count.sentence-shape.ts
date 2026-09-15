@@ -2,7 +2,7 @@ import type { SentenceShape } from "akasha/domain/sentence-shape/sentence-shape.
 
 export const closingCount = {
   id: "01a06e4c-4b93-7d7a-a9a6-9456474b061a",
-  type: "sentence-shape",
+  type: "page-type/sentence-shape",
   slug: "closing-count",
   definition: "a count closing a sentence that sums a list the sentence already gave",
   allowed: false,

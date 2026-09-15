@@ -2,7 +2,7 @@ import type { SentenceShape } from "akasha/domain/sentence-shape/sentence-shape.
 
 export const loneQuantifier = {
   id: "01a05dbf-e1d8-7c53-8118-ff93ef6f72a0",
-  type: "sentence-shape",
+  type: "page-type/sentence-shape",
   slug: "lone-quantifier",
   definition: "a quantifier used where a noun would be",
   allowed: false,
