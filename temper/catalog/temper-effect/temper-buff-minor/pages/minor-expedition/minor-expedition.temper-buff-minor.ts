@@ -2,7 +2,7 @@ import type { TemperBuffMinor } from "akasha/temper/catalog/temper-effect/temper
 
 export const minorExpedition = {
   id: "01a05fc5-f6be-74c0-90cd-6a2d176d53b2",
-  type: "temper-buff-minor",
+  type: "page-type/temper-buff-minor",
   slug: "minor-expedition",
   title: "Minor Expedition",
   key: "minor-expedition",

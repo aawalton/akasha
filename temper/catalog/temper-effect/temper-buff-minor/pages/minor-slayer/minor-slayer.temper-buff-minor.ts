@@ -2,7 +2,7 @@ import type { TemperBuffMinor } from "akasha/temper/catalog/temper-effect/temper
 
 export const minorSlayer = {
   id: "01a05fc5-f6c1-7a93-8775-4314ab78460b",
-  type: "temper-buff-minor",
+  type: "page-type/temper-buff-minor",
   slug: "minor-slayer",
   title: "Minor Slayer",
   key: "minor-slayer",

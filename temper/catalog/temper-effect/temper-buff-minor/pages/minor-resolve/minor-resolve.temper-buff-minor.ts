@@ -2,7 +2,7 @@ import type { TemperBuffMinor } from "akasha/temper/catalog/temper-effect/temper
 
 export const minorResolve = {
   id: "01a05fc5-f6c1-7362-a766-edcf4c1b8a3c",
-  type: "temper-buff-minor",
+  type: "page-type/temper-buff-minor",
   slug: "minor-resolve",
   title: "Minor Resolve",
   key: "minor-resolve",
