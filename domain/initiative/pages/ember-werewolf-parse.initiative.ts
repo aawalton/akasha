@@ -22,6 +22,12 @@ export const emberWerewolfParse = {
       workingMemory:
         "The Update 50 figures on the 21 million Iron Atronach are 176.7k for this setup and 150.4k for crafted-only, both on Nightblade, the strongest werewolf class. They come from a simulator assuming every light attack lands and bash weaving, so a real parse falls short, and the margin over 135k is why the farmed setup is worth the runs. Food is Braised Rabbit with Spring Vegetables, and potions are Armor from Bugloss, Mountain Flower and Mudcrab Chitin.",
     },
+    {
+      statement:
+        "Three-Color Stalker's five Savage Werewolf pieces are reconstructed gold in the parse traits.",
+      workingMemory:
+        "A transmute station takes the Arm Cops in Divines, the Necklace and Ring in Infused, and two Maces in Charged. The 15 September account capture puts Savage Werewolf at 13 of 22 slots, with Arm Cops, Necklace, Ring and Mace unlocked and every other one-handed type locked, so both weapons are Maces and no Moon Hunter Keep run is owed. Every trait on every crafting line is researched. Gold takes a Rubedo Leather Dressing, two Rubedite Tempers and Chromium Plating.",
+    },
   ],
   constraints: [
     "Update 50 is live, and Update 51 lands on 28 September 2026 repricing every werewolf ability, so this build shifts under the work.",
