@@ -48,7 +48,7 @@ export const alanHarness = {
     "domain/surplus",
     "domain/voice-core",
     "domain/web-build-version",
-    "domain/web-page-answers",
+    "domain/web-page-answer",
     "domain/web-security-header",
     "domain/web-static-asset",
     "domain/workspace-path",

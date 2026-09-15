@@ -1,4 +1,4 @@
-import { answerPageWrite as answerFrom } from "akasha/alan/harness/web-page-answers/.server/answer-page-write/answer-page-write.module.code.ts"
+import { answerPageWrite as answerFrom } from "akasha/alan/harness/web-page-answer/.server/answer-page-write/answer-page-write.module.code.ts"
 
 const ALANWALTON_WRITER = "alanwalton-web"
 

@@ -1,4 +1,4 @@
-import { answerPages as answerFrom } from "akasha/alan/harness/web-page-answers/.server/answer-pages/answer-pages.module.code.ts"
+import { answerPages as answerFrom } from "akasha/alan/harness/web-page-answer/.server/answer-pages/answer-pages.module.code.ts"
 import {
   capacitorCorsHeaders,
   corsAnswered,

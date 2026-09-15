@@ -1,4 +1,4 @@
-import { answerPageWrite } from "akasha/alan/harness/web-page-answers/.server/answer-page-write/answer-page-write.module.code.ts"
+import { answerPageWrite } from "akasha/alan/harness/web-page-answer/.server/answer-page-write/answer-page-write.module.code.ts"
 
 const ARCHIVE_OF_WORLDS_WRITER = "archive-of-worlds-web"
 
