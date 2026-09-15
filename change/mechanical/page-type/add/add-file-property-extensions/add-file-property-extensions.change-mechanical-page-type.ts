@@ -2,7 +2,7 @@ import type { ChangeMechanicalPageType } from "akasha/change/mechanical/page-typ
 
 export const addFilePropertyExtensions = {
   id: "01a09c81-eafc-7383-990d-72343c36051a",
-  type: "change-mechanical-page-type",
+  type: "page-type/change-mechanical-page-type",
   slug: "add-file-property-extensions",
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/page-type",

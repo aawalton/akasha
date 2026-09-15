@@ -2,7 +2,7 @@ import type { ChangeMechanicalPageType } from "akasha/change/mechanical/page-typ
 
 export const movePropertyOnEveryPage = {
   id: "01a09c74-8e12-7590-82f3-e8a4719b2770",
-  type: "change-mechanical-page-type",
+  type: "page-type/change-mechanical-page-type",
   slug: "move-property-on-every-page",
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/page-type",

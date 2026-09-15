@@ -2,7 +2,7 @@ import type { ChangeMechanicalPageType } from "akasha/change/mechanical/page-typ
 
 export const sortPropertyValuesOnEveryPage = {
   id: "01a095ce-4e42-7067-8c69-add95e48ed0b",
-  type: "change-mechanical-page-type",
+  type: "page-type/change-mechanical-page-type",
   slug: "sort-property-values-on-every-page",
   changeMode: "change-mode/change-mode-move",
   changeTargetType: "change-target-type/page-type",

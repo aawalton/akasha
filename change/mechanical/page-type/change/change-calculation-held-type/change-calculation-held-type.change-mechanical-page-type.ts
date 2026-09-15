@@ -2,7 +2,7 @@ import type { ChangeMechanicalPageType } from "akasha/change/mechanical/page-typ
 
 export const changeCalculationHeldType = {
   id: "01a09c8d-ef19-7434-8f64-db9ac5dcf0e2",
-  type: "change-mechanical-page-type",
+  type: "page-type/change-mechanical-page-type",
   slug: "change-calculation-held-type",
   changeMode: "change-mode/change-mode-change",
   changeTargetType: "change-target-type/page-type",
