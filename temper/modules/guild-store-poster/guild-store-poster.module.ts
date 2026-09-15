@@ -9,6 +9,14 @@ export const guildStorePoster = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "One post is in flight at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An item outside the backpack is never posted.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The item is set pending before the post is issued.",
     },
     {
