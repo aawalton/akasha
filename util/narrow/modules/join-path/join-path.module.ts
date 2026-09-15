@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const joinPath = {
   id: "01a05c94-2bff-7734-8187-49712a3b2626",
-  type: "module",
+  type: "page-type/module",
   slug: "join-path",
   definition: "a card id and the path within it spelled as one string",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dashBetweenWords = {
   id: "01a08e73-15cd-74c8-9abf-c1974f4b4e89",
-  type: "module",
+  type: "page-type/module",
   slug: "dash-between-words",
   definition: "a name rewritten with a dash where one word runs into the next",
   code: "ts",

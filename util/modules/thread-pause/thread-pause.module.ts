@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const threadPause = {
   id: "01a08e0b-3619-7b50-b734-15e0787219e1",
-  type: "module",
+  type: "page-type/module",
   slug: "thread-pause",
   definition: "the thread held still for a number of milliseconds",
   code: "ts",

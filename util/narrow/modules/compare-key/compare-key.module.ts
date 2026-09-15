@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const compareKey = {
   id: "01a08dda-ba3d-771b-88b6-4c155f7decb0",
-  type: "module",
+  type: "page-type/module",
   slug: "compare-key",
   definition: "text lowered to letters and digits parted by single spaces, for comparing against",
   code: "ts",

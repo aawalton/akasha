@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const verdictText = {
   id: "01a05c87-a162-7009-8991-e7d36b476492",
-  type: "module",
+  type: "page-type/module",
   slug: "verdict-text",
   definition: "what a judgement covered, written out for a person to read",
   code: "ts",

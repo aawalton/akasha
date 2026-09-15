@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const stringAt = {
   id: "01a05cc9-029c-7f57-8f4e-de247a60828d",
-  type: "module",
+  type: "page-type/module",
   slug: "string-at",
   definition: "the string a record holds under a key, or nothing",
   code: "ts",

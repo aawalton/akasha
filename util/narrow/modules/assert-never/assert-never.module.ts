@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const assertNever = {
   id: "01a05c94-2bfd-78f9-8078-7e672c919d08",
-  type: "module",
+  type: "page-type/module",
   slug: "assert-never",
   definition: "a variant no branch handled, refused where the code reaches it",
   code: "ts",

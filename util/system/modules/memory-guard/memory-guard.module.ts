@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const memoryGuard = {
   id: "01a05c67-00ad-77fa-b6c0-e677644ff621",
-  type: "module",
+  type: "page-type/module",
   slug: "memory-guard",
   definition: "whether the workstation has memory enough to admit one more process",
   code: "ts",

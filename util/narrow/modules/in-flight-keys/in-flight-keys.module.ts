@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inFlightKeys = {
   id: "01a08df5-ff10-7edf-b73e-d70b1477a50d",
-  type: "module",
+  type: "page-type/module",
   slug: "in-flight-keys",
   definition:
     "keys each held by one claim at a time, a later claim refused until the key is let go",

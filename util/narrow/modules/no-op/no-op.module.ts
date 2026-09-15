@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const noOp = {
   id: "01a05cf2-453a-7cba-9514-812f41ef987e",
-  type: "module",
+  type: "page-type/module",
   slug: "no-op",
   definition: "a call that does nothing and answers nothing",
   code: "ts",

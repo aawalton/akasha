@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pacedQueue = {
   id: "01a08dda-ba3d-7624-b2c6-d4397c9fce94",
-  type: "module",
+  type: "page-type/module",
   slug: "paced-queue",
   definition: "runs taken one at a time, each one a stated wait after the one before it",
   code: "ts",

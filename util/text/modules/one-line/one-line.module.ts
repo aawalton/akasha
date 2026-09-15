@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const oneLine = {
   id: "01a095bb-4f52-7988-950f-f29155dd9bb0",
-  type: "module",
+  type: "page-type/module",
   slug: "one-line",
   definition: "text with each run of whitespace closed up to one space and neither end holding any",
   code: "ts",

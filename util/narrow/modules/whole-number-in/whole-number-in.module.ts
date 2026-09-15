@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const wholeNumberIn = {
   id: "01a08dfa-83ab-7057-b41a-60b238c8d728",
-  type: "module",
+  type: "page-type/module",
   slug: "whole-number-in",
   definition: "the whole number text spells, or nothing",
   code: "ts",

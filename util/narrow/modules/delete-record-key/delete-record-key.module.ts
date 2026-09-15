@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deleteRecordKey = {
   id: "01a06057-367a-7da6-aab7-c707ebb15466",
-  type: "module",
+  type: "page-type/module",
   slug: "delete-record-key",
   definition: "a record key set to nothing rather than deleted",
   code: "ts",

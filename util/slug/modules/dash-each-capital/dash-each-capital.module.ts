@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dashEachCapital = {
   id: "01a08e73-15cb-748d-bb35-86c2741dbde0",
-  type: "module",
+  type: "page-type/module",
   slug: "dash-each-capital",
   definition: "a name rewritten with a dash before every capital it carries",
   code: "ts",

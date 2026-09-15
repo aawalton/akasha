@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const instantIn = {
   id: "01a08ede-8410-7714-9f40-0a0f13800b21",
-  type: "module",
+  type: "page-type/module",
   slug: "instant-in",
   definition: "the moment in milliseconds a value holds, or nothing",
   code: "ts",

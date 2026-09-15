@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const processEnding = {
   id: "01a05d02-889b-7af1-bb37-7f74754eefe1",
-  type: "module",
+  type: "page-type/module",
   slug: "process-ending",
   definition: "a process asked to end and then made to",
   code: "ts",

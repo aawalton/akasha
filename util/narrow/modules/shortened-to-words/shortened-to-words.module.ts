@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const shortenedToWords = {
   id: "01a08dda-ba3d-7755-aec3-5b1b18ab7233",
-  type: "module",
+  type: "page-type/module",
   slug: "shortened-to-words",
   definition: "a dash-parted name shortened to the whole words that fit inside a length",
   code: "ts",

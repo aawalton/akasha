@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const jsonEqual = {
   id: "01a05c94-2bff-77fa-9f06-75e0a4c4a488",
-  type: "module",
+  type: "page-type/module",
   slug: "json-equal",
   definition: "whether two JSON values have the same thing",
   code: "ts",

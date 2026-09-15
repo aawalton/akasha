@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const landingAdmission = {
   id: "01a0a0af-184c-7bcb-bcd1-77847f24260e",
-  type: "module",
+  type: "page-type/module",
   slug: "landing-admission",
   definition: "the turn a landing waits for, and the memory the workstation keeps free to give it",
   code: "ts",

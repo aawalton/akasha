@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const parseNumber = {
   id: "01a08e16-6948-788d-a6d2-9541bbdc2eb9",
-  type: "module",
+  type: "page-type/module",
   slug: "parse-number",
   definition: "the number a value holds, or nothing where the value holds no number",
   code: "ts",
