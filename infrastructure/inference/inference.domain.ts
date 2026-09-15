@@ -8,7 +8,7 @@ export const inference = {
   parts: [
     "domain/comfy",
     "domain/generation",
-    "domain/inference-clients",
+    "domain/inference-client",
     "domain/inference-command",
     "domain/inference-pool",
     "domain/voice-inference",

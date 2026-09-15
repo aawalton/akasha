@@ -28,7 +28,7 @@ import {
   runVideoQa,
   selectFrameIndices,
   toPngDataUrl,
-} from "akasha/infrastructure/inference/clients/modules/mlx-vlm-client/mlx-vlm-client.module.code.ts"
+} from "akasha/infrastructure/inference/client/modules/mlx-vlm-client/mlx-vlm-client.module.code.ts"
 import { serviceNamed } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 import {

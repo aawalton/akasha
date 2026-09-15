@@ -37,8 +37,8 @@ import { inferenceZimage as page } from "akasha/command/pages/inference/zimage/i
 import {
   fetchImage,
   runComfyGraph,
-} from "akasha/infrastructure/inference/clients/modules/comfy-client/comfy-client.module.code.ts"
-import { drawSeed } from "akasha/infrastructure/inference/clients/modules/inference-seed/inference-seed.module.code.ts"
+} from "akasha/infrastructure/inference/client/modules/comfy-client/comfy-client.module.code.ts"
+import { drawSeed } from "akasha/infrastructure/inference/client/modules/inference-seed/inference-seed.module.code.ts"
 import { buildModelGraph } from "akasha/infrastructure/inference/generation/zimage/modules/graph/zimage-graph.module.code.ts"
 import {
   MODEL_IDS,

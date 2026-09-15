@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const inferenceClients = {
+export const inferenceClient = {
   id: "01a0682d-8f07-7000-ab6b-b7ebbf0863a0",
   type: "domain",
-  slug: "inference-clients",
+  slug: "inference-client",
   definition: "how a caller reaches a model service and reads back what that service made",
   parts: [
     "module/ace-step-client",

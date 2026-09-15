@@ -26,8 +26,8 @@ import {
 import {
   fetchImage,
   runComfyGraph,
-} from "akasha/infrastructure/inference/clients/modules/comfy-client/comfy-client.module.code.ts"
-import { drawSeed } from "akasha/infrastructure/inference/clients/modules/inference-seed/inference-seed.module.code.ts"
+} from "akasha/infrastructure/inference/client/modules/comfy-client/comfy-client.module.code.ts"
+import { drawSeed } from "akasha/infrastructure/inference/client/modules/inference-seed/inference-seed.module.code.ts"
 
 import {
   WAN_DEFAULT_NEGATIVE_PROMPT,

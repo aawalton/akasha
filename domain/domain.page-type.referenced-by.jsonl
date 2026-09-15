@@ -392,7 +392,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cpu/limit/cpu-limit.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/eso-rig/eso-rig.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/git-transport/git-transport.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/clients/inference-clients.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/client/inference-client.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/comfy/comfy.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/comfy/z-image-turbo/z-image-turbo.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/command/inference-command.domain.ts"}

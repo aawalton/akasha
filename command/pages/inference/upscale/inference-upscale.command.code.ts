@@ -21,7 +21,7 @@ import { inferenceUpscale as page } from "akasha/command/pages/inference/upscale
 import {
   ensureOutputDir,
   resolveOutputPath,
-} from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
+} from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
 import { wroteTo } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
 import { runClusterUpscale } from "akasha/infrastructure/inference/generation/upscale/modules/cluster/upscale-cluster.module.code.ts"
 import { runWorkstationUpscale } from "akasha/infrastructure/inference/generation/upscale/modules/workstation/upscale-workstation.module.code.ts"

@@ -1307,10 +1307,10 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/git-transport/git-hook/pre-receive-main-append-only/pre-receive-main-append-only.git-hook.ts","id":"01a06816-2f11-729c-b258-50cbded51bb9"}
 {"propertySlug":"invariant-kind","path":"infrastructure/git-transport/modules/backend-env/backend-env.module.ts","id":"01a06816-2f11-7757-88ad-94ef5cc38f0f"}
 {"propertySlug":"invariant-kind","path":"infrastructure/git-transport/modules/transport-serving/transport-serving.module.ts","id":"01a06816-2f11-7332-be0c-24c2750a723d"}
-{"propertySlug":"invariant-kind","path":"infrastructure/inference/clients/inference-clients.domain.ts","id":"01a0682d-8f07-7000-ab6b-b7ebbf0863a0"}
-{"propertySlug":"invariant-kind","path":"infrastructure/inference/clients/modules/inference-seed/inference-seed.module.ts","id":"01a0682d-8ef5-7001-96f7-f3b6bb839422"}
-{"propertySlug":"invariant-kind","path":"infrastructure/inference/clients/modules/riff-bytes/riff-bytes.module.ts","id":"01a07c81-bfd9-78c8-90fa-e6dee251111a"}
-{"propertySlug":"invariant-kind","path":"infrastructure/inference/clients/modules/voice-clone-client/voice-clone-client.module.ts","id":"01a0682d-8ef5-7007-9aeb-17efab6f532f"}
+{"propertySlug":"invariant-kind","path":"infrastructure/inference/client/inference-client.domain.ts","id":"01a0682d-8f07-7000-ab6b-b7ebbf0863a0"}
+{"propertySlug":"invariant-kind","path":"infrastructure/inference/client/modules/inference-seed/inference-seed.module.ts","id":"01a0682d-8ef5-7001-96f7-f3b6bb839422"}
+{"propertySlug":"invariant-kind","path":"infrastructure/inference/client/modules/riff-bytes/riff-bytes.module.ts","id":"01a07c81-bfd9-78c8-90fa-e6dee251111a"}
+{"propertySlug":"invariant-kind","path":"infrastructure/inference/client/modules/voice-clone-client/voice-clone-client.module.ts","id":"01a0682d-8ef5-7007-9aeb-17efab6f532f"}
 {"propertySlug":"invariant-kind","path":"infrastructure/inference/command/modules/inference-answering/inference-answering.module.ts","id":"01a0685e-fd50-756a-85ea-473b887d050f"}
 {"propertySlug":"invariant-kind","path":"infrastructure/inference/generation/modules/comfy-up-body/comfy-up-body.module.ts","id":"01a09137-9598-7e34-814d-cf5126c347b6"}
 {"propertySlug":"invariant-kind","path":"infrastructure/inference/generation/modules/comfy-up-building/comfy-up-building.module.ts","id":"01a0912a-249b-72ea-9e95-a346ca6e5c10"}

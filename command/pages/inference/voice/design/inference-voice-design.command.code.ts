@@ -20,12 +20,12 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { inferenceVoiceDesign as page } from "akasha/command/pages/inference/voice/design/inference-voice-design.command.ts"
-import { buildCopFetchInit } from "akasha/infrastructure/inference/clients/modules/cop-fetch/cop-fetch.module.code.ts"
+import { buildCopFetchInit } from "akasha/infrastructure/inference/client/modules/cop-fetch/cop-fetch.module.code.ts"
 import {
   ensureOutputDir,
   resolveOutputPath,
-} from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
-import { isRiff } from "akasha/infrastructure/inference/clients/modules/riff-bytes/riff-bytes.module.code.ts"
+} from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
+import { isRiff } from "akasha/infrastructure/inference/client/modules/riff-bytes/riff-bytes.module.code.ts"
 import {
   serviceNamed,
   wroteTo,

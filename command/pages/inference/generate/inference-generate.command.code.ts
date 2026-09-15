@@ -25,16 +25,16 @@ import { inferenceGenerate as page } from "akasha/command/pages/inference/genera
 import {
   ensureOutputDir,
   resolveOutputPath,
-} from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
+} from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
 import {
   drawSeed,
   resolveSeed,
-} from "akasha/infrastructure/inference/clients/modules/inference-seed/inference-seed.module.code.ts"
+} from "akasha/infrastructure/inference/client/modules/inference-seed/inference-seed.module.code.ts"
 import {
   buildGenerationBody,
   parseGenerationSize,
   runGeneration,
-} from "akasha/infrastructure/inference/clients/modules/mlx-image-client/mlx-image-client.module.code.ts"
+} from "akasha/infrastructure/inference/client/modules/mlx-image-client/mlx-image-client.module.code.ts"
 import {
   boundTo,
   serviceNamed,

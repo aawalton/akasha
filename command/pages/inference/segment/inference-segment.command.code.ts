@@ -22,13 +22,13 @@ import { inferenceSegment as page } from "akasha/command/pages/inference/segment
 import {
   ensureOutputDir,
   resolveOutputPath,
-} from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
+} from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
 import {
   buildSegmentFields,
   deriveSiblingPath,
   runSegment,
   type SegmentOutput,
-} from "akasha/infrastructure/inference/clients/modules/segment-client/segment-client.module.code.ts"
+} from "akasha/infrastructure/inference/client/modules/segment-client/segment-client.module.code.ts"
 import {
   serviceNamed,
   wroteTo,

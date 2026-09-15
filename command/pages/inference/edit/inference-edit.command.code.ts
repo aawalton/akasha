@@ -21,16 +21,16 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { inferenceEdit as page } from "akasha/command/pages/inference/edit/inference-edit.command.ts"
-import type { GeminiImageConfig } from "akasha/infrastructure/inference/clients/modules/gemini-image-client/gemini-image-client.module.code.ts"
+import type { GeminiImageConfig } from "akasha/infrastructure/inference/client/modules/gemini-image-client/gemini-image-client.module.code.ts"
 import {
   imageFormatForPath,
   runGeminiEdit,
   transcodeImage,
-} from "akasha/infrastructure/inference/clients/modules/gemini-image-client/gemini-image-client.module.code.ts"
+} from "akasha/infrastructure/inference/client/modules/gemini-image-client/gemini-image-client.module.code.ts"
 import {
   ensureOutputDir,
   resolveOutputPath,
-} from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
+} from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
 import { wroteTo } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"

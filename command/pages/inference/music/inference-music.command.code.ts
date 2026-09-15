@@ -22,12 +22,12 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { inferenceMusic as page } from "akasha/command/pages/inference/music/inference-music.command.ts"
-import { runMusic } from "akasha/infrastructure/inference/clients/modules/ace-step-client/ace-step-client.module.code.ts"
-import { resolveOutputPath } from "akasha/infrastructure/inference/clients/modules/inference-output-path/inference-output-path.module.code.ts"
+import { runMusic } from "akasha/infrastructure/inference/client/modules/ace-step-client/ace-step-client.module.code.ts"
+import { resolveOutputPath } from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
 import {
   drawSeed,
   resolveSeed,
-} from "akasha/infrastructure/inference/clients/modules/inference-seed/inference-seed.module.code.ts"
+} from "akasha/infrastructure/inference/client/modules/inference-seed/inference-seed.module.code.ts"
 import {
   serviceNamed,
   wroteTo,
