@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0525Threads480Grudge4 = {
   id: "01a0672c-eb53-7007-8ff0-b8c2f0677b21",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0525-threads-480-grudge-4",
   title: "Threads 480-Grudge 4",
   story: "story-read/forge-of-destiny",

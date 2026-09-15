@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const forgeOfDestiny0507ThreadsChapter462MengDan1 = {
   id: "01a0672c-eb52-7013-9f06-f5d5b7463d6b",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "forge-of-destiny-0507-threads-chapter-462-meng-dan-1",
   title: "Threads Chapter 462 Meng Dan 1",
   story: "story-read/forge-of-destiny",
