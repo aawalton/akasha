@@ -8,12 +8,8 @@ export const temperBuildVersion = {
   extends: ["page-type/temper-character-thing"],
   parts: [
     "boolean-property/is-checkpoint",
-    "number-property/build-target-count",
     "number-property/version-number",
-    "relation-property/character-roles",
-    "select-property/base-roles",
     "text-property/build",
-    "text-property/build-character-name",
     "text-property/build-hash",
     "text-property/checkpoint-name",
   ],
