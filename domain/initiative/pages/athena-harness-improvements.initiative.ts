@@ -10,7 +10,7 @@ export const athenaHarnessImprovements = {
     {
       statement: "Forty lanes landing at once over one worktree land thirty a second.",
       workingMemory:
-        "13.7/s measured, against the 30/s reached before. The lock is sound: checks run outside it, and one landing serial into a scratch worktree takes 58-64ms, which is that rate. The hold goes on subprocesses. 448 cgroups were counted over 30 landings, so a landing runs at least 15, and each pays for a cgroup made, joined, read for cpu.stat and memory.peak, then destroyed: `git --version` is 0.92ms bare and 5.66ms through `spawnedHere`. The relay adds 1ms, so it is not the cost.",
+        "24.5-29.8/s now, from 13.7/s, once the control group was made opt-in and the run relay taken out. That rate is a scratch worktree. In this checkout one landing costs about 5s, and `sn` pays three. Taking a seat away cost 282s until d1b9198, where 264s was Bun's scanner reading a seat's megabytes of jsonl as typescript, which is quadratic in how many parse errors a body holds.",
     },
   ],
   constraints: [
