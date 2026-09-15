@@ -263,5 +263,22 @@ export const checkMeasuring = {
       invariantKind: "invariant-kind/departure",
       statement: "The averages are drawn together and the maximums after them.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A check's ceilings are drawn beside what that check's runs took.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The ceilings drawn are the ones the group being read states.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A measure no ceiling is stated for is drawn blank rather than absent.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A ceiling of memory is stated in megabytes and drawn as bytes.",
+    },
+    { invariantKind: "invariant-kind/departure", statement: "The total draws no ceiling." },
   ],
 } as const satisfies Module

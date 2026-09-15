@@ -27,6 +27,11 @@ import {
   NOW,
   ONE,
   partAt,
+  rootAged,
+  rootChosen,
+  rootGrouped,
+  rootJudged,
+  rootLimited,
   rootOrdered,
   rootWith,
   rowsBeside,
@@ -103,15 +108,7 @@ test("a run whose time cannot be read is not counted", () => {
 })
 
 test("a run older than the period counts towards no average, at the edge or far outside", () => {
-  const root = rootWith({
-    one: [
-      { phase: "change", cpuSeconds: 2, ranAt: agoOf(HOUR) },
-      { phase: "change", cpuSeconds: 4, ranAt: agoOf(23 * HOUR) },
-      { phase: "change", cpuSeconds: 100, ranAt: agoOf(DAY + 1) },
-      { phase: "change", cpuSeconds: 1000, ranAt: agoOf(30 * DAY) },
-    ],
-  })
-  const cost = costsIn(root, NOW, DAY_BACK).checks[0]
+  const cost = costsIn(rootAged(), NOW, DAY_BACK).checks[0]
 
   expect(cost?.runs).toBe(2)
   expect(cost?.cpu).toBe(3)
@@ -194,13 +191,7 @@ test("a record carrying no run id is counted where a period was named", () => {
 })
 
 test("only the runs chosen are counted where a count was named", () => {
-  const root = rootWith({
-    one: [
-      { phase: "change", cpuSeconds: 2, runId: ONE, ranAt: agoOf(HOUR) },
-      { phase: "change", cpuSeconds: 4, runId: TWO, ranAt: agoOf(2 * HOUR) },
-      { phase: "change", cpuSeconds: 8, runId: THREE, ranAt: agoOf(3 * HOUR) },
-    ],
-  })
+  const root = rootChosen()
 
   expect(costsIn(root, NOW, LAST_RUN).checks[0]?.cpu).toBe(2)
   expect(costsIn(root, NOW, { by: "runs", runs: 2 }).checks[0]?.runs).toBe(2)
@@ -208,12 +199,7 @@ test("only the runs chosen are counted where a count was named", () => {
 })
 
 test("one run's runs are the runs of every check that run judged", () => {
-  const root = rootWith({
-    one: [{ phase: "change", cpuSeconds: 2, runId: TWO, ranAt: agoOf(HOUR) }],
-    two: [{ phase: "change", cpuSeconds: 3, runId: TWO, ranAt: agoOf(HOUR) }],
-    three: [{ phase: "change", cpuSeconds: 90, runId: ONE, ranAt: agoOf(9 * HOUR) }],
-  })
-  const costs = costsIn(root, NOW, LAST_RUN)
+  const costs = costsIn(rootJudged(), NOW, LAST_RUN)
 
   expect(costs.checks.map((one) => one.check)).toEqual(["two", "one"])
   expect(costs.total).toEqual({ runs: 1, cpu: 5, cpuMost: 5, wall: 0, wallMost: 0, memMost: 0 })
@@ -304,8 +290,26 @@ test("the table carries one set of columns for the group read", () => {
   const cost = costOf("one", runsOf([{ phase: "change", cpuSeconds: 0 }]))
   const said = linesOf(costsOf([cost]))
 
-  expect(spacedOnce(said[0])).toBe("check runs cpu avg wall avg mem avg cpu max wall max mem max")
+  expect(spacedOnce(said[0])).toBe(
+    "check runs cpu avg wall avg mem avg cpu max wall max mem max cpu lim wall lim mem lim"
+  )
   expect(spacedOnce(said[1])).toBe("one 1 0.000s 0.000s 0 B 0.000s 0.000s 0 B")
+})
+
+test("a check's ceilings are drawn beside what its runs took, and nothing where it states none", () => {
+  const said = linesOf(costsIn(rootLimited(), NOW, DAY_BACK))
+
+  expect(spacedOnce(said[1])).toBe(
+    "one 1 2.000s 0.000s 0 B 2.000s 0.000s 0 B 10.000s 20.000s 512.0 MiB"
+  )
+  expect(spacedOnce(said[2])).toBe("two 1 1.000s 0.000s 0 B 1.000s 0.000s 0 B")
+})
+
+test("the group read says which of a check's ceilings are drawn", () => {
+  const root = rootGrouped()
+
+  expect(costsIn(root, NOW, DAY_BACK).checks[0]?.limits.cpu).toBe(10)
+  expect(costsIn(root, NOW, DAY_BACK, "audit").checks[0]?.limits.cpu).toBe(15)
 })
 
 test("every measure is said as an average and as the most any one run took", () => {

@@ -1,9 +1,16 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { columnsOf } from "akasha/command/pages/measure/modules/checkout-counting/checkout-counting.module.code.ts"
-import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  valueByPath,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedPartsOf } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
+import {
+  numberAt,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const CHECKED = "check-code"
 
@@ -18,6 +25,14 @@ const CHECK = "check"
 const AUDIT = "audit"
 
 const ABSENT = "-"
+
+const BLANK = ""
+
+const MAX_CPU = "maxCpuSeconds"
+
+const MAX_WALL = "maxWallSeconds"
+
+const MAX_MEMORY = "maxMemoryMb"
 
 const TOTAL = "total"
 
@@ -45,6 +60,9 @@ const HEADED: readonly string[] = [
   "cpu max",
   "wall max",
   "mem max",
+  "cpu lim",
+  "wall lim",
+  "mem lim",
 ]
 
 const UNREAD = "these were not read, and count no runs:"
@@ -69,9 +87,28 @@ export interface Run {
   readonly mem: number | null
 }
 
+export interface Limits {
+  readonly cpu: number | null
+  readonly wall: number | null
+  readonly mem: number | null
+}
+
+export const NO_LIMITS: Limits = { cpu: null, wall: null, mem: null }
+
+export function limitsIn(held: unknown): Limits {
+  if (held === null || typeof held !== "object" || Array.isArray(held)) return NO_LIMITS
+  const said = held as Value
+  return {
+    cpu: numberAt(said, MAX_CPU),
+    wall: numberAt(said, MAX_WALL),
+    mem: numberAt(said, MAX_MEMORY),
+  }
+}
+
 export interface Held {
   readonly check: string
   readonly runs: readonly Run[]
+  readonly limits: Limits
 }
 
 export interface Reading {
@@ -100,6 +137,7 @@ export interface CheckCost {
   readonly wallMost: number | null
   readonly mem: number | null
   readonly memMost: number | null
+  readonly limits: Limits
 }
 
 export interface Total {
@@ -242,7 +280,7 @@ function addedOf(runs: readonly Run[], what: (one: Run) => number): number {
   return runs.reduce((total, one) => total + what(one), 0)
 }
 
-export function costOf(check: string, runs: readonly Run[]): CheckCost {
+export function costOf(check: string, runs: readonly Run[], limits: Limits = NO_LIMITS): CheckCost {
   const cpu = runs.map((one) => one.cpu)
   const wall = runs.map((one) => one.wall)
   const mem = memoryOf(runs)
@@ -255,6 +293,7 @@ export function costOf(check: string, runs: readonly Run[]): CheckCost {
     wallMost: mostOf(wall),
     mem: meanOf(mem),
     memMost: mostOf(mem),
+    limits,
   }
 }
 
@@ -362,7 +401,9 @@ export function heldIn(root: string, group: Group = CHECK): Reading {
     const found = gatheredIn(root, page.path, group)
     unread.push(...found.unread)
     torn.push(...found.torn)
-    if (found.read) held.push({ check: named.slug, runs: found.runs })
+    if (!found.read) continue
+    const limits = limitsIn(valueByPath(root, page.path)?.[group])
+    held.push({ check: named.slug, runs: found.runs, limits })
   }
   return { held, unread, torn }
 }
@@ -377,7 +418,7 @@ export function costsIn(root: string, now: number, chosen: Chosen, group: Group 
     const runs =
       chosen.by === "period" ? withinOf(one.runs, now, chosen.ms) : runningOf(one.runs, ids)
     for (const run of runs) picked.push(run)
-    if (runs.length > 0) checks.push(costOf(one.check, runs))
+    if (runs.length > 0) checks.push(costOf(one.check, runs, one.limits))
   }
   return {
     checks: [...checks].sort(byCpu),
@@ -403,6 +444,18 @@ function saidAs(count: number | null, how: (found: number) => string): string {
   return count === null ? ABSENT : how(count)
 }
 
+function limitAs(count: number | null, how: (found: number) => string): string {
+  return count === null ? BLANK : how(count)
+}
+
+function limitsOf(limits: Limits): readonly string[] {
+  return [
+    limitAs(limits.cpu, secondsAs),
+    limitAs(limits.wall, secondsAs),
+    limitAs(limits.mem === null ? null : limits.mem * MIB, bytesAs),
+  ]
+}
+
 function rowOf(one: CheckCost): readonly string[] {
   return [
     one.check,
@@ -413,6 +466,7 @@ function rowOf(one: CheckCost): readonly string[] {
     saidAs(one.cpuMost, secondsAs),
     saidAs(one.wallMost, secondsAs),
     saidAs(one.memMost, bytesAs),
+    ...limitsOf(one.limits),
   ]
 }
 
@@ -426,6 +480,7 @@ function totalRowOf(total: Total): readonly string[] {
     saidAs(total.cpuMost, secondsAs),
     saidAs(total.wallMost, secondsAs),
     saidAs(total.memMost, bytesAs),
+    ...limitsOf(NO_LIMITS),
   ]
 }
 

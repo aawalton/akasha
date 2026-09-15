@@ -159,7 +159,9 @@ test("the rows are drawn by the rule the check measuring draws its rows by", () 
 
   const said = linesOf(costsIn(root, NOW, DAY_BACK), "change")
 
-  expect(spacedOnce(said[0])).toBe("change runs cpu avg wall avg mem avg cpu max wall max mem max")
+  expect(spacedOnce(said[0])).toBe(
+    "change runs cpu avg wall avg mem avg cpu max wall max mem max cpu lim wall lim mem lim"
+  )
   expect(spacedOnce(said[1])).toBe("change-file 1 2.000s 0.000s 0 B 2.000s 0.000s 0 B")
 })
 

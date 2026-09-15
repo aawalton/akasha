@@ -30,6 +30,8 @@ const UNREADABLE = 99
 
 const TORN = 98
 
+const CEILINGED = 97
+
 const FIRST_PART = 1
 
 export const NOW = Date.parse("2026-09-05T12:00:00.000Z")
@@ -108,11 +110,16 @@ function idOf(at: number): string {
   return `01a08071-39a4-7000-9c6b-${String(at).padStart(12, "0")}`
 }
 
-function checkFiled(root: string, check: string, at: number): undefined {
+function checkFiled(
+  root: string,
+  check: string,
+  at: number,
+  held: Record<string, unknown> = {}
+): undefined {
   const path = `${UNDER}/${check}/${check}.${CHECKED}.ts`
   listedFiled(root, CHECKED, check, [{ path, id: idOf(at) }])
   valueAlsoFiled(root, CHECKED, [
-    { path, value: { id: idOf(at), pageTypeSlug: CHECKED, slug: check } },
+    { path, value: { id: idOf(at), pageTypeSlug: CHECKED, slug: check, ...held } },
   ])
 }
 
@@ -132,6 +139,60 @@ export function rowsInto(
 
 export function rootWith(held: Record<string, readonly Record<string, unknown>[]>): string {
   return rowsInto(scratch.rootFor("check-measuring-"), held)
+}
+
+function rootCeilinged(
+  held: Record<string, readonly Record<string, unknown>[]>,
+  ceilings: Record<string, Record<string, unknown>>
+): string {
+  const root = scratch.rootFor("check-measuring-")
+  nothingFiled(root)
+  for (const [check, value] of Object.entries(ceilings)) checkFiled(root, check, CEILINGED, value)
+  return rowsInto(root, held)
+}
+
+export function rootLimited(): string {
+  return rootCeilinged(
+    { one: [{ phase: "change", cpuSeconds: 2 }], two: [{ phase: "change", cpuSeconds: 1 }] },
+    { one: { check: { maxCpuSeconds: 10, maxWallSeconds: 20, maxMemoryMb: 512 } } }
+  )
+}
+
+export function rootGrouped(): string {
+  const root = rootCeilinged(
+    { one: [{ phase: "change", cpuSeconds: 1 }] },
+    { one: { check: { maxCpuSeconds: 10 }, audit: { maxCpuSeconds: 15 } } }
+  )
+  return rowsBeside(root, { one: [{ phase: "audit", cpuSeconds: 1 }] }, AUDIT_LOGS)
+}
+
+export function rootAged(): string {
+  return rootWith({
+    one: [
+      { phase: "change", cpuSeconds: 2, ranAt: agoOf(HOUR) },
+      { phase: "change", cpuSeconds: 4, ranAt: agoOf(23 * HOUR) },
+      { phase: "change", cpuSeconds: 100, ranAt: agoOf(DAY + 1) },
+      { phase: "change", cpuSeconds: 1000, ranAt: agoOf(30 * DAY) },
+    ],
+  })
+}
+
+export function rootJudged(): string {
+  return rootWith({
+    one: [{ phase: "change", cpuSeconds: 2, runId: TWO, ranAt: agoOf(HOUR) }],
+    two: [{ phase: "change", cpuSeconds: 3, runId: TWO, ranAt: agoOf(HOUR) }],
+    three: [{ phase: "change", cpuSeconds: 90, runId: ONE, ranAt: agoOf(9 * HOUR) }],
+  })
+}
+
+export function rootChosen(): string {
+  return rootWith({
+    one: [
+      { phase: "change", cpuSeconds: 2, runId: ONE, ranAt: agoOf(HOUR) },
+      { phase: "change", cpuSeconds: 4, runId: TWO, ranAt: agoOf(2 * HOUR) },
+      { phase: "change", cpuSeconds: 8, runId: THREE, ranAt: agoOf(3 * HOUR) },
+    ],
+  })
 }
 
 export function rowsBeside(
