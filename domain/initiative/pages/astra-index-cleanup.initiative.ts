@@ -32,5 +32,11 @@ export const astraIndexCleanup = {
       workingMemory:
         "339 of 10,935 import targets belong to no page: 312 under `.react-router/types/` and 27 under `+types/`, both written by a tool and held out of git. The two tracked ones, `alan/web/routes.ts` and `temper/web/deploy/addon-bundle-image.ts`, do belong to pages through a declared `fileName`, and what missed them was the reader rather than the pages.",
     },
+    {
+      statement:
+        "The edge and import indexes go, what references a page being read from the file beside it.",
+      workingMemory:
+        "Every reader is migrated but `idsNaming`, which is in hand, and the import index has no reader left. What remains: the edge index's writers in `index-settling`, `relationFiled` in the reading fixtures, `index/index-edge` in this page type's parts, and the `index:` relation on the two graph edge pages. `index-answers-are-level-with-the-change` judges only an index stating `tracked: true`, so once the edge index goes one index alone is judged, and nothing judges the files beside pages.",
+    },
   ],
 } as const satisfies Initiative
