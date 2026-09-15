@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS02e13 = {
   id: "019ea442-7f1f-7318-a320-a4080e19c070",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s02e13",
   title: "Phantom Bullet",
   description:

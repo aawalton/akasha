@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS03e14 = {
   id: "019ea442-85bd-7a36-9905-85c62967a636",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s03e14",
   title: "The Crimson Knight",
   description:

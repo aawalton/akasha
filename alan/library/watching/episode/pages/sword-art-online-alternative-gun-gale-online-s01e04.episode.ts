@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineAlternativeGunGaleOnlineS01e04 = {
   id: "019ea442-948a-727d-9cf2-650661f38623",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-alternative-gun-gale-online-s01e04",
   title: "Death Game",
   description:

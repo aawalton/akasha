@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS02e23 = {
   id: "019ea442-8136-7ddc-a50e-5b7fce0f835a",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s02e23",
   title: "The Dream Begins",
   description:

@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS04e10 = {
   id: "019ea442-8b8e-7718-b8be-f062d0626865",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s04e10",
   title: "Stacia, the Goddess of Creation",
   description:

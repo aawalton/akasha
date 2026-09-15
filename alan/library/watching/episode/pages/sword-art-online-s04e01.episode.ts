@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS04e01 = {
   id: "019ea442-89b5-7c91-bc45-5f298bdde70f",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s04e01",
   title: "In the Far North",
   description:

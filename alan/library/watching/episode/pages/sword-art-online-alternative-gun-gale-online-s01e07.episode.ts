@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineAlternativeGunGaleOnlineS01e07 = {
   id: "019ea442-9525-7ef9-9784-1741d3bf489e",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-alternative-gun-gale-online-s01e07",
   title: "Second Squad Jam",
   description:

@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS04e02 = {
   id: "019ea442-89e8-70e3-9443-e8218924a579",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s04e02",
   title: "Raids",
   description:

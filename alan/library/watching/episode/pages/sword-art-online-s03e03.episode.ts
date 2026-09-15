@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS03e03 = {
   id: "019ea442-8361-77eb-8aa0-0b29ea47d3e5",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s03e03",
   title: "The End Mountains",
   description:

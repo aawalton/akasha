@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS01e05 = {
   id: "019ea442-7337-7279-87b7-84ea166de232",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s01e05",
   title: "Murder in the Safe Zone",
   description:

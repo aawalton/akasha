@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS04e23 = {
   id: "019ea442-8e20-79aa-b87c-26df02725730",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s04e23",
   title: "New World",
   description:

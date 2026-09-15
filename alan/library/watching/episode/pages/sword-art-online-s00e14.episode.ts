@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS00e14 = {
   id: "019ea442-6c23-708c-9a6b-74df498bb547",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s00e14",
   title: "Sword Art Offline II 2",
   description: "This edition highlights 4, 5, and 6.",

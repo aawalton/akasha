@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS03e19 = {
   id: "019ea442-86e9-7268-8b0c-e63094f18d48",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s03e19",
   title: "The Seal of the Right Eye",
   description:

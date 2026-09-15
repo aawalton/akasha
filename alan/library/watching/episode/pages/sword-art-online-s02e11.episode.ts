@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS02e11 = {
   id: "019ea442-7eb7-7236-b54b-aed4f529095a",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s02e11",
   title: "What It Means To Be Strong",
   description:

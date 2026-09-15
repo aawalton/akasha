@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS02e06 = {
   id: "019ea442-7dbd-75ea-9eb0-ff1ac641d971",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s02e06",
   title: "Showdown in the Wilderness",
   description:

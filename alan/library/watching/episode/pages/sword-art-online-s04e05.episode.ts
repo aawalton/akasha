@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS04e05 = {
   id: "019ea442-8a8b-7c70-a71a-5f1862120c8e",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s04e05",
   title: "The Night Before Battle",
   description:

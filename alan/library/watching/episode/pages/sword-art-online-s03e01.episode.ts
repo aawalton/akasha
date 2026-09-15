@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS03e01 = {
   id: "019ea442-82fd-7ec8-b766-1a5202479f68",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s03e01",
   title: "Underworld",
   description:

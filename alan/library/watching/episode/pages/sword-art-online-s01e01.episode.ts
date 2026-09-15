@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS01e01 = {
   id: "019ea442-6fef-7899-9749-72deba30420a",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s01e01",
   title: "The World of Swords",
   description:

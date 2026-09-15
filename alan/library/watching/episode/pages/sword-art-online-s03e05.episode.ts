@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS03e05 = {
   id: "019ea442-83c7-76c9-9b94-e46690078ae5",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s03e05",
   title: "Ocean Turtle",
   description:

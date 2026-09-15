@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS03e23 = {
   id: "019ea442-87d3-7c8c-b3f4-00b6657b17eb",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s03e23",
   title: "Administrator",
   description:

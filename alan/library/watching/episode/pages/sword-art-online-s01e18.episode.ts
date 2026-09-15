@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS01e18 = {
   id: "019ea442-75e4-79c7-8e37-42c13fe37973",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s01e18",
   title: "To the World Tree",
   description:

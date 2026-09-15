@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS03e20 = {
   id: "019ea442-871e-781a-a3fc-958a07e601aa",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s03e20",
   title: "Synthesis",
   description:

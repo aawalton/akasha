@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineAlternativeGunGaleOnlineS01e08 = {
   id: "019ea442-9558-7532-883e-5cbc39716ce2",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-alternative-gun-gale-online-s01e08",
   title: "Booby Trap",
   description:

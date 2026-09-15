@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS01e17 = {
   id: "019ea442-75b2-7576-9ba5-c302986eda3e",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s01e17",
   title: "Captive Queen",
   description:

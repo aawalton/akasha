@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS02e09 = {
   id: "019ea442-7e51-707f-9f19-34b15cb530c3",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s02e09",
   title: "Death Gun",
   description:

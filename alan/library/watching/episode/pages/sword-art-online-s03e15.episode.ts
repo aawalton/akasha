@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS03e15 = {
   id: "019ea442-8613-7b55-aec7-9a150806475d",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s03e15",
   title: "The Relentless Knight",
   description:

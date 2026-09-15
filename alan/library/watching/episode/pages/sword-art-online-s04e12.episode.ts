@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS04e12 = {
   id: "019ea442-8bf4-7013-9a17-042ccbc90a04",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s04e12",
   title: "Ray of Light",
   description:

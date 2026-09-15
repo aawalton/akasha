@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS04e14 = {
   id: "019ea442-8c57-7a85-94ad-982b789a8d95",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s04e14",
   title: "End to Eternity",
   description:

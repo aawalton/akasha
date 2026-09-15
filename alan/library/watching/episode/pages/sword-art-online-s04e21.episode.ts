@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS04e21 = {
   id: "019ea442-8dbc-7c66-a62e-eda7deca5115",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s04e21",
   title: "Beyond Time",
   description:

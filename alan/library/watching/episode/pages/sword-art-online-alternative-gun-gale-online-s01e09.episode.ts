@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineAlternativeGunGaleOnlineS01e09 = {
   id: "019ea442-95b4-7e62-af11-a5080c88677b",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-alternative-gun-gale-online-s01e09",
   title: "Ten-Minute Massacre",
   description:

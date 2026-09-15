@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS02e18 = {
   id: "019ea442-803a-72c8-8d52-ada728e3bc6a",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s02e18",
   title: "Forest House",
   description:

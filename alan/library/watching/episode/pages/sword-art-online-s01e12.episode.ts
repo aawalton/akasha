@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS01e12 = {
   id: "019ea442-749c-789d-b2b1-304902ece78e",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s01e12",
   title: "Yui's Heart",
   description:

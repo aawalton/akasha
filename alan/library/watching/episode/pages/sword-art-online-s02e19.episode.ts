@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS02e19 = {
   id: "019ea442-806d-7718-ac16-85441ca1927f",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s02e19",
   title: "Zekken",
   description:

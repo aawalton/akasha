@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS04e20 = {
   id: "019ea442-8d88-79aa-aedc-836a3acbb9cc",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s04e20",
   title: "The Night-Sky Blade",
   description:

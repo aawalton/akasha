@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS04e09 = {
   id: "019ea442-8b4f-7985-a2f7-0c06fb60eae0",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s04e09",
   title: "Sword and Fist",
   description:

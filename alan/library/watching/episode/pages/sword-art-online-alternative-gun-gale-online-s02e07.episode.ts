@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineAlternativeGunGaleOnlineS02e07 = {
   id: "019ea442-9917-7391-a9bf-67977e9dcab6",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-alternative-gun-gale-online-s02e07",
   title: "Turn Over",
   description:

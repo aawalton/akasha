@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS01e13 = {
   id: "019ea442-74cd-77a7-82f2-588500f454fc",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s01e13",
   title: "Edge of Hell's Abyss",
   description:

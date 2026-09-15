@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineS01e23 = {
   id: "019ea442-76e7-7f01-9122-6746352ef9f6",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-s01e23",
   title: "Bonds",
   description:

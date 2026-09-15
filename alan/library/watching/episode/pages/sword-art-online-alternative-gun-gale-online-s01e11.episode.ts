@@ -2,7 +2,7 @@ import type { Episode } from "akasha/alan/library/watching/episode/episode.page-
 
 export const swordArtOnlineAlternativeGunGaleOnlineS01e11 = {
   id: "019ea442-961b-73f7-abb4-5263a1fe69e0",
-  type: "episode",
+  type: "page-type/episode",
   slug: "sword-art-online-alternative-gun-gale-online-s01e11",
   title: "Psycho LLENN",
   description:
