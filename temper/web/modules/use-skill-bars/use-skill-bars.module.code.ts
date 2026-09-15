@@ -6,7 +6,7 @@ import type {
 import { findSkillById } from "akasha/temper/character-skill/modules/find-skill-by-id/find-skill-by-id.module.code.ts"
 import { filterSkillsForBar } from "akasha/temper/character-skill/modules/skill-bar-filtering/skill-bar-filtering.module.code.ts"
 import { keysOf } from "akasha/temper/formula-framework/modules/record-parts/record-parts.module.code.ts"
-import type { SkillSlotId } from "akasha/temper/skill-kinds/modules/skill-slots/skill-slots.module.code.ts"
+import type { SkillSlotId } from "akasha/temper/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import type { SkillLineId } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 import { areConflictingMorphs } from "akasha/temper/skill-morphs/modules/morph-conflict/morph-conflict.module.code.ts"
 import {

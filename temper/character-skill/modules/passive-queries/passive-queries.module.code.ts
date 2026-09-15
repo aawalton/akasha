@@ -7,8 +7,8 @@ import type {
 } from "akasha/temper/character-skill/modules/query-shapes/query-shapes.module.code.ts"
 import { weaponTypes } from "akasha/temper/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { SkillSlotId } from "akasha/temper/skill-kinds/modules/skill-slots/skill-slots.module.code.ts"
-import { skillSlots } from "akasha/temper/skill-kinds/modules/skill-slots/skill-slots.module.code.ts"
+import type { SkillSlotId } from "akasha/temper/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
+import { skillSlots } from "akasha/temper/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import type { SkillLineCategoryId } from "akasha/temper/skill-lines/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   type SkillLineId,

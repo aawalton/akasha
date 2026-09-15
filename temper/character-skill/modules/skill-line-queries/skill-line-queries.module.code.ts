@@ -14,11 +14,11 @@ import { valuesOf } from "akasha/temper/formula-framework/modules/record-parts/r
 import {
   type SkillBarId,
   skillBars,
-} from "akasha/temper/skill-kinds/modules/skill-bars/skill-bars.module.code.ts"
+} from "akasha/temper/skill-kind/modules/skill-bars/skill-bars.module.code.ts"
 import {
   type SkillSlotId,
   skillSlots,
-} from "akasha/temper/skill-kinds/modules/skill-slots/skill-slots.module.code.ts"
+} from "akasha/temper/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import {
   getSkillLineIdsForClass,
   type SkillLineId,

@@ -10,11 +10,11 @@ import type {
   SpecialEffectType,
   StatusEffect,
   Targeting,
-} from "akasha/temper/skill-kinds/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+} from "akasha/temper/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import type {
   ActivationBuffEffect,
   ActivationDebuffEffect,
-} from "akasha/temper/skill-kinds/modules/skill-buff-debuff-types/skill-buff-debuff-types.module.code.ts"
+} from "akasha/temper/skill-kind/modules/skill-buff-debuff-types/skill-buff-debuff-types.module.code.ts"
 
 export interface CompanionDamageComponent {
   type: "damage"

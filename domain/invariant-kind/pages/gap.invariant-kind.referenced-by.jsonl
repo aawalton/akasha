@@ -790,10 +790,10 @@
 {"propertySlug":"invariant-kind","path":"temper/progress/thing/properties/completion-card-id.text-property.ts","id":"01a05fc6-81fb-7893-8ba7-9e582c0fd637"}
 {"propertySlug":"invariant-kind","path":"temper/progress/thing/properties/node-id.text-property.ts","id":"01a05fc6-81fc-7831-9ded-1ba2e1d47ca1"}
 {"propertySlug":"invariant-kind","path":"temper/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.ts","id":"01a060cf-b0b2-743e-9d82-ea94a110b9cb"}
-{"propertySlug":"invariant-kind","path":"temper/skill-kinds/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts","id":"01a060db-b2ba-73c7-8faa-80842e2c1379"}
-{"propertySlug":"invariant-kind","path":"temper/skill-kinds/modules/scribing-focus-scripts/scribing-focus-scripts.module.ts","id":"01a060db-b2bb-7166-ba4a-b183afce5394"}
-{"propertySlug":"invariant-kind","path":"temper/skill-kinds/modules/scribing-signature-scripts/scribing-signature-scripts.module.ts","id":"01a060db-b2bb-78c2-a678-b0ddc7114f93"}
-{"propertySlug":"invariant-kind","path":"temper/skill-kinds/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
+{"propertySlug":"invariant-kind","path":"temper/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts","id":"01a060db-b2ba-73c7-8faa-80842e2c1379"}
+{"propertySlug":"invariant-kind","path":"temper/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.ts","id":"01a060db-b2bb-7166-ba4a-b183afce5394"}
+{"propertySlug":"invariant-kind","path":"temper/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.ts","id":"01a060db-b2bb-78c2-a678-b0ddc7114f93"}
+{"propertySlug":"invariant-kind","path":"temper/skill-kind/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
 {"propertySlug":"invariant-kind","path":"temper/skill-lines/modules/skill-lines/skill-lines.module.ts","id":"01a0608a-c135-7b83-afde-8d52e111b852"}
 {"propertySlug":"invariant-kind","path":"temper/skyshards/temper-skyshards.domain.ts","id":"01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5"}
 {"propertySlug":"invariant-kind","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}

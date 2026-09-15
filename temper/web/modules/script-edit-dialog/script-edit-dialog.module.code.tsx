@@ -26,15 +26,15 @@ import { getCombinedScriptDescription } from "akasha/temper/character-skill/modu
 import {
   type AffixScriptId,
   affixScripts,
-} from "akasha/temper/skill-kinds/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
+} from "akasha/temper/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import {
   type FocusScriptId,
   focusScripts,
-} from "akasha/temper/skill-kinds/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+} from "akasha/temper/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import {
   type SignatureScriptId,
   signatureScripts,
-} from "akasha/temper/skill-kinds/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
+} from "akasha/temper/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import type { PendingScriptEdits } from "akasha/temper/web/modules/skills-types/skills-types.module.code.ts"
 import { useMemo } from "react"
 

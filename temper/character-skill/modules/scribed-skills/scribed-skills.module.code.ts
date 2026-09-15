@@ -5,7 +5,7 @@ import { SCRIBED_SKILLS_02 } from "akasha/temper/character-skill/modules/scribed
 import { SCRIBED_SKILLS_03 } from "akasha/temper/character-skill/modules/scribed-skills-03/scribed-skills-03.module.code.ts"
 import { SCRIBED_SKILLS_04 } from "akasha/temper/character-skill/modules/scribed-skills-04/scribed-skills-04.module.code.ts"
 import type { GrimoireId } from "akasha/temper/character-skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
-import type { FocusScriptId } from "akasha/temper/skill-kinds/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import type { FocusScriptId } from "akasha/temper/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import { createDataFile } from "akasha/util/narrow/modules/create-data-file/create-data-file.module.code.ts"
 
 const SCRIBED_SKILLS_DATA = {

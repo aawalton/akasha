@@ -7,4 +7,4 @@
 {"propertySlug":"import","fileName":"scribing-affix-scripts.module.code.ts","path":"temper/player-completion/modules/completion-scribing-progress/completion-scribing-progress.module.code.ts"}
 {"propertySlug":"import","fileName":"scribing-affix-scripts.module.code.ts","path":"temper/web/modules/script-edit-dialog/script-edit-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"scribing-affix-scripts.module.code.ts","path":"temper/web/modules/skills-types/skills-types.module.code.ts"}
-{"propertySlug":"parts","path":"temper/skill-kinds/temper-skill-kinds.domain.ts","id":"01a060db-b2bf-75cc-8809-206da241df83"}
+{"propertySlug":"parts","path":"temper/skill-kind/temper-skill-kind.domain.ts","id":"01a060db-b2bf-75cc-8809-206da241df83"}

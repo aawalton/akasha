@@ -1,10 +1,10 @@
 import type {
   TargetScope,
   TargetType,
-} from "akasha/temper/skill-kinds/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
-import { statusEffectTypes } from "akasha/temper/skill-kinds/modules/status-effect-types/status-effect-types.module.code.ts"
-import { targetScopes } from "akasha/temper/skill-kinds/modules/target-scopes/target-scopes.module.code.ts"
-import { targetTypes } from "akasha/temper/skill-kinds/modules/target-types/target-types.module.code.ts"
+} from "akasha/temper/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+import { statusEffectTypes } from "akasha/temper/skill-kind/modules/status-effect-types/status-effect-types.module.code.ts"
+import { targetScopes } from "akasha/temper/skill-kind/modules/target-scopes/target-scopes.module.code.ts"
+import { targetTypes } from "akasha/temper/skill-kind/modules/target-types/target-types.module.code.ts"
 import { capitalize } from "akasha/util/text/modules/capitalize/capitalize.module.code.ts"
 
 export function formatDamageType(type: string): string {

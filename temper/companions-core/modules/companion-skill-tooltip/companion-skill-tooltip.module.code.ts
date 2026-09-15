@@ -22,7 +22,7 @@ import type {
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { evaluateSkillFormula } from "akasha/temper/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import type { CompanionValueFormula } from "akasha/temper/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
-import type { Targeting } from "akasha/temper/skill-kinds/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+import type { Targeting } from "akasha/temper/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 
 type FormulaEffect =
   | CompanionDamageComponent

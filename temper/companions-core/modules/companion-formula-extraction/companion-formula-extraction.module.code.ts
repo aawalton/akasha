@@ -13,7 +13,7 @@ import type {
   DamageType,
   EffectCondition,
   TargetType,
-} from "akasha/temper/skill-kinds/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+} from "akasha/temper/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import { assertNever } from "akasha/util/narrow/modules/assert-never/assert-never.module.code.ts"
 
 type EffectTriggerType =

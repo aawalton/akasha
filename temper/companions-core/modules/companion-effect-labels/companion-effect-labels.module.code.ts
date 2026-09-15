@@ -5,13 +5,13 @@ import { buffOrDebuff } from "akasha/temper/formula-framework/modules/buff-or-de
 import type {
   SpecialEffectType,
   StatusEffectType,
-} from "akasha/temper/skill-kinds/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+} from "akasha/temper/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import type {
   ActivationBuffType,
   ActivationDebuffType,
-} from "akasha/temper/skill-kinds/modules/skill-buff-debuff-types/skill-buff-debuff-types.module.code.ts"
-import { specialEffectTypes } from "akasha/temper/skill-kinds/modules/special-effect-types/special-effect-types.module.code.ts"
-import { statusEffectTypes } from "akasha/temper/skill-kinds/modules/status-effect-types/status-effect-types.module.code.ts"
+} from "akasha/temper/skill-kind/modules/skill-buff-debuff-types/skill-buff-debuff-types.module.code.ts"
+import { specialEffectTypes } from "akasha/temper/skill-kind/modules/special-effect-types/special-effect-types.module.code.ts"
+import { statusEffectTypes } from "akasha/temper/skill-kind/modules/status-effect-types/status-effect-types.module.code.ts"
 
 const buffOrDebuffByName: Readonly<Record<string, { name: string }>> = buffOrDebuff.data
 

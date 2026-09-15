@@ -1341,10 +1341,10 @@
 {"propertySlug":"invariant-kind","path":"temper/saved-variable/temper-saved-variable.domain.ts","id":"01a06053-3633-77f0-8acd-df36807c5f6c"}
 {"propertySlug":"invariant-kind","path":"temper/saved-vars-migration/temper-saved-vars-migration.domain.ts","id":"01a06072-5abb-776e-b9a1-6393d03e042b"}
 {"propertySlug":"invariant-kind","path":"temper/settings-panel/modules/dropdown/dropdown.module.ts","id":"01a06053-3637-7cbf-af2a-2b25ec6eea55"}
-{"propertySlug":"invariant-kind","path":"temper/skill-kinds/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts","id":"01a060db-b2ba-73c7-8faa-80842e2c1379"}
-{"propertySlug":"invariant-kind","path":"temper/skill-kinds/modules/scribing-focus-scripts/scribing-focus-scripts.module.ts","id":"01a060db-b2bb-7166-ba4a-b183afce5394"}
-{"propertySlug":"invariant-kind","path":"temper/skill-kinds/modules/scribing-signature-scripts/scribing-signature-scripts.module.ts","id":"01a060db-b2bb-78c2-a678-b0ddc7114f93"}
-{"propertySlug":"invariant-kind","path":"temper/skill-kinds/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
+{"propertySlug":"invariant-kind","path":"temper/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts","id":"01a060db-b2ba-73c7-8faa-80842e2c1379"}
+{"propertySlug":"invariant-kind","path":"temper/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.ts","id":"01a060db-b2bb-7166-ba4a-b183afce5394"}
+{"propertySlug":"invariant-kind","path":"temper/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.ts","id":"01a060db-b2bb-78c2-a678-b0ddc7114f93"}
+{"propertySlug":"invariant-kind","path":"temper/skill-kind/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
 {"propertySlug":"invariant-kind","path":"temper/skill-lines/modules/skill-lines/skill-lines.module.ts","id":"01a0608a-c135-7b83-afde-8d52e111b852"}
 {"propertySlug":"invariant-kind","path":"temper/skill-point-finder/modules/skill-point-finder-saved-state/skill-point-finder-saved-state.module.ts","id":"01a060ec-5841-70ce-a022-116830ebd04a"}
 {"propertySlug":"invariant-kind","path":"temper/skill-point-finder/temper-skill-point-finder.domain.ts","id":"01a060ec-5852-77cf-a783-9e488f2d3a19"}

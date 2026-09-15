@@ -1,8 +1,8 @@
 import type { SkillId } from "akasha/temper/character-skill/modules/character-skills/character-skills.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
-import type { SkillBarId } from "akasha/temper/skill-kinds/modules/skill-bars/skill-bars.module.code.ts"
-import type { SkillSlotId } from "akasha/temper/skill-kinds/modules/skill-slots/skill-slots.module.code.ts"
+import type { SkillBarId } from "akasha/temper/skill-kind/modules/skill-bars/skill-bars.module.code.ts"
+import type { SkillSlotId } from "akasha/temper/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 
 interface ArmorItemShape {
   weight: StandardArmorWeightId
