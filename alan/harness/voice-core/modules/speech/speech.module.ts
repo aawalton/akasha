@@ -39,14 +39,7 @@ export const speech = {
       invariantKind: "departure",
       statement: "A piece past the cap is dropped.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A continuous reading is cut at paragraphs rather than at sentences.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A piece says whether a paragraph opens at that piece.",
-    },
+
     {
       invariantKind: "departure",
       statement:

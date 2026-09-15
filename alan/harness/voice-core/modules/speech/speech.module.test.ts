@@ -1,7 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import {
   buildKokoroSpeechSegments,
-  chunkForContinuousRenderWithFlags,
   formatForSpeech,
   MAX_SPEECH_CHARS,
   MAX_SPEECH_SEGMENTS,
@@ -87,26 +86,5 @@ describe("buildKokoroSpeechSegments", () => {
     expect(said.join(" ")).not.toContain("[narrator]")
     expect(said.join(" ")).not.toContain("[aside]")
     expect(said.join(" ")).toContain("A line.")
-  })
-})
-
-describe("chunkForContinuousRenderWithFlags", () => {
-  test("says a paragraph opens at each chunk it starts", () => {
-    const chunks = chunkForContinuousRenderWithFlags("One.\n\nTwo.", { maxChars: 4 })
-    expect(chunks.length).toBe(2)
-    expect(chunks.every((one) => one.startsParagraph)).toBe(true)
-  })
-
-  test("joins short paragraphs under the budget", () => {
-    const chunks = chunkForContinuousRenderWithFlags("One.\n\nTwo.", { maxChars: 100 })
-    expect(chunks.length).toBe(1)
-    expect(chunks[0]?.text).toBe("One. Two.")
-  })
-
-  test("marks only the first piece of a split paragraph as opening one", () => {
-    const chunks = chunkForContinuousRenderWithFlags(longMultiSegmentText(), { maxChars: 300 })
-    expect(chunks.length).toBeGreaterThan(1)
-    expect(chunks[0]?.startsParagraph).toBe(true)
-    expect(chunks[1]?.startsParagraph).toBe(false)
   })
 })

@@ -2,8 +2,6 @@ export const MAX_SPEECH_CHARS = 800
 
 export const MAX_SPEECH_SEGMENTS = 500
 
-const CONTINUOUS_CHUNK_CHARS = 1500
-
 function flatten(content: string): string {
   return content
     .replace(/```[\s\S]*?```/g, " (code omitted) ")
@@ -107,44 +105,4 @@ export function buildKokoroSpeechSegments(
 
 export function buildKokoroSpeechInput(rawText: string): string {
   return buildKokoroSpeechSegments(rawText).join(" ")
-}
-
-export type ContinuousChunk = {
-  readonly text: string
-  readonly startsParagraph: boolean
-}
-
-export function chunkForContinuousRenderWithFlags(
-  content: string,
-  opts?: { readonly maxChars?: number }
-): readonly ContinuousChunk[] {
-  const budget = opts?.maxChars ?? CONTINUOUS_CHUNK_CHARS
-  const paragraphs = content
-    .split(/\n\s*\n/)
-    .map((paragraph) => flatten(paragraph))
-    .filter((paragraph) => paragraph.length > 0)
-  const chunks: ContinuousChunk[] = []
-  let current = ""
-  for (const paragraph of paragraphs) {
-    if (paragraph.length > budget) {
-      if (current.length > 0) {
-        chunks.push({ text: current, startsParagraph: true })
-        current = ""
-      }
-      const packed = packSegments(splitSentences(paragraph), budget)
-      for (let i = 0; i < packed.length; i++) {
-        chunks.push({ text: packed[i] ?? "", startsParagraph: i === 0 })
-      }
-      continue
-    }
-    const candidate = current.length === 0 ? paragraph : `${current} ${paragraph}`
-    if (candidate.length > budget) {
-      chunks.push({ text: current, startsParagraph: true })
-      current = paragraph
-    } else {
-      current = candidate
-    }
-  }
-  if (current.length > 0) chunks.push({ text: current, startsParagraph: true })
-  return chunks.slice(0, MAX_SPEECH_SEGMENTS)
 }
