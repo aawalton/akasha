@@ -9,6 +9,10 @@ export const securityHeaders = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "Every site is served the same headers but for the headers its own policy widens.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A site widens a policy directive and never narrows a policy directive.",
     },
     {

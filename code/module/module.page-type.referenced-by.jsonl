@@ -605,6 +605,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/mobile-cli/modules/testflight-poll/testflight-poll.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/security-headers/security-headers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/modules/user-client/user-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/eval/modules/agent/monarch-eval-agent.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/eval/modules/population/monarch-eval-population.module.ts"}
@@ -736,7 +737,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/.server/answer-page-write/answer-page-write.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/.server/answer-pages/answer-pages.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/modules/nav-icon-svg/nav-icon-svg.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-security-header/modules/security-headers/security-headers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-static-asset/modules/build-directory/build-directory.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-static-asset/modules/serve-static/serve-static.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/workspace-path/modules/stale-folders/stale-folders.module.ts"}
