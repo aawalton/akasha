@@ -1785,6 +1785,7 @@
 {"propertySlug":"invariant-kind","path":"code/shell-script/pages/bash-env/bash-env.shell-script.ts","id":"01a06860-f3aa-7219-a6c2-9803ce5b7b07"}
 {"propertySlug":"invariant-kind","path":"code/shell-script/pages/repos-empty-dir-purge/repos-empty-dir-purge.shell-script.ts","id":"01a06561-3c4d-7a18-b072-9e4c1d8f2a35"}
 {"propertySlug":"invariant-kind","path":"code/shell-script/pages/statusline/statusline.shell-script.ts","id":"01a05849-ff1d-7137-9c84-ed12b05bd07c"}
+{"propertySlug":"invariant-kind","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.ts","id":"01a06829-0194-7c17-9a07-d06e04099921"}
 {"propertySlug":"invariant-kind","path":"code/shell-script/shell-script.page-type.ts","id":"01a05849-1565-72f5-a51d-6ed25321a433"}
 {"propertySlug":"invariant-kind","path":"code/shell/modules/quoting/quoting.module.ts","id":"01a05d9b-277a-7001-b13d-40f361ff8e5d"}
 {"propertySlug":"invariant-kind","path":"code/shell/shell.domain.ts","id":"01a05d9b-277a-7000-be3d-95c4cf94638d"}
@@ -2640,7 +2641,6 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/eso-addon-deploying/eso-addon-deploying.service-workstation.ts","id":"01a095be-957a-70aa-93ff-0845e49c8f73"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/inference-deploying/inference-deploying.service-workstation.ts","id":"01a09b0e-376c-70a6-9838-96e1f3f656a1"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/ios-app-deploying/ios-app-deploying.service-workstation.ts","id":"01a09b1a-31fc-7f84-8e3c-2b931fe57d4e"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.ts","id":"01a06829-0194-7c17-9a07-d06e04099921"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/spotify-sync/spotify-sync.service-workstation.ts","id":"01a09c84-8cd1-758c-8c48-b28856aa0770"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/surplus-fall-notifier/surplus-fall-notifier.service-workstation.ts","id":"01a06829-0194-7754-b17a-14e66866bd98"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/sweep-stray-processes/sweep-stray-processes.service-workstation.ts","id":"01a09cee-2585-7d35-b95e-24ea1f6ace82"}

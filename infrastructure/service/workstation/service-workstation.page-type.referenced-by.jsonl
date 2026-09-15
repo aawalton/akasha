@@ -2,7 +2,9 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/model/account/service-workstations/upkeep-stall/model-account-upkeep-stall.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/maintain-seat-pending/maintain-seat-pending.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/memory-reaper/memory-reaper.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"agent/seat/service-workstations/recipient-resolver/recipient-resolver.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/collection/great-courses/service-workstations/sync/great-courses-sync.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/collection/royal-road/service-workstations/sync/royal-road-sync.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/alan-readout/day-readout-watch-service/day-readout-watch-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/alan-readout/workstation-load-sampler/workstation-load-sampler.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/alanwalton-ios-notification/service-workstations/apns-push-notifier/apns-push-notifier.service-workstation.ts"}
@@ -20,6 +22,7 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/monarch/service-workstations/poll/monarch-poll.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/monarch/service-workstations/sync/monarch-sync.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/plant/plants-relay-service/plants-relay-service.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/reminder-system/service-workstations/send-due-reminders/send-due-reminders.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/safety/relay-service/safety-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/service-workstations/overdue-rolling/overdue-rolling.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/service-workstations/persona-points-rebuilding/persona-points-rebuilding.service-workstation.ts"}
@@ -28,6 +31,7 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/track/daily/active-calories-service/active-calories-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/track/daily/topic-words-service/topic-words-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/cluster/manifest/service-workstations/orphaned-resources-sweep/orphaned-resources-sweep.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/cluster-deploying/cluster-deploying.service-workstation.ts"}
@@ -35,10 +39,6 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/eso-addon-deploying/eso-addon-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/inference-deploying/inference-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/ios-app-deploying/ios-app-deploying.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/recipient-resolver/recipient-resolver.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/royal-road-sync/royal-road-sync.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/send-due-reminders/send-due-reminders.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/service-watching/service-watching.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/spotify-sync/spotify-sync.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/surplus-fall-notifier/surplus-fall-notifier.service-workstation.ts"}

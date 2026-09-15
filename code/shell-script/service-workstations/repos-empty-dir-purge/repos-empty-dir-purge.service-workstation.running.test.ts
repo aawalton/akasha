@@ -19,7 +19,7 @@ mock.module(
 )
 
 const running = await import(
-  "akasha/infrastructure/service/workstation/pages/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.code.ts"
+  "akasha/code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.code.ts"
 )
 
 const SHELL = "bash"

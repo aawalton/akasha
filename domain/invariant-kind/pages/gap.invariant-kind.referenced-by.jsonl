@@ -82,6 +82,7 @@
 {"propertySlug":"invariant-kind","path":"agent/seat/properties/start-mode.text-property.ts","id":"01a05395-58a5-760f-a464-178f4d4ebb97"}
 {"propertySlug":"invariant-kind","path":"agent/seat/reviving/seat-reviving.domain.ts","id":"01a09c38-82db-7a28-8f18-09c4621a8dce"}
 {"propertySlug":"invariant-kind","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
+{"propertySlug":"invariant-kind","path":"agent/seat/service-workstations/recipient-resolver/recipient-resolver.service-workstation.ts","id":"01a06829-0194-7fa2-a0e7-92e073ef2d21"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.ts","id":"01a0687b-aa81-7000-ada8-b1a18075e043"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.ts","id":"01a05ecf-9a12-7710-b385-fd3a09307d1d"}
 {"propertySlug":"invariant-kind","path":"agent/seat/supervisor/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.ts","id":"01a0686a-7a57-7a62-bfba-385af928123a"}
@@ -323,7 +324,6 @@
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/modules/service-loading/service-loading.module.ts","id":"01a09fef-e3b8-7987-8115-0f845edec368"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/modules/service-watching/service-watching.module.ts","id":"01a0821e-fce6-7373-89a1-600a7260bb4f"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/modules/service-wellness/service-wellness.module.ts","id":"01a08c77-e4ed-7a27-8a82-acaacd3068bd"}
-{"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/recipient-resolver/recipient-resolver.service-workstation.ts","id":"01a06829-0194-7fa2-a0e7-92e073ef2d21"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/surplus-fall-notifier/surplus-fall-notifier.service-workstation.ts","id":"01a06829-0194-7754-b17a-14e66866bd98"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/pages/sweep-subagent-pages/sweep-subagent-pages.service-workstation.ts","id":"01a0a017-3fac-72e3-8c1a-7fdf616e1b16"}
 {"propertySlug":"invariant-kind","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}
