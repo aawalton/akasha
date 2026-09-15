@@ -233,6 +233,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/memory/kind/memory-kind.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/network/certificate/authority/certificate-authority.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/cluster-foundation/cluster-foundation.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/cluster/service-cluster.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/inference/service-inference.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/secret/secret.page-type.ts"}

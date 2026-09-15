@@ -1,6 +1,7 @@
 {"propertySlug":"extends-type","path":"code/container-recipe/container-recipe.page-type.ts","id":"01a06815-9efd-7003-8c8e-4c03b44672b2"}
 {"propertySlug":"extends-type","path":"code/eso-addon/eso-addon.page-type.ts","id":"01a06036-9b77-710a-8ddc-ee7c58591896"}
 {"propertySlug":"extends-type","path":"code/ios-app/ios-app.page-type.ts","id":"01a05821-5723-7e65-88e2-045d3e49cb23"}
+{"propertySlug":"extends-type","path":"infrastructure/service/cluster-foundation/cluster-foundation.page-type.ts","id":"01a0a5e8-68bd-7b38-afbc-5ac778577610"}
 {"propertySlug":"extends-type","path":"infrastructure/service/cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
 {"propertySlug":"extends-type","path":"infrastructure/service/inference/service-inference.page-type.ts","id":"01a09099-06af-7cdb-a825-c9aaf68f155e"}
 {"propertySlug":"extends-type","path":"infrastructure/service/vendored-workload/vendored-workload.page-type.ts","id":"01a068e5-527b-7fd9-b67c-c38bcf39040a"}
@@ -9,6 +10,7 @@
 {"propertySlug":"import","fileName":"service.page-type.types.ts","path":"code/container-recipe/container-recipe.page-type.types.ts"}
 {"propertySlug":"import","fileName":"service.page-type.types.ts","path":"code/eso-addon/eso-addon.page-type.types.ts"}
 {"propertySlug":"import","fileName":"service.page-type.types.ts","path":"code/ios-app/ios-app.page-type.types.ts"}
+{"propertySlug":"import","fileName":"service.page-type.types.ts","path":"infrastructure/service/cluster-foundation/cluster-foundation.page-type.types.ts"}
 {"propertySlug":"import","fileName":"service.page-type.types.ts","path":"infrastructure/service/cluster/service-cluster.page-type.types.ts"}
 {"propertySlug":"import","fileName":"service.page-type.types.ts","path":"infrastructure/service/inference/service-inference.page-type.types.ts"}
 {"propertySlug":"import","fileName":"service.page-type.types.ts","path":"infrastructure/service/vendored-workload/vendored-workload.page-type.types.ts"}

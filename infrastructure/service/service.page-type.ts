@@ -14,6 +14,7 @@ export const service = {
     "module/deploy-subject-listing",
     "module/deploy-wanting",
     "number-property/cooldown-seconds",
+    "page-type/cluster-foundation",
     "page-type/secret",
     "page-type/service-cluster",
     "page-type/service-inference",
