@@ -2,7 +2,7 @@ import type { TemperTargetType } from "akasha/temper/catalog/temper-effect/tempe
 
 export const ground = {
   id: "019e5d5a-d86f-772a-9aac-b8a5b2218909",
-  type: "temper-target-type",
+  type: "page-type/temper-target-type",
   slug: "ground",
   title: "Ground",
   key: "ground",

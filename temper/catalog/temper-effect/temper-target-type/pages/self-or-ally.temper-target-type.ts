@@ -2,7 +2,7 @@ import type { TemperTargetType } from "akasha/temper/catalog/temper-effect/tempe
 
 export const selfOrAlly = {
   id: "019e5d5a-d86b-7b3f-96d5-fe3c707bd864",
-  type: "temper-target-type",
+  type: "page-type/temper-target-type",
   slug: "self-or-ally",
   title: "Self / Ally",
   key: "self-or-ally",
