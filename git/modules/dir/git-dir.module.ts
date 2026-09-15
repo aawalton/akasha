@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gitDir = {
   id: "01a091c8-bebb-7cc6-ac6a-ed37511fe84b",
-  type: "module",
+  type: "page-type/module",
   slug: "git-dir",
   definition: "the folder git keeps a checkout in, asked of git rather than spelled",
   code: "ts",

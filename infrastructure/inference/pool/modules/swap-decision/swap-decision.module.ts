@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const swapDecision = {
   id: "01a06815-9efd-7006-bea5-94b31dc409e6",
-  type: "module",
+  type: "page-type/module",
   slug: "swap-decision",
   definition: "which resident services stop and which starts when one is asked for",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const poolServer = {
   id: "01a06815-9efd-700c-8050-4496917a8db5",
-  type: "module",
+  type: "page-type/module",
   slug: "pool-server",
   definition: "the program a pool runs as",
   code: "ts",

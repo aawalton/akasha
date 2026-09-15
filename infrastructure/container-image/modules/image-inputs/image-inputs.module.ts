@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const imageInputs = {
   id: "01a08da2-9e44-7155-8ecf-d7ded3c83ef1",
-  type: "module",
+  type: "page-type/module",
   slug: "image-inputs",
   definition: "what a built image is built from, and the hash naming those inputs",
   code: "ts",

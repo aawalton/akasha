@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inferenceSeed = {
   id: "01a0682d-8ef5-7001-96f7-f3b6bb839422",
-  type: "module",
+  type: "page-type/module",
   slug: "inference-seed",
   definition: "the seed a run is drawn with where the caller told none",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const wanI2vGraph = {
   id: "01a06815-9efd-7020-9a10-8b4127354701",
-  type: "module",
+  type: "page-type/module",
   slug: "wan-i2v-graph",
   definition: "the graph turning a still image into video",
   code: "ts",

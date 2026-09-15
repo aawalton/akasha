@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const bareRepoInit = {
   id: "01a06816-2f11-7d89-91b6-f31d958dbb60",
-  type: "module",
+  type: "page-type/module",
   slug: "bare-repo-init",
   definition: "the bare repositories made ready before the transport serves them",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const wanSize = {
   id: "01a067f1-4e2c-7000-b3a1-6c2f9d4a8e10",
-  type: "module",
+  type: "page-type/module",
   slug: "wan-size",
   definition: "the width and height a render is asked for",
   code: "ts",

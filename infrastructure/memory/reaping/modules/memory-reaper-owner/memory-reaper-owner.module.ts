@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const memoryReaperOwner = {
   id: "01a0686c-f06b-7003-8046-1fd5f5849520",
-  type: "module",
+  type: "page-type/module",
   slug: "memory-reaper-owner",
   definition: "which seat a process about to be killed belongs to",
   code: "ts",

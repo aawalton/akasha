@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const k8sWebService = {
   id: "01a08e73-15ce-72a4-b041-35203781f62c",
-  type: "module",
+  type: "page-type/module",
   slug: "k8s-web-service",
   definition: "the in-cluster Service a web app is reached on",
   code: "ts",

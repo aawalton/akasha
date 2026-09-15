@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const orchestratorCacheHelpers = {
   id: "01a06735-dd9c-7009-a5a2-7743c5a01043",
-  type: "module",
+  type: "page-type/module",
   slug: "orchestrator-cache-helpers",
   definition: "the volumes and mounts a checkout cache is reached through",
   code: "ts",

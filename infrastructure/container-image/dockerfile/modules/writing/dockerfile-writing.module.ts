@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dockerfileWriting = {
   id: "01a06865-abff-7009-bb75-4f5d740fd537",
-  type: "module",
+  type: "page-type/module",
   slug: "dockerfile-writing",
   definition: "the Dockerfile written for a built image, from what that image states and imports",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const memoryReaperProcScan = {
   id: "01a0686c-f06b-7000-bd79-2d9700be871d",
-  type: "module",
+  type: "page-type/module",
   slug: "memory-reaper-proc-scan",
   definition: "what one process has, and whether that process is a container",
   code: "ts",

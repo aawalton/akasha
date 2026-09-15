@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const workInitiatives = {
   id: "01a04e9f-4572-7339-8438-7d5a5777f8ab",
-  type: "module",
+  type: "page-type/module",
   slug: "work-initiatives",
   definition: "every initiative the work panel draws, what each has, and the one each sits under",
   code: "ts",

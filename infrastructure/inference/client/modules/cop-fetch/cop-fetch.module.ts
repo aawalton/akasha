@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const copFetch = {
   id: "01a0685d-4b35-700d-9c90-fb07ff5e3a7d",
-  type: "module",
+  type: "page-type/module",
   slug: "cop-fetch",
   definition: "the request settings a call through the traffic cop is made with",
   code: "ts",

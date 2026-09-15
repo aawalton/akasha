@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const upscaleWorkstation = {
   id: "01a0685d-4b35-7017-9e36-4673102a7874",
-  type: "module",
+  type: "page-type/module",
   slug: "upscale-workstation",
   definition: "upscaling one image on the workstation's own GPU through the seedvr2 scripts",
   code: "ts",

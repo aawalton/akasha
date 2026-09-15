@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const transportRepos = {
   id: "01a06816-2f11-7211-912e-3de2033fc331",
-  type: "module",
+  type: "page-type/module",
   slug: "transport-repos",
   definition: "the repositories served here, each with its store and the copy it mirrors to",
   code: "ts",

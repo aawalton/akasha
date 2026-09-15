@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inferenceAnswering = {
   id: "01a0685e-fd50-756a-85ea-473b887d050f",
-  type: "module",
+  type: "page-type/module",
   slug: "inference-answering",
   definition:
     "the service an inference command reaches, and the line that command's run is said in",

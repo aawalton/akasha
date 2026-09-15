@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const httpBackend = {
   id: "01a06816-2f11-7e5b-9f14-546cff64fb03",
-  type: "module",
+  type: "page-type/module",
   slug: "http-backend",
   definition: "a request handed to the git http backend, and the answer streamed back",
   code: "ts",

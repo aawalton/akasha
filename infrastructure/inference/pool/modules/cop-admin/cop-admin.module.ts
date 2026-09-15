@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const copAdmin = {
   id: "01a0685d-4b35-700b-a3ee-538f05dcbe5d",
-  type: "module",
+  type: "page-type/module",
   slug: "cop-admin",
   definition: "asking the traffic cop which service is resident and telling it to swap",
   code: "ts",

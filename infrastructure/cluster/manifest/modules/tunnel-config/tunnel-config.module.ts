@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const tunnelConfig = {
   id: "01a06865-abff-7030-8fe7-5f70cda3c706",
-  type: "module",
+  type: "page-type/module",
   slug: "tunnel-config",
   definition: "the cloudflared config written from every tunnel route the checkout declares",
   code: "ts",

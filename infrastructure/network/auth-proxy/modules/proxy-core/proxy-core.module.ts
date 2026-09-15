@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const proxyCore = {
   id: "01a06863-8e7c-73d0-a5a6-6291492430fc",
-  type: "module",
+  type: "page-type/module",
   slug: "proxy-core",
   definition: "a canned body, a bad gateway, and a fetch that falls to one",
   code: "ts",

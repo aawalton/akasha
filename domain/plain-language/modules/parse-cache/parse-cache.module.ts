@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const parseCache = {
   id: "01a071f0-796a-7957-a5e6-d600ac1d3f8a",
-  type: "module",
+  type: "page-type/module",
   slug: "parse-cache",
   definition: "the parse a text was given before, kept so the model reads that text once",
   code: "ts",

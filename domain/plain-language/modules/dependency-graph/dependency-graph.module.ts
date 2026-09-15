@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dependencyGraph = {
   id: "01a06cd8-d030-7f85-92a3-d5c7d03b4e55",
-  type: "module",
+  type: "page-type/module",
   slug: "dependency-graph",
   definition: "the tree a sentence's words make",
   code: "ts",

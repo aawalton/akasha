@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gitStoreSweeping = {
   id: "01a091c7-3c36-724a-a2ce-575287558db5",
-  type: "module",
+  type: "page-type/module",
   slug: "git-store-sweeping",
   definition: "what akasha left under the folder git does not track, taken away",
   code: "ts",

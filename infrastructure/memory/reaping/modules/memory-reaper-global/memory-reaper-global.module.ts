@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const memoryReaperGlobal = {
   id: "01a0686c-f06b-7002-9ec8-2c68f87e02a6",
-  type: "module",
+  type: "page-type/module",
   slug: "memory-reaper-global",
   definition: "what the host gives up when its own memory headroom is gone",
   code: "ts",

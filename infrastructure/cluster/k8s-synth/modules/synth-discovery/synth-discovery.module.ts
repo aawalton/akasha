@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const synthDiscovery = {
   id: "01a06810-0b68-74a9-bfee-d2c6c7d2f2fc",
-  type: "module",
+  type: "page-type/module",
   slug: "synth-discovery",
   definition: "the synth files a checkout holds",
   code: "ts",

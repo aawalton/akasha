@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const generationLog = {
   id: "01a0685d-4b35-7010-9103-1427f940275e",
-  type: "module",
+  type: "page-type/module",
   slug: "generation-log",
   definition: "the log a generation is recorded in, and the landing of one row beside it",
   code: "ts",

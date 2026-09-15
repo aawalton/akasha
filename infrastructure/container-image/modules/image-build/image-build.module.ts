@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const imageBuild = {
   id: "01a08de8-a521-7517-beff-3c12047e76f9",
-  type: "module",
+  type: "page-type/module",
   slug: "image-build",
   definition: "the folder, the recipe and the repository one image is built and pushed by",
   code: "ts",

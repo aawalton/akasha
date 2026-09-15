@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const toolchainManifest = {
   id: "01a0680f-d1b7-7713-9d02-85fa22f033a1",
-  type: "module",
+  type: "page-type/module",
   slug: "toolchain-manifest",
   definition: "where each binary a CI toolchain installs is fetched from",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gitAnswering = {
   id: "01a06816-2f10-79aa-bee4-b5831ee0eaca",
-  type: "module",
+  type: "page-type/module",
   slug: "git-answering",
   definition: "a git command run without a throw, and the code and both streams it answered",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const sessionIdentity = {
   id: "01a06863-8e7c-7703-ae2b-76173d35d19f",
-  type: "module",
+  type: "page-type/module",
   slug: "session-identity",
   definition: "who a Supabase session cookie proves a request is from",
   code: "ts",

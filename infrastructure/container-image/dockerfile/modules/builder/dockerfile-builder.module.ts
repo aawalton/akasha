@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dockerfileBuilder = {
   id: "01a06865-abff-7005-b853-662b71046aba",
-  type: "module",
+  type: "page-type/module",
   slug: "dockerfile-builder",
   definition: "the install and copy stages a Next.js build shares",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const inferenceNaming = {
   id: "01a0685d-4b35-7001-b274-eaa316779db7",
-  type: "module",
+  type: "page-type/module",
   slug: "inference-naming",
   definition: "the launchd label, conda environment and directory a service is known by",
   code: "ts",

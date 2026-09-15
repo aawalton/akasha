@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const persistAudio = {
   id: "01a0685d-4b35-7012-8f89-7a4a724dd167",
-  type: "module",
+  type: "page-type/module",
   slug: "persist-audio",
   definition: "the audio page a voice or music run lands, and the object it is stored under",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const operatorClassification = {
   id: "01a0680f-d1b7-79ab-913f-0358ec466fac",
-  type: "module",
+  type: "page-type/module",
   slug: "operator-classification",
   definition: "the class a TypeScript token counts as",
   code: "ts",

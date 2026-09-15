@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const ttlCache = {
   id: "01a06863-8e7c-73b7-9277-f3ce34ede55e",
-  type: "module",
+  type: "page-type/module",
   slug: "ttl-cache",
   definition: "a store dropping its oldest entry and its expired ones",
   code: "ts",

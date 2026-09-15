@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const clusterJobs = {
   id: "01a068d4-d2aa-72e1-bfcb-3e3912d25e2d",
-  type: "module",
+  type: "page-type/module",
   slug: "cluster-jobs",
   definition: "work the cluster runs once to completion, and what it wrote while running",
   code: "ts",

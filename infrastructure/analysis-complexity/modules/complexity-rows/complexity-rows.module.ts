@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const complexityRows = {
   id: "01a0680f-d1b7-76ad-870a-daf5928ec28b",
-  type: "module",
+  type: "page-type/module",
   slug: "complexity-rows",
   definition: "one row per function or per file holding what that one measured",
   code: "ts",

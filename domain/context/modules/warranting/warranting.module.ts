@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const warranting = {
   id: "01a04ee0-3078-7000-9069-e5db5da797ad",
-  type: "module",
+  type: "page-type/module",
   slug: "warranting",
   definition: "the readings a change owes, and which of them the record does not answer for",
   code: "ts",

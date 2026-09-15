@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const transportServing = {
   id: "01a06816-2f11-7332-be0c-24c2750a723d",
-  type: "module",
+  type: "page-type/module",
   slug: "transport-serving",
   definition: "the port the repositories and the questions about them are answered on",
   code: "ts",

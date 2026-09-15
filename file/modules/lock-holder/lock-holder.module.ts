@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const lockHolder = {
   id: "01a05231-61c5-7336-8fa7-302f778209a9",
-  type: "module",
+  type: "page-type/module",
   slug: "lock-holder",
   definition: "the process a lock's mark names, and whether it is still the one that took the lock",
   code: "ts",

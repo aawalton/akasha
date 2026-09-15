@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const riffBytes = {
   id: "01a07c81-bfd9-78c8-90fa-e6dee251111a",
-  type: "module",
+  type: "page-type/module",
   slug: "riff-bytes",
   definition: "the bytes a voice service answered, weighed for the header a wav opens with",
   code: "ts",

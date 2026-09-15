@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const guiSession = {
   id: "01a0685d-4b35-7008-800a-b27956eea787",
-  type: "module",
+  type: "page-type/module",
   slug: "gui-session",
   definition: "whether a macOS host has a login session launchd can put an agent in",
   code: "ts",

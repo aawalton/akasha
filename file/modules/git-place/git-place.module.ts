@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gitPlace = {
   id: "01a05361-09df-7452-a3cc-9443498c1d89",
-  type: "module",
+  type: "page-type/module",
   slug: "git-place",
   definition: "every name akasha keeps under the folder git does not track",
   code: "ts",

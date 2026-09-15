@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const talosctl = {
   id: "01a06813-7b0f-7010-a231-2838cd77ce50",
-  type: "module",
+  type: "page-type/module",
   slug: "talosctl",
   definition: "a spawned `talosctl` answered as a promise, with a guard on its output flag",
   code: "ts",

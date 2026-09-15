@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const provisionScript = {
   id: "01a0685d-4b35-7007-bb8e-7ea5dbcfc851",
-  type: "module",
+  type: "page-type/module",
   slug: "provision-script",
   definition: "the shell a host is asked to run to report, provision or tear down a service",
   code: "ts",

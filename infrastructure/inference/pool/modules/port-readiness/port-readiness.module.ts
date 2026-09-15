@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const portReadiness = {
   id: "01a06815-9efd-7009-ba3a-17a676912aec",
-  type: "module",
+  type: "page-type/module",
   slug: "port-readiness",
   definition: "waiting until a port answers or until a port falls silent",
   code: "ts",

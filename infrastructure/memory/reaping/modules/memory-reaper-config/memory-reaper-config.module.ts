@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const memoryReaperConfig = {
   id: "01a0686c-f06b-7007-b2bd-1fadc2d0ea23",
-  type: "module",
+  type: "page-type/module",
   slug: "memory-reaper-config",
   definition: "the ceilings, the headroom margin and the tick the reaper runs under",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const dockerfileImports = {
   id: "01a06865-abff-7004-9336-61c7231edee3",
-  type: "module",
+  type: "page-type/module",
   slug: "dockerfile-imports",
   definition: "the folders a service's entry files actually reach by import",
   code: "ts",

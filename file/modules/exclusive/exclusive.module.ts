@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const exclusive = {
   id: "01a05cb3-7cca-7c81-8846-ff73179e6498",
-  type: "module",
+  type: "page-type/module",
   slug: "exclusive",
   definition: "the turn one process takes over a path while it acts on it",
   code: "ts",

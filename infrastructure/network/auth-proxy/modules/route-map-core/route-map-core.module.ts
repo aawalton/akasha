@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const routeMapCore = {
   id: "01a06863-8e7c-7cd0-bc1e-33ed95b0fe0a",
-  type: "module",
+  type: "page-type/module",
   slug: "route-map-core",
   definition: "a host-to-target map read out of the text it is written as",
   code: "ts",

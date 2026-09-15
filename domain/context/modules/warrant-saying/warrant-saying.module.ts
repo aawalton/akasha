@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const warrantSaying = {
   id: "01a095e0-7f50-7b43-ba43-173e2cd13a40",
-  type: "module",
+  type: "page-type/module",
   slug: "warrant-saying",
   definition: "what a refusal says of one reading owed, composed from the warrant that owed it",
   code: "ts",

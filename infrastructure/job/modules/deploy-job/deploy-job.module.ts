@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const deployJob = {
   id: "01a0a0f6-5662-7252-90e8-ea20b000453f",
-  type: "module",
+  type: "page-type/module",
   slug: "deploy-job",
   definition: "the job a deploy runs as, checked out in the cluster at the commit it is made at",
   code: "ts",

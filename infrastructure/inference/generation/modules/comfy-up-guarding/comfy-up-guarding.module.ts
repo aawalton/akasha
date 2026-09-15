@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const comfyUpGuarding = {
   id: "01a0912f-d5ac-748b-919b-23e778a9482c",
-  type: "module",
+  type: "page-type/module",
   slug: "comfy-up-guarding",
   definition: "what a ComfyUI script refuses to start without",
   code: "ts",

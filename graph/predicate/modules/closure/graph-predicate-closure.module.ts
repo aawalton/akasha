@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const graphPredicateClosure = {
   id: "01a0a5ef-108b-7e25-8e6c-7dfb7d221cf4",
-  type: "module",
+  type: "page-type/module",
   slug: "graph-predicate-closure",
   definition: "the closure a predicate takes in from the seeds it is handed",
   code: "ts",

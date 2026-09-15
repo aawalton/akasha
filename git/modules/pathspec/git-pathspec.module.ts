@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const gitPathspec = {
   id: "01a068ae-fd9c-7001-ba59-e2b9fc02888f",
-  type: "module",
+  type: "page-type/module",
   slug: "git-pathspec",
   definition: "git asked which paths it ignores and which paths it tracks under a folder",
   code: "ts",

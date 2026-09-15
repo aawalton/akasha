@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const walkFunctions = {
   id: "01a0680f-d1b7-72c6-a3b9-0ccb673e665d",
-  type: "module",
+  type: "page-type/module",
   slug: "walk-functions",
   definition: "every function a source file has, with the name and line each one is at",
   code: "ts",

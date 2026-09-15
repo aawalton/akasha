@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const commitReading = {
   id: "01a0523f-0e48-7c39-8708-125994cc3e59",
-  type: "module",
+  type: "page-type/module",
   slug: "commit-reading",
   definition: "the body a commit holds at a path, read without a git run for each one",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const mlxImageClient = {
   id: "01a0682d-8ef5-7002-bb72-c45901a73f64",
-  type: "module",
+  type: "page-type/module",
   slug: "mlx-image-client",
   definition: "an image asked of the MLX image service from a prompt",
   code: "ts",
