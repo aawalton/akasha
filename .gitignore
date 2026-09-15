@@ -9,14 +9,6 @@
 # `.claude` is tracked here.
 .claude/
 
-# The indexes the pages are read through, which a refresh writes again from the
-# pages alone. Each checkout has its own, so a worktree reads the index of the
-# pages that worktree holds. Git holds the answers of the indexes left out here,
-# so a change carries those answers among its own file changes and lands them in
-# the same commit. Which indexes those are is stated on their own pages, and a
-# line here is that statement's other half.
-.index/import/
-
 # Installed dependencies and compiled output.
 node_modules/
 dist/

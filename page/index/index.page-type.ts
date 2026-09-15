@@ -8,7 +8,6 @@ export const index = {
   parts: [
     "boolean-property/index-tracked",
     "index/index-identity",
-    "index/index-import",
     "index/index-edge",
     "module/beside-turning",
     "module/extension-carrying",
