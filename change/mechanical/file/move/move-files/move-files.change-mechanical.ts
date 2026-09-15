@@ -45,10 +45,6 @@ export const moveFiles = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "An index that cannot answer which bodies import a file refuses the move.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
       statement: "A manifest naming a moved file as a way in states the path that file landed at.",
     },
     {
