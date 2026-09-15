@@ -1,4 +1,5 @@
 import { dirname } from "node:path"
+import { shadowedIn } from "akasha/change/modules/bound-names/bound-names.module.code.ts"
 import type {
   Asked,
   Carrying,
@@ -287,6 +288,12 @@ function ontoFor(
     )
   )
   const source = parsedAs(given.to, landed)
+  for (const one of written) {
+    const shadowed = shadowedIn(source, one.declared)
+    if (shadowed === null) continue
+    const said = `which \`${given.to}\` already declares`
+    return { refused: `\`${one.name}\` binds \`${shadowed}\`, ${said}` }
+  }
   const there = new Map([...importsIn(source), ...everyIn(source)])
   const taking: Taking[] = []
   let text = landed

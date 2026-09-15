@@ -280,6 +280,14 @@ export const OTHER = join("x", "y")
 export const BARE = `export const OTHER = 1
 `
 
+export const SHADOWING = `import type { Deep } from "./deep.held.ts"
+
+export const reasonsOver: (given: Deep) => readonly string[] = () => []
+`
+
+export const DECLARES_GIVEN = `export const given = 1
+`
+
 export const CLASHES = `import { join } from "./other.held.ts"
 
 export const OTHER = join("x", "y")

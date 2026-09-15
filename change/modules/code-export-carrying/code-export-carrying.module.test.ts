@@ -13,6 +13,7 @@ import {
   bodyIn,
   CARRIED_ALIAS,
   CLASHES,
+  DECLARES_GIVEN,
   DEEP,
   ELSEWHERE,
   FAR,
@@ -38,6 +39,7 @@ import {
   ROOT_AT,
   ROOTED_USING,
   refusalIn,
+  SHADOWING,
   SHARED,
   SIBLING,
   SIBLING_BACK,
@@ -70,6 +72,8 @@ const KEPT_FAR = { from: FROM, to: ELSEWHERE, of: ["Kept"] }
 const TWO = { from: FROM, to: TO, of: ["Kept", "Other"] }
 
 const SEARCH = { from: FROM, to: TO, of: ["searchOf"] }
+
+const REASONS = { from: FROM, to: TO, of: ["reasonsOver"] }
 
 const NODE_PATH = `from "node:path"`
 
@@ -203,6 +207,12 @@ test("a landing body naming that import from another path is refused", () => {
   const made = planOf({ [FROM]: VALUED, [TO]: CLASHES }, AT)
 
   expect(refusalIn(made)).toBe(`\`${TO}\` already names \`join\` from \`./other.held.ts\``)
+})
+
+test("a declaration that binds a name the landing body declares is refused", () => {
+  const made = planOf({ [FROM]: SHADOWING, [TO]: DECLARES_GIVEN }, REASONS)
+
+  expect(refusalIn(made)).toBe(`\`reasonsOver\` binds \`given\`, which \`${TO}\` already declares`)
 })
 
 test("a landing path already declaring that type is left as it is", () => {

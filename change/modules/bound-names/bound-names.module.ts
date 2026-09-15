@@ -1,0 +1,81 @@
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
+
+export const boundNames = {
+  id: "01a0a67e-333d-7266-bf7a-3c5e63cb0dfb",
+  type: "page-type/module",
+  slug: "bound-names",
+  definition: "the names a declaration binds beneath itself and the names a body binds at its top",
+  code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "`noShadow` refuses a name bound beneath a declaration that the body around it already binds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A parameter binds every name its pattern binds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A parameter of a function type binds as readily as a parameter of a function with a body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A type parameter binds its name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A variable declared beneath a declaration binds every name its pattern binds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A function declared beneath a declaration binds its name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name a pattern binds from a key is bound, and the key it binds from is not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The name a declaration itself states is bound above that declaration rather than beneath it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body binds at its top every name its import lines name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name taken as a namespace and a name taken as a default are each bound there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A variable, a function, a class, a type, an interface and an enum each bind their name there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The name answered as shadowed is the first name bound beneath that the body binds at its top.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A declaration shadowing nothing is answered with no name.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here reads the disk or the index.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here rewrites a body or renames anything.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here says what a caller does with a name shadowed.",
+    },
+  ],
+} as const satisfies Module

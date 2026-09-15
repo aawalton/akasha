@@ -169,6 +169,25 @@ export const codeExportCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Carrying a declaration that binds a name the landing body already declares is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That refusal names the first such name and the path the declaration would land at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Which names a declaration and a body bind is read from `bound-names` rather than here.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here renames a name a declaration binds to make room for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A landing body that imported a declaration carried imports it no longer.",
     },
     {
