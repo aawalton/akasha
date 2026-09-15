@@ -29,6 +29,11 @@ export const veraGraphCleanup = {
       workingMemory:
         "Measured by `performance/answer-cost`: out landing 555 files 292ms, in landing 1079 files 87ms, out graph-asking 143 files 52ms, in graph-asking 1102 files 65ms, out page-value-reading 31 files 20ms, in page-value-reading 3325 files 142ms. Reading a body out costs about 0.5ms a file, reading beside a page in about 0.05ms. The largest closure is 292ms against a typecheck averaging 14.8s over 3499 runs. Whether that wants a cache is Alan's to settle.",
     },
+    {
+      statement: "What a closure costs is measured by a command, as a change and a check are.",
+      workingMemory:
+        "Alan asked for `akasha measure` to take a predicate closure, beside `measure change`, `measure check`, `measure audit` and `measure deploy`. Today the only measurement is `graph/closure/answer-cost`, a performance page run by hand.",
+    },
   ],
   constraints: [
     "Alan approves every new caching mechanism before it is built.",
