@@ -136,6 +136,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/modules/change-walking/change-walking.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/modules/refusal-text/refusal-text.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/editor/extension/modules/palette/palette.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/editor/extension/modules/palette/palette.module.test.ts"}

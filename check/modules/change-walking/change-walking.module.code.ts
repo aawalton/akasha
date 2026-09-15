@@ -6,6 +6,7 @@ import type {
   RunningAsync,
 } from "akasha/check/modules/judging/judging.module.code.ts"
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
+import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { ENTRY_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -17,6 +18,10 @@ import {
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { type Loaded, loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
+import {
+  textAt,
+  textsAt,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { isMissing } from "akasha/util/fs/modules/missing/missing.module.code.ts"
 import { sortedOnce } from "akasha/util/narrow/modules/sorted-once/sorted-once.module.code.ts"
 import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
@@ -79,6 +84,48 @@ export function pageTypesFor(shadow: Shadow): ReadonlySet<string> {
   const made = shadow.index.pageTypesIn()
   PAGE_TYPES.set(shadow, made)
   return made
+}
+
+const CHANGE = "change"
+
+const PAGE_TYPE = "page-type"
+
+const SLUG = "slug"
+
+const EXTENDS = "extends"
+
+const PARTED_BY = "/"
+
+function slugOf(address: string): string {
+  const cut = address.indexOf(PARTED_BY)
+  return cut < 0 ? address : address.slice(cut + 1)
+}
+
+function reachesChange(
+  slug: string,
+  above: ReadonlyMap<string, readonly string[]>,
+  seen: Set<string>
+): boolean {
+  if (slug === CHANGE) return true
+  if (seen.has(slug)) return false
+  seen.add(slug)
+  return (above.get(slug) ?? []).some((one) => reachesChange(one, above, seen))
+}
+
+export function changesSparing(index: Answering): ReadonlySet<string> {
+  const above = new Map<string, readonly string[]>()
+  for (const listed of index.everyOfType(PAGE_TYPE)) {
+    const value = index.pageByPath(listed.path)
+    if (value === null) continue
+    const slug = textAt(value, SLUG)
+    if (slug === null) continue
+    above.set(slug, (textsAt(value, EXTENDS) ?? []).map(slugOf))
+  }
+  const found = new Set<string>()
+  for (const slug of above.keys()) {
+    if (slug !== CHANGE && reachesChange(slug, above, new Set())) found.add(slug)
+  }
+  return found
 }
 
 export const FILES: Selector<Body> = {

@@ -190,6 +190,15 @@ export const noUnusedExports = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement:
+        "The `runChange` and `takes` a change's code exports are reached by the change loader.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "Which page types are changes is read from what they extend rather than listed.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The `runService` a service's running code exports is reached by its runner.",
     },
     {

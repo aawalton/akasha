@@ -2,6 +2,7 @@ import { basename, dirname } from "node:path"
 import { exportsIn } from "akasha/check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.decision.code.ts"
 import { loadingIn } from "akasha/check/code/pages/check-reaches-a-path-through-the-index/modules/specifier-placing/specifier-placing.module.code.ts"
 import {
+  changesSparing,
   pageTypesFor,
   textIn,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
@@ -154,6 +155,10 @@ const FIXTURE = "test-fixture"
 const TEST = "test"
 
 const RUNNER = "change-runner"
+
+const RUN_CHANGE = "runChange"
+
+const TAKES = "takes"
 
 function toldApart(name: string): boolean {
   return name !== ANYTHING && name !== DEFAULT
@@ -332,6 +337,7 @@ export function sparedIn(
   groups: ReadonlyMap<string, string>,
   loaders: ReadonlySet<string>,
   reached: ReadonlyMap<string, ReadonlySet<string>>,
+  changes: ReadonlySet<string>,
   bodyOf: Bodied
 ): ReadonlySet<string> {
   const said = partedIn(path)
@@ -339,6 +345,7 @@ export function sparedIn(
   if (fixed !== null) return fixed
   if (said === null || !pageTypes.has(said.pageType)) return NOTHING
   if (uncommittedNamed(path)) return new Set([nameFor(`${pageOf(said)}.${HELD}`)])
+  if (changes.has(said.pageType) && said.sections.length > 0) return new Set([RUN_CHANGE, TAKES])
   const lua = luaNamed(path, said, bodyOf)
   if (lua !== null) return new Set([lua])
   const loaded = loadedBeside(said, loaders) ? exportedAs(said.slug) : null
@@ -437,12 +444,15 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
   const groups = groupsSparing(shadow.index)
   const loaders = loadersSparing(shadow.index)
   const reached = reachedByPathSparing(shadow.index)
+  const changes = changesSparing(shadow.index)
   const judged: Judged[] = []
   for (const path of change.changed) {
     if (!typeScripted(path)) continue
     const text = textIn(change, path)
     if (text === null) continue
-    const spared = sparedIn(path, pageTypes, groups, loaders, reached, (at) => textIn(change, at))
+    const spared = sparedIn(path, pageTypes, groups, loaders, reached, changes, (at) =>
+      textIn(change, at)
+    )
     for (const reason of reasonsFor(path, text, change, shadow, spared)) {
       judged.push({ path, reason })
     }

@@ -19,6 +19,14 @@ export const changeWalking = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "Which page types are changes is read from what each page type extends.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A page type extending a change through another page type is a change too.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A body read as code is named `.ts` or `.tsx`.",
     },
     {
