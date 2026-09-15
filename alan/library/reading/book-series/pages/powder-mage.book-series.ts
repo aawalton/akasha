@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const powderMage = {
   id: "019db533-f39b-7598-a4a9-d0fa97321bc7",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "powder-mage",
   title: "Powder Mage",
   status: "not-started",

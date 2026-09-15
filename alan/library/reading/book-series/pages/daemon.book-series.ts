@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const daemon = {
   id: "019db533-f39b-7548-a85d-583374a54bdd",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "daemon",
   title: "Daemon",
   status: "not-started",

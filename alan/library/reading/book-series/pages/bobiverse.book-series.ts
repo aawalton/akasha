@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const bobiverse = {
   id: "019db533-f39b-7538-9749-02e9370ed104",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "bobiverse",
   title: "Bobiverse",
   status: "not-started",

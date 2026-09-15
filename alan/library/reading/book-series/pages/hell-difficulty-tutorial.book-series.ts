@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const hellDifficultyTutorial = {
   id: "019db533-f38b-7823-8b86-6df940f1b4d3",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "hell-difficulty-tutorial",
   title: "Hell Difficulty Tutorial",
   status: "not-started",

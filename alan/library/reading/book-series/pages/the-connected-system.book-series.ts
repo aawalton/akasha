@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const theConnectedSystem = {
   id: "019db533-f38b-768f-b451-06c450038e39",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "the-connected-system",
   title: "The Connected System",
   status: "not-started",

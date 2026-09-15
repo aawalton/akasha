@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const theExpanse2 = {
   id: "019db533-f39b-7335-a849-750f1358b8f0",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "the-expanse-2",
   title: "The Expanse",
   status: "not-started",

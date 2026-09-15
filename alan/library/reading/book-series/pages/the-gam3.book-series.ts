@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const theGam3 = {
   id: "019db533-f38b-7686-bdfb-c629e7b5b1c1",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "the-gam3",
   title: "The Gam3",
   status: "completed",

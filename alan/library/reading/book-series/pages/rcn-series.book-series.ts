@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const rcnSeries = {
   id: "019db533-f39b-74b8-bc24-97849b30f5d4",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "rcn-series",
   title: "RCN Series",
   status: "not-started",

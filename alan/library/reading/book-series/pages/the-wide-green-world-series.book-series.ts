@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const theWideGreenWorldSeries = {
   id: "019db533-f39b-745f-81d5-ba2ec3c82bcc",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "the-wide-green-world-series",
   title: "The Wide Green World Series",
   status: "not-started",

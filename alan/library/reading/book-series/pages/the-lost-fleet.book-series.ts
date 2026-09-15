@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const theLostFleet = {
   id: "019db533-f39b-7487-90bf-24ef826f1142",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "the-lost-fleet",
   title: "The Lost Fleet",
   status: "not-started",

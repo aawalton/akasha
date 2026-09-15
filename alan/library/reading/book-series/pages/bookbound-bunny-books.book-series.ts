@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const bookboundBunnyBooks = {
   id: "019db533-f389-721b-a00a-98da800487a3",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "bookbound-bunny-books",
   title: "Bookbound Bunny Books",
   status: "not-started",

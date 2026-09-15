@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const unknownSeries9 = {
   id: "019db533-f38b-767b-a640-757841c17c39",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "unknown-series-9",
   title: "Unknown Series",
   status: "following",

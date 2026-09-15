@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const theLastTide = {
   id: "019db533-f39d-7c75-b142-fcb578be0834",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "the-last-tide",
   title: "The Last Tide",
   status: "completed",

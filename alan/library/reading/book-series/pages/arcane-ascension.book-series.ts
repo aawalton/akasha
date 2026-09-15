@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const arcaneAscension = {
   id: "019db533-f38a-743e-8a6a-f644c03de2d8",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "arcane-ascension",
   title: "Arcane Ascension",
   status: "following",

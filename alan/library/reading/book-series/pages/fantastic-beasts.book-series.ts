@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const fantasticBeasts = {
   id: "019db533-f38b-7547-9506-b0b14f4f9b67",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "fantastic-beasts",
   title: "Fantastic Beasts",
   status: "not-started",

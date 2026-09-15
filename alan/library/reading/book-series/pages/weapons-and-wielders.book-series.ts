@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const weaponsAndWielders = {
   id: "019db533-f38a-7446-b978-1c200bccce47",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "weapons-and-wielders",
   title: "Weapons and Wielders",
   status: "following",

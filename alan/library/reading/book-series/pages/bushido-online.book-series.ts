@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const bushidoOnline = {
   id: "019db533-f38b-78cd-9faa-f55184ae233a",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "bushido-online",
   title: "Bushido Online",
   status: "not-started",

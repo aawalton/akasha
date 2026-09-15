@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const scaleAndSea = {
   id: "019db533-f38a-74b8-bee0-2c06506d08c8",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "scale-and-sea",
   title: "Scale & Sea",
   status: "completed",

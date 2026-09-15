@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const rama = {
   id: "019db533-f39b-7490-b6f6-8dfd49b74b62",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "rama",
   title: "Rama",
   status: "not-started",

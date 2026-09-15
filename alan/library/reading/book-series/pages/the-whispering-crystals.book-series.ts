@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const theWhisperingCrystals = {
   id: "019db533-f38b-7615-9a2f-8c5d1411cd0c",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "the-whispering-crystals",
   title: "The Whispering Crystals",
   status: "not-started",

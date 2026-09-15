@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const annalsOfDrakis = {
   id: "019db533-f39b-7590-8200-7e6d6e6e1371",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "annals-of-drakis",
   title: "Annals of Drakis",
   status: "not-started",

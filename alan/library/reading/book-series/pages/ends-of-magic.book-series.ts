@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const endsOfMagic = {
   id: "019db533-f38b-784c-b6c1-352ee7a84bfa",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "ends-of-magic",
   title: "Ends of Magic",
   status: "following",

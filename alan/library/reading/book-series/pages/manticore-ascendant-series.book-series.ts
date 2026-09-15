@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const manticoreAscendantSeries = {
   id: "019db533-f39b-7500-afaf-3bc624c54c24",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "manticore-ascendant-series",
   title: "Manticore Ascendant series",
   status: "not-started",

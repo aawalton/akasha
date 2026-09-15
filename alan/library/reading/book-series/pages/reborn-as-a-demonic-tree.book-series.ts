@@ -2,7 +2,7 @@ import type { BookSeries } from "akasha/alan/library/reading/book-series/book-se
 
 export const rebornAsADemonicTree = {
   id: "019db533-f38b-77b6-b950-be06c174dfa1",
-  type: "book-series",
+  type: "page-type/book-series",
   slug: "reborn-as-a-demonic-tree",
   title: "Reborn as a Demonic Tree",
   status: "following",
