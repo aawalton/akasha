@@ -12,7 +12,6 @@ import {
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
   type Drift,
-  dropBuilt,
   keepBuilt,
   keepDelta,
   keepWhole,
@@ -119,10 +118,7 @@ export function refreshedFrom(
   put = true,
   done: string[] = []
 ): Refreshed {
-  if (put) {
-    mkdirSync(root, { recursive: true })
-    dropBuilt(root)
-  }
+  if (put) mkdirSync(root, { recursive: true })
   const held: { readonly path: string; readonly value: Value }[] = []
   for (const path of pagesUnder(tree)) {
     const value = valueAt(path, repo)

@@ -336,10 +336,10 @@ test("a refresh that ran through leaves the index saying it is whole", () => {
   expect(builtThere(aRefreshedWorld().root)).toBe(true)
 })
 
-test("a refresh that stopped part way leaves the index saying nothing", () => {
+test("a refresh that stopped part way leaves the index saying it is whole still", () => {
   const { tree, root } = aRefreshBlocked()
 
   expect(() => refreshedFrom(tree, root, tree)).toThrow()
 
-  expect(builtThere(root)).toBe(false)
+  expect(builtThere(root)).toBe(true)
 })

@@ -4,7 +4,6 @@ import { join } from "node:path"
 import {
   bodiesFrom,
   builtThere,
-  dropBuilt,
   filedUnder,
   keepBuilt,
   keepDelta,
@@ -247,27 +246,24 @@ test("what one repair wrote is named beside what the repair before it wrote", ()
   expect(done).toEqual(["held — 1 file written", "taking away — 1 file taken away"])
 })
 
-test("the mark saying an index is whole goes on and comes off again", () => {
+test("the mark saying an index is whole is written at the top of that index", () => {
   const root = rootAt()
 
   keepBuilt(root)
 
   expect(builtThere(root)).toBe(true)
   expect(bodyAt(root, BUILT_AT)).toBe(BUILT_SAID)
-
-  dropBuilt(root)
-
-  expect(builtThere(root)).toBe(false)
 })
 
-test("taking anything away from an index saying it is whole is refused", () => {
+test("a file no entry names is taken away while the index still says it is whole", () => {
   const root = rootAt()
   writing(root, GONE, "{}\n")
   keepBuilt(root)
 
-  expect(() => takenAway([], root, true)).toThrow("says it is whole")
+  expect(takenAway([], root, true)).toEqual([GONE])
 
-  expect(bodyAt(root, GONE)).toBe("{}\n")
+  expect(bodyAt(root, GONE)).toBe(null)
+  expect(builtThere(root)).toBe(true)
 })
 
 test("the mark is no path a repair names as one the pages no longer imply", () => {

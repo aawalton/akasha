@@ -140,7 +140,7 @@ export const indexKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "Taking anything away from an index still carrying that mark is refused.",
+      statement: "A file the pages no longer imply is taken away while that mark stays on.",
     },
     {
       invariantKind: "absence",
@@ -149,6 +149,10 @@ export const indexKeeping = {
     {
       invariantKind: "absence",
       statement: "Nothing here says in words the change a refresh made.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here takes that mark off an index.",
     },
   ],
 } as const satisfies Module

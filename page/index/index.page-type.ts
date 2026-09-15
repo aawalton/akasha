@@ -217,12 +217,13 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "A refresh part way through says nothing, so nobody reads it as an index.",
+      statement:
+        "A refresh leaves that mark on, so a reader reading while a refresh runs is answered.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
-        "A long-running reader is delayed by an index part way through a refresh rather than ended by it.",
+        "A file is put in place whole, so a reader reads it as it was or as the refresh left it.",
     },
     {
       invariantKind: "departure",

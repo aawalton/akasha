@@ -138,9 +138,6 @@ export function reconcile(
   return { added: added.sort(), changed: changed.sort() }
 }
 
-const STILL_WHOLE =
-  "the index says it is whole, so nothing is taken away from it — the mark comes off as a rebuild opens and goes back on once that rebuild has taken away what it takes away"
-
 export function builtThere(root: string): boolean {
   return existsSync(join(root, BUILT_AT))
 }
@@ -152,17 +149,12 @@ export function keepBuilt(root: string): undefined {
   renameSync(near, join(root, BUILT_AT))
 }
 
-export function dropBuilt(root: string): undefined {
-  rmSync(join(root, BUILT_AT), { force: true })
-}
-
 export function takenAway(
   entries: readonly Entry[],
   root: string,
   put: boolean,
   done: string[] = []
 ): readonly string[] {
-  if (put && builtThere(root)) throw new Error(STILL_WHOLE)
   const wanted = new Set(entries.map((one) => one.at))
   const went: string[] = []
   const where = done.length

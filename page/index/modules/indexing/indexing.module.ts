@@ -83,11 +83,11 @@ export const indexing = {
     {
       invariantKind: "departure",
       statement:
-        "A refresh takes the mark saying the index is whole off as it opens and puts it back as it closes.",
+        "A refresh leaves the mark saying the index is whole on from the first file it writes to the last.",
     },
     {
       invariantKind: "departure",
-      statement: "A refresh that stopped part way leaves no mark.",
+      statement: "A refresh that stopped part way leaves an index every reader still reads.",
     },
   ],
 } as const satisfies Module

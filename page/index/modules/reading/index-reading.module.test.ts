@@ -1,10 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
+import { rmSync } from "node:fs"
+import { join } from "node:path"
 import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { dropBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import {
   everyOfType,
   importersOf,
@@ -23,7 +24,11 @@ import {
   scopedFiled,
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { indexAt, indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import {
+  BUILT_AT,
+  indexAt,
+  indexIn,
+} from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { shapeFiled, shapeFileFor } from "akasha/page/index/shapes/index-shapes.index.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
@@ -146,10 +151,10 @@ test("every reader is refused where the index stands nowhere, whatever it was as
   expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
 })
 
-test("every reader is refused where a refresh left the index part way through", () => {
+test("every reader is refused where the first build of the index never finished", () => {
   const root = rootAt()
   idFiled(root, A, [{ path: "akasha/a.module.ts", id: A }])
-  dropBuilt(indexIn(root))
+  rmSync(join(indexIn(root), BUILT_AT))
 
   expect(() => listedById(root, A)).toThrow(/is not an index naming none/)
 })
