@@ -6,7 +6,7 @@ export const learnEverything = {
   slug: "learn-everything",
   definition: "how far into the whole of knowledge Ali has read, node by node",
   parts: [
-    "domain/learn-everything-commands",
+    "domain/learn-everything-command",
     "module/seeded-draw",
     "module/topic-tree",
     "page-type/learn-everything-topic",
