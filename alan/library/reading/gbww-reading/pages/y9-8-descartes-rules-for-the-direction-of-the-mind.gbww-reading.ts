@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y98DescartesRulesForTheDirectionOfTheMind = {
   id: "019f0c09-c06f-7b4d-babe-b3194ac0dac8",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y9-8-descartes-rules-for-the-direction-of-the-mind",
   title: "Y9.8 Descartes: Rules for the Direction of the Mind",
   author: "Descartes",

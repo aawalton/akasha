@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y919VeblenTheTheoryOfTheLeisureClass = {
   id: "019f0c09-c0b4-7124-b6bc-c9a698a4473e",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y9-19-veblen-the-theory-of-the-leisure-class",
   title: "Y9.19 Veblen: The Theory of the Leisure Class",
   author: "Veblen",

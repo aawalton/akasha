@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y97GilbertOnTheLoadstone = {
   id: "019f0c09-c064-7ec5-8128-024ddde97d82",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y9-7-gilbert-on-the-loadstone",
   title: "Y9.7 Gilbert: On the Loadstone",
   author: "Gilbert",

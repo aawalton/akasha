@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y920JoyceAPortraitOfTheArtistAsAYoungMan = {
   id: "019f0c09-c0bb-74c3-a172-367146ff3641",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y9-20-joyce-a-portrait-of-the-artist-as-a-young-man",
   title: "Y9.20 Joyce: A Portrait of the Artist as a Young Man",
   author: "Joyce",

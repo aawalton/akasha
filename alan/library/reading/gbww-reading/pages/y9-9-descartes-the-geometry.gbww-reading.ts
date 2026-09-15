@@ -2,7 +2,7 @@ import type { GbwwReading } from "akasha/alan/library/reading/gbww-reading/gbww-
 
 export const y99DescartesTheGeometry = {
   id: "019f0c09-c076-7d54-8881-69e8f15548a2",
-  type: "gbww-reading",
+  type: "page-type/gbww-reading",
   slug: "y9-9-descartes-the-geometry",
   title: "Y9.9 Descartes: The Geometry",
   author: "Descartes",
