@@ -1,6 +1,5 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 import type { AllowsTmpPaths } from "akasha/page/type/properties/allows-tmp-paths.boolean-property.types.ts"
-import type { Carried } from "akasha/page/type/properties/carried.file-property.types.ts"
 import type { DetailConfig } from "akasha/page/type/properties/detail-config.record-property.types.ts"
 import type { DrawnOffline } from "akasha/page/type/properties/drawn-offline.boolean-property.types.ts"
 import type { ExtendsType } from "akasha/page/type/properties/extends-type.relation-property.types.ts"
@@ -17,6 +16,7 @@ import type { Properties } from "akasha/page/type/properties/properties.one-of-p
 import type { PropertyBadgeComponent } from "akasha/page/type/properties/property-badge-component.component-property-group.ts"
 import type { PropertyRowComponent } from "akasha/page/type/properties/property-row-component.component-property-group.ts"
 import type { RunsTabooCheck } from "akasha/page/type/properties/runs-taboo-check.boolean-property.types.ts"
+import type { Schema } from "akasha/page/type/properties/schema.file-property.types.ts"
 import type { Sequence } from "akasha/page/type/properties/sequence.record-property.types.ts"
 import type { TypeGenerator } from "akasha/page/type/properties/type-generator.file-property.types.ts"
 import type { Types } from "akasha/page/type/properties/types.file-property.types.ts"
@@ -42,5 +42,5 @@ export type PageType = Domain & {
   propertyBadgeComponent?: PropertyBadgeComponent
   propertyRowComponent?: PropertyRowComponent
   drawnOffline?: DrawnOffline
-  carried?: Carried
+  schema?: Schema
 }

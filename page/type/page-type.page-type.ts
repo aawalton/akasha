@@ -26,7 +26,7 @@ export const pageType = {
     "component-property-group/property-badge-component",
     "component-property-group/property-row-component",
     "false-property/one-valued",
-    "file-property/carried",
+    "file-property/schema",
     "file-property/type-generator",
     "file-property/types",
     "module/declared-properties",
@@ -105,7 +105,7 @@ export const pageType = {
       many: false,
     },
     { pageProperty: "boolean-property/drawn-offline", required: false, many: false },
-    { pageProperty: "file-property/carried", required: false, many: false },
+    { pageProperty: "file-property/schema", required: false, many: false },
   ],
   typeGenerator: "ts",
   invariants: [
