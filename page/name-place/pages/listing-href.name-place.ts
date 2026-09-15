@@ -9,11 +9,11 @@ export const listingHref = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "An address is built of the page type's plural.",
+      statement: "An address is built of the page type's slug.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The plural is named elsewhere.",
+      statement: "The slug is named on the page type.",
     },
     {
       invariantKind: "invariant-kind/departure",

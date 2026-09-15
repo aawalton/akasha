@@ -10,11 +10,11 @@ export const alanWebPageListing = {
   invariants: [
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The segment in the url is the page type's plural slug.",
+      statement: "The segment in the url is the page type's slug.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A plural slug reaching no page type is answered 404.",
+      statement: "A slug reaching no page type is answered 404.",
     },
   ],
 } as const satisfies Route
