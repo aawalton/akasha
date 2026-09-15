@@ -6,7 +6,7 @@ export const fileIsOwnedByAPage = {
   slug: "file-is-owned-by-a-page",
   definition: "the check refusing a file that belongs to no page",
   runsOnChange: true,
-  runsOnDeploy: false,
+  runsOnDeploy: true,
   runsOnAudit: true,
   decisions: [
     {
