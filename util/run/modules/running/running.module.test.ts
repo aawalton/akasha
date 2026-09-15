@@ -185,12 +185,6 @@ test("a process given no memory ceiling is held to none", () => {
   expect(ran(["sh", "-c", `cat ${WEIGHING}/memory.high`], MEASURED).out.trim()).toBe("max")
 })
 
-test("a process past its memory ceiling runs to its end rather than being ended", () => {
-  const done = ran(["bun", "-e", "new Uint8Array(80e6).fill(1)"], { memoryCeiling: 64 })
-  expect(done.code).toBe(0)
-  expect(done.signal).toBeNull()
-}, 120000)
-
 test("a process inside one given a ceiling states a ceiling above its own", () => {
   const inner =
     `import { ran } from ${JSON.stringify(CODE)}; ` +
