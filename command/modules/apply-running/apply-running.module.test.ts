@@ -24,11 +24,11 @@ import { baseOf } from "akasha/command/modules/landing-change-composing/landing-
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing as putting } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
+import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import {
   AKASHA,
   rootEnvName,

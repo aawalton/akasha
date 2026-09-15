@@ -5,12 +5,6 @@ import { admitting } from "akasha/check/test/fixture/minting/minting.test-fixtur
 import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
 import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
-import {
-  idFiled,
-  listedFiled,
-  shapeAlsoFiled,
-  valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { refreshedFrom } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { claimantIn } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
@@ -23,6 +17,12 @@ import {
   indexIn,
   overlaidOn,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import {
+  idFiled,
+  listedFiled,
+  shapeAlsoFiled,
+  valueAlsoFiled,
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import {
   fileNameOf,
   IMPORT,

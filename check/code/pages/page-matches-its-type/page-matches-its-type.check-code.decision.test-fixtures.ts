@@ -9,13 +9,13 @@ import {
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import {
   relationFiled,
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Formatting } from "akasha/page/name-format/modules/format-reaching/format-reaching.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 

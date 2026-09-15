@@ -6,11 +6,6 @@ import {
   pageTypesIn,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
-  idFiled,
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import {
   carryingOf,
   declaringOf,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
@@ -32,6 +27,11 @@ import {
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import {
+  idFiled,
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import {
   idsNaming,
   namersOf,

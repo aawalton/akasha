@@ -9,7 +9,7 @@ import {
   staged,
 } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

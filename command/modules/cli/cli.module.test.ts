@@ -12,12 +12,12 @@ import { COMMAND_TYPE_AT } from "akasha/command/modules/cli/cli.module.test-fixt
 import { CLAUDE_AUTHOR } from "akasha/command/modules/commit-author/commit-author.module.code.ts"
 import { MARKED } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const COMMAND = "command"
 

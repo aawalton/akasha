@@ -14,14 +14,14 @@ import type { Judged, Judging } from "akasha/check/modules/judging/judging.modul
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
-  idFiled,
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import {
   identitiesTakenFrom,
   noneOfTypeFiled,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import {
+  idFiled,
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"

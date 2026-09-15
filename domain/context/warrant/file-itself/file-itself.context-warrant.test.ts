@@ -7,16 +7,16 @@ import {
 } from "akasha/domain/context/warrant/file-itself/file-itself.context-warrant.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
-import {
-  idFiled,
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { generatedAt } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import {
   relationFiled,
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import {
+  idFiled,
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const scratch = scratchWorld()

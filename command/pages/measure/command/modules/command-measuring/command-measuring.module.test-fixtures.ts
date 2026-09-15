@@ -1,6 +1,6 @@
 import { agoOf, HOUR } from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
-import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 export const ONE = "01a08071-39a4-7000-9c6b-6cee59d30d10"
 

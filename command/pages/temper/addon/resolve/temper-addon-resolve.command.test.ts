@@ -4,7 +4,7 @@ import { join } from "node:path"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { temperAddonResolve } from "akasha/command/pages/temper/addon/resolve/temper-addon-resolve.command.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { manifestFor } from "akasha/temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.code.ts"
 
 const scratch = scratchWorld()

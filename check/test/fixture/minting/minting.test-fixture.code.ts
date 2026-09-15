@@ -6,7 +6,7 @@ import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 
 export const REFUSES_CODE = `export function refuses(change) {

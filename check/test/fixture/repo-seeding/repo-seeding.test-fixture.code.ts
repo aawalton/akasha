@@ -26,12 +26,12 @@ import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting
 import { warrantsSeeded } from "akasha/domain/context/modules/warranting/warranting.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
+import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 export const ADMITS_AT = "akasha/admits.check-code*"
 

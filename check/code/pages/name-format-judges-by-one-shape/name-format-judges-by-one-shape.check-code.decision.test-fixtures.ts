@@ -13,7 +13,7 @@ import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 export const AT = "akasha/f/lower-kebab-case.name-format.code.ts"

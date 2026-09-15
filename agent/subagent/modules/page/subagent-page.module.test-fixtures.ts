@@ -12,13 +12,13 @@ import { said as outOf } from "akasha/code/spawning/modules/running/running.modu
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import {
   listedTakenFrom,
   refreshedIn,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"

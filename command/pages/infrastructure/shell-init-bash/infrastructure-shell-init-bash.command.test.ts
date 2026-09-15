@@ -4,8 +4,8 @@ import { infrastructureShellInitBash } from "akasha/command/pages/infrastructure
 import { ACCOUNT_TYPE_AT } from "akasha/command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.test-fixtures.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
-import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const given: Given = {
   root: "/var/home/walton/repos/akasha",

@@ -20,11 +20,6 @@ import {
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running as runningChange } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import {
-  idFiled,
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import type { Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import {
   listedAndValued,
@@ -33,6 +28,11 @@ import {
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import {
+  idFiled,
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import {
   indexedRepo,
   put,

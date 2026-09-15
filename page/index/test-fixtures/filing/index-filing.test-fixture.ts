@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-type.types.ts"
 
 export const indexFiling = {
   id: "01a08e9f-f494-79ea-9155-8f6f56dbf41c",
-  type: "page-type/module",
+  type: "page-type/test-fixture",
   slug: "index-filing",
   definition: "the index lines and page bodies a test files into a root of its own",
   code: "ts",
@@ -73,4 +73,4 @@ export const indexFiling = {
       statement: "A shape whose page type is filed nowhere is not written.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture

@@ -14,7 +14,6 @@ import {
   shaped,
   shaping,
 } from "akasha/page/index/modules/entries/index-entries.module.test-fixtures.ts"
-import { lineFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   knownIn,
   namesMortal,
@@ -22,6 +21,7 @@ import {
   type Shaped,
 } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import { readingAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { lineFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
 afterAll(scratch.sweep)

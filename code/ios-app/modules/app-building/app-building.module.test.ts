@@ -3,7 +3,7 @@ import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code
 import { planFor } from "akasha/code/ios-app/modules/app-building/app-building.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const root = rootOf(import.meta.dir)
 

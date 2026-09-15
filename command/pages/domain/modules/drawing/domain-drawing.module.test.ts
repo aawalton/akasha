@@ -10,12 +10,12 @@ import {
   treeLines,
 } from "akasha/command/pages/domain/modules/drawing/domain-drawing.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { relationFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { relationFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const ROOT = rootOf(import.meta.path)
 

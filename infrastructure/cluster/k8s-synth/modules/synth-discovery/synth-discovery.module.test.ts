@@ -5,7 +5,7 @@ import {
   discoverSynthFiles,
   manifestCodePaths,
 } from "akasha/infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.code.ts"
-import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const MANIFEST = "manifest"
 

@@ -7,11 +7,11 @@ import {
 import { reads } from "akasha/agent/properties/reads.file-property.ts"
 import { mintedId } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 export const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"

@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"code/path/test-fixtures/script-paths/script-paths.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"file/disk/test-fixtures/kept-scratch/kept-scratch.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"infrastructure/container-image/test-fixtures/recipe-proving/recipe-proving.test-fixture.ts"}
+{"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"page/index/test-fixtures/filing/index-filing.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.ts"}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"temper/characters-addon/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.ts"}

@@ -6,12 +6,12 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
+import { claimantIn } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { claimantIn } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { importedFrom } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"

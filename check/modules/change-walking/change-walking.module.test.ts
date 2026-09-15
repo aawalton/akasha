@@ -38,7 +38,7 @@ import {
   treeWorld,
   VENDORED_AT,
 } from "akasha/check/modules/change-walking/change-walking.module.test-fixtures.ts"
-import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 

@@ -10,7 +10,7 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import { agentSubagentStop } from "akasha/command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"
 import type { RunningSaid } from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const OWN = "a0123456789abcdef"

@@ -7,7 +7,7 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const WORKSPACE = "workspace"
 

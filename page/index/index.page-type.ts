@@ -19,7 +19,7 @@ export const index = {
     "module/index-building",
     "module/index-carrying",
     "module/index-entries",
-    "module/index-filing",
+    "test-fixture/index-filing",
     "module/index-identities",
     "module/index-identifying",
     "module/index-keeping",

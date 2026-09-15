@@ -6,13 +6,13 @@ import type {
   FilePropertiesBy,
   UncommittedBy,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
-import { lineFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   claimsOf,
   type IsThere,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import type { Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { lineFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"

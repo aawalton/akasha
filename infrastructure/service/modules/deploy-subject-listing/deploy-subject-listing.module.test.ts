@@ -10,7 +10,7 @@ import {
   pushedNowhere,
   type Subject,
 } from "akasha/infrastructure/service/modules/deploy-subject-listing/deploy-subject-listing.module.code.ts"
-import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const SCRATCH = scratchWorld()
 

@@ -6,7 +6,7 @@ import {
   openedDayWindow,
 } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import {
   AKASHA,
   rootsNamed,

@@ -4,11 +4,11 @@ import { join } from "node:path"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { temperAddonTypecheck } from "akasha/command/pages/temper/addon/typecheck/temper-addon-typecheck.command.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { valueAlsoFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import {
   listedAndValued,
   nothingFiled,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { manifestFor } from "akasha/temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.code.ts"
 

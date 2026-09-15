@@ -5,7 +5,7 @@ import { relation } from "akasha/graph/edge/pages/relation.graph-edge.ts"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 
 const HOLD = "/var/tmp"

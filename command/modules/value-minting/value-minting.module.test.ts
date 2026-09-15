@@ -13,13 +13,13 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { statesVersionSeven } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import {
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import {
   relationFiled,
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const scratch = scratchWorld()
 

@@ -15,8 +15,8 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { measureDeploy } from "akasha/command/pages/measure/deploy/measure-deploy.command.code.ts"
 import { measureDeploy as page } from "akasha/command/pages/measure/deploy/measure-deploy.command.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const CALLED_AS = "akasha measure deploy"
 

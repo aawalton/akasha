@@ -3,11 +3,6 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
-  idFiled,
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import {
   everyOfType,
   listedById,
   listedFor,
@@ -24,6 +19,11 @@ import {
   shapeAdded,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { indexAt, indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import {
+  idFiled,
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { bodyOf } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"

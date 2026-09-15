@@ -21,11 +21,11 @@ import {
 import { SLUG_PAGE } from "akasha/domain/context/warrant/file-property/file-property.context-warrant.test-fixtures.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { shapeAdded } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { shapeAdded } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const scratch = scratchWorld()
 
