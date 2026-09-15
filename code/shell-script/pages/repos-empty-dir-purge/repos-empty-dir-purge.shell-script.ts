@@ -22,6 +22,10 @@ export const reposEmptyDirPurge = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A repository's index is passed over, holding nothing being how an index reads.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "Taking a directory away may empty the directory above.",
     },
     {
