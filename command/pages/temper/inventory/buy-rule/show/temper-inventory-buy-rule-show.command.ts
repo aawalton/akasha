@@ -9,27 +9,27 @@ export const temperInventoryBuyRuleShow = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An id no buy rule has refuses the call.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The id is said as a word and the answer's shape at its flag.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call saying no id is refused, asking for the id by its placeholder.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A flag this takes none of is refused, naming both the ways this is said.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The answer's shape carries no value, so a value joined to it is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The answer's shape said twice is refused rather than read once.",
     },
   ],

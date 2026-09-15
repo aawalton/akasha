@@ -12,144 +12,147 @@ export const audit = {
   timeout: null,
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An audit judges every file this repository has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run narrowed to named checks says in its answer that the run is not an audit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A named check runs even where that check runs at no audit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An audit naming no check runs only the checks that run at audit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run naming no check says how many checks it left out for not yet judging.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "That saying names each of those checks and the phases its own page states.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A slug naming no check is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run naming no check asks the audit service for a round.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run naming checks judges those checks in the calling process.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run judging in the calling process asks the audit service for nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run judging in the calling process writes no verdict.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No run narrows which files the checks see.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run that asks answers for the commit the repository is at when that run opens.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A check whose verdict answers for that commit is owed no round.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A check unanswered once the asking is over is named rather than answered clean.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run that asks and whose environment names no home is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An audit lands no change.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A refusal an audit found is kept whole beside the calling agent's page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The answer names that file and the call opening it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "That file is the agent's audit refusals rather than the file a landing writes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A landing after the audit leaves that file where the answer said it was.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An audit finding nothing writes nothing and names no file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An audit whose caller has no page keeps nothing and names no file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A phase naming no check is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A check that throws refuses its own page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An audit a check could not run in is answered as operational rather than as the data's fault.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An audit says how many checks could not run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A refusal's reason is carried by its lines rather than as one run of words.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A reason the answer holds only part of says how much of that reason went.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An audit's findings are answered as the data's fault.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The audit service is started by an hourly timer and by a run asking for a round.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing has the folder still while an audit runs.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A change landing under an audit is judged half as that change was.",
     },
-    { invariantKind: "departure", statement: "A round is asked for twice at most." },
+    { invariantKind: "invariant-kind/departure", statement: "A round is asked for twice at most." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Several seats asking at once are answered by one round.",
     },
-    { invariantKind: "departure", statement: "`--check` is named again for each check asked for." },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "`--check` is named again for each check asked for.",
+    },
   ],
   name: "audit",
   arguments: [{ argument: "argument/check", repeats: true }],

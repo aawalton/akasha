@@ -10,41 +10,41 @@ export const mobileSimOpenUrl = {
 
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A session already there on the same simulator is reused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An identity is put in before a route is navigated to.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call saying nothing about identity signs in as the throwaway.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Nothing is changed through Alan's own identity.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The webview is taken hold of again after a navigation.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An opening that threw part way names in its refusal what it had already done.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A call naming no simulator takes the session's own simulator or the first booted simulator.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An Appium server this started and a simulator this booted are named in the refusal.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An Appium server started is named before the wait for it to answer.",
     },
   ],

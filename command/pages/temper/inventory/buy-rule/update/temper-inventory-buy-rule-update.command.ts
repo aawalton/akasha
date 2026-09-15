@@ -9,35 +9,35 @@ export const temperInventoryBuyRuleUpdate = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A locked buy rule is refused unless the call says `--force`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call naming no field to change is refused, naming the fields it changes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A source no buy rule buys at is refused before the store is read at all.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The act that changes takes the store rather than reaching it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A change is named on the caller's list as soon as that write has gone through.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule left unwritten is named nowhere, whether refused or locked.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing the web alone shows reaches the addon.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An id no buy rule has refuses the call.",
     },
   ],

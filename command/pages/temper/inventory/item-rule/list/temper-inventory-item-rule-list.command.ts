@@ -9,15 +9,15 @@ export const temperInventoryItemRuleList = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The rules are given in the order the settings have.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The act that lists takes the read it lists from rather than reaching it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The JSON says the whole rule and a row says the columns a rule carries.",
     },
   ],

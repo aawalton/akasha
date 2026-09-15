@@ -8,25 +8,25 @@ export const temperWatcherStatus = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A watcher that is running is reported with its process id, its uptime and its log path.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One watcher runs for the whole workstation.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Whether the watcher is running is read from systemd.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "How long the watcher has been up is read from the file the watcher wrote when the watcher started.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A watcher that is not running has no process id.",
     },
   ],

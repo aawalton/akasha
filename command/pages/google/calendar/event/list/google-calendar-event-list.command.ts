@@ -9,19 +9,19 @@ export const googleCalendarEventList = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The events this answers with are reported as JSON.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call naming no calendar acts on Alan's own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This reaches the calendar as the account akasha runs under.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads a calendar the call does not name or Alan does not own.",
     },
   ],

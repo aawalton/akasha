@@ -10,27 +10,30 @@ export const measureComplexityCyclomatic = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A function's cyclomatic complexity is one more than its decision points.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A decision point is an if, a case, a loop, a catch, a ternary, `&&`, `||`, `??` or `?.`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Neither an else nor a finally is a decision point.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row is one function, and the rows are ordered by complexity, highest first.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here refuses a body for being complex.",
     },
-    { invariantKind: "departure", statement: "A cutoff keeps the rows at or over it." },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A cutoff keeps the rows at or over it.",
+    },
   ],
   name: "cyclomatic",
   arguments: [

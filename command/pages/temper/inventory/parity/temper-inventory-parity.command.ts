@@ -9,15 +9,15 @@ export const temperInventoryParity = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The inputs are compared before the walks.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The character the trace was captured from is named on the call.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stored trace for another item refuses the call.",
     },
   ],

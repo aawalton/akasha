@@ -10,27 +10,27 @@ export const measureComplexityHalstead = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Halstead counts a function's distinct and total operators and operands.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Volume, difficulty, effort, time and bugs follow from those four counts.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A type annotation and a comment are outside the counts.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row is one function, and the rows are ordered by volume, highest first.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here refuses a body for being complex.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A cutoff keeps the rows whose volume is at or over it.",
     },
   ],

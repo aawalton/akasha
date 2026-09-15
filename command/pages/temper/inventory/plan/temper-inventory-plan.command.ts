@@ -9,75 +9,75 @@ export const temperInventoryPlan = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The items every rule reaches are worked out before the capacity filter.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The capacity filter runs before the plan is built.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The checklist names character logins and venue stops.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A checklist's venue stops sit under the character login they belong to.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The checklist names no single item.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The unmapped report names the items reaching the end of the rules with no rule acting on them.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The rules end in every trailing rule reaching every item and acting on none.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule the matcher ends with and one Alan ends with end the rules alike.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No rule a condition narrows ends the rules, whatever that rule's action.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The unmapped report gathers items by the item they are rather than by the stack.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The unmapped report is what JSON answers where JSON is asked for beside it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A run finding no unmapped item says every item the holdings hold is reached by a rule.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The holdings are read from a stored snapshot rather than from the workstation.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item a rule could not decide is told apart from an item no rule reaches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An item is left undecided where a rule reaching it before the rule taking it could not be decided.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An item left undecided is named with every signal the rules were missing over that item.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run finding no undecided item says no item a rule reaches is left undecided.",
     },
   ],

@@ -9,31 +9,31 @@ export const temperInventoryBuyRuleCreate = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A new buy rule is inactive.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule added inactive is answered with the call that would start it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A source no buy rule buys at is refused before the store is read at all.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The act that adds takes the store rather than reaching it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule added is named on the caller's list as soon as that write has gone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule the store would not take is named nowhere, because nothing was written.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing the web alone shows reaches the addon.",
     },
   ],

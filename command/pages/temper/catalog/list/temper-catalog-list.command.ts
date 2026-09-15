@@ -10,15 +10,15 @@ export const temperCatalogList = {
 
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The domains are read from the keys the catalog addon registers.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A domain is named once.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads the game's saved variables.",
     },
   ],

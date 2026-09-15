@@ -10,15 +10,15 @@ export const emailMessageShow = {
 
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The body taken is the first plain-text part found walking the parts.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A header is matched without regard to case.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No attachment's bytes come back here.",
     },
   ],

@@ -9,43 +9,43 @@ export const temperInventorySnapshot = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A snapshot's whole record sits in one data file beside its page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pieces a reading arrived in were rejoined before the snapshot landed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A snapshot is reached by its page id or by its slug.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call naming a snapshot and asking for the newest at once is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The newest snapshot is the snapshot whose reading was taken most recently.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A snapshot with no data file refuses the call.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches the page store over the network.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "The record is answered as JSON whether or not `--json` is said.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "So `--json` here takes the indenting off rather than choosing JSON.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call naming no snapshot and not asking for the newest is refused.",
     },
   ],

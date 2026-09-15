@@ -10,28 +10,28 @@ export const measureModelAccountCost = {
   parts: ["module/model-account-costing"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The calls priced are the ones this machine's transcripts hold over the last thirty days.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A price is the api's own list price.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call a resumed session or a subagent wrote down again is counted once.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A model this holds no price for is named under the total rather than counted.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every transcript is read.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "A run writes no value the commit has.",
     },
   ],

@@ -9,66 +9,66 @@ export const pageIconSearchIndexGenerate = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The release the index is built from is stated here rather than taken as the latest.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run stages the bodies and answers a script that drafts and lands them.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A shard already there keeps the id that shard had.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Only a shard that is new is given an id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The icons are packed into shards under a byte budget rather than into one body.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The staging folder remains after a run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The staging folder is the first thing a refusal part way names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run that throws part way names every shard already whole in the stage.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A shard only half written is named nowhere, because half a shard cannot land.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every file the answered script changes is read before that script is run.",
     },
 
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body rendered at or past the size a landing refuses stages nothing at all.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A shard standing that this run does not fill is named to be removed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The single page anything outside imports reaches its shards by the path every shard sits at.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes under the akasha folder.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A shard that is new is written into the list the owning package's page states.",
     },
   ],

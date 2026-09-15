@@ -8,31 +8,31 @@ export const temperInventoryVenueTrace = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The ring read here holds every visit the addon traced that was not to a banker.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call saying no visit reads the most recent trace.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A visit is counted back from the most recent, which is visit one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The answer names every visit kept by its time and the venue it was to.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file the addon has written no such visit into is told what would write one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A visit past the ones kept refuses the call.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No move, no phase and no paced dispatch is told, the addon recording none here.",
     },
   ],

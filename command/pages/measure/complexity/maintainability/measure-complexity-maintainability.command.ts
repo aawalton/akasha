@@ -10,20 +10,20 @@ export const measureComplexityMaintainability = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The index is the Visual Studio variant over volume, the cyclomatic sum and the source lines.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A blank line and a comment-only line are no source line.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row is one file, and the rows are ordered by index, lowest first.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A cutoff keeps the rows whose index is at or under it.",
     },
   ],

@@ -9,29 +9,29 @@ export const temperCatalogStatus = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file the call does not name is read from the game's live install.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A domain not collected carries the reason the addon gave for skipping it, where it gave one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each account in the capture is reported over every domain the registry has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A domain is owed a collection where the request is newer than the collection the account last saw.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A request naming no domain asks for every domain.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A missing file is read as no capture rather than refusing the call.",
     },
   ],

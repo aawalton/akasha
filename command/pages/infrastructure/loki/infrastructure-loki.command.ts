@@ -9,59 +9,62 @@ export const infrastructureLoki = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every line answered is one JSON object.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The last line answered states the bound on the answer.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The bounding line states the count, the cursor, whether it is done and what clipped it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A log line states the timestamp and the line and nothing else.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bounding line is told from a log line by a key no log line has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A pod name and a namespace are matched as literal strings rather than as patterns.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A window that clipped is answered as clipped rather than as complete.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A window check that could not run is answered as undetermined rather than as complete.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reaching every line is bounded by the window and never by a line count.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A prefix matching nothing is an answer of no lines rather than a refusal.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here filters a log body.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes.",
     },
-    { invariantKind: "departure", statement: "A call saying no limit answers five hundred lines." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
+      statement: "A call saying no limit answers five hundred lines.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A call saying no window reaches back one hour.",
     },
   ],

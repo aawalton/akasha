@@ -10,40 +10,40 @@ export const googleLogin = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The token minted is written into `~/.secrets.env`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The token is read from `GOOGLE_OAUTH_REFRESH_TOKEN`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The older token a product had is read only where that name has no value.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The scopes asked for are every scope calendar, drive and mail read between them.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One token is minted, and calendar, drive and mail all read that token.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The token minted is saved rather than left for whoever ran this to save.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "The token's value reaches neither the report nor a log.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A login refused after the code reached Google says that code is spent and consent is asked again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A login refused before the code reached Google is refused as the fault alone.",
     },
   ],

@@ -8,20 +8,20 @@ export const temperInventoryMasterCraftTrace = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The ring has a bounded count of traces.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The oldest trace goes when a new trace arrives.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Each trace has the station context, the pattern resolved and what verifying observed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each trace has the craft's outcome.",
     },
   ],

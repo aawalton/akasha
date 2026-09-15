@@ -9,24 +9,24 @@ export const temperInventoryKnowledge = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An item key is `recipe:<resultItemId>`, `motif:<styleId>:<chapterId>` or `script:<scriptId>`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A motif key's chapter is a whole number or the word `master`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Naming an item key turns the answer into who knows that item.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key naming no kind this command has refuses the call.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character the capture does not hold refuses the call.",
     },
   ],

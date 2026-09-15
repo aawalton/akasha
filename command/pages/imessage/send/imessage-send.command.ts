@@ -9,49 +9,52 @@ export const imessageSend = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No message is taken back once that message is sent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A recipient that looks like a number or an address is used rather than looked up.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name landing on nobody or on more than one person is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A person's first phone number is preferred over their first address.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Saying neither a body nor a picture is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A picture past ten megabytes is refused before anything is sent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A picture is read off the disk before the recipient is looked up.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body read from a file has no closing line ending.",
     },
-    { invariantKind: "departure", statement: "A picture a call names is hung off the message." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
+      statement: "A picture a call names is hung off the message.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A send that landed is named as soon as the script on the mac says so.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A picture that failed after the text names that text in its refusal.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The lines the mac answers are handed in.",
     },
   ],

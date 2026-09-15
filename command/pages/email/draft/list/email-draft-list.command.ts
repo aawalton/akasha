@@ -10,11 +10,11 @@ export const emailDraftList = {
 
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A draft is named by its own id rather than by the message that draft has.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads a draft's body.",
     },
   ],

@@ -10,15 +10,15 @@ export const emailAttachmentList = {
 
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A part is an attachment only where that part has both a filename and an id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nested parts are walked to the bottom.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No attachment's bytes are read here.",
     },
   ],

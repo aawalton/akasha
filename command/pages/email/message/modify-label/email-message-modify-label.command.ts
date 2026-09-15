@@ -9,23 +9,23 @@ export const emailMessageModifyLabel = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The message's id and its thread come back beside those labels.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A relabelling naming neither an addition nor a removal is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A label is named by its id rather than by the name that label is shown under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The labels the message has after the change come back.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A relabelling that threw after Gmail took the change says the labels changed.",
     },
   ],

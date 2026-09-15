@@ -9,32 +9,32 @@ export const temperInventoryOutcomeParity = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every item in every bag of every location is ruled on rather than a sample.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An indeterminate outcome is compared whole rather than counted.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One item disagreeing answers with that item rather than with a tally.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "Neither run compared here is the addon's, so agreement is no sign the addon agrees.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Both runs read one env, so a signal that env lacks leaves the two runs alike.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run that found a divergence answers a code other than zero.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "This answers in one shape, so no second shape can answer a second code.",
     },
   ],

@@ -9,16 +9,16 @@ export const emailAttachmentShow = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An attachment is reached by its own id rather than by where that attachment sits.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bytes are answered base64url-encoded with their size beside those bytes.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes the bytes to a file.",
     },
   ],

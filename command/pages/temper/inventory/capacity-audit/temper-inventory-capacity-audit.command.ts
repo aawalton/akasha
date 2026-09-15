@@ -9,20 +9,20 @@ export const temperInventoryCapacityAudit = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A destination is reported only where the slots needed run past the slots free.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An overflowing destination names the slots needed and the slots free.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An overflowing destination names the rules and items the capacity filter dropped.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run finding no overflow reports nothing.",
     },
   ],

@@ -9,33 +9,36 @@ export const imessageSearch = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The messages are answered oldest first.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The store is over-asked and the answer is narrowed against the decoded text.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The match the store makes minds the case and the match made after that match does not.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The newest matches win where more match than the limit allows.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run of characters read from a file has no closing line ending.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A contact matching nobody refuses rather than answering empty.",
     },
-    { invariantKind: "departure", statement: "A call saying no limit gives back twenty matches." },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
+      statement: "A call saying no limit gives back twenty matches.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "A call naming nothing to search for is refused before any file is read.",
     },
   ],

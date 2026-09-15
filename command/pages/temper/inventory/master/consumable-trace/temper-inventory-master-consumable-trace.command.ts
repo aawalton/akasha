@@ -8,24 +8,24 @@ export const temperInventoryMasterConsumableTrace = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The ring has a bounded count of traces.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The oldest trace goes when a new trace arrives.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A trace names the phase it was taken in, resolve or execute.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A trace for alchemy, enchanting or provisioning has that craft's own facts beside the shared ones.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each trace has the writ's outcome.",
     },
   ],

@@ -8,15 +8,15 @@ export const temperInventoryBuyRuleList = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each rule has the quantity held now.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The account the quantity is read from is Alan's unless `USER_ID` names another.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each rule has the shortfall against its target.",
     },
   ],

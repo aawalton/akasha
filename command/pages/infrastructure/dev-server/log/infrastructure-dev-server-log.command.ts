@@ -11,19 +11,19 @@ export const infrastructureDevServerLog = {
   parts: ["module/last-lines"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A seq said as a word and after `--seq` is refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The log is answered as the log was when the answer was built.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A log no file is there for is answered against the data rather than the caller.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here follows a log as the log grows.",
     },
   ],

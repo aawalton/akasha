@@ -9,15 +9,15 @@ export const measureComplexityReport = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each metric is answered at p50, p75, p90, p95, p99 and its maximum.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The report is taken over the whole workspace and counts every row.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A call saying no count shows ten outliers of each metric.",
     },
   ],
