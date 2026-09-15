@@ -26,6 +26,18 @@ export const trackSyncing = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "A track states the disc it sits on as well as its position on that disc.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A track states whether the provider marks it explicit.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A track states every artist the provider credits, in the order given.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The progress and the grade a person gave a track outlive every sweep.",
     },
     {

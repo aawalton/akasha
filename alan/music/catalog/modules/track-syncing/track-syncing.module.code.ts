@@ -69,6 +69,12 @@ export function trackValues(args: {
     title: args.track.name,
     partOfCollections: [`${RELEASE}/${args.releaseSlug}`],
     position: args.track.track_number,
+    discNumber: args.track.disc_number,
+    explicit: args.track.explicit,
+    trackArtist: args.track.artists.map((one) => ({
+      externalId: one.id,
+      artistName: one.name,
+    })),
     ownLength: trackMinutes(args.track),
     unit: MINUTES,
     externalIdentity: identitiesWith(args.was[IDENTITY], {

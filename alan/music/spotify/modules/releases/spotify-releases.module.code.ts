@@ -11,6 +11,10 @@ const GROUPS = "album,single,compilation"
 
 const MS_A_MINUTE = 60_000
 
+const trackArtistRefSchema = z.object({ id: z.string(), name: z.string() }).passthrough()
+
+export type TrackArtistRef = z.infer<typeof trackArtistRefSchema>
+
 export const albumSchema = z
   .object({
     id: z.string(),
@@ -31,6 +35,9 @@ const albumTrackSchema = z
     name: z.string(),
     duration_ms: z.number(),
     track_number: z.number(),
+    disc_number: z.number(),
+    explicit: z.boolean(),
+    artists: z.array(trackArtistRefSchema),
     external_urls: z.object({ spotify: z.string() }).passthrough(),
   })
   .passthrough()

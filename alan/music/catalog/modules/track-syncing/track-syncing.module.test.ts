@@ -10,12 +10,15 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 
 const TODAY = "2026-09-15"
 
-function track(id: string, name: string, at: number, nth: number): AlbumTrack {
+function track(id: string, name: string, at: number, nth: number, disc = 1): AlbumTrack {
   return {
     id,
     name,
     duration_ms: at,
     track_number: nth,
+    disc_number: disc,
+    explicit: false,
+    artists: [{ id: "sp-artist", name: "Sylvia Daley" }],
     external_urls: { spotify: `https://open.spotify.com/track/${id}` },
   }
 }
@@ -40,6 +43,33 @@ test("a track arrives started by nobody and heard for none of its length", () =>
   expect(values["status"]).toBe("not-started")
   expect(values["ownProgress"]).toBe(0)
   expect(values["type"]).toBe("track")
+})
+
+test("a track states the disc it sits on and whether it is explicit", () => {
+  const values = trackValues({
+    releaseSlug: "sylvia-daley-pixie",
+    slug: "sylvia-daley-pixie-elf",
+    track: track("t7", "Elf", 90_000, 3, 2),
+    was: {},
+    today: TODAY,
+  })
+  expect(values["discNumber"]).toBe(2)
+  expect(values["explicit"]).toBe(false)
+})
+
+test("a track states every artist the provider credits, in the order given", () => {
+  const one = track("t7", "Elf", 90_000, 3)
+  const values = trackValues({
+    releaseSlug: "sylvia-daley-pixie",
+    slug: "sylvia-daley-pixie-elf",
+    track: { ...one, artists: [...one.artists, { id: "sp-guest", name: "A Guest" }] },
+    was: {},
+    today: TODAY,
+  })
+  expect(values["trackArtist"]).toEqual([
+    { externalId: "sp-artist", artistName: "Sylvia Daley" },
+    { externalId: "sp-guest", artistName: "A Guest" },
+  ])
 })
 
 test("a track names the one provider it was read from, stamped with the day it was read", () => {
