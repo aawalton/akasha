@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkUpFromTheBottom = {
   id: "01a0676a-d72f-7057-a713-6ba412ab0d39",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-up-from-the-bottom",
   title: "Up From the Bottom",
   partOfCollections: ["artist/linkin-park"],

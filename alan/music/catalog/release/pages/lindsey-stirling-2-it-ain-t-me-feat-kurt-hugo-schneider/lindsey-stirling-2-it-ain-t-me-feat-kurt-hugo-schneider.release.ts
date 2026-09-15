@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirling2ItAinTMeFeatKurtHugoSchneider = {
   id: "01a0676a-d722-7004-9e63-11355a0fb4aa",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-2-it-ain-t-me-feat-kurt-hugo-schneider",
   title: "It Ain't Me (feat. Kurt Hugo Schneider)",
   partOfCollections: ["artist/lindsey-stirling"],

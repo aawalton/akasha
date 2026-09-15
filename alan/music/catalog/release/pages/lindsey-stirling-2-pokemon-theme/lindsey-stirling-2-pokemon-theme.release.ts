@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirling2PokemonTheme = {
   id: "01a0676a-d727-7000-bf9b-f6b466cc4f8d",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-2-pokemon-theme",
   title: "Pokemon Theme",
   partOfCollections: ["artist/lindsey-stirling"],

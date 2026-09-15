@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallicaAllWithinMyHandsLiveNothingElseMattersLive = {
   id: "01a0676a-d716-702b-8a30-c60125a13774",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-all-within-my-hands-live-nothing-else-matters-live",
   title: "All Within My Hands (Live) / Nothing Else Matters (Live)",
   partOfCollections: ["artist/metallica"],

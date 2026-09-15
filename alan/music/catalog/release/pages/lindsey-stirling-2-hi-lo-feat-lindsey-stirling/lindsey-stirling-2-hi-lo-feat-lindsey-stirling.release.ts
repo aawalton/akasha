@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirling2HiLoFeatLindseyStirling = {
   id: "01a0676a-d720-7038-b87e-f3a1e9259c68",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-2-hi-lo-feat-lindsey-stirling",
   title: "Hi-Lo (feat. Lindsey Stirling)",
   partOfCollections: ["artist/lindsey-stirling"],

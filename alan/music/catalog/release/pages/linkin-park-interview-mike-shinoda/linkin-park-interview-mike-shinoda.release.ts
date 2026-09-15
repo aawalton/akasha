@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkInterviewMikeShinoda = {
   id: "01a0676a-d721-7079-85e6-e47dc1ac9bb4",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-interview-mike-shinoda",
   title: "Interview: Mike Shinoda",
   partOfCollections: ["artist/linkin-park"],

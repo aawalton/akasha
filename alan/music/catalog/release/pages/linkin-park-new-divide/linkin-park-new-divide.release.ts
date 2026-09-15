@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkNewDivide = {
   id: "01a0676a-d725-7050-8e1f-f581a8bbd3b6",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-new-divide",
   title: "New Divide",
   partOfCollections: ["artist/linkin-park"],

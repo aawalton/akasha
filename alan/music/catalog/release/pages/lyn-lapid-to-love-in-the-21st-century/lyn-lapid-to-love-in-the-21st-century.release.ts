@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lynLapidToLoveInThe21stCentury = {
   id: "01a0676a-d72f-7005-bb5a-c5a39d806d3d",
-  type: "release",
+  type: "page-type/release",
   slug: "lyn-lapid-to-love-in-the-21st-century",
   title: "to love in the 21st century",
   partOfCollections: ["artist/lyn-lapid"],

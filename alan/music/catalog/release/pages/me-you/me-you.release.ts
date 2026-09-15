@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const meYou = {
   id: "01a0676a-d724-7040-9334-4e3da22a68de",
-  type: "release",
+  type: "page-type/release",
   slug: "me-you",
   title: "Me & You",
   position: 0,

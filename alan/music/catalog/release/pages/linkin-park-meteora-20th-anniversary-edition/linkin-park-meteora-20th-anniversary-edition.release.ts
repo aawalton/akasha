@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkMeteora20thAnniversaryEdition = {
   id: "01a0676a-d724-7056-942b-2c5bcc5aaba9",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-meteora-20th-anniversary-edition",
   title: "Meteora 20th Anniversary Edition",
   partOfCollections: ["artist/linkin-park"],

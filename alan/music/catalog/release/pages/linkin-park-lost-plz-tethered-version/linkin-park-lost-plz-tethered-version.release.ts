@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkLostPlzTetheredVersion = {
   id: "01a0676a-d723-706a-a6cc-825b59b209ae",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-lost-plz-tethered-version",
   title: "Lost (PLZ Tethered Version)",
   partOfCollections: ["artist/linkin-park"],

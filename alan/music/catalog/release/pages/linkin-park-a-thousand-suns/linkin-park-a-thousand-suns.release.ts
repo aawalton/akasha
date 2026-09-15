@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkAThousandSuns = {
   id: "01a0676a-d715-7046-9bba-4459459fe35d",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-a-thousand-suns",
   title: "A Thousand Suns",
   partOfCollections: ["artist/linkin-park"],

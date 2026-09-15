@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallicaDeathMagnetic = {
   id: "01a0676a-d71b-7072-baa6-f66552257618",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-death-magnetic",
   title: "Death Magnetic",
   partOfCollections: ["artist/metallica"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lynLapidWhereIsMyMindCoverVersion = {
   id: "01a0676a-d731-700e-af67-a0a613e954d3",
-  type: "release",
+  type: "page-type/release",
   slug: "lyn-lapid-where-is-my-mind-cover-version",
   title: "Where Is My Mind? (Cover Version)",
   partOfCollections: ["artist/lyn-lapid"],

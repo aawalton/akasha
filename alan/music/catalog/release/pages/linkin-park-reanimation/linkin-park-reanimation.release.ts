@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkReanimation = {
   id: "01a0676a-d727-7051-ad3a-97a385550b94",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-reanimation",
   title: "Reanimation",
   partOfCollections: ["artist/linkin-park"],

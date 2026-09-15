@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirling2SpotifySingles = {
   id: "01a0676a-d72a-7002-ba03-b2e51247a101",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-2-spotify-singles",
   title: "Spotify Singles",
   partOfCollections: ["artist/lindsey-stirling"],

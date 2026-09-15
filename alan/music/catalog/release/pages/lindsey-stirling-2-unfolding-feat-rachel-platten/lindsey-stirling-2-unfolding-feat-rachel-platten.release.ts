@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirling2UnfoldingFeatRachelPlatten = {
   id: "01a0676a-d72f-703f-80f7-07d87ef64715",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-2-unfolding-feat-rachel-platten",
   title: "Unfolding [Feat. Rachel Platten]",
   partOfCollections: ["artist/lindsey-stirling"],

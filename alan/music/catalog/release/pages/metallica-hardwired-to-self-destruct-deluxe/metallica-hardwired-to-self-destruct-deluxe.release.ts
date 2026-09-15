@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallicaHardwiredToSelfDestructDeluxe = {
   id: "01a0676a-d71f-7050-a7e5-506baca281f2",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-hardwired-to-self-destruct-deluxe",
   title: "Hardwired…To Self-Destruct (Deluxe)",
   partOfCollections: ["artist/metallica"],

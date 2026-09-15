@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkHybridTheoryLiveAroundTheWorld = {
   id: "01a0676a-d720-707e-a5ce-3311d9903d44",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-hybrid-theory-live-around-the-world",
   title: "Hybrid Theory Live Around the World",
   partOfCollections: ["artist/linkin-park"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lilithMaxBornToDie = {
   id: "01a0676a-d719-7024-ad22-f53f77bf7014",
-  type: "release",
+  type: "page-type/release",
   slug: "lilith-max-born-to-die",
   title: "Born to Die",
   partOfCollections: ["artist/lilith-max"],

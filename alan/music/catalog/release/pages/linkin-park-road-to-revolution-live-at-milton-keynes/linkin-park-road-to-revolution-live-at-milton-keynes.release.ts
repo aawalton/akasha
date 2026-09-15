@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkRoadToRevolutionLiveAtMiltonKeynes = {
   id: "01a0676a-d728-7014-9177-e46a09bc7977",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-road-to-revolution-live-at-milton-keynes",
   title: "Road to Revolution (Live at Milton Keynes)",
   partOfCollections: ["artist/linkin-park"],

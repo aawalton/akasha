@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirlingSurrenderFromYourFriendsNeighbors = {
   id: "01a0a587-c33d-7b04-afe7-1a0a8ce323fc",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-surrender-from-your-friends-neighbors",
   ownLength: 3.0713333333333335,
   ownProgress: 0,

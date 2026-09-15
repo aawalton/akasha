@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkLeaveOutAllTheRest = {
   id: "01a0676a-d722-7067-9747-22589e7e3025",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-leave-out-all-the-rest",
   title: "Leave out All the Rest",
   partOfCollections: ["artist/linkin-park"],

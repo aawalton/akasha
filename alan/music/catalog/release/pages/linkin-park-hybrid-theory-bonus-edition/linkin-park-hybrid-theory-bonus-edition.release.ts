@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkHybridTheoryBonusEdition = {
   id: "01a0676a-d720-707d-873e-c9f1338f5e4c",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-hybrid-theory-bonus-edition",
   title: "Hybrid Theory (Bonus Edition)",
   partOfCollections: ["artist/linkin-park"],

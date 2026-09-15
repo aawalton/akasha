@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirling2HaloThemeSong = {
   id: "01a0676a-d71f-7040-8b22-068d7319682b",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-2-halo-theme-song",
   title: "Halo Theme Song",
   partOfCollections: ["artist/lindsey-stirling"],

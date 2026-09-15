@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const leonardCohenThanksForTheDance = {
   id: "01a0676a-d72c-7012-b86c-917214424bef",
-  type: "release",
+  type: "page-type/release",
   slug: "leonard-cohen-thanks-for-the-dance",
   title: "Thanks for the Dance",
   partOfCollections: ["artist/leonard-cohen"],

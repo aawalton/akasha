@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkRecharged = {
   id: "01a0676a-d727-7059-8f91-adb41416c603",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-recharged",
   title: "RECHARGED",
   partOfCollections: ["artist/linkin-park"],

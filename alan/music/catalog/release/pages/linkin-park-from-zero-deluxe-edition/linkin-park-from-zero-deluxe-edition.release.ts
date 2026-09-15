@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkFromZeroDeluxeEdition = {
   id: "01a0676a-d71e-7041-ba46-81cb92e42bbc",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-from-zero-deluxe-edition",
   title: "From Zero (Deluxe Edition)",
   partOfCollections: ["artist/linkin-park"],

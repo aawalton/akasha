@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallicaBeyondMagnetic = {
   id: "01a0676a-d718-7054-9c08-3eaf90c58955",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-beyond-magnetic",
   title: "Beyond Magnetic",
   partOfCollections: ["artist/metallica"],

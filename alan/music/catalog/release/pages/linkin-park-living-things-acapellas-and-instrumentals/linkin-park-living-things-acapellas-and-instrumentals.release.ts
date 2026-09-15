@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkLivingThingsAcapellasAndInstrumentals = {
   id: "01a0676a-d723-705b-9d7d-c8cd8e3c1138",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-living-things-acapellas-and-instrumentals",
   title: "LIVING THINGS: Acapellas and Instrumentals",
   partOfCollections: ["artist/linkin-park"],

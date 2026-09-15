@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lilithMaxBearsWolves = {
   id: "01a0676a-d718-7024-8315-d22a60eb897f",
-  type: "release",
+  type: "page-type/release",
   slug: "lilith-max-bears-wolves",
   title: "Bears & Wolves",
   partOfCollections: ["artist/lilith-max"],

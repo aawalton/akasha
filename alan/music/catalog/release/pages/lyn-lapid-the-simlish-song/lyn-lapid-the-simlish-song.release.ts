@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lynLapidTheSimlishSong = {
   id: "01a0676a-d72e-700a-a80b-de9d37c817d2",
-  type: "release",
+  type: "page-type/release",
   slug: "lyn-lapid-the-simlish-song",
   title: "the simlish song",
   partOfCollections: ["artist/lyn-lapid"],

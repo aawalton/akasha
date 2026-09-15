@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkTwoFaced = {
   id: "01a0676a-d72f-7027-9095-2cd04bd79b4c",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-two-faced",
   title: "Two Faced",
   partOfCollections: ["artist/linkin-park"],

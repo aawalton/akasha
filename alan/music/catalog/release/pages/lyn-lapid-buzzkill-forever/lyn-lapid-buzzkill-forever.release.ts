@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lynLapidBuzzkillForever = {
   id: "01a0676a-d719-704d-bab1-d8802beb7baf",
-  type: "release",
+  type: "page-type/release",
   slug: "lyn-lapid-buzzkill-forever",
   title: "BUZZKILL (forever)",
   partOfCollections: ["artist/lyn-lapid"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallicaAndJusticeForAllRemastered = {
   id: "01a0676a-d717-7016-9274-32a46c9be34e",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-and-justice-for-all-remastered",
   title: "...And Justice for All (Remastered)",
   partOfCollections: ["artist/metallica"],

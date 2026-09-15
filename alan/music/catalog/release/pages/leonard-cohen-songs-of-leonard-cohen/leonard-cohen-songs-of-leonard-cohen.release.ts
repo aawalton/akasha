@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const leonardCohenSongsOfLeonardCohen = {
   id: "01a0676a-d729-7069-b781-07a69f7e5982",
-  type: "release",
+  type: "page-type/release",
   slug: "leonard-cohen-songs-of-leonard-cohen",
   title: "Songs Of Leonard Cohen",
   partOfCollections: ["artist/leonard-cohen"],

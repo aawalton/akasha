@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkCollisionCourse = {
   id: "01a0676a-d71b-7010-bf8d-ee0c1d1f1c40",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-collision-course",
   title: "Collision Course",
   partOfCollections: ["artist/linkin-park"],

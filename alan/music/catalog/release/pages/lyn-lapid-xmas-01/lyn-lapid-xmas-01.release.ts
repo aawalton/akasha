@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lynLapidXmas01 = {
   id: "01a0676a-d731-7041-b6f1-11d22a6b9753",
-  type: "release",
+  type: "page-type/release",
   slug: "lyn-lapid-xmas-01",
   title: "XMAS 01",
   partOfCollections: ["artist/lyn-lapid"],

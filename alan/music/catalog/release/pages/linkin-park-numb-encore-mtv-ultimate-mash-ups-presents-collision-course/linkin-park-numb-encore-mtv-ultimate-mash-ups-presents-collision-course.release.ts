@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkNumbEncoreMtvUltimateMashUpsPresentsCollisionCourse = {
   id: "01a0676a-d726-7005-b88a-4053dead1b5c",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-numb-encore-mtv-ultimate-mash-ups-presents-collision-course",
   title: "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
   partOfCollections: ["artist/linkin-park"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lilithMaxMakingsOfAGod = {
   id: "01a0676a-d724-7030-a9fb-7a5a563bd2d9",
-  type: "release",
+  type: "page-type/release",
   slug: "lilith-max-makings-of-a-god",
   title: "Makings of a God",
   partOfCollections: ["artist/lilith-max"],

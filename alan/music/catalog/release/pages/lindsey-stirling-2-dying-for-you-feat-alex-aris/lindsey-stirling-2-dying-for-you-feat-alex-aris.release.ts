@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirling2DyingForYouFeatAlexAris = {
   id: "01a0676a-d71c-7044-9b43-a741b8420be1",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-2-dying-for-you-feat-alex-aris",
   title: "Dying For You (feat. Alex Aris)",
   partOfCollections: ["artist/lindsey-stirling"],

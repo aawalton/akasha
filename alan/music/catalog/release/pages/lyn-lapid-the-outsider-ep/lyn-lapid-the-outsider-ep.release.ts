@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lynLapidTheOutsiderEp = {
   id: "01a0676a-d72d-7051-b08a-b07fb86b477c",
-  type: "release",
+  type: "page-type/release",
   slug: "lyn-lapid-the-outsider-ep",
   title: "The Outsider EP",
   partOfCollections: ["artist/lyn-lapid"],

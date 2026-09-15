@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirling21OriginalOneCover = {
   id: "01a0676a-d714-700c-999f-5c12cac424b5",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-2-1-original-one-cover",
   title: "1 Original, ONE Cover",
   partOfCollections: ["artist/lindsey-stirling"],

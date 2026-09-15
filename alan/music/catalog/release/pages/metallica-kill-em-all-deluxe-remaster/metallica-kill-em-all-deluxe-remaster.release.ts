@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallicaKillEmAllDeluxeRemaster = {
   id: "01a0676a-d722-7040-8377-7e05ce57c3b9",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-kill-em-all-deluxe-remaster",
   title: "Kill 'Em All (Deluxe Remaster)",
   partOfCollections: ["artist/metallica"],

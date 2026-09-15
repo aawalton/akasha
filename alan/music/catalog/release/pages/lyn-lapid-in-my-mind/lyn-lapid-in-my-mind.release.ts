@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lynLapidInMyMind = {
   id: "01a0676a-d721-7069-a790-f82ec8ccdf0b",
-  type: "release",
+  type: "page-type/release",
   slug: "lyn-lapid-in-my-mind",
   title: "In My Mind",
   partOfCollections: ["artist/lyn-lapid"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkWaitingForTheEnd = {
   id: "01a0676a-d730-700d-a1c5-a431bcca2563",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-waiting-for-the-end",
   title: "Waiting for the End",
   partOfCollections: ["artist/linkin-park"],

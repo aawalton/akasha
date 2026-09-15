@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallica72Seasons = {
   id: "01a0676a-d715-7016-9b70-41d57de33c5f",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-72-seasons",
   title: "72 Seasons",
   partOfCollections: ["artist/metallica"],

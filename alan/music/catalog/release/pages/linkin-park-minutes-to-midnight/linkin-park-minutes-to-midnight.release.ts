@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkMinutesToMidnight = {
   id: "01a0676a-d724-706e-b4f7-bf7104b39acd",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-minutes-to-midnight",
   title: "Minutes to Midnight",
   partOfCollections: ["artist/linkin-park"],

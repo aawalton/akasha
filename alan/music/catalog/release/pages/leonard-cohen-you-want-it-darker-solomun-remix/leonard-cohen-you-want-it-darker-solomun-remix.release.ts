@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const leonardCohenYouWantItDarkerSolomunRemix = {
   id: "01a0676a-d732-701f-86cf-c0d78cf51119",
-  type: "release",
+  type: "page-type/release",
   slug: "leonard-cohen-you-want-it-darker-solomun-remix",
   title: "You Want It Darker (Solomun Remix)",
   partOfCollections: ["artist/leonard-cohen"],

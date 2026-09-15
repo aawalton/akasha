@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lilithMaxAmIFree = {
   id: "01a0676a-d716-7037-91aa-3aff8bbcaf0d",
-  type: "release",
+  type: "page-type/release",
   slug: "lilith-max-am-i-free",
   title: "Am I Free",
   partOfCollections: ["artist/lilith-max"],

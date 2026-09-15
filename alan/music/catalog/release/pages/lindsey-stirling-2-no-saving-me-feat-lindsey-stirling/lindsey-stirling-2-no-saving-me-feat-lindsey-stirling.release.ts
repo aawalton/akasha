@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirling2NoSavingMeFeatLindseyStirling = {
   id: "01a0676a-d725-7067-883a-1bec9fea13e6",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-2-no-saving-me-feat-lindsey-stirling",
   title: "No Saving Me (feat. Lindsey Stirling)",
   partOfCollections: ["artist/lindsey-stirling"],

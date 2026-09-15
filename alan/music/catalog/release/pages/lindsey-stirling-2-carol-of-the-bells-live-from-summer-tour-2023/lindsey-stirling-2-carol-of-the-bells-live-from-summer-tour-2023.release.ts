@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirling2CarolOfTheBellsLiveFromSummerTour2023 = {
   id: "01a0676a-d71a-7000-9549-48d2a9fec97a",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-2-carol-of-the-bells-live-from-summer-tour-2023",
   title: "Carol Of The Bells (Live from Summer Tour 2023)",
   partOfCollections: ["artist/lindsey-stirling"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirlingSpiderManTheme = {
   id: "01a0a587-c4a2-724d-bf86-151ed1ddbd88",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-spider-man-theme",
   ownLength: 4.142533333333334,
   ownProgress: 0,

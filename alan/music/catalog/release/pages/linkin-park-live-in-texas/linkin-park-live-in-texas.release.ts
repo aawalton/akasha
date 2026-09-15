@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkLiveInTexas = {
   id: "01a0676a-d723-7052-9cc3-5df42dbc22a3",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-live-in-texas",
   title: "Live in Texas",
   partOfCollections: ["artist/linkin-park"],

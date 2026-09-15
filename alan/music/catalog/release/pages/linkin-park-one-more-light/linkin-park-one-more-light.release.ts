@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkOneMoreLight = {
   id: "01a0676a-d726-7031-a8dd-dcb23669f469",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-one-more-light",
   title: "One More Light",
   partOfCollections: ["artist/linkin-park"],

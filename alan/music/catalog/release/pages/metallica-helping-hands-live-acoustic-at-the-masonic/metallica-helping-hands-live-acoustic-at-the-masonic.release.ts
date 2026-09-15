@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const metallicaHelpingHandsLiveAcousticAtTheMasonic = {
   id: "01a0676a-d720-702c-9c5e-21d5d3b7ec99",
-  type: "release",
+  type: "page-type/release",
   slug: "metallica-helping-hands-live-acoustic-at-the-masonic",
   title: "Helping Hands...Live & Acoustic at The Masonic",
   partOfCollections: ["artist/metallica"],

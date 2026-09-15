@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const leonardCohenYouWantItDarker = {
   id: "01a0676a-d732-701d-adad-a90a52ded6ba",
-  type: "release",
+  type: "page-type/release",
   slug: "leonard-cohen-you-want-it-darker",
   title: "You Want It Darker",
   partOfCollections: ["artist/leonard-cohen"],

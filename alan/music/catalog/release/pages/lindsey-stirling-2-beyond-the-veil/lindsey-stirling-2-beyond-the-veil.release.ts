@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirling2BeyondTheVeil = {
   id: "01a0676a-d718-7055-86a3-6837c5bcea23",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-2-beyond-the-veil",
   title: "Beyond the Veil",
   partOfCollections: ["artist/lindsey-stirling"],

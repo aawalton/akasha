@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkOverEachOther = {
   id: "01a0676a-d726-7053-8ddb-3c0f74ac2849",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-over-each-other",
   title: "Over Each Other",
   partOfCollections: ["artist/linkin-park"],

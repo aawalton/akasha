@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkTheEmptinessMachine = {
   id: "01a0676a-d72d-7004-901d-fd2f364f0000",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-the-emptiness-machine",
   title: "The Emptiness Machine",
   partOfCollections: ["artist/linkin-park"],

@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkDirtOffYourShouldeRLyingFromYouMtvUltimateMashUpsPresentsCollisionCourse = {
   id: "01a0676a-d71c-7014-b5b0-c1b48c2b3ff2",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-dirt-off-your-shoulde-r-lying-from-you-mtv-ultimate-mash-ups-presents-collision-course",
   title: "Dirt Off Your Shoulde r/ Lying From You: MTV Ultimate Mash-Ups Presents Collision Course",
   partOfCollections: ["artist/linkin-park"],

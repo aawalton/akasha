@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const linkinParkAThousandSunsPuertaDeAlcala = {
   id: "01a0676a-d715-7048-a9f2-32b80879048b",
-  type: "release",
+  type: "page-type/release",
   slug: "linkin-park-a-thousand-suns-puerta-de-alcala",
   title: "A Thousand Suns: Puerta De Alcalá",
   partOfCollections: ["artist/linkin-park"],

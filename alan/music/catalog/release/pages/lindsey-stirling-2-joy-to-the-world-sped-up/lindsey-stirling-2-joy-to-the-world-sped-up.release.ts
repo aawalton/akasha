@@ -2,7 +2,7 @@ import type { Release } from "akasha/alan/music/catalog/release/release.page-typ
 
 export const lindseyStirling2JoyToTheWorldSpedUp = {
   id: "01a0676a-d722-7029-ac3e-d7ea843a5339",
-  type: "release",
+  type: "page-type/release",
   slug: "lindsey-stirling-2-joy-to-the-world-sped-up",
   title: "Joy To The World (Sped Up)",
   partOfCollections: ["artist/lindsey-stirling"],
