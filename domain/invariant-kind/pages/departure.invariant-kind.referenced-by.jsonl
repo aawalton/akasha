@@ -2934,7 +2934,6 @@
 {"propertySlug":"invariant-kind","path":"page/type/page-property/properties/nullable.boolean-property.ts","id":"01a08d70-c263-7e18-b970-543a49a8397c"}
 {"propertySlug":"invariant-kind","path":"page/type/page-property/properties/property-slug.text-property.ts","id":"01a0539b-2a0f-7187-ba5a-aa8bff23fe15"}
 {"propertySlug":"invariant-kind","path":"page/type/page-property/properties/runs-file-length.boolean-property.ts","id":"01a06cd9-428f-7ffc-bd74-e4f412d578cd"}
-{"propertySlug":"invariant-kind","path":"page/type/page-property/properties/shape.file-property.ts","id":"01a0a224-fc4d-76d4-8d8e-0b56c5ae19fd"}
 {"propertySlug":"invariant-kind","path":"page/type/page-property/properties/sorted.boolean-property.ts","id":"01a0958e-49df-77de-8741-a211bb75d609"}
 {"propertySlug":"invariant-kind","path":"page/type/page-property/properties/unique-property.relation-property.ts","id":"01a07c96-3272-7d36-9394-051287145f2a"}
 {"propertySlug":"invariant-kind","path":"page/type/page-property/properties/unique.relation-property.ts","id":"01a04edd-897d-7695-8047-3d1c855b750f"}
@@ -2976,6 +2975,7 @@
 {"propertySlug":"invariant-kind","path":"page/type/properties/sequence-group-by.text-property.ts","id":"01a062de-2001-7001-8470-331eaddff9ce"}
 {"propertySlug":"invariant-kind","path":"page/type/properties/sequence-order-by.text-property.ts","id":"01a062de-2001-7002-8dd0-f44937908528"}
 {"propertySlug":"invariant-kind","path":"page/type/properties/sequence.record-property.ts","id":"01a062de-2001-7000-bc0f-0dd4d369ec1b"}
+{"propertySlug":"invariant-kind","path":"page/type/properties/shapes.file-property.ts","id":"01a0a224-fc4d-76d4-8d8e-0b56c5ae19fd"}
 {"propertySlug":"invariant-kind","path":"page/type/properties/show-reading-progress.boolean-property.ts","id":"01a0683a-620a-7829-8dc1-e42dd3e951a8"}
 {"propertySlug":"invariant-kind","path":"page/type/properties/single-declaration.record-property.ts","id":"01a090a6-673e-7677-a8c7-31c03a192934"}
 {"propertySlug":"invariant-kind","path":"page/type/properties/type-generator.file-property.ts","id":"01a0879f-931a-78e7-a5ea-03409cb5ee56"}

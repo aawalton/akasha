@@ -27,6 +27,7 @@ export const pageType = {
     "component-property-group/property-row-component",
     "false-property/one-valued",
     "file-property/schema",
+    "file-property/shapes",
     "file-property/type-generator",
     "file-property/types",
     "module/declared-properties",
@@ -106,6 +107,7 @@ export const pageType = {
     },
     { pageProperty: "boolean-property/drawn-offline", required: false, many: false },
     { pageProperty: "file-property/schema", required: false, many: false },
+    { pageProperty: "file-property/shapes", required: false, many: false },
   ],
   typeGenerator: "ts",
   invariants: [

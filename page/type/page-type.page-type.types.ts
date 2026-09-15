@@ -18,6 +18,7 @@ import type { PropertyRowComponent } from "akasha/page/type/properties/property-
 import type { RunsTabooCheck } from "akasha/page/type/properties/runs-taboo-check.boolean-property.types.ts"
 import type { Schema } from "akasha/page/type/properties/schema.file-property.types.ts"
 import type { Sequence } from "akasha/page/type/properties/sequence.record-property.types.ts"
+import type { Shapes } from "akasha/page/type/properties/shapes.file-property.types.ts"
 import type { TypeGenerator } from "akasha/page/type/properties/type-generator.file-property.types.ts"
 import type { Types } from "akasha/page/type/properties/types.file-property.types.ts"
 
@@ -43,4 +44,5 @@ export type PageType = Domain & {
   propertyRowComponent?: PropertyRowComponent
   drawnOffline?: DrawnOffline
   schema?: Schema
+  shapes?: Shapes
 }
