@@ -2,7 +2,7 @@ import type { RuntimeError } from "akasha/alan/harness/errors-core/runtime-error
 
 export const temperF1d556dabcbbe4e6 = {
   id: "01a09f58-c0c7-7261-b70a-2c8b4be9178b",
-  type: "runtime-error",
+  type: "page-type/runtime-error",
   slug: "temper-f1d556dabcbbe4e6",
   fingerprint: "f1d556dabcbbe4e6",
   app: "temper",
