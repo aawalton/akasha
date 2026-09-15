@@ -39,6 +39,6 @@ export const phoneNumberIsE164 = {
       statement: "`page-matches-its-type` refuses a body that will not load.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 1 },
   audit: { maxCpuSeconds: 15 },
 } as const satisfies CheckCode
