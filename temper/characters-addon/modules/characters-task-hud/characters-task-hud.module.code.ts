@@ -1,4 +1,4 @@
-import { TEXT_TERTIARY } from "akasha/design/interfaces/tokens/modules/text-color/text-color.module.code.ts"
+import { TEXT_TERTIARY } from "akasha/design/interfaces/design-interface-token/modules/text-color/text-color.module.code.ts"
 import { getActiveQuests } from "akasha/temper/characters-addon/modules/characters-active-quests/characters-active-quests.module.code.ts"
 import { getCharactersConfig } from "akasha/temper/characters-addon/modules/characters-config/characters-config.module.code.ts"
 import { ENRICHMENT_SELECTORS } from "akasha/temper/characters-addon/modules/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.code.ts"

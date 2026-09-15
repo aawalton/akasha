@@ -17,7 +17,7 @@ import "akasha/temper/eso-type/lua-language-extensions/lua-language-extensions.t
 import {
   TEXT_PRIMARY,
   TEXT_TERTIARY,
-} from "akasha/design/interfaces/tokens/modules/text-color/text-color.module.code.ts"
+} from "akasha/design/interfaces/design-interface-token/modules/text-color/text-color.module.code.ts"
 import { ALL_COMPANION_IDS } from "akasha/temper/companions-addon/modules/companions-id-map/companions-id-map.module.code.ts"
 import { getCleanCompanionName } from "akasha/temper/companions-addon/modules/companions-selector/companions-selector.module.code.ts"
 

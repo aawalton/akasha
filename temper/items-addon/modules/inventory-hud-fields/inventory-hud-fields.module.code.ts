@@ -3,7 +3,7 @@ import "akasha/temper/addon-library-type/temper-hud-global/temper-hud-global.typ
 import {
   GREEN,
   RED,
-} from "akasha/design/interfaces/tokens/modules/semantic-color/semantic-color.module.code.ts"
+} from "akasha/design/interfaces/design-interface-token/modules/semantic-color/semantic-color.module.code.ts"
 import { recordNetWorthScanMs } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import { getInventoryConfig } from "akasha/temper/items-addon/modules/inventory-config/inventory-config.module.code.ts"
 import { computeLiveNetWorth } from "akasha/temper/items-addon/modules/inventory-live-net-worth/inventory-live-net-worth.module.code.ts"

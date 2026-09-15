@@ -4,7 +4,7 @@ import { stone } from "akasha/design/interfaces/color/pages/stone.color.ts"
 import {
   type Rgb,
   srgbOf,
-} from "akasha/design/interfaces/tokens/modules/color-shape/color-shape.module.code.ts"
+} from "akasha/design/interfaces/design-interface-token/modules/color-shape/color-shape.module.code.ts"
 
 export const TEXT_PRIMARY: Rgb = srgbOf(chalk.hex)
 export const TEXT_SECONDARY: Rgb = srgbOf(silver.hex)

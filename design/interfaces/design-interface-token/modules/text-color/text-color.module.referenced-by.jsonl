@@ -15,4 +15,4 @@
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/items-addon/modules/inventory-action-panel/inventory-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/items-addon/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/items-addon/modules/inventory-browser-window/inventory-browser-window.module.code.ts"}
-{"propertySlug":"parts","path":"design/interfaces/tokens/design-interfaces-tokens.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}
+{"propertySlug":"parts","path":"design/interfaces/design-interface-token/design-interface-token.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}

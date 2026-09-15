@@ -1,7 +1,7 @@
 import {
   TEXT_PRIMARY,
   TEXT_SECONDARY,
-} from "akasha/design/interfaces/tokens/modules/text-color/text-color.module.code.ts"
+} from "akasha/design/interfaces/design-interface-token/modules/text-color/text-color.module.code.ts"
 import type { BankTransitionSummary } from "akasha/temper/items-addon/modules/inventory-bank-plan/inventory-bank-plan.module.code.ts"
 import { recordSettlingMs } from "akasha/temper/items-addon/modules/inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import { getSavedVariables } from "akasha/temper/items-addon/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"

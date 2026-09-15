@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const designInterfacesTokens = {
+export const designInterfaceToken = {
   id: "01a05c97-52ff-77b0-98f7-72e4e4e986e4",
   type: "domain",
-  slug: "design-interfaces-tokens",
+  slug: "design-interface-token",
   definition: "the colors an interface is drawn in, each held as an sRGB tuple",
   parts: ["module/semantic-color", "module/color-shape", "module/text-color"],
   invariants: [

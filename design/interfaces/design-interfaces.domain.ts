@@ -12,7 +12,7 @@ export const designInterfaces = {
     "domain/design-interfaces-patterns",
     "domain/design-interfaces-primitives",
     "domain/design-interfaces-system",
-    "domain/design-interfaces-tokens",
+    "domain/design-interface-token",
     "page-type/color",
   ],
   invariants: [
