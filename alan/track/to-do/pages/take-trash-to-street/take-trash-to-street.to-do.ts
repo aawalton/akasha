@@ -7,10 +7,10 @@ export const takeTrashToStreet = {
   title: "Take trash to street",
   toDoCategory: "health",
   difficulty: "light",
-  toDoDueDate: "2026-09-15",
+  toDoDueDate: "2026-09-22",
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=WEEKLY;BYDAY=TU",
   toDoSortOrder: 36,
   toDoValue: "value/health",
-  toDoLastCompletedAt: "2026-09-10T13:00:34.405Z",
+  toDoLastCompletedAt: "2026-09-15T22:23:30.649Z",
 } as const satisfies ToDo
