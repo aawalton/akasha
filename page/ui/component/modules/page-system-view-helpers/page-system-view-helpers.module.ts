@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const pageSystemViewHelpers = {
   id: "01a06205-4f3b-7008-874c-169510050759",
-  type: "module",
+  type: "page-type/module",
   slug: "page-system-view-helpers",
   definition:
     "Sorting server-grouped sections, the empty state, the create button and the timeline body.",

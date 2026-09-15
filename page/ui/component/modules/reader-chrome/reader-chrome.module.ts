@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const readerChrome = {
   id: "01a0610c-430a-7727-8552-a78e14674497",
-  type: "module",
+  type: "page-type/module",
   slug: "reader-chrome",
   definition: "the bars around a reader, with its progress and its neighbours",
   code: "tsx",

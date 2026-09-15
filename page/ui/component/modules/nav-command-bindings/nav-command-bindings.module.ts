@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const navCommandBindings = {
   id: "01a05cb4-fefb-79d1-a76a-c3d980daa2d0",
-  type: "module",
+  type: "page-type/module",
   slug: "nav-command-bindings",
   definition: "the key bindings a list of nav items becomes",
   code: "ts",

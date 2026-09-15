@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const propertyVisibilityPicker = {
   id: "01a061ee-786e-700a-91b4-f86d40d1c4e2",
-  type: "module",
+  type: "page-type/module",
   slug: "property-visibility-picker",
   definition: "Picks which properties a view shows, and the order they appear in.",
   code: "tsx",

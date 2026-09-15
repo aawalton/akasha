@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const useAppNavItems = {
   id: "01a063ba-3eb6-7d77-a305-4984882f48bb",
-  type: "module",
+  type: "page-type/module",
   slug: "use-app-nav-items",
   definition: "The nav items an app draws, with the acts reordering and reparenting them.",
   code: "tsx",

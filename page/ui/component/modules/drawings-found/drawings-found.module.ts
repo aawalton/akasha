@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const drawingsFound = {
   id: "01a0a065-7b7d-75b8-95b0-3acd9a5dcade",
-  type: "module",
+  type: "page-type/module",
   slug: "drawings-found",
   definition: "the page type a drawing's file names, and the first drawing a chain reaches",
   code: "ts",

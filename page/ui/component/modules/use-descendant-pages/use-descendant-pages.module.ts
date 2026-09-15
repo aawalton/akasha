@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const useDescendantPages = {
   id: "01a05cce-25ec-7573-afac-aed8bece2063",
-  type: "module",
+  type: "page-type/module",
   slug: "use-descendant-pages",
   definition: "the pages of a page type and of every page type beneath it",
   code: "ts",

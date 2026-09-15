@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const notesOptionsPicker = {
   id: "01a0617e-0d2d-7013-a38d-08fabfe17d62",
-  type: "module",
+  type: "page-type/module",
   slug: "notes-options-picker",
   definition: "the picker choosing which property a notes view shows",
   code: "tsx",
