@@ -1,11 +1,8 @@
 import type {
   CommsRule,
   OnDemandAgentSpec,
-  StateAuthorityKind,
 } from "akasha/agent/messaging/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 import { handlerSeatName } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
-import { shape } from "akasha/util/narrow/modules/shape/shape.module.code.ts"
-import type { Shape } from "akasha/util/narrow/modules/shape-core/shape-core.module.code.ts"
 
 export const AGENT_SENDER_PREFIX = "agent:"
 
@@ -16,67 +13,6 @@ const SMS_SOURCE_PREFIX = "sms:"
 function smsWakeSource(handlerSeat: string): string {
   return `${SMS_SOURCE_PREFIX}${handlerSeat}`
 }
-
-const STATE_AUTHORITY_KINDS = [
-  "pages-rows",
-  "bound-worktree",
-  "game-state-rows",
-] as const satisfies readonly StateAuthorityKind[]
-
-const KEBAB_HANDLE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
-
-const SLASH_SKILL_TOKEN = /^\/[a-z0-9]+(?:-[a-z0-9]+)*(?:\s|$)/
-
-function constrainsOnSomething(rule: CommsRule): boolean {
-  return rule.senderMatch.length > 0 || (rule.contentRegex ?? "").length > 0
-}
-
-const commsRuleSchema = shape
-  .object({
-    id: shape.string(),
-    senderMatch: shape.string(),
-    contentRegex: shape.string().optional(),
-    target: shape.string(),
-    status: shape.enum(["LIVE", "PROPOSED"]),
-  })
-  .strict()
-
-const stateAuthoritySchema = shape
-  .object({ kind: shape.enum(STATE_AUTHORITY_KINDS), detail: shape.string().min(1) })
-  .strict()
-
-const resumePolicySchema = shape.discriminatedUnion("kind", [
-  shape.object({ kind: shape.literal("fresh") }).strict(),
-  shape
-    .object({
-      kind: shape.literal("resume-under-budget"),
-      tokenThreshold: shape.number().int().positive(),
-    })
-    .strict(),
-])
-
-function atLeastOne<T>(element: Shape<T>): Shape<T[]> {
-  return shape.array(element).refine((items) => items.length >= 1, {
-    message: "Too small: expected array to have >=1 items",
-  })
-}
-
-export const onDemandAgentSpecSchema = shape
-  .object({
-    name: shape.string().regex(KEBAB_HANDLE),
-    wakeSources: atLeastOne(commsRuleSchema).refine(
-      (rules) => rules.every((rule) => constrainsOnSomething(rule as CommsRule)),
-      {
-        message:
-          "every wakeSource must constrain on a non-empty senderMatch or a non-empty contentRegex; a rule constraining on neither matches every inbound message",
-      }
-    ),
-    stateAuthority: atLeastOne(stateAuthoritySchema),
-    resumePolicy: resumePolicySchema,
-    owner: shape.string().min(1),
-    bootPrompt: shape.string().regex(SLASH_SKILL_TOKEN).optional(),
-  })
-  .strict()
 
 const STANDING_PERSONA_TOKEN_THRESHOLD = 150_000
 
