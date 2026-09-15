@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const azarinthHealer0006TheUnionOfDubiousDamesIi656181 = {
   id: "01a08395-fff2-75aa-b40a-b06e4f7e0ef8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "azarinth-healer-0006-the-union-of-dubious-dames-ii-656181",
   story: "story-read/azarinth-healer",
   position: 6,

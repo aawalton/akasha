@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const beneathTheDragoneyeMoons0008WorldbuildingWhatCausedTheDeadzone731474 = {
   id: "01a08396-491c-7a74-93d3-ab192cb83e5c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0008-worldbuilding-what-caused-the-deadzone-731474",
   story: "story-read/beneath-the-dragoneye-moons",
   position: 8,

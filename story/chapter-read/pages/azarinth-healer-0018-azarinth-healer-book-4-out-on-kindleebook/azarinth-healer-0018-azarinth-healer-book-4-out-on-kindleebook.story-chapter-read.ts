@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const azarinthHealer0018AzarinthHealerBook4OutOnKindleebook = {
   id: "01a08396-0b34-7f2e-871e-32d7cd6f3200",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "azarinth-healer-0018-azarinth-healer-book-4-out-on-kindleebook",
   story: "story-read/azarinth-healer",
   position: 18,

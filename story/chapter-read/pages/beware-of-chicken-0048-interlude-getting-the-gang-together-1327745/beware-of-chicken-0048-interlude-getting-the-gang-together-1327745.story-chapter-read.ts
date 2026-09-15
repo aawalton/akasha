@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0048InterludeGettingTheGangTogether1327745 = {
   id: "01a08396-b348-74d3-aba2-723fc4a80487",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0048-interlude-getting-the-gang-together-1327745",
   story: "story-read/beware-of-chicken",
   position: 48,

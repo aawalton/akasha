@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const bewareOfChicken0004WebVolume4ReleaseVolume6BeginsChapter1BreakoutInto = {
   id: "01a0672c-ec7f-7004-92db-867ff3fef998",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0004-web-volume-4-release-volume-6-begins-chapter-1-breakout-into",
   title: "WEB Volume 4/Release Volume 6 Begins: Chapter 1: Breakout, into the World",
   story: "story-read/beware-of-chicken",

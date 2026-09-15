@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const azarinthHealer0011Book2IsOutAudiobookAsWellNow = {
   id: "01a06731-aff8-7001-a471-f6ed7b0daf2d",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "azarinth-healer-0011-book-2-is-out-audiobook-as-well-now",
   title: "Book 2 is out. Audiobook as well now.",
   story: "story-read/azarinth-healer",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const azarinthHealer0016NotAChapterUpdateOnTheStorySerializedVersion = {
   id: "01a06731-affa-7001-bc02-b6a6fb032b5c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "azarinth-healer-0016-not-a-chapter-update-on-the-story-serialized-version",
   title: "Not a chapter - Update on the story/serialized version",
   story: "story-read/azarinth-healer",
