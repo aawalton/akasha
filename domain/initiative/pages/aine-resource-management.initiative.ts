@@ -7,6 +7,78 @@ export const aineResourceManagement = {
   domain: "domain/memory",
   persona: "persona/aine",
   intentStack: [
+    { statement: "`no-raw-nul-bytes` runs under a processor ceiling matched to its cost." },
+    { statement: "`no-code-comments` runs under a processor ceiling matched to its cost." },
+    { statement: "`phone-number-is-e164` runs under a processor ceiling matched to its cost." },
+    { statement: "`id-is-a-uuid-version-7` runs under a processor ceiling matched to its cost." },
+    {
+      statement: "`page-property-has-its-file` runs under a processor ceiling matched to its cost.",
+    },
+    {
+      statement:
+        "`email-address-is-well-formed` runs under a processor ceiling matched to its cost.",
+    },
+    { statement: "`no-color-literal` runs under a processor ceiling matched to its cost." },
+    {
+      statement:
+        "`no-second-spelling-of-a-name-format` runs under a processor ceiling matched to its cost.",
+    },
+    {
+      statement: "`identifier-names-one-page` runs under a processor ceiling matched to its cost.",
+    },
+    { statement: "`no-import-cycle` runs under a processor ceiling matched to its cost." },
+    {
+      statement:
+        "`restatement-narrows-something` runs under a processor ceiling matched to its cost.",
+    },
+    { statement: "`key-names-one-property` runs under a processor ceiling matched to its cost." },
+    { statement: "`page-matches-its-type` runs under a processor ceiling matched to its cost." },
+    {
+      statement:
+        "`domain-is-named-by-a-parent` runs under a processor ceiling matched to its cost.",
+    },
+    { statement: "`relation-resolves` runs under a processor ceiling matched to its cost." },
+    {
+      statement:
+        "`repository-is-written-by-a-change` runs under a processor ceiling matched to its cost.",
+    },
+    { statement: "`global-declared-once` runs under a processor ceiling matched to its cost." },
+    {
+      statement:
+        "`manifest-names-what-is-reached` runs under a processor ceiling matched to its cost.",
+    },
+    {
+      statement:
+        "`extension-host-reaches-no-bun-code` runs under a processor ceiling matched to its cost.",
+    },
+    { statement: "`lint-clean` runs under a processor ceiling matched to its cost." },
+    {
+      statement:
+        "`browser-code-reads-the-environment-by-a-name` runs under a processor ceiling matched to its cost.",
+    },
+    { statement: "`file-length` runs under a processor ceiling matched to its cost." },
+    {
+      statement:
+        "`introduced-property-is-a-part` runs under a processor ceiling matched to its cost.",
+    },
+    { statement: "`no-refused-syntax` runs under a processor ceiling matched to its cost." },
+    { statement: "`shell-clean` runs under a processor ceiling matched to its cost." },
+    {
+      statement:
+        "`command-is-named-by-its-place-in-the-tree` runs under a processor ceiling matched to its cost.",
+    },
+    { statement: "`no-rule-in-two-files` runs under a processor ceiling matched to its cost." },
+    {
+      statement:
+        "`popover-keeps-its-viewport-cap` runs under a processor ceiling matched to its cost.",
+    },
+    { statement: "`folder-matches-a-shape` runs under a processor ceiling matched to its cost." },
+    {
+      statement:
+        "`check-reaches-a-path-through-the-index` runs under a processor ceiling matched to its cost.",
+    },
+    { statement: "`tests-pass` runs under a processor ceiling matched to its cost." },
+    { statement: "`typecheck` runs under a processor ceiling matched to its cost." },
     {
       statement: "Every check an agent runs has a memory ceiling of its own.",
       workingMemory:
@@ -81,78 +153,6 @@ export const aineResourceManagement = {
       workingMemory:
         "The reaper takes whichever subtree is largest at the instant it looks, so a browser, a game and a build all weigh the same, and the largest is often the one doing the most valuable work. Kubernetes settles this in advance by class. Overcommit only works where the rare collision resolves the way Alan would choose, so the order belongs settled while nothing is burning.\n",
     },
-    { statement: "`typecheck` runs under a processor ceiling matched to its cost." },
-    { statement: "`no-raw-nul-bytes` runs under a processor ceiling matched to its cost." },
-    { statement: "`no-code-comments` runs under a processor ceiling matched to its cost." },
-    { statement: "`phone-number-is-e164` runs under a processor ceiling matched to its cost." },
-    { statement: "`id-is-a-uuid-version-7` runs under a processor ceiling matched to its cost." },
-    {
-      statement: "`page-property-has-its-file` runs under a processor ceiling matched to its cost.",
-    },
-    {
-      statement:
-        "`email-address-is-well-formed` runs under a processor ceiling matched to its cost.",
-    },
-    { statement: "`no-color-literal` runs under a processor ceiling matched to its cost." },
-    {
-      statement:
-        "`no-second-spelling-of-a-name-format` runs under a processor ceiling matched to its cost.",
-    },
-    {
-      statement: "`identifier-names-one-page` runs under a processor ceiling matched to its cost.",
-    },
-    { statement: "`no-import-cycle` runs under a processor ceiling matched to its cost." },
-    {
-      statement:
-        "`restatement-narrows-something` runs under a processor ceiling matched to its cost.",
-    },
-    { statement: "`key-names-one-property` runs under a processor ceiling matched to its cost." },
-    { statement: "`page-matches-its-type` runs under a processor ceiling matched to its cost." },
-    {
-      statement:
-        "`domain-is-named-by-a-parent` runs under a processor ceiling matched to its cost.",
-    },
-    { statement: "`relation-resolves` runs under a processor ceiling matched to its cost." },
-    {
-      statement:
-        "`repository-is-written-by-a-change` runs under a processor ceiling matched to its cost.",
-    },
-    { statement: "`global-declared-once` runs under a processor ceiling matched to its cost." },
-    {
-      statement:
-        "`manifest-names-what-is-reached` runs under a processor ceiling matched to its cost.",
-    },
-    {
-      statement:
-        "`extension-host-reaches-no-bun-code` runs under a processor ceiling matched to its cost.",
-    },
-    { statement: "`lint-clean` runs under a processor ceiling matched to its cost." },
-    {
-      statement:
-        "`browser-code-reads-the-environment-by-a-name` runs under a processor ceiling matched to its cost.",
-    },
-    { statement: "`file-length` runs under a processor ceiling matched to its cost." },
-    {
-      statement:
-        "`introduced-property-is-a-part` runs under a processor ceiling matched to its cost.",
-    },
-    { statement: "`no-refused-syntax` runs under a processor ceiling matched to its cost." },
-    { statement: "`shell-clean` runs under a processor ceiling matched to its cost." },
-    {
-      statement:
-        "`command-is-named-by-its-place-in-the-tree` runs under a processor ceiling matched to its cost.",
-    },
-    { statement: "`no-rule-in-two-files` runs under a processor ceiling matched to its cost." },
-    {
-      statement:
-        "`popover-keeps-its-viewport-cap` runs under a processor ceiling matched to its cost.",
-    },
-    { statement: "`folder-matches-a-shape` runs under a processor ceiling matched to its cost." },
-    {
-      statement:
-        "`check-reaches-a-path-through-the-index` runs under a processor ceiling matched to its cost.",
-    },
-    { statement: "`tests-pass` runs under a processor ceiling matched to its cost." },
   ],
   constraints: [
     "Adding a mechanism requires Alan's approval.",
