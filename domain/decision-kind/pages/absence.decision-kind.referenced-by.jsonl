@@ -759,8 +759,9 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/types-file-runs-nothing/types-file-runs-nothing.check-code.ts","id":"01a07724-a8ae-7f5e-93f2-c483420afe89"}
 {"propertySlug":"decision-kind","path":"check/model/check-model.page-type.ts","id":"01a05911-aa15-776e-9726-ed4131cd6b51"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-asking/audit-asking.module.ts","id":"01a09239-89d9-7000-b122-2e19bbb8547e"}
+{"propertySlug":"decision-kind","path":"check/modules/audit-calling/audit-calling.module.ts","id":"01a0a6a7-6988-7cac-b722-46cd6c843671"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-child/audit-child.module.ts","id":"01a0a064-3e4a-7000-ad1d-00f2d5f33c09"}
-{"propertySlug":"decision-kind","path":"check/modules/audit-request/audit-request.module.ts","id":"01a09277-b9e5-7000-93dc-4d36ee548c6c"}
+{"propertySlug":"decision-kind","path":"check/modules/audit-listening/audit-listening.module.ts","id":"01a0a6a5-0a65-78f1-9909-32f3e63bc7ea"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-serving/audit-serving.module.ts","id":"01a091e9-689c-7001-a9f4-f25090091be1"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-verdict/audit-verdict.module.ts","id":"01a091e9-689c-7000-a6ba-611889107d33"}
 {"propertySlug":"decision-kind","path":"check/modules/change-mirror/change-mirror.module.ts","id":"01a080b1-5322-7000-ae97-da48e0382c61"}
@@ -771,6 +772,7 @@
 {"propertySlug":"decision-kind","path":"check/modules/model-running/model-running.module.ts","id":"01a05a43-f8db-7c07-80be-5c8b8867ea70"}
 {"propertySlug":"decision-kind","path":"check/modules/refusal-holding/refusal-holding.module.ts","id":"01a09262-8dcd-7000-9ba4-db03acc57a04"}
 {"propertySlug":"decision-kind","path":"check/modules/router-app-code/router-app-code.module.ts","id":"01a08e07-d3c0-7687-a361-081c6e367ee5"}
+{"propertySlug":"decision-kind","path":"check/service-workstations/audit-running/audit-running.service-workstation.ts","id":"01a091e9-689c-7002-afcc-8b73def2b8f9"}
 {"propertySlug":"decision-kind","path":"check/test-fixtures/scratch/check-scratch.test-fixture.ts","id":"01a04fd0-8a9a-7915-a355-32d5432a7f11"}
 {"propertySlug":"decision-kind","path":"check/test-fixtures/staging/check-staging.test-fixture.ts","id":"01a08e16-827d-7f4d-bb26-5724ed027608"}
 {"propertySlug":"decision-kind","path":"check/test/fixture/minting/minting.test-fixture.ts","id":"01a04e33-9351-7e79-8041-89abfa036830"}
@@ -1384,6 +1386,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-alerting/service-alerting.module.ts","id":"01a0821e-fce5-7c36-a9bf-49d374faeb31"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-asking/service-asking.module.ts","id":"01a09424-ecd8-7c1f-b068-99932a16c139"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-beating/service-beating.module.ts","id":"01a08cb0-defb-7ab1-9512-d43812f8fe80"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-binding/service-binding.module.ts","id":"01a0a6b4-83dc-7675-a214-0cac1da7fccd"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-health/service-health.module.ts","id":"01a0821e-fce3-79c6-bf54-45289546f49a"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-installing/service-installing.module.ts","id":"01a05a62-6da2-7e4f-9186-137486a0d1e2"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-loading/service-loading.module.ts","id":"01a09fef-e3b8-7987-8115-0f845edec368"}

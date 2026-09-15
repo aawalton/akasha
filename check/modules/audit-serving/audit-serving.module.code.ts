@@ -2,10 +2,6 @@ import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { writeMessage } from "akasha/agent/messaging/modules/message-file/message-file.module.code.ts"
 import {
-  requestDone,
-  requestsIn,
-} from "akasha/check/modules/audit-request/audit-request.module.code.ts"
-import {
   cleanAt,
   cleanly,
   commitHeld,
@@ -387,6 +383,7 @@ export function bodyFor(red: readonly Ran[], commit: string): string {
 export type Serving = {
   readonly root: string
   readonly home: string
+  readonly checks: readonly string[]
   readonly run?: Running
   readonly send?: Sent
   readonly to?: string
@@ -394,10 +391,10 @@ export type Serving = {
 
 export function roundOver(
   every: readonly Gathered[],
-  asked: readonly string[]
+  checks: readonly string[]
 ): readonly Gathered[] {
-  if (asked.length === 0) return checksAt(every, AUDIT)
-  const held = new Set(asked)
+  if (checks.length === 0) return checksAt(every, AUDIT)
+  const held = new Set(checks)
   return every.filter((one) => held.has(one.slug))
 }
 
@@ -406,10 +403,9 @@ export async function serving(given: Serving): Promise<Told> {
   const over = await overNow(given.root)
   const shadow = shadowAsked(over.change)
   const moved = movedIn(given.root, over.commit)
-  const asked = requestsIn(given.home)
   const ran: Ran[] = []
   const red: Ran[] = []
-  for (const one of roundOver(checksIn(given.root), asked)) {
+  for (const one of roundOver(checksIn(given.root), given.checks)) {
     const asking: Asking = { ...given, check: one, over, asked: over.commit, moved, shadow }
     const before = verdictFor(asking)
     const said = await auditOne(asking)
@@ -417,7 +413,6 @@ export async function serving(given: Serving): Promise<Told> {
     const fresh = refusalsNew(before, said.verdict)
     if (fresh.length > 0) red.push({ ...said, verdict: { ...said.verdict, refusals: fresh } })
   }
-  for (const one of asked) requestDone(given.home, one)
   const turned = red.map((one) => one.check)
   if (red.length === 0) return { ran, turned, refused: [] }
   const to = given.to ?? championOf(given.root)
@@ -425,14 +420,13 @@ export async function serving(given: Serving): Promise<Told> {
   return { ran, turned, refused: why === null ? [] : [why] }
 }
 
-export async function runAuditServing(): Promise<void> {
-  const told = await serving({ root: checkoutAt(), home: requireEnv("HOME") })
+export async function roundNow(checks: readonly string[]): Promise<Told> {
+  const told = await serving({ root: checkoutAt(), home: requireEnv("HOME"), checks })
   const red = told.ran.filter((one) => measured(one.verdict) && !cleanly(one.verdict)).length
   const nothing = told.ran.filter((one) => !measured(one.verdict)).length
   process.stdout.write(
     `${SAID} ${counted(told.ran.length, "audit")}, ${red} refusing, ${nothing} unmeasured\n`
   )
   for (const one of told.refused) process.stderr.write(`${SAID} ${one}\n`)
+  return told
 }
-
-if (import.meta.main) await runAuditServing()

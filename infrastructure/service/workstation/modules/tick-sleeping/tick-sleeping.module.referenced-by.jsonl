@@ -3,5 +3,7 @@
 {"propertySlug":"import","fileName":"tick-sleeping.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-notifying/push-notifying.module.code.ts"}
 {"propertySlug":"import","fileName":"tick-sleeping.module.code.ts","path":"alan/harness/email-watch/modules/inbox-watching/inbox-watching.module.code.ts"}
 {"propertySlug":"import","fileName":"tick-sleeping.module.code.ts","path":"alan/harness/surplus/modules/fall-notifying/surplus-fall-notifying.module.code.ts"}
+{"propertySlug":"import","fileName":"tick-sleeping.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.code.ts"}
+{"propertySlug":"import","fileName":"tick-sleeping.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"tick-sleeping.module.code.ts","path":"infrastructure/memory/reaping/modules/memory-reaper-running/memory-reaper-running.module.code.ts"}
 {"propertySlug":"parts","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}

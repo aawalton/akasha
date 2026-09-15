@@ -10,19 +10,7 @@ export const pageListening = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The port is read from the page describing the service.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page stating no port leaves nothing to listen on.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The host names bound are read from the page describing the service.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page stating no host name leaves the loopback address bound alone.",
+      statement: "The port and the host names are read off the service's page by its slug.",
     },
     {
       decisionKind: "decision-kind/departure",

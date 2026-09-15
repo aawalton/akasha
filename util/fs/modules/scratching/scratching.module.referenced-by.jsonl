@@ -115,7 +115,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/types-file-runs-nothing/types-file-runs-nothing.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-asking/audit-asking.module.test.ts"}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-request/audit-request.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-calling/audit-calling.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/audit-verdict/audit-verdict.module.test.ts"}

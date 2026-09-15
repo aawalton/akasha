@@ -64,6 +64,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/inference/modules/inference-reading/inference-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/workstation/modules/service-binding/service-binding.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/body-read-cost/body-read-cost.performance.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}
@@ -82,7 +83,6 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/modules/value/page-value.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/service/modules/file-answering/file-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts"}
-{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/service/modules/page-listening/page-listening.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"person/modules/reading/person-reading.module.code.ts"}

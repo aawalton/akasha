@@ -1,20 +1,17 @@
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  bindsFor,
+  pagePathFor,
+  portFor,
+  SERVICE_PAGE_TYPE,
+} from "akasha/infrastructure/service/workstation/modules/service-binding/service-binding.module.code.ts"
 import {
   dropUncommitted,
   mergeUncommitted,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
-import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import {
-  numberAt,
-  textsAt,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { answering } from "akasha/page/service/modules/page-serving/page-serving.module.code.ts"
 import { writerFor } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 
 export const SERVICE_SLUG = "page-service"
-export const SERVICE_PAGE_TYPE = "service-workstation"
-export const LOOPBACK = "127.0.0.1"
 export const UNBOUND = "unbound"
 export const TRIED_AGAIN_MS = 30_000
 
@@ -43,28 +40,6 @@ export type Bound = {
   readonly servers: readonly ReturnType<typeof boundAt>[]
   readonly refused: readonly Refusal[]
   readonly writer: Writer
-}
-
-export function pagePathFor(root: string): string | null {
-  const listed = listedAt(root, SERVICE_PAGE_TYPE, SERVICE_SLUG)
-  const one = listed[0]
-  return one === undefined ? null : one.path
-}
-
-function statedFor(root: string): Value | null {
-  const path = pagePathFor(root)
-  return path === null ? null : valueAt(path, root)
-}
-
-export function portFor(root: string): number | null {
-  const value = statedFor(root)
-  return value === null ? null : numberAt(value, "port")
-}
-
-export function bindsFor(root: string): readonly string[] {
-  const value = statedFor(root)
-  const stated = value === null ? null : textsAt(value, "binds")
-  return stated === null || stated.length === 0 ? [LOOPBACK] : stated
 }
 
 export function serversFor(given: Listening, held?: Writer): Bound {
@@ -104,14 +79,14 @@ function answeredAt(bound: Bound): string {
 }
 
 export function runPageListening(root: string): undefined {
-  const port = portFor(root)
-  const page = pagePathFor(root)
+  const port = portFor(root, SERVICE_SLUG)
+  const page = pagePathFor(root, SERVICE_SLUG)
   if (port === null || page === null) {
     throw new Error(
       `no page is slugged ${SERVICE_SLUG} under ${SERVICE_PAGE_TYPE}, or it states no port`
     )
   }
-  const stated: Listening = { root, port, binds: bindsFor(root) }
+  const stated: Listening = { root, port, binds: bindsFor(root, SERVICE_SLUG) }
   let bound = serversFor(stated)
   saying(root, page, unboundIn(bound))
   for (const one of bound.refused) {

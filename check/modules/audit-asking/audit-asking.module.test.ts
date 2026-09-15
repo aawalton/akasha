@@ -6,8 +6,9 @@ import {
   refusalsIn,
   unrunIn,
   type Verdicts,
+  verdictsWith,
 } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
-import { requestsIn } from "akasha/check/modules/audit-request/audit-request.module.code.ts"
+import type { Answered } from "akasha/check/modules/audit-calling/audit-calling.module.code.ts"
 import type { Verdict } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
@@ -24,6 +25,10 @@ const ONE = ["typecheck"]
 
 function holding(verdict?: Verdict): Map<string, Verdict> {
   return verdict === undefined ? new Map() : new Map([["typecheck", verdict]])
+}
+
+function answering(verdict: Verdict): Answered {
+  return { ran: [{ check: "typecheck", verdict, ran: true }] }
 }
 
 async function repoOf(commits: number): Promise<{ root: string; made: readonly string[] }> {
@@ -47,13 +52,12 @@ test("a check every verdict already answers for is owed no round", async () => {
   let rounds = 0
   const told = await asked({
     root,
-    home: scratch.rootFor("akasha-audit-asking-home-"),
     checks: ONE,
     commit: made[0] ?? "",
     verdicts: () => held,
     round: () => {
       rounds += 1
-      return null
+      return Promise.resolve({ ran: [] })
     },
   })
   expect(rounds).toBe(0)
@@ -66,141 +70,132 @@ test("a verdict at an ancestor of the commit asked answers for nothing", async (
   let rounds = 0
   const told = await asked({
     root,
-    home: scratch.rootFor("akasha-audit-asking-home-"),
     checks: ONE,
     commit: made[1] ?? "",
     verdicts: () => held,
     round: () => {
       rounds += 1
-      return null
-    },
-  })
-  expect(rounds).toBe(2)
-  expect(told.unanswered).toEqual(ONE)
-})
-
-test("a round whose verdict answers ends the asking", async () => {
-  const { root, made } = await repoOf(1)
-  const held = holding()
-  let rounds = 0
-  const told = await asked({
-    root,
-    home: scratch.rootFor("akasha-audit-asking-home-"),
-    checks: ONE,
-    commit: made[0] ?? "",
-    verdicts: () => held,
-    round: () => {
-      rounds += 1
-      held.set("typecheck", { ...CLEAN, commit: made[0] ?? "", refusals: ["one.ts — no"] })
-      return null
+      return Promise.resolve({ ran: [] })
     },
   })
   expect(rounds).toBe(1)
+  expect(told.unanswered).toEqual(ONE)
+})
+
+test("the verdict a round answered is read from what came back rather than from a log", async () => {
+  const { root, made } = await repoOf(1)
+  const told = await asked({
+    root,
+    checks: ONE,
+    commit: made[0] ?? "",
+    verdicts: holding,
+    round: () =>
+      Promise.resolve(answering({ ...CLEAN, commit: made[0] ?? "", refusals: ["one.ts — no"] })),
+  })
   expect(told.unanswered).toEqual([])
   expect(told.refusals).toEqual([`typecheck at ${made[0] ?? ""} — one.ts — no`])
 })
 
 test("a round that would not start leaves every check it was owed unanswered", async () => {
   const { root, made } = await repoOf(1)
-  const home = scratch.rootFor("akasha-audit-asking-home-")
   let rounds = 0
   const told = await asked({
     root,
-    home,
     checks: ONE,
     commit: made[0] ?? "",
     verdicts: holding,
     round: () => {
       rounds += 1
-      return "the unit would not start"
+      return Promise.resolve({ refused: "nothing is listening at `http://127.0.0.1:8788/round`" })
     },
   })
   expect(rounds).toBe(1)
-  expect(told.broken).toBe("the unit would not start")
+  expect(told.broken).toContain("nothing is listening")
   expect(told.unanswered).toEqual(ONE)
 })
 
-test("a check owed a round is asked for by name before that round starts", async () => {
+test("a check owed a round is named in the round asked for", async () => {
   const { root, made } = await repoOf(1)
-  const home = scratch.rootFor("akasha-audit-asking-home-")
-  const held = holding()
-  let asking: readonly string[] = []
+  let named: readonly string[] = []
   await asked({
     root,
-    home,
     checks: ONE,
     commit: made[0] ?? "",
-    verdicts: () => held,
-    round: () => {
-      asking = requestsIn(home)
-      held.set("typecheck", { ...CLEAN, commit: made[0] ?? "" })
-      return null
+    verdicts: holding,
+    round: (checks) => {
+      named = checks
+      return Promise.resolve(answering({ ...CLEAN, commit: made[0] ?? "" }))
     },
   })
-  expect(asking).toEqual(ONE)
+  expect(named).toEqual(ONE)
 })
 
-test("a name that is no check slug leaves the round unasked", async () => {
-  const { root, made } = await repoOf(1)
-  const home = scratch.rootFor("akasha-audit-asking-home-")
+test("a round is asked for once however many checks are left unanswered", async () => {
+  const { root, made } = await repoOf(2)
   let rounds = 0
   const told = await asked({
     root,
-    home,
-    checks: ["Not A Slug"],
-    commit: made[0] ?? "",
-    verdicts: holding,
+    checks: ONE,
+    commit: made[1] ?? "",
+    verdicts: () => holding({ ...CLEAN, commit: made[0] ?? "" }),
     round: () => {
       rounds += 1
-      return null
+      return Promise.resolve({ ran: [] })
     },
   })
-  expect(rounds).toBe(0)
-  expect(told.broken).toContain("no check slug")
-  expect(told.unanswered).toEqual(["Not A Slug"])
+  expect(rounds).toBe(1)
+  expect(told.unanswered).toEqual(ONE)
 })
-
-async function threwAfter(turns: number): Promise<readonly string[]> {
-  const { root, made } = await repoOf(2)
-  const held = holding({ ...CLEAN, commit: made[0] ?? "" })
-  const done: string[] = []
-  let rounds = 0
-  await expect(
-    asked({
-      root,
-      home: scratch.rootFor("akasha-audit-asking-home-"),
-      checks: ONE,
-      commit: made[1] ?? "",
-      done,
-      verdicts: () => held,
-      round: () => {
-        rounds += 1
-        if (rounds > turns) throw new Error("the unit died mid-round")
-        return null
-      },
-    })
-  ).rejects.toThrow("the unit died mid-round")
-  return done
-}
 
 test("a round handed no reading reads each check's own audit log", async () => {
   const told = await asked({
     root: process.cwd(),
-    home: scratch.rootFor("akasha-audit-asking-home-"),
     checks: [],
     commit: "HEAD",
-    round: () => "no round starts here",
+    round: () => Promise.reject(new Error("a round was asked for where no check was owed one")),
   })
   expect(told.broken).toBeNull()
   expect(told.unanswered).toEqual([])
 })
 
 test("a round that ran is named on the list the caller hands in", async () => {
-  expect(await threwAfter(1)).toEqual(["typecheck"])
+  const { root, made } = await repoOf(2)
+  const done: string[] = []
+  await asked({
+    root,
+    checks: ONE,
+    commit: made[1] ?? "",
+    done,
+    verdicts: () => holding({ ...CLEAN, commit: made[0] ?? "" }),
+    round: () => Promise.resolve(answering({ ...CLEAN, commit: made[1] ?? "" })),
+  })
+  expect(done).toEqual(["typecheck"])
 })
 
-test("a fault before any round started names nothing on that list", async () => {
-  expect(await threwAfter(0)).toEqual([])
+test("a round that threw names nothing on that list", async () => {
+  const { root, made } = await repoOf(2)
+  const done: string[] = []
+  await expect(
+    asked({
+      root,
+      checks: ONE,
+      commit: made[1] ?? "",
+      done,
+      verdicts: () => holding({ ...CLEAN, commit: made[0] ?? "" }),
+      round: () => Promise.reject(new Error("the round died mid-flight")),
+    })
+  ).rejects.toThrow("the round died mid-flight")
+  expect(done).toEqual([])
+})
+
+test("what a round answered is laid over what the logs said", () => {
+  const held: Verdicts = new Map([["typecheck", CLEAN]])
+  const said = verdictsWith(held, [
+    { check: "typecheck", verdict: { ...CLEAN, commit: "b" }, ran: true },
+    { check: "lint-clean", verdict: CLEAN, ran: false },
+  ])
+  expect(said.get("typecheck")?.commit).toBe("b")
+  expect(said.get("lint-clean")).toEqual(CLEAN)
 })
 
 test("a refusal is named with the check that refused it and the commit it is at", () => {

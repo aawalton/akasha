@@ -1,12 +1,15 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import {
   bindsFor,
-  boundAgain,
   LOOPBACK,
   portFor,
+} from "akasha/infrastructure/service/workstation/modules/service-binding/service-binding.module.code.ts"
+import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import {
+  boundAgain,
+  SERVICE_SLUG,
   saying,
   serversFor,
   UNBOUND,
@@ -52,12 +55,12 @@ test("what is bound refuses a path it does not answer at", async () => {
 })
 
 test("the port is read from the page rather than written here", () => {
-  const held = portFor(ROOT)
+  const held = portFor(ROOT, SERVICE_SLUG)
   expect(held === null || typeof held === "number").toBe(true)
 })
 
 test("the host names bound are read from the page rather than written here", () => {
-  const held = bindsFor(ROOT)
+  const held = bindsFor(ROOT, SERVICE_SLUG)
   expect(held).toContain(LOOPBACK)
   expect(held).not.toContain("0.0.0.0")
 })

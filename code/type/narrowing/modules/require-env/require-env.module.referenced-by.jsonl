@@ -20,7 +20,6 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/running/modules/test-overlay/test-overlay.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/modules/parse-args/parse-args.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.test.ts"}
-{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/audit/audit.command.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/inference/edit/inference-edit.command.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts"}

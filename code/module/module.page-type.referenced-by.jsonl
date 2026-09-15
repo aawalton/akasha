@@ -962,8 +962,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-asking/audit-asking.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-calling/audit-calling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-child/audit-child.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-request/audit-request.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-listening/audit-listening.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-serving/audit-serving.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/audit-verdict/audit-verdict.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/modules/body-not-utf8/body-not-utf8.module.ts"}
@@ -1895,6 +1896,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-alerting/service-alerting.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-asking/service-asking.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-beating/service-beating.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-binding/service-binding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-checkout/service-checkout.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-health/service-health.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-installing/service-installing.module.ts"}

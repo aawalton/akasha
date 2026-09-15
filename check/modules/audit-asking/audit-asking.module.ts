@@ -14,7 +14,7 @@ export const auditAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The round asked for is the audit service's unit, started and waited on.",
+      statement: "The round asked for is asked of the audit service over HTTP and waited on.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,19 +46,23 @@ export const auditAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A check owed a round is asked for by name before that round starts.",
+      statement: "A check owed a round is named in the round asked for.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A name that is no check slug leaves the round unasked.",
+      statement: "A check no round is owed for is named in none.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A round is asked for twice at most.",
+      statement: "A round is asked for once.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A second round is asked for only where a check is still unanswered.",
+      statement: "A round is asked for only where a check is still unanswered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The verdict a round answered is read from what came back rather than from a log.",
     },
     {
       decisionKind: "decision-kind/departure",

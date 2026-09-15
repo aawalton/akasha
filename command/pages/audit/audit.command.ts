@@ -41,7 +41,7 @@ export const audit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every run asks the audit service for a round.",
+      statement: "A run owed a check's verdict asks the audit service for a round over HTTP.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -73,7 +73,11 @@ export const audit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run that asks and whose environment names no home is refused.",
+      statement: "A run that cannot reach the audit service is refused rather than answered clean.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal says what puts the audit service up rather than naming its unit.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -134,7 +138,7 @@ export const audit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The audit service is started by an hourly timer and by a run asking for a round.",
+      statement: "The audit service keeps running, turning a round of its own every hour.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -144,7 +148,7 @@ export const audit = {
       decisionKind: "decision-kind/absence",
       statement: "A change landing under an audit is judged half as that change was.",
     },
-    { decisionKind: "decision-kind/departure", statement: "A round is asked for twice at most." },
+    { decisionKind: "decision-kind/departure", statement: "A round is asked for once." },
     {
       decisionKind: "decision-kind/departure",
       statement: "Several seats asking at once are answered by one round.",

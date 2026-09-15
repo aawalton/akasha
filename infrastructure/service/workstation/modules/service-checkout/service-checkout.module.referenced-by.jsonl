@@ -1,6 +1,8 @@
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.test.ts"}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
+{"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.code.ts"}
+{"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"service-checkout.module.code.ts","path":"infrastructure/service/modules/deploy-looping/deploy-looping.module.code.ts"}

@@ -4,7 +4,6 @@ import { asked } from "akasha/check/modules/audit-asking/audit-asking.module.cod
 import { commitOf } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import type { Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
 import { checksAt, checksIn } from "akasha/check/modules/checking/checking.module.code.ts"
-import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { check } from "akasha/command/argument/pages/check.argument.ts"
 import { refusedBy } from "akasha/command/modules/answering/command-answering.module.code.ts"
@@ -100,8 +99,7 @@ async function askedOver(
     ...notYetJudgingIn(every, named),
   ]
   const checks = narrowed.checks.length
-  const home = requireEnv("HOME")
-  const told = await asked({ root, home, checks: narrowed.checks, commit, done })
+  const told = await asked({ root, checks: narrowed.checks, commit, done })
   return askedAnswer({ told, checks, commit, also, rounds: done }, keeping)
 }
 

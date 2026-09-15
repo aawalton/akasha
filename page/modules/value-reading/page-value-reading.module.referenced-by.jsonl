@@ -211,6 +211,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/secret/modules/placing/secret-placing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/workstation/modules/service-binding/service-binding.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/access/modules/capture-error/capture-error.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/access/modules/file-page-type-config/file-page-type-config.module.code.ts"}
@@ -270,7 +271,6 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-asking/page-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-listening/page-listening.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/type/modules/gathering/page-type-gathering.module.code.ts"}

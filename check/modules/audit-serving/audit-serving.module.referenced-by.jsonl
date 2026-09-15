@@ -1,6 +1,11 @@
+{"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"check/modules/audit-asking/audit-asking.module.code.ts"}
+{"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"check/modules/audit-calling/audit-calling.module.code.ts"}
+{"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"check/modules/audit-listening/audit-listening.module.code.ts"}
+{"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"check/modules/audit-listening/audit-listening.module.test.ts"}
 {"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.test.ts"}
 {"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"audit-serving.module.code.ts","path":"command/pages/audit/audit.command.code.ts"}
+{"propertySlug":"import","fileName":"audit-serving.module.test-fixtures.ts","path":"check/modules/audit-listening/audit-listening.module.test.ts"}
 {"propertySlug":"import","fileName":"audit-serving.module.test-fixtures.ts","path":"check/modules/audit-serving/audit-serving.module.test.ts"}
 {"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

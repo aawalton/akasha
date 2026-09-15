@@ -8,8 +8,9 @@ export const check = {
   parts: [
     "domain/test",
     "module/audit-asking",
+    "module/audit-calling",
     "module/audit-child",
-    "module/audit-request",
+    "module/audit-listening",
     "module/audit-serving",
     "module/audit-verdict",
     "module/body-not-utf8",

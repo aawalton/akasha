@@ -211,10 +211,12 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/shell-clean/shell-clean.check-code.ts","id":"01a05991-d997-76f5-a619-6ddb7444c34f"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/tests-pass.check-code.ts","id":"01a04eb6-9214-7000-be71-821a1a582fbe"}
 {"propertySlug":"decision-kind","path":"check/code/pages/typecheck/typecheck.check-code.ts","id":"01a04bcb-dff4-761a-856e-407fb6934b44"}
+{"propertySlug":"decision-kind","path":"check/modules/audit-calling/audit-calling.module.ts","id":"01a0a6a7-6988-7cac-b722-46cd6c843671"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-serving/audit-serving.module.ts","id":"01a091e9-689c-7001-a9f4-f25090091be1"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-verdict/audit-verdict.module.ts","id":"01a091e9-689c-7000-a6ba-611889107d33"}
 {"propertySlug":"decision-kind","path":"check/modules/change-walking/change-walking.module.ts","id":"01a0583c-9b26-78cf-972c-3801c6b1ad94"}
 {"propertySlug":"decision-kind","path":"check/modules/cost/check-cost.module.ts","id":"01a06dc1-5cd3-7e3e-b1c7-133ae3f5ec38"}
+{"propertySlug":"decision-kind","path":"check/service-workstations/audit-running/audit-running.service-workstation.ts","id":"01a091e9-689c-7002-afcc-8b73def2b8f9"}
 {"propertySlug":"decision-kind","path":"check/test/test.domain.ts","id":"01a04f3e-eea5-79ee-8d0b-c822c492a981"}
 {"propertySlug":"decision-kind","path":"code/body/modules/body-text/body-text.module.ts","id":"01a04fa7-aae4-77e8-8e0c-b9e61046b33b"}
 {"propertySlug":"decision-kind","path":"code/body/modules/carried-file/carried-file.module.ts","id":"01a0693a-5bbe-7eb7-8820-1fde5da86eb5"}

@@ -1,16 +1,13 @@
-import { requestPut } from "akasha/check/modules/audit-request/audit-request.module.code.ts"
+import type { Answered } from "akasha/check/modules/audit-calling/audit-calling.module.code.ts"
+import { roundAsked } from "akasha/check/modules/audit-calling/audit-calling.module.code.ts"
+import type { Ran } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import {
   atOrAfter,
   type Verdict,
   verdictLogged,
 } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import { checkPagesIn } from "akasha/check/modules/checking/checking.module.code.ts"
-import { endingOf, ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-
-const UNIT = "audit-running.service"
-
-const ROUNDS = 2
 
 const AUDIT_LOGS = "audit.logs"
 
@@ -18,17 +15,10 @@ export type Verdicts = ReadonlyMap<string, Verdict>
 
 export type Reading = () => Verdicts
 
-export type Round = () => string | null
-
-const round: Round = () => {
-  const done = ran(["systemctl", "--user", "start", UNIT])
-  if (done.code === 0) return null
-  return `\`${UNIT}\` ${endingOf(done.code, done.signal)} — ${done.err.trim()}`
-}
+export type Round = (checks: readonly string[]) => Promise<Answered>
 
 export type Asking = {
   readonly root: string
-  readonly home: string
   readonly checks: readonly string[]
   readonly commit: string
   readonly round?: Round
@@ -89,29 +79,29 @@ export function unrunIn(verdicts: Verdicts, checks: readonly string[]): readonly
   return checks.filter((one) => verdicts.get(one)?.unrun === true)
 }
 
-function requesting(home: string, checks: readonly string[]): string | null {
-  for (const one of checks) {
-    const why = requestPut(home, one)
-    if (why !== null) return why
-  }
-  return null
+export function verdictsWith(held: Verdicts, ran: readonly Ran[]): Verdicts {
+  const found = new Map(held)
+  for (const one of ran) found.set(one.check, one.verdict)
+  return found
 }
 
 export async function asked(given: Asking): Promise<Told> {
-  const start = given.round ?? round
+  const ask = given.round ?? ((checks: readonly string[]) => roundAsked(given.root, checks))
   const done = given.done ?? []
   const reading = given.verdicts ?? ((): Verdicts => verdictsFor(given.root, given.checks))
-  const owed = async (): Promise<readonly string[]> =>
-    await unansweredIn(given.root, reading(), given.checks, given.commit)
+  let verdicts = reading()
+  let left = await unansweredIn(given.root, verdicts, given.checks, given.commit)
   let broken: string | null = null
-  let left = await owed()
-  for (let turn = 0; turn < ROUNDS && left.length > 0; turn += 1) {
-    broken = requesting(given.home, left) ?? start()
-    if (broken !== null) break
-    done.push(left.join(", "))
-    left = await owed()
+  if (left.length > 0) {
+    const answered = await ask(left)
+    if ("refused" in answered) {
+      broken = answered.refused
+    } else {
+      done.push(left.join(", "))
+      verdicts = verdictsWith(verdicts, answered.ran)
+      left = await unansweredIn(given.root, verdicts, given.checks, given.commit)
+    }
   }
-  const verdicts = reading()
   const answered = given.checks.filter((one) => !left.includes(one))
   return {
     refusals: refusalsIn(verdicts, answered),

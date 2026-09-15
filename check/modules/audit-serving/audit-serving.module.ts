@@ -63,31 +63,31 @@ export const auditServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A round no request names a check for runs the checks its phase names.",
+      statement: "Which checks a round runs is handed in rather than read off disk.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A round a request names checks for runs those checks and no other.",
+      statement: "A round handed no check runs the checks its phase names.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A check a request names is run though no phase names that check.",
+      statement: "A round handed checks runs those checks and no other.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A check two requests name is run once.",
+      statement: "A check handed in is run though no phase names that check.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The requests a round was read for are taken away once that round is done.",
+      statement: "A check handed in twice is run once.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A request naming no check is taken away rather than kept for ever.",
+      statement: "A name that is no check's leaves a round the checks it does name.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A request written while a round runs is left for the round after.",
+      statement: "A round opening while a round runs shares every check already underway.",
     },
     {
       decisionKind: "decision-kind/departure",

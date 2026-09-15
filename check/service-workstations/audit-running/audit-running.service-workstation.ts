@@ -8,10 +8,53 @@ export const auditRunning = {
     "the service running each check's audit and telling whoever champions checks what turned red",
   enabled: true,
   needsSecrets: false,
+  port: 8788,
+  binds: ["127.0.0.1"],
   systemd: {
-    schedule: "hourly",
-    jitterSeconds: 300,
-    catchUp: true,
-    startTimeoutSeconds: 21600,
+    restartDelaySeconds: 1,
+    startLimitIntervalSeconds: 0,
   },
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The audit service keeps running rather than being started for each round.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A service stating a schedule is a one-shot unit a timer fires.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This service states none, so the hourly round is a loop of its own inside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round opens as the service starts, and an hour after the round before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service always up has no round to catch up on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round that threw is said on the error stream and leaves the service listening.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round is asked for over HTTP rather than by starting the service.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The port is the one after the pages service's, those two being what listens here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round is asked for from this workstation, so the loopback is bound alone.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No caller of the audit service is asked for a credential.",
+    },
+  ],
 } as const satisfies ServiceWorkstation
