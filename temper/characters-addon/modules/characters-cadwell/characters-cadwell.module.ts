@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersCadwell = {
   id: "01a062e9-b6fe-7014-9ccf-b4b5ae3076cb",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-cadwell",
   definition:
     "the Cadwell's Almanac progress of the character now played, read into the saved table",

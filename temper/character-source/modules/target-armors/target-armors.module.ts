@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const targetArmors = {
   id: "01a060ea-ac64-73f9-9faf-71788fd4b609",
-  type: "module",
+  type: "page-type/module",
   slug: "target-armors",
   definition: "the armor a practice target carries, dungeon or overland",
   code: "ts",

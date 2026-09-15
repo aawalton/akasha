@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const metricsData08 = {
   id: "01a06131-abb4-74d9-a412-b1aedc769695",
-  type: "module",
+  type: "page-type/module",
   slug: "metrics-data-08",
   definition: "character stats healing-done-single-target through la-flame-spell-damage",
   code: "ts",

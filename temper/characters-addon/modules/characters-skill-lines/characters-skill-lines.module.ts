@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersSkillLines = {
   id: "01a062ea-605d-7fae-b14b-d4bf4d3dfc01",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-skill-lines",
   definition: "the rank and experience of each skill line discovered, read into the saved table",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const characterSkills = {
   id: "01a06187-b3a1-7211-9955-637919a983d5",
-  type: "module",
+  type: "page-type/module",
   slug: "character-skills",
   definition: "every skill a character may slot, the scribed ones among them",
   code: "ts",

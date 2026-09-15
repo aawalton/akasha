@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersSkillPoints = {
   id: "01a062ea-606e-7faf-b765-76ed6f590faa",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-skill-points",
   definition: "the skill points the character now played has earned, counted by source",
   code: "ts",

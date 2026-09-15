@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scribingGrimoires00 = {
   id: "01a0617c-86be-7475-9eaf-9d0d5e58605d",
-  type: "module",
+  type: "page-type/module",
   slug: "scribing-grimoires-00",
   definition: "one run of scribing grimoires, in the order the whole table names them",
   code: "ts",

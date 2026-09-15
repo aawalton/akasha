@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersPopulatedName = {
   id: "01a062ea-5f76-7fa2-a4a3-a8b92e04561d",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-populated-name",
   definition: "the freshly read name where the game gave one, and the stored name otherwise",
   code: "ts",

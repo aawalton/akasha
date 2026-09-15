@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const characterSkillsFromPages = {
   id: "01a06187-b3a0-7150-bb13-34820d779cb1",
-  type: "module",
+  type: "page-type/module",
   slug: "character-skills-from-pages",
   definition: "every Elder Scrolls Online skill the catalog pages have",
   code: "ts",

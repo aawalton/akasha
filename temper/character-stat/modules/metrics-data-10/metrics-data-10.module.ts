@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const metricsData10 = {
   id: "01a06131-abb5-74cb-a910-f47e6f95261d",
-  type: "module",
+  type: "page-type/module",
   slug: "metrics-data-10",
   definition: "character stats la-shock-staff through magicka-ability-cost",
   code: "ts",

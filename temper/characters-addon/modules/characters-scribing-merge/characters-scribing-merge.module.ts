@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersScribingMerge = {
   id: "01a062ea-5fb6-7fa5-9306-ac128e413644",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-scribing-merge",
   definition: "a stored scribing reading folded with a fresh one, an unlock staying unlocked",
   code: "ts",

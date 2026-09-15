@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const characterSkills55 = {
   id: "01a06183-fa3c-779f-8be3-4cfeebc08561",
-  type: "module",
+  type: "page-type/module",
   slug: "character-skills-55",
   definition: "one run of Elder Scrolls Online skills, in the order the whole table names them",
   code: "ts",

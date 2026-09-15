@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const metricsData12 = {
   id: "01a06131-abb5-755c-b57c-4eaff9cc6cbe",
-  type: "module",
+  type: "page-type/module",
   slug: "metrics-data-12",
   definition: "character stats overcharged-damage through resistance-flame",
   code: "ts",

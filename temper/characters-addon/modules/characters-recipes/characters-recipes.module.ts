@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersRecipes = {
   id: "01a062ea-5fff-7fa9-909d-6a65aadecf4b",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-recipes",
   definition: "the recipes the character now played knows, read into the saved table",
   code: "ts",

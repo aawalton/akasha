@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersCurrentEntry = {
   id: "01a062d2-92a3-7002-91a3-58a915f7ea72",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-current-entry",
   definition: "the saved table row of the character now played, or nothing where the game has none",
   code: "ts",

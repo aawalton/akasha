@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const foodOrDrinkSource = {
   id: "01a060ea-ac63-7f87-bbe2-20c3ae760481",
-  type: "module",
+  type: "page-type/module",
   slug: "food-or-drink-source",
   definition: "food and drink gathered into the one table a build picks a single row from",
   code: "ts",

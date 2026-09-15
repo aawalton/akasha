@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const metricsData04 = {
   id: "01a06131-abb1-7e8a-9e70-a5c7592452d9",
-  type: "module",
+  type: "page-type/module",
   slug: "metrics-data-04",
   definition: "character stats defense-physical-dd-mitigation through effective-power",
   code: "ts",

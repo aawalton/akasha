@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scribedSkills = {
   id: "01a0617c-86c3-714d-94b6-7c2e12d57a1a",
-  type: "module",
+  type: "page-type/module",
   slug: "scribed-skills",
   definition: "every scribed skill a grimoire and a focus script combine into",
   code: "ts",

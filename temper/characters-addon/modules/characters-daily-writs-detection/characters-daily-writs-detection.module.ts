@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersDailyWritsDetection = {
   id: "01a062ea-6094-7fb1-89f7-d7b2fda3d444",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-daily-writs-detection",
   definition: "the tests a journal quest passes to be a daily crafting writ",
   code: "ts",

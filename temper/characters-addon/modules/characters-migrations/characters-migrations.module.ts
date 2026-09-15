@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersMigrations = {
   id: "01a062ed-39de-700d-94f4-00c1960edb12",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-migrations",
   definition:
     "the one-off repairs made to the saved table, each with the version it lifts a domain to",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const metricValue = {
   id: "01a06131-abb8-70c7-827c-8463f1dac2fc",
-  type: "module",
+  type: "page-type/module",
   slug: "metric-value",
   definition: "a character stat paired with the number a build computes for it",
   code: "ts",

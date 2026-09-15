@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const metricsData06 = {
   id: "01a06131-abb3-7491-b341-991cb1c40a69",
-  type: "module",
+  type: "page-type/module",
   slug: "metrics-data-06",
   definition: "character stats ha-frost-staff through ha-restore-rest-staff",
   code: "ts",

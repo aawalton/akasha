@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const queryShapes = {
   id: "01a06187-b3a3-7eb8-8802-5c8042236869",
-  type: "module",
+  type: "page-type/module",
   slug: "query-shapes",
   definition: "the little bit of armour and weapon shape a skill query needs to read",
   code: "ts",

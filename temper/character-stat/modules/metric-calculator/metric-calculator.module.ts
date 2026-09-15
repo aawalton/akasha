@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const metricCalculator = {
   id: "01a06271-abd0-7258-9fc4-ca306f191976",
-  type: "module",
+  type: "page-type/module",
   slug: "metric-calculator",
   definition: "every metric a build reaches on one bar, calculated in dependency order",
   code: "ts",

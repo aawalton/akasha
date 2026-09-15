@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersItemSets = {
   id: "01a062ea-604a-7fad-b864-b1e6c8741e4e",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-item-sets",
   definition: "the item set collection of the account, read into the saved table",
   code: "ts",

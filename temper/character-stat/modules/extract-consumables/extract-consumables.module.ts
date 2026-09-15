@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const extractConsumables = {
   id: "01a06271-abcf-7333-83ea-d790427ee788",
-  type: "module",
+  type: "page-type/module",
   slug: "extract-consumables",
   definition: "the food or drink and the potion a build has, read out as effect sources",
   code: "ts",

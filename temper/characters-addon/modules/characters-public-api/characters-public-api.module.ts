@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const charactersPublicApi = {
   id: "01a06324-9ff8-7061-9aeb-8aa8acce0372",
-  type: "module",
+  type: "page-type/module",
   slug: "characters-public-api",
   definition: "the table this add-on publishes for other add-ons and for the keybindings",
   code: "ts",

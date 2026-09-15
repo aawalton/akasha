@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const drinkSource = {
   id: "01a060ea-ac62-79f4-bfc3-6d86845bdd8a",
-  type: "module",
+  type: "page-type/module",
   slug: "drink-source",
   definition: "every drink a character takes, with the stats each one raises",
   code: "ts",

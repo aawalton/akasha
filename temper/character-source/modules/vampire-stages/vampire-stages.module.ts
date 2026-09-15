@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const vampireStages = {
   id: "01a060ea-ac65-780c-876f-8ff34a264cc4",
-  type: "module",
+  type: "page-type/module",
   slug: "vampire-stages",
   definition: "the five stages of vampirism, each feeding a character more penalty",
   code: "ts",

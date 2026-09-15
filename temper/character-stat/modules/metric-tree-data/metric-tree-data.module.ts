@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const metricTreeData = {
   id: "01a06133-5f08-7ca8-bc0d-02aa20d2f63c",
-  type: "module",
+  type: "page-type/module",
   slug: "metric-tree-data",
   definition: "the character stat display tree, seven categories deep down to single stat leaves",
   code: "ts",

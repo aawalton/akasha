@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const buffOrDebuffId = {
   id: "01a0614a-4ce5-7613-983f-ed59da792009",
-  type: "module",
+  type: "page-type/module",
   slug: "buff-or-debuff-id",
   definition: "the id an effect carries, whether the effect grants a buff or lays a debuff",
   code: "ts",

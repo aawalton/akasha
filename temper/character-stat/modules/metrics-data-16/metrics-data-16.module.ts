@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const metricsData16 = {
   id: "01a06131-abb7-7132-8968-c0d7f7e54a52",
-  type: "module",
+  type: "page-type/module",
   slug: "metrics-data-16",
   definition: "character stats ultimate-ability-cost through ultimate-restore",
   code: "ts",

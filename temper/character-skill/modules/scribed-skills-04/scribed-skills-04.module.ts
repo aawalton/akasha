@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scribedSkills04 = {
   id: "01a0617c-86c3-7cb6-915d-6f17446091e0",
-  type: "module",
+  type: "page-type/module",
   slug: "scribed-skills-04",
   definition: "one run of scribed skills, in the order the whole table names them",
   code: "ts",

@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const scribingGrimoires = {
   id: "01a0617c-86c1-7ff1-9fbb-5185c2f3eb4d",
-  type: "module",
+  type: "page-type/module",
   slug: "scribing-grimoires",
   definition: "every scribing grimoire an Elder Scrolls Online character may learn",
   code: "ts",
