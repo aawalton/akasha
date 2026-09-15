@@ -24,6 +24,8 @@ import { shapesAt } from "akasha/page/index/modules/property-shaping/property-sh
 import { knownIn, type Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import {
   everyOfType,
+  idsNaming,
+  importersOf,
   type Listed,
   listedAt,
   listedById,
@@ -40,10 +42,6 @@ import type {
   Shape as Filed,
   Reading,
 } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import {
-  idsNaming,
-  importersOf,
-} from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   type Carried,
@@ -130,7 +128,7 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     filePropertiesAt: heldOnce(() => filePropertiesAt(reading)),
     folderPropertiesAt: heldOnce(() => folderPropertiesAt(reading)),
     idsNaming: (id, propertySlug) => idsNaming(reading, id, propertySlug),
-    importersOf: (path) => importersOf(reading, path),
+    importersOf: (path) => importersOf(path, reading),
     kindsUnder: (slug) => kindsUnder(slug, reading),
     knownIn: heldOnce(() => knownIn(reading, pageOf)),
     listedAt: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
