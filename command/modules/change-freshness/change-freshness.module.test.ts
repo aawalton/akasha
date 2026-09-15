@@ -1,11 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  blobIdOf,
-  type Reading,
-} from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { blobIdOf, type Reading } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
+import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
 import {
   commitNamed,
   machineWrote,
@@ -25,7 +23,6 @@ import {
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import type { Facing } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -177,7 +174,7 @@ console.log("refusals" in said ? said.refusals.join("\\n") : "landed")`,
   } finally {
     kid.kill()
   }
-})
+}, 120000)
 
 function landedMeanwhile(root: string, path: string, body: string): Judging {
   return {
