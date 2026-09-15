@@ -27,6 +27,7 @@ import {
   slugOf,
   slugsIn,
   textAt,
+  typeIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
@@ -78,7 +79,7 @@ export function filesClaimedIn(
 ): readonly Claimed[] {
   const own = under(repo, path)
   const found: Claimed[] = [{ at: own, uncommitted: false }]
-  const type = textAt(value, "type") ?? textAt(value, "pageTypeSlug") ?? ""
+  const type = typeIn(value) ?? ""
   const carried = fileProperties.get(type)
   if (carried === undefined) return found
   const outside = withheld.get(type) ?? NO_SLUGS
@@ -119,7 +120,7 @@ function foldersClaimedIn(
   repo: string,
   folders: FoldersBy
 ): readonly string[] {
-  const carried = folders.get(textAt(value, "type") ?? textAt(value, "pageTypeSlug") ?? "")
+  const carried = folders.get(typeIn(value) ?? "")
   if (carried === undefined) return []
   const own = under(repo, path)
   const found: string[] = []
@@ -194,7 +195,7 @@ export function sidecarsIn(
   const raw = new Map<string, Value>()
   const above = new Map<string, readonly string[]>()
   for (const value of values) {
-    const said = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+    const said = typeIn(value)
     if (said === null || !among.has(said)) continue
     const slug = textAt(value, "slug")
     if (slug === null) continue
@@ -287,7 +288,7 @@ export function claimsOf(
   const claimed = filesClaimedIn(value, path, repo, fileProperties, withheld, there)
   const found = [...claimed.map((one) => one.at), ...foldersClaimedIn(value, path, repo, folders)]
   const own = under(repo, path)
-  const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug") ?? ""
+  const pageTypeSlug = typeIn(value) ?? ""
   const carried = fileProperties.get(pageTypeSlug)
   const held = sidecars.get(pageTypeSlug)
   if (held === undefined) return found

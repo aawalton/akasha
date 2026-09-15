@@ -366,7 +366,7 @@ export function sourceOver(values: readonly Value[]): Source {
   const types = new Map<string, Value>()
   const schemas = new Map<string, Shape>()
   for (const value of values) {
-    const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+    const pageTypeSlug = typeIn(value)
     const slug = textAt(value, "slug")
     if (pageTypeSlug === null || slug === null) continue
     if (pageTypeSlug === PAGE_TYPE) types.set(slug, value)

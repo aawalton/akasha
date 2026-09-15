@@ -8,6 +8,7 @@ import {
   slugAt,
   slugsIn,
   textAt,
+  typeIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
@@ -137,7 +138,7 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string 
       found.set(key, fileName)
       continue
     }
-    const said = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+    const said = typeIn(value)
     if (said !== null && grouped(said)) {
       keyed(key, said)
       continue
@@ -191,7 +192,7 @@ function propertiesAmong(values: Iterable<Value>): ReadonlyMap<string, Held> {
   for (const value of values) {
     const propertySlug = textAt(value, "propertySlug")
     const slug = textAt(value, "slug")
-    const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+    const pageTypeSlug = typeIn(value)
     if (propertySlug === null || slug === null || pageTypeSlug === null) continue
     const fileName = textAt(value, "fileName")
     const folderName = textAt(value, "folderName")
