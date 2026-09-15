@@ -104,7 +104,7 @@ export const temper = {
     "domain/temper-skill-morphs-access",
     "domain/temper-skill-point-finder",
     "domain/temper-skills-panel",
-    "domain/temper-skyshards",
+    "domain/temper-skyshard",
     "domain/temper-trading-listings",
     "domain/temper-trading-post",
     "domain/temper-trading-pricing",

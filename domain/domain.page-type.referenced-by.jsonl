@@ -624,7 +624,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-morphs-access/temper-skill-morphs-access.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skill-point-finder/temper-skill-point-finder.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skills-panel/temper-skills-panel.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skyshards/temper-skyshards.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/skyshard/temper-skyshard.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/temper.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/trading-listings/temper-trading-listings.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/trading-post/temper-trading-post.domain.ts"}
