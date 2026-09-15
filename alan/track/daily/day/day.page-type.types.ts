@@ -27,7 +27,7 @@ import type { LastViewedAt } from "akasha/alan/track/daily/day/properties/last-v
 import type { LearnLevel } from "akasha/alan/track/daily/day/properties/learn-level.computed-property.types.ts"
 import type { LearnPoints } from "akasha/alan/track/daily/day/properties/learn-points.number-property.types.ts"
 import type { LearnStoplight } from "akasha/alan/track/daily/day/properties/learn-stoplight.computed-property.types.ts"
-import type { Listens } from "akasha/alan/track/daily/day/properties/listens.page-property-entry.types.ts"
+import type { Listens } from "akasha/alan/track/daily/day/properties/listens/listens.page-property-entry.types.ts"
 import type { LoveLevel } from "akasha/alan/track/daily/day/properties/love-level.computed-property.types.ts"
 import type { LovePoints } from "akasha/alan/track/daily/day/properties/love-points.number-property.types.ts"
 import type { LoveStoplight } from "akasha/alan/track/daily/day/properties/love-stoplight.computed-property.types.ts"
