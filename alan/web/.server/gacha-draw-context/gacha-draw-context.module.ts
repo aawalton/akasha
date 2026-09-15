@@ -6,18 +6,18 @@ export const gachaDrawContext = {
   slug: "gacha-draw-context",
   definition: "the personas and rates one draw is settled against",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "`persona-cover-image` is held as a page type, but reading a draw's images is unbuilt.",
     },
     {
-      invariantKind: "invariant-kind/constraint",
+      decisionKind: "decision-kind/constraint",
       statement: "A draw reads an empty pool as a persona with nothing to show.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A draw context whose images went unread is refused rather than answered empty.",
     },
   ],

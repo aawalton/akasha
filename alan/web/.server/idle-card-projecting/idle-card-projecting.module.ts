@@ -6,18 +6,18 @@ export const idleCardProjecting = {
   slug: "idle-card-projecting",
   definition: "a player's persona cards written into the page store from their save",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement:
         "`idle-persona-card` is held as a page type, but writing a roster into it is unbuilt.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A roster that went unwritten is refused rather than answered as no cards.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A save lands even where the roster projection does not.",
     },
   ],

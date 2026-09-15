@@ -6,17 +6,17 @@ export const idleSaves = {
   slug: "idle-saves",
   definition: "reading and writing one player's idle save",
   code: "ts",
-  invariants: [
+  decisions: [
     {
-      invariantKind: "invariant-kind/gap",
+      decisionKind: "decision-kind/gap",
       statement: "`idle-save` is held as a page type, but reading and writing a save is unbuilt.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A save that went unread is refused rather than answered as absent.",
     },
     {
-      invariantKind: "invariant-kind/departure",
+      decisionKind: "decision-kind/departure",
       statement: "A save that did not land is refused rather than answered as written.",
     },
   ],
