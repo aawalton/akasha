@@ -39,7 +39,7 @@ import {
   overlaidOn,
   readingNone,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { shapeFiled } from "akasha/page/index/shapes/index-shapes.index.code.ts"
+
 import { type Rowing, rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import { pageNamed, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
@@ -180,10 +180,6 @@ export function settlingOver(
     )
   )
 
-  const shaping = filingOf(
-    held.flatMap((one) => (one.was === null ? [] : shapeFiled(one.was))),
-    held.flatMap((one) => (one.now === null ? [] : shapeFiled(one.now)))
-  )
   const written = shapesWritten(reading, held)
   const bodied = new Map<string, string>()
   for (const [where, whole] of written.bodies) bodied.set(under(repo, where), whole)
@@ -228,7 +224,7 @@ export function settlingOver(
   const stepped = shapesLaidOn(
     overlaidOn(
       reading,
-      [...imported, ...identity, ...shaping],
+      [...imported, ...identity],
       new Map<string, string | null>([...wrote, ...bodied])
     ),
     written.shapes
@@ -326,7 +322,7 @@ export function settlingOver(
     ]
   )
 
-  const filings = [...imported, ...identity, ...edge, ...shaping]
+  const filings = [...imported, ...identity, ...edge]
   return {
     reading: shapesLaidOn(
       overlaidOn(

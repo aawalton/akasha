@@ -75,7 +75,7 @@ export const indexFiling = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape filed is written beside its page type as well as under the index.",
+      statement: "A shape filed is written beside its page type.",
     },
     {
       invariantKind: "departure",
@@ -83,7 +83,7 @@ export const indexFiling = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape whose page type is filed nowhere is written under the index alone.",
+      statement: "A shape whose page type is filed nowhere is not written.",
     },
   ],
 } as const satisfies Module

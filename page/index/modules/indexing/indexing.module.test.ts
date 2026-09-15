@@ -18,6 +18,7 @@ import {
   aWorldDeclaringNothing,
   aWorldDeclaringNoUnique,
   aWorldWithAFileGone,
+  aWorldWithAnEdge,
   aWorldWithOnePage,
   B,
   bare,
@@ -105,15 +106,15 @@ test("two pages carrying one value leave two lines in one file", () => {
 test("a property that changes its shape changes what its entry says and where it is filed", () => {
   const { tree, root } = grounded()
   const at = settled(root, tree, ...NOTE, null)
-  expect(shapeFiled(root, "relation-property", "note")).toEqual(
+  expect(shapeFiled(root, tree, "relation-property", "note")).toEqual(
     noteShaped("relation-property", "domain")
   )
 
   tookAway(root, tree, at, bodyOf(NOTE[1]))
   settled(root, tree, ...aProperty("8", "note", "text-property"), null)
 
-  expect(shapeFiled(root, "relation-property", "note")).toBe(null)
-  expect(shapeFiled(root, "text-property", "note")).toEqual(noteShaped("text-property", null))
+  expect(shapeFiled(root, tree, "relation-property", "note")).toBe(null)
+  expect(shapeFiled(root, tree, "text-property", "note")).toEqual(noteShaped("text-property", null))
 })
 
 test("a removed property leaves no shape of its own and leaves the rest in place", () => {
@@ -121,8 +122,8 @@ test("a removed property leaves no shape of its own and leaves the rest in place
   const at = settled(root, tree, ...NOTE, null)
   tookAway(root, tree, at, bodyOf(NOTE[1]))
 
-  expect(shapeFiled(root, "relation-property", "note")).toBe(null)
-  expect(shapeFiled(root, "relation-property", "part-slugs")).not.toBe(null)
+  expect(shapeFiled(root, tree, "relation-property", "note")).toBe(null)
+  expect(shapeFiled(root, tree, "relation-property", "part-slugs")).not.toBe(null)
 })
 
 test("a value naming its page type is filed under the target's id", () => {
@@ -240,14 +241,14 @@ test("a world carrying a page and declaring no property at all is refused", () =
 })
 
 test("a refresh that threw names the stages it finished and the file it had in hand", () => {
-  const { tree, root } = aWorldWithOnePage()
+  const { tree, root } = aWorldWithAnEdge()
   pathBlocked(root)
   const done: string[] = []
 
   expect(() => refreshedFrom(tree, root, tree, true, done)).toThrow()
 
   expect(done[0] ?? "").toMatch(/^identity — \d+ files? written$/)
-  expect(done[done.length - 1] ?? "").toMatch(/^shapes — \d+ files? written, `\S+` in hand$/)
+  expect(done[done.length - 1] ?? "").toMatch(/^edge — \d+ files? written, `\S+` in hand$/)
 })
 
 test("a refresh passes over a file gone before its body is read", () => {

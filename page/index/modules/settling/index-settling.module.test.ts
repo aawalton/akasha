@@ -1,6 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
+import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import {
   type Indexing,
   indexingAt,
@@ -12,7 +14,6 @@ import {
   settlingOver,
 } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import { overlaidOn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import {
   aProperty,
   aType,
@@ -28,7 +29,6 @@ import {
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
-import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
 
 afterAll(scratch.sweep, 5000)
 
@@ -247,5 +247,5 @@ test("a settle into an index that is nowhere yet answers rather than refusing an
     () => null
   )
 
-  expect(settled.filings.length).toBeGreaterThan(0)
+  expect(settled.reading.read(at)).toBe(body)
 })

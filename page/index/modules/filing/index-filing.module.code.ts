@@ -4,8 +4,6 @@ import { indexEdge } from "akasha/page/index/edge/index-edge.index.ts"
 import { indexIdentity } from "akasha/page/index/identity/index-identity.index.ts"
 import { keepBuilt } from "akasha/page/index/modules/keeping/index-keeping.module.code.ts"
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { indexShapes } from "akasha/page/index/shapes/index-shapes.index.ts"
-
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { slugsIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -20,8 +18,6 @@ const EXTENDS_TYPE = "extends-type"
 const PAGE = "page"
 
 const PAGE_TYPE = "page-type"
-
-const PAGE_PROPERTY = "page-property"
 
 const NO_SCOPE = ""
 
@@ -219,7 +215,6 @@ export function shapeAlsoFiled(
   pageTypeSlug: string,
   lines: readonly unknown[]
 ): undefined {
-  filed(root, join(indexShapes.name, PAGE_PROPERTY, pageTypeSlug), lines, appendFileSync)
   const page = pathCarrying(root, PAGE_TYPE, pageTypeSlug)
   const beside = page === null ? null : shapesFiledAt(page)
   if (beside === null) return

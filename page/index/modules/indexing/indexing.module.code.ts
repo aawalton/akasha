@@ -39,7 +39,7 @@ import {
   pagesUnder,
   walkedUnder,
 } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
-import { shapeFiled } from "akasha/page/index/shapes/index-shapes.index.code.ts"
+
 import { rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
 import {
   importedFrom,
@@ -135,8 +135,6 @@ export function refreshedFrom(
   const identifying = identifyingFrom(source)
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
   const drift = [reconcile(identity, root, put, done)]
-  const shaped = values.flatMap((one) => shapeFiled(one))
-  drift.push(reconcile(shaped, root, put, done))
   if (put) {
     wholeInto(repo, shapesAmong(held.map((one) => ({ ...one, path: under(repo, one.path) }))))
   }
@@ -172,12 +170,12 @@ export function refreshedFrom(
   ]
   drift.push(reconcile(references, repo, put, done))
   const stale = referencesStale(references, tree, repo, put)
-  const every = [...identity, ...shaped, ...edge, ...imported]
+  const every = [...identity, ...edge, ...imported]
   const went = [...takenAway(every, root, put, done), ...stale]
   if (put) keepBuilt(root)
   return {
     pages: held.length,
-    entries: identity.length + edge.length + imported.length + shaped.length,
+    entries: identity.length + edge.length + imported.length,
     refused: filed.flatMap((one) => one.refused),
     drift: drifting(drift, went),
   }

@@ -29,7 +29,7 @@ import {
   indexAt,
   indexIn,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import { shapeFiled, shapeFileFor } from "akasha/page/index/shapes/index-shapes.index.code.ts"
+import { bodyOf } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 import { scratchWorld } from "akasha/util/fs/modules/scratching/scratching.module.code.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
@@ -260,17 +260,24 @@ test("the shapes of one page type are read once for a reading and that page type
   expect(shapesOfType(reading, "text-property")).toBe(shapesOfType(reading, "text-property"))
 })
 
-test("a fixture files a shape as the line the index itself files for that page property", () => {
+test("a fixture writes a shape into the file beside that property's page type", () => {
   const root = rootAt()
   shapeAdded(root, "text-property", "held", [{ unique: "page" }])
 
-  expect(readingIn(root).lines(shapeFileFor("text-property"))).toEqual(
-    shapeFiled({
-      pageTypeSlug: "text-property",
-      slug: "held",
-      propertySlug: "held",
-      unique: "page",
-    }).map((one) => one.line)
+  expect(readingIn(root).read("akasha/text-property.page-type.shapes.jsonl")).toBe(
+    bodyOf([
+      {
+        pageTypeSlug: "text-property",
+        targetPageTypeSlug: null,
+        unique: "page",
+        uniquePropertySlug: null,
+        slug: "held",
+        propertySlug: "held",
+        fileName: null,
+        folderName: null,
+        sorted: false,
+      },
+    ])
   )
 })
 

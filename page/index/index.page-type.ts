@@ -10,7 +10,6 @@ export const index = {
     "index/index-identity",
     "index/index-import",
     "index/index-edge",
-    "index/index-shapes",
     "module/beside-turning",
     "module/extension-carrying",
     "module/file-appending",
