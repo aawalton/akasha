@@ -346,8 +346,10 @@
     "@react-router/dev": "7.15.1",
     "@tailwindcss/vite": "^4.1.9",
     "@types/node": "^25",
+    "@types/picomatch": "^2.3.4",
     "@types/react": "^19",
-    "@types/react-dom": "^19"
+    "@types/react-dom": "^19",
+    "@types/resolve": "^1.20.6"
   },
   "scripts": {
     "typecheck": "./node_modules/typescript-7/bin/tsc -b",
