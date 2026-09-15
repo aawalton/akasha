@@ -2,6 +2,6 @@ import type { LogSource } from "akasha/agent/seat/log-source/log-source.page-typ
 
 export const supervisorConsole = {
   id: "01a0657c-cb14-79c9-a0a9-c350303cc2cf",
-  type: "log-source",
+  type: "page-type/log-source",
   slug: "supervisor-console",
 } as const satisfies LogSource
