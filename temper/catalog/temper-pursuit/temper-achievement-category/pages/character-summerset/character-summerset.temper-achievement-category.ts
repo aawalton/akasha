@@ -1,0 +1,10 @@
+import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pursuit/temper-achievement-category/temper-achievement-category.page-type.types.ts"
+
+export const characterSummerset = {
+  id: "01a06168-7252-7004-8f47-071d6e2faf3a",
+  type: "temper-achievement-category",
+  slug: "character-summerset",
+  title: "Summerset",
+  category: "character",
+  displayOrder: 11,
+} as const satisfies TemperAchievementCategory

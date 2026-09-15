@@ -1,0 +1,10 @@
+import type { TemperAntiquityCategory } from "akasha/temper/catalog/temper-pursuit/temper-antiquity-category/temper-antiquity-category.page-type.types.ts"
+
+export const theReach = {
+  id: "01a06166-503e-7000-87b3-09c1de262f83",
+  type: "temper-antiquity-category",
+  slug: "the-reach",
+  title: "The Reach",
+  esoAntiquityCategoryId: 46,
+  antiquities: "jsonl",
+} as const satisfies TemperAntiquityCategory

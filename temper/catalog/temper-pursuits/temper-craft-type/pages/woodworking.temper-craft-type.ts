@@ -1,9 +1,0 @@
-import type { TemperCraftType } from "akasha/temper/catalog/temper-pursuits/temper-craft-type/temper-craft-type.page-type.types.ts"
-
-export const woodworking = {
-  id: "01a0616b-2ce1-7008-86fd-faf617c1c789",
-  type: "temper-craft-type",
-  slug: "woodworking",
-  title: "Woodworking",
-  esoCraftTypeId: 6,
-} as const satisfies TemperCraftType

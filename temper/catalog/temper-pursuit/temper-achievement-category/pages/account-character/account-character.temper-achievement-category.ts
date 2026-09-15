@@ -1,0 +1,10 @@
+import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pursuit/temper-achievement-category/temper-achievement-category.page-type.types.ts"
+
+export const accountCharacter = {
+  id: "01a06168-7246-7005-bf35-d1e3371af7c2",
+  type: "temper-achievement-category",
+  slug: "account-character",
+  title: "Character",
+  category: "account",
+  displayOrder: 1,
+} as const satisfies TemperAchievementCategory

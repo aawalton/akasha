@@ -1,0 +1,10 @@
+import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pursuit/temper-achievement-category/temper-achievement-category.page-type.types.ts"
+
+export const accountHousing = {
+  id: "01a06168-724c-7014-a0b5-e7f1aa2853b0",
+  type: "temper-achievement-category",
+  slug: "account-housing",
+  title: "Housing",
+  category: "account",
+  displayOrder: 12,
+} as const satisfies TemperAchievementCategory

@@ -1,0 +1,12 @@
+import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pursuit/temper-achievement-category/temper-achievement-category.page-type.types.ts"
+
+export const accountDungeonsWayrestSewersIi = {
+  id: "01a06168-7249-7002-891e-3524debcebe6",
+  type: "temper-achievement-category",
+  slug: "account-dungeons-wayrest-sewers-ii",
+  title: "Wayrest Sewers II",
+  category: "account",
+  displayOrder: 24,
+  parent: "account-dungeons",
+  achievements: "jsonl",
+} as const satisfies TemperAchievementCategory

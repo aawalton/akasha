@@ -1,0 +1,12 @@
+import type { TemperAchievementCategory } from "akasha/temper/catalog/temper-pursuit/temper-achievement-category/temper-achievement-category.page-type.types.ts"
+
+export const accountExplorationDaggerfallCovenant = {
+  id: "01a06168-724b-7011-8290-888b15f66b5d",
+  type: "temper-achievement-category",
+  slug: "account-exploration-daggerfall-covenant",
+  title: "Daggerfall Covenant",
+  category: "account",
+  displayOrder: 2,
+  parent: "account-exploration",
+  achievements: "jsonl",
+} as const satisfies TemperAchievementCategory
