@@ -11,7 +11,7 @@ export const veraGraphCleanup = {
       statement:
         "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
       workingMemory:
-        "Not met. Six closures outside the graph work out an import edge for themselves: `no-import-cycle` (three, on its own `reachedIn`), `extension-host-reaches-no-bun-code`, `no-refused-syntax`'s `requiringIn`, `supervisor-file-version`'s regex scan, `dockerfile-imports`, and `remove-file-page`'s `importersFirst`. Around fourteen more close over `extends` and seven over `parts`. Both are the `relation` edge, which the graph answers inward only, and no predicate can say which property to follow.\n",
+        "Not met. Five closures read an import edge for themselves. `dockerfile-imports` goes through the graph at `ab84af48094`, `supervisor-file-version` at `03682a4c641`. `no-import-cycle` and `extension-host-reaches-no-bun-code` are held: the graph counts a type-only import, erased before anything runs, so the cycle check would refuse 38 cycles over 387 files that never loop. `no-refused-syntax` is a loader, no import reader. Fourteen more close over `extends`, seven over `parts`.\n",
     },
     {
       statement: "Every closure the graph answers is correct.",
