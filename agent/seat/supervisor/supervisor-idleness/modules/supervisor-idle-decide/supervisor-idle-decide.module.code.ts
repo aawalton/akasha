@@ -5,15 +5,6 @@ export type IdleObservation = {
   claudePresent: boolean
 }
 
-export function isIdle(obs: IdleObservation): boolean {
-  return (
-    obs.inFlight === 0 &&
-    obs.busyChildren === 0 &&
-    obs.inFlightDispatchChildren === 0 &&
-    obs.claudePresent
-  )
-}
-
 export function isIdleForPreservingRestart(obs: IdleObservation): boolean {
   return obs.inFlight === 0 && obs.busyChildren === 0 && obs.claudePresent
 }

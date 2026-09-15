@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import {
   type IdleObservation,
-  isIdle,
   isIdleForPreservingRestart,
   isIdleForPreservingRestartPastCliff,
   isIgnoredMcpChildCmdline,
@@ -16,22 +15,15 @@ const QUIET: IdleObservation = {
 }
 
 test("a quiet seat with Claude present is idle", () => {
-  expect(isIdle(QUIET)).toBe(true)
+  expect(isIdleForPreservingRestart(QUIET)).toBe(true)
 })
 
 test("a seat Claude has left is not idle", () => {
-  expect(isIdle({ ...QUIET, claudePresent: false })).toBe(false)
+  expect(isIdleForPreservingRestart({ ...QUIET, claudePresent: false })).toBe(false)
 })
 
 test("a count that was never read is not a count of zero", () => {
-  expect(isIdle({ ...QUIET, busyChildren: null })).toBe(false)
   expect(isIdleForPreservingRestart({ ...QUIET, busyChildren: null })).toBe(false)
-})
-
-test("a dispatched child in flight stops idle but not a preserving restart", () => {
-  const held = { ...QUIET, inFlightDispatchChildren: 2 }
-  expect(isIdle(held)).toBe(false)
-  expect(isIdleForPreservingRestart(held)).toBe(true)
 })
 
 test("past the cliff a busy child no longer holds the restart back", () => {
