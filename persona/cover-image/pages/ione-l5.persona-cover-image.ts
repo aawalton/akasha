@@ -2,7 +2,7 @@ import type { PersonaCoverImage } from "akasha/persona/cover-image/persona-cover
 
 export const ioneL5 = {
   id: "019f324d-496d-758d-87cf-9f562ae66eec",
-  type: "persona-cover-image",
+  type: "page-type/persona-cover-image",
   slug: "ione-l5",
   title: "Ione cover L5",
   persona: "persona/ione",

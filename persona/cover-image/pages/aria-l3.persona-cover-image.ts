@@ -2,7 +2,7 @@ import type { PersonaCoverImage } from "akasha/persona/cover-image/persona-cover
 
 export const ariaL3 = {
   id: "019f324d-4e0e-7d56-8c17-71893c5f8505",
-  type: "persona-cover-image",
+  type: "page-type/persona-cover-image",
   slug: "aria-l3",
   title: "Aria cover L3",
   persona: "persona/aria",

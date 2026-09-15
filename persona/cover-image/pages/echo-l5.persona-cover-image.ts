@@ -2,7 +2,7 @@ import type { PersonaCoverImage } from "akasha/persona/cover-image/persona-cover
 
 export const echoL5 = {
   id: "019f324d-8727-7e75-827b-57f26452fdca",
-  type: "persona-cover-image",
+  type: "page-type/persona-cover-image",
   slug: "echo-l5",
   title: "Echo cover L5",
   persona: "persona/echo",

@@ -2,7 +2,7 @@ import type { PersonaCoverImage } from "akasha/persona/cover-image/persona-cover
 
 export const rubyL1 = {
   id: "019f324d-6dc4-78cd-b139-4cc50c0fa99a",
-  type: "persona-cover-image",
+  type: "page-type/persona-cover-image",
   slug: "ruby-l1",
   title: "Ruby cover L1",
   persona: "persona/ruby",

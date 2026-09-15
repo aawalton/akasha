@@ -2,7 +2,7 @@ import type { PersonaCoverImage } from "akasha/persona/cover-image/persona-cover
 
 export const natalieL5 = {
   id: "019f324d-5718-7969-aa4f-5e1e0e3ec9ef",
-  type: "persona-cover-image",
+  type: "page-type/persona-cover-image",
   slug: "natalie-l5",
   title: "Natalie cover L5",
   persona: "persona/natalie",

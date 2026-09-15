@@ -2,7 +2,7 @@ import type { PersonaCoverImage } from "akasha/persona/cover-image/persona-cover
 
 export const zadiL4 = {
   id: "019f324d-451f-7102-95be-1011f87cc67c",
-  type: "persona-cover-image",
+  type: "page-type/persona-cover-image",
   slug: "zadi-l4",
   title: "Zadi cover L4",
   persona: "persona/zadi",

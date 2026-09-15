@@ -2,7 +2,7 @@ import type { PersonaCoverImage } from "akasha/persona/cover-image/persona-cover
 
 export const dallaL2 = {
   id: "019f324d-764c-7076-8d2b-730b5d6107fb",
-  type: "persona-cover-image",
+  type: "page-type/persona-cover-image",
   slug: "dalla-l2",
   title: "Dalla cover L2",
   persona: "persona/dalla",

@@ -2,7 +2,7 @@ import type { PersonaCoverImage } from "akasha/persona/cover-image/persona-cover
 
 export const atlasL2 = {
   id: "019f324d-8459-7186-b122-d22d153289a6",
-  type: "persona-cover-image",
+  type: "page-type/persona-cover-image",
   slug: "atlas-l2",
   title: "Atlas cover L2",
   persona: "persona/atlas",

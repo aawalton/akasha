@@ -2,7 +2,7 @@ import type { PersonaCoverImage } from "akasha/persona/cover-image/persona-cover
 
 export const nimueL2 = {
   id: "019f324d-4bc0-7720-b287-22c138e704ef",
-  type: "persona-cover-image",
+  type: "page-type/persona-cover-image",
   slug: "nimue-l2",
   title: "Nimue cover L2",
   persona: "persona/nimue",

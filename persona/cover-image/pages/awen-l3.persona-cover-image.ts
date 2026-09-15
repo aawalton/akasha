@@ -2,7 +2,7 @@ import type { PersonaCoverImage } from "akasha/persona/cover-image/persona-cover
 
 export const awenL3 = {
   id: "019f324d-6ae8-7c10-b790-87d1d0dd26d8",
-  type: "persona-cover-image",
+  type: "page-type/persona-cover-image",
   slug: "awen-l3",
   title: "Awen cover L3",
   persona: "persona/awen",

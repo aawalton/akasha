@@ -2,7 +2,7 @@ import type { PersonaCoverImage } from "akasha/persona/cover-image/persona-cover
 
 export const eppieL2 = {
   id: "019f324d-4326-7cb0-839e-517f1541044f",
-  type: "persona-cover-image",
+  type: "page-type/persona-cover-image",
   slug: "eppie-l2",
   title: "Eppie cover L2",
   persona: "persona/eppie",
