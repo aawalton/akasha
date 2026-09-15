@@ -10,37 +10,37 @@ export const commandFilling = {
   testFixtures: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A flag holding prose is answered by a second flag naming the file that prose sits in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value said at its flag and at its file at once is the caller's mistake.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file named `-` is the input.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path that is not absolute is read against the root handed over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A value read whole keeps the line endings at its end, and any other value loses them.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Whether a value is read whole belongs to the filing rather than to the reader.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A file that would not open is answered as a refusal rather than thrown.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A pair of values handed in is read as the same pair looked up in what a call said.",
     },

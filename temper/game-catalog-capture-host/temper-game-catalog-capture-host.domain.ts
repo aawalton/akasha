@@ -19,15 +19,15 @@ export const temperGameCatalogCaptureHost = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each catalog here is a module of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A completion catalog here is read from a key the game already gives as a number.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
     },
   ],

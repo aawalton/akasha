@@ -29,19 +29,19 @@ export const temperDungeonChampion = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A champion is found by position rather than by name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Whether a champion is killed is asked of the game each time a pin is drawn.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Nothing here reaches a Date.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The labels here are English alone.",
     },
   ],

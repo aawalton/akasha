@@ -8,32 +8,32 @@ export const deployImagePushing = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A recipe the registry already holds under its tag is built again by nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A recipe naming no repository is refused rather than built.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing is applied to the cluster here.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here catches the throw, so the deploy names what the push had done.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The recipe and the context are read from the tree pinned at the commit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A push answers one line naming the image, the reference it went under, and its fate.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "That line says it was built and pushed, or the registry holds it, or it would be.",
     },

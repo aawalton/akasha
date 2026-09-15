@@ -33,19 +33,19 @@ export const temperItemBrowser = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here reaches a Date.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The text here is English alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The item table here is a frozen port of an upstream table.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "No program in this repository rebuilds the item table.",
     },
   ],

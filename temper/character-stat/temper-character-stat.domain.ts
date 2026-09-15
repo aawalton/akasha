@@ -63,7 +63,7 @@ export const temperCharacterStat = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The stat display tree here is written out from the metric-tree pages.",
     },
   ],

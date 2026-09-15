@@ -21,15 +21,15 @@ export const temperEquipment = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The generated table of gear sets is outside akasha.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every set id here is written out from the set pages rather than by hand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A trait moved to another place breaks every build hash saved.",
     },
   ],

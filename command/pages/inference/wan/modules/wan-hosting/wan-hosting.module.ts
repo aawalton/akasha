@@ -8,34 +8,34 @@ export const wanHosting = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The port and the data directory and the scorer's image are read from the environment.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A value the environment does not name is answered with a default rather than refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A program that will not start is answered as nothing rather than thrown.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words spawned here are a program's command line rather than a call's own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "ffprobe answers how many frames a clip has and how large those frames are.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An ffprobe ending at anything but zero is answered with the last line ffprobe wrote.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches the GPU.",
     },
   ],

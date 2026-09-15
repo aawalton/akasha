@@ -41,11 +41,11 @@ export const temperCommand = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command here is named for the path the old ops command was reached by.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "The temper code a command here works over is in akasha.",
     },
   ],

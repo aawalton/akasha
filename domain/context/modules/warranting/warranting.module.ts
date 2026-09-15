@@ -10,131 +10,131 @@ export const warranting = {
   testFixtures: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every path a change names is asked for the warrants that path has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A path clears its warrant by answering rather than by going unasked.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A reading answers for a warrant by object id alone rather than by when the object was read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body only part of which reached the agent answers no warrant.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body read in part is owed as read in part rather than as changed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What a refusal says of one reading owed is composed elsewhere.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A warrant carries the page it ran over as well as the page it owes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The page a warrant ran over is attached here rather than by each warrant.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The readings owed are held to the ceiling one answer carries.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The list is held to that ceiling here rather than by the list's reader.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A call charged to no agent is refused whole and said to be impossible rather than merely wrong.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here writes the repository.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here commits.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A taboo term's page a refusal hands back is recorded as read here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Warranting is asked and warranting answers.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A warrant is the reading a change owes rather than the reading changing a warranted file would owe.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A read is handed each named path followed by the paths warrants running on read name for the path.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Within the paths a read is handed a path sits once in the place that path first sat.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Warrants that cannot be worked out hand back the paths handed in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The page a seat owes from sits at its id.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent owes the readings its own page names rather than the page itself.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The page a subagent owes from sits at the seat's name and the id the subagent runs under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A subagent owes the readings its own page names rather than the readings its seat's page names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An agent that sits at no page owes nothing of a page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A warrant owed of a taboo term is said before every warrant that is not.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page a refusal hands back clears the warrant owed of that page.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A refusal says the call was refused rather than leaving the exit code to say it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Warrants owed of no taboo term keep the order the warrants were worked out in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A change's readings and the writing seat's readings are ordered as one answer rather than two lists.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Nothing is changed that its writer has not read.",
     },
   ],

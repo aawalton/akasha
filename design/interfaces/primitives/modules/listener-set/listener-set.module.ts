@@ -8,11 +8,11 @@ export const listenerSet = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A subscriber is handed back the call that drops that subscriber.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A store has the value and reaches here only for the callbacks.",
     },
   ],

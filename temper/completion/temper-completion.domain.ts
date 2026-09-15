@@ -91,15 +91,15 @@ export const temperCompletion = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A capture is checked against a zod shape before the capture is written.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The lore library table and the recipe table are divided for the byte ceiling.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A part read out of turn drifts from the order the game reports.",
     },
   ],

@@ -8,16 +8,16 @@ export const temperCompletionImport = {
   parts: ["module/completion-input-schema", "module/completion-saved-variables-parser"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field the addon wrote badly falls away rather than failing the whole file.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A record read here keeps every key the reading does not name.",
     },
 
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No page is written here.",
     },
   ],

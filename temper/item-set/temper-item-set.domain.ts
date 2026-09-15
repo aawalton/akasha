@@ -8,7 +8,7 @@ export const temperItemSet = {
   parts: ["module/item-set-categories"],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This code is compiled to Lua and runs inside the game.",
     },
   ],

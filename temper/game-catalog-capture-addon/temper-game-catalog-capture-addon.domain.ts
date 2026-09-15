@@ -37,23 +37,23 @@ export const temperGameCatalogCaptureAddon = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each catalog domain is collected by a module of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collector adds itself to the registry in `temper-catalog-core`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The add-on bundling a collector decides whether that collector runs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Each catalog answers a reader in `temper-game-catalog-capture-host`.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads the player's progress.",
     },
   ],

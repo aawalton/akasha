@@ -8,11 +8,11 @@ export const appShellSidebar = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A nav link is dressed here rather than by each column that draws one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collapsed column draws a nav link centred and without its padding.",
     },
   ],

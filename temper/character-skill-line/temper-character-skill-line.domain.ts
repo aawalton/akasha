@@ -19,11 +19,11 @@ export const temperCharacterSkillLine = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The skill line data here is written out from the skill-line pages.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A class line names its category by the category page's key rather than by that page's slug.",
     },

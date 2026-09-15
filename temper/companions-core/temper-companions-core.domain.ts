@@ -99,11 +99,11 @@ export const temperCompanionsCore = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every table here is written out from the companion pages rather than by hand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The generator that writes these tables outside akasha reads the same companion pages.",
     },

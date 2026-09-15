@@ -9,20 +9,20 @@ export const temperCompanionCodec = {
   parts: ["module/companion-codec", "module/companion-codec-indices", "module/companion-codec-v49"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An update that changed the layout has a codec of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every past update stays readable and only the newest update is written.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The first byte says the build is a companion and the next byte says which update wrote the build.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A build whose first two bytes are not recognised is read as nothing.",
     },
   ],

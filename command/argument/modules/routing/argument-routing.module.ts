@@ -9,23 +9,23 @@ export const argumentRouting = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A route argument is the argument it routes with the route suffix on the end.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The route suffix is `-file`.",
     },
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement: "The suffix every route argument's name ends in is spelled here alone.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here opens the file a route argument names.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here knows which arguments a command takes.",
     },
   ],

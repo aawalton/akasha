@@ -9,32 +9,32 @@ export const outputReaching = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Output going to a pipe or to `/dev/null` does not reach the agent.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Output going to a file the shell that called the command did not already have does not reach it.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Output at a terminal reaches whoever asked.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A pipe is judged though the calling shell's own output cannot be read.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "invariant-kind/stopgap",
       statement: "A file goes unjudged where the calling shell's own output cannot be read.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "What a stream is open on is read from the process table rather than guessed.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads or writes a page.",
     },
   ],

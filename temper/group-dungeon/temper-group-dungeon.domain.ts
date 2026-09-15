@@ -14,19 +14,19 @@ export const temperGroupDungeon = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dungeon is reached by its short key rather than by its name.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Nothing here reaches a Date.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Which dungeons and quest givers a reckoning covers is handed in by the caller.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The dungeon data here is written out from the dungeon pages.",
     },
   ],

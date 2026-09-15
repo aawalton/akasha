@@ -9,19 +9,19 @@ export const temperItemsFiltersAddon = {
   parts: ["module/filter-bar", "module/filter-bar-controls", "module/panel-filter-binding"],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The filters offered here are the ones registered in `temper-items-filters-core`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The panel remembers the position the player dragged the window to.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here decides whether an item passes a filter.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads an item off the guild trader.",
     },
   ],

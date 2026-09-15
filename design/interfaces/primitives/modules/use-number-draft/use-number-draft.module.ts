@@ -8,11 +8,11 @@ export const useNumberDraft = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Editing opens on the number as it is rather than on an empty box.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reads the text back as a number.",
     },
   ],

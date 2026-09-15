@@ -39,19 +39,19 @@ export const temperFormulaFramework = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A formula is a tree of arithmetic steps rather than an expression to parse.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The number a tree comes to and the tree a reader sees are worked out apart.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The buff and debuff tables here are written out from the temper pages.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A module here reaching a Date is never reached by addon code.",
     },
   ],

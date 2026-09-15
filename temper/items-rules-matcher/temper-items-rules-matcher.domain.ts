@@ -27,11 +27,11 @@ export const temperItemsRulesMatcher = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A matcher answers which items each rule takes and how many items.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No code here reaches the game.",
     },
   ],

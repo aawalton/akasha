@@ -23,11 +23,11 @@ export const temperCharacter = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A name is author-given.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Several builds answer to one name.",
     },
   ],

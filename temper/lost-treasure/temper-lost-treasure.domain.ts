@@ -31,15 +31,15 @@ export const temperLostTreasure = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here reaches a Date.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The text here is English alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A dig site the add-on does not know is gathered from the player rather than shipped.",
     },

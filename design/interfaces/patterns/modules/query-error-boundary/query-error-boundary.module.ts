@@ -8,19 +8,19 @@ export const queryErrorBoundary = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The boundary is a class.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "React offers no function form of an error boundary.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing is logged where an error is caught.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Trying again clears the error the boundary has.",
     },
   ],

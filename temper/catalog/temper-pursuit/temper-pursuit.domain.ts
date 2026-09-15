@@ -19,7 +19,7 @@ export const temperPursuit = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page here is one node of a catalog the game shows a player's progress against.",
     },
   ],

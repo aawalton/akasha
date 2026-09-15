@@ -14,19 +14,19 @@ export const temperSettingsPanel = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A control here is a plain record the add-on menu library reads.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here draws a control.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The add-on menu library is handed in rather than reached as a global.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A setting is read back the way the setting was stated.",
     },
   ],

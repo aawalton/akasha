@@ -7,11 +7,11 @@ export const quote = {
   definition: "a link whose text sits in the document it names",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quote's text is written in quotation marks.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quote matches any part of the document's text rather than a whole entry.",
     },
   ],

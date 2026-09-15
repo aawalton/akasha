@@ -8,15 +8,15 @@ export const transpileTranspile = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Whether Lua is written is stated by `no-emit-lua`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A compile stating nothing there writes Lua unless TypeScript emits nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A compile emitting no JavaScript still writes Lua where `no-emit-lua` says so.",
     },
   ],

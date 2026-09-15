@@ -8,7 +8,7 @@ export const colorShape = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The shape every color in this package is written in is declared here.",
     },
   ],

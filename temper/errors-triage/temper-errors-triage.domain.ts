@@ -15,16 +15,16 @@ export const temperErrorsTriage = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "An error is judged from the variables the addon saved rather than from the live game.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A judgement has the reason the judgement was reached.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches the game.",
     },
   ],

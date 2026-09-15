@@ -118,11 +118,11 @@ export const temperCharacterSkill = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every table here is written out from the skill pages rather than by hand.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A skill's place in the whole table is the index a build hash has.",
     },
   ],

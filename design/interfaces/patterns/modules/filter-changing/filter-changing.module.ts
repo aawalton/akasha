@@ -8,15 +8,15 @@ export const filterChanging = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A control's change is written as the one value that control names.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sort is written as the field and the direction together.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The field a sort is by is a value handed in rather than a set named here.",
     },
   ],

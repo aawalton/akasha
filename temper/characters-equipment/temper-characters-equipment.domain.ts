@@ -168,11 +168,11 @@ export const temperCharactersEquipment = {
   ],
   invariants: [
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement: "A generator for these tables writes outside akasha.",
     },
     {
-      invariantKind: "upkeep",
+      invariantKind: "invariant-kind/upkeep",
       statement: "Both copies of a generated table move together.",
     },
   ],

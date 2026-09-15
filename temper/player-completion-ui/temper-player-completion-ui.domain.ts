@@ -13,7 +13,7 @@ export const temperPlayerCompletionUi = {
   ],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A panel here reaches no data of its own.",
     },
   ],

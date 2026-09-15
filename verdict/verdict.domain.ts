@@ -8,19 +8,19 @@ export const verdict = {
   parts: ["module/reading-channel", "module/verdict-shape", "module/verdict-text"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A failing judgement has at least one finding.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A judgement states the moment the judgement was observed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A finding naming no place reads as unattributed.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here measures anything.",
     },
   ],

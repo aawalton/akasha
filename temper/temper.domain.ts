@@ -166,21 +166,21 @@ export const temper = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Where a thing falls among its siblings is stated by `display-order` and by no other property.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type temper carries is worked out from the page types its pages state.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A property more than one page type carries is declared by a page type above those page types.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Every need a player has outside The Elder Scrolls Online is met by Temper.",
     },
   ],

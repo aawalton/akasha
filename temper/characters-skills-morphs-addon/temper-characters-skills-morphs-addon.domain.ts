@@ -14,19 +14,19 @@ export const temperCharactersSkillsMorphsAddon = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A skill line the game has not shown the character is left unread.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rank the game reports is taken beside the saved rank and the larger rank kept.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A morphed skill is read as having its base at full rank.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Everything here names the game's own numbers rather than akasha ids.",
     },
   ],

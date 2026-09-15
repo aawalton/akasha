@@ -15,15 +15,15 @@ export const temperLccc = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An add-on reaching this code carries its own copy inside its own bundle.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A copy already loaded at the same version or newer is left alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A name the game reads keeps its upstream spelling on the key rather than on the function.",
     },

@@ -66,11 +66,11 @@ export const temperItemsCore = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An item is known by the fields its own link has.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No code here reaches the game.",
     },
   ],

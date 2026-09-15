@@ -109,11 +109,11 @@ export const temperItemsRulesCore = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A rule names the action an item is given.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No code here reaches the game.",
     },
   ],

@@ -9,15 +9,15 @@ export const bodyReaching = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Reaching a body tells a path nothing is at from a path that will not open.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body that will not open is answered with why that body would not.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A body that is no UTF-8 text is answered as no text rather than as bytes.",
     },
   ],

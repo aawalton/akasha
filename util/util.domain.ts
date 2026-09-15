@@ -23,7 +23,7 @@ export const util = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A `utils` module an addon's bundle reaches is compiled to Lua.",
     },
   ],

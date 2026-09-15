@@ -169,19 +169,19 @@ export const temperLorebook = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing here reaches a Date.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The text here is English alone.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Akasha has no map pin for a lore book.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "Akasha names 4328 of the 4773 book titles this table has.",
     },
   ],

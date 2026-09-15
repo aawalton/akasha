@@ -15,15 +15,15 @@ export const temperNarrow = {
   ],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This code is compiled to Lua and runs inside the game.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A narrowing that reaches no Lua belongs in `@akasha/utils/narrow` instead.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A refusal here throws the plain error the game's Lua understands.",
     },
   ],

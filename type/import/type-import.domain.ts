@@ -7,7 +7,7 @@ export const typeImport = {
   definition: "one file using what another declares",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An akasha file imports no tracked file from outside the akasha folder.",
     },
   ],

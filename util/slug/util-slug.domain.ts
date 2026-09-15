@@ -13,11 +13,11 @@ export const utilSlug = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One module holds one folding rather than one module taking a flag.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement:
         "A folding wrapped in a fallback or a prefix is that caller's rule rather than one here.",
     },

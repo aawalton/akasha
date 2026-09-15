@@ -25,11 +25,11 @@ export const temperItemsRulesRouting = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A plan is built from captured holdings rather than from the game.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No code here reaches the game.",
     },
   ],

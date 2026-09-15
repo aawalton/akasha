@@ -8,11 +8,11 @@ export const dateBadge = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dashed date is read and written here rather than by each badge showing one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dashed date is read and written in the zone the browser is in.",
     },
   ],

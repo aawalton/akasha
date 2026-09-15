@@ -8,7 +8,7 @@ export const temperSkillsPanel = {
   parts: ["module/skills-panel-points"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The panel is the game's own, and an add-on only adds to what it draws.",
     },
   ],

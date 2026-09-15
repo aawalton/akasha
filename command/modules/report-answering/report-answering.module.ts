@@ -9,24 +9,24 @@ export const reportAnswering = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Lines gathered without a fault are the report, and nothing went wrong.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A fault thrown while gathering is the one refusal, and it is a fault in the world.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The answer is built by the one function building a command's answer.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An answer carries a report or a refusal, never both.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here knows what the lines say or where they came from.",
     },
   ],

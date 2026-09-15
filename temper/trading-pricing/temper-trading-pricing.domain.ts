@@ -18,16 +18,16 @@ export const temperTradingPricing = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A price here is the price Tamriel Trade Centre last saw rather than the price the game asks.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A lookup finding no price answers with nothing rather than with zero.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No code here reaches the network.",
     },
   ],

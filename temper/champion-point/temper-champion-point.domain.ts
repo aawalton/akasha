@@ -16,7 +16,7 @@ export const temperChampionPoint = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A star is reached by its kebab id rather than by the number the game gives that star.",
     },

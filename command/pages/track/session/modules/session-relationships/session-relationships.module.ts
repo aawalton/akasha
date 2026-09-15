@@ -9,32 +9,32 @@ export const sessionRelationships = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A relationship is named by its id or by the title its page has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A relationship reading answers with the ids or with the reasons those ids were refused.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A title with an alias of a relationship tags the stretch with that relationship.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An alias more than one relationship has tags the stretch with no relationship.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A relationship a caller names is kept beside a relationship a title tagged.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A relationship is read from the index rather than from the text of its page.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes a file.",
     },
   ],

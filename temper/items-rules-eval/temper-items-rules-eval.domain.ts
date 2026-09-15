@@ -33,38 +33,38 @@ export const temperItemsRulesEval = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A condition answers with a verdict of five kinds rather than with true or false.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A condition value that is not the shape that condition declares is named rather than tested.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A signal the environment cannot answer makes the condition indeterminate rather than failed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A missing item fact is not a signal the environment could not answer.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A missing market value passes a zero threshold where the price source holds a price table.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A price source holding no table makes a value unknown rather than zero.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The environment with every lookup is handed in rather than reached for.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No code here reaches the game client.",
     },
   ],

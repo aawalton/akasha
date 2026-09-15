@@ -22,19 +22,19 @@ export const temperSkillMorph = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A skill morphs only where the game gives that skill a first and a second morph.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A skill variant is ranked to four at most.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A morphable skill is worth twelve rank.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A skill line the character cannot use is left out of the totals.",
     },
   ],

@@ -8,27 +8,27 @@ export const serviceUnitAsking = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The unit named is the one systemd was told to enable.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A scheduled service is reached by its timer and any other by its service unit.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A dry run names the unit systemd would be asked about and asks nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A systemctl that refuses makes the call refuse.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A service page is found through the index rather than by the folder it sits in.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here puts a service's units where systemd reads them.",
     },
   ],

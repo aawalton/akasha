@@ -14,16 +14,16 @@ export const temperCommunityAddon = {
   ],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "ESOUI answers what addons there are and where each download sits.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A folder the deploy owns is never replaced by an upstream archive.",
     },
 
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An installed addon states its version in the manifest the game reads.",
     },
   ],

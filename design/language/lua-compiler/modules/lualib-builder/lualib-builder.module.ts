@@ -8,19 +8,19 @@ export const lualibBuilder = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The lualib pages say which feature a source file's name reaches.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An import of another source file names that file's feature as a dependency.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An import of a file the pages replace resolves to the file taken instead.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The lualib sources sit beside the compiler rather than among its modules.",
     },
   ],

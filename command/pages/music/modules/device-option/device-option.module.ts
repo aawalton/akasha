@@ -9,16 +9,16 @@ export const deviceOption = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A call naming no device leaves the option empty, so Spotify takes the active one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A device named is carried into the option and into what the report says.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here reaches Spotify.",
     },
   ],

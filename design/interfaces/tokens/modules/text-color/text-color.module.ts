@@ -8,7 +8,7 @@ export const textColor = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Text falls towards its surface as the text matters less.",
     },
   ],

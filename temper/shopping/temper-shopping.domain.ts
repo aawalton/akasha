@@ -15,19 +15,19 @@ export const temperShopping = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A plan here names the listings to buy rather than buying anything.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A listing at an already chosen kiosk wins a tie on price.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A budget ceiling rises as the market for an item thins.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No price here is asked of the game.",
     },
   ],

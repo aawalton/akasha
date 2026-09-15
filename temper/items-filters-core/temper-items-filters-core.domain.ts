@@ -45,25 +45,25 @@ export const temperItemsFiltersCore = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A filter narrows the items already in hand.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A filter that can also narrow the guild-trader request says so with a hook of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Each filter reads its own value back out of a saved search rather than trusting the caller.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here draws a filter bar.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The rule-editor filters of the same names are another layer in `temper-items-rules-core`.",
     },

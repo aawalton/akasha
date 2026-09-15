@@ -8,11 +8,11 @@ export const urlBadge = {
   code: "tsx",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The host of a url is read here rather than by each badge showing one.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Text that is no url is answered with no host and shown as the text it is.",
     },
   ],

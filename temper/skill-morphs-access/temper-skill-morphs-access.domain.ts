@@ -14,15 +14,15 @@ export const temperSkillMorphsAccess = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A completion row names the game's own numbers rather than akasha ids.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row with no completion is read as no progress.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A skill line the game numbers zero is left out of the maps here.",
     },
   ],

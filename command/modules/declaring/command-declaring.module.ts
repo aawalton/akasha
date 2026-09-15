@@ -8,28 +8,28 @@ export const commandDeclaring = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A command declares the arguments the command takes rather than parsing the arguments.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "One reader parses the declaration and one printer prints the declaration.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A flag carrying a value names the value and says what shape the value has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A flag with no value names no value label.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The words reaching a command and the code the command loads are one entry.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A command page has this declaration as data rather than as prose.",
     },
   ],

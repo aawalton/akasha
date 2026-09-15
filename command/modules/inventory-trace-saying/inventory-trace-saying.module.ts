@@ -8,7 +8,7 @@ export const inventoryTraceSaying = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field the trace carried no number for is written as `nil`.",
     },
   ],

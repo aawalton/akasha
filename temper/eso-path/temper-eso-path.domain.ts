@@ -13,12 +13,12 @@ export const temperEsoPath = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A path here is worked out from the environment rather than from the directories on disk.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Asking the disk settles which candidate the live directory is.",
     },
   ],

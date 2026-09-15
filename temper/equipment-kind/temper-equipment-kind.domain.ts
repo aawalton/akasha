@@ -16,11 +16,11 @@ export const temperEquipmentKind = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every row here answers to a page of the equipment page types.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A gear set is named outside this folder.",
     },
   ],

@@ -24,11 +24,11 @@ export const temperSkillKind = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A skill itself is named outside this folder.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every table here is written out from the skill pages rather than by hand.",
     },
   ],

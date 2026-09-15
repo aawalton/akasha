@@ -8,11 +8,11 @@ export const commandFailing = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A command failing this way exits with the code that names a caller's mistake.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The message reaches standard error rather than standard output.",
     },
   ],

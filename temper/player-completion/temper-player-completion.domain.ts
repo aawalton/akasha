@@ -80,11 +80,11 @@ export const temperPlayerCompletion = {
   ],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Nothing here reaches the game.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A completion card is the unit a player is measured by.",
     },
   ],

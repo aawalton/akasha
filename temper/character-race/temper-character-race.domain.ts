@@ -8,11 +8,11 @@ export const temperCharacterRace = {
   parts: ["module/race-icon-url", "module/races"],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The race data here is written out from the race pages.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A race is reached by its own id rather than by the race id the game has.",
     },
   ],

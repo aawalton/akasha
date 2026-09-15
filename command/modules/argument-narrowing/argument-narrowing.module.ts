@@ -8,11 +8,11 @@ export const argumentNarrowing = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value of the wrong type ends the command.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A refusal names the place the value is in.",
     },
   ],

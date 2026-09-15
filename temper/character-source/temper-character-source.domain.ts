@@ -24,11 +24,11 @@ export const temperCharacterSource = {
   ],
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character's class and race are named outside this folder.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character's gear is named outside this folder.",
     },
   ],

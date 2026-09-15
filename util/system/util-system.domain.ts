@@ -8,7 +8,7 @@ export const utilSystem = {
   parts: ["module/inode-guard", "module/landing-admission", "module/memory-guard"],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Everything here reads a file only Linux has.",
     },
   ],

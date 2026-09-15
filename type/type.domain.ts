@@ -8,23 +8,23 @@ export const type = {
   parts: ["domain/type-import"],
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A type is gone by the time the code runs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page satisfies its type rather than being annotated with that type.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A page type's TypeScript type is declared in the page type file.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A page of the wrong shape does not compile.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A limit no type can have is enforced by a check.",
     },
   ],
