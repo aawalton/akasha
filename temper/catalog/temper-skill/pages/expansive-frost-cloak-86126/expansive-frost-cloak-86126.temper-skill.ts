@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const expansiveFrostCloak86126 = {
   id: "019e6f53-a1c3-78c4-9378-cb6e29586ce4",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "expansive-frost-cloak-86126",
   title: "Expansive Frost Cloak",
   key: "expansive-frost-cloak-86126",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const eyeOfTheStorm83642 = {
   id: "019e6f53-a1da-7ac6-af41-3605b23db62b",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "eye-of-the-storm-83642",
   title: "Eye of the Storm",
   key: "eye-of-the-storm-83642",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hardenedWard29489 = {
   id: "019e6f53-a2cb-73b0-b9a1-1c1331914771",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "hardened-ward-29489",
   title: "Hardened Ward",
   key: "hardened-ward-29489",

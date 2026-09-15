@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const eternalGuardian85986 = {
   id: "019e6f53-a1a3-74e3-97c1-322a7dc71159",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "eternal-guardian-85986",
   title: "Eternal Guardian",
   key: "eternal-guardian-85986",

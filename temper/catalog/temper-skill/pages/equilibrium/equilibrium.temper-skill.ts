@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const equilibrium = {
   id: "019e6f53-a195-79bb-9acc-9ef331320058",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "equilibrium",
   title: "Equilibrium",
   key: "equilibrium",

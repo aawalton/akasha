@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const fetcherInfection = {
   id: "019e6245-a682-7356-9e5a-8e9f7c9356a5",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "fetcher-infection",
   title: "Fetcher Infection",
   key: "fetcher-infection",

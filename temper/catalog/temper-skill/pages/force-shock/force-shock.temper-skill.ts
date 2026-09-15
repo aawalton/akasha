@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const forceShock = {
   id: "019e6f53-a22a-7169-ba45-ee192e534f73",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "force-shock",
   title: "Force Shock",
   key: "force-shock",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const exhaustingFatecarver = {
   id: "019e6245-a677-7edb-a0ca-ca62e83ca80b",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "exhausting-fatecarver",
   title: "Exhausting Fatecarver",
   key: "exhausting-fatecarver",

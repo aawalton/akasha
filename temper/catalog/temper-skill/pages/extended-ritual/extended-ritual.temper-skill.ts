@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const extendedRitual = {
   id: "019e6245-a67f-71b5-8ae3-b84d20c1aba2",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "extended-ritual",
   title: "Extended Ritual",
   key: "extended-ritual",

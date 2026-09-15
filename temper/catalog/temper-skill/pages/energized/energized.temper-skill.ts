@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const energized = {
   id: "019e6245-a66c-7645-98c7-ca034565b3e1",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "energized",
   title: "Energized",
   key: "energized",

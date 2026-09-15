@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const expungeAndModify = {
   id: "019e6245-a67e-70bd-aa95-aece4e56b9b3",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "expunge-and-modify",
   title: "Expunge and Modify",
   key: "expunge-and-modify",

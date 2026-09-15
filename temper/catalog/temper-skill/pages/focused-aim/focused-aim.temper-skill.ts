@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const focusedAim = {
   id: "019e6226-00f1-7f3d-91e2-9f2e24b43867",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "focused-aim",
   title: "Focused Aim",
   key: "focused-aim",

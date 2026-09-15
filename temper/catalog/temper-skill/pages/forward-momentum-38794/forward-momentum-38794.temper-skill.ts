@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const forwardMomentum38794 = {
   id: "019e6f53-a238-7fd9-9a59-cdad1c7725bf",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "forward-momentum-38794",
   title: "Forward Momentum",
   key: "forward-momentum-38794",

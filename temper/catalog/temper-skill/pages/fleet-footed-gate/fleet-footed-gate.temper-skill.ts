@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const fleetFootedGate = {
   id: "019e6245-a685-78ca-86f8-b76f23128850",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "fleet-footed-gate",
   title: "Fleet-Footed Gate",
   key: "fleet-footed-gate",

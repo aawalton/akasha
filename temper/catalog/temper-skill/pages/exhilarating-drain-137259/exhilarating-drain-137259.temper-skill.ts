@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const exhilaratingDrain137259 = {
   id: "019e6f53-a1c0-768c-a191-2f9596dbf9f2",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "exhilarating-drain-137259",
   title: "Exhilarating Drain",
   key: "exhilarating-drain-137259",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const forceful = {
   id: "019e6226-00f4-7674-aba6-38a0517e570b",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "forceful",
   title: "Forceful",
   key: "forceful",

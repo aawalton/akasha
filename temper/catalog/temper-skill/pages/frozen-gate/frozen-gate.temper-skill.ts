@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const frozenGate = {
   id: "019e6f53-a256-7ad6-96fe-1f1124e92e57",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "frozen-gate",
   title: "Frozen Gate",
   key: "frozen-gate",

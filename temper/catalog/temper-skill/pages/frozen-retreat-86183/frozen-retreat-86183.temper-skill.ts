@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const frozenRetreat86183 = {
   id: "019e6f53-a25c-7487-a7e6-1562a898b637",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "frozen-retreat-86183",
   title: "Frozen Retreat",
   key: "frozen-retreat-86183",

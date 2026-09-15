@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const ghostlyEmbrace118308 = {
   id: "019e6f53-a275-7ebc-9e02-fd8d2aa08d86",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "ghostly-embrace-118308",
   title: "Ghostly Embrace",
   key: "ghostly-embrace-118308",

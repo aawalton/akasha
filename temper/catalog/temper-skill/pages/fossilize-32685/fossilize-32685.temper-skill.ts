@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const fossilize32685 = {
   id: "019e6f53-a23e-758d-b035-aff40af4866c",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "fossilize-32685",
   title: "Fossilize",
   key: "fossilize-32685",

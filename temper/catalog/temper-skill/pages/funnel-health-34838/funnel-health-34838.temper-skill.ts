@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const funnelHealth34838 = {
   id: "019e6f53-a26a-7820-b748-04ca542b4bf4",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "funnel-health-34838",
   title: "Funnel Health",
   key: "funnel-health-34838",

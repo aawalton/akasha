@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const foragerHireling = {
   id: "019e6224-cc95-7e6b-bec6-bbb383e0f8f0",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "forager-hireling",
   title: "Forager Hireling",
   key: "forager-hireling",

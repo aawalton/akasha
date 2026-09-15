@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const energyOrb42038 = {
   id: "019e6f53-a18a-7edf-a3fa-f5636b423844",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "energy-orb-42038",
   title: "Energy Orb",
   key: "energy-orb-42038",

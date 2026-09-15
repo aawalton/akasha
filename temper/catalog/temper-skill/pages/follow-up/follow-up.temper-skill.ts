@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const followUp = {
   id: "019e6226-00f2-7c16-9995-54924f771bb5",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "follow-up",
   title: "Follow Up",
   key: "follow-up",

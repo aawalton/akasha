@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const enduringRays = {
   id: "019e6245-a669-781b-87db-a3f22f3cb9c5",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "enduring-rays",
   title: "Enduring Rays",
   key: "enduring-rays",

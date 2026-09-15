@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const handBrush = {
   id: "019e6251-4cbb-7f0b-8f8f-e222c89ac10b",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "hand-brush",
   title: "Hand Brush",
   key: "hand-brush",

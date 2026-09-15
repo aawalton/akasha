@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const fungalGrowth = {
   id: "019e6f53-a264-7cbc-813e-58612cf713df",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "fungal-growth",
   title: "Fungal Growth",
   key: "fungal-growth",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const fulminatingRune182988 = {
   id: "019e6f53-a262-73a2-aa7e-9e391b8c0107",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "fulminating-rune-182988",
   title: "Fulminating Rune",
   key: "fulminating-rune-182988",

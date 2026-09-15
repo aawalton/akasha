@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const graveLordsSacrifice = {
   id: "019e6245-a694-7c37-ac99-3c17501f7963",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "grave-lords-sacrifice",
   title: "Grave Lord's Sacrifice",
   key: "grave-lords-sacrifice",

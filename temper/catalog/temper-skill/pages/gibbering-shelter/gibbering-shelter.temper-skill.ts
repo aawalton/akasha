@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const gibberingShelter = {
   id: "019e6245-a690-7bb4-a1b3-cc5b5af7a806",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "gibbering-shelter",
   title: "Gibbering Shelter",
   key: "gibbering-shelter",

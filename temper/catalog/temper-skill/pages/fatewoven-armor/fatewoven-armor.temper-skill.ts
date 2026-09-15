@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const fatewovenArmor = {
   id: "019e6f53-a1e4-7156-81ad-acdcdc88fe1e",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "fatewoven-armor",
   title: "Fatewoven Armor",
   key: "fatewoven-armor",

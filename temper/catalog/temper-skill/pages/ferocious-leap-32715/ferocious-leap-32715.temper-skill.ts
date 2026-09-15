@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const ferociousLeap32715 = {
   id: "019e6f53-a1f1-796c-b40b-1c908527d684",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "ferocious-leap-32715",
   title: "Ferocious Leap",
   key: "ferocious-leap-32715",

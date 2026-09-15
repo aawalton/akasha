@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const elementalRing = {
   id: "019e6226-00ec-73ec-921a-633260519be7",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "elemental-ring",
   title: "Elemental Ring",
   key: "elemental-ring",

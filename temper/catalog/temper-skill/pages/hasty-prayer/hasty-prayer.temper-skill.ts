@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hastyPrayer = {
   id: "019e6245-a69c-7cda-b99d-d640836c3f8a",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "hasty-prayer",
   title: "Hasty Prayer",
   key: "hasty-prayer",

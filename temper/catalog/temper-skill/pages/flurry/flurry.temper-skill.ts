@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const flurry = {
   id: "019e6f53-a218-79bf-8430-5453595a61c0",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "flurry",
   title: "Flurry",
   key: "flurry",

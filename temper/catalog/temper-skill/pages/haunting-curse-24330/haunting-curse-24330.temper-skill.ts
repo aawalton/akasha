@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const hauntingCurse24330 = {
   id: "019e6f53-a2dc-7812-a273-4fd9c4a447ec",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "haunting-curse-24330",
   title: "Haunting Curse",
   key: "haunting-curse-24330",

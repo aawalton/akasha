@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const futureFocus139780 = {
   id: "019e6f53-a270-73f9-a14c-03e485dbbc1f",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "future-focus-139780",
   title: "Future Focus",
   key: "future-focus-139780",

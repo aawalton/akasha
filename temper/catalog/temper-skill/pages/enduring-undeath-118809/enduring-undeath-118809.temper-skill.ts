@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const enduringUndeath118809 = {
   id: "019e6f53-a181-7e44-83da-3eded33842f1",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "enduring-undeath-118809",
   title: "Enduring Undeath",
   key: "enduring-undeath-118809",

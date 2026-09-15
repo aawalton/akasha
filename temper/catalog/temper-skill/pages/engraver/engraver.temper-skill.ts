@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const engraver = {
   id: "019e6224-cc94-7a40-9a5e-dcad1f2978fc",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "engraver",
   title: "Engraver",
   key: "engraver",

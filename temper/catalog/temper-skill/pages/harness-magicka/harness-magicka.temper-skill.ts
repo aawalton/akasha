@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const harnessMagicka = {
   id: "019e6238-c2c4-7cf0-b15e-a52fad48e00c",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "harness-magicka",
   title: "Harness Magicka",
   key: "harness-magicka",

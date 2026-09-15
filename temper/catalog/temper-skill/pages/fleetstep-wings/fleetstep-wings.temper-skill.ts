@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const fleetstepWings = {
   id: "019e6245-a686-7996-9d9e-1263bf319fce",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "fleetstep-wings",
   title: "Fleetstep Wings",
   key: "fleetstep-wings",
