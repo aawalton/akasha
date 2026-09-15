@@ -78,7 +78,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-read-record-entry-does-not-outlast-the-reads-after-it.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-record-field-holding-a-boolean-is-restated-by-no-change.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-reduction-property-would-be-a-second-way-to-say-what-page-query-declares.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-refresh-of-the-checkout-index-is-a-fleet-outage-for-as-long-as-it-runs.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-refusal-explains-itself-by-a-fact-the-day-migration-turns.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-refusal-for-an-unnamed-value-does-not-tell-dead-code-from-a-loose-wire.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-refused-apply-leaves-edits-that-make-the-redraft-refuse-for-the-wrong-reason.finding.ts"}
