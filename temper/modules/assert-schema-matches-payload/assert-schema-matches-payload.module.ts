@@ -9,6 +9,15 @@ export const assertSchemaMatchesPayload = {
   invariants: [
     {
       invariantKind: "departure",
+      statement:
+        "A capture host reads the payload a capture addon saved rather than the running game.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The check here runs in the type system rather than at runtime.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Exact sameness is tested rather than assignability.",
     },
     {
