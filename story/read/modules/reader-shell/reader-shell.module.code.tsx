@@ -1,5 +1,6 @@
 "use client"
 
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import {
@@ -27,15 +28,16 @@ export function ReaderShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   const { page } = usePage({ pageTypeSlug, id })
   const data = toPageDataJSON(page?.properties)
   const title = data.title == null ? "" : String(data.title)
+  const slug = typeof data.slug === "string" ? data.slug : ""
   const following = data.following === true
 
   const options = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: CHAPTER_PAGE_TYPE_SLUG,
-      where: [{ key: CHAPTER_STORY_KEY, eq: id }],
+      where: [{ key: CHAPTER_STORY_KEY, eq: namedAs(pageTypeSlug, slug, null) }],
       order: [{ by: CHAPTER_POSITION_KEY, dir: "asc" }],
     }),
-    [id]
+    [pageTypeSlug, slug]
   )
   const { rows, isLoading } = usePages(options)
 
