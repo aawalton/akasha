@@ -15,13 +15,13 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "67 refusals at 2c98c950dd7. page 19, alan 17, agent 9, temper 5, infrastructure 5, story 4, check 3, util 2, persona 1, command 1, change 1. Most of what is left is held rather than open: a module dead whole is a feature leaving and Alan settles those, and a value meant to be called that never got wired up is repaired rather than removed. What narrowing was open has been done.",
+        "53 refusals at 2c8507bc95b, of which 19 only Alan can settle. Most of what is left is held rather than open: a module dead whole is a feature leaving and Alan settles those, and a value meant to be called that never got wired up is repaired rather than removed. What narrowing was open has been done.",
     },
 
     {
       statement: "No arm of the codebase is built and reached by nothing.",
       workingMemory:
-        "Alan is taking these one at a time and has cut the story engine's mechanics half and tally reader, the persona image craft, the reading recommender, the k8s manifest scanner, the iOS web-bundle staging, the ESO freshness check, the parse doubter, the signed-out notice, the monarch seat and the seat background-task reader. About twenty are left. Three are loose wires: nothing writes the rotated session, nothing decides whether a seat may stop alone, and the degrading resume notice is unwired.",
+        "Alan is taking these one at a time. Lately gone: the seat pendency verdict, the reaper's redaction half, the rotated session and the supervisor's rebind-on-rotation path, green-day points off 40 persona pages, the ESO companion build search, the page-type writers and the guard naming them, and the guard against a test writing into his own checkout. He wants the generic write path able to write a page-type page. One loose wire is left: the degrading resume notice is unwired.",
     },
     {
       statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
