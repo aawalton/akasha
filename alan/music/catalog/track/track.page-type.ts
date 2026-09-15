@@ -6,11 +6,21 @@ export const track = {
   slug: "track",
   definition: "one recording as a release carries it",
   extends: ["page-type/collection-external"],
-  parts: ["boolean-property/explicit", "number-property/disc-number"],
+  parts: [
+    "boolean-property/explicit",
+    "number-property/disc-number",
+    "record-property/track-artist",
+  ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "number-property/disc-number", required: false, many: false },
     { pageProperty: "boolean-property/explicit", required: false, many: false },
+    {
+      pageProperty: "record-property/track-artist",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   invariants: [
     {

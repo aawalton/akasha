@@ -44,6 +44,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/readout/widget/properties/families.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/library/watching/properties/genres.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/music/catalog/artist/properties/artist-genre.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/music/catalog/track/properties/track-artist.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/relating/connection-activity/properties/connection-activity-modality.select-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/relating/relationship-topic/properties/relationship-topic-people.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/relating/relationship/properties/relationship-aliases.text-property.types.ts"}

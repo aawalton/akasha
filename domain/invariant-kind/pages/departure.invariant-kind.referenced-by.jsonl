@@ -1017,6 +1017,7 @@
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/song/song.page-type.ts","id":"01a06243-144b-7012-9da5-a570a8174672"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/track/properties/disc-number.number-property.ts","id":"01a0a5df-ff89-7f60-a3a6-f27b5e02d970"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/track/properties/explicit.boolean-property.ts","id":"01a0a5e0-58f3-740e-9244-3bdebb7ceedb"}
+{"propertySlug":"invariant-kind","path":"alan/music/catalog/track/properties/track-artist.record-property.ts","id":"01a0a5f1-d12c-7bb8-96c2-10781ad40828"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/track/track.page-type.ts","id":"01a0a57b-23fe-7c3a-92e1-06b28a781b17"}
 {"propertySlug":"invariant-kind","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.ts","id":"01a06281-4d9d-7002-aee3-ff60658dc599"}
 {"propertySlug":"invariant-kind","path":"alan/music/choosing/modules/rating-ladder/rating-ladder.module.ts","id":"01a06281-4d9d-7001-9db5-f9ea87db3f71"}
