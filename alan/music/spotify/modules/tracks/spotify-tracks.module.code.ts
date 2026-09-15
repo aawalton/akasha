@@ -1,4 +1,5 @@
 import { spotifyGet } from "akasha/alan/music/spotify/modules/client/spotify-client.module.code.ts"
+import type { Fetching } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import { z } from "zod"
 
 const trackArtistRefSchema = z.object({ name: z.string() }).passthrough()
@@ -16,6 +17,6 @@ export const trackSchema = z
 
 export type Track = z.infer<typeof trackSchema>
 
-export function getTrack(id: string): Promise<Track> {
-  return spotifyGet(`/tracks/${id}`, trackSchema)
+export function getTrack(id: string, over?: Fetching): Promise<Track> {
+  return spotifyGet(`/tracks/${id}`, trackSchema, over)
 }

@@ -3,6 +3,7 @@ import {
   spotifyGet,
   withQuery,
 } from "akasha/alan/music/spotify/modules/client/spotify-client.module.code.ts"
+import type { Fetching } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import { z } from "zod"
 
 const SEARCH_TYPES = [
@@ -62,6 +63,6 @@ export function buildSearchPath(params: SearchParams): string {
   })
 }
 
-export function search(params: SearchParams): Promise<SearchResponse> {
-  return spotifyGet(buildSearchPath(params), searchResponseSchema)
+export function search(params: SearchParams, over?: Fetching): Promise<SearchResponse> {
+  return spotifyGet(buildSearchPath(params), searchResponseSchema, over)
 }

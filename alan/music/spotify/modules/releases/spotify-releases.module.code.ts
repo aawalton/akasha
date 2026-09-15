@@ -3,6 +3,7 @@ import {
   spotifyGet,
   withQuery,
 } from "akasha/alan/music/spotify/modules/client/spotify-client.module.code.ts"
+import type { Fetching } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import { z } from "zod"
 
 const PAGE_LIMIT = 10
@@ -57,12 +58,12 @@ export function artistAlbumsPath(artistId: string): string {
   })
 }
 
-export function getArtistAlbums(artistId: string): Promise<Album[]> {
-  return paginateOffset(artistAlbumsPath(artistId), albumSchema)
+export function getArtistAlbums(artistId: string, over?: Fetching): Promise<Album[]> {
+  return paginateOffset(artistAlbumsPath(artistId), albumSchema, undefined, over)
 }
 
-export function getAlbum(albumId: string): Promise<AlbumWithTracks> {
-  return spotifyGet(`/albums/${albumId}`, albumWithTracksSchema)
+export function getAlbum(albumId: string, over?: Fetching): Promise<AlbumWithTracks> {
+  return spotifyGet(`/albums/${albumId}`, albumWithTracksSchema, over)
 }
 
 export function albumMinutes(album: AlbumWithTracks): number {
