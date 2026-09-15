@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const mysticalTraditionJudaismChristianityIslam = {
   id: "019db533-f388-7034-a44e-9477938ee651",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "mystical-tradition-judaism-christianity-islam",
   title: "Mystical Tradition: Judaism, Christianity, Islam",
   status: "not-started",

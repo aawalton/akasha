@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const moneyAndBankingWhatEveryoneShouldKnow = {
   id: "019db533-f3a0-7343-b130-fd5091c68ca1",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "money-and-banking-what-everyone-should-know",
   title: "Money and Banking: What Everyone Should Know",
   status: "not-started",

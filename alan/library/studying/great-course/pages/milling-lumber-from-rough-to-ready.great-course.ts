@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const millingLumberFromRoughToReady = {
   id: "019db533-f39e-7428-b47e-af82c7b9f686",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "milling-lumber-from-rough-to-ready",
   title: "Milling Lumber: From Rough to Ready",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const livingHistoryExperiencingGreatEventsOfTheAncientAndMedievalW = {
   id: "019db533-f39f-7e4d-a24f-1bb8384c9eef",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "living-history-experiencing-great-events-of-the-ancient-and-medieval-w",
   title: "Living History: Experiencing Great Events of the Ancient and Medieval Worlds",
   status: "completed",

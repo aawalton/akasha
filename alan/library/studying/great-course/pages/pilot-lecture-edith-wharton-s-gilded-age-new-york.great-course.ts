@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureEdithWhartonSGildedAgeNewYork = {
   id: "019db533-f39e-7838-954d-5ba4720ad157",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-edith-wharton-s-gilded-age-new-york",
   title: "Pilot Lecture: Edith Wharton’s Gilded Age New York",
   status: "completed",

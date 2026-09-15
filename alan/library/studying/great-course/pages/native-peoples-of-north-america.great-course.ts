@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const nativePeoplesOfNorthAmerica = {
   id: "019db533-f3a0-72d4-b6bd-3ec83332d6bf",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "native-peoples-of-north-america",
   title: "Native Peoples of North America",
   status: "not-started",

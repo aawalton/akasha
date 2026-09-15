@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureDoComputersUnderstandEnglish = {
   id: "019db533-f39e-72a1-9046-6fed7fe9b336",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-do-computers-understand-english",
   title: "Pilot Lecture: Do Computers Understand English?",
   status: "completed",

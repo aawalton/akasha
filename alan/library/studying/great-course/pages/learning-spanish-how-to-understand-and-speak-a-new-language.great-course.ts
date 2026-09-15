@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const learningSpanishHowToUnderstandAndSpeakANewLanguage = {
   id: "019db533-f39f-754c-b66a-d7f367c96d9d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "learning-spanish-how-to-understand-and-speak-a-new-language",
   title: "Learning Spanish: How to Understand and Speak a New Language",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const mythsLiesAndHalfTruthsOfLanguageUsage = {
   id: "019db533-f39e-786c-9e8c-8420691f9613",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "myths-lies-and-half-truths-of-language-usage",
   title: "Myths, Lies, and Half-Truths of Language Usage",
   status: "completed",

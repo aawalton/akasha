@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const ordinaryAmericansInTheRevolution = {
   id: "019db533-f3a0-70c2-9ca6-b0c85d86ed14",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "ordinary-americans-in-the-revolution",
   title: "Ordinary Americans in the Revolution",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const languageFamiliesOfTheWorld = {
   id: "019db533-f39f-7502-b429-125aae6a616a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "language-families-of-the-world",
   title: "Language Families of the World",
   status: "completed",

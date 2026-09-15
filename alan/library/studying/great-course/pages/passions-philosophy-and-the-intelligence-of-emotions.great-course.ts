@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const passionsPhilosophyAndTheIntelligenceOfEmotions = {
   id: "019db533-f3a0-777c-8a66-1ae6a0fc3c9e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "passions-philosophy-and-the-intelligence-of-emotions",
   title: "Passions: Philosophy and the Intelligence of Emotions",
   status: "not-started",

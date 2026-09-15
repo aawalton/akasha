@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const introductionToTheQurAn = {
   id: "019db533-f39e-7af9-a36f-54b9fb24f11c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "introduction-to-the-qur-an",
   title: "Introduction to the Qur’an",
   status: "not-started",

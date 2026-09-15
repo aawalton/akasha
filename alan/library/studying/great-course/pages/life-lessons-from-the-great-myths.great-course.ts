@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const lifeLessonsFromTheGreatMyths = {
   id: "019db533-f39e-7cd5-b782-feddf35dbd0d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "life-lessons-from-the-great-myths",
   title: "Life Lessons from the Great Myths",
   status: "not-started",

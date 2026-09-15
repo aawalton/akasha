@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureHowRepublicsDieTheFallOfTheRomanRepublic = {
   id: "019db533-f3a0-7296-8ed0-0dcf6cc650e9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-how-republics-die-the-fall-of-the-roman-republic",
   title: "Pilot Lecture: How Republics Die—The Fall of the Roman Republic",
   status: "completed",

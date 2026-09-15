@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const meteorologyAnIntroductionToTheWondersOfTheWeather = {
   id: "019db533-f39e-7c9e-ad13-1b44ec472b4e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "meteorology-an-introduction-to-the-wonders-of-the-weather",
   title: "Meteorology: An Introduction to the Wonders of the Weather",
   status: "not-started",

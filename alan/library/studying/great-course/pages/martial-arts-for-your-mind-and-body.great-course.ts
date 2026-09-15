@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const martialArtsForYourMindAndBody = {
   id: "019db533-f3a0-79d8-b4c0-a7dc5cad1a5a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "martial-arts-for-your-mind-and-body",
   title: "Martial Arts for Your Mind and Body",
   status: "not-started",

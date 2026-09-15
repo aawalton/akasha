@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureHistoryOfRace = {
   id: "019db533-f3a0-712c-b6b3-ac9c6801630b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-history-of-race",
   title: "Pilot Lecture: History of Race",
   status: "completed",

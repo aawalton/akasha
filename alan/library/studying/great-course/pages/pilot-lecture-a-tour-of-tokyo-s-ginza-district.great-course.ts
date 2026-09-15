@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureATourOfTokyoSGinzaDistrict = {
   id: "019db533-f39f-74e3-a2a8-1ab24263a89f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-a-tour-of-tokyo-s-ginza-district",
   title: "Pilot Lecture: A Tour of Tokyo’s Ginza District",
   status: "completed",

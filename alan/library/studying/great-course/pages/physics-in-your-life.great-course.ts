@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const physicsInYourLife = {
   id: "019db533-f39f-7229-ac4f-ed5da009df44",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "physics-in-your-life",
   title: "Physics in Your Life",
   status: "not-started",

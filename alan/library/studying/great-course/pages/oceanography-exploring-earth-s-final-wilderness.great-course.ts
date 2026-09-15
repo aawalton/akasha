@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const oceanographyExploringEarthSFinalWilderness = {
   id: "019db533-f39f-7154-be65-1879ae205b1d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "oceanography-exploring-earth-s-final-wilderness",
   title: "Oceanography: Exploring Earth's Final Wilderness",
   status: "not-started",

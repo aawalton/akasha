@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const nosferatuExaminedTheDraculaConnection = {
   id: "019db533-f39f-74f8-b059-41f397a4b3f0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "nosferatu-examined-the-dracula-connection",
   title: "Nosferatu Examined: The Dracula Connection",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const mysteriesOfModernPhysicsTime = {
   id: "019db533-f39f-712a-879a-91f82e7690a4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "mysteries-of-modern-physics-time",
   title: "Mysteries of Modern Physics: Time",
   status: "not-started",

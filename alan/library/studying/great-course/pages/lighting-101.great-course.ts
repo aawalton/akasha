@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const lighting101 = {
   id: "019db533-f39e-72c0-8deb-c4652ea69124",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "lighting-101",
   title: "Lighting 101",
   status: "not-started",

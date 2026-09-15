@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const mythInHumanHistory = {
   id: "019db533-f39e-7819-bb53-0c6c84cfdcfc",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "myth-in-human-history",
   title: "Myth in Human History",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureEarthSGreatMassExtinctions = {
   id: "019db533-f39f-7d5a-b0b5-9421d444ee43",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-earth-s-great-mass-extinctions",
   title: "Pilot Lecture: Earth’s Great Mass Extinctions",
   status: "completed",

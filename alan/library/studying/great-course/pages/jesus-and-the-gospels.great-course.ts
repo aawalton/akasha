@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const jesusAndTheGospels = {
   id: "019db533-f39e-7cea-9cc0-77e28f07f27a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "jesus-and-the-gospels",
   title: "Jesus and the Gospels",
   status: "not-started",

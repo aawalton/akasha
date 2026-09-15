@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const myFirstToeUpSocks = {
   id: "019db533-f39e-7438-9119-ac8ca241a4ae",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "my-first-toe-up-socks",
   title: "My First Toe-Up Socks",
   status: "completed",

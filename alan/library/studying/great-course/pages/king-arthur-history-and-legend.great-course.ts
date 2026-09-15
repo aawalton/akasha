@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const kingArthurHistoryAndLegend = {
   id: "019db533-f3a0-7349-8468-f2a44d6c7b1a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "king-arthur-history-and-legend",
   title: "King Arthur: History and Legend",
   status: "completed",

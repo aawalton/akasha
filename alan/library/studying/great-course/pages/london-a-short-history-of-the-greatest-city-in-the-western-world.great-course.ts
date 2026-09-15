@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const londonAShortHistoryOfTheGreatestCityInTheWesternWorld = {
   id: "019db533-f3a0-70cc-a770-ec92c732a647",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "london-a-short-history-of-the-greatest-city-in-the-western-world",
   title: "London: A Short History of the Greatest City in the Western World",
   status: "not-started",

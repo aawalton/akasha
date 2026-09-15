@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const mathematicalDecisionMakingPredictiveModelsAndOptimization = {
   id: "019db533-f3a0-731a-8ab2-0cc7096b4bc8",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "mathematical-decision-making-predictive-models-and-optimization",
   title: "Mathematical Decision Making: Predictive Models and Optimization",
   status: "not-started",

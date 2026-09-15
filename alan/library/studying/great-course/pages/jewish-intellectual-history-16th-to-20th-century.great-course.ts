@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const jewishIntellectualHistory16thTo20thCentury = {
   id: "019db533-f3a0-735e-8368-87d14b866ca2",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "jewish-intellectual-history-16th-to-20th-century",
   title: "Jewish Intellectual History: 16th to 20th Century",
   status: "completed",

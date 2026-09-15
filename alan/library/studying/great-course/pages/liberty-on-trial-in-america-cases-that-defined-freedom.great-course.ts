@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const libertyOnTrialInAmericaCasesThatDefinedFreedom = {
   id: "019db533-f39f-7eec-8a39-3c68e38b9538",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "liberty-on-trial-in-america-cases-that-defined-freedom",
   title: "Liberty on Trial in America: Cases That Defined Freedom",
   status: "not-started",

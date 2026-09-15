@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const learningStatisticsConceptsAndApplicationsInR = {
   id: "019db533-f3a0-7939-a5f1-601fa3e9d053",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "learning-statistics-concepts-and-applications-in-r",
   title: "Learning Statistics: Concepts and Applications in R",
   status: "not-started",

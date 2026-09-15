@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const originsOfGreatAncientCivilizations = {
   id: "019db533-f3a0-70a4-a9d7-cbe4fd8b3d40",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "origins-of-great-ancient-civilizations",
   title: "Origins of Great Ancient Civilizations",
   status: "not-started",

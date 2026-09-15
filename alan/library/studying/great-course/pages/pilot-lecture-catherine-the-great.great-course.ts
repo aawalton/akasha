@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureCatherineTheGreat = {
   id: "019db533-f3a0-70fe-8caf-76238464bb48",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-catherine-the-great",
   title: "Pilot Lecture: Catherine the Great",
   status: "completed",

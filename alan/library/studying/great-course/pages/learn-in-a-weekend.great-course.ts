@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const learnInAWeekend = {
   id: "019db533-f39e-75da-b361-aaede5f59448",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "learn-in-a-weekend",
   title: "Learn in a Weekend",
   status: "not-started",

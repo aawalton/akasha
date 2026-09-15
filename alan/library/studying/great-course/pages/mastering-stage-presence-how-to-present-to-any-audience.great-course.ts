@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const masteringStagePresenceHowToPresentToAnyAudience = {
   id: "019db533-f39e-72cf-86f7-46a97cb5fd44",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "mastering-stage-presence-how-to-present-to-any-audience",
   title: "Mastering Stage Presence: How to Present to Any Audience",
   status: "not-started",

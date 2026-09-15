@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const lawSchoolForEveryoneContracts = {
   id: "019db533-f39e-7821-af17-15e9b6099a1d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "law-school-for-everyone-contracts",
   title: "Law School for Everyone: Contracts",
   status: "not-started",

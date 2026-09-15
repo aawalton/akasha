@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const musicAsAMirrorOfHistory = {
   id: "019db533-f3a0-72db-baeb-c496441e8ebe",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "music-as-a-mirror-of-history",
   title: "Music as a Mirror of History",
   status: "not-started",

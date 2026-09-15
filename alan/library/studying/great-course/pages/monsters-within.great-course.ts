@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const monstersWithin = {
   id: "019db533-f39f-78b3-b304-b2f44f476574",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "monsters-within",
   title: "Monsters Within ...",
   status: "completed",

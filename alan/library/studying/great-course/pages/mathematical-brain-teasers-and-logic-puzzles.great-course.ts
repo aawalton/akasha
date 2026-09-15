@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const mathematicalBrainTeasersAndLogicPuzzles = {
   id: "019db533-f3a0-72b2-b884-9bcc52d40065",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "mathematical-brain-teasers-and-logic-puzzles",
   title: "Mathematical Brain Teasers and Logic Puzzles",
   status: "not-started",

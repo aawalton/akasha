@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const masteringLinearAlgebraAnIntroductionWithApplications = {
   id: "019db533-f3a0-72b8-813f-c5b80915a220",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "mastering-linear-algebra-an-introduction-with-applications",
   title: "Mastering Linear Algebra: An Introduction with Applications",
   status: "not-started",

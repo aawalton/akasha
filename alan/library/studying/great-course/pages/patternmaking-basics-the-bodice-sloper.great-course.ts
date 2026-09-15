@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const patternmakingBasicsTheBodiceSloper = {
   id: "019db533-f39e-7447-a7ba-b849afdb51e2",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "patternmaking-basics-the-bodice-sloper",
   title: "Patternmaking Basics: The Bodice Sloper",
   status: "completed",

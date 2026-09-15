@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const masteringDifferentialEquationsTheVisualMethod = {
   id: "019db533-f3a0-77f1-86c2-e2136991d5e4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "mastering-differential-equations-the-visual-method",
   title: "Mastering Differential Equations: The Visual Method",
   status: "not-started",

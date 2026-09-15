@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const naturalLawAndHumanNature = {
   id: "019db533-f388-70c0-ad93-0443518b5740",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "natural-law-and-human-nature",
   title: "Natural Law and Human Nature",
   status: "not-started",

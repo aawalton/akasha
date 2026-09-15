@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const lutherGospelLawAndReformation = {
   id: "019db533-f39e-7a31-89dc-14a6a61255ad",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "luther-gospel-law-and-reformation",
   title: "Luther: Gospel, Law, and Reformation",
   status: "not-started",

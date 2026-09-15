@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const mayaToAztecAncientMesoamericaRevealed = {
   id: "019db533-f3a0-70dc-b20e-83be408e8d92",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "maya-to-aztec-ancient-mesoamerica-revealed",
   title: "Maya to Aztec: Ancient Mesoamerica Revealed",
   status: "completed",

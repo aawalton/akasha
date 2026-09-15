@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const learningMedicalTerminology = {
   id: "019db533-f388-704f-b81b-d9266fd58536",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "learning-medical-terminology",
   title: "Learning Medical Terminology",
   status: "not-started",

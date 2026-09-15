@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureComoHacemosQueLaIaSeaMasInteligente = {
   id: "01a06578-6719-7004-b6f3-d49c48cc5227",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-como-hacemos-que-la-ia-sea-mas-inteligente",
   title: "Pilot Lecture: ¿Cómo hacemos que la IA sea más inteligente?",
   status: "not-started",

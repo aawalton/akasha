@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureABriefHistoryOfCuba = {
   id: "019db533-f392-76e7-b150-3cbc37c02c40",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-a-brief-history-of-cuba",
   title: "Pilot Lecture: A Brief History of Cuba",
   status: "completed",

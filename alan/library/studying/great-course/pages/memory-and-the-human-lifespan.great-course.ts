@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const memoryAndTheHumanLifespan = {
   id: "019db533-f3a0-7806-8b6e-0c04502dfb61",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "memory-and-the-human-lifespan",
   title: "Memory and the Human Lifespan",
   status: "not-started",

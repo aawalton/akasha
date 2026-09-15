@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const natureInWatercolorPaintingTrees = {
   id: "019db533-f398-7376-8d64-deb766fd64f5",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "nature-in-watercolor-painting-trees",
   title: "Nature in Watercolor: Painting Trees",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const lifeInOurUniverse = {
   id: "019db533-f39f-72d3-96d3-183e13aa4b0a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "life-in-our-universe",
   title: "Life in Our Universe",
   status: "not-started",

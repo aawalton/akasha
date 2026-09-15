@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureBlackAmericansAndTheRevolutionaryWar = {
   id: "019db533-f3a0-732d-9f60-530d2964ccd4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-black-americans-and-the-revolutionary-war",
   title: "Pilot Lecture: Black Americans and the Revolutionary War",
   status: "completed",

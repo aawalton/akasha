@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const nutritionMadeClear = {
   id: "019db533-f3a0-77bc-a3b7-a62b47a8af1d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "nutrition-made-clear",
   title: "Nutrition Made Clear",
   status: "in-progress",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const learningItalianStepByStepAndRegionByRegion = {
   id: "019db533-f39f-7517-98c5-74ba665cf7fd",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "learning-italian-step-by-step-and-region-by-region",
   title: "Learning Italian: Step by Step and Region by Region",
   status: "completed",

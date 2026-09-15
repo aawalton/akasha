@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const mindBodyPhilosophy = {
   id: "019db533-f3a0-773d-8070-2eab9a2cd090",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "mind-body-philosophy",
   title: "Mind-Body Philosophy",
   status: "not-started",

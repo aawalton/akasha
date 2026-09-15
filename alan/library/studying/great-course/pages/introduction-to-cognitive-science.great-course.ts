@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const introductionToCognitiveScience = {
   id: "019db533-f39f-7293-8b3f-519d3aabb66c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "introduction-to-cognitive-science",
   title: "Introduction to Cognitive Science",
   status: "not-started",

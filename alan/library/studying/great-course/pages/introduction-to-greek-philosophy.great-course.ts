@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const introductionToGreekPhilosophy = {
   id: "019db533-f388-70b4-9c53-a7e0e7212889",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "introduction-to-greek-philosophy",
   title: "Introduction to Greek Philosophy",
   status: "not-started",

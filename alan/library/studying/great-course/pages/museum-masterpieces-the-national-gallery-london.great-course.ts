@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const museumMasterpiecesTheNationalGalleryLondon = {
   id: "019db533-f39f-75a0-ba55-0e9efc2fafbf",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "museum-masterpieces-the-national-gallery-london",
   title: "Museum Masterpieces: The National Gallery, London",
   status: "completed",

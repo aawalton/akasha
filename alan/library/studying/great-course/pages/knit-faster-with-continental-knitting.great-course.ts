@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const knitFasterWithContinentalKnitting = {
   id: "019db533-f39e-75ea-a98a-ea7ae83335d2",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "knit-faster-with-continental-knitting",
   title: "Knit Faster with Continental Knitting",
   status: "completed",

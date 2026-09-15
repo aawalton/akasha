@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureExploringHadrianSWall = {
   id: "019db533-f3a0-70fa-adb1-9d9da721d178",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-exploring-hadrian-s-wall",
   title: "Pilot Lecture: Exploring Hadrian’s Wall",
   status: "completed",

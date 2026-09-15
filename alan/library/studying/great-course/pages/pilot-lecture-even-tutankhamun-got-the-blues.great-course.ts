@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureEvenTutankhamunGotTheBlues = {
   id: "019db533-f3a0-7334-bf3c-8a62b3f89e91",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-even-tutankhamun-got-the-blues",
   title: "Pilot Lecture: Even Tutankhamun Got the Blues",
   status: "completed",

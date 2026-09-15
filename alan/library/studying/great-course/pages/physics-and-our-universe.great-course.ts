@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const physicsAndOurUniverse = {
   id: "019db533-f3a0-72c6-a83c-dc93be4f7623",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "physics-and-our-universe",
   title: "Physics and Our Universe",
   status: "in-progress",

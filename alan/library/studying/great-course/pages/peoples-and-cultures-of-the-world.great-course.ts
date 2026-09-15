@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const peoplesAndCulturesOfTheWorld = {
   id: "019db533-f39f-7933-a5e7-bc34f881af6c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "peoples-and-cultures-of-the-world",
   title: "Peoples and Cultures of the World",
   status: "completed",

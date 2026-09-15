@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const philosophyOfMindBrainsConsciousnessAndThinkingMachines = {
   id: "019db533-f39e-7c2e-8354-f5cf0d7e2220",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "philosophy-of-mind-brains-consciousness-and-thinking-machines",
   title: "Philosophy of Mind: Brains, Consciousness, and Thinking Machines",
   status: "not-started",

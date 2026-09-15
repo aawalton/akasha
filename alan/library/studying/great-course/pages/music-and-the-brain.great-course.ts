@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const musicAndTheBrain = {
   id: "019db533-f3a0-72e9-928a-9e08bb1ee127",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "music-and-the-brain",
   title: "Music and the Brain",
   status: "not-started",

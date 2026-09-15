@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const masterpiecesOfAncientGreekLiterature = {
   id: "019db533-f388-707a-be68-562edc6a8b6f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "masterpieces-of-ancient-greek-literature",
   title: "Masterpieces of Ancient Greek Literature",
   status: "not-started",

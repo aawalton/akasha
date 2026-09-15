@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureHowLongTermDietAffectsYourBrain = {
   id: "019db533-f39f-7214-a570-55d966e9f830",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-how-long-term-diet-affects-your-brain",
   title: "Pilot Lecture: How Long-Term Diet Affects Your Brain",
   status: "completed",

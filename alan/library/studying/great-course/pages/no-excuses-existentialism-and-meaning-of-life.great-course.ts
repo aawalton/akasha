@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const noExcusesExistentialismAndMeaningOfLife = {
   id: "019db533-f39e-7ab3-9b88-dae30dd3c97d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "no-excuses-existentialism-and-meaning-of-life",
   title: "No Excuses: Existentialism and Meaning of Life",
   status: "not-started",

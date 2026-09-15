@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureABriefTourOfWesternAustralia = {
   id: "019db533-f39f-7557-99ca-afacb35b3e1e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-a-brief-tour-of-western-australia",
   title: "Pilot Lecture: A Brief Tour of Western Australia",
   status: "completed",

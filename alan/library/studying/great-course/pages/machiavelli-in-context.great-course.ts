@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const machiavelliInContext = {
   id: "019db533-f388-7067-9fe1-8dc78761deb4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "machiavelli-in-context",
   title: "Machiavelli in Context",
   status: "not-started",

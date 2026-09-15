@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const languageAndSocietyWhatYourSpeechSaysAboutYou = {
   id: "019db533-f39e-7700-9839-4dc597286c47",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "language-and-society-what-your-speech-says-about-you",
   title: "Language and Society: What Your Speech Says About You",
   status: "completed",

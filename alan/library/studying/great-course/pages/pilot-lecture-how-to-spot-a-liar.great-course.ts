@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureHowToSpotALiar = {
   id: "019db533-f39e-7a28-b457-f0930b0e084b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-how-to-spot-a-liar",
   title: "Pilot Lecture: How to Spot a Liar",
   status: "completed",

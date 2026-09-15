@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const persuasionAndPropagandaInAncientRomeCiceroSOratory = {
   id: "019db533-f39f-7d84-9067-f277131defd3",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "persuasion-and-propaganda-in-ancient-rome-cicero-s-oratory",
   title: "Persuasion and Propaganda in Ancient Rome: Cicero's Oratory",
   status: "completed",

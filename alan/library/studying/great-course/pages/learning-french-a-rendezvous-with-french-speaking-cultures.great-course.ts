@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const learningFrenchARendezvousWithFrenchSpeakingCultures = {
   id: "019db533-f39f-75e0-898b-bead596bf1b0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "learning-french-a-rendezvous-with-french-speaking-cultures",
   title: "Learning French: A Rendezvous with French-Speaking Cultures",
   status: "completed",

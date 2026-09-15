@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const introductionToPsychology = {
   id: "019db533-f39f-7308-99dc-622b092fa6b7",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "introduction-to-psychology",
   title: "Introduction to Psychology",
   status: "not-started",

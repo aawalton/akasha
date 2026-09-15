@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const nationalGeographicPolarExplorations = {
   id: "019db533-f39f-74c3-94a7-e1920a323c37",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "national-geographic-polar-explorations",
   title: "National Geographic Polar Explorations",
   status: "completed",

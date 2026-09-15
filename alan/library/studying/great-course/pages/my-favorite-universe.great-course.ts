@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const myFavoriteUniverse = {
   id: "019db533-f39e-7f38-be6b-74b0931e3e7c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "my-favorite-universe",
   title: "My Favorite Universe",
   status: "not-started",

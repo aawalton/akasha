@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureHowTheGlobalEconomyWorks = {
   id: "019db533-f39e-73fa-9671-c22d6e1a1152",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-how-the-global-economy-works",
   title: "Pilot Lecture: How the Global Economy Works",
   status: "completed",

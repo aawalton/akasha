@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const medievalEuropeCrisisAndRenewal = {
   id: "019db533-f388-70d2-a05a-91ffd25cf5e6",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "medieval-europe-crisis-and-renewal",
   title: "Medieval Europe: Crisis and Renewal",
   status: "not-started",

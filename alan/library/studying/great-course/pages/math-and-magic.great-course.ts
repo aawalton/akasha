@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const mathAndMagic = {
   id: "019db533-f3a0-77fc-8ec6-32c4d954d64b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "math-and-magic",
   title: "Math and Magic",
   status: "completed",

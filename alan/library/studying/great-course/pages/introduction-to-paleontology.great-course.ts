@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const introductionToPaleontology = {
   id: "019db533-f39f-72be-9282-c6fced567180",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "introduction-to-paleontology",
   title: "Introduction to Paleontology",
   status: "not-started",

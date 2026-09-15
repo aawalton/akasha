@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const mixedMediaPenInkAndWatercolor = {
   id: "019db533-f39f-7576-8aa1-e0e5a6c75070",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "mixed-media-pen-ink-and-watercolor",
   title: "Mixed Media: Pen, Ink & Watercolor",
   status: "completed",

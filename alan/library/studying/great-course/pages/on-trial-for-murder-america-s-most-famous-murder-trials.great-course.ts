@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const onTrialForMurderAmericaSMostFamousMurderTrials = {
   id: "019db533-f39f-787d-88ce-58124484c223",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "on-trial-for-murder-america-s-most-famous-murder-trials",
   title: "On Trial for Murder: America’s Most Famous Murder Trials",
   status: "not-started",

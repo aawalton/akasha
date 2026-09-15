@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const lifeInTheWorldSOceans = {
   id: "019db533-f39e-7f03-9a10-1bea881526c7",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "life-in-the-world-s-oceans",
   title: "Life in the World's Oceans",
   status: "not-started",

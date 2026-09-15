@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const masterYourPeopleSkills = {
   id: "019db533-f39e-72b8-8e12-e6beb8819693",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "master-your-people-skills",
   title: "Master Your People Skills",
   status: "not-started",

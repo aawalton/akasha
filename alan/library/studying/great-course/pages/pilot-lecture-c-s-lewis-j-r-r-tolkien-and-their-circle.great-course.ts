@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureCSLewisJRRTolkienAndTheirCircle = {
   id: "019db533-f39e-783f-a0d2-f8c36ca9ebb6",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-c-s-lewis-j-r-r-tolkien-and-their-circle",
   title: "Pilot Lecture: C. S. Lewis, J. R. R. Tolkien, and Their Circle",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const nationalGeographicMastersOfPhotography = {
   id: "019db533-f39f-75b6-a2d4-790437d1498a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "national-geographic-masters-of-photography",
   title: "National Geographic Masters of Photography",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const languageAndTheMind = {
   id: "019db533-f39e-7828-8f53-eca4a1a3e830",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "language-and-the-mind",
   title: "Language and the Mind",
   status: "completed",

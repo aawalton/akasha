@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const mastersOfMindfulnessTransformingYourMindAndBody = {
   id: "019db533-f3a0-787b-95f0-d256c29cd94d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "masters-of-mindfulness-transforming-your-mind-and-body",
   title: "Masters of Mindfulness: Transforming Your Mind and Body",
   status: "not-started",

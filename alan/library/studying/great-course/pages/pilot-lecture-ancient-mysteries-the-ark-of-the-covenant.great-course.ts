@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureAncientMysteriesTheArkOfTheCovenant = {
   id: "019db533-f39f-79c8-9fa3-0d233018039c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-ancient-mysteries-the-ark-of-the-covenant",
   title: "Pilot Lecture: Ancient Mysteries - The Ark of the Covenant",
   status: "completed",

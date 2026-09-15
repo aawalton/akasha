@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const learningJapaneseAGatewayIntoCulture = {
   id: "019db533-f39f-750d-b24d-c707924c4fb1",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "learning-japanese-a-gateway-into-culture",
   title: "Learning Japanese: A Gateway into Culture",
   status: "completed",

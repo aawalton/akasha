@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const pilotLectureAlaricTheGothAndTheSackOfRome = {
   id: "019db533-f39f-7d79-9f93-b2c51ce54630",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "pilot-lecture-alaric-the-goth-and-the-sack-of-rome",
   title: "Pilot Lecture: Alaric the Goth and the Sack of Rome",
   status: "completed",

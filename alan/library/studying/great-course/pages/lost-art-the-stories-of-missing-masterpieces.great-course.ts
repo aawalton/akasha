@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const lostArtTheStoriesOfMissingMasterpieces = {
   id: "019db533-f39f-756c-97e0-7b8e073c0a83",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "lost-art-the-stories-of-missing-masterpieces",
   title: "Lost Art: The Stories of Missing Masterpieces",
   status: "completed",

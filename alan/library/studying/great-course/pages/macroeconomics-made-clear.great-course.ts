@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const macroeconomicsMadeClear = {
   id: "019db533-f39e-74aa-876d-2a2a8fadb5c9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "macroeconomics-made-clear",
   title: "Macroeconomics Made Clear",
   status: "not-started",
