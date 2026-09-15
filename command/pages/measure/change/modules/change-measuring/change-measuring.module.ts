@@ -73,5 +73,18 @@ export const changeMeasuring = {
       invariantKind: "invariant-kind/absence",
       statement: "Nothing here writes a row.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "A change's ceilings are read from the page of the change that ran.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement:
+        "A change stating no processor ceiling is drawn with the one every change is held to.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "An apply is no change page and is drawn with no ceiling.",
+    },
   ],
 } as const satisfies Module

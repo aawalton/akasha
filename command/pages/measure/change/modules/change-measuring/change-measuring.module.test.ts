@@ -13,6 +13,7 @@ import {
   spacedOnce,
 } from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import { ALLOWED_CPU } from "akasha/command/modules/change-ceiling/change-ceiling.module.code.ts"
 import {
   costsIn,
   heldIn,
@@ -21,6 +22,7 @@ import {
 import {
   APPLY_AT,
   CHANGE_AT,
+  changeFiled,
   commandFiled,
   lineOf,
   ONE,
@@ -163,6 +165,28 @@ test("the rows are drawn by the rule the check measuring draws its rows by", () 
     "change runs cpu avg wall avg mem avg cpu max wall max mem max cpu lim wall lim mem lim"
   )
   expect(spacedOnce(said[1])).toBe("change-file 1 2.000s 0.000s 0 B 2.000s 0.000s 0 B")
+})
+
+test("a change's ceilings are drawn beside what its runs took", () => {
+  const root = rowsInto(rootFor(), CHANGE_AT, [{ cpuSeconds: 2 }])
+  changeFiled(root, "change-file", { maxCpuSeconds: 30, maxMemoryMb: 1024 })
+
+  const said = linesOf(costsIn(root, NOW, DAY_BACK), "change")
+
+  expect(spacedOnce(said[1])).toBe(
+    "change-file 1 2.000s 0.000s 0 B 2.000s 0.000s 0 B 30.000s 1.0 GiB"
+  )
+})
+
+test("a change stating no processor ceiling is drawn with the one every change is held to", () => {
+  const root = rowsInto(rootFor(), CHANGE_AT, [{ cpuSeconds: 2 }])
+  changeFiled(root, "change-file")
+
+  expect(costsIn(root, NOW, DAY_BACK).checks[0]?.limits).toEqual({
+    cpu: ALLOWED_CPU,
+    wall: null,
+    mem: null,
+  })
 })
 
 test("a row naming the change phase or the apply phase is read, and no other row is", () => {

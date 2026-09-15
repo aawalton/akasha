@@ -1,10 +1,10 @@
-import {
-  agoOf,
-  HOUR,
-} from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
-import { listedFiled } from "akasha/page/index/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { agoOf, HOUR } from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/page/index/modules/filing/index-filing.module.code.ts"
+import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 export const ONE = "01a08071-39a4-7000-9c6b-6cee59d30c10"
 
@@ -17,6 +17,8 @@ const COMMAND = "command"
 const CHANGE_SLUG = "change-draft"
 
 const APPLY_SLUG = "change-apply"
+
+const CHANGED = "change-agent"
 
 export const CHANGE_AT = `command/pages/change/draft/${CHANGE_SLUG}.${COMMAND}`
 
@@ -38,6 +40,18 @@ export function commandFiled(root: string, at: string): string {
   if (slug !== undefined) {
     listedFiled(root, COMMAND, slug, [{ path: `${at}.ts`, id: IDS[slug] }])
   }
+  return root
+}
+
+export function changeFiled(
+  root: string,
+  slug: string,
+  held: Record<string, unknown> = {}
+): string {
+  const path = `change/agent/${slug}/${slug}.${CHANGED}.ts`
+  valueAlsoFiled(root, CHANGED, [
+    { path, value: { id: THREE, pageTypeSlug: CHANGED, slug, ...held } },
+  ])
   return root
 }
 

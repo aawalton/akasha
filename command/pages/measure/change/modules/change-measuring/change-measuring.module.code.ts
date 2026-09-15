@@ -5,7 +5,9 @@ import {
   type Chosen,
   type Costs,
   costOf,
+  type Limits,
   latestOf,
+  NO_LIMITS,
   partsIn,
   type Run,
   rankedOf,
@@ -15,7 +17,14 @@ import {
   underRan,
   withinOf,
 } from "akasha/check/modules/measuring/check-measuring.module.code.ts"
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  cpuAllowedIn,
+  memoryAllowedIn,
+} from "akasha/command/modules/change-ceiling/change-ceiling.module.code.ts"
+import {
+  listedAt,
+  valueByPath,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 export const CHANGE = "change"
 
@@ -24,6 +33,15 @@ const APPLY = "apply"
 const ENTRIES = "entries"
 
 const COMMAND = "command"
+
+const CHANGED = "change-agent"
+
+export function limitsFor(root: string, ran: string): Limits {
+  const one = listedAt(root, CHANGED, ran)[0]
+  if (one === undefined) return NO_LIMITS
+  const value = valueByPath(root, one.path)
+  return { cpu: cpuAllowedIn(value), wall: null, mem: memoryAllowedIn(value) }
+}
 
 const SLUGS: readonly string[] = ["change-draft", "change-apply"]
 
@@ -65,7 +83,7 @@ export function costsIn(root: string, now: number, chosen: Chosen): Costs {
     chosen.by === "period"
       ? withinOf(held, now, chosen.ms)
       : runningOf(held, rankedOf(latestOf(held), chosen.runs))
-  const checks = [...underRan(within)].map(([ran, runs]) => costOf(ran, runs))
+  const checks = [...underRan(within)].map(([ran, runs]) => costOf(ran, runs, limitsFor(root, ran)))
   return {
     checks: [...checks].sort(byCpu),
     total: totalOf(within),
