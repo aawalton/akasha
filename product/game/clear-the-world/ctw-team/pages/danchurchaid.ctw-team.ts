@@ -2,7 +2,7 @@ import type { CtwTeam } from "akasha/product/game/clear-the-world/ctw-team/ctw-t
 
 export const danchurchaid = {
   id: "019dbb6d-6e02-709d-a09b-82d8e68ebabf",
-  type: "ctw-team",
+  type: "page-type/ctw-team",
   slug: "danchurchaid",
   title: "DanChurchAid",
   cellsCleared: 0,

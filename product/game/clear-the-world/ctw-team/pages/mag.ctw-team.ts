@@ -2,7 +2,7 @@ import type { CtwTeam } from "akasha/product/game/clear-the-world/ctw-team/ctw-t
 
 export const mag = {
   id: "019dbb6d-6b73-7eb5-9f90-4c12a7b01529",
-  type: "ctw-team",
+  type: "page-type/ctw-team",
   slug: "mag",
   title: "MAG",
   cellsCleared: 0,
