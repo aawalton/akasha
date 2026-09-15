@@ -2,7 +2,7 @@ import type { WorldQuest } from "akasha/story/world-mechanic/world-quest/world-q
 
 export const legendaryQuest = {
   id: "01a0655a-0688-72f0-8d16-874303f95a54",
-  type: "world-quest",
+  type: "page-type/world-quest",
   slug: "legendary-quest",
   title: "Legendary Quest",
   world: "world/the-wandering-inn",
