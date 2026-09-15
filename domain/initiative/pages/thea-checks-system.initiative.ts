@@ -15,18 +15,13 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "44 refusals at cb9b6bfce10. What narrows without a decision is narrowed as it arrives: an export no other file names loses the keyword, and a helper a faster caller replaced goes. What is left is held rather than open, since a module dead whole is a feature leaving and Alan settles those, and a value meant to be called that never got wired up is repaired rather than removed.",
+        "What narrows without a decision is narrowed as it arrives: an export no other file names loses the keyword, and a helper a faster caller replaced goes. A value only a test names is filed as a test fixture where it can move; a seam reaching module state cannot move, so the state is restructured instead. A module dead whole is a feature leaving and Alan settles those. The check passes over a file committed inside the last day, so new work is not judged before it is wired up.",
     },
 
     {
       statement: "No arm of the codebase is built and reached by nothing.",
       workingMemory:
         "Alan is taking these one at a time. Lately gone: the seat pendency verdict, the reaper's redaction half, the supervisor's rebind-on-rotation path, green-day points, the ESO companion build search, the page-type writers and every guard that served them, the guard against a test writing into his own checkout, the wholesale uncommitted write, and the guards on a total nothing totals. He wants the generic write path able to write a page-type page.",
-    },
-    {
-      statement: "Every uncommitted body beside a page exports the name that page's writer makes.",
-      workingMemory:
-        "6 `service-workstation` bodies still carry export names from before that page type was renamed. `page/modules/uncommitted/page-uncommitted.module.code.ts` makes the name a writer uses now. Each is rewritten the next time its service writes, and most of the 24 first seen have cleared themselves that way.",
     },
   ],
   constraints: [
