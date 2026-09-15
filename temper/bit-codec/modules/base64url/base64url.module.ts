@@ -8,19 +8,19 @@ export const base64url = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Three bytes are written as four characters.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A last group short of three bytes is written without padding.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The last two characters of the alphabet are the hyphen and the underscore.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character outside the alphabet is read as zero.",
     },
   ],

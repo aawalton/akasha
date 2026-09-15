@@ -8,15 +8,15 @@ export const characterSkills80 = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This table is written out from the skill pages rather than by hand.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "These entries are one unbroken run of the whole table's order.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "An entry moved between runs breaks every build hash saved.",
     },
   ],

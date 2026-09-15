@@ -8,20 +8,20 @@ export const dataminingQuestMiner = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Quest ids are mined in batches rather than in one run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quest id the game names nothing for is counted as a miss.",
     },
 
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A quest has the name of the zone the quest sits in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A generation count makes stopped mining drop its own queued batch.",
     },
   ],

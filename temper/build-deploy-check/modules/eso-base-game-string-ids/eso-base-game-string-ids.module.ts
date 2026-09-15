@@ -8,19 +8,19 @@ export const esoBaseGameStringIds = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A string id absent here is a string id the base game does not provide.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This census states the clone version the census was read from.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "This census states the command that reads the census again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The runs with the ids are divided only to keep each file under the ceiling.",
     },
   ],

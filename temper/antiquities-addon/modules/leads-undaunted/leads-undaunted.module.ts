@@ -8,7 +8,7 @@ export const leadsUndaunted = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The pledge tracker is optional and its absence is not an error.",
     },
   ],

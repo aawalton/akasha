@@ -8,12 +8,12 @@ export const buildRow = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A row carries the metadata its own caller parses rather than a metadata of its own.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field that does not parse takes the empty value its type has.",
     },
   ],

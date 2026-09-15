@@ -8,15 +8,15 @@ export const buildVisibility = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character build and a companion build are visible in the same ways.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A stored word naming no visibility is read as private.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "`live` and `target` are visibilities a player never sets directly.",
     },
   ],

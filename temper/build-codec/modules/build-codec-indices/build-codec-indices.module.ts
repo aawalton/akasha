@@ -9,7 +9,7 @@ export const buildCodecIndices = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An id these tables do not carry stops the write rather than taking a number.",
     },
   ],

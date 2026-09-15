@@ -8,11 +8,11 @@ export const leadsZoneName = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A lead spanning two zones is shown under both names joined.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A zone the game has no id for is named here rather than by the game.",
     },
   ],

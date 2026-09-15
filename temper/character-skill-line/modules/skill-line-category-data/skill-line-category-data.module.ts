@@ -8,7 +8,7 @@ export const skillLineCategoryData = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code is written out from the skill-line-category pages rather than by hand.",
     },
   ],

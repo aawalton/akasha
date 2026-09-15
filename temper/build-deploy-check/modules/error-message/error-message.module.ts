@@ -8,7 +8,7 @@ export const errorMessage = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A thrown value that renders to nothing still answers with a message.",
     },
   ],

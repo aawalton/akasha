@@ -8,19 +8,19 @@ export const addonGlobalOwnership = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Assigning to a global table is a write of that name.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Reading a global table is no write.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A local bound at any depth to a global table is a global table.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A write is read off the syntax rather than off a run.",
     },
   ],

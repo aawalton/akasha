@@ -8,7 +8,7 @@ export const addonRosterGuard = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A scan over an empty roster reports clean without having looked at anything.",
     },
   ],

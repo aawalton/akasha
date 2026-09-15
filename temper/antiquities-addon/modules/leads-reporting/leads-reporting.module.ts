@@ -8,11 +8,11 @@ export const leadsReporting = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A location is sent to an external site rather than kept here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The player consents to the browser opening before anything is sent.",
     },
   ],

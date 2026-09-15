@@ -8,11 +8,11 @@ export const leadsToggle = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The sweep runs only while the window is hidden and about to be shown.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The zone and set menus are filled from the first sweep alone.",
     },
   ],

@@ -9,24 +9,24 @@ export const checkAddonSandboxLoad = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The population the run states is the emitted bundles under the build output.",
     },
 
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An empty base-game string-id census ends the run rather than passing the run.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every bundle gets a sandbox of the bundle's own.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A failing run names the build command and the call that runs one bundle alone.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "That call is the file running rather than a path spelled here.",
     },
   ],

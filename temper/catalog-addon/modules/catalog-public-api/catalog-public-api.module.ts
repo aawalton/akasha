@@ -8,11 +8,11 @@ export const catalogPublicApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global is named for the addon.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global has the one reader and nothing more.",
     },
   ],

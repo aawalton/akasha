@@ -8,15 +8,15 @@ export const errorsDescriptor = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game saves the add-on under the name `TemperErrors_SavedVariables`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The defaults have an empty list of entries.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No load time is kept.",
     },
   ],

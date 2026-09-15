@@ -8,23 +8,23 @@ export const addonSandboxLoad = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A bundle that failed to load reports the bundle's state when the load ran.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A traceback longer than ten lines is shortened and says how many lines went.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A string id an add-on's markup consumes at load is asserted registered.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A string id the base game provides is left out of that assertion.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A recorder absent from the sandbox fails the assertion rather than passing.",
     },
   ],

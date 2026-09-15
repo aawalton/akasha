@@ -8,15 +8,15 @@ export const bitReader = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bits come out from the most significant end.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A read reaching past the last byte gives back the bits already gathered.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "How far the reading has got is kept in the reader.",
     },
   ],

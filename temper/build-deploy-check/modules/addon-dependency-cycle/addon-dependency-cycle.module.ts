@@ -8,15 +8,15 @@ export const addonDependencyCycle = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A cycle the search reaches a second time is reported once.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A cycle is named from its alphabetically first member.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An edge to an add-on outside the roster is no edge.",
     },
   ],

@@ -8,23 +8,23 @@ export const addonBannedSymbols = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A manifest yielding no banned construct refuses to load rather than scanning.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A symbol inside a string literal is masked before the line is scanned.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A matched namespace with no allow-set in the manifest throws.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A member the manifest allows on a partial namespace is no finding.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every finding names which family of the manifest the symbol was matched by.",
     },
   ],

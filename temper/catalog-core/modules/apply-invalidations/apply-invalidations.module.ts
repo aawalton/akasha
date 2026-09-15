@@ -10,19 +10,19 @@ export const applyInvalidations = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An invalidation no newer than the last invalidation seen changes nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An empty domain list asks for every domain again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A named domain the payload does not have is ignored.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Applying an invalidation marks the catalog incomplete.",
     },
   ],

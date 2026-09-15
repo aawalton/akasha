@@ -8,15 +8,15 @@ export const deployableAddons = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The addons are answered in the order their canonical names sort.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A roster handed in is taken as the answer to which addons the repository has.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges whether an addon is fit to deploy.",
     },
   ],

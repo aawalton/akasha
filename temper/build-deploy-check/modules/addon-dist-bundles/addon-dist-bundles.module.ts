@@ -8,15 +8,15 @@ export const addonDistBundles = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A build output that is no directory is an empty population rather than an error.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A gate finding no bundle refuses rather than certifying the add-ons clean.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The refusal names the build command that would fill the population.",
     },
   ],

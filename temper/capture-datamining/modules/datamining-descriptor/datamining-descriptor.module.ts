@@ -8,19 +8,19 @@ export const dataminingDescriptor = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game saves the add-on under the name `TemperDataMining_SavedVariables`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The defaults name no field.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The sweep fills each field as the sweep runs.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No load time is kept.",
     },
   ],

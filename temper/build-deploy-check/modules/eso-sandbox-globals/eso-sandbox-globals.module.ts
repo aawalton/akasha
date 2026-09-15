@@ -8,19 +8,19 @@ export const esoSandboxGlobals = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A stub answers every property reach with a stub of the stub's own.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A stub reached twice under one name answers with the same stub both times.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A stub answers no promise.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A load seeds only the game names a bundle reads at load time.",
     },
   ],

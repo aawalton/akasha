@@ -8,11 +8,11 @@ export const catalogAutoCollect = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Nothing missing means the catalog is marked complete without any collector run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game version is written back only once the run is over.",
     },
   ],

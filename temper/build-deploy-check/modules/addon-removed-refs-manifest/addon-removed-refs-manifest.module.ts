@@ -8,11 +8,11 @@ export const addonRemovedRefsManifest = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every global named here states the add-on the global belonged to.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every global named here states the remedy that took the removed add-on's place.",
     },
   ],

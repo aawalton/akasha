@@ -8,15 +8,15 @@ export const catalogConstants = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The name here is the name the game loads the add-on under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The start delay leaves the game time to settle before the first collector runs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collector answering nothing within the timeout is given up on.",
     },
   ],

@@ -8,11 +8,11 @@ export const skillLines = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A skill line's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A skill line moved to another place breaks every build hash saved.",
     },
   ],

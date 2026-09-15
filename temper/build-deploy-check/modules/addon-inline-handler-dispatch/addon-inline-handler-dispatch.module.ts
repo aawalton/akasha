@@ -8,23 +8,23 @@ export const addonInlineHandlerDispatch = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A body naming no governed namespace is not judged.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A body mentioning the namespace a second time is no single dispatch.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A body with anything after the closing bracket is no single dispatch.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A body starting anywhere but at the namespace is no single dispatch.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A handler whose body is blank is not judged.",
     },
   ],

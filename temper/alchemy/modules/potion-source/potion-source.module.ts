@@ -8,11 +8,11 @@ export const potionSource = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A potion's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A potion moved to another place breaks every build hash saved.",
     },
   ],

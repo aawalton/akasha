@@ -8,24 +8,24 @@ export const dataminingPayload = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A mined item is held under the item id the game gave the item.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A mined quest is held under the quest id the game gave the quest.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The sweep's own progress rides in the payload the sweep fills.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "The item sweep and the quest sweep each keep progress apart from the other sweep.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here has code that runs.",
     },
   ],

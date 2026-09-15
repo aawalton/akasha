@@ -8,16 +8,16 @@ export const checkAddonRemovedRefs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The population the run states is the emitted bundles under the build output.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A bundle examined is a bundle whose text was read.",
     },
 
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A bundle no longer on disk is skipped rather than counted as examined.",
     },
   ],

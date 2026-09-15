@@ -8,11 +8,11 @@ export const potionsCrafted = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A crafted potion's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A crafted potion moved to another place breaks every build hash saved.",
     },
   ],

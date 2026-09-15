@@ -8,11 +8,11 @@ export const antiquitiesAddonGlobal = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Another add-on reaches this add-on through the global rather than an import.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global has the add-on's name and version and nothing else.",
     },
   ],

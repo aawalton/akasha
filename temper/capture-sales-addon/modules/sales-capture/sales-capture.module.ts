@@ -8,19 +8,19 @@ export const salesCapture = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sale is recorded only where the seller is the player.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A sale is keyed by the guild history event id of that sale.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Sales are read from the trader category of every guild the player belongs to.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The event stream is reached through LibHistoire.",
     },
   ],

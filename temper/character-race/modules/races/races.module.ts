@@ -8,15 +8,15 @@ export const races = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "This code is written out from the race pages rather than by hand.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A race's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A race moved to another place breaks every build hash saved.",
     },
   ],

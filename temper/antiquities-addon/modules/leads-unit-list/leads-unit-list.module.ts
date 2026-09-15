@@ -8,7 +8,7 @@ export const leadsUnitList = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The row this list draws is a virtual control the markup declares.",
     },
   ],

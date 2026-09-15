@@ -8,11 +8,11 @@ export const equipmentMappings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A game constant the tables do not name is packed as zero.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An index here is part of the wire format and never renumbered.",
     },
   ],

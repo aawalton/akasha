@@ -8,16 +8,16 @@ export const leadsGlobal = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A key on the global table is spelled as the markup that calls the key spells the key.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key keeps the spelling that key had before this add-on came into akasha.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The function a key is bound to is named as akasha names a function.",
     },
   ],

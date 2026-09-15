@@ -8,7 +8,7 @@ export const leadsZones = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An invented zone id sits above the highest id the game itself uses.",
     },
   ],

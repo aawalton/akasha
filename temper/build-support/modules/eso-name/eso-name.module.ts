@@ -8,11 +8,11 @@ export const esoName = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A suffix the game wrote after a caret is cut from the end of the name.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A caret anywhere but the end of the name is left alone.",
     },
   ],

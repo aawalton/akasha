@@ -8,23 +8,23 @@ export const addonOrphanXmlHandler = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An add-on publishing no global namespace has no handler judged.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A handler inside a markup comment is no handler.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A handler whose body is blank is not judged.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A non-blank `OnUpdate` naming a published namespace is a finding of its own.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A member written onto any object anywhere in the add-on counts as defined.",
     },
   ],

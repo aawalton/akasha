@@ -8,15 +8,15 @@ export const confirmSetTarget = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A confirmation with no entity waiting sets no target.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The entity stops waiting before the target is set.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A target whose arguments could not be worked out is left unset.",
     },
   ],

@@ -8,20 +8,20 @@ export const automationSettings = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "A toggle set on one character outranks the same toggle set across all characters.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A toggle set nowhere is off.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A character has a toggle for each crafting writ the game gives out.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A companion has fewer toggles than a character.",
     },
   ],

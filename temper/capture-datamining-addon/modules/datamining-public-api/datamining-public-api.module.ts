@@ -8,11 +8,11 @@ export const dataminingPublicApi = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global is named for the addon.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The global carries the way to the saved variables and nothing more.",
     },
   ],

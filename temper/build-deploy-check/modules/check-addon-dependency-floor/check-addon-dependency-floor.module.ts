@@ -8,15 +8,15 @@ export const checkAddonDependencyFloor = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The population the run states is the add-ons on the roster.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "An add-on examined is an add-on whose manifest was read.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The add-ons the run declined to judge are reported beside the add-ons the run judged.",
     },

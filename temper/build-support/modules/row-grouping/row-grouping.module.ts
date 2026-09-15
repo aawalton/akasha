@@ -8,19 +8,19 @@ export const rowGrouping = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key is written out as text before a row is filed under that key.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A row the key extractor answers nothing for is left out of the counts.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The counts keep the order each key was first met in.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The later of two rows sharing a key is the row filed under that key.",
     },
   ],

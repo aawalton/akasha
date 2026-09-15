@@ -9,15 +9,15 @@ export const catalogDescriptor = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The defaults name every field the payload has.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game saves the add-on under the name `TemperCatalog_SavedVariables`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A load time is kept.",
     },
   ],

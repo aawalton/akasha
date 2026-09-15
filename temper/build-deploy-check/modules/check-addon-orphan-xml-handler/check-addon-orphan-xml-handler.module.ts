@@ -8,20 +8,20 @@ export const checkAddonOrphanXmlHandler = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The population the run states is the code and the markup the roster's add-ons hold.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Markup held by an add-on publishing no namespace is counted and left unexamined.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A member defined only in a machine-written file reads here as defined nowhere.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "The population the run left unexamined is reported beside the population the run examined.",
     },

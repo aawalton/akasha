@@ -8,23 +8,23 @@ export const checkAddonHookEagerCapture = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The population the run states is the code the roster's add-ons hold.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A field is deferred when the field is published from inside a function body.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A deferred field an add-on's own file assigns at load is not judged.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A name a closure declares of its own shadows the capture and is not judged.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The files the run declined to read are reported beside the files the run read.",
     },
   ],

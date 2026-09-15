@@ -8,11 +8,11 @@ export const catalogInvalidations = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A request no newer than the last request seen changes nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The version applied is written back so the same request is not applied twice.",
     },
   ],

@@ -8,15 +8,15 @@ export const catalogApiTest = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A game call is made inside a protected call so a missing name is caught.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An answer of zero is a failure.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every group is tried before anything is printed.",
     },
   ],

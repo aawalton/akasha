@@ -8,15 +8,15 @@ export const bitWriter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A value wider than the bits asked for is masked down.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The bits go in from the most significant end.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A part-filled last byte is padded on the right at the close.",
     },
   ],

@@ -8,16 +8,16 @@ export const catalogCommand = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement:
         "Clearing a catalog marks the whole set incomplete so the next login refills the set.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A domain name the add-on does not carry clears nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A clear naming no target lists the domains the last run skipped.",
     },
   ],

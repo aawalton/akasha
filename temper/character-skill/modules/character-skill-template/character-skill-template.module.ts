@@ -8,7 +8,7 @@ export const characterSkillTemplate = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A skill row names one skill line and one skill type.",
     },
   ],

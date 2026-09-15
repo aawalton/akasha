@@ -8,7 +8,7 @@ export const raceSource = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The empty choice is first among the race sources.",
     },
   ],

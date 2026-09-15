@@ -8,15 +8,15 @@ export const bundleFileScan = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A bundle is read as UTF-8.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The path a bundle was read from is the file name each finding carries.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here judges what a scanner found.",
     },
   ],

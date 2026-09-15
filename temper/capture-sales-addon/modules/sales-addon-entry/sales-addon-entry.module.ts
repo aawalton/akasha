@@ -8,11 +8,11 @@ export const salesAddonEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The saved variables have the account name the sales were captured under.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Capture begins once the writer has handed over its saved variables.",
     },
   ],

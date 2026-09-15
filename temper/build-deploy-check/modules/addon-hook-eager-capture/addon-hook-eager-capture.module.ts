@@ -8,23 +8,23 @@ export const addonHookEagerCapture = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A field read off a name the file declares of its own is no ambient read.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A capture the closure itself declares again is not the outer capture.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A capture read but never called inside the closure is not judged.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A closure declared inside the capture's own extent is not judged.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The hook installers recognised are named in the code rather than worked out.",
     },
   ],

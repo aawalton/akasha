@@ -8,15 +8,15 @@ export const salesDescriptor = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The game saves the add-on under the name `TemperSales_SavedVariables`.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The defaults have no sale.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No load time is kept.",
     },
   ],

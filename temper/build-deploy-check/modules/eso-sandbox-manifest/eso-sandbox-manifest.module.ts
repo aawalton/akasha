@@ -8,15 +8,15 @@ export const esoSandboxManifest = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A namespace named as wholly stripped names no member the sandbox keeps.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A member absent from its namespace's list is a member the sandbox took away.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "This list is read off the game rather than derived from anything here.",
     },
   ],

@@ -8,19 +8,19 @@ export const runBatched = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The caller says how many items go in a batch and how long to wait between.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The wait is asked of the game's own later-caller.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The first batch is done before the caller gets control back.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The closing callback runs once the last item is done.",
     },
   ],

@@ -8,28 +8,28 @@ export const cliArgs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A flag the shape does not declare is refused rather than admitted.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement:
         "A refused flag close in spelling to a declared flag is answered with the declared flag named.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A flag declared boolean takes no value.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A flag declared required and left unsaid refuses the whole line.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A flag name is said on the line in kebab case and read back in camel case.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A line naming no single file, or no line this shape reads, is one file of none.",
     },
   ],

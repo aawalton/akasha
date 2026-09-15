@@ -9,19 +9,19 @@ export const catalogSideFileConfig = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A payload of the wrong shape is refused whole rather than read in part.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A version at or below zero asks for nothing.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "An absent domain list is read as asking for every domain again.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A domain list holding anything but text refuses the whole payload.",
     },
   ],

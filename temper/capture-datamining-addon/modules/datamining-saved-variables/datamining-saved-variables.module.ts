@@ -8,11 +8,11 @@ export const dataminingSavedVariables = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The capture writer hands this module the way in as the addon initializes.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A read before the capture writer has run is refused.",
     },
   ],

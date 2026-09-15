@@ -8,11 +8,11 @@ export const libraryLogger = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A library naming no loaded log library raises the identifier it asked under.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "LibDebugLogger is loaded before the library asking for a log.",
     },
   ],

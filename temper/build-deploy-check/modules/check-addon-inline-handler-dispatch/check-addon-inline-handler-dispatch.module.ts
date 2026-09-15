@@ -8,19 +8,19 @@ export const checkAddonInlineHandlerDispatch = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The population the run states is the markup the roster's add-ons hold.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Markup a build wrote is counted and left unjudged.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A run judging no markup still says how much markup the add-ons held.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "The run names every namespace the run governs.",
     },
   ],

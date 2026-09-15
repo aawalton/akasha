@@ -8,19 +8,19 @@ export const catalogEntry = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The order the nineteen collectors are imported in is the collection order.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The saved table is reachable only after the capture writer hands the table over.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A side file request is applied before any collector is offered a run.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The first collection waits for the player rather than for the add-on load.",
     },
   ],

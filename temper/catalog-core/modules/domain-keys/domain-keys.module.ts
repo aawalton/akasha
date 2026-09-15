@@ -8,15 +8,15 @@ export const domainKeys = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The key list is checked against the payload where the compiler runs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A metadata field of the payload is named by no key here.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A key here is a field of the payload of the same name.",
     },
   ],

@@ -8,11 +8,11 @@ export const championPointSource = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A champion star's place in this table is the index a build hash has.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "invariant-kind/gap",
       statement: "A champion star moved to another place breaks every build hash saved.",
     },
   ],

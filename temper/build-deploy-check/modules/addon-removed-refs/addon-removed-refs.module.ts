@@ -8,15 +8,15 @@ export const addonRemovedRefs = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A reference inside a string literal is masked before the line is scanned.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every finding names the add-on the global belonged to and the remedy.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A global is matched whole rather than as part of a longer name.",
     },
   ],

@@ -8,19 +8,19 @@ export const captureWriter = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The saved table is made up once the game says the add-on has loaded.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The caller's own setup runs after the saved table is made up.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A load time is measured only where the descriptor asks for a load time.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A measured load time is kept in the saved table beside the capture.",
     },
   ],

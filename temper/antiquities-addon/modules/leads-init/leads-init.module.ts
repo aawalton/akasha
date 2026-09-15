@@ -8,11 +8,11 @@ export const leadsInit = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "The window is built hidden and shown only when asked for.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "Every control reached here is declared by the markup rather than by code.",
     },
   ],

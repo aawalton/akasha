@@ -8,15 +8,15 @@ export const catalogCollectAdapters = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A collector is called inside the game's protected call so a fault is caught.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A fault that is no text is reported under one fixed sentence.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A run leaving no skips clears the skips rather than leaving the old ones.",
     },
   ],

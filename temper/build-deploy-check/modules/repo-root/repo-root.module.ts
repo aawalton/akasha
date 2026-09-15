@@ -8,15 +8,15 @@ export const repoRoot = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A checkout nobody named is refused rather than worked out.",
     },
     {
-      invariantKind: "constraint",
+      invariantKind: "invariant-kind/constraint",
       statement: "A named directory with no lockfile is no checkout of the code repository.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "No root is derived from where this file itself sits.",
     },
   ],

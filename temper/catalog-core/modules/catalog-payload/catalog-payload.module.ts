@@ -8,15 +8,15 @@ export const catalogPayload = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "A field name here is the name the add-on writes into the saved variables.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "invariant-kind/departure",
       statement: "Every catalog field is empty until that catalog is collected.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "invariant-kind/absence",
       statement: "Nothing here has code that runs.",
     },
   ],
