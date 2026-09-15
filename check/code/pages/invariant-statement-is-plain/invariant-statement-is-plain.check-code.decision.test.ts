@@ -3,7 +3,6 @@ import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   found,
-  marked,
   splitAt,
   statementsIn,
 } from "akasha/check/code/pages/invariant-statement-is-plain/invariant-statement-is-plain.check-code.decision.code.ts"
@@ -41,9 +40,9 @@ test("a page carrying no invariant is let through", async () => {
   expect(await judged('export const held = { slug: "held" }\n')).toEqual([])
 })
 
-test("one sentence carrying no mark of its own is let through", () => {
+test("one sentence carrying no mark of its own is let through", async () => {
   const body = paged(JSON.stringify("A slug becomes a page's export name."))
-  expect(marked(AT, body)).toEqual([])
+  expect(await judged(body)).toEqual([])
 })
 
 test("a statement giving its reason is refused and the clause saying why is named", async () => {
@@ -210,13 +209,13 @@ test("a statement no reading can settle is passed over rather than guessed at", 
   expect(statementsIn(AT, body)).toEqual([])
 })
 
-test("every invariant a page carries is reported and not only the first", () => {
+test("every invariant a page carries is reported and not only the first", async () => {
   const body = paged(
     JSON.stringify("A page is named because the slug says so."),
     JSON.stringify("A page is named, so the slug says it."),
     JSON.stringify("A page is named for its slug.")
   )
-  expect(marked(AT, body)).toHaveLength(2)
+  expect(await judged(body)).toHaveLength(2)
 })
 
 test("the check refuses neither of its own code files though each spells the words it refuses", async () => {
