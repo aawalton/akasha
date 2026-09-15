@@ -40,10 +40,10 @@ const FORMS = `\`${LAST} <count>\` names runs and \`${LAST} <count>{m|h|d}\` nam
 const HEADED: readonly string[] = [
   "runs",
   "cpu avg",
-  "cpu max",
   "wall avg",
-  "wall max",
   "mem avg",
+  "cpu max",
+  "wall max",
   "mem max",
 ]
 
@@ -408,10 +408,10 @@ function rowOf(one: CheckCost): readonly string[] {
     one.check,
     String(one.runs),
     saidAs(one.cpu, secondsAs),
-    saidAs(one.cpuMost, secondsAs),
     saidAs(one.wall, secondsAs),
-    saidAs(one.wallMost, secondsAs),
     saidAs(one.mem, bytesAs),
+    saidAs(one.cpuMost, secondsAs),
+    saidAs(one.wallMost, secondsAs),
     saidAs(one.memMost, bytesAs),
   ]
 }
@@ -421,10 +421,10 @@ function totalRowOf(total: Total): readonly string[] {
     TOTAL,
     String(total.runs),
     saidAs(total.cpu, secondsAs),
-    saidAs(total.cpuMost, secondsAs),
     saidAs(total.wall, secondsAs),
-    saidAs(total.wallMost, secondsAs),
     ABSENT,
+    saidAs(total.cpuMost, secondsAs),
+    saidAs(total.wallMost, secondsAs),
     saidAs(total.memMost, bytesAs),
   ]
 }

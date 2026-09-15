@@ -258,7 +258,7 @@ test("the total sits beneath the table with its average memory drawn absent", ()
   })
 
   expect(spacedOnce(said[2])).toBe("")
-  expect(spacedOnce(said[3])).toBe("total 1 2.000s 3.000s 4.000s 5.000s - 2.0 KiB")
+  expect(spacedOnce(said[3])).toBe("total 1 2.000s 4.000s - 3.000s 5.000s 2.0 KiB")
 })
 
 test("how many runs a check holds is counted beside its averages", () => {
@@ -304,8 +304,8 @@ test("the table carries one set of columns for the group read", () => {
   const cost = costOf("one", runsOf([{ phase: "change", cpuSeconds: 0 }]))
   const said = linesOf(costsOf([cost]))
 
-  expect(spacedOnce(said[0])).toBe("check runs cpu avg cpu max wall avg wall max mem avg mem max")
-  expect(spacedOnce(said[1])).toBe("one 1 0.000s 0.000s 0.000s 0.000s 0 B 0 B")
+  expect(spacedOnce(said[0])).toBe("check runs cpu avg wall avg mem avg cpu max wall max mem max")
+  expect(spacedOnce(said[1])).toBe("one 1 0.000s 0.000s 0 B 0.000s 0.000s 0 B")
 })
 
 test("every measure is said as an average and as the most any one run took", () => {

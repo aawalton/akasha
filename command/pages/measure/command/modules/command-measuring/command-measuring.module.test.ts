@@ -142,6 +142,6 @@ test("the rows are drawn by the rule the check measuring draws its rows by", () 
 
   const said = linesOf(costsIn(root, NOW, LAST_ONE), "command")
 
-  expect(spacedOnce(said[0])).toBe("command runs cpu avg cpu max wall avg wall max mem avg mem max")
-  expect(spacedOnce(said[1])).toBe("read 1 1.000s 1.000s 0.000s 0.000s 0 B 0 B")
+  expect(spacedOnce(said[0])).toBe("command runs cpu avg wall avg mem avg cpu max wall max mem max")
+  expect(spacedOnce(said[1])).toBe("read 1 1.000s 0.000s 0 B 1.000s 0.000s 0 B")
 })

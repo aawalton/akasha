@@ -259,5 +259,9 @@ export const checkMeasuring = {
       statement:
         "The most time the total says is what one whole run took rather than what one record took.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The averages are drawn together and the maximums after them.",
+    },
   ],
 } as const satisfies Module
