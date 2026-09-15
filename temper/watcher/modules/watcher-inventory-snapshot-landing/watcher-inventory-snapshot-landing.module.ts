@@ -2,7 +2,7 @@ import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
 export const watcherInventorySnapshotLanding = {
   id: "01a0a65d-ef8f-7a9e-b659-47f2639b391a",
-  type: "module",
+  type: "page-type/module",
   slug: "watcher-inventory-snapshot-landing",
   definition: "the page a scan is filed as, and the scan's own data file beside it",
   code: "ts",
