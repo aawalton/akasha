@@ -8,10 +8,8 @@ import {
   reasonsIn,
 } from "akasha/check/code/pages/check-reaches-a-path-through-the-index/check-reaches-a-path-through-the-index.check-code.decision.code.ts"
 import {
-  type Body,
-  FILES,
+  filesBy,
   judgingEach,
-  type Selector,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import { textIn } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
@@ -93,11 +91,7 @@ function namingFor(shadow: Shadow): Naming {
   return made
 }
 
-const PAGE_FILES: Selector<Body> = {
-  named: "the files a page holds",
-  isInput: (path, shadow) => judgedFor(shadow)(path),
-  from: (change, shadow) => FILES.from(change, shadow).filter((one) => judgedFor(shadow)(one.path)),
-}
+const PAGE_FILES = filesBy("the files a page holds", (path, shadow) => judgedFor(shadow)(path))
 
 export const checkReachesAPathThroughTheIndex = judgingEach(PAGE_FILES, (given, shadow) =>
   reasonsIn(reachingFor(shadow), namingFor(shadow), given.path, textIn(given.bytes))
