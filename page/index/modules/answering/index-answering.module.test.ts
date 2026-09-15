@@ -53,7 +53,7 @@ const HELD_AT = "akasha/held/held.module.ts"
 
 const HELD_ID = "01a04a4a-0000-7000-8000-00000000000a"
 
-const TYPE_AT = "akasha/module/module.page-type.ts"
+const TYPE_AT = "akasha/held/module.page-type.ts"
 
 const TYPE_ID = "01a04a4a-0000-7000-8000-00000000000b"
 
