@@ -1,10 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import { pageTypeRestated } from "akasha/change/modules/page-type-restating/page-type-restating.module.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const AT = "one/kept.one-thing.ts"
 
@@ -50,7 +47,7 @@ test("each passage is answered as a replace rather than reached for", () => {
   expect(passages[2]).toEqual({
     at: AT,
     old: `pageTypeSlug: "one-thing"`,
-    new: `pageTypeSlug: "two-thing"`,
+    new: `pageTypeSlug: "page-type/two-thing"`,
   })
 })
 
@@ -74,8 +71,8 @@ export const kept = {
       new: `import type { TwoThing } from "akasha/two/two-thing.page-type.ts"`,
     },
     { at: AT, old: "satisfies OneThing", new: "satisfies TwoThing" },
-    { at: AT, old: `pageTypeSlug: "one-thing"`, new: `pageTypeSlug: "two-thing"` },
-    { at: AT, old: `type: "one-thing"`, new: `type: "two-thing"` },
+    { at: AT, old: `pageTypeSlug: "one-thing"`, new: `pageTypeSlug: "page-type/two-thing"` },
+    { at: AT, old: `type: "one-thing"`, new: `type: "page-type/two-thing"` },
   ])
 })
 

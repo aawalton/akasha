@@ -1,11 +1,15 @@
 import { refusing, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { FileChange, Said } from "akasha/change/modules/answer/change-answer.module.types.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { importedFrom } from "akasha/page/modules/body/page-body.module.code.ts"
 import { typedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const TYPE_KEY = "type"
+
+const PAGE_TYPE = "page-type"
 
 const STATED = /^ {2}(type|pageTypeSlug): "([^"]*)",$/gm
 
@@ -36,7 +40,7 @@ function passagesFor(
 ): readonly (readonly [string, string])[] {
   return [
     [line, imported],
-    [`satisfies ${typedAs(was)}`, `satisfies ${typedAs(now)}`],
+    [`satisfies ${typedAs(slugOf(was))}`, `satisfies ${typedAs(slugOf(now))}`],
     ...keys.map(
       (key) => [`${key}: ${JSON.stringify(was)}`, `${key}: ${JSON.stringify(now)}`] as const
     ),
@@ -62,10 +66,10 @@ export function pageTypeRestated(world: World, given: Asked): Said {
   }
   const was = first[2] ?? ""
   const keys = stated.filter((one) => one[2] === was).map((one) => one[1] ?? TYPE_KEY)
-  if (was === type.slug) {
+  if (slugOf(was) === type.slug) {
     return refusing(`\`${was}\` is the page type the body states already`)
   }
-  const name = typedAs(was)
+  const name = typedAs(slugOf(was))
   const line = importingFor(name).exec(text)
   if (line === null) {
     return refusing(
@@ -77,7 +81,8 @@ export function pageTypeRestated(world: World, given: Asked): Said {
   const spelled = importedFrom(declaring)
   const imported = `import type { ${typedAs(type.slug)} } from ${JSON.stringify(spelled)}`
   const carried: FileChange[] = []
-  for (const [old, next] of passagesFor(was, type.slug, line[0], imported, keys)) {
+  const now = namedAs(PAGE_TYPE, type.slug, null)
+  for (const [old, next] of passagesFor(was, now, line[0], imported, keys)) {
     carried.push({ kind: "replace", path: given.at, contentFrom: old, contentTo: next })
   }
   return stating(carried)
