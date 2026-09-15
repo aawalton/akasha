@@ -11,4 +11,5 @@ export const aura = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "51cbffae-cb16-4968-b3f6-be55b3ddcb73",
 } as const satisfies Seat
