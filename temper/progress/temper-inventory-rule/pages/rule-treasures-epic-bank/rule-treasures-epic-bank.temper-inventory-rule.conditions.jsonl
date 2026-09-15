@@ -1,2 +1,2 @@
-{"id":"01a09b51-dd09-7fe3-b43a-9b278c0aa34f","conditionField":"max-quality","conditionValue":"4"}
-{"id":"01a09b51-dd09-7004-9680-7d3896a47be6","conditionField":"quality-op","conditionValue":">="}
+{"id":"01a09b51-dd09-7fe3-b43a-9b278c0aa34f","conditionField":"temper-condition-field/max-quality","conditionValue":"4"}
+{"id":"01a09b51-dd09-7004-9680-7d3896a47be6","conditionField":"temper-condition-field/quality-op","conditionValue":">="}
