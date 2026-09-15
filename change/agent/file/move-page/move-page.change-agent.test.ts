@@ -47,8 +47,8 @@ test("a file carried with its body unchanged is stated as a move holding no body
   const said = await movePage(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
 
   expect(said.edits.filter((one) => one.kind === "move")).toEqual([
-    { kind: "move", pathFrom: HELD_PAGE, pathTo: MOVED_PAGE },
     { kind: "move", pathFrom: HELD_CODE, pathTo: MOVED_CODE },
+    { kind: "move", pathFrom: HELD_PAGE, pathTo: MOVED_PAGE },
   ])
 })
 
