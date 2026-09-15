@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const topplingCharge15540 = {
   id: "019e6f53-a84a-7e0f-8147-c1445fb4d5b7",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "toppling-charge-15540",
   title: "Toppling Charge",
   key: "toppling-charge-15540",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const swordAndBoard = {
   id: "019e6226-0118-7cbc-9a8b-f9fed24efb10",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "sword-and-board",
   title: "Sword and Board",
   key: "sword-and-board",

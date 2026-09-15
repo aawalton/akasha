@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const summonShade = {
   id: "019e6f53-a7dc-7443-a4dd-09322eef5d19",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "summon-shade",
   title: "Summon Shade",
   key: "summon-shade",

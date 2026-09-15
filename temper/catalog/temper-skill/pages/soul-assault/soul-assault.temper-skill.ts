@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const soulAssault = {
   id: "019e6251-4ceb-7a1a-8624-f8f97cb11f25",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "soul-assault",
   title: "Soul Assault",
   key: "soul-assault",

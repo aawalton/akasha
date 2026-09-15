@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const skeletalArcher118680 = {
   id: "019e6f53-a732-7c67-a379-9c7d3fe84441",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "skeletal-archer-118680",
   title: "Skeletal Archer",
   key: "skeletal-archer-118680",

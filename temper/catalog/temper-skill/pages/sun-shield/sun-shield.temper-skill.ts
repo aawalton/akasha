@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const sunShield = {
   id: "019e6f53-a7f4-7603-9ff0-0edf7b26cca9",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "sun-shield",
   title: "Sun Shield",
   key: "sun-shield",

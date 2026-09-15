@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const unholyKnowledge31386 = {
   id: "019e6f53-a887-7383-98ff-92e3db29f08f",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "unholy-knowledge-31386",
   title: "Unholy Knowledge",
   key: "unholy-knowledge-31386",

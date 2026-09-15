@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const tanglingWebs = {
   id: "019e6238-c320-78e1-9b38-623e45c198f8",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "tangling-webs",
   title: "Tangling Webs",
   key: "tangling-webs",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const suppressionField = {
   id: "019e6245-a74b-7ff6-a176-3111bf4d5d41",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "suppression-field",
   title: "Suppression Field",
   key: "suppression-field",

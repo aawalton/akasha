@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const spectralAssassin = {
   id: "019e6238-c315-7e75-a06a-ed701d98f617",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "spectral-assassin",
   title: "Spectral Assassin",
   key: "spectral-assassin",

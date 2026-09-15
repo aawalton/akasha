@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const solventProficiency = {
   id: "019e6224-ccae-7f33-86df-ff1a843a8037",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "solvent-proficiency",
   title: "Solvent Proficiency",
   key: "solvent-proficiency",

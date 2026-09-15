@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const soulSplittingTrap40328 = {
   id: "019e6f53-a776-71b6-a9d9-edc6cf08dc05",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "soul-splitting-trap-40328",
   title: "Soul Splitting Trap",
   key: "soul-splitting-trap-40328",

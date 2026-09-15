@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const summonStormAtronach = {
   id: "019e6f53-a7dd-7a13-99ae-ad2ddbdc1d08",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "summon-storm-atronach",
   title: "Summon Storm Atronach",
   key: "summon-storm-atronach",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const skilledTracker = {
   id: "019e6238-c310-7721-bea9-602d3571a071",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "skilled-tracker",
   title: "Skilled Tracker",
   key: "skilled-tracker",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const undauntedMettle = {
   id: "019e6238-c329-76dd-96b9-91e2459f70a0",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "undaunted-mettle",
   title: "Undaunted Mettle",
   key: "undaunted-mettle",

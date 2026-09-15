@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const strife = {
   id: "019e6f53-a7c4-7354-860f-091d7669ed6e",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "strife",
   title: "Strife",
   key: "strife",

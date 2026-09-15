@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const structuredEntropy = {
   id: "019e6238-c31c-72d5-af6b-68850177dead",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "structured-entropy",
   title: "Structured Entropy",
   key: "structured-entropy",

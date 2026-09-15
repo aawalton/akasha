@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const theTideKingSGaze = {
   id: "019e6f53-a834-7842-898d-5b399a4e987e",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "the-tide-king-s-gaze",
   title: "The Tide King's Gaze",
   key: "the-tide-king-s-gaze",

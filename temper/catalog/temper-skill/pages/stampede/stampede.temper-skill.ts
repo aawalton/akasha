@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const stampede = {
   id: "019e6226-0117-7241-9965-fc4f21dc52bc",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "stampede",
   title: "Stampede",
   key: "stampede",

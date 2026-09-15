@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const syrabaneSBoon = {
   id: "019e6f53-a813-7434-820d-560f9ca1a83a",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "syrabane-s-boon",
   title: "Syrabane's Boon",
   key: "syrabane-s-boon",

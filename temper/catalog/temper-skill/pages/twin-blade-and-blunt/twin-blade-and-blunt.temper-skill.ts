@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const twinBladeAndBlunt = {
   id: "019e6226-011c-743f-8e01-6480b0d2e5fa",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "twin-blade-and-blunt",
   title: "Twin Blade and Blunt",
   key: "twin-blade-and-blunt",

@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const twinSlashes = {
   id: "019e6f53-a86e-735a-b01a-4ca9419ea210",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "twin-slashes",
   title: "Twin Slashes",
   key: "twin-slashes",

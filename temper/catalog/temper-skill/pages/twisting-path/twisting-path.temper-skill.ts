@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const twistingPath = {
   id: "019e6245-a756-7bb3-9f8d-8cb0d85290b4",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "twisting-path",
   title: "Twisting Path",
   key: "twisting-path",

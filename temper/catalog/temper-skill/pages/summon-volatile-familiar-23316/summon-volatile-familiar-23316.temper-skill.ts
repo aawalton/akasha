@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const summonVolatileFamiliar23316 = {
   id: "019e6f53-a7ec-7e27-9a66-0c859675f6e8",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "summon-volatile-familiar-23316",
   title: "Summon Volatile Familiar",
   key: "summon-volatile-familiar-23316",

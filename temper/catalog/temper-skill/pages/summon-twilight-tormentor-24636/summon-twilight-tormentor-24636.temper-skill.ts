@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const summonTwilightTormentor24636 = {
   id: "019e6f53-a7e4-78e5-a20a-51fd6eb095b2",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "summon-twilight-tormentor-24636",
   title: "Summon Twilight Tormentor",
   key: "summon-twilight-tormentor-24636",

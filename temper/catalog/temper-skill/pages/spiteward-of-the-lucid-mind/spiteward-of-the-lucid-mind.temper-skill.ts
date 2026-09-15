@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const spitewardOfTheLucidMind = {
   id: "019e6245-a740-746c-9b6a-d53809139d24",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "spiteward-of-the-lucid-mind",
   title: "Spiteward of the Lucid Mind",
   key: "spiteward-of-the-lucid-mind",

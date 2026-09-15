@@ -2,7 +2,7 @@ import type { TemperSkill } from "akasha/temper/catalog/temper-skill/temper-skil
 
 export const teleportStrike = {
   id: "019e6f53-a824-70b1-adc7-54c9660bb87f",
-  type: "temper-skill",
+  type: "page-type/temper-skill",
   slug: "teleport-strike",
   title: "Teleport Strike",
   key: "teleport-strike",
