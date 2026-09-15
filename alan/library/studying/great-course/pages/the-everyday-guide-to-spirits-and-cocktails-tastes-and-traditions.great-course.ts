@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theEverydayGuideToSpiritsAndCocktailsTastesAndTraditions = {
   id: "019db533-f39f-785d-a337-18fb425d4d6a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-everyday-guide-to-spirits-and-cocktails-tastes-and-traditions",
   title: "The Everyday Guide to Spirits and Cocktails: Tastes and Traditions",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theSurprisingOriginsOfChristmasTraditions = {
   id: "019db533-f39f-77a7-b038-39d75cf18a29",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-surprising-origins-of-christmas-traditions",
   title: "The Surprising Origins of Christmas Traditions",
   status: "completed",

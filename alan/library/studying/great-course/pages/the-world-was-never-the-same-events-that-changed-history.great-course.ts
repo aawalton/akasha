@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theWorldWasNeverTheSameEventsThatChangedHistory = {
   id: "019db533-f3a0-7087-80c8-7cee7a7403e5",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-world-was-never-the-same-events-that-changed-history",
   title: "The World Was Never the Same: Events That Changed History",
   status: "not-started",

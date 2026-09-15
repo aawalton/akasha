@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theScientificGuideToHealthAndHappiness = {
   id: "019db533-f3a0-7629-9a53-0781a86cdf7d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-scientific-guide-to-health-and-happiness",
   title: "The Scientific Guide to Health and Happiness",
   status: "not-started",

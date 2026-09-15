@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theGreatIdeasOfPsychology = {
   id: "019db533-f39f-721f-8e05-b3783a3d744c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-great-ideas-of-psychology",
   title: "The Great Ideas of Psychology",
   status: "not-started",

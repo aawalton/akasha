@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theWorldSGreatestChurches = {
   id: "019db533-f39f-77dd-822e-72c784ee6af4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-world-s-greatest-churches",
   title: "The World's Greatest Churches",
   status: "completed",

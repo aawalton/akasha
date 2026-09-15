@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theGreekWorldAStudyOfHistoryAndCulture = {
   id: "019db533-f3a0-703f-8481-c79acab2f7a8",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-greek-world-a-study-of-history-and-culture",
   title: "The Greek World: A Study of History and Culture",
   status: "completed",

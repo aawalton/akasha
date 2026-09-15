@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theWorldSGreatestGeologicalWonders = {
   id: "019db533-f39f-73a6-964c-cf9a3996f535",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-world-s-greatest-geological-wonders",
   title: "The World's Greatest Geological Wonders",
   status: "completed",

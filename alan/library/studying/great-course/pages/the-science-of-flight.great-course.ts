@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theScienceOfFlight = {
   id: "019db533-f39e-7b68-950f-e1ae936f3d50",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-science-of-flight",
   title: "The Science of Flight",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theTextureToolboxAcrylicMediumMagic = {
   id: "019db533-f39f-73f0-a0f5-addf43e9fdd2",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-texture-toolbox-acrylic-medium-magic",
   title: "The Texture Toolbox: Acrylic Medium Magic",
   status: "completed",

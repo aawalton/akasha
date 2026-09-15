@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const thinkingAboutReligionAndViolence = {
   id: "019db533-f39f-770b-92c2-16a611b548ec",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "thinking-about-religion-and-violence",
   title: "Thinking about Religion and Violence",
   status: "not-started",

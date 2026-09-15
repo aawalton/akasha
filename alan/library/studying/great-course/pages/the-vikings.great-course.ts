@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theVikings = {
   id: "019db533-f3a0-7281-9c99-294ae9b27f47",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-vikings",
   title: "The Vikings",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theTerrorOfHistoryMysticsHereticsAndWitchesInTheWesternTrad = {
   id: "019db533-f387-7f83-bff2-1787458b9dc9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-terror-of-history-mystics-heretics-and-witches-in-the-western-trad",
   title: "The Terror of History: Mystics, Heretics, and Witches in the Western Tradition",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theOdysseyOfHomer = {
   id: "019db533-f39e-77b4-a460-1851dc83b977",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-odyssey-of-homer",
   title: "The Odyssey of Homer",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theGreatToursFranceThroughTheAges = {
   id: "019db533-f39f-7cb0-8446-a2be4478088d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-great-tours-france-through-the-ages",
   title: "The Great Tours: France through the Ages",
   status: "completed",

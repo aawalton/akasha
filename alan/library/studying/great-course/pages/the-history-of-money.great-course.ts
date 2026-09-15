@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theHistoryOfMoney = {
   id: "019db533-f38a-7581-8548-0b92f99b188b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-history-of-money",
   title: "The History of Money",
   status: "not-started",

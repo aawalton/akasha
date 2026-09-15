@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const thePsychologyOfPerformanceHowToBeYourBestInLife = {
   id: "019db533-f3a0-7728-8885-6e6684fd266f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-psychology-of-performance-how-to-be-your-best-in-life",
   title: "The Psychology of Performance: How to Be Your Best in Life",
   status: "not-started",

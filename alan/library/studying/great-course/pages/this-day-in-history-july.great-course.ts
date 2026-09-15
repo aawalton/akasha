@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const thisDayInHistoryJuly = {
   id: "019db533-f39f-7bb3-bf5e-f0619799f85a",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "this-day-in-history-july",
   title: "This Day in History: July",
   status: "completed",

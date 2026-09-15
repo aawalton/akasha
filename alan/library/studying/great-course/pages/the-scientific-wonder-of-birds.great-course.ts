@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theScientificWonderOfBirds = {
   id: "019db533-f39e-7b37-8ced-1e2ae9fe99a2",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-scientific-wonder-of-birds",
   title: "The Scientific Wonder of Birds",
   status: "not-started",

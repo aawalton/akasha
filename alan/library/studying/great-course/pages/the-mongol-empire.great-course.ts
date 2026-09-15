@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theMongolEmpire = {
   id: "019db533-f39f-7c29-9aa7-899cb31b4857",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-mongol-empire",
   title: "The Mongol Empire",
   status: "not-started",

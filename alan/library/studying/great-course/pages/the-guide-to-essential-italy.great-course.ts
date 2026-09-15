@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theGuideToEssentialItaly = {
   id: "019db533-f39f-7c09-a8d4-02717b8433cd",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-guide-to-essential-italy",
   title: "The Guide to Essential Italy",
   status: "completed",

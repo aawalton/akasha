@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theEverydayGourmetMakingHealthyFoodTasteGreat = {
   id: "019db533-f39f-7888-9b13-bd3d6e1217d9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-everyday-gourmet-making-healthy-food-taste-great",
   title: "The Everyday Gourmet: Making Healthy Food Taste Great",
   status: "completed",

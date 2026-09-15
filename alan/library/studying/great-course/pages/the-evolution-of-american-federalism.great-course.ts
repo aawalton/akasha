@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theEvolutionOfAmericanFederalism = {
   id: "019db533-f39f-7792-8d80-c02fe19e233b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-evolution-of-american-federalism",
   title: "The Evolution of American Federalism",
   status: "not-started",

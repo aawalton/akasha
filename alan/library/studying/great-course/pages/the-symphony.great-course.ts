@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theSymphony = {
   id: "019db533-f3a0-71df-9182-8af58b7b656d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-symphony",
   title: "The Symphony",
   status: "not-started",

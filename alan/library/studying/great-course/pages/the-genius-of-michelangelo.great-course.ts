@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theGeniusOfMichelangelo = {
   id: "019db533-f39f-73c6-8cd1-024f6a45a5ac",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-genius-of-michelangelo",
   title: "The Genius of Michelangelo",
   status: "completed",

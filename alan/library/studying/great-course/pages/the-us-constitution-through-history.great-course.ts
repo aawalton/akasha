@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theUsConstitutionThroughHistory = {
   id: "019db533-f39f-7f82-b63d-2d90184d0923",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-us-constitution-through-history",
   title: "The US Constitution through History",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const thePerfectCupcake = {
   id: "019db533-f39f-772b-9aae-532dfa86b4f8",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-perfect-cupcake",
   title: "The Perfect Cupcake",
   status: "completed",

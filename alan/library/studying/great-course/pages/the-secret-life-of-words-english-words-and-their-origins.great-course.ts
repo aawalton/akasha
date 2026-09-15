@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theSecretLifeOfWordsEnglishWordsAndTheirOrigins = {
   id: "019db533-f39e-764d-8a44-947485006fac",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-secret-life-of-words-english-words-and-their-origins",
   title: "The Secret Life of Words: English Words and Their Origins",
   status: "not-started",

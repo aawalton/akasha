@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theScienceOfInformationFromLanguageToBlackHoles = {
   id: "019db533-f39e-7ba9-87dc-2a3beacf94dc",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-science-of-information-from-language-to-black-holes",
   title: "The Science of Information: From Language to Black Holes",
   status: "not-started",

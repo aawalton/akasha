@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theLifeAndDeathOfStars = {
   id: "019db533-f39e-7bd5-aae1-c576eaa5aacc",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-life-and-death-of-stars",
   title: "The Life and Death of Stars",
   status: "not-started",

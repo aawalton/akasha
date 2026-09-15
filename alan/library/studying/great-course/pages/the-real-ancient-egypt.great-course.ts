@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theRealAncientEgypt = {
   id: "019db533-f3a0-7061-9ec1-47c88339e799",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-real-ancient-egypt",
   title: "The Real Ancient Egypt",
   status: "completed",

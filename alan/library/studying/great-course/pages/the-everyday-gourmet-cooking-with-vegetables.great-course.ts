@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theEverydayGourmetCookingWithVegetables = {
   id: "019db533-f39f-789d-8387-8b58081db5fc",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-everyday-gourmet-cooking-with-vegetables",
   title: "The Everyday Gourmet: Cooking with Vegetables",
   status: "not-started",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theFoundationsOfWesternCivilization = {
   id: "019db533-f3a0-70d6-9ae4-434347b80463",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-foundations-of-western-civilization",
   title: "The Foundations of Western Civilization",
   status: "not-started",

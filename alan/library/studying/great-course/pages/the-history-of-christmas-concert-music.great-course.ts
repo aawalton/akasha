@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theHistoryOfChristmasConcertMusic = {
   id: "019db533-f3a0-71d1-80f1-fadeb0d07d8e",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-history-of-christmas-concert-music",
   title: "The History of Christmas Concert Music",
   status: "completed",

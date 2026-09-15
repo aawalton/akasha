@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theGreatUnansweredQuestionsOfPhysics = {
   id: "019db533-f389-7141-939d-bb5945fcd753",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-great-unanswered-questions-of-physics",
   title: "The Great Unanswered Questions of Physics",
   status: "not-started",

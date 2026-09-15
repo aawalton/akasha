@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theOpioidEpidemicAmericaSDeadlyAddiction = {
   id: "019db533-f3a0-76c8-bd6e-dc960071467b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-opioid-epidemic-america-s-deadly-addiction",
   title: "The Opioid Epidemic: America's Deadly Addiction",
   status: "completed",

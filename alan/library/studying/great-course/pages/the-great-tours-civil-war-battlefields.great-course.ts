@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theGreatToursCivilWarBattlefields = {
   id: "019db533-f39f-73db-bbf0-09bc8f9f7ee0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-great-tours-civil-war-battlefields",
   title: "The Great Tours: Civil War Battlefields",
   status: "completed",

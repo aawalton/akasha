@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theFallAndRiseOfChina = {
   id: "019db533-f3a0-70a9-92bf-659832bbc953",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-fall-and-rise-of-china",
   title: "The Fall and Rise of China",
   status: "in-progress",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theHumanCosmos = {
   id: "019db533-f39f-7bd3-b6f6-bd5bd26a9a2d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-human-cosmos",
   title: "The Human Cosmos",
   status: "completed",

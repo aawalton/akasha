@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theMayoClinicGuideToPainRelief = {
   id: "019db533-f3a0-76f3-a63d-86a3838acdaf",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-mayo-clinic-guide-to-pain-relief",
   title: "The Mayo Clinic Guide to Pain Relief",
   status: "not-started",

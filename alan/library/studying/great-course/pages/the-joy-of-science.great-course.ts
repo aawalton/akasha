@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theJoyOfScience = {
   id: "019db533-f39f-7234-b625-f4dca7670ea1",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-joy-of-science",
   title: "The Joy of Science",
   status: "not-started",

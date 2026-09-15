@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theHistoryOfChristianTheology = {
   id: "019db533-f39e-7b6f-a382-913e35783e06",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-history-of-christian-theology",
   title: "The History of Christian Theology",
   status: "not-started",

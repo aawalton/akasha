@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const thePersianEmpire = {
   id: "019db533-f39f-7ba8-a898-8096588b0225",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-persian-empire",
   title: "The Persian Empire",
   status: "not-started",

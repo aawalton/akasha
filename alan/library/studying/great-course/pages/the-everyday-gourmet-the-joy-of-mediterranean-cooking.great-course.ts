@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theEverydayGourmetTheJoyOfMediterraneanCooking = {
   id: "019db533-f39f-7968-8a79-66523448030c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-everyday-gourmet-the-joy-of-mediterranean-cooking",
   title: "The Everyday Gourmet: The Joy of Mediterranean Cooking",
   status: "not-started",

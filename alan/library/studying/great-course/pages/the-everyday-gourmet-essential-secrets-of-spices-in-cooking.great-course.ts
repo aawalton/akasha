@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theEverydayGourmetEssentialSecretsOfSpicesInCooking = {
   id: "019db533-f39f-79b3-9d14-af884f913fae",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-everyday-gourmet-essential-secrets-of-spices-in-cooking",
   title: "The Everyday Gourmet: Essential Secrets of Spices in Cooking",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const thinkingLikeAnEconomistAGuideToRationalDecisionMaking = {
   id: "019db533-f39e-73d2-8b0d-6f62362b9a71",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "thinking-like-an-economist-a-guide-to-rational-decision-making",
   title: "Thinking like an Economist: A Guide to Rational Decision Making",
   status: "not-started",

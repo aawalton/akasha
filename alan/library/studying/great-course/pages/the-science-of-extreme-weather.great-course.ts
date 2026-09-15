@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theScienceOfExtremeWeather = {
   id: "019db533-f39e-7e44-9369-01e9f5095280",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-science-of-extreme-weather",
   title: "The Science of Extreme Weather",
   status: "not-started",

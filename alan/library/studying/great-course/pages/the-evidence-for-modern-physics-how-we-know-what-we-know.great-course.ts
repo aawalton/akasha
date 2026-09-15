@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theEvidenceForModernPhysicsHowWeKnowWhatWeKnow = {
   id: "019db533-f39e-7b9f-b62c-5aceb92ddd14",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-evidence-for-modern-physics-how-we-know-what-we-know",
   title: "The Evidence for Modern Physics: How We Know What We Know",
   status: "not-started",

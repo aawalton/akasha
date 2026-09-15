@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theOlmecsMesoamericaSMysteriousFirstCivilization = {
   id: "019db533-f398-7390-8f8e-4e1327d8d4f1",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-olmecs-mesoamerica-s-mysterious-first-civilization",
   title: "The Olmecs: Mesoamerica’s Mysterious First Civilization",
   status: "not-started",

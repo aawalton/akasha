@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theSecretsOfGreatMysteryAndSuspenseFiction = {
   id: "019db533-f39e-777d-b7da-53f2d90d795c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-secrets-of-great-mystery-and-suspense-fiction",
   title: "The Secrets of Great Mystery and Suspense Fiction",
   status: "not-started",

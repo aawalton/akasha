@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theHistoryAndArchaeologyOfTheBible = {
   id: "019db533-f39f-7bde-a8e0-200d8d98f6f4",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-history-and-archaeology-of-the-bible",
   title: "The History and Archaeology of the Bible",
   status: "completed",

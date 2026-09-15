@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theHiggsBosonAndBeyond = {
   id: "019db533-f39e-7b77-85b0-5ba1ea414544",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-higgs-boson-and-beyond",
   title: "The Higgs Boson and Beyond",
   status: "not-started",

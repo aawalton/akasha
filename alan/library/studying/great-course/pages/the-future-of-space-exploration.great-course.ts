@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theFutureOfSpaceExploration = {
   id: "019db533-f39e-7dd7-8c64-a45ddb58d774",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-future-of-space-exploration",
   title: "The Future of Space Exploration",
   status: "not-started",

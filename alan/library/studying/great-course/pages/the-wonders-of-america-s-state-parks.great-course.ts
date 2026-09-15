@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theWondersOfAmericaSStateParks = {
   id: "019db533-f39f-73e5-b95d-4f87deb10c90",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-wonders-of-america-s-state-parks",
   title: "The Wonders of America's State Parks",
   status: "completed",

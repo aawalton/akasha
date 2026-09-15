@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theVietnamWar = {
   id: "019db533-f3a0-702f-9d46-29165fa44723",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-vietnam-war",
   title: "The Vietnam War",
   status: "completed",

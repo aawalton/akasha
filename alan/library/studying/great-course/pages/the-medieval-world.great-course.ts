@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theMedievalWorld = {
   id: "019db533-f39f-7827-8da2-b9ea783d24c1",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-medieval-world",
   title: "The Medieval World",
   status: "not-started",

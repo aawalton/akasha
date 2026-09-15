@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theUltimateTShirtQuilt = {
   id: "019db533-f39e-745d-b564-7b4cfa93d604",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-ultimate-t-shirt-quilt",
   title: "The Ultimate T-Shirt Quilt",
   status: "completed",

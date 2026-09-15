@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theoryOfEvolutionAHistoryOfControversy = {
   id: "019db533-f39e-7bb8-a877-1e8c8eba7cca",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "theory-of-evolution-a-history-of-controversy",
   title: "Theory of Evolution: A History of Controversy",
   status: "not-started",

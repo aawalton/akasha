@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theScienceOfMindfulnessAResearchBasedPathToWellBeing = {
   id: "019db533-f3a0-76fd-b6a1-3bd0f3c21597",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-science-of-mindfulness-a-research-based-path-to-well-being",
   title: "The Science of Mindfulness: A Research-Based Path to Well-Being",
   status: "not-started",

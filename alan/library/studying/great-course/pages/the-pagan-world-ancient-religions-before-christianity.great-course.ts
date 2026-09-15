@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const thePaganWorldAncientReligionsBeforeChristianity = {
   id: "019db533-f3a0-7079-8edc-a62a34ecc216",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-pagan-world-ancient-religions-before-christianity",
   title: "The Pagan World: Ancient Religions before Christianity",
   status: "completed",

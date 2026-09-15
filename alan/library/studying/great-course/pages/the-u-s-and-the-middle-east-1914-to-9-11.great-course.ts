@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theUSAndTheMiddleEast1914To911 = {
   id: "019db533-f3a0-7065-a9c9-cade8cc9d4f1",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-u-s-and-the-middle-east-1914-to-9-11",
   title: "The U.S. and the Middle East: 1914 to 9/11",
   status: "not-started",

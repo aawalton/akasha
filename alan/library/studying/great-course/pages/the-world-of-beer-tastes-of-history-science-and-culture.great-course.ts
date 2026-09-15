@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theWorldOfBeerTastesOfHistoryScienceAndCulture = {
   id: "019db533-f39f-76f6-928f-c02826ba366d",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-world-of-beer-tastes-of-history-science-and-culture",
   title: "The World of Beer: Tastes of History, Science, and Culture",
   status: "not-started",

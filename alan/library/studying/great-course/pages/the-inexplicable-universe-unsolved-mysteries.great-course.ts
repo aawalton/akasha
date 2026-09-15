@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theInexplicableUniverseUnsolvedMysteries = {
   id: "019db533-f39e-7de5-8ed5-825db47d943c",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-inexplicable-universe-unsolved-mysteries",
   title: "The Inexplicable Universe: Unsolved Mysteries",
   status: "not-started",

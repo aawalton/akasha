@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theWorldSMostFascinatingGeologicEvents = {
   id: "01a06578-6719-7005-af8e-dea1771f16a9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-world-s-most-fascinating-geologic-events",
   title: "The World's Most Fascinating Geologic Events",
   status: "not-started",

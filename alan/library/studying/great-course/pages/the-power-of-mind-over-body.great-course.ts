@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const thePowerOfMindOverBody = {
   id: "019db533-f3a0-76a9-ba74-202f6e9cf50f",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-power-of-mind-over-body",
   title: "The Power of Mind over Body",
   status: "not-started",

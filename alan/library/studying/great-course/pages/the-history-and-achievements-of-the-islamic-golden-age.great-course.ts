@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theHistoryAndAchievementsOfTheIslamicGoldenAge = {
   id: "019db533-f3a0-71f7-bcc9-67a7dc3bd815",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-history-and-achievements-of-the-islamic-golden-age",
   title: "The History and Achievements of the Islamic Golden Age",
   status: "not-started",

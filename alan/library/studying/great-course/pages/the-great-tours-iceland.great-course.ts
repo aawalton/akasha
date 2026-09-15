@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theGreatToursIceland = {
   id: "019db533-f39f-73fa-86aa-bdaf41ec07e9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-great-tours-iceland",
   title: "The Great Tours: Iceland",
   status: "completed",

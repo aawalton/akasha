@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theIndustrialRevolution = {
   id: "019db533-f39f-7ce6-8726-306d991b91f9",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-industrial-revolution",
   title: "The Industrial Revolution",
   status: "not-started",

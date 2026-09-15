@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theHistoryOfSpainLandOnACrossroad = {
   id: "019db533-f39f-7c13-8a1b-fa3e6f6bfd67",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-history-of-spain-land-on-a-crossroad",
   title: "The History of Spain: Land on a Crossroad",
   status: "not-started",

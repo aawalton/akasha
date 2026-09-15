@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theVikingAgeNewPerspectivesOnHistoryAndCulture = {
   id: "019db533-f3a0-705c-a308-eae03d9a41ca",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-viking-age-new-perspectives-on-history-and-culture",
   title: "The Viking Age: New Perspectives on History and Culture",
   status: "not-started",

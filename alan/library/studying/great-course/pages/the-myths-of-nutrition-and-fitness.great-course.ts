@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theMythsOfNutritionAndFitness = {
   id: "019db533-f3a0-75f4-8bd6-a95253f52bf0",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-myths-of-nutrition-and-fitness",
   title: "The Myths of Nutrition and Fitness",
   status: "completed",

@@ -2,7 +2,7 @@ import type { GreatCourse } from "akasha/alan/library/studying/great-course/grea
 
 export const theGreatWorksOfSacredMusic = {
   id: "019db533-f3a0-724f-a087-c41ab912999b",
-  type: "great-course",
+  type: "page-type/great-course",
   slug: "the-great-works-of-sacred-music",
   title: "The Great Works of Sacred Music",
   status: "not-started",
