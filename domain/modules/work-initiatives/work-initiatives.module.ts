@@ -32,11 +32,11 @@ export const workInitiatives = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The index files that edge by id while the tree is built from slugs.",
+      statement: "That edge is read by id while the tree is built from slugs.",
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The index files a parent edge under the parent.",
+      statement: "A parent edge is read from beside the parent's page.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -46,7 +46,7 @@ export const workInitiatives = {
     {
       invariantKind: "invariant-kind/departure",
       statement:
-        "The index files that edge under the property's own slug rather than under the key a page spells.",
+        "That edge is read under the property's own slug rather than under the key a page spells.",
     },
     {
       invariantKind: "invariant-kind/departure",
@@ -78,7 +78,7 @@ export const workInitiatives = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The index files identities and edges.",
+      statement: "The index files identities, and an edge sits beside the page it names.",
     },
     {
       invariantKind: "invariant-kind/departure",

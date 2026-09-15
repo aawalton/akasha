@@ -1,9 +1,9 @@
 import {
   everyOfType,
-  idsNaming,
   typeSlugOf,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { textIn } from "akasha/util/narrow/modules/text-in/text-in.module.code.ts"
 
