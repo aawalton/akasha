@@ -3,4 +3,4 @@
 {"path":"checks/code-checks/pages/index-is-level-with-the-pages/index-is-level-with-the-pages.code-check.audit.test.ts","place":0,"name":"LIVES"}
 {"path":"checks/code-checks/pages/require-import-extension/require-import-extension.code-check.decision.test.ts","place":1,"name":"nothing"}
 {"path":"infrastructure/services/modules/deploy-choosing/deploy-choosing.module.test.ts","place":1,"name":"NONE"}
-{"path":"pages/indexes/modules/extension-carrying/extension-carrying.module.test.ts","place":1,"name":"never"}
+{"path":"pages/index/modules/extension-carrying/extension-carrying.module.test.ts","place":1,"name":"never"}

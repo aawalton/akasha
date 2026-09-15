@@ -3,7 +3,7 @@ import { join } from "node:path"
 import {
   listedAt,
   slugsOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {
   numberAt,

@@ -27,7 +27,7 @@ import {
   scratch,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
-import { noImportersFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { noImportersFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 const AGENT = "01a05f00-0000-7000-8000-000000000001"
 

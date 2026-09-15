@@ -22,7 +22,7 @@ import {
   type Known,
   reaches,
   type Wanted,
-} from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
+} from "akasha/pages/index/modules/reaching/reaching.module.code.ts"
 import { addressIn, namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {

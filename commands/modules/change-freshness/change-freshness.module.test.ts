@@ -23,7 +23,7 @@ import {
   TYPE,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
-import type { Facing } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+import type { Facing } from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { until } from "akasha/testing-system/test-fixtures/waiting/waiting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

@@ -1,7 +1,7 @@
 import {
   everyOfType,
   listedAt,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { entriesAt } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"

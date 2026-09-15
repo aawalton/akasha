@@ -15,7 +15,7 @@ export const noBodyReadBesideAnIndex = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "The `Reading` the indexes declare names the index.",
+      statement: "The `Reading` the index declare names the index.",
     },
     {
       invariantKind: "invariant-kind/departure",

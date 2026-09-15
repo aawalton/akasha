@@ -1,4 +1,4 @@
-import { ENTRY_PROPERTY } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { ENTRY_PROPERTY } from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
 import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { entriesIn } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import { partsReading } from "akasha/pages/modules/file-parts/page-file-parts.module.code.ts"

@@ -8,11 +8,11 @@ import {
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import {
   relationFiled,
   shapeAdded,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Formatting } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
 import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"

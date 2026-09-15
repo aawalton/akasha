@@ -10,8 +10,8 @@ import {
 } from "akasha/commands/modules/gate-building/gate-building.module.code.ts"
 import { repoWith, scratch } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { indexTakenFrom } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { indexNamed } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { indexTakenFrom } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

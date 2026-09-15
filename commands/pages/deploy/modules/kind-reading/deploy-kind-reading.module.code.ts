@@ -3,7 +3,7 @@ import { pathsNamed } from "akasha/infrastructure/services/clusters/modules/web-
 import {
   listedAt,
   slugsOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 export const PAGE_TYPE = "page-type"
 

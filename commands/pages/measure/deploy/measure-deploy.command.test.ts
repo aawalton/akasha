@@ -13,8 +13,8 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { measureDeploy } from "akasha/commands/pages/measure/deploy/measure-deploy.command.code.ts"
 import { measureDeploy as page } from "akasha/commands/pages/measure/deploy/measure-deploy.command.ts"
-import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 

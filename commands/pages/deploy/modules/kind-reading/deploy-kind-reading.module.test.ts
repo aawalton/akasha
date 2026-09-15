@@ -13,7 +13,7 @@ import { writingUnder } from "akasha/infrastructure/services/clusters/modules/we
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 
 const HOLD = "/var/tmp"
 

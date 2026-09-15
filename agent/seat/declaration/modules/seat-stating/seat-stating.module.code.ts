@@ -9,7 +9,7 @@ import {
   readingIn,
   slugsOfType,
   typeSlugOf,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { importedFrom, saidAs } from "akasha/pages/modules/body/page-body.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"

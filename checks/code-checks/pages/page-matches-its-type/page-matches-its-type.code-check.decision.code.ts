@@ -5,7 +5,7 @@ import {
   textIn,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { waitingProperties } from "akasha/pages/indexes/modules/generated-properties/generated-properties.module.code.ts"
+import { waitingProperties } from "akasha/pages/index/modules/generated-properties/generated-properties.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"

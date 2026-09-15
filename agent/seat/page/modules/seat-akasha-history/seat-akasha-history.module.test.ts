@@ -5,7 +5,7 @@ import {
   akashaSeatNamedInHistory,
   akashaSeatsInHistory,
 } from "akasha/agent/seat/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"
-import { indexAt } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import { indexAt } from "akasha/pages/index/modules/surface/index-surface.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { said } from "akasha/utils/run/modules/running/running.module.code.ts"
 

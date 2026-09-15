@@ -1,4 +1,4 @@
-import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const SHAPE_TYPE = "01a05da1-60fc-76ca-8503-b43deb6d5f53"

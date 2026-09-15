@@ -8,7 +8,7 @@ import { loadParser } from "akasha/domains/plain-language/modules/onnx-parsing/o
 import type { ShapePredicate } from "akasha/domains/plain-language/modules/shape-predicate/shape-predicate.module.code.ts"
 import { shapesIn } from "akasha/domains/plain-language/modules/shape-reading/shape-reading.module.code.ts"
 import { scanned } from "akasha/domains/plain-language/modules/spelt-scanning/spelt-scanning.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import ts from "typescript"
 

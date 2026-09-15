@@ -1,10 +1,10 @@
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   idOf,
   indexedRepo,
   pageOf,
-} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import {
   type Folded,
   foldedFor,

@@ -1,6 +1,6 @@
 import { dirname } from "node:path"
 import { spelledIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
-import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { indexNamed } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { shortened } from "akasha/utils/text/modules/shortened/shortened.module.code.ts"
@@ -31,7 +31,7 @@ export function found(
 
 const INDEXES = new WeakMap<Shadow, string>()
 
-export function indexesAt(shadow: Shadow): string {
+export function indexAt(shadow: Shadow): string {
   const held = INDEXES.get(shadow)
   if (held !== undefined) return held
   const one = shadow.index.listedAt(PAGE_TYPE, INDEX)[0]

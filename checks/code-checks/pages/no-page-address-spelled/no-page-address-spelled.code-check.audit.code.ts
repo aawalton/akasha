@@ -4,12 +4,12 @@ import {
 } from "akasha/checks/code-checks/pages/no-page-address-spelled/no-page-address-spelled.code-check.decision.code.ts"
 import { overEveryText } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { pageTypesIn } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { pageTypesIn } from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
 import {
   facingOn,
   generatedIn,
-} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 function judgingOn(root: string): Judging {
   const facing = facingOn(root)

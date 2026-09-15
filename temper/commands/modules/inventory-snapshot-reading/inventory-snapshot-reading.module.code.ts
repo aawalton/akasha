@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { askComposed } from "akasha/pages/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"

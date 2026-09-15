@@ -6,8 +6,8 @@ import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { relationFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+import { relationFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 const ONE = "01a04e9f-0000-7000-8000-00000000000a"

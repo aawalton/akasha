@@ -74,5 +74,5 @@
 {"path":"domains/context/warrants/seat-persona/seat-persona.context-warrant.test.ts"}
 {"path":"git/modules/head-commit/head-commit.module.test.ts"}
 {"path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.test.ts"}
-{"path":"pages/indexes/modules/keeping/index-keeping.module.test.ts"}
-{"path":"pages/indexes/modules/package-reaching/package-reaching.module.test.ts"}
+{"path":"pages/index/modules/keeping/index-keeping.module.test.ts"}
+{"path":"pages/index/modules/package-reaching/package-reaching.module.test.ts"}

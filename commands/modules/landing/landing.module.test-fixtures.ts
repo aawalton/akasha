@@ -16,15 +16,15 @@ import type {
 import { landing } from "akasha/commands/modules/landing/landing.module.code.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { refreshedFrom } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
-import { keepBuilt } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
-import { everythingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import { refreshedFrom } from "akasha/pages/index/modules/indexing/indexing.module.code.ts"
+import { keepBuilt } from "akasha/pages/index/modules/keeping/index-keeping.module.code.ts"
+import { everythingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { indexIn } from "akasha/pages/index/modules/surface/index-surface.module.code.ts"
 import {
   bodyOf,
   butTheStamp,
   thePage,
-} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"

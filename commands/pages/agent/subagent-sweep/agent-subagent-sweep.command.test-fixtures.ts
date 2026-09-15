@@ -34,8 +34,8 @@ import { said as gitIn } from "akasha/git/modules/running/git-running.module.cod
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { refreshedIn } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+import { refreshedIn } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/test-fixtures/declaring/declaring.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

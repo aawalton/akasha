@@ -1,8 +1,8 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { discoverTunnelRoutes } from "akasha/infrastructure/cluster/manifests/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts"
-import { fileOf } from "akasha/pages/indexes/modules/property-file/property-file.module.code.ts"
-import { valuedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { fileOf } from "akasha/pages/index/modules/property-file/property-file.module.code.ts"
+import { valuedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const CLUSTER = "service-cluster"

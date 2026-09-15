@@ -24,7 +24,7 @@ import {
   listedAt,
   listedById,
   slugsOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 

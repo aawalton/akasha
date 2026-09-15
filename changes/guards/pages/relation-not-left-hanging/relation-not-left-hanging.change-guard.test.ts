@@ -8,7 +8,7 @@ import {
   tookAway,
 } from "akasha/changes/modules/guarding/change-guarding.module.test-fixtures.ts"
 import { worldAt } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { shapeAdded } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { shapeAdded } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   bodyOf,
   HELD_PAGE,
@@ -18,7 +18,7 @@ import {
   NAMER_PAGE,
   pageOf,
   scratch,
-} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { NOT_WORKED_OUT } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

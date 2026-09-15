@@ -17,7 +17,7 @@ import { buildTestflightDeployScript } from "akasha/alan/harness/mobile-cli/modu
 import {
   listedAt,
   readingIn,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { requireMatch } from "akasha/utils/narrow/modules/require-match/require-match.module.code.ts"
 import { z } from "zod"
 

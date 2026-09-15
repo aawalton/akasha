@@ -4,6 +4,6 @@
 {"path":"commands/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.code.ts"}
 {"path":"infrastructure/cluster/k8s-synth/modules/generated-file/generated-file.module.code.ts"}
 {"path":"infrastructure/cluster/k8s-synth/modules/synth-drift/synth-drift.module.code.ts"}
-{"path":"pages/indexes/modules/keeping/index-keeping.module.code.ts"}
-{"path":"pages/indexes/modules/surface/index-surface.module.code.ts"}
+{"path":"pages/index/modules/keeping/index-keeping.module.code.ts"}
+{"path":"pages/index/modules/surface/index-surface.module.code.ts"}
 {"path":"utils/fs/modules/text-there/text-there.module.test.ts"}

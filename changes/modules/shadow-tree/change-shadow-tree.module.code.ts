@@ -5,18 +5,18 @@ import type {
   FileChange,
 } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { ignoredUnder, trackedUnder } from "akasha/git/modules/pathspec/git-pathspec.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
 import {
   claimantOf,
   folderOf,
   type Paging,
   pagingOf,
-} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+} from "akasha/pages/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
   filesIn,
   foldersIn,
   walkedUnder,
-} from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
+} from "akasha/pages/index/modules/tree-reading/tree-reading.module.code.ts"
 import { VENDOR_ROOT } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   partedIn,

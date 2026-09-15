@@ -5,12 +5,12 @@ import {
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
-import { relationFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { relationFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   bodyOf,
   indexedRepo,
   pageOf,
-} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 export function movesOf(said: Answer): readonly (readonly [string, string])[] {
   const found: (readonly [string, string])[] = []

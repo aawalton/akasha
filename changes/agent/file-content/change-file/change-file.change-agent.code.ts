@@ -8,7 +8,7 @@ import {
 import {
   generatedIn,
   writerAt,
-} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+} from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
 
 const AT = "at"
 

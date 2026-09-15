@@ -21,7 +21,7 @@ export const temperInventoryChunk = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The pieces of one reading rejoin in the order the chunk indexes give.",
+      statement: "The pieces of one reading rejoin in the order the chunk index give.",
     },
     {
       invariantKind: "departure",

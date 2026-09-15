@@ -37,7 +37,7 @@ import {
   passedOn,
 } from "akasha/infrastructure/services/workstations/modules/service-alerting/service-alerting.module.code.ts"
 import { checkoutAt } from "akasha/infrastructure/services/workstations/modules/service-checkout/service-checkout.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/pages/modules/shadow/shadow.module.code.ts"

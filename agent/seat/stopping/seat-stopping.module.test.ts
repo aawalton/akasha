@@ -30,7 +30,7 @@ import type { Asking } from "akasha/changes/runners/pages/mechanical-change-runn
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 

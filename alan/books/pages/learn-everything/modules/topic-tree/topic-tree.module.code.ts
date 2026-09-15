@@ -1,4 +1,4 @@
-import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { asking } from "akasha/pages/service/modules/page-asking/page-asking.module.code.ts"
 

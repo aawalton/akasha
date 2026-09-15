@@ -20,7 +20,7 @@ import { offRepo, pathAt } from "akasha/commands/modules/said-pathing/said-pathi
 import {
   indexThere,
   listedAt,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { counted } from "akasha/utils/text/modules/counted/counted.module.code.ts"
 

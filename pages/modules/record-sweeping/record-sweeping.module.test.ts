@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import {
   keptFrom,
   packed,

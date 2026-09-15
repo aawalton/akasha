@@ -16,7 +16,7 @@ import {
   saidThere,
   scratch,
 } from "akasha/agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test-fixtures.ts"
-import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { indexNamed } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 test("a copy landing inside akasha is refused", () => {
   expect(said("cp /var/tmp/x akasha/held.domain.ts")).toContain(INSIDE)

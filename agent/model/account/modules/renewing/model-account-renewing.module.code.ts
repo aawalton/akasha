@@ -15,8 +15,8 @@ import {
   type SecretsRead,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import { credentialOf } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import type { PageOf } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 
 const DEFAULT_LOG_PREFIX = "[oauth]"

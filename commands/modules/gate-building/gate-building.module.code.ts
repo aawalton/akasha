@@ -1,6 +1,6 @@
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
-import type { Indexing } from "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
+import type { Indexing } from "akasha/pages/index/modules/indexing/indexing.module.code.ts"
 
 const CHANGE = "change"
 
@@ -10,7 +10,7 @@ function loadFrom(name: string): Promise<Record<string, unknown>> {
 
 export const CHECKING_IN = "akasha/checks/modules/checking/checking.module.code.ts"
 
-export const INDEXING_IN = "akasha/pages/indexes/modules/indexing/indexing.module.code.ts"
+export const INDEXING_IN = "akasha/pages/index/modules/indexing/indexing.module.code.ts"
 
 export const NO_GATE: Judging = { named: [], checksFor: () => [], over: async () => [] }
 

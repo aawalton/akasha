@@ -3,7 +3,7 @@ import { alive, type Holder } from "akasha/files/modules/lock-holder/lock-holder
 import {
   everyOfType,
   typeSlugOf,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {

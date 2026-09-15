@@ -14,7 +14,7 @@ import {
   put,
   typed,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { valueAlsoFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"

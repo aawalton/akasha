@@ -6,7 +6,7 @@ import type { Given } from "akasha/commands/modules/calling/calling.module.code.
 import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import { pageSecretList } from "akasha/commands/pages/page/secret/list/page-secret-list.command.code.ts"
 import { pageSecretList as page } from "akasha/commands/pages/page/secret/list/page-secret-list.command.ts"
-import { listedById } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedById } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 const CALLED_AS = "akasha page secret list"
 

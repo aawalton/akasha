@@ -8,7 +8,7 @@ import {
   serviceIn,
   systemdIn,
 } from "akasha/infrastructure/services/workstations/modules/service-reading/service-reading.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 const ROOT = process.cwd()
 

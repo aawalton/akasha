@@ -7,7 +7,7 @@
 {"path":"checks/modules/cost/check-cost.module.code.ts"}
 {"path":"checks/modules/measuring/check-measuring.module.code.ts"}
 {"path":"infrastructure/inference/runs/modules/generation-log/generation-log.module.code.ts"}
-{"path":"pages/indexes/modules/path-claiming/path-claiming.module.code.ts"}
+{"path":"pages/index/modules/path-claiming/path-claiming.module.code.ts"}
 {"path":"pages/modules/entries/page-entries.module.code.ts"}
 {"path":"pages/modules/entry-landing/page-entry-landing.module.code.ts"}
 {"path":"pages/modules/entry-writing/page-entry-writing.module.code.ts"}

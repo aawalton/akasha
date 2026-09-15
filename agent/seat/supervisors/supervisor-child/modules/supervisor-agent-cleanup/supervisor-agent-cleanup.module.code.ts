@@ -9,7 +9,7 @@ import {
 } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { processes } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 import type { AgentProcess } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

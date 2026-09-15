@@ -38,7 +38,7 @@ export const graphAsking = {
     },
     {
       invariantKind: "absence",
-      statement: "The folder an index is in is spelled by the indexes rather than here.",
+      statement: "The folder an index is in is spelled by the index rather than here.",
     },
     {
       invariantKind: "absence",

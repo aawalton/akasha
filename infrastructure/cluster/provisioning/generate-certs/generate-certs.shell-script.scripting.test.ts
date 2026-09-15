@@ -2,8 +2,8 @@ import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { bodyIn } from "akasha/infrastructure/cluster/provisioning/generate-certs/generate-certs.shell-script.scripting.code.ts"
-import { fileOf } from "akasha/pages/indexes/modules/property-file/property-file.module.code.ts"
-import { valuedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { fileOf } from "akasha/pages/index/modules/property-file/property-file.module.code.ts"
+import { valuedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()

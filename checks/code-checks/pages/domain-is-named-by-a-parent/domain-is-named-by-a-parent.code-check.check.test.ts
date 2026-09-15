@@ -13,7 +13,7 @@ import {
   put,
   typed,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { pageFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { namedUnder } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
@@ -351,9 +351,9 @@ test("two pages carrying one slug are each judged, not skipped", () => {
 
 test("the slug is the file's first part and the page type the part after it", () => {
   const kinds = kindsIn(rooted())
-  expect(namedUnder("akasha/a/b/index-relation.domain.ts", kinds)).toEqual({
+  expect(namedUnder("akasha/a/b/index-edge.domain.ts", kinds)).toEqual({
     pageTypeSlug: "domain",
-    slug: "index-relation",
+    slug: "index-edge",
   })
   expect(namedUnder("akasha/held.module.code.ts", kinds)).toBeNull()
   expect(namedUnder("held.domain.ts", kinds)).toEqual({

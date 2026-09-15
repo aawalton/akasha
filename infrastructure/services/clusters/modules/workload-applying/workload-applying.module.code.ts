@@ -34,7 +34,7 @@ import {
   type Placing,
   placeSecrets,
 } from "akasha/infrastructure/services/secrets/modules/placing/secret-placing.module.code.ts"
-import { slugsOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { slugsOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 
 const MANIFEST = "manifest"

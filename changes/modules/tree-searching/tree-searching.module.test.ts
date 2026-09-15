@@ -14,11 +14,11 @@ import {
   TYPED_KINDS,
 } from "akasha/changes/modules/tree-searching/tree-searching.module.code.ts"
 import { worldOf } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
-import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { indexNamed } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   put,
   scratch,
-} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

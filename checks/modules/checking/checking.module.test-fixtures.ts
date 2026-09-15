@@ -15,12 +15,12 @@ import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import {
   identitiesTakenFrom,
   noneOfTypeFiled,
   valueTakenFrom,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/pages/modules/shadow/shadow.module.code.ts"

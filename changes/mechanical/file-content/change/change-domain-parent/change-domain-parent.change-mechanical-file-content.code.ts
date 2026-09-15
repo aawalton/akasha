@@ -11,7 +11,7 @@ import {
   namesIn,
   reaches,
   type Shaped,
-} from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
+} from "akasha/pages/index/modules/reaching/reaching.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"

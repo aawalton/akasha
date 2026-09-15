@@ -12,17 +12,17 @@ import {
   filePropertiesAt,
   folderPropertiesAt,
   pageTypesIn,
-} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+} from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
 import {
   claimantOf,
   pagingOf,
-} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+} from "akasha/pages/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
   facingOn,
   generatedIn,
   toolResolvesPathsIn,
-} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
-import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
+import { everyOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 export function checkReachesAPathThroughTheIndex(root: string): readonly Judged[] {
   const change = everythingIn(root)

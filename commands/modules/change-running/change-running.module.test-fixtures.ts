@@ -30,7 +30,7 @@ import {
   NAMER_CODE,
   NAMER_PAGE,
   pageOf,
-} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 export const PAGE = "akasha/agent/seat/pages/tester.seat.ts"
 

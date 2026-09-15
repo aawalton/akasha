@@ -2,7 +2,7 @@ import {
   listedAt,
   readingIn,
   type Valued,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   slugAt,
   slugOf,

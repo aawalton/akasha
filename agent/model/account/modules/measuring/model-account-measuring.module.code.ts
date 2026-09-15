@@ -2,7 +2,7 @@ import { fiveHourResetIn } from "akasha/agent/model/account/modules/five-hour-re
 import {
   everyOfType,
   typeSlugOf,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { wholeValue } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { asInstant } from "akasha/utils/narrow/modules/as-instant/as-instant.module.code.ts"

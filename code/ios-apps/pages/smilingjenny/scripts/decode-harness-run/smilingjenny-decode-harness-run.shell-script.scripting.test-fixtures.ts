@@ -2,7 +2,7 @@ import {
   componentSwiftOf,
   mainSwiftOf,
 } from "akasha/code/ios-apps/modules/decode-harness-script/decode-harness-script.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 
 const DECODING = "smilingjenny-decode-harness"
 

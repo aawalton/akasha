@@ -23,16 +23,16 @@ import {
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { folderOf } from "akasha/code/paths/modules/code-path-between/code-path-between.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
 import type {
   FilePropertiesBy,
   FoldersBy,
   UncommittedBy,
-} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+} from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
 import {
   extensionsFor,
   heldNamed,
-} from "akasha/pages/indexes/modules/extension-carrying/extension-carrying.module.code.ts"
+} from "akasha/pages/index/modules/extension-carrying/extension-carrying.module.code.ts"
 import {
   claimantOf,
   claimsOf,
@@ -40,9 +40,9 @@ import {
   type Paging,
   pagingOf,
   type SidecarsBy,
-} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
-import type { Carried } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
-import type { Known } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
+} from "akasha/pages/index/modules/path-claiming/path-claiming.module.code.ts"
+import type { Carried } from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
+import type { Known } from "akasha/pages/index/modules/reaching/reaching.module.code.ts"
 import { slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   type Held,

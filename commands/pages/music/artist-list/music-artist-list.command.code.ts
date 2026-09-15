@@ -13,7 +13,7 @@ import {
 } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { musicArtistList as page } from "akasha/commands/pages/music/artist-list/music-artist-list.command.ts"
-import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const ARTIST = "artist"

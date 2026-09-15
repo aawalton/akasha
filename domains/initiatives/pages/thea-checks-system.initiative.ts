@@ -15,7 +15,7 @@ export const theaChecksSystem = {
     {
       statement: "No module exports a value nothing names.",
       workingMemory:
-        "123 refusals at 343d997bd9a. alan 31, pages 26, agents 16, story 12, infrastructure 8, temper 7, personas 7, commands 4, checks 4, utils 3, testing-system 3, domains 1, changes 1, and the code tree clear. Most sit in modules that are reached, so narrowing those takes no feature away; a file dead whole is where a feature leaves. Another seat's work under pages/indexes raised that tree while every other tree fell.",
+        "123 refusals at 343d997bd9a. alan 31, pages 26, agents 16, story 12, infrastructure 8, temper 7, personas 7, commands 4, checks 4, utils 3, testing-system 3, domains 1, changes 1, and the code tree clear. Most sit in modules that are reached, so narrowing those takes no feature away; a file dead whole is where a feature leaves. Another seat's work under pages/index raised that tree while every other tree fell.",
     },
 
     {

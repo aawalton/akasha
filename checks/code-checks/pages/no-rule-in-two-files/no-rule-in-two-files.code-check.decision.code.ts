@@ -14,7 +14,7 @@ import {
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { type Spelt, speltIn } from "akasha/code/reading/modules/code-rule/code-rule.module.code.ts"
-import type { Said } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+import type { Said } from "akasha/pages/index/rule/index-rule.index.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 

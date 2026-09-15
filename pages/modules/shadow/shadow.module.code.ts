@@ -7,15 +7,15 @@ import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   type Answering,
   answeringOver,
-} from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
-import { bodiesFrom } from "akasha/pages/indexes/modules/keeping/index-keeping.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { settlingOver } from "akasha/pages/indexes/modules/settling/index-settling.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+} from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
+import { bodiesFrom } from "akasha/pages/index/modules/keeping/index-keeping.module.code.ts"
+import { readingIn } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { settlingOver } from "akasha/pages/index/modules/settling/index-settling.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import {
   indexIn,
   readingAt,
-} from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+} from "akasha/pages/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { valueIn } from "akasha/pages/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"

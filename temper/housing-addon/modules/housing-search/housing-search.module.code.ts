@@ -265,18 +265,18 @@ function asDenseNames(value: (string | undefined)[]): DenseNames {
 
 function sortPairs(this: void, names: Record<number, string> | undefined): string[] | undefined {
   if (names !== undefined) {
-    const indexes: string[] = []
+    const index: string[] = []
     const values: (string | undefined)[] = []
     let index = 0
     const namesByKey = asStringKeyedNames(names)
     for (const key in namesByKey) {
       const value = namesByKey[key]
-      indexes[index] = key
+      index[index] = key
       values[index] = value
       index = index + 1
     }
 
-    let itemCount = indexes.length
+    let itemCount = index.length
     let hasChanged: boolean
     do {
       hasChanged = false

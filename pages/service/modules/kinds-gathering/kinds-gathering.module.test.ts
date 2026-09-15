@@ -4,13 +4,13 @@ import { dirname, join } from "node:path"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { shapeAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.test-fixtures.ts"
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+import { shapeAlsoFiled } from "akasha/pages/index/modules/filing/index-filing.module.test-fixtures.ts"
 import {
   pageFiled,
   relationFiled,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { shapedIn } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { shapedIn } from "akasha/pages/index/shapes/index-shapes.index.code.ts"
 import {
   carriedFor,
   computedInto,

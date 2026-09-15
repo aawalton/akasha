@@ -10,7 +10,7 @@ import {
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/changes/runners/pages/test-change-running/test-change-running.change-runner.code.ts"
-import type { Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import type { Shape } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 
 const AT = "thrumming/moots/moot.page-type.ts"
 

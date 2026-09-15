@@ -3,8 +3,8 @@ import { join } from "node:path"
 import {
   ENTRY_PROPERTY,
   filePropertiesAt,
-} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { bodyOf, importedFrom, unnamedIn } from "akasha/pages/modules/body/page-body.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { partsOver } from "akasha/pages/modules/entry-writing/page-entry-writing.module.code.ts"

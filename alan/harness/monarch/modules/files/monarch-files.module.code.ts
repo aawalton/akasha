@@ -3,7 +3,7 @@ import { join } from "node:path"
 import {
   slugsOfType,
   valuesOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA as AKASHA_REPO,
   resolveRoots,

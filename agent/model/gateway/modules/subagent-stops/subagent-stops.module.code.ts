@@ -11,7 +11,7 @@ import {
   type Following,
   followFolders,
 } from "akasha/infrastructure/services/workstations/modules/file-following/file-following.module.code.ts"
-import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { everyOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/utils/narrow/modules/text-at/text-at.module.code.ts"

@@ -6,7 +6,7 @@ import { slugOfPart } from "akasha/commands/modules/namespace-listing/namespace-
 import {
   typeSlugById,
   valuesOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 const ARGUMENT_TYPE = "01a093fd-9102-76e8-958e-03d34cd41e25"
 

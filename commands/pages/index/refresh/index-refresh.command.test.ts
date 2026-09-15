@@ -16,7 +16,7 @@ import { said as git } from "akasha/git/modules/running/git-running.module.code.
 import {
   indexNamed,
   indexThere,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   everythingFiled,
   fileWhereTheIndexIs,
@@ -26,7 +26,7 @@ import {
   listedUnreadableFiled,
   refreshedApart,
   refreshedIn,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
 import { textProperty } from "akasha/pages/text-properties/text-property.page-type.ts"
@@ -264,7 +264,7 @@ test("the paths a difference holds are counted under the index each is filed in"
   expect(classed(["path/a.jsonl", "value/c.jsonl", "path/b.jsonl"])).toBe("path 2, value 1")
 })
 
-test("the report counts the indexes a difference falls under beside the files it names", () => {
+test("the report counts the index a difference falls under beside the files it names", () => {
   const root = repoAt()
   seeded(root)
   listedUnreadableFiled(root, "domain", "gone")
@@ -284,7 +284,7 @@ test("a path belonging to no index is taken away and named", () => {
   expect(existsSync(stray)).toBe(false)
 })
 
-test("a refresh that stopped part way names the indexes it wrote and the file it had in hand", () => {
+test("a refresh that stopped part way names the index it wrote and the file it had in hand", () => {
   const root = repoAt()
   mkdirSync(join(root, indexNamed(), "path", "a.domain.ts.jsonl", "inside"), { recursive: true })
 

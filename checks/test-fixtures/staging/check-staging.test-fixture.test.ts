@@ -9,13 +9,13 @@ import {
   staged,
 } from "akasha/checks/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
-import { indexImport } from "akasha/pages/indexes/import/index-import.index.ts"
+import { indexImport } from "akasha/pages/index/import/index-import.index.ts"
 import {
   importersOf,
   indexThere,
   listedAt,
   readingIn,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 afterAll(scratch.sweep)

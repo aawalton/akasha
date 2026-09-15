@@ -2,7 +2,7 @@ import {
   type Counted,
   countedIn,
 } from "akasha/alan/track/daily/modules/day-messages/day-messages.module.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 

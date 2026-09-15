@@ -106,9 +106,9 @@
 {"path":"commands/pages/audit/audit.command.code.ts"}
 {"path":"commands/pages/audit/audit.command.test.ts"}
 {"path":"commands/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"}
-{"path":"pages/indexes/modules/carrying/index-carrying.module.code.ts"}
-{"path":"pages/indexes/modules/carrying/index-carrying.module.test-fixtures.ts"}
-{"path":"pages/indexes/modules/generated-properties/generated-properties.module.test.ts"}
+{"path":"pages/index/modules/carrying/index-carrying.module.code.ts"}
+{"path":"pages/index/modules/carrying/index-carrying.module.test-fixtures.ts"}
+{"path":"pages/index/modules/generated-properties/generated-properties.module.test.ts"}
 {"path":"pages/modules/shadow/shadow.module.code.ts"}
 {"path":"pages/modules/shadow/shadow.module.test-fixtures.ts"}
 {"path":"pages/modules/shadow/shadow.module.test.ts"}

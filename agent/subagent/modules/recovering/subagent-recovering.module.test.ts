@@ -45,7 +45,7 @@ import {
   appendEdits,
   linesIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { scratch } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { scratch } from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -7,8 +7,8 @@ import {
   filing,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { speltIn } from "akasha/code/reading/modules/code-rule/code-rule.module.code.ts"
-import { entriesFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { readerIn, type Said } from "akasha/pages/indexes/rule/index-rule.index.code.ts"
+import { entriesFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { readerIn, type Said } from "akasha/pages/index/rule/index-rule.index.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

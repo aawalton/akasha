@@ -4,7 +4,7 @@ import {
   bytesAt,
   type Warrant,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { generatedAt } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+import { generatedAt } from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
 
 export const ITSELF =
   "A file answers for the body it holds, and that body is read before the file is changed."

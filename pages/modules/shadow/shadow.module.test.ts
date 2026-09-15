@@ -2,18 +2,18 @@ import { afterAll, expect, test } from "bun:test"
 import {
   everyValue,
   readingIn,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   everythingRead,
   shapeAdded,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   bodyOf,
   idOf,
   indexedRepo,
   NAMER_PAGE,
   scratch as worldScratch,
-} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { NOT_WORKED_OUT, shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import {

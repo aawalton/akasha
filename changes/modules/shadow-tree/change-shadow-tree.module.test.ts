@@ -15,7 +15,7 @@ import {
   treeUnder,
   treeUnentered,
 } from "akasha/changes/modules/shadow-tree/change-shadow-tree.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
 import {
   carriedPage,
   HELD_CODE,
@@ -23,7 +23,7 @@ import {
   put,
   scratch,
   textIn,
-} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 afterAll(scratch.sweep)

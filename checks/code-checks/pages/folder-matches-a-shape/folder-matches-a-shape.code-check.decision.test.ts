@@ -16,7 +16,7 @@ import {
   segmentedLater,
 } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.decision.test-fixtures.ts"
 import { sectionsOfTheBookAbove } from "akasha/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
-import type { FoldersBy } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import type { FoldersBy } from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
 import { type Held, heldIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -177,7 +177,7 @@ test("a workspace beside a domain answers for the domain and for what that domai
 })
 
 test("the page a claimed file sits beside is the one the index names", () => {
-  expect(pageNameOf("akasha/pages/indexes/indexes.domain.ts")).toBe("indexes.domain")
+  expect(pageNameOf("akasha/pages/index/index.domain.ts")).toBe("index.domain")
   expect(
     namesFiling(
       new Map([

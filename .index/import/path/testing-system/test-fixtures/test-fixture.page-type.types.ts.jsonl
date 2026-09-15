@@ -5,7 +5,7 @@
 {"path":"checks/test-fixtures/staging/check-staging.test-fixture.ts"}
 {"path":"code/paths/test-fixtures/script-paths/script-paths.test-fixture.ts"}
 {"path":"infrastructure/container-image/test-fixtures/recipe-proving/recipe-proving.test-fixture.ts"}
-{"path":"pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.ts"}
+{"path":"pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.ts"}
 {"path":"temper/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.ts"}
 {"path":"temper/characters-addon/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.ts"}
 {"path":"temper/commands/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.ts"}

@@ -14,7 +14,7 @@ import type { Answer, Given } from "akasha/commands/modules/calling/calling.modu
 import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
 import { modelAccountReEnable as page } from "akasha/commands/pages/model/account/re-enable/model-account-re-enable.command.ts"
-import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 
 export function modelAccountReEnable(argv: readonly string[], given: Given): Answer {

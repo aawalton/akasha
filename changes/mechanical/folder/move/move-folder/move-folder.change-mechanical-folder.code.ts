@@ -13,7 +13,7 @@ import {
 import {
   namesFor,
   spellersIn,
-} from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
+} from "akasha/pages/index/modules/path-naming/path-naming.module.code.ts"
 import { namesDrawn } from "akasha/utils/text/modules/name-drawing/name-drawing.module.code.ts"
 
 const OUTSIDE = ".."

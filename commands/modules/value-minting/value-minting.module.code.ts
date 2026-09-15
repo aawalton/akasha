@@ -9,9 +9,9 @@ import {
   changeOf,
 } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { uuidVersion7 } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
-import type { Generated } from "akasha/pages/indexes/modules/generated-properties/generated-properties.module.code.ts"
-import { generatedProperties } from "akasha/pages/indexes/modules/generated-properties/generated-properties.module.code.ts"
+import type { Answering } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
+import type { Generated } from "akasha/pages/index/modules/generated-properties/generated-properties.module.code.ts"
+import { generatedProperties } from "akasha/pages/index/modules/generated-properties/generated-properties.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import {
   heldIn,

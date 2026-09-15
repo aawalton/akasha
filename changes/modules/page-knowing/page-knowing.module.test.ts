@@ -14,7 +14,7 @@ import {
   type World,
   worldAt,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import type { Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import type { Shape } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import {
   HELD_CODE,
   HELD_PAGE,
@@ -22,7 +22,7 @@ import {
   NAMER_PAGE,
   scratch,
   textIn,
-} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 afterAll(scratch.sweep)

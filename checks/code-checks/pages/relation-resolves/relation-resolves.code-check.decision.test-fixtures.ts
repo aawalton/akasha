@@ -3,12 +3,12 @@ import { join } from "node:path"
 import {
   idFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import {
   listedAlsoFiled,
   relationFiled,
   shapeAdded,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing as wrote } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"

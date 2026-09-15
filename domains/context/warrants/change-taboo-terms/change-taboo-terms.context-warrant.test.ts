@@ -19,7 +19,7 @@ import {
   A_PICTURE_AT,
   A_PORTRAIT_AT,
 } from "akasha/domains/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test-fixtures.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 const STAND = "(?<![a-z])(stands?|standing|stood)(?![a-z])"
 

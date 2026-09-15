@@ -315,7 +315,7 @@ iris composes each turn into `state.json.tmp` and atomically `rename(2)`s it ove
 `state.json` to kill piecemeal/torn-read updates. This display already satisfies her two
 invariants: (1) serve.ts streams `state.json` as a **static file** — it never parses or
 caches it server-side (the only server-side parse is of the SEPARATE `actions.json`
-sidecar), so the rename stays atomic for free; (2) serve.ts never indexes or cleans the
+sidecar), so the rename stays atomic for free; (2) serve.ts never index or cleans the
 dir, so a transient `state.json.tmp` is ignored (the browser only ever requests
 `state.json` + `actions.json`). The renderer reads iris's whole-turn `*.delta` in one
 poll, so an all-at-once swap animates the turn's deltas together — no jumpiness.

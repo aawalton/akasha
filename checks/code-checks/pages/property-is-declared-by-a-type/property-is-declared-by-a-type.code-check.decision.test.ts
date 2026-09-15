@@ -20,7 +20,7 @@ import {
   pathFor,
   put,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { pageFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { namedUnder } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 

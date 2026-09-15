@@ -13,12 +13,12 @@ import {
   named,
   staged,
 } from "akasha/checks/test-fixtures/staging/check-staging.test-fixture.code.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { valueAlsoFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import {
   relationFiled,
   shapeAdded,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { indexIn } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { indexIn } from "akasha/pages/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { shadowAsked, shadowFor } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 

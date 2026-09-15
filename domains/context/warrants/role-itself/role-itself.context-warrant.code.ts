@@ -3,7 +3,7 @@ import {
   blobAt,
   type Warrant,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 export const ROLE =
   "A seat answers for the role it states, and that role is read before the seat is changed."

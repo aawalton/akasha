@@ -6,7 +6,7 @@ import {
 } from "akasha/changes/agent/folder/nest-modules/nest-modules.change-agent.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { repoWorld } from "akasha/changes/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
-import { scratch } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { scratch } from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

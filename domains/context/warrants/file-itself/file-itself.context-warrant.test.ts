@@ -9,12 +9,12 @@ import {
   idFiled,
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { generatedAt } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+import { generatedAt } from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
 import {
   relationFiled,
   shapeAdded,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"

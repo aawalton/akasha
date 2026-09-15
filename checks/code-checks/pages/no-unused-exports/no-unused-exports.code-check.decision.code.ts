@@ -10,7 +10,7 @@ import { typeScripted } from "akasha/code/bodies/modules/file-kind/file-kind.mod
 import { groupsIn } from "akasha/code/module-property-groups/modules/group-writing/group-writing.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { landingOf } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import {

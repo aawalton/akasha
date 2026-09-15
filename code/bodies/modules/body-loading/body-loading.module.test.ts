@@ -4,7 +4,7 @@ import {
   heldOver,
 } from "akasha/code/bodies/modules/body-loading/body-loading.module.code.ts"
 import { BESIDE } from "akasha/code/bodies/modules/body-loading/body-loading.module.test-fixtures.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 

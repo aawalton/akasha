@@ -9,7 +9,7 @@ import type { Landing } from "akasha/changes/runners/pages/mechanical-change-run
 import type { Given } from "akasha/commands/modules/calling/calling.module.code.ts"
 import { agentSubagentStop } from "akasha/commands/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"
 import type { RunningSaid } from "akasha/commands/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { valueAlsoFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { SCRATCH_AT } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 

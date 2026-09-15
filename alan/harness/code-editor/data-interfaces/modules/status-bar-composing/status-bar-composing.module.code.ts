@@ -28,7 +28,7 @@ import {
 import {
   typeSlugOf,
   valuesOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { wholeValue } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import {
   slugOf,

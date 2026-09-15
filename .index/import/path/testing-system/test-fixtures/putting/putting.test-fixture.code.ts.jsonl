@@ -32,8 +32,8 @@
 {"path":"commands/pages/measure/repo/modules/repo-measuring/repo-measuring.module.test.ts"}
 {"path":"commands/pages/measure/test/measure-test.command.test.ts"}
 {"path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
-{"path":"pages/indexes/modules/generated-properties/generated-properties.module.test.ts"}
-{"path":"pages/indexes/modules/surface/index-surface.module.test.ts"}
+{"path":"pages/index/modules/generated-properties/generated-properties.module.test.ts"}
+{"path":"pages/index/modules/surface/index-surface.module.test.ts"}
 {"path":"pages/modules/shadow/shadow.module.test-fixtures.ts"}
 {"path":"pages/modules/shadow/shadow.module.test.ts"}
 {"path":"testing-system/test-fixtures/repo-seeding/repo-seeding.test-fixture.code.ts"}

@@ -8,8 +8,8 @@ import { reads } from "akasha/agent/properties/reads.file-property.ts"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { mintedId } from "akasha/testing-system/test-fixtures/minting/minting.test-fixture.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

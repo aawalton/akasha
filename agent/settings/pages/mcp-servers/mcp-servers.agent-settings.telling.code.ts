@@ -1,5 +1,5 @@
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const MODULE = "module"

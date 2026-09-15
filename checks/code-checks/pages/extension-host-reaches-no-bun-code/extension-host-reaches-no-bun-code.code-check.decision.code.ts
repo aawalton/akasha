@@ -14,7 +14,7 @@ import {
   reachesIn,
   reachingOver,
 } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
-import type { Carried } from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+import type { Carried } from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"

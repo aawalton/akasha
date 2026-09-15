@@ -1,7 +1,7 @@
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { repointed } from "akasha/changes/modules/import-repointing/import-repointing.module.code.ts"
 import type { World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
+import { importingOf } from "akasha/pages/index/modules/path-naming/path-naming.module.code.ts"
 
 export function refusalOver(world: World, moved: ReadonlyMap<string, string>): string | null {
   if (moved.size === 0) return "no path was handed in, so nothing is moved"

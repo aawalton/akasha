@@ -11,8 +11,8 @@ import {
   PROFILE_URL,
 } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
 import { accountPathIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
-import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import type { PageOf } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import { removeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 

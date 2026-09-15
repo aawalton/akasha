@@ -7,8 +7,8 @@ import {
 } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { landRemovals } from "akasha/changes/modules/gated-landing/gated-landing.module.code.ts"
 import { fileStemOf } from "akasha/pages/identity/modules/file-page/file-page.module.code.ts"
-import { fileKeysAt } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
-import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { fileKeysAt } from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
+import { everyOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { besideOf } from "akasha/pages/modules/beside/page-beside.module.code.ts"
 import {
   AKASHA,

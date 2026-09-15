@@ -1,6 +1,6 @@
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { FILE_PROPERTY } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { FILE_PROPERTY } from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
 import {
   besideAt,
   uncommittedBesideAt,

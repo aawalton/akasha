@@ -9,4 +9,4 @@
 {"path":"checks/code-checks/pages/typecheck/typecheck.code-check.decision.code.ts"}
 {"path":"code/reading/modules/code-typing/code-typing.module.code.ts"}
 {"path":"code/workspaces/modules/package-manifest/package-manifest.module.test.ts"}
-{"path":"pages/indexes/modules/package-reaching/package-reaching.module.code.ts"}
+{"path":"pages/index/modules/package-reaching/package-reaching.module.code.ts"}

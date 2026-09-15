@@ -17,7 +17,7 @@ import {
   showingRecords,
   takingRecords,
 } from "akasha/commands/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.code.ts"
-import { scratch } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { scratch } from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 
 afterAll(scratch.sweep)

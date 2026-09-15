@@ -76,8 +76,8 @@ import {
 import { committed, whileIndexFrees } from "akasha/git/modules/committing/committing.module.code.ts"
 import { holding } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { valueByPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { underIndex } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import { valueByPath } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { underIndex } from "akasha/pages/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { saidBy } from "akasha/utils/narrow/modules/said-by/said-by.module.code.ts"
 

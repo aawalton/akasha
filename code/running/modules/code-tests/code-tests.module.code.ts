@@ -6,7 +6,7 @@ import {
   mountedOver,
   type Overlay,
 } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
-import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import { INDEX_AT } from "akasha/pages/index/modules/surface/index-surface.module.code.ts"
 import {
   AKASHA,
   repos,

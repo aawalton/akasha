@@ -7,7 +7,7 @@ import {
   scratch,
   staged,
 } from "akasha/checks/test-fixtures/staging/check-staging.test-fixture.code.ts"
-import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import { put } from "akasha/testing-system/test-fixtures/putting/putting.test-fixture.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"
 

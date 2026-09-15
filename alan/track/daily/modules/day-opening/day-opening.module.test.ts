@@ -6,7 +6,7 @@ import {
   openedDayWindow,
   openingInstantOn,
 } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import {
   AKASHA,
   rootsNamed,

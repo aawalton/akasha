@@ -14,7 +14,7 @@ import {
   fileDomain,
   WHOLE,
 } from "akasha/domains/context/warrants/file-domain/file-domain.context-warrant.code.ts"
-import { idTakenFrom } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { idTakenFrom } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 

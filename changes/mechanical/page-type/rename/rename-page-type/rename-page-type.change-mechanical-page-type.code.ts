@@ -26,7 +26,7 @@ import {
 import { type World, worldOver } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { placingOver } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
-import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
+import { importingOf } from "akasha/pages/index/modules/path-naming/path-naming.module.code.ts"
 import { spellingsIn } from "akasha/pages/modules/export-name/modules/export-spelling/export-spelling.module.code.ts"
 import {
   exportedAs,

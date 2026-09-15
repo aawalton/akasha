@@ -10,11 +10,11 @@ import type { Naming } from "akasha/commands/modules/walking/command-walking.mod
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import {
   bodyOf,
   type Held,
-} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

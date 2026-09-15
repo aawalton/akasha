@@ -1,5 +1,5 @@
 import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import type { Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import type { Shape } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import { importedFrom, saidAs } from "akasha/pages/modules/body/page-body.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import {

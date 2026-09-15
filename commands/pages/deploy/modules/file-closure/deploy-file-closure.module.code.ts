@@ -16,11 +16,11 @@ import {
   type Body,
   manifestsAmong,
   reachingOf,
-} from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
+} from "akasha/pages/index/modules/package-reaching/package-reaching.module.code.ts"
 import {
   everyOfType,
   valuesOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const MANIFEST = "package.json"

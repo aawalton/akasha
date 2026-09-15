@@ -23,12 +23,12 @@ import { said as gitIn } from "akasha/git/modules/running/git-running.module.cod
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import {
   noImportersFiled,
   pageFiled,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { INDEX_AT } from "akasha/pages/index/modules/surface/index-surface.module.code.ts"
 import { bytesOf as bytes } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import {
   ADMITS_CODE,

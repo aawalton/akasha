@@ -3,7 +3,7 @@ import { whyOf } from "akasha/commands/modules/fault-saying/fault-saying.module.
 import {
   everyOfType,
   listedAt,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

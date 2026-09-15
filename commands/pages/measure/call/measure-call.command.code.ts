@@ -9,7 +9,7 @@ import {
   besideIn,
   costsOf,
 } from "akasha/commands/pages/measure/modules/gathering/measure-gathering.module.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 const SEAT = "seat"
 

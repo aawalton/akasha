@@ -17,7 +17,7 @@ import {
   runKubectlOn,
 } from "akasha/infrastructure/services/clusters/modules/workload-deploying/workload-deploying.module.code.ts"
 import { placeSecrets } from "akasha/infrastructure/services/secrets/modules/placing/secret-placing.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 
 const WAITED_ONCE = "10s"
 

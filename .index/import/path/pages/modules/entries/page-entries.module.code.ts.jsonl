@@ -4,10 +4,10 @@
 {"path":"checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"}
 {"path":"checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.code.ts"}
 {"path":"commands/pages/music/capture/music-capture.command.code.ts"}
-{"path":"pages/indexes/modules/indexing/indexing.module.code.ts"}
-{"path":"pages/indexes/modules/reaching/reaching.module.code.ts"}
-{"path":"pages/indexes/modules/settling/index-settling.module.code.ts"}
-{"path":"pages/indexes/edge/index-relation.index.code.ts"}
+{"path":"pages/index/modules/indexing/indexing.module.code.ts"}
+{"path":"pages/index/modules/reaching/reaching.module.code.ts"}
+{"path":"pages/index/modules/settling/index-settling.module.code.ts"}
+{"path":"pages/index/edge/index-edge.index.code.ts"}
 {"path":"pages/modules/entries/page-entries.module.test-fixtures.ts"}
 {"path":"pages/modules/entries/page-entries.module.test.ts"}
 {"path":"pages/modules/entry-writing/page-entry-writing.module.test.ts"}

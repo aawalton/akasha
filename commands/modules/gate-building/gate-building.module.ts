@@ -76,7 +76,7 @@ export const gateBuilding = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here indexes.",
+      statement: "Nothing here index.",
     },
     {
       invariantKind: "absence",

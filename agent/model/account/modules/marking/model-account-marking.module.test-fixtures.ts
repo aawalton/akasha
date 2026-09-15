@@ -11,17 +11,17 @@ import {
   sortedFrom,
   type Usage,
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.code.ts"
-import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import type { PageOf } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+import { readingIn } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   pageFiled,
   shapeAdded,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import type { Child, Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+import type { Child, Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import { uncommittedIn } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import type { Carried } from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"

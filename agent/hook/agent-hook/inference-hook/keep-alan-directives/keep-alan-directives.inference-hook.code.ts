@@ -44,7 +44,7 @@ import { rootOf } from "akasha/commands/modules/rooting/rooting.module.code.ts"
 import {
   valuedAt,
   valuesOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { slugOf } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const HOOK = "keep-alan-directives"

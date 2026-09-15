@@ -1,7 +1,7 @@
 import { mirroredOf } from "akasha/checks/modules/change-mirror/change-mirror.module.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
-import { pathsOf } from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+import type { Answering } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
+import { pathsOf } from "akasha/pages/index/modules/path-claiming/path-claiming.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import {

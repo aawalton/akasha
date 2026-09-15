@@ -69,7 +69,7 @@ test("a comma joins a second fact and is refused", () => {
 
 test("a semicolon joins a second fact as a comma does", () => {
   const body = paged(
-    JSON.stringify("The indexes answer what is there; the graph answers what follows.")
+    JSON.stringify("The index answer what is there; the graph answers what follows.")
   )
   const said = marked(AT, body)
   expect(said).toHaveLength(1)

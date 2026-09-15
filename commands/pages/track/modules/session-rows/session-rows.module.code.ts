@@ -21,7 +21,7 @@ import {
   statesVersionSeven,
   uuidVersion7,
 } from "akasha/pages/ids/modules/uuid-version-7/uuid-version-7.module.code.ts"
-import { valuesByPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { valuesByPath } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   numberAt,
   textIn,

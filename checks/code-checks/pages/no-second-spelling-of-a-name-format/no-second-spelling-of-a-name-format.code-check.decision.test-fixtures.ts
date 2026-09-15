@@ -4,7 +4,7 @@ import {
   declaring,
   filing,
 } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"

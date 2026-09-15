@@ -5,12 +5,12 @@ import type { FileChange } from "akasha/changes/modules/answer/change-answer.mod
 import {
   filePropertiesAt,
   uncommittedFiledAt,
-} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+} from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
 import {
   claimsOf,
   sidecarsOver,
-} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
-import { valueByPath } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/path-claiming/path-claiming.module.code.ts"
+import { valueByPath } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { uncommittedHeld } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 

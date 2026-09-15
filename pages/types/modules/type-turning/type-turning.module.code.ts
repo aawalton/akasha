@@ -2,12 +2,12 @@ import {
   type Facing,
   facingOn,
   generatedIn,
-} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+} from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
 import {
   importersIn,
   readingIn,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 

@@ -8,7 +8,7 @@ import {
   everyOfType,
   listedById,
   typeSlugOf,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { importedFrom } from "akasha/pages/modules/body/page-body.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 

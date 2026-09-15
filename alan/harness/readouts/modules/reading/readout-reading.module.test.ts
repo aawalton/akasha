@@ -9,8 +9,8 @@ import {
   wentSilentAtKept,
   wentSilentAtOn,
 } from "akasha/alan/harness/readouts/modules/reading/readout-reading.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   mergeUncommitted,
   uncommittedIn,

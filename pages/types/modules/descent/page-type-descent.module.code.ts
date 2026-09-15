@@ -1,8 +1,8 @@
 import {
   slugsOfType,
   valuesOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import { slugsIn } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 const PAGE = "page"

@@ -10,7 +10,7 @@ export const completionLoreLibraryProgress = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A book is keyed by three indexes taken together.",
+      statement: "A book is keyed by three index taken together.",
     },
   ],
 } as const satisfies Module

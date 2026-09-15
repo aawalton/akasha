@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { fileOf } from "akasha/pages/indexes/modules/property-file/property-file.module.code.ts"
-import { valuedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { fileOf } from "akasha/pages/index/modules/property-file/property-file.module.code.ts"
+import { valuedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { akashaHere } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   capturedAtOf,

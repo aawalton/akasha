@@ -13,9 +13,9 @@ import {
 } from "akasha/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-body-read-beside-an-index/no-body-read-beside-an-index.syntax-rule.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 
-const ANSWERING = 'import type { Answering } from "@akasha/indexes/answering"\n'
+const ANSWERING = 'import type { Answering } from "@akasha/index/answering"\n'
 
-const READING = 'import type { Reading } from "@akasha/indexes/shape"\n'
+const READING = 'import type { Reading } from "@akasha/index/shape"\n'
 
 const SHADOW = 'import type { Shadow } from "@akasha/pages/modules/shadow"\n'
 

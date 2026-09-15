@@ -36,7 +36,7 @@ import { uuidVersion7 } from "akasha/pages/ids/modules/uuid-version-7/uuid-versi
 import {
   everyOfType,
   valuesOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { entriesAt } from "akasha/pages/modules/entries/page-entries.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {

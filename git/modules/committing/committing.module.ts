@@ -120,7 +120,7 @@ export const committing = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here indexes.",
+      statement: "Nothing here index.",
     },
     {
       invariantKind: "absence",

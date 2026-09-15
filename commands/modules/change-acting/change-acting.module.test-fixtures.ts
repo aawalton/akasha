@@ -19,11 +19,11 @@ import {
 } from "akasha/commands/modules/change-acting/change-acting.module.code.ts"
 import type { Piping } from "akasha/commands/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/commands/modules/refusing/refusing.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import {
   indexedRepo,
   NAMER_CODE,
-} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 const PRESENCE_AT = "akasha/subagent-presence.module.ts"
 

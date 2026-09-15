@@ -5,14 +5,14 @@ import {
   reachingOver,
 } from "akasha/code/workspaces/modules/package-manifest/package-manifest.module.code.ts"
 
-const FOLDER = "akasha/pages-system/indexes"
+const FOLDER = "akasha/pages-system/index"
 
 const READING = `${FOLDER}/index-reading/index-reading.module.code.ts`
 
 const SHAPE = `${FOLDER}/index-shape/index-shape.module.code.ts`
 
 const MANIFEST = JSON.stringify({
-  name: "@akasha/indexes",
+  name: "@akasha/index",
   exports: {
     ".": "./index-reading/index-reading.module.code.ts",
     "./shape": "./index-shape/index-shape.module.code.ts",
@@ -20,7 +20,7 @@ const MANIFEST = JSON.stringify({
 })
 
 test("what a manifest calls its package is answered apart from the ways in", () => {
-  expect(calledIn(MANIFEST)).toBe("@akasha/indexes")
+  expect(calledIn(MANIFEST)).toBe("@akasha/index")
   expect(calledIn(JSON.stringify({ name: "one" }))).toBe("one")
 })
 
@@ -36,11 +36,11 @@ test("a body that is not there calls its package nothing", () => {
 })
 
 test("a key that is a lone dot names the package itself", () => {
-  expect(reachesIn(FOLDER, MANIFEST).get("@akasha/indexes")).toBe(READING)
+  expect(reachesIn(FOLDER, MANIFEST).get("@akasha/index")).toBe(READING)
 })
 
 test("every other key is reached by the name followed by that key past its opening dot", () => {
-  expect(reachesIn(FOLDER, MANIFEST).get("@akasha/indexes/shape")).toBe(SHAPE)
+  expect(reachesIn(FOLDER, MANIFEST).get("@akasha/index/shape")).toBe(SHAPE)
 })
 
 test("a target is resolved against the folder the manifest sits in", () => {
@@ -49,8 +49,8 @@ test("a target is resolved against the folder the manifest sits in", () => {
 })
 
 test("a manifest stating one string for its exports is read as stating a lone dot", () => {
-  const held = reachesIn(FOLDER, JSON.stringify({ name: "@akasha/indexes", exports: "./a.ts" }))
-  expect([...held]).toEqual([["@akasha/indexes", `${FOLDER}/a.ts`]])
+  const held = reachesIn(FOLDER, JSON.stringify({ name: "@akasha/index", exports: "./a.ts" }))
+  expect([...held]).toEqual([["@akasha/index", `${FOLDER}/a.ts`]])
 })
 
 test("a target that is no string names no way in", () => {
@@ -87,7 +87,7 @@ test("a manifest that will not parse names no way in", () => {
 
 test("a manifest holding anything but an object names no way in", () => {
   expect([...reachesIn(FOLDER, "null")]).toEqual([])
-  expect([...reachesIn(FOLDER, '"@akasha/indexes"')]).toEqual([])
+  expect([...reachesIn(FOLDER, '"@akasha/index"')]).toEqual([])
 })
 
 test("what many manifests name is read as one naming", () => {

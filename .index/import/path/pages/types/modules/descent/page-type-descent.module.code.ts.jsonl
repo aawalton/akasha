@@ -4,9 +4,9 @@
 {"path":"commands/pages/domain/modules/drawing/domain-drawing.module.code.ts"}
 {"path":"domains/modules/reading/domain-reading.module.code.ts"}
 {"path":"domains/modules/rows/domain-rows.module.code.ts"}
-{"path":"pages/indexes/modules/answering/index-answering.module.code.ts"}
-{"path":"pages/indexes/modules/answering/index-answering.module.test.ts"}
-{"path":"pages/indexes/modules/property-carrying/property-carrying.module.code.ts"}
+{"path":"pages/index/modules/answering/index-answering.module.code.ts"}
+{"path":"pages/index/modules/answering/index-answering.module.test.ts"}
+{"path":"pages/index/modules/property-carrying/property-carrying.module.code.ts"}
 {"path":"pages/service/modules/kinds-gathering/kinds-gathering.module.code.ts"}
 {"path":"pages/types/modules/declared-properties/declared-properties.module.code.ts"}
 {"path":"pages/types/modules/descent/page-type-descent.module.test.ts"}

@@ -4,7 +4,7 @@ import {
   heldAddonNamesARosterAddon,
 } from "akasha/checks/code-checks/pages/held-addon-names-a-roster-addon/held-addon-names-a-roster-addon.code-check.audit.code.ts"
 import { filing } from "akasha/checks/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { valueAlsoFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { valueAlsoFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 

@@ -8,7 +8,7 @@ import {
   parsedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
-import type { Listed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Listed } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   partedIn,
   uncommittedHeld,

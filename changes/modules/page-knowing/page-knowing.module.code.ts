@@ -2,9 +2,9 @@ import type { World } from "akasha/changes/modules/shadow/change-shadow.module.c
 import {
   eachTarget,
   type Shaped,
-} from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
-import type { Named } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import type { Shape } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+} from "akasha/pages/index/modules/reaching/reaching.module.code.ts"
+import type { Named } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import type { Shape } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {

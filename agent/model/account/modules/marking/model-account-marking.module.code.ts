@@ -4,9 +4,9 @@ import {
 } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
 import { computePacingDerivations } from "akasha/agent/model/account/modules/pacing/model-account-pacing.module.code.ts"
 import { accountPathIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
-import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
-import { typeSlugOf } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import type { PageOf } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
+import { typeSlugOf } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import {
   dropUncommitted,
   mergeUncommitted,

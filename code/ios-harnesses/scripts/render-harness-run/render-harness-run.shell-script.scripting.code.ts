@@ -1,10 +1,10 @@
-import { fileOf } from "akasha/pages/indexes/modules/property-file/property-file.module.code.ts"
+import { fileOf } from "akasha/pages/index/modules/property-file/property-file.module.code.ts"
 import {
   listedAt,
   valuedAt,
   valuesOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import {
   slugsIn,

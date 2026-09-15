@@ -9,8 +9,8 @@ import {
   folderOf,
   pathsUnder,
 } from "akasha/checks/modules/router-app-code/router-app-code.module.code.ts"
-import { filePropertiesAt } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
-import { everyOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { filePropertiesAt } from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
+import { everyOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const NONE: ReadonlyMap<string, string | null> = new Map()

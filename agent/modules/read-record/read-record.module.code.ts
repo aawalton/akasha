@@ -3,7 +3,7 @@ import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileS
 import { dirname, join } from "node:path"
 import { reads } from "akasha/agent/properties/reads.file-property.ts"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
-import { valuesOfType } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { valuesOfType } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const SEAT = "seat"

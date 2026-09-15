@@ -32,10 +32,10 @@
 {"path":"infrastructure/services/workstations/modules/run-composing/run-composing.module.code.ts"}
 {"path":"pages/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"}
 {"path":"pages/core/view-state/modules/reducers/reducers.module.code.ts"}
-{"path":"pages/indexes/modules/property-carrying/property-carrying.module.code.ts"}
-{"path":"pages/indexes/modules/property-shaping/property-shaping.module.code.ts"}
-{"path":"pages/indexes/modules/reaching/reaching.module.code.ts"}
-{"path":"pages/indexes/modules/reading/index-reading.module.code.ts"}
+{"path":"pages/index/modules/property-carrying/property-carrying.module.code.ts"}
+{"path":"pages/index/modules/property-shaping/property-shaping.module.code.ts"}
+{"path":"pages/index/modules/reaching/reaching.module.code.ts"}
+{"path":"pages/index/modules/reading/index-reading.module.code.ts"}
 {"path":"pages/modules/address/page-address.module.test.ts"}
 {"path":"pages/modules/record-sweeping/record-sweeping.module.code.ts"}
 {"path":"pages/modules/value-reading/page-value-reading.module.code.ts"}

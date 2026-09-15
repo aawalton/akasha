@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { indexesAt } from "akasha/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.decision.code.ts"
+import { indexAt } from "akasha/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.decision.code.ts"
 import {
   AT,
   HELD,
@@ -20,11 +20,11 @@ test("a body spelling a path into the index is refused", () => {
   expect(said[0]).toContain("spells a path into the index")
 })
 
-test("the indexes folder is where the index's place is said, so it is passed over", () => {
+test("the index folder is where the index's place is said, so it is passed over", () => {
   expect(reasonsIn(OWNED, `const INDEX_AT = "${AT}"\n`)).toEqual([])
 })
 
-test("asking the indexes folder for the path leaves nothing to refuse", () => {
+test("asking the index folder for the path leaves nothing to refuse", () => {
   const body = 'import { indexIn } from "../a.ts"\nconst at = indexIn(root)\n'
   expect(reasonsIn(HELD, body)).toEqual([])
 })
@@ -55,6 +55,6 @@ test("a file beside a page is judged, so the page alone is passed over", () => {
   expect(reasonsIn(HELD, `const at = "${AT}/identity/module/slug"\n`)).toHaveLength(1)
 })
 
-test("where the indexes folder sits is read from the index rather than spelt here", () => {
-  expect(indexesAt(shadowAt(rooted({})))).toBe(INDEXES)
+test("where the index folder sits is read from the index rather than spelt here", () => {
+  expect(indexAt(shadowAt(rooted({})))).toBe(INDEXES)
 })

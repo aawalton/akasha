@@ -298,7 +298,7 @@
 {"path":"infrastructure/services/workstations/properties/wants.text-property.ts"}
 {"path":"pages/file-properties/properties/extensions.text-property.ts"}
 {"path":"pages/file-properties/properties/file-name.text-property.ts"}
-{"path":"pages/indexes/properties/index-name.text-property.ts"}
+{"path":"pages/index/properties/index-name.text-property.ts"}
 {"path":"pages/named-extension-properties/properties/extension-name.text-property.ts"}
 {"path":"pages/named-folder-properties/properties/folder-name.text-property.ts"}
 {"path":"pages/navs/properties/back-href.text-property.ts"}

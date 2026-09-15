@@ -363,7 +363,7 @@ test("a specifier spelled from the root under the folder that moved follows it",
   )
 })
 
-const READER = "held/indexes/rule/held-rule.index.code.ts"
+const READER = "held/index/rule/held-rule.index.code.ts"
 
 const RULE = "held/reading/modules/rule/held-rule.module.code.ts"
 

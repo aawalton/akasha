@@ -6,8 +6,8 @@ import {
   everyOfType,
   readingIn,
   valuesOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   AKASHA,

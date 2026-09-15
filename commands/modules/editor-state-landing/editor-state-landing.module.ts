@@ -43,7 +43,7 @@ export const editorStateLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "The pictures are written after the indexes are level with the change.",
+      statement: "The pictures are written after the index are level with the change.",
     },
     {
       invariantKind: "departure",

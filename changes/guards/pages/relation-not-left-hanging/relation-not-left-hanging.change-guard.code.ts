@@ -8,8 +8,8 @@ import {
   namingsIn,
   reaches,
   type Shaped,
-} from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
-import type { Named } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reaching/reaching.module.code.ts"
+import type { Named } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { pageNamed, partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 

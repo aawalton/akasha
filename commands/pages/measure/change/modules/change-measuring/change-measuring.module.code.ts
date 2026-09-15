@@ -15,7 +15,7 @@ import {
   underRan,
   withinOf,
 } from "akasha/checks/modules/measuring/check-measuring.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 export const CHANGE = "change"
 

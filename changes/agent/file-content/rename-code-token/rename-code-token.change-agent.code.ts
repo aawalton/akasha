@@ -19,7 +19,7 @@ import {
   typed,
   typingOver,
 } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
-import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
+import { importingOf } from "akasha/pages/index/modules/path-naming/path-naming.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import ts from "typescript"

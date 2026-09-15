@@ -1,0 +1,53 @@
+import {
+  answered,
+  shapesEvery,
+  shapesOfType,
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import type { Reading, Shape } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
+import { addressedIn, addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
+
+export function shapesAt(given: string | Reading): ReadonlyMap<string, Shape> {
+  return shapesEvery(given)
+}
+
+export type Shaping = { readonly shape: Shape } | { readonly refused: string }
+
+function carriesNo(slug: string): string {
+  return `no page property carries the slug \`${slug}\``
+}
+
+function among(slug: string, named: readonly string[]): string {
+  return (
+    `\`${slug}\` narrows to ${named.length} page properties and must name its page type — ` +
+    [...named].sort().join(", ")
+  )
+}
+
+function searchedIn(reading: Reading, slug: string): Shaping {
+  const found: Shape[] = []
+  const qualified: string[] = []
+  for (const held of shapesAt(reading).values()) {
+    if (held.slug !== slug) continue
+    found.push(held)
+    qualified.push(`${held.pageTypeSlug}/${slug}`)
+  }
+  const one = found[0]
+  if (found.length === 1 && one !== undefined) return { shape: one }
+  return { refused: found.length === 0 ? carriesNo(slug) : among(slug, qualified) }
+}
+
+function namedIn(reading: Reading, named: string): Shaping {
+  const bare = addressIn(named)
+  if (bare.kind === "bare") return searchedIn(reading, bare.slug)
+  const address = addressedIn(named)
+  if ("refused" in address) return { refused: address.refused }
+  if ("id" in address) {
+    return { refused: `\`${named}\` names a page by id, and a page property is named by its slug` }
+  }
+  const one = shapesOfType(reading, address.pageTypeSlug).get(address.value)
+  return one === undefined ? { refused: carriesNo(address.value) } : { shape: one }
+}
+
+export function shapeOf(given: string | Reading, named: string): Shaping {
+  return answered(given, "", `what shape \`${named}\` has`, (reading) => namedIn(reading, named))
+}

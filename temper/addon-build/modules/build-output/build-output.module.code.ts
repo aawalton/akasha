@@ -1,5 +1,5 @@
 import { dirname, join } from "node:path"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 const DOMAIN = "domain"
 

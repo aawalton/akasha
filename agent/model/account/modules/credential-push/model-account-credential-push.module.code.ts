@@ -13,8 +13,8 @@ import {
 import { partWay } from "akasha/commands/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/commands/modules/applying/applying.module.code.ts"
 import type { Refused } from "akasha/commands/modules/landing/landing.module.code.ts"
-import type { PageOf } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import type { PageOf } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import {
   secretAt,
   uncommittedAt,

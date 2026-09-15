@@ -1,6 +1,6 @@
 import {
   found,
-  indexesAt,
+  indexAt,
 } from "akasha/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.decision.code.ts"
 import {
   overEveryText,
@@ -11,7 +11,7 @@ import { shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 export function noIndexPathSpelled(root: string): readonly Judged[] {
   const shadow = shadowAt(root)
-  const under = indexesAt(shadow)
+  const under = indexAt(shadow)
   const pageTypes = pageTypesFor(shadow)
   return overEveryText(root, (path, text) => found(under, pageTypes, path, text))
 }

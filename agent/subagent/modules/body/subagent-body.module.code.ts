@@ -1,4 +1,4 @@
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { namedAs } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   importedFrom,

@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative } from "node:path"
-import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import { INDEX_AT } from "akasha/pages/index/modules/surface/index-surface.module.code.ts"
 import { z } from "zod"
 
 const PKG_JSON_PARTIAL_SCHEMA = z.object({ workspaces: z.unknown().optional() }).passthrough()

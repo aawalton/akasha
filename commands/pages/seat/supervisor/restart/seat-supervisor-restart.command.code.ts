@@ -18,7 +18,7 @@ import { alive } from "akasha/files/modules/lock-holder/lock-holder.module.code.
 import {
   everyOfType,
   typeSlugOf,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { mergeUncommitted } from "akasha/pages/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"

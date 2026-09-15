@@ -21,7 +21,7 @@ import {
   linesIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { exclusively } from "akasha/files/modules/exclusive/exclusive.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   partedIn,
   uncommittedBesideAt,

@@ -142,7 +142,7 @@
 {"path":"infrastructure/services/workstations/modules/service-checkout/service-checkout.module.code.ts"}
 {"path":"infrastructure/services/workstations/modules/service-putting-up/service-putting-up.module.test.ts"}
 {"path":"pages/commands/modules/page-secret-acting/page-secret-acting.module.test.ts"}
-{"path":"pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
+{"path":"pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"path":"pages/modules/secret/page-secret.module.test.ts"}
 {"path":"pages/name-formats/modules/format-reaching/format-reaching.module.test.ts"}
 {"path":"pages/service/modules/file-answering/file-answering.module.test.ts"}

@@ -1,4 +1,4 @@
-import { refreshedIn } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { refreshedIn } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"

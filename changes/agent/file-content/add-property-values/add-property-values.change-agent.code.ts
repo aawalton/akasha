@@ -15,7 +15,7 @@ import {
   typeIn,
 } from "akasha/changes/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { reaches } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
+import { reaches } from "akasha/pages/index/modules/reaching/reaching.module.code.ts"
 
 const ADD_PROPERTY_VALUE = "change-mechanical-file-content/add-property-value"
 

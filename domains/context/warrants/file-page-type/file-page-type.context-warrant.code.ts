@@ -3,7 +3,7 @@ import {
   type Knowing,
   type Warrant,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 export const TYPE = "A page answers to its type."

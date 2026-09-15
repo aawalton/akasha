@@ -2,4 +2,4 @@
 {"path":"checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.test-fixtures.ts"}
 {"path":"checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.decision.test.ts"}
 {"path":"code/reading/modules/code-rule/code-rule.module.test.ts"}
-{"path":"pages/indexes/rule/index-rule.index.code.ts"}
+{"path":"pages/index/rule/index-rule.index.code.ts"}

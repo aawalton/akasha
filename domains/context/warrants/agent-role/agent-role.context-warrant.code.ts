@@ -3,7 +3,7 @@ import {
   blobAt,
   type Warrant,
 } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 export const ROLE_TYPE =
   "An agent is held to what every role is held to, and that is read before the agent is changed."

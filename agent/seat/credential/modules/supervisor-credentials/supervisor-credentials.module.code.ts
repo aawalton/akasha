@@ -28,7 +28,7 @@ import {
   LOG,
 } from "akasha/agent/seat/supervisors/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { guardTick } from "akasha/agent/seat/supervisors/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { readingIn } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

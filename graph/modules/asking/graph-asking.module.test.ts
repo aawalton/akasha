@@ -44,10 +44,10 @@ import {
   type Answering,
   answeringOver,
   type PageOf,
-} from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
-import { readingIn } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import { readingLaidOver } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+} from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
+import { readingIn } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import { readingLaidOver } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 
 const REPO_AT = rootOf(import.meta.dir)

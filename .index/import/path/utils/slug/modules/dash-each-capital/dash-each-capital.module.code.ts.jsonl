@@ -2,6 +2,6 @@
 {"path":"changes/modules/page-renaming/page-renaming.module.code.ts"}
 {"path":"checks/code-checks/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.code-check.decision.code.ts"}
 {"path":"domains/context/warrants/file-property/file-property.context-warrant.code.ts"}
-{"path":"pages/indexes/modules/path-claiming/path-claiming.module.code.ts"}
+{"path":"pages/index/modules/path-claiming/path-claiming.module.code.ts"}
 {"path":"pages/modules/export-name/page-export-name.module.test.ts"}
 {"path":"temper/build-deploy-checks/modules/cli-args/cli-args.module.code.ts"}

@@ -2,7 +2,7 @@ import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Ran, Spent } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
 import { RUNNING } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
-import { nothingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { nothingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
 
 export const PASSES =
@@ -46,7 +46,7 @@ export const TYPE_WAS = `${TREE}/text-property.page-type.ts`
 export const TYPE_NOW = `${TREE}/types/text-property.page-type.ts`
 
 const INDEXES = Bun.resolveSync(
-  "akasha/pages/indexes/modules/reading/index-reading.module.code.ts",
+  "akasha/pages/index/modules/reading/index-reading.module.code.ts",
   import.meta.dir
 )
 

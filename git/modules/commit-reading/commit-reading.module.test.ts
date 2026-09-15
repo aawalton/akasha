@@ -12,7 +12,7 @@ import {
   commitThere,
   readingEnded,
 } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import { until } from "akasha/testing-system/test-fixtures/waiting/waiting.test-fixture.code.ts"
 import { ran } from "akasha/utils/run/modules/running/running.module.code.ts"

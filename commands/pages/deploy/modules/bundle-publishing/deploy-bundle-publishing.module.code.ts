@@ -2,11 +2,11 @@ import { createHash } from "node:crypto"
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { shapeOf } from "akasha/pages/indexes/modules/property-shaping/property-shaping.module.code.ts"
+import { shapeOf } from "akasha/pages/index/modules/property-shaping/property-shaping.module.code.ts"
 import {
   listedAt,
   valueByPath,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   ARCHIVE_NAME,
   packedBundle,

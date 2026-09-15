@@ -49,8 +49,8 @@ test("a bare specifier is the package it names", () => {
 })
 
 test("a scoped specifier is the scope and the slug past it", () => {
-  expect(packageOf(AT, "@akasha/indexes")).toBe("@akasha/indexes")
-  expect(packageOf(AT, "@akasha/indexes/shape")).toBe("@akasha/indexes")
+  expect(packageOf(AT, "@akasha/index")).toBe("@akasha/index")
+  expect(packageOf(AT, "@akasha/index/shape")).toBe("@akasha/index")
 })
 
 test("a specifier naming a path reaches no package", () => {
@@ -95,7 +95,7 @@ test("a specifier spelt inside a string a body holds reaches nothing", () => {
 })
 
 test("a specifier spelt inside a template a body holds reaches nothing", () => {
-  const body = 'const said = `import { readingIn } from "@akasha/indexes"`\n'
+  const body = 'const said = `import { readingIn } from "@akasha/index"`\n'
   expect(reachIn(AT, body).packages).toEqual(new Set())
 })
 

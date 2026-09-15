@@ -1,0 +1,206 @@
+import { afterAll, expect, test } from "bun:test"
+import { answeringOver } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
+import {
+  fileKeysAt,
+  pageTypesIn,
+} from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
+import {
+  idFiled,
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+import {
+  carryingOf,
+  declaringOf,
+} from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
+import { shapesAt } from "akasha/pages/index/modules/property-shaping/property-shaping.module.code.ts"
+import { knownIn } from "akasha/pages/index/modules/reaching/reaching.module.code.ts"
+import {
+  everyOfType,
+  idsNaming,
+  importersOf,
+  listedAt,
+  listedById,
+  listedNamed,
+  namersOf,
+  readingIn,
+  typeSlugById,
+  typeSlugOf,
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import {
+  importFiled,
+  readingLaidOver,
+  relationFiled,
+  shapeAdded,
+} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
+import type { Value } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  carriedIn,
+  declarationsOf,
+  pageAt,
+  propertiesOf,
+  sourceIn,
+} from "akasha/pages/types/modules/declared-properties/declared-properties.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/modules/descent/page-type-descent.module.code.ts"
+import { scratchWorld } from "akasha/utils/fs/modules/scratching/scratching.module.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+const HELD_AT = "akasha/held/held.module.ts"
+
+const HELD_ID = "01a04a4a-0000-7000-8000-00000000000a"
+
+const TYPE_AT = "akasha/module/module.page-type.ts"
+
+const TYPE_ID = "01a04a4a-0000-7000-8000-00000000000b"
+
+const SLUG_ID = "01a04a4a-0000-7000-8000-00000000000c"
+
+const LAID_AT = "akasha/laid/laid.module.ts"
+
+const LAID_ID = "01a04a4a-0000-7000-8000-00000000000d"
+
+const MODULE = "module"
+
+const PAGE_TYPE = "page-type"
+
+const SLUG = "slug"
+
+const DECLARES = "page-property-slug"
+
+const NOT_THERE = "is not there"
+
+const HELD_ADDRESS = { pageTypeSlug: MODULE, propertySlug: SLUG, value: "held" }
+
+const SCHEMA = {
+  pageTypeSlug: "text-property",
+  targetPageTypeSlug: null,
+  unique: "page-type",
+  slug: SLUG,
+  propertySlug: SLUG,
+  fileName: null,
+}
+
+const HELD_VALUE: Value = { id: HELD_ID, pageTypeSlug: MODULE, slug: "held" }
+
+const TYPE_VALUE: Value = {
+  id: TYPE_ID,
+  pageTypeSlug: PAGE_TYPE,
+  slug: MODULE,
+  extendsSlug: ["page-type/domain"],
+  properties: [{ pagePropertySlug: SLUG, required: true, many: false }],
+}
+
+const DOMAIN_AT = "akasha/held/domain.page-type.ts"
+
+const DOMAIN_ID = "01a04a4a-0000-7000-8000-0000000000d0"
+
+const DOMAIN_VALUE: Value = { id: DOMAIN_ID, pageTypeSlug: PAGE_TYPE, slug: "domain" }
+
+function pageOf(path: string): Value | null {
+  if (path === HELD_AT) return HELD_VALUE
+  if (path === TYPE_AT) return TYPE_VALUE
+  if (path === DOMAIN_AT) return DOMAIN_VALUE
+  return null
+}
+
+function seeded(): string {
+  const root = scratch.rootFor("akasha-index-answering-")
+  listedFiled(root, MODULE, "held", [{ path: HELD_AT, id: HELD_ID }])
+  listedFiled(root, PAGE_TYPE, MODULE, [{ path: TYPE_AT, id: TYPE_ID }])
+  listedFiled(root, PAGE_TYPE, "domain", [{ path: DOMAIN_AT, id: DOMAIN_ID }])
+  valueAlsoFiled(root, MODULE, [{ path: HELD_AT, value: HELD_VALUE }])
+  valueAlsoFiled(root, PAGE_TYPE, [
+    { path: TYPE_AT, value: TYPE_VALUE },
+    { path: DOMAIN_AT, value: DOMAIN_VALUE },
+  ])
+  idFiled(root, HELD_ID, [{ path: HELD_AT, id: HELD_ID }])
+  idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+  shapeAdded(root, "text-property", SLUG, [SCHEMA])
+  relationFiled(root, TYPE_ID, "extends-slug", HELD_ID, [{ path: HELD_AT, id: HELD_ID }])
+  relationFiled(root, SLUG_ID, DECLARES, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+  return root
+}
+
+test("the world these questions are asked of answers each reader with pages rather than none", () => {
+  const reading = readingIn(seeded())
+  expect(everyOfType(reading, MODULE)).toEqual([{ path: HELD_AT, id: HELD_ID }])
+  expect(listedAt(reading, MODULE, "held")).toEqual([{ path: HELD_AT, id: HELD_ID }])
+})
+
+test("every question answers what the reader beneath it answers with the reading bound", () => {
+  const root = seeded()
+  const reading = readingIn(root)
+  const index = answeringOver(reading, pageOf)
+  expect(index.carriedIn(TYPE_VALUE, MODULE)).toEqual(carriedIn(TYPE_VALUE, reading, MODULE))
+  expect(index.carryingOf(SLUG)).toEqual(carryingOf(reading, SLUG))
+  expect(index.declarationsOf(MODULE)).toEqual(declarationsOf(MODULE, reading, pageOf))
+  expect(index.declaringOf(SLUG_ID)).toEqual(declaringOf(reading, SLUG_ID))
+  expect(index.everyOfType(MODULE)).toEqual(everyOfType(reading, MODULE))
+  expect(index.fileKeysAt()).toEqual(fileKeysAt(reading))
+  expect(index.idsNaming(TYPE_ID, "extends-slug")).toEqual(
+    idsNaming(reading, TYPE_ID, "extends-slug")
+  )
+  expect(index.listedAt(MODULE, "held")).toEqual(listedAt(reading, MODULE, "held"))
+  expect(index.listedById(HELD_ID)).toEqual(listedById(reading, HELD_ID))
+  expect(index.listedNamed(PAGE_TYPE, MODULE, SLUG, "held")).toEqual(
+    listedNamed(reading, PAGE_TYPE, MODULE, SLUG, "held")
+  )
+  expect(index.namersOf(TYPE_ID)).toEqual(namersOf(reading, TYPE_ID))
+  expect(index.pageAt(MODULE, "held")).toEqual(pageAt(reading, MODULE, "held", pageOf))
+  expect(index.pageTypesIn()).toEqual(pageTypesIn(reading))
+  expect(index.propertiesOf(MODULE)).toEqual(propertiesOf(MODULE, reading, pageOf))
+  expect(index.shapesAt()).toEqual(shapesAt(reading))
+  expect(index.typeSlugById(HELD_ID)).toEqual(typeSlugById(reading, HELD_ID))
+  expect(index.typeSlugOf(HELD_ID)).toEqual(typeSlugOf(reading, HELD_ID))
+})
+
+test("a question answered through a shape hands back the shape the reader beneath hands back", () => {
+  const root = seeded()
+  const reading = readingIn(root)
+  const index = answeringOver(reading, pageOf)
+  expect(index.knownIn().filed(HELD_ADDRESS)).toEqual(knownIn(reading, pageOf).filed(HELD_ADDRESS))
+  expect(index.sourceIn().schemaFor(SLUG)).toEqual(sourceIn(reading, pageOf).schemaFor(SLUG))
+  expect(index.kindsUnder(PAGE_TYPE)).toEqual(kindsUnder(PAGE_TYPE, reading))
+})
+
+test("what imports a file is answered as the reader beneath answers it", () => {
+  const root = seeded()
+  importFiled(root, HELD_AT, [{ path: TYPE_AT }])
+  const reading = readingIn(root)
+
+  expect(answeringOver(reading, pageOf).importersOf(HELD_AT)).toEqual([TYPE_AT])
+  expect(importersOf(HELD_AT, reading)).toEqual([TYPE_AT])
+})
+
+test("a question is answered from the reading bound rather than from the index at a root", () => {
+  const root = seeded()
+  const laid = readingLaidOver(root, {
+    "identity/page-type/module/slug/laid.jsonl": [{ path: LAID_AT, id: LAID_ID }],
+  })
+  const index = answeringOver(laid, pageOf)
+  expect(index.listedAt(MODULE, "laid")).toEqual([{ path: LAID_AT, id: LAID_ID }])
+  expect(listedAt(root, MODULE, "laid")).toEqual([])
+})
+
+const COLD: Reading = {
+  holds: () => false,
+  listing: () => [],
+  lines: () => [],
+  read: () => null,
+}
+
+test("no question falls back to the index at a root, even one handed in for something else", () => {
+  const root = seeded()
+  const index = answeringOver(COLD, pageOf)
+  expect(listedAt(root, MODULE, "held")).toHaveLength(1)
+  expect(() => index.everyOfType(MODULE)).toThrow(NOT_THERE)
+  expect(() => index.listedAt(MODULE, "held")).toThrow(NOT_THERE)
+  expect(() => index.listedById(HELD_ID)).toThrow(NOT_THERE)
+  expect(() => index.fileKeysAt()).toThrow(NOT_THERE)
+  expect(() => index.kindsUnder(PAGE_TYPE)).toThrow(NOT_THERE)
+  expect(() => index.knownIn()).toThrow(NOT_THERE)
+})

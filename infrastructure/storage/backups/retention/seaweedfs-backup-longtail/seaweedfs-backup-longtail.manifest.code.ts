@@ -5,7 +5,7 @@ import {
   CONTAINER_TMP_PATH,
   CONTAINER_TMP_VOLUME,
 } from "akasha/infrastructure/cluster/k8s-types/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 

@@ -11,7 +11,7 @@ import {
   selectionOf,
   undeclaredIn,
 } from "akasha/commands/pages/music/next/music-next.command.code.ts"
-import { indexThere } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { indexThere } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/pages/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()

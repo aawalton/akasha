@@ -7,9 +7,9 @@ import {
   readingIn,
   type Valued,
   valuesOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
-import { carriedOf, carriedOfType } from "akasha/pages/indexes/shapes/index-shapes.index.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
+import { carriedOf, carriedOfType } from "akasha/pages/index/shapes/index-shapes.index.code.ts"
 import {
   type TextOf,
   workIn,

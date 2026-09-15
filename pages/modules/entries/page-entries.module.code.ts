@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { ENTRY_PROPERTY } from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+import { ENTRY_PROPERTY } from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
 import { filed } from "akasha/pages/modules/file-body/page-file-body.module.code.ts"
 import {
   besideAt,

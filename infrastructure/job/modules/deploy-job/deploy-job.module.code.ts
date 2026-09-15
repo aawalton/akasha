@@ -14,9 +14,9 @@ import { ci } from "akasha/infrastructure/container-image/dockerfiles/built-imag
 import { refFor } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { deployAccount } from "akasha/infrastructure/job/deploy-account/deploy-account.manifest.ts"
 import { dispatcherIn } from "akasha/infrastructure/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts"
-import { fileOf } from "akasha/pages/indexes/modules/property-file/property-file.module.code.ts"
-import { valuedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/pages/indexes/modules/shape/index-shape.module.code.ts"
+import { fileOf } from "akasha/pages/index/modules/property-file/property-file.module.code.ts"
+import { valuedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/index/modules/shape/index-shape.module.code.ts"
 
 export const JOB_NAMESPACE = "workers"
 

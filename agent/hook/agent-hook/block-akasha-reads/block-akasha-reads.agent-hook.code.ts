@@ -2,7 +2,7 @@ import { join, resolve } from "node:path"
 import { ranAsHook } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { shownIn } from "akasha/agent/hook/modules/path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "akasha/agent/hook/modules/settling/settling.module.code.ts"
-import { INDEX_AT } from "akasha/pages/indexes/modules/surface/index-surface.module.code.ts"
+import { INDEX_AT } from "akasha/pages/index/modules/surface/index-surface.module.code.ts"
 
 const HOOK = "block-akasha-reads"
 

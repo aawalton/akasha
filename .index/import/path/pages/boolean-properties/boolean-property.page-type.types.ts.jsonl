@@ -72,7 +72,7 @@
 {"path":"pages/file-properties/properties/runs-file-length.boolean-property.ts"}
 {"path":"pages/file-properties/properties/tool-resolves-paths.boolean-property.ts"}
 {"path":"pages/generator-kinds/properties/after-checks.boolean-property.ts"}
-{"path":"pages/indexes/properties/index-tracked.boolean-property.ts"}
+{"path":"pages/index/properties/index-tracked.boolean-property.ts"}
 {"path":"pages/navs/properties/show-count-badge.boolean-property.ts"}
 {"path":"pages/true-properties/true-property.page-type.types.ts"}
 {"path":"pages/types/page-properties/properties/nullable.boolean-property.ts"}

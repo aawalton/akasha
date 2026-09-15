@@ -4,7 +4,7 @@ import {
   diesIn,
   sparingOver,
 } from "akasha/checks/modules/mortal-sparing/mortal-sparing.module.code.ts"
-import { shaped } from "akasha/pages/indexes/modules/entries/index-entries.module.test-fixtures.ts"
+import { shaped } from "akasha/pages/index/modules/entries/index-entries.module.test-fixtures.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 
 const MORTAL_AT = "held/one.note.ts"

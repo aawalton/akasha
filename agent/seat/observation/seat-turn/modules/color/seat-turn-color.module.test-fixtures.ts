@@ -1,6 +1,6 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 
 export const WORKING_PAGE = "agent/seat/turn-state/pages/working.seat-turn-state.ts"
 

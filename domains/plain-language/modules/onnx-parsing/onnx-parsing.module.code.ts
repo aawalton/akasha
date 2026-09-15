@@ -13,7 +13,7 @@ import {
   splitSentences,
   tokenizeWords,
 } from "akasha/domains/plain-language/modules/word-tokenizing/word-tokenizing.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { ownRepoRoot } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { uncommittedBesideAt } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import * as ort from "onnxruntime-node"

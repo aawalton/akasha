@@ -11,7 +11,7 @@ import type {
 import {
   type Facing,
   generatedIn,
-} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+} from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
 
 function facingFor(given: Guarding): Facing {
   const index = given.shadow.index

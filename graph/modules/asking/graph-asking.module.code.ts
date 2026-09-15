@@ -1,10 +1,10 @@
 import type { Known } from "akasha/graph/attributes/pages/known.graph-attribute.ts"
-import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
 import {
   claimantOf,
   type Paging,
-} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
-import type { Named } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/path-claiming/path-claiming.module.code.ts"
+import type { Named } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   slugOf,

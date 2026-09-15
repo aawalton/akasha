@@ -3,7 +3,7 @@ import { staged } from "akasha/checks/test-fixtures/staging/check-staging.test-f
 import {
   listedFiled,
   valueAlsoFiled,
-} from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
+} from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
 
 const SLUG = "web"
 

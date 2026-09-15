@@ -17,7 +17,7 @@
 {"path":"code/reading/modules/code-naming/code-naming.module.test-fixtures.ts"}
 {"path":"code/reading/modules/code-typing/code-typing.module.test-fixtures.ts"}
 {"path":"code/reading/modules/code-typing/code-typing.module.test.ts"}
-{"path":"pages/indexes/import/index-import.index.code.ts"}
-{"path":"pages/indexes/modules/indexing/indexing.module.code.ts"}
-{"path":"pages/indexes/modules/indexing/indexing.module.test-fixtures.ts"}
-{"path":"pages/indexes/rule/index-rule.index.code.ts"}
+{"path":"pages/index/import/index-import.index.code.ts"}
+{"path":"pages/index/modules/indexing/indexing.module.code.ts"}
+{"path":"pages/index/modules/indexing/indexing.module.test-fixtures.ts"}
+{"path":"pages/index/rule/index-rule.index.code.ts"}

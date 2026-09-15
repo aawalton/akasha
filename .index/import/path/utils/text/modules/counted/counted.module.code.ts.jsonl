@@ -12,8 +12,8 @@
 {"path":"commands/pages/index/refresh/index-refresh.command.code.ts"}
 {"path":"infrastructure/services/modules/deploy-looping/deploy-looping.module.code.ts"}
 {"path":"infrastructure/services/workstations/modules/service-installing/service-installing.module.code.ts"}
-{"path":"pages/indexes/modules/building/index-building.module.code.ts"}
-{"path":"pages/indexes/modules/keeping/index-keeping.module.code.ts"}
+{"path":"pages/index/modules/building/index-building.module.code.ts"}
+{"path":"pages/index/modules/keeping/index-keeping.module.code.ts"}
 {"path":"temper/items-rules-routing/modules/inventory-plan-checklist/inventory-plan-checklist.module.code.ts"}
 {"path":"temper/player-inventory-management-ui/modules/inventory-scope-note-text/inventory-scope-note-text.module.code.ts"}
 {"path":"utils/text/modules/counted/counted.module.test.ts"}

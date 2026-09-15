@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratch } from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { scratch } from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import {
   besideItsPage,
   endingRefused,
@@ -68,24 +68,24 @@ test("a folder named by the plural with the opening taken off takes its pages un
 
 test("a folder named by neither the type nor its plural takes a new page under the plural", () => {
   const said = pathFor(
-    "akasha/pages-system/indexes/held/index.page-type.ts",
-    "indexes",
+    "akasha/pages-system/index/held/index.page-type.ts",
+    "index",
     "index",
     "one",
     false
   )
-  expect(said).toBe("akasha/pages-system/indexes/held/indexes/one.index.ts")
+  expect(said).toBe("akasha/pages-system/index/held/index/one.index.ts")
 })
 
 test("a page carrying files beside it takes a folder of its own under the plural", () => {
   const said = pathFor(
-    "akasha/pages-system/indexes/held/index.page-type.ts",
-    "indexes",
+    "akasha/pages-system/index/held/index.page-type.ts",
+    "index",
     "index",
     "one",
     true
   )
-  expect(said).toBe("akasha/pages-system/indexes/held/indexes/one/one.index.ts")
+  expect(said).toBe("akasha/pages-system/index/held/index/one/one.index.ts")
 })
 
 test("a type declaring a property held beside the page carries files beside it", () => {

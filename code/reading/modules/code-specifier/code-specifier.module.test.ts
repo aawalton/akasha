@@ -105,12 +105,12 @@ test("a specifier naming no path relative to the file lands nowhere", () => {
 })
 
 test("a specifier naming a package lands where the naming handed in says", () => {
-  const naming = new Map([["@akasha/indexes", "akasha/pages-system/indexes/one.ts"]])
-  expect(landingOf(AT, "@akasha/indexes", naming)).toBe("akasha/pages-system/indexes/one.ts")
+  const naming = new Map([["@akasha/index", "akasha/pages-system/index/one.ts"]])
+  expect(landingOf(AT, "@akasha/index", naming)).toBe("akasha/pages-system/index/one.ts")
 })
 
 test("a specifier the naming does not name lands nowhere", () => {
-  const naming = new Map([["@akasha/indexes", "akasha/pages-system/indexes/one.ts"]])
+  const naming = new Map([["@akasha/index", "akasha/pages-system/index/one.ts"]])
   expect(landingOf(AT, "@akasha/pages", naming)).toBeNull()
   expect(landingOf(AT, "node:path", naming)).toBeNull()
 })
@@ -122,14 +122,14 @@ test("a specifier matching a way in spelt with a star lands where that star says
 })
 
 test("a way in spelt with a star carries the star's part onto that way in's target", () => {
-  const naming = new Map([["@akasha/indexes/*", "akasha/indexes/*"]])
-  expect(landingOf(AT, "@akasha/indexes/a/b/one.ts", naming)).toBe("akasha/indexes/a/b/one.ts")
+  const naming = new Map([["@akasha/index/*", "akasha/index/*"]])
+  expect(landingOf(AT, "@akasha/index/a/b/one.ts", naming)).toBe("akasha/index/a/b/one.ts")
 })
 
 test("a way in with no star names one specifier and nothing beneath that specifier", () => {
-  const naming = new Map([["@akasha/indexes", "akasha/pages-system/indexes/one.ts"]])
-  expect(landingOf(AT, "@akasha/indexes", naming)).toBe("akasha/pages-system/indexes/one.ts")
-  expect(landingOf(AT, "@akasha/indexes/shape", naming)).toBeNull()
+  const naming = new Map([["@akasha/index", "akasha/pages-system/index/one.ts"]])
+  expect(landingOf(AT, "@akasha/index", naming)).toBe("akasha/pages-system/index/one.ts")
+  expect(landingOf(AT, "@akasha/index/shape", naming)).toBeNull()
 })
 
 test("a way in the naming names exactly is answered before any star is tried", () => {
@@ -141,8 +141,8 @@ test("a way in the naming names exactly is answered before any star is tried", (
 })
 
 test("a way in spelt with a star whose target has no star lands nowhere", () => {
-  const naming = new Map([["@akasha/indexes/*", "one.ts"]])
-  expect(landingOf(AT, "@akasha/indexes/two.ts", naming)).toBeNull()
+  const naming = new Map([["@akasha/index/*", "one.ts"]])
+  expect(landingOf(AT, "@akasha/index/two.ts", naming)).toBeNull()
 })
 
 test("a specifier opening with the root package lands on the path it names", () => {
@@ -156,7 +156,7 @@ test("a naming naming a root specifier is answered before the root package", () 
 })
 
 test("a specifier naming another package lands nowhere with no naming", () => {
-  expect(landingOf(AT, "@akasha/indexes/one.ts")).toBeNull()
+  expect(landingOf(AT, "@akasha/index/one.ts")).toBeNull()
   expect(landingOf(AT, "akasha-elsewhere/one.ts")).toBeNull()
 })
 

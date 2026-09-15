@@ -10,7 +10,7 @@ import {
   reach,
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
-import { importingOf } from "akasha/pages/indexes/modules/path-naming/path-naming.module.code.ts"
+import { importingOf } from "akasha/pages/index/modules/path-naming/path-naming.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const MOVE_FILE = "change-mechanical-file/move-file"

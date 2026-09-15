@@ -38,7 +38,7 @@ import { partWay } from "akasha/commands/modules/answering/command-answering.mod
 import {
   listedAt,
   listedById,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { nameFaultIn } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import {

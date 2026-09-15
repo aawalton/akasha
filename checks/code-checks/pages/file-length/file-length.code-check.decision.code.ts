@@ -2,7 +2,7 @@ import { textNamed } from "akasha/checks/modules/change-walking/change-walking.m
 import {
   extensionsFor,
   heldNamed,
-} from "akasha/pages/indexes/modules/extension-carrying/extension-carrying.module.code.ts"
+} from "akasha/pages/index/modules/extension-carrying/extension-carrying.module.code.ts"
 import {
   type Carried,
   foldersFor,
@@ -11,7 +11,7 @@ import {
   namingFor,
   sectionHeld,
   slugsWhere,
-} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+} from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { partedIn, sectionedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"

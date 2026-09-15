@@ -14,7 +14,7 @@ import {
   rowsIn,
 } from "akasha/commands/modules/landing/landing.module.test-fixtures.ts"
 import { baseOf } from "akasha/commands/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { everythingFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { everythingFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "akasha/testing-system/modules/bodying/bodying.module.code.ts"
 
 export const MOVED_BIN = "akasha/one.bin"

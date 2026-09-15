@@ -1,6 +1,6 @@
 import type { Carried } from "akasha/checks/code-checks/pages/relation-resolves/relation-resolves.code-check.decision.code.ts"
 import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
-import { namesIn } from "akasha/pages/indexes/modules/reaching/reaching.module.code.ts"
+import { namesIn } from "akasha/pages/index/modules/reaching/reaching.module.code.ts"
 import { slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { partedIn as nameParted } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"

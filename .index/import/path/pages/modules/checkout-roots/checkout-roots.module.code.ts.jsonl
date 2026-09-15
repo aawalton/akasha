@@ -130,10 +130,10 @@
 {"path":"infrastructure/services/workstations/modules/service-running/service-running.module.test.ts"}
 {"path":"infrastructure/services/workstations/pages/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.code.ts"}
 {"path":"infrastructure/storage/backups/retention/seaweedfs-backup-longtail/seaweedfs-backup-longtail.manifest.code.ts"}
-{"path":"pages/indexes/modules/building/index-building.module.code.ts"}
-{"path":"pages/indexes/modules/building/index-building.module.test.ts"}
-{"path":"pages/indexes/modules/tree-reading/tree-reading.module.code.ts"}
-{"path":"pages/indexes/modules/tree-reading/tree-reading.module.test.ts"}
+{"path":"pages/index/modules/building/index-building.module.code.ts"}
+{"path":"pages/index/modules/building/index-building.module.test.ts"}
+{"path":"pages/index/modules/tree-reading/tree-reading.module.code.ts"}
+{"path":"pages/index/modules/tree-reading/tree-reading.module.test.ts"}
 {"path":"pages/modules/code-root/code-root.module.code.ts"}
 {"path":"pages/modules/live-store-write-guard/live-store-write-guard.module.code.ts"}
 {"path":"pages/modules/record-sweeping/record-sweeping.module.code.ts"}

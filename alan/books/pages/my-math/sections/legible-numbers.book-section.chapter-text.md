@@ -62,5 +62,5 @@ The **wrong turns are kept**. Alan went wrong at least five times, corrected him
 
 ## Threads to pull on later
 
-- **The status of "this universe" in the definition.** Alan's definition indexes legibility to *this* universe from the first sentence, and [the-hierarchy.md](legible-numbers/the-hierarchy.book-chapter.md) makes the index explicit. Whether the notion is meant to be about physics at all, or whether the physics is scaffolding for a claim about description, is never settled in the session.
+- **The status of "this universe" in the definition.** Alan's definition index legibility to *this* universe from the first sentence, and [the-hierarchy.md](legible-numbers/the-hierarchy.book-chapter.md) makes the index explicit. Whether the notion is meant to be about physics at all, or whether the physics is scaffolding for a claim about description, is never settled in the session.
 - **The reals as the target set.** "real numbers for now" is Alan's own hedge, made in his second message and never revisited. What the notion does over the complex numbers, or over an arbitrary set, is untouched.

@@ -14,16 +14,16 @@ import {
   type Selector,
 } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 import { textIn } from "akasha/code/bodies/modules/body-text/body-text.module.code.ts"
-import type { Answering } from "akasha/pages/indexes/modules/answering/index-answering.module.code.ts"
+import type { Answering } from "akasha/pages/index/modules/answering/index-answering.module.code.ts"
 import {
   claimantOf,
   pagingOf,
-} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+} from "akasha/pages/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
   type Facing,
   generatedIn,
   toolResolvesPathsIn,
-} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+} from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 
 const FACING = new WeakMap<Shadow, Facing>()

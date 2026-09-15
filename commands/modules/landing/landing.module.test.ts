@@ -51,7 +51,7 @@ import {
   identitiesListedIn,
   idFiledIn,
   listedFiledIn,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

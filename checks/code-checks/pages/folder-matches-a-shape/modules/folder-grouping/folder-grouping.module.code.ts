@@ -2,7 +2,7 @@ import { folderOf } from "akasha/code/paths/modules/code-path-between/code-path-
 import {
   filesIn,
   foldersIn,
-} from "akasha/pages/indexes/modules/tree-reading/tree-reading.module.code.ts"
+} from "akasha/pages/index/modules/tree-reading/tree-reading.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import { uncommittedHeld } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 

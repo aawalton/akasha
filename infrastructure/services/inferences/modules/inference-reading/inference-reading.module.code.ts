@@ -2,7 +2,7 @@ import { dirname } from "node:path"
 import {
   everyOfType,
   listedAt,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { slugIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import { valueAt } from "akasha/pages/modules/value/page-value.module.code.ts"
 import {

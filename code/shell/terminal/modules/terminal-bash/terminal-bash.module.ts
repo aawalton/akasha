@@ -25,7 +25,7 @@ export const terminalBash = {
     },
     {
       invariantKind: "departure",
-      statement: "The launchers are in the order of the alias indexes rather than of the slugs.",
+      statement: "The launchers are in the order of the alias index rather than of the slugs.",
     },
     {
       invariantKind: "departure",

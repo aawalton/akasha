@@ -12,7 +12,7 @@ import {
   filedInPageType,
   type InPageType,
 } from "akasha/pages/address-kinds/in-page-type/in-page-type.page-address-kind.code.ts"
-import type { Filed } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
+import type { Filed } from "akasha/pages/index/identity/index-identity.index.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 export type PageAddress = InPage | InPageType | InPageProperty

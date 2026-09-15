@@ -9,7 +9,7 @@ import { bodyAnswered } from "akasha/changes/test-fixtures/shadow-world/shadow-w
 import {
   put,
   scratch,
-} from "akasha/pages/indexes/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+} from "akasha/pages/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 afterAll(scratch.sweep)
 

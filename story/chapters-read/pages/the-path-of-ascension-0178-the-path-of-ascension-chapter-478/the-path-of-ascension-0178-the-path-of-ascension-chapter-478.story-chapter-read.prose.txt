@@ -494,7 +494,7 @@ Appearing next to him, looking at the projection from his viewpoint, JR explaine
 
 Before Matt could interject, JR continued, “Still, I agree you need a robust regrow function, but I’d rather tie that into your [Regeneration] and abuse how much mana you can bring to bear. Speaking of your mana, making this work with other armors is fine, but I’d recommend we go universal. Connection conduits on both hands and on your back so you can directly connect with your sword and-or other implements such as over armors. We can use a better variation of the new [Item Link] skill instead of specifically tying to a single item in particular. How does this sound?”
 
-After taking a few minutes to look over the designs, Matt shook his head, not quite believing. “I love the idea, but I don’t think half of this is possible. What is that base material? Its hardness ratings and magical throughput indexes can’t coexist in the same material. It's physically impossible. Can anyone actually make this?”
+After taking a few minutes to look over the designs, Matt shook his head, not quite believing. “I love the idea, but I don’t think half of this is possible. What is that base material? Its hardness ratings and magical throughput index can’t coexist in the same material. It's physically impossible. Can anyone actually make this?”
 
 JR snorted at him. “Of course I can. Now, onto the specifics. We need to start with something durable as the core for the armor. I heard you have a neutronium ingot, do you still have it? I don’t have any on hand.”
 

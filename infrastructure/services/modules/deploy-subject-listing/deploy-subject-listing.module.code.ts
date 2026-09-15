@@ -14,7 +14,7 @@ import { COOLDOWN_SECONDS } from "akasha/infrastructure/services/modules/deploy-
 import {
   listedAt,
   valuesOfType,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   numberAt,
   slugOf,

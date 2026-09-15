@@ -46,7 +46,7 @@
 {"path":"commands/pages/temper/error-list/temper-error-list.command.code.ts"}
 {"path":"commands/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts"}
 {"path":"commands/pages/temper/upstream/data-verify/temper-upstream-data-verify.command.code.ts"}
-{"path":"pages/indexes/modules/building/index-building.module.code.ts"}
+{"path":"pages/index/modules/building/index-building.module.code.ts"}
 {"path":"pages/modules/computing/page-computing.module.code.ts"}
 {"path":"pages/modules/entry-queue/page-entry-queue.module.code.ts"}
 {"path":"pages/service/modules/page-appending/page-appending.module.code.ts"}

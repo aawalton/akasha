@@ -16,7 +16,7 @@
 {"path":"commands/pages/measure/performance/measure-performance.command.code.ts"}
 {"path":"commands/pages/page/secret/list/page-secret-list.command.code.ts"}
 {"path":"pages/commands/modules/page-secret-acting/page-secret-acting.module.code.ts"}
-{"path":"pages/indexes/modules/reaching/reaching.module.code.ts"}
+{"path":"pages/index/modules/reaching/reaching.module.code.ts"}
 {"path":"pages/modules/calculation-loading/calculation-loading.module.code.ts"}
 {"path":"pages/modules/checkout-roots/checkout-roots.module.code.ts"}
 {"path":"pages/service/modules/page-composing/page-composing.module.code.ts"}

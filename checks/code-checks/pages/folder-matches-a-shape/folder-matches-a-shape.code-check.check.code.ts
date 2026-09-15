@@ -21,8 +21,8 @@ import {
   NAMING_NONE,
   type Naming,
 } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
-import { edgesIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
-import { reachingOf } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
+import { edgesIn } from "akasha/pages/index/import/index-import.index.code.ts"
+import { reachingOf } from "akasha/pages/index/modules/package-reaching/package-reaching.module.code.ts"
 import type { Change } from "akasha/pages/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/pages/modules/shadow/shadow.module.code.ts"
 

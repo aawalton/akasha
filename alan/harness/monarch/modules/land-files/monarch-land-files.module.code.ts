@@ -19,7 +19,7 @@ import {
   tagPages,
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { typeSlugOf } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { typeSlugOf } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { importedFrom } from "akasha/pages/modules/body/page-body.module.code.ts"
 import { AKASHA as AKASHA_REPO } from "akasha/pages/modules/checkout-roots/checkout-roots.module.code.ts"
 import { exportedAs } from "akasha/pages/modules/export-name/page-export-name.module.code.ts"

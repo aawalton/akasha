@@ -33,7 +33,7 @@ import {
   type Naming,
   specifierFor,
 } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
-import { reachingOf } from "akasha/pages/indexes/modules/package-reaching/package-reaching.module.code.ts"
+import { reachingOf } from "akasha/pages/index/modules/package-reaching/package-reaching.module.code.ts"
 import ts from "typescript"
 
 const LINE = "\n"

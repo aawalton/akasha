@@ -75,8 +75,8 @@ import {
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { listedFiled } from "akasha/pages/indexes/modules/filing/index-filing.module.code.ts"
-import { pageFiled } from "akasha/pages/indexes/modules/reading/index-reading.module.test-fixtures.ts"
+import { listedFiled } from "akasha/pages/index/modules/filing/index-filing.module.code.ts"
+import { pageFiled } from "akasha/pages/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { writing } from "akasha/utils/fs/modules/scratching/scratching.module.test-fixtures.ts"
 
 test("a stamp says the time to the millisecond, carrying the offset it was written at", () => {

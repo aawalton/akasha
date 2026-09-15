@@ -44,7 +44,7 @@ const TS = "ts"
 
 async function codeFilesIn(root: string, slug: string): Promise<readonly string[]> {
   const { listedAt } = await import(
-    "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+    "akasha/pages/index/modules/reading/index-reading.module.code.ts"
   )
   const { besideAt } = await import("akasha/pages/modules/file-name/page-file-name.module.code.ts")
   const every: string[] = []

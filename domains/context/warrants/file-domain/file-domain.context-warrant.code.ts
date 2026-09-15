@@ -6,18 +6,18 @@ import {
   filePropertiesAt,
   folderPropertiesAt,
   pageTypesIn,
-} from "akasha/pages/indexes/modules/entries/index-entries.module.code.ts"
+} from "akasha/pages/index/modules/entries/index-entries.module.code.ts"
 import {
   claimantOf,
   pagingOf,
-} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+} from "akasha/pages/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
   everyOfType,
   idsNaming,
   listedById,
   readingIn,
   valueByPath,
-} from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+} from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { textAt } from "akasha/pages/modules/value-reading/page-value-reading.module.code.ts"
 
 export const WHOLE =

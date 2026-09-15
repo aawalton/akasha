@@ -7,7 +7,7 @@ import { spelledIn } from "akasha/code/reading/modules/code-specifier/code-speci
 import {
   type Facing,
   generatedIn,
-} from "akasha/pages/indexes/modules/property-carrying/property-carrying.module.code.ts"
+} from "akasha/pages/index/modules/property-carrying/property-carrying.module.code.ts"
 import { addressIn } from "akasha/pages/modules/address/page-address.module.code.ts"
 import {
   pageNamed,

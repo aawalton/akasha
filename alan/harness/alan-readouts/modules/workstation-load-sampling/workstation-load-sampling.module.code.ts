@@ -10,7 +10,7 @@ import {
   processorTimesIn,
 } from "akasha/alan/harness/readouts/pages/workstation-processor/workstation-processor.readout.reading.code.ts"
 import { keepBeat } from "akasha/infrastructure/services/workstations/modules/service-beating/service-beating.module.code.ts"
-import { listedAt } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

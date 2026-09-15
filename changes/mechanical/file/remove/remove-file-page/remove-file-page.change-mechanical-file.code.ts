@@ -14,7 +14,7 @@ import {
   type World,
 } from "akasha/changes/modules/shadow/change-shadow.module.code.ts"
 import { valueRemoved } from "akasha/changes/modules/value-removing/value-removing.module.code.ts"
-import type { Named } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import type { Named } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 import { partedIn } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 const PARTS = "parts"

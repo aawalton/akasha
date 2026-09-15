@@ -6,7 +6,7 @@ import {
   type Valued,
 } from "akasha/agent/hook/modules/dispatch/hook-dispatch.module.code.ts"
 import { linkFor, linksMade } from "akasha/agent/hook/modules/links/hook-links.module.code.ts"
-import { indexNamed } from "akasha/pages/indexes/modules/reading/index-reading.module.code.ts"
+import { indexNamed } from "akasha/pages/index/modules/reading/index-reading.module.code.ts"
 
 const PAGE_TYPE = "agent-hook"
 

@@ -74,12 +74,12 @@ export const monarchLandFiles = {
     {
       invariantKind: "absence",
       statement:
-        "No key is read through `text-at` here, because `raw` indexes a value nested in the row.",
+        "No key is read through `text-at` here, because `raw` index a value nested in the row.",
     },
     {
       invariantKind: "departure",
       statement:
-        "`raw` reads a row's nested value, guards that value is an object, then indexes it.",
+        "`raw` reads a row's nested value, guards that value is an object, then index it.",
     },
   ],
 } as const satisfies Module

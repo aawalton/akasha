@@ -13,7 +13,7 @@ import { pageIn } from "akasha/changes/modules/page-knowing/page-knowing.module.
 import {
   claimantOf,
   pagingOf,
-} from "akasha/pages/indexes/modules/path-claiming/path-claiming.module.code.ts"
+} from "akasha/pages/index/modules/path-claiming/path-claiming.module.code.ts"
 import { pageNamed } from "akasha/pages/modules/file-name/page-file-name.module.code.ts"
 
 function behindAt(given: Guarding, at: string, pageTypes: ReadonlySet<string>): string | null {

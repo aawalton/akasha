@@ -253,7 +253,7 @@
 {"path":"pages/file-properties/file-property.page-type.ts"}
 {"path":"pages/file-property-groups/file-property-group.page-type.ts"}
 {"path":"pages/generator-kinds/generator-kind.page-type.ts"}
-{"path":"pages/indexes/index.page-type.ts"}
+{"path":"pages/index/index.page-type.ts"}
 {"path":"pages/instant-properties/instant-property.page-type.ts"}
 {"path":"pages/name-formats/name-format.page-type.ts"}
 {"path":"pages/name-places/name-place.page-type.ts"}
