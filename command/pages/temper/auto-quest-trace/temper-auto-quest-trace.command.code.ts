@@ -14,7 +14,7 @@ import { temperAutoQuestTrace as page } from "akasha/command/pages/temper/auto-q
 import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { TEMPER_QUESTS_SAVED_VARIABLES } from "akasha/temper/quests-trace/modules/auto-quest-trace/auto-quest-trace.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/modules/lua-parser/lua-parser.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 
 const NAMED = [json, questTracePath]
 

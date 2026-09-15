@@ -6042,10 +6042,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/quests-addon/modules/quests-trace-buffer/quests-trace-buffer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/quests-addon/modules/quests-trace/quests-trace.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/quests-trace/modules/auto-quest-trace/auto-quest-trace.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variables/modules/account-wide/account-wide.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variables/modules/lua-array/lua-array.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variables/modules/lua-parser/lua-parser.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variables/modules/lua-serializer/lua-serializer.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variable/modules/account-wide/account-wide.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variable/modules/lua-array/lua-array.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variable/modules/lua-parser/lua-parser.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-variable/modules/lua-serializer/lua-serializer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.ts"}

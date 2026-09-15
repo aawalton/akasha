@@ -21,8 +21,8 @@ import type {
   ResolvedActionSource,
 } from "akasha/temper/items-core/modules/inventory-types/inventory-types.module.code.ts"
 import { parseItemLink } from "akasha/temper/items-core/modules/item-link-parser/item-link-parser.module.code.ts"
-import { readFirstAccountWide } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/modules/lua-parser/lua-parser.module.code.ts"
+import { readFirstAccountWide } from "akasha/temper/saved-variable/modules/account-wide/account-wide.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import { asRecord } from "akasha/util/narrow/modules/as-record/as-record.module.code.ts"
 import { parseNumber } from "akasha/util/narrow/modules/parse-number/parse-number.module.code.ts"
 import { parseString } from "akasha/util/narrow/modules/parse-string/parse-string.module.code.ts"

@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const temperSavedVariables = {
+export const temperSavedVariable = {
   id: "01a06053-3633-77f0-8acd-df36807c5f6c",
   type: "domain",
-  slug: "temper-saved-variables",
+  slug: "temper-saved-variable",
   definition: "the Lua file the game writes an add-on's own state into",
   parts: ["module/account-wide", "module/lua-array", "module/lua-parser", "module/lua-serializer"],
   invariants: [

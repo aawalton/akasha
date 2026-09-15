@@ -2,7 +2,7 @@
 {"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/build-deploy-check/modules/addon-inline-handler-dispatch/addon-inline-handler-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/build-deploy-check/modules/addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts"}
 {"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/build-deploy-check/modules/addon-removed-refs/addon-removed-refs.module.code.ts"}
-{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/saved-variables/modules/lua-parser/lua-parser.module.code.ts"}
+{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.code.ts"}
 {"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"util/narrow/modules/escape-reg-exp/escape-reg-exp.module.test.ts"}
 {"propertySlug":"parts","path":"util/narrow/util-narrow.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

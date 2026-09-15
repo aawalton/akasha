@@ -1818,7 +1818,7 @@
 {"propertySlug":"invariant-kind","path":"temper/quests-addon/modules/quests-decide/quests-decide.module.ts","id":"01a0635f-391c-78a5-84e9-0cc44f22b3f1"}
 {"propertySlug":"invariant-kind","path":"temper/quests-trace/modules/auto-quest-trace/auto-quest-trace.module.ts","id":"01a06098-98a3-7c4d-b67f-e657dc450ff5"}
 {"propertySlug":"invariant-kind","path":"temper/quests-trace/temper-quests-trace.domain.ts","id":"01a06098-98a2-7c25-8f77-066842973eb3"}
-{"propertySlug":"invariant-kind","path":"temper/saved-variables/modules/lua-serializer/lua-serializer.module.ts","id":"01a06053-3635-7645-b6ba-ffae9f98d01e"}
+{"propertySlug":"invariant-kind","path":"temper/saved-variable/modules/lua-serializer/lua-serializer.module.ts","id":"01a06053-3635-7645-b6ba-ffae9f98d01e"}
 {"propertySlug":"invariant-kind","path":"temper/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.ts","id":"01a06072-5abd-75b9-b1b8-07150462637e"}
 {"propertySlug":"invariant-kind","path":"temper/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.ts","id":"01a06072-5abc-7ca4-972f-214d6d6ef964"}
 {"propertySlug":"invariant-kind","path":"temper/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.ts","id":"01a06072-5abc-78bd-a40d-4a0c330f4651"}

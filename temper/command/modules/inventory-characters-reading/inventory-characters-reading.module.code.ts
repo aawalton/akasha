@@ -1,8 +1,8 @@
 import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items-core/modules/motif-name-parser/motif-name-parser.module.code.ts"
-import { savedVariablesRootSchema } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/modules/lua-parser/lua-parser.module.code.ts"
+import { savedVariablesRootSchema } from "akasha/temper/saved-variable/modules/account-wide/account-wide.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import { z } from "zod"
 
 export type CharacterCurseState = "vampire" | "werewolf"

@@ -32,7 +32,7 @@ import {
   readDeployedBuildId,
 } from "akasha/temper/errors-triage/modules/errors-triage-gather/errors-triage-gather.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/modules/lua-parser/lua-parser.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import { saidBy as messageOf } from "akasha/util/narrow/modules/said-by/said-by.module.code.ts"
 import { ran } from "akasha/util/run/modules/running/running.module.code.ts"
 

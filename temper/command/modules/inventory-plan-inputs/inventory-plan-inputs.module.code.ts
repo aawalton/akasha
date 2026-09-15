@@ -16,7 +16,7 @@ import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/modules
 import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleMatcherContext } from "akasha/temper/items-rules-core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
-import { luaStringsOrEmpty } from "akasha/temper/saved-variables/modules/lua-array/lua-array.module.code.ts"
+import { luaStringsOrEmpty } from "akasha/temper/saved-variable/modules/lua-array/lua-array.module.code.ts"
 import { skillLines } from "akasha/temper/skill-lines/modules/skill-lines/skill-lines.module.code.ts"
 
 export const DEFAULT_INVENTORY_PATH = savedVarsFile("TemperInventory.lua")

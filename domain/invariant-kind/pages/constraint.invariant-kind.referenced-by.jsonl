@@ -1334,11 +1334,11 @@
 {"propertySlug":"invariant-kind","path":"temper/quests-addon/modules/quests-classify/quests-classify.module.ts","id":"01a0635f-391c-79c4-8464-429301bdaa3c"}
 {"propertySlug":"invariant-kind","path":"temper/quests-addon/modules/quests-saved-variables/quests-saved-variables.module.ts","id":"01a0635f-391c-721c-be7d-e4fb741328a6"}
 {"propertySlug":"invariant-kind","path":"temper/quests-addon/temper-quests-addon.eso-addon.ts","id":"01a0635f-391c-765a-af94-26f3ecd9702f"}
-{"propertySlug":"invariant-kind","path":"temper/saved-variables/modules/account-wide/account-wide.module.ts","id":"01a06053-3636-700a-9f99-a7c1b8442ab7"}
-{"propertySlug":"invariant-kind","path":"temper/saved-variables/modules/lua-array/lua-array.module.ts","id":"01a06053-3636-7157-ade2-a72c0d19b41c"}
-{"propertySlug":"invariant-kind","path":"temper/saved-variables/modules/lua-parser/lua-parser.module.ts","id":"01a06053-3635-710f-8f31-18095cf8a395"}
-{"propertySlug":"invariant-kind","path":"temper/saved-variables/modules/lua-serializer/lua-serializer.module.ts","id":"01a06053-3635-7645-b6ba-ffae9f98d01e"}
-{"propertySlug":"invariant-kind","path":"temper/saved-variables/temper-saved-variables.domain.ts","id":"01a06053-3633-77f0-8acd-df36807c5f6c"}
+{"propertySlug":"invariant-kind","path":"temper/saved-variable/modules/account-wide/account-wide.module.ts","id":"01a06053-3636-700a-9f99-a7c1b8442ab7"}
+{"propertySlug":"invariant-kind","path":"temper/saved-variable/modules/lua-array/lua-array.module.ts","id":"01a06053-3636-7157-ade2-a72c0d19b41c"}
+{"propertySlug":"invariant-kind","path":"temper/saved-variable/modules/lua-parser/lua-parser.module.ts","id":"01a06053-3635-710f-8f31-18095cf8a395"}
+{"propertySlug":"invariant-kind","path":"temper/saved-variable/modules/lua-serializer/lua-serializer.module.ts","id":"01a06053-3635-7645-b6ba-ffae9f98d01e"}
+{"propertySlug":"invariant-kind","path":"temper/saved-variable/temper-saved-variable.domain.ts","id":"01a06053-3633-77f0-8acd-df36807c5f6c"}
 {"propertySlug":"invariant-kind","path":"temper/saved-vars-migration/temper-saved-vars-migration.domain.ts","id":"01a06072-5abb-776e-b9a1-6393d03e042b"}
 {"propertySlug":"invariant-kind","path":"temper/settings-panel/modules/dropdown/dropdown.module.ts","id":"01a06053-3637-7cbf-af2a-2b25ec6eea55"}
 {"propertySlug":"invariant-kind","path":"temper/skill-kinds/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts","id":"01a060db-b2ba-73c7-8faa-80842e2c1379"}

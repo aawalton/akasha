@@ -11,9 +11,9 @@ import type {
   Tier,
 } from "akasha/temper/items-rules-core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { RULE_CONSTANT_KEYS } from "akasha/temper/items-rules-core/modules/rule-constants/rule-constants.module.code.ts"
-import { savedVariablesRootSchema } from "akasha/temper/saved-variables/modules/account-wide/account-wide.module.code.ts"
-import { luaArrayOrEmpty } from "akasha/temper/saved-variables/modules/lua-array/lua-array.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/modules/lua-parser/lua-parser.module.code.ts"
+import { savedVariablesRootSchema } from "akasha/temper/saved-variable/modules/account-wide/account-wide.module.code.ts"
+import { luaArrayOrEmpty } from "akasha/temper/saved-variable/modules/lua-array/lua-array.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import { z } from "zod"
 
 export interface CompiledRule {

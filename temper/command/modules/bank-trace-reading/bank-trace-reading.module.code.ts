@@ -2,7 +2,7 @@ import {
   pickInventoryDiagnostic,
   readInventoryDiagnostic,
 } from "akasha/temper/command/modules/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
-import { luaArrayOrEmpty } from "akasha/temper/saved-variables/modules/lua-array/lua-array.module.code.ts"
+import { luaArrayOrEmpty } from "akasha/temper/saved-variable/modules/lua-array/lua-array.module.code.ts"
 import { z } from "zod"
 
 const NET_WORTH_SCHEMA = z
