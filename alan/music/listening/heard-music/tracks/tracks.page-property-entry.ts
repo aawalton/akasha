@@ -35,6 +35,10 @@ export const tracks = {
       invariantKind: "invariant-kind/departure",
       statement: "A heard track is written the first time the track is heard.",
     },
+    {
+      invariantKind: "invariant-kind/departure",
+      statement: "The artist a heard track names is the first artist Spotify names for it.",
+    },
   ],
   types: "ts",
 } as const satisfies PagePropertyEntry

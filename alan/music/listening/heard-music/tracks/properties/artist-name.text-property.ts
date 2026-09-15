@@ -8,11 +8,5 @@ export const artistName = {
   definition: "the name Spotify gives an artist",
   maxLength: 200,
   nameFormat: null,
-  invariants: [
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "An artist name is the first artist Spotify names for a track.",
-    },
-  ],
   types: "ts",
 } as const satisfies TextProperty

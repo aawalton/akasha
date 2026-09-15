@@ -6,7 +6,12 @@ export const track = {
   slug: "track",
   definition: "one recording as a release carries it",
   extends: ["page-type/collection-external"],
-  properties: [{ pageProperty: "text-property/title", required: true, many: false }],
+  parts: ["boolean-property/explicit", "number-property/disc-number"],
+  properties: [
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "number-property/disc-number", required: false, many: false },
+    { pageProperty: "boolean-property/explicit", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "invariant-kind/departure",

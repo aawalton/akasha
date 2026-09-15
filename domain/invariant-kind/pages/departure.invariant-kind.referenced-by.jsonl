@@ -1015,6 +1015,8 @@
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/release/release.page-type.ts","id":"01a06769-ed1a-7000-825b-b75cf6badf16"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/song/properties/singability.rank-property.ts","id":"01a06243-144b-700b-83e8-f1b91786511f"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/song/song.page-type.ts","id":"01a06243-144b-7012-9da5-a570a8174672"}
+{"propertySlug":"invariant-kind","path":"alan/music/catalog/track/properties/disc-number.number-property.ts","id":"01a0a5df-ff89-7f60-a3a6-f27b5e02d970"}
+{"propertySlug":"invariant-kind","path":"alan/music/catalog/track/properties/explicit.boolean-property.ts","id":"01a0a5e0-58f3-740e-9244-3bdebb7ceedb"}
 {"propertySlug":"invariant-kind","path":"alan/music/catalog/track/track.page-type.ts","id":"01a0a57b-23fe-7c3a-92e1-06b28a781b17"}
 {"propertySlug":"invariant-kind","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.ts","id":"01a06281-4d9d-7002-aee3-ff60658dc599"}
 {"propertySlug":"invariant-kind","path":"alan/music/choosing/modules/rating-ladder/rating-ladder.module.ts","id":"01a06281-4d9d-7001-9db5-f9ea87db3f71"}
@@ -1022,7 +1024,6 @@
 {"propertySlug":"invariant-kind","path":"alan/music/choosing/modules/track-resolving/track-resolving.module.ts","id":"01a06281-4d9d-7004-9a0b-82fe940e4d95"}
 {"propertySlug":"invariant-kind","path":"alan/music/choosing/music-choosing.domain.ts","id":"01a06281-4d9d-7000-8324-01f8e3c762a1"}
 {"propertySlug":"invariant-kind","path":"alan/music/listening/heard-music/heard-music.page-type.ts","id":"01a06240-340f-700a-be22-823bb6c905f7"}
-{"propertySlug":"invariant-kind","path":"alan/music/listening/heard-music/tracks/properties/artist-name.text-property.ts","id":"01a06240-340f-7009-822f-aa230dee246e"}
 {"propertySlug":"invariant-kind","path":"alan/music/listening/heard-music/tracks/properties/heard-source.text-property.ts","id":"01a06240-340f-700e-a486-9e430bc408b2"}
 {"propertySlug":"invariant-kind","path":"alan/music/listening/heard-music/tracks/properties/spotify-track-id.text-property.ts","id":"01a06240-340f-7007-82de-0827e2457e43"}
 {"propertySlug":"invariant-kind","path":"alan/music/listening/heard-music/tracks/properties/title-key.text-property.ts","id":"01a06240-340f-700c-8b23-d85323898292"}

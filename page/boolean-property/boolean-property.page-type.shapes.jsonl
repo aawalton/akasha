@@ -27,6 +27,7 @@
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"enabled","propertySlug":"enabled","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"expands","propertySlug":"expands","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"experimental","propertySlug":"experimental","fileName":null,"folderName":null,"sorted":false}
+{"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"explicit","propertySlug":"explicit","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"extended-context-available","propertySlug":"extended-context-available","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"figure-off-scale","propertySlug":"figure-off-scale","fileName":null,"folderName":null,"sorted":false}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"first-listen","propertySlug":"first-listen","fileName":null,"folderName":null,"sorted":false}

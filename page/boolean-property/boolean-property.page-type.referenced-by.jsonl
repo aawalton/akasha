@@ -27,6 +27,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/readout/group/properties/figure-off-scale.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/readout/properties/readout-enabled.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/music/catalog/song/properties/performed.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/music/catalog/track/properties/explicit.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/relating/connection-activity/properties/connection-activity-repeatable.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-sms-allowed.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/track/daily/day/properties/anchored-from-completion.boolean-property.ts"}
