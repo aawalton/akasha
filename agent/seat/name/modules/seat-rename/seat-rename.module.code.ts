@@ -10,6 +10,7 @@ import {
 } from "akasha/agent/seat/name/modules/seat-session-rename/seat-session-rename.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { pageValuesOf } from "akasha/agent/seat/page/modules/values/seat-page-values.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 const SLOT_JOINER = "|"
@@ -32,10 +33,11 @@ function pushedSlotsOf(agent: string): string | null {
   const values = pageValuesOf(agent)
   if (values === null) return null
   const person = values[PERSON_KEY]
-  const said = (one: unknown): string => (one === undefined || one === null ? "" : String(one))
+  const said = (one: unknown): string =>
+    one === undefined || one === null ? "" : slugOf(String(one))
   return [
     ...PAGE_SLOTS.map((key) => said(values[key])),
-    typeof person === "string" && person !== "" ? person : FLEET,
+    typeof person === "string" && person !== "" ? slugOf(person) : FLEET,
   ].join(SLOT_JOINER)
 }
 
