@@ -8,6 +8,12 @@ export const emberWerewolfParse = {
   persona: "persona/ember",
   intentStack: [
     {
+      statement:
+        "Three-Color Stalker's five Savage Werewolf pieces are reconstructed gold in the parse traits.",
+      workingMemory:
+        "A transmute station takes the Arm Cops in Divines, the Necklace and Ring in Infused, and two Maces in Charged. The 15 September account capture puts Savage Werewolf at 13 of 22 slots, with Arm Cops, Necklace, Ring and Mace unlocked and every other one-handed type locked, so both weapons are Maces and no Moon Hunter Keep run is owed. Every trait on every crafting line is researched. Gold takes a Rubedo Leather Dressing, two Rubedite Tempers and Chromium Plating.",
+    },
+    {
       statement: "Three-Color Stalker wears the full Update 50 Savage Werewolf parse setup.",
       workingMemory:
         "Shoulders, necklace and ring are farmed. One one-handed weapon is still owed; the second is reconstructed from the set collection rather than farmed, reconstruction being per weapon type. The gold Medium Divines Slimecraw head and the Shattered Paths Signet are in the bank. Five Order's Wrath Light body pieces are crafted at Steadfast Hammer and Saw on High Isle. Armour is Divines with Stamina glyphs, jewellery Infused with Increase Physical Harm, weapons Charged with Poison and Flame.",
@@ -21,12 +27,6 @@ export const emberWerewolfParse = {
       statement: "Three-Color Stalker parses 135,000 or more on the trials dummy.",
       workingMemory:
         "The Update 50 figures on the 21 million Iron Atronach are 176.7k for this setup and 150.4k for crafted-only, both on Nightblade, the strongest werewolf class. They come from a simulator assuming every light attack lands and bash weaving, so a real parse falls short, and the margin over 135k is why the farmed setup is worth the runs. Food is Braised Rabbit with Spring Vegetables, and potions are Armor from Bugloss, Mountain Flower and Mudcrab Chitin.",
-    },
-    {
-      statement:
-        "Three-Color Stalker's five Savage Werewolf pieces are reconstructed gold in the parse traits.",
-      workingMemory:
-        "A transmute station takes the Arm Cops in Divines, the Necklace and Ring in Infused, and two Maces in Charged. The 15 September account capture puts Savage Werewolf at 13 of 22 slots, with Arm Cops, Necklace, Ring and Mace unlocked and every other one-handed type locked, so both weapons are Maces and no Moon Hunter Keep run is owed. Every trait on every crafting line is researched. Gold takes a Rubedo Leather Dressing, two Rubedite Tempers and Chromium Plating.",
     },
     {
       statement:
