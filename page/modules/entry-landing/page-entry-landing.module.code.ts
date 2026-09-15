@@ -1,7 +1,10 @@
 import { Buffer } from "node:buffer"
 import { readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { partsOverLines } from "akasha/page/modules/entry-writing/page-entry-writing.module.code.ts"
+import {
+  oversized,
+  partsOverLines,
+} from "akasha/page/modules/entry-writing/page-entry-writing.module.code.ts"
 import { FIRST_PART } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   partAt,
@@ -70,11 +73,7 @@ export function rolledInto(
   size: number,
   ceiling: number
 ): Filled {
-  if (size > ceiling) {
-    return {
-      refused: `one value runs to ${size} bytes, over the ceiling of ${ceiling}, and no value is divided`,
-    }
-  }
+  if (size > ceiling) return { refused: oversized(size, ceiling, filling.path) }
   if (filling.filled === 0 || filling.filled + size <= ceiling) {
     return { filling: { ...filling, filled: filling.filled + size } }
   }

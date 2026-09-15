@@ -24,18 +24,23 @@ export function* linesOver(values: Iterable<Value>): Iterable<string> {
   for (const one of values) yield lineFor(one)
 }
 
-export function textsOverLines(lines: Iterable<string>, ceiling: number): Texts {
+export function oversized(size: number, ceiling: number, at: string | null): string {
+  const bound = at === null ? "" : ` bound for '${at}'`
+  return `one value${bound} runs to ${size} bytes, over the ceiling of ${ceiling}, and no value is divided`
+}
+
+export function textsOverLines(
+  lines: Iterable<string>,
+  ceiling: number,
+  at: string | null = null
+): Texts {
   const coder = new TextEncoder()
   const texts: string[] = []
   let held = ""
   let filled = 0
   for (const line of lines) {
     const size = coder.encode(line).length
-    if (size > ceiling) {
-      return {
-        refused: `one value runs to ${size} bytes, over the ceiling of ${ceiling}, and no value is divided`,
-      }
-    }
+    if (size > ceiling) return { refused: oversized(size, ceiling, at) }
     if (filled > 0 && filled + size > ceiling) {
       texts.push(held)
       held = ""
@@ -56,7 +61,10 @@ export function partsOverLines(
   ceiling: number,
   uncommitted = false
 ): Parts {
-  const made = textsOverLines(lines, ceiling)
+  const first = uncommitted
+    ? uncommittedPartAt(page, propertySlug, held, FIRST_PART)
+    : partAt(page, propertySlug, held, FIRST_PART)
+  const made = textsOverLines(lines, ceiling, first)
   if ("refused" in made) return made
   const parts: Part[] = []
   for (let index = 0; index < made.texts.length; index += 1) {

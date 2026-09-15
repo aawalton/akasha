@@ -50,6 +50,10 @@ export const pageEntryWriting = {
     },
     {
       invariantKind: "invariant-kind/departure",
+      statement: "That refusal names the file the value was bound for.",
+    },
+    {
+      invariantKind: "invariant-kind/departure",
       statement: "The files are named in the order the values were handed over.",
     },
     {
