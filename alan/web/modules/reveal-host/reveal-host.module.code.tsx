@@ -11,7 +11,7 @@ import { Icon } from "akasha/design/interfaces/patterns/modules/lucide-icon/luci
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { DegradingImage } from "akasha/page/ui/components/modules/degrading-image/degrading-image.module.code.tsx"
+import { DegradingImage } from "akasha/page/ui/component/modules/degrading-image/degrading-image.module.code.tsx"
 import { useSyncExternalStore } from "react"
 import "akasha/alan/web/reveal-host-look/reveal-host-look.stylesheet.styles.css"
 

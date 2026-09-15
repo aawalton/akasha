@@ -4,8 +4,8 @@ import { Badge } from "akasha/design/interfaces/badges/modules/badge/badge.modul
 import { resolveBadgeVariant } from "akasha/page/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import type { BadgeVariant } from "akasha/page/core/schema/modules/color-rule-variant/color-rule-variant.module.code.ts"
 import { formatSmartDate } from "akasha/page/core/view/modules/format-smart-date/format-smart-date.module.code.ts"
-import { DateBadge as DetailDateBadge } from "akasha/page/ui/components/modules/page-detail-properties-shared/page-detail-properties-shared.module.code.tsx"
-import type { PropertyBadgeProps } from "akasha/page/ui/components/modules/property-badge/property-badge.module.code.tsx"
+import { DateBadge as DetailDateBadge } from "akasha/page/ui/component/modules/page-detail-properties-shared/page-detail-properties-shared.module.code.tsx"
+import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 
 export function Drawing({ property, value, editable, onPropertyChange }: PropertyBadgeProps) {
   const accentVariant: BadgeVariant = property.accent ? "accent" : "elevation-muted"

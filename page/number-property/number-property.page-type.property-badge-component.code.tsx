@@ -14,7 +14,7 @@ import {
   type NumberConfig,
   numberConfigSchema,
 } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
-import type { PropertyBadgeProps } from "akasha/page/ui/components/modules/property-badge/property-badge.module.code.tsx"
+import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 
 function configOf(definition: PropertyDefinition): NumberConfig {
   return parseConfig(numberConfigSchema, definition.config, { format: "number" })

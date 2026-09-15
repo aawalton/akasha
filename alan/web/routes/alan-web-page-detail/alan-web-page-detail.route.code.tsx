@@ -2,7 +2,7 @@ import { loader as pageDetailLoader } from "akasha/alan/web/.server/page-detail-
 import { audioActionsFor } from "akasha/alan/web/modules/audio-download-offer/audio-download-offer.module.code.tsx"
 import { PageDetailErrorBoundary } from "akasha/alan/web/modules/page-detail-error-boundary/page-detail-error-boundary.module.code.tsx"
 import { ReaderNarrationDetail } from "akasha/alan/web/modules/reader-narration-detail/reader-narration-detail.module.code.tsx"
-import { ViewPageContent } from "akasha/page/ui/components/modules/view-page-content/view-page-content.module.code.tsx"
+import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
 import {
   DISPLAY_PARAM,
   parseDisplayMode,

@@ -3,7 +3,7 @@
 import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import type { FrameConfig } from "akasha/page/core/schema/modules/detail-config/detail-config.module.code.ts"
-import { useChromeToggle } from "akasha/page/ui/components/modules/use-chrome-toggle/use-chrome-toggle.module.code.ts"
+import { useChromeToggle } from "akasha/page/ui/component/modules/use-chrome-toggle/use-chrome-toggle.module.code.ts"
 import {
   frameFollowMode,
   frameSupportsFocusMode,

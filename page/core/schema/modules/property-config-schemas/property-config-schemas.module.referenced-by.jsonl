@@ -1,0 +1,17 @@
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/aggregate-filter/aggregate-filter.module.code.ts"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/aggregate/aggregate.module.code.ts"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/formula/formula.module.code.ts"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/instant/instant.module.code.ts"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/multi-select-property/multi-select-property.module.code.ts"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/number/number.module.code.ts"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/path-select/path-select.module.code.ts"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/resolve-computed-type/resolve-computed-type.module.code.ts"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/select/select.module.code.ts"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/instant-property/instant-property.page-type.property-badge-component.code.tsx"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/number-property/number-property.page-type.property-badge-component.code.tsx"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/relation-property/relation-property.page-type.property-badge-component.code.tsx"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/type/page-property/page-property.page-type.property-badge-component.code.tsx"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/ui/component/modules/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/ui/component/modules/page-table-widths/page-table-widths.module.code.ts"}
+{"propertySlug":"parts","path":"page/core/schema/page-core-schema.domain.ts","id":"01a071cb-3d85-7fcd-8315-90eca5831d35"}

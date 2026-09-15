@@ -1,10 +1,10 @@
 "use client"
 
-import type { PropertyBadgeProps } from "akasha/page/ui/components/modules/property-badge/property-badge.module.code.tsx"
+import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import {
   drawingAlong,
   PROPERTY_BADGE_DRAWINGS,
-} from "akasha/page/ui/components/modules/property-badge-drawings/property-badge-drawings.module.code.ts"
+} from "akasha/page/ui/component/modules/property-badge-drawings/property-badge-drawings.module.code.ts"
 
 const FALLS_BACK_TO = "page-property"
 

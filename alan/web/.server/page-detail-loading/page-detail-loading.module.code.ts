@@ -20,7 +20,7 @@ import {
   getMediaConfig,
   getSequenceConfig,
 } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
-import type { ReaderNeighborLink } from "akasha/page/ui/components/modules/reader-chrome/reader-chrome.module.code.tsx"
+import type { ReaderNeighborLink } from "akasha/page/ui/component/modules/reader-chrome/reader-chrome.module.code.tsx"
 import type { MediaVariant } from "akasha/page/ui/media/modules/page-media-player/page-media-player.module.code.tsx"
 import {
   buildPageHref,

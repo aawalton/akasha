@@ -1,7 +1,7 @@
 "use client"
 
-import { PropertyBadge } from "akasha/page/ui/components/modules/property-badge/property-badge.module.code.tsx"
-import type { PropertyRowProps } from "akasha/page/ui/components/modules/property-row/property-row.module.code.tsx"
+import { PropertyBadge } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
+import type { PropertyRowProps } from "akasha/page/ui/component/modules/property-row/property-row.module.code.tsx"
 
 export function Drawing(props: PropertyRowProps) {
   return (

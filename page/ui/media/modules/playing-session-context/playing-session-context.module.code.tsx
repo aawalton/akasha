@@ -1,7 +1,7 @@
 import {
   fractionToTime,
   POSITION_RESUME_MIN_FRACTION,
-} from "akasha/page/ui/components/modules/position-fraction/position-fraction.module.code.ts"
+} from "akasha/page/ui/component/modules/position-fraction/position-fraction.module.code.ts"
 import { STORED_READ_ALOUD_VARIANT } from "akasha/page/ui/media/modules/media-src/media-src.module.code.ts"
 import type { NativeTtsAdapter } from "akasha/page/ui/media/modules/native-tts-adapter/native-tts-adapter.module.code.ts"
 import {

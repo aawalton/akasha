@@ -1,6 +1,6 @@
 "use client"
 
-import type { PageDrawingProps } from "akasha/page/ui/components/modules/page-detail-content/page-detail-content.module.code.tsx"
+import type { PageDrawingProps } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import { lazy, Suspense } from "react"
 

@@ -1505,7 +1505,7 @@
 {"propertySlug":"invariant-kind","path":"page/type/properties/secret.boolean-property.ts","id":"01a0547c-6ae7-7000-897a-83b3e0d40bc4"}
 {"propertySlug":"invariant-kind","path":"page/type/properties/single-declaration.record-property.ts","id":"01a090a6-673e-7677-a8c7-31c03a192934"}
 {"propertySlug":"invariant-kind","path":"page/type/properties/uncommitted.boolean-property.ts","id":"01a04fc4-b988-7afd-89a2-9c87b0274410"}
-{"propertySlug":"invariant-kind","path":"page/ui/components/modules/page-detail-properties/page-detail-properties.module.ts","id":"01a06257-46ed-7cf6-b31e-9adb50ca83bc"}
+{"propertySlug":"invariant-kind","path":"page/ui/component/modules/page-detail-properties/page-detail-properties.module.ts","id":"01a06257-46ed-7cf6-b31e-9adb50ca83bc"}
 {"propertySlug":"invariant-kind","path":"person/device-secret/device-secret.page-type.ts","id":"01a05b39-f50b-77c0-826c-a526838d12ac"}
 {"propertySlug":"invariant-kind","path":"person/device-secret/properties/device-secret-hash.text-property.ts","id":"01a05b39-f50c-7eb2-a48c-d4679699f045"}
 {"propertySlug":"invariant-kind","path":"person/email/gmail-mailbox/properties/processed-messages/processed-messages.page-property-entry.ts","id":"01a06862-a0bc-72d6-b90f-dad9388f4920"}

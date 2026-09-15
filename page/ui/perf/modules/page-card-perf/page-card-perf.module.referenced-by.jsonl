@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"page-card-perf.module.code.ts","path":"page/ui/component/modules/use-property-change-perf-handler/use-property-change-perf-handler.module.code.ts"}
+{"propertySlug":"import","fileName":"page-card-perf.module.code.ts","path":"page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-card-perf.module.code.ts","path":"page/ui/supabase/mutation/modules/apply-prediction/apply-prediction.module.code.ts"}
+{"propertySlug":"import","fileName":"page-card-perf.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"}
+{"propertySlug":"parts","path":"page/ui/perf/page-ui-perf.domain.ts","id":"01a071d1-2367-7ad6-9120-93d669869ca2"}

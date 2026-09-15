@@ -5,7 +5,7 @@ import {
   PageLayout,
   PageTitle,
 } from "akasha/design/interfaces/layout/modules/page-layout/page-layout.module.code.tsx"
-import { ViewPageContent } from "akasha/page/ui/components/modules/view-page-content/view-page-content.module.code.tsx"
+import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
 import { data, redirect } from "react-router"
 
 export function meta() {

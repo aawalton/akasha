@@ -1,7 +1,7 @@
 "use client"
 
-import type { PageDrawingProps } from "akasha/page/ui/components/modules/page-detail-content/page-detail-content.module.code.tsx"
-import { PageReaderContent } from "akasha/page/ui/components/modules/page-reader-content/page-reader-content.module.code.tsx"
+import type { PageDrawingProps } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
+import { PageReaderContent } from "akasha/page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx"
 
 export function Drawing({
   pageTypeSlug,

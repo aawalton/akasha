@@ -1,6 +1,6 @@
 import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/server-client/server-client.module.code.ts"
 import { getPageTypeBySlug } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
-import { PagesFilteredContent } from "akasha/page/ui/components/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
+import { PagesFilteredContent } from "akasha/page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { Suspense } from "react"
 import { data } from "react-router"

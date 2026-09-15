@@ -12,7 +12,7 @@ import { fontPreloading } from "akasha/code/router-app/modules/font-preload/font
 import { CommandPalette } from "akasha/design/interfaces/primitives/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interfaces/primitives/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
-import { configureLocalPositionReader } from "akasha/page/ui/components/modules/local-position-port/local-position-port.module.code.ts"
+import { configureLocalPositionReader } from "akasha/page/ui/component/modules/local-position-port/local-position-port.module.code.ts"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import {
   configureContentPersistence,

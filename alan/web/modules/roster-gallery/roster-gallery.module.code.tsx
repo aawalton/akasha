@@ -33,7 +33,7 @@ import {
 import { surfaceClass } from "akasha/design/interfaces/primitives/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interfaces/primitives/modules/surface-provider/surface-provider.module.code.tsx"
 import { formatShortNumber as fmt } from "akasha/page/core/property-type/modules/number/number.module.code.ts"
-import { DegradingImage } from "akasha/page/ui/components/modules/degrading-image/degrading-image.module.code.tsx"
+import { DegradingImage } from "akasha/page/ui/component/modules/degrading-image/degrading-image.module.code.tsx"
 import { useEffect, useSyncExternalStore } from "react"
 
 function imageSrc(id: string): string {

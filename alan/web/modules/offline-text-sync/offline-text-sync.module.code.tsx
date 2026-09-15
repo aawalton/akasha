@@ -16,7 +16,7 @@ import { chunk } from "akasha/alan/web/modules/offline-text-cache/offline-text-c
 import {
   POSITION_WRITE_EVENT,
   parsePositionWriteDetail,
-} from "akasha/page/ui/components/modules/position-write-event/position-write-event.module.code.ts"
+} from "akasha/page/ui/component/modules/position-write-event/position-write-event.module.code.ts"
 import { getContentPersistence } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import { useEffect, useRef } from "react"
 

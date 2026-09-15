@@ -1,0 +1,14 @@
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"alan/web-capacitor/root.tsx"}
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx"}
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.test.tsx"}
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"alan/web/modules/offline-text-sync/offline-text-sync.module.code.tsx"}
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"alan/web/root.tsx"}
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"}
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/cache/modules/use-core-definitions-ready/use-core-definitions-ready.module.code.ts"}
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/component/modules/auth-provider/auth-provider.module.code.tsx"}
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/supabase/modules/related-pages-coalesce/related-pages-coalesce.module.code.ts"}
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/supabase/modules/use-page/use-page.module.code.ts"}
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/supabase/mutation/modules/apply-prediction/apply-prediction.module.code.ts"}
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"}
+{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.code.tsx"}
+{"propertySlug":"parts","path":"page/ui-store/page-ui-store.domain.ts","id":"01a05b69-455c-7bbd-8f3b-b2c3946559fc"}

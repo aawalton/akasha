@@ -1,9 +1,9 @@
 import {
   POSITION_WRITE_EPSILON,
   timeToFraction,
-} from "akasha/page/ui/components/modules/position-fraction/position-fraction.module.code.ts"
-import { emitPositionWrite } from "akasha/page/ui/components/modules/position-write-event/position-write-event.module.code.ts"
-import { computeReadProgress } from "akasha/page/ui/components/modules/read-progress/read-progress.module.code.ts"
+} from "akasha/page/ui/component/modules/position-fraction/position-fraction.module.code.ts"
+import { emitPositionWrite } from "akasha/page/ui/component/modules/position-write-event/position-write-event.module.code.ts"
+import { computeReadProgress } from "akasha/page/ui/component/modules/read-progress/read-progress.module.code.ts"
 import type { PlayingSessionState } from "akasha/page/ui/media/modules/playing-session/playing-session.module.code.ts"
 import type { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { type RefObject, useEffect } from "react"

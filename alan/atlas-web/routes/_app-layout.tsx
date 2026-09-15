@@ -5,7 +5,7 @@ import { createServerClient } from "akasha/alan/harness/supabase-rr/modules/serv
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/modules/supabase-provider/supabase-provider.module.code.tsx"
 import { Toaster } from "akasha/design/interfaces/primitives/modules/sonner/sonner.module.code.tsx"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
-import { AuthProvider } from "akasha/page/ui/components/modules/auth-provider/auth-provider.module.code.tsx"
+import { AuthProvider } from "akasha/page/ui/component/modules/auth-provider/auth-provider.module.code.tsx"
 import { useEffect } from "react"
 import { data, Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"

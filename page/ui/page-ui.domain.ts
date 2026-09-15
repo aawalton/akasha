@@ -7,7 +7,7 @@ export const pageUi = {
   definition: "what draws pages in a browser and takes what a reader does to them",
 
   parts: [
-    "domain/components",
+    "domain/page-ui-component",
     "domain/page-ui-action-verb",
     "domain/page-ui-app-version",
     "domain/page-ui-block-editor",

@@ -7,7 +7,7 @@ import { useMediaVariants } from "akasha/alan/web/modules/use-media-variants/use
 import { useNextUnreadHref } from "akasha/alan/web/modules/use-next-unread/use-next-unread.module.code.ts"
 import { NotFoundNotice } from "akasha/alan/web-capacitor/modules/not-found-notice/not-found-notice.module.code.tsx"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
-import { ViewPageContent } from "akasha/page/ui/components/modules/view-page-content/view-page-content.module.code.tsx"
+import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
 import {
   useAllPages,
   usePageByIdSuffix,

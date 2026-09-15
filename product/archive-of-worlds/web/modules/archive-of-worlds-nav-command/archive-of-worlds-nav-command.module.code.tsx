@@ -1,6 +1,6 @@
 "use client"
 
-import { useNavCommandBindings } from "akasha/page/ui/components/modules/use-nav-command-bindings/use-nav-command-bindings.module.code.ts"
+import { useNavCommandBindings } from "akasha/page/ui/component/modules/use-nav-command-bindings/use-nav-command-bindings.module.code.ts"
 import { primaryNavItems } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-nav-items/archive-of-worlds-nav-items.module.code.ts"
 import { useNavigate } from "react-router"
 

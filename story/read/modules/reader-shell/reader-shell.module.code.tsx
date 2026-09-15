@@ -1,6 +1,6 @@
 "use client"
 
-import { toPageDataJSON } from "akasha/page/ui/components/modules/page-data-json/page-data-json.module.code.ts"
+import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import {
   type UsePagesSupabaseOptions,

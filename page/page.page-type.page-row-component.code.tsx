@@ -5,10 +5,10 @@ import { cn } from "akasha/design/interfaces/primitives/modules/cn/cn.module.cod
 import { TableCell } from "akasha/design/interfaces/primitives/modules/table/table.module.code.tsx"
 import { readsAsDone } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
-import { orderTableColumns } from "akasha/page/ui/components/modules/card-property-columns/card-property-columns.module.code.ts"
-import { PageActionsMenu } from "akasha/page/ui/components/modules/page-actions-menu/page-actions-menu.module.code.tsx"
-import type { PageRowCellsProps } from "akasha/page/ui/components/modules/page-row-cells/page-row-cells.module.code.tsx"
-import { PropertyBadge } from "akasha/page/ui/components/modules/property-badge/property-badge.module.code.tsx"
+import { orderTableColumns } from "akasha/page/ui/component/modules/card-property-columns/card-property-columns.module.code.ts"
+import { PageActionsMenu } from "akasha/page/ui/component/modules/page-actions-menu/page-actions-menu.module.code.tsx"
+import type { PageRowCellsProps } from "akasha/page/ui/component/modules/page-row-cells/page-row-cells.module.code.tsx"
+import { PropertyBadge } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import { CheckCircle2, Circle } from "lucide-react"
 
 export function Drawing({

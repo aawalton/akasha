@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"design/language/lua-compiler/modules/lua-printer-helpers/lua-printer-helpers.module.code.ts"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"design/language/lua-compiler/modules/lualib-runtime/lualib-runtime.module.code.ts"}
-{"propertySlug":"import","fileName":"require-get.module.code.ts","path":"page/ui/components/modules/property-visibility-picker/property-visibility-picker.module.code.tsx"}
+{"propertySlug":"import","fileName":"require-get.module.code.ts","path":"page/ui/component/modules/property-visibility-picker/property-visibility-picker.module.code.tsx"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/character-skill/modules/skill-line-queries/skill-line-queries.module.code.ts"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/characters-equipment/modules/set-categories/set-categories.module.code.ts"}
 {"propertySlug":"import","fileName":"require-get.module.code.ts","path":"temper/companions-core/modules/companion-rotation-simulator/companion-rotation-simulator.module.code.ts"}

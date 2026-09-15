@@ -5,7 +5,7 @@ import { InputBadge } from "akasha/design/interfaces/badges/modules/input-badge/
 import { resolveBadgeVariant } from "akasha/page/core/modules/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import { parseConfig } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { textConfigSchema } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
-import type { PropertyBadgeProps } from "akasha/page/ui/components/modules/property-badge/property-badge.module.code.tsx"
+import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import { scalarText } from "akasha/util/narrow/modules/scalar-text/scalar-text.module.code.ts"
 import { useEffect, useState } from "react"
 

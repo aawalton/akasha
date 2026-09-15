@@ -1,7 +1,7 @@
 "use client"
 
-import { PageCollectionContent } from "akasha/page/ui/components/modules/page-collection-content/page-collection-content.module.code.tsx"
-import type { PageDrawingProps } from "akasha/page/ui/components/modules/page-detail-content/page-detail-content.module.code.tsx"
+import { PageCollectionContent } from "akasha/page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"
+import type { PageDrawingProps } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
 import { ReaderShell } from "akasha/story/read/modules/reader-shell/reader-shell.module.code.tsx"
 
 export function Drawing({ pageTypeSlug, id, nextUnreadHref }: PageDrawingProps) {

@@ -4,8 +4,8 @@ import {
   getPageByIdSuffixAcrossTypes,
 } from "akasha/page/access/modules/get/get.module.code.ts"
 import { getDescendantPageTypeSlugs } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
-import { PageDetailContent } from "akasha/page/ui/components/modules/page-detail-content/page-detail-content.module.code.tsx"
-import { ViewPageContent } from "akasha/page/ui/components/modules/view-page-content/view-page-content.module.code.tsx"
+import { PageDetailContent } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
+import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
 import { parsePageHrefParam } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { data } from "react-router"
