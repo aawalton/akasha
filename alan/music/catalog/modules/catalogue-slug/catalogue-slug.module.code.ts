@@ -1,4 +1,7 @@
-import { STEM_CEILING } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
+import {
+  pageStem,
+  STEM_CEILING,
+} from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
 import { shortenedToWords } from "akasha/util/narrow/modules/shortened-to-words/shortened-to-words.module.code.ts"
 
 const FALLBACK_NAME = "untitled"
@@ -11,11 +14,7 @@ export type CatalogueNames = {
 }
 
 export function slugifyName(name: string): string {
-  const folded = name.normalize("NFD").replace(/\p{Diacritic}/gu, "")
-  const slug = folded
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "")
+  const slug = pageStem(name)
   return slug === "" ? FALLBACK_NAME : slug
 }
 

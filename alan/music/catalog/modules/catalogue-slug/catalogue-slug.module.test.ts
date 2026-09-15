@@ -29,6 +29,11 @@ describe("slugifyName", () => {
     expect(slugifyName("!!!Wow!!!")).toBe("wow")
   })
 
+  test("closes the gap an apostrophe leaves", () => {
+    expect(slugifyName("Alan's Song")).toBe("alans-song")
+    expect(slugifyName("Don’t Stop Me Now")).toBe("dont-stop-me-now")
+  })
+
   test("keeps digits", () => {
     expect(slugifyName("99 Problems")).toBe("99-problems")
   })

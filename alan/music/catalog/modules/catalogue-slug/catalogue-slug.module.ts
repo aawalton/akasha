@@ -22,15 +22,7 @@ export const catalogueSlug = {
     },
     {
       invariantKind: "invariant-kind/departure",
-      statement: "A diacritic is folded off a letter before the letter is slugged.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A run of characters that is no letter and no digit becomes one dash.",
-    },
-    {
-      invariantKind: "invariant-kind/departure",
-      statement: "A slug has no dash at either end.",
+      statement: "A name is folded into a stem by `page-stem` rather than folded here.",
     },
     {
       invariantKind: "invariant-kind/constraint",
