@@ -2,7 +2,7 @@ import type { ArtistCollection } from "akasha/alan/music/catalog/artist-collecti
 
 export const artists = {
   id: "01a06808-78fa-7000-8e30-9da42659901b",
-  type: "artist-collection",
+  type: "page-type/artist-collection",
   slug: "artists",
   title: "Artists",
   position: 0,
