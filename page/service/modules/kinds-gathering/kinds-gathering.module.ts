@@ -74,7 +74,7 @@ export const kindsGathering = {
     },
     {
       invariantKind: "departure",
-      statement: "Which pages name a page under one property is read from the relation index.",
+      statement: "Which pages name a page under one property is read from the edge index.",
     },
     {
       invariantKind: "departure",
