@@ -16,11 +16,6 @@ export const rynFileStructure = {
         "Alan narrowed this intent to the pages that own a structural folder. The 1513 module slugs ending in a plural `s` stay as they are. 85 domain slugs and 6 page-type slugs end that way. Some of those read as singular already and stay: mathematics, talos, seaweedfs, util-fs, great-courses, visual-arts, book-series, ki-book-series, world-species. Renaming a domain renames the folder that domain names, so this intent and the folder one land in one motion.\n",
     },
     {
-      statement: "One rename carries every page whose folder name that rename breaks.",
-      workingMemory:
-        "Waits on one spelling of the folder-naming rule, today written three times: `module/folder-naming`, stripping the parent's names recursively; `module/page-composing`, stripping the page type's slug one level for a page the index has not got; and `module/page-renaming`, reading the folder's own basename. A rename reaches the third, falls back to the second, and never reaches the first. It carries what sits under the old folder with relative paths kept and re-derives nothing about a child.\n",
-    },
-    {
       statement: "A domain wrapping one page and that page are one page.",
       workingMemory:
         "No slug is held by both a domain page and a page type any more, so the eighteen are landed, and temper-watcher and page-service with them. 62 of the 482 domains still wrap exactly one page, about 45 of those a domain over a single `modules/<one>` folder and the rest a domain over one domain, as `domain/text` sits over `domain/quote`. Four wrap a service-cluster and wait on the registry intent below: git-transport, eso-rig, auth-proxy and postgres-annual-dump.\n",
