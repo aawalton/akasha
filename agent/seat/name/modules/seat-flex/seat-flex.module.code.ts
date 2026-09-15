@@ -36,7 +36,7 @@ export function flexOf(agent: string): FlexRecord | null {
   return found === null ? null : { value: found }
 }
 
-export function launchFrom(frontmatter: Record<string, unknown> | null): string | null {
+function launchFrom(frontmatter: Record<string, unknown> | null): string | null {
   if (frontmatter === null) return null
   const stated = (key: string): boolean => {
     const held = frontmatter[key]

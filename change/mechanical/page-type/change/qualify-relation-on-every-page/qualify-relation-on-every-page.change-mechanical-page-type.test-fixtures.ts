@@ -42,7 +42,7 @@ export const ONE_AT = "alan/book/one.book-section.ts"
 
 export const TWO_AT = "alan/book/two.book-section.ts"
 
-export const ENTRY_KEY = "conditions"
+const ENTRY_KEY = "conditions"
 
 export const ROW_FIELD = "collection"
 
@@ -50,7 +50,7 @@ const ENTRY_SLUG = "book-conditions"
 
 const ROW_FIELD_SLUG = "book-row-collection"
 
-export const ENTRY_AT = "alan/book/rows.book-section.ts"
+const ENTRY_AT = "alan/book/rows.book-section.ts"
 
 export const ROWS_AT = "alan/book/rows.book-section.conditions.jsonl"
 
@@ -58,7 +58,7 @@ export const PART_TWO_AT = "alan/book/rows.book-section.conditions.part2.jsonl"
 
 export const UNCOMMITTED_AT = "alan/book/rows.book-section.conditions.uncommitted.jsonl"
 
-export const MORE_AT = "alan/book/more.book-section.ts"
+const MORE_AT = "alan/book/more.book-section.ts"
 
 export const MORE_ROWS_AT = "alan/book/more.book-section.conditions.jsonl"
 
@@ -260,7 +260,7 @@ export function worldFor(
 export const NOTHING_BARE =
   "no `book-section` names a page by a bare name under `partOfCollections`"
 
-export function entriedAt(slug: string): string {
+function entriedAt(slug: string): string {
   return `export const ${slug} = {
   pageTypeSlug: "book-section",
   slug: "${slug}",

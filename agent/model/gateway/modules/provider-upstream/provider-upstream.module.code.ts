@@ -10,7 +10,7 @@ import {
 } from "akasha/agent/model/gateway/modules/forward/forward.module.code.ts"
 import { apiBaseIn } from "akasha/agent/model/provider/modules/reading/model-provider-reading.module.code.ts"
 
-export const FALLBACK = "model-provider/deepseek"
+const FALLBACK = "model-provider/deepseek"
 
 export type Fallback = {
   readonly account: string

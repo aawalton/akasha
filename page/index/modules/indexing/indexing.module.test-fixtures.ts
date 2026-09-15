@@ -103,8 +103,7 @@ export function settled(
   return wroteText(root, tree, at, bodyOf(value), before === null ? null : bodyOf(before))
 }
 
-export const idFile = (root: string, id: string): string =>
-  join(root, `page/id/${id}.jsonl`)
+export const idFile = (root: string, id: string): string => join(root, `page/id/${id}.jsonl`)
 
 export const slugFile = (root: string, type: string, slug: string): string =>
   join(root, `page-type/${type}/slug/${slug}.jsonl`)
@@ -251,7 +250,7 @@ export function aWorldWithAnEdge(): Pair {
   return { tree: aWrittenWorld().tree, root: heldAt() }
 }
 
-export function aRefreshedWorld(): Pair {
+function aRefreshedWorld(): Pair {
   const held = aWorldWithAnEdge()
   refreshedFrom(held.tree, held.root, held.tree)
   return held

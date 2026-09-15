@@ -25,7 +25,7 @@ export type Keeping =
   | { readonly beside: string }
   | { readonly through: Fetcher | undefined; readonly naps: Sleeper | undefined }
 
-export const THROUGH_THE_PAGES: Keeping = { through: undefined, naps: undefined }
+const THROUGH_THE_PAGES: Keeping = { through: undefined, naps: undefined }
 
 export function keepingFor(root: string, kind: string, fetcher?: Fetcher, naps?: Sleeper): Keeping {
   if (kind === WORKSTATION_SERVICE) return { beside: root }

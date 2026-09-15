@@ -38,7 +38,7 @@ export type StatingSeat = (
   landing?: Landing
 ) => Promise<Stating>
 
-export function seatFileNamed(name: string): string {
+function seatFileNamed(name: string): string {
   return `${name}${TAIL}`
 }
 
@@ -49,7 +49,7 @@ export function tookAway(root: string, name: string): string | null {
   return one === "" ? null : one
 }
 
-export function pathTakenIn(root: string, commit: string, name: string): string | null {
+function pathTakenIn(root: string, commit: string, name: string): string | null {
   const said = told(root, [
     "diff-tree",
     "-r",
@@ -84,7 +84,7 @@ export function alreadyThere(root: string, path: string): boolean {
   return existsSync(join(root, path))
 }
 
-export function statedFrom(values: Record<string, unknown>): SeatStated | null {
+function statedFrom(values: Record<string, unknown>): SeatStated | null {
   const agentId = textIn(values["id"])
   if (agentId === null) return null
   const assignment = textIn(values["domain-slug"])

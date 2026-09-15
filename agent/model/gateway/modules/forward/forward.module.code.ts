@@ -18,9 +18,9 @@ import {
   type TransportLogAt,
 } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
 
-export const ANTHROPIC_BASE = "https://api.anthropic.com"
+const ANTHROPIC_BASE = "https://api.anthropic.com"
 
-export const API_KEY_HEADER = "x-api-key"
+const API_KEY_HEADER = "x-api-key"
 
 const AUTHORIZATION = "authorization"
 

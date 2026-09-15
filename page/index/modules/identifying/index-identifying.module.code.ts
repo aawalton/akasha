@@ -11,7 +11,7 @@ import {
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Identifying } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
-export const ENDING = ".jsonl"
+const ENDING = ".jsonl"
 
 export type Filed = {
   readonly uniqueKind: string

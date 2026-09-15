@@ -113,7 +113,7 @@ export type HarnessOptions = {
   readonly seams?: Partial<AccountWalkSeams>
 }
 
-export const NO_FALLBACK: FallbackRead = () => null
+const NO_FALLBACK: FallbackRead = () => null
 
 export const DEEPSEEK_FALLBACK: FallbackRead = () => ({
   account: "deepseek",
