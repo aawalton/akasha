@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const levelingUpTheWorld0020469SpringHunting = {
   id: "01a06731-ae8e-7005-b25c-c8af022d3deb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0020-469-spring-hunting",
   title: "469. Spring Hunting",
   story: "story-read/leveling-up-the-world",

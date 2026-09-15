@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const levelingUpTheWorld0019385GloriaSRealm = {
   id: "01a06731-ae8e-7004-8944-7601ed045ebb",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0019-385-gloria-s-realm",
   title: "385. Gloria's Realm",
   story: "story-read/leveling-up-the-world",

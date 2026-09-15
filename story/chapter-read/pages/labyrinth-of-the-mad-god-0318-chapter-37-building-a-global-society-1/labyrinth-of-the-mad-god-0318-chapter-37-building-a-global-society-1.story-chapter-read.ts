@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0318Chapter37BuildingAGlobalSociety1 = {
   id: "01a06731-ad89-700d-ad49-21ec09f2f803",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0318-chapter-37-building-a-global-society-1",
   title: "Chapter 37: Building a Global Society 1",
   story: "story-read/labyrinth-of-the-mad-god",

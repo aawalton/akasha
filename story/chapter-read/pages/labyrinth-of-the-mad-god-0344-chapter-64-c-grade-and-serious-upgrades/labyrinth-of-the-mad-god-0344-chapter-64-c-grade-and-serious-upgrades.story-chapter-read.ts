@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0344Chapter64CGradeAndSeriousUpgrades = {
   id: "01a0a151-2c50-76a2-ac4a-2735b409f479",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0344-chapter-64-c-grade-and-serious-upgrades",
   position: 344,
   publishedAt: "2026-09-14",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const librarySystemResetOverdueBookFourStubbed0011Chapter332OddlySilent = {
   id: "01a06731-ae86-7003-a22c-ec36e4d94a5c",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "library-system-reset-overdue-book-four-stubbed-0011-chapter-332-oddly-silent",
   title: "Chapter 332: Oddly Silent",
   story: "story-read/library-system-reset-overdue-book-four-stubbed",

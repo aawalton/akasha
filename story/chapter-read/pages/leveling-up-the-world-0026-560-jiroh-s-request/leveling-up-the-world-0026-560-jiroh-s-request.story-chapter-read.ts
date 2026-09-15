@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const levelingUpTheWorld0026560JirohSRequest = {
   id: "01a06731-ae8e-700b-8c35-a7ac326d57d8",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0026-560-jiroh-s-request",
   title: "560. Jiroh's Request",
   story: "story-read/leveling-up-the-world",

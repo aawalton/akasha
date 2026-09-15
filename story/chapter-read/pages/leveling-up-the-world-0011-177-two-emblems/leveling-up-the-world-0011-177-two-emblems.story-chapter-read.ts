@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const levelingUpTheWorld0011177TwoEmblems = {
   id: "01a06731-ae8b-7002-8d8e-a8daded2246f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0011-177-two-emblems",
   title: "177. Two Emblems",
   story: "story-read/leveling-up-the-world",

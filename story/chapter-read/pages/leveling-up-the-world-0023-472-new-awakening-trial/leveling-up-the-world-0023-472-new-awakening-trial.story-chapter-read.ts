@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const levelingUpTheWorld0023472NewAwakeningTrial = {
   id: "01a06731-ae8e-7008-8840-9935a428a388",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0023-472-new-awakening-trial",
   title: "472. New Awakening Trial",
   story: "story-read/leveling-up-the-world",

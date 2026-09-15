@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const manaDevourerLitrpgmanaCultivation00011ARudeAwakening = {
   id: "01a06731-ae28-7000-834e-44610597b8fa",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0001-1-a-rude-awakening",
   title: "1. A Rude Awakening",
   story: "story-read/mana-devourer-litrpgmana-cultivation",

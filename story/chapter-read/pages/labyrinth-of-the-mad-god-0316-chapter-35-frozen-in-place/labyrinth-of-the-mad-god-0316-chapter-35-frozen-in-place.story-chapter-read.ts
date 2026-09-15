@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0316Chapter35FrozenInPlace = {
   id: "01a06731-ad89-700b-bd43-7ca9fb791145",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0316-chapter-35-frozen-in-place",
   title: "Chapter 35: Frozen In Place",
   story: "story-read/labyrinth-of-the-mad-god",

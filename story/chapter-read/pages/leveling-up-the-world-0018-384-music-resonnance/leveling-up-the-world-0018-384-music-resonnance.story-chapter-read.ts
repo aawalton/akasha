@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const levelingUpTheWorld0018384MusicResonnance = {
   id: "01a06731-ae8e-7003-9ea1-afbd5309b19f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0018-384-music-resonnance",
   title: "384. Music Resonnance",
   story: "story-read/leveling-up-the-world",

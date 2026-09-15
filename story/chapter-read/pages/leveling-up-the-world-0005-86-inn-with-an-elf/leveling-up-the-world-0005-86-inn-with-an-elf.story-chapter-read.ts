@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const levelingUpTheWorld000586InnWithAnElf = {
   id: "01a06731-ae89-7005-b16b-e97ad22667e4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0005-86-inn-with-an-elf",
   title: "86. Inn with an Elf",
   story: "story-read/leveling-up-the-world",

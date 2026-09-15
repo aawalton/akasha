@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const levelingUpTheWorld0038846FourthMoonstone = {
   id: "01a06731-ae8f-700b-827d-6c7473edc9d4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0038-846-fourth-moonstone",
   title: "846. Fourth Moonstone",
   story: "story-read/leveling-up-the-world",

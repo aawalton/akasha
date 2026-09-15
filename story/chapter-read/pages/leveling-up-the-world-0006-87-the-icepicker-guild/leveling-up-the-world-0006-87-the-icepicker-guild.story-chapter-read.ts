@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const levelingUpTheWorld000687TheIcepickerGuild = {
   id: "01a06731-ae89-7006-b35c-f7601e7c1235",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0006-87-the-icepicker-guild",
   title: "87. The Icepicker Guild",
   story: "story-read/leveling-up-the-world",

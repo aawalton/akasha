@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const lazyLoopsAnIdleLitrpgOpToArchmage001919Loop0Part19 = {
   id: "01a06731-b0d8-7006-b92f-6f6e3d44b839",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "lazy-loops-an-idle-litrpg-op-to-archmage-0019-19-loop-0-part-19",
   title: "19 Loop 0, Part 19",
   story: "story-read/lazy-loops-an-idle-litrpg-op-to-archmage",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const levelingUpTheWorld0029651VillageMaster = {
   id: "01a06731-ae8f-7002-86b1-ffed9707ced4",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0029-651-village-master",
   title: "651. Village Master",
   story: "story-read/leveling-up-the-world",

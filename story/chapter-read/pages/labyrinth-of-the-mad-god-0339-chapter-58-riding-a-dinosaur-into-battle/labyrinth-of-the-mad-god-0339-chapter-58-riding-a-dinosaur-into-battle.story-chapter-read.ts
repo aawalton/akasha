@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0339Chapter58RidingADinosaurIntoBattle = {
   id: "01a06731-ad8f-7000-95b5-89a83432de51",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0339-chapter-58-riding-a-dinosaur-into-battle",
   title: "Chapter 58: Riding a Dinosaur into Battle",
   story: "story-read/labyrinth-of-the-mad-god",

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0336Chapter55TheMusicOfChildrensVoices = {
   id: "01a06731-ad8d-7007-ab7c-574df97c9dfd",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0336-chapter-55-the-music-of-childrens-voices",
   title: "Chapter 55: The Music of Children’s Voices",
   story: "story-read/labyrinth-of-the-mad-god",

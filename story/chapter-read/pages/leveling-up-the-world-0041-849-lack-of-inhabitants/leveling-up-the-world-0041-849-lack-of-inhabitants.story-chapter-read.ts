@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const levelingUpTheWorld0041849LackOfInhabitants = {
   id: "01a06731-ae8f-700e-b4a8-ddbcd48c0456",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0041-849-lack-of-inhabitants",
   title: "849. Lack of Inhabitants",
   story: "story-read/leveling-up-the-world",

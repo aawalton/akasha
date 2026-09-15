@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0342Chapter62PowerThatSpansTheStars = {
   id: "01a07d43-cdbd-756b-a19d-61651d62a5ee",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0342-chapter-62-power-that-spans-the-stars",
   story: "story-read/labyrinth-of-the-mad-god",
   position: 342,

@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const librarySystemResetOverdueBookFourStubbed0001Chapter1Distortion = {
   id: "01a06731-ae7e-700a-bbb9-9b41f2d61af9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "library-system-reset-overdue-book-four-stubbed-0001-chapter-1-distortion",
   title: "Chapter 1: Distortion",
   story: "story-read/library-system-reset-overdue-book-four-stubbed",

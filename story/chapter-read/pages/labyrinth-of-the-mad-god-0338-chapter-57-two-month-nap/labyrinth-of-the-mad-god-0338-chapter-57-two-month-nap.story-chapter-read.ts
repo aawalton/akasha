@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0338Chapter57TwoMonthNap = {
   id: "01a06731-ad8e-7000-b5d1-1f4ec9120e1f",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0338-chapter-57-two-month-nap",
   title: "Chapter 57: Two-Month Nap",
   story: "story-read/labyrinth-of-the-mad-god",

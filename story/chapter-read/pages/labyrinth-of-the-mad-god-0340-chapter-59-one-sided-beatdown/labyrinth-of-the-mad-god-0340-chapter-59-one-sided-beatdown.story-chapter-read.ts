@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0340Chapter59OneSidedBeatdown = {
   id: "01a06731-ad8f-7001-b0df-ccc714698a4e",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0340-chapter-59-one-sided-beatdown",
   title: "Chapter 59: One-Sided Beatdown",
   story: "story-read/labyrinth-of-the-mad-god",

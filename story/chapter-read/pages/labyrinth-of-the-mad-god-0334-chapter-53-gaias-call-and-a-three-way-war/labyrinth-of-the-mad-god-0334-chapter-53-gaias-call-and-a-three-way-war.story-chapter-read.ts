@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const labyrinthOfTheMadGod0334Chapter53GaiasCallAndAThreeWayWar = {
   id: "01a06731-ad8d-7005-9f7d-61e3a2db7e87",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0334-chapter-53-gaias-call-and-a-three-way-war",
   title: "Chapter 53: Gaia’s Call and a Three-Way War",
   story: "story-read/labyrinth-of-the-mad-god",

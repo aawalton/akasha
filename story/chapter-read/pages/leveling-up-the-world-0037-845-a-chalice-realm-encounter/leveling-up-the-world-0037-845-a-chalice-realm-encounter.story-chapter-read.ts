@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const levelingUpTheWorld0037845AChaliceRealmEncounter = {
   id: "01a06731-ae8f-700a-be59-b71704690b99",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0037-845-a-chalice-realm-encounter",
   title: "845. A Chalice Realm Encounter",
   story: "story-read/leveling-up-the-world",

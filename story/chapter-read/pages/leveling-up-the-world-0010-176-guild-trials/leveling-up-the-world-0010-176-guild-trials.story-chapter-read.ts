@@ -2,7 +2,7 @@ import type { StoryChapterRead } from "akasha/story/chapter-read/story-chapter-r
 
 export const levelingUpTheWorld0010176GuildTrials = {
   id: "01a06731-ae8b-7001-8385-cb093ab504d9",
-  type: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0010-176-guild-trials",
   title: "176. Guild Trials",
   story: "story-read/leveling-up-the-world",
