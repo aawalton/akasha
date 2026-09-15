@@ -28,7 +28,7 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-fold-leaves-a-package-specifier-spelled-as-data-and-nothing-judges-it.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-folder-move-dangles-the-akasha-symlink-because-nothing-in-the-change-repoints-it.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-folder-move-is-held-to-freshness-over-every-file-whose-specifier-it-rewrites.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-folder-move-leaves-a-path-spelled-as-data-stale-and-no-guard-reads-it.finding.ts"}
+{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-folder-move-leaves-a-path-spelled-as-data-stale.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-folder-move-leaves-a-running-writer-appending-to-the-path-it-already-resolved.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-folder-move-respells-the-path-inside-a-message-body-so-the-record-says-what-was-never-said.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-folder-move-rewrites-a-test-fixture-literal-that-names-a-real-path.finding.ts"}
@@ -209,7 +209,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/nine-tellings-arrived-at-once-because-a-persona-with-no-seat-drains-no-inbox.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/nineteen-deploys-refused-on-a-ceiling-the-checks-own-cost-log-says-it-never-nears.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/no-check-watches-the-page-store-and-a-22-hour-outage-surfaced-only-by-accident.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/no-guard-judges-the-folder-a-page-moves-into.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/no-hook-runs-after-a-tool-call-so-a-bash-calls-cost-is-seen-by-nothing.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/no-live-supervisor-matches-the-supervisor-predicate.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/no-memory-limit-the-workstation-holds-is-a-page-property.finding.ts"}
@@ -223,7 +222,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/nothing-but-the-agent-surfaces-a-check-bypass-that-agent-took.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/nothing-checks-that-a-service-reaches-its-own-page-by-slug.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/nothing-has-ever-kept-a-location-trace.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/nothing-in-a-move-excludes-a-generated-body-and-the-guard-that-refused-one-is-gone.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/nothing-local-tells-a-kept-checkout-from-a-discarded-one.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/nothing-records-what-a-landing-was-composed-against.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/one-as-json-now-stands-behind-a-sound-cast-and-an-unchecked-one.finding.ts"}

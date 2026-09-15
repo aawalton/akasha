@@ -11,7 +11,7 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-fence-that-keeps-its-newline-refuses-as-though-the-body-had-moved.finding.ts","id":"01a08886-2a5f-7c15-a047-8f2314a85b01"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-fold-leaves-a-package-specifier-spelled-as-data-and-nothing-judges-it.finding.ts","id":"01a08908-45b6-7950-95db-0daed0db41c3"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-is-held-to-freshness-over-every-file-whose-specifier-it-rewrites.finding.ts","id":"01a08cc4-bff7-7cbb-845a-3bf9519bba32"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-leaves-a-path-spelled-as-data-stale-and-no-guard-reads-it.finding.ts","id":"01a08864-af81-7f30-ab3b-00862757bc03"}
+{"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-leaves-a-path-spelled-as-data-stale.finding.ts","id":"01a08864-af81-7f30-ab3b-00862757bc03"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-leaves-a-running-writer-appending-to-the-path-it-already-resolved.finding.ts","id":"01a095f4-f451-7783-a5e4-3784ffd267fe"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-respells-the-path-inside-a-message-body-so-the-record-says-what-was-never-said.finding.ts","id":"01a095e9-b047-7ef0-991d-4ac9167cd5a9"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-rewrites-a-test-fixture-literal-that-names-a-real-path.finding.ts","id":"01a092e1-8c1c-758d-a953-aa238b449db3"}
@@ -42,7 +42,6 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/landing-a-manifest-under-akasha-was-seen-to-overwrite-the-root-manifest.finding.ts","id":"01a06471-8a2f-7000-b6c4-3d05e8a71b29"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/landing-concurrency-needs-a-read-set.finding.ts","id":"01a04fc9-9152-7cc7-b6ab-d0ec7eef28db"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/move-code-export-carries-the-imports-a-declaration-names-and-not-the-siblings-it-names.finding.ts","id":"01a08cbf-bb93-7c32-b7ca-04142ca15a28"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/nothing-in-a-move-excludes-a-generated-body-and-the-guard-that-refused-one-is-gone.finding.ts","id":"01a0961d-8bc0-7c9c-8033-970dd743b1e4"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/nothing-records-what-a-landing-was-composed-against.finding.ts","id":"01a0950d-13fb-73b1-9a9c-fb993346f20f"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/taking-a-file-property-value-off-a-page-leaves-its-file-behind.finding.ts","id":"01a08775-2220-76c0-a026-1efb9b2e4895"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-act-moving-a-record-into-place-is-built-and-reached-by-nothing.finding.ts","id":"01a09522-2f78-79d4-a9c9-1b03d84eab85"}
