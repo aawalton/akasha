@@ -2,7 +2,7 @@ import type { Finding } from "akasha/domain/finding/finding.page-type.types.ts"
 
 export const aFolderShapeCannotBeLoadedInTheChangeThatWritesItsCode = {
   id: "01a0a5c5-2740-7003-8f04-ac1ab7a0126c",
-  type: "finding",
+  type: "page-type/finding",
   slug: "a-folder-shape-cannot-be-loaded-in-the-change-that-writes-its-code",
   domain: "page-type/change",
   claim:
