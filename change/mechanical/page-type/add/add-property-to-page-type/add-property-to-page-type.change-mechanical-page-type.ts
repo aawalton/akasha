@@ -60,6 +60,23 @@ export const addPropertyToPageType = {
       statement: "A page type stating that property already is refused by its path.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A property another page type declares holding one is refused here holding many, and the reverse.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal is answered before the path is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal names those page types, what they hold, and the act that turns it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A property another page type declares the same way is declared here.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No rung beneath is reached.",
     },

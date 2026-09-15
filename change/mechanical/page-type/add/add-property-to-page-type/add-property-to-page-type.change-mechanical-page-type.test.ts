@@ -63,11 +63,17 @@ type Holding = {
   readonly sorted?: boolean
   readonly path?: string
   readonly body?: string
+  readonly elsewhere?: ReadonlyMap<string, boolean>
+}
+
+function carriedFor(slug: string, many: boolean): unknown {
+  return { pagePropertySlug: "sung-at", pageTypeSlug: "moot-property", declaredBy: slug, many }
 }
 
 function worldFor(holding: Holding = {}): World {
   const body = holding.body ?? BODY
   const path = holding.path ?? PROPERTY_AT
+  const elsewhere = holding.elsewhere ?? new Map<string, boolean>()
   const shapes = new Map<string, Shape>([
     ["relation-property/parts", shaped(holding.sorted === true)],
   ])
@@ -77,6 +83,11 @@ function worldFor(holding: Holding = {}): World {
       listedAt: () => (holding.listed === false ? [] : [{ path, id: path }]),
       pageByPath: () => (holding.owner === false ? null : { slug: "moot" }),
       shapesAt: () => shapes,
+      pageTypesIn: () => new Set(elsewhere.keys()),
+      propertiesOf: (slug: string) => {
+        const many = elsewhere.get(slug)
+        return many === undefined ? [] : [carriedFor(slug, many)]
+      },
     } as never,
     textOf: () => body,
     bodyOf: () => body,
@@ -202,4 +213,65 @@ test("no rung beneath is reached", () => {
 
   expect(said.refused).toBeNull()
   expect(REACHED).toEqual([])
+})
+
+test("a property another page type declares holding one is refused here holding many", () => {
+  const said = addPropertyToPageType(worldFor({ elsewhere: new Map([["gathering", false]]) }), {
+    at: AT,
+    property: PROPERTY,
+    required: false,
+    many: true,
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("`gathering` declares `moot-property/sung-at` holding one")
+})
+
+test("a property another page type declares holding many is refused here holding one", () => {
+  const said = addPropertyToPageType(worldFor({ elsewhere: new Map([["gathering", true]]) }), {
+    at: AT,
+    property: PROPERTY,
+    required: false,
+    many: false,
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("`gathering` declares `moot-property/sung-at` holding many")
+})
+
+test("that refusal names those page types, what they hold, and the act that turns it", () => {
+  const said = addPropertyToPageType(
+    worldFor({
+      elsewhere: new Map([
+        ["gathering", true],
+        ["revel", true],
+      ]),
+    }),
+    { at: AT, property: PROPERTY, required: false, many: false }
+  )
+
+  expect(said.refused ?? "").toContain("`gathering` and `revel` declare")
+  expect(said.refused ?? "").toContain("holding many")
+  expect(said.refused ?? "").toContain("`change-property-on-page-type`")
+})
+
+test("that refusal is answered before the path is read", () => {
+  const said = addPropertyToPageType(
+    worldFor({ owner: false, elsewhere: new Map([["gathering", true]]) }),
+    { at: AT, property: PROPERTY, required: false, many: false }
+  )
+
+  expect(said.refused ?? "").toContain("`gathering`")
+})
+
+test("a property another page type declares the same way is declared here", () => {
+  const body = bodyFor({ elsewhere: new Map([["gathering", false]]) })
+
+  expect(body).toContain(`pageProperty: "${PROPERTY}"`)
+})
+
+test("a property no page type declares elsewhere is declared here", () => {
+  const body = bodyFor({ elsewhere: new Map() })
+
+  expect(body).toContain(`pageProperty: "${PROPERTY}"`)
 })
