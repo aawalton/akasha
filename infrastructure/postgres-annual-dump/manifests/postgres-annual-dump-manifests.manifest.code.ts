@@ -1,12 +1,13 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { synthCronjob } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { postgresAnnualDump } from "akasha/infrastructure/service/cluster/pages/postgres-annual-dump/postgres-annual-dump.service-cluster.ts"
 
-const NAMESPACE = "postgres"
+const NAMESPACE = postgresAnnualDump.namespace
 
-const ANNUAL_DUMP_IMAGE = "registry.registry.svc.cluster.local:5000/cluster/postgres-annual-dump:r1"
+const ANNUAL_DUMP_IMAGE = postgresAnnualDump.image
 
 const LABELS = {
-  "app.kubernetes.io/name": "postgres-annual-dump",
+  "app.kubernetes.io/name": postgresAnnualDump.resourceName,
   "app.kubernetes.io/instance": "postgres",
   "app.kubernetes.io/component": "annual-dump",
   "app.kubernetes.io/part-of": "postgres",
@@ -22,7 +23,7 @@ function cronjobYaml(): string {
     apiVersion: "batch/v1",
     kind: "CronJob",
     metadata: {
-      name: "postgres-annual-dump",
+      name: postgresAnnualDump.resourceName,
       namespace: NAMESPACE,
       labels: LABELS,
     },
