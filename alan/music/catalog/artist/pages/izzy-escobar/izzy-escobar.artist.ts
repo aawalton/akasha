@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const izzyEscobar = {
   id: "01a06803-676b-7016-9f04-01fd94a93f0c",
-  type: "artist",
+  type: "page-type/artist",
   slug: "izzy-escobar",
   ownLength: 0,
   ownProgress: 0,

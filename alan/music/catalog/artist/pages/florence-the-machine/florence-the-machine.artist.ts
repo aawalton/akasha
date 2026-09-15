@@ -2,7 +2,7 @@ import type { Artist } from "akasha/alan/music/catalog/artist/artist.page-type.t
 
 export const florenceTheMachine = {
   id: "01a06803-676b-7010-814c-1bf9cae3ee99",
-  type: "artist",
+  type: "page-type/artist",
   slug: "florence-the-machine",
   ownLength: 0,
   ownProgress: 0,
